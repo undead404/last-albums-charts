@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:37:01.421Z
+date: 2021-04-10T15:24:01.410Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -41,9 +41,6 @@ Blue Cheer - Vincebus Eruptum (1968-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/36205485-616a-4eb2-a109-c86de5eb5db6/1338198895-500.jpg" data-tags="blues rock" role="button">
-Jeff Beck - Truth (1968-08)
 </li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
@@ -305,6 +302,9 @@ The Black Keys - Little Black Submarines (2012-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2410cedd-3a9e-4822-8acf-158542f367ea/2745548084-500.jpg" data-tags="blues, blues rock, warner music, hotwire unlimited" role="button">
 Gary Clark Jr. - Blak and Blu (2012-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">
+Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

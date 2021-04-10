@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:50:01.404Z
+date: 2021-04-10T15:36:01.403Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -60,14 +60,14 @@ Nick Drake - Bryter Layter (1970-11)
 <li data-cover="http://coverartarchive.org/release/3e5d53c1-dad9-364a-85a6-ac21a4558297/8790969277-500.jpg" data-tags="singer-songwriter, chamber pop, baroque pop" role="button">
 Colin Blunstone - One Year (1971)
 </li>
+<li data-cover="https://img.discogs.com/dBjr4eRodC_8Arxa4xEWuJow38s=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-776417-1161724004.jpeg.jpg" data-tags="van dyke parks, steel pan" role="button">
+Van Dyke Parks - Discover America (1972)
+</li>
 <li data-cover="http://coverartarchive.org/release/89355b1f-40af-339d-b873-bfff6c53a3e8/10012036324-500.jpg" data-tags="70s" role="button">
 John Cale - Paris 1919 (1973-03)
 </li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/c435a09a-8d49-4f92-8893-ede5789fa065/15622941753-500.jpg" data-tags="60s, pop" role="button">
-David Bowie - David Bowie (1979)
 </li>
 <li data-cover="https://img.discogs.com/Rgylx2szfSezdFhgUD4oHZBLrtM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10194886-1494952151-2414.jpeg.jpg" data-tags="baroque pop" role="button">
 Scott Walker - Sings Jacques Brel (1981)
@@ -104,6 +104,9 @@ Jim O'Rourke - Eureka (1999-02-10)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e26ba6ac-55c5-3179-be0c-10a5bb782f38/15873607126-500.jpg" data-tags="indie rock, baroque pop, noise pop" role="button">
+Preston School of Industry - All This Sounds Gas (2001-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
@@ -281,9 +284,6 @@ Stars - The North (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
-</li>
-<li data-cover="https://img.discogs.com/fAQ--rjzEE7tN0B6-EhbPGOjKKY=/fit-in/567x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4034684-1353068033-4196.jpeg.jpg" data-tags="british, chamber, chamber pop, cabaret" role="button">
-The Irrepressibles - Nude (2012-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
 Woodkid - The Golden Age (2013-03-14)

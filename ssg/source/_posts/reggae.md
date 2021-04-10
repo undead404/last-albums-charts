@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:59:01.439Z
+date: 2021-04-10T15:05:01.439Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -138,14 +138,14 @@ Bob Marley - Natural Mystic (1999)
 <li data-cover="http://coverartarchive.org/release/d151bfb4-b837-4e34-a75b-96112e0f5d68/4144802279-500.jpg" data-tags="classic rock, reggae, roots reggae, lion, bmtribute" role="button">
 Bob Marley & The Wailers - Natural Mystic (1999-09-15)
 </li>
-<li data-cover="https://img.discogs.com/BOVm2LL9AWwaxhS-ebRuyVisVcY=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602393-1137205374.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
-311 - Soundsystem (1999-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/89d58ec8-ece2-36ce-95de-b3216f096438/5134560010-500.jpg" data-tags="reggae, dancehall" role="button">
 Shaggy - Hot Shot (2000-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/86b1f03a-52fe-3846-b0e4-7109ec1bc9fd/7455522854-500.jpg" data-tags="reggae" role="button">
 UB40 - The Very Best of UB40 1980-2000 (2000-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/7aa1aa75-7ca4-3e91-a34d-ab85cc1c3cd8/10092064156-500.jpg" data-tags="reggae" role="button">
+Jan Delay - Searching for the Jan Soul Rebels (2001-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">
 Seeed - New Dubby Conquerors (2001-05-21)

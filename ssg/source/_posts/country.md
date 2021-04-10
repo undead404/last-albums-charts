@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:08:01.474Z
+date: 2021-04-10T15:30:01.528Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -128,6 +128,9 @@ Brooks & Dunn - The Very Best Of Brooks & Dunn (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a71ae89-00c5-442b-805b-1485e35bf405/3682341498-500.jpg" data-tags="country" role="button">
 Kenny Chesney - When The Sun Goes Down (2004-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/8568a76b-6b83-36e8-a6d2-a0d0d6fcdff7/4106992170-500.jpg" data-tags="country" role="button">
+Gretchen Wilson - Here for the Party (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bfcd40-b086-41f7-83d7-786fbbb3c99b/26696949744-500.jpg" data-tags="country" role="button">
 Keith Urban - Be Here (2004-09-21)
@@ -293,9 +296,6 @@ Luke Bryan - Tailgates & Tanlines (2011-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/86361ce7-5796-45fa-bfc8-12466eca97f9/14557626300-500.jpg" data-tags="country" role="button">
 Jake Owen - Barefoot Blue Jean Night (2011-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">
-Ryan Adams - Ashes & Fire (2011-09-11)
 </li>
 <li data-cover="https://img.discogs.com/-AaM238cQ-tI0TXoRWXfVNZhdHw=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9519370-1484442560-7043.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Own the Night (2011-09-13)

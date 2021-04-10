@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:55:01.395Z
+date: 2021-04-10T15:01:06.870Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -11,7 +11,7 @@ title: "melodic hardcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
 <li data-cover="http://coverartarchive.org/release/d30fc218-4362-49f0-9a2e-598591fd4849/15102934284-500.jpg" data-tags="metalcore, melodic hardcore" role="button">For the Fallen Dreams - Changes (2008-01-08)</li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
-<li data-cover="http://coverartarchive.org/release/d2c866fb-356d-4d5c-a1f3-6ad8e0695e3e/3370165259-500.jpg" data-tags="pop punk, melodic hardcore" role="button">Title Fight - The Last Thing You Forget (2009-07-01)</li>
+<li data-cover="http://coverartarchive.org/release/b4333310-ad10-4036-aacc-7f66c177d840/25544352121-500.jpg" data-tags="pop punk" role="button">Four Year Strong - Enemy of the World (2010-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/3b4383f9-d5eb-4cfa-9f89-9eff909c5008/2100804508-500.jpg" data-tags="punk rock" role="button">Rise Against - Endgame (2011-03-11)</li>
 <li data-cover="http://coverartarchive.org/release/13c203d1-c159-4cf1-b841-dbd580afb5d5/7635854563-500.jpg" data-tags="melodic hardcore, punk rock" role="button">Rise Against - The Black Market (2014-07-11)</li>
 </ol>
@@ -120,6 +120,12 @@ Have Heart - What Counts (2004-10-15)
 <li data-cover="https://img.discogs.com/lHgIf8qkkgfvpEYMx1B7b0Tkc14=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146361-1195852068.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Strung Out - Exile In Oblivion (2004-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
+He Is Legend - I Am Hollywood (2004-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/144b4ae6-5393-4351-8513-ec3b551f8ab8/15528192454-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
+Strike Anywhere - To Live In Discontent (2005-01-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/0dc65026-cbb4-4319-b83d-ba812a445e8c/3376078822-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Wake The Dead (2005-02-28)
 </li>
@@ -146,6 +152,9 @@ None More Black - This Is Satire (2006-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a373a0c-6529-4a1f-94f7-95bd49ee80e4/15045824943-500.jpg" data-tags="melodic hardcore" role="button">
 Ignite - Our Darkest Days (2006-05-15)
+</li>
+<li data-cover="https://img.discogs.com/73U-w7FAtiywrk_hQhIh_jGbbGg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16231998-1610142155-7125.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
+Silverstein - 18 Candles: The Early Years (2006-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a57a899-94bc-4202-a0b4-fd50040851fd/12733575352-500.jpg" data-tags="punk rock" role="button">
 Good Riddance - My Republic (2006-06-27)
@@ -210,9 +219,6 @@ As Cities Burn - Hell Or High Water (2009-03)
 <li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2c866fb-356d-4d5c-a1f3-6ad8e0695e3e/3370165259-500.jpg" data-tags="pop punk, melodic hardcore" role="button">
-Title Fight - The Last Thing You Forget (2009-07-01)
-</li>
 <li data-cover="https://img.discogs.com/xK2Vjtlu9FFiVQaIFctHEYf396k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2710888-1344803766-1908.jpeg.jpg" data-tags="pop punk" role="button">
 Set Your Goals - This Will Be The Death of Us (2009-07-20)
 </li>
@@ -224,9 +230,6 @@ For the Fallen Dreams - Relentless (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36d023f-1604-4a57-a702-b574aa5f504c/3350514175-500.jpg" data-tags="punk rock, post-hardcore, melodic hardcore" role="button">
 Polar Bear Club - Chasing Hamburg (2009-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b909efc1-65f5-4bc9-bf95-5ab44e2eb62c/3366419405-500.jpg" data-tags="hardcore" role="button">
-Defeater - Lost Ground (2009-11-17)
 </li>
 <li data-cover="https://img.discogs.com/Nw2anYZg5rOL-8YMkx4NwY8A2Rk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854108-1304080766.jpeg.jpg" data-tags="melodic hardcore" role="button">
 Such Gold - Pedestals (2010)
@@ -299,9 +302,6 @@ Citizen - Youth (2013-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f1a71e-34a8-45d9-b905-a40a798ac01d/7682599038-500.jpg" data-tags="melodic hardcore, hardcore" role="button">
 Counterparts - The Difference Between Hell and Home (2013-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/310d5ce9-d7ed-477f-91d1-925520277f10/8198781351-500.jpg" data-tags="melodic hardcore, hardcore punk, punk rock" role="button">
-Rise Against - Long Forgotten Songs: B-Sides & Covers 2000-2013 (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6afc741b-9e0b-4f82-9851-8491452bb882/7211902188-500.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Being As An Ocean - How We Both Wondrously Perish (2014-05-06)

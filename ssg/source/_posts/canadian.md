@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:16:06.884Z
+date: 2021-04-10T15:34:01.428Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Leonard Cohen - Songs of Love and Hate (1971)
-</li>
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
 </li>
@@ -65,6 +62,9 @@ Barenaked Ladies - Stunt (1998-07-07)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c450cc8-b64a-438b-ba54-a12aefc46736/21731034338-500.jpg" data-tags="90s, pop" role="button">
+Len - You Can't Stop The Bum Rush (1999-05-25)
 </li>
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
@@ -140,9 +140,6 @@ Hot Hot Heat - Elevator (2005-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e53c7839-9e1e-4952-b8bc-df22253b4b62/16062788098-500.jpg" data-tags="canadian" role="button">
 Wolf Parade - Wolf Parade (2005-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/6ef93fc8-79d2-411e-a999-a2bc1a310f5b/6514416116-500.jpg" data-tags="pop" role="button">
-Daniel Powter - Daniel Powter (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
@@ -246,6 +243,9 @@ Japandroids - Post-Nothing (2009-04-28)
 <li data-cover="http://coverartarchive.org/release/3256f5bb-0bb1-4ac4-b581-43803afd0573/18799589016-500.jpg" data-tags="indie rock, rock" role="button">
 Sunset Rubdown - Dragonslayer (2009-06-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
+Desire - II (2009-06-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/feefbeb7-79eb-4a0d-a215-04990a186465/28888010781-500.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent III (2009-07-10)
 </li>
@@ -276,6 +276,9 @@ Mother Mother - Eureka (2011-03-15)
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
+Dirty Beaches - Badlands (2011-03-29)
+</li>
 <li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)
 </li>
@@ -302,9 +305,6 @@ Metric - Synthetica (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:07:01.519Z
+date: 2021-04-10T14:47:06.885Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")

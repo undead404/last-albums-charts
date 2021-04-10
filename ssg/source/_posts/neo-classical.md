@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:47:12.798Z
+date: 2021-04-10T15:08:01.410Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
 ![Arcana - Dark Age of Reason (1996)](http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg "Arcana - Dark Age of Reason (1996)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/pYnWoEW60oQ8jHHW3T6sqdkG7TA=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4583179-1369072733-8009.jpeg.jpg" data-tags="progressive rock, art rock" role="button">
 Procol Harum - Grand Hotel (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/fa722e7c-a4b6-49b2-9033-52c2c49208f0/4889745374-500.jpg" data-tags="contemporary instrumental" role="button">
-Ray Lynch - Deep Breakfast (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/24f86bde-4c00-4395-8de9-0b5495dec619/15902883312-500.jpg" data-tags="electronic" role="button">
 Vangelis - Mask (1985)
@@ -66,6 +63,9 @@ Stars of the Lid - The Ballasted Orchestra (1996)
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical" role="button">
 Xytras - Passage (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/e9c80d1e-ff57-4f9f-a9f1-917f998df883/1802519676-500.jpg" data-tags="dark ambient" role="button">
+Raison D'Être - Reflections from the Time of Opening (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/b296dcec-6745-42a3-81df-f933af14f689/1983167735-500.jpg" data-tags="dark folk, neo-classical, neoclassical, ethereal wave" role="button">
 Amber Asylum - The Natural Philosophy of Love (1997-05-13)
 </li>
@@ -102,8 +102,8 @@ At Vance - Dragonchaser (2001-04-21)
 <li data-cover="http://coverartarchive.org/release/34c3edd6-5f61-4f08-b279-df27cc37e2e4/2026082057-500.jpg" data-tags="neoclassical" role="button">
 Ashram - Ashram (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/a90fcbea-f149-48c8-be31-9482b414b245/1748384200-500.jpg" data-tags="dark ambient, neoclassical, ambient, ethereal, gothic" role="button">
-Arcana - Inner Pale Sun (2002-12-08)
+<li data-cover="https://img.discogs.com/IVc8t3EULzNZX7y9GlPN_Ltb_KQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4442997-1476808209-8807.jpeg.jpg" data-tags="neo-classical metal" role="button">
+Time Requiem - Time Requiem (2002-11-18)
 </li>
 <li data-cover="https://img.discogs.com/68iVyMUGjqVVZ2bE5w6WrfSJP8E=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-388015-1106728407.jpg.jpg" data-tags="ambient, electronic, atmospheric ambient" role="button">
 Max Corbacho - Nocturnal Emanations (2003)
@@ -155,9 +155,6 @@ Ophelia's Dream - Not A Second Time (2004-11-12)
 </li>
 <li data-cover="https://img.discogs.com/jJpqTTwjlEr3rjQ2WbYCmlbuJ9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963401-1376031707-9511.jpeg.jpg" data-tags="ethereal, dark folk, neo-classical, neo folk" role="button">
 Corde Oblique - Respiri (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/284872c2-e45f-48e1-a566-e8dfc2e4c7b8/9147489086-500.jpg" data-tags="steampunk" role="button">
-Abney Park - The Death of Tragedy (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d4cd2a6-512c-4e8c-b1ae-90849561d3f5/1828444102-500.jpg" data-tags="ethereal, neoclassical" role="button">
 All My Faith Lost ... - As You're Vanishing In Silence (2005-02-12)
@@ -305,6 +302,9 @@ Locrian & Mamiffer - Bless Them That Curse You (2012-03)
 </li>
 <li data-cover="https://img.discogs.com/sCaVJYrUa0PQCmuxXEXAAXf_x_E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4976767-1391020436-7146.jpeg.jpg" data-tags="post-rock, neo-classical, relaxing piano, qlencja relax selection" role="button">
 Sebastian Plano - Impetus (2013)
+</li>
+<li data-cover="https://img.discogs.com/07jma2MhB5EwOCCMKp5hZckq098=/fit-in/600x664/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4708714-1603892355-6326.jpeg.jpg" data-tags="chamber metal" role="button">
+Coppelius - Extrablatt (2013-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c64c801-d0de-4471-857b-02864f5d9372/10530629973-500.jpg" data-tags="folk, gothic, darkwave, celtic" role="button">
 Adrian Von Ziegler - Feather and Skull (2013-05-05)

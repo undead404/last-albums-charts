@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:40:01.433Z
+date: 2021-04-10T14:50:01.401Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -32,6 +32,9 @@ Atheist - Unquestionable Presence (1991-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
+</li>
+<li data-cover="https://img.discogs.com/b4lzcfHekEa2TarJFo3bw6Y7drY=/fit-in/525x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1653973-1320397322.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+Demilich - Nespithe (1993-02-08)
 </li>
 <li data-cover="https://img.discogs.com/_WBMD258Vu8lOUil5yF1zBmivq8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754668-1615550753-3053.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Individual Thought Patterns (1993-06-22)
@@ -105,9 +108,6 @@ Meshuggah - Rare Trax (2001)
 <li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b14c7eeb-8aea-3355-b098-329379366fed/18251365994-500.jpg" data-tags="death metal, progressive metal, progressive death metal" role="button">
-Gojira - Terra Incognita (2001-03-19)
-</li>
 <li data-cover="https://img.discogs.com/5xBkjs9_H7qcUcVCSFd9pfAbu7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654747-1285957481.jpeg.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Nothing (2002-08-06)
 </li>
@@ -135,6 +135,9 @@ Disillusion - Back To Times of Splendor (2004-04-05)
 <li data-cover="http://coverartarchive.org/release/6fd013d6-d481-45fe-8746-e99de6cd6aeb/6127775279-500.jpg" data-tags="technical death metal" role="button">
 Necrophagist - Epitaph (2004-08-03)
 </li>
+<li data-cover="https://img.discogs.com/B-gtDafGTXJosxXNOmdbnQKa3ls=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820390-1265235936.jpeg.jpg" data-tags="melodic death metal, technical death metal" role="button">
+Quo Vadis - Defiant Imagination (2004-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/57af609b-0e67-39c0-ba78-6002f0681018/3089176096-500.jpg" data-tags="melodic death metal" role="button">
 Scar Symmetry - Symmetric in Design (2005-02-07)
 </li>
@@ -155,6 +158,12 @@ Cryptopsy - Once Was Not (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ab50207-be9d-4a21-a1bc-0b23e0984acd/16972065596-500.jpg" data-tags="progressive metal" role="button">
 Textures - Drawing Circles (2006-04-17)
+</li>
+<li data-cover="https://img.discogs.com/Q9QI5NeJTC_IAIzzKO5dnG2CgwI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1182813-1578791442-3897.jpeg.jpg" data-tags="melodic death metal" role="button">
+Disarmonia Mundi - Mind Tricks (2006-06-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, industrial metal, metal" role="button">
+Strapping Young Lad - The New Black (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
@@ -207,9 +216,6 @@ Obscura - Cosmogenesis (2009-02-17)
 <li data-cover="http://coverartarchive.org/release/00f54cea-1fc2-470a-a898-ebda5038d156/23171911166-500.jpg" data-tags="death metal, technical death metal" role="button">
 Ulcerate - Everything Is Fire (2009-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/09105888-696a-48f6-8b5d-c5c133889d9c/27059260182-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
-Hacride - Lazarus (2009-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7f968d9-6c7e-453a-960c-42bf971ed847/2272307732-500.jpg" data-tags="technical death metal" role="button">
 Gorod - Process of a New Decline (2009-06-01)
 </li>
@@ -251,6 +257,9 @@ Atheist - Jupiter (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/dnQ8QdfQTs7pw05T-zB6DXIZ8Lk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811868-1526357355-6120.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Obscura - Omnivium (2011-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ded68b3-fe23-43dc-8d84-2fb25c343c47/7574751526-500.jpg" data-tags="progressive death metal" role="button">
+Becoming the Archetype - Celestial Completion (2011-03-29)
 </li>
 <li data-cover="https://img.discogs.com/rYU-6dj5pAiZDqP8E5_lczfZlaA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3214919-1320792509.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Beyond Creation - The Aura (2011-04-12)
@@ -294,26 +303,17 @@ Black Crown Initiate - Song of the Crippled Bull (2013-07-17)
 <li data-cover="http://coverartarchive.org/release/0fbd6978-4ba0-4f1f-b1fb-1ef7fb9eefd5/10787189786-500.jpg" data-tags="death metal, technical death metal, avant-garde death metal, progressive death metal" role="button">
 Gorguts - Colored Sands (2013-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/f0e20ebd-3ce5-42e5-8797-fca69574300a/27189639979-500.jpg" data-tags="progressive metalcore" role="button">
-After the Burial - Wolves Within (2013-12-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/225e94a4-d36a-4b13-b938-f9caa61f40ee/7183796604-500.jpg" data-tags="progressive death metal" role="button">
 Morbus Chron - Sweven (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b33e3a3-943c-4ae1-8882-2265e9812099/6419938844-500.jpg" data-tags="doom metal, melodic death metal, dutch, underground, progressive death metal, debut, blackened death metal, melodic black metal, atmospheric black metal, progressive black metal" role="button">
 Shylmagoghnar - Emergence (2014-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/95e71ac6-25cf-4c8e-be77-c92e7819231d/9345836795-500.jpg" data-tags="progressive death metal" role="button">
-Conquering Dystopia - Conquering Dystopia (2014-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5740231-c9aa-4048-a1ed-14a331f15899/15532601143-500.jpg" data-tags="death metal, live, progressive death metal, gojira, 10 out of 10" role="button">
 Gojira - Les Enfants Sauvages (2014-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5d20b10-6b85-4a9f-8e6c-f35d9e6fe774/7917993419-500.jpg" data-tags="progressive death metal" role="button">
 Fallujah - The Flesh Prevails (2014-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/29c050c9-ee56-4521-9be5-07ea1be744d8/8501930180-500.jpg" data-tags="progressive death metal" role="button">
-Black Crown Initiate - The Wreckage of Stars (2014-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdcd8425-6d2b-4dac-9a70-f26b1061d551/8366529590-500.jpg" data-tags="progressive metal" role="button">
 Ne Obliviscaris - Citadel (2014-11-07)

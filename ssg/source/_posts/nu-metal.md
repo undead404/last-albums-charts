@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:44:01.437Z
+date: 2021-04-10T14:49:01.473Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -147,9 +147,6 @@ Linkin Park - Meteora (2003-03-24)
 <li data-cover="https://img.discogs.com/MXhvvXsG1UpZ6XSRVwaaL4ZTDKI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1532354-1226519374.jpeg.jpg" data-tags="alternative metal" role="button">
 Nothingface - Skeletons (2003-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
-Staind - 14 Shades of Grey (2003-05-19)
-</li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
 </li>
@@ -198,6 +195,9 @@ Flaw - Endangered Species (2004-05-04)
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
 </li>
+<li data-cover="https://img.discogs.com/PWBj5q3PulNBrvHYms2IN19jTuY=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5563883-1396656929-5666.jpeg.jpg" data-tags="alternative rock, nu-metal" role="button">
+Modern Day Zero - Coming Up For Air (2004-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
 </li>
@@ -215,6 +215,9 @@ Cold - A Different Kind of Pain (2005-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
+Deftones - B-Sides & Rarities (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Greatest Hitz (2005-11-04)
@@ -236,9 +239,6 @@ Adema - Kill the Headlights (2007-06-26)
 </li>
 <li data-cover="https://img.discogs.com/B8R-CkWTVPLzuUN4pVvS1IXAy8k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698892-1480035733-6881.jpeg.jpg" data-tags="nu metal" role="button">
 Korn - Untitled (2007-07-30)
-</li>
-<li data-cover="https://img.discogs.com/ZhQYZNaN7UUL_XyB1OxgNoc2Nkw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104116-1346692909-8946.jpeg.jpg" data-tags="metalcore, djent, melodic death metal, alternative metal, industrial metal, nu metal, nu-metal, modern metal, absolute design" role="button">
-Engel - Absolute Design (2007-11-02)
 </li>
 <li data-cover="https://img.discogs.com/bH8FjpNSiQ8z68Exh_qw33Gz17o=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2964350-1399285931-8605.jpeg.jpg" data-tags="nu-metal, russian alternative" role="button">
 Слот - Тринити (2007-11-18)

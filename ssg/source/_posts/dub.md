@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:49:01.395Z
+date: 2021-04-10T15:38:06.993Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -42,6 +42,9 @@ Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
 <li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
 Gregory Isaacs - Night Nurse (1982)
 </li>
+<li data-cover="http://coverartarchive.org/release/9853cab8-4aab-4eab-89b9-f15a451b1483/8914627228-500.jpg" data-tags="izrael" role="button">
+Izrael - Nabij Faje (1986)
+</li>
 <li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
@@ -75,8 +78,8 @@ Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
 <li data-cover="http://coverartarchive.org/release/fb8647ff-066b-4e9e-b9b0-791f39bcfa13/4530526778-500.jpg" data-tags="dub, chill" role="button">
 Tosca - Fuck Dub (1997-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/70eabfa6-e06a-4dbb-8e51-c84fc6e77dae/15081827680-500.jpg" data-tags="electronic" role="button">
-Asian Dub Foundation - Rafi's Revenge (1998-05-08)
+<li data-cover="http://coverartarchive.org/release/683c5a6a-8917-42b0-8000-fa3f430c321e/4455009849-500.jpg" data-tags="dub" role="button">
+Primal Scream - Echo Dek (1997-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/90ed1872-bc4c-4717-8705-dafae22ee15d/8666209623-500.jpg" data-tags="dub" role="button">
 Dub Pistols - Point Blank (1998-10-05)
@@ -147,9 +150,6 @@ Bad Brains - I & I survived (dub) (2002-11-26)
 <li data-cover="http://coverartarchive.org/release/78e9cf95-993f-4539-83d2-9372465cc03b/5582287019-500.jpg" data-tags="dub, trip-hop" role="button">
 EZ3kiel - Barb4ry (2003-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c51d061-6a91-438f-925d-35e499d23a49/17933370289-500.jpg" data-tags="electronic, dub" role="button">
-Asian Dub Foundation - Enemy Of The Enemy (2003-02-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
@@ -171,11 +171,14 @@ Thievery Corporation - Babylon Rewound (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/394616df-4fa3-4799-a354-933063050392/4289639683-500.jpg" data-tags="dub, reggae" role="button">
 Groundation - Dub Wars (2005-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1c56ca37-f14c-4e38-9448-38e0a12e745b/21314526758-500.jpg" data-tags="dub" role="button">
+Rhythm & Sound - See Mi Yah (2005-01-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
+Roots Manuva - Awfully Deep (2005-01-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/d96527fa-899f-42c1-b751-ec1314b81f1b/10125609916-500.jpg" data-tags="trip-hop, indie" role="button">
 Death in Vegas - Milk It (2005-02-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/761a55cd-0505-4874-9fdc-bb711e8643c8/6755037078-500.jpg" data-tags="electronic, dub, drum and bass" role="button">
-Asian Dub Foundation - Tank (2005-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
@@ -192,11 +195,11 @@ Fat Freddy's Drop - Based on a True Story (2005-05)
 <li data-cover="http://coverartarchive.org/release/f5e76ae6-1a5a-3eb9-8e0a-3e7588e16496/4812030096-500.jpg" data-tags="dub, ska, indie rock" role="button">
 The Dead 60s - The Dead 60s (2005-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/fc22cc6e-e0d0-39f3-8b60-74e6c55cd4da/1763401779-500.jpg" data-tags="reggae" role="button">
+Dub Incorporation - Dans le décor (2005-08-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, ska, dub reggae, roots, jamband, indierock, jbb" role="button">
 10 Ft. Ganja Plant - Bass Chalice (2005-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a6d6b9b-02f8-413c-a672-9bbe535b36d8/14936523706-500.jpg" data-tags="rnb, hip-hop" role="button">
-Mattafix - Signs of a Struggle (2005-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e516e3ab-4dd8-44ab-a501-3d5b917f74be/4585299145-500.jpg" data-tags="ambient" role="button">
 Bluetech - Sines and Singularities (2005-12-05)
@@ -204,11 +207,11 @@ Bluetech - Sines and Singularities (2005-12-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Long Beach Shortbus - Flying Ship of Fantasy (2006)
 </li>
+<li data-cover="https://img.discogs.com/7hBvtSGXXfpx63GGx4RykOdukKI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819892-1428613859-2436.jpeg.jpg" data-tags="dub, fusion" role="button">
+Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
+</li>
 <li data-cover="https://img.discogs.com/lguPJnH5Khsos0mzOgWcCCf7UKU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648501-1445894176-6010.jpeg.jpg" data-tags="chill, reggae, dub, drinking, summer music, good to smoke to" role="button">
 Rebelution - Rebelution (2006-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/10083770849-500.jpg" data-tags="dubstep" role="button">
-Burial - Burial (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a009ef70-3519-48b0-8be0-114500776954/5632979580-500.jpg" data-tags="reggae, dub, new zealand, newzealand" role="button">
 The Black Seeds - Into the Dojo (2006-07-13)
@@ -221,6 +224,9 @@ Dub Pistols - Speakers and Tweeters (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/3361f7a7-1319-4b1f-8168-c1a358e7c65c/4511988555-500.jpg" data-tags="hip-hop, electronica, dub, left-field hip-hop, downbeat, hibbedi hop" role="button">
 DJ Vadim - The SoundCatcher (2007-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
+Collie Buddz - Collie Buddz (2007-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b342391-8172-4579-9668-09535698f6ae/18273571975-500.jpg" data-tags="reggae, dub, dancehall reggae" role="button">
 Chezidek - Inna Di Road (2007-09-21)
@@ -240,9 +246,6 @@ Ott - Skylon (2008-01-25)
 <li data-cover="https://img.discogs.com/9oW_iQe5oaMlfy2ISVBDq3Osn00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1223162-1302674885.jpeg.jpg" data-tags="dub, dubstep" role="button">
 Ikonika - Please / Simulacrum (2008-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f2a38ed-c90a-4f68-acfc-aad5804cf0f9/6755003734-500.jpg" data-tags="electronic, electronica, trip-hop, dub" role="button">
-Asian Dub Foundation - Punkara (2008-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/f68d456e-118a-4d6a-9df3-a48a327bfbd8/15764470897-500.jpg" data-tags="experimental, dub, psychedelic, psychedelia, 00s, tropical, neo-psychedelia, stoned, hazy, tropical drone, tropical break" role="button">
 Sun Araw - Beach Head (2008-07-21)
 </li>
@@ -254,12 +257,6 @@ Forfun - Polisenso (2008-11-15)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)
-</li>
-<li data-cover="https://img.discogs.com/N5VPY4tWUXRdYz52p3XoDYAemq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1792602-1401382804-7628.jpeg.jpg" data-tags="jazz, reggae, dub, roots" role="button">
-Fat Freddy's Drop - Dr. Boondigga & The Big Bw (2009-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/34f60ad7-1d10-4573-8e56-1674ea78310c/24557608344-500.jpg" data-tags="mpb" role="button">
-Céu - Vagarosa (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)
@@ -276,9 +273,6 @@ Rusko - O.M.G.! (2010-05-04)
 <li data-cover="http://coverartarchive.org/release/852a8638-6fc2-4be6-be9b-b7509d23ba2a/12148653044-500.jpg" data-tags="dub, dubstep, dance" role="button">
 Flux Pavilion - Got 2 Know / Normalize (2010-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/58735be6-4372-4191-8fe0-f49cb2442456/3596366369-500.jpg" data-tags="electronic" role="button">
-Pretty Lights - Glowing In The Darkest Night (2010-10-22)
-</li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
 </li>
@@ -288,14 +282,20 @@ Peaking Lights - 936 (2011-02-08)
 <li data-cover="http://coverartarchive.org/release/df9256e8-1956-4ce5-b93c-1be551d4075a/2349275927-500.jpg" data-tags="ambient, dub" role="button">
 Ott - Mir (2011-03-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
+Jamie Woon - Mirrorwriting (2011-04-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
 Criolo - Nó Na Orelha (2011-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/09afe29a-8c97-48fd-8751-1fb708c61ef3/5770579552-500.jpg" data-tags="rock, reggae, dub, brasil, rock alternativo" role="button">
-Forfun - Alegria Compartilhada (2011-04-27)
+<li data-cover="http://coverartarchive.org/release/e1a2192a-6708-495e-8a19-c4ba13a4fd89/20369918463-500.jpg" data-tags="reggae, dub" role="button">
+Hollie Cook - Hollie Cook (2011-06-06)
 </li>
 <li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
+Floex - Zorya (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
 King Krule - King Krule (2011-11-08)

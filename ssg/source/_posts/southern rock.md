@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:24:06.975Z
+date: 2021-04-10T14:56:01.401Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
+Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/18492d6e-b040-30c3-9d7c-e082ec2963fe/23559347519-500.jpg" data-tags="rock, classic rock, southern rock, 60s" role="button">
 Creedence Clearwater Revival - Bayou Country (1969-01-05)
 </li>
@@ -48,17 +51,11 @@ ZZ Top - Rio Grande Mud (1972-04-04)
 <li data-cover="http://coverartarchive.org/release/a80f75da-7260-4e4b-bd03-cbebb460a7f1/16048573325-500.jpg" data-tags="roots rock, swamp rock, classic rock, southern rock" role="button">
 Creedence Clearwater Revival - Mardi Gras (1972-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5f7edd9-3856-4b7e-bfb6-9bbe329b9a7e/8776440802-500.jpg" data-tags="70s, classic rock, rock" role="button">
-The Doobie Brothers - Toulouse Street (1972-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1aca4a06-8f21-4aaa-a049-d1758a111589/5814230484-500.jpg" data-tags="classic rock" role="button">
 Steppenwolf - 16 Greatest Hits (1973-02)
 </li>
 <li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
 Little Feat - Dixie Chicken (1973-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dc6075a-ee1b-4d3d-bc4b-f2a8ab66c806/4316994389-500.jpg" data-tags="classic rock, 70s, soft rock, southern rock" role="button">
-The Doobie Brothers - The Captain and Me (1973-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15e1712-a98c-482b-ac86-6ef8c73d6f5d/28933604566-500.jpg" data-tags="blues rock" role="button">
 ZZ Top - Tres Hombres (1973-07-26)
@@ -87,11 +84,11 @@ ZZ Top - Tejas (1976-11-29)
 <li data-cover="https://img.discogs.com/Lz0kq17EnvPDzdlN-UJtuB3lxqs=/fit-in/255x255/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3055148-1343214860-9733.jpeg.jpg" data-tags="southern rock" role="button">
 The Marshall Tucker Band - Carolina Dreams (1977)
 </li>
-<li data-cover="https://img.discogs.com/8iEnfWUplElZRLgxOaHmy0Ug-yI=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4938216-1379992995-8567.jpeg.jpg" data-tags="southern rock" role="button">
-Lynyrd Skynyrd - Street Survivors (1977)
-</li>
 <li data-cover="https://img.discogs.com/0-obukF6QmJhASkzHb1UYk-qMCg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3333219-1326175690.jpeg.jpg" data-tags="southern rock, classic rock" role="button">
 The Marshall Tucker Band - Greatest Hits (1978)
+</li>
+<li data-cover="http://coverartarchive.org/release/82468a07-e409-46a0-8951-b73567ac060b/5945244568-500.jpg" data-tags="southern rock" role="button">
+Blackfoot - Strikes (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb88cd76-748f-4837-a1b6-394275255118/22739545491-500.jpg" data-tags="southern rock" role="button">
 Molly Hatchet - Flirtin' With Disaster (1979-09)
@@ -117,6 +114,9 @@ The Allman Brothers Band - Dreams (1989-06-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 The Black Crowes - Shake Your Money Maker (1990-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e9be4cd-1f08-4042-acf9-c3338623710c/18661073440-500.jpg" data-tags="classic rock" role="button">
+Atlanta Rhythm Section - The Best Of Atlanta Rhythm Section (1991-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/6e646673-39ba-41dc-abc4-7a1f74387d66/6639039977-500.jpg" data-tags="classic rock, southern rock" role="button">
 The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
 </li>
@@ -131,6 +131,9 @@ Lynyrd Skynyrd - The Last Rebel (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6157cd1-1006-4254-af4f-94e180c5575f/5545133291-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - Endangered Species (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/16e6e02a-1bf3-4011-bcdf-c787343295cd/9357983536-500.jpg" data-tags="classic rock, rock, southern rock, hard rock, southern-rock" role="button">
+Blackfoot - Rattlesnake Rock 'n' Roll: The Best of Blackfoot (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/06864755-6e45-4af0-b2fe-3d5d11348ee7/13476346181-500.jpg" data-tags="southern rock" role="button">
 Pride & Glory - Pride & Glory (1994-05-21)
@@ -147,11 +150,8 @@ The Allman Brothers Band - The Allman Brothers Band (1995)
 <li data-cover="http://coverartarchive.org/release/7533b1fc-d328-4ee5-8b50-bbf4c3edb6ed/9020709713-500.jpg" data-tags="southern rock, rock" role="button">
 Zakk Wylde - Book of Shadows (1996-06-19)
 </li>
-<li data-cover="https://img.discogs.com/Wydo1FRFU0CTAFErpovhBo-KHOk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949363-1254437868.jpeg.jpg" data-tags="southern rock, rock" role="button">
-The Black Crowes - Three Snakes and One Charm (1996-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae6c7d58-8258-486b-8637-15bff91302b2/24578672105-500.jpg" data-tags="southern rock" role="button">
-The Black Crowes - By Your Side (1998)
+<li data-cover="http://coverartarchive.org/release/1acabc7f-466f-4098-a44b-b48ea5973adc/3730776424-500.jpg" data-tags="blues rock, hard rock" role="button">
+ZZ Top - Rhythmeen (1996-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a2c4afd-d30a-428c-968d-de082494d9a8/28967153015-500.jpg" data-tags="blues rock" role="button">
 Gov't Mule - Dose (1998-02-24)
@@ -162,14 +162,14 @@ Clay Walker - Greatest Hits (1998-06-09)
 <li data-cover="http://coverartarchive.org/release/5d998987-ab6d-4ffc-a5db-255436bb415a/3333569644-500.jpg" data-tags="classic rock, southern rock, 70s" role="button">
 Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
 </li>
+<li data-cover="https://img.discogs.com/WiK-1OZ9OI_DiKWJMXnAm9S2tdM=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101246-1471092563-8075.jpeg.jpg" data-tags="southern rock" role="button">
+Lynyrd Skynyrd - Edge Of Forever (1999-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="records i should listen more often" role="button">
 Sister Hazel - Fortress (2000-06-27)
-</li>
-<li data-cover="https://img.discogs.com/meG3578OM9QzIehO1I_fkwN3o2s=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692554-1296789561.jpeg.jpg" data-tags="rock, hard rock, southern-rock" role="button">
-Molly Hatchet - Greatest Hits (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b0f8fc8-65d8-4321-9699-57ce36e192d0/20821738172-500.jpg" data-tags="classic rock" role="button">
 Creedence Clearwater Revival - Platinum (2001)
@@ -186,6 +186,9 @@ Uncle Kracker - No Stranger to Shame (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
 Saliva - Back Into Your System (2002-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4f302356-4e91-4690-b441-2cfe91276008/6591198259-500.jpg" data-tags="southern rock" role="button">
+Lynyrd Skynyrd - Vicious Cycle (2003-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
@@ -194,9 +197,6 @@ Kings of Leon - Youth & Young Manhood (2003-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae27b65a-ffc5-4c52-af0f-82bb221bdd54/4259120205-500.jpg" data-tags="country, dierks bentley" role="button">
 Dierks Bentley - Dierks Bentley (2003-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/052fda3e-659b-464e-a81b-06187b3ab864/12018028576-500.jpg" data-tags="blues rock, southern rock, hard rock" role="button">
-ZZ Top - Mescalero (2003-09-25)
 </li>
 <li data-cover="https://img.discogs.com/oLkou_Bh1vJANeuEN_JwsTGeSw0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542861-1424798177-4446.jpeg.jpg" data-tags="rock, experimental, pop punk, tribunal, southern rock, post-hardcore, melodic hardcore, emocore, cooool" role="button">
 He Is Legend - 91025 (2004-06-01)
@@ -222,8 +222,8 @@ Ryan Adams - 29 (2005-12-20)
 <li data-cover="http://coverartarchive.org/release/a0119529-3800-4bb1-8716-cbbecbf3e360/16114653552-500.jpg" data-tags="southern rock" role="button">
 Drive-By Truckers - A Blessing and a Curse (2006-04-18)
 </li>
-<li data-cover="https://img.discogs.com/w69l5wq1YLfVfnTdqvMwvXKGNrg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3769585-1343673053-8229.jpeg.jpg" data-tags="hardcore" role="button">
-Cancer Bats - Birthing The Giant (2006-06-06)
+<li data-cover="https://img.discogs.com/2KZfotYKfco9dse8Z0ofdvwxL2g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2329876-1277335045.jpeg.jpg" data-tags="southern rock, blues rock" role="button">
+Gov't Mule - High & Mighty (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf19fba-0dd8-4b99-8216-4a6be9dfd867/16262070382-500.jpg" data-tags="southern rock" role="button">
 He Is Legend - Suck Out The Posion (2006-10-03)
@@ -240,17 +240,14 @@ Kings of Leon - Because of the Times (2007-03-30)
 <li data-cover="http://coverartarchive.org/release/dda0115c-affb-42fc-a24e-98d4661accf5/1038954356-500.jpg" data-tags="metal, heavy metal, groove metal" role="button">
 Hellyeah - HELLYEAH (2007-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ad7a74e-95cc-44c3-96da-856810245982/18258092157-500.jpg" data-tags="metalcore" role="button">
+Every Time I Die - The Big Dirty (2007-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
 </li>
-<li data-cover="https://img.discogs.com/aBgTvhJqTlRTa5gTHPN4Y0HMO2A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2123036-1305727176.jpeg.jpg" data-tags="rock, southern rock, blues rock" role="button">
-The Black Crowes - Warpaint (2008-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/deaac2cb-1514-4db1-982d-4fab7fc80039/9495466369-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Carolina Liar - Coming To Terms (2008-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
-Cancer Bats - Hail Destroyer (2008-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/678909a4-a946-492c-8df1-8d92cad22da1/10713247283-500.jpg" data-tags="alternative rock, hard rock, southern rock" role="button">
 Shinedown - Devour (2008-05-06)
@@ -302,6 +299,9 @@ Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/91b48d70-bce1-4806-880c-a2b1488ac877/2663859177-500.jpg" data-tags="country, country rock" role="button">
 Jason Aldean - My Kinda Party (2010-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/dccebe05-6f27-4742-a741-3df7314c1544/8360116715-500.jpg" data-tags="hard rock" role="button">
+Black Stone Cherry - Between The Devil & The Deep Blue Sea (2011-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb304cf8-4ae2-4f0f-9114-58e2f63711ad/16252328129-500.jpg" data-tags="americana, southern rock" role="button">
 Drive-By Truckers - Go-Go Boots (2011-02-14)

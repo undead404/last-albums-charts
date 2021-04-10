@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:02:01.506Z
+date: 2021-04-10T15:02:01.906Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -69,6 +69,9 @@ Savage Garden - Savage Garden (1997-03-24)
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a4b233d0-183a-482d-a7a7-7a1bb6d9ba38/6257852608-500.jpg" data-tags="australian, electronic" role="button">
+Pnau - Sambanova (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
 </li>
@@ -119,6 +122,9 @@ The Presets - Girl And The Sea (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/gWFyjWkLviBQ9l-TDlEN58Gw2hk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659818-1295384136.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natalie Imbruglia - Counting Down the Days (2005)
+</li>
+<li data-cover="https://img.discogs.com/9D_pK4RBRwiEFaLMluQmSQpL7-I=/fit-in/456x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-627922-1157486961.jpeg.jpg" data-tags="indie pop" role="button">
+The Lucksmiths - Warmer Corners (2005-04)
 </li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
@@ -176,9 +182,6 @@ Architecture in Helsinki - Places Like This (2007-07-28)
 </li>
 <li data-cover="https://img.discogs.com/f1ZtFzXpOWkuJM7_t-ivbz8FCR4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047786-1389507683-6088.jpeg.jpg" data-tags="electronic" role="button">
 Midnight Juggernauts - Dystopia (2007-08-04)
-</li>
-<li data-cover="https://img.discogs.com/BoGbyy7Do1JUgre77BV5uJ9F9ZQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046299-1431906056-3192.jpeg.jpg" data-tags="australian, pop" role="button">
-Darren Hayes - This Delicate Thing We've Made (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1caffde-a45e-43d6-bcae-631164058a97/16176453167-500.jpg" data-tags="indie, country, alternative, folk, singer-songwriter, australian, happy music, my cd collection" role="button">
 Ben Lee - Ripe (2007-09-04)
@@ -290,9 +293,6 @@ Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b4f633e-b865-4534-a642-817c575ec44b/5407871094-500.jpg" data-tags="electropop, pop, dance, australian, epic, dance-pop, female vocalist, 10s, music, warrior, havana brown, ba bing" role="button">
-Havana Brown - Flashing Lights (2013-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/87efb798-d326-49e9-9905-65f9bfb45f44/7339492732-500.jpg" data-tags="australian" role="button">
 Violent Soho - Hungry Ghost (2013-09-06)

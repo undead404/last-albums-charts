@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:10:01.562Z
+date: 2021-04-10T15:44:01.421Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -143,6 +143,9 @@ All That Remains - The Fall of Ideals (2006-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Killswitch Engage - As Daylight Dies (2006-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
+Caliban - The Undying Darkness (2006-02-22)
 </li>
 <li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
@@ -305,9 +308,6 @@ August Burns Red - Leveler (2011-06-21)
 </li>
 <li data-cover="https://img.discogs.com/UlpAh6dP3P-5YwdqN6CKcF-Wg6s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044181-1313108274.jpeg.jpg" data-tags="metalcore" role="button">
 Trivium - In Waves (2011-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/83e6ecc2-662d-45fd-bdea-585d94303cce/2421759627-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Atlas (2012-10-26)

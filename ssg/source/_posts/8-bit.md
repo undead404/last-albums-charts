@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:30:02.003Z
+date: 2021-04-10T15:41:06.982Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -53,9 +53,6 @@ Minusbaby - Monkey Patch (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/6372e259-413c-4d51-b591-25332c773865/1945393837-500.jpg" data-tags="instrumental, 8-bit, chiptunes, nintendo music" role="button">
 Psilodump - Washed (2004-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fc31b65-d3ed-4c0a-8da8-5217d66f9350/8425115741-500.jpg" data-tags="8-bit, chiptune" role="button">
-YMCK - Family Music (2004-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/34869804-4a0c-42e4-92da-ed103977d889/3886924542-500.jpg" data-tags="electronic, 8-bit" role="button">
 Role Model - A New Fragrance (2005)
@@ -147,6 +144,9 @@ Disasterpeace - Neutralite (2007-08-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 Crystal Castles vs. Health - Crimewave (2007-08-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/73a60b5a-6242-4942-bca7-83436a652800/9719645639-500.jpg" data-tags="8-bit, chip prog" role="button">
+Phlogiston - Croqel (2007-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/77baaaf6-8128-400e-aee7-0e9a6ca79692/994831655-500.jpg" data-tags="8-bit" role="button">
 pornophonique - 8-bit lagerfeuer (2007-08-31)
 </li>
@@ -191,6 +191,9 @@ Uoki-Toki - Porno Game (2008-05-05)
 </li>
 <li data-cover="https://img.discogs.com/U_5rWV9yNYghAXMnbh3EoIHCee4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1527680-1226225702.jpeg.jpg" data-tags="electronica, nintendo, 8-bit, new rave, bitpop, digital punk" role="button">
 You Love Her Coz She's Dead - Inner City Angst EP (2008-06)
+</li>
+<li data-cover="https://img.discogs.com/iY4qsKLK9EO0mvlF07nMQBxqvGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4769399-1374940089-3019.jpeg.jpg" data-tags="electronica, nintendocore" role="button">
+Motionless Battle - The Fortress of Discord (2008-07-22)
 </li>
 <li data-cover="https://img.discogs.com/jOMPPxwQQ0vHpPws-KM9HHVWZ7o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698591-1237721342.jpeg.jpg" data-tags="8-bit, idm, chiptune, jungle, breakcore" role="button">
 Swampyboy - Summer Spent Indoors (2008-08-07)
@@ -261,6 +264,9 @@ spamtron - D-PAD (2010)
 <li data-cover="http://coverartarchive.org/release/0063c6b9-5376-36c8-9b51-a053ebbb270c/2097577050-500.jpg" data-tags="8-bit, chiptune" role="button">
 mind.in.a.box - R.E.T.R.O. (2010-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/26598ff2-4719-4d26-a3e5-5ccd77119455/17424771205-500.jpg" data-tags="8-bit, post-electro-mellow-idm-techno-jota-18-m-aviles, check it out later" role="button">
+Teleidofusion - Around Past (2010-03-18)
+</li>
 <li data-cover="https://img.discogs.com/S8SC0gUDwhU661p27iTCEyN1cS0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2314644-1285127368.jpeg.jpg" data-tags="ebm" role="button">
 Eisenfunk - 8-Bit (2010-03-26)
 </li>
@@ -273,17 +279,11 @@ Crystal Castles - Crystal Castles (2010-05-18)
 <li data-cover="http://coverartarchive.org/release/65aaf598-b452-4e9b-88db-340cba1e527b/5897170138-500.jpg" data-tags="chiptune" role="button">
 Zalza - Back to the chipland (2010-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d52c016f-7a08-4a78-abc9-1331c5e3666b/11724503080-500.jpg" data-tags="ambient" role="button">
-C418 - life changing moments seem minor in pictures (2010-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/878e73ca-b7f8-47d9-bc76-fb2070ce321e/1083867910-500.jpg" data-tags="8-bit, chiptune" role="button">
 Disasterpeace - Rise of the Obsidian Interstellar (2011-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">
 C418 - Minecraft - Volume Alpha (2011-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1ba1063-7a41-4ccf-a527-e93bd78767af/5512070799-500.jpg" data-tags="chiptune" role="button">
-LukHash - Digital Memories (2011-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5eabfd7b-638c-4d0d-8e0b-e358e1a1251f/17978515250-500.jpg" data-tags="chiptune" role="button">
 047 - Elva (2011-05-30)

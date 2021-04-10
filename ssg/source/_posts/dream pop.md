@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:34:01.418Z
+date: 2021-04-10T15:16:06.901Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
