@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:50:01.413Z
+date: 2021-04-10T13:16:07.209Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7a436130-f945-42b2-93d0-1a9b9e3d6797/4732084267-500.jpg" data-tags="70s, vocalistas masculinos" role="button">
+Neil Diamond - Sweet Caroline (1969)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
@@ -42,17 +45,14 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/56d05907-9f3f-4eec-8c1d-97e9c735d88f/1262909032-500.jpg" data-tags="folk rock" role="button">
 Jim Croce - You Don't Mess Around with Jim (1972-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5f7edd9-3856-4b7e-bfb6-9bbe329b9a7e/8776440802-500.jpg" data-tags="70s, classic rock, rock" role="button">
-The Doobie Brothers - Toulouse Street (1972-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/3dc6075a-ee1b-4d3d-bc4b-f2a8ab66c806/4316994389-500.jpg" data-tags="classic rock, 70s, soft rock, southern rock" role="button">
-The Doobie Brothers - The Captain and Me (1973-03-02)
+<li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
+Elton John - Greatest Hits (1974-11-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
@@ -60,11 +60,17 @@ Fleetwood Mac - Fleetwood Mac (1975-07-11)
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Rumours (1977-02-04)
 </li>
-<li data-cover="https://img.discogs.com/6Sa_C449PdWHQ9M6rAkVI84klMo=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11459589-1523284305-7535.jpeg.jpg" data-tags="classic rock" role="button">
-Billy Joel - The Stranger (1977-09-29)
+<li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">
+Steely Dan - Aja (1977-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
+</li>
+<li data-cover="http://coverartarchive.org/release/07659b32-36b3-4ff8-91c3-7c9edbe6c4a5/1339538879-500.jpg" data-tags="classic rock" role="button">
+Billy Joel - 52nd Street (1978-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
+Supertramp - Breakfast In America (1979)
 </li>
 <li data-cover="https://img.discogs.com/o3m6jo5BzDH8d7FlqUnqQ9-tIGU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10248444-1494091170-8215.jpeg.jpg" data-tags="70s, classic rock" role="button">
 Fleetwood Mac - Tusk (1979)
@@ -80,9 +86,6 @@ Air Supply - Greatest Hits (1983)
 </li>
 <li data-cover="https://img.discogs.com/H-nPHu--YwS0G2MS5ZkUk4mtii8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315300-1208986367.jpeg.jpg" data-tags="80s" role="button">
 Don Henley - Building The Perfect Beast (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7221238-f7e0-45bc-8ff2-b8e08924d1a0/8034053675-500.jpg" data-tags="80s, we built this city" role="button">
-Starship - Knee Deep in the Hoopla (1985)
 </li>
 <li data-cover="https://img.discogs.com/HqcijYT-Zg_uXDYvg-nUZycxJPw=/fit-in/528x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652854-1351345698-1656.jpeg.jpg" data-tags="pop, 80s" role="button">
 Phil Collins - No Jacket Required (1985-03-21)
@@ -123,9 +126,6 @@ Mark Knopfler - Golden Heart (1996-03-22)
 <li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
 Firehouse - Good Acoustics (1996-10-23)
 </li>
-<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/e31919f4-f0cf-4694-a1da-90e63044e93c/27758684577-500.jpg" data-tags="richard marx" role="button">
 Richard Marx - Greatest Hits (1997-11-04)
 </li>
@@ -144,11 +144,20 @@ Genesis - Turn It on Again: The Hits (1999-10-22)
 <li data-cover="https://img.discogs.com/yLSXgeQNlbFyh5ERJx1HvnYYpa8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760589-1584710461-7332.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
 Tom McRae - Tom McRae (2000-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/939523c5-cfe9-4d04-a384-0e089bdc5417/24451153798-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
+Semisonic - All About Chemistry (2001-02-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
 Train - Drops of Jupiter (2001-03-27)
 </li>
+<li data-cover="https://img.discogs.com/uSf1RqEKVDbzCuNgE-UlquIouP8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382597-1300627514.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
+Ben Kweller - Sha Sha (2002-03-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/198b344c-7455-4a9e-b32b-6d06ce77c41f/6358368858-500.jpg" data-tags="singer-songwriter, jason mraz" role="button">
+Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
@@ -167,9 +176,6 @@ Archive - Noise (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
-Ben Folds - Songs For Silverman (2005-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
 Josh Rouse - Subtitulo (2006-03-20)
@@ -219,9 +225,6 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
-The Fray - The Fray (2009-01-30)
-</li>
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
 </li>
@@ -239,9 +242,6 @@ Train - Hey, Soul Sister (2010-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ab43f76-459d-498c-9b58-5800b4b6de48/2867573497-500.jpg" data-tags="soft rock, wed slow, soft rock revival" role="button">
 Angus & Julia Stone - Big Jet Plane (2010-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/391fdaa1-7b1e-4e8f-b47e-fc8c6d7a3fed/4145034843-500.jpg" data-tags="indie, soft rock, indie folk, soulful, collaboration, under the radar best of 2010, soft rock revival" role="button">
-Gayngs - Relayted (2010-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a54be848-c2a6-4282-8438-aa08fa6e648b/15941011609-500.jpg" data-tags="soul, easy listening, soft rock, mellow, pop soul, soft rock revival" role="button">
 Rumer - Seasons of My Soul (2010-08-23)
@@ -279,11 +279,11 @@ Father John Misty - Fear Fun (2012-04-30)
 <li data-cover="http://coverartarchive.org/release/8ea96fc9-e4ae-425d-92f1-3ebeaad37a89/2752789232-500.jpg" data-tags="pop, soul, british, soft rock, r&b, rca victor, 2012 albums" role="button">
 Paloma Faith - Fall to Grace (2012-05-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d3da9c4-17db-480a-85c1-17ee27823fcb/2019375455-500.jpg" data-tags="pop, pop rock" role="button">
+The Script - #3 (2012-09-07)
+</li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
 Breakbot - By Your Side (2012-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb16fa21-7d1f-403b-9881-ebcc8296d19c/5700848143-500.jpg" data-tags="folk, singer-songwriter, soft rock, folktronica, alternative pop, pop/rock" role="button">
 Ásgeir - In the Silence (2013)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:45:01.871Z
+date: 2021-04-10T13:21:01.476Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -33,9 +33,6 @@ Nick Drake - Bryter Layter (1970-11)
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Leonard Cohen - Songs of Love and Hate (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/c0030078-9362-4e64-a54c-5b0e7d8326b8/17978212703-500.jpg" data-tags="70s, female vocalists, singer-songwriter" role="button">
 Carole King - Tapestry (1971-01-30)
 </li>
@@ -54,9 +51,6 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
-Tom Waits - Closing Time (1973-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -65,9 +59,6 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/c507e78c-4f02-4765-8ca4-1d919bbde08c/9574171273-500.jpg" data-tags="blues, experimental, singer-songwriter" role="button">
-Tom Waits - Bone Machine (1992-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
@@ -98,9 +89,6 @@ Cat Power - Moon Pix (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
-</li>
-<li data-cover="https://img.discogs.com/hWDqh0XXTI0Yba-4Homa6PrxF-M=/fit-in/201x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4526066-1367378651-2853.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
-Tom Waits - Mule Variations (1999-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
@@ -186,6 +174,9 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
+Amos Lee - Amos Lee (2005-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
@@ -209,6 +200,9 @@ Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
+The Weepies - Say I Am You (2006-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
 Ingrid Michaelson - Girls and Boys (2006-05-16)
@@ -267,6 +261,9 @@ Amy Macdonald - This Is the Life (2007-12-10)
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
 Sia - Some People Have Real Problems (2008-01-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/46a01402-c284-4141-bbfe-1d8a5896dce2/17640822148-500.jpg" data-tags="rock" role="button">
+Lenny Kravitz - It Is Time for a Love Revolution (2008-02-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
 </li>
@@ -278,6 +275,9 @@ Mystery Jets - Twenty One (2008-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">
+Jason Mraz - I'm Yours (2008-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/31b85ba2-e205-4c74-b22d-ad435995c4fd/9355468079-500.jpg" data-tags="alternative" role="button">
 Beck - Modern Guilt (2008-07-05)

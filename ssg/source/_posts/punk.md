@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:00:01.471Z
+date: 2021-04-10T13:35:01.706Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -57,17 +57,14 @@ The Clash - London Calling (1979-12-14)
 <li data-cover="http://coverartarchive.org/release/33d6956e-3fb0-3a6b-8a47-cc2f3be2b183/20681910422-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
-<li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
-Black Flag - Damaged (1981)
-</li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">
-Descendents - Milo Goes to College (1982-11-15)
+<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
+Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
@@ -113,6 +110,9 @@ Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
+</li>
+<li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
+Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
@@ -161,6 +161,9 @@ The Used - The Used (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/29911ee4-301b-4192-924e-24db9e973227/15248581026-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Does This Look Infected? (2002-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
+The Ataris - So Long, Astoria (2003-02-03)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
@@ -270,6 +273,9 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
+New Found Glory - Coming Home (2006-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
 </li>
@@ -281,9 +287,6 @@ Good Charlotte - Good Morning Revival (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1b91579-b873-45d2-a5cc-ac633a946791/4812682225-500.jpg" data-tags="punk" role="button">
-The Gaslight Anthem - Sink or Swim (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
@@ -317,8 +320,5 @@ My Chemical Romance - Danger Days: The True Lives of the Fabulous Killjoys (2010
 </li>
 <li data-cover="http://coverartarchive.org/release/3b4383f9-d5eb-4cfa-9f89-9eff909c5008/2100804508-500.jpg" data-tags="punk rock" role="button">
 Rise Against - Endgame (2011-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">
-Red Hot Chili Peppers - I'm With You (2011-08-26)
 </li>
 </ol>

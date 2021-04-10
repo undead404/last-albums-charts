@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:06:01.413Z
+date: 2021-04-10T12:51:01.486Z
 title: "eurodance: 100 albums you must listen to before you die"
 ---
 ![Aqua - Aquarium (1997-05-21)](http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg "Aqua - Aquarium (1997-05-21)")
@@ -35,6 +35,9 @@ Dr. Alban - One Love (1992)
 </li>
 <li data-cover="https://img.discogs.com/ccclWdN_9z2XW_0rTw0Ui9VnoWI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-208583-1351360362-2268.jpeg.jpg" data-tags="eurodance" role="button">
 Captain Hollywood Project - More and More (1992-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/4443909a-3cf7-4ea7-b4a7-7b39f387f32e/24617626216-500.jpg" data-tags="eurodance" role="button">
+Double You - We All Need Love (1992-11-30)
 </li>
 <li data-cover="https://img.discogs.com/d28tpqQucwJ9drJ-Ad8JCNBVpoI=/fit-in/371x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1737046-1333832985.jpeg.jpg" data-tags="90s, pop, dance" role="button">
 Real McCoy - Another Night (1993)
@@ -72,17 +75,20 @@ Ace of Base - The Sign (1993-11-23)
 <li data-cover="http://coverartarchive.org/release/9112314a-34cf-4ec7-8c57-d295ef12e052/18100481856-500.jpg" data-tags="eurodance" role="button">
 Basic Element - Basic Injection (1994)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b2d08c6-d0fb-489d-8f8a-807245398884/21095361893-500.jpg" data-tags="house, eurodance" role="button">
+Snap! - Welcome to Tomorrow (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e7860b0-0de2-49b7-96f7-b69e20d24a02/8380041219-500.jpg" data-tags="eurodance" role="button">
 Magic Affair - Omen (The Story Continues...) (1994-05-16)
 </li>
 <li data-cover="https://img.discogs.com/PV1iQieh0p53FdHTOg-hZWcVsgc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314595-1428162523-2583.jpeg.jpg" data-tags="eurodance, 90s" role="button">
 La Bouche - Sweet Dreams (1994-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b53a0c3-fd87-49de-8148-289934160e5c/10101740213-500.jpg" data-tags="eurodance" role="button">
+2 Unlimited - Real Things (1994-06-06)
+</li>
 <li data-cover="https://img.discogs.com/0--KbNIwLHH5nPfxZoBDjYqW_cA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-161154-1363497455-9013.jpeg.jpg" data-tags="eurodance" role="button">
 Maxx - To the Maxximum (1994-07-03)
-</li>
-<li data-cover="https://img.discogs.com/HENlz1U4IDxelVZKP9tIfHbBADg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-99190-1597681081-1964.jpeg.jpg" data-tags="eurodance" role="button">
-Masterboy - Different dreams (1994-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/19f5f68e-94d8-4e50-baf3-7afcb077cb65/6674001458-500.jpg" data-tags="eurodance" role="button">
 2 Brothers on the 4th Floor - Dreams (1994-08-31)
@@ -102,9 +108,6 @@ Mo-Do - Was Ist Das? (1995)
 <li data-cover="https://img.discogs.com/hw6MVcnl78RqszSL4uLctwx_JxE=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50930-1414879430-9515.jpeg.jpg" data-tags="eurodance" role="button">
 Culture Beat - Inside Out (1995-01-01)
 </li>
-<li data-cover="https://img.discogs.com/ePKzamXyCalhY0FHXZd5lDKmSK4=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374138-1364603634-2637.jpeg.jpg" data-tags="eurodance" role="button">
-Whigfield - Whigfield (1995-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4cb89bdd-5d91-49b8-ab2d-abc643329f30/1966562832-500.jpg" data-tags="eurodance" role="button">
 E-Rotic - Sex Affairs (1995-05-29)
 </li>
@@ -116,9 +119,6 @@ N-Trance - Stayin' Alive (1995-09-16)
 </li>
 <li data-cover="https://img.discogs.com/ct56AV-If_RD7r10Q69FLoS_ONA=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106285-1472305848-5953.jpeg.jpg" data-tags="90s, pop, dance" role="button">
 Ace of Base - The Bridge (1995-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/dad5a2aa-e9d9-4ad9-861e-37c4bf4e9b2b/7945369245-500.jpg" data-tags="disco, eurodance, nice" role="button">
-Masterboy - Generation of Love (1995-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a89276b7-da33-4ce8-993b-165784bc0095/8160789545-500.jpg" data-tags="eurodance" role="button">
 Captain Jack - The Mission (1996-03-25)
@@ -159,14 +159,14 @@ Eiffel 65 - Blue (Da Ba Dee) (1998)
 <li data-cover="https://img.discogs.com/fhyZgl7Dw6zBYC-UcCFtGN3ZkH4=/fit-in/560x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166300-1418833529-7618.jpeg.jpg" data-tags="dance, 90s, eurodance, hard dance, not techno, teinifiilis, 666 paradox" role="button">
 666 - Paradoxx (1998)
 </li>
-<li data-cover="https://img.discogs.com/i9mxNwYKL4n8eEelHhk3wSBnURA=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8825077-1469559117-5040.jpeg.jpg" data-tags="90s, pop" role="button">
-Ace of Base - Flowers (1998-06-15)
-</li>
 <li data-cover="https://img.discogs.com/vvBDMD0D5jl2l9w4s4M6skNLBls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1381858-1295353918.jpeg.jpg" data-tags="eurodance" role="button">
 Vengaboys - The Party Album! (1998-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0da3bc20-b24c-4851-aab7-3a57c1bd8646/26040115698-500.jpg" data-tags="eurodance, 90s" role="button">
 E-Type - Last Man Standing (1998-11-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/977fff9d-d6c2-325d-bb96-4bc9facccacd/12429143366-500.jpg" data-tags="trance, dance, breathless" role="button">
+Tina Cousins - Killing Time (1999-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/61aee67d-b676-47b5-a78c-877efb214a0e/21469582168-500.jpg" data-tags="pop, dance, eenie meenie miney mo, super-duper-man, the sailor-song" role="button">
 Toy-Box - Fantastic (1999-08-04)
@@ -225,9 +225,6 @@ Kate Ryan - Different (2002-06-21)
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/32345e27-1d75-4bb9-be07-510ccab614fb/12487429043-500.jpg" data-tags="pop, swedish, dance" role="button">
-Ace of Base - Da Capo (2002-09-30)
-</li>
 <li data-cover="https://img.discogs.com/eEStnMkoTa4WzoaKQfSe0agLRPI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96571-1604109777-6962.jpeg.jpg" data-tags="eurodance" role="button">
 Lasgo - Pray (2002-11-18)
 </li>
@@ -266,6 +263,9 @@ Planet Funk - The Illogical Consequence (2005-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/689f013e-f404-31a6-8c86-b01e1f8b3ca4/8252727529-500.jpg" data-tags="trance, dance" role="button">
+Paul Oakenfold - A Lively Mind (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db99a93-9326-4caf-8793-6464418fe114/15206166626-500.jpg" data-tags="dance" role="button">
 Basshunter - LOL <(^^,)> (2006-08-30)

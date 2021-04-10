@@ -1,18 +1,18 @@
 ---
-date: 2021-04-10T03:57:01.417Z
+date: 2021-04-10T13:36:01.463Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Agnes Obel - Aventine (2013-09-27)](http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg "Agnes Obel - Aventine (2013-09-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)</li>
 <li data-cover="http://coverartarchive.org/release/42341a2b-c423-43c4-960b-c07d3db659e4/1748410166-500.jpg" data-tags="dark ambient, neoclassical" role="button">Arcana - Cantar de Procella (1997-06)</li>
-<li data-cover="http://coverartarchive.org/release/a90fcbea-f149-48c8-be31-9482b414b245/1748384200-500.jpg" data-tags="dark ambient, neoclassical, ambient, ethereal, gothic" role="button">Arcana - Inner Pale Sun (2002-12-08)</li>
+<li data-cover="https://img.discogs.com/KAMvvNc8CN5ai-wJmjym_IcGqgs=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412532-1382725178-4636.jpeg.jpg" data-tags="gothic, gothic metal, dark ambient, neoclassical, theatre, neoclassical ambient, transym, this cover frightens me, a tears" role="button">Autumn Tears - Eclipse (2004)</li>
 <li data-cover="https://img.discogs.com/Pw4M5NgpfqHOI3kkHlfmWmUhMaQ=/fit-in/490x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477311-1125291134.jpg.jpg" data-tags="instrumental, vanessa" role="button">Vanessa-Mae - Choreography (2004-09-14)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical, darkwave, dark ambient" role="button">Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)</li>
+<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">Arcana - Raspail (2008-02-29)</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">Soap&Skin - Lovetune for Vacuum (2009-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/26a6d832-8412-4776-8169-85a0dbd8513b/5257873633-500.jpg" data-tags="neoclassical" role="button">Soap&Skin - Narrow (2012-02-10)</li>
-<li data-cover="http://coverartarchive.org/release/590146dd-f60e-445f-a428-eb8550640e04/5258183155-500.jpg" data-tags="dark, female vocalist, dark ambient, 10s, 2010s, neoclassical, my gang 13, 2013: favourite albums, d4rk c4rn1v4l" role="button">Soap&Skin - Sugarbread (2013-03-11)</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">Agnes Obel - Aventine (2013-09-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -42,6 +42,9 @@ Vanessa-Mae - The Violin Player (1995-05-16)
 <li data-cover="https://img.discogs.com/IzhrC98_XhYyH8nFZJRu-UwCh7Y=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478391-1255255390.jpeg.jpg" data-tags="ethereal, ambient" role="button">
 Lisa Gerrard - The Mirror Pool (1995-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg" data-tags="ambient, darkwave, gothic" role="button">
+Arcana - Dark Age of Reason (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7e186c3-d122-4970-80a5-96372d76ad06/18602690984-500.jpg" data-tags="dark ambient" role="button">
 Amber Asylum - Frozen in Amber (1996)
 </li>
@@ -50,6 +53,9 @@ Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
 <li data-cover="https://img.discogs.com/siX-C9kyl4KU7Vn9C7n8Oza9v8I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-317606-1369376141-8329.jpeg.jpg" data-tags="neoclassical, gothic, darkwave" role="button">
 Die Verbannten Kinder Evas - Come Heavy Sleep (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
+Stellamara - Star of the Sea (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f0064c7-ceb2-4abe-a2d7-67985e1a741c/5525235632-500.jpg" data-tags="gothic, neoclassical" role="button">
 Elend - Weeping Nights (1997)
@@ -65,9 +71,6 @@ Dargaard - Eternity Rites (1998-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cde5e66a-d7d2-4187-b389-6fa14a279910/17251378984-500.jpg" data-tags="gothic, darkwave" role="button">
 Sopor Aeternus & The Ensemble of Shadows - Dead Lovers' Sarabande (Face Two) (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bda0240-f1d4-4c5c-b50d-a46fe30af5d7/12568057157-500.jpg" data-tags="german, tanzwut-tanzwut, metal, mittelalter-mix" role="button">
-Tanzwut - Tanzwut (1999-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e421cd9-eb4f-4a0e-a50b-2315efe293c9/2180696047-500.jpg" data-tags="ethereal" role="button">
 Arcana - ...The Last Embrace (2000)
@@ -107,9 +110,6 @@ Vanessa-Mae - The Best of Vanessa-Mae (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
 Emma Shapplin - Etterna (2002-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a90fcbea-f149-48c8-be31-9482b414b245/1748384200-500.jpg" data-tags="dark ambient, neoclassical, ambient, ethereal, gothic" role="button">
-Arcana - Inner Pale Sun (2002-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16b9226-557d-40ef-b0cd-60584e970e20/1858594196-500.jpg" data-tags="ambient" role="button">
 William Basinski - Melancholia (2003)
@@ -182,6 +182,9 @@ Tarja - Henkäys Ikuisuudesta (2006-10-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical, darkwave, dark ambient" role="button">
 Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="martial industrial, neoclassical" role="button">
+Der Blaue Reiter - Le Paradise Funèbre, L'Envers Du Tristesse (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac9ff732-814f-4c91-87eb-acc311c80c7d/2044549867-500.jpg" data-tags="ethereal, female vocalists" role="button">
 Irfan - Seraphim (2007)
@@ -293,9 +296,6 @@ Galneryus - Angel of Salvation (2012-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d821fd5-ec00-4e85-a8f1-134fe35b0024/10530584879-500.jpg" data-tags="instrumental, celtic" role="button">
 Adrian Von Ziegler - The Celtic Collection (2012-12-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/590146dd-f60e-445f-a428-eb8550640e04/5258183155-500.jpg" data-tags="dark, female vocalist, dark ambient, 10s, 2010s, neoclassical, my gang 13, 2013: favourite albums, d4rk c4rn1v4l" role="button">
-Soap&Skin - Sugarbread (2013-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3746e7a0-b546-4a67-8e72-6ab9761069e4/28676581407-500.jpg" data-tags="trip-hop" role="button">
 Emika - Dva (2013-06-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:36:01.407Z
+date: 2021-04-10T12:56:01.441Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -156,6 +156,9 @@ Bauhaus - Crackle (1998-07-07)
 <li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/77b9806c-2a9e-37b8-b6c9-543addcb157b/1078439108-500.jpg" data-tags="gothic metal" role="button">
+Tiamat - Skeleton Skeletron (1999-08-11)
+</li>
 <li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
 Lacrimosa - Elodia (1999-08-21)
 </li>
@@ -257,9 +260,6 @@ Poisonblack - Lust Stained Despair (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - Nine Destinies And A Downfall (2007-02-23)
 </li>
 <li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Angels (2007-02-27)

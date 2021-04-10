@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:46:07.217Z
+date: 2021-04-10T13:03:01.525Z
 title: "independent: 100 albums you must listen to before you die"
 ---
 ![Johnossi - Johnossi (2005-01-26)](http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg "Johnossi - Johnossi (2005-01-26)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/7gDztmVRgut4B89yBgnrRVQWpIg=/fit-in/428x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4729781-1424187856-3633.jpeg.jpg" data-tags="experimental" role="button">
+Danielle Dax - Jesus Egg That Wept (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/758017e0-f7de-49da-aa31-cbc80ea2e0e0/3059717757-500.jpg" data-tags="80s" role="button">
 The Housemartins - London 0 Hull 4 (1986)
 </li>
@@ -29,9 +32,6 @@ Throwing Muses - Chains Changed (1987-01)
 </li>
 <li data-cover="https://img.discogs.com/33QUfNjNMaDEs8i7O_1yYasvRUI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-196988-1617547549-8693.jpeg.jpg" data-tags="indie, rock, alternative, alternative rock, experimental, indie rock, new wave, avantgarde, german, independent, cd-sammlung" role="button">
 Phillip Boa & The VoodooClub - Copperfield (1988-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/29db0379-836e-4187-b6bc-f60a2d9321ac/3456061517-500.jpg" data-tags="demo" role="button">
-Darkthrone - Land Of Frost (1988-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/f699fc1d-dbad-4678-9ad9-55be25b4a4a8/12675048585-500.jpg" data-tags="indie, alternative" role="button">
 Phillip Boa & The VoodooClub - Hair (1989-01-16)
@@ -56,9 +56,6 @@ Inearthed - Implosion of Heaven (1994)
 </li>
 <li data-cover="https://img.discogs.com/Q6Kr9R7vXlK--09-qCNVsRRrxVo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-915754-1189951397.jpeg.jpg" data-tags="hamburger schule" role="button">
 Tocotronic - Wir Kommen Um Uns Zu Beschweren (1996-04-01)
-</li>
-<li data-cover="https://img.discogs.com/wFaYIMXwVGC8POo0B8l8rEU84d8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15329981-1589829439-4449.jpeg.jpg" data-tags="heavy metal, rock, hard rock" role="button">
-Eric Burdon - Soldier of Fortune (1997)
 </li>
 <li data-cover="https://img.discogs.com/rj3yPSvVgGuvJNC6KgtoVxPFxrE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237498-1359367332-4939.jpeg.jpg" data-tags="indie, rock" role="button">
 Tocotronic - Es Ist Egal, Aber (1997-06-28)
@@ -108,14 +105,11 @@ Steve Lawson & Jez Carr - Conversations (2002)
 <li data-cover="http://coverartarchive.org/release/4e9b7001-9773-44a6-9ad9-5a8034cb6914/2415885439-500.jpg" data-tags="hoobastank" role="button">
 Hoobastank - Target EP (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/a990a17a-148d-44c8-b6e5-b4c106aa5dcb/4817859250-500.jpg" data-tags="hamburger schule" role="button">
-Tocotronic - Tocotronic (2002-06-10)
+<li data-cover="https://img.discogs.com/e-3mXETEvABewX2vx-QwqkU_UHE=/fit-in/353x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3284056-1323895991.jpeg.jpg" data-tags="jazzy pop" role="button">
+Tadhg Cooke - The Sparks EP (2002-05)
 </li>
 <li data-cover="https://img.discogs.com/FIzBpyfghRgblRvYdRTZXe9jrx0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1977021-1256245367.jpeg.jpg" data-tags="indie, alternative, alternative rock, indie rock, guitar, deutsch, german, berlin, deutschsprachig, indierock, underground, perlen deutschsprachiger popmusik, independent, great songs, favourite artists, favourite bands, german artists, like it, classic album, german bands, deutschsprachige musik, genial, german indie, fuck it all, alternative and indie, deutschsprachiges, german independent, excellent lyrics, perfekte texte, gitarrenmusik, lieblingsalben, einfach die besten, deutschsprachig und grandios, meine kleine welt, einfach die groessten, auf meiner festplatte, in meinem plattenschrank" role="button">
 Britta - Lichtjahre voraus (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/508c9259-22a6-4984-9449-542e8fe66256/5886982118-500.jpg" data-tags="rock, alternative" role="button">
-Throwing Muses - Throwing Muses (2003-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/de0aba33-defb-4e4d-8b95-2d499c0b3ec0/3333205469-500.jpg" data-tags="pop, deutsch, german" role="button">
 Virginia Jetzt! - Wer Hat Angst Vor Virginia Jetzt! (2003-06-02)
@@ -141,11 +135,17 @@ Anajo - Nah Bei Mir (2004-10-11)
 <li data-cover="https://img.discogs.com/XbpUadGs_ILLFkx-J_H1RCWl7Y8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659541-1296783059.jpeg.jpg" data-tags="pop, alternative, indie rock, independent, leeds, lms artist, west yorkshire" role="button">
 The Research - Lonely Hearts Still Beat The Same (2005)
 </li>
+<li data-cover="https://img.discogs.com/UJe3SUojhgwIAMLgjpY94okoDh8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166398-1537950001-3960.jpeg.jpg" data-tags="rock, soul, punk, hardcore, indie rock, ska, ska punk, boston, ska-punk, independent, neo soul, neo-soul, skacore, massachusetts, quincy" role="button">
+The Glow - The Ghosts Are Out (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
 Johnossi - Johnossi (2005-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/adba79eb-a415-37ab-9958-e868612249b8/6388496470-500.jpg" data-tags="indie pop, tadhg cooke" role="button">
+Tadhg Cooke - Wax & Seal (2005-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb6ead49-5a5f-4bbc-a63b-a9c54dc4685c/9371569294-500.jpg" data-tags="post-hardcore" role="button">
 Lack - Be There Pulse (2005-04)
@@ -173,6 +173,9 @@ Hell On Wheels - The odd church (2006-03-22)
 </li>
 <li data-cover="https://img.discogs.com/rgyxxzKhQZcpmow0ciW_ga3jx6w=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13639908-1558078532-8160.jpeg.jpg" data-tags="indie, acoustic, guitar" role="button">
 Josh Gray - J'aime (2006-07-02)
+</li>
+<li data-cover="https://img.discogs.com/RhiJ07cegXiFdqO-bwO-3L-GST8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030118-1185957694.jpeg.jpg" data-tags="metal, independent, leeds, lms artist, west yorkshire" role="button">
+Tangaroa - Day (2006-08-07)
 </li>
 <li data-cover="https://img.discogs.com/bX__werl5UulpJOjIWrbKPqDK6k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11812319-1522797050-7414.jpeg.jpg" data-tags="indie, rock, indy, independent, podsafe, discoverockult" role="button">
 Hotspur - Beta (2006-08-15)
@@ -209,9 +212,6 @@ Anajo - Hallo, wer kennt hier eigentlich wen? (2007-02-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="british, alternative" role="button">
 ¡Forward, Russia! - Don't Be A Doctor (2007-02-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/78ed7599-a9e4-41fd-93ff-108a89876afc/1373397607-500.jpg" data-tags="hip-hop" role="button">
-J Dilla - Jay Love Japan (2007-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/769367f8-965f-45a5-aa77-3bd5e0a1c714/1087994923-500.jpg" data-tags="indie, rock, punk, alternative, sad, dark, new wave, post-punk, postpunk, independent, fully downloadable albums, fully streamable ep which i have streamed fully, wave-rock" role="button">
 Stromble Fix - lägger äse (2007-05-08)
@@ -297,6 +297,9 @@ Obtenebris - Dust of Time (2009-08-02)
 <li data-cover="https://img.discogs.com/EEGvZmGcZ9aQCsLEjTgCuLjikR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3078485-1314693230.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, indie, chill, alternative, experimental, female vocalists, post-rock, downtempo, australian, dark, new wave, indietronica, minimal, dreamy, lounge, trip hop, mellow, ethereal, folktronica, chilled, post rock, triphop, female vocals, australia, female vocalist, ballad, lesser known yet streamable artists, female singer, independent, female fronted electro, alternative female vocalists, artists who are lastfm users, elektro target, pixies palace, chez musinum, central point, vocal electronica, network, vocal electronic, alt-electro, 21stcentury, cybermusic, dementio13, melancholy lounge, pixieguts, aeo, preset, independent artists, free mp3 artist radio, dandelion radio, ide, alternative female vocalist" role="button">
 Cwtch - City To City (2009-08-24)
 </li>
+<li data-cover="https://img.discogs.com/xIbEMDf_-k7HBbNYcIelWqt0WUY=/fit-in/466x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15556140-1593550031-4995.jpeg.jpg" data-tags="metal, brutal, unsigned, unhinged, swinging, chicago, independent, badass, incredible, empowering, groove metal, face melting, elite, power groove, lesson, junior, jason, sanctity, sepultura like, pantera like, slipknot like, bigtruck, push beyond, krankenstein, declaring war, my reign" role="button">
+Habit of Force - Submission Denied (2010)
+</li>
 <li data-cover="https://img.discogs.com/Nb9JqIJQBgHeP6UvOQosofmdoFQ=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8133211-1455758123-4607.jpeg.jpg" data-tags="vorgemerkt" role="button">
 Deep Sea Diver - Repatriate (2010-04-01)
 </li>
@@ -305,9 +308,6 @@ Major Kong - Orogenesis (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/n8z66ZpPAYB9SbtoWiyMyQyIH1Y=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3215116-1320803969.jpeg.jpg" data-tags="peace, los angeles, underground, independent, goodlife, aceyalone, project blowed, rifleman, fun to skateboard to, freestyle fellowship, excellent lyricism, myka 9, self jupiter, hines, volume 10, leimert park, goodlife mcs, j-smoov, jsmoovinleimert, kaos network, king badru, leimert park tow, mikah -9, mikah nine, open-mi" role="button">
 Freestyle Fellowship - The Promise (2011-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e62c28b3-1ca6-4b8c-8036-601d422a8891/12314593151-500.jpg" data-tags="experimental, lo-fi, independent, sweet, perfection, underplayed, 10 out of 10, made of awesome and win, flaming june" role="button">
-Katie Kim - Cover & Flood (2012)
 </li>
 <li data-cover="https://img.discogs.com/uXdqMJaLF5u8nUhHbf4IFjAq-Sc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3599447-1336862945-7292.jpeg.jpg" data-tags="independent, sublime, incredible, stunning, brilliant lyrics, 2012 albums, we need armor" role="button">
 Dawn Richard - Armor On (2012-03-27)

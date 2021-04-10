@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:28:01.440Z
+date: 2021-04-10T12:50:07.085Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -57,9 +57,6 @@ Butthole Surfers - Locust Abortion Technician (1987-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
 </li>
-<li data-cover="https://img.discogs.com/Mlsyf08JR2XWL0MajoKztMIQbG8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399498-1599418546-7381.jpeg.jpg" data-tags="noise rock, post-hardcore" role="button">
-Rapeman - Two Nuns and a Pack Mule (1988-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
 </li>
@@ -78,20 +75,14 @@ The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
 Butthole Surfers - Independent Worm Saloon (1993-03-23)
 </li>
+<li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
+Polvo - Today's Active Lifestyles (1993-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/13cb27a3-a149-4aa3-93e3-47b2cc6e0ab7/26663400234-500.jpg" data-tags="math rock, noise rock, post-hardcore" role="button">
-Shellac - At Action Park (1994-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/23ac0966-5414-4177-a599-6883e92964c4/7940049824-500.jpg" data-tags="indie rock" role="button">
-Blonde Redhead - Blonde Redhead (1995-01-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5c17241-a530-4a59-ae30-147407daa7f9/29014697539-500.jpg" data-tags="noise rock" role="button">
-The Jesus Lizard - Shot (1996-04-16)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
@@ -117,11 +108,17 @@ Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
 <li data-cover="http://coverartarchive.org/release/76a1b5df-8af7-4c78-8c44-f15ce08c2eb1/3348973628-500.jpg" data-tags="noise rock" role="button">
 Shellac - 1000 Hurts (2000-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c800ba5-ec17-4f57-9c11-1ceb4e937440/20851755963-500.jpg" data-tags="noise rock, stoner rock, ipecac" role="button">
+Melvins - The Crybaby (2000-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Leaves Turn Inside You (2001-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/f5629cbf-9f10-49fc-a72c-a263b53dfb5a/27078039118-500.jpg" data-tags="post-hardcore, post hardcore" role="button">
+Rival Schools - United By Fate (2001-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fcc728b-2e2a-4b4c-94a3-e01da5e596ae/20102489085-500.jpg" data-tags="psychedelic rock" role="button">
 Les Rallizes Dénudés - Heavier Than A Death In The Family (2002)
@@ -132,11 +129,11 @@ mclusky - mclusky Do Dallas (2002-02-25)
 <li data-cover="https://img.discogs.com/zjUyWAOCKKRO0GZFI3KUhGsT9JQ=/fit-in/400x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11890340-1525188565-1377.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Murray Street (2002-06-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/ea719664-47cb-41cc-b5df-ec3ce7d5ab31/27629719871-500.jpg" data-tags="mathcore" role="button">
+Daughters - Daughters (2002-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/f626b8d5-67a6-4bc7-82cd-4a0c24c8ed5d/11799177283-500.jpg" data-tags="noise rock" role="button">
 Lightning Bolt - Wonderful Rainbow (2003-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/34bec82a-41c0-35a5-aa99-9b94517b9d0a/9544109904-500.jpg" data-tags="indie rock, indie" role="button">
-Deerhoof - Apple O' (2003-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d60edd1-f1d0-4c29-a2a3-f9ad2d3f2de7/4808033952-500.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Sonic Nurse (2004-06-07)
@@ -150,8 +147,8 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock" role="button">
 The Mae Shi - HLLLYH (2007)
 </li>
-<li data-cover="https://img.discogs.com/yyEJnDmsAgi2MtnxbEkNB6F0qCs=/fit-in/597x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477527-1363988511-9599.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Deerhoof - Friend Opportunity (2007-01-22)
+<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
+The Horrors - Strange House (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8e850b0-f816-41cf-8fd7-625e2e03ea6f/21355592306-500.jpg" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">
 The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
@@ -159,14 +156,14 @@ The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="noise rock, 2007 releases, peacedogman" role="button">
+Pissed Jeans - Hope For Men (2007-06-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/8541b1c1-ab31-4b75-a3c9-5dde5e6f2266/23905573829-500.jpg" data-tags="noise rock" role="button">
 No Age - Weirdo Rippers (2007-06-11)
 </li>
-<li data-cover="https://img.discogs.com/VZlzejrrxZQ4j4-hTLJo-cmqpUk=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039866-1267920531.jpeg.jpg" data-tags="shoegaze" role="button">
-A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
-Liars - Liars (2007-08-20)
+<li data-cover="http://coverartarchive.org/release/3a31f314-b55d-45ed-9ad2-832503d7d6af/26607619749-500.jpg" data-tags="noise rock" role="button">
+Future of the Left - Curses (2007-09-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
@@ -177,8 +174,8 @@ No Age - Nouns (2008-05-06)
 <li data-cover="https://img.discogs.com/IBmiYwiDaKRlah6HX1SvQD2HhqA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466864-1282221333.jpeg.jpg" data-tags="noise rock, crazy, noise pop, art rock, wind and rain and ice and snow" role="button">
 Ponytail - Ice Cream Spiritual (2008-06-17)
 </li>
-<li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
-Women - WOMEN (2008-07-08)
+<li data-cover="http://coverartarchive.org/release/d902bccd-dc5e-4d06-8657-f8cdcf868189/13010976840-500.jpg" data-tags="noise rock" role="button">
+Young Widows - Old Wounds (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
@@ -219,14 +216,14 @@ Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
 <li data-cover="https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg" data-tags="noise pop" role="button">
 Sleigh Bells - Treats (2010-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage" role="button">
-Ty Segall - Melted (2010-05-25)
-</li>
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
+</li>
+<li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
+Klaxons - Surfing the Void (2010-08-20)
 </li>
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
@@ -281,6 +278,9 @@ Swans - The Seer (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d46df6-ee00-4f79-ad1b-549620812d99/2251994757-500.jpg" data-tags="noise rock" role="button">
 METZ - Metz (2012-10-08)
+</li>
+<li data-cover="https://img.discogs.com/2aoU6QDNwBw4Rw0m_ZiGFl61Saw=/fit-in/319x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4283330-1360628478-4183.jpeg.jpg" data-tags="noise rock" role="button">
+Pissed Jeans - Honeys (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/735c3c9f-8317-44ab-ab71-826f51d10acc/3198810863-500.jpg" data-tags="post-punk" role="button">
 Iceage - You're Nothing (2013-02-18)

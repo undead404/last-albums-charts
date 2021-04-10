@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:02:01.418Z
+date: 2021-04-10T13:32:01.618Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -24,14 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/33d6956e-3fb0-3a6b-8a47-cc2f3be2b183/20681910422-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
-<li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
-Black Flag - Damaged (1981)
-</li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">
-Black Flag - My War (1984-03)
 </li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
@@ -41,9 +35,6 @@ Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/a570d143-3749-42cb-84a1-63ab6e6f3b05/24579314447-500.jpg" data-tags="hardcore" role="button">
-Ignite - A Place Called Home (2000-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
@@ -96,6 +87,9 @@ Avenged Sevenfold - Waking The Fallen (2003-08-26)
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/9423fbcf-c2ac-49ee-a967-76f2ca97d6f3/1074828919-500.jpg" data-tags="nintendocore, hardcore" role="button">
+HORSE the band - R. Borlax (2003-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/5dcadd78-4d53-3751-a96b-7911444e1934/20441659819-500.jpg" data-tags="hardcore" role="button">
 Hatebreed - The Rise Of Brutality (2003-10-28)
 </li>
@@ -141,9 +135,6 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/c558e640-ca93-410b-a925-6d88f844fcf8/944255554-500.jpg" data-tags="metalcore" role="button">
 As I Lay Dying - Shadows Are Security (2005-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/de118cde-2306-440f-a1f9-f849541c56ff/4933169441-500.jpg" data-tags="hardcore" role="button">
-Modern Life Is War - Witness (2005-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - All's Well That Ends Well (2005-07-26)
 </li>
@@ -159,8 +150,14 @@ Protest the Hero - Kezia (2005-08-30)
 <li data-cover="http://coverartarchive.org/release/cce39342-31fe-4e87-903f-6dfc1ab5d646/1065535590-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Killing With a Smile (2005-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9c2c83b-95e7-4889-82d7-65ff6bf7353c/26394820511-500.jpg" data-tags="nintendocore" role="button">
+HORSE the band - The Mechanical Hand (2005-09-20)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Bullet for My Valentine - The Poison (2005-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
+August Burns Red - Thrill Seeker (2005-11-08)
 </li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
@@ -222,6 +219,9 @@ Emmure - Goodbye To The Gallows (2007-03-06)
 <li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
 Enter Shikari - Take To The Skies (2007-03-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
+Maylene and the Sons of Disaster - II (2007-03-20)
+</li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
@@ -246,6 +246,9 @@ The Devil Wears Prada - Plagues (2007-08-21)
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
+Chiodos - Bone Palace Ballet (2007-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Horizons (2007-10-06)
 </li>
@@ -257,9 +260,6 @@ Norma Jean - The Anti Mother (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/048b7c34-bcc5-4d2f-8340-9ffb58be3a73/3366417314-500.jpg" data-tags="hardcore" role="button">
-Defeater - Travels (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg" data-tags="deathcore, metalcore" role="button">
 Bring Me the Horizon - Suicide Season (2008-09-29)
@@ -309,14 +309,14 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
 </li>
-<li data-cover="https://img.discogs.com/FSNVz6ClhLwEqnQppWgCn_Hdp5M=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955044-1415198215-4656.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
-Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - The Flood (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/44df54f1-4731-4340-9778-1164f47e94f9/4085458651-500.jpg" data-tags="post-hardcore" role="button">
 Falling in Reverse - The Drug In Me Is You (2011-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/83e6ecc2-662d-45fd-bdea-585d94303cce/2421759627-500.jpg" data-tags="metalcore" role="button">
+Parkway Drive - Atlas (2012-10-26)
 </li>
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)

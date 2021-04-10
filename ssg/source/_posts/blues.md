@@ -1,10 +1,10 @@
 ---
-date: 2021-04-10T08:47:01.436Z
+date: 2021-04-10T13:31:07.296Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">Tom Waits - Closing Time (1973-05)</li>
+<li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">Etta James - At Last (1960-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">Eric Clapton - Unplugged (1992-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
@@ -84,9 +84,6 @@ The Rolling Stones - Exile on Main St. (1972-05-12)
 <li data-cover="https://img.discogs.com/swjQP0NRI3WM4nR0gjmRDXm3bsc=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141213-1327063773.jpeg.jpg" data-tags="classic rock, blues" role="button">
 Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
-Tom Waits - Closing Time (1973-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -105,8 +102,8 @@ Tom Waits - Small Change (1976-10)
 <li data-cover="http://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739-500.jpg" data-tags="blues" role="button">
 Tom Waits - Blue Valentine (1978-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/77d38310-5392-4ac4-85fe-35c1a999210d/13858018994-500.jpg" data-tags="blues" role="button">
-Tom Waits - Swordfishtrombones (1983)
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Billie Holiday - Billie Holiday (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3dc583d-dafd-386d-9fe3-6a324bb7fa28/23327712610-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
@@ -134,9 +131,6 @@ Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
 <li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
 Eric Clapton - Tears in Heaven (1992-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c507e78c-4f02-4765-8ca4-1d919bbde08c/9574171273-500.jpg" data-tags="blues, experimental, singer-songwriter" role="button">
-Tom Waits - Bone Machine (1992-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
@@ -168,11 +162,8 @@ B.B. King - Deuces Wild (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/21efbb0a-73b0-479f-9ef3-031bf7c5af49/26956464560-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Alice (1999)
 </li>
-<li data-cover="https://img.discogs.com/hWDqh0XXTI0Yba-4Homa6PrxF-M=/fit-in/201x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4526066-1367378651-2853.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
-Tom Waits - Mule Variations (1999-04-14)
-</li>
-<li data-cover="https://img.discogs.com/8zK5BwN0CGHQkHoEDnU7l_JJD5k=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16083116-1603191699-6994.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
-Morphine - The Night (2000-02-01)
+<li data-cover="http://coverartarchive.org/release/e8eb987c-7514-4ee1-a052-f09458b8f8db/15337426460-500.jpg" data-tags="blues" role="button">
+Muddy Waters - The Best Of Muddy Waters (1999)
 </li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
 B.B. King & Eric Clapton - Riding with the King (2000-06-07)
@@ -182,6 +173,9 @@ Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/f883bcc3-206d-4788-9674-0bfe09735888/19263212495-500.jpg" data-tags="soul, blues" role="button">
+Ray Charles - The Very Best of Ray Charles (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b58cd2-2a2f-36ad-81b3-7ab044d01d19/9200502912-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Thickfreakness (2003-04-08)
@@ -246,6 +240,9 @@ Christina Aguilera - Back to Basics (2006-08-14)
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
+Cold War Kids - Robbers & Cowards (2006-10-10)
+</li>
 <li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
 Scott Matthews - Passing Stranger (2007-03-12)
 </li>
@@ -308,6 +305,9 @@ King Krule - 6 Feet Beneath The Moon (2013-08-24)
 </li>
 <li data-cover="https://img.discogs.com/sYd5Lrm4YwtXrHgST3NX0pV2SKI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139742-1385570134-1229.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
 Aloe Blacc - Wake Me Up (2013-09-24)
+</li>
+<li data-cover="https://img.discogs.com/CRb0Gk5Yo5pl0J6FZ1BqhuAcSw4=/fit-in/599x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5377841-1391891764-4561.jpeg.jpg" data-tags="indie rock, indie, indie pop" role="button">
+Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:26:06.989Z
+date: 2021-04-10T13:01:01.683Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -9,11 +9,11 @@ title: "live: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/647617b9-2792-34ed-8c1c-307dcc046fdf/24652265801-500.jpg" data-tags="industrial, live, industrial metal" role="button">Marilyn Manson - The Last Tour On Earth (1999-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">Bright Eyes - Motion Sickness (2001-01-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)</li>
+<li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">Stereophonics - Live From Dakota (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">Coldplay - LeftRightLeftRightLeft (2009-05-15)</li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">The White Stripes - Under Great White Northern Lights (2010-03-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -162,9 +162,6 @@ Tool - Salival (2000-12-12)
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
-Legião Urbana - Como é que se diz eu te amo (2001-03)
-</li>
 <li data-cover="https://img.discogs.com/B5pmuFgY3MtL88e1nH3kOXo_0-k=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-505696-1371179473-1118.jpeg.jpg" data-tags="indie, acoustic, live" role="button">
 Jeff Mangum - Live at Jittery Joe's (2001-08-28)
 </li>
@@ -179,6 +176,9 @@ Nine Inch Nails - And All That Could Have Been (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
+</li>
+<li data-cover="https://img.discogs.com/V6AYvgjzBGbHxkxdiNi5qQVyuhg=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3421516-1515275738-5492.jpeg.jpg" data-tags="live, indie" role="button">
+The Frames - Set List (2003-05-16)
 </li>
 <li data-cover="https://img.discogs.com/aiGtfbrmX10NazhTRVrB3Y0fvOo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813694-1161458280.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
@@ -234,6 +234,9 @@ Green Day - Bullet in a Bible (2005-11-11)
 <li data-cover="https://img.discogs.com/gQbSyOJ5pxQiPDxD2qSl7HxIj7k=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677050-1584810876-7476.jpeg.jpg" data-tags="live, at this concert" role="button">
 Wilco - Kicking Television: Live in Chicago (2005-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/c16704e7-6827-4eb7-a81b-35b1dc868de4/15472469630-500.jpg" data-tags="metalcore" role="button">
+Killswitch Engage - (Set This) World Ablaze (2005-11-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
 John Mayer Trio - Try! (2005-11-22)
 </li>
@@ -263,9 +266,6 @@ The Used - Berth (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8032396-e76c-3a57-9d1c-4e92e5e0125c/3375659069-500.jpg" data-tags="live" role="button">
 City and Colour - Live (2007-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf8cd704-686f-417b-be9d-a049d233f259/4731911358-500.jpg" data-tags="thrash metal, heavy metal" role="button">
-Megadeth - That One Night: Live in Buenos Aires (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/183922a5-a5fc-4b7e-b909-82231d3bd9e5/7751021680-500.jpg" data-tags="rock, live" role="button">
 Queen - Rock Montreal (2007-10-26)
@@ -300,9 +300,6 @@ Coldplay - LeftRightLeftRightLeft (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
 David Bowie - A Reality Tour (2010-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
-The White Stripes - Under Great White Northern Lights (2010-03-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/3d51dab8-ace9-3a5c-8f0a-6f841a7b794d/1559544631-500.jpg" data-tags="live" role="button">
 Madonna - Sticky & Sweet Tour (2010-03-26)
 </li>
@@ -314,6 +311,9 @@ Taylor Swift - Speak Now World Tour Live (2011-11-21)
 </li>
 <li data-cover="https://img.discogs.com/anJe-lAVR0g26n2W3CgCWM27KmU=/fit-in/469x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4483568-1366169526-5803.jpeg.jpg" data-tags="live 2012, live" role="button">
 Coldplay - Live 2012 (2012-11-19)
+</li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="https://img.discogs.com/4kVuAt__MwM_SkTymSf2DP-gKyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5828215-1403816473-3637.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Tame Impala - Live Versions (2014-04-19)

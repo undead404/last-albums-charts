@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:46:07.082Z
+date: 2021-04-10T13:30:01.706Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -213,6 +213,9 @@ Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 <li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
 Dirty Beaches - Badlands (2011-03-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/42065b7e-fa17-4589-99f0-04d605adbdaa/14114675414-500.jpg" data-tags="lo-fi" role="button">
+Vivian Girls - Share the Joy (2011-04-12)
+</li>
 <li data-cover="https://img.discogs.com/wkNlk8DexL-Q6Ivt-vKCVwjdrHQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871890-1304970303.jpeg.jpg" data-tags="experimental, freak folk, 4ad" role="button">
 tUnE-yArDs - w h o k i l l (2011-04-18)
 </li>
@@ -252,9 +255,6 @@ Perfume Genius - Put Your Back N 2 It (2012-02-17)
 <li data-cover="http://coverartarchive.org/release/ca5c3d91-9e78-445c-9235-2caa32c0dc92/25777937757-500.jpg" data-tags="lo-fi" role="button">
 Waxahatchee - American Weekend (2012-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a47b5ae4-6ff9-49d4-b480-347908458b78/26935470480-500.jpg" data-tags="indie rock" role="button">
-Mac DeMarco - Rock and Roll Night Club (2012-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
 </li>
@@ -270,9 +270,6 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">
 The Antlers - Undersea (2012-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
 Alex G - TRICK (2012-11-06)
 </li>
@@ -287,6 +284,9 @@ Autre Ne Veut - Anxiety (2013-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/90331d52-7f39-4987-a76e-48c920c20aa1/3783288411-500.jpg" data-tags="rock, garage rock" role="button">
+Wavves - Afraid Of Heights (2013-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)

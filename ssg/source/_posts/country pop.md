@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:21:01.399Z
+date: 2021-04-10T13:42:06.984Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -24,14 +24,20 @@ _________________
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
+<li data-cover="http://coverartarchive.org/release/6ad8695f-1d29-495f-bdfe-ba67c55e944e/24648265202-500.jpg" data-tags="70s, c gayle" role="button">
+Crystal Gayle - We Must Believe In Magic (1977)
+</li>
 <li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
 Glen Campbell - Southern Nights (1977-02)
 </li>
-<li data-cover="https://img.discogs.com/uhShPT4o0HiuyOpy0hSJQawuCtg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2589121-1392873615-8230.jpeg.jpg" data-tags="80s" role="button">
-Dolly Parton - 9 To 5 And Odd Jobs (1980-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca3fc917-deaf-4a15-9cbc-dbf37f9f5e9b/5679177340-500.jpg" data-tags="country" role="button">
 Willie Nelson - Always On My Mind (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b20dc91-cd3c-4df4-93fb-af994c1d61b8/21567489161-500.jpg" data-tags="country" role="button">
+Garth Brooks - No Fences (1990-08-27)
+</li>
+<li data-cover="https://img.discogs.com/GYILPwt0ehej8j56L-6BRJ5y6xo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12491953-1536348160-1347.jpeg.jpg" data-tags="usa, compilation, country pop, 00s" role="button">
+The Bellamy Brothers - Best of the Best (1992)
 </li>
 <li data-cover="https://img.discogs.com/ycYgoJHJs2Na9b5nHnML7P_mOW4=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6671031-1424291933-4912.jpeg.jpg" data-tags="country" role="button">
 Martina McBride - The Way That I Am (1993-09-14)
@@ -51,17 +57,17 @@ Reba McEntire - Read My Mind (1994-04-26)
 <li data-cover="https://img.discogs.com/pAKaNMcVw3-Vj6P_FpeUQ6p6gXo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435832-1197757353.jpeg.jpg" data-tags="eurodance" role="button">
 Rednex - Sex & Violins (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/60137615-99da-340e-84cf-0606356e1125/6132686001-500.jpg" data-tags="country" role="button">
-Shania Twain - The Woman In Me (1995-02-07)
+<li data-cover="http://coverartarchive.org/release/449e8f48-40a1-3486-886d-ceb3393d1089/22085040754-500.jpg" data-tags="country, terri clark" role="button">
+Terri Clark - Terri Clark (1995-08-08)
 </li>
 <li data-cover="https://img.discogs.com/ZLUz5TPxdgBnxUxba4twgmD_iMo=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2069946-1262246966.jpeg.jpg" data-tags="country" role="button">
 Faith Hill - It Matters to Me (1995-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/8484e5b1-b88f-4ca9-83ec-f466d7982104/22048997148-500.jpg" data-tags="goodcountry, mcbide" role="button">
+Martina McBride - Wild Angels (1995-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/053c38a0-1cda-4ccf-a8dd-c1acf8b395de/22060604615-500.jpg" data-tags="country, garth brooks" role="button">
 Garth Brooks - Fresh Horses (1995-11-21)
-</li>
-<li data-cover="https://img.discogs.com/sE1T9hUyUW0QG9XtP_MwVOXf24A=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7571210-1444263508-8461.jpeg.jpg" data-tags="country, country pop" role="button">
-LeAnn Rimes - Blue (1996-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/49fd4110-3b0d-41c6-968a-42345e0ee68b/22060725799-500.jpg" data-tags="country pop, modern country, contemporary country" role="button">
 Kevin Sharp - Measure Of A Man (1996-09-24)
@@ -69,11 +75,11 @@ Kevin Sharp - Measure Of A Man (1996-09-24)
 <li data-cover="http://coverartarchive.org/release/d9cf6052-0682-4ca3-b89b-4b563d075ea2/21187265585-500.jpg" data-tags="country, brooks and dunn" role="button">
 Brooks & Dunn - Greatest Hits (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f9b566e-fb18-4a72-91c8-9e72d3d62af5/6310429808-500.jpg" data-tags="female vocalists, easy listening" role="button">
-k.d. lang - Drag (1997-06-10)
-</li>
 <li data-cover="https://img.discogs.com/faB_-tEElnsFZt1mt4QCSLCA_Tk=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8648129-1466040642-2252.jpeg.jpg" data-tags="country, female vocalists, country pop, pop country, 90s country, country-crossover, country divas, ladies of country, 90s country-pop, 90s country pop, m bride" role="button">
 Martina McBride - Evolution (1997-08-26)
+</li>
+<li data-cover="https://img.discogs.com/wcHWm7ZN0DmVzC3W0dfV4CJybbk=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9029127-1586477800-6585.jpeg.jpg" data-tags="country" role="button">
+LeAnn Rimes - You Light Up My Life: Inspirational Songs (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Come on Over (1997-11-04)
@@ -81,14 +87,8 @@ Shania Twain - Come on Over (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/f42ed420-5df1-44d5-a9fd-9b571002ebb9/26646573035-500.jpg" data-tags="pop, country" role="button">
 Restless Heart - Greatest Hits (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
-Dixie Chicks - Wide Open Spaces (1998-01-27)
-</li>
 <li data-cover="https://img.discogs.com/s4m95FOuORiQxm4FwcIzHreL84I=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9591069-1573305772-6225.jpeg.jpg" data-tags="country" role="button">
 Faith Hill - Faith (1998-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0878f83-4b85-4124-89c7-eb86733be61a/17661420020-500.jpg" data-tags="country pop" role="button">
-LeAnn Rimes - Sittin' on Top of the World (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d845523-a674-406a-a93d-2b66c1329169/26642280411-500.jpg" data-tags="country, female vocalists, 90s, country pop, pop country, 1990s, 90s country, country-crossover, country divas, ladies of country, 90s country-pop, favorite artist-band, 90s country pop, m bride" role="button">
 Martina McBride - Emotion (1999-02-09)
@@ -111,9 +111,6 @@ LeAnn Rimes - LeAnn Rimes (1999-10-26)
 <li data-cover="https://img.discogs.com/FVqQKfvmlWg9qr9gQTtyiEybOS4=/fit-in/505x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9017805-1473510456-2459.jpeg.jpg" data-tags="country" role="button">
 Faith Hill - Breathe (2000-05-08)
 </li>
-<li data-cover="https://img.discogs.com/I15ThjPZVjFPbdkhiL1_4C7bKdg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9757895-1510661558-4833.jpeg.jpg" data-tags="country" role="button">
-Rascal Flatts - Rascal Flatts (2000-06-06)
-</li>
 <li data-cover="https://img.discogs.com/1W0VNVjD24tviPLcPvTdgAwnVew=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2397609-1420294713-2113.jpeg.jpg" data-tags="country" role="button">
 LeAnn Rimes - I Need You (2000-07-18)
 </li>
@@ -128,9 +125,6 @@ LeAnn Rimes - Twisted Angel (2002-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4559308-a761-3279-8243-35952f3aeb7a/19438296770-500.jpg" data-tags="country" role="button">
 Faith Hill - Cry (2002-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/851b631c-a923-4073-8aed-78dbbe56e34c/4318153854-500.jpg" data-tags="country" role="button">
-Rascal Flatts - Melt (2002-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/f51dc5d8-9ede-474e-a5d5-6ac95dd6112a/21859992537-500.jpg" data-tags="dance" role="button">
 Rednex - The Best of the West (2002-11-18)
@@ -149,9 +143,6 @@ Sara Evans - Restless (2003-08-19)
 </li>
 <li data-cover="https://img.discogs.com/rnQVk8md3NB1fsg8Zqrb_a1UB0c=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2471077-1286280855.jpeg.jpg" data-tags="country" role="button">
 Martina McBride - Martina (2003-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/65f8ad28-acdf-40cb-b1db-a796c9e4d3b7/26645870377-500.jpg" data-tags="country, female singer songwriter" role="button">
-Mary Chapin Carpenter - The Essential Mary Chapin Carpenter (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4c76621-26e8-4c79-b449-f210eeb539b6/17468658946-500.jpg" data-tags="country" role="button">
 LeAnn Rimes - The Best of LeAnn Rimes (2004-02-02)
@@ -180,6 +171,9 @@ Aly & AJ - Into the Rush (2005-08-16)
 <li data-cover="http://coverartarchive.org/release/538329ea-1087-4ef6-800e-d9069cabd299/19388646151-500.jpg" data-tags="country" role="button">
 Little Big Town - The Road to Here (2005-10-04)
 </li>
+<li data-cover="https://img.discogs.com/vp8uU0eODPZwdO20KExRLFCdf2A=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7671878-1446403018-2382.jpeg.jpg" data-tags="country" role="button">
+Martina McBride - Timeless (2005-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
@@ -191,6 +185,9 @@ Dixie Chicks - Taking The Long Way (2006-04-04)
 </li>
 <li data-cover="https://img.discogs.com/xFrIQJnXSfVK9N_bCXR9rvb9uJk=/fit-in/445x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402301-1216632404.jpeg.jpg" data-tags="country" role="button">
 The Wreckers - Stand Still, Look Pretty (2006-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d9981b1-c76e-3722-8609-85189cc6a883/15319900299-500.jpg" data-tags="country, female vocalists, singer-songwriter, 00s" role="button">
+LeAnn Rimes - Whatever We Wanna (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/64428544-ade7-4a82-ac93-8f797990bfe9/15750719475-500.jpg" data-tags="country, sweet songs" role="button">
 Rodney Atkins - If You're Going Through Hell (2006-07-18)
@@ -213,9 +210,6 @@ Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/dc56dfd8-b72f-499f-bfe4-e20d2e680067/17234830279-500.jpg" data-tags="country" role="button">
 Faith Hill - The Hits (2007-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/5433150e-c4ec-4483-8533-9dd4a4feebd5/15319558202-500.jpg" data-tags="country" role="button">
-LeAnn Rimes - Family (2007-10-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/1ae35324-42a2-4cd8-880e-9d810ef964b2/6121102106-500.jpg" data-tags="country" role="button">
 Carrie Underwood - Carnival Ride (2007-10-23)
 </li>
@@ -230,6 +224,9 @@ Taylor Swift - Beautiful Eyes (2008-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cd145f5-a5f1-44e7-b4aa-6951dcc57952/25970423591-500.jpg" data-tags="country" role="button">
 Kellie Pickler - Kellie Pickler (2008-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e6552ed-7c89-4fb1-9db4-d8c4e11c7624/10151861745-500.jpg" data-tags="reba mcentire-50 hits" role="button">
+Reba McEntire - 50 Greatest Hits (2008-10-28)
 </li>
 <li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)
@@ -288,9 +285,6 @@ Luke Bryan - Tailgates & Tanlines (2011-08-09)
 <li data-cover="https://img.discogs.com/-AaM238cQ-tI0TXoRWXfVNZhdHw=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9519370-1484442560-7043.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Own the Night (2011-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a23b683f-5d70-4250-94e3-5b8de2281283/6656877434-500.jpg" data-tags="country, 2010s" role="button">
-Miranda Lambert - Four the Record (2011-11-01)
-</li>
 <li data-cover="https://img.discogs.com/wChLj95dyM62qYlsECzUPmYPK0o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3575808-1335954973.jpeg.jpg" data-tags="country, country pop" role="button">
 Carrie Underwood - Blown Away (2012-05-01)
 </li>
@@ -300,6 +294,9 @@ Little Big Town - Pontoon (2012-05-18)
 <li data-cover="http://coverartarchive.org/release/1768bc0e-8a89-437c-874d-7db6d5693879/14534292856-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Merry Go 'Round (2012-09-18)
 </li>
+<li data-cover="https://img.discogs.com/2Fq6Y1VNk-g_z-Ee82QNqzJlSdQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3163382-1609127009-9982.jpeg.jpg" data-tags="country pop, 10s, 2010s, ladies of country, 10s country" role="button">
+Faith Hill - American Heart (2012-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="pop, country" role="button">
 Taylor Swift - Red (2012-10-22)
 </li>
@@ -308,6 +305,9 @@ Kacey Musgraves - Same Trailer Different Park (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/44c22b01-d045-4759-b0f9-e0c30b3ab124/6893165050-500.jpg" data-tags="country" role="button">
 The Band Perry - Pioneer (2013-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/17a0eaf2-f9fa-46a8-a47b-2e246c694c68/4083442459-500.jpg" data-tags="country" role="button">
+LeAnn Rimes - Spitfire (2013-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfaf46c6-d2b5-4a67-9113-705b982fb4d9/5633586543-500.jpg" data-tags="country, country pop, sara evans -slow me down" role="button">
 Sara Evans - Slow Me Down (2013-09-23)

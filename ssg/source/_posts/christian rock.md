@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:41:01.389Z
+date: 2021-04-10T13:05:01.624Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -60,14 +60,14 @@ Third Day - Come Together (2001-11-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian" role="button">
 Pillar - Fireproof (2002-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
-Something Corporate - Leaving Through the Window (2002-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/002cb686-6c99-4c5a-bcd8-91d0d95d7c63/9311799375-500.jpg" data-tags="jeremy camp, christian rock" role="button">
 Jeremy Camp - Stay (2002-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/af158d94-eb6f-4f1f-a8a2-f685b60b132e/5502763714-500.jpg" data-tags="christian rock" role="button">
+Relient K - Two Lefts Don't Make a Right... But Three Do (2003-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
 Anberlin - Blueprints For The Black Market (2003-04-24)
@@ -149,9 +149,6 @@ Third Day - Wherever You Are (2005-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36d3bd4f-9203-466c-a2c8-38f091874277/4889671995-500.jpg" data-tags="pop punk" role="button">
 FM Static - Critically Ashamed (2006-01-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b364240-2d5f-43dd-8120-9cd490a41221/15039745511-500.jpg" data-tags="rock" role="button">
-Plumb - Chaotic Resolve (2006-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a3210c8-5c3e-48c8-8e8b-4e91d9610256/2220936532-500.jpg" data-tags="christian rock" role="button">
 Kutless - Hearts of the Innocent (2006-03-21)
@@ -287,6 +284,9 @@ Casting Crowns - Until The Whole World Hears (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a86e678a-7c87-4f31-8f88-732879b49d84/8887573089-500.jpg" data-tags="rock, alternative rock, hard rock, christian rock, fireflight" role="button">
 Fireflight - For Those Who Wait (2010-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/94d24e69-2766-49cb-9ce1-addfc5157ab0/1797669855-500.jpg" data-tags="christian rock, hip-hop, christian, contemporary christian" role="button">
+TobyMac - Tonight (2010-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c72a398e-6cc9-4b27-ae48-c83e9c1d2e13/6986721749-500.jpg" data-tags="alternative rock, hard rock, christian, christian rock, rock, female vocalists, gothic metal" role="button">
 The Letter Black - Hanging On By A Thread (2010-04-30)

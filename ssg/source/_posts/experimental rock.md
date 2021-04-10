@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:08:01.418Z
+date: 2021-04-10T13:37:01.527Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -26,6 +26,9 @@ The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
+Pink Floyd - Ummagumma (1969-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
@@ -86,9 +89,6 @@ Beck - Mellow Gold (1994-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/73503b2d-538f-431b-9ff4-2c6af04f7beb/10401957300-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - The Great Annihilator (1995-01-23)
-</li>
-<li data-cover="https://img.discogs.com/65SvmbmWbrkpjkKGsS10kNiI9s8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3786354-1535394402-7842.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
-Primus - Tales From The Punchbowl (1995-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
@@ -222,8 +222,8 @@ Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
+<li data-cover="https://img.discogs.com/cdME9ogwCFjzneZRa6xwKUCJ13s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3843600-1346600405-8970.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
+Super Furry Animals - Dark Days/Light Years (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -254,9 +254,6 @@ Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca0e1a5-ab61-40e2-99c8-bab84f4ed5de/7767150878-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Diamond Eyes (2010-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
@@ -290,6 +287,9 @@ Battles - Gloss Drop (2011-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/842bf6e0-f562-4c2a-b240-a97c17820c1b/10745033351-500.jpg" data-tags="experimental rock, 4-5" role="button">
 Shaka Ponk - The Geeks and the Jerkin' Socks (2011-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3d38348-6cec-47da-92ad-49969812116b/28429823396-500.jpg" data-tags="alternative rock, experimental" role="button">
+Puscifer - Conditions of My Parole (2011-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)

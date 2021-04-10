@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:05:01.438Z
+date: 2021-04-10T13:06:01.672Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -8,11 +8,11 @@ title: "ska: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg" data-tags="90s, ska, rock" role="button">No Doubt - Tragic Kingdom (1995-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/c7c20200-53d7-49a0-9133-4259b442ff72/7695999165-500.jpg" data-tags="ska, ska punk" role="button">Reel Big Fish - Turn the Radio Off (1996-08-13)</li>
+<li data-cover="http://coverartarchive.org/release/e58d27fb-e833-4bdf-a742-65c5fc45648a/3374874042-500.jpg" data-tags="ska, ska punk" role="button">The Mighty Mighty Bosstones - Let's Face It (1997-03-11)</li>
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">Less Than Jake - Hello Rockview (1998-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">No Doubt - Rock Steady (2001-12-11)</li>
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">Streetlight Manifesto - Everything Goes Numb (2003-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
-<li data-cover="https://img.discogs.com/UE-WwdQeJlIDFFetntI6M_EF4kM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2623307-1550285510-8608.jpeg.jpg" data-tags="ska, roots, california, roots reggae, aleister crowley, christopher lee, acoustic ska, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, california reggae, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">Rebelution - Courage To Grow (2007-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">Streetlight Manifesto - Somewhere In The Between (2007-11-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -38,6 +38,9 @@ The Specials - More Specials (1980-10-04)
 </li>
 <li data-cover="https://img.discogs.com/QrUfqBdPRG_lJnavue4rHldfAJc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625555-1600930074-5109.jpeg.jpg" data-tags="ska, 80s" role="button">
 Madness - Complete Madness (1982-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
+Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
@@ -99,6 +102,9 @@ Less Than Jake - Losing Streak (1996-11-12)
 <li data-cover="http://coverartarchive.org/release/4f99448b-8031-46fe-a83b-d4772d1c3f64/16340812360-500.jpg" data-tags="ska" role="button">
 The Skatalites - Ball Of Fire (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/18e9245a-084c-420d-99af-fdcf362d92a0/7489614928-500.jpg" data-tags="ska" role="button">
+The Hippos - Forget the World (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
@@ -135,11 +141,20 @@ The Mighty Mighty Bosstones - Live From The Middle East (1998-10-20)
 <li data-cover="http://coverartarchive.org/release/a4926255-873e-44fd-ac3f-aa23c0286a10/16000973513-500.jpg" data-tags="ska" role="button">
 Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/d325a894-2df2-4ed9-9230-dfdf0c54ae24/11450087455-500.jpg" data-tags="rock" role="button">
+Los Hermanos - Los Hermanos (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a42ee49-9dbc-496b-9e2b-3afb10e6f765/11572913083-500.jpg" data-tags="ska" role="button">
 The Selecter - Too Much Pressure (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/c749b99e-5b95-4f15-8ede-c4e651dfddba/26642486330-500.jpg" data-tags="ska" role="button">
+Mustard Plug - Pray For Mojo (1999-03-16)
+</li>
 <li data-cover="https://img.discogs.com/26iUoLhV5IGa_TWTvpJF9b41G8E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146792-1603951387-6197.jpeg.jpg" data-tags="ska" role="button">
 Common Rider - Last Wave Rockers (1999-05)
+</li>
+<li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
+Smash Mouth - Astro Lounge (1999-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/80637d8b-5372-4185-9324-665312d1607e/7357477241-500.jpg" data-tags="ska" role="button">
 Sublime - Greatest Hits (1999-09-09)
@@ -162,9 +177,6 @@ Desmond Dekker - Israelites (2001)
 <li data-cover="http://coverartarchive.org/release/0fd5abdd-7a1a-4a09-933f-e620cc98cce2/4137110372-500.jpg" data-tags="ska, polish, rock" role="button">
 Akurat - Pomarańcza (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5b41db5-72bc-3140-b571-998b14d0fced/4773453196-500.jpg" data-tags="punk rock, irish, celtic punk, dropkick murphys" role="button">
-Dropkick Murphys - Sing Loud, Sing Proud! (2001-01-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
@@ -177,14 +189,8 @@ Pepper - Kona Town (2002-03-26)
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/1045b6d8-bc5f-38fa-a459-350e79dd34ef/3374878296-500.jpg" data-tags="ska punk" role="button">
-The Mighty Mighty Bosstones - A Jackknife to a Swan (2002-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/7adf8b40-8622-43ba-8eb2-c5fec39fb263/7984430965-500.jpg" data-tags="punk rock" role="button">
 The Clash - The Essential Clash (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5674ac8c-f0da-4cab-97eb-3aa53caec890/7333715088-500.jpg" data-tags="ska punk, ska" role="button">
-Mad Caddies - Just One More (2003-03-11)
 </li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
@@ -219,6 +225,9 @@ The Expendables - Gettin' Filthy (2004)
 <li data-cover="https://img.discogs.com/MSdFRkrA_XBkw_dEiS5f9MTrT4k=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1546079-1301302877.jpeg.jpg" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/edc10710-8caa-4f28-868a-539fa6abe574/24805815187-500.jpg" data-tags="ska, kringle20 favs, funky favs" role="button">
+Pepper - In With The Old (2004-03-30)
+</li>
 <li data-cover="https://img.discogs.com/mpiDj-n5fPD-0_tA1hNazFz8St4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120466-1287198836.jpeg.jpg" data-tags="ska" role="button">
 Babylon Circus - Dances of Resistance (2004-05-10)
 </li>
@@ -227,9 +236,6 @@ Babylon Circus - Dances of Resistance (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6bf471d-c306-4196-b8a1-9dd2cc30cedc/2582864276-500.jpg" data-tags="ska, punk rock, kung fu, oi, punk pathetique, albums i have downloaded, steveadams fm, steveadamsfm, ami punk, boracaymix" role="button">
 The Vandals - Hollywood Potato Chip (2004-06-29)
-</li>
-<li data-cover="https://img.discogs.com/W44eaQj_d_o4lILFX8Mo7S13CZg=/fit-in/502x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379884-1139850324.jpeg.jpg" data-tags="ska punk, punk, ska, crack rock steady" role="button">
-Leftöver Crack - Fuck World Trade (2004-08-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
@@ -258,6 +264,9 @@ The Cat Empire - Two Shoes (2005-09)
 <li data-cover="http://coverartarchive.org/release/267e744d-4019-4d40-b176-12afcec5a40b/4723780103-500.jpg" data-tags="ska, ska punk, diy" role="button">
 Bomb the Music Industry! - To Leave or Die in Long Island (2005-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, ska, dub reggae, roots, jamband, indierock, jbb" role="button">
+10 Ft. Ganja Plant - Bass Chalice (2005-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
 Sublime - Gold (2005-11-15)
 </li>
@@ -273,9 +282,6 @@ Streetlight Manifesto - Keasbey Nights (2006-03-07)
 <li data-cover="http://coverartarchive.org/release/0e8df261-cc01-4403-bce1-23e113b65cdc/4707737126-500.jpg" data-tags="ska" role="button">
 Zabili Mi Żółwia - Uczucia w promocji (2006-03-30)
 </li>
-<li data-cover="https://img.discogs.com/Ok-nTrxMbKs8-pMuESOj1WX-gQQ=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2886520-1305713697.jpeg.jpg" data-tags="ska, ska-punk" role="button">
-The Locos - Jaula De Grillos (2006-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4575d679-cb7c-48e9-9849-6227fafbec64/21326500958-500.jpg" data-tags="pop punk, ska punk" role="button">
 Less Than Jake - In with the Out Crowd (2006-05-22)
 </li>
@@ -288,14 +294,8 @@ Lily Allen - Alright, Still (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
 RX Bandits - ...And the Battle Begun (2006-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/7d33c9f7-9938-44af-a4ed-60cb0f25fa91/4809458267-500.jpg" data-tags="ska" role="button">
-Talco - Combat Circus (2006-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/f455779f-dec7-48c8-af09-f6714daf4c1f/23387977674-500.jpg" data-tags="ska" role="button">
-Mad Caddies - Keep It Going (2007-05-01)
-</li>
-<li data-cover="https://img.discogs.com/UE-WwdQeJlIDFFetntI6M_EF4kM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2623307-1550285510-8608.jpeg.jpg" data-tags="ska, roots, california, roots reggae, aleister crowley, christopher lee, acoustic ska, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, california reggae, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
-Rebelution - Courage To Grow (2007-06-08)
+<li data-cover="https://img.discogs.com/95Km-qqD29mML7rgPetQ-ehaClw=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2587197-1464457762-7603.jpeg.jpg" data-tags="british" role="button">
+The Rumble Strips - Girls and Weather (2007-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">
 Streetlight Manifesto - Somewhere In The Between (2007-11-13)
@@ -309,8 +309,8 @@ The Specials - The Best of The Specials (2008-03-31)
 <li data-cover="https://img.discogs.com/FOf7jfEmy01k2Tsbbjo8b22afis=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1310056-1208548831.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Courteeners - St. Jude (2008-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ed30e9c-c4ac-494e-86cd-79613720d37b/6306669382-500.jpg" data-tags="brazilian, rock, ska" role="button">
-Móveis Coloniais de Acaju - C_MPL_TE (2009-05-08)
+<li data-cover="http://coverartarchive.org/release/c54c36bd-7a0e-4bcb-a8d5-8454ed4e3b5f/7101277809-500.jpg" data-tags="ska, polish, akurat, pol-ska" role="button">
+Akurat - Optymistyka (2008-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff61674-a5db-4b1d-8181-460d906ba605/3988528235-500.jpg" data-tags="punk, punk rock" role="button">
 Rancid - Let the Dominoes Fall (2009-06-02)

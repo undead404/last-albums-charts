@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:26:01.519Z
+date: 2021-04-10T13:43:07.026Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
@@ -29,12 +29,6 @@ Superfly - Superfly (1982)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="https://img.discogs.com/-VHYfsaIwOABX9gIrRlDdmOVAFk=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9710309-1596712288-4393.png.jpg" data-tags="korean, k-rnb" role="button">
-Big Bang - Big Bang (1993)
-</li>
-<li data-cover="https://img.discogs.com/aVYuTaYK98DSZWc_VPlisrjNk-c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832189-1527491587-2668.jpeg.jpg" data-tags="rock, japanese, alternative rock, progressive rock, epic, post-punk, melodic, jpop, dream pop, japan, japanese rock, j, j-rock, j-pop, jrock, legends, japanese music, j-music, to explore, luna sea, pure beauty, loved albums, sugizo, ryuichi kawamura, inoran, legends of rock, in future, fxxing masterpiece, there is no tag for this masterpiece" role="button">
-Luna Sea - MOTHER (1994-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfbd7204-e96a-318c-b81a-c3fda465dc57/4834460438-500.jpg" data-tags="pop, j-pop, electronic" role="button">
 Pizzicato Five - Happy End of the World (1997-06-21)
@@ -78,6 +72,12 @@ Mr.Children - IT'S A WONDERFUL WORLD (2002-05-10)
 <li data-cover="http://coverartarchive.org/release/e11117c1-464e-4b12-acab-ac982c5bf555/18053710906-500.jpg" data-tags="j-pop" role="button">
 浜崎あゆみ - A BALLADS (2003-03-12)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, japan, anime, j-pop, spoolme" role="button">
+坂本真綾 - シングルコレクション＋ニコパチ (2003-07-30)
+</li>
+<li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="j-pop" role="button">
+Do As Infinity - GATES OF HEAVEN (2003-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
 浜崎あゆみ - Memorial address (2003-12-17)
 </li>
@@ -105,14 +105,14 @@ UVERworld - D-tecnoLife (2005-07-06)
 <li data-cover="http://coverartarchive.org/release/49239fa8-d4cf-4870-a61a-8849557203e6/13872961723-500.jpg" data-tags="japanese, j-pop" role="button">
 YUI - LIFE (2005-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
-Boris - Pink (2005-11-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
 宇多田ヒカル - Passion (2005-12-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 浜崎あゆみ - (miss)understood (2006-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/da0bccda-6ebb-49e9-9efc-5fd2e5a43526/13191334225-500.jpg" data-tags="j-rock, tokyo incidents" role="button">
+東京事変 - 大人 (2006-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">
 YUI - FROM ME TO YOU (2006-02-22)
@@ -138,6 +138,9 @@ Mell - Red fraction (2006-06-24)
 <li data-cover="http://coverartarchive.org/release/4b1564dc-ad2f-4621-a297-541b11bcbbbe/13873018539-500.jpg" data-tags="rolling star, bleach" role="button">
 YUI - Rolling star (2007-01-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/3482a239-d580-4a85-bae4-5936996c1287/14120304991-500.jpg" data-tags="japanese, j-pop" role="button">
+school food punishment - school food is good food (2007-04-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/a209eae7-d6f2-4091-9bf6-284d85b00e34/2972569743-500.jpg" data-tags="j-pop" role="button">
 安室奈美恵 - PLAY (2007-06-27)
 </li>
@@ -146,6 +149,9 @@ KASHIWA Daisuke - Program Music I (2007-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/957e70bc-6047-46e2-95a4-d077b35cbe88/28487806504-500.jpg" data-tags="japanese, j-pop" role="button">
 宇多田ヒカル - Beautiful World / Kiss & Cry (2007-08-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, j-pop" role="button">
+大塚愛 - LOVE PiECE (2007-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e93a0d7-d3ce-49ff-92a4-e45d7506bce6/6311949980-500.jpg" data-tags="electronic, japanese" role="button">
 Capsule - FLASH BACK (2007-12-05)
@@ -158,9 +164,6 @@ Capsule - FLASH BACK (2007-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">
 宇多田ヒカル - HEART STATION (2008-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c5ccf7fe-d8f1-4ba4-8081-b51936a6dd49/26036239291-500.jpg" data-tags="japanese, j-pop" role="button">
-YUI - I LOVED YESTERDAY (2008-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
@@ -177,11 +180,11 @@ Perfume - love the world (2008-07-09)
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="japanese, jpop, asian, male vocalists, anime, j-rock, j-pop, group, boy band, asian music, asian pop" role="button">
 Flow - WORLD END (2008-08-13)
 </li>
-<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
-Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/d410578e-44da-4691-9f84-362f556664b3/9364802380-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TABOO (2008-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/6769d1c5-ca72-41c3-81b2-e28eede5bb92/5230513224-500.jpg" data-tags="japanese" role="button">
+Perfume - Dream Fighter (2008-11-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 中島美嘉 - VOICE (2008-11-26)
@@ -201,9 +204,6 @@ Marissa Nadler - Little Hells (2009-03-03)
 <li data-cover="https://img.discogs.com/MepQb-g-iDf1XEVuLMftQBhusBE=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7611922-1445125084-1859.jpeg.jpg" data-tags="anime, j-pop" role="button">
 Kalafina - Lacrimosa (2009-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d290678-9d83-493e-b686-91a7351d70a7/2627971442-500.jpg" data-tags="ethereal, j-pop, yuki kajiura" role="button">
-Kalafina - Seventh Heaven (2009-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/a1c1bb91-93a9-37fe-990e-29cd4513a7f0/18053361520-500.jpg" data-tags="j-pop" role="button">
 浜崎あゆみ - NEXT LEVEL (2009-03-25)
 </li>
@@ -218,6 +218,9 @@ YUI - again (2009-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electropop, electronic, j-pop" role="button">
 Perfume - ⊿ (2009-07-08)
+</li>
+<li data-cover="https://img.discogs.com/jcZ-41ldHl5oSz46HTqYJ_uUaCA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-564272-1364787701-9388.jpeg.jpg" data-tags="japanese, j-rock, j-pop, j-indie, japanese teen pop" role="button">
+Scandal - BEST★SCANDAL (2009-10-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="anime, j-pop" role="button">
 Stereopony - Tsukiakari No Michishirube (2009-11-04)
@@ -243,11 +246,11 @@ Jasmine - Gold (2010-07-21)
 <li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 Perfume - ねぇ (2010-11-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5137f10-7933-4ff2-9524-b1373e4511c0/28729879572-500.jpg" data-tags="j-pop, 2010s" role="button">
+ClariS - コネクト (2011-02-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/8516ca87-f9c4-3854-a727-6d328cf44837/4072227232-500.jpg" data-tags="j-pop" role="button">
 Supercell - Today Is A Beautiful Day (2011-03-16)
-</li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2070e5-6bb0-44aa-a80e-2f855cbe4846/9313227759-500.jpg" data-tags="dance, queen, jpop, r&b, rnb, j-pop, must listen, badass, addicting, collab, j-urban, j-hiphop, j-rnb, queen of j-pop, j-r&b, random tags, um tesao de album" role="button">
 安室奈美恵 - Checkmate! (2011-04-27)
@@ -267,6 +270,9 @@ Perfume - JPN (2011-11-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 きゃりーぱみゅぱみゅ - ぱみゅぱみゅレボリューション (2012-01-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/c4df3b85-3a3a-4df2-a9ac-243cae90ace8/15266630961-500.jpg" data-tags="k-pop, 2ne1, j-pop, kpop,  pop,  korean,  female vocalists,  k-pop,  girl group,  k pop" role="button">
+2NE1 - SCREAM (2012-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf/2928978635-500.jpg" data-tags="j-pop" role="button">
 ClariS - Birthday (2012-04-11)
 </li>
@@ -282,20 +288,17 @@ Kalafina - to the beginning (2012-04-18)
 <li data-cover="https://img.discogs.com/CekTjiDimLI0Ymt9w79fECuYvv8=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319834-1094498826.jpeg.jpg" data-tags="japanese, anime, j-pop" role="button">
 Lisa - Crossing Field (2012-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
-Dead Can Dance - Anastasis (2012-08-13)
-</li>
 <li data-cover="https://img.discogs.com/i9PmZdilGSz5Jzv4VY91XG_9mO0=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3911980-1348981179-6719.jpeg.jpg" data-tags="j-pop" role="button">
 Perfume - Spending all my time (2012-08-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop, egoist" role="button">
-Egoist - Extra terrestrial Biological Entities (2012-09-19)
 </li>
 <li data-cover="https://img.discogs.com/iDJhqMVw4RK1uhQqhU-2Ux-rJcA=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4089699-1555276144-1734.jpeg.jpg" data-tags="indie pop, uplifting, j-pop, post-revolutionary pop song, avantgarde pop, suggested to me, xolin11 perfect albums" role="button">
 Shugo Tokumaru - In Focus? (2012-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e45294-7c6e-485c-8707-8b655dbc11bd/3058792717-500.jpg" data-tags="japanese" role="button">
 YUI - GREEN GARDEN POP (2012-12-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/605aecef-6784-47bd-9cec-e2dd835a016b/3000052159-500.jpg" data-tags="japanese, dream pop, anime, j-pop, anison" role="button">
+matryoshka - Laideronnette (2012-12-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop, too kawai" role="button">
 kyary pamyu pamyu - Nanda Collection (2013-06-26)
@@ -317,8 +320,5 @@ Lisa - LANDSPACE (2013-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
-Zola Jesus - Taiga (2014-10-06)
 </li>
 </ol>

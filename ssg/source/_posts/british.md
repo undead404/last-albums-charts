@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:27:01.582Z
+date: 2021-04-10T12:46:07.198Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -113,9 +113,6 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b3a7d38-3a84-368a-8609-e7486f203182/16097162874-500.jpg" data-tags="keane, britpop" role="button">
-Keane - Hopes and Fears (2004-05-10)
 </li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
@@ -260,6 +257,9 @@ Mumford & Sons - Sigh No More (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">
 Foals - Total Life Forever (2010-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
+Bombay Bicycle Club - Flaws (2010-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">
 Adele - 21 (2011-01-19)

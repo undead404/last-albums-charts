@@ -1,8 +1,8 @@
 ---
-date: 2021-04-09T20:10:01.534Z
+date: 2021-04-10T13:38:06.985Z
 title: "hypnotic: 100 albums you must listen to before you die"
 ---
-![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
+![Slowdive - Pygmalion (1995-02-06)](https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg "Slowdive - Pygmalion (1995-02-06)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">Slowdive - Pygmalion (1995-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
@@ -11,7 +11,7 @@ title: "hypnotic: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">Om - God Is Good (2009-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/62469f0f-483f-4d13-a061-c0768f21872e/24573498035-500.jpg" data-tags="alternative, 4ad" role="button">Atlas Sound - Parallax (2011-10-26)</li>
-<li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">Odesza - In Return (2014-09-08)</li>
+<li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">James Blake - Overgrown (2013-04-05)</li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">Röyksopp - The Inevitable End (2014-11-07)</li>
 </ol>
@@ -26,6 +26,9 @@ Ravi Shankar - India's Master Musician (1958)
 </li>
 <li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
 Ravi Shankar - The Sounds of India (1958)
+</li>
+<li data-cover="https://img.discogs.com/_nMuff7CdNqtM_q_obJE7-SnWcg=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1403678-1287702563.jpeg.jpg" data-tags="jazz" role="button">
+John Coltrane Quartet - Ballads (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cde1707-4647-47bb-8982-e3d0ffe992ae/8041382784-500.jpg" data-tags="jazz, hard bop, drums, bebop, hypnotic, art blakey, lee morgan, wayne shorter, bobby timmons, blakey, divine chemical, magic sound, l3a1e5da4n15l1, jimmie merritt" role="button">
 Art Blakey & The Jazz Messengers - Like Someone in Love (1966)
@@ -42,11 +45,11 @@ Fela Kuti - Afrodisiac (1973)
 <li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Live! (1975-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c7c26bd-2771-4501-8d03-bc5e184d9538/24665804575-500.jpg" data-tags="electronic" role="button">
+Klaus Schulze - Body Love (1977-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/5cc90116-6833-4271-8477-42fb5fbee846/20706339769-500.jpg" data-tags="post-punk" role="button">
 Television - Adventure (1978-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d20a18df-c71f-484c-8d41-fdea1abb1f26/18584699933-500.jpg" data-tags="minimalism" role="button">
-Steve Reich - Music for 18 Musicians (1978-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8ca766-068d-45df-80bf-fa57932d1694/18235029110-500.jpg" data-tags="reggae, roots reggae" role="button">
 Black Uhuru - Red (1981-06)
@@ -57,8 +60,8 @@ Virginia Astley - Hope In A Darkened Heart (1986)
 <li data-cover="http://coverartarchive.org/release/29ccd352-eefc-4301-9ad2-1662c0aba437/3173120841-500.jpg" data-tags="80s" role="button">
 The Cure - Staring at the Sea: The Singles (1986-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/10be34ad-16d6-3a73-ba7c-3cbec0b254f6/27401701427-500.jpg" data-tags="bass, basically bass" role="button">
-Bill Laswell - Hear No Evil (1988)
+<li data-cover="http://coverartarchive.org/release/5a2cf986-369c-4d12-a628-451f127f2903/24752952576-500.jpg" data-tags="indie pop" role="button">
+The Chills - Submarine Bells (1990-09-01)
 </li>
 <li data-cover="https://img.discogs.com/M1Zr5Y7ZSSxPS5J2n-0WT2fe-q4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-394347-1523143208-9333.jpeg.jpg" data-tags="shoegaze" role="button">
 Catherine Wheel - Ferment (1992-02-17)
@@ -72,9 +75,6 @@ Sonic Youth - Dirty (1992-07-20)
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 </li>
-<li data-cover="https://img.discogs.com/NHmQQFhssYzExKDPuY3HSkEHbF4=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105549-1414958720-6607.jpeg.jpg" data-tags="rap" role="button">
-Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
 Stereolab - Mars Audiac Quintet (1994-08-09)
 </li>
@@ -83,6 +83,9 @@ Autechre - Anti EP (1994-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
+</li>
+<li data-cover="https://img.discogs.com/USp7-AAcr2XNFjJ3hgBHb-by6dg=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-94241-1330767595.jpeg.jpg" data-tags="ambient, glitch" role="button">
+Oval - 94 Diskont (1995)
 </li>
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
 Slowdive - Pygmalion (1995-02-06)
@@ -96,6 +99,9 @@ Guided by Voices - Under the Bushes Under the Stars (1996-03-26)
 <li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
 The Prodigy - Breathe (1996-11-11)
 </li>
+<li data-cover="https://img.discogs.com/jPUc2rtkDyW3XqFxNnPM1G8biTg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14901659-1583749306-4670.jpeg.jpg" data-tags="electronica, male, ambient, experimental, hypnotic, kl times" role="button">
+Aphex Twin - Live in Denver (1997-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/d177f434-7727-3d0c-ad99-f34030de1734/5694830215-500.jpg" data-tags="hypnotic, psytrance" role="button">
 Koxbox - Dragon Tales (1997-11)
 </li>
@@ -108,9 +114,6 @@ Sonic Youth - A Thousand Leaves (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
 Crowbar - Odd Fellows Rest (1998-07-06)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
 </li>
@@ -120,14 +123,14 @@ Bola - Soup (1998-11-23)
 <li data-cover="http://coverartarchive.org/release/2a8213c4-1a96-30f3-ad02-9f3354b812fd/1224860395-500.jpg" data-tags="progressive rock, ambient, psychedelic" role="button">
 Porcupine Tree - Metanoia (1998-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf14483b-bf13-3737-a2e8-da77ee76e2e5/5853577553-500.jpg" data-tags="cuban" role="button">
-Ibrahim Ferrer - Buena Vista Social Club Presents Ibrahim Ferrer (1999-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a36348d-c96b-46c3-adc6-faf765597a07/15933513236-500.jpg" data-tags="rock argentino, rock en espanol, electronic" role="button">
-Gustavo Cerati - Bocanada (1999-06-28)
+<li data-cover="https://img.discogs.com/r8Xbr7UliMqP8BPfn5Q9GgTuPIo=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18679-1224065663.jpeg.jpg" data-tags="electronic, ambient, experimental, abstract, drone, hypnotic" role="button">
+Penumbra - Anoraks (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a4569a0-63c2-49e5-ab64-2eb87157e8c8/2948168281-500.jpg" data-tags="plotters albums" role="button">
 Mark Lanegan - I'll Take Care of You (1999-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9756981c-5670-4d1c-9ee5-4a4856350a8b/15584768321-500.jpg" data-tags="jazz" role="button">
+Erik Truffaz - Bending New Corners (1999-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93f25c75-2e29-3a88-8c67-d8c99aaeb9e9/27880195725-500.jpg" data-tags="trip-hop" role="button">
 Bowery Electric - Lushlife (2000-02-25)
@@ -150,6 +153,12 @@ Unwound - Leaves Turn Inside You (2001-04-17)
 <li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
 The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/726dc7c6-0c20-428b-9e71-a38f044e92ed/26009887396-500.jpg" data-tags="electronic, techno, ominous, clinical, smooth, melancholy, detroit techno, hypnotic, 00s, electro-techno, idm detroit root, achieving interstellar travel through tapes" role="button">
+Transllusion - The Opening of the Cerebral Gate (2001-11-02)
+</li>
+<li data-cover="https://img.discogs.com/YQc1nxWpL7XRrUT-tmou79WLrrg=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55742-1126452431.gif.jpg" data-tags="idm" role="button">
+Arovane - Cycliph (2002-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/135b362d-5e2e-30e2-9b92-665b8d5d9c63/9071451538-500.jpg" data-tags="ambient" role="button">
 Ben Frost - Steel Wound (2003)
 </li>
@@ -158,6 +167,9 @@ Calla - Televise (2003-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e463ee-9c8e-4215-a334-1de8f989cf10/3113397712-500.jpg" data-tags="drone, dark ambient" role="button">
 Nurse With Wound - Salt Marie Celeste (2003-02)
+</li>
+<li data-cover="https://img.discogs.com/cUcCd5WSRNGbuNN3gW6ibL3rC28=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7003786-1431794023-5274.jpeg.jpg" data-tags="jazz, guitar" role="button">
+Bill Frisell - The Intercontinentals (2003-02-18)
 </li>
 <li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
@@ -198,6 +210,12 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
 Lemon Jelly - '64-'95 (2005-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/154dc95d-80d6-4f16-a8f8-b84a576ee6eb/7999345275-500.jpg" data-tags="noise" role="button">
+Orthrelm - OV (2005-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/22a23fb5-dad5-42d3-b90f-98a7834c0fae/8147320447-500.jpg" data-tags="soundtrack, experimental" role="button">
+Björk - Drawing Restraint 9 (2005-07-25)
+</li>
 <li data-cover="https://img.discogs.com/h3Z0rvlV7L1RFbHNm1yJNxjS4Oo=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-514874-1424076592-7367.jpeg.jpg" data-tags="electronic, downtempo, house, deep house" role="button">
 Late Night Alumni - Empty Streets (2005-09)
 </li>
@@ -213,6 +231,9 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="http://coverartarchive.org/release/4db2cf43-8ee0-49a5-9d78-989565d070a4/18856704295-500.jpg" data-tags="progressive rock, psychedelic, psychedelic rock" role="button">
 Ozric Tentacles - The Floor's Too Far Away (2006-07-18)
 </li>
+<li data-cover="https://img.discogs.com/AuYI-RiS8oGnsWYCFMwhPH0vcS8=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927259-1176024752.jpeg.jpg" data-tags="ambient, drone, electroacoustic, hypnotic, dark ambient, isolationist, dark-ambient, musick, bruns, sadalsuud" role="button">
+Moljebka Pvlse - Sadalsuud (2007-03)
+</li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
 </li>
@@ -225,29 +246,20 @@ Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1e4028a-cfc4-4ce8-ad70-2105059b4ea7/4436431630-500.jpg" data-tags="hip-hop, rap" role="button">
-GZA/Genius - Pro Tools (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/161f1a07-4223-41a8-909d-134009acce9f/5999582806-500.jpg" data-tags="jazz, happy, bass, instrumental music" role="button">
-Charlie Hunter - Baboon Strength (2008-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
-</li>
 <li data-cover="https://img.discogs.com/bKKaoaQCA2aak43BD1APQPJT5wk=/fit-in/371x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921521-1252604182.jpeg.jpg" data-tags="post-metal, progressive metal, post-rock, sludge" role="button">
 Giant Squid - The Ichthyologist (2009-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">
-Dan Deacon - Bromst (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">
 Om - God Is Good (2009-09-29)
 </li>
 <li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
 Atlas Sound - Logos (2009-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2582f81-85a6-4c66-b55f-f299d3a466c7/18869751926-500.jpg" data-tags="noise, ambient" role="button">
+Yellow Swans - Going Places (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)
@@ -257,9 +269,6 @@ Joe Satriani - Black Swans and Wormhole Wizards (2010-10-05)
 </li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
-</li>
-<li data-cover="https://img.discogs.com/c1ZMbrBIJGu3HhQOaJBawIoDJQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3154062-1318245920.jpeg.jpg" data-tags="trance, electronic" role="button">
-araabMUZIK - Electronic Dream (2011-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
@@ -279,11 +288,8 @@ Madonna - Girl Gone Wild (2012-03-02)
 <li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
 Bvdub - Serenity (2012-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/b89c55c2-6b89-4f85-a16a-8b11d9c2b35c/3203392659-500.jpg" data-tags="hip hop, instrumental hip-hop" role="button">
-Karriem Riggins - Alone Together (2012-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f5643cd-4ff9-4eb3-887b-f77c2442b5fd/9494815502-500.jpg" data-tags="ambient" role="button">
-Loscil - Sketches from New Brighton (2012-09-10)
+<li data-cover="http://coverartarchive.org/release/0eb2068a-673b-4e60-9dd7-3e95e8da60f7/3406080237-500.jpg" data-tags="indie pop" role="button">
+Fear of Men - Early Fragments (2013-02-12)
 </li>
 <li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
 The Flaming Lips - The Terror (2013-04-01)
@@ -293,9 +299,6 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/698ce3c2-e84b-4e85-b60b-1e0cb25969f0/14501283915-500.jpg" data-tags="alternative dance, neo-psychedelia" role="button">
 Primal Scream - More Light (2013-05-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/a49c6029-f089-4f0c-9680-92b76afc0d97/13255529196-500.jpg" data-tags="electronic, dubstep, druggy, confident, provocative, uncompromising, bittersweet, hypnotic, flowing, roots reggae, nocturnal, triumphant, slick, edm, nighttime, rebellious, stylish, gutsy, pulsing, plaintive, hanging out, night driving, ambitious, contemporary reggae, declamatory" role="button">
-Bob Marley & The Wailers - Legend Remixed (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
 Ciara - Ciara (2013-07-05)
@@ -311,9 +314,6 @@ Solar Fields - GREEN (2014-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/79dab588-46d6-4343-823f-93f285e34895/7453503124-500.jpg" data-tags="psybient" role="button">
 Solar Fields - BLUE (2014-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">
-Odesza - In Return (2014-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)

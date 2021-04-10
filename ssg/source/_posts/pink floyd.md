@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:31:06.879Z
+date: 2021-04-10T12:47:07.234Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -80,9 +80,6 @@ Pink Floyd - Money (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/985f059e-d503-378f-9e27-7c2f104653c5/18902154264-500.jpg" data-tags="classic rock, pink floyd, progressive rock" role="button">
 Pink Floyd - A Collection Of Great Dance Songs (1981-11-23)
-</li>
-<li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
-Eric Burdon - Crawling King Snake (1982)
 </li>
 <li data-cover="https://img.discogs.com/pZtovo9k-ZmVlcbTzx-_13uOYHU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2527357-1476306978-1191.jpeg.jpg" data-tags="opera, rock, hard rock, progressive rock, pink floyd" role="button">
 Pink Floyd - The Film (1982)
@@ -234,6 +231,9 @@ Roger Waters - In The Flesh - Live (2000-12-05)
 <li data-cover="http://coverartarchive.org/release/9bb70a8a-5373-40da-a1cd-df471f3c72da/10078216881-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - In the Flesh (2000-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/6bfbb247-7039-433d-90f0-732d66bee5dc/6935505569-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Building the Wall (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dc157b9-8ef1-4c00-8eb7-0e25fdd341ea/23197881873-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Under Construction (2001)
 </li>
@@ -291,6 +291,9 @@ Pink Floyd - Psychedelic Games for May (2006-09-06)
 <li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
 Pink Floyd - Zabriskie Point (2006-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/9b4b374b-f59c-4112-ac4a-0760cc03a759/8905129312-500.jpg" data-tags="progressive rock" role="button">
+Maze of Time - Tales from the maze (2006-12-07)
+</li>
 <li data-cover="https://img.discogs.com/A6UUV71RdP9yNoRdMgWIUrZ2CNE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1233370-1202530106.jpeg.jpg" data-tags="progressive rock" role="button">
 David Gilmour - Arnold Layne (2006-12-25)
 </li>
@@ -302,9 +305,6 @@ Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c278e92d-58ec-400a-beab-0b71cbf7cdd7/15085459003-500.jpg" data-tags="progressive rock, psychedelic rock, art rock, space rock, german, classic rock, krautrock, symphonic rock" role="button">
 Shamall - Questions Of Life (2008-07-14)
-</li>
-<li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
-The Feeling - Join With Us (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4be8b499-fa3d-40fd-9d92-d36ce39dd3ce/1149134561-500.jpg" data-tags="progressive rock, pink floyd" role="button">
 Mountain Mirrors - Mountain Mirrors (2008-10-06)

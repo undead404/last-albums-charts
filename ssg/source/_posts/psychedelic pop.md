@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:39:01.457Z
+date: 2021-04-10T13:15:07.201Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -11,7 +11,7 @@ title: "psychedelic pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">Deerhunter - Halcyon Digest (2010-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">Django Django - Django Django (2012-01-30)</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">Mac DeMarco - 2 (2012-10-16)</li>
+<li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">Tame Impala - Lonerism (2012-10-05)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">Glass Animals - ZABA (2014-06-03)</li>
 </ol>
@@ -42,8 +42,8 @@ Tiny Tim - God Bless Tiny Tim (1968)
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
-<li data-cover="http://coverartarchive.org/release/28d302ff-4b5a-4eb1-8223-c507032e2c92/12578157975-500.jpg" data-tags="60s, psychedelic, psychedelic pop" role="button">
-Gandalf - Gandalf (1969)
+<li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
+The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="60s, psychedelic pop" role="button">
 Bee Gees - Odessa (1969-02)
@@ -81,6 +81,9 @@ The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/fbbf15dd-6faf-4ef4-ae10-a0ae7c4acf23/5720775144-500.jpg" data-tags="rock" role="button">
+Smash Mouth - Fush Yu Mang (1997-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/62def2bf-bb1c-4164-9b45-a08084845fcb/28727936263-500.jpg" data-tags="indie pop, twee pop, lo-fi, neo-psychedelia" role="button">
 of Montreal - Cherry Peel (1997-08-19)
 </li>
@@ -96,11 +99,11 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 <li data-cover="https://img.discogs.com/ayvPMq3eoTYfzmfvCIwL-ZgwPso=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13214166-1550696080-9774.jpeg.jpg" data-tags="pop, alternative, alternative rock, indie rock, progressive rock, psychedelic pop, psychedelia, psychedelic rock, 00s, alternative pop, albums i own on cd, drivethruelvis at 22, geiles plattencover" role="button">
 Motorpsycho - Let Them Eat Cake (2000-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/7df9285c-a82d-4583-a7d9-98d83e22e09f/23645615845-500.jpg" data-tags="british i like, gdchills00s" role="button">
+The Bees - Sunshine Hit Me (2002-03-25)
+</li>
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f95186a-906d-493a-ad75-9d0820292956/25217623886-500.jpg" data-tags="chamber pop, psychedelic pop, folktronica, 00s, neo-psychedelia, earlies, in queue no tracks, chamber psych" role="button">
 The Earlies - These Were The Earlies (2004)
@@ -129,6 +132,9 @@ Panda Bear - Person Pitch (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
 The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 </li>
+<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
+Dungen - Tio Bitar (2007-04-23)
+</li>
 <li data-cover="https://img.discogs.com/2Bxxw50aJOWA5ZV6hTZMB9dMRL4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995511-1553564718-4840.jpeg.jpg" data-tags="indie rock" role="button">
 Frog Eyes - Tears Of The Valedictorian (2007-05-01)
 </li>
@@ -141,8 +147,8 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
+<li data-cover="https://img.discogs.com/-YW_3eaBsJ7UOaQmkDFOn65otGE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1303567-1566922120-6440.jpeg.jpg" data-tags="female vocalists, chamber pop, psychedelic pop, folktronica, art pop, baroque rock, i own" role="button">
+Goldfrapp - Happiness (2008-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
@@ -243,9 +249,6 @@ The Shins - Port of Morrow (2012-03-15)
 <li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
 Laurel Halo - Quarantine (2012-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/de455552-bb61-4b73-84d2-b3443c0a6f00/3845185826-500.jpg" data-tags="psychedelic pop, glam rock" role="button">
-Foxygen - Take the Kids Off Broadway (2012-07-24)
-</li>
 <li data-cover="https://img.discogs.com/SfcXMEQC-fnKkmHXC-O1StyZ8sk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3885595-1551508522-5121.jpeg.jpg" data-tags="rock" role="button">
 Tame Impala - Elephant (2012-07-25)
 </li>
@@ -269,9 +272,6 @@ Black Moth Super Rainbow - Cobra Juicy (2012-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/412245b4-87fc-4445-8de0-316099278613/2008680879-500.jpg" data-tags="indie pop, psychedelic pop, neo-psychedelia, 2012 releases" role="button">
 of Montreal - Daughter of Cloud (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)

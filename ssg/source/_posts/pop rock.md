@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:37:01.424Z
+date: 2021-04-10T13:12:01.692Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">
+Fleetwood Mac - Rumours (1977-02-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
 </li>
@@ -47,9 +50,6 @@ The Calling - Camino Palmero (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">
-Phantom Planet - The Guest (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
@@ -90,14 +90,14 @@ Kelly Clarkson - Breakaway (2004-11-30)
 <li data-cover="http://coverartarchive.org/release/e79e742e-49c6-4f11-964e-ed89212c9736/28281473613-500.jpg" data-tags="emo, pop" role="button">
 Lindsay Lohan - Speak (2004-12-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
+The Academy Is... - Almost Here (2005-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - Lifehouse (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
-The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -156,9 +156,6 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
 Kelly Clarkson - My December (2007-06-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
-The Rocket Summer - Do You Feel (2007-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
 </li>
@@ -171,11 +168,11 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6454561-2af7-460b-9b8c-d482b7c8a49d/15751521122-500.jpg" data-tags="pop, pop rock, male vocalists" role="button">
-Gavin DeGraw - Gavin DeGraw (2008-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ec46b5f-5b21-41f5-8200-aaf3b0f8c637/22455634056-500.jpg" data-tags="pop, miley cyrus" role="button">
+Miley Cyrus - Breakout (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
@@ -188,9 +185,6 @@ The Killers - Day & Age (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
-The Fray - The Fray (2009-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
@@ -209,6 +203,9 @@ Demi Lovato - Here We Go Again (2009-06-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 P!nk - Funhouse (2009-08)
+</li>
+<li data-cover="https://img.discogs.com/Xvt0O3nea3m5UxRftZdasQolCx0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58972-1307997369.jpeg.jpg" data-tags="indie pop" role="button">
+fun. - Aim and Ignite (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b72990f-0c8d-4687-a33f-4a329672f85a/17667139144-500.jpg" data-tags="pop, miley cyrus" role="button">
 Miley Cyrus - The Time of Our Lives (2009-08-31)
@@ -254,6 +251,9 @@ Kelly Clarkson - Stronger (2011-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
+</li>
+<li data-cover="https://img.discogs.com/_ji_ALDRRrKt7YKTYs2Es0CBj9Q=/fit-in/520x264/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784599-1344284990-4609.jpeg.jpg" data-tags="pop rock, pop" role="button">
+The All-American Rejects - Kids in the Street (2012-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)

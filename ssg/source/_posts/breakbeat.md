@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:11:01.452Z
+date: 2021-04-10T13:13:01.489Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -45,9 +45,6 @@ Orbital - Snivilisation (1994-08-04)
 <li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Exit Planet Dust (1995-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/21a3ea58-66a7-3cec-b169-087ceb75ad0f/7923741865-500.jpg" data-tags="electronic, acid jazz" role="button">
-Cujo - Adventures in Foam (1996)
-</li>
 <li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
 Orbital - In Sides (1996-03)
 </li>
@@ -66,11 +63,11 @@ The Prodigy - Breathe (1996-11-11)
 <li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Electro Glide In Blue (1997-02-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/f7c17729-db28-4aed-81e7-8fb340eecd24/10119816281-500.jpg" data-tags="electronica, british, techno, idm, 90s, breakbeat, europe, big beat, 1990s, european, radio europe, angie and dave, angiedave" role="button">
+The Chemical Brothers - Block Rockin' Beats (1997-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/79f2fb40-1e55-4a56-b749-89a9c73d8cb6/19177871704-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Dig Your Own Hole (1997-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Bricolage (1997-04-25)
 </li>
 <li data-cover="https://img.discogs.com/W1wBY1fPrkbArglm19JIndz2T3Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51686-1570878836-2085.jpeg.jpg" data-tags="trip-hop, instrumental, 90s, breakbeat, cartoon, lbm, collected, college years, sample collage" role="button">
 Bentley Rhythm Ace - Bentley Rhythm Ace (1997-05-12)
@@ -95,9 +92,6 @@ The Prodigy - Smack My Bitch Up (1997-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e48d986-ca1d-47f4-8694-7477aea0f159/24821791374-500.jpg" data-tags="electronic, dj mix, big beat" role="button">
 Fatboy Slim - On the Floor at the Boutique (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ef2466-07aa-3511-817e-8a18045229e2/6212376186-500.jpg" data-tags="trip-hop, electronic" role="button">
-DJ Shadow - Preemptive Strike (1998-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7787e897-c3c9-4e80-bda6-2189bfbcdad4/4834963518-500.jpg" data-tags="breaks, breakbeat" role="button">
 Freestylers - We Rock Hard (1998-06-14)
@@ -141,9 +135,6 @@ Freestylers - Pressure Point (2001-09-28)
 <li data-cover="http://coverartarchive.org/release/0db9c833-3f51-423c-8130-41ee094beb64/9977555739-500.jpg" data-tags="breakbeat" role="button">
 Bomfunk MC's - Burnin' Sneakers (2002-04-25)
 </li>
-<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
-DJ Shadow - The Private Press (2002-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7db227f-d102-37cd-aad9-85923a56be99/26315639345-500.jpg" data-tags="electronic, trance, house, breakbeat, synthpop, progressive trance, john digweed" role="button">
 John Digweed - MMII (2002-06-04)
 </li>
@@ -159,8 +150,8 @@ The Crystal Method - Community Service (2002-07-23)
 <li data-cover="https://img.discogs.com/StqPQsGS1lBDPXhOUNG8_Zwf4I0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482940-1121544057.jpg.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Out From Out Where (2002-10-10)
+<li data-cover="http://coverartarchive.org/release/49cd5b24-36d8-4de0-aace-dfa25b386bfa/8545384175-500.jpg" data-tags="drum and bass, breakbeat" role="button">
+N.O.H.A. - Next Plateau (2003)
 </li>
 <li data-cover="https://img.discogs.com/xyN9ydFIEnKr1KhZD2V1i7KI_Jg=/fit-in/330x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-260392-1217478390.jpeg.jpg" data-tags="electronica, idm, breakbeat" role="button">
 Kraddy - Truth Has No Path (2003)
@@ -168,11 +159,11 @@ Kraddy - Truth Has No Path (2003)
 <li data-cover="http://coverartarchive.org/release/28e3b48f-82b6-4733-b6df-270107e8fd94/3113437097-500.jpg" data-tags="breakbeat" role="button">
 Freeland - Now & Them (2003-01-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c51d061-6a91-438f-925d-35e499d23a49/17933370289-500.jpg" data-tags="electronic, dub" role="button">
-Asian Dub Foundation - Enemy Of The Enemy (2003-02-03)
-</li>
 <li data-cover="https://img.discogs.com/mU_PY87EMZkuEH2NnufJ6T8WU3U=/fit-in/484x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417033-1110584937.jpg.jpg" data-tags="electronic" role="button">
 Overseer - Wreckage (2003-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/29314f96-150a-463f-9de2-716117ae8c7e/10117994621-500.jpg" data-tags="electronic, electronica, british" role="button">
+The Chemical Brothers - Singles 93-03 (2003-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/735c3912-b9dd-42a2-af44-f4f6d25fe6f4/3489309570-500.jpg" data-tags="electronic" role="button">
 Hybrid - Morning Sci-Fi (2003-09-15)
@@ -183,11 +174,17 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/-Y1s-IWydUvT-hb8HWRv38IUxbg=/fit-in/400x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229723-1391753369-3106.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Crystal Method - Legion of Boom (2004-01-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
+Orbital - Blue Album (2004-06-21)
+</li>
 <li data-cover="https://img.discogs.com/NG7L1r4khs5Byo2QHY-TeLf_9XI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304218-1095818087.jpg.jpg" data-tags="electronic, dance, breakbeat" role="button">
 Freestylers - Raw as Fuck (2004-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/00bc3621-2184-354a-9d9c-cae28337d59b/3508428448-500.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Always Outnumbered, Never Outgunned (2004-08-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/176d1133-4c75-4017-9168-389b933b207c/13470088520-500.jpg" data-tags="trance, tiesto - parade of the athletes" role="button">
+Tiësto - Parade Of The Athletes (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba2006d9-16d9-45b7-be0a-52f22d72874a/9977564666-500.jpg" data-tags="hip hop, rock, electro, dance, funk, breakbeat, nu skool breaks" role="button">
 Bomfunk MC's - Reverse Psychology (2004-09-27)
@@ -198,14 +195,11 @@ Fatboy Slim - Palookaville (2004-10-04)
 <li data-cover="https://img.discogs.com/3jssXq-ko7JTTQVjf-KBmQJMSdc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6182563-1413120823-5887.jpeg.jpg" data-tags="idm" role="button">
 Aphex Twin - Analord 10 (2004-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/761a55cd-0505-4874-9fdc-bb711e8643c8/6755037078-500.jpg" data-tags="electronic, dub, drum and bass" role="button">
-Asian Dub Foundation - Tank (2005-02-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/b5096063-cc22-4105-aed7-edf5a6a5a2c9/5922257933-500.jpg" data-tags="breakbeat, lovely super ils love fun" role="button">
 Ils - Bohemia (2005-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/2617e49c-afa6-4a3c-a753-60a2138797c4/2563521384-500.jpg" data-tags="hip hop, idm" role="button">
-Prefuse 73 - Surrounded by Silence (2005-03-02)
+<li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
+The Flashbulb - Kirlian Selections (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/17a24f0b-799a-4abb-9f2b-251fcc5a6d9e/22782452024-500.jpg" data-tags="electronic" role="button">
 Modeselektor - Hello Mom! (2005-05-27)
@@ -234,11 +228,20 @@ Hybrid - I Choose Noise (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/7af825c1-66d9-4876-b5f7-1aecf45a3811/2528877745-500.jpg" data-tags="breakbeat" role="button">
 Freestylers - Adventures in Freestyle (2006-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/5bd51b49-072d-4420-9fbe-c68ec6637187/21928748973-500.jpg" data-tags="breakbeat" role="button">
+Elite Force - Modern Primitive (2006-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
 Amon Tobin - Foley Room (2007-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cb54f27-51f3-4185-9772-e4dcf84cbe30/13038051479-500.jpg" data-tags="electronica, synthpop" role="button">
+Blaqk Audio - CexCells (2007-08-14)
+</li>
+<li data-cover="https://img.discogs.com/aw35X62k25wmJ-2NmmK3F_gNIQg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464663-1224554071.png.jpg" data-tags="hip hop, alternative, dub, funk, breakbeat, groovy, big beat, uutta jazzia, acid lounge, lounge groove, shambles 2008, city lounge, my-love, acoustic groove, alternative lounge, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, ouahhhhh, tropcool, chillounge1, jazzy vibes, epic lounge, sexy sounding, uuta jazzia, uutta jazziz" role="button">
+Fort Knox Five - Radio Free DC (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/54a73470-8d02-4a18-b571-50cb0406c962/13278680258-500.jpg" data-tags="electronic" role="button">
 Junkie XL - Booming Back At You (2008-03-10)
@@ -276,6 +279,9 @@ Gossip - Heavy Cross (2009-06-05)
 <li data-cover="http://coverartarchive.org/release/34ddc83f-e1c2-40ea-8c87-0bc1d6ab4e34/5073213622-500.jpg" data-tags="dubstep, dubstep idm, dj hiptronic" role="button">
 PANTyRAiD - The Sauce (2009-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/1f741d84-1362-44fd-9886-4781286d33e4/19096380097-500.jpg" data-tags="hip-hop, electronic, hip hop, dubstep, club, breakbeat" role="button">
+Sporty-O - Let Me Hit It (2009-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
 Hadouken! - For the Masses (2010-01-25)
 </li>
@@ -288,17 +294,11 @@ Noisia - Split the Atom (2010-05-30)
 <li data-cover="http://coverartarchive.org/release/ed08e6b3-1c4a-4441-a1c1-d111f477d2a4/7741978584-500.jpg" data-tags="glitch" role="button">
 OPIUO - Slurp And Giggle (2010-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/efaa53a7-4c07-4441-80b1-06f402ec5f7d/3566590122-500.jpg" data-tags="drum and bass" role="button">
-The Qemists - Spirit In The System (2010-07-07)
-</li>
 <li data-cover="https://img.discogs.com/sVNmw-zFlPY39DEorIjqZUTJpDY=/fit-in/500x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713155-1297691471.jpeg.jpg" data-tags="drum and bass" role="button">
 Chase & Status - No More Idols (2011-01-28)
 </li>
 <li data-cover="https://img.discogs.com/y4XBgnPfRyJUXneW93sfjJwJt44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3354632-1336033311.jpeg.jpg" data-tags="electronic, dubstep, drum and bass, breakbeat, tetris" role="button">
 Doctor P - Tetris (2011-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/d22bb09c-4f11-462d-9c4f-be9f93b144cd/23084674673-500.jpg" data-tags="island, hip hop, san francisco" role="button">
-DJ Shadow - The Less You Know, The Better (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbdb4c70-25d6-4501-b673-04ca9e1ee227/4509805320-500.jpg" data-tags="breakbeat" role="button">
 Buraka Som Sistema - Komba (2011-10-03)
@@ -309,11 +309,11 @@ Infected Mushroom - Army of Mushrooms (2012-05-08)
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">
 C2C - Tetra (2012-08-03)
 </li>
+<li data-cover="https://img.discogs.com/2tIQtaUvtbgFwzrucEywdPFlggU=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4591371-1374352097-3868.jpeg.jpg" data-tags="trip-hop" role="button">
+Tricky - False Idols (2013-05-24)
+</li>
 <li data-cover="https://img.discogs.com/pr4P-Lu0VVSTmWZVoBfCXU3P7Uk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4651028-1371094078-3852.jpeg.jpg" data-tags="indie, psychedelic pop" role="button">
 Jagwar Ma - Howlin (2013-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/09ac1d17-26d5-43b5-88a5-17d0edbad9d5/5922924284-500.jpg" data-tags="future garage" role="button">
-Burial - Rival Dealer (2013-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ceef135-c655-479c-99f9-cc0461de2795/9119127824-500.jpg" data-tags="breakbeat, electronic, big beat" role="button">
 The Crystal Method - The Crystal Method (2014-01-13)

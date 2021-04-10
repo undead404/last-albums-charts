@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:13:01.396Z
+date: 2021-04-10T13:07:07.260Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
 ![Primal Scream - Screamadelica (1991-09-23)](https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg "Primal Scream - Screamadelica (1991-09-23)")
@@ -86,6 +86,9 @@ Teenage Fanclub - Grand Prix (1995-05-29)
 </li>
 <li data-cover="https://img.discogs.com/YRziZahXdzveoCheBipybmOTUaY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179678-1204125283.jpeg.jpg" data-tags="celtic" role="button">
 Karen Matheson - The Dreaming Sea (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae9e24f6-b180-3236-9284-93e02fad1f25/15425216845-500.jpg" data-tags="soft rock, rock" role="button">
+Mark Knopfler - Golden Heart (1996-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
@@ -203,9 +206,6 @@ Marmaduke Duke - The Magnificent Duke (2005-05-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
 Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/db030733-10f6-40ce-b609-80f29ebe4dbf/4816714883-500.jpg" data-tags="folk-punk" role="button">
-The Real McKenzies - 10,000 Shots (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/qrUAMr4L0zmEVkEeqtMa8ipafiQ=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2318732-1361053647-2033.jpeg.jpg" data-tags="scottish, indie folk, 00s, too early" role="button">
 King Creosote - KC Rules OK (2005-09-19)

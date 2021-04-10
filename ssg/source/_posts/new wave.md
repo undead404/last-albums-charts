@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:11:01.415Z
+date: 2021-04-10T12:59:01.648Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -128,6 +128,9 @@ Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
 Tears for Fears - The Hurting (1983-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
+Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
@@ -296,9 +299,6 @@ Santigold - Master of My Make-Believe (2012-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
 Twin Shadow - Confess (2012-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/f7440029-f3e4-43c9-b673-2e5327eb9826/1553282324-500.jpg" data-tags="electronic, downtempo, new wave, chillwave, synth-pop" role="button">
-Com Truise - In Decay (2012-07-16)
 </li>
 <li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)

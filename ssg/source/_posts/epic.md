@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:47:01.397Z
+date: 2021-04-10T13:18:02.270Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -26,9 +26,6 @@ Shuggie Otis - Freedom Flight (1971-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
-Queen - News Of The World (1977-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
@@ -69,9 +66,6 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
-Legião Urbana - Como é que se diz eu te amo (2001-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
@@ -95,9 +89,6 @@ Isis - Panopticon (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
 Yndi Halda - Enjoy Eternal Bliss (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
-MAE - The Everglow (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb1ffc9e-4516-4cf0-9b93-f736c312222c/1550603027-500.jpg" data-tags="rock opera" role="button">
 The Protomen - The Protomen (2005-09-03)
@@ -156,14 +147,14 @@ Harry Gregson-Williams - The Chronicles Of Narnia: Prince Caspian (2008-05-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="epic, modern hardcore" role="button">
 The Carrier - No Love Can Save Me (2008-06-17)
 </li>
-<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
-Versailles - NOBLE (2008-07-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff4c762d-ce33-423c-95d3-a09accd3b155/11432456532-500.jpg" data-tags="chill, progressive metal, prog, epic, boogie on down, not of this world, instrumental prog metal, god tier chill, legends of chill" role="button">
+CHON - Chon (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
@@ -213,11 +204,14 @@ Fuck Buttons - Tarot Sport (2009-10-12)
 <li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
 E.S. Posthumus - Makara (2010-02-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
-The White Stripes - Under Great White Northern Lights (2010-03-15)
+<li data-cover="http://coverartarchive.org/release/0c036feb-0a13-3cc9-9897-e4e125c63922/7360744850-500.jpg" data-tags="soundtrack" role="button">
+John Powell - How to Train Your Dragon (2010-03-23)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
+Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
@@ -246,11 +240,11 @@ The Rapture - How Deep Is Your Love? (2011-06)
 <li data-cover="http://coverartarchive.org/release/0f4bc096-5241-4160-b9b3-1e07e6262e40/5777589331-500.jpg" data-tags="post-rock, epic" role="button">
 *shels - Plains of the Purple Buffalo (2011-07-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/7cdf6a6f-8677-4598-a475-a8aa2d8bfe43/1674518181-500.jpg" data-tags="soundtrack" role="button">
+Two Steps from Hell - Archangel (2011-09-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/987f61f3-1916-4622-8abb-48f907092bb3/9296865228-500.jpg" data-tags="epic, k-pop" role="button">
-Wonder Girls - Wonder World (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
@@ -261,6 +255,9 @@ Woodkid - Run Boy Run (2012-05-21)
 <li data-cover="http://coverartarchive.org/release/cefbfa99-d262-4f3e-a98d-23fff5c0b316/25315519841-500.jpg" data-tags="epic, j-rock, oneokrock" role="button">
 ONE OK ROCK - The Beginning (2012-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9e51a05-668b-450a-b8b0-778bbed89c76/1777618464-500.jpg" data-tags="post-rock" role="button">
+Mono - For My Parents (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
 </li>
@@ -269,6 +266,9 @@ Petra Marklund - Inferno (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b50bf968-1b2b-41ff-b1f3-b8bd7aa25884/3480184535-500.jpg" data-tags="rock, british, britpop" role="button">
+Robbie Williams - Take The Crown (2012-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)

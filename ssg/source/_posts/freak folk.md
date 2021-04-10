@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:29:01.414Z
+date: 2021-04-10T13:14:01.710Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d605007f-74eb-419b-9ed5-062c6743fbd0/6842201405-500.jpg" data-tags="folk, ambient, experimental, freak folk, free folk, tribal folk, my favourite cds, favourite cds" role="button">
+Exuma - Exuma II (1970)
+</li>
 <li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
 Linda Perhacs - Parallelograms (1970)
 </li>
@@ -78,12 +81,6 @@ Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/56bc5f48-6084-3557-a0a1-e8651937b1e2/2044417974-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - Rejoicing in the Hands (2004-05-04)
-</li>
-<li data-cover="https://img.discogs.com/wAHDSGcVO9TYYdy5ssLH80m_Gkc=/fit-in/482x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659710-1144495920.jpeg.jpg" data-tags="folk" role="button">
-Vetiver - Vetiver (2004-05-10)
-</li>
 <li data-cover="https://img.discogs.com/xIwNevu55AMvTuW5MxTXA1uucEQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-979612-1399846796-4746.jpeg.jpg" data-tags="folk, indie, new weird america" role="button">
 White Magic - Through The Sun Door (2004-05-18)
 </li>
@@ -98,6 +95,9 @@ Castanets - Cathedral (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
+</li>
+<li data-cover="https://img.discogs.com/BQ870DmwI1K9Daa-jzfmdv0jsM0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8805093-1469131689-8429.jpeg.jpg" data-tags="indie, alternative" role="button">
+Viking Moses - Crosses (2005)
 </li>
 <li data-cover="https://img.discogs.com/dhfeRRNkC1I9s3stYmQYKBJ5A2o=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-782540-1344067329-2316.jpeg.jpg" data-tags="folk" role="button">
 Feathers - Feathers (2005)
@@ -201,6 +201,9 @@ Panda Bear - Person Pitch (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/91760b90-6914-343c-99b7-3e673fc08c37/26142599602-500.jpg" data-tags="experimental, alternative, freak folk" role="button">
 CocoRosie - The Adventures of Ghosthorse and Stillborn (2007-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e66187ca-97ab-4d44-906e-58cfbd8d070b/20442282655-500.jpg" data-tags="indie, folk" role="button">
+Jana Hunter - There's No Home (2007-04-10)
+</li>
 <li data-cover="https://img.discogs.com/_lFRJx9DEhY8JAF1hjnvgQS8kJ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1617504-1232914529.jpeg.jpg" data-tags="folk, indie, acoustic" role="button">
 Bowerbirds - Hymns for a Dark Horse (2007-05-08)
 </li>
@@ -236,9 +239,6 @@ Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0ca6290-9638-4b66-9c65-ef9f63afc48c/25754581670-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, neofolk" role="button">
 Stille Volk - Nueit De Sabbat (2009-01-19)
-</li>
-<li data-cover="https://img.discogs.com/x3CDWRLgdPJszNqqkqXaqgs1_ME=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1953417-1301299952.jpeg.jpg" data-tags="4ad" role="button">
-tUnE-yArDs - BiRd-BrAiNs (2009-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/70a57e99-4691-3bdc-8131-1ca2fa0131c6/15330820415-500.jpg" data-tags="indie, experimental, freak folk, stretchsaysabigyesto these albums, fantastic according to stretchead" role="button">
 Sister Suvi - Now I Am Champion (2009-04-21)
