@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:04:01.402Z
+date: 2021-04-10T14:01:06.879Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -29,6 +29,9 @@ Love - Forever Changes (1967-11-01)
 </li>
 <li data-cover="https://img.discogs.com/Uv1dPnAgKGDNZrE_bPKakEpaals=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1100384-1581158564-5895.jpeg.jpg" data-tags="psychedelic folk, folk" role="button">
 Pearls Before Swine - Balaklava (1968)
+</li>
+<li data-cover="https://img.discogs.com/OQY9hvwZIU1vdaQR-kc8yoS4Jzc=/fit-in/216x216/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046913-1187822493.jpeg.jpg" data-tags="60s, folk, acoustic, blues, psychedelic, psychedelia, folk rock, psychedelic rock, psychedelic folk, psychedelic blues" role="button">
+Sandy Bull - E Pluribus Unum (1968)
 </li>
 <li data-cover="https://img.discogs.com/qBO4M0g2RVYmeS9RZtaHunS5Vvg=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557450-1351949867-9125.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Harumi - Harumi (1968)
@@ -60,9 +63,6 @@ John Fahey - America (1971)
 <li data-cover="http://coverartarchive.org/release/652c22d0-7505-31d6-8a96-9edda5150613/10978564490-500.jpg" data-tags="progressive rock, psychedelic folk, psychedelic, progressive folk" role="button">
 Comus - First Utterance (1971)
 </li>
-<li data-cover="https://img.discogs.com/Sf_Z0zjD2K1A4FDIphXDYeQwmaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378818-1342734604-4164.jpeg.jpg" data-tags="70s" role="button">
-Grateful Dead - From the Mars Hotel (1974-06-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -71,6 +71,9 @@ Luis Alberto Spinetta - Kamikaze (1982)
 </li>
 <li data-cover="https://img.discogs.com/XL9Mrr8GhhzlfU3RVRelI4AdTRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186371-1347897975-1349.jpeg.jpg" data-tags="holophonic" role="button">
 Psychic TV - Dreams Less Sweet (1983-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/530857f6-341e-4dd0-83e8-4c53bea9880f/26987481904-500.jpg" data-tags="chill, ambient, ambient pop, new age, folktronica, psychedelic folk, avant-folk" role="button">
+Woo - Into the Heart Of Love (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
@@ -105,26 +108,20 @@ Six Organs of Admittance - Dark Noontide (2002-02-19)
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/60b946ee-96e3-4a88-9213-5a101e978230/2355430075-500.jpg" data-tags="drone, psychedelic folk" role="button">
+Hala Strana - Fielding (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/40170c08-13a6-4c5b-8fed-f272338a3265/25471452169-500.jpg" data-tags="folk, experimental, ambient" role="button">
 Animal Collective - Campfire Songs (2003-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Here Comes the Indian (2003-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/aaf9e0e5-1299-4a76-8466-bd05562f6ae6/21055973594-500.jpg" data-tags="psychedelic folk" role="button">
-Hala Strana - Hala Strana (2003-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/c93c2e17-a88c-4033-b78f-a6c53abd8ba5/7891799098-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Alela Diane - The Pirate's Gospel (2004)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/56bc5f48-6084-3557-a0a1-e8651937b1e2/2044417974-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - Rejoicing in the Hands (2004-05-04)
-</li>
-<li data-cover="https://img.discogs.com/wAHDSGcVO9TYYdy5ssLH80m_Gkc=/fit-in/482x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659710-1144495920.jpeg.jpg" data-tags="folk" role="button">
-Vetiver - Vetiver (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
@@ -186,6 +183,12 @@ Pink Floyd - Zabriskie Point (2006-09-06)
 <li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
 Animal Collective - People (2006-11-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/1e4c7a39-17a1-4863-9bcb-d857bb83104e/20464011817-500.jpg" data-tags="experimental, psychedelic folk, b12, gammarec, big in 2007, freepurp1e, juma" role="button">
+Vibracathedral Orchestra - Wisdom Thunderbolt (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/73295f07-5e1d-4923-9821-05e4aed55838/27574041654-500.jpg" data-tags="folk, ambient, experimental, psychedelic, avant-garde, psychedelic folk, dark folk, dark acoustic, interesting, american primitive, art pop, avant-folk, experimental folk, drone folk, radio bav, atmospheric folk, gammarec, fursaxa, nancykitten all-time favourite albums" role="button">
+Fursaxa - Alone In The Dark Wood (2007-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
 The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 </li>
@@ -210,11 +213,11 @@ Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 <li data-cover="http://coverartarchive.org/release/a84315d3-290b-333a-8a57-47014915eda9/2990284729-500.jpg" data-tags="indie, freak folk, new weird america, psychedelic folk, devendra banhart" role="button">
 Megapuss - Surfing (2008-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/38033ac2-d347-4d2b-8764-348b59fce5ef/2605583811-500.jpg" data-tags="psychedelic folk" role="button">
+Kiss the Anus of a Black Cat - The Nebulous Dreams (2008-09-23)
+</li>
 <li data-cover="https://img.discogs.com/SGfmuoVn7BXIMRcQKKLtnLsK4q8=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2021415-1259014343.jpeg.jpg" data-tags="psychedelic folk, 00s, not not fun, time for a clearout" role="button">
 Topaz Rags - Capricorn Born Again (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/a229b570-0afd-4e3e-8ad1-571d91951231/5085030454-500.jpg" data-tags="neofolk" role="button">
-Solanaceae - Solanaceae (2009)
 </li>
 <li data-cover="https://img.discogs.com/4nj_RVwp8__vad-hS_DqHQiWnzM=/fit-in/196x335/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1628125-1233144121.jpeg.jpg" data-tags="noise, drone, post rock, psychedelic folk, dark ambient, free folk, avant-folk, road to absolute" role="button">
 Natural Snow Buildings - Daughter of Darkness (2009-01-27)
@@ -291,20 +294,17 @@ Grizzly Bear - Shields (2012-09-17)
 <li data-cover="http://coverartarchive.org/release/288b34fd-f78c-423a-a144-8191ada79d25/2048304998-500.jpg" data-tags="indie, rock, freak folk, woodsist" role="button">
 Woods - Bend Beyond (2012-09-18)
 </li>
-<li data-cover="https://img.discogs.com/V6aukbXwUg7bUHU6ig8930G8IUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15264378-1588882880-2171.jpeg.jpg" data-tags="psychedelic folk, singer songwriter, excelsior recordings, i need, my crazy diamonds" role="button">
-Jacco Gardner - Cabinet of Curiosities (2013-02-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
+</li>
+<li data-cover="https://img.discogs.com/8sSNITJrxKnoi7dJ0GJEihZ4Ric=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4460260-1365480975-1274.jpeg.jpg" data-tags="psychedelic folk, doom folk" role="button">
+Hexvessel - Iron Marsh (2013-05-10)
 </li>
 <li data-cover="https://img.discogs.com/XPGZkOo0dCbmKng_cY6_jsb1Cm0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4963579-1396460313-3423.jpeg.jpg" data-tags="dream pop" role="button">
 Mazzy Star - Seasons of Your Day (2013-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/82907832-2fca-4a1f-a8de-b2b4d0f719b7/5542526527-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 of Montreal - Lousy With Sylvianbriar (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/43845284-726a-4a16-8a8a-906c72b225bf/5516003645-500.jpg" data-tags="progressive rock" role="button">
-Midlake - Antiphon (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
 Marissa Nadler - July (2014-02-04)

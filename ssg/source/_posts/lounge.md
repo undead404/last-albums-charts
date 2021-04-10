@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:16:12.464Z
+date: 2021-04-10T14:24:01.997Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b8d67da0-99a2-4a87-b306-b540a8bea87f/6121797141-500.jpg" data-tags="jazz, 60s, easy listening, blues, lounge, swing, classic pop, the lizards lounge" role="button">
 Frank Sinatra - The World We Knew (1967)
 </li>
-<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
-Tom Waits - Closing Time (1973-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/72746f33-d114-403c-b023-8c19cc57fd21/6506893297-500.jpg" data-tags="easy listening, lounge" role="button">
 Cortex - Troupeau Bleu (1975)
+</li>
+<li data-cover="http://coverartarchive.org/release/64d415df-c9a3-4701-b3d9-dcce731247f1/8679054516-500.jpg" data-tags="space age pop" role="button">
+Mort Garson - Mother Earth's Plantasia (1976)
 </li>
 <li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">
 Moondog - H'art Songs (1978)
@@ -192,6 +192,9 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/f900b03a-0708-4a41-8430-a658853f4fa5/1376434220-500.jpg" data-tags="chillout" role="button">
 Stéphane Pompougnac - Living on the Edge (2003-11)
 </li>
+<li data-cover="https://img.discogs.com/9stA8RDVNKgB7V7H7fokGCisbSU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444219-1417107720-4484.jpeg.jpg" data-tags="chillout" role="button">
+Vargo - Beauty (2004)
+</li>
 <li data-cover="https://img.discogs.com/V_wOUbZVuiiHLhePSXHoWwyRbD4=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228123-1512193026-9429.jpeg.jpg" data-tags="lounge, club, excellent, austria, vienna, 2 s34rch, bebopdelula chills out, r00ts, vienna sound, g-stone, labels - g-stone, barturismooth" role="button">
 Rodney Hunter - Hunter Files (2004)
 </li>
@@ -255,11 +258,11 @@ Zero 7 - The Garden (2006-05-22)
 <li data-cover="https://img.discogs.com/bfMEL68rc00P8HtCMLhDFbEPGm8=/fit-in/354x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736035-1153535752.jpeg.jpg" data-tags="downtempo, future jazz" role="button">
 Quantic - An Announcement To Answer (2006-07-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/e952f92c-9d77-4dba-8187-83be712ac776/3430239423-500.jpg" data-tags="christmas, lounge, parody" role="button">
+Richard Cheese - Silent Nightclub (2006-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
-</li>
-<li data-cover="https://img.discogs.com/ogXc0_12p1azLm4vnVLiEPJDRQ4=/fit-in/589x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988006-1181152703.jpeg.jpg" data-tags="groove, deep house" role="button">
-Miguel Migs - Those Things (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
 Pink Martini - Hey Eugene! (2007-05-14)
@@ -311,9 +314,6 @@ The Decemberists - The King Is Dead (2011-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
-Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:25:01.650Z
+date: 2021-04-10T14:19:01.410Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -120,9 +120,6 @@ Jónsi - Go (2010-04-02)
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
-<li data-cover="https://img.discogs.com/-JtoD5g_X6JZb6s-TU8D70T8p4w=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2344917-1278429874.jpeg.jpg" data-tags="symphonic rock, finnish, art pop" role="button">
-Indica - A Way Away (2010-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/89fc2d2a-0704-4ebc-ac20-f2c744d300e5/27251745828-500.jpg" data-tags="lo-fi" role="button">
 Perfume Genius - Learning (2010-06-21)
 </li>
@@ -182,6 +179,9 @@ Soap&Skin - Narrow (2012-02-10)
 </li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
+Frankie Rose - Interstellar (2012-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)

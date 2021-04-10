@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:32:01.418Z
+date: 2021-04-10T14:29:01.420Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -156,6 +156,9 @@ Therion - Sirius B (2004-05-24)
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Once (2004-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/19da0374-5189-48f1-a28c-aca719eeeaa9/1049545415-500.jpg" data-tags="symphonic metal" role="button">
+Lunatica - Fables & Dreams (2004-09-22)
+</li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Reckoning Night (2004-10-06)
 </li>
@@ -272,9 +275,6 @@ Sirenia - The 13th Floor (2009-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bfd66c-2689-498b-bbd3-05e7d62cbefe/963414452-500.jpg" data-tags="symphonic metal" role="button">
 Delain - April Rain (2009-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/888e2e75-e1e8-4721-baaa-b92c7c86ea63/1048225534-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
-Leaves' Eyes - Njord (2009-08-26)
 </li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="progressive metal, symphonic metal, power metal" role="button">
 Sonata Arctica - The Days of Grays (2009-09-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:02:01.422Z
+date: 2021-04-10T13:46:07.106Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -47,6 +47,9 @@ Nick Drake - Bryter Layter (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bf93ec6-a96c-4d4d-9cc2-96f0f4306ff6/18627374936-500.jpg" data-tags="classic rock" role="button">
 Grateful Dead - American Beauty (1970-11-01)
+</li>
+<li data-cover="https://img.discogs.com/nqxkjMxnQAPyOKvXNQGD_HLz4No=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7113798-1490032853-4360.jpeg.jpg" data-tags="70s, folk" role="button">
+Paul Simon - Paul Simon (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - Aqualung (1971-03-19)
@@ -180,14 +183,8 @@ Iron & Wine - The Shepherd's Dog (2007-09-23)
 <li data-cover="http://coverartarchive.org/release/1173ad8c-8689-321a-824f-4fe67e103979/14494214977-500.jpg" data-tags="folk rock" role="button">
 Two Gallants - Two Gallants (2007-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
-Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, folk rock" role="button">
 The Mountain Goats - Heretic Pride (2008-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/df036617-f604-467b-b708-250079c9fc37/13890856001-500.jpg" data-tags="folk, bluegrass" role="button">
-The Avett Brothers - The Second Gleam (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
@@ -221,6 +218,9 @@ Isbells - Isbells (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a876213-7833-40c1-ac4b-39cb9b767082/25696731134-500.jpg" data-tags="indie, alternative, folk, cosmic american music" role="button">
+Midlake - The Courage Of Others (2010-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
 Bombay Bicycle Club - Flaws (2010-07-12)

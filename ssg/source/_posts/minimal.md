@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:03:06.980Z
+date: 2021-04-10T14:10:01.441Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -24,20 +24,17 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 The Necks - Sex (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e728075-e9fc-49e3-bd01-5a8f37de464a/6485162992-500.jpg" data-tags="ambient, minimal, emd, electronic, experimental" role="button">
-Oval - Systemisch (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/a0197c94-5f06-39fa-a69a-470c5101c186/16747762348-500.jpg" data-tags="electronic, electronica, experimental, minimal, idm, 90s, glitch, ambient techno, skam, n01s3 n k00l" role="button">
 Gescom - Gescom EP (1994-12)
-</li>
-<li data-cover="https://img.discogs.com/USp7-AAcr2XNFjJ3hgBHb-by6dg=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-94241-1330767595.jpeg.jpg" data-tags="ambient, glitch" role="button">
-Oval - 94 Diskont (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/86df032d-421a-49c1-9331-ce9e7d38a495/4524836394-500.jpg" data-tags="electronic, techno, minimal" role="button">
 Swayzak - Snowboarding in Argentina (1998-03-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Plastikman - Artifakts (BC) (1998-11-02)
+</li>
+<li data-cover="https://img.discogs.com/QSs9Sy-jMjcK_qt57Nl0s6D-dRY=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5678-1379643265-7806.jpeg.jpg" data-tags="minimal" role="button">
+Pole - 2 (1999-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/534bf9a3-6e64-308f-8561-016fcc6a71c5/5409365013-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - Avec Laudenum (1999-12-07)
@@ -51,17 +48,20 @@ Luomo - Vocalcity (2000-05-23)
 <li data-cover="http://coverartarchive.org/release/d6e0508a-98ee-4b11-86e3-951d8ef77480/19860844363-500.jpg" data-tags="electronica, experimental, minimal, glitch, basic channel, luomo, uusitalo, vladislav delay, nice nait, swayzak, moje nice, vladel" role="button">
 Uusitalo - Vapaa muurari (2000-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b8c13dd-ccec-4193-86af-58876ed73a9e/15007779536-500.jpg" data-tags="electronic, meditative, visions, atmospheric ambient" role="button">
-Patrick O'Hearn - So Flows The Current (2001-01-15)
-</li>
 <li data-cover="https://img.discogs.com/mKgm7fyRRKxS70xf4eQ3xCf-5Pw=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11203-1161592133.jpeg.jpg" data-tags="minimal, electronic" role="button">
 Pan Sonic - Aaltopiiri (2001-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d5a41a-45e0-4ddf-91ea-727ace88f856/6367897625-500.jpg" data-tags="ambient" role="button">
 Monolake - Gravity (2001-01-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
+Elbow - Asleep in the Back (2001-05-03)
+</li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="techno, minimal" role="button">
+Mathew Jonson - She Is He (2002-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, minimal, glitch" role="button">
 Taylor Deupree - Stil. (2002-10-01)
@@ -126,11 +126,11 @@ Paul Kalkbrenner - Tatü-Tata (2005-07)
 <li data-cover="http://coverartarchive.org/release/be49d81b-1309-4c2f-93a1-83f8a82454c7/10886577571-500.jpg" data-tags="techno, minimal, kompakt" role="button">
 Matias Aguayo - Are You Really Lost (2005-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
+Jan Jelinek - Kosmischer Pitch (2005-10-21)
+</li>
 <li data-cover="https://img.discogs.com/OadjJ860wTDjSM64syba3Esh-_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14236527-1570450856-1614.jpeg.jpg" data-tags="minimal" role="button">
 Robert Babicz - Mister Head (2005-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/77bb8829-bcce-4031-99f9-fb6162aecc50/3556414838-500.jpg" data-tags="electronic, minimal" role="button">
-SCSI-9 - On the Edge (2005-11-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Oliver Koletzki - Mückenschwarm Remixes (2005-12-26)
@@ -170,6 +170,9 @@ James Figurine - Mistake Mistake Mistake Mistake (2006-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea84aa32-ab9c-4824-9db5-a505d086b68f/8152589613-500.jpg" data-tags="minimal" role="button">
 Audion - Mouth to Mouth (2006-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b42c5ee-0f07-459e-8d2d-ecb27dbb4226/23902135615-500.jpg" data-tags="creamfields andalucia 08" role="button">
+Luomo - Paper Tigers (2006-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b237601f-60f8-4046-80a5-9814b87350d1/1693082325-500.jpg" data-tags="techno" role="button">
 Agoria - The Green Armchair (2006-10-16)
@@ -267,9 +270,6 @@ Nicolas Jaar - Space Is Only Noise (2011-01-31)
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal, pinossa soittimen vieressa" role="button">
 Bodi Bill - What? (2011-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/165ac34b-6b79-48cb-9d14-cb92775cdef9/1348809060-500.jpg" data-tags="dubstep" role="button">
-Burial - Street Halo (2011-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/dea95d67-cf54-472c-807e-55c7d03b436a/2178302965-500.jpg" data-tags="minimal" role="button">
 Paul Kalkbrenner - Icke Wieder (2011-06-03)
 </li>
@@ -312,13 +312,13 @@ Julianna Barwick - Nepenthe (2013-07-20)
 <li data-cover="http://coverartarchive.org/release/d36cca41-20f8-4a8e-8672-e92547c25499/12546411057-500.jpg" data-tags="minimal" role="button">
 Marek Hemmann - Bittersweet (2013-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
-Moderat - II (2013-08-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - while(1<2) (2014-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/45bd3de7-8659-4538-9f06-bb6eec2d5ce9/8651592801-500.jpg" data-tags="ambient" role="button">
+Bing & Ruth - Tomorrow Was The Golden Age (2014-10-14)
 </li>
 </ol>

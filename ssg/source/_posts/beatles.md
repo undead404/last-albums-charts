@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:51:01.428Z
+date: 2021-04-10T14:35:07.169Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -42,9 +42,6 @@ The Beatles - Help! (1965-07-19)
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
 The Beatles - Rubber Soul (1965-12-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/40fdd8ff-ec57-4a30-8133-eaabfef1bfdd/1502201764-500.jpg" data-tags="disco, classic rock, pop, 60s, british, dance, album rock, psychedelic, california, british invasion, beatles, romance, shows, aleister crowley, rock 'n roll, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-The Beatles - Yesterday and Today (1966-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Revolver (1966-08-05)
 </li>
@@ -72,9 +69,6 @@ The Beatles - Abbey Road (1969-09-26)
 <li data-cover="http://coverartarchive.org/release/88ce4ac1-422e-343d-b2d5-fb46dd81646f/14968526929-500.jpg" data-tags="jazz" role="button">
 George Benson - The Other Side Of Abbey Road (1970)
 </li>
-<li data-cover="http://coverartarchive.org/release/98392e46-ed13-38ce-af5f-0bc70db73587/2333519128-500.jpg" data-tags="the beatles, 60s, classic rock, beatles" role="button">
-The Beatles - Hey Jude (1970-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ac6885b-f733-3c0a-913b-b3202b56a80a/9495724756-500.jpg" data-tags="rock, classic rock" role="button">
 Paul McCartney - McCartney (1970-04-17)
 </li>
@@ -86,9 +80,6 @@ Stephen Stills - Stephen Stills (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbeb851b-ad68-43ab-9706-7f1ecd2bf59d/21251802402-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 John Lennon - Imagine (1971-10-11)
-</li>
-<li data-cover="https://img.discogs.com/lq9rvD7eyLXpxVBeVSpjsNATc7w=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1880512-1458696700-4188.jpeg.jpg" data-tags="rock, classic rock" role="button">
-George Harrison - The Concert for Bangladesh (1971-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1903f00b-5131-48ee-9f77-ecf1835a34bb/5582774603-500.jpg" data-tags="beatles, classic rock, 60s" role="button">
 The Beatles - 1962-1966 (1973-04-02)
@@ -189,6 +180,9 @@ The Rutles - Archaeology (1996)
 <li data-cover="http://coverartarchive.org/release/4f0e91cc-04a0-4750-a68d-86dd64860939/24162795176-500.jpg" data-tags="beatles, randomly awesome, full tracks, rivers all time favorite albums, 60na, psychedelic peppermint, carnival radio" role="button">
 The Idle Race - Back To The Story (1996)
 </li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles, stonedbeat" role="button">
+The Beatles - Let It Be Sessions (1996)
+</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, emo, beatles, stonedbeat, my whole damn collection" role="button">
 The Beatles - Real Love (1996-03-04)
 </li>
@@ -209,6 +203,9 @@ Nicoletta - 30 Ans De Passion (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/65f6f9de-fda6-4e0c-af96-43a964468235/25287024908-500.jpg" data-tags="classic rock" role="button">
+The Beatles - Last Night in Hamburg (1999-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9b7e6e4-59ce-49de-adfb-23064c2cba31/1491718433-500.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - Revolver / Magical Mystery Tour (2000)
@@ -249,6 +246,9 @@ John Lennon - Acoustic (2004-09-29)
 <li data-cover="http://coverartarchive.org/release/cf1d0781-961d-4396-930b-4533d3ee37fa/11404567568-500.jpg" data-tags="christmas" role="button">
 Allison Crowe - Tidings (2004-11-11)
 </li>
+<li data-cover="https://img.discogs.com/FSfw8azdAjExIl0-aAp2WgabWFY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9854196-1487427891-7104.jpeg.jpg" data-tags="folk, new york, indie rock, acoustic, beatles, sixties, blondie, violent femmes, bowie, the ramones, punk folk, t-rex, job" role="button">
+Makar - 99 Cent Dreams (2005)
+</li>
 <li data-cover="https://img.discogs.com/WSYBvg-dMNWNVzji42Uz0Kmqys8=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10317966-1593922323-1498.jpeg.jpg" data-tags="guitar, beatles, beatles cover song, acoustic masters" role="button">
 Stephen Bennett - Beatles Acoustic Guitar Solos (2005)
 </li>
@@ -270,9 +270,6 @@ Wry - Flames in the head (2006-04-03)
 <li data-cover="http://coverartarchive.org/release/63a74f00-5b44-4725-9330-ad5d6ae0f2c4/24223474998-500.jpg" data-tags="pop, british, beatles" role="button">
 The Red Button - She's About To Cross My Mind (2007-01-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/78b8e7bd-6f5a-46c4-96c1-705e50c697a7/21009905624-500.jpg" data-tags="paul mccartney, rock" role="button">
-Paul McCartney - Memory Almost Full (2007-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
 </li>
@@ -291,9 +288,6 @@ Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
 <li data-cover="https://img.discogs.com/RsNWNkT6wr7JMO-k8Js_IRiwdjA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198730-1359957277-8561.jpeg.jpg" data-tags="covers" role="button">
 Soulive - Rubber Soulive (2010-03-23)
 </li>
-<li data-cover="https://img.discogs.com/f9ZxHgZlcTCaOKUuMF_O4F1z8SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677937-1296206354.jpeg.jpg" data-tags="rock, prog, queen, pink floyd, beatles, david bowie, 10s, elton john, enrico gabrielli" role="button">
-A Toys Orchestra - Midnight Talks (2010-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/f75cdc20-40ae-44fb-a2b5-ab819ca09505/17601666881-500.jpg" data-tags="powerpop, beatles, never shout never" role="button">
 Stereo Skyline - Stuck On Repeat (2010-07-20)
 </li>
@@ -302,6 +296,9 @@ George Harrison - Living in the Material World (2011-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd7c7e60-6976-4799-a143-1acdabc7701e/15419145178-500.jpg" data-tags="rock, singer-songwriter, acoustic, beatles, george harrison, 70's, gomorrans, ryan beebe, mike garlington" role="button">
 George Harrison - Early Takes: Volume 1 (2012-05-01)
+</li>
+<li data-cover="https://img.discogs.com/s9mZ7SnHyosiODJVySud-vMxzr8=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13837603-1562254002-6401.jpeg.jpg" data-tags="soul, rhythm and blues, 50's, doo wop, beatles, gomorrans" role="button">
+The Coasters - The Definitive Coasters (A Sides & B Sides) (2013-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ece20-fafc-47cd-81bb-e470da9ef796/15453679630-500.jpg" data-tags="beatles" role="button">
 The Beatles - Meet the Beatles (2014-07-22)
@@ -314,6 +311,9 @@ The Beatles - Get Back 2nd Mix (2015-11-06)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="rock, classic rock, 60s" role="button">
 The Beatles - The Beatles (disc 1) (2015-11-06)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles" role="button">
+The Beatles - The Beatles 1967-70 (2015-11-06)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, pop, 60s, beatles, stonedbeat, work it" role="button">
 The Beatles - The Beatles Golden Edition (2015-11-06)

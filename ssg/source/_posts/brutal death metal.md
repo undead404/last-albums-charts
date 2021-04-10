@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:35:01.411Z
+date: 2021-04-10T13:59:01.410Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -7,10 +7,10 @@ title: "brutal death metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/bXnGx8FVcRf8JtYlZzkzm6ybLCo=/fit-in/300x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2579786-1447271323-2062.jpeg.jpg" data-tags="death metal" role="button">Cannibal Corpse - Tomb of the Mutilated (1992-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">Nile - Annihilation of the Wicked (2005-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
+<li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">Paris Hilton - Paris (2006-08-14)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
+<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">Deafheaven - Roads to Judah (2011-04-26)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
@@ -27,6 +27,9 @@ Cannibal Corpse - Eaten Back To Life (1990-08-16)
 <li data-cover="https://img.discogs.com/IaZOSf_Tq27HSEywCm3fm-BtTx0=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5041433-1490470276-7462.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Butchered at Birth (1991)
 </li>
+<li data-cover="https://img.discogs.com/C4M3Fa4WZDWnPGxrF59pcBoxAMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427094-1480934536-5814.jpeg.jpg" data-tags="death metal" role="button">
+Suffocation - Human Waste (1991-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/b83458f4-58db-4b00-952d-1c3890b3fd1b/5852144410-500.jpg" data-tags="death metal" role="button">
 Suffocation - Effigy of the Forgotten (1991-10-22)
 </li>
@@ -35,6 +38,9 @@ Cannibal Corpse - Tomb of the Mutilated (1992-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/81742ddb-2a85-4d19-867c-79cc3f37c461/3507526774-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - The Bleeding (1994-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/901b614f-d39e-3d5d-89d2-596c3f045315/7743674648-500.jpg" data-tags="death metal" role="button">
+Cryptopsy - Blasphemy Made Flesh (1994-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c09ec022-2459-444a-8f59-ea363df28575/24459277900-500.jpg" data-tags="death metal" role="button">
 Suffocation - Pierced From Within (1995-05-23)
@@ -53,9 +59,6 @@ Cannibal Corpse - Gallery of Suicide (1998-04-21)
 </li>
 <li data-cover="https://img.discogs.com/1shcZ_nz2dW62FBfbV2quvbpRMU=/fit-in/387x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6282818-1417876455-8639.jpeg.jpg" data-tags="death metal" role="button">
 Nile - Amongst the Catacombs of Nephren-Ka (1998-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/a57a70aa-f6f9-42dc-8dfc-6c218c59cb36/15903473429-500.jpg" data-tags="brutal death metal, death metal" role="button">
-Devourment - Molesting the Decapitated (1999-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1610d9e-7c0c-40ab-8e0f-77c6dfce123b/10518470373-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Bloodthirst (1999-10-06)
@@ -87,6 +90,9 @@ Nile - In Their Darkened Shrines (2002-08-20)
 <li data-cover="http://coverartarchive.org/release/649f134d-d733-4908-9004-d3d8edd506b0/24447477256-500.jpg" data-tags="alternative rock, edgy, queer, queercore, southern rock, beer, kid rock, male vocals, based, scat, brutal death metal, creepy, racism, moisture, bananas, trump, treble, cracked, farts, creed, racist, nickelback, girls girls girls, my nigga, poopy, hebo, hillary clinton, jihad, fart, donald trump, fecal, flatulence, coprogrind, sjw, genderqueer, grady, maga, farting, youngstar, kkk country, racist country, little star, politically correct, moist, i would like to spend an afternoon rubbing her breasts with warm mineral oil, scat goregrind, pissgore, rei do pop, agender, n word, queer metal, shady grady, seahawks, scatgrind, beste country musik wo gibt, fart rock, music to fart to, post-post-grunge, 2edgy4me, mitch mcconnell, brayden, jayden, fecalgrind, non-binary, planet kolob, where gods began, grumpy still skin, soft and moist, without artistic merit, dake-bonoism, masturbation fodder, squeeze the boobies, listen to u2, beneficial, conforms to dake-bonoistic doctrine, they always conform to dake-bonoistic doctrine, imaginary girlfriend, it starts with one thing i dont know why it doesnt even matter how hard you try keep that in mind i designed this rhyme, make america great again, fart pop, plopper, deekles, hollow monkey, poopy-man, you can listen on a thursday, adsfghjklmn, fuck me daddy, similar to johnny rebel, pwr bttm, too much swearing, kayden, dustin lynch " role="button">
 Uncle Kracker - No Stranger to Shame (2002-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb64424d-7716-4b99-8969-ce6ea83b9e66/2694748325-500.jpg" data-tags="death metal" role="button">
+Bloodbath - Resurrection Through Carnage (2002-11-12)
+</li>
 <li data-cover="https://img.discogs.com/Hj6SqOwU4svfM1D0YtDtOzLgmtk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877031-1168212023.jpeg.jpg" data-tags="death metal" role="button">
 Vital Remains - Dechristianize (2003-08-22)
 </li>
@@ -110,6 +116,9 @@ Aborted - The Archaic Abattoir (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">
 Nile - Annihilation of the Wicked (2005-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/46043097-66ab-492b-862c-1c10688c72d9/18164824160-500.jpg" data-tags="hardcore, emo, crimes against humanity, crazy frog, crazy awesome, axel f" role="button">
+Crazy Frog - Crazy Hits (2005-07-25)
 </li>
 <li data-cover="https://img.discogs.com/aUQCIzkE9w7lqjaq3zZ6Hg3JHVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1793437-1304159628.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Decapitated - Organic Hallucinosis (2006-02-13)
@@ -155,6 +164,9 @@ Nile - Ithyphallic (2007-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7efed507-a680-4768-aa9f-26bb47ece6ea/25898543404-500.jpg" data-tags="death metal, brutal death metal" role="button">
 Benighted - Icon (2007-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/71789dd2-83ee-4fb2-9322-2de62eed46d9/9961780926-500.jpg" data-tags="alternative rock, energetic, brutal death metal, mario popping out of the green well in slow motion, the most frostbitten and grim music from the very very very very very very inverted mountains of kxziiiimfghhhblaghl, vypsana fixa" role="button">
+Vypsaná Fixa - Fenomén (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">
 Dethklok - The Dethalbum (2007-09-25)
@@ -204,9 +216,6 @@ Jonas Brothers - Lines, Vines and Trying Times (2009-06-16)
 <li data-cover="http://coverartarchive.org/release/9e497289-c078-44b2-a595-c65b19fc278b/16426591871-500.jpg" data-tags="brutal death metal" role="button">
 Ingested - Surpassing the Boundaries of Human Suffering (2009-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/98655166-b00e-4fe8-8ee1-bd36d6e85917/7576589725-500.jpg" data-tags="brutal death metal" role="button">
-Devourment - Unleash the Carnivore (2009-06-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/6119fca5-d6e4-4685-b5d8-dfd71fce3494/2142804827-500.jpg" data-tags="miley cyrus" role="button">
 Miley Cyrus - Party in the U.S.A. (2009-08-11)
 </li>
@@ -237,9 +246,6 @@ Justin Bieber - My World (2009-11-13)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/9fc351ef-6f46-4f03-8f25-999b22615331/21780806298-500.jpg" data-tags="technical death metal" role="button">
 Fleshgod Apocalypse - Mafia (2010-06-10)
 </li>
@@ -255,14 +261,8 @@ Motionless in White - Creatures (2010-10-12)
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Opus Eponymous (2010-10-18)
 </li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
+<li data-cover="http://coverartarchive.org/release/c5d04fac-8bc4-44bb-8828-1e2c86b1c9b1/13823360343-500.jpg" data-tags="brutal death metal, death metal, deathgrind" role="button">
+Benighted - Asylum Cave (2011-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5eacd540-3a94-4a00-8d15-e48807c42b64/10075100962-500.jpg" data-tags="technical death metal, death metal" role="button">
 Fleshgod Apocalypse - Agony (2011-08-09)
@@ -275,6 +275,9 @@ The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
+</li>
+<li data-cover="https://img.discogs.com/ibDZjXi2nitNp8paa8Q_w5TJCsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16059186-1602706009-4478.jpeg.jpg" data-tags="racist country, similar to johnny rebel, kid rock, creed, kkk country, scat, racism, farts, racist, my nigga, fart, donald trump, sjw, farting, youngstar, little star" role="button">
+Dustin Lynch - Cowboys and Angels (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/743bd707-0b4f-41c7-b250-ea679c8ff623/10363069226-500.jpg" data-tags="brutal death metal, death metal" role="button">
 Abominable Putridity - The Anomalies of Artificial Origin (2012-02-28)
@@ -290,9 +293,6 @@ Cattle Decapitation - Monolith of Inhumanity (2012-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/20699777-ae00-4e5e-b602-38a9b9a707e7/22458500700-500.jpg" data-tags="death metal" role="button">
 Dying Fetus - Reign Supreme (2012-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/84be76c9-41b9-4c2f-900b-9323334a10ae/1526397780-500.jpg" data-tags="black metal, pop, dance, latin, reggaeton, brutal death metal, latin grammy nominated, mierda" role="button">
-Wisin & Yandel - Líderes (2012-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/39dcebcd-425c-4fa5-b6c9-32d14f896230/3036084307-500.jpg" data-tags="hard rock, glam metal" role="button">
 Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)

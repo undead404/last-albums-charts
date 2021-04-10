@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:34:01.443Z
+date: 2021-04-10T14:32:01.460Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -47,6 +47,9 @@ Radiohead - The Bends (1995-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7225bbae-8050-4829-abee-56cd18f76143/15753015256-500.jpg" data-tags="britpop, 90s" role="button">
 Elastica - Elastica (1995-03-13)
+</li>
+<li data-cover="https://img.discogs.com/Sflf5w0yus7Y7UoSFHj2dGmh-Yo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387602-1173433781.jpeg.jpg" data-tags="britpop" role="button">
+The Stone Roses - The Complete Stone Roses (1995-05)
 </li>
 <li data-cover="https://img.discogs.com/NB0A7hMPY7Q9eDQZxgZigrMNMmc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198696-1493465983-6894.jpeg.jpg" data-tags="britpop" role="button">
 Supergrass - I Should Coco (1995-05-15)
@@ -281,9 +284,6 @@ Elbow - The Seldom Seen Kid (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/108ff541-d605-3cd0-bd71-c7626dd224c3/15041273179-500.jpg" data-tags="indie, indie rock" role="button">
 The Kooks - Konk (2008-04-09)
-</li>
-<li data-cover="https://img.discogs.com/iL8ENhEknvLI_dcioqf9KzHrW0Q=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8051338-1454197968-4134.jpeg.jpg" data-tags="britpop" role="button">
-Coldplay - Violet Hill (2008-05-07)
 </li>
 <li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
 Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)

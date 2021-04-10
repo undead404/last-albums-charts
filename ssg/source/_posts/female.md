@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:34:01.720Z
+date: 2021-04-10T14:13:01.418Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Brandi Carlile - The Story (2007-04-03)](http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg "Brandi Carlile - The Story (2007-04-03)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="female, folk, acoustic, frau, folk - world and country, -1966-, new voice records" role="button">
 Norma Tanega - Walkin' My Cat Named Dog (1966)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ca5c7fd-6293-413d-b096-92c00a2e0587/8680012182-500.jpg" data-tags="classic rock" role="button">
+Janis Joplin - Janis Joplin's Greatest Hits (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
 </li>
@@ -36,17 +39,14 @@ Dusty Springfield - The Silver Collection (1988)
 <li data-cover="http://coverartarchive.org/release/dbab3550-2635-4f48-a459-8e29fcd48056/26741104951-500.jpg" data-tags="female vocalists, singer-songwriter, folk, acoustic" role="button">
 Tracy Chapman - Crossroads (1989-09-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9016aaf-ca71-304f-b5f1-d6384cf465f3/8364196064-500.jpg" data-tags="alternative, female vocalists" role="button">
-Kate Bush - The Sensual World (1989-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
-Tori Amos - Little Earthquakes (1992-01-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc3092e3-d095-4fcb-85a9-89cbef7c3c74/15352415252-500.jpg" data-tags="country" role="button">
 Mary Chapin Carpenter - Come On Come On (1992-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
 Liz Phair - Exile in Guyville (1993-06-22)
+</li>
+<li data-cover="https://img.discogs.com/qt_TXxZUTX877UK-JxoURwW4as8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887422-1339251264-6500.jpeg.jpg" data-tags="relaxing calm and fresh" role="button">
+Lisa Ekdahl - Lisa Ekdahl (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
@@ -90,6 +90,12 @@ Melanie C - Northern Star (1999-11-22)
 <li data-cover="https://img.discogs.com/Wq8UW0U_84cS3tB11DhA4iERct4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10167741-1500239567-8644.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Mandy Moore - So Real (1999-12-07)
 </li>
+<li data-cover="https://img.discogs.com/TzUQGsUxe81laWKs3E86gBGLu2Y=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-311604-1521574096-1758.jpeg.jpg" data-tags="female, hip hop, rap, female artists, debut, 50 cent, female rapper, florida hip-hop" role="button">
+Trina - Da Baddest Bitch (2000-03-21)
+</li>
+<li data-cover="https://img.discogs.com/cWfCD7gEkow118wcDzNNMIEkSPY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417166-1287409663.jpeg.jpg" data-tags="indie rock" role="button">
+Sleater-Kinney - All Hands on the Bad One (2000-05-02)
+</li>
 <li data-cover="https://img.discogs.com/4ht0rxs_jw_ar-d4kpid3x4IRjs=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1022385-1185056875.jpeg.jpg" data-tags="female vocalists" role="button">
 Nerina Pallot - Dear Frustrated Superstar (2001-08-20)
 </li>
@@ -117,14 +123,14 @@ Martha Wainwright - Bloody Mother Fucking Asshole (2003)
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/570b7d30-bf9e-4fe0-9b71-4c40545f2db5/5224988766-500.jpg" data-tags="female vocalists" role="button">
-Cyndi Lauper - The Essential Cyndi Lauper (2003-06-10)
-</li>
-<li data-cover="https://img.discogs.com/BmGORWdUT7o3lCmfB-xSvtal4pA=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210474-1328076828.jpeg.jpg" data-tags="vocal, chill, cibelle - pequenos olhos" role="button">
-Cibelle - Cibelle (2003-06-16)
+<li data-cover="https://img.discogs.com/-jHRX-eJPGTA2oR-7Q3kBIJfRvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929781-1179521048.jpeg.jpg" data-tags="female, pop, rock, female vocalists, female vocals, female vocalist, female artists, female voices, gotanygoodmusic, rex ferric faves, girly power, 00s albums, albums in my cd rack" role="button">
+Lisa Marie Presley - To Whom It May Concern (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">
 Hilary Duff - Metamorphosis (2003-06-20)
+</li>
+<li data-cover="https://img.discogs.com/LWJ-AKum2NOXPYjc0WBwPF-S9GM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966844-1330288157.jpeg.jpg" data-tags="rock" role="button">
+Liz Phair - Liz Phair (2003-06-24)
 </li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
@@ -140,9 +146,6 @@ Hanne Hukkelberg - Little Things (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/bdea53a4-7fab-409b-b70f-6ec3f8a06029/24728786897-500.jpg" data-tags="indie, female, alternative, female vocalists, singer-songwriter, day, sunday, quiet, chicks, second, staff, comfort, friday, march, colors, monday, saturday, november, woman, though, august, pink, three, girl, vagina, orange, zero, name, blue, red, green, yellow, first, december, richard, february, you, thursday, too, guides, not, oil, makes, shade, bats, september, january, july, tuesday, enemies, awareness, sing, miscellaneous, head, idols, can, seven, shady, four, two, chick, bands that would eat children if only they could fit a whole one inside their mouths, purple, rainbow, alternative media, one" role="button">
-Sam Phillips - A Boot and a Shoe (2004-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
@@ -173,6 +176,9 @@ Britney Spears - Greatest Hits: My Prerogative (2004-11-04)
 </li>
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/4186b65f-c36d-4dac-82d3-221d3f8c7925/17754966442-500.jpg" data-tags="indie pop" role="button">
+Eisley - Room Noises (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad7247da-24c2-4bd3-b17f-31077f50f693/2596514590-500.jpg" data-tags="alternative, female vocalists, singer-songwriter, piano" role="button">
 Tori Amos - The Beekeeper (2005-02-21)
@@ -207,8 +213,8 @@ Katy Perry - Ur So Gay (2007-01-15)
 <li data-cover="https://img.discogs.com/mHCZ-tldeceJvMGxFU-dJXPobwQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-921512-1173044217.jpeg.jpg" data-tags="pop" role="button">
 Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a058cc8-f297-4818-b182-db15f3c2655e/9390660710-500.jpg" data-tags="vocal, female, alternative, icelandic, iceland, tagged, lost, something, sounds, tag, thoughts, maybe, bananas, bats, variable, genre, shady, bent, filtered, bite, thing, get it, wednesday, grady, zap, partial, possible, perhaps, suggestions, specific, extremities, optional, shady grady, northern hemisphere, western hemisphere, non-verbal, you might, jib, i am tagging this artist, the fire of the mind agitates the atmosphere, testing 1-2-3, deek, kolob, if you could hie to kolob" role="button">
-Ólöf Arnalds - Við og við (2007-02-28)
+<li data-cover="https://via.placeholder.com/450" data-tags="pop latino, spanish, latina" role="button">
+Conchita - Nada Más (2007-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
@@ -288,17 +294,14 @@ Eliza Doolittle - Pack Up (2010-07-05)
 <li data-cover="https://img.discogs.com/N3ib9u9vfh-rdCyLQKey0vaiaYE=/fit-in/539x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523078-1309359771.jpeg.jpg" data-tags="pop" role="button">
 Eliza Doolittle - Eliza Doolittle (2010-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
+Sugarland - Stuck Like Glue (2010-07-23)
+</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63484c0-7f7c-41c8-9f9d-64b1aaebea26/17946332248-500.jpg" data-tags="willow smith" role="button">
 Willow Smith - 21st Century Girl (2011-03-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2aa508e-dc3f-4213-8f61-2773536db7e4/23565453379-500.jpg" data-tags="female vocalists" role="button">
-Mélanie Laurent - En t'attendant (2011-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, fantastic, girls, day, pretty, recommended, game, sometimes, inspirational, vocalists, pleasant, afrique, visual, women, lost, what, leaf, woman, single, girl, pleasing, something, afterlife, babe, verbal, ladies, when, where, satisfaction, richard, myself, you, else, thoughts, bananas, darlings, somewhere, bats, true, variable, awareness, miscellaneous, every, tasty, proper, the, alt, rich, can, shady, planet, only, one, swag, lady" role="button">
-Fatoumata Diawara - Fatou (2011-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/78ded821-e96f-47e0-8668-7087237b498d/4953387139-500.jpg" data-tags="female, folk, if i be wrong, kitchen door, quiet at the kitchen door, wolf larsen" role="button">
 Wolf Larsen - Quiet at the Kitchen Door (2011-12-06)
@@ -314,9 +317,6 @@ HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e8a7b0-c5db-4c69-9414-382ffd198cf3/11258587448-500.jpg" data-tags="indie, british, folk" role="button">
 Birdy - Fire Within (2013-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, pleasant, visual, women, lost, woman, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">
-Daniela Andrade - Crazy (2014-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, visual, sweet, lost, woman, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">
 Kina Grannis - Elements (2014-05-06)

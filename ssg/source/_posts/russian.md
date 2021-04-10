@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:15:01.734Z
+date: 2021-04-10T14:02:07.002Z
 title: "russian: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -8,11 +8,11 @@ title: "russian: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d2519293-b0d9-43d8-a669-d52796161c7f/1412312432-500.jpg" data-tags="russian" role="button">ЗЕМФИРА - ЗЕМФИРА (1999-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/981956e9-cbe6-43d3-a41b-9c1cdf9f0615/8629209528-500.jpg" data-tags="rock, russian, russian rock" role="button">Би-2 - Мяу кисс ми (2001-12-03)</li>
 <li data-cover="https://img.discogs.com/168ocC56t91yXss7WoXJH59-Iwo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10566998-1500033083-6757.png.jpg" data-tags="pop" role="button">t.A.T.u. - 200 km/h in the Wrong Lane (2002-12-10)</li>
+<li data-cover="http://coverartarchive.org/release/7ae07f7a-4444-4d62-b2ed-0b60bb802715/27801453848-500.jpg" data-tags="folk, russian" role="button">Мельница - Дорога сна (2003-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/0ea45f21-a336-40ba-a38b-bf2d1399b0e5/9478672915-500.jpg" data-tags="rock, russian, punk, alternative" role="button">Lumen - Три пути (2004)</li>
 <li data-cover="http://coverartarchive.org/release/00de0496-da48-46cc-9199-e3b7b0d13ece/3409380950-500.jpg" data-tags="rock, russian, russian rock" role="button">Сплин - Реверсивная хроника событий (2004-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/43e4a25b-dcd7-40e3-abcb-8b9a47ac2d08/20163942881-500.jpg" data-tags="folk, folk rock, russian" role="button">Мельница - Зов Крови (2006-12-01)</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
-<li data-cover="http://coverartarchive.org/release/c0615e88-6f03-433d-a559-20082ee33560/1863012429-500.jpg" data-tags="pop, russian, rihanna" role="button">Rihanna - Russian Roulette (2009-10)</li>
 <li data-cover="http://coverartarchive.org/release/4b694997-ffff-4e17-b3fa-2eff8fd5e30e/10588245317-500.jpg" data-tags="nozi mc, russian, alternative hip-hop" role="button">Noize MC - Последний Альбом (2010-05-25)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ca391767-e23f-4412-8799-038f61f6408c/7047446915-500.jpg" data-tags="post-punk, new wave, russian rock" role="button">
-Кино - Ночь (1986)
-</li>
 <li data-cover="https://img.discogs.com/KRAsF06OwWq8BQJ_h4tPqnfqoWU=/fit-in/394x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7174417-1435394577-3151.png.jpg" data-tags="russian rock" role="button">
 Кино - Звезда по имени Солнце (1989)
 </li>
@@ -33,9 +30,6 @@ Nautilus Pompilius - Чужая Земля (1991)
 <li data-cover="https://img.discogs.com/YveRMLuzQWp2Z4VLIfpSRo8R4Hs=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777558-1306174349.jpeg.jpg" data-tags="russian rock, russian" role="button">
 ДДТ - Актриса Весна (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/613c7748-ede2-4006-b202-d6998c5a9716/12162854224-500.jpg" data-tags="rock, russian" role="button">
-Сплин - ПЫЛЬНАЯ БЫЛЬ (1994-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e1b301-dbed-31a1-ab07-0939d3673857/4166685041-500.jpg" data-tags="rock, russian rock" role="button">
 Nautilus Pompilius - Крылья (1995)
 </li>
@@ -44,9 +38,6 @@ Nautilus Pompilius - Крылья (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee696a2-a2df-3103-9552-84bc89c1b21f/10018803050-500.jpg" data-tags="russian, russian rock" role="button">
 Сплин - Коллекционер оружия (1996-04-27)
-</li>
-<li data-cover="https://img.discogs.com/6m5eiVRe2WNSw8lrf66tMBR_Gvs=/fit-in/225x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15102498-1586713760-6077.jpeg.jpg" data-tags="classical" role="button">
-Sergei Prokofiev - Romeo and Juliet (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/52c058bb-163a-49d6-81cd-bf0940448d0f/12161289324-500.jpg" data-tags="punk rock" role="button">
 Король и Шут - Камнем по голове (1997)
@@ -60,9 +51,6 @@ Sergei Prokofiev - Romeo and Juliet (1997)
 <li data-cover="http://coverartarchive.org/release/d768f402-e6ad-443b-9551-5c9e2f25ab9d/12162231602-500.jpg" data-tags="rock, 90s, alternative" role="button">
 Мумий Тролль - Икра (1997-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e293c2d0-a7db-4ca2-ad42-d47363d802dc/8041344512-500.jpg" data-tags="acoustic" role="button">
-Пилот - Война (Акустика) (1997-12)
-</li>
 <li data-cover="https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg" data-tags="russian rock, rock" role="button">
 Сплин - Гранатовый альбом (1998)
 </li>
@@ -74,6 +62,9 @@ Sergei Prokofiev - Romeo and Juliet (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbc9e79c-6c53-3865-b74c-bd9bea133baa/7047433301-500.jpg" data-tags="punk rock" role="button">
 Король и Шут - Акустический Альбом (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/e14b49ce-056d-4688-8278-03cb597df1ca/7047332743-500.jpg" data-tags="rock, russian, russian rock" role="button">
+Кукрыниксы - Кукрыниксы (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2519293-b0d9-43d8-a669-d52796161c7f/1412312432-500.jpg" data-tags="russian" role="button">
 ЗЕМФИРА - ЗЕМФИРА (1999-05-10)
@@ -132,6 +123,9 @@ Regina Spektor - Songs (2002)
 <li data-cover="http://coverartarchive.org/release/103472d6-746e-4533-be60-ba95bb4383fb/1406115627-500.jpg" data-tags="russian rock, rock" role="button">
 Zемфира - Четырнадцать недель тишины (2002-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/023128f0-ad6d-4d7e-8896-dbcc647d441f/12163580164-500.jpg" data-tags="rock, industrial, russian, depressive" role="button">
+Пилот - Джоконда (2002-10-04)
+</li>
 <li data-cover="https://img.discogs.com/168ocC56t91yXss7WoXJH59-Iwo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10566998-1500033083-6757.png.jpg" data-tags="pop" role="button">
 t.A.T.u. - 200 km/h in the Wrong Lane (2002-12-10)
 </li>
@@ -149,6 +143,9 @@ t.A.T.u. - 200 km/h in the Wrong Lane (2002-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/18230503-dc0a-4822-b7bc-7822a769d4e8/28086874897-500.jpg" data-tags="ska, russian" role="button">
 Ленинград - Для миллионов (2003-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/11f6c756-cfac-4151-b2c8-6d197dceef14/10195583948-500.jpg" data-tags="punk, russian" role="button">
+Ландыши - Программа время (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/b11b45ac-bef8-4139-99a0-7255d0ef4c17/27109302009-500.jpg" data-tags="rock, russian" role="button">
 Звери - Районы-кварталы (2004)
@@ -204,6 +201,9 @@ t.A.T.u. - Dangerous and Moving (2005-10-05)
 <li data-cover="http://coverartarchive.org/release/bb656d72-5e7c-4d0a-b45d-d8579747505e/10160516993-500.jpg" data-tags="russian, pop" role="button">
 t.A.T.u. - Люди инвалиды (2005-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b2aa13d-63b4-4d84-91af-05b7e03863e4/28086663228-500.jpg" data-tags="punk, ska, russian, russian rock" role="button">
+Ленинград - Бабье лето (2006)
+</li>
 <li data-cover="https://img.discogs.com/UtQJIiw3C4XmBQVBN7JJc_zSxlY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-705452-1560867494-6266.jpeg.jpg" data-tags="rock, russian, russian rock" role="button">
 Звери - Когда мы вместе, никто не круче (2006)
 </li>
@@ -225,9 +225,6 @@ Tracktor Bowling - Шаги По Стеклу (2006)
 <li data-cover="http://coverartarchive.org/release/d391aa9a-a06d-4061-8b85-bde5f16ca299/9478684377-500.jpg" data-tags="lumen, russian rock, punk, russian alternative" role="button">
 Lumen - Правда? (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e9b3db8-c317-4c77-b054-b1295d1fbcaa/3042522833-500.jpg" data-tags="electronic, ambient, experimental" role="button">
-Самое большое простое число - Самое Большое Простое Число (2007-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8014f993-3a10-43e6-91fc-e70e916e82ae/3409391770-500.jpg" data-tags="russian rock" role="button">
 Сплин - Раздвоение личности (2007-02-07)
 </li>
@@ -243,14 +240,14 @@ Mujuice - Cool Cool Death (2007-06-22)
 <li data-cover="https://img.discogs.com/pOWJ9y4vvwOtb3Bd_IAxl4LOLyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151980-1322079135.jpeg.jpg" data-tags="rock, rock country" role="button">
 Kid Rock - Rock N Roll Jesus (2007-10-09)
 </li>
+<li data-cover="https://img.discogs.com/bH8FjpNSiQ8z68Exh_qw33Gz17o=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2964350-1399285931-8605.jpeg.jpg" data-tags="nu-metal, russian alternative" role="button">
+Слот - Тринити (2007-11-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddb50222-0bc5-33c6-b332-03d994b2fd71/11563033220-500.jpg" data-tags="alternative" role="button">
 Dolphin - Юность (2007-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/93563577-c07b-416a-acb5-e90235af18f1/24692507668-500.jpg" data-tags="rock, russian" role="button">
 Мумий Тролль - 8 (2008-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/f8c1ed14-6dd6-4a95-8bf3-08358227abf0/11367328476-500.jpg" data-tags="russian" role="button">
-Cheese People - Cheese People (2008-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4283866b-f392-47f5-92b5-da3af3c4b197/14617289573-500.jpg" data-tags="experimental, russian, ukrainian" role="button">
 НеГрузовики - Не улыбаются (2008-10-27)
@@ -267,17 +264,20 @@ Alexander Rybak - Fairytale (2009-01-12)
 <li data-cover="http://coverartarchive.org/release/77fd3081-957b-4c6f-8059-2aa2eabbd01d/7038644600-500.jpg" data-tags="russian, pop" role="button">
 Serebro - Опиумroz (2009-04-25)
 </li>
+<li data-cover="https://img.discogs.com/VEQJ0qGJQ58dNHlznrKM-w2Ni54=/fit-in/472x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4861994-1377784846-8661.jpeg.jpg" data-tags="russian rock, alternative, indie rock" role="button">
+Би-2 - Лунапарк (2009-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf4db36c-11b0-44d6-a7af-ac5f6a254f11/15427402688-500.jpg" data-tags="russian rock" role="button">
 Lumen - Мир (2009-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/324cdbb0-578d-353c-a34b-401b24ce3b57/3117012656-500.jpg" data-tags="belarusian, ska punk" role="button">
+Ляпис Трубецкой - Культпросвет (2009-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/a0c542f3-9cf8-493d-8568-f83bfb4e97b0/3409399361-500.jpg" data-tags="rock" role="button">
 Сплин - Сигнал из космоса (2009-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0615e88-6f03-433d-a559-20082ee33560/1863012429-500.jpg" data-tags="pop, russian, rihanna" role="button">
-Rihanna - Russian Roulette (2009-10)
 </li>
 <li data-cover="https://img.discogs.com/f3u4U0rla2ls427kfbBhi72yz68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2248358-1272228462.jpeg.jpg" data-tags="indie, post-rock" role="button">
 Everything Is Made in China - Automatic Movements (2009-11-27)

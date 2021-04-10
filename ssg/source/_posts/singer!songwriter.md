@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:28:06.988Z
+date: 2021-04-10T14:15:01.480Z
 title: "singer/songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/WPZKH46hTDA9kaAQ0vzwZsDihJM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1492912-1256845522.jpeg.jpg" data-tags="folk" role="button">
+Jackson C. Frank - Jackson C. Frank (1965)
+</li>
 <li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
 Townes Van Zandt - Our Mother the Mountain (1969-04)
 </li>
@@ -30,14 +33,8 @@ John Cale - Vintage Violence (1970)
 <li data-cover="https://img.discogs.com/nqxkjMxnQAPyOKvXNQGD_HLz4No=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7113798-1490032853-4360.jpeg.jpg" data-tags="70s, folk" role="button">
 Paul Simon - Paul Simon (1971)
 </li>
-<li data-cover="https://img.discogs.com/3YsuHBT3kqWCRSAInknm_GQW8bM=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8794769-1468918732-6366.jpeg.jpg" data-tags="folk, 70s" role="button">
-Joni Mitchell - The Hissing of Summer Lawns (1975-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/501335fc-0fb6-4f9a-9a2d-ead1de59d81f/19312025559-500.jpg" data-tags="80s, ambient, singer/songwriter, 10s" role="button">
 Lewis - L'amour (1983)
-</li>
-<li data-cover="https://img.discogs.com/wWVyJJz8v7VOksf51p4kpQmUKxA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1639441-1387214409-5706.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Rickie Lee Jones - Flying Cowboys (1989-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
@@ -60,11 +57,11 @@ Jason Mraz - From the Cutting Room Floor (2001-08-30)
 <li data-cover="http://coverartarchive.org/release/00376013-5573-42c8-967c-ba10fd503b06/1855566767-500.jpg" data-tags="classic, singer/songwriter, pop/rock" role="button">
 Neil Diamond - The Essential Neil Diamond (2001-12-04)
 </li>
+<li data-cover="https://img.discogs.com/A_rWNM4WweRlqWIaPdFztw-99dU=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1899344-1502770119-3973.jpeg.jpg" data-tags="female vocalists, alt-country" role="button">
+Allison Moorer - Miss Fortune (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6050473-005e-43c4-a92b-2b5a19e3d85b/27487453451-500.jpg" data-tags="leonard cohen" role="button">
 Leonard Cohen - The Essential Leonard Cohen (2002-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7b9734a-3cd1-4c00-925d-f41ecafea2b3/15104691612-500.jpg" data-tags="rock, singer-songwriter" role="button">
-Bruce Hornsby - Greatest Radio Hits (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c18d5dd-3e3d-459c-b647-80734819d072/20451673315-500.jpg" data-tags="alternative, experimental" role="button">
 John Frusciante - Shadows Collide With People (2004-02-24)
@@ -75,20 +72,23 @@ John Frusciante - The Will to Death (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - The Sunset Tree (2005-04-25)
 </li>
-<li data-cover="https://img.discogs.com/DWDQl5YjuQ0kK5zmVgNOojv4MTk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4560838-1368388877-4383.jpeg.jpg" data-tags="pretty good" role="button">
-Josh Kelley - Almost Honest (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/cec076e7-e6f3-4a0c-8b3d-907dd0f2f2d3/3246614950-500.jpg" data-tags="pitchfork top albums 2005" role="button">
 Silver Jews - Tanglewood Numbers (2005-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/95303712-d3b2-4153-8da4-e45a37c7bea2/4517411459-500.jpg" data-tags="singer/songwriter" role="button">
 Michelle Featherstone - Fallen Down (2006-05-11)
 </li>
+<li data-cover="https://img.discogs.com/lsGaykNRv9iRyEqnkBEe50nxgAo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1786152-1458562836-9791.jpeg.jpg" data-tags="female vocalists, acoustic, 00s, singer/songwriter" role="button">
+Kathryn Williams - Leave To Remain (2006-08-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/101ea40b-2647-476f-96b9-711fdbbf610a/1262133327-500.jpg" data-tags="indie, christian, singer songwriter, singer/songwriter" role="button">
 Kendall Payne - Paper Skin (2007)
 </li>
 <li data-cover="https://img.discogs.com/hLBq-Nmm040vEWoyAIKOidats1o=/fit-in/454x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608369-1231930638.jpeg.jpg" data-tags="folktronica, electronica" role="button">
 James Yuill - Turning Down Water For Air (2007-02-26)
+</li>
+<li data-cover="https://img.discogs.com/aaRYFPV2pd91HYaTWoNGXjO84rY=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2605099-1292786722.jpeg.jpg" data-tags="female vocalists" role="button">
+Paula Cole - Courage (2007-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">
 St. Vincent - Marry Me (2007-07-10)
@@ -159,6 +159,9 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="https://img.discogs.com/LC2SRQLuP5xz9BTK-csXSnnjbBs=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3151616-1318152940.jpeg.jpg" data-tags="rock, singer/songwriter, purchased 09, 2009 releases" role="button">
 Brooke Waggoner - Go Easy Little Doves (2009-10-06)
 </li>
+<li data-cover="https://img.discogs.com/g7VXrggSZALYroLwQTUuG6JxVjs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3162005-1318587681.jpeg.jpg" data-tags="rock, country, americana, adult alternative, singer/songwriter" role="button">
+Grant-Lee Phillips - Little Moon (2009-10-13)
+</li>
 <li data-cover="https://img.discogs.com/km9kc6Dn1_WkiAftIq26jx_JHQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3508028-1333214532.jpeg.jpg" data-tags="rock, singer/songwriter" role="button">
 Aunt Martha - Candymaker (2009-10-15)
 </li>
@@ -186,9 +189,6 @@ Enno Bunger - Ein bisschen mehr Herz (2010-02-19)
 <li data-cover="http://coverartarchive.org/release/60f3ff51-abd2-4423-b3d1-7918699c1768/19969656469-500.jpg" data-tags="rock, alternative, britpop, adult alternative, singer/songwriter, must listen, start to finish albums, bestof2010, purchased 2010, gary brothers  coldplay  the thriving, easya" role="button">
 Cary Brothers - Under Control (2010-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d60b147a-031f-4cb0-ad33-7541e29d837e/11478412156-500.jpg" data-tags="country" role="button">
-Dixie Chicks - The Essential Dixie Chicks (2010-08-20)
-</li>
 <li data-cover="https://img.discogs.com/TfxRFG2a8jt0huysa7bKL_aEzmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2682039-1606551917-8470.jpeg.jpg" data-tags="deutsch, singer/songwriter, liebe, herz, tanzen, sucht, micha, poisel, geliebt, maat, nur mit dir, komm zurueck, micha maat, der moment, stille der nacht, zeig mir den weg" role="button">
 Philipp Poisel - Bis nach Toulouse (2010-08-27)
 </li>
@@ -207,6 +207,9 @@ Fences - Fences (2010-09-28)
 <li data-cover="https://img.discogs.com/PPVI305NjQuK6wyp788N1nd9JDA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7963702-1452529296-3469.jpeg.jpg" data-tags="rock, singer/songwriter" role="button">
 JJ Heller - When I'm With You (2010-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/58e8532c-f4e8-4b7f-a401-6f2a1bc01765/18412169178-500.jpg" data-tags="pop, rock, singer/songwriter" role="button">
+OK Sweetheart - Home (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/6865890b-4aa4-4703-850e-1fbefb331ba9/17903054744-500.jpg" data-tags="pop, singer/songwriter, 2011 releases" role="button">
 Rosi Golan - Lead Balloon (2011)
 </li>
@@ -221,9 +224,6 @@ Trent Dabbs - Southerner (2011-02-22)
 </li>
 <li data-cover="https://img.discogs.com/D85OUNqlEKZWA3DIhUdglvkl0xI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4814796-1377312480-9842.jpeg.jpg" data-tags="pop, rock, pop rock, acoustic, adult alternative, singer/songwriter, relevant magazine" role="button">
 Matt Wertz - Weights & Wings (2011-03-15)
-</li>
-<li data-cover="https://img.discogs.com/VM40UbKDAi6J9rBcwVkWnc35urc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820535-1515078520-6172.jpeg.jpg" data-tags="folk" role="button">
-Eddie Vedder - Ukulele Songs (2011-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2c4b353-d004-4226-9bde-c5dd07cb1f0f/25831858893-500.jpg" data-tags="pop" role="button">
 Anna Nalick - Broken Doll & Odds & Ends (2011-06-05)
@@ -255,11 +255,17 @@ Radical Face - The Family Tree: The Roots (2011-10-04)
 <li data-cover="http://coverartarchive.org/release/7ab2c4b4-7d6c-4a1a-aa0a-9cc4ec53ac05/5002999584-500.jpg" data-tags="rock, soul, indie pop, indie rock, australian, r&b, blues rock, singer/songwriter, australian indie, bluesy rock, souful, souful house" role="button">
 Clairy Browne & The Bangin' Rackettes - Baby Caught The Bus (2011-11-11)
 </li>
+<li data-cover="https://img.discogs.com/rbGI78zrEhgiX9HI1Fis8sQ4dgw=/fit-in/355x315/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4446080-1365097558-8598.jpeg.jpg" data-tags="soul, singer-songwriter, r&b, singer/songwriter" role="button">
+Sugar & the Hi Lows - Sugar & the Hi Lows (2012-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7c9e6af-e71b-41ba-b9f7-46db025d4874/5636259875-500.jpg" data-tags="pop, rock, singer/songwriter" role="button">
 Andrew Belle - The Daylight EP (2012-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/86605a1f-3dce-48ba-b486-7ad920ec219d/11706495643-500.jpg" data-tags="rock" role="button">
 Bruce Springsteen - Wrecking Ball (2012-03-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/05cd1cdd-1098-461a-8e2f-70eebd8c5ffc/835544029-500.jpg" data-tags="pop, singer/songwriter, pop/rock" role="button">
+Tyrone Wells - Where We Meet (2012-03-06)
 </li>
 <li data-cover="https://img.discogs.com/rkWXb0bdSsMkx0j3NhLAY-w1dO4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4877333-1378213829-3953.jpeg.jpg" data-tags="pop, rock, adult alternative, singer/songwriter" role="button">
 Eric Hutchinson - Moving Up Living Down (2012-04-17)
@@ -270,9 +276,6 @@ Matthew Mayfield - A Banquet for Ghosts (2012-05-29)
 <li data-cover="http://coverartarchive.org/release/26d8a64f-a315-4a53-a6a0-5ddc6c3b0a6d/2456209840-500.jpg" data-tags="rock, alternative, singer/songwriter" role="button">
 Matthew Perryman Jones - Land Of The Living (2012-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/fdf96f46-d713-4a5b-9e8c-8903b4eef5da/2961251065-500.jpg" data-tags="rock, soul" role="button">
 ZZ Ward - Til the Casket Drops (2012-10-16)
 </li>
@@ -281,9 +284,6 @@ Joshua James - From the Top of Willamette Mountain (2012-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">
 Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)
-</li>
-<li data-cover="https://img.discogs.com/u1aicx0O5S-M54wgmqzPTv3vVDc=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4701388-1372708014-5910.jpeg.jpg" data-tags="indie" role="button">
-Waxahatchee - Cerulean Salt (2013-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
@@ -309,8 +309,8 @@ Tori Amos - Unrepentant Geraldines (2014-05-09)
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">
 Jack White - Lazaretto (2014-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b4b37c3-04da-458c-ac44-f43126108e6e/7658899164-500.jpg" data-tags="folk, indie pop" role="button">
-Angus & Julia Stone - Angus & Julia Stone (2014-06-28)
+<li data-cover="https://img.discogs.com/6JExVIEogfQ3HqMk_LOU5WeKvco=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7817389-1449412453-5963.jpeg.jpg" data-tags="female vocalists, singer/songwriter" role="button">
+Billie Marten - Ribbon (2014-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)

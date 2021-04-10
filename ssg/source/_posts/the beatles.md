@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:28:01.538Z
+date: 2021-04-10T14:06:01.450Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -75,9 +75,6 @@ The Beatles - Get Back (1969-04-11)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/98392e46-ed13-38ce-af5f-0bc70db73587/2333519128-500.jpg" data-tags="the beatles, 60s, classic rock, beatles" role="button">
-The Beatles - Hey Jude (1970-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ac6885b-f733-3c0a-913b-b3202b56a80a/9495724756-500.jpg" data-tags="rock, classic rock" role="button">
 Paul McCartney - McCartney (1970-04-17)
 </li>
@@ -132,9 +129,6 @@ John Lennon & Yoko Ono - Double Fantasy (1980)
 <li data-cover="http://coverartarchive.org/release/c52513fb-f3e4-4262-983f-fffe757c1a83/15998941428-500.jpg" data-tags="60s" role="button">
 The Beau Brummels - Best of 1964 - 1968 (1981)
 </li>
-<li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
-Eric Burdon - Crawling King Snake (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/4a55b15a-4a17-42f8-a1a7-3abc039fd33e/1335927511-500.jpg" data-tags="pop, rock, 80s" role="button">
 The Beatles - 20 Greatest Hits (1982-10-18)
 </li>
@@ -171,11 +165,11 @@ John Lennon - The John Lennon Collection (1989-10-26)
 <li data-cover="https://img.discogs.com/CGTGVPWzMWhNqHtKaYRUVpMQMl4=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2174539-1268014364.jpeg.jpg" data-tags="60s, oldies" role="button">
 Tommy James & The Shondells - Anthology (1989-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/cffa466a-91a1-49fb-8785-1ebddff3ac39/11158693989-500.jpg" data-tags="classic rock" role="button">
+The Beatles - Acetates (1991)
+</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - No. 3 Abbey Road NW8 (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/a241633b-bfdb-4778-922e-ca5cef9b1b7c/28999574466-500.jpg" data-tags="jazz, saxophone" role="button">
-Candy Dulfer - Sax-A-Go-Go (1993-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/79d8e517-2f2f-42f9-a52f-f7538a8654ae/20231494615-500.jpg" data-tags="classic rock, beatles, the beatles, stonedbeat, work it, essehof, fridabeatles" role="button">
 The Beatles - Golden Beatles (1994)
@@ -198,11 +192,11 @@ The Beatles - Anthology 1 (1995-11-21)
 <li data-cover="http://coverartarchive.org/release/7aedd180-b1b4-4e4e-a929-1e924eb38aba/4327371891-500.jpg" data-tags="spanish, rock" role="button">
 Mar de Copas - III (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/72767d4c-f290-32a0-b8dd-432b06f37d57/19881793323-500.jpg" data-tags="latin, ska" role="button">
-Los Fabulosos Cadillacs - Fabulosos Calavera (1997-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/8852c9ed-af4a-31de-b77c-7e56364acd3b/11750233111-500.jpg" data-tags="john lennon, classic rock" role="button">
 John Lennon - Lennon Legend: The Very Best of John Lennon (1997-10-27)
+</li>
+<li data-cover="https://img.discogs.com/jZUnfW8qdgZRPtFLtEfaRY4lYos=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4394273-1363715449-4171.jpeg.jpg" data-tags="hard rock" role="button">
+Eric Burdon's i Band - The Official Live Bootleg #2 (1998)
 </li>
 <li data-cover="https://img.discogs.com/UNEybySINyvkbZIb7EQVuFd_Cj0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1300784-1450511885-2678.jpeg.jpg" data-tags="classic rock, the beatles" role="button">
 George Martin - In My Life (1998-03-23)
@@ -215,9 +209,6 @@ John Lennon - Anthology (1998-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a55a759b-703d-434a-b5ee-8ba457ccf6db/21353003827-500.jpg" data-tags="the simpsons" role="button">
 The Simpsons - The Yellow Album (1998-11-24)
-</li>
-<li data-cover="https://img.discogs.com/wZYD51J02jyFXL_o81LwANemXBM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078145-1410483722-5361.jpeg.jpg" data-tags="rock" role="button">
-Los Fabulosos Cadillacs - La Marcha Del Golazo Solitario (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
@@ -255,6 +246,9 @@ Beatallica - Beatallica (2004-04-01)
 <li data-cover="http://coverartarchive.org/release/5bb767b7-6973-4e14-a976-02122f21b1da/6045290014-500.jpg" data-tags="classic rock, acoustic, singer-songwriter, rock" role="button">
 John Lennon - Acoustic (2004-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4050c80-21b2-4f91-a8d8-0ef8d4c2d845/8809394844-500.jpg" data-tags="black beatles" role="button">
+Various Artists - Trojan Beatles Tribute Box Set (2004-11-22)
+</li>
 <li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
 Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
 </li>
@@ -285,14 +279,17 @@ Golden Smog - Blood On The Slacks (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
 </li>
+<li data-cover="https://img.discogs.com/q942JeAHbzVevcvzDYbLnMSCSbI=/fit-in/312x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784858-1344293871-5614.jpeg.jpg" data-tags="mashup, brazilian, the beatles, funk carioca" role="button">
+João Brasil - Let it Baile (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/2096f01c-1e18-4067-954c-dd438446edcb/18858550074-500.jpg" data-tags="rock, ringo starr" role="button">
 Ringo Starr - Liverpool 8 (2008-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/da7a76a3-331d-4447-ab2f-4d686ae6a8f0/5165829371-500.jpg" data-tags="arctic monkeys, radiohead, the beatles, neil young, tom waits, will oldham, snow patrol, nick drake, jefferson airplane, the bees, joanna newsom, the doors, bon iver, fleet foxes, deus, calexico, the, ron sexsmith, yo la tengo, andrew bird, spirit, howe gelb, zita swoon, the stones, moke, de staat, alamo race track, daryll-ann" role="button">
 PAULUSMA - iRECORD (2008-11-10)
 </li>
-<li data-cover="https://img.discogs.com/6000I-DOjj90nH1emkBf6uZeT30=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1662437-1271153798.jpeg.jpg" data-tags="indie, rock, alternative, indie pop, sad, lo-fi, britpop, jangle pop, shoegaze, scottish, outsider, atmospheric, mellow, melancholic, coldplay, radiohead, the smiths, 80's, 00's, bjork, the beatles, edinburgh, scott walker, david bowie, joy division, new order, morrissey, bob dylan, talking heads, suede, the verve, the doors, belle and sebastian, jangle, c86, bowie, quirky music, lloyd cole, orange juice, metropak" role="button">
-Stephen Harrison - We Face Extinction (2009-02-04)
+<li data-cover="http://coverartarchive.org/release/75047fd6-d3a3-4fca-9fbe-42072cff4286/7567861972-500.jpg" data-tags="the beatles, the shins, beck, foo fighters, nirvana, elliott smith, belle and sebastian, white stripes, supergrass, iron and wine, the hidden cameras, johnossi, artic monkeys:, pavement:" role="button">
+Jens Wennberg - Welcome to 1984 (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
 Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
@@ -306,8 +303,11 @@ Ringo Starr - Y Not (2010-01-12)
 <li data-cover="http://coverartarchive.org/release/fa147128-b07d-45d9-8e04-533b82c8b32c/3610794026-500.jpg" data-tags="hip-hop, rap, american, remix, wonderwall, mash-up, the beatles, bloc party, oasis, silver, mercy, brit pop, duffy, cruise control, adele, crazy chick, lonely people, hometown glory, bk cyph, elanor rigby, incomparable shakespeare" role="button">
 The Incomparable Shakespeare - The British Invasion (2010-02-28)
 </li>
-<li data-cover="https://img.discogs.com/L6AaZ19r-7pg0o3KL2UQzMNheds=/fit-in/566x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2289611-1274717101.jpeg.jpg" data-tags="indie, alternative, indie pop, twee, sad, singer-songwriter, lo-fi, jangle pop, romantic, atmospheric, coldplay, radiohead, the smiths, love songs, john peel, john lennon, the beatles, portishead, franz ferdinand, scott walker, david bowie, blur, johnny cash, joy division, oasis, new order, morrissey, simon and garfunkel, bob dylan, joni mitchell, lou reed, elliott smith, pulp, the verve, nick drake, lloyd cole and the commotions, belle and sebastian, velvet underground, george harrison, rufus wainwright, jangle, jarvis cocker, momus, c86, eva cassidy, bowie, kings of convenience, paul weller, crowded house, richard ashcroft, david gray, lloyd cole, glasvegas, roddy frame, orange juice, edwin collins, the walker brothers, stephen harrison, metropak" role="button">
-Stephen Harrison - The Colour Of Black Is Black (2010-05-24)
+<li data-cover="http://coverartarchive.org/release/37901497-832a-4031-9398-26baf6c80ed9/24223358402-500.jpg" data-tags="60s, british invasion" role="button">
+The Red Button - As Far As Yesterday Goes (2011-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6449ec2-b1ef-4f3a-b4d6-b375e5341911/24792682411-500.jpg" data-tags="rock" role="button">
+Zé Ramalho - Zé Ramalho canta Beatles (2011-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0b20aa8-206f-4ebd-8553-329b37848ab2/8320859136-500.jpg" data-tags="70s, george harrison, classic rock" role="button">
 George Harrison - Living in the Material World (2011-10-10)

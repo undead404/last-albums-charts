@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:10:07.087Z
+date: 2021-04-10T13:49:01.406Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -144,6 +144,9 @@ Cartel - Chroma (2005-09-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/401363d0-52e3-4504-9243-626dd9c6c27e/21241236962-500.jpg" data-tags="pop punk" role="button">
+Valencia - This Could Be A Possibility (2005-10-25)
+</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
@@ -266,9 +269,6 @@ A Day to Remember - Homesick (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d2c866fb-356d-4d5c-a1f3-6ad8e0695e3e/3370165259-500.jpg" data-tags="pop punk, melodic hardcore" role="button">
-Title Fight - The Last Thing You Forget (2009-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
 Boys Like Girls - Love Drunk (2009-09-08)

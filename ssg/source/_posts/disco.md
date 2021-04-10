@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:06:01.414Z
+date: 2021-04-10T14:44:01.524Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -21,14 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ff44db1d-4986-465e-bf65-5ca62d7e84b0/15665166046-500.jpg" data-tags="disco, soul, dance, album rock, funk, california, brazilian, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica, curativos, t maia" role="button">
-Tim Maia - Tim Maia (1973)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3ce24a2-ddd3-3b38-93f6-aed1e16b4c74/18286980985-500.jpg" data-tags="pop" role="button">
 ABBA - Ring Ring (1973-03-26)
 </li>
 <li data-cover="https://img.discogs.com/9StqbEn9kWNdC3W7kdjl7KG4d-o=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472286-1299412248.jpeg.jpg" data-tags="pop, 70s" role="button">
 ABBA - Waterloo (1974-03-04)
+</li>
+<li data-cover="https://img.discogs.com/DJzA2wbTy5ZKefKup89z6aWm1pU=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4195722-1386235167-5085.jpeg.jpg" data-tags="disco, 70s" role="button">
+George McCrae - Rock Your Baby (1974-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c549b917-ad9c-454f-bcdd-1a7b52de1455/7439486158-500.jpg" data-tags="pop, abba, disco, 70s" role="button">
 ABBA - ABBA (1975-04-21)
@@ -63,8 +63,8 @@ Cheryl Lynn - Cheryl Lynn (1978)
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Ybcefs5f55CMOZBix6qoKO-3vp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471954-1346960888-3621.jpeg.jpg" data-tags="disco, 70s" role="button">
-Boney M. - Nightflight to Venus (1978-06-26)
+<li data-cover="http://coverartarchive.org/release/5e4e53f2-29ef-4ccb-87cc-d5e0ea9c42d1/13873358959-500.jpg" data-tags="soul" role="button">
+Chaka Khan - Chaka (1978-10-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 The Jacksons - Destiny (1978-12-17)
@@ -111,23 +111,17 @@ Grace Jones - Nightclubbing (1981)
 <li data-cover="https://img.discogs.com/0FWRp-dS5SyTgCSxVymx847Lt1A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642049-1281176455.jpeg.jpg" data-tags="pop" role="button">
 ABBA - The Visitors (1981-11-30)
 </li>
+<li data-cover="https://img.discogs.com/KpSzmKm1OaU1F9ZWokxYdUX9Uj4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3830309-1346082760-2042.jpeg.jpg" data-tags="disco, rnb" role="button">
+The Gap Band - Gap Band IV (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/418dc558-42ce-4181-aed3-5e8388a3795c/7475714152-500.jpg" data-tags="disco" role="button">
 Imagination - In the Heat Of The Night (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/974cdb88-830c-4efc-8a9d-83e19b37ca90/21028345978-500.jpg" data-tags="disco, dance, don kalifa" role="button">
-Rockwell - Somebody's Watching Me (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e06903d-7aa9-4fc0-a0bc-8137532301e4/28816848310-500.jpg" data-tags="disco, pop, dance, modern talking, euro dance" role="button">
-Modern Talking - Ready For Romance (1986-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
 </li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
 A Man Called Adam - Bread, Love And Dreams (1992)
-</li>
-<li data-cover="https://img.discogs.com/hL4A-SoAj-csV0ZGDB7SZMVA8Tw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-143322-1347252806-8640.jpeg.jpg" data-tags="patrick hernandez-born to be alive" role="button">
-Patrick Hernandez - Born to Be Alive (1992-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/f38d4719-5733-4545-8c02-22d7b820d6a9/4967179669-500.jpg" data-tags="abba" role="button">
 ABBA - Gold: Greatest Hits (1992-09-21)
@@ -153,9 +147,6 @@ KC and The Sunshine Band - The Best of (1996)
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1d6ea9c-8928-4204-b786-60839b533721/12597322118-500.jpg" data-tags="disco, dance, album rock, brasil, california, romance, john, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica, ozila, koumba" role="button">
-Os Paralamas Do Sucesso - Arquivo (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/04b64669-be17-49ba-a4cc-5b74f2db5e92/17094540160-500.jpg" data-tags="disco" role="button">
 The Trammps - Disco Inferno (1998-01-20)
 </li>
@@ -167,6 +158,9 @@ Bee Gees - One Night Only (1998-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
+</li>
+<li data-cover="https://img.discogs.com/LU01EPcTDCwMYzcvDF70lHLZ6G8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2696545-1504857974-6253.jpeg.jpg" data-tags="disco, funk, soul, dance" role="button">
+Chic - Live At The Budokan (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
@@ -234,6 +228,9 @@ Little Boots - Hands (2008-06-08)
 <li data-cover="http://coverartarchive.org/release/432dd14b-0622-3dfb-ad71-be10ddd81b8e/3955606785-500.jpg" data-tags="minimal house" role="button">
 Lindstrøm - Where You Go I Go Too (2008-08-18)
 </li>
+<li data-cover="https://img.discogs.com/mRBmlgguLmiOnxXKVK9jhIF0qGI=/fit-in/600x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-154703-1554234431-7559.jpeg.jpg" data-tags="disco" role="button">
+Sylvester - The Original Hits (2009)
+</li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
@@ -257,6 +254,9 @@ Goldfrapp - Head First (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c0af1dc-6d39-4777-a880-d55a14a07dba/3736491560-500.jpg" data-tags="electronic, electro" role="button">
+Thieves Like Us - Again and Again (2010-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)

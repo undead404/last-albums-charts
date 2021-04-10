@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:19:07.774Z
+date: 2021-04-10T13:52:01.407Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -38,6 +38,9 @@ Uncle Tupelo - No Depression (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/af53580d-d45c-441a-82ab-86c14acadb73/23244518052-500.jpg" data-tags="folk, country" role="button">
 Townes Van Zandt - Rear View Mirror (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
+Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="https://img.discogs.com/ZuAf5s3qQsBkjGXO93JZ5_xlqC8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204512-1602101985-3896.jpeg.jpg" data-tags="alt-country" role="button">
 Whiskeytown - Faithless Street (1995)
@@ -96,9 +99,6 @@ The Be Good Tanyas - Blue Horse (2000)
 <li data-cover="http://coverartarchive.org/release/b896e218-6dbe-4d2c-9d12-0234b24d429a/24486264397-500.jpg" data-tags="alt-country" role="button">
 Whiskeytown - Pneumonia (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/058e013c-9cee-4e2d-a3a7-2c643b0aef37/4558030091-500.jpg" data-tags="alt-country, americana" role="button">
-Lambchop - Nixon (2000-02-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/857f4b2c-b396-4291-bdfe-78de6dac4828/23504502964-500.jpg" data-tags="alt-country" role="button">
 16 Horsepower - Hoarse (2000-04-01)
 </li>
@@ -113,6 +113,9 @@ Bright Eyes - Motion Sickness (2001-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d48892a-7e96-4301-bd59-b93ba8b9bce0/22125618364-500.jpg" data-tags="alt-country" role="button">
+Old 97's - Satellite Rides (2001-03-20)
 </li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
@@ -131,6 +134,9 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
 <li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Blacklisted (2002-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
+Dixie Chicks - Home (2002-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
@@ -162,14 +168,11 @@ Gillian Welch - Soul Journey (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
-<li data-cover="https://img.discogs.com/okJGG8uLdDFFDZV-gNoKZgOklwk=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528233-1493375981-7883.jpeg.jpg" data-tags="alt-country, folk noir, americana" role="button">
-The Handsome Family - Singing Bones (2003-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1a400f03-445e-4510-a9d3-04aa625f3209/6253846025-500.jpg" data-tags="bluegrass" role="button">
-Old Crow Medicine Show - O.C.M.S. (2004-02-24)
+<li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
+Calexico - Convict Pool (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6068b157-6b87-4c52-8419-3fc7e43357b3/21217525089-500.jpg" data-tags="female vocalists, alt-country" role="button">
 Patty Griffin - Impossible Dream (2004-04-20)
@@ -216,14 +219,11 @@ Josh Rouse - Subtitulo (2006-03-20)
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/61e933ae-208d-36fe-8dbc-fa0411780514/4021935438-500.jpg" data-tags="americana" role="button">
+Calexico - Garden Ruin (2006-03-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
 M. Ward - Post-War (2006-08-22)
-</li>
-<li data-cover="https://img.discogs.com/O5XwKi9q8ZHB_1fGKNlvskSdI5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2127169-1533790488-7456.jpeg.jpg" data-tags="country, folk, americana" role="button">
-Old Crow Medicine Show - Big Iron World (2006-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/6140ec7e-0761-450d-bd35-5c6c45a8f729/17208707326-500.jpg" data-tags="alt-country, folk" role="button">
-The Be Good Tanyas - Hello Love (2006-10-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
 Ryan Bingham - Mescalito (2007)
@@ -245,6 +245,9 @@ Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, acoustic, alt-country, folk rock" role="button">
+the everybodyfields - Nothing Is Okay (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
@@ -272,9 +275,6 @@ The Felice Brothers - Yonder is the Clock (2009-04-07)
 </li>
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1ecd5f1-87f5-470f-9c8a-a4009a2319dd/10744922818-500.jpg" data-tags="bluegrass" role="button">
-Trampled by Turtles - Palomino (2010-04-09)
 </li>
 <li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">
 Phosphorescent - Here's To Taking It Easy (2010-05-10)

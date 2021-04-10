@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:37:01.583Z
+date: 2021-04-10T14:22:01.411Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -84,8 +84,8 @@ Cesária Évora - Cabo Verde (1997-03-18)
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">
 Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/72767d4c-f290-32a0-b8dd-432b06f37d57/19881793323-500.jpg" data-tags="latin, ska" role="button">
-Los Fabulosos Cadillacs - Fabulosos Calavera (1997-07)
+<li data-cover="https://img.discogs.com/LJ_cunMcn1ifYsq2Jt7z4viie5g=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11670938-1520380395-1284.jpeg.jpg" data-tags="latin pop, latin, amor a la mexicana" role="button">
+Thalía - Amor a la Mexicana (1997-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
 Mano Negra - Best Of (1998)
@@ -99,11 +99,17 @@ Gustavo Santaolalla - Ronroco (1998-01-13)
 <li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
+Big Punisher - Capital Punishment (1998-04-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
 Manu Chao - Clandestino (1998-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">
 Shakira - Dónde Están los Ladrones? (1998-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/c5613066-35eb-4633-80f7-b26838ebbd96/26694861033-500.jpg" data-tags="latin" role="button">
+Jorge Drexler - Frontera (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
 Sergent Garcia - Un Poquito Quema'o (1999-02-22)
@@ -237,9 +243,6 @@ Ojos de Brujo - Techari (2006-02)
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
-Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
-</li>
 <li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
 Kudai - Sobrevive (2006-06)
 </li>
@@ -251,9 +254,6 @@ Luis Fonsi - Exitos: 98:06 (2006-11-21)
 </li>
 <li data-cover="https://img.discogs.com/fKgjYyvMw0-0AAdfeGhDzx4Zybs=/fit-in/450x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343325-1468082959-4205.jpeg.jpg" data-tags="celestial, rbd, pop" role="button">
 RBD - Celestial (2006-11-24)
-</li>
-<li data-cover="https://img.discogs.com/7U0LIu_-CKULd1Uag2WQbkr79uc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1448692-1228861933.jpeg.jpg" data-tags="brasil, brazil, mpb" role="button">
-Vanessa da Mata - Sim (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac4eec8-1534-4fd1-9167-56cfeb2c5be4/10004845334-500.jpg" data-tags="latin pop" role="button">
 Jennifer Lopez - Como Ama Una Mujer (2007-03-20)
@@ -288,9 +288,6 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 <li data-cover="http://coverartarchive.org/release/9c9225e9-06d8-4258-8fe4-0bb06ec270ee/8865945973-500.jpg" data-tags="pop" role="button">
 Ximena Sariñana - Mediocre (2008-02-19)
 </li>
-<li data-cover="https://img.discogs.com/ONCBWP2ZE01EFgx1hgo6ZnpKd_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10505152-1498829613-2192.jpeg.jpg" data-tags="pop" role="button">
-Enrique Iglesias - Greatest Hits (2008-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/48b2c662-c92d-4a98-98d3-bdd4527bfdc4/5372404333-500.jpg" data-tags="dub" role="button">
 Forfun - Polisenso (2008-11-15)
 </li>
@@ -314,6 +311,9 @@ Shakira - Sale el Sol (2010-10-14)
 </li>
 <li data-cover="https://img.discogs.com/m52RBwS0XWmnCin9GwowZHB92_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268808-1419614882-8378.jpeg.jpg" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3866c16-e8e8-4cd4-80f8-ec49d1ee73e9/964499089-500.jpg" data-tags="vocal jazz" role="button">
+Melody Gardot - The Absence (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)

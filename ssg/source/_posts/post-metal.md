@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:22:01.455Z
+date: 2021-04-10T14:25:01.410Z
 title: "post-metal: 100 albums you must listen to before you die"
 ---
 ![Isis - Panopticon (2004-10-19)](http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg "Isis - Panopticon (2004-10-19)")
@@ -75,9 +75,6 @@ Isis - Panopticon (2004-10-19)
 <li data-cover="https://img.discogs.com/KyoJe8kQNtFQ5VlfYfxVOoqb5sY=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1286171-1227228285.jpeg.jpg" data-tags="post rock" role="button">
 Pelican - March Into the Sea (2005-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
-Amenra - Mass III (2005-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
@@ -89,6 +86,9 @@ Bossk - .1 (2005-10)
 </li>
 <li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/cccebdc4-11d7-4650-8bbc-d39c3be45e9b/6115422720-500.jpg" data-tags="post-black metal, progressive metal" role="button">
+Sólstafir - Masterpiece of Bitterness (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
 Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
@@ -128,9 +128,6 @@ Minsk - The Ritual Fires of Abandonment (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
-</li>
-<li data-cover="https://img.discogs.com/4mHR-W-BjBuCsWvcZ7ebr5aoO9g=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1003498-1187539599.jpeg.jpg" data-tags="post-metal" role="button">
-The Pax Cecilia - Blessed Are The Bonds (2007-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
 Pelican - City of Echoes (2007-04-27)
@@ -249,8 +246,8 @@ The Ocean - Anthropocentric (2010-11-09)
 <li data-cover="https://img.discogs.com/d6nMA51RfJ0XzdYIdpz-y6bHFj0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2742693-1298996856.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Underoath - Ø (Disambiguation) (2010-11-09)
 </li>
-<li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">
-Light Bearer - Lapsus (2011-03-23)
+<li data-cover="https://via.placeholder.com/450" data-tags="sludge, post-metal" role="button">
+Obscure Sphinx - Anaesthetic Inhalation Ritual (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee4093b1-28e1-4482-875b-266ffc458b60/1118766922-500.jpg" data-tags="post-rock, post-metal" role="button">
 Exxasens - Eleven Miles (2011-09-11)
@@ -315,10 +312,13 @@ Pelican - Forever Becoming (2013-10-09)
 <li data-cover="http://coverartarchive.org/release/14e2923f-2344-4d4c-9d24-02d18245412d/5929733555-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Memorial (2013-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/78335310-0a5c-4e11-8506-c107150e40d6/6611408756-500.jpg" data-tags="shoegaze, post-metal" role="button">
-Lantlôs - Melting Sun (2014-05-02)
+<li data-cover="https://img.discogs.com/KV1-WFJx4hJ2octZ8MeDy2h9s8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5102994-1384564390-6469.jpeg.jpg" data-tags="post-metal" role="button">
+Year of No Light - Tocsin (2013-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6abb840-e434-44f9-8050-5f1be40cc77e/9113432674-500.jpg" data-tags="doom metal" role="button">
 YOB - Clearing the Path to Ascend (2014-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
+Earth - Primitive and Deadly (2014-09-02)
 </li>
 </ol>

@@ -1,10 +1,9 @@
 ---
-date: 2021-04-10T03:59:01.401Z
+date: 2021-04-10T14:07:01.405Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
-![Venetian Snares - Rossz csillag alatt született (2005-03-14)](http://coverartarchive.org/release/e80bfc5b-e880-4509-91bf-089c9b7d7839/2573781324-500.jpg "Venetian Snares - Rossz csillag alatt született (2005-03-14)")
+![KASHIWA Daisuke - Program Music I (2007-08-24)](http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg "KASHIWA Daisuke - Program Music I (2007-08-24)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e80bfc5b-e880-4509-91bf-089c9b7d7839/2573781324-500.jpg" data-tags="breakcore" role="button">Venetian Snares - Rossz csillag alatt született (2005-03-14)</li>
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">Saltillo - Ganglion (2006-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">Eluvium - Copia (2007-02-20)</li>
@@ -13,6 +12,7 @@ title: "modern classical: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">坂本龍一 - Playing The Piano (2009-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">of Montreal - Paralytic Stalks (2012-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">Black Elk - Sparks (2012-07-27)</li>
+<li data-cover="http://coverartarchive.org/release/7fed2586-a409-441a-b2a3-d6ea1b3107ad/5766164959-500.jpg" data-tags="ambient, post-rock" role="button">Hammock - Oblivion Hymns (2013-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">deadmau5 - while(1<2) (2014-06-17)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,8 +30,8 @@ Ennio Morricone - The Good, The Bad & The Ugly (1966)
 <li data-cover="https://img.discogs.com/iQuDkDouKJZSou1DKToKPxqdIDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854258-1304165274.jpeg.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Hergest Ridge (1974-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/b67a654b-ce45-3c0c-9635-0545cb39e780/11810523557-500.jpg" data-tags="jazz" role="button">
-Sun Ra - Lanquidity (1978-08-14)
+<li data-cover="http://coverartarchive.org/release/deb43c81-3021-4795-a2d8-20cbe3a6ce11/4317227862-500.jpg" data-tags="instrumental, progressive rock" role="button">
+Mike Oldfield - Incantations (1978-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/711c455e-832f-3f72-80c0-19f8d561d778/18299122757-500.jpg" data-tags="no wave" role="button">
 Glenn Branca - The Ascension (1981)
@@ -44,6 +44,9 @@ Dead Can Dance - Spleen and Ideal (1985-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
 Dead Can Dance - Aion (1990-07-02)
+</li>
+<li data-cover="https://img.discogs.com/5tFWK1dJpY2ZIcNgu-cSgIDSaas=/fit-in/599x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612914-1338297842-6035.jpeg.jpg" data-tags="ambient, industrial, modern classical, porn soundtrack" role="button">
+Psychic TV - Themes (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/a15e0831-cdf6-4e2a-a51b-034c6e98972b/2575192108-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Donkey Rhubarb (1995-08-14)
@@ -90,11 +93,11 @@ World's End Girlfriend - The Lie Lay Land (2005-02-25)
 <li data-cover="http://coverartarchive.org/release/538c3e1a-dd81-4cc9-985a-1450ae63661d/2727000989-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Urfaust - Verräterischer, Nichtswürdiger Geist (2005-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/e80bfc5b-e880-4509-91bf-089c9b7d7839/2573781324-500.jpg" data-tags="breakcore" role="button">
-Venetian Snares - Rossz csillag alatt született (2005-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Kirlian Selections (2005-04-05)
+</li>
+<li data-cover="https://img.discogs.com/iGUbpyngqulu0WQmzLxzX7TkKuI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1401744-1577299401-4804.jpeg.jpg" data-tags="ambient, gothic, dark ambient" role="button">
+Nox Arcana - Winter's Knight (2005-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/22a23fb5-dad5-42d3-b90f-98a7834c0fae/8147320447-500.jpg" data-tags="soundtrack, experimental" role="button">
 Björk - Drawing Restraint 9 (2005-07-25)
@@ -168,9 +171,6 @@ Arcana - Raspail (2008-02-29)
 <li data-cover="https://img.discogs.com/nlM6ZmTnq49cHQ22AXj2ZkRHBuo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288927-1206787698.jpeg.jpg" data-tags="ambient" role="button">
 Jacaszek - Treny (2008-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/64a3711f-a273-4f9e-a098-b1588538be40/4023640832-500.jpg" data-tags="trip-hop" role="button">
-Blue Sky Black Death - Late Night Cinema (2008-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/05c9c1aa-9b47-434c-9536-74fe56283bbc/25665078834-500.jpg" data-tags="electronic" role="button">
 UNKLE - End Titles . . . Stories For Film (2008-07-07)
 </li>
@@ -185,6 +185,9 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
 <li data-cover="https://img.discogs.com/oSZSAYcfuPgNH85uQH8DAZwczao=/fit-in/261x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1582598-1230080028.jpeg.jpg" data-tags="instrumental, ambient, melancholy, modern classical, autumn, boomkat, music for a sad road movie" role="button">
 Dakota Suite - The End of Trying (2009-02-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/6713de30-2203-4041-b4cf-7d9ce6a05303/5243893377-500.jpg" data-tags="experimental, acid jazz, krautrock, melodic, trip hop, glitchy, tribal, modern classical, cozy, daly city, mochipet, daedelus" role="button">
+Mochipet - Bunnies & Muffins (2009-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/394bda06-b2e6-4c9d-97fb-cbfe25fa8d9c/21433342876-500.jpg" data-tags="classical, chamber pop, cover, green day, modern classical, modern string quartet" role="button">
 Vitamin String Quartet - Vitamin String Quartet Performs Green Day's American Idiot (2009-04-07)
@@ -215,6 +218,9 @@ Peter Broderick & Machinefabriek - Blank Grey Canvas Sky (2009-11-14)
 </li>
 <li data-cover="https://img.discogs.com/AffOamM0gz7iZ0sywU7mJV5lfQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3427586-1375123529-6908.jpeg.jpg" data-tags="instrumental, piano, new age, modern classical, fire and water" role="button">
 Helen Jane Long - Embers (2010)
+</li>
+<li data-cover="https://img.discogs.com/ArFZZ3Ph2Ae1FrWRIOcGZeYFEiI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182655-1268480028.jpeg.jpg" data-tags="ambient" role="button">
+Akira Kosemura - Grassland (2010-02-13)
 </li>
 <li data-cover="https://img.discogs.com/C2Cv1ugSZFxILd7HA7fUrWHVxiQ=/fit-in/376x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359473-1279398577.jpeg.jpg" data-tags="modern classical" role="button">
 RQTN - Decades And Decisions (2010-04)
@@ -276,9 +282,6 @@ Laurie Spiegel - The Expanding Universe (2012-09)
 <li data-cover="https://img.discogs.com/NX10pZDJ_YjhiTnzDJQkrMQTIrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3894497-1351975232-9440.jpeg.jpg" data-tags="ambient" role="button">
 Valgeir Sigurðsson - Architecture of Loss (2012-09-24)
 </li>
-<li data-cover="https://img.discogs.com/Z4kuJqfotmIG-kIoyY8DRoNHO6I=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4018052-1568481866-7229.jpeg.jpg" data-tags="ambient" role="button">
-Brian Eno - Lux (2012-11-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/5b08a32c-b1b1-41af-80aa-b278ee3b2cbd/4241397444-500.jpg" data-tags="breakcore" role="button">
 Igorrr - Hallelujah (2012-12-21)
 </li>
@@ -293,9 +296,6 @@ William Basinski - Nocturnes (2013-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">
 Ben Lukas Boysen - Gravity (2013-06-17)
-</li>
-<li data-cover="https://img.discogs.com/_oqDWRsgBCOJPV1jjBn93bfB4hE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4862765-1377803830-8667.jpeg.jpg" data-tags="electronic" role="button">
-Samaris - Samaris (2013-07-29)
 </li>
 <li data-cover="https://img.discogs.com/VhSMhxPAX0ohlN01LrEVL1QdZBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303874-1390141495-9498.jpeg.jpg" data-tags="experimental" role="button">
 Zola Jesus - Versions (2013-08-19)

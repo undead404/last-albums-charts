@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:53:01.458Z
+date: 2021-04-10T14:17:01.445Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/dc0bbfac-ccd4-4c43-a6d7-cfd8b167b137/20467064971-500.jpg" data-tags="jazz" role="button">
-Chet Baker - Chet Baker Sings (1954)
-</li>
 <li data-cover="http://coverartarchive.org/release/e29d9fea-4e28-412f-8b92-93b67bcd4f85/20439700773-500.jpg" data-tags="jazz" role="button">
 Sonny Rollins - Saxophone Colossus (1956)
 </li>
@@ -93,8 +90,14 @@ Herbie Hancock - Maiden Voyage (1965-05-17)
 <li data-cover="http://coverartarchive.org/release/2153978a-9ca7-3d4f-901c-5a9221d833a9/27456676174-500.jpg" data-tags="jazz" role="button">
 Dave Brubeck - Dave Brubeck's Greatest Hits (1966)
 </li>
+<li data-cover="http://coverartarchive.org/release/8086b4f8-5365-45b7-872c-798d0626f237/3712022059-500.jpg" data-tags="jazz, blues" role="button">
+Nina Simone - Ne me quitte pas (1967)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Chick Corea - Now He Sings, Now He Sobs (1968)
+</li>
+<li data-cover="http://coverartarchive.org/release/df151c91-79cf-49a6-9bab-374dec6a1812/8654400318-500.jpg" data-tags="jazz" role="button">
+Pharoah Sanders - Karma (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/47873c43-4337-4d3b-9bf2-959f85a7cec1/23109799066-500.jpg" data-tags="jazz" role="button">
 Miles Davis - In A Silent Way (1969-07-30)
@@ -107,9 +110,6 @@ Alice Coltrane - Journey in Satchidananda (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a779a9f-c0ad-3661-880f-b4277365738e/4327744677-500.jpg" data-tags="jazz, jazz fusion" role="button">
 Chick Corea - Return To Forever (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
-Tom Waits - Closing Time (1973-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a48849e9-daed-427a-8f13-b05bbab6a0d5/9519768935-500.jpg" data-tags="jazz, piano" role="button">
 Keith Jarrett - The Köln Concert (1975-11-30)
@@ -149,6 +149,9 @@ Chet Baker - My Funny Valentine (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">
 Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
+</li>
+<li data-cover="https://img.discogs.com/M8dBJZvAEjgiN5w1IXdlph-3r0Y=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3334536-1326229632.jpeg.jpg" data-tags="jazz" role="button">
+John Scofield - A Go Go (1998-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
@@ -192,12 +195,6 @@ Jamie Cullum - Pointless Nostalgic (2002-11-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Billie Holiday - All Of Me (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/e765db76-5025-3aad-8d7b-9c773f7092d3/24718719910-500.jpg" data-tags="jazz" role="button">
-Esbjörn Svensson Trio - Seven Days of Falling (2003)
-</li>
-<li data-cover="https://img.discogs.com/jXjGr0E0xoSAHMFgxlKNoa7ZHfQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083211-1287229519.jpeg.jpg" data-tags="jazz" role="button">
-The Bad Plus - These Are The Vistas (2003-02-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/cad9b13c-387b-4ec8-a974-c391b3fff935/3847437318-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Michael Bublé (2003-02-11)
 </li>
@@ -233,9 +230,6 @@ Pink Martini - Hang On Little Tomato (2004-10-19)
 </li>
 <li data-cover="https://img.discogs.com/8V0Ft3-NyBfaSy3EEx1S-lgFfIo=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435188-1466527564-5711.jpeg.jpg" data-tags="jazz" role="button">
 Miles Davis - Milestones (2005)
-</li>
-<li data-cover="https://img.discogs.com/Df7dnfSlhEvSP1C1Tn7CaTRj33Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12940332-1544971330-8500.jpeg.jpg" data-tags="jazz, fusion" role="button">
-Pat Metheny Group - The Way Up (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
@@ -294,6 +288,9 @@ The Verve - Love Is Noise (2008-08-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
+Diana Krall - Quiet Nights (2009-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Crazy Love (2009-10-06)
 </li>
@@ -317,6 +314,9 @@ Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f3cddae-9f6f-4b46-b0cf-5686c90f84ca/2097171191-500.jpg" data-tags="soul" role="button">
+Selah Sue - Selah Sue (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad584957-841b-43d3-a03c-a5e7b0012c7d/4862063196-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - To Be Loved (2013-04-12)

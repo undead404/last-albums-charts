@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:44:01.406Z
+date: 2021-04-10T14:45:01.643Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -135,6 +135,9 @@ Marilyn Manson - Holy Wood (In The Shadow Of The Valley Of Death) (2000-11-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Things Falling Apart (2000-11-20)
 </li>
+<li data-cover="https://img.discogs.com/ClqCnAqgcr32bxyLf8wML1Etp0Q=/fit-in/597x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3527-1158197889.jpeg.jpg" data-tags="industrial rock, deep - nine inch nails" role="button">
+Nine Inch Nails - Deep (2001)
+</li>
 <li data-cover="https://img.discogs.com/jPqhYX7_aJkfM5Y1UBLVthsiAaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106407-1461438721-2074.jpeg.jpg" data-tags="industrial" role="button">
 Ohgr - Welt (2001-03-20)
 </li>
@@ -233,9 +236,6 @@ Black Light Burns - Cruel Melody [Explicit Version] (2007-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7221485-65f6-433c-ad3d-0b4a021d1357/26444824783-500.jpg" data-tags="industrial rock" role="button">
 16volt - fullblackhabit (2007-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cb54f27-51f3-4185-9772-e4dcf84cbe30/13038051479-500.jpg" data-tags="electronica, synthpop" role="button">
-Blaqk Audio - CexCells (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d64a573-4ecd-474e-9bb4-f50a10709348/5390705085-500.jpg" data-tags="industrial, industrial rock, electro" role="button">
 KMFDM - Tohuvabohu (2007-08-21)
