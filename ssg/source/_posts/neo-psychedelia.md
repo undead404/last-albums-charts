@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:08:01.597Z
+date: 2021-04-10T19:28:01.495Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -9,9 +9,9 @@ title: "neo-psychedelia: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
+<li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">Tame Impala - Innerspeaker (2010-05-21)</li>
-<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">Deerhunter - Halcyon Digest (2010-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">Tame Impala - Lonerism (2012-10-05)</li>
 </ol>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/ac145397-4d4e-4f9b-ae94-ebbf2a7cc5a6/23440279381-500.jpg" data-tags="post-punk" role="button">
+Echo & the Bunnymen - Porcupine (1983-02-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/e897b539-ce48-475c-8c72-b6f0b0d0bb7d/16611425916-500.jpg" data-tags="post-punk, 80s" role="button">
 Echo & the Bunnymen - Ocean Rain (1984-05-04)
 </li>
@@ -53,6 +56,12 @@ The Flaming Lips - Transmissions From the Satellite Heart (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ec3f8dc-27fe-31b1-ac45-f957da4e3773/28476982084-500.jpg" data-tags="90s, britpop, indie" role="button">
+The Verve - A Northern Soul (1995-07-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
+The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b87ff8-0782-499a-bc42-4c504fc00c84/22540815036-500.jpg" data-tags="rock" role="button">
 The Brian Jonestown Massacre - Take It From the Man! (1996-06-10)
@@ -135,9 +144,6 @@ Sun Araw - Beach Head (2008-07-21)
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
-Deerhunter - Microcastle (2008-10-27)
-</li>
 <li data-cover="https://img.discogs.com/2CQf5licuwUWGxwSQnU85K93upw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17164018-1611938371-6715.jpeg.jpg" data-tags="indie rock" role="button">
 Deerhunter - Weird Era Cont. (2008-10-27)
 </li>
@@ -168,14 +174,8 @@ MGMT - Congratulations (2010-04-07)
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
-</li>
 <li data-cover="https://img.discogs.com/m_k2nCelwasdROXYXRkIf_4gA9s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664562-1509713348-3938.jpeg.jpg" data-tags="indie rock" role="button">
 The Young Veins - Take A Vacation! (2010-06-08)
-</li>
-<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
-Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a9000af-1768-4ec2-aa01-b44cacb0e887/11441414525-500.jpg" data-tags="noise, math rock, experimental, experimental rock, neo-psychedelia" role="button">
 Zach Hill - FACE TAT (2010-10-19)
@@ -242,9 +242,6 @@ Alpine - A Is For Alpine (2012-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
 Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/12860ae7-5d2a-4df7-99df-875efcdd885e/14813410350-500.jpg" data-tags="4ad" role="button">
-Ariel Pink's Haunted Graffiti - Mature Themes (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Shields (2012-09-17)
@@ -320,5 +317,8 @@ Blonde Redhead - Barragán (2014-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
 Car Seat Headrest - How To Leave Town (2014-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/486252bb-3639-4ee2-a53e-149a1550b2c4/8921051502-500.jpg" data-tags="psychedelic pop" role="button">
+Panda Bear - Panda Bear Meets the Grim Reaper (2015-01-12)
 </li>
 </ol>

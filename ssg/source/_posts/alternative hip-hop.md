@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:03:01.397Z
+date: 2021-04-10T18:47:03.010Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -57,6 +57,9 @@ Lootpack - Soundpieces: Da Antidote! (1999-06-29)
 <li data-cover="http://coverartarchive.org/release/80dc9693-3e9a-4570-8452-6ce3d6fb31d1/4528884990-500.jpg" data-tags="hip-hop, rap, underground hip-hop, 90s, alternative hip-hop, hhc 95-05 top 100, rawkus, hood, hot song, good new music, middle finger, he cuts so fresh" role="button">
 The High & Mighty - Home Field Advantage (1999-08-24)
 </li>
+<li data-cover="https://img.discogs.com/xwhA0Z8LPukCw1zIit-Y6esM0kU=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129914-001.jpg.jpg" data-tags="hip hop, jazz fusion, detroit, alternative hip-hop, jazz hop, dilla, independent hip-hop, j-88" role="button">
+J-88 - Best Kept Secret (2000-03-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c2c5aed-e1cf-3dc7-82c8-7936611d73f7/15200268076-500.jpg" data-tags="hiphop" role="button">
 Zion I - Mind over Matter (2000-05-30)
 </li>
@@ -65,9 +68,6 @@ Quasimoto - The Unseen (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9316270-de2f-474d-a90a-64b87c8552e0/17553518656-500.jpg" data-tags="rock" role="button">
 Everlast - Eat at Whitey's (2000-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/884151c7-b115-492d-9a73-0ad201b4e8c0/28486284478-500.jpg" data-tags="hip hop, reggae, rap, alternative hip-hop, jazz hop" role="button">
-Reflection Eternal - Train of Thought (2000-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d10320a4-2469-4ae5-9157-a7f2c950cf5d/5052431361-500.jpg" data-tags="hip hop, live, alternative hip-hop" role="button">
 Cypress Hill - Live At The Fillmore (2000-12-12)
@@ -81,9 +81,6 @@ Dilated Peoples - Expansion Team (2001-10-11)
 <li data-cover="http://coverartarchive.org/release/d23bd8bc-44f4-452d-b3c7-0ef0411ffbe7/23983612574-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Saul Williams - Amethyst Rock Star (2001-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
-Cypress Hill - Stoned Raiders (2001-12-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/79d35845-7b0b-4624-9999-a13ca25c653f/4766809847-500.jpg" data-tags="hip hop" role="button">
 People Under the Stairs - "O.S.T." (2002-06-04)
 </li>
@@ -93,11 +90,11 @@ The Prodigy - Baby's Got a Temper (2002-07-01)
 <li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - Quality (2002-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/74469443-9eff-40f4-838d-c7211c87edba/5226314010-500.jpg" data-tags="hip-hop" role="button">
-Common - Electric Circus (2002-12-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/a6e65a1d-3948-497f-8a0b-e769c1378793/4794566468-500.jpg" data-tags="alternative hip-hop, excellent lyricism, educate yourself, real life rhymes, lyrics to learn from" role="button">
 Immortal Technique - The Silenced Revolution (2004)
+</li>
+<li data-cover="https://img.discogs.com/xdYNTGT-Q2m47QmLbwzyEuL7zII=/fit-in/472x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3243290-1378870863-5538.jpeg.jpg" data-tags="hip-hop, rock" role="button">
+Everlast - White Trash Beautiful (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-01)
@@ -236,6 +233,9 @@ Sadistik & Kid Called Computer - The Art of Dying (2010-08-24)
 </li>
 <li data-cover="https://img.discogs.com/gPyYTAhmT-SyeMSguqoahNxLpEw=/fit-in/463x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841187-1373451969-3806.jpeg.jpg" data-tags="hip-hop, trip-hop, rap, piano, atmospheric, alternative hip-hop" role="button">
 Ассаи - ОМ (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/c643ae6b-5907-4d2b-ba77-4ed178426652/22556648412-500.jpg" data-tags="abstract hip-hop" role="button">
+макулатура - осень (2011)
 </li>
 <li data-cover="https://img.discogs.com/QmiZqmwmdfr392KBGMCPo0Ln3ZQ=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2665892-1562547335-3836.jpeg.jpg" data-tags="hip hop, rap" role="button">
 Talib Kweli - Gutter Rainbows (2011-01-25)

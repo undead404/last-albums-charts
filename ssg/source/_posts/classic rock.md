@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:38:01.434Z
+date: 2021-04-10T19:23:01.463Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -204,6 +204,9 @@ Queen - Jazz (1978-11-10)
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/23bf913d-3709-4f84-a3df-f19d3928cb2b/5892233271-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
+Electric Light Orchestra - Discovery (1979-05-21)
+</li>
 <li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
@@ -237,12 +240,6 @@ Bruce Springsteen - Born in the U.S.A. (1984-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">
 Dire Straits - Brothers in Arms (1985-05-14)
 </li>
-<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
-Genesis - Invisible Touch (1986-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
-Queen - A Kind Of Magic (1986-06-02)
-</li>
 <li data-cover="https://img.discogs.com/vp8yysdtrnhVB0e3-7cEDcL3ZkY=/fit-in/599x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387091-1215452933.jpeg.jpg" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
@@ -260,6 +257,9 @@ Journey - Greatest Hits (1988-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b533591-c044-350c-ab34-c9e563432821/17278169151-500.jpg" data-tags="hard rock" role="button">
+Scorpions - Crazy World (1990-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/06f4aa3d-7869-433d-a165-4f9219302596/13927186260-500.jpg" data-tags="rock, classic rock, 90s" role="button">
 Queen - Innuendo (1991-01-14)

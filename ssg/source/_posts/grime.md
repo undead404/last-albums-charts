@@ -1,18 +1,18 @@
 ---
-date: 2021-04-10T06:40:01.382Z
+date: 2021-04-10T19:08:01.439Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">The Streets - Original Pirate Material (2002-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/849f67a4-a3be-429d-b310-932e316faed4/15835064453-500.jpg" data-tags="grime" role="button">Dizzee Rascal - Boy in da Corner (2003-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">The Streets - A Grand Don't Come for Free (2004-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">M.I.A. - Arular (2005-02-22)</li>
 <li data-cover="https://img.discogs.com/rcMtDNkNabZR75YH5Wb353o5whA=/fit-in/170x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4097804-1355150757-7253.jpeg.jpg" data-tags="grime" role="button">Lady Sovereign - Public Warning (2006-10-31)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">M.I.A. - Kala (2007-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">Hadouken! - For the Masses (2010-01-25)</li>
-<li data-cover="http://coverartarchive.org/release/c8ae2c69-899f-4ef5-9379-6f7214fffc3a/8328215880-500.jpg" data-tags="rap" role="button">Tinie Tempah - Disc-Overy (2010-05-31)</li>
 <li data-cover="https://img.discogs.com/hCbKVGRZdsh5F7JWhTSmsm6HXMw=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384588-1280918362.jpeg.jpg" data-tags="grime" role="button">Professor Green - Alive Till I'm Dead (2010-07-16)</li>
+<li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">Professor Green - At Your Inconvenience (2011-10-31)</li>
+<li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">Labrinth - Electronic Earth (2012-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">Plan B - Ill Manors (2012-07-20)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/21e96afb-4eae-4361-b97e-a54b7cf6f5ae/15552505323-500.jpg" data-tags="grime, 2step" role="button">
+Wookie - Wookie (2000-10-23)
+</li>
 <li data-cover="https://img.discogs.com/QyJ0OwaSmTH13Y2dumeE6EM8OE0=/fit-in/300x212/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66646-001.jpg.jpg" data-tags="british, grime" role="button">
 So Solid Crew - They Don't Know (2001-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/849f67a4-a3be-429d-b310-932e316faed4/15835064453-500.jpg" data-tags="grime" role="button">
 Dizzee Rascal - Boy in da Corner (2003-07-21)
@@ -39,11 +39,11 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 <li data-cover="https://img.discogs.com/J1brb1A2NJvV2ouv73kk2Gqit_4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-835973-1510218037-4377.png.jpg" data-tags="grime" role="button">
 Shystie - Diamond In The Dirt (2004-07-12)
 </li>
-<li data-cover="https://img.discogs.com/4TyZdLic_ILz220O4aIEfMoueGI=/fit-in/510x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2621441-1385064307-7139.jpeg.jpg" data-tags="grime, hip-hop, hip hop" role="button">
-Dizzee Rascal - Showtime (2004-09-06)
-</li>
 <li data-cover="https://img.discogs.com/o010GUY6cAMdDeaBW41xmZT0apA=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866745-1167197361.jpeg.jpg" data-tags="grime, --britpop--, playlist m" role="button">
 The Streets - Blinded By The Lights (2004-09-27)
+</li>
+<li data-cover="https://img.discogs.com/9EuHOm8ezDgLAggzPtvPhcAkLmU=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-526381-1136455046.jpeg.jpg" data-tags="hip-hop" role="button">
+The Mitchell Brothers - A Breath of Fresh Attire (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
@@ -63,9 +63,6 @@ Virus Syndicate - The Work Related Illness (2005-06-27)
 <li data-cover="http://coverartarchive.org/release/31696c2a-fee0-45ac-a6ce-934e0117c298/19579923271-500.jpg" data-tags="british, grime, dance" role="button">
 M.I.A. - Bucky Done Gun (2005-07-11)
 </li>
-<li data-cover="https://img.discogs.com/mZC2N0gM-D6RU0aXIGNXVeVufRc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538101-1131719441.jpeg.jpg" data-tags="electronic, electronica, female vocalists, grime, dubstep, idm, driving, bounce, drum n bass, broken beat, 00s, dubby, welcome, boom, flow, neu, wonk, magic female voice, futurefunk, futuredub, supersexy, blazin, fusion festival 2008, metro dub, future-reach, electro ragga, fusion 2008" role="button">
-Jahcoozi - Pure Breed Mongrel (2005-09-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/0450057d-5438-41ce-9d43-1a6de4b2234e/21919251454-500.jpg" data-tags="grime" role="button">
 Lethal Bizzle - Against All Oddz (2005-10)
 </li>
@@ -77,6 +74,9 @@ Vex'd - Bombardment Of Saturn (2006)
 </li>
 <li data-cover="https://img.discogs.com/w-9asZe9MjAt-Pvi5tcXppsj59s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820825-1588927605-3684.jpeg.jpg" data-tags="electronica, grime, dubstep, massive dubstep" role="button">
 Rusko - Snes Dub (2006)
+</li>
+<li data-cover="https://img.discogs.com/Gh6fOh2u_NUPeCdLKeEonmzKNn8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-619088-1148048415.jpeg.jpg" data-tags="electronica, grime, dubstep" role="button">
+Digital Mystikz - Haunted / Anti War Dub (2006-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2e854c8-593f-4d78-bfdf-e82b10763cb9/20541752674-500.jpg" data-tags="grime" role="button">
 Sway - This Is My Demo (2006-02-06)
@@ -123,6 +123,9 @@ Wiley - Playtime Is Over (2007-06-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
 </li>
+<li data-cover="https://img.discogs.com/bp1i9qCBCjb_yb7ZBy-Bs4FqPaQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1979194-1511357842-5936.jpeg.jpg" data-tags="grime" role="button">
+Tinchy Stryder - Star In The Hood (2007-08-13)
+</li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="hip-hop, rap, grime, italo-disco" role="button">
 Kano - London Town (2007-09-10)
 </li>
@@ -147,9 +150,6 @@ Plastician - Beg To Differ (2008-06-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 The Bug - London Zoo (2008-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d0acb0cf-4184-4739-ac2c-227692711fd8/7696262161-500.jpg" data-tags="rap" role="button">
 N-Dubz - Uncle B (2008-11-17)
 </li>
@@ -158,6 +158,9 @@ ill.Gates - Autopirate (2008-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/09d214ff-df3b-4b8e-9317-0683247eaa2c/8042724648-500.jpg" data-tags="hip-hop, british, rap, grime, 00s, uk rap, general pop vocal, good in 2008, non-american rap" role="button">
 Wiley - See Clear Now (2008-12-05)
+</li>
+<li data-cover="https://img.discogs.com/6V098JJ3HuTkWw3AVCUup4F-sm0=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2601963-1323991181.jpeg.jpg" data-tags="dubstep" role="button">
+Caspa - Everybody's Talking, Nobody's Listening! (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/hr7mBEAV5REhgnJVgp1_iodL6mc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727158-1489626590-4704.jpeg.jpg" data-tags="grime" role="button">
 Lady Sovereign - Jigsaw (2009-04-06)
@@ -204,12 +207,6 @@ Girl Unit - I.R.L EP (2010-04-26)
 <li data-cover="http://coverartarchive.org/release/c0254828-029b-4006-8a14-8464b09cbc40/14987408388-500.jpg" data-tags="dubstep" role="button">
 Rusko - O.M.G.! (2010-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8ae2c69-899f-4ef5-9379-6f7214fffc3a/8328215880-500.jpg" data-tags="rap" role="button">
-Tinie Tempah - Disc-Overy (2010-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/efaa53a7-4c07-4441-80b1-06f402ec5f7d/3566590122-500.jpg" data-tags="drum and bass" role="button">
-The Qemists - Spirit In The System (2010-07-07)
-</li>
 <li data-cover="https://img.discogs.com/hCbKVGRZdsh5F7JWhTSmsm6HXMw=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384588-1280918362.jpeg.jpg" data-tags="grime" role="button">
 Professor Green - Alive Till I'm Dead (2010-07-16)
 </li>
@@ -249,8 +246,8 @@ Foreign Beggars - The Harder They Fall EP (2011-06-06)
 <li data-cover="http://coverartarchive.org/release/23f14cf9-74c0-45d9-ad20-507d6af44903/3414834359-500.jpg" data-tags="grime, dubstep" role="button">
 Gladkill - LoveLost (2011-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/ceb9c655-a10e-4883-bf26-46274eb9e113/4802877243-500.jpg" data-tags="grime" role="button">
-Wiley - 100% Publishing (2011-06-15)
+<li data-cover="https://img.discogs.com/KSnYgTWsrH16Ss79e1CER5M5-5M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994118-1310859620.jpeg.jpg" data-tags="dancehall" role="button">
+Toddla T - Watch Me Dance (2011-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/373ad88b-3eb7-42dc-ae11-77dd3b6dcb54/2267680912-500.jpg" data-tags="grime, vagabund, miron,  album,  digipak, nmdc" role="button">
 Oxxxymiron - Вечный жид (2011-09-03)
@@ -263,6 +260,9 @@ Professor Green - At Your Inconvenience (2011-10-31)
 </li>
 <li data-cover="https://img.discogs.com/JWiFchXv0Hzr8RWugluhNau24Dg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10750666-1503646950-6202.jpeg.jpg" data-tags="hip-hop, pop, british, rap, grime, rnb" role="button">
 Loick Essien - Me Without You (2011-11-04)
+</li>
+<li data-cover="https://img.discogs.com/UfGFO0JOi8gIW2CPvOUcBgwIvt4=/fit-in/453x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274793-1323464129.jpeg.jpg" data-tags="hip hop, grime, alternative hip-hop" role="button">
+Eligh & Amp Live - Therapy At 3 (2011-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">
 Labrinth - Electronic Earth (2012-04-02)
@@ -278,9 +278,6 @@ Pezet - Radio Pezet Produkcja Sidney Polak (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/496b9cfe-4521-4da8-aca7-30463263e3c5/6243503281-500.jpg" data-tags="hip-hop, grime, dubstep, electro house" role="button">
 Foreign Beggars - The Uprising (2012-10-01)
-</li>
-<li data-cover="https://img.discogs.com/P7fJyenTcCNPcYnDEQGfRqqVff4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883393-1348867217-4288.jpeg.jpg" data-tags="electronic, idm, glitch" role="button">
-Two Fingers - Stunt Rhythms (2012-10-08)
 </li>
 <li data-cover="https://img.discogs.com/Vxks8A1pMMvFAU7_51EFSWFwbDg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4008616-1352148586-2255.jpeg.jpg" data-tags="rap, grime, dubstep, polish" role="button">
 Pokahontaz - Rekontakt (2012-10-19)
@@ -302,6 +299,9 @@ Hadouken! - Every Weekend (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4c9a16e-cadf-44b1-9943-b67e518ebb0d/6410195934-500.jpg" data-tags="hip hop, grime, dubstep" role="button">
 Dope D.O.D. - Da Roach (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/42464fa2-63bb-41d0-b11a-35f73e61b888/6384485068-500.jpg" data-tags="grime, drum and bass" role="button">
+Alix Perez - Chroma Chords (2013-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/dedea8ba-f268-471c-a59c-01527640a603/21163578949-500.jpg" data-tags="grime, uk hip-hop" role="button">
 Dizzee Rascal - The Fifth (2013-09-27)

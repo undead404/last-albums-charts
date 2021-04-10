@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:10:01.456Z
+date: 2021-04-10T19:43:01.508Z
 title: "classical: 100 albums you must listen to before you die"
 ---
 ![Wolfgang Amadeus Mozart - Requiem (1995-10-02)](https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg "Wolfgang Amadeus Mozart - Requiem (1995-10-02)")
@@ -147,6 +147,9 @@ Vanessa-Mae - The Original Four Seasons And The Devil's Trill Sonata (1998-11-09
 <li data-cover="http://coverartarchive.org/release/0bc86aed-5e64-4a15-bef6-666a09c9236a/14160170707-500.jpg" data-tags="classical" role="button">
 Johannes Brahms - Classical Masters: Brahms (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/61a9f6d2-bfdb-4db7-8e6a-32e2653aad29/4239670997-500.jpg" data-tags="andrea bocelli" role="button">
+Andrea Bocelli - Sogno (1999-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/6ebe8cc4-ee3e-4eb1-ae7d-b1fc09b49646/13435578387-500.jpg" data-tags="classical, wagner" role="button">
 Richard Wagner - The Royal Philharmonic Collection (2000)
 </li>
@@ -177,9 +180,6 @@ Emma Shapplin - Etterna (2002-05-27)
 <li data-cover="https://img.discogs.com/rX0rFXm9Ngs9mJov-Nuk-MBTcjE=/fit-in/599x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4846896-1377355013-5168.jpeg.jpg" data-tags="classical, josh groban" role="button">
 Josh Groban - Closer (2003-08-11)
 </li>
-<li data-cover="https://img.discogs.com/xMvs19vm_u-7ZjpvSKfZXUvs9TU=/fit-in/583x893/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3047818-1457889649-9376.jpeg.jpg" data-tags="classical" role="button">
-Johann Sebastian Bach - Chill with Bach (2003-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4190b11-26fe-4a7e-a667-bae88a9634c2/9519022390-500.jpg" data-tags="piano" role="button">
 Myleene Klass - Moving On (2003-10-20)
 </li>
@@ -194,6 +194,9 @@ Gonzales - Solo Piano (2004)
 </li>
 <li data-cover="https://img.discogs.com/A0xnIeXlwz77ePlAGkFq49JKVEE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652279-1330338099.jpeg.jpg" data-tags="classical, essential" role="button">
 Hayden - Elk-Lake Serenade (2004-05-18)
+</li>
+<li data-cover="https://img.discogs.com/At1k_ayB0OQAGh0e4Zqafu2i-nY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12280940-1532078382-3948.jpeg.jpg" data-tags="classical, fleisher" role="button">
+Leon Fleisher - Two Hands (2004-08-24)
 </li>
 <li data-cover="https://img.discogs.com/Pw4M5NgpfqHOI3kkHlfmWmUhMaQ=/fit-in/490x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477311-1125291134.jpg.jpg" data-tags="instrumental, vanessa" role="button">
 Vanessa-Mae - Choreography (2004-09-14)
@@ -210,6 +213,9 @@ Anoushka Shankar - Rise (2005-09-25)
 <li data-cover="http://coverartarchive.org/release/95c0ced5-be9d-4558-b607-78e23d499ac8/5794008928-500.jpg" data-tags="il divo, classical" role="button">
 Il Divo - Ancora (2005-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/44c933d3-a10a-4253-8651-51684ed0f279/2347335131-500.jpg" data-tags="soundtrack, video game music" role="button">
+Jeremy Soule - The Elder Scrolls IV: Oblivion (2006-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/62c65ea0-fb83-4c43-ac89-95f8448c5b27/10374863828-500.jpg" data-tags="classical, ambient, new age, celtic" role="button">
 Gregorian - Masters Of Chant Chapter V (2006-03-31)
 </li>
@@ -224,6 +230,9 @@ Jean Sibelius - The Very Best of Sibelius (2006-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0257cd0d-999b-426b-b098-3902c691996a/11322636619-500.jpg" data-tags="christmas" role="button">
 Tarja - Henkäys Ikuisuudesta (2006-10-10)
+</li>
+<li data-cover="https://img.discogs.com/V7fmYcv9NRz-BNWyyx--fs0LF3Y=/fit-in/400x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6696396-1469645154-5521.jpeg.jpg" data-tags="classical, chill, new age" role="button">
+Paul Schwartz - State Of Grace III (2006-11-07)
 </li>
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="soundtrack, classical" role="button">
 Wolfgang Amadeus Mozart - Amadeus (2006-12-15)
@@ -279,12 +288,6 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 <li data-cover="http://coverartarchive.org/release/b5967474-baab-45ff-aa11-bb747bcec50f/5252296803-500.jpg" data-tags="classical" role="button">
 London Philharmonic Orchestra - The 50 Greatest Pieces of Classical Music (2009-11-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c4eb14c-87ec-4cb9-8a64-064ccdaacbd7/13716850036-500.jpg" data-tags="symphonic rock" role="button">
-Serj Tankian - Elect The Dead Symphony (2010-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
-</li>
 <li data-cover="https://img.discogs.com/srw5tT6H7BgCU3k8Oj8crk1ct3M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2691946-1296765846.jpeg.jpg" data-tags="classical, ambient, idm" role="button">
 Near The Parenthesis - Japanese for Beginners (2011-02-15)
 </li>
@@ -317,8 +320,5 @@ Anoushka Shankar - Traces Of You (2013-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/754ffe04-ae91-4b38-bebb-9a565a03eeb0/6830844142-500.jpg" data-tags="classical, dubstep, electronic, instrumental, violin" role="button">
 Lindsey Stirling - Shatter Me (2014-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/0d1f5f0e-a46b-455c-b518-1e9b79aab3db/8033025698-500.jpg" data-tags="classical, jazz, contemporary jazz, modal" role="button">
-Mammal Hands - Animalia (2014-09-15)
 </li>
 </ol>

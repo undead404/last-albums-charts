@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:44:01.524Z
+date: 2021-04-10T19:16:06.965Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -120,6 +120,9 @@ Imagination - In the Heat Of The Night (1982)
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/fc10393a-8107-4cc4-b1a7-a9c88c74762b/16052027167-500.jpg" data-tags="dance, disco, 80s" role="button">
+Goombay Dance Band - Sun of Jamaica (1991)
+</li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
 A Man Called Adam - Bread, Love And Dreams (1992)
 </li>
@@ -159,9 +162,6 @@ Bee Gees - One Night Only (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
-<li data-cover="https://img.discogs.com/LU01EPcTDCwMYzcvDF70lHLZ6G8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2696545-1504857974-6253.jpeg.jpg" data-tags="disco, funk, soul, dance" role="button">
-Chic - Live At The Budokan (1999-02-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
@@ -176,6 +176,9 @@ Jamiroquai - A Funk Odyssey (2001-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
+</li>
+<li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
+Electric Six - Fire (2003-05-20)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -239,9 +242,6 @@ Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
-David Guetta - One More Love (2009-08-21)
 </li>
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)

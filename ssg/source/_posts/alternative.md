@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:11:01.574Z
+date: 2021-04-10T19:01:07.155Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")

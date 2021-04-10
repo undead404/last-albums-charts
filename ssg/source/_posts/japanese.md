@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:26:01.643Z
+date: 2021-04-10T19:44:01.519Z
 title: "japanese: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
@@ -29,6 +29,9 @@ Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/f128274d-e4bb-4b76-a1d1-1a60fa54c8eb/8751464865-500.jpg" data-tags="japanese, progressive ambient, youtube rec-core" role="button">
 Hiroshi Yoshimura - Green (1986)
+</li>
+<li data-cover="https://img.discogs.com/blUiHA7OZwvowWtTS082Pg5B2x4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14350624-1572767140-4238.jpeg.jpg" data-tags="rock, japanese, japan, j-rock" role="button">
+Luna Sea - STYLE (1996-04-22)
 </li>
 <li data-cover="https://img.discogs.com/pM4_39Y3cXXUsPpShG0cMstN1Q4=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854086-1512640960-1267.jpeg.jpg" data-tags="j-rock" role="button">
 X Japan - DAHLIA (1996-11-04)
@@ -69,6 +72,9 @@ DIR EN GREY - ain't afraid to die (2001-04-18)
 <li data-cover="http://coverartarchive.org/release/0b0cb384-ad5a-32b1-a69e-566e1e436d5c/17833938395-500.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - Rebirth (2001-04-25)
 </li>
+<li data-cover="https://img.discogs.com/rpv4SAU-9PHpI42HKf-vcVz5uHU=/fit-in/394x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476008-1222521667.jpeg.jpg" data-tags="trip-hop, chillout, downtempo" role="button">
+DJ Krush - Zen (2001-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5e56387-0ee3-4824-9e48-58babcb03363/7925565027-500.jpg" data-tags="soundtrack" role="button">
 Akira Yamaoka - Silent Hill 2 (2001-10-03)
 </li>
@@ -77,9 +83,6 @@ Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbe29336-f4e2-3e18-a5f1-1d30f15b916e/9768589910-500.jpg" data-tags="japanese, dance, j-pop, qualified" role="button">
 Boa - LISTEN TO MY HEART (2002-03-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-宇多田ヒカル - DEEP RIVER (2002-06-19)
 </li>
 <li data-cover="https://img.discogs.com/lSbcfxhsZGPy283mAeWm4ogPwDc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2928666-1307764118.jpeg.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - MOON (2002-06-19)
@@ -107,9 +110,6 @@ Hyde - 666 (2003-12-03)
 </li>
 <li data-cover="https://img.discogs.com/lSbcfxhsZGPy283mAeWm4ogPwDc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2928666-1307764118.jpeg.jpg" data-tags="j-rock" role="button">
 GACKT - Crescent (2003-12-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
-Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a693d277-4f62-4cdb-b5cc-8539cc5b0c46/14805551856-500.jpg" data-tags="j-pop, utada hikaru, japanese" role="button">
 宇多田ヒカル - Utada Hikaru SINGLE COLLECTION VOL.1 (2004-03-31)
@@ -177,9 +177,6 @@ Anoice - Remmings (2006-05-23)
 <li data-cover="http://coverartarchive.org/release/1d3f727e-50ee-40b3-b39b-a480cd0612e8/13922000742-500.jpg" data-tags="shoegaze" role="button">
 Asobi Seksu - Citrus (2006-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/472ca960-0441-470d-b2c9-b68777ec10e6/3988184111-500.jpg" data-tags="j-pop, japanese" role="button">
-宇多田ヒカル - ULTRA BLUE (2006-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
 </li>
@@ -204,9 +201,6 @@ D'espairsRay - MIRROR (2007-04-11)
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">
 the GazettE - STACKED RUBBISH (2007-07-04)
 </li>
-<li data-cover="https://img.discogs.com/ooqlSYIWQfWj4y3_uvtHQalOCtY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5272930-1389278550-1971.jpeg.jpg" data-tags="japanese" role="button">
-RENTRER EN SOI - The bottom of chaos (2007-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/957e70bc-6047-46e2-95a4-d077b35cbe88/28487806504-500.jpg" data-tags="japanese, j-pop" role="button">
 宇多田ヒカル - Beautiful World / Kiss & Cry (2007-08-29)
 </li>
@@ -230,6 +224,9 @@ Perfume - GAME (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
 DJ Okawari - Diorama (2008-05-28)
+</li>
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="japanese, jpop, asian, male vocalists, anime, j-rock, j-pop, group, boy band, asian music, asian pop" role="button">
+Flow - WORLD END (2008-08-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop" role="button">
 水樹奈々 - Trickster (2008-10-01)
@@ -305,6 +302,9 @@ Linked Horizon - 自由への進撃 (2013-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">
 Kero Kero Bonito - Intro Bonito (2013-09-30)
+</li>
+<li data-cover="https://img.discogs.com/fK_SBnhk_3gYkaQuDn1Mcg2Ro2E=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145641-1494989212-6727.jpeg.jpg" data-tags="electronic, electropop, j-pop" role="button">
+Perfume - LEVEL3 (2013-10-02)
 </li>
 <li data-cover="https://img.discogs.com/2-0GytdyDovrVy3ndWC1mfui2nw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9300814-1513304907-2287.jpeg.jpg" data-tags="indie, rock, japanese, alternative, math rock, experimental, female vocalists, ss, these vocals are killing me with joy" role="button">
 tricot - T H E (2013-10-02)

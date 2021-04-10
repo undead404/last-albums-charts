@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:05:01.531Z
+date: 2021-04-10T18:59:01.470Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:56:01.441Z
+date: 2021-04-10T19:04:08.470Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -33,9 +33,6 @@ Joy Division - Closer (1980-07-18)
 <li data-cover="http://coverartarchive.org/release/3acddd36-87e5-3564-a424-a79f6184ce3a/13485029013-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Kaleidoscope (1980-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6eac2f49-661a-4317-bc2b-71ec7debd8f9/3451488533-500.jpg" data-tags="post-punk" role="button">
-Bauhaus - In the Flat Field (1980-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
 </li>
@@ -57,14 +54,11 @@ Bauhaus - The Sky's Gone Out (1982)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
+<li data-cover="https://img.discogs.com/21L8upSOvyjopNZJBhNHyZ4plhM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-687536-1293969695.jpeg.jpg" data-tags="post-punk" role="button">
+Siouxsie and the Banshees - A Kiss in the Dreamhouse (1982-11-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Burning from the Inside (1983-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/ced70589-aab2-4754-bd8a-14f776d3ac38/18169718837-500.jpg" data-tags="post-punk, darkwave" role="button">
-Dead Can Dance - Dead Can Dance (1984-02-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
-Xmal Deutschland - Tocsin (1984-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ad4681-0652-4746-bb60-69cfa7964c35/14564351320-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - First and Last and Always (1985-03)
@@ -75,9 +69,6 @@ The Cult - Love (1985-08)
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">
 The Cure - The Head on the Door (1985-08-13)
 </li>
-<li data-cover="https://img.discogs.com/x66YepUAjLxxtGjTHL_2o9GM0G4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4829151-1376799074-8236.jpeg.jpg" data-tags="post-punk, gothic rock" role="button">
-Siouxsie and the Banshees - Tinderbox (1986-04-21)
-</li>
 <li data-cover="https://img.discogs.com/TIAz6Bz2UuxTyMqQM4uyJgLnWLs=/fit-in/599x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608618-1221972276.jpeg.jpg" data-tags="gothic rock" role="button">
 Fields of the Nephilim - Dawnrazor (1987-05-04)
 </li>
@@ -86,6 +77,9 @@ The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - Floodland (1987-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f9e3c799-0e8c-420f-9b62-8e968a020223/7494792139-500.jpg" data-tags="gothic metal" role="button">
+Paradise Lost - Paradise Lost (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
@@ -125,6 +119,9 @@ Swans - The Great Annihilator (1995-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
+The Cure - Wild Mood Swings (1996-05-07)
 </li>
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
@@ -219,6 +216,9 @@ Evanescence - Bring Me to Life (2003-04-14)
 <li data-cover="https://img.discogs.com/-lr80SWu3Q6ICo4nNSf8Y21MFk4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3783951-1344287950-5460.jpeg.jpg" data-tags="love metal, him" role="button">
 Him - Love Metal (2003-04-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/34de4124-76fd-4596-a891-82a9041612f9/6485727185-500.jpg" data-tags="radio radio radio" role="button">
+Ohgr - SunnyPsyOp (2003-07-01)
+</li>
 <li data-cover="https://img.discogs.com/PwLxDpKp4ZMyejyXT5CjJ_eDh8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479776-1402230122-1820.jpeg.jpg" data-tags="darkwave, gothic rock" role="button">
 Faith and the Muse - The Burning Season (2003-07-08)
 </li>
@@ -291,6 +291,9 @@ Abney Park - Lost Horizons (2008-03-01)
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a44d18f-180b-4677-b72b-13fa2b58a7e0/9291230911-500.jpg" data-tags="new wave, darkwave" role="button">
+She Wants Revenge - Save Your Soul (2008-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
 </li>
@@ -299,9 +302,6 @@ Marilyn Manson - The High End Of Low (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc4fe161-760e-4200-990a-5d043977cb56/9020464539-500.jpg" data-tags="rock, female vocalists, gothic rock" role="button">
 Evanescence - Together Again (2010-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0613007-0298-4ca6-b1f2-4b88dae63742/1693672754-500.jpg" data-tags="rock, alternative rock" role="button">
-We Are the Fallen - Tear The World Down (2010-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)

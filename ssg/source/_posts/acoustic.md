@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:12:01.433Z
+date: 2021-04-10T18:49:12.748Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -33,6 +33,9 @@ Nick Drake - Pink Moon (1972-02-25)
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
+Mazzy Star - So Tonight That I Might See (1993-09-27)
+</li>
 <li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
@@ -51,9 +54,6 @@ Dispatch - Bang Bang (1997-09-01)
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
-Cat Power - Moon Pix (1998-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
@@ -68,6 +68,9 @@ John Mayer - Inside Wants Out (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
+Howie Day - Australia (2000-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Dashboard Confessional - The Swiss Army Romance (2000-11-14)
@@ -113,9 +116,6 @@ Godsmack - The Other Side (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
-Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc2b4c7a-a7e3-4756-bcec-cd3e9a2ce4b7/28392699788-500.jpg" data-tags="acoustic" role="button">
 Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
@@ -195,6 +195,9 @@ Justin Nozuka - Holly (2007)
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1c9336f-c371-4af7-9cc3-4b65685a3345/17822792060-500.jpg" data-tags="rock, who you are" role="button">
+Cary Brothers - Who You Are (2007-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
@@ -206,9 +209,6 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
@@ -222,14 +222,23 @@ Fink - Distance and Time (2007-10-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/123a7fa9-f179-43c9-9353-c4cf2625ed4a/15645014786-500.jpg" data-tags="folk" role="button">
+Laura Marling - Alas I Cannot Swim (2008-02-11)
+</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/16d325ef-b41b-44d0-beba-616c5880f62f/3323563945-500.jpg" data-tags="folk" role="button">
+Frank Turner - Love Ire & Song (2008-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
+Priscilla Ahn - A Good Day (2008-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
@@ -246,14 +255,14 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/65fabf97-67bf-4f88-84a0-b8ef0a4de144/19588262528-500.jpg" data-tags="folk rock" role="button">
+Isbells - Isbells (2009-10-23)
+</li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ad77ab2-75a0-48d1-a00b-745000a6614e/17601301658-500.jpg" data-tags="acoustic, less than 40 minutes" role="button">
 Never Shout Never - what is love? (2010-01-26)
-</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
@@ -264,17 +273,8 @@ Jack Johnson - To The Sea (2010-05-26)
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
-Sara Bareilles - Kaleidoscope Heart (2010-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
-</li>
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
-</li>
-<li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
-The Civil Wars - Barton Hollow (2011-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:53:01.408Z
+date: 2021-04-10T19:24:01.441Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -51,17 +51,11 @@ Kult - Muj wydafca (1994-10-01)
 <li data-cover="https://img.discogs.com/ixHEMNqFvofVjMAVVI6OV-z3zvg=/fit-in/410x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-920331-1521923537-6695.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Myslovitz (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/9178dc60-2558-4f6b-9c62-a5cb5ac695c6/12618598246-500.jpg" data-tags="fantastic, polish, kult" role="button">
-Kult - Tata 2 (1996-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/987d7b4b-abf1-4e7d-8a4c-a56e72fb3e56/7101899260-500.jpg" data-tags="rock" role="button">
 Myslovitz - Sun Machine (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8edb945-28fa-45ef-a69c-09e45c53c9e1/22167648217-500.jpg" data-tags="polish, polish rock, elektryczne gitary" role="button">
 Elektryczne Gitary - Na krzywy ryj (1997-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f7185fb-5a1a-4701-9722-2fc720a6caad/14514441208-500.jpg" data-tags="alternative, polskie, kazik, alternative rock" role="button">
-Kazik - 12 Groszy (1997-06)
 </li>
 <li data-cover="https://img.discogs.com/X1SwUIVh2t_jF7_Y03hnQnOanAA=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278054-1205856489.jpeg.jpg" data-tags="polish, rock" role="button">
 Edyta Bartosiewicz - Dziecko (1997-06-06)
@@ -92,6 +86,9 @@ Akurat - Pomarańcza (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/2409939a-290a-4d66-8742-59bc04e52122/2610150058-500.jpg" data-tags="punk rock, punk" role="button">
 Pidżama Porno - Marchef w butonierce (2001-04-23)
+</li>
+<li data-cover="https://img.discogs.com/G4RP02Gj7DRgDMJ27e74s8PwADs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880442-1305411904.jpeg.jpg" data-tags="electronic, chill out, downtempo, polish" role="button">
+Smolik - Smolik (2001-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/635daba9-5f20-4d78-9cf0-3ebfd77f41f0/12618624531-500.jpg" data-tags="alternative, alternative rock, polish, 2000s, kazik, kazik staszewski, kult salon recreativo, salon recreativo" role="button">
 Kult - Salon Recreativo (2001-10-01)
@@ -140,6 +137,9 @@ happysad - Wszystko jedno (2004-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">
 Pidżama Porno - Bułgarskie centrum (2004-09-20)
+</li>
+<li data-cover="https://img.discogs.com/k_YqSOzSNRsXdQDyTNy7FZOU0No=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524441-1154632353.jpeg.jpg" data-tags="progressive rock, progressive metal" role="button">
+Indukti - S.U.S.A.R. (2004-09-20)
 </li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
@@ -261,6 +261,9 @@ GrubSon - O.R.S. (2009-08-19)
 <li data-cover="http://coverartarchive.org/release/9561f09b-6098-44a1-957b-e398a219b965/6357137255-500.jpg" data-tags="rock, polish, happysad, i want to have" role="button">
 happysad - Mów mi dobrze (2009-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/9da34265-9c5e-4d57-9d9e-8ee0e2c96ab2/15843844769-500.jpg" data-tags="hip hop, rap" role="button">
+Małpa - Kilka numerów o czymś (2009-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e745932-2538-4b2c-952d-2893b8c5b69f/5062074211-500.jpg" data-tags="polish" role="button">
 Strachy Na Lachy - DODEKAFONIA (2010-02-22)
 </li>
@@ -308,9 +311,6 @@ Bokka - BOKKA (2013-11-21)
 </li>
 <li data-cover="https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg" data-tags="blackened death metal, black metal, death metal" role="button">
 Behemoth - The Satanist (2014-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/224f9a63-3ce7-46e6-95ba-0942c68d0d6b/6926539176-500.jpg" data-tags="alternative, polish" role="button">
-Artur Rojek - Składam się z ciągłych powtórzeń (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/28ed3ff6-752c-479c-a142-5f3908e8f80d/14427406794-500.jpg" data-tags="indie, deep house, polish" role="button">
 XXANAXX - Triangles (2014-04-29)

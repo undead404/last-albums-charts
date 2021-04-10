@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:53:01.407Z
+date: 2021-04-10T18:46:07.112Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -126,6 +126,9 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
+The Ark - State of The Ark (2004-12-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
 Johnossi - Johnossi (2005-01-26)
 </li>
@@ -215,9 +218,6 @@ Markus Krunegård - Markusevangeliet (2008-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
-</li>
-<li data-cover="https://img.discogs.com/1jNtSCaTsGHcrE8MP1dMy9Blc_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387021-1420820995-5154.jpeg.jpg" data-tags="electronic" role="button">
-Air France - No Way Down (2008-06-23)
 </li>
 <li data-cover="https://img.discogs.com/1JrX-TW4TGpPS_HKoJbRML9q3oA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472895-1241973961.jpeg.jpg" data-tags="swedish, dloved, on tour 2009" role="button">
 Hello Saferide - More Modern Short Stories From Hello Saferide (2008-09-24)

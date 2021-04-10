@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:25:01.679Z
+date: 2021-04-10T19:02:01.893Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -255,6 +255,9 @@ Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c9d3437-baca-4b25-bf39-ea906977bb2a/15787070039-500.jpg" data-tags="indie rock, indie" role="button">
+Bombay Bicycle Club - I Had the Blues But I Shook Them Loose (2009-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/2342ef67-07f8-4fc7-b7c5-a15d20bccac1/5908075333-500.jpg" data-tags="indie rock" role="button">
 The Temper Trap - Conditions (2009-06-19)
 </li>
@@ -290,9 +293,6 @@ Frank Ocean - Novacane (2011-05-31)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)
-</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)

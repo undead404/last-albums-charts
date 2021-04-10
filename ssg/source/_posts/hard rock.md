@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:10:01.443Z
+date: 2021-04-10T19:26:01.476Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -82,9 +82,6 @@ Van Halen - 1984 (1983)
 Scorpions - Love at First Sting (1984)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-AC/DC - Who Made Who (1986-05-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
@@ -161,6 +158,9 @@ Rammstein - Mutter (2001-04-02)
 </li>
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
+Nickelback - Silver Side Up (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)

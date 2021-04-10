@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:49:01.434Z
+date: 2021-04-10T19:19:01.478Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
-Beastie Boys - Licensed to Ill (1986-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
@@ -126,8 +123,8 @@ Aesop Rock - Labor Days (2001-09-18)
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
+<li data-cover="http://coverartarchive.org/release/003b0f09-cdd1-333d-9262-92d66237a4c0/10252077277-500.jpg" data-tags="hip-hop" role="button">
+Blackalicious - Blazing Arrow (2002-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
@@ -153,14 +150,14 @@ Beastie Boys - To the 5 Boroughs (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Roots - The Tipping Point (2004-07-12)
 </li>
+<li data-cover="https://img.discogs.com/4py4xiK0UiIC3_z0rrt5exFOY2I=/fit-in/352x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378450-1173002498.jpeg.jpg" data-tags="hip-hop" role="button">
+Talib Kweli - The Beautiful Struggle (2004-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
 Eminem - Encore (2004-11-12)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
-The Game - The Documentary (2005-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
@@ -314,6 +311,9 @@ Childish Gambino - Because the Internet (2013-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg" data-tags="hip-hop, electronic, hip hop" role="button">
 Die Antwoord - Donker Mag (2014-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/45918d2f-c617-40d8-a0ec-de753d045ea5/8683131068-500.jpg" data-tags="hip-hop, r&b, the weeknd" role="button">
+The Weeknd - Often (2014-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbd931f0-f3ad-4550-b1cd-862e4b70cc03/9082731243-500.jpg" data-tags="hip hop" role="button">
 J. Cole - 2014 Forest Hills Drive (2014-09-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:18:01.462Z
+date: 2021-04-10T18:54:01.517Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -29,6 +29,9 @@ Kate Bush - The Kick Inside (1978-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
+Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
@@ -236,9 +239,6 @@ Lady Gaga - The Fame (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">
-Ingrid Michaelson - Be OK (2008-10-14)
 </li>
 <li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)

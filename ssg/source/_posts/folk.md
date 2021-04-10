@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:58:01.618Z
+date: 2021-04-10T19:17:01.487Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -27,6 +27,9 @@ Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/3a8f914d-0b57-440c-a337-66c72c42bbd4/3445479016-500.jpg" data-tags="folk" role="button">
+Joni Mitchell - Ladies of the Canyon (1970-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
 </li>
@@ -51,9 +54,6 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
 Bob Dylan - Desire (1976-01-05)
 </li>
-<li data-cover="https://img.discogs.com/JAXVUtTvxQ4GvDKfQe1tV1LuSdA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437138-1266588444.jpeg.jpg" data-tags="80s, folk" role="button">
-Paul Simon - Graceland (1986-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
 </li>
@@ -62,6 +62,9 @@ Ben Harper - Welcome To The Cruel World (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
+Elliott Smith - XO (1998-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
@@ -84,6 +87,9 @@ Johnny Cash - American IV: The Man Comes Around (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
+Sufjan Stevens - Michigan (2003-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 José González - Veneer (2003-10)
 </li>
@@ -104,6 +110,9 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
+Matt Costa - Songs We Sing (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
 Iron & Wine - Woman King (2005-02-22)
@@ -171,9 +180,6 @@ Bon Iver - For Emma, Forever Ago (2007-07-08)
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
 </li>
@@ -237,12 +243,6 @@ Devendra Banhart - What Will We Be (2009-10-26)
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/f363e134-e1cb-4457-8a57-15fe26bd6a6a/4388302479-500.jpg" data-tags="folk" role="button">
-James Vincent McMorrow - Early in the Morning (2010-02-26)
-</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
-</li>
 <li data-cover="https://img.discogs.com/AuQbDbqh0wsAU44L70pOYbHgbh4=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7866744-1450529565-9975.jpeg.jpg" data-tags="folk" role="button">
 Laura Marling - I Speak Because I Can (2010-03-19)
 </li>
@@ -255,8 +255,11 @@ Bombay Bicycle Club - Flaws (2010-07-12)
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
-<li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
-The Civil Wars - Barton Hollow (2011-01-10)
+<li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
+Iron & Wine - Kiss Each Other Clean (2011-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
+City and Colour - Little Hell (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">
 Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
@@ -266,9 +269,6 @@ Beirut - The Rip Tide (2011-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
-</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)

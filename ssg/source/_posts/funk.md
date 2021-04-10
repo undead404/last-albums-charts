@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:28:01.427Z
+date: 2021-04-10T19:22:01.463Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -65,6 +65,9 @@ Shuggie Otis - INSPIRATION INFORMATION (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-500.jpg" data-tags="jazz funk, instrumental, funk, jazz fusion" role="button">
 Herbie Hancock - Thrust (1974)
+</li>
+<li data-cover="http://coverartarchive.org/release/63e9dae2-7f43-400d-b1a9-96639392475f/6305179369-500.jpg" data-tags="funk" role="button">
+Funkadelic - Standing on the Verge of Getting It On (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f8468cf-f8a4-4c2b-bded-a66c5a83041c/22712479663-500.jpg" data-tags="funk" role="button">
 Parliament - Mothership Connection (1975)
@@ -269,9 +272,6 @@ Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
 Wir sind Helden - Bring mich nach Hause (2010-08-27)
-</li>
-<li data-cover="https://img.discogs.com/QPBKF9KfoAp57G5s8VskAz9eFT8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475210-1286108215.jpeg.jpg" data-tags="electronic, funk" role="button">
-Chromeo - Business Casual (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e84467e8-1f3e-4c58-91d1-9b37c1500b7e/13670345162-500.jpg" data-tags="funk, neo-soul, contemporary r&b, pop soul, i own and love these" role="button">
 CeeLo Green - The Lady Killer (2010-11-05)

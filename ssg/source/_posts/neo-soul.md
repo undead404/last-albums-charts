@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:18:01.566Z
+date: 2021-04-10T19:09:01.510Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -44,6 +44,9 @@ Maxwell - Embrya (1998-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/9df9cdf9-1e7e-4249-8d65-a5276366bff9/15914528738-500.jpg" data-tags="pop, r&b, 90s rnb" role="button">
+Deborah Cox - One Wish (1998-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
@@ -146,9 +149,6 @@ Kindred The Family Soul - In This Life Together (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, love songs, soul, neo-soul" role="button">
-Vivian Green - Vivian (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bf2d61f-9ad6-4e0b-9644-616029bcdf8d/19917843965-500.jpg" data-tags="neo-soul" role="button">
 Floetry - Flo'Ology (2005-11-08)

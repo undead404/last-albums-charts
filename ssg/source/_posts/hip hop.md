@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:21:01.419Z
+date: 2021-04-10T19:38:01.527Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
-Beastie Boys - Licensed to Ill (1986-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
@@ -56,6 +53,9 @@ Skee-Lo - I Wish (1995)
 </li>
 <li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
+</li>
+<li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
+GZA/Genius - Liquid Swords (1995-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
@@ -120,14 +120,14 @@ Gorillaz - Gorillaz (2001-03-24)
 <li data-cover="http://coverartarchive.org/release/904e0d41-d49c-429e-8568-235bedbec612/1585589963-500.jpg" data-tags="hip-hop, hip hop, jay-z" role="button">
 Jay-Z - UnPlugged (2001-12-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
+50 Cent - The New Breed (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
 Akon - Trouble (2003)

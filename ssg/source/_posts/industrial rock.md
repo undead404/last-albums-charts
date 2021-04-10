@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:45:01.643Z
+date: 2021-04-10T19:37:01.500Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -60,6 +60,9 @@ Nine Inch Nails - March of the Pigs (1994-02-25)
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b31c1b1f-f5f6-4667-83c2-5b9b8c3b830b/6183316500-500.jpg" data-tags="industrial, industrial metal" role="button">
+Killing Joke - Pandemonium (1994-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f4e2d84-d4af-3930-adb8-ea906db4e0e0/10149859243-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Closer to God (1994-05-14)
 </li>
@@ -96,6 +99,9 @@ KMFDM - Xtort (1996-06-25)
 <li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal" role="button">
 Marilyn Manson - Antichrist Superstar (1996-10-08)
 </li>
+<li data-cover="https://img.discogs.com/tut10eiUcU_etcgQbO5G5AULgwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102221-1175890818.jpeg.jpg" data-tags="industrial rock" role="button">
+Chemlab - East Side Militia (1996-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Pitchshifter - www.pitchshifter.com (1998-03-09)
 </li>
@@ -104,9 +110,6 @@ God Lives Underwater - Life In The So-Called Space Age (1998-03-24)
 </li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
-Orgy - Candyass (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd7a8945-f7d9-40c3-91a3-35e68f82af13/11162402002-500.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Adios (1999-04-20)
@@ -125,9 +128,6 @@ Marilyn Manson - The Last Tour On Earth (1999-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/af482700-2875-4f53-a093-6b0d6e2fd81a/11998407874-500.jpg" data-tags="industrial, industrial rock" role="button">
 Zeromancer - Clone Your Lover (2000-03-13)
-</li>
-<li data-cover="https://img.discogs.com/DFXZwcfJraF7v-cwcBZU2TqHsIY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240284-1430129633-8202.jpeg.jpg" data-tags="industrial metal, industrial" role="button">
-Theatre of Tragedy - Musique (2000-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/96ad74f5-8a85-4566-9cac-99493d438176/2285895546-500.jpg" data-tags="industrial metal" role="button">
 Marilyn Manson - Holy Wood (In The Shadow Of The Valley Of Death) (2000-11-11)
@@ -219,6 +219,9 @@ KMFDM - Hau Ruck (2005-09-13)
 <li data-cover="http://coverartarchive.org/release/9140307c-3fd4-4aef-9cc4-1a70608ab086/2547081348-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9294662-5a24-37ab-9fd7-e04a2480ab52/1068174325-500.jpg" data-tags="metal, industrial metal" role="button">
+Rob Zombie - Educated Horses (2006-03-27)
+</li>
 <li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
@@ -299,9 +302,6 @@ Killing Joke - MMXII (2012-01-01)
 </li>
 <li data-cover="https://img.discogs.com/ZIr-HPpfwmrAuKzHKqbiIt_EY6A=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3682585-1340200709-3247.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Born Villain (2012-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b23fdaf-d3b6-4550-b9e9-a615d0a96698/5769746782-500.jpg" data-tags="synth-rock" role="button">
 The Birthday Massacre - Hide and Seek (2012-10-09)

@@ -1,11 +1,10 @@
 ---
-date: 2021-04-10T06:49:06.971Z
+date: 2021-04-10T19:03:01.679Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">Misfits - Walk Among Us (1982-03)</li>
-<li data-cover="http://coverartarchive.org/release/c695f2c3-b1e8-4096-95df-791ba53b7995/5504413515-500.jpg" data-tags="horror punk" role="button">Misfits - Legacy of Brutality (1985-09)</li>
 <li data-cover="http://coverartarchive.org/release/d54781c9-bb1b-4413-99c4-9891147bbfcb/21131442401-500.jpg" data-tags="horror punk, punk rock" role="button">Misfits - American Psycho (1997-05-13)</li>
 <li data-cover="https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg" data-tags="punk, horror punk" role="button">Misfits - Static Age (1997-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/f3c674fe-fdda-4f81-819a-1bf136eb5a9c/7047351704-500.jpg" data-tags="horror punk" role="button">Король и Шут - Как в старой сказке (2001)</li>
@@ -13,6 +12,7 @@ title: "horror punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)</li>
 <li data-cover="https://img.discogs.com/ACDOvN4An4nOhtThe6dpg9ALWr4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372413-1268622380.jpeg.jpg" data-tags="horror punk" role="button">Murderdolls - Beyond the Valley of the Murderdolls (2002-08-17)</li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">Misfits - Project 1950 (2003-07-29)</li>
+<li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">Aiden - Nightmare Anatomy (2005-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">The Horrors - Strange House (2007-03-05)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,8 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7cd918b1-9cb1-4d36-9093-3b4bbe82f80e/6643531477-500.jpg" data-tags="punk" role="button">
+Misfits - Bullet (1978-06)
+</li>
+<li data-cover="https://img.discogs.com/CuSR7EHSKtoZlc9yM_0TACvgkOE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2126364-1265469184.jpeg.jpg" data-tags="horror punk" role="button">
+Misfits - Night Of The Living Dead (1979-10-31)
+</li>
 <li data-cover="https://img.discogs.com/-i-oQXO0wffhZMOda1_K-Naqcw8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-516396-1349396002-2440.jpeg.jpg" data-tags="punk, punk rock, horror punk, garage rock, deathrock, punk blues, psychic album covers, check it out later, voodoo punk, hoodoobilly" role="button">
 The Flesh Eaters - A Minute To Pray, A Second To Die (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/a224652b-e04e-4f83-96a7-8e7573e35698/865355093-500.jpg" data-tags="horror punk" role="button">
+Misfits - Halloween (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7931956-18f4-4374-8213-e6486a203c5c/9861705156-500.jpg" data-tags="horror punk" role="button">
 Misfits - 3 Hits From Hell (1981-04)
@@ -60,20 +69,14 @@ Misfits - Die, Die My Darling (1984-05)
 <li data-cover="http://coverartarchive.org/release/5d39fe33-996d-41c7-ba8b-8ec3c305f31d/6476986079-500.jpg" data-tags="horror punk" role="button">
 Samhain - Initium (1984-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c695f2c3-b1e8-4096-95df-791ba53b7995/5504413515-500.jpg" data-tags="horror punk" role="button">
-Misfits - Legacy of Brutality (1985-09)
-</li>
 <li data-cover="https://img.discogs.com/zkbrzBpyTW1KWKNk0bMjpAAE3xU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2113768-1322328683.jpeg.jpg" data-tags="alternative, alternative rock, horror punk, hardcore punk, misfits, danzig, mi likes, angels punk zone, my favorite misfits" role="button">
 Misfits - Collection I (1986-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ec10bc5-39ea-388d-a408-57fce4979658/16968191506-500.jpg" data-tags="horror punk, punk rock" role="button">
-Misfits - Misfits (1986-07-01)
 </li>
 <li data-cover="https://img.discogs.com/xhr3wWgukfucKmeFrin2y73fbLA=/fit-in/565x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4647128-1370974253-7701.jpeg.jpg" data-tags="80s, punk, punk rock, horror punk, uk punk, british punk, classic punk, 77 punk, damn it is the damned, the damned, this album is exceptionally important" role="button">
 The Damned - The Light At The End Of The Tunnel (1987-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0fc5d5f-9bc5-4b18-ab73-015c34f7030e/24986744735-500.jpg" data-tags="psychobilly" role="button">
-Nekromantix - Curse of the coffin (1991)
+<li data-cover="http://coverartarchive.org/release/c3cf5b68-e287-4cc7-8009-65178c1dc04b/2260965247-500.jpg" data-tags="horror punk" role="button">
+Misfits - Horror Business (1991)
 </li>
 <li data-cover="https://img.discogs.com/oqWUmjONBXxaQ3svGNMZvs1O7DU=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2398153-1590835499-1751.jpeg.jpg" data-tags="horror punk" role="button">
 The Templars - Clockwork Orange Horror Show (1995)
@@ -105,9 +108,6 @@ AFI - Black Sails in the Sunset (1999-05-18)
 <li data-cover="http://coverartarchive.org/release/78bd4301-133a-47a2-bc0e-3671bdf2c5c5/22018047490-500.jpg" data-tags="punk" role="button">
 AFI - All Hallows EP (1999-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ff9f4d0-3c8a-43df-90f8-3f7d3fc18e43/27790615291-500.jpg" data-tags="alt-country, gothabilly" role="button">
-Ghoultown - Tales From the Dead West (2000)
-</li>
 <li data-cover="https://img.discogs.com/DSBaShXQrPVATQ8GunjxkcETkCs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1638792-1233841760.jpeg.jpg" data-tags="punk rock" role="button">
 Король и Шут - Герои и Злодеи (2000)
 </li>
@@ -125,6 +125,9 @@ Misfits - 12 Hits From Hell (2001)
 </li>
 <li data-cover="https://img.discogs.com/SwrGtc4KGouOzY4kooyubvwBRCo=/fit-in/447x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4463078-1462198344-7441.jpeg.jpg" data-tags="punk n roll" role="button">
 T.S.O.L. - Disappear (2001)
+</li>
+<li data-cover="https://img.discogs.com/aqBRx1nbE0cYa9mXNVjU2dTKJ-Q=/fit-in/493x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1631600-1291487409.jpeg.jpg" data-tags="horror punk, death rock, to buy" role="button">
+Penis Flytrap - Dismemberment (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3c674fe-fdda-4f81-819a-1bf136eb5a9c/7047351704-500.jpg" data-tags="horror punk" role="button">
 Король и Шут - Как в старой сказке (2001)
@@ -150,8 +153,8 @@ The Spook - Some Like It Dead (2002)
 <li data-cover="https://img.discogs.com/sTs8SpeMamPZMUC1h1F4-Lffp8I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1428421-1218916574.jpeg.jpg" data-tags="horror punk, horror" role="button">
 Король и Шут - Жаль, нет ружья (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/c879566a-a488-342e-8e5d-7877681eadf6/4801628790-500.jpg" data-tags="psychobilly" role="button">
-Nekromantix - Return of the Loving Dead (2002-02-12)
+<li data-cover="http://coverartarchive.org/release/282adf03-3a55-435f-a6a1-c7b6592f5154/25043538923-500.jpg" data-tags="horror punk" role="button">
+Zumbis do Espaço - Aberrações que somos (2002-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
@@ -195,17 +198,14 @@ The Banner - Each Breath Haunted (2005)
 <li data-cover="https://img.discogs.com/oMvfuOnWB-cZpTunoiBBc-Va1Oo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1639120-1382290195-7773.jpeg.jpg" data-tags="horror punk" role="button">
 NIM VIND - Fashion Of Fear (2005)
 </li>
-<li data-cover="https://img.discogs.com/2nBj9KfXINs2QAVfaeM8tE8lwR4=/fit-in/351x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2378911-1280576197.jpeg.jpg" data-tags="horror punk" role="button">
-Zombie Ghost Train - Glad Rags & Body Bags (2005)
-</li>
-<li data-cover="https://img.discogs.com/_zNPr0Wv-i-C-1aSDAfiVz3dALg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-647649-1143013464.jpeg.jpg" data-tags="horror punk" role="button">
-Shadow Reichenstein - Werewolf Order (2005)
-</li>
 <li data-cover="https://img.discogs.com/6KhbBv5rhqRhSSzBfnKLIW_ucwY=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1244237-1269006506.jpeg.jpg" data-tags="horror punk, metal, punk rock" role="button">
 Wednesday 13 - Transylvania 90210: Songs of Death, Dying and the Dead (2005-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfe69cdb-8a0c-4c8f-a8bd-fdd74cdee4ec/27962955355-500.jpg" data-tags="horror punk" role="button">
 Calabrese - 13 Halloweens (2005-04-19)
+</li>
+<li data-cover="https://img.discogs.com/CNiaYaRZJdGA0l_WX4RMuVW00bc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3604235-1432759743-4786.jpeg.jpg" data-tags="pop" role="button">
+Bratz - Rock Angelz (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
 Alkaline Trio - Crimson (2005-05-23)
@@ -216,23 +216,11 @@ Michale Graves - Punk Rock Is Dead (2005-06-21)
 <li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">
 Aiden - Nightmare Anatomy (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychobilly" role="button">
-Demented Are Go! - Hellbilly Storm (2005-12-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/625a10ca-b821-46e8-8a47-91970e4000a1/11423137807-500.jpg" data-tags="psychobilly" role="button">
-Ghoultown - Bury Them Deep (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb813f84-639f-46c2-a9f2-6f6d494ab648/3377072804-500.jpg" data-tags="horror punk, female vocalist, horrorpops, the creepshow" role="button">
-Mad Marge and the Stonecutters - Mad Marge And The Stonecutters (2006-02-14)
-</li>
 <li data-cover="https://img.discogs.com/aG0Uf_cqdV2yZpYA1P74ltqnoWs=/fit-in/343x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2532973-1290009326.jpeg.jpg" data-tags="horror punk" role="button">
 The Other - We Are Who We Eat (2006-04-14)
 </li>
 <li data-cover="https://img.discogs.com/b-7yEt76mAaelQ0rGBgTN4qgufo=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2569270-1427395217-6178.jpeg.jpg" data-tags="horror punk" role="button">
 Blitzkid - Let Flowers Die (2006-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/9411889e-3621-439e-875b-f8fcab9ad637/20242739074-500.jpg" data-tags="psychobilly" role="button">
-The Creepshow - Sell Your Soul (2006-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ce3983b-ad4f-4256-81d6-b0eb4a722a60/27717402848-500.jpg" data-tags="horror punk" role="button">
 Blitzkid - Five Cellars Below (2006-08-25)
@@ -246,6 +234,9 @@ Aiden - Rain In Hell (2006-10-31)
 <li data-cover="http://coverartarchive.org/release/e0f5bf16-c349-4c6a-9e50-b2f365dfa689/11936360458-500.jpg" data-tags="horror punk" role="button">
 Michale Graves - Return To Earth (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/e67eae37-c3ca-423e-8684-27ced9141d5a/5844658791-500.jpg" data-tags="horror punk" role="button">
+Murderland - Lights Out (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">
 Calabrese - The Traveling Vampire Show (2007-01)
 </li>
@@ -258,8 +249,11 @@ Creature Feature - The Greatest Show Unearthed (2007-02)
 <li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
 The Horrors - Strange House (2007-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/bbe77195-b764-4fc2-8c2e-0f814e3df793/3370160383-500.jpg" data-tags="psychobilly" role="button">
-Tiger Army - Music From Regions Beyond (2007-06-05)
+<li data-cover="http://coverartarchive.org/release/44821269-04f5-4a0b-a07a-56a11e85875f/5929535139-500.jpg" data-tags="punk, stoner rock, punk rock, horror punk, nerd rock, geek rock, nerd, nerd punk, cthulhu, sci-fi rock, geek punk, nerd punk rock, cthulhu rock" role="button">
+The Darkest of The Hillside Thickets - The Shadow Out Of Tim (2007-06-14)
+</li>
+<li data-cover="https://img.discogs.com/75RMLPcNRiO2cR3di_fnGZKZMas=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275551-1323513973.jpeg.jpg" data-tags="punk rock, horror punk, sludgepunk" role="button">
+Cancerslug - Unnameable (2007-08-08)
 </li>
 <li data-cover="https://img.discogs.com/6JBVxfwHs-mlcD5h4s0kfBShi1w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1265466-1526568387-6994.jpeg.jpg" data-tags="horror punk" role="button">
 Gorgeous Frankenstein - Gorgeous Frankenstein (2007-10-02)
@@ -267,14 +261,17 @@ Gorgeous Frankenstein - Gorgeous Frankenstein (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/e20a23f6-de78-4da7-a6de-ad5536546dee/11423115528-500.jpg" data-tags="gothabilly" role="button">
 Ghoultown - Life After Sundown (2008)
 </li>
+<li data-cover="https://img.discogs.com/974cuX2UcBuzQRW26-6Vj5vMa3M=/fit-in/400x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2762327-1299894886.jpeg.jpg" data-tags="punk, horror punk" role="button">
+The Crimson Ghosts - Dead Eyes Can See (2008-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a8a84aa-412e-4b3a-8be0-674b56be7fc3/26894302364-500.jpg" data-tags="horror punk, horror metal" role="button">
 Wednesday 13 - Skeletons (2008-04-29)
 </li>
-<li data-cover="https://img.discogs.com/kbWxU9YVw08auSGdDHOgf9773So=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2249862-1272305914.jpeg.jpg" data-tags="horrorpops, psychobilly" role="button">
-The Creepshow - Run for Your Life (2008-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/8706ca06-4922-4912-b50a-f02b29bf0e90/6367432136-500.jpg" data-tags="female vocalists, horror punk" role="button">
 Zombina and the Skeletones - Out Of The Crypt And Into Your Heart (2008-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e71f0ad-74d1-456e-b24a-91c7a3aed556/12671630639-500.jpg" data-tags="punk, horror punk" role="button">
+Voodoo Zombie - Voodoo Zombie (2008-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/343823d0-567b-49ca-874d-421afcc9c07c/10095635558-500.jpg" data-tags="punk rock" role="button">
 Король и Шут - Тень клоуна (2008-11-24)
@@ -287,9 +284,6 @@ Aiden - Knives (2009-05-12)
 </li>
 <li data-cover="https://img.discogs.com/PeGyH-NmeEWefNqkUPXuB4xdGUM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006166-1258112692.jpeg.jpg" data-tags="horror punk" role="button">
 NIM VIND - The Stillness Illness (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a79ed49-3b15-415b-b56a-4633ec21a184/3366753387-500.jpg" data-tags="psychobilly, horror punk, stomp records" role="button">
-Koffin Kats - Forever For Hire (2009-10-27)
 </li>
 <li data-cover="https://img.discogs.com/1UblDvy7P_2ODkJOjiMJtEEPAhE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423401-1494953862-1512.jpeg.jpg" data-tags="horror punk" role="button">
 Murderdolls - Women and Children Last (2010-08-31)
@@ -320,5 +314,11 @@ Wednesday 13 - The Dixie Dead (2013-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d537a62-2db6-4195-ae42-19d3b9c43aa2/3921116984-500.jpg" data-tags="punk, punk rock, horror punk, epitaph, soundtrack of my life, less than 40 minutes" role="button">
 Alkaline Trio - My Shame Is True (2013-04-02)
+</li>
+<li data-cover="https://img.discogs.com/NeeXx_RnWpY0tmQm1-DfFUp-5JI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4572616-1388455398-7363.jpeg.jpg" data-tags="metal" role="button">
+Doyle - Abominator (2013-04-17)
+</li>
+<li data-cover="https://img.discogs.com/i6xvDlYlZf8lHI5hWKu7IvYGXOg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4686086-1372219718-5606.jpeg.jpg" data-tags="horror punk" role="button">
+Michale Graves - Lost Skeleton Returns (2013-06-25)
 </li>
 </ol>

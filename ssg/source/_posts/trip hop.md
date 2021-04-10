@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:53:01.410Z
+date: 2021-04-10T18:57:01.729Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -122,6 +122,9 @@ Lamb - What Sound (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0cf04a8-a48d-3e83-aa59-5981b5edbdd6/4512613383-500.jpg" data-tags="electronic" role="button">
 Everything But the Girl - Like the Deserts Miss the Rain (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/680f53cf-e410-49a3-b1d0-a87c4c652b4c/974840185-500.jpg" data-tags="downtempo" role="button">
+Bonobo - Sweetness (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
@@ -251,9 +254,6 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">
-Awolnation - Megalithic Symphony (2011-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d91ca7da-bc7f-485c-9223-e794f0dd460a/2911250736-500.jpg" data-tags="hip-hop, electro swing" role="button">
 Chinese Man - Racing With the Sun (2011-04-11)

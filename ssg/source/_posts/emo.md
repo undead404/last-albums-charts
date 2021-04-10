@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:52:01.413Z
+date: 2021-04-10T19:29:01.435Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -231,11 +231,11 @@ Dashboard Confessional - Dusk And Summer (2006-06-26)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/d75d73f2-b776-40a0-8379-8d5d2ac84920/10226803952-500.jpg" data-tags="pop punk" role="button">
+All Time Low - Put Up or Shut Up (2006-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">
 Boys Like Girls - Boys Like Girls (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
-Plain White T's - Every Second Counts (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)

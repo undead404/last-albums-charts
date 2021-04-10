@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:21:01.482Z
+date: 2021-04-10T19:06:01.502Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -68,6 +68,9 @@ Smoke City - Flying Away (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/6173c409-e099-46e8-b823-677bb08b255a/14928692380-500.jpg" data-tags="instrumental, ambient, guitar virtuoso" role="button">
+Buckethead - Colma (1998-03-24)
 </li>
 <li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
@@ -278,9 +281,6 @@ Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
 </li>
 <li data-cover="https://img.discogs.com/bmbZJ8aWExCVwnl0YhjisV14knI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705982-1297366221.jpeg.jpg" data-tags="ambient, drone" role="button">
 Tim Hecker - Ravedeath, 1972 (2011-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:51:01.402Z
+date: 2021-04-10T18:48:01.574Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Natasha Bedingfield - Strip Me (2010-12-07)](https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg "Natasha Bedingfield - Strip Me (2010-12-07)")
@@ -10,7 +10,7 @@ title: "female voices: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">Hilary Duff - Metamorphosis (2003-06-20)</li>
 <li data-cover="http://coverartarchive.org/release/5cfb1f76-e542-4acf-875c-91d4af82d09e/4729456852-500.jpg" data-tags="world music, ethnic, world" role="button">Azam Ali - Elysium For The Brave (2006-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">Sugababes - Change (2007-10-08)</li>
-<li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">Ingrid Michaelson - Be OK (2008-10-14)</li>
+<li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">Jazmine Sullivan - Fearless (2008-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">Brandy - Human (2008-12-05)</li>
 <li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">Ciara - Fantasy Ride (2009-05-04)</li>
 <li data-cover="https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg" data-tags="pop, female vocalists" role="button">Natasha Bedingfield - Strip Me (2010-12-07)</li>
@@ -24,11 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/5856913b-e099-46a0-9631-8bb521eeb0ac/4600120465-500.jpg" data-tags="jazz vocal, jazz female vocalists" role="button">
 Blossom Dearie - May I Come In? (1964)
 </li>
+<li data-cover="https://img.discogs.com/OsFVvRvS0zyKMlByiUg1m5pdivU=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818844-1318172525.jpeg.jpg" data-tags="soul" role="button">
+Aretha Franklin - Aretha Arrives (1967-08-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/88004f16-f3dc-4b1c-8743-f3e333dfa64e/4398575297-500.jpg" data-tags="country" role="button">
 Emmylou Harris - Roses in the Snow (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f62ef16-8e71-4933-9814-3c228e17fbf5/13565609536-500.jpg" data-tags="disco, pop, rock, soul, female vocalists, pop rock, new wave, dance-pop, summer, california, female voices, aleister crowley, moroder, christopher lee, donna summer, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, thebestofaleystercrowley, banda metamorphosis, california rock clube" role="button">
-Donna Summer - The Wanderer (1980-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7abbca6d-7817-484d-b332-a604961982da/7369829701-500.jpg" data-tags="folk" role="button">
 Joan Baez - Greatest Hits (1983)
@@ -65,9 +65,6 @@ Diana Krall - Only Trust Your Heart (1995-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa138869-bab2-4370-adff-225e36877fb0/1014799472-500.jpg" data-tags="jazz, blues" role="button">
 Billie Holiday - Feel the Blues (1995-09-01)
-</li>
-<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
-The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5aa60649-aa8a-4246-8952-b20fec5b64e2/4640182783-500.jpg" data-tags="jazz" role="button">
 Diana Krall - Love Scenes (1997-08-18)
@@ -186,11 +183,17 @@ Geri Halliwell - Passion (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/ce263e4d-36f8-4fe8-862a-30019fb573fd/13666614064-500.jpg" data-tags="rnb" role="button">
 Syleena Johnson - Chapter 3: The Flesh (2005-09-13)
 </li>
+<li data-cover="https://img.discogs.com/Yg1fAgvT0Eplet5ZxocxyO2rDYc=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504820-1190556169.jpeg.jpg" data-tags="electro" role="button">
+Princess Superstar - My Machine (2005-10)
+</li>
 <li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
 Android Lust - Devour, Rise, and Take Flight (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e4299ab-59b0-4eba-b110-56138bada793/7340888848-500.jpg" data-tags="jazz vocal, jazz, soul, female vocalists" role="button">
 Cassandra Wilson - thunderbird (2006-04-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grace jones" role="button">
+Grace Jones - The Grace Jones Story (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/552aedd6-05e7-46a4-bdac-ebf06be94d06/2698016881-500.jpg" data-tags="chillout, downtempo, ambient, psychill" role="button">
 Kuba - Inside Out (2006-06-24)
@@ -222,6 +225,9 @@ Aesma Daeva - Dawn of the New Athens (2007-03)
 <li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronica, chill, ambient, idm, psychill, female vocals, drum'n'bass, spacy, female voices, chillin, bassline, new world, free albums, new electronica, easy living, electro datapunk, magix44studio, chaotisch holistisch, ai-music, sphaerische sounds" role="button">
+abyssal plains - Hemispherical Sky (2007-04-03)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="selection rock" role="button">
 Ladytron - Soft Power (2007-06-13)
 </li>
@@ -251,9 +257,6 @@ Annie - Don't Stop (2008-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">
-Ingrid Michaelson - Be OK (2008-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b8c26f4-0711-4f82-b2be-ba48ad11dc2a/17295951421-500.jpg" data-tags="electronic, pop, female voices, kot" role="button">
 The Pussycat Dolls - I Hate This Part (2008-10-14)
@@ -293,9 +296,6 @@ Angie Stone - Unexpected (2009-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9e3ef41-2a05-42a1-8ffa-3c136265e33d/6139159491-500.jpg" data-tags="country" role="button">
 Gretchen Wilson - I Got Your Country Right Here (2010)
-</li>
-<li data-cover="https://img.discogs.com/WlBphb3843a4RL0jKHoDjrNxAQo=/fit-in/440x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272432-1286623962.jpeg.jpg" data-tags="electronica, electronic, female vocalists" role="button">
-Goldfrapp - Rocket (2010-01-02)
 </li>
 <li data-cover="https://img.discogs.com/0uXhqGS4MonUKb0f5NF6MNQnBX8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-863802-1166742243.jpeg.jpg" data-tags="electronic, pop" role="button">
 Cascada - Pyromania (2010-03-19)

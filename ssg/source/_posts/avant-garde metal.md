@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:55:07.042Z
+date: 2021-04-10T19:31:06.870Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -57,7 +57,7 @@ Arcturus - La Masquerade Infernale (1997-10-27)
 <li data-cover="http://coverartarchive.org/release/50b9a8dc-fb9b-4872-839d-44ce9ec5a978/25640443565-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
 Sigh - Hail Horror Hail (1997-12)
 </li>
-<li data-cover="https://img.discogs.com/1dLwgWdsGCizmX_h-ORJEJZLDJU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4622724-1370221867-8825.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/LjUpIiBmj8BKLqkVG0d8aTgslyM=/fit-in/307x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533596-1334196145.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b33c05d-62f7-4a42-9e1e-155499ba9534/14113644758-500.jpg" data-tags="black metal, melodic black metal" role="button">
@@ -72,7 +72,7 @@ In The Woods... - Strange in Stereo (1999-04-20)
 <li data-cover="http://coverartarchive.org/release/ac262c95-f38b-43a7-afc1-16161ca9692d/11228519805-500.jpg" data-tags="death metal, avant-garde metal, black metal, metal, progressive metal" role="button">
 Unexpect - Utopia (1999-07-01)
 </li>
-<li data-cover="https://img.discogs.com/uHJHUN9TOlxPQTZ6LVBCkeBS1zw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2728844-1299949695.jpeg.jpg" data-tags="avant-garde metal" role="button">
+<li data-cover="https://img.discogs.com/wRwiULChg_1QL-fTJCE_vrqYHDo=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-446420-1232424855.jpeg.jpg" data-tags="avant-garde metal" role="button">
 Solefald - Neonism (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff0ff83-0b85-4f18-9de0-9daac8cc0711/4861600829-500.jpg" data-tags="avant-garde metal, symphonic black metal, black metal" role="button">
@@ -105,14 +105,14 @@ Pinkly Smooth - Unfortunate Snort (2002)
 <li data-cover="https://img.discogs.com/GYhZ7K6fOzCcdRdNDHBJZJ74sHU=/fit-in/280x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2349420-1278742285.jpeg.jpg" data-tags="avant-garde metal, progressive metal" role="button">
 Arcturus - The Sham Mirrors (2002-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/fb617532-242d-4fb3-8c2f-99182c81c853/13549940233-500.jpg" data-tags="black metal, melodic black metal" role="button">
+Dornenreich - Her von welken Nächten (2002-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/020eafbd-3bc3-4497-891b-62445c51e22d/11228560145-500.jpg" data-tags="avant-garde metal, transym, take that demon burger" role="button">
 Unexpect - WE, Invaders (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2b5c4d2-315c-4f50-89f1-e9fd832210a0/14994002111-500.jpg" data-tags="black metal" role="button">
 Solefald - In Harmonia Universali (2003-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/c23c3b68-7823-4a54-9d32-013d276eab17/15574090319-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
-Manes - Vilosophe (2003-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba3ed281-8711-420d-82e7-0efd961ca1f8/21285246849-500.jpg" data-tags="mike patton, alternative metal" role="button">
 Tomahawk - Mit Gas (2003-05-06)
@@ -147,8 +147,8 @@ Sleepytime Gorilla Museum - Of Natural History (2004-11-02)
 <li data-cover="https://img.discogs.com/qmCEsimWuh64NR3AZekdg_NUR2I=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432947-1605958383-6757.jpeg.jpg" data-tags="experimental" role="button">
 Fantômas - Suspended Animation (2005-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a3719d9-20a9-3119-a036-5595202976b0/4952344545-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - Catch ThirtyThree (2005-04-21)
+<li data-cover="https://img.discogs.com/7IZTE7qxONX01M2Bf-Dkcd0aJG8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1109128-1594336962-6421.jpeg.jpg" data-tags="progressive metal, avant-garde metal, progressive black metal" role="button">
+Ram-Zet - Intra (2005-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1827a150-50d3-322f-88e8-23855fd9cd3b/21285140194-500.jpg" data-tags="experimental, electronic, avant-garde" role="button">
 Ulver - Blood Inside (2005-06-06)
@@ -183,7 +183,7 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
@@ -206,9 +206,6 @@ Mirrorthrone - Gangrene (2008-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/14a1847e-271c-43da-80a6-582e34f44f0a/15238083863-500.jpg" data-tags="experimental" role="button">
-Zu - Carboniferous (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f51ee89-3604-4e7a-84bd-4c14ff5f9e32/24380429134-500.jpg" data-tags="progressive metal" role="button">
 Leprous - Tall Poppy Syndrome (2009-05-05)
@@ -234,6 +231,9 @@ Ihsahn - After (2010-01-25)
 <li data-cover="http://coverartarchive.org/release/43b106f7-7f75-475a-aff9-577903ba0005/21818394273-500.jpg" data-tags="doom metal" role="button">
 Triptykon - Eparistera Daimones (2010-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/b9e24663-b02d-40c7-9dae-67cb8389e0a5/5930637306-500.jpg" data-tags="progressive metal" role="button">
+The Ocean - Heliocentric (2010-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/e30c7618-5569-46ea-8eb4-b2128a6ec1ab/7712117702-500.jpg" data-tags="chamber music, gothic, gothic rock, animals, avant-garde metal, avant-prog, goth fusion" role="button">
 Kayo Dot - Coyote (2010-04-20)
 </li>
@@ -242,9 +242,6 @@ Dimmu Borgir - Gateways (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc4f9e4-b0dd-4cfc-afd7-22688fc6050e/14994112802-500.jpg" data-tags="black metal, progressive metal, avant-garde metal, post-black metal" role="button">
 Solefald - Norrøn Livskunst (2010-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a8e9053-a923-4adf-8866-576270a6ccb7/1223508809-500.jpg" data-tags="black metal, avant-garde black metal, post-black metal, experimental" role="button">
-Peste Noire - L'Ordure à l'état Pur (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a06684e3-f175-42cf-a4cf-44c77530b18d/4803942518-500.jpg" data-tags="avant-garde metal" role="button">
 Unexpect - Fables of the Sleepless Empire (2011-05-31)
@@ -279,9 +276,6 @@ Avatar - Black Waltz (2012-01-23)
 <li data-cover="http://coverartarchive.org/release/0a4f291c-49a1-4fae-be85-1358b76af9ce/6766463757-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
 Sigh - In Somniphobia (2012-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b46b9b39-7d56-4e00-ba33-d8bf8fc59889/3235678346-500.jpg" data-tags="progressive metal" role="button">
-Meshuggah - Koloss (2012-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bffe6c4-5f7f-42f6-b0af-4014cee6fa18/7957344650-500.jpg" data-tags="avant-garde metal, progressive metal" role="button">
 Diablo Swing Orchestra - Pandora's Piñata (2012-05-22)
 </li>
@@ -291,6 +285,9 @@ Exotic Animal Petting Zoo - Tree of Tongues (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg" data-tags="atmospheric black metal, post-black metal" role="button">
 Blut aus Nord - 777 - Cosmosophy (2012-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b96edc0-d089-4fc4-96bf-fcfdbc732d60/17554634869-500.jpg" data-tags="metal, progressive metal, avant garde, avant-garde metal, avant garde metal, circus metal, aprili 2013, no comment records" role="button">
+Stolen Babies - Naught (2012-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d896c48-f27b-4e73-8ecb-c17bbbe30638/4877036248-500.jpg" data-tags="black metal, avant-garde metal" role="button">
 Terra Tenebrosa - The Purging (2013-02)
 </li>
@@ -299,6 +296,9 @@ Shining - One One One (2013-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b48514ca-9ad8-48d7-a536-635d497acfae/4174329295-500.jpg" data-tags="progressive metal" role="button">
 Leprous - Coal (2013-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/566c76ac-6055-4f43-a1c6-71653f499b82/4802576226-500.jpg" data-tags="post-rock, post-metal" role="button">
+Palms - Palms (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fbd6978-4ba0-4f1f-b1fb-1ef7fb9eefd5/10787189786-500.jpg" data-tags="death metal, technical death metal, avant-garde death metal, progressive death metal" role="button">
 Gorguts - Colored Sands (2013-08-30)

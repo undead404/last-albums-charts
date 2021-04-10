@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:45:01.592Z
+date: 2021-04-10T18:51:01.768Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -74,6 +74,9 @@ Windir - 1184 (2001-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd653da3-a459-4859-bcbe-5d2f77890590/2630907884-500.jpg" data-tags="viking metal, folk metal, pagan metal" role="button">
 Moonsorrow - Voimasta ja Kunniasta (2001-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd9acad7-5f84-481e-9ffb-e6037d290855/7843646894-500.jpg" data-tags="power metal" role="button">
+Falconer - Chapters From a Vale Forlorn (2002-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ac99528-77a9-3624-84b7-3400f6f56e47/22056699402-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - The Mantle (2002-08-13)
@@ -185,9 +188,6 @@ Die Apokalyptischen Reiter - Riders On The Storm (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/be330949-0a9d-481e-88a1-a5dc9e882589/21777987081-500.jpg" data-tags="folk metal" role="button">
-Moonsorrow - V: Hävitetty (2007-01-10)
 </li>
 <li data-cover="https://img.discogs.com/y7-txuGMmKU_rrCc8srybWylrxI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6938050-1429953673-4838.jpeg.jpg" data-tags="folk metal" role="button">
 Battlelore - Evernight (2007-02-14)

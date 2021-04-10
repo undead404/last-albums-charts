@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:04:01.420Z
+date: 2021-04-10T19:10:01.721Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -32,9 +32,6 @@ The Rolling Stones - Let It Bleed (1969-11-29)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
-</li>
-<li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
-The Smiths - The Queen Is Dead (1986-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
 The Stone Roses - The Stone Roses (1989-04)
@@ -86,9 +83,6 @@ Muse - Origin of Symmetry (2001-06-13)
 </li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
 Coldplay - A Rush of Blood to the Head (2002-08-12)
@@ -249,6 +243,9 @@ The xx - xx (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
 Arctic Monkeys - Humbug (2009-08-19)
 </li>
+<li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
+Editors - In This Light and on This Evening (2009-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">
 Muse - The Resistance (2009-09-10)
 </li>
@@ -269,6 +266,9 @@ PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/f9783845-357b-4b2c-9ac2-4c2bb7d9980f/9278419426-500.jpg" data-tags="british" role="button">
+Elbow - Build a Rocket Boys! (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)

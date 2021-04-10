@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:16:07.209Z
+date: 2021-04-10T19:25:07.047Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -42,9 +42,6 @@ Looking Glass - Looking Glass (1972)
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/56d05907-9f3f-4eec-8c1d-97e9c735d88f/1262909032-500.jpg" data-tags="folk rock" role="button">
-Jim Croce - You Don't Mess Around with Jim (1972-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
@@ -54,9 +51,6 @@ John Denver - John Denver's Greatest Hits (1973)
 <li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
 Elton John - Greatest Hits (1974-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Fleetwood Mac (1975-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Rumours (1977-02-04)
 </li>
@@ -65,9 +59,6 @@ Steely Dan - Aja (1977-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/07659b32-36b3-4ff8-91c3-7c9edbe6c4a5/1339538879-500.jpg" data-tags="classic rock" role="button">
-Billy Joel - 52nd Street (1978-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
@@ -93,6 +84,12 @@ Phil Collins - No Jacket Required (1985-03-21)
 <li data-cover="http://coverartarchive.org/release/ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f/16482357177-500.jpg" data-tags="80s, classic rock" role="button">
 Fleetwood Mac - Tango in the Night (1987-04-09)
 </li>
+<li data-cover="https://img.discogs.com/Wxx7oGOw3jdBcON1QRIdEATKxno=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7918326-1451657539-5312.jpeg.jpg" data-tags="rock" role="button">
+John Hiatt - Bring The Family (1987-05)
+</li>
+<li data-cover="https://img.discogs.com/S3iViJFV1f90nU_Bygin0zHI8lQ=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10057567-1490879704-3159.jpeg.jpg" data-tags="soft rock, adult contemporary, aor, blues rock" role="button">
+Chris Rea - New Light Through Old Windows (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3c8cddd-06a8-34a9-a58d-e55f8b5ead33/5729799714-500.jpg" data-tags="80s, rock, classic rock, toto" role="button">
 Toto - Past to Present 1977-1990 (1990-06-13)
 </li>
@@ -114,9 +111,6 @@ Eagles - The Very Best of the Eagles (1994-06-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, eagles" role="button">
 Eagles - Hell Freezes Over (1994-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cd9686a-b953-4c9c-818e-03256cb96dd3/9505339640-500.jpg" data-tags="rock, 80s, soft rock" role="button">
-Don Henley - Actual Miles: Henley's Greatest Hits (1995-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dcfe8092-607d-43dd-88e5-4d4429f049c9/2107276861-500.jpg" data-tags="90s, pop, german, rock" role="button">
 Fool's Garden - Dish Of The Day (1995-12-07)
 </li>
@@ -129,17 +123,11 @@ Firehouse - Good Acoustics (1996-10-23)
 <li data-cover="http://coverartarchive.org/release/e31919f4-f0cf-4694-a1da-90e63044e93c/27758684577-500.jpg" data-tags="richard marx" role="button">
 Richard Marx - Greatest Hits (1997-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soft rock" role="button">
-Mr. Mister - Broken Wings (1998-03-21)
-</li>
 <li data-cover="https://img.discogs.com/sLOtRIRsHbWjSkRSu0CLtKWVNTw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5612480-1397978809-7966.jpeg.jpg" data-tags="soft rock, british" role="button">
 Gerry Rafferty - Baker Street (1998-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
-</li>
-<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">
-Genesis - Turn It on Again: The Hits (1999-10-22)
 </li>
 <li data-cover="https://img.discogs.com/yLSXgeQNlbFyh5ERJx1HvnYYpa8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760589-1584710461-7332.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
 Tom McRae - Tom McRae (2000-10-02)
@@ -171,11 +159,23 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/3d688fc2-ae3e-49c0-bdc8-49cd71c55874/21135321687-500.jpg" data-tags="singer-songwriter" role="button">
+Matt Nathanson - Beneath These Fireworks (2003-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
+Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
+Phoenix - Alphabetical (2004-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/096bfa52-c298-4a55-a663-ce2da11448ba/28674249434-500.jpg" data-tags="trip-hop" role="button">
 Archive - Noise (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
+</li>
+<li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">
+Bee Gees - Number Ones (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
 Josh Rouse - Subtitulo (2006-03-20)
@@ -198,14 +198,14 @@ Daughtry - Daughtry (2006-11-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, funk, heart full of wine" role="button">
 Angus & Julia Stone - Heart Full of Wine (2007-02-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, records i own, cosmic american music, purchased 08, singing songwriters, mtce new likes, streamable albums, night pop, jorge lima alves, soft rock revival" role="button">
+Josh Rouse - Country Mouse, City House (2007-07-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
 <li data-cover="https://img.discogs.com/ONfUT-VbLc-NaSWjOrDCh5d4ZLA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10165471-1492752553-8725.jpeg.jpg" data-tags="pop, folk, soft rock" role="button">
 Matt White - Best Days (2007-09-18)
@@ -215,9 +215,6 @@ Amy Macdonald - This Is the Life (2007-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">
 The Cardigans - Best Of (2008-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="80s, pop rock, soft rock" role="button">
-Toto - Fahrenheit (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
@@ -278,6 +275,9 @@ Father John Misty - Fear Fun (2012-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea96fc9-e4ae-425d-92f1-3ebeaad37a89/2752789232-500.jpg" data-tags="pop, soul, british, soft rock, r&b, rca victor, 2012 albums" role="button">
 Paloma Faith - Fall to Grace (2012-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/413e5119-af1a-4095-b1bd-e85b9f1c24d2/18650180966-500.jpg" data-tags="indie rock, british, soft rock" role="button">
+Amy Macdonald - Life in a Beautiful Light (2012-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3da9c4-17db-480a-85c1-17ee27823fcb/2019375455-500.jpg" data-tags="pop, pop rock" role="button">
 The Script - #3 (2012-09-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:19:18.177Z
+date: 2021-04-10T19:41:07.105Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -27,8 +27,8 @@ New Order - Power, Corruption & Lies (1983-05)
 <li data-cover="https://img.discogs.com/rg1T9gLjzeLz05GEll9mZqaW2DI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503261-1235343459.jpeg.jpg" data-tags="new wave, 80s" role="button">
 New Order - Low-Life (1985-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/0bbb5a12-42f2-4bc2-81af-2a895e2e2572/26059563062-500.jpg" data-tags="80s, new wave" role="button">
-New Order - Brotherhood (1986-09)
+<li data-cover="https://img.discogs.com/zpqeoIliHjw8vF4OdTy6vHwkAfo=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719322-1239025055.jpeg.jpg" data-tags="80s" role="button">
+The Communards - Red (1987-10)
 </li>
 <li data-cover="https://img.discogs.com/CJBQWr96FmlbEADMlkLZMWxXhMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3615222-1337459798-6856.jpeg.jpg" data-tags="80s, new wave" role="button">
 New Order - Technique (1989-01-20)
@@ -38,6 +38,9 @@ Depeche Mode - Personal Jesus (1989-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/885f651d-9cfd-3a28-a67e-f9e3abbdf867/9583863696-500.jpg" data-tags="industrial, my-life-with-the-thrill-kill-kult" role="button">
 My Life with the Thrill Kill Kult - Sexplosion! (1991)
+</li>
+<li data-cover="https://img.discogs.com/hbjGwQq_BRv7NVtSO2zLN4IAwUo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740136-1518104990-8297.jpeg.jpg" data-tags="post-punk" role="button">
+The Fall - Shift-Work (1991-04-22)
 </li>
 <li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
@@ -66,6 +69,12 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/06cf1467-1631-423a-b680-072225a7cc4f/14766461634-500.jpg" data-tags="90s" role="button">
 White Town - Women In Technology (1997-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/300da8a4-ae20-4c2e-9043-d2e467089e2f/27400793904-500.jpg" data-tags="electronic, alternative, 90s" role="button">
+Primal Scream - Vanishing Point (1997-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/97ee5e25-e39e-40db-9e1b-85cfb681c16d/20580184854-500.jpg" data-tags="rock, winter, alternative dance, where is my bong, collected, steveadams fm, steveadamsfm, music to play on mdma, smell the rot settling in, has me dancing even now" role="button">
+Black Grape - Stupid Stupid Stupid (1997-10-20)
+</li>
 <li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
@@ -83,9 +92,6 @@ The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 </li>
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
-浜崎あゆみ - Memorial address (2003-12-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Hilary Duff - Come Clean (2004-01-13)
@@ -123,12 +129,6 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="https://img.discogs.com/HMcN6wd3h0rFHmI6igA_kToF8ek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3823203-1345819377-3987.jpeg.jpg" data-tags="alternative dance" role="button">
 Bloc Party - Flux (2007-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/8c6221ee-1f27-4098-a184-778a9cc881aa/11393438049-500.jpg" data-tags="new wave" role="button">
-Duran Duran - Red Carpet Massacre (2007-11-13)
-</li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/5edfc25c-4fdc-4fbc-8784-559d8fb0d381/990539724-500.jpg" data-tags="indie, rock, british" role="button">
 The Charlatans - You Cross My Path (2008-03-03)
 </li>
@@ -161,6 +161,9 @@ Lюk - Мамина Юность (2009-03-08)
 </li>
 <li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
 Pet Shop Boys - Yes (2009-03-18)
+</li>
+<li data-cover="https://img.discogs.com/3hypGH88_Xpi5qapMCbuZ17MufU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554859-1244277004.jpeg.jpg" data-tags="electronic, remix" role="button">
+Bloc Party - Intimacy Remixed (2009-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
@@ -242,9 +245,6 @@ Scissor Sisters - Magic Hour (2012-05-25)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
-Twin Shadow - Confess (2012-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1e75e7b-fe4a-4cd6-b0d9-8ccf04a62406/5445765670-500.jpg" data-tags="indie pop" role="button">
 Alpine - A Is For Alpine (2012-08-10)

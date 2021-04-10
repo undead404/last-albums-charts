@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:46:07.100Z
+date: 2021-04-10T19:21:01.461Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -114,6 +114,9 @@ Nelly Furtado - Loose (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
+Paris Hilton - Paris (2006-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
 </li>
@@ -203,9 +206,6 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
-David Guetta - One More Love (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">
 Madonna - Celebration (2009-09-18)

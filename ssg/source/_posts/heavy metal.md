@@ -1,16 +1,16 @@
 ---
-date: 2021-04-10T16:54:01.449Z
+date: 2021-04-10T19:00:01.880Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">Black Sabbath - Paranoid (1970-09-18)</li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">Iron Maiden - The Number of the Beast (1982-04-26)</li>
+<li data-cover="http://coverartarchive.org/release/b35ae348-33a6-3cad-9407-3b48caafcd43/3043507662-500.jpg" data-tags="heavy metal" role="button">Dio - Holy Diver (1983-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/556c0066-8114-33ad-aa45-ab2f203e2777/4947735140-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Powerslave (1984-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg" data-tags="heavy metal, metal" role="button">Metallica - Metallica (1991-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Brave New World (2000-05-30)</li>
-<li data-cover="https://img.discogs.com/akYypPVwureTC5Kj_1MQmg24GcI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1755193-1564071870-9517.jpeg.jpg" data-tags="thrash metal" role="button">Metallica - Master of Puppets (2003)</li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/a826c9d4-f35e-436d-b218-818fc9beb841/12869034085-500.jpg" data-tags="thrash metal" role="button">Metallica - Death Magnetic (2008-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">Avenged Sevenfold - Nightmare (2010-07-23)</li>
@@ -75,6 +75,9 @@ Judas Priest - Screaming for Vengeance (1982-07-17)
 <li data-cover="http://coverartarchive.org/release/bcfe90f5-f8dc-4602-b7e8-2b473ac20c18/16290654451-500.jpg" data-tags="heavy metal" role="button">
 Accept - Balls to the Wall (1983)
 </li>
+<li data-cover="https://img.discogs.com/vtCvXTUmE7p2mjZq_0Bdm64Vkg0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8063092-1457706569-8805.jpeg.jpg" data-tags="heavy metal" role="button">
+Mercyful Fate - Melissa (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/3e29cdde-aa86-43cd-9521-d96f286957c6/17667761428-500.jpg" data-tags="heavy metal" role="button">
 Quiet Riot - Metal Health (1983-03-11)
 </li>
@@ -110,9 +113,6 @@ Iron Maiden - Powerslave (1984-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4ff5-e94d-48b2-a99d-33ee251c2c34/9516015595-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - No Remorse (1984-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Fighting the World (1987-02-17)
@@ -167,6 +167,9 @@ Iron Maiden - Fear of the Dark (1992-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a77f8a7-54ab-4568-8003-42240cd29ab0/5571782400-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Countdown To Extinction (1992-07-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/c873706f-25a0-4fc3-b52a-1ddafbce1009/21563161554-500.jpg" data-tags="heavy metal" role="button">
+Manowar - The Triumph of Steel (1992-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8acd31a2-8ccd-4374-af5d-937c0995868a/23022790916-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Pantera - Far Beyond Driven (1994-03-18)
@@ -224,9 +227,6 @@ Manowar - Warriors of the World (2002-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
-</li>
-<li data-cover="https://img.discogs.com/akYypPVwureTC5Kj_1MQmg24GcI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1755193-1564071870-9517.jpeg.jpg" data-tags="thrash metal" role="button">
-Metallica - Master of Puppets (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - The Blessed Hellride (2003-03-29)

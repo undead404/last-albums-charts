@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:17:01.445Z
+date: 2021-04-10T19:40:01.652Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -113,6 +113,9 @@ Chick Corea - Return To Forever (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/a48849e9-daed-427a-8f13-b05bbab6a0d5/9519768935-500.jpg" data-tags="jazz, piano" role="button">
 Keith Jarrett - The Köln Concert (1975-11-30)
+</li>
+<li data-cover="https://img.discogs.com/Lqi0FlOkjCdBSpOBQlXqURgU1oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4939913-1380041719-7816.jpeg.jpg" data-tags="jazz, fusion" role="button">
+Weather Report - Black Market (1976-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
 Tom Waits - Small Change (1976-10)
@@ -272,9 +275,6 @@ The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7acfb37-4c1e-4133-954e-b3b55fc2c058/3766598907-500.jpg" data-tags="katie melua, jazz, singer-songwriter" role="button">
 Katie Melua - Pictures (2007-09-19)
-</li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
