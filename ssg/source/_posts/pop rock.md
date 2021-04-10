@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:46:06.911Z
+date: 2021-04-10T23:24:01.425Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -38,9 +38,6 @@ Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="https://img.discogs.com/i81K-_1Sfz6SdPBzp9yI9KI3m8c=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1813262-1250820614.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/73bf440a-5c61-4d8c-89d6-cf6c1cfc842c/1483745366-500.jpg" data-tags="rock" role="button">
-Nine Days - The Madding Crowd (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
@@ -101,6 +98,9 @@ Lifehouse - Lifehouse (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
+Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)

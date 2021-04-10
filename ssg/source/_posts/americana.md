@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:10:01.540Z
+date: 2021-04-10T23:35:01.432Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -66,6 +66,9 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 <li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
 Calexico - The Black Light (1998-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
+Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
@@ -95,9 +98,6 @@ My Morning Jacket - At Dawn (2001-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/35c7382b-99b5-3ab6-8df8-4c68b36d461d/4265603773-500.jpg" data-tags="americana" role="button">
-16 Horsepower - Folklore (2002-06-17)
 </li>
 <li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Blacklisted (2002-08-20)
@@ -150,6 +150,9 @@ Wilco - A Ghost is Born (2004-06-21)
 <li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">
 The Avett Brothers - Mignonette (2004-07-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/25b257bc-dd00-442f-9152-18f22b91b18c/13177956202-500.jpg" data-tags="funky blues" role="button">
+Marc Broussard - Carencro (2004-08-03)
+</li>
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
@@ -188,12 +191,6 @@ Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
 <li data-cover="https://img.discogs.com/_iA2tgvmbkoCFvStlPM69jgiNUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309787-1208531852.jpeg.jpg" data-tags="indie folk, 00s" role="button">
 Bright Eyes - Four Winds (2007-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
-</li>
-<li data-cover="https://img.discogs.com/UDV_1TtRN_gR1czRTs-EoUbP8Ic=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712279-1431256710-1520.jpeg.jpg" data-tags="alt-country" role="button">
-The Avett Brothers - Emotionalism (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
@@ -266,6 +263,9 @@ Drive-By Truckers - Go-Go Boots (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d018eb48-2097-463c-9d1b-433836f3ec47/28251309548-500.jpg" data-tags="rock, alternative, americana, kickass, my gang 11" role="button">
 Middle Brother - Middle Brother (2011-03-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="americana, alt-country" role="button">
+Jason Isbell and The 400 Unit - Here We Rest (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)

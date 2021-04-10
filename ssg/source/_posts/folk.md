@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:36:01.516Z
+date: 2021-04-10T23:20:01.469Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -48,9 +48,6 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">
-Bob Dylan - Blood on the Tracks (1975-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
 Bob Dylan - Desire (1976-01-05)
 </li>
@@ -98,6 +95,9 @@ José González - Veneer (2003-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
+</li>
+<li data-cover="https://img.discogs.com/W3HqGj-5tQ0OJkVo1gGj0V1qOes=/fit-in/361x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8959918-1472283546-3692.jpeg.jpg" data-tags="pop" role="button">
+Nelly Furtado - Folklore (2003-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)

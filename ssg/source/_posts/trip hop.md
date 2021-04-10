@@ -1,11 +1,12 @@
 ---
-date: 2021-04-10T18:57:01.729Z
+date: 2021-04-10T23:37:01.419Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/9a27363a-f565-33a3-bb1c-c55b5d24db84/2461231103-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Blue Lines (1991-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
+<li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">Portishead - Portishead (1997-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Mezzanine (1998-04-17)</li>
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">Emilíana Torrini - Love in the Time of Science (1999-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">Gorillaz - Gorillaz (2001-03-24)</li>
@@ -13,7 +14,6 @@ title: "trip hop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c5646767-1459-424e-8fc9-798e6932d4dd/1235399189-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Heligoland (2010-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">Lana Del Rey - Born to Die (2012-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">Stromae - Racine Carrée (2013-08-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -38,6 +38,9 @@ Tricky - Maxinquaye (1995-02-20)
 </li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
+</li>
+<li data-cover="https://img.discogs.com/53O4nbwhSos24lA0I3Bm2do3b8M=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61294-1193595283.jpeg.jpg" data-tags="downtempo, chillout" role="button">
+Nightmares on Wax - Smokers Delight (1995-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
 DJ Krush - Milight (1996)
@@ -125,9 +128,6 @@ Everything But the Girl - Like the Deserts Miss the Rain (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/680f53cf-e410-49a3-b1d0-a87c4c652b4c/974840185-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Sweetness (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
 Nightmares on Wax - Mind Elevation (2002-08-24)
@@ -258,6 +258,9 @@ Röyksopp - Senior (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/d91ca7da-bc7f-485c-9223-e794f0dd460a/2911250736-500.jpg" data-tags="hip-hop, electro swing" role="button">
 Chinese Man - Racing With the Sun (2011-04-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
+Criolo - Nó Na Orelha (2011-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
@@ -293,9 +296,6 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5aa8083-768e-495b-b7ce-0918cc9ff5d3/5445573385-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Obsidian (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
-Stromae - Racine Carrée (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c433abe-415f-47e5-9bfa-44fbafee151b/5084224967-500.jpg" data-tags="post-punk" role="button">
 King Krule - 6 Feet Beneath The Moon (2013-08-24)

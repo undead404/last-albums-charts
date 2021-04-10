@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:31:12.732Z
+date: 2021-04-10T23:04:01.421Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -120,9 +120,6 @@ HammerFall - Renegade (2000-08-21)
 <li data-cover="http://coverartarchive.org/release/351e5578-2bdd-452e-b4ba-b2d13518eeb1/6834755855-500.jpg" data-tags="power metal" role="button">
 Helloween - The Dark Ride (2000-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bea18014-d2f3-3443-bb02-8d8184321775/7270873048-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Dawn of Victory (2000-10-25)
-</li>
 <li data-cover="https://img.discogs.com/Iuh_3hhVbLW2FRcA4SxICKl_OzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2962012-1310060734.jpeg.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Follow the Reaper (2000-10-30)
 </li>
@@ -192,6 +189,9 @@ Edguy - Hellfire Club (2004-03-15)
 <li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">
 DragonForce - Sonic Firestorm (2004-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/25d1deb9-d696-4291-bd0c-4c8edf976de4/997844203-500.jpg" data-tags="power metal, heavy metal" role="button">
+Dream Evil - The Book Of Heavy Metal (2004-05-24)
+</li>
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Once (2004-06-04)
 </li>
@@ -200,6 +200,9 @@ Wintersun - Wintersun (2004-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/2729a116-d5a4-4e20-9f93-1145c0a53c5b/5848092088-500.jpg" data-tags="heavy metal, power metal" role="button">
+3 Inches of Blood - Advance and Vanquish (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Reckoning Night (2004-10-06)
@@ -239,9 +242,6 @@ HammerFall - Threshold (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aadad9c8-6abd-4b27-816b-1c904c58533d/1484443030-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - A Twist in the Myth (2006-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
-Rhapsody of Fire - Triumph or Agony (2006-09-25)
 </li>
 <li data-cover="https://img.discogs.com/gSg58eDMiqGerChL-r4SeRDPI9U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12359483-1533657074-1211.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Kamelot - Ghost Opera (2007-03-29)

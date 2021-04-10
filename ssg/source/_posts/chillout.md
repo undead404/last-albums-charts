@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:07:01.435Z
+date: 2021-04-10T23:44:01.411Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -110,9 +110,6 @@ Quantic - The 5th Exotic (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/31053210-b40e-4105-a27f-0b8e83e77b94/8594647165-500.jpg" data-tags="chillout, electronica" role="button">
-Kid Loco - Kill Your Darlings (2001-10)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
@@ -236,6 +233,9 @@ Zero 7 - The Garden (2006-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
+</li>
+<li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
+The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)

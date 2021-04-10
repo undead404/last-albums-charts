@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:40:01.410Z
+date: 2021-04-10T23:11:01.406Z
 title: "minimalism: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -69,8 +69,14 @@ Steve Reich - Octet / Music for a Large Ensemble / Violin Phase (1980)
 <li data-cover="http://coverartarchive.org/release/6eab50b0-8cac-412f-b7e0-1ed514c7b359/8980829265-500.jpg" data-tags="avant-garde" role="button">
 Meredith Monk - Dolmen Music (1981)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, post-punk" role="button">
+The Residents - Mark Of The Mole (1981)
+</li>
 <li data-cover="https://img.discogs.com/TjNSUNtSpS69S-lTSfRJlnt6dpA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-447729-1115382853.jpg.jpg" data-tags="soundtrack" role="button">
 Michael Nyman - A Zed and Two Noughts (1985)
+</li>
+<li data-cover="https://img.discogs.com/x-G3ymfgutfKhUu8VUc7_2gdVoY=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426017-1111771444.jpg.jpg" data-tags="ecm" role="button">
+Stephan Micus - East of the Night (1985)
 </li>
 <li data-cover="https://img.discogs.com/zhCkMCRYUMBmmTUa4Tmcy09pbis=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-81710-1463368962-5885.jpeg.jpg" data-tags="ambient" role="button">
 Roger Eno - Voices (1985)
@@ -95,9 +101,6 @@ Moondog - Elpmas (1991)
 </li>
 <li data-cover="https://img.discogs.com/WSnv1emEkYi4ck2C3ja7So1oOJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-588379-1393232304-6337.jpeg.jpg" data-tags="classical, experimental, outsider, avant garde, minimalism, avant garde jazz, moondog, r63120, the story of moondog 1957, more moondog 1956" role="button">
 Moondog - More Moondog / The Story Of Moondog (1991)
-</li>
-<li data-cover="https://img.discogs.com/jCbkvkqQAP3I1LYRZT0ibau7IPE=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628098-1140489609.jpeg.jpg" data-tags="jazz, world, world music, oriental" role="button">
-Anouar Brahem - Conte De L'Incroyable Amour (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/51c989a9-d3dd-4c66-b2af-264edc34f1e6/13206878028-500.jpg" data-tags="soundtrack, easy listening" role="button">
 Michael Nyman - The Essential Michael Nyman Band (1992)
@@ -128,9 +131,6 @@ Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/673a3475-b4d2-3654-81df-d832540bf084/11024572005-500.jpg" data-tags="experimental, electronic" role="button">
 Pan Sonic - Kulma (1997-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a8ce80d-501b-44f0-8175-90cc1819ab4f/999120899-500.jpg" data-tags="glitch, ambient, experimental" role="button">
-Oval - Dok (1998-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bc86aed-5e64-4a15-bef6-666a09c9236a/14160170707-500.jpg" data-tags="classical" role="button">
 Johannes Brahms - Classical Masters: Brahms (1999)

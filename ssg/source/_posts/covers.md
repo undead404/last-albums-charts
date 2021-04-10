@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:45:01.653Z
+date: 2021-04-10T23:41:01.444Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -21,32 +21,32 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/1d5461d0-07c0-431a-b5b3-e7f8088642cd/18043607840-500.jpg" data-tags="soul, during the good times" role="button">
-Ramsey Lewis - Mother Nature's Son (1968)
-</li>
 <li data-cover="https://img.discogs.com/lXgzqPeuK_3hwSu1BpoOBhbGOSE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7638264-1472328252-4614.jpeg.jpg" data-tags="soul, 70s" role="button">
 Shirley Bassey - Something (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
 </li>
-<li data-cover="https://img.discogs.com/j5N5tm6b-Sr4oIIIYLp-pDBcAHI=/fit-in/599x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670674-1237574217.jpeg.jpg" data-tags="glam rock, 70s" role="button">
-David Bowie - Pin Ups (1973-10-19)
+<li data-cover="https://img.discogs.com/KpDQq-HuKtvNzBTBY_TTY4Ew3CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1018202-1518278938-5231.jpeg.jpg" data-tags="disco" role="button">
+Grace Jones - Portfolio (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/74468206-c938-4a96-be09-5d07a5bb32d6/997337637-500.jpg" data-tags="covers" role="button">
 Los Lobos - La Bamba (1987)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
-Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
 Everything But the Girl - Acoustic (1992-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/00b09416-0c4e-4525-81de-c820952b7c40/14473108816-500.jpg" data-tags="heavy metal, 90s" role="button">
+Skid Row - B-Side Ourselves (1992-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
 Ramones - Acid Eaters (1993-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9bd2dd72-369f-4277-a199-0fc20df5b4f5/27006650765-500.jpg" data-tags="folk" role="button">
+Shawn Colvin - Cover Girl (1994-08-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
 Holly Cole - Temptation (1995-05-31)
@@ -59,6 +59,9 @@ Johnny Cash - Unchained (1996-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/771774fa-e510-4bd1-9a21-6f3f2e716ccd/16695513200-500.jpg" data-tags="punk, covers, ska punk, cover, punk covers" role="button">
 Less Than Jake - Greased (1997-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
+Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
 Metallica - Garage, Inc. (1998-11-24)
@@ -129,14 +132,14 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
 Misfits - Project 1950 (2003-07-29)
 </li>
-<li data-cover="https://img.discogs.com/mvVEI1IwHBEg9zkJJrS6GjOt1Zk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3970912-1604835350-5701.jpeg.jpg" data-tags="pop, cover" role="button">
-Mandy Moore - Coverage (2003-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb540536-a7a0-48b8-9d67-9413bd336b65/15067372288-500.jpg" data-tags="covers" role="button">
 Cyndi Lauper - At Last (2003-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/04aac32f-c843-4f2b-b532-b4ad3d0e5e3e/3366213863-500.jpg" data-tags="folk, russian folk, fantasy" role="button">
 Мельница - Master of the Mill (2004-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/4843163a-5119-469c-9639-863cd5d3a856/15495644463-500.jpg" data-tags="pop, female vocalists, covers, 00s" role="button">
+Agnetha Fältskog - My Colouring Book (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
@@ -228,11 +231,11 @@ Various Artists - Nightmare Revisited (2008-09-30)
 <li data-cover="http://coverartarchive.org/release/225d81f3-a2f7-46df-af4c-a38b3122528b/2985759093-500.jpg" data-tags="downtempo, covers, stage and screen, ambient ram, cudawianki, popyram" role="button">
 Hollywood, Mon Amour - Hollywood, Mon Amour (2008-10-06)
 </li>
-<li data-cover="https://img.discogs.com/q0Dmj0woajufdLLu2coXY3MUVmk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1559735-1228403765.jpeg.jpg" data-tags="folk" role="button">
-Headless Heroes - The Silence of Love (2008-11-10)
+<li data-cover="http://coverartarchive.org/release/4629e65f-5720-43a0-ae12-7c5858a862d2/4281559300-500.jpg" data-tags="punk, russian, covers, russian rock, punk-rock" role="button">
+Приключения Электроников - Давайте Созвонимся! (2008-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
-Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
+<li data-cover="http://coverartarchive.org/release/160f8631-6023-400f-abd8-6098f4cd4237/18991541165-500.jpg" data-tags="pop punk" role="button">
+MxPx - On the Cover II (2009-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6d933c9-dcb4-4270-95d4-42983ee6f988/4354631525-500.jpg" data-tags="acoustic, cover, covers" role="button">
 Boyce Avenue - Influential Sessions (2009-07-14)
@@ -263,9 +266,6 @@ Pomplamoose - Tribute to Famous People (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/RsNWNkT6wr7JMO-k8Js_IRiwdjA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198730-1359957277-8561.jpeg.jpg" data-tags="covers" role="button">
 Soulive - Rubber Soulive (2010-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/38d29d6c-39e3-3fcb-ba67-6033ea1dde92/1672912579-500.jpg" data-tags="pop" role="button">
-Mike Patton - Mondo cane (2010-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)

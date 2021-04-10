@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:53:01.563Z
+date: 2021-04-10T23:43:01.494Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -114,9 +114,6 @@ Cake - Comfort Eagle (2001-07-24)
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">
-The Cure - Greatest Hits (2001-11-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
 </li>
@@ -155,6 +152,9 @@ Snow Patrol - Final Straw (2003-08-04)
 </li>
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
+The Strokes - Room on Fire (2003-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)

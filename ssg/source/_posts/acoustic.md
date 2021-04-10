@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:10:01.441Z
+date: 2021-04-10T23:32:01.486Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -41,6 +41,9 @@ Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc74c8f9-b13c-40b1-a07d-fb3eb32966db/4229236342-500.jpg" data-tags="rock, alternative rock, acoustic, vertical horizon" role="button">
+Vertical Horizon - Running on Ice (1995-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
@@ -158,9 +161,6 @@ Andy McKee - Art of Motion (2006-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bf551f7-96be-3f50-8ae4-9895eb26af9a/7965698121-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
-Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)

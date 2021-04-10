@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:18:02.270Z
+date: 2021-04-10T22:52:01.419Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -29,6 +29,9 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
+</li>
+<li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
+Basil Poledouris - Conan the Barbarian (1982)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
@@ -66,11 +69,17 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
+<li data-cover="https://img.discogs.com/XLMFs6Yc9ih_DVVwuWDARIRcnRQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540652-1290980659.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
+Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
 Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
@@ -105,8 +114,8 @@ Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the W
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
-Rhapsody of Fire - Triumph or Agony (2006-09-25)
+<li data-cover="http://coverartarchive.org/release/e514a7f6-34a6-4327-b218-8e490e99b5c0/8258928983-500.jpg" data-tags="soundtrack, orchestral, globus" role="button">
+Globus - Epicon (2006-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
 Melvins - A Senile Animal (2006-10-10)
@@ -117,14 +126,8 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 <li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
 I Hate Kate - Embrace The Curse (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">
 Biffy Clyro - Puzzle (2007-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Messengers (2007-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
@@ -183,17 +186,11 @@ Patrick Wolf - The Bachelor (2009-06-01)
 <li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">
 Matisyahu - Light (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa8b7472-1647-4c42-b1ae-261567c31107/3784041521-500.jpg" data-tags="progressive rock, epic, rock opera" role="button">
-The Protomen - Act II: The Father of Death (2009-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">
 Ensiferum - From Afar (2009-09-09)
-</li>
-<li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
-The Big Pink - A Brief History of Love (2009-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f50ea53-37b4-31ef-aff2-e1d9b8763517/1236333909-500.jpg" data-tags="alternative rock" role="button">
 AFI - Crash Love (2009-09-23)
@@ -209,9 +206,6 @@ John Powell - How to Train Your Dragon (2010-03-23)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
@@ -240,11 +234,17 @@ The Rapture - How Deep Is Your Love? (2011-06)
 <li data-cover="http://coverartarchive.org/release/0f4bc096-5241-4160-b9b3-1e07e6262e40/5777589331-500.jpg" data-tags="post-rock, epic" role="button">
 *shels - Plains of the Purple Buffalo (2011-07-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/bdeb4647-5774-429a-88e3-da375cb540e1/8258911638-500.jpg" data-tags="classical, instrumental, epic, world, new age, symphonic metal, neo-classical rock, album to check again" role="button">
+Globus - Break From This World (2011-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/7cdf6a6f-8677-4598-a475-a8aa2d8bfe43/1674518181-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Archangel (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
+Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
@@ -266,9 +266,6 @@ Petra Marklund - Inferno (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b50bf968-1b2b-41ff-b1f3-b8bd7aa25884/3480184535-500.jpg" data-tags="rock, british, britpop" role="button">
-Robbie Williams - Take The Crown (2012-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
@@ -293,6 +290,9 @@ Darkside - Psychic (2013-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f332dc1-bc91-422d-9f83-a95d0a818d61/17661352244-500.jpg" data-tags="electronic, dubstep, remix" role="button">
+Linkin Park - Recharged (2013-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/eec4bf03-c26a-48b8-ac6e-8948d4236c3a/6270680266-500.jpg" data-tags="pop" role="button">
 Lady Gaga - Venus (2013-10-27)

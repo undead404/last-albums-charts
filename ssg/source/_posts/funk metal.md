@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:33:01.579Z
+date: 2021-04-10T23:17:01.416Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -45,9 +45,6 @@ Mr. Bungle - Goddammit I Love America! (1988)
 <li data-cover="https://img.discogs.com/BcSnxF4diDV_rRbRjXB5uOl8Y6M=/fit-in/500x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573900-1368976469-4214.jpeg.jpg" data-tags="ska punk" role="button">
 Fishbone - Fishbone (1988-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ed700a-c474-409b-be89-32204210ff24/16285531625-500.jpg" data-tags="rock, instrumental, funk metal, instrumental rock, groove, groovy, funk rock, instrumental metal, basically bass" role="button">
-24-7 Spyz - Harder Than You (1989)
-</li>
 <li data-cover="http://coverartarchive.org/release/8a87dca1-6046-4204-842c-022126631eaa/18837963279-500.jpg" data-tags="funk metal" role="button">
 Mr. Bungle - OU818 (1989)
 </li>
@@ -75,6 +72,9 @@ Living Colour - Time's Up (1990-08)
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">
 Extreme - Extreme II: Pornograffitti (1990-08-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/01074d31-922b-43a3-9cb0-80845f09dac1/23809036137-500.jpg" data-tags="heavy metal, funk metal, thrash metal, punk metal, heavy-thrash metal" role="button">
+Discharge - Massacre Divine (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
 Primus - Sailing The Seas Of Cheese (1991-05-14)
 </li>
@@ -99,11 +99,8 @@ Faith No More - Angel Dust (1992-06-08)
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
-Extreme - III Sides To Every Story (1992-08-20)
-</li>
-<li data-cover="https://img.discogs.com/WQZj-xfAaLTCC-eMXu8IxwYAaz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373112-1261422063.jpeg.jpg" data-tags="funk, metal" role="button">
-Praxis - Transmutation (Mutatis Mutandis) (1992-09-08)
+<li data-cover="http://coverartarchive.org/release/baabb4d7-6005-4cb8-af6a-39a43e095e36/15248566750-500.jpg" data-tags="funk, soul" role="button">
+Tower of Power - T.O.P. (1993)
 </li>
 <li data-cover="https://img.discogs.com/rmZV3SP6fTF6UEK0Lw66yjbnMm0=/fit-in/600x635/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15223219-1588329994-4156.jpeg.jpg" data-tags="funk, funk metal" role="button">
 Infectious Grooves - Sarsippius' Ark (1993-02-09)
@@ -122,6 +119,9 @@ Infectious Grooves - Groove Family Cyco (1994-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
+</li>
+<li data-cover="https://img.discogs.com/5Q-iHoDPyjGrMaDlrXYq0Zjq96k=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9079523-1474399846-5962.jpeg.jpg" data-tags="funk metal, crossover, industrial metal, distortion, scary music, ugar" role="button">
+КОРРОЗИЯ МЕТАЛЛА - 1.966 (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/125b1731-f5b0-4542-96a3-c05c025f877c/23724829556-500.jpg" data-tags="alternative metal" role="button">
 Megaherz - Herzwerk (1995)
@@ -164,9 +164,6 @@ Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
-</li>
-<li data-cover="https://img.discogs.com/jUetX0-_JnUicToH9lhH2wrpSI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10893303-1506082233-5282.png.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
-Incubus - Enjoy Incubus (1997-01-07)
 </li>
 <li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
 Faith No More - Album of the Year (1997-06-03)
@@ -264,6 +261,9 @@ Freak Kitchen - Move (2002-10-23)
 <li data-cover="http://coverartarchive.org/release/e5ea06df-9371-43f9-b50f-e10fdbb7b5fc/15456226876-500.jpg" data-tags="soundtrack, rock, alternative, alternative rock, progressive metal, progressive rock, acoustic, funk metal, funk, progressive, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal" role="button">
 I Mother Earth - The Quicksilver Meat Dream (2003)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk metal, avant-garde, avant-garde metal" role="button">
+Nuclear Rabbit - Mutopia (2003-08-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d744d66-1fdb-4dff-9392-e0e2bbf3f702/17652420521-500.jpg" data-tags="alternative" role="button">
 Hot Action Cop - Hot Action Cop (2003-09-15)
 </li>
@@ -291,9 +291,6 @@ O'Funk'illo - No Te Cabe Na' (2005)
 <li data-cover="http://coverartarchive.org/release/87eea847-2dd4-47ae-9e18-bb12270ad1cb/11803984907-500.jpg" data-tags="alternative rock" role="button">
 Faith No More - The Platinum Collection (2005-12-05)
 </li>
-<li data-cover="https://img.discogs.com/3qf9C-ACUFu7iTSyJlwbrqpSltg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6407319-1418478192-2968.jpeg.jpg" data-tags="classic rock, classical, jazz, pop, rock, alternative, alternative rock, folk, experimental, hard rock, progressive rock, pop rock, acoustic, fusion, funk metal, funk, latin, blues, progressive, blues rock, acoustic rock, flamenco, funk rock, acoustic pop, progressive alternative rock, progressive funk rock, alternative funk rock, acoustic funk rock, progressive ambient rock, acoustic pop rock, acoustic folk rock, acoustic folk fusion, rock con pelotas" role="button">
-DramaGods - Love (2005-12-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a65f1f2f-bee5-463a-ad31-34a031c5f007/14928727017-500.jpg" data-tags="guitar virtuoso, instrumental, experimental, avant-garde" role="button">
 Buckethead - Crime Slunk Scene (2006-09-15)
 </li>
@@ -305,6 +302,9 @@ Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c18246b-f3d1-45ae-b844-8b0c833f224a/17634236874-500.jpg" data-tags="experimental" role="button">
 Les Claypool - Of Fungi And Foe (2009-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/5755d0d3-ce8e-4b6d-8e7c-0698634aa753/4732781971-500.jpg" data-tags="funk metal, alternative, alternative rock, rock, funk" role="button">
+Primus - June 2010 Rehearsal (2010-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/92b9a826-e376-4ca7-99f4-6b91fb5fc741/8147662070-500.jpg" data-tags="rock, alternative rock" role="button">
 Bloodhound Gang - Show Us Your Hits (2010-12-03)

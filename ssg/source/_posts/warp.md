@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:11:01.402Z
+date: 2021-04-10T23:28:01.412Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -87,6 +87,9 @@ Autechre - Envane (1997-01-27)
 <li data-cover="http://coverartarchive.org/release/e382e9a2-8637-4781-a29b-3dac5c991899/3760547066-500.jpg" data-tags="idm" role="button">
 Autechre - Chiastic Slide (1997-02-17)
 </li>
+<li data-cover="https://img.discogs.com/qFpv8o3tl3u5BDpquDi3sqSeOWs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28697-1379574804-4915.jpeg.jpg" data-tags="warp" role="button">
+Squarepusher - Vic Acid (1997-03-31)
+</li>
 <li data-cover="https://img.discogs.com/Du0hBvd0btTI7gh8tdc0DFESGik=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35288-1526519542-3987.jpeg.jpg" data-tags="idm, electronic" role="button">
 Autechre - Cichlisuite (1997-08-26)
 </li>
@@ -113,9 +116,6 @@ Two Lone Swordsmen - Stay Down (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/07dcdd5f-3214-4c53-b985-633812424f0f/3773287828-500.jpg" data-tags="abstract, idm, peel sessions" role="button">
 Autechre - Peel Session (1999-01-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/39522c95-a1d4-377c-ac14-31989d81a993/3795939422-500.jpg" data-tags="electronic, 90s" role="button">
-Squarepusher - Budakhan Mindphone (1999-03-01)
 </li>
 <li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
 Nightmares on Wax - Carboot Soul (1999-04-12)

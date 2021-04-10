@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:21:01.461Z
+date: 2021-04-10T23:02:01.440Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -105,6 +105,9 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
+<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
+CSS - Cansei De Ser Sexy (2005-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
 </li>
@@ -173,6 +176,9 @@ Madonna - Hard Candy (2008-04-25)
 </li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
+</li>
+<li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
+Little Boots - Hands (2008-06-08)
 </li>
 <li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)
@@ -252,9 +258,6 @@ Duck Sauce - Barbra Streisand (2010-09-13)
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Cannibal (2010-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
-Alexandra Stan - Mr. Saxobeat (2011-02-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
 </li>
@@ -296,9 +299,6 @@ Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
-Stromae - Racine Carrée (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4081f66-bcee-4805-800c-cae6e9847fb7/5176860791-500.jpg" data-tags="wake me up" role="button">
 Avicii - Wake Me Up (2013-09-06)

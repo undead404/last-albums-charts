@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:09:01.405Z
+date: 2021-04-10T23:38:01.409Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -63,20 +63,11 @@ Social Distortion - Mommy's Little Monster (1983-02-01)
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/17100e50-ad87-4b4f-a919-010ed8fd98a8/2990767544-500.jpg" data-tags="hardcore punk" role="button">
-7Seconds - The Crew (1984)
-</li>
 <li data-cover="https://img.discogs.com/l0-AacC6-Fl5TXdI2HgKClXz0UU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490066-1542426226-2864.jpeg.jpg" data-tags="hardcore punk, hardcore" role="button">
 Agnostic Front - Victim In Pain (1984)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcbce6d9-6ec0-34c2-bf1f-503078ee2b1b/3253218339-500.jpg" data-tags="classic, 80s, punk, alternative, straight edge, punk rock, hardcore punk, yellow, total shit, non-visual, fun to skateboard to, i love singing along, 7seconds, ear, finely tailored, deek, planet kolob, grumpy still skin, muhammad had a penis, expected, deek deek, deek deek deek, mime of charisma, excreted from a bloody rectum" role="button">
-7Seconds - Walk Together, Rock Together (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d1d1960-884d-42d6-aa87-230424ab9ddf/19103392565-500.jpg" data-tags="alternative rock, rock, punk" role="button">
-Hüsker Dü - Candy Apple Grey (1986-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
@@ -108,11 +99,11 @@ Poison Idea - Feel the Darkness (1990)
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
 Social Distortion - Social Distortion (1990-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/a59d723c-fc7e-4e5a-9853-6b832e4675fd/3331655987-500.jpg" data-tags="punk rock" role="button">
-NOFX - Ribbed (1991-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/d5a1f715-117a-42ca-ad92-ee45299b517d/4804389900-500.jpg" data-tags="punk rock, punk" role="button">
 Social Distortion - Somewhere Between Heaven and Hell (1992-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
+The Offspring - Ignition (1992-10-16)
 </li>
 <li data-cover="https://img.discogs.com/eqR-qBFnLkP3ZarNfu9gMAUH1G8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4068215-1517650061-7747.jpeg.jpg" data-tags="punk rock" role="button">
 NOFX - White Trash, Two Heebs and a Bean (1992-12-30)
@@ -171,6 +162,9 @@ AFI - Shut Your Mouth and Open Your Eyes (1997-11-11)
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef244c63-70ac-4097-8a83-65bc94d45aed/8735304430-500.jpg" data-tags="rock, alternative, alternative rock, hardcore, 90s, punk rock, raimundos, metal, punk, brazil, brazilian" role="button">
+Raimundos - Só No Forevis (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/5492c6d0-f588-4d9a-b759-bc373e861ee2/2146337925-500.jpg" data-tags="skate punk, hardcore punk, charlie brown" role="button">
 Charlie Brown JR. - Preço Curto, Prazo Longo (1999-03-09)
 </li>
@@ -212,6 +206,9 @@ NOFX - The War on Errorism (2003-05-06)
 </li>
 <li data-cover="https://img.discogs.com/9tGzh9ecUT1U87Hu3tcTtbUen1o=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426199-1182773680.jpeg.jpg" data-tags="street punk, hardcore punk" role="button">
 The Unseen - Explode (2003-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Hot Damn! (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
 Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
@@ -308,6 +305,9 @@ Your Demise - The Kids We Used To Be... (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
 Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/c040773a-9768-4328-8095-e5c08bec91d2/12077625512-500.jpg" data-tags="emo, post-hardcore, melodic hardcore" role="button">
+Basement - I Wish I Could Stay Here (2011-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)

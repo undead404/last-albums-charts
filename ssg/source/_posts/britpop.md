@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:22:01.439Z
+date: 2021-04-10T23:21:01.411Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")

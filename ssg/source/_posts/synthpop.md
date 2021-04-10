@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:03:01.463Z
+date: 2021-04-10T22:51:01.431Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -225,6 +225,9 @@ Ellie Goulding - Halcyon Days (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2adc084-6cb3-4618-a72c-0328a4839bc1/6527039086-500.jpg" data-tags="electropop, synthpop, songs that will make you dance" role="button">
+Icona Pop - Iconic EP (2012-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
@@ -242,9 +245,6 @@ Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef42678e-1b9d-451b-9326-f9804534e1f2/6339581097-500.jpg" data-tags="pop" role="button">
-Lorde - The Love Club EP (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f79cbeda-72f9-46ad-b130-b9bc8d1392f7/3698114894-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Delta Machine (2013-03-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:56:01.399Z
+date: 2021-04-10T22:56:07.067Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -27,9 +27,6 @@ Kiss - Dressed To Kill (1975-03-19)
 <li data-cover="http://coverartarchive.org/release/20f10584-bc6d-3bf6-a110-e06491275f45/1287473342-500.jpg" data-tags="hard rock" role="button">
 Kiss - Dynasty (1979-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5790915-3547-4f03-866d-888f9b81c6cf/8843276119-500.jpg" data-tags="classic rock, 70s, hard rock" role="button">
-Styx - Cornerstone (1979-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b5430fd-2506-4f04-9c8b-f34e6feef53a/14970320647-500.jpg" data-tags="heavy metal, hard rock, hair metal" role="button">
 Dokken - Breaking the Chains (1981)
 </li>
@@ -41,6 +38,15 @@ Whitesnake - The Definitive Collection (1981-12-00)
 </li>
 <li data-cover="http://coverartarchive.org/release/11937296-8fc7-3779-a59e-dd82774629b8/19368456568-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Blackout (1982)
+</li>
+<li data-cover="https://img.discogs.com/aRYwPniGEsRquBk8QCl7QZ-qeIY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096803-1453599913-8199.jpeg.jpg" data-tags="hard rock, heavy metal, rock" role="button">
+Kiss - Creatures Of The Night (1982-10-13)
+</li>
+<li data-cover="https://img.discogs.com/vSMAK7V9YNbWLV90S8sZ_sqtiMY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918790-1342502049-7508.jpeg.jpg" data-tags="hard rock, whitesnake, david coverdale" role="button">
+Whitesnake - Saints & Sinners (1982-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f67a6c0-2044-33be-8c73-9d090128fe38/5451266693-500.jpg" data-tags="glam metal, hard rock" role="button">
+Ratt - Ratt (1983)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Pyromania (1983-01-20)
@@ -66,9 +72,6 @@ Autograph - Sign In Please (1984)
 <li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
 </li>
-<li data-cover="https://img.discogs.com/1QCbW9Kpq66sC-jRcdQe-1sTBtY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6201653-1413587962-2485.jpeg.jpg" data-tags="rock, 80s" role="button">
-REO Speedwagon - Wheels Are Turnin' (1984)
-</li>
 <li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Twisted Sister - Stay Hungry (1984-05-10)
 </li>
@@ -89,15 +92,6 @@ Kix - Midnite Dynamite (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/26c8096d-b7aa-4d7c-9290-0255ae539cc0/25849551031-500.jpg" data-tags="hard rock, hair metal" role="button">
-Tesla - Mechanical Resonance (1986)
-</li>
-<li data-cover="https://img.discogs.com/t-R_o8q9EP-Xf87sGf7VwhhXUws=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14401930-1573793996-9800.jpeg.jpg" data-tags="heavy metal" role="button">
-Judas Priest - Turbo (1986-04-14)
-</li>
-<li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">
-Bon Jovi - Slippery When Wet (1986-08-25)
 </li>
 <li data-cover="https://img.discogs.com/li6_jIDYQpWodxZn8rkHyInht7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239136-1356563111-3834.jpeg.jpg" data-tags="80s, nothings gonna stop us now, beat patrol, set the night to music, babylon" role="button">
 Starship - No Protection (1987)
@@ -128,6 +122,9 @@ Britny Fox - Britny Fox (1988-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2849834b-6496-4a01-abee-2e860b862a8e/19214456240-500.jpg" data-tags="classic rock, heavy metal, metal, 80s, hard rock, hair metal, glam rock, hair band, wants, mandatory, is ok, smooth up in ya" role="button">
 Bulletboys - Bulletboys (1988-09-20)
+</li>
+<li data-cover="https://img.discogs.com/QFaS3z_np1GmgOTJpwCztuzx2tU=/fit-in/472x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4131890-1358181842-7916.jpeg.jpg" data-tags="heavy metal" role="button">
+Skid Row - Youth Gone Wild (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">
 Skid Row - Skid Row (1989-01-24)
@@ -177,9 +174,6 @@ Skid Row - Slave to the Grind (1991)
 <li data-cover="http://coverartarchive.org/release/29cdaf27-152d-4190-9099-f917b3976cff/5146208974-500.jpg" data-tags="hard rock" role="button">
 Mr. Big - Lean Into It (1991-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/fd671ccf-313d-4d37-999d-d23685dbc32b/9699108587-500.jpg" data-tags="rock, hard rock" role="button">
-Bad English - Backlash (1991-08-27)
-</li>
 <li data-cover="https://img.discogs.com/crPLtGnf1xtKfyHrATNVV7_Th1M=/fit-in/600x798/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5046414-1395841780-9072.jpeg.jpg" data-tags="hard rock, heavy metal, blues rock" role="button">
 Tesla - Psychotic Supper (1991-08-30)
 </li>
@@ -188,6 +182,9 @@ Lita Ford - The Best of Lita Ford (1992-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7b8aa67-37e2-4a1a-9ccf-9025dfdf4270/10988964546-500.jpg" data-tags="hard rock, rock, hair metal, 90s" role="button">
 Warrant - Dog Eat Dog (1992-08-25)
+</li>
+<li data-cover="https://img.discogs.com/xFpE2tEiIrRuYp0Uc3zd3V57Elw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1805801-1484744956-5870.jpeg.jpg" data-tags="80s, hard rock, hair metal, white lion" role="button">
+White Lion - The Best of White Lion (1992-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0463c25c-3e43-49ea-809a-2405c3122f9f/1477034985-500.jpg" data-tags="hair metal" role="button">
 Winger - Pull (1993-05-18)
@@ -204,6 +201,9 @@ Dokken - Dysfunctional (1995-05-16)
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
 </li>
+<li data-cover="https://img.discogs.com/r43wbr3V_mNGe0S-t43kD_MhehM=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2144658-1266427258.jpeg.jpg" data-tags="hard rock" role="button">
+Kiss - Psycho Circus (1998-08)
+</li>
 <li data-cover="https://img.discogs.com/6vMdzT1i6RjDt0lErHUl67MR8e8=/fit-in/225x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5357863-1391384227-3855.jpeg.jpg" data-tags="hard rock, hair metal, 90s" role="button">
 Mötley Crüe - Supersonic And Demonic Relics (1999-06-30)
 </li>
@@ -216,8 +216,14 @@ Vince Neil - Live at the Whisky: One Night Only (2003)
 <li data-cover="http://coverartarchive.org/release/0a66932b-5b89-4191-874d-888b9a0f2af6/2138544843-500.jpg" data-tags="hard rock" role="button">
 Whitesnake - Best of Whitesnake (2003-03-21)
 </li>
+<li data-cover="https://img.discogs.com/0ioKb8I3AtnjilHdhGykPhO2vs8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2647853-1473532878-9681.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+Amy Studt - False Smiles (2003-06-30)
+</li>
 <li data-cover="https://img.discogs.com/gPjAnhP0MLy5DWGkq_4-EqAaZ0o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570759-1539116912-5593.png.jpg" data-tags="metal, rock, hard rock" role="button">
 Brides of Destruction - Here Come The Brides (2003-12-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/7209db96-ba74-4df4-ba1d-20bbb034fecf/4522980850-500.jpg" data-tags="rock, hard rock, hair metal, melodic rock, steelheart, x factor, video killed the radio star, rw, mandatory, metatrone, 1 of best ever, giuseppeliviol, cis ghts" role="button">
+Cinderella - Rocked, Wired & Bluesed: The Greatest Hits (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Buckcherry - 15 (2006-04-11)
@@ -264,9 +270,6 @@ Hollywood Undead - Desperate Measures (2009-11-10)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
@@ -278,9 +281,6 @@ Ghost - Opus Eponymous (2010-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
 Attila - Outlawed (2011-08-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:18:01.467Z
+date: 2021-04-10T22:55:01.518Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -53,9 +53,6 @@ Nick Drake - Pink Moon (1972-02-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
-</li>
-<li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">
-Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
@@ -296,6 +293,9 @@ Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
+</li>
+<li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, bass music, covers and same song titles" role="button">
+James Blake - Limit to Your Love (2010-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
 James Blunt - Some Kind of Trouble (2010-11-03)

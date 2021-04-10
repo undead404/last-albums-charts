@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:11:01.519Z
+date: 2021-04-10T22:59:01.418Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -8,8 +8,8 @@ title: "post-hardcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/04f0fa1d-018e-4138-8359-26618b763fbf/13876313910-500.jpg" data-tags="emo, post-hardcore" role="button">Story of the Year - Page Avenue (2003-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">Underoath - They're Only Chasing Safety (2004-06-15)</li>
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/03fbe7bc-3c95-40b7-85f9-92202c21bd51/26809577879-500.jpg" data-tags="post-hardcore" role="button">Alexisonfire - Crisis (2005-08-22)</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
@@ -158,9 +158,6 @@ Fightstar - Grand Unification (2006-03-10)
 </li>
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
-</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - A City By The Light Divided (2006-05-02)
@@ -317,6 +314,9 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Bring Me the Horizon - Sempiternal (2013-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/76327a3a-bfea-41df-9e4c-d9e383f7b507/6472117353-500.jpg" data-tags="hard rock, post-hardcore, metalcore" role="button">
+Asking Alexandria - From Death To Destiny (2013-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/57428883-05ae-4cf8-b428-da8ee43a16ed/17944451521-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - Common Courtesy (2013-10-08)

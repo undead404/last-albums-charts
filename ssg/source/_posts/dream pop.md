@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:59:01.473Z
+date: 2021-04-10T23:39:01.422Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
-The Cure - Disintegration (1989-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
 Julee Cruise - Floating into the Night (1989-09-12)
 </li>
@@ -281,6 +278,9 @@ The xx - Fiction (2013-07-12)
 </li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
 Washed Out - Paracosm (2013-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1887195-c463-4250-87f8-ee6b13ec8680/5308735437-500.jpg" data-tags="pop, dream pop" role="button">
+Andrew Belle - Black Bear (2013-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)

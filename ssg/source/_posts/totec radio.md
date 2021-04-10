@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T22:33:01.420Z
+date: 2021-04-10T23:07:01.397Z
 title: "totec radio: 100 albums you must listen to before you die"
 ---
 ![Justin Bieber - My World (2009-11-13)](http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg "Justin Bieber - My World (2009-11-13)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/bd08060d-bfe3-4ece-845f-6417e4adbc41/14104113696-500.jpg" data-tags="chillout, electronic dance" role="button">Spiller - Groovejet (If This Ain't Love) (2000-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/492b42f9-e583-4dda-ae2d-b7ac8cc9fe52/15475485304-500.jpg" data-tags="totec radio" role="button">The Animals - A's B's & EP's (2003)</li>
 <li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">Rogue Wave - Publish My Love (2006-01-30)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, electro, dance-pop, synth pop, synthpop, chiptunes, totec radio, alternative-indie rock, new wave-post-punk revival, albums in my collection, liz enthusiasm" role="button">Freezepop - Future Future Future Perfect (2007-09-25)</li>
-<li data-cover="http://coverartarchive.org/release/b7ee5c2f-5741-4bf8-adec-fcefab02347a/22139629427-500.jpg" data-tags="indie, indie electro, totec radio, wikus, ds co, thenewpunk" role="button">Heartsrevolution - Switchblade EP (2008-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">Kasabian - Fire (2009-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
+<li data-cover="https://img.discogs.com/FLoGd0mV2cWoFWPTW4kl79EbUpQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2142620-1549915270-8295.jpeg.jpg" data-tags="indie rock, brille" role="button">Good Shoes - No Hope, No Future (2010-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">Justin Bieber - My Worlds (2010-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg" data-tags="justin bieber" role="button">Justin Bieber - My World 2.0 (2010-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">Justin Bieber - My Worlds Acoustic (2010-11-26)</li>
@@ -27,11 +27,11 @@ Elvis Presley - Jailhouse Rock (1957)
 <li data-cover="http://coverartarchive.org/release/e8c1426d-b237-4b8a-a22b-820b807849d4/9523057681-500.jpg" data-tags="rock and roll, time-100" role="button">
 Little Richard - Little Richard (1958)
 </li>
+<li data-cover="http://coverartarchive.org/release/081916e5-0c4b-485c-88b7-320e9d31a157/8125144934-500.jpg" data-tags="60s, rock n roll, easy listning" role="button">
+Manfred Mann - The Manfred Mann Album (1964)
+</li>
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
-</li>
-<li data-cover="https://img.discogs.com/QuHQV7LM6dvPZAnjzVOc77o2UlU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13116777-1548348613-7143.jpeg.jpg" data-tags="soundtrack" role="button">
-Simon & Garfunkel - The Graduate (1968-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c139edd-5b39-409c-a28a-aa077aa2f078/1276260096-500.jpg" data-tags="samba rock" role="button">
 Jorge Ben - A Tábua De Esmeralda (1974)
@@ -48,17 +48,14 @@ Lionel Richie - Dancing On The Ceiling (1985)
 <li data-cover="http://coverartarchive.org/release/681d32f9-1174-45a5-a24f-070566119aba/14582118471-500.jpg" data-tags="tangerine dream" role="button">
 Tangerine Dream - Dream Sequence (1985-11)
 </li>
+<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack, totec radio" role="button">
+Various Artists - GOOD MORNING, VIETNAM (1987)
+</li>
 <li data-cover="https://img.discogs.com/yvW_styeZTTZYaIXwp8vOITabOo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194928-1142030625.jpeg.jpg" data-tags="industrial rock, kmfdm" role="button">
 KMFDM - Don't Blow Your Top (1988-01)
 </li>
 <li data-cover="https://img.discogs.com/Lbpu68IOzpVePgAOYv5scI0iXLU=/fit-in/591x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528268-1333988334.jpeg.jpg" data-tags="alternative, british invasion, totec radio, rpc band" role="button">
 The Animals - House of the Rising Sun (1989)
-</li>
-<li data-cover="https://img.discogs.com/p7Ah1osJQLMI8AUX8G_CQgkOqE8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065300-1501518048-5165.jpeg.jpg" data-tags="rock, indie" role="button">
-Pixies - Here Comes Your Man (1989-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/96738581-b059-48ca-ab60-7d6a71c4ffcc/17671355589-500.jpg" data-tags="rock, brazilian rock" role="button">
-Legião Urbana - As Quatro Estações (1989-10-26)
 </li>
 <li data-cover="https://img.discogs.com/f0_mZrjWff9-E6MR_hMS9B-CHmA=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3876193-1466764103-2494.jpeg.jpg" data-tags="90s, rock-etc" role="button">
 Dinosaur Jr. - Fossils (1991)
@@ -74,9 +71,6 @@ Melvins - Prick (1994-08-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female voices, singles i own, flap" role="button">
 Björk - Hyperballad (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4dca904-55fb-4358-80b1-51e3053d18c4/6212791099-500.jpg" data-tags="rock, live, steely dan" role="button">
-Steely Dan - Alive in America (1995-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/159be40b-3d93-481e-9b8b-d8786364d97c/1682071566-500.jpg" data-tags="brazilectro, favouritestreamablealbums" role="button">
 Rinôçérôse - Retrospective (1996)
@@ -117,8 +111,8 @@ Anal Cunt - Picnic of Love (1998-07-21)
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
 </li>
-<li data-cover="https://img.discogs.com/3z9yVWAeLprBSUGDe2kut8ANkNw=/fit-in/599x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10059016-1490900079-2212.jpeg.jpg" data-tags="rock" role="button">
-Legião Urbana - Acústico MTV (1999-10)
+<li data-cover="http://coverartarchive.org/release/40ecb425-099a-3ff6-ba5f-0a9edd0c10d0/5908654515-500.jpg" data-tags="totec radio, anacho" role="button">
+Sin Dios - Ingobernables (2000)
 </li>
 <li data-cover="https://img.discogs.com/W5SnZw9flcxI0hMcM0N1wdoTAzU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10716995-1502985503-1045.jpeg.jpg" data-tags="otis redding, totec radio" role="button">
 Otis Redding - It's Not Just Sentimental (2000-03-27)
@@ -129,23 +123,20 @@ Antiloop - Fastlane People (2000-04)
 <li data-cover="http://coverartarchive.org/release/bd08060d-bfe3-4ece-845f-6417e4adbc41/14104113696-500.jpg" data-tags="chillout, electronic dance" role="button">
 Spiller - Groovejet (If This Ain't Love) (2000-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/90bd8b29-5423-4888-a7dc-35af565e133c/27365541658-500.jpg" data-tags="pop, female vocalists, totec radio" role="button">
+Carpenters - As Time Goes By (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7858ce9-7004-4c6e-8546-e50fc1d62123/12588842035-500.jpg" data-tags="reggae" role="button">
 Burning Spear - Best of the Fittest (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/09df4f7e-2ffa-4435-9603-d7e65b5d3a05/1558258671-500.jpg" data-tags="totec radio, grindcore" role="button">
 Anal Cunt - Defenders of the Hate (2001)
 </li>
-<li data-cover="https://img.discogs.com/ov0m_0zgui0vVmn_eCzY51s4UK4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2274795-1467127783-9317.jpeg.jpg" data-tags="mpb" role="button">
-Adriana Calcanhotto - Perfil (2001)
-</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, british, alternative, totec radio, kot" role="button">
 Basement Jaxx - Where's Your Head At (2001-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb0d9ef2-2c19-4e8f-9b1f-9d6c44d0b480/1793860951-500.jpg" data-tags="black metal" role="button">
 Inquisition - Invoking the Majestic Throne of Satan (2002)
-</li>
-<li data-cover="https://img.discogs.com/OKrDD2Rw1GQuPzmraSYDvWiYpOQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1355158-1421994531-7646.jpeg.jpg" data-tags="electronic" role="button">
-Kinky - Kinky (2002-03-26)
 </li>
 <li data-cover="https://img.discogs.com/w_41yt9JalnUeqGSfMVqREOnNMo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9190587-1476371512-3065.jpeg.jpg" data-tags="jungle, asian underground, totec radio, psybient, indian fusion, postcolonial" role="button">
 Midival Punditz - MIDIval PunditZ (2002-10-17)
@@ -165,17 +156,20 @@ Ten Madison - From Lust to Dust (2003-10-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 M-Seven - activate (2003-12-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/131032e8-de9e-4df6-80ff-c799178299b5/20424734760-500.jpg" data-tags="rock, irish, celtic, celtic rock, totec radio" role="button">
+Neck - Here's Mud In Yer Eye! (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d18f483d-c501-473c-9c55-8db59e268e4e/23329742994-500.jpg" data-tags="so good, the brazilian hipster" role="button">
-Fort Knox Five - The Brazilian Hipster (2004-04)
 </li>
 <li data-cover="https://img.discogs.com/5Fl7GZQUbfII5-ZwlNgqIdqQDaY=/fit-in/600x905/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14000797-1565816586-3959.jpeg.jpg" data-tags="synth-pop, finnish and streamable, indie-electronica, fully streamable ep" role="button">
 Husky Rescue - Summertime Cowboy (2004-10-25)
 </li>
 <li data-cover="https://img.discogs.com/1phX6dFQrDl6PNu4ADLuIjQ1tAc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993170-1321796937.jpeg.jpg" data-tags="electronic, electronica, dance, house, totec radio, funkysex, gvadeloopp fm" role="button">
 Timo Maas - First Day (2005-04)
+</li>
+<li data-cover="https://img.discogs.com/DSepq-MIPXKp_RiJJQFEYeyk1wk=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4338171-1362869297-6883.jpeg.jpg" data-tags="totec radio" role="button">
+Ellen Allien - Magma (2005-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3ede7ea-d634-4df1-9316-3d6def119bb5/15355889459-500.jpg" data-tags="rock, da shit" role="button">
 Sean Price - Monkey Barz (2005-05-31)
@@ -185,6 +179,12 @@ Timo Maas - Pictures (2005-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5ff01a8-3590-42e1-8581-8a144c410b4f/10138520058-500.jpg" data-tags="black metal" role="button">
 Satanic Warmaster - Carelian Satanist Madness (2005-06-30)
+</li>
+<li data-cover="https://img.discogs.com/Mn0O469Eea6Q5mlnvhXdppLnWpI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10529282-1499299419-2178.jpeg.jpg" data-tags="electronic" role="button">
+Bassnectar - Mesmerizing The Ultra (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/467dd0dd-7fef-495d-b977-747ab2a70bb7/2506307597-500.jpg" data-tags="interested" role="button">
+Sound Providers - Looking Backwards: 2001-1998 (2005-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a69351c-54cc-49c2-ad6b-9f5961a09098/28637471714-500.jpg" data-tags="rock, 70s, progressive rock, totec radio" role="button">
 Supertramp - Retrospectacle: The Supertramp Anthology (2005-10-18)
@@ -197,9 +197,6 @@ Digital Underground - Playwutchyalike: The Best Of Digital Underground (2006-01-
 </li>
 <li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">
 Rogue Wave - Publish My Love (2006-01-30)
-</li>
-<li data-cover="https://img.discogs.com/uQC9YGwzQ2BymVhmEnst4xHhY1Q=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-280924-1353315609-2007.jpeg.jpg" data-tags="new wave, electronic, pop, synthpop" role="button">
-Pet Shop Boys - Fundamental (2006-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0554e45f-09d8-4d47-97c9-8214ac8e437e/14781463643-500.jpg" data-tags="steely dan, voulez voulez voulez vous, steely dan-the definitive collection" role="button">
 Steely Dan - The Definitive Collection (2006-08-01)
@@ -216,23 +213,17 @@ Klaxons - It's Not Over Yet (2007-06-25)
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, experimental, totec radio, geffen records, nice bule" role="button">
 Rooney - When Did Your Heart Go Missing? (2007-09-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, electro, dance-pop, synth pop, synthpop, chiptunes, totec radio, alternative-indie rock, new wave-post-punk revival, albums in my collection, liz enthusiasm" role="button">
-Freezepop - Future Future Future Perfect (2007-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
 Samantha James - Rise (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7ee5c2f-5741-4bf8-adec-fcefab02347a/22139629427-500.jpg" data-tags="indie, indie electro, totec radio, wikus, ds co, thenewpunk" role="button">
-Heartsrevolution - Switchblade EP (2008-04-21)
+<li data-cover="http://coverartarchive.org/release/9abb5ff2-6113-4fa4-b7e5-307072460661/6919853478-500.jpg" data-tags="00s" role="button">
+Black Kids - I'm Not Gonna Teach Your Boyfriend How To Dance With You (2008-04-04)
 </li>
 <li data-cover="https://img.discogs.com/4vjnGFCwyJPYdA-94nP0tiwIFAA=/fit-in/300x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1465569-1221794884.jpeg.jpg" data-tags="electronic, hollyoaks, sunsead" role="button">
 Does It Offend You, Yeah? - Epic Last Song (2008-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/00afba30-e707-41d4-8788-303a714dfb4f/14753957201-500.jpg" data-tags="rock, new wave" role="button">
-Billy Idol - The Very Best Of Billy Idol: Idolize Yourself (2008-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/04dbe7bc-f54e-48d4-96c0-8f8281a70581/22192116137-500.jpg" data-tags="ambient, 00s, totec radio, dekorder" role="button">
 Machinefabriek - Dauw (2008-07-28)
@@ -249,6 +240,9 @@ Orchestral Manoeuvres in the Dark - Messages: Greatest Hits (2008-09-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="simon and garfunkel, folk" role="button">
 Simon & Garfunkel - The Collection (2008-11-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/c863e27e-ad34-4334-9083-747bd11ebe15/1096713865-500.jpg" data-tags="video game music, soundtrack" role="button">
+Hans Zimmer - Call of Duty: Modern Warfare 2 (2009)
+</li>
 <li data-cover="https://img.discogs.com/ZP1Td2EdYkTd9yTbLelrAodx4nc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8800657-1469037194-9536.jpeg.jpg" data-tags="electro house" role="button">
 MSTRKRFT - Heartbreaker (2009)
 </li>
@@ -257,6 +251,9 @@ Crippled Black Phoenix - 200 Tons of Bad Luck (2009-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">
 Kasabian - Fire (2009-05-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="remix" role="button">
+Fever Ray - Triangle Walks (2009-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8d172ac-fabe-4198-b071-2274d60b72b0/2083169546-500.jpg" data-tags="alternative" role="button">
 Sarah Blasko - As Day Follows Night (2009-07-10)
@@ -299,6 +296,9 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg" data-tags="justin bieber" role="button">
 Justin Bieber - My World 2.0 (2010-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab834381-6d91-493f-87a5-bbe82ae01f4e/4436545462-500.jpg" data-tags="interested" role="button">
+Guilty Simpson - OJ Simpson (2010-05-18)
 </li>
 <li data-cover="https://img.discogs.com/blBrpZWNK1XsjIhmbOUGy19spx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6755040-1425937742-4829.jpeg.jpg" data-tags="electronic, indie, if this were a pokemon i would catch it, album of the year, dance around the livingroom, surrounded by groupies, faggy electropop" role="button">
 Faded Paper Figures - New Medium (2010-05-21)
