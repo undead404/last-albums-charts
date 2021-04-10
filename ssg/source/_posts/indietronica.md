@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:41:01.415Z
+date: 2021-04-10T20:17:06.954Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -180,9 +180,6 @@ M83 - Hurry Up, We're Dreaming (2011-10-14)
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
 </li>
-<li data-cover="https://img.discogs.com/j75Xz87F9JNmAfcRod_agzSdvDI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523946-1432282788-6738.jpeg.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
-The Big Pink - Future This (2012-01-16)
-</li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
 </li>
@@ -299,6 +296,9 @@ Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/49da37ee-065a-4d7f-a204-9dda8047aad4/6658777371-500.jpg" data-tags="indie pop, synthpop, electropop, indietronica" role="button">
+MØ - No Mythologies to Follow (2014-03-07)
 </li>
 <li data-cover="https://img.discogs.com/X4BPyuwih9Ftjun2RLU7v5627hA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5659142-1399187504-3176.jpeg.jpg" data-tags="experimental" role="button">
 tUnE-yArDs - Nikki Nack (2014-05-05)

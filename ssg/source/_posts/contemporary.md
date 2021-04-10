@@ -1,19 +1,19 @@
 ---
-date: 2021-04-09T22:42:01.427Z
+date: 2021-04-10T19:49:01.471Z
 title: "contemporary: 100 albums you must listen to before you die"
 ---
-![Max Richter - The Blue Notebooks (2004-02-26)](http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg "Max Richter - The Blue Notebooks (2004-02-26)")
+![Emancipator - safe in the steep cliffs (2010-01-19)](http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg "Emancipator - safe in the steep cliffs (2010-01-19)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e33c6e6c-d0cf-4c56-abe8-c37bfa649dd4/18075614007-500.jpg" data-tags="contemporary classical, post-classical, neoclassical, neo-classical, modern classical, postclassical" role="button">Max Richter - Memoryhouse (2002-05-27)</li>
-<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">Max Richter - The Blue Notebooks (2004-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">Ólafur Arnalds - Eulogy for Evolution (2007-10-29)</li>
-<li data-cover="http://coverartarchive.org/release/f7fda273-5504-47f0-a249-1d646ea3d517/5930060763-500.jpg" data-tags="neo-classical, contemporary classical, modern classical, neoclassical, post-classical, piano, neo classical, postclassical, post classical" role="button">Ólafur Arnalds - Variations of Static (2008-05-19)</li>
-<li data-cover="http://coverartarchive.org/release/705de6f0-e4a1-4d0e-bef7-eeae4f5115b5/5930038642-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">Ólafur Arnalds - Found Songs (2009-04-19)</li>
-<li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">Nils Frahm - Wintermusik (2009-12-07)</li>
-<li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)</li>
-<li data-cover="http://coverartarchive.org/release/566e2e7c-9cc6-41f9-864c-2bb65f540436/3979522473-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)</li>
-<li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">Ólafur Arnalds - Living Room Songs (2011-12-02)</li>
-<li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">Ólafur Arnalds - For Now I Am Winter (2013-02-25)</li>
+<li data-cover="https://img.discogs.com/TfLotYMad-QYCFMNsZsMllMGtJc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7323227-1438883622-2007.jpeg.jpg" data-tags="pop, 80s, new wave, contemporary, funk, bass, jazz rock, slap" role="button">Level 42 - The Pursuit Of Accidents (1982)</li>
+<li data-cover="https://img.discogs.com/6LTEck3UvabnY-klD0k6GEuuMkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3234455-1379266216-3651.jpeg.jpg" data-tags="pop, rock, 80s, british, new wave, contemporary, funk, bass, jazz rock, slap, lasso the moon, rca recording" role="button">Level 42 - Guaranteed (1991)</li>
+<li data-cover="http://coverartarchive.org/release/4498095f-3750-4d31-938e-486fe163de0a/7037698301-500.jpg" data-tags="rock, 80s" role="button">Level 42 - The Very Best of Level 42 (1998-10-26)</li>
+<li data-cover="http://coverartarchive.org/release/ee6c545b-7cba-41b1-9cf4-d2edb93259d2/3458028973-500.jpg" data-tags="contemporary, portugal, ethereal, interesting, zugfahrmusik, granka, hurina, world collabs, folk - portugal, atahualpa yupanqui, jonasmusik, el payador perseguido" role="button">Rodrigo Leão - Cinema (2004)</li>
+<li data-cover="http://coverartarchive.org/release/ae1f3ff2-87ac-4750-b72b-ddbaf89f9408/1977406248-500.jpg" data-tags="chillout, contemporary, post-revolutionary pop song, rock francais, mantric acoustic, chillmark, checking it out, favourite streamable albums, tagsven, yoga meditation spiritual, living rope favorites, favorite albums 2004" role="button">Encre - Flux (2004)</li>
+<li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
+<li data-cover="https://img.discogs.com/dcYJqnZA7_pTzzdV0OI2l78epE0=/fit-in/594x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1068120-1189718657.jpeg.jpg" data-tags="rock, alternative, female vocalists, contemporary, all popular" role="button">Luscious Jackson - Greatest Hits (2007-02-20)</li>
+<li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">St. Vincent - Marry Me (2007-07-10)</li>
+<li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">Emancipator - safe in the steep cliffs (2010-01-19)</li>
+<li data-cover="https://img.discogs.com/q0VNFGS23p5DVJ23W0vDoiwefjw=/fit-in/270x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880055-1305397326.jpeg.jpg" data-tags="electronic, instrumental, ambient, contemporary, cinematic, soundscape, melancholy, melancholic, sound sculpture" role="button">Field Rotation - And tomorrow I will sleep (2011-05-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,68 +21,179 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/RowarTNPCVDspjXxBDjtVUdO3NA=/fit-in/596x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1026275-1185554349.jpeg.jpg" data-tags="avant-garde" role="button">
+AMM - AMMMusic (1967)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b012728-b130-4401-b96e-86fb1c982b9b/19289000743-500.jpg" data-tags="fusion, contemporary, blues, jazz-rock, gammarec, freepurp1e" role="button">
+CCS - CCS (1970)
+</li>
+<li data-cover="https://img.discogs.com/BeNyA1A8s5KXcGcccsj6ulMUJFA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7246298-1437063860-8361.jpeg.jpg" data-tags="jazz" role="button">
+George Benson - White Rabbit (1971)
+</li>
+<li data-cover="https://img.discogs.com/UZK11EhcNW6dEKua0Sq_DcZgqx4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831080-1612888054-9331.jpeg.jpg" data-tags="jazz, contemporary, flute, cd i own, mac jazz 100, jazz-winds, h laws" role="button">
+Hubert Laws - The Rite of Spring (1971-08-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Jon Anderson - Olias of Sunhillow (1976-07)
+</li>
+<li data-cover="https://img.discogs.com/Rhkxr3Wfo5DtkPTrLbnibriBsJM=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712819-1436445212-3363.jpeg.jpg" data-tags="jazz, bass" role="button">
+Jaco Pastorius - The Birthday Concert (1981)
+</li>
+<li data-cover="https://img.discogs.com/i2MqHv7SSgnYArmpe8az2nvClU4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6122443-1589921572-7735.jpeg.jpg" data-tags="jazz, bass" role="button">
+Jaco Pastorius - The Florida Concert (1982)
+</li>
 <li data-cover="https://img.discogs.com/TfLotYMad-QYCFMNsZsMllMGtJc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7323227-1438883622-2007.jpeg.jpg" data-tags="pop, 80s, new wave, contemporary, funk, bass, jazz rock, slap" role="button">
 Level 42 - The Pursuit Of Accidents (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/1864c6c4-6032-4d0f-a486-f8be835ade06/5944981705-500.jpg" data-tags="contemporary classical" role="button">
-Meredith Monk - Turtle Dreams (1983)
+<li data-cover="https://img.discogs.com/DQuzA_EM6VxyKj7NzEeNcz52jYA=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1945595-1273662412.jpeg.jpg" data-tags="fusion" role="button">
+Steps Ahead - Steps Ahead (1983)
 </li>
-<li data-cover="https://img.discogs.com/bKgnmfyYE6CyP1H_n2tnzLPPrBU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950052-1407162583-5162.jpeg.jpg" data-tags="80s, pop" role="button">
-XTC - Skylarking (1986-10-27)
+<li data-cover="https://img.discogs.com/0adN4X0b0pkNGfty2LeGeja9Kc0=/fit-in/600x909/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11021230-1508397467-5414.jpeg.jpg" data-tags="funk" role="button">
+Level 42 - True Colours (1984-10)
+</li>
+<li data-cover="https://img.discogs.com/jhCK24LYyweXLZL0MOa8FKjHwVo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525597-1601554986-3278.jpeg.jpg" data-tags="pop, rock, 80s, british, contemporary, funk, adult contemporary, bass, jazz rock, live, slap" role="button">
+Level 42 - A Physical Presence (1985-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9fa37d2-9ab7-4903-8289-c77f2c884d02/5843608003-500.jpg" data-tags="clinically romantic, soundtrack, ambient" role="button">
+Coil - Hellraiser Themes (1987)
+</li>
+<li data-cover="https://img.discogs.com/sh7udceKcjCnx2nf0QYPwwjkKr8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993874-1257353554.jpeg.jpg" data-tags="fusion, contemporary, funk, bass, jazz rock, not available on last-fm radio yet" role="button">
+John Patitucci - John Patitucci (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a04d61e-788e-4313-91e5-dc278f5f53c1/1877796895-500.jpg" data-tags="british, contemporary, jamaica, roots reggae" role="button">
 Steel Pulse - State Of Emergency (1988)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2a0f1ed-87da-4838-9d4c-5c5bfcf99ef0/17686930223-500.jpg" data-tags="experimental" role="button">
-Kronos Quartet - Black Angels (1990-06-21)
+<li data-cover="http://coverartarchive.org/release/acac87a2-2c0f-4ba7-975b-61940242501a/7900648919-500.jpg" data-tags="jazz fusion" role="button">
+Steps Ahead - N.Y.C. (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/4260cb0b-1fc0-4bdb-a409-e9c934b767f7/15621832418-500.jpg" data-tags="classical" role="button">
-Carl Orff - Carmina Burana (1990-09-10)
+<li data-cover="http://coverartarchive.org/release/f3e2f1c0-b16e-418f-9b99-dfb7fbb45bb6/13028516553-500.jpg" data-tags="fusion, contemporary, bass, jazz rock, late night music, fretless bass, instrumental music, long distance driving music, m manring" role="button">
+Michael Manring - Toward the Center of the Night (1989-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc240082-f985-4c0f-9360-31dfd1e9a84c/1541705791-500.jpg" data-tags="fusion, contemporary, funk, adult contemporary, bass, smooth jazz, jazz rock, brian bromberg, not available on last-fm radio yet" role="button">
+Brian Bromberg - BASSically Speaking (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b1d9e7a-6e5e-403f-8076-06deb1b334a0/26165614461-500.jpg" data-tags="jazz, fusion" role="button">
+John Patitucci - Sketchbook (1990)
 </li>
 <li data-cover="https://img.discogs.com/6LTEck3UvabnY-klD0k6GEuuMkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3234455-1379266216-3651.jpeg.jpg" data-tags="pop, rock, 80s, british, new wave, contemporary, funk, bass, jazz rock, slap, lasso the moon, rca recording" role="button">
 Level 42 - Guaranteed (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/7b9c3472-d5d7-45d3-979c-457d1e63fc1f/6398987390-500.jpg" data-tags="jazz" role="button">
+Michael Manring - Drastic Measures (1991-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/dce67341-a59f-4757-a3ab-b224713b1ee3/4620750435-500.jpg" data-tags="jazz, bass, brian bromberg" role="button">
+Brian Bromberg - It's About Time: The Acoustic Project (1991-05-21)
+</li>
+<li data-cover="https://img.discogs.com/XVnn4MqnAFLDDV7NDAvxK6uYc10=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4751769-1374368121-2566.jpeg.jpg" data-tags="basically bass" role="button">
+John Patitucci - Heart Of The Bass (1992)
+</li>
 <li data-cover="https://img.discogs.com/EKxfWgHAOOxmiMqnhYc3ZAMyoZU=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2727533-1298311065.jpeg.jpg" data-tags="jazz, fusion, contemporary, funk, jazz rock, steps ahead" role="button">
 Steps Ahead - Yin-Yang (1992-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/af514041-d09c-40e6-b679-3f5fcfe184fd/7579699768-500.jpg" data-tags="piano, jazz" role="button">
-Keith Jarrett - Vienna Concert (1992-09-01)
+<li data-cover="https://img.discogs.com/jBx5JB0IZgn4G0H5z3-60kYvDD0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824105-1458478006-9191.jpeg.jpg" data-tags="jazz, instrumental, smooth jazz" role="button">
+John Patitucci - Another World (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/f0490e00-bf5f-45ce-b977-8e89dbb5d6b2/8120138180-500.jpg" data-tags="fusion" role="button">
-Allan Holdsworth - Wardenclyffe Tower (1992-10-20)
+<li data-cover="http://coverartarchive.org/release/8b194a81-76f8-4f86-bf02-db891a872262/3557742232-500.jpg" data-tags="smooth jazz" role="button">
+Brian Bromberg - Brian Bromberg (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
-Ludovico Einaudi - Le Onde (1996)
+<li data-cover="https://img.discogs.com/f229aRtZ3ljBJFDgFObpbBUcAy8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14709844-1580076953-3911.jpeg.jpg" data-tags="fusion, jazz" role="button">
+Jaco Pastorius - Holiday for Pans (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/31337948-da32-4b0f-bd5e-da30ec7be81d/28172940554-500.jpg" data-tags="funk, bass, jazz" role="button">
+Marcus Miller - The Sun Don't Lie (1993-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d13add7b-f615-4c69-971e-b5f9b1602743/10673096165-500.jpg" data-tags="spanish, pop, 90s, latin pop" role="button">
+Nicole - Esperando Nada (1994-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/429ecfa6-fc6d-459c-bbf8-6afd3977f86d/22492281423-500.jpg" data-tags="country, christmas, contemporary" role="button">
+Clint Black - Looking for Christmas (1995)
+</li>
+<li data-cover="https://img.discogs.com/7EsCKCWfO2J6Q0dRg2rbWIYhklc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1747899-1537372200-7508.jpeg.jpg" data-tags="jazz, funk, bass, jazz rock, basically bass" role="button">
+John Patitucci - Mistura Fina (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/361acf35-227b-479f-ba23-d5de34dd819b/6340645118-500.jpg" data-tags="new age" role="button">
+David Arkenstone - Quest Of The Dream Warrior (1995)
+</li>
+<li data-cover="https://img.discogs.com/kc5nC0Wo4SsBLJcpVv928SqNzlE=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5308120-1390162753-1410.jpeg.jpg" data-tags="jazz, fusion, contemporary, funk, jazz fusion, jazz rock, steps ahead, artist owned recording, s ahead" role="button">
+Steps Ahead - Vibe (1995-01-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/25db6da3-acb0-43b0-9a28-a75ae5951654/24708631291-500.jpg" data-tags="jazz, ambient, contemporary, ecm, flow, ecm globalmusic, p erskine" role="button">
+Peter Erskine - As It Is (1996)
+</li>
+<li data-cover="https://img.discogs.com/OKQtbCDrRPbW66MX-WhahtZPfBc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4763508-1380750439-1883.jpeg.jpg" data-tags="basically bass" role="button">
+Gary Willis - No Sweat (1996)
 </li>
 <li data-cover="https://img.discogs.com/lzc8n6y2RJo_cXsR3uW4OBtKuCQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-181779-1205567296.jpeg.jpg" data-tags="pop, 80s, british, new wave, contemporary, funk, adult contemporary, bass, jazz rock, slap" role="button">
 Level 42 - Turn It On (1996-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
-Dead Can Dance - Spiritchaser (1996-06-03)
+<li data-cover="https://img.discogs.com/l5myufUizXhBgxlkKy3tbjgBapA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8611182-1465104843-1754.jpeg.jpg" data-tags="bass" role="button">
+John Patitucci - One More Angel (1997)
+</li>
+<li data-cover="https://img.discogs.com/iOgWIJbw16HY12_q_31KPK0egUs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3982790-1400532847-3575.jpeg.jpg" data-tags="jazz, bass, jaco pastorius" role="button">
+Jaco Pastorius - Live in Italy (1997-02-00)
+</li>
+<li data-cover="http://coverartarchive.org/release/0caf4493-98af-4501-a49c-efec9de0f100/18924179996-500.jpg" data-tags="experimental" role="button">
+Scanner - Delivery (1997-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ebfbc0a-2e54-4bc6-8660-13eb2515659c/3414141392-500.jpg" data-tags="ambient" role="button">
+Robert Rich - Seven Veils (1998)
+</li>
+<li data-cover="https://img.discogs.com/rXf1Zu-0b-fcX6n0Gm8EmJYqwaw=/fit-in/600x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1208563-1508537451-5758.jpeg.jpg" data-tags="jazz, bass, smooth jazz" role="button">
+Brian Bromberg - You Know That Feeling (1998-02-17)
+</li>
+<li data-cover="https://img.discogs.com/0I-rTMA0kKl23lXhghJp_CKCeE8=/fit-in/400x382/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5969646-1407685301-7320.jpeg.jpg" data-tags="jazz, fusion, bass" role="button">
+John Patitucci - Now (1998-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2915484-c98d-49fb-b7d6-3f2018deb284/21222670162-500.jpg" data-tags="pop, rock, 80s, british, new wave, contemporary, funk, adult contemporary, bass, jazz rock, slap" role="button">
+Level 42 - On a Level (1998-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4498095f-3750-4d31-938e-486fe163de0a/7037698301-500.jpg" data-tags="rock, 80s" role="button">
 Level 42 - The Very Best of Level 42 (1998-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b72c12d-94f6-375c-9efa-e01bd23d7caf/5345370473-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Sylvain Chauveau - The Black Book of Capitalism (2000)
+<li data-cover="https://img.discogs.com/ckkYzvH4kvs7DTv92wP9sQIDnAw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2130146-1523042160-7719.jpeg.jpg" data-tags="progressive rock" role="button">
+Universal Totem Orchestra - Rituale alieno (1999)
 </li>
-<li data-cover="https://img.discogs.com/HHiAWJn4HodjvMk75CERaLpI-z4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14903415-1583775784-3839.jpeg.jpg" data-tags="ambient" role="button">
-Goldfrapp - Utopia (2000-11-06)
+<li data-cover="http://coverartarchive.org/release/6808220e-fc82-4b23-8dd0-e0c089bcf722/18766561334-500.jpg" data-tags="classical, contemporary" role="button">
+Gavin Bryars - Cadman Requiem (1999-01-12)
+</li>
+<li data-cover="https://img.discogs.com/sOgL5XYgLKEkmFHeXa7In8hP7xk=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3728070-1591037056-5450.jpeg.jpg" data-tags="pop, rock, british, contemporary, funk, adult contemporary, bass, smooth jazz, jazz rock, slap" role="button">
+Mark King - One Man (1999-05-18)
+</li>
+<li data-cover="https://img.discogs.com/T7DcSu1H9M5_FEjC2iisr8RwPKI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603896-1294211474.jpeg.jpg" data-tags="fusion, jazz rock" role="button">
+Steps Ahead - Smokin' in the Pit (1999-08-10)
+</li>
+<li data-cover="https://img.discogs.com/ZyM6OAPZXGOJTn4sOq7knTBfiFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6027095-1409167473-4567.jpeg.jpg" data-tags="bass" role="button">
+John Patitucci - Imprint (2000-02-01)
+</li>
+<li data-cover="https://img.discogs.com/ijzaRn2YdIvY5CZtnqBaEo018To=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11222793-1512196322-2184.jpeg.jpg" data-tags="jazz, fusion, contemporary, funk, bass, jazz rock, fretless bass, j pastorius" role="button">
+Jaco Pastorius - Rare Collection (2000-07)
+</li>
+<li data-cover="https://img.discogs.com/xVsuBhJKFG6_VYWXDpHoqKbgtNI=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1422755-1461798643-6782.jpeg.jpg" data-tags="jazz" role="button">
+Victor Bailey - That's Right! (2001)
+</li>
+<li data-cover="https://img.discogs.com/crjg5G8OZvQGzjei_MErM7kwYKw=/fit-in/416x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10473276-1498155825-1835.jpeg.jpg" data-tags="bass, basically bass" role="button">
+Brian Bromberg - Jaco (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/5421f29f-af4c-462c-89a1-07694eea649f/1497382853-500.jpg" data-tags="abstract, privatelektro, experimental, minimal, glitch, scotland, granular" role="button">
+triPhaze - Scotland Tapes (2002)
+</li>
+<li data-cover="https://img.discogs.com/m2FG0JYf4YVdASOqVswSprMLXAk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3154057-1318247022.jpeg.jpg" data-tags="jazz" role="button">
+Marcus Miller - The Ozell Tapes: The Official Bootleg (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a299cf1-8967-4f48-9047-e496af628b78/28258184422-500.jpg" data-tags="bass, jazz" role="button">
 Brian Bromberg - Wood (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/e33c6e6c-d0cf-4c56-abe8-c37bfa649dd4/18075614007-500.jpg" data-tags="contemporary classical, post-classical, neoclassical, neo-classical, modern classical, postclassical" role="button">
-Max Richter - Memoryhouse (2002-05-27)
+<li data-cover="http://coverartarchive.org/release/ebc0b06d-d47d-4a7b-967a-e845bd1db3f9/19109365037-500.jpg" data-tags="praise and worship" role="button">
+The Katinas - Lifestyle (2002-06-18)
 </li>
-<li data-cover="https://img.discogs.com/lfBMlKsT80JUQXPXo_IBaN9-Udw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1169636-1223380077.jpeg.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Jóhann Jóhannsson - Englabörn (2002-09-16)
+<li data-cover="https://img.discogs.com/Xd1nLlKjNmOqT6wSFQkU0BLn85U=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8132738-1455748305-3638.jpeg.jpg" data-tags="jazz" role="button">
+John Patitucci - Songs, Stories & Spirituals (2003-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4db34d52-6489-41e3-b649-c23d4c8657e1/8413288995-500.jpg" data-tags="anuna" role="button">
 Anúna - Behind the Closed Eye (2003-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/f9bbeba9-2e16-4c48-b1b8-3fd48d34dbea/15062642987-500.jpg" data-tags="ambient, piano, contemporary classical, modern classical, neoclassical, post-classical, cinematic, melancholy, melancholic, contemporary piano, ambient piano" role="button">
-Harold Budd - La Bella Vista (2003-10-07)
+<li data-cover="http://coverartarchive.org/release/52e213e5-26b3-48f6-9da8-1d63dc8998b2/15951368202-500.jpg" data-tags="basically bass" role="button">
+Jaco Pastorius - Punk Jazz: The Jaco Pastorius Anthology (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee6c545b-7cba-41b1-9cf4-d2edb93259d2/3458028973-500.jpg" data-tags="contemporary, portugal, ethereal, interesting, zugfahrmusik, granka, hurina, world collabs, folk - portugal, atahualpa yupanqui, jonasmusik, el payador perseguido" role="button">
 Rodrigo Leão - Cinema (2004)
@@ -90,59 +201,59 @@ Rodrigo Leão - Cinema (2004)
 <li data-cover="http://coverartarchive.org/release/ae1f3ff2-87ac-4750-b72b-ddbaf89f9408/1977406248-500.jpg" data-tags="chillout, contemporary, post-revolutionary pop song, rock francais, mantric acoustic, chillmark, checking it out, favourite streamable albums, tagsven, yoga meditation spiritual, living rope favorites, favorite albums 2004" role="button">
 Encre - Flux (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Max Richter - The Blue Notebooks (2004-02-26)
+<li data-cover="https://img.discogs.com/BARTtHwzOoGkcZw-xZMhUzmV1tw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1255186-1204117622.jpeg.jpg" data-tags="jazz, bass, basically bass" role="button">
+Jeff Berlin - Lumpy Jazz (2004)
 </li>
-<li data-cover="https://img.discogs.com/YAaHMM8jbuPnnCmjP3cTIcdEm3o=/fit-in/200x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748510-1154810258.jpeg.jpg" data-tags="darkwave, neofolk, neoclassical" role="button">
-Ataraxia - Saphir (2004-04-14)
-</li>
-<li data-cover="https://img.discogs.com/BhDZgJqMKQHpc3DJGYxa94zasLU=/fit-in/590x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-315786-1203419548.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
-Sylvain Chauveau - Des plumes dans la tête (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8f6d5b5-5049-4960-8a56-1a6a155e8501/6155056655-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
-Dustin O'Halloran - Piano Solos (2004-09-13)
-</li>
-<li data-cover="https://img.discogs.com/8ou0SxsEVeCELQr2Da8KuE-taW4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580919-1525482869-2018.jpeg.jpg" data-tags="piano, jazz piano" role="button">
-Brad Mehldau - Live In Tokyo (2004-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c4943edf-c422-47dc-8e2a-45221133a09b/3523786600-500.jpg" data-tags="female vocalists, contemporary, romantic, gothic, melodic, moody, reflective, peaceful, ethereal, emotional, eerie, darkwave, italian, dark ambient, neofolk, meditative, neo-classical, devotion, relax, neoclassic, heavenly voices, dreamlike, neoclassical, drifting, hymns, visions, enigmatic, ethereal and medieval, neo-pagan, drift, neomedieval, italian folk, voci celestiali, voces celestiales" role="button">
-Ataraxia - Arcana Eco (2005)
+<li data-cover="https://img.discogs.com/MVxqePt3tzc8liNYWZQmUN-iPos=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760493-1241616126.jpeg.jpg" data-tags="smooth jazz, jazz, basically bass" role="button">
+Brian Bromberg - Choices (2004-01-13)
 </li>
 <li data-cover="https://img.discogs.com/4FODhGFoS6WKsQGfkATi9B96LFs=/fit-in/343x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698714-1149071666.jpeg.jpg" data-tags="electronic, electronica, jazz, pop, downtempo, dance, contemporary, funk, ska, lounge, funky, breaks, breakbeat, brass, cover versions, freshly squeezed, sampladelic, mondiovision, labels - freshly squeezed music, uk artist, funky trippy tapes" role="button">
 The Voodoo Trombone Quartet - The Voodoo Trombone Quartet (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/f461a381-c662-4e28-8ffd-a22ca187fcd9/19930709484-500.jpg" data-tags="lounge" role="button">
+Lemon - With a Twist (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
 </li>
-<li data-cover="https://img.discogs.com/qY0X5c-ke9A4TgIeC0HFirw8ujs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722182-1239203006.jpeg.jpg" data-tags="jazz" role="button">
-Chris Potter - Underground (2006-01-01)
+<li data-cover="http://coverartarchive.org/release/9abe8ca7-7d17-4fe4-b5e5-fb9ec6808c5a/24404703976-500.jpg" data-tags="progressive rock" role="button">
+Sympozion - Kundabuffer (2006)
 </li>
-<li data-cover="https://img.discogs.com/BC41d7iUIHgcIiT8X6vrwwggjQ4=/fit-in/580x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767541-1156713929.jpeg.jpg" data-tags="instrumental, ambient, piano, contemporary, cinematic, avant-garde, contemporary classical, avantgarde, melancholy, composer, minimalism, melancholic, modern classical, modern classic, minimalist, neoclassical, pianist, piano solo, contemporary instrumental, post-classical, piano ambient, solo piano, contemporary piano, ambient piano, piano space, piano quiet, serene piano" role="button">
-Max Richter - From "The Art of Mirrors" (2006-09-13)
+<li data-cover="https://img.discogs.com/OV3egeS4TiFvSRlJN7k2sD8dTuo=/fit-in/150x146/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-714781-1151062271.jpeg.jpg" data-tags="instrumental" role="button">
+David Antony Clark - Shaman Dancing (2006)
 </li>
-<li data-cover="https://img.discogs.com/NvmRufaO2RAjrDAztOYOP4V7aso=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956459-1177242914.jpeg.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
-Dustin O'Halloran - Piano Solos Vol. 2 (2006-10-10)
+<li data-cover="https://img.discogs.com/0KjDZTfMiYyaSNJh6qYmAd7aPag=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7068704-1432984955-7469.jpeg.jpg" data-tags="jazz, fusion, bass" role="button">
+John Patitucci - Line By Line (2006-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/12e3273d-65f2-4360-bcb6-66e42af68a53/16162070879-500.jpg" data-tags="piano, contemporary classical, modern classical, neoclassical, post-classical, ambient, neo-classical" role="button">
-Library Tapes - Feelings for Something Lost (2006-10-16)
+<li data-cover="https://img.discogs.com/5vQC6yC7fPlEzzeZzpRW2RbGty4=/fit-in/200x201/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643695-1142472422.jpeg.jpg" data-tags="fieldrecordings, privatelektro, electronic, ambient, experimental, dark ambient" role="button">
+triPhaze - standing on a hill (2006-03)
 </li>
-<li data-cover="https://img.discogs.com/5OSwaqyOlT6TwkXSohtqnpJQKho=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-852834-1165827984.jpeg.jpg" data-tags="contemporary classical, modern classical, post-classical, neoclassical, neo-classical, piano, neo classical, postclassical, post classical, modern composition" role="button">
-Max Richter - Songs From Before (2006-10-16)
+<li data-cover="http://coverartarchive.org/release/b21a34ed-67fa-4e37-ad14-5493424b3bef/1541749195-500.jpg" data-tags="bass" role="button">
+Brian Bromberg - Wood II (2006-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/31d17dcc-56ec-4955-9033-9218e5e7a56f/5416049354-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, ambient, piano, cinematic, melancholy, minimalism, melancholic, neo-classical, minimalist, piano ambient, contemporary piano, ambient piano" role="button">
-Jóhann Jóhannsson - IBM 1401, A User's Manual (2006-10-30)
+<li data-cover="https://img.discogs.com/x_TntUqLKw2bIVH4JqU6aAoCCOg=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6360885-1522480716-6982.jpeg.jpg" data-tags="jazz, smooth jazz" role="button">
+Brian Bromberg - Downright Upright (2006-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ea85243-fd4b-4296-96bf-dbde750811e9/18247539765-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, ambient" role="button">
-Rafael Anton Irisarri - Daydreaming (2007-02-12)
+<li data-cover="https://img.discogs.com/axN9BRaLReI98AtiXvN9TN0hIuM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671647-1361136530-4788.jpeg.jpg" data-tags="contemporary, dada, ambience, jonasmusik" role="button">
+Gultskra Artikler - Pofigistka (2006-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/dae93b48-1250-49b0-a801-92d9d51047bf/6374491615-500.jpg" data-tags="80s" role="button">
+Level 42 - The Definitive Collection (2006-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c149f1a-9fb8-454d-b4ae-e9f72d4251b4/5042414016-500.jpg" data-tags="experimental, unsigned, electronica, indie, alternative, chillout" role="button">
+Macadamia - The EP (2006-08-08)
+</li>
+<li data-cover="https://img.discogs.com/ZG-rizSkLV6hXkkzFYeVrs0WDZo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270148-1205237865.jpeg.jpg" data-tags="noise, experimental, contemporary, improvisation, avant-garde, improvisational, industrial ambient" role="button">
+hwyl nofio - Hounded By Fury (2006-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad5f4d26-9e11-49a1-82e5-6c6cec2339fe/5829497019-500.jpg" data-tags="instrumental, ambient, piano, contemporary, new age, relaxing" role="button">
+Ralph Zurmühle - Our Mother (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fd864a8-8f45-4394-88fc-6c805acd1c28/5805133937-500.jpg" data-tags="electronica, ambient, idm, electronic, downtempo" role="button">
+Northcape - Detach (2007-01-31)
 </li>
 <li data-cover="https://img.discogs.com/dcYJqnZA7_pTzzdV0OI2l78epE0=/fit-in/594x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1068120-1189718657.jpeg.jpg" data-tags="rock, alternative, female vocalists, contemporary, all popular" role="button">
 Luscious Jackson - Greatest Hits (2007-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e075b0c-d474-468b-b9fc-a07b7d6f3896/16065695562-500.jpg" data-tags="cello, instrumental" role="button">
-Julia Kent - Delay (2007-03-07)
-</li>
-<li data-cover="https://img.discogs.com/kn-j4L31q_0MOYXlKtxK3dhwmA8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2444675-1284412631.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, piano" role="button">
-Dustin O'Halloran - Runner (2007-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
@@ -150,175 +261,64 @@ Marcus Miller - Free (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">
 St. Vincent - Marry Me (2007-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
-Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="arab" role="button">
+k-shan - memory and dust (2007-08-01)
 </li>
-<li data-cover="https://img.discogs.com/u2PE13NSdNF7CU_ntrvzaqoTwAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1132840-1446673266-1020.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano" role="button">
-Library Tapes - Sketches (2007-11-12)
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="classical, chill, instrumental, solo, contemporary, modern, romantic, new age, melodic, cinematic, debussy, haunting, composer, emotional, relaxing, calming, soulful, erik satie, piano music, john williams, film music, dynamic, emotive, powerful, enya, classical piano, rapture, samson, ludwig van beethoven, mozart, beethoven, pianist, michael, piano solo, serene, chopin, jerry goldsmith, impressionism, classical music, movie music, contemporary instrumental, ennio morricone, yann tiersen, keith jarrett, solo piano, captivating, contemporary piano, instrumentalist, classical pop, new age piano, new age music, modern piano, contemporary music, soloist, claude debussy, impressionistic, ralph vaughan williams, yanni, wolfgang amadeus mozart, solo instrumental, instrumental music, instrumental piano, contemporary instrumental music, provoking, james horner, jim brickman, frederick chopin, michael nyman, david nevue, sheet music, nicholas gunn, david lanz, suzanne ciani, piano sheet music, william joseph, stephan moccio, modern piano solo, solo piano music, solo piano sheet music, a still motion, clara ponty, michael samson, still motion productions, until tomorrow comes" role="button">
+Michael Samson - A Still Motion (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/c1a5cae2-c89f-4134-8b21-265e106ca563/27741044035-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Sylvain Chauveau - Nuage (2007-11-23)
+<li data-cover="https://img.discogs.com/dfl8Fg4qoF3NOxN87Lja-TTuj5Q=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3156272-1318340907.jpeg.jpg" data-tags="ambient" role="button">
+Zagrob - Le Soleil Noir (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/65e1e96e-b4df-45ec-b9f8-9ad0f539fd44/4761187717-500.jpg" data-tags="soundtrack, electronic, rock, dub, contemporary, modern, atmospheric, synthesizer, los angeles, dynamic, creepy, break beat, analog, sub bass, snyth" role="button">
 TRS-80 - The New You (2008-01-29)
 </li>
-<li data-cover="https://img.discogs.com/5QEoSgdSfgTmNUNf6fXLXDH-kzk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331089-1210262425.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical, neo classical" role="button">
-Peter Broderick - Float (2008-05-12)
+<li data-cover="https://img.discogs.com/31iPqOv0_0DhRYywW23khbYLhGM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2518831-1288433669.jpeg.jpg" data-tags="contemporary, avant, tzadik, parts of the body" role="button">
+Paola Prestini - Body Maps (2008-09-16)
 </li>
-<li data-cover="https://img.discogs.com/KGLG8g1IY4AvJKWvAeJ-x63fiRM=/fit-in/415x242/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4892120-1378652731-2764.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
-Peter Broderick - Float 2013 (2008-05-12)
+<li data-cover="https://img.discogs.com/KG43Xo19ndsqxfCvkn3KDOzztFA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5265834-1389095172-5428.jpeg.jpg" data-tags="spanish, indie, rock, punk, alternative, reggae, folk, rap, experimental, acoustic, fusion, world, contemporary, latin, ska, psychedelic, london, singer, guitar, ethnic, gypsy, energetic, español, barcelona, funky, progressive, political, brazilian, world music, band, latino, activist, 00s, world fusion, espanol, latin alternative, latin america, flamenco, mestizo, europe, gipsy, lyrics, socially conscious, rumba, lowlands, sound, manu chao, international, festival, latina, lively, diverse, mediterranean, avante garde, gogol bordello, cultural, rodrigo y gabriela, nuevo, ozomatli, rhythms, musica, mestizaje, la pegatina, macaco, peyote, fermin muguruza, ojos de brujo, che sudaka, amparanoia, academy, przystanek woodstock, cargo, manu negra, amadou & mariam, sergent garcia, blue king brown, los de abajo, la kinky beat, canteca de macao, flamenkillo, headliners, calle13, dusminguet, la troba kung-fu, anglo italian, anti globalista, conquistadors, pietro dimascio, real democracy, sfinks, rockwave, dingwalls, anti globalization, glastonbury bestival, global troubadours, peyote for president, peyoti for president, rumba live, spanish revolucion" role="button">
+Peyoti for President - Rising Tide Of Conformity (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/f7fda273-5504-47f0-a249-1d646ea3d517/5930060763-500.jpg" data-tags="neo-classical, contemporary classical, modern classical, neoclassical, post-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - Variations of Static (2008-05-19)
+<li data-cover="http://coverartarchive.org/release/13b1ae38-14a7-4e01-be47-3bc35b8862d5/4487578112-500.jpg" data-tags="jazz" role="button">
+Jeff Berlin - In Harmony's Way (2009-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ab3e83e-9828-4653-b15d-68364cfeb9f6/6687658194-500.jpg" data-tags="neoclassical, contemporary classical, post-classical, modern classical, piano, neo-classical" role="button">
-Library Tapes - Fragment (2008-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/336b5981-acbf-4993-9138-a15fa2b533b0/4577888247-500.jpg" data-tags="neoclassical, post-classical, piano, contemporary classical, neo-classical, ambient, modern classical" role="button">
-Goldmund - The Malady Of Elegance (2008-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/401b4225-f558-4831-ae2a-0e0847b60268/3387675819-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical, modern composition" role="button">
-Max Richter - 24 Postcards in Full Colour (2008-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/89b522b0-9e00-3d90-a068-182ad410c00b/1149714168-500.jpg" data-tags="contemporary classical, neoclassical, ambient, piano, modern classical, post-classical, contemporary piano" role="button">
-Hauschka - Ferndorf (2008-09-08)
-</li>
-<li data-cover="https://img.discogs.com/YYoqEbDvkTE8qEmZ7xiIYGdBkiY=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1762253-1361140144-2357.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano, postclassical, neo classical, post classical" role="button">
-Jóhann Jóhannsson - Fordlandia (2008-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/569be8e9-93e6-4a15-983a-1fd6455f9dba/16162060007-500.jpg" data-tags="ambient, post-classical, contemporary classical, modern classical, neoclassical" role="button">
-Library Tapes - a summer beneath the trees (2008-11-24)
-</li>
-<li data-cover="https://img.discogs.com/VADlCskIuK1TOmkoVcGwwnTV9Fk=/fit-in/269x269/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2371134-1280134649.jpeg.jpg" data-tags="indie, classical, instrumental, alternative, calm, piano, easy listening, contemporary, romantic, new age, minimal, peaceful, atmospheric, contemporary classical, melancholy, composer, ethereal, finnish, minimalism, meditation, melancholic, post rock, neo-classical, relax, lesser known yet streamable artists, neo classical, netlabel, funeral music, funeral, music to fall asleep to, background music, neoclassical, finland, piano solo, serene, chopin, impressionism, minimalistic, post-classical, relaxing music, finnish and streamable, sad piano, solo piano, contemporary piano, impressionistic, max richter, matti paalanen, frozen silence, olafur arnalds, concentration, romantic piano, celestial aeon project, beautiful piano music, classical piano music, full free album download, sad piano music, pure piano, only piano, music for funeral, similar to max richter, sad and romantic piano, sad music for funeral, instrumental piano music, contemporary classical piano music, similar to olafur arnaldsminimalism" role="button">
-Frozen Silence - Sky (2008-12-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/797590a0-b8bc-4f8c-bb6c-123c6bdf1fee/5943473266-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, neo-classical, post-classical, neo classical" role="button">
-Jóhann Jóhannsson - And in the endless pause there came the sound of bees (2009)
-</li>
-<li data-cover="https://img.discogs.com/Zezv9coy2pkXjVaRCVGHVPu6K1E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966311-1517040069-7909.jpeg.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Sylvain Chauveau - Touching Down Lightly (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/705de6f0-e4a1-4d0e-bef7-eeae4f5115b5/5930038642-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - Found Songs (2009-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9ab79ef-bf01-4443-9142-4d9718f32226/3415443971-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">
-Luigi Rubino - A Theme for the Moon (2009-04-27)
-</li>
-<li data-cover="https://img.discogs.com/XkKf3zBMa3oxQFr3wL-UdnPxQFE=/fit-in/310x310/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831444-1246368131.jpeg.jpg" data-tags="ambient, piano, cinematic, contemporary classical, melancholy, melancholic, modern classical, neoclassical, post-classical, contemporary piano" role="button">
-Danny Norbury - Light In August (2009-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1dc2a35-d7c3-3523-97c6-8e452d483b06/3629230950-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical" role="button">
-Nils Frahm - The Bells (2009-06-12)
-</li>
-<li data-cover="https://img.discogs.com/JoOMLcgyyAS_g2m0jqu7Hy0E6no=/fit-in/560x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1945040-1254150672.jpeg.jpg" data-tags="post-classical, contemporary classical, modern classical, neoclassical, neo-classical, neo classical" role="button">
-Rachel Grimes - Book Of Leaves (2009-09-22)
-</li>
-<li data-cover="https://img.discogs.com/rYT0rYM6pCS1ShXjFD3vGQhpbQc=/fit-in/599x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1988333-1266927810.jpeg.jpg" data-tags="experimental, piano, contemporary, late night, contemporary classical, nice, home normal" role="button">
-Le Lendemain - Fires (2009-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d17dd09-d3bc-4e7d-94b2-54d524b76af4/9510361577-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, piano" role="button">
-Ólafur Arnalds - Dyad 1909 (2009-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Nils Frahm - Wintermusik (2009-12-07)
+<li data-cover="https://img.discogs.com/zjvkc6dKy_Ppbz4HEq04coFKfso=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990760-1415519382-1435.jpeg.jpg" data-tags="ambient, electronic" role="button">
+Field Rotation - Licht und Schatten (2009-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd7758de-7ecc-417b-9cf9-ce41616144dd/5929835723-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, piano" role="button">
-Dustin O'Halloran - Vorleben (2010-04-16)
+<li data-cover="http://coverartarchive.org/release/eb5c5d48-cb07-42c7-9178-ab873e2f8bf3/6409472268-500.jpg" data-tags="instrumental, piano" role="button">
+Wim Mertens - Zee Versus Zed (2010-10-25)
 </li>
-<li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
-Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
-</li>
-<li data-cover="https://img.discogs.com/jNo_90vy7KE7FfGzeZb8YJJ1LOg=/fit-in/501x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2279518-1339251334-7312.jpeg.jpg" data-tags="ambient, serein" role="button">
-Olan Mill - Pine (2010-05-10)
-</li>
-<li data-cover="https://img.discogs.com/EErTSBuKWQ3gubWED84owFjCzFE=/fit-in/317x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2355709-1279321276.jpeg.jpg" data-tags="neoclassical, post-classical, contemporary classical, ambient, melancholy, melancholic, contemporary piano, piano, cinematic, modern classical, neo-classical" role="button">
-Nils Frahm & Anne Müller - 7fingers (2010-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/e788f8b4-7458-4d40-8169-4d6a642b4c33/3387689214-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, neo-classical, post-classical, neo classical, piano, postclassical, post classical, modern composition" role="button">
-Max Richter - Infra (2010-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ae1bbdb-6b97-425f-a65c-677ede0102ef/15841158184-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, piano, modern classical, neo classical, postclassical, post classical" role="button">
-Goldmund - Famous Places (2010-08-24)
-</li>
-<li data-cover="https://img.discogs.com/fE-yn03ucQeURpu-tbxOqffTxkQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2517690-1288361874.jpeg.jpg" data-tags="piano, contemporary classical, minimalism" role="button">
-Clem Leek - Holly Lane (2010-09)
-</li>
-<li data-cover="https://img.discogs.com/RS5bdEgyRcNgXxHSWM_GHl2_Mow=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414689-1305138681.jpeg.jpg" data-tags="contemporary classical" role="button">
-Hauschka - Foreign Landscapes (2010-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/320b5cdb-9e0c-4efb-ba38-aa04e67c7ed0/4753446956-500.jpg" data-tags="mpb" role="button">
-Marisa Monte - O Que Você Quer Saber de Verdade (2011)
-</li>
-<li data-cover="https://img.discogs.com/faJx41xig7N6DMncju7G3ANQ0VQ=/fit-in/488x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2681761-1511256630-1237.jpeg.jpg" data-tags="ambient, electronic, instrumental, contemporary, cinematic, soundscape, melancholy, melancholic, sound sculpture" role="button">
-Field Rotation - Acoustic Tales (2011-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a0e915f-a2bf-4bee-a085-feba37f906f5/5929827580-500.jpg" data-tags="neoclassical, contemporary classical, post-classical, modern classical, neo-classical, piano" role="button">
-Dustin O'Halloran - Lumiere (2011-02-28)
+<li data-cover="http://coverartarchive.org/release/1ca93f20-4b0f-4cde-a30a-aa9d06cc692e/6610216316-500.jpg" data-tags="jazz rock" role="button">
+Figurines - Figurines (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/q0VNFGS23p5DVJ23W0vDoiwefjw=/fit-in/270x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880055-1305397326.jpeg.jpg" data-tags="electronic, instrumental, ambient, contemporary, cinematic, soundscape, melancholy, melancholic, sound sculpture" role="button">
 Field Rotation - And tomorrow I will sleep (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/566e2e7c-9cc6-41f9-864c-2bb65f540436/3979522473-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)
+<li data-cover="https://img.discogs.com/vjiLsZHrSDDPXeyrG-7ute8m5Rw=/fit-in/454x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3447642-1330765455.jpeg.jpg" data-tags="classical, piano, contemporary, relaxing" role="button">
+Jean-Philippe Collard-Neven - Between the Lines (2011-05-18)
 </li>
-<li data-cover="https://img.discogs.com/XGz9Vc-PF6vTLKgGgN_g1cc0ZiY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3174469-1365210613-9560.jpeg.jpg" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
-Clem Leek - Lifenotes (2011-10)
+<li data-cover="https://img.discogs.com/ICvHtNNtHkB2aVSveCs-s2zXKLM=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977372-1310070273.jpeg.jpg" data-tags="ambient" role="button">
+Field Rotation - Regenzeit (2011-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/def95a4a-16c7-4c32-bd31-b947222e3be3/2750964464-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano" role="button">
-Nils Frahm - Felt (2011-10-07)
+<li data-cover="https://img.discogs.com/0nTx7a-ano1l5QHz9YVaqXcZTQM=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3258564-1379871004-2233.jpeg.jpg" data-tags="folk, ambient, indie rock, contemporary, tribal, post rock, modern classical, patriciancore" role="button">
+Vieo Abiungo - And The World Is Still Yawning (2011-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
-Ólafur Arnalds - Living Room Songs (2011-12-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/29379b6a-1212-4b54-a848-dff5978f21cc/1947453626-500.jpg" data-tags="ambient, piano, contemporary classical, post-classical, cinematic, melancholy, melancholic, modern classical, neoclassical, contemporary piano" role="button">
-Fabrizio Paterlini - Autumn Stories (2012-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/209df9e5-23ea-4acd-875c-43f4b1372371/3358488097-500.jpg" data-tags="ambient, contemporary classical, modern classical, neoclassical, post-classical, piano, cinematic, melancholic, melancholy, neo-classical, contemporary piano" role="button">
-Greg Haines - Digressions (2012-03-12)
+<li data-cover="http://coverartarchive.org/release/945d2051-9f02-45dc-ac03-ce195b9975c4/2172423786-500.jpg" data-tags="atmospheric" role="button">
+Sophie Kazandjian - Glass Slopes (2012-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c97508ca-a99c-4526-965d-94986b09471f/11049347676-500.jpg" data-tags="classical, downtempo, contemporary, future jazz" role="button">
 The Cinematic Orchestra - In Motion #1 (2012-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/06b7c543-2a5c-4975-8d5d-4ef251d13d09/15853451950-500.jpg" data-tags="neoclassical, contemporary classical, modern classical, neo-classical, post-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - Two Songs For Dance (2012-08-17)
+<li data-cover="http://coverartarchive.org/release/0d6803fd-df1a-441f-a9b4-e8c26f7eed53/28364205635-500.jpg" data-tags="clinically romantic, achingly intelligent, homosexual intifada" role="button">
+Matmos - The Ganzfeld EP (2012-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/99c79c92-cc87-474f-8e95-5ec03e3bbc87/20058977817-500.jpg" data-tags="piano" role="button">
-Sophie Hutchings - Night Sky (2012-08-24)
+<li data-cover="http://coverartarchive.org/release/96b61bf7-9843-425e-9905-c13e8be194c7/8498105804-500.jpg" data-tags="pop, soul, contemporary, adult contemporary, neo soul, 10s, mark evans, contemporary r&b, robin gibb, peter john vettese" role="button">
+Robin Gibb - 50 St. Catherine's Drive (2014-09-26)
 </li>
-<li data-cover="https://img.discogs.com/Oss1hyaayRzyZSZjZ5QefMWRlZQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985549-1381391376-5868.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
-Nils Frahm - Screws (2012-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/07e545a5-e07a-4e80-843a-9cf96e5ad809/6675043726-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, neo-classical, modern classical" role="button">
-Greg Haines - Moments Eluding (2012-10)
-</li>
-<li data-cover="https://img.discogs.com/Z4kuJqfotmIG-kIoyY8DRoNHO6I=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4018052-1568481866-7229.jpeg.jpg" data-tags="ambient" role="button">
-Brian Eno - Lux (2012-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/c047ea61-3cde-4d63-aa1e-c2bfa5cc0e1e/14709142141-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, piano, postclassical, post classical" role="button">
-Poppy Ackroyd - Escapement (2012-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - For Now I Am Winter (2013-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b1341e7-aa5d-4567-a713-c6bec8d74149/5553546025-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical" role="button">
-Ólafur Arnalds - Broadchurch (2013-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a1acf28-8d19-4991-a01e-75281bf5c19f/6057864251-500.jpg" data-tags="piano" role="button">
-Luke Howard - Sun, Cloud (2013-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/18992f07-6b19-4d6f-8083-4e5204a153de/7220911774-500.jpg" data-tags="piano, contemporary classical, post-classical, modern classical, neo-classical, neoclassical, ambient, alternative, cinematic, melancholy, minimalism, melancholic, experimental-ambient, minimal ambient, minimalist, modern composition, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
-Nils Frahm - Spaces (2013-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e34b8e6-c36c-4671-b1c1-848d001a391d/7121719441-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
-A Winged Victory for the Sullen - Atomos VII (2014-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/25638566-eff3-4215-8930-0c262986c857/9101735659-500.jpg" data-tags="modern classical, contemporary classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
-A Winged Victory for the Sullen - Atomos (2014-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/f7e72356-6176-40eb-8b65-4bb1e67d8bf0/8765991744-500.jpg" data-tags="piano, contemporary, contemporary classical, modern classical, neo-classical, neo classical, neoclassical, post-classical, postclassical, post classical" role="button">
-Luke Howard - Two & One (2014-11-02)
+<li data-cover="http://coverartarchive.org/release/b8ab5d50-2dd1-4fb6-8190-e6adf1223135/9140752276-500.jpg" data-tags="piano, contemporary" role="button">
+Philip Glass - The Complete Piano Etudes (2014-11-25)
 </li>
 </ol>

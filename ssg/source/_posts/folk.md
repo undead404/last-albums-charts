@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:17:01.487Z
+date: 2021-04-10T20:36:01.516Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -59,6 +59,9 @@ Jewel - Pieces of You (1994)
 </li>
 <li data-cover="https://img.discogs.com/w2LOcV1wDq5tnLESs2BaGqyYZiA=/fit-in/472x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592174-1135847165.jpeg.jpg" data-tags="folk, ben harper" role="button">
 Ben Harper - Welcome To The Cruel World (1994-02-08)
+</li>
+<li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
+Jeff Buckley - Grace (1994-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
@@ -164,9 +167,6 @@ Panda Bear - Person Pitch (2007-03-20)
 </li>
 <li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
 The John Butler Trio - Grand National (2007-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Cassadaga (2007-04-09)

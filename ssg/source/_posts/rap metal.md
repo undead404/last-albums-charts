@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:49:01.401Z
+date: 2021-04-10T20:28:12.592Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -69,6 +69,9 @@ The Mad Capsule Markets - 4 Plugs (1996-01-24)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
+<li data-cover="https://img.discogs.com/wLzLQ-Nk8pVas76Q6IIjAZyG_oc=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369046-1282594752.jpeg.jpg" data-tags="hip-hop, hip hop, alternative, hardcore, swedish, funk, rapcore, nu metal, hardcore rap, rap metal" role="button">
+Mindjive - Chemicals (1996-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/21a60452-e258-4d1d-bc29-954fab7669d0/19842178524-500.jpg" data-tags="alternative metal, crossover, post-hardcore, rapcore, rap metal, groove metal, atlantic records, 90s albums that do not suck, d sardy, sardy" role="button">
 Orange 9mm - Tragic (1996-07-30)
 </li>
@@ -92,9 +95,6 @@ FlapJack - Juicy Planet Earth (1997-05-01)
 </li>
 <li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8be21f84-ba80-4195-8a28-3562b8439476/10151203461-500.jpg" data-tags="rock" role="button">
-Rage Against the Machine - Live & Rare (1997-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988fe8-843c-4800-b569-827885402c23/26961870135-500.jpg" data-tags="alternative rock, rap metal, rap rock" role="button">
 Thousand Foot Krutch - That's What People Do (1997-07-29)
@@ -120,6 +120,9 @@ Zebrahead - Waste of Mind (1998-10-13)
 <li data-cover="http://coverartarchive.org/release/11442ac1-9cb6-4ea7-8911-197c06cd27ef/21233361274-500.jpg" data-tags="hip-hop, rock, rap, 90s, alternative metal, rapcore, nu metal, rap metal, hybrid, casey chaos" role="button">
 Vanilla Ice - Hard To Swallow (1998-10-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, rap metal, njhc" role="button">
+E.Town Concrete - Fuck the World (1999)
+</li>
 <li data-cover="https://img.discogs.com/BfJJnLsJ4rxNi0Ue8RtTQ5pRAGY=/fit-in/594x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1405689-1269161750.jpeg.jpg" data-tags="alternative metal, rapcore, nu metal, rap metal" role="button">
 The Ernies - Meson Ray (1999-04-20)
 </li>
@@ -137,9 +140,6 @@ Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
 <li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">
 Crazy Town - The Gift of Game (1999-11-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
-Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
 </li>
 <li data-cover="https://img.discogs.com/ZsQ2SoSmNr8hFIumtfLBrXC35P8=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3489006-1332406879.jpeg.jpg" data-tags="rap metal" role="button">
 Kannon - De Nuevo Nunca (2000)
@@ -213,8 +213,8 @@ P.O.D. - Satellite (2001-09-11)
 <li data-cover="http://coverartarchive.org/release/75a5c6f9-00f0-4bf8-8e65-dcc85a6dd8d6/28000220985-500.jpg" data-tags="hardcore" role="button">
 Biohazard - Uncivilization (2001-09-11)
 </li>
-<li data-cover="https://img.discogs.com/l0tWwx0MVrty6N4T1chGjDodIZk=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7034679-1467668052-4503.jpeg.jpg" data-tags="rock, hard rock, rap metal" role="button">
-Kid Rock - Cocky (2001-11-19)
+<li data-cover="https://img.discogs.com/lmsMuiDEJ20iJBUGuunW-NC3vco=/fit-in/478x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727141-1332607008.jpeg.jpg" data-tags="metal, hardcore, paris, hardcore metal, metal hardcore, paris hardcore" role="button">
+L'Esprit du Clan - Chapitre 1 (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/58073fbb-c380-337a-ac6c-40048c3ba83c/25753837881-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Five Pointe O - Untitled (2002)

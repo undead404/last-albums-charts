@@ -1,16 +1,16 @@
 ---
-date: 2021-04-10T13:32:01.618Z
+date: 2021-04-10T19:46:12.654Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">Refused - The Shape of Punk to Come (1998-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - Jane Doe (2001-09-04)</li>
+<li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Bullet for My Valentine - The Poison (2005-09-30)</li>
 <li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">A Day to Remember - What Separates Me from You (2010-11-16)</li>
@@ -29,6 +29,9 @@ Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6fe0f2d-2a88-438e-bc55-2e32c576bfa8/9247843471-500.jpg" data-tags="hardcore" role="button">
+Hatebreed - Satisfaction Is the Death of Desire (1997-11-11)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -87,11 +90,11 @@ Avenged Sevenfold - Waking The Fallen (2003-08-26)
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9423fbcf-c2ac-49ee-a967-76f2ca97d6f3/1074828919-500.jpg" data-tags="nintendocore, hardcore" role="button">
-HORSE the band - R. Borlax (2003-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/5dcadd78-4d53-3751-a96b-7911444e1934/20441659819-500.jpg" data-tags="hardcore" role="button">
 Hatebreed - The Rise Of Brutality (2003-10-28)
+</li>
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
@@ -150,9 +153,6 @@ Protest the Hero - Kezia (2005-08-30)
 <li data-cover="http://coverartarchive.org/release/cce39342-31fe-4e87-903f-6dfc1ab5d646/1065535590-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Killing With a Smile (2005-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9c2c83b-95e7-4889-82d7-65ff6bf7353c/26394820511-500.jpg" data-tags="nintendocore" role="button">
-HORSE the band - The Mechanical Hand (2005-09-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Bullet for My Valentine - The Poison (2005-09-30)
 </li>
@@ -174,6 +174,9 @@ Raised Fist - Sound of the Republic (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/3a373a0c-6529-4a1f-94f7-95bd49ee80e4/15045824943-500.jpg" data-tags="melodic hardcore" role="button">
 Ignite - Our Darkest Days (2006-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
+AFI - Decemberunderground (2006-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
@@ -182,9 +185,6 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c48cfa2-ae58-4ada-8f9f-5519b2f02612/25999493974-500.jpg" data-tags="hardcore, pop punk, easycore, the best albums ever, my top 100 albums, albums that i fucking love" role="button">
 Set Your Goals - Mutiny! (2006-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b52588bb-9462-40a5-beb4-9c6299028fef/11694986871-500.jpg" data-tags="hardcore, nintendocore, metalcore, experimental, post-hardcore" role="button">
-Sky Eats Airplane - Everything Perfect On the Wrong Day (2006-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2ee2038-e999-4427-a85c-c63959fd2021/4783374073-500.jpg" data-tags="hardcore" role="button">
 Have Heart - The Things We Carry (2006-08-08)
@@ -215,9 +215,6 @@ Comeback Kid - Broadcasting (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
-</li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
 Maylene and the Sons of Disaster - II (2007-03-20)
@@ -272,6 +269,9 @@ In Fear and Faith - Your World on Fire (2009-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
+Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)

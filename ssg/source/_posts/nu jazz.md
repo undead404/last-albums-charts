@@ -1,10 +1,9 @@
 ---
-date: 2021-04-09T19:54:01.459Z
+date: 2021-04-10T20:14:01.472Z
 title: "nu jazz: 100 albums you must listen to before you die"
 ---
 ![The Cinematic Orchestra - Motion (1999-09-01)](http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg "The Cinematic Orchestra - Motion (1999-09-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">Amon Tobin - Bricolage (1997-04-25)</li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">The Cinematic Orchestra - Motion (1999-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/7840a710-b354-3856-8e98-d1afda2991c7/12013536001-500.jpg" data-tags="nu jazz" role="button">Jazzanova - In Between (2002-04-29)</li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">Gabin - Gabin (2002-11-05)</li>
@@ -14,6 +13,7 @@ title: "nu jazz: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ccdc4bce-779b-4df0-8419-b69cc9a19ba7/8663323607-500.jpg" data-tags="nu jazz, electronic" role="button">Parov Stelar - Coco (2009-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/f8276d8f-336c-4e9b-9eea-b25f47cfde14/9348674402-500.jpg" data-tags="nu jazz, jazz, ninja tune" role="button">Jaga Jazzist - One-Armed Bandit (2010-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">C2C - Tetra (2012-08-03)</li>
+<li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">Thundercat - Apocalypse (2013-06-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,9 +30,6 @@ Kruder & Dorfmeister - G-Stoned (1993-09-02)
 <li data-cover="http://coverartarchive.org/release/0d339f10-ad00-43b1-a113-579481e9c33f/863426134-500.jpg" data-tags="trip-hop, acid jazz" role="button">
 Red Snapper - Reeled and Skinned (1995-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/21a3ea58-66a7-3cec-b169-087ceb75ad0f/7923741865-500.jpg" data-tags="electronic, acid jazz" role="button">
-Cujo - Adventures in Foam (1996)
-</li>
 <li data-cover="https://img.discogs.com/nWQE1IcfbSTHm0EDkeiX8ahJsxM=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7159849-1435065110-1254.jpeg.jpg" data-tags="acid jazz" role="button">
 Red Snapper - Prince Blimey (1996-09-09)
 </li>
@@ -42,8 +39,8 @@ Nitin Sawhney - Displacing The Priest (1996-10-07)
 <li data-cover="http://coverartarchive.org/release/55b4d834-4916-4530-a184-f10f899e138e/20794420950-500.jpg" data-tags="chillout, downtempo" role="button">
 Koop - Sons Of Koop (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Bricolage (1997-04-25)
+<li data-cover="http://coverartarchive.org/release/def4619f-0de9-4b13-b3c3-0e2049f39bfd/11969760815-500.jpg" data-tags="funk, latin" role="button">
+Nuyorican Soul - Nuyorican Soul (1997-01-29)
 </li>
 <li data-cover="https://img.discogs.com/0bqD02VbQ5Ip1dmTnkf2g0PX3_c=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4132-1297549070.jpeg.jpg" data-tags="nu jazz, chillout, downtempo, lo-fi, lounge, drum and bass, future jazz, uutta jazzia, acid lounge, lounge groove, downtempo groove, serve chilled, electro lounge, jazzy flavoured, downtempo influences, nice nite, city lounge, my-love, downtempo lounge, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, lounge chill, brazilicious, lounge-tech, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, ouahhhhh, tropcool, lounge vibe, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, served chilled, 1st vine acid, acid jazz vibe, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, down-tempo vibe, downtempo vibe, future jazz vibe, jazzy down tempo vibe, jazzy down-tempo vibe, jazzy downtempo vibe, jazzy trip, lounge jazz vibe" role="button">
 Jimpster - Martian Arts (1997-06-10)
@@ -54,17 +51,29 @@ A Forest Mighty Black - Mellowdramatic (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/709f090c-6659-46af-a9ec-dbcd9ca4058c/19255822547-500.jpg" data-tags="jazz, trumpet" role="button">
 Nils Petter Molvær - Khmer (1997-10)
 </li>
+<li data-cover="https://img.discogs.com/J_hHRDLI6BwkMV0vaue5wvbiYaI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877641-1567412425-7345.jpeg.jpg" data-tags="piano, jazz, christmas" role="button">
+Bugge Wesseltoft - It's Snowing on My Piano (1997-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/a42caee9-4254-43e0-8153-7d66b7b15f65/6976042697-500.jpg" data-tags="idm, jazz, jungle" role="button">
+Squarepusher - Burningn'n Tree (1997-11-10)
+</li>
+<li data-cover="https://img.discogs.com/mN0237I9I4FjSdrw0DtCWt3UHlA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11829-1460318611-4612.jpeg.jpg" data-tags="downtempo, trip-hop, chillout" role="button">
+Waldeck - Balance Of The Force (1998)
+</li>
 <li data-cover="https://img.discogs.com/GKDDiHtNosjsbW5khKcc1KkmJ5k=/fit-in/463x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1487229-1290715117.jpeg.jpg" data-tags="nu jazz, jazz, funk, j4zz13" role="button">
 Bobbi Humphrey - Blue Break Beats (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/d45b934f-1c9e-4d38-bf35-abf0b5329be0/7639358018-500.jpg" data-tags="acid jazz, nu jazz, jazzrock" role="button">
 Jazzanova - Jazzanova EP (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/479088c8-153e-42d9-872c-8eb71502a4a4/19945760434-500.jpg" data-tags="house" role="button">
+Big Muff - Music from the Aural Exciter (1998-02-24)
+</li>
+<li data-cover="https://img.discogs.com/R0sIwzv3ChatxseyQfHwZzOmbSU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2670-1232473336.jpeg.jpg" data-tags="downtempo, electronic" role="button">
+Rae & Christian - Northern Sulphuric Soul (1998-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/d73e4ff8-99ad-44bd-b9bf-b0a2a17160ca/19323060499-500.jpg" data-tags="jazz" role="button">
 Gilles Peterson - INCredible Sound Of Gilles Peterson (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/39522c95-a1d4-377c-ac14-31989d81a993/3795939422-500.jpg" data-tags="electronic, 90s" role="button">
-Squarepusher - Budakhan Mindphone (1999-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
@@ -80,6 +89,9 @@ Dzihan & Kamien - Gran Riserva (2000-09-30)
 </li>
 <li data-cover="https://img.discogs.com/9pxgBdip5Ya3hoGyU-pk-B6Nnew=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653402-1545699178-4973.jpeg.jpg" data-tags="post-rock" role="button">
 Karate - Unsolved (2000-10-24)
+</li>
+<li data-cover="https://img.discogs.com/I53rN6Q4RqNI_EdCAYF2mXo5l3o=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-92759-1366675606-3999.jpeg.jpg" data-tags="nu jazz, jazz, instrumental, ambient, saxophone, kaufen, nice nite, wibutee" role="button">
+Wibutee - Eight Domestic Challenges (2001)
 </li>
 <li data-cover="https://img.discogs.com/S_u5hgxqd-TiZ8wwhrdvx880yOc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8871-1236606603.jpeg.jpg" data-tags="nu jazz, jazz, lounge, brisk sound, nathan, labaisssss baby vokaals, a joy forever" role="button">
 Nathan Haines - Sound Travels (2001)
@@ -111,11 +123,17 @@ Nils Petter Molvær - NP3 (2002-07-01)
 <li data-cover="http://coverartarchive.org/release/318b3f53-9f3c-43d0-b35c-130c05bffbe0/22752883348-500.jpg" data-tags="nu jazz, eighteenth street lounge, great stuff for aural stimulation" role="button">
 Nicola Conte - Jet Sounds Revisited (2002-07-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/e61973b7-9cce-4620-802d-d71099fb6010/13581337932-500.jpg" data-tags="ninja tune" role="button">
+Mr. Scruff - Trouser Jazz (2002-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/c35361b1-79a1-4b52-9c93-4d40a29368b0/27292980196-500.jpg" data-tags="disco, nu jazz, chillout, electronic, vocal, house, acid jazz, lounge, laidback, funky, deep house, subtle production" role="button">
 Projections - Between Here and Now (2002-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
 Gabin - Gabin (2002-11-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu jazz" role="button">
+[re:jazz] - (re:mix) (2002-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff1873fd-ff5f-42c2-a355-42ce3b54df4d/6677720286-500.jpg" data-tags="nu jazz, jazz, experimental, jazz favorites" role="button">
 Robotobibok - Instytut Las (2003)
@@ -123,14 +141,14 @@ Robotobibok - Instytut Las (2003)
 <li data-cover="http://coverartarchive.org/release/328e5984-a30f-47e7-bf5f-e47a165d3ad3/26936148482-500.jpg" data-tags="nu jazz" role="button">
 Nathan Haines - Squire for Hire (2003)
 </li>
+<li data-cover="https://img.discogs.com/bBN6bb7ozo-eV-DkeG9OohDAM-8=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-134435-1323947605.jpeg.jpg" data-tags="funk" role="button">
+The Quantic Soul Orchestra - Stampede (2003-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/93b96285-1d26-4b87-aeb0-0cc68e7377b3/3462236101-500.jpg" data-tags="jazz" role="button">
 The Matthew Herbert Big Band - Goodbye Swingtime (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c0935be-266f-485f-b465-c57ab13a67b3/11056278771-500.jpg" data-tags="jazz hop, jazz" role="button">
-Madlib - Shades of Blue (2003-06-24)
 </li>
 <li data-cover="https://img.discogs.com/hr5sUaRDxR8QdrFIOTF51iWYCd4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-168765-1587282765-8727.jpeg.jpg" data-tags="experimental, jazz fusion" role="button">
 Tied & Tickled Trio - Observing Systems (2003-09-08)
@@ -140,9 +158,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f900b03a-0708-4a41-8430-a658853f4fa5/1376434220-500.jpg" data-tags="chillout" role="button">
 Stéphane Pompougnac - Living on the Edge (2003-11)
-</li>
-<li data-cover="https://img.discogs.com/zSuc6LdWQ79T-jQw2wJu4DPRVnI=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7432910-1441664385-9256.jpeg.jpg" data-tags="female vocalists, jazz" role="button">
-Beady Belle - Cewbeagappic (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8057b3-22d1-40fd-96fd-4e130d2f6055/6389187606-500.jpg" data-tags="nu jazz, electronic, female vocalists" role="button">
 Dani Siciliano - Likes... (2004-01-26)
@@ -156,11 +171,11 @@ Moodymann - Black Mahogani (2004-05)
 <li data-cover="http://coverartarchive.org/release/07a7bc50-ad40-4ac8-b328-846c9e62f616/2029917579-500.jpg" data-tags="nu jazz, jazz, bossa nova" role="button">
 Nicola Conte - Other Directions (2004-09-06)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu jazz, jazz, future jazz" role="button">
+The Cinematic Orchestra - Man With the Movie Camera (2004-11-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/5f8df531-59c2-4102-84cb-0538276325b4/6777300289-500.jpg" data-tags="nu jazz" role="button">
 Miloopa - Nutrition Facts (2005)
-</li>
-<li data-cover="https://img.discogs.com/wjUdI-GdgLHjZTKvlu6yc1nigDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418362-1289058903.jpeg.jpg" data-tags="nu jazz, chillout, electronic, trip-hop, jazz, downtempo, funk, acid jazz, groove, lounge, neo soul, sonar kollektiv, electronic-lounge, dox records, barturismooth" role="button">
-Benny Sings - I Love You (2005-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e883c0f-e68e-4292-8bc7-b22b194ffd26/1445677656-500.jpg" data-tags="nu jazz, french, vocal, bossa nova, avril lavigne, fmera album, rw sound" role="button">
 Isabelle Antena - Easy Does It (2005-03-07)
@@ -180,9 +195,6 @@ The Flashbulb - Réunion (2005-09-20)
 <li data-cover="http://coverartarchive.org/release/f896d439-b43d-34a2-b6dd-4e38431c5772/26539847589-500.jpg" data-tags="soul" role="button">
 Alice Russell - My Favourite Letters (2005-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/de92f6d3-8d9a-3152-abdf-f6e723c3d1ac/16839853239-500.jpg" data-tags="hip-hop" role="button">
-DANGERDOOM - The Mouse and the Mask (2005-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/87d52e3b-686c-4f7e-8832-f3ecec88d11d/11444080711-500.jpg" data-tags="jazz, trumpet" role="button">
 Nils Petter Molvær - er (2005-10-18)
 </li>
@@ -195,17 +207,14 @@ Dhafer Youssef - Divine Shadows (2006-03-28)
 <li data-cover="https://img.discogs.com/GstwoNRFYfUywfllkzD-OGiH50U=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-669785-1152458696.jpeg.jpg" data-tags="nu jazz, chillout, jazz, easy listening, melancholy, 2000s, polish jazz, z kubkiem herbaty, jazz-modern creative" role="button">
 Muzykoterapia - Muzykoterapia (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/648f3fd2-e05c-4315-86cc-091006d56b77/17747343629-500.jpg" data-tags="dark jazz" role="button">
-The Kilimanjaro Darkjazz Ensemble - The Kilimanjaro Darkjazz Ensemble (2006-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/73087c49-5262-4476-9717-7e4b14a9c2f3/6113407893-500.jpg" data-tags="my vinyl" role="button">
 Parov Stelar - Charleston Butterfly (2006-06-19)
 </li>
-<li data-cover="https://img.discogs.com/4JKF1PY_jPsfDjjI9nu1Wcz7LAQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764977-1156457037.jpeg.jpg" data-tags="nu jazz, jazz, soul, fantastic, groovy, real music, if only everyone knew, a joy forever, got it all, check album out" role="button">
-The Heritage Orchestra - The Heritage Orchestra (2006-08-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
+</li>
+<li data-cover="https://img.discogs.com/i9UOmEhqr3u2Em-6KP284G75oIE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844685-1164678005.jpeg.jpg" data-tags="chillout, electronic, chill" role="button">
+Fenomenon - Pacific Memories: The Early Tapes (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d085842f-e0a6-4526-aaee-6d7ca1de4daa/2272514258-500.jpg" data-tags="nu jazz, dub" role="button">
 Kanka - Alert (2006-11-06)
@@ -213,8 +222,8 @@ Kanka - Alert (2006-11-06)
 <li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/056ec1e0-b7e1-4c2f-92f5-828d9ca06b83/3340589619-500.jpg" data-tags="jazz, trumpet" role="button">
-Erik Truffaz - Arkhangelsk (2007-03-12)
+<li data-cover="http://coverartarchive.org/release/a4c47dce-9005-4e16-8aba-e29ef083741f/1560137109-500.jpg" data-tags="hip-hop, jazz hop" role="button">
+Arts The Beatdoctor - Transitions (2007-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
 Free the Robots - Free The Robots EP (2007-10-16)
@@ -228,17 +237,8 @@ Rodney Hunter - Hunterville (2007-11-09)
 <li data-cover="http://coverartarchive.org/release/a61e5733-d1a1-4f61-a01a-e3e8853f2d71/13666594191-500.jpg" data-tags="nu jazz, jazz, robertitus global, intrumental ram, instrumental ram, jazz favorites ram" role="button">
 Mouse on the Keys - Sezession (2007-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1166738-67ff-4703-ac07-dab86acf0091/8130862809-500.jpg" data-tags="chillout, downtempo, contemporary jazz, future jazz" role="button">
-The Cinematic Orchestra - Live At The Royal Albert Hall (2008-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c9225e9-06d8-4258-8fe4-0bb06ec270ee/8865945973-500.jpg" data-tags="pop" role="button">
-Ximena Sariñana - Mediocre (2008-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/7d4ea5ee-025d-4827-9c45-acb91a9c6123/10676566608-500.jpg" data-tags="nu jazz, electro, house, broken beat, nujazz, electrojazz, big beat, labels - etage noir recordings, p stelar" role="button">
 Parov Stelar - The Flame of Fame (2008-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/87715ad3-a904-43de-9521-77fefd3d7349/27168060063-500.jpg" data-tags="acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uutta jazzia, downtempo groove, uuta jazzia, uutta jazziz, chillout bar nu jazz and funk" role="button">
-Bitter:Sweet - Drama (2008-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
 Nicola Conte - Rituals (2008-08)
@@ -248,6 +248,12 @@ Parov Stelar - Libella Swing (2008-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e63c7bd-e2e6-4f51-b2ba-196ceb9cb1eb/9501207392-500.jpg" data-tags="soul, my-love, belleruche" role="button">
 Belleruche - The Express (2008-10-12)
+</li>
+<li data-cover="https://img.discogs.com/zei1FXy6Hro9OuzpDJGNEVKdqAU=/fit-in/560x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2106323-1264344945.jpeg.jpg" data-tags="jazz" role="button">
+Mikromusic - Sennik (2008-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/181953bd-bd5f-49d2-b11c-6198c294a9ff/3565128068-500.jpg" data-tags="diamond" role="button">
+Triangle Sun - Diamond (2009)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu jazz, labels - etage noir recordings" role="button">
 Nola Grey - Starlight (2009-02-06)
@@ -273,6 +279,9 @@ Jaga Jazzist - One-Armed Bandit (2010-01-20)
 <li data-cover="http://coverartarchive.org/release/29b20c40-a367-44ad-9f2b-ffc52cbf4cef/4803132931-500.jpg" data-tags="nu jazz, fusein, electro-acoustic space jazz and percussion" role="button">
 The Last Electro-Acoustic Space Jazz & Percussion Ensemble - Miles Away (2010-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/573d2e79-a9c4-4a85-9bfb-e7ae4cdf2f1f/4827750961-500.jpg" data-tags="nu jazz, jazz, 2010s, robertitus global, intrumental ram, instrumental ram, albums that i own, jazz favorites ram" role="button">
+Pink Freud - Monster of Jazz (2010-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f0675eb-31db-4578-9235-6a7e8726d709/2330597280-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Arboreal (2010-06-08)
 </li>
@@ -284,12 +293,6 @@ Nostalgia 77 - The Sleepwalking Society (2011-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a70ed63-1d53-4fe2-b048-9fb8980d9c23/25579607271-500.jpg" data-tags="electronic, jazz, soul, funk, jazz fusion, brainfeeder" role="button">
-Thundercat - The Golden Age of Apocalypse (2011-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/f35fafbd-e4c4-4c87-ba54-ebc9b84c46f0/4801207996-500.jpg" data-tags="jazz" role="button">
-BADBADNOTGOOD - BBNG (2011-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
 Floex - Zorya (2011-09-26)
@@ -314,9 +317,6 @@ Zaz - Recto Verso (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">
 Thundercat - Apocalypse (2013-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d284c99-9d7a-4c79-bf16-ceffd78c32b4/6732933359-500.jpg" data-tags="jazz fusion" role="button">
-Snarky Puppy - We Like It Here (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a8e7f92-d55f-4237-aeb4-b7a0c5e28f3d/9270438821-500.jpg" data-tags="nu jazz" role="button">
 Moonchild - Please Rewind (2014-03-25)

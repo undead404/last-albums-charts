@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:34:01.484Z
+date: 2021-04-10T20:39:01.461Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -36,6 +36,9 @@ Frank Zappa - Hot Rats (1969-10-15)
 <li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
 Pink Floyd - Ummagumma (1969-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/03188b38-6b78-4a48-b502-f5f7df7dcb16/2570692200-500.jpg" data-tags="progressive rock" role="button">
+King Crimson - In the Wake of Poseidon (1970-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
@@ -66,11 +69,8 @@ Pink Floyd - Obscured by Clouds (1972-06-03)
 <li data-cover="http://coverartarchive.org/release/2b9b5b13-5639-4645-b89b-e5ea555f9a65/7295017114-500.jpg" data-tags="progressive rock" role="button">
 Yes - Close to the Edge (1972-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/8777b21d-78b9-4cf8-87b9-3c9d9f89475d/10493893922-500.jpg" data-tags="progressive rock" role="button">
-Genesis - Foxtrot (1972-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7876fcb-c629-4b17-b973-de9824279360/23147950347-500.jpg" data-tags="progressive rock" role="button">
-Genesis - Selling England by the Pound (1973-10-13)
+<li data-cover="http://coverartarchive.org/release/070e4a29-a6dc-4474-bbbb-f51f1797446e/5362395519-500.jpg" data-tags="progressive rock" role="button">
+Emerson, Lake & Palmer - Brain Salad Surgery (1973-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3eed3f3e-ec3d-4789-a1eb-8c92f102ff0a/5478242459-500.jpg" data-tags="progressive rock" role="button">
 Camel - Mirage (1974-03-01)
@@ -86,6 +86,9 @@ Rush - Fly by Night (1975-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/9eaa7ef4-c4db-4bd0-adf1-05e2d0ce729f/20550685815-500.jpg" data-tags="progressive rock" role="button">
+Camel - Moonmadness (1976-03-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - 2112 (1976-04-01)
@@ -134,9 +137,6 @@ Pink Floyd - The Final Cut (1983-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Crises (1983-05-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-Genesis - Genesis (1983-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
 Yes - 90125 (1983-11-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:37:01.527Z
+date: 2021-04-10T19:51:01.497Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -39,9 +39,6 @@ Can - Tago Mago (1971)
 <li data-cover="http://coverartarchive.org/release/8397e602-0d10-4f6e-a6c3-2db7cd97f7e8/10060657210-500.jpg" data-tags="krautrock" role="button">
 Faust - Faust IV (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/3669ceae-11bf-49ef-b8f2-b5724d24a6f9/1331058877-500.jpg" data-tags="experimental, art rock, 70s" role="button">
-David Bowie - Low (1977-01-14)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
@@ -50,9 +47,6 @@ This Heat - Deceit (1981)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f3da9b5-2333-4ebd-97df-a1bcd32166be/9737664235-500.jpg" data-tags="noise rock" role="button">
-Sonic Youth - EVOL (1986-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
@@ -105,6 +99,9 @@ Ween - The Mollusk (1997-06-24)
 <li data-cover="http://coverartarchive.org/release/db2b85d1-912d-3965-bd5e-7c9dc18e2af1/22029271309-500.jpg" data-tags="post-rock" role="button">
 Tortoise - TNT (1998-03-09)
 </li>
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
+Sonic Youth - A Thousand Leaves (1998-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/70315537-2635-469c-bba6-267731b794ae/2968759370-500.jpg" data-tags="alternative metal" role="button">
 CKY - Volume 1 (1999-02-27)
 </li>
@@ -138,6 +135,9 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="http://coverartarchive.org/release/f626b8d5-67a6-4bc7-82cd-4a0c24c8ed5d/11799177283-500.jpg" data-tags="noise rock" role="button">
 Lightning Bolt - Wonderful Rainbow (2003-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5acb0c3-3a10-48b8-ade0-62d9db1a947b/15138234429-500.jpg" data-tags="experimental rock" role="button">
+Serart - Serart (2003-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - Hail to the Thief (2003-05-26)
 </li>
@@ -152,9 +152,6 @@ Xiu Xiu - Fabulous Muscles (2004-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c18d5dd-3e3d-459c-b647-80734819d072/20451673315-500.jpg" data-tags="alternative, experimental" role="button">
 John Frusciante - Shadows Collide With People (2004-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
-TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
@@ -183,9 +180,6 @@ Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c7f5b38-1f43-417e-bf31-75dd238a7516/10669073258-500.jpg" data-tags="indie rock, indie" role="button">
-TV on the Radio - Return To Cookie Mountain (2006-07-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">
 Ratatat - Classics (2006-08-21)
 </li>
@@ -197,9 +191,6 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
-Blonde Redhead - 23 (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">
 Battles - Mirrored (2007-04-25)
@@ -216,11 +207,17 @@ Radiohead - In Rainbows (2007-10-10)
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+The Mars Volta - The Bedlam in Goliath (2008-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
+As Cities Burn - Hell Or High Water (2009-03)
 </li>
 <li data-cover="https://img.discogs.com/cdME9ogwCFjzneZRa6xwKUCJ13s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3843600-1346600405-8970.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
 Super Furry Animals - Dark Days/Light Years (2009-03-16)
@@ -243,9 +240,6 @@ Thrice - Beggars (2009-08-11)
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
-<li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
-Atlas Sound - Logos (2009-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/d45da67a-e3c5-3c6d-985e-03d421cfd624/17589986362-500.jpg" data-tags="british" role="button">
 Portishead - Chase the Tear (2009-12-09)
 </li>
@@ -264,11 +258,11 @@ Linkin Park - A Thousand Suns (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
 </li>
-<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
-Deerhunter - Halcyon Digest (2010-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a9000af-1768-4ec2-aa01-b44cacb0e887/11441414525-500.jpg" data-tags="noise, math rock, experimental, experimental rock, neo-psychedelia" role="button">
 Zach Hill - FACE TAT (2010-10-19)
+</li>
+<li data-cover="https://img.discogs.com/29SA_cI3a65ib5BIFv60NOKQCB8=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831383-1554061581-8073.jpeg.jpg" data-tags="indie, experimental, post-rock, progressive rock, experimental rock" role="button">
+Circa Survive - Appendage (2010-11-30)
 </li>
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)
@@ -294,6 +288,9 @@ Puscifer - Conditions of My Parole (2011-10-18)
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
 </li>
+<li data-cover="https://img.discogs.com/CKYwnnaX5Vz0CMfc4RXqxVPc0xY=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3431855-1524164703-2890.jpeg.jpg" data-tags="experimental, experimental rock, indietronica, electro-rock, electronic rock, fatcat records, 010s, my gang 12" role="button">
+Breton - Other People's Problems (2012-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/649641fb-a220-4ca6-ac26-a41e94bf1ed5/1067679953-500.jpg" data-tags="noise, noise rock, experimental rock, psychedelic, noise pop, acid, art rock, psychedelic rock, collaboration, drugs, neo-psychedelia, bella union, warner bros records, warner bros, record store day 2012" role="button">
 The Flaming Lips - The Flaming Lips And Heady Fwends (2012-04-21)
 </li>
@@ -311,6 +308,9 @@ Atoms for Peace - AMOK (2013-02-25)
 </li>
 <li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
 The Flaming Lips - The Terror (2013-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf7683c3-7772-4388-8e12-3b367b59a505/18544740654-500.jpg" data-tags="experimental" role="button">
+David Lynch - The Big Dream (2013-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)

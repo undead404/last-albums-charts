@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T07:21:01.503Z
+date: 2021-04-10T20:04:01.456Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
-![Neon Trees - Habits (2010-03-16)](http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg "Neon Trees - Habits (2010-03-16)")
+![Imagine Dragons - Night Visions (2012-09-04)](http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg "Imagine Dragons - Night Visions (2012-09-04)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">Lifehouse - No Name Face (2000-10-31)</li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">Brand New - Deja Entendu (2003-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/a23b98de-2f6f-4ee9-9ec4-18059f0a7cae/10986739874-500.jpg" data-tags="rock, alternative, power pop, alt rock, scot 1990s music" role="button">Goo Goo Dolls - Better Days (2005)</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">Anberlin - Never Take Friendship Personal (2005-01-17)</li>
 <li data-cover="https://img.discogs.com/1yng1UOjmv874tQZgZg-hDhHiw0=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644309-1588500878-9605.jpeg.jpg" data-tags="rock, alternative" role="button">Fuel - The Best of Fuel (2005-12-13)</li>
-<li data-cover="http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg" data-tags="alternative, animal" role="button">Neon Trees - Habits (2010-03-16)</li>
+<li data-cover="http://coverartarchive.org/release/634d830e-3486-43d1-b6b0-e9730b10b092/2378547288-500.jpg" data-tags="addiction, lonely, alt rock, family sad" role="button">Kevin Devine - Brother's Blood (2009-04-28)</li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">fun. - Some Nights (2011-07-12)</li>
-<li data-cover="https://img.discogs.com/UaiQ1YgJUun3ypxS7QINZxCEai4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668737-1587475194-1360.jpeg.jpg" data-tags="10s" role="button">Wilco - The Whole Love (2011-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
+<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">Coldplay - Ghost Stories (2014-05-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,6 +26,9 @@ Wipers - Is This Real? (1979)
 </li>
 <li data-cover="https://img.discogs.com/qfYH70G4jNFQGQpUvtFx9_DMgi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717457-1282523495.jpeg.jpg" data-tags="punk rock, post-punk" role="button">
 Wipers - Over The Edge (1983)
+</li>
+<li data-cover="https://img.discogs.com/d6jhHQZObjme618RaXt_xguYGFY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13137409-1610737238-1794.png.jpg" data-tags="alternative rock, cowpunk" role="button">
+Meat Puppets - Meat Puppets II (1984-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
 Prefab Sprout - Steve McQueen (1985-06)
@@ -44,9 +47,6 @@ Tad - 8-Way Santa (1991-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e2ed461-01f5-4692-bb7d-697b4f779775/15467186123-500.jpg" data-tags="alternative, 90s" role="button">
 Toad The Wet Sprocket - fear (1991-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/751a112f-7865-4858-a1ad-18d80e81c8bc/3101753806-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Trompe le Monde (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/wiwc5F-Izgh-VQGPdgJ8Q5aLcLA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065347-1189482578.jpeg.jpg" data-tags="punk, riot grrrl" role="button">
 Daisy Chainsaw - Eleventeen (1992-10-06)
@@ -84,9 +84,6 @@ The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/674023e2-07cd-407a-9b92-878e4e32210a/12554390373-500.jpg" data-tags="90s" role="button">
-The Dandy Warhols - The Dandy Warhols Come Down (1997-07-15)
-</li>
 <li data-cover="https://img.discogs.com/I-oViWD7yaPbPfp-56ogVSe6K8o=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10404061-1538314922-5725.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
@@ -117,9 +114,6 @@ Vertical Horizon - Everything You Want (2000-08-14)
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
-Nonpoint - Development (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/41de15ee-e9d8-4336-aa14-03ea5be4016f/15537492906-500.jpg" data-tags="alternative metal, nu metal, lovecore" role="button">
 Boy Hits Car - Boy Hits Car (2001-01-09)
 </li>
@@ -134,6 +128,9 @@ Super Furry Animals - Rings Around the World (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b410dac5-6c06-4864-add3-5f317058f30f/24917496645-500.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - Hoobastank (2001-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/20d00514-e1c6-4b09-a7cd-b824a80ab047/5896975081-500.jpg" data-tags="indie rock" role="button">
+Denali - Denali (2002-04-16)
 </li>
 <li data-cover="https://img.discogs.com/nNVV6HF1SBNCrnuguRpaQoUFmiQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475460-1497839811-1324.jpeg.jpg" data-tags="rock, alternative" role="button">
 Dishwalla - Opaline (2002-04-23)
@@ -156,20 +153,20 @@ Further Seems Forever - How to Start a Fire (2003-02-11)
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
 </li>
-<li data-cover="https://img.discogs.com/vGSMhjKA2wSqUNck-tlhOOSB2TU=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905512-1306601156.jpeg.jpg" data-tags="indie, welsh, british i like, gdchills00s" role="button">
-Super Furry Animals - Phantom Power (2003-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/aa30a840-395e-3116-bd05-82414e33746c/15497033186-500.jpg" data-tags="2003, rock, alternative, 00s" role="button">
-David Bowie - Reality (2003-09-15)
-</li>
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3705ad75-e56a-478b-9994-20eb9876090c/6795975649-500.jpg" data-tags="metalcore" role="button">
+[AMATORY] - Неизбежность (2004)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
+</li>
+<li data-cover="https://img.discogs.com/w1WNjeozKfX_wlsz4NWS3iSvLmU=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3030046-1312472506.jpeg.jpg" data-tags="alt rock" role="button">
+Kevin Max - Between the Fence & the Universe (2004-09-21)
 </li>
 <li data-cover="https://img.discogs.com/rFeysbyP4t_rmB3YIyDGKhxnMrw=/fit-in/394x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495940-1130816132.jpeg.jpg" data-tags="rock, alternative, kiwi, alt rock, evermore" role="button">
 Evermore - Dreams (2004-09-27)
@@ -179,6 +176,9 @@ Goo Goo Dolls - Better Days (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ba9d443-ecb0-4807-b2ac-48f107bc97b4/27575795953-500.jpg" data-tags="alternative rock" role="button">
+Jimmy Chamberlin Complex - Life Begins Again (2005-01-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 TRUSTcompany - True Parallels (2005-03-22)
@@ -201,6 +201,9 @@ My Morning Jacket - Z (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/6d283241-8ab9-4ce8-b5e5-4bed82e1f894/9230255613-500.jpg" data-tags="australian, acoustic" role="button">
 Bernard Fanning - Tea & Sympathy (2005-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/692a0019-b859-37e2-89ca-6bb347163b25/23523583262-500.jpg" data-tags="christian" role="button">
+Delirious? - The Mission Bell (2005-11-07)
+</li>
 <li data-cover="https://img.discogs.com/1yng1UOjmv874tQZgZg-hDhHiw0=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644309-1588500878-9605.jpeg.jpg" data-tags="rock, alternative" role="button">
 Fuel - The Best of Fuel (2005-12-13)
 </li>
@@ -212,9 +215,6 @@ Khoma - The Second Wave (2006-04-03)
 </li>
 <li data-cover="https://img.discogs.com/_XzUTfUpx4SNSmnGaYa6_TyNW-4=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-687864-1147822988.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - Every Man For Himself (2006-05-03)
-</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ab606f-f9a0-4e13-85b4-48fcd5914899/26393765187-500.jpg" data-tags="indie rock" role="button">
 Cursive - Happy Hollow (2006-08-22)
@@ -261,9 +261,6 @@ Charlotte Gainsbourg - IRM (2009-12-03)
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg" data-tags="alternative, animal" role="button">
-Neon Trees - Habits (2010-03-16)
-</li>
 <li data-cover="https://img.discogs.com/1b1WHh7efP5ENa-4AcVgCFJovm4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270028-1274186975.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
 Keane - Night Train (2010-05-09)
 </li>
@@ -273,14 +270,8 @@ Disturbed - Asylum (2010-08-20)
 <li data-cover="http://coverartarchive.org/release/5209ac0e-d60a-4363-8c33-e18aee03f493/2100227428-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Dark Is The Way, Light Is A Place (2010-09-07)
 </li>
-<li data-cover="https://img.discogs.com/UogRoUmRxYFlv-RLJwX71T1Ogrw=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12131091-1529030824-6914.jpeg.jpg" data-tags="alternative rock, usa, jam, alt rock, 10s, starbucks, american group" role="button">
-Dave Matthews Band - Away From The World (2011)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
 fun. - Some Nights (2011-07-12)
-</li>
-<li data-cover="https://img.discogs.com/UaiQ1YgJUun3ypxS7QINZxCEai4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668737-1587475194-1360.jpeg.jpg" data-tags="10s" role="button">
-Wilco - The Whole Love (2011-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/95501339-d993-49d8-8bb0-54cb98464c29/13194367606-500.jpg" data-tags="alternative rock" role="button">
 Tom Waits - Bad as Me (2011-10-21)
@@ -291,14 +282,11 @@ Car Seat Headrest - Twin Fantasy (2011-11-02)
 <li data-cover="http://coverartarchive.org/release/74910106-483e-480a-a8ac-ae946026fd96/10456542205-500.jpg" data-tags="alt rock, 2010s, recommended by jwz" role="button">
 Meg Myers - Daughter in the Choir (2012)
 </li>
-<li data-cover="https://img.discogs.com/rpgQAP5BAJXCNQ8MRpdEF4eyK-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6914456-1429398271-3427.jpeg.jpg" data-tags="britpop, alternative rock" role="button">
-Keane - Strangeland (2012-05-04)
+<li data-cover="https://img.discogs.com/UciUWwL97M2MzkIQqhscupJrTJc=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1544697-1337205321-2730.jpeg.jpg" data-tags="indie, rock, alternative rock" role="button">
+The Cranberries - Roses (2012-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed4ef585-6abe-4a3e-a4d3-6206589b3633/28652812232-500.jpg" data-tags="pop" role="button">
 Scissor Sisters - Magic Hour (2012-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fc1b9a1-075c-419b-adff-615493ba1bfc/3592167593-500.jpg" data-tags="rock, pop, female vocalists" role="button">
 Alanis Morissette - Havoc and Bright Lights (2012-08-12)
@@ -306,11 +294,23 @@ Alanis Morissette - Havoc and Bright Lights (2012-08-12)
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/169c8107-5e7e-42f9-b96c-e33217c3d654/2268780673-500.jpg" data-tags="alternative rock" role="button">
+Anberlin - Vital (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a341c0fe-d6b7-4866-93c1-57d13a7d85a9/10184905518-500.jpg" data-tags="alternative rock, alt rock, turkish rock" role="button">
+Mor ve Ötesi - Güneşi Beklerken (2012-12-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/88f75d9a-00e0-4ec6-8559-1a6c98672d63/4939836450-500.jpg" data-tags="alternative rock" role="button">
 Editors - The Weight of Your Love (2013-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/9b8ddd03-1b4b-456e-a596-1c97b8d3b3f1/15637013313-500.jpg" data-tags="post-hardcore" role="button">
+Dangerkids - Collapse (2013-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c2d3f14-262e-4781-a484-d80ee82ef7a9/9363103757-500.jpg" data-tags="alternative rock, grunge" role="button">
 Pearl Jam - Lightning Bolt (2013-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/fcd44a2b-3e3f-4e7f-8af2-e553fa6a603f/7296590031-500.jpg" data-tags="alternative pop" role="button">
+Tori Amos - Unrepentant Geraldines (2014-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

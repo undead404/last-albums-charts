@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:29:01.411Z
+date: 2021-04-10T20:22:01.439Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -240,9 +240,6 @@ Placebo - Meds (2006-03-10)
 <li data-cover="http://coverartarchive.org/release/04a5715f-0842-3e8d-93cd-37ae9163de69/16356973756-500.jpg" data-tags="britpop, indie, 00s" role="button">
 Morrissey - Ringleader of the Tormentors (2006-04-03)
 </li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
 </li>
@@ -314,6 +311,9 @@ Coldplay - Every Teardrop Is a Waterfall (2011-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
+Suede - Dog Man Star (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
 Suede - Suede (2013-10-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:34:01.428Z
+date: 2021-04-10T20:44:01.425Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/4_Y4SwWGLArxbykf0Ua5d8xunvc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4835146-1385318746-3153.jpeg.jpg" data-tags="hard rock, classic rock" role="button">
+Bachman-Turner Overdrive - Not Fragile (1974)
+</li>
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
 </li>
@@ -29,6 +32,9 @@ Bryan Adams - Reckless (1984-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
 Leonard Cohen - Various Positions (1984-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ccd94fae-b441-34d7-a3cd-b0e9785033ec/6919771664-500.jpg" data-tags="rock, 80s, singer-songwriter" role="button">
+Neil Young - Freedom (1989-10-02)
 </li>
 <li data-cover="https://img.discogs.com/kEM4w-q5ZI5j_NB4Ibtu4hLE-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3150823-1318106448.jpeg.jpg" data-tags="rock, canadian" role="button">
 Barenaked Ladies - Gordon (1992-07-28)
@@ -62,9 +68,6 @@ Barenaked Ladies - Stunt (1998-07-07)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c450cc8-b64a-438b-ba54-a12aefc46736/21731034338-500.jpg" data-tags="90s, pop" role="button">
-Len - You Can't Stop The Bum Rush (1999-05-25)
 </li>
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
@@ -218,9 +221,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/57c19991-a3c7-484a-8337-6466dc55d78c/11538753668-500.jpg" data-tags="rock, alternative rock" role="button">
 Theory of a Deadman - Scars & Souvenirs (2008-04-01)
-</li>
-<li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
-Tokyo Police Club - Elephant Shell (2008-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)

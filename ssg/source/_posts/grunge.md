@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:20:01.538Z
+date: 2021-04-10T20:02:01.554Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -186,6 +186,9 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="http://coverartarchive.org/release/8843d2b4-f584-46a4-9c3c-f082b7eb39c4/9233096986-500.jpg" data-tags="grunge, 90s, rock, alternative" role="button">
 Days of the New - Days Of The New (1997-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
+Creed - My Own Prison (1997-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1384642-7aa5-4f3a-9839-5e7ad4ab0f23/10132446474-500.jpg" data-tags="grunge, rock" role="button">
 Soundgarden - A-Sides (1997-11-04)
 </li>
@@ -299,9 +302,6 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/0653ea23-f0e6-4708-b090-d9afcb4ed7c2/23042689021-500.jpg" data-tags="grunge" role="button">
-Soundgarden - Telephantasm (2010-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)

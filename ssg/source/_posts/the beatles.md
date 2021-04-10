@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:06:01.450Z
+date: 2021-04-10T20:33:01.808Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -159,9 +159,6 @@ John Lennon - Imagine / Jealous Guy (1988-01-28)
 <li data-cover="http://coverartarchive.org/release/094f5e75-f8fb-381e-b1c9-9abe4d218d5d/15299622369-500.jpg" data-tags="my favorites" role="button">
 Albert Hammond - The Very Best of Albert Hammond (1989-02-06)
 </li>
-<li data-cover="https://img.discogs.com/Guc6YdVIkfL8fdt6Slzgvvv7KNo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4304458-1436317961-7677.jpeg.jpg" data-tags="rock" role="button">
-John Lennon - The John Lennon Collection (1989-10-26)
-</li>
 <li data-cover="https://img.discogs.com/CGTGVPWzMWhNqHtKaYRUVpMQMl4=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2174539-1268014364.jpeg.jpg" data-tags="60s, oldies" role="button">
 Tommy James & The Shondells - Anthology (1989-10-30)
 </li>
@@ -204,11 +201,11 @@ George Martin - In My Life (1998-03-23)
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb1ea112-c541-4b01-9b1d-86bcc44c46d7/5261845054-500.jpg" data-tags="classic rock, lennon, singer-songwriter" role="button">
-John Lennon - Anthology (1998-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/a55a759b-703d-434a-b5ee-8ba457ccf6db/21353003827-500.jpg" data-tags="the simpsons" role="button">
 The Simpsons - The Yellow Album (1998-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b169db9-a9ae-4e76-a8dd-118c2fe4d0e3/4327398469-500.jpg" data-tags="mar de copas" role="button">
+Mar de Copas - Suna (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
@@ -234,17 +231,20 @@ David Poe - The Late Album (2002-07-30)
 <li data-cover="https://img.discogs.com/swRhBbRUEtCyCX0pNSPw07Xe3v4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-544680-1574204290-9076.jpeg.jpg" data-tags="dungen" role="button">
 Dungen - Stadsvandringar (2002-10-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/e6393124-1304-44f8-8883-dbc351c4d050/28138817016-500.jpg" data-tags="beatles cover song" role="button">
+Peter Lipa - Beatles in Blue(s) (2003-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/d370e57c-8c30-4828-8f83-5d98ea994145/2796177642-500.jpg" data-tags="classic rock, rock" role="button">
 The Beatles - Let It Be... Naked (2003-11-14)
+</li>
+<li data-cover="https://img.discogs.com/Jj6L6qf93Y1xPF8pVj1l9KY6K30=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7270670-1437674733-9936.jpeg.jpg" data-tags="the beatles, beatles cover, beatles covers, the beatles cover, beatles cover song, beatles cover songs, the beatles cover song, the beatles cover songs, the beatles covers" role="button">
+Lasha - Beatles - Baby Style (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">
 Danger Mouse - The Grey Album (2004-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d9ac9c-9b99-46af-8679-9a005d4ba2a1/1935751672-500.jpg" data-tags="heavy metal" role="button">
 Beatallica - Beatallica (2004-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5bb767b7-6973-4e14-a976-02122f21b1da/6045290014-500.jpg" data-tags="classic rock, acoustic, singer-songwriter, rock" role="button">
-John Lennon - Acoustic (2004-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4050c80-21b2-4f91-a8d8-0ef8d4c2d845/8809394844-500.jpg" data-tags="black beatles" role="button">
 Various Artists - Trojan Beatles Tribute Box Set (2004-11-22)
@@ -291,14 +291,14 @@ PAULUSMA - iRECORD (2008-11-10)
 <li data-cover="http://coverartarchive.org/release/75047fd6-d3a3-4fca-9fbe-42072cff4286/7567861972-500.jpg" data-tags="the beatles, the shins, beck, foo fighters, nirvana, elliott smith, belle and sebastian, white stripes, supergrass, iron and wine, the hidden cameras, johnossi, artic monkeys:, pavement:" role="button">
 Jens Wennberg - Welcome to 1984 (2008-12-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
-Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/12f954b9-ae94-4ed3-9d29-9296e74a7afb/1795854551-500.jpg" data-tags="heavy metal, metal, cover, mashup, remix, mash-up, bastard pop, the beatles, parody, bootleg, 2000s, sample, joke" role="button">
 Beatallica - Masterful Mystery Tour (2009-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f907d2-b635-4cd7-9c67-ab54575fbfe8/10373105382-500.jpg" data-tags="classic rock, ringo starr" role="button">
 Ringo Starr - Y Not (2010-01-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/adce35fa-62c0-47ef-8f7b-bca060101fa3/4393291641-500.jpg" data-tags="rock, blues rock" role="button">
+DeepSeaGreen - DeepSeaGreen (2010-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa147128-b07d-45d9-8e04-533b82c8b32c/3610794026-500.jpg" data-tags="hip-hop, rap, american, remix, wonderwall, mash-up, the beatles, bloc party, oasis, silver, mercy, brit pop, duffy, cruise control, adele, crazy chick, lonely people, hometown glory, bk cyph, elanor rigby, incomparable shakespeare" role="button">
 The Incomparable Shakespeare - The British Invasion (2010-02-28)

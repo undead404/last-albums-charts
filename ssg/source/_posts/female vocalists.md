@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:54:01.517Z
+date: 2021-04-10T20:31:06.959Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -50,6 +50,9 @@ Björk - Post (1995-06-09)
 </li>
 <li data-cover="https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg" data-tags="90s, ska, rock" role="button">
 No Doubt - Tragic Kingdom (1995-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
+Cat Power - Myra Lee (1996-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
@@ -194,9 +197,6 @@ Amy Winehouse - Back to Black (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)

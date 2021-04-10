@@ -1,10 +1,11 @@
 ---
-date: 2021-04-10T14:59:01.409Z
+date: 2021-04-10T19:54:01.475Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">Tori Amos - Under the Pink (1994-01-28)</li>
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">Antony and the Johnsons - Antony and the Johnsons (2000-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">Regina Spektor - Songs (2002)</li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">Regina Spektor - Soviet Kitsch (2004-08-17)</li>
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">Fiona Apple - Extraordinary Machine (2005-03)</li>
@@ -12,7 +13,6 @@ title: "piano: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">Soap&Skin - Lovetune for Vacuum (2009-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">Agnes Obel - Philharmonics (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">Agnes Obel - Aventine (2013-09-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -207,6 +207,9 @@ Train - For Me, It's You (2006-01-31)
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/c18028a8-178c-4c36-a46c-6483a4acab73/4940125918-500.jpg" data-tags="jazz" role="button">
+Aaron Goldberg - Worlds (2006-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
 </li>
@@ -272,9 +275,6 @@ Marit Larsen - If A Song Could Get Me You (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - The Pursuit (2009-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:05:01.439Z
+date: 2021-04-10T20:05:01.514Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -62,6 +62,9 @@ Junior Murvin - Police and Thieves (1977)
 </li>
 <li data-cover="https://img.discogs.com/M4Jaf2rjoXt9OFZNOLGDixTK7uA=/fit-in/336x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2291030-1345170775-4916.jpeg.jpg" data-tags="reggae" role="button">
 Culture - Two Sevens Clash (1977)
+</li>
+<li data-cover="https://img.discogs.com/H8qd6qf0AnrL_jKtk8yf1LWj9A8=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2957362-1370031172-1664.jpeg.jpg" data-tags="reggae, roots reggae" role="button">
+Israel Vibration - The Same Song (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ed43286-195b-4e8c-a90d-add220e8c966/3336058240-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Kaya (1978-03-23)
@@ -278,9 +281,6 @@ Culcha Candela - Culcha Candela (2007-08-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae, swedish reggae" role="button">
 Passafire - Submersible (2007-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7aa8f878-1ca8-4550-b273-042a397c69a2/24391938485-500.jpg" data-tags="reggae, rock" role="button">
-Michael Franti & Spearhead - All Rebel Rockers (2008-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d68e86c-ca8e-403b-a208-5f440fcc6aa5/8684760406-500.jpg" data-tags="reggae, 00s, rap rock, opelmelange" role="button">
 The Dirty Heads - Any Port In A Storm (2008-09-23)

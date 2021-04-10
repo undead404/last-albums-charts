@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:27:01.414Z
+date: 2021-04-10T20:11:01.519Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -111,6 +111,9 @@ Senses Fail - Let It Enfold You (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/735c33ce-f86e-46b5-babd-52daee949e3c/21617257302-500.jpg" data-tags="post-hardcore, indie rock" role="button">
 mewithoutYou - Catch For Us The Foxes (2004-10-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+The Blood Brothers - Crimes (2004-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
@@ -128,6 +131,9 @@ Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - All's Well That Ends Well (2005-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
+Emery - The Question (2005-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Doppelganger (2005-08-15)
@@ -173,9 +179,6 @@ Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
 <li data-cover="https://img.discogs.com/FRZ3gNetLCW2_nAvk5ktVtBgHzU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7274424-1575807464-9451.jpeg.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent II (2006-06-23)
-</li>
-<li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
-Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -251,9 +254,6 @@ A Day to Remember - Homesick (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/42d9fa8b-db09-4dfc-982c-6928471096fb/11692241662-500.jpg" data-tags="post-hardcore" role="button">
 Adept - Another Year of Disaster (2009-02-04)
-</li>
-<li data-cover="https://img.discogs.com/ZgZLbGkGqrQGRuYinT2A0hCv8js=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3572382-1502046421-7512.jpeg.jpg" data-tags="post-hardcore" role="button">
-Isles & Glaciers - The Hearts of Lonely People (2009-03-09)
 </li>
 <li data-cover="https://img.discogs.com/wVvQZsZIbXmB5WoO8KH9wW7fwWQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828314-1550360653-9051.jpeg.jpg" data-tags="post-hardcore" role="button">
 Alexisonfire - Old Crows / Young Cardinals (2009-06-19)

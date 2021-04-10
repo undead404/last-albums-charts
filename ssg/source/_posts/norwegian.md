@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:40:01.777Z
+date: 2021-04-10T20:15:01.691Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -35,9 +35,6 @@ Darkthrone - Transilvanian Hunger (1994-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal" role="button">
 Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
-</li>
-<li data-cover="https://img.discogs.com/Qud3vvROkLnBWZmhAAf1FWk7kqs=/fit-in/591x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3843171-1372627523-9890.jpeg.jpg" data-tags="rock" role="button">
-Motorpsycho - Timothy's Monster (1994-08-06)
 </li>
 <li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
@@ -77,9 +74,6 @@ Lene Marlin - Playing My Game (1999-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/52e116bb-41bf-4631-bb16-13f9e9926b3e/26925759404-500.jpg" data-tags="electronic, norwegian, un, lovely electronica, gvs" role="button">
 Kim Hiorthøy - Hei (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1285710-bcd8-47c5-9ce3-d3df1f57a7d1/12016458800-500.jpg" data-tags="pop, m2m" role="button">
-M2M - Shades of Purple (2000-02-03)
 </li>
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s, pop rock 80" role="button">
 a-ha - Minor Earth | Major Sky (2000-07-10)
@@ -144,8 +138,14 @@ Dimmu Borgir - Death Cult Armageddon (2003-09-08)
 <li data-cover="http://coverartarchive.org/release/6c293557-1a20-4cf6-80e8-5bb7d7ab4e55/16378712431-500.jpg" data-tags="pop, another day" role="button">
 Lene Marlin - Another Day (2003-09-18)
 </li>
+<li data-cover="https://img.discogs.com/WZsQSYa2ubtl0ZEgf9ZZTUEGa8c=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047409-1296707319.jpeg.jpg" data-tags="rock" role="button">
+Gåte - Iselilja (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
 Hanne Hukkelberg - Little Things (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/a018d45c-ad3e-3028-8ff3-676a2d3c80b3/955154493-500.jpg" data-tags="jazz, jazz vocal, female vocalists, norwegian, female vocalist, 00s, female jazz vocalist, blues bar, jazz covers, albummanara, albumsdoudoune, cds i own and have yet to hear" role="button">
+Inger Marie Gundersen - Make this moment (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c1208a3-e4e8-4b86-987f-2c17f27e05b7/21329941175-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Maria Mena - White Turns Blue (2004)

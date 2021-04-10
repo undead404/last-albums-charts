@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:20:01.438Z
+date: 2021-04-10T20:03:01.463Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -39,6 +39,9 @@ Yazoo - Upstairs At Eric's (1982-08-23)
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
+Bronski Beat - The Age of Consent (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e8b1d1-6fa7-3baa-8658-026060ae06c5/14454641304-500.jpg" data-tags="80s" role="button">
 Alphaville - Forever Young (1984-09-27)
 </li>
@@ -47,9 +50,6 @@ Dead or Alive - Youthquake (1985-01-01)
 </li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
 a-ha - Hunting High and Low (1985-06-01)
-</li>
-<li data-cover="https://img.discogs.com/lSQ2Dm03zcPucXA80L3T8rY_-ic=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1000845-1182632136.jpeg.jpg" data-tags="80s, synthpop" role="button">
-Pet Shop Boys - Please (1986-03-24)
 </li>
 <li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Pretty Hate Machine (1989-11-20)
@@ -62,9 +62,6 @@ New Order - Republic (1993-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
-</li>
-<li data-cover="https://img.discogs.com/DFdycH0d8JucCOwi0wf-Q7xt8Gc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-91024-1356196838-1896.jpeg.jpg" data-tags="synthpop" role="button">
-Covenant - Northern Light (2002-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
@@ -284,6 +281,9 @@ St. Lucia - When The Night (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
+Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
 Broken Bells - After the Disco (2014-01-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:52:01.737Z
+date: 2021-04-10T19:55:01.502Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -249,6 +249,9 @@ Foals - Total Life Forever (2010-05-07)
 <li data-cover="http://coverartarchive.org/release/daaa313f-2f30-39e7-a8f0-511276fc7341/19193385025-500.jpg" data-tags="indie rock" role="button">
 The National - High Violet (2010-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">
+Band of Horses - Infinite Arms (2010-05-17)
+</li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
 </li>
@@ -269,9 +272,6 @@ Grouplove - Never Trust A Happy Song (2011-09-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Kasabian - Velociraptor! (2011-09-16)
-</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)

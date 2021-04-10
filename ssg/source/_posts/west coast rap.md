@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:28:01.459Z
+date: 2021-04-10T19:47:01.502Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -90,6 +90,9 @@ Warren G - Regulate… G Funk Era (1994-06-07)
 <li data-cover="http://coverartarchive.org/release/d206cfd6-cacd-4cec-9611-64745fae2c82/22605229691-500.jpg" data-tags="west coast rap, g-funk" role="button">
 Above the Law - Uncle Sam's Curse (1994-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb7ed05e-0466-42af-8f0e-9766f46c1c17/1408354865-500.jpg" data-tags="rap" role="button">
+Coolio - It Takes a Thief (1994-07-19)
+</li>
 <li data-cover="https://img.discogs.com/f2XwaG8e7mH14L1Tgt3ZtKgHuRU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491718-1404084227-4320.jpeg.jpg" data-tags="black metal, rap, gangsta rap, sacramento, horrorcore, west coast rap" role="button">
 Sicx - Dead 4 Life (1995)
 </li>
@@ -123,6 +126,9 @@ Tha Dogg Pound - Dogg Food (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/79ce76b8-2c40-487f-8c7f-b2c2de841a8e/24285828142-500.jpg" data-tags="sactown rap" role="button">
 Mr. Doctor - Setripn' Bloccstyle (1995-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ca68cf0-608a-426b-9572-bcbfe0ae40be/16648702520-500.jpg" data-tags="crossover, hardcore" role="button">
+Body Count - Body Count (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
@@ -131,6 +137,9 @@ MC Ren - The Villain In Black (1996-04-09)
 </li>
 <li data-cover="https://img.discogs.com/I9KSM5KKO4wuY7RxxkAU9y8Oze0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179746-1319325662.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
 N.W.A - Greatest Hits (1996-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b0c9200-8eab-4457-9c82-690b9b4d69cb/5458690525-500.jpg" data-tags="west coast rap" role="button">
+Young Lay - Black 'n Dangerous (1996-07-04)
 </li>
 <li data-cover="https://img.discogs.com/qSMoPYzA_uxxO6SPK_hEhBO_Ids=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-606113-1137661904.jpeg.jpg" data-tags="oakland" role="button">
 Dru Down - Can You Feel Me (1996-08-20)
@@ -252,9 +261,6 @@ Cypress Hill - Till Death Do Us Part (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
-The Game - The Documentary (2005-01-18)
-</li>
 <li data-cover="https://img.discogs.com/Gz8fgdb8aRzaW9DvlXvOiCCn2Es=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955499-1380750118-1937.jpeg.jpg" data-tags="rap, hiphop, gangsta rap, west coast rap, bone thugs, silentangel" role="button">
 Layzie Bone - It's Not a Game (2005-05-31)
 </li>
@@ -276,9 +282,6 @@ Ice Cube - Laugh Now, Cry Later (2006-06-06)
 <li data-cover="https://img.discogs.com/GTciODd24X0IquM_2mJB03hmSlo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2087675-1402752794-7839.jpeg.jpg" data-tags="west coast rap" role="button">
 DJ Quik - Born And Raised In Compton: The Greatest Hits (2006-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
-The Game - Doctor's Advocate (2006-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
@@ -287,9 +290,6 @@ Brotha Lynch Hung - The Ripgut Collection (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
 Daz Dillinger - Only On The Left Side (2008-08-12)
-</li>
-<li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
-The Game - LAX (2008-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8eedec7-3b7f-4ea3-a479-5c136641b875/18892895465-500.jpg" data-tags="gangsta rap, texas, southern rap, west coast rap, rap-a-lot, houston rap" role="button">
 Scarface - Emeritus (2008-12-02)

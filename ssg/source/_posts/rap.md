@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:38:01.682Z
+date: 2021-04-10T20:23:01.446Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -144,9 +144,6 @@ Ice Cube - Greatest Hits (2001-12-03)
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
 Clipse - Lord Willin' (2002-04-01)
 </li>
@@ -186,9 +183,6 @@ MF DOOM - MM..Food (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
-The Game - The Documentary (2005-01-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
 </li>
@@ -215,6 +209,9 @@ The Notorious B.I.G. - Greatest Hits (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">
+50 Cent - Curtis (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a758b20-d65d-4319-b7c9-62ff8489d4ad/10643982696-500.jpg" data-tags="chamillionaire, rap, hip-hop, dirty south" role="button">
 Chamillionaire - Ultimate Victory (2007-09-18)
@@ -317,6 +314,9 @@ Drake - 0 To 100 / The Catch Up (2014-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbd931f0-f3ad-4550-b1cd-862e4b70cc03/9082731243-500.jpg" data-tags="hip hop" role="button">
 J. Cole - 2014 Forest Hills Drive (2014-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
+Pitbull - Globalization (2014-11-21)
 </li>
 <li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
 Nicki Minaj - The Pinkprint (2014-12-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:58:01.399Z
+date: 2021-04-10T20:25:01.396Z
 title: "icelandic: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - ágætis byrjun (1999-06)](http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg "Sigur Rós - ágætis byrjun (1999-06)")
@@ -11,9 +11,9 @@ title: "icelandic: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">múm - Finally We are No One (2002-05-20)</li>
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Takk... (2005-08-22)</li>
+<li data-cover="https://img.discogs.com/w447e9Jz52F2U0QwpG6brAl_CD0=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6921311-1535675024-9968.jpeg.jpg" data-tags="icelandic, experimental" role="button">múm - Go Go Smear the Poison Ivy (2007-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)</li>
 <li data-cover="http://coverartarchive.org/release/06893018-03d4-3c87-9d87-93bb51881dc0/22358531244-500.jpg" data-tags="ambient, icelandic" role="button">Jónsi & Alex - Riceboy Sleeps (2009-04-06)</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">Of Monsters and Men - My Head Is an Animal (2011-09-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -122,6 +122,9 @@ Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="https://img.discogs.com/KrbD9S-ga2-IXaA_qAC90OG-IAw=/fit-in/400x341/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-913453-1285001908.jpeg.jpg" data-tags="ambient, icelandic" role="button">
 Pornopop - And the Slow Songs About the Dead Calm In Your Arms (2004)
+</li>
+<li data-cover="https://img.discogs.com/7PwGm_Yg8a-BAmdv7dcljBALUo8=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2110970-1587141928-5576.jpeg.jpg" data-tags="post-rock, icelandic" role="button">
+Slowblow - Fousque (2004)
 </li>
 <li data-cover="https://img.discogs.com/Z8F7GtpzEeaqXy2dORCEBGoq6Ds=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1137881-1493257369-7784.jpeg.jpg" data-tags="rock, icelandic" role="button">
 Quarashi - Guerilla Disco (2004)
@@ -245,9 +248,6 @@ Sóley - We Sink (2011-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5c7b476-836a-4076-bc12-9fc611157f3e/9491330388-500.jpg" data-tags="icelandic, eclipsed0412" role="button">
 Árstíðir - Svefns og vöku skil (2011-09-06)
-</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2e019b9-720c-4db9-8604-244dff44c1db/3776643792-500.jpg" data-tags="experimental" role="button">
 Björk - Biophilia (2011-10-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:53:01.556Z
+date: 2021-04-10T20:30:01.607Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -10,8 +10,8 @@ title: "classic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
+<li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">Billy Joel - The Essential Billy Joel (2001-10-02)</li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
 <li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">The Weeknd - Trilogy (2012-11-13)</li>
 </ol>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
+The Kinks - You Really Got Me (1964-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
 </li>
@@ -41,9 +44,6 @@ Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
 The Band - The Best of the Band (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/aeec3ff0-cff4-4a40-9e3d-3c8ca671d5f4/16559440142-500.jpg" data-tags="soul, 70s, funk" role="button">
-Heatwave - Too Hot To Handle (1976)
 </li>
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
@@ -117,6 +117,9 @@ Dr. Dre - The Chronic (1992-12-15)
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/3827d42e-ae55-4d01-a4a8-699ffc750c30/28313173034-500.jpg" data-tags="90s, alternative rock" role="button">
+Hootie & The Blowfish - Cracked Rear View (1994-07-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
 Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
 </li>
@@ -128,9 +131,6 @@ Antonio Vivaldi - Tranquillity: The Seasons (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
-</li>
-<li data-cover="https://img.discogs.com/4X9TevQ8trKskYVOTvzrqCSHoYI=/fit-in/333x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1049046-1193116085.jpeg.jpg" data-tags="folk" role="button">
-Palace Music - Viva Last Blues (1995-08-14)
 </li>
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
@@ -153,6 +153,9 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
 Mobb Deep - Hell on Earth (1996-11-01)
 </li>
+<li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
+Whiskeytown - Strangers Almanac (1997-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c32f859-d4e0-4ee5-a7cd-326465de2df2/25761719374-500.jpg" data-tags="classic rock" role="button">
 The Kinks - The Singles Collection (1997-09-29)
 </li>
@@ -174,8 +177,14 @@ Wilco - Summerteeth (1999-03-09)
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/df9a8504-38c0-3df8-baf2-653c8037ef08/4782955873-500.jpg" data-tags="industrial" role="button">
+Rob Zombie - American Made Music To Strip By (1999-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
+Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -210,9 +219,6 @@ Secret Garden - Once in a Red Moon (2002-03-21)
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d43ec83c-bcc9-4504-81fe-6fd92083a0c6/4371043204-500.jpg" data-tags="latin" role="button">
-Juanes - Un Día Normal (2002-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
@@ -246,9 +252,6 @@ Jedi Mind Tricks - Legacy of Blood (2004-08-24)
 <li data-cover="http://coverartarchive.org/release/0425b577-443a-4ad8-9d9a-a1e060860c8e/21055879662-500.jpg" data-tags="pitchfork top albums 2005" role="button">
 Cam'ron - Purple Haze (2004-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
-The Game - The Documentary (2005-01-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)
 </li>
@@ -258,17 +261,11 @@ Sleater-Kinney - The Woods (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
 Eric B. & Rakim - Gold (2005-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
-Sublime - Gold (2005-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
 T.I. - King (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b19677b-0edd-4c9f-b7e5-0303934c220b/4774377778-500.jpg" data-tags="hip-hop, hip hop, classic, dj, underground, mc" role="button">
 Soul Position - Things Go Better with RJ and Al (2006-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
-The Game - Doctor's Advocate (2006-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8dcdb67-d137-4fd8-bbf0-3d043e85a06f/3361363395-500.jpg" data-tags="hip hop" role="button">
 Mos Def - TRUE MAGIC (2006-12-19)
@@ -288,9 +285,6 @@ Brandy - Human (2008-12-05)
 <li data-cover="http://coverartarchive.org/release/55265199-08f9-3e6a-8532-409b6caf6c5e/7794207792-500.jpg" data-tags="classic rock" role="button">
 The Who - Greatest Hits (2009-12-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
@@ -302,6 +296,9 @@ The Smiths - Complete (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
+</li>
+<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
+Rodriguez - Searching for Sugar Man (2012-07-20)
 </li>
 <li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">
 Bruno Mars - Locked Out Of Heaven (2012-10-01)
@@ -317,6 +314,9 @@ Beady Eye - BE (2013-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7232a37e-9f53-4551-9a8e-3f11f53c831f/6506883340-500.jpg" data-tags="hello" role="button">
 MKTO - Classic (2013-06-20)
+</li>
+<li data-cover="https://img.discogs.com/eUnbFSYm7rkRLOB_2a_3W100P0o=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5573663-1396929814-5726.jpeg.jpg" data-tags="classic, pop punk, inspirational, indie punk, vinyls, less than 40 minutes" role="button">
+Fireworks - Oh, Common Life (2014)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a9b150a-d8ff-4abf-8ea7-773cf66c6c91/26554516400-500.jpg" data-tags="soundtrack, classic, instrumental, choir, orchestral, klassik, epic trailer music, fantasy album covers" role="button">
 Two Steps from Hell - Miracles (2014-06-02)

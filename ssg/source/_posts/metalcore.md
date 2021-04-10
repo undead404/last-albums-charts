@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:44:01.421Z
+date: 2021-04-10T20:45:01.633Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -90,8 +90,14 @@ Unearth - The Oncoming Storm (2004-06-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, metal, thrash metal" role="button">
 Lamb of God - Ashes Of The Wake (2004-08-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
+Converge - You Fail Me (2004-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/14303fcb-f044-418e-8736-bb5fa39e7fd2/7461315604-500.jpg" data-tags="metalcore" role="button">
 Shadows Fall - The War Within (2004-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/abb6f5d6-83a9-485c-84c9-d9aff9d3fc26/6514191168-500.jpg" data-tags="deathcore" role="button">
+Bring Me the Horizon - This Is What the Edge of Your Seat Was Made For (2004-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/def35f73-abc3-4296-b41e-fc51ef0e177b/6677597463-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
@@ -129,9 +135,6 @@ Bullet for My Valentine - The Poison (2005-09-30)
 <li data-cover="https://img.discogs.com/EwIKaNEBHF3RZGSevNm8aR7dtLA=/fit-in/332x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097142-1191788205.jpeg.jpg" data-tags="metalcore, metal, death metal, thrash metal" role="button">
 Roadrunner United - The All-Star Sessions (2005-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Thrill Seeker (2005-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/c16704e7-6827-4eb7-a81b-35b1dc868de4/15472469630-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - (Set This) World Ablaze (2005-11-22)
 </li>
@@ -147,9 +150,6 @@ Killswitch Engage - As Daylight Dies (2006-01-21)
 <li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
 Caliban - The Undying Darkness (2006-02-22)
 </li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f6e27378-13d1-48a1-b6c7-52264dfd8001/1293739909-500.jpg" data-tags="metalcore" role="button">
 Atreyu - A Death-Grip on Yesterday (2006-03-28)
 </li>
@@ -159,14 +159,14 @@ Atreyu - A Death-Grip on Yesterday (2006-03-28)
 <li data-cover="https://img.discogs.com/No9xytAjXz9R7kubNbLG0MdRZr4=/fit-in/600x690/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364969-1584757965-7364.jpeg.jpg" data-tags="metalcore" role="button">
 I Killed the Prom Queen - Music For The Recently Deceased (2006-07-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, thrash metal" role="button">
 Lamb of God - Sacrament (2006-08-22)
 </li>
 <li data-cover="https://img.discogs.com/0FXAaNOwwuczwJ789zuZ8kalrAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297951-1613600745-7894.jpeg.jpg" data-tags="metalcore" role="button">
 Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
+</li>
+<li data-cover="https://img.discogs.com/tyWc16V9BxwvWEIocD7PeSuJ7C0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12102410-1528428097-3156.jpeg.jpg" data-tags="metalcore" role="button">
+Norma Jean - Redeemer (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -186,23 +186,26 @@ Chimaira - Resurrection (2007-03-02)
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/818aa8f1-d844-48e4-bc21-1c3c9589d488/26249216838-500.jpg" data-tags="metalcore" role="button">
+Haste the Day - Pressure The Hinges (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
+From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
 blessthefall - His Last Walk (2007-04-10)
 </li>
 <li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
 Sonic Syndicate - Only Inhuman (2007-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Messengers (2007-06-19)
+<li data-cover="https://img.discogs.com/xANQxsz-LKclSFQ6_WPkLdoTSgU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3247954-1322255822.jpeg.jpg" data-tags="metalcore, melodic death metal" role="button">
+Darkest Hour - Deliver Us (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 As I Lay Dying - An Ocean Between Us (2007-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Plagues (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
@@ -258,12 +261,6 @@ Architects - Hollow Crown (2009-01-26)
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Constellations (2009-07-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -276,8 +273,8 @@ Converge - Axe to Fall (2009-10-20)
 <li data-cover="http://coverartarchive.org/release/810fcd2b-03d9-4d5f-95a2-76923a17e29e/6822132066-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Congregation of the Damned (2009-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/edd79f3d-5f9e-423b-8bce-2ae37022b7c0/4226165962-500.jpg" data-tags="metalcore" role="button">
-As I Lay Dying - The Powerless Rise (2010-05-11)
+<li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
+We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
@@ -291,6 +288,9 @@ Avenged Sevenfold - Nightmare (2010-07-23)
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+Motionless in White - Creatures (2010-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/00e40879-8672-45f6-9172-72b891a955d4/6514067219-500.jpg" data-tags="metalcore" role="button">
 All That Remains - For We Are Many (2010-10-12)
 </li>
@@ -303,11 +303,11 @@ Architects - The Here And Now (2011-01-21)
 <li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - The Flood (2011-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0520029-633b-422b-a226-0813b0cc9b61/5727174202-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Leveler (2011-06-21)
-</li>
 <li data-cover="https://img.discogs.com/UlpAh6dP3P-5YwdqN6CKcF-Wg6s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044181-1313108274.jpeg.jpg" data-tags="metalcore" role="button">
 Trivium - In Waves (2011-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/988be515-048f-49a6-b963-449f686e321d/2550406279-500.jpg" data-tags="metalcore" role="button">
+Architects - Daybreaker (2012-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/83e6ecc2-662d-45fd-bdea-585d94303cce/2421759627-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Atlas (2012-10-26)

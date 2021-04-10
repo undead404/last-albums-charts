@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:14:01.710Z
+date: 2021-04-10T20:43:01.559Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -9,11 +9,11 @@ title: "freak folk: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/JER9pOjFx79mxEsIr3hc7I6zIRQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515010-1465559157-3487.jpeg.jpg" data-tags="indie" role="button">CocoRosie - Noah's Ark (2005-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/91760b90-6914-343c-99b7-3e673fc08c37/26142599602-500.jpg" data-tags="experimental, alternative, freak folk" role="button">CocoRosie - The Adventures of Ghosthorse and Stillborn (2007-04-09)</li>
+<li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">Local Natives - Gorilla Manor (2009-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">CocoRosie - Grey Oceans (2010-04-30)</li>
-<li data-cover="https://img.discogs.com/wkNlk8DexL-Q6Ivt-vKCVwjdrHQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871890-1304970303.jpeg.jpg" data-tags="experimental, freak folk, 4ad" role="button">tUnE-yArDs - w h o k i l l (2011-04-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -35,6 +35,9 @@ Jandek - Ready for the House (1978-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
 Butthole Surfers - Locust Abortion Technician (1987-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/835af306-49d9-4702-9346-538dc096c176/13962917306-500.jpg" data-tags="hip hop" role="button">
+The Coup - Kill My Landlord (1993-05-04)
 </li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
@@ -60,6 +63,9 @@ Animal Collective - Here Comes the Indian (2003-06-17)
 <li data-cover="https://img.discogs.com/IZrSXwWWSROWj29pnkfbOAO8PGI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1248589-1203636376.jpeg.jpg" data-tags="indie rock, art rock" role="button">
 Frog Eyes - The Golden River (2003-07-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/27f3a5d1-97ff-4deb-847a-d9ce9ccd76ab/26543741494-500.jpg" data-tags="experimental" role="button">
+Animal Collective - Danse Manatee (2003-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/bee9a4bb-8db7-40d3-b129-779bacef5ff9/16127939552-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, the shit, art pop, moc mnam lofi" role="button">
 Dirty Projectors - The Glad Fact (2003-11-04)
 </li>
@@ -71,9 +77,6 @@ Six Organs of Admittance - The Manifestation (2004)
 </li>
 <li data-cover="https://img.discogs.com/iZmPBLwto042YdZnvxGThqirlBM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2068109-1524848806-4262.jpeg.jpg" data-tags="folk, guitar, freak folk, emd, new weird america, whats cool, diana picks, coyote, improvika, nocturne ballad for opium eaters" role="button">
 Jack Rose - Two Originals Of... (2004-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
-TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
@@ -219,6 +222,9 @@ Akron/Family - Love Is Simple (2007-09-18)
 <li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">
 The Acorn - Glory Hope Mountain (2007-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a0b1df26-4a8c-422b-b839-1c6895e6bd23/6635452105-500.jpg" data-tags="freak folk, indie folk, dream folk" role="button">
+Ruby Throat - The Ventriloquist (2007-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Chains (2008)
 </li>
@@ -276,14 +282,8 @@ Neil Young - Le Noise (2010-09-24)
 <li data-cover="http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg" data-tags="psychedelic folk, psychedelic neofolk" role="button">
 Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/wkNlk8DexL-Q6Ivt-vKCVwjdrHQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871890-1304970303.jpeg.jpg" data-tags="experimental, freak folk, 4ad" role="button">
-tUnE-yArDs - w h o k i l l (2011-04-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, surf, psychedelic, freak folk, woodsist" role="button">
 Woods - Sun and Shade (2011-05-31)
-</li>
-<li data-cover="https://img.discogs.com/6K6vayQ-5-CYTP1eqZtL3_szf9c=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3608524-1337203906-8071.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
-Marissa Nadler - The Sister (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/288b34fd-f78c-423a-a144-8191ada79d25/2048304998-500.jpg" data-tags="indie, rock, freak folk, woodsist" role="button">
 Woods - Bend Beyond (2012-09-18)
