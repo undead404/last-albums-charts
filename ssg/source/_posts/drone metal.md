@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T16:37:06.818Z
+date: 2021-04-10T02:48:01.817Z
 title: "drone metal: 100 albums you must listen to before you die"
 ---
 ![Sunn O))) - Black One (2005-10-03)](http://coverartarchive.org/release/a87bb818-1584-4792-a4ea-ede2a752670f/12224448032-500.jpg "Sunn O))) - Black One (2005-10-03)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/QPW4f0c-NOmLiXlyif-8uUVQh3c=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350902-1474027695-1021.jpeg.jpg" data-tags="drone, drone doom" role="button">Earth - Earth 2: Special Low Frequency Version (1993-02-05)</li>
-<li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">Boris - Amplifier Worship (1998-11-25)</li>
 <li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">Khanate - Khanate (2001)</li>
 <li data-cover="http://coverartarchive.org/release/9c4d2fcd-2578-4b19-875b-8836ecf1f179/2704214622-500.jpg" data-tags="drone" role="button">Nadja - Touched (2003-05)</li>
 <li data-cover="http://coverartarchive.org/release/6a291bd0-cc9d-41b8-899b-b1519b0b5034/21797764256-500.jpg" data-tags="drone, drone metal" role="button">Sunn O))) - White2 (2004-06-19)</li>
-<li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">Jesu - Jesu (2004-12-08)</li>
 <li data-cover="http://coverartarchive.org/release/a87bb818-1584-4792-a4ea-ede2a752670f/12224448032-500.jpg" data-tags="drone" role="button">Sunn O))) - Black One (2005-10-03)</li>
+<li data-cover="http://coverartarchive.org/release/0f4e03bf-e029-4c1e-91ae-491c87b45dd8/14921256445-500.jpg" data-tags="drone metal, drone" role="button">Nadja - Truth Becomes Death (2005-10-17)</li>
 <li data-cover="http://coverartarchive.org/release/bafedfd5-3f00-34b7-8028-7ec83969dc3f/4890270894-500.jpg" data-tags="drone metal, shoegaze" role="button">The Angelic Process - Weighing Souls With Sand (2007-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/22b860d3-09ee-4e1c-ba2f-3098b2b24c2d/14944571300-500.jpg" data-tags="drone metal" role="button">Nadja - When I See The Sun Always Shines On Tv (2009-04-28)</li>
 <li data-cover="http://coverartarchive.org/release/50f53ceb-8e3c-3508-8c4e-80479bf93040/21129584187-500.jpg" data-tags="drone" role="button">Sunn O))) - Monoliths & Dimensions (2009-05-18)</li>
+<li data-cover="http://coverartarchive.org/release/e7d23c24-e217-440e-b527-1751a5255478/13466791800-500.jpg" data-tags="metal, doom metal, drone, dark ambient, sludge metal, drone metal, soundtrack to the apocalypse, bone-crushing, 2014: favourite albums, lament for a dying world" role="button">The Body - I Shall Die Here (2014-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,16 +30,16 @@ Melvins - Joe Preston (1992-07-31)
 <li data-cover="https://img.discogs.com/QPW4f0c-NOmLiXlyif-8uUVQh3c=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350902-1474027695-1021.jpeg.jpg" data-tags="drone, drone doom" role="button">
 Earth - Earth 2: Special Low Frequency Version (1993-02-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/1c0848ed-8d2a-4206-8178-826a459c0713/13225272088-500.jpg" data-tags="drone" role="button">
+Earth - Sunn Amps and Smashed Guitars Live (1995)
+</li>
 <li data-cover="https://img.discogs.com/NF1Av-gjTTdMYEU73RdJH-u0_PE=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16150803-1604299125-5521.jpeg.jpg" data-tags="drone" role="button">
 Earth - Phase 3: Thrones and Dominions (1995-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cbb0772-d07f-4d50-9ad2-daefa57515de/12833237719-500.jpg" data-tags="drone" role="button">
 Boris - Absolutego (1996)
 </li>
-<li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
+<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
 </li>
 <li data-cover="https://img.discogs.com/pe80Ii1unpA-pe7WB1eUUXU_zps=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10226360-1501304641-6236.jpeg.jpg" data-tags="stoner rock" role="button">
@@ -47,9 +47,6 @@ Earth - Pentastar: In the Style of Demons (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44cd64a-aecc-4486-9fb6-7c61d5671fa4/24290451464-500.jpg" data-tags="doom metal" role="button">
 Burning Witch - Crippled Lucifer (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">
-Boris - Amplifier Worship (1998-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
 Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
@@ -71,9 +68,6 @@ The Angelic Process - ...And Your Blood Is Full Of Honey (2001-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fef35df-4d7a-4a68-9816-8d994e94b0dc/28543085075-500.jpg" data-tags="doom metal" role="button">
 Teeth of Lions Rule the Divine - Rampton (2002-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/1766bf80-c94d-4086-820b-e4650be19e41/26391481350-500.jpg" data-tags="drone metal" role="button">
-Phantomsmasher - Phantomsmasher (2002-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcbffba8-7ec2-40d7-a957-a9c6ea270f04/21797761752-500.jpg" data-tags="drone" role="button">
 Sunn O))) - White1 (2003-04)
@@ -99,7 +93,7 @@ Nadja - Skin Turns To Glass (2003-10-27)
 <li data-cover="http://coverartarchive.org/release/8ab44b9d-0e3f-4538-bbe5-d83e5bcf25eb/14964010488-500.jpg" data-tags="drone" role="button">
 Nadja - Corrasion (2003-11-15)
 </li>
-<li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/10238f70-4b01-4d39-b793-617185352e1b/11345500658-500.jpg" data-tags="drone, drone metal" role="button">
@@ -107,9 +101,6 @@ Boris - Boris At Last -Feedbacker- (2003-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a291bd0-cc9d-41b8-899b-b1519b0b5034/21797764256-500.jpg" data-tags="drone, drone metal" role="button">
 Sunn O))) - White2 (2004-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
-Jesu - Jesu (2004-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e2cf0ad-1379-44d7-9779-18f8c32ceceb/5920778944-500.jpg" data-tags="doom metal, sludge, sludge metal, post-metal, sludgecore, drone metal, heavy as fuck, sludge doom metal, seventh rule" role="button">
 Indian - The Unquiet Sky (2005)
@@ -126,6 +117,9 @@ Nadja - Bliss Torn From Emptiness (2005-06-15)
 <li data-cover="https://img.discogs.com/ImpV3xoHQYFhtHT5z2mZaf3fI0s=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-507139-1168299383.jpeg.jpg" data-tags="doom metal, drone doom" role="button">
 Khanate - Capture & Release (2005-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/75be42af-928a-47fc-a570-ac779e674cab/2392664193-500.jpg" data-tags="post-rock, experimental, drone" role="button">
+Earth - HEX; Or Printing in the Infernal Method (2005-09-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/a87bb818-1584-4792-a4ea-ede2a752670f/12224448032-500.jpg" data-tags="drone" role="button">
 Sunn O))) - Black One (2005-10-03)
 </li>
@@ -135,14 +129,14 @@ Nadja - Truth Becomes Death (2005-10-17)
 <li data-cover="http://coverartarchive.org/release/e7549a7e-3bb3-47c0-b602-99c8604a3343/2704136275-500.jpg" data-tags="drone, drone metal, ambient drone" role="button">
 Nadja - Trembled (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/e76ad457-50d9-4d5e-be70-56926bc0a9a5/1785078750-500.jpg" data-tags="drone doom, drone metal" role="button">
+Hjarnidaudi - Pain:Noise:March (2006-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
 Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a655a97-a926-486d-824c-7757da0fd5d2/4867138941-500.jpg" data-tags="drone metal, shoegaze, atmospheric metal" role="button">
 The Angelic Process - Sigh (2006-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
-Jesu - Silver (2006-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3905675b-02ab-4e07-a92a-e9a1647656fa/4867160778-500.jpg" data-tags="drone metal" role="button">
 The Angelic Process - We All Die Laughing (2006-10-17)
@@ -165,7 +159,7 @@ The Angelic Process - Weighing Souls With Sand (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/6f8b8b1d-4f89-4d92-9688-0f2b5177ef15/26171540721-500.jpg" data-tags="sludge" role="button">
 Bongripper - Hippie Killer (2007-06-20)
 </li>
-<li data-cover="https://img.discogs.com/vV5e0nj9KLaUSAaLVABGD6JYwTE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2045702-1260577659.jpeg.jpg" data-tags="drone" role="button">
+<li data-cover="https://img.discogs.com/_WJftZCar5LOQE7dL-wCEHrI2Lg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7797990-1448988185-4358.jpeg.jpg" data-tags="drone" role="button">
 Sunn O))) - Oracle (2007-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/77a1a942-8b33-4e13-b746-0e74ee054512/1059780038-500.jpg" data-tags="drone" role="button">
@@ -176,9 +170,6 @@ Overmars - Born Again (2007-10-26)
 </li>
 <li data-cover="https://img.discogs.com/3ZWZs90NhX1FBs7af1_VRUFyWmA=/fit-in/404x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1548554-1227586266.jpeg.jpg" data-tags="drone, drone metal, drone doom, drone doom metal" role="button">
 Menace Ruine - In Vulva Infernum (2008-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/a44cf84f-0636-4a72-9312-86b2f0acadc7/4540734760-500.jpg" data-tags="drone metal, drone, drone doom" role="button">
-Menace Ruine - Cult of Ruins (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7bbf689-b65c-4d85-b8e2-533faf788fe1/1016426077-500.jpg" data-tags="drone" role="button">
 Nadja - Desire In Uneasiness (2008-04-07)
@@ -201,14 +192,14 @@ Moss - Sub Templum (2008-05-26)
 <li data-cover="http://coverartarchive.org/release/fe21db7d-73a9-42c9-b642-441fad6cba58/2704257209-500.jpg" data-tags="ambient, drone metal" role="button">
 Nadja - The Bungled & The Botched (2008-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/20a8e50b-8833-4690-9827-9e2a0c162691/12911752315-500.jpg" data-tags="black metal, drone metal, black noise, drone, drone black metal" role="button">
-Nahvalr - Nahvalr (2008-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/23e49586-fa2e-43ab-8b57-9e56b9221954/16445937734-500.jpg" data-tags="drone, live, drone doom" role="button">
 Sunn O))) - Dømkirke (2008-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7a8de7e-f0ef-4260-a063-2f9686d2d733/15346695196-500.jpg" data-tags="drone, drone metal" role="button">
 Menace Ruine - The Die Is Cast (2008-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/fbb3fcfb-3565-4657-a50b-0e67a05b2984/13775894103-500.jpg" data-tags="doom metal, psychedelic rock, stoner metal, sludge metal, drone metal" role="button">
+Bong - BONG (2008-12)
 </li>
 <li data-cover="https://img.discogs.com/YZoys12Nds_X9dM7TPnz9_-DZVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1611909-1528837707-2645.jpeg.jpg" data-tags="doom metal, drone, drone metal" role="button">
 Khanate - Clean Hands Go Foul (2009-01-09)
@@ -231,6 +222,9 @@ Sunn O))) - Monoliths & Dimensions (2009-05-18)
 <li data-cover="http://coverartarchive.org/release/7f8823c6-aa02-497b-b382-c2e11e91c68e/5950054189-500.jpg" data-tags="drone metal, black industrial, black noise, drone black metal" role="button">
 Gnaw Their Tongues - All the Dread Magnificence of Perversity (2009-08)
 </li>
+<li data-cover="https://img.discogs.com/RTVcL_ZvRYAkDzYWd4_1dAtYw_8=/fit-in/318x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935477-1254053756.jpeg.jpg" data-tags="sludge" role="button">
+Bloody Panda - Summon (2009-08-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf30122e-e937-47ad-8dc7-a1adfb1e24fd/14964068163-500.jpg" data-tags="drone metal" role="button">
 Nadja - Under the Jaguar Sun (2009-08-13)
 </li>
@@ -246,11 +240,14 @@ Planning for Burial - Leaving (2009-09-18)
 <li data-cover="http://coverartarchive.org/release/83181b88-97a9-4bfc-9c79-c993924c8621/18218900491-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Ufomammut - Eve (2010-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/19340442-d471-3a6a-bc28-6e91c3c94876/4890235735-500.jpg" data-tags="doom metal" role="button">
+Conan - Horseback Battle Hammer (2010-01-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5922639-32eb-4fca-a6ee-f12d2691d811/4540743823-500.jpg" data-tags="drone metal, drone" role="button">
-Menace Ruine - Union of Irreconcilables (2010-05-17)
+<li data-cover="http://coverartarchive.org/release/f0910d5a-c007-4b79-a049-d897112eb104/14921036546-500.jpg" data-tags="drone, drone metal, ambient drone" role="button">
+Nadja - Ruins Of Morning (2010-04-10)
 </li>
 <li data-cover="https://img.discogs.com/EYkRa5I5Thn4-CJG4pZdagjRGws=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648636-1614272888-3966.jpeg.jpg" data-tags="drone metal" role="button">
 The Body - All The Waters Of The Earth Turn To Blood (2010-07-27)
@@ -264,11 +261,11 @@ Bongripper - Satan Worshipping Doom (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/29c108d3-2d05-4637-8dad-e67025ee452a/1484876997-500.jpg" data-tags="rock, alternative rock, indie rock, progressive rock, post punk, sludge, art rock, psych, space rock, spiritual, garage rock, post rock, psychedelic rock, greek, prog rock, glam punk, dark wave, neo-psychedelia, acid rock, psych-rock, moroccan roll, phase, spiritual rock, greek psych, insight out, post-rock, post-punk, greek rock, post grunge, death n roll, space psych, neo-psych, goth n roll, psych punk, psychedelic progressive rock, psychedelic glam punk, psych prog rock, grunge, experimental, psychedelia, folk rock, trippy, exotic, traditional, electro rock, post-metal, mystic, neo-psychedelic, post metal, eastern, psych folk, dark folk, post-hardcore, alt rock, punk n roll, gothabilly, post hardcore, psych-folk, post-industrial, folk psych, prog psych, psychedelic space rock, garage psych, psych prog, post-grudge, greek psychedelic rock, greek psychedelia, greek-psych" role="button">
-Phase - In Consequence (2010-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/0518c1f8-9ff8-47af-a1ad-05b32879b5f9/17733491468-500.jpg" data-tags="doom metal, sludge metal, drone metal" role="button">
 The Body - The Body (2011-01-01)
+</li>
+<li data-cover="https://img.discogs.com/rELrLvawMJjnJfkQzdUOkIwr3IM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2967748-1326465770.jpeg.jpg" data-tags="doom metal, drone metal" role="button">
+Orthodox - Baal (2011-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee10114-0e86-4ef1-adbf-d27d934993b5/6079253076-500.jpg" data-tags="experimental" role="button">
 Terra Tenebrosa - The Tunnels (2011-04-11)
@@ -291,6 +288,9 @@ Pig Destroyer - Mass & Volume (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/dfcaa254-367c-43c7-8b60-d548657086f0/4932484818-500.jpg" data-tags="doom metal, drone metal" role="button">
 The Body - Master, We Perish (2013-04-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/7166cbda-e3ac-4438-ae31-06510efd51ec/8722307794-500.jpg" data-tags="ambient, drone metal" role="button">
+Nadja - Flipper (2013-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/552b02c3-08e9-486a-9d4a-718fec75638f/4468570604-500.jpg" data-tags="experimental, drone" role="button">
 Locrian - Return to Annihilation (2013-06-25)
 </li>
@@ -303,7 +303,7 @@ Indian - From All Purity (2014-01-21)
 <li data-cover="http://coverartarchive.org/release/4d71aff5-a823-4dee-ba3a-4c0248481898/13473506197-500.jpg" data-tags="ambient, drone, drone metal" role="button">
 Nadja - Queller (2014-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7d23c24-e217-440e-b527-1751a5255478/13466791800-500.jpg" data-tags="2014: albums" role="button">
+<li data-cover="http://coverartarchive.org/release/e7d23c24-e217-440e-b527-1751a5255478/13466791800-500.jpg" data-tags="metal, doom metal, drone, dark ambient, sludge metal, drone metal, soundtrack to the apocalypse, bone-crushing, 2014: favourite albums, lament for a dying world" role="button">
 The Body - I Shall Die Here (2014-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd275539-7618-4980-a62a-726aac8a4f5d/9267575340-500.jpg" data-tags="shoegaze, post-rock" role="button">

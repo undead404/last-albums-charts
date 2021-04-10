@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:27:01.432Z
+date: 2021-04-10T03:15:01.469Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -7,13 +7,13 @@ title: "concept album: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Wall (1979-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
-<li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)</li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Still Life (1999-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">The Streets - A Grand Don't Come for Free (2004-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">The Mars Volta - Frances the Mute (2005-03-01)</li>
+<li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">The Decemberists - The Hazards of Love (2009-03-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,12 +30,6 @@ The Who - The Who Sell Out (1967-12-16)
 <li data-cover="https://img.discogs.com/sMmSFb1IcPs_yLo53n3dR6L_C0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14496895-1575796384-1397.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
 The Who - Tommy (1969-05-23)
 </li>
-<li data-cover="https://img.discogs.com/sQAZsaA_cZEcU9n-eSJam8BDU0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6029393-1409234353-8744.jpeg.jpg" data-tags="classic rock, rock, 70s" role="button">
-The Kinks - Lola Versus Powerman And The Moneygoround, Part One (1970-11-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
-David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
-</li>
 <li data-cover="https://img.discogs.com/bUu-_Iz8X7FYDg_zFwsCL5q2rRc=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8787282-1468764805-5076.jpeg.jpg" data-tags="concept album, italy" role="button">
 Fabrizio De André - Storia Di Un Impiegato (1973)
 </li>
@@ -50,9 +44,6 @@ The Who - Quadrophenia (1973-11-16)
 </li>
 <li data-cover="https://img.discogs.com/zRaJPERMIJk19NpxUQ-3-KSB0rU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1424009-1320333836.jpeg.jpg" data-tags="progressive rock" role="button">
 Yes - Tales from Topographic Oceans (1973-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">
-David Bowie - Diamond Dogs (1974-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f85c80f-d33a-430f-be13-cec775a9bd04/6040849759-500.jpg" data-tags="progressive rock" role="button">
 Genesis - The Lamb Lies Down on Broadway (1974-11-18)
@@ -78,6 +69,9 @@ The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 <li data-cover="http://coverartarchive.org/release/3b2d1c75-5ba2-44e1-8b09-449d893e229a/9699513967-500.jpg" data-tags="80s, symphonic rock, electric light orchestra" role="button">
 Electric Light Orchestra - Time (1981-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
+A Flock of Seagulls - A Flock Of Seagulls (1982)
+</li>
 <li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
@@ -93,17 +87,14 @@ King Diamond - Abigail (1987)
 <li data-cover="http://coverartarchive.org/release/459b027b-c7d0-3f1c-9c49-1216179260c0/12905663035-500.jpg" data-tags="progressive rock" role="button">
 Marillion - Clutching At Straws (1987-06-12)
 </li>
-<li data-cover="https://img.discogs.com/7O78wv6sPhnNgvthPJTCJjXZXRU=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5798839-1569091694-5128.jpeg.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e289506-bc59-48d8-8dc2-65575986ad0d/6859716930-500.jpg" data-tags="progressive metal" role="button">
-Queensrÿche - Operation: Mindcrime (1988-05-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/4bdb8024-ed76-43a1-aec7-6c9702d512d2/12225451426-500.jpg" data-tags="heavy metal" role="button">
 W.A.S.P. - The Crimson Idol (1992-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - Amused to Death (1992-09-01)
+</li>
+<li data-cover="https://img.discogs.com/DIj0FHZk3_TF1KTZi3CJ7hTisiI=/fit-in/397x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4644371-1370889637-7899.jpeg.jpg" data-tags="progressive metal" role="button">
+Ayreon - The Final Experiment (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
@@ -128,9 +119,6 @@ Pain of Salvation - Entropia (1997-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d8ce4ac-92a1-300c-88af-8f214ee2544b/5119636248-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - Into the Electric Castle (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
-Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
@@ -159,8 +147,8 @@ Cursive - Domestica (2000-06-19)
 <li data-cover="http://coverartarchive.org/release/3039a1a9-a8d2-4560-81c7-b0af31f692b3/1290036364-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - The Perfect Element, Part I (2000-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2fcef022-76ae-441a-bade-728151531db9/23997227452-500.jpg" data-tags="hip-hop" role="button">
-Deltron 3030 - Deltron 3030 (2000-10-17)
+<li data-cover="http://coverartarchive.org/release/1e787755-4982-49f6-8e35-cbb7656c1116/17513910022-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Avantasia - The Metal Opera (2001-01-22)
 </li>
 <li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
 Iced Earth - Horror Show (2001-06-21)
@@ -177,14 +165,14 @@ Pain of Salvation - Remedy Lane (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
+Myslovitz - Korova Milky Bar (2002-05-27)
+</li>
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d2a314ab-986e-40af-8cab-04806ab68ce9/7927220552-500.jpg" data-tags="indie" role="button">
-The Mountain Goats - Tallahassee (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
 Kamelot - Epica (2003-01-13)
@@ -203,6 +191,9 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6643b9b7-ffcd-47a8-be9d-d5c93a4b19d7/16345711720-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - The Human Equation (2004-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e693403-f000-3fcf-abdb-2eaa4a129f71/19206229015-500.jpg" data-tags="indie rock, indie" role="button">
+The Good Life - Album of the Year (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
@@ -255,6 +246,9 @@ Fightstar - Grand Unification (2006-03-10)
 <li data-cover="https://img.discogs.com/UWehwv40d4qK5yESFfl1Q_srYZM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680564-1501944676-9675.jpeg.jpg" data-tags="experimental, noir" role="button">
 Dog Fashion Disco - Adultery (2006-04-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/62332a08-7f1f-40d5-bd69-8ffa8d01cb51/24839986890-500.jpg" data-tags="spaghetti western" role="button">
+Murder By Death - In Bocca Al Lupo (2006-05-23)
+</li>
 <li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
@@ -303,6 +297,9 @@ Janelle Monáe - The ArchAndroid (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
 Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8a324e2-931d-4aa1-8752-124fae15a2eb/2244822329-500.jpg" data-tags="abstract hip-hop, concept album" role="button">
+Есть Есть Есть - Дорогой мой человек (2011-04-21)
+</li>
 <li data-cover="https://img.discogs.com/VM40UbKDAi6J9rBcwVkWnc35urc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820535-1515078520-6172.jpeg.jpg" data-tags="folk" role="button">
 Eddie Vedder - Ukulele Songs (2011-05-26)
 </li>
@@ -312,8 +309,11 @@ Saves the Day - Daybreak (2011-09-13)
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
 Car Seat Headrest - Twin Fantasy (2011-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a5a2821-8050-49a1-8a0b-b7f8db6528a4/5375362353-500.jpg" data-tags="hardcore hip hop" role="button">
-Danny Brown - Old (2013-10-08)
+<li data-cover="http://coverartarchive.org/release/5adc3099-6a1b-4624-ba9b-b9238bebce7d/3337530465-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - The Parallax II: Future Sequence (2012-10-08)
+</li>
+<li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
+Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed2766c1-da1c-4ede-9869-e7ccbf86f7eb/9171345844-500.jpg" data-tags="indie rock, folk rock, blues rock, concept album, dez mona" role="button">
 Asaf Avidan - Gold Shadow (2015-01-12)

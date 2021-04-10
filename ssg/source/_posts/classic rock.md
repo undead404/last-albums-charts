@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:25:01.427Z
+date: 2021-04-10T02:50:01.652Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -93,6 +93,9 @@ Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/aacae183-fd7c-4340-996f-95aa722e74b1/8749942734-500.jpg" data-tags="classic rock" role="button">
+Creedence Clearwater Revival - Cosmo's Factory (1970-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Paranoid (1970-09-18)
 </li>
@@ -126,9 +129,6 @@ Pink Floyd - Meddle (1971-10-30)
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">
-David Bowie - Hunky Dory (1971-12-17)
-</li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
 </li>
@@ -137,9 +137,6 @@ Neil Young - Harvest (1972-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Machine Head (1972-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
-David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
@@ -317,6 +314,9 @@ Led Zeppelin - Led Zeppelin (2003-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/55265199-08f9-3e6a-8532-409b6caf6c5e/7794207792-500.jpg" data-tags="classic rock" role="button">
+The Who - Greatest Hits (2009-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/54e73133-8168-4400-a1fd-91f2017e701a/8118789895-500.jpg" data-tags="rock, classic rock" role="button">
 Tom Petty and The Heartbreakers - Greatest Hits (2010)

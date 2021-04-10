@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:54:01.431Z
+date: 2021-04-10T03:23:01.778Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")

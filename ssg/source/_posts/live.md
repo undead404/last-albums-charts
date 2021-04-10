@@ -1,10 +1,9 @@
 ---
-date: 2021-04-09T18:20:01.509Z
+date: 2021-04-10T03:26:06.989Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">Pink Floyd - Delicate Sound of Thunder (1988-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/b9d8f801-2d64-3f82-b238-a44bb333851a/7332788785-500.jpg" data-tags="trip-hop" role="button">Portishead - Roseland NYC Live (1998-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/647617b9-2792-34ed-8c1c-307dcc046fdf/24652265801-500.jpg" data-tags="industrial, live, industrial metal" role="button">Marilyn Manson - The Last Tour On Earth (1999-11-15)</li>
@@ -13,6 +12,7 @@ title: "live: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">Stereophonics - Live From Dakota (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)</li>
+<li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">Coldplay - LeftRightLeftRightLeft (2009-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">The White Stripes - Under Great White Northern Lights (2010-03-15)</li>
 </ol>
 List of 100 - under the cut.
@@ -63,12 +63,6 @@ Iron Maiden - Live After Death (1985-10-14)
 <li data-cover="http://coverartarchive.org/release/388e1d01-bbd7-402a-a3a8-bf26cede791a/3741179321-500.jpg" data-tags="rock, live" role="button">
 Queen - Live Magic (1986-12-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fbe2a82-3fac-4fc6-bf44-fbf5257cbc7e/11334358434-500.jpg" data-tags="live, 80s" role="button">
-Depeche Mode - 101 (1989-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa9ec36b-2dcd-4b73-8125-0a767498e5b8/16324598896-500.jpg" data-tags="pop, soft rock, live, sting" role="button">
 Sting - All This Time (1991-01-08)
 </li>
@@ -95,6 +89,9 @@ Live - Throwing Copper (1994-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/630c1a85-7f0c-437f-86e3-1616f0c86ac6/7723155953-500.jpg" data-tags="live, live album, scorpins" role="button">
+Scorpions - Live Bites (1995-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Pulse (1995-05-29)
@@ -152,6 +149,9 @@ Jeff Buckley - Mystery White Boy (2000-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec9fb22c-04f8-4a8d-abc9-93ef814606f3/5236613445-500.jpg" data-tags="alternative, alternative rock, 90s, live, sessions, need it" role="button">
 Incubus - When Incubus Attacks, Vol. 1 (2000-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e82ff12-689d-48d1-a8f2-c211be50053e/2342606236-500.jpg" data-tags="live" role="button">
+Underworld - Everything, Everything (2000-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d10320a4-2469-4ae5-9157-a7f2c950cf5d/5052431361-500.jpg" data-tags="hip hop, live, alternative hip-hop" role="button">
 Cypress Hill - Live At The Fillmore (2000-12-12)
@@ -218,6 +218,9 @@ Matisyahu - Live at Stubb's (2005-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, acoustic" role="button">
 Audioslave - Be Yourself (2005-06-06)
+</li>
+<li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
+Iron Maiden - Death on the Road (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/905f63c8-fac6-4b82-ad99-e3163cffcfda/1577661110-500.jpg" data-tags="unplugged, soul, rnb" role="button">
 Alicia Keys - Unplugged (2005-10-11)
@@ -293,9 +296,6 @@ Panic! at the Disco - Live In Chicago (2008-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
-</li>
-<li data-cover="https://img.discogs.com/QKH3AeSqJU_uAnsRRO4RKtuXAVU=/fit-in/474x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2975849-1309990342.jpeg.jpg" data-tags="grunge, live" role="button">
-Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
 David Bowie - A Reality Tour (2010-01-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:30:01.522Z
+date: 2021-04-10T03:13:01.407Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -7,9 +7,9 @@ title: "chillwave: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">Memory Tapes - Seek Magic (2009-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">Washed Out - Life of Leisure (2009-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/a475ed3c-a989-49de-92ec-4e7c1f2fed68/7868018573-500.jpg" data-tags="chillwave" role="button">Toro y Moi - Causers of This (2010-01-04)</li>
+<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">Washed Out - Within and Without (2011-07-06)</li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">Neon Indian - Era Extraña (2011-09-07)</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">Tycho - Dive (2011-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/f7440029-f3e4-43c9-b673-2e5327eb9826/1553282324-500.jpg" data-tags="electronic, downtempo, new wave, chillwave, synth-pop" role="button">Com Truise - In Decay (2012-07-16)</li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">Purity Ring - Shrines (2012-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">Toro y Moi - Anything in Return (2013-01-22)</li>
@@ -21,6 +21,12 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
+Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
+</li>
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+Tarkan - Dudu (2003-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
 Soulwax - Nite Versions (2005-09-19)
 </li>
@@ -29,9 +35,6 @@ Joey Fehrenbach - Mellowdrama (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/ff25aa1e-ad78-4153-b93b-b0d10b93b6ac/1250971538-500.jpg" data-tags="chillwave" role="button">
-MillionYoung - Sunndreamm EP (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)
@@ -45,6 +48,9 @@ Memory Tapes - Seek Magic (2009-08-24)
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
+Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
@@ -57,11 +63,17 @@ Neon Indian - Psychic Chasms (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/c0872afa-87f9-4272-a5c2-2f839b6b0793/6289001231-500.jpg" data-tags="lo-fi" role="button">
 Small Black - Small Black EP (2009-10-13)
 </li>
+<li data-cover="https://img.discogs.com/1QGoqp0PqWNv-Crae6LfAR-gdtw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523536-1333818343.jpeg.jpg" data-tags="chillwave" role="button">
+Casa Del Mirto - The Eternal (2010)
+</li>
 <li data-cover="http://coverartarchive.org/release/a475ed3c-a989-49de-92ec-4e7c1f2fed68/7868018573-500.jpg" data-tags="chillwave" role="button">
 Toro y Moi - Causers of This (2010-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/909547b7-b7a0-4904-b7ce-1a051a9a4f6f/1236363023-500.jpg" data-tags="dream pop" role="button">
 Memoryhouse - The Years (2010-01-05)
+</li>
+<li data-cover="https://img.discogs.com/6Y-qa1-Z3ly6msx3HF-Tch43CH4=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2334474-1277708619.jpeg.jpg" data-tags="indie, boston, 10s" role="button">
+Magic Man - Real Life Color (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
@@ -78,29 +90,26 @@ Evenings - North Dorm Ep (2010-06-28)
 <li data-cover="http://coverartarchive.org/release/97c3ab39-fc2d-4596-a1d0-5690cc80c253/26018767908-500.jpg" data-tags="chillwave" role="button">
 Blackbird Blackbird - Summer Heart (2010-07-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a55d9db-b3a7-44aa-841c-0515140de018/4043847877-500.jpg" data-tags="chillwave" role="button">
+Okinawa Lifestyle - Lazy Friend You Move So Fast (2010-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/d977c2f2-dfe6-45a5-91bb-f180a9249587/27112054568-500.jpg" data-tags="chillwave" role="button">
 Teen Daze - Four More Years (2010-07-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
-Gold Panda - Lucky Shiner (2010-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
 How to Dress Well - Love Remains (2010-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f3a5400-0b39-42a7-9089-65ba220737ba/3010696860-500.jpg" data-tags="synthpop" role="button">
-Kisses - The Heart of the Nightlife (2010-10-11)
-</li>
-<li data-cover="https://img.discogs.com/hZxHJ6552hDvtEy_554gCcCdwro=/fit-in/396x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2584835-1291729897.jpeg.jpg" data-tags="chillout, electronic, ambient, indie rock, indie electronic, lo-fi, dreamy, dream pop, relaxing, chillwave, ambiental, alternative pop/rock, alternative-indie rock" role="button">
-Houses - All Night (2010-10-19)
+<li data-cover="https://img.discogs.com/qrOQU1AqqIIxURq0nEQskWN2bdI=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2471178-1286031530.jpeg.jpg" data-tags="witch house" role="button">
+oOoOO - oOoOO (2010-10-04)
 </li>
 <li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
 Laurel Halo - King Felix (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc46474b-67bb-4858-bdb0-7a30ac4d5e5c/4809278289-500.jpg" data-tags="hip-hop, rap, alternative hip-hop, chillwave, alternative rap, cloud rap" role="button">
-Cities Aviv - Digital Lows (2011)
-</li>
 <li data-cover="http://coverartarchive.org/release/338ebb3f-7c74-45be-8fa8-63197425e5c3/19667290620-500.jpg" data-tags="chillwave, electonic, my best discoveries, my gang 11, songs that remind me of minttea" role="button">
 Pallers - The Sea of Memories (2011)
+</li>
+<li data-cover="https://img.discogs.com/AyR__veMwIxkIMKN_Qa9eNj_I0s=/fit-in/554x890/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783283-1332606988.jpeg.jpg" data-tags="lo-fi, chillwave" role="button">
+Ssaliva - Thought Has Wings (2011-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1329a36-0ad1-4bb9-8024-b579c15c4d17/1266208666-500.jpg" data-tags="dub" role="button">
 Peaking Lights - 936 (2011-02-08)
@@ -117,14 +126,14 @@ Work Drugs - Summer Blood (2011-04-01)
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/0dba6f29-903d-4830-a1b9-850cb3e102c9/22081460755-500.jpg" data-tags="electronic, chillwave, witch house, alternative electronic, newbreed, witchpop, post-futurepop" role="button">
+Purity Ring - Ungirthed (2011-04-12)
+</li>
 <li data-cover="https://img.discogs.com/ut1GJKVFVD256JQ424WuONnxL7M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2921998-1307434209.jpeg.jpg" data-tags="chillwave" role="button">
 Ford & Lopatin - Channel Pressure (2011-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c32edc4-e937-4552-9501-5354ea6d7148/5965141013-500.jpg" data-tags="electronic" role="button">
 Com Truise - Galactic Melt (2011-06-14)
-</li>
-<li data-cover="https://img.discogs.com/KlPBEkSvY9Jyq4VOnrLro910MBk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3023094-1312179004.jpeg.jpg" data-tags="electronic, indie, indie pop, usa, shoegaze, dreamy, dream pop, american, crossover, dreampop, duo, san francisco, american underground, chillwave, 10s, free music, hypnagogic pop, america, netaudio, fully streamable tracks, experimental indie, electronic shoegaze, dreamwave, glo-fi, webaudio, fully streamable album, usa underground, fully streamable track, shoegazetronica" role="button">
-The Bilinda Butchers - regret, love, guilt, dreams (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
 Dye - Taki 183 (2011-06-27)
@@ -144,14 +153,8 @@ HTRK - Work (Work, Work) (2011-09-06)
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
 </li>
-<li data-cover="https://img.discogs.com/haxofUHTu74kykQDwZJ0uT310Gw=/fit-in/433x383/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3137175-1317490715.png.jpg" data-tags="chillwave" role="button">
-Toro y Moi - Freaking Out (2011-09-13)
-</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
-</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/99c0ab05-7bd4-43e4-8009-8d255d791a45/22479261395-500.jpg" data-tags="dream pop" role="button">
 Still Corners - Creatures of an Hour (2011-10-10)
@@ -168,9 +171,6 @@ Mitch Murder - Current Events (2011-11-15)
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
-<li data-cover="https://img.discogs.com/PpnqdJLTsIH_Qm384AfKvR-Db68=/fit-in/300x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4240352-1370399174-5609.jpeg.jpg" data-tags="indie, soul, alternative, singer-songwriter, canada, solo, canadian, psychedelic, dreamy, montreal, singer songwriter, alternative pop, quebec, chillwave, 10s, free music, hypnagogic pop, solo artist, edmonton, one man band, netaudio, one-man-band, glo-fi, new weird, bandcamp, free album, solo project, webaudio, weird canada, new weird canada, indie soul, hypnagogic, one man project, arbutus records, canadian underground, one-man-project, arbutus, one  man band, glo-soul" role="button">
-Sean Nicholas Savage - Flamingo (2011-12-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
 John Talabot - ƒin (2012-01-31)
 </li>
@@ -180,11 +180,17 @@ Lazerhawk - Visitors (2012-02-06)
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/a390f8b2-dab7-4b5f-b414-c227d44e2c69/15142749310-500.jpg" data-tags="ambient pop, chillwave, chillgaze" role="button">
+Jesse Ruins - Dream Analysis (2012-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1f13b8f-10ac-4d10-a12a-b861307b3d78/2411269767-500.jpg" data-tags="indie, chillwave, captured tracks" role="button">
 Wild Nothing - Nowhere (2012-02-21)
 </li>
 <li data-cover="https://img.discogs.com/waGLvITKFk-9Ej0WOqr72I0Wwvw=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3571336-1600301909-8694.jpeg.jpg" data-tags="electronica, synthpop, italo disco, chillwave, synthwave" role="button">
 Teeel - University Heights (2012-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/5aab894f-8a77-4c29-ae71-c9f90a6f84f5/13909652468-500.jpg" data-tags="smooth jazz, chillwave, fantasy, eletronic, passion, vaporwave, future funk, idk man, vaporpop" role="button">
+S U R F I N G - Deep Fantasy (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e56f21c5-92d7-4715-a5cf-41b5390e6f53/17214993688-500.jpg" data-tags="electronic" role="button">
 Toro y Moi - June 2009 (2012-04-24)
@@ -194,6 +200,9 @@ Summer Heart - About A Feeling (2012-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0631744c-1fce-411a-8b47-b985a0ea094c/6529879394-500.jpg" data-tags="dream pop" role="button">
 Craft Spells - Gallery (2012-05-15)
+</li>
+<li data-cover="https://img.discogs.com/_5n3wNbAwmOAqyWWk3VVEYLyEWU=/fit-in/576x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-770886-1374689324-8722.jpeg.jpg" data-tags="swedish, chillwave" role="button">
+jj - High Summer (2012-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
 Twin Shadow - Confess (2012-07-09)
@@ -210,15 +219,6 @@ Com Truise - In Decay (2012-07-16)
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/99c79c92-cc87-474f-8e95-5ec03e3bbc87/20058977817-500.jpg" data-tags="piano" role="button">
-Sophie Hutchings - Night Sky (2012-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/12eb94ea-54f1-4046-92ea-a34bff97e318/14798475045-500.jpg" data-tags="witch house" role="button">
-Holy Other - Held (2012-08-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/9509a46c-b2d9-4ac5-b4a9-f219a18be3b4/22276712313-500.jpg" data-tags="vaporwave, seapunk, vaportrap" role="button">
-Blank Banshee - BLANK BANSHEE 0 (2012-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
 </li>
@@ -233,6 +233,9 @@ Memory Tapes - Grace/Confusion (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
 Toro y Moi - Anything in Return (2013-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad74b107-adb4-4f5c-95a5-aaaa4d429f29/4549094260-500.jpg" data-tags="electronic, indie, dream pop, chillwave, glo-fi, sommarhjarta music" role="button">
+Summer Heart - Hit Me Up Again (2013-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebc6e131-2301-480c-ad3f-4e0b790dcf05/5974509150-500.jpg" data-tags="software" role="button">
 Autre Ne Veut - Anxiety (2013-02-26)
@@ -254,6 +257,9 @@ Baths - Obsidian (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">
 Thundercat - Apocalypse (2013-06-03)
+</li>
+<li data-cover="https://img.discogs.com/hG4ex4oVyBiOpHS4XlNDSbkDQ18=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4680871-1372040994-1987.jpeg.jpg" data-tags="electronic, indie, lo-fi, dream pop, chillwave" role="button">
+Work Drugs - Mavericks (2013-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
@@ -279,9 +285,6 @@ Blank Banshee - BLANK BANSHEE 1 (2013-10-20)
 <li data-cover="http://coverartarchive.org/release/58941d3c-04e1-4554-a5dd-522ec0dcc02d/5266587339-500.jpg" data-tags="electronic, indie rock, chillwave" role="button">
 Active Child - Rapor - EP (2013-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d179bca-6305-487d-8e33-5a895f79424c/12740426406-500.jpg" data-tags="ambient, electronic" role="button">
-C418 - Minecraft - Volume Beta (2013-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5262575-7281-451c-a734-7fc93f5daf91/7990515507-500.jpg" data-tags="vaporwave" role="button">
 マクロスMACROSS 82-99 - SAILORWAVE (2013-12-31)
 </li>
@@ -302,9 +305,6 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee51594f-d326-4489-8d37-92ff18ec511b/8740029795-500.jpg" data-tags="chillwave, witch house, weedwave, nightdrag" role="button">
 Summer of Haze - Jessica (2014-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
-Slow Magic - How To Run Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/25354d1d-8ef4-478a-a639-08d66d257c1d/8622560639-500.jpg" data-tags="chillwave" role="button">
 Lemonade - Minus Tide (2014-09-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:36:01.417Z
+date: 2021-04-10T03:22:01.426Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -35,6 +35,9 @@ Aqua - Aquarium (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
 The Prodigy - The Fat Of The Land (1997-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/02f8aca3-8bb3-44c4-abdf-26e4354d2e00/2137821691-500.jpg" data-tags="pop" role="button">
+Spice Girls - Spiceworld (1997-10-31)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="pop, electronic" role="button">
 Madonna - Ray of Light (1998-04-27)
@@ -254,9 +257,6 @@ Alexandra Stan - Mr. Saxobeat (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/83c54468-50b9-47a0-856d-c7b93a1cae23/6618757710-500.jpg" data-tags="pop, dark pop" role="button">
-Natalia Kills - Perfectionist (2011-04-01)
 </li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:22:01.510Z
+date: 2021-04-10T03:14:01.424Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)](http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg "Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)")
@@ -8,11 +8,11 @@ title: "guitar: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">Jack Johnson - Brushfire Fairytales (2000)</li>
 <li data-cover="http://coverartarchive.org/release/6ad8db0a-fc92-4668-90bf-b4e46a4a7dba/14683694177-500.jpg" data-tags="mark knopfler" role="button">Mark Knopfler - Sailing to Philadelphia (2000)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">Andy McKee - Art of Motion (2006-01-06)</li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">Ratatat - Classics (2006-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/20f3c2ed-dc72-49ed-a124-410cfa4fcdd8/19752431676-500.jpg" data-tags="indie rock, arena rock, guitar, kick your ass, homesick music, ultimate noise-scape" role="button">The Slip - Eisenhower (2006-11-07)</li>
+<li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">Incubus - Light Grenades (2006-11-22)</li>
 <li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">Slash - Slash (2010-03-31)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,14 +30,14 @@ The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 <li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/36205485-616a-4eb2-a109-c86de5eb5db6/1338198895-500.jpg" data-tags="blues rock" role="button">
+Jeff Beck - Truth (1968-08)
+</li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4946f82c-2cc1-3bbd-8ae3-5b89a79d7c39/21758063798-500.jpg" data-tags="classic rock, blues rock" role="button">
 Blind Faith - Blind Faith (1969-08)
-</li>
-<li data-cover="https://img.discogs.com/oTROP7ENuO6MR-lunRvDA3YRu1U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383008-1240998303.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
-Nick Drake - Five Leaves Left (1969-09)
 </li>
 <li data-cover="https://img.discogs.com/TeuB0YgylQEFx6QexoX7I_xCLoA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5908490-1406034554-1635.jpeg.jpg" data-tags="rock, guitar" role="button">
 Jimi Hendrix - Rainbow Bridge (1971-10)
@@ -69,17 +69,14 @@ Dire Straits - Dire Straits (1978-06-02)
 <li data-cover="http://coverartarchive.org/release/767a43b2-f0f0-36b7-af90-444ebe766ce3/10110855411-500.jpg" data-tags="blues rock, british blues" role="button">
 Peter Green - In The Skies (1979)
 </li>
+<li data-cover="https://img.discogs.com/2_S53Z6Qr22T_X23q4Yktwddpb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027221-1185876506.jpeg.jpg" data-tags="jazz" role="button">
+Pat Metheny Group - Still Life (Talking) (1987-07-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Surfing With The Alien (1987-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/006b0c0e-2e35-49a4-9c2f-68770c6c1bde/7614164731-500.jpg" data-tags="hard rock, classic rock" role="button">
-Van Halen - OU812 (1988-05-24)
-</li>
 <li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/27201ec2-e948-3a29-9411-363861e692b7/5516922690-500.jpg" data-tags="classic rock, rock" role="button">
-Dire Straits - Money for Nothing (1988-10)
 </li>
 <li data-cover="https://img.discogs.com/1mENplx7WrPEdtH1yjQLVO47f1o=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5741976-1457531625-8181.mpo.jpg" data-tags="rock, instrumental rock, guitar virtuoso" role="button">
 Eric Johnson - Ah Via Musicom (1990-03-20)
@@ -111,11 +108,11 @@ Eric Clapton - Unplugged (1992-08-21)
 <li data-cover="https://img.discogs.com/w2LOcV1wDq5tnLESs2BaGqyYZiA=/fit-in/472x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592174-1135847165.jpeg.jpg" data-tags="folk, ben harper" role="button">
 Ben Harper - Welcome To The Cruel World (1994-02-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8828dbd-f2b2-30ed-ac2d-152341b10913/17553404705-500.jpg" data-tags="chillout, rock, alternative, folk, folk-rock, acoustic, romantic, guitar, male vocalists, twisted, meaningful, golden oldies, judely favourites, folky and acoustic stuff, casette, buenos" role="button">
-Del Amitri - Twisted (1995-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">
 Steve Vai - Alien Love Secrets (1995-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6420c2c-7ada-4a92-a16f-0ca0ced49290/14955445741-500.jpg" data-tags="gypsy flame, guitar, spanish, flamenco" role="button">
+Armik - Gypsy Flame (1995-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a83b5bbe-7757-3565-b061-d25178c6962c/1608104027-500.jpg" data-tags="classic rock, rock, eric clapton" role="button">
 Eric Clapton - Pilgrim (1998-03-09)
@@ -141,9 +138,6 @@ Jack Johnson - Brushfire Fairytales (2000)
 <li data-cover="http://coverartarchive.org/release/6ad8db0a-fc92-4668-90bf-b4e46a4a7dba/14683694177-500.jpg" data-tags="mark knopfler" role="button">
 Mark Knopfler - Sailing to Philadelphia (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
-Elliott Smith - Figure 8 (2000-04-17)
-</li>
 <li data-cover="https://img.discogs.com/h8E77VPub3W_ckBglx9y_HUt2VU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8254566-1458042076-9050.jpeg.jpg" data-tags="guitar virtuoso, jeff beck, rock, guitar" role="button">
 Jeff Beck - You Had It Coming (2000-11-15)
 </li>
@@ -162,6 +156,9 @@ Buckethead - Electric Tears (2002-10-08)
 <li data-cover="https://img.discogs.com/K_wFkVYGXXX23vuBQJ7vDfE4sdY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3649068-1338825965-9999.jpeg.jpg" data-tags="jazz, pat metheny" role="button">
 Pat Metheny - One Quiet Night (2003-05-13)
 </li>
+<li data-cover="https://img.discogs.com/4bOGAW1fpPLYOHj8KJhCxrfadI0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513137-1442331042-2541.jpeg.jpg" data-tags="guitar" role="button">
+Jeff Beck - Jeff (2003-08-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
@@ -177,35 +174,26 @@ Howie Day - Stop All The World Now (2003-10-07)
 <li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
 Andy McKee - Dreamcatcher (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/1fe879fa-7ce4-4de9-b21d-cd4cb6afe326/10557712868-500.jpg" data-tags="guitar, latin rock, guitar rock" role="button">
-Rodrigo y Gabriela - Live Manchester And Dublin (2004-01-01)
-</li>
 <li data-cover="https://img.discogs.com/m_HIIxTVTBve9_jukqMAsDXm860=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3164102-1563038591-5406.jpeg.jpg" data-tags="guitar" role="button">
 Tommy Emmanuel - Endless Road (2004-03-08)
-</li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
-</li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f34799-1a4c-4ecb-89dc-2a05a0f1103b/4526835963-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Joe Satriani - Is There Love in Space? (2004-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
+Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
+</li>
 <li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
 John Frusciante - The Will to Death (2004-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7bf7291-7d91-4da7-b736-89e2192ee8da/27559486879-500.jpg" data-tags="alternative rock, rock" role="button">
-John Frusciante - Inside of Emptiness (2004-10-26)
 </li>
 <li data-cover="https://img.discogs.com/5vuK3ehYd8gQaKMvS8bKtBzoWpc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204862-1528965128-4993.jpeg.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
-Beirut - Gulag Orkestar (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
 William Fitzsimmons - Until When We Are Ghosts (2005)
+</li>
+<li data-cover="https://img.discogs.com/DWDQl5YjuQ0kK5zmVgNOojv4MTk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4560838-1368388877-4383.jpeg.jpg" data-tags="pretty good" role="button">
+Josh Kelley - Almost Honest (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/HvUWjmSOc1F95WZzqrTFHKfgqy4=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784361-1330358908.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
 Laura Veirs - Year of Meteors (2005-08-23)
@@ -222,11 +210,17 @@ Antoine Dufour - Development (2006)
 <li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">
 Andy McKee - Art of Motion (2006-01-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
+Milow - The Bigger Picture (2006-01-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/21afc18e-2a98-4200-85e6-f048f1ba881e/10339877652-500.jpg" data-tags="ninja tune, electronic, downtempo, guitar" role="button">
 Fink - Biscuits for Breakfast (2006-04-17)
+</li>
+<li data-cover="https://img.discogs.com/0g8A8Ic0qyE1JbqnSZo3mewZPl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707924-1198936469.gif.jpg" data-tags="singer-songwriter" role="button">
+Kimya Dawson - Remember That I Love You (2006-05-09)
 </li>
 <li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
@@ -252,6 +246,12 @@ Andy Davis - Thinks Of Her (2006-11-30)
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/81e0d103-5fbe-4765-8c75-8ba33c30b36b/14074836252-500.jpg" data-tags="folk, guitar, inspirational, fingerpicking, avant-folk, american primitivism, guitar only, rewind 2007, big in 2007, raga-folk" role="button">
+James Blackshaw - The Cloud of Unknowing (2007-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2f1ef6a-e0b8-48b0-aa96-9ff9c6b20113/28819935253-500.jpg" data-tags="instrumental" role="button">
+Erik Mongrain - Fates (2007-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
@@ -270,8 +270,8 @@ William Fitzsimmons - The Sparrow and the Crow (2008)
 <li data-cover="https://img.discogs.com/MAOx3uzyY4Z-cxtWLdwOlBkt5oU=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332470-1481475141-5235.jpeg.jpg" data-tags="acoustic" role="button">
 Kaki King - Dreaming Of Revenge (2008-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/15000c3e-3eba-4973-97a8-5f48b74d7014/4203888719-500.jpg" data-tags="guitar, acoustic" role="button">
-Rodrigo y Gabriela - Live in Japan (2008-10-27)
+<li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
+The Feeling - Join With Us (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
 David Cook - David Cook (2008-11-18)

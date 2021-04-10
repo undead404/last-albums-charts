@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:38:01.529Z
+date: 2021-04-10T03:31:06.879Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -60,8 +60,8 @@ Janis Joplin - Janis Joplin's Greatest Hits (1973)
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/58484da2-44b0-3e58-b91d-9a3a5de90afa/20137032991-500.jpg" data-tags="jazz, instrumental, progressive rock, prog, acoustic, fusion, contemporary classical, humour, minimalist, fabulous, marianne velvart, jrcrichardson, duncan parsons, jrc richardson, marc catley, paleys watch" role="button">
-Penguin Cafe Orchestra - Music From The Penguin Cafe (1976)
+<li data-cover="https://img.discogs.com/2ij4GTqQs9GzcXVoxyZCbJTpAQg=/fit-in/576x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883211-1347987449-8859.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - The Return of the Sons of Nothing (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
@@ -83,6 +83,9 @@ Pink Floyd - A Collection Of Great Dance Songs (1981-11-23)
 </li>
 <li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
 Eric Burdon - Crawling King Snake (1982)
+</li>
+<li data-cover="https://img.discogs.com/pZtovo9k-ZmVlcbTzx-_13uOYHU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2527357-1476306978-1191.jpeg.jpg" data-tags="opera, rock, hard rock, progressive rock, pink floyd" role="button">
+Pink Floyd - The Film (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/0304caae-7e73-4edd-b807-174735911ff5/14452443858-500.jpg" data-tags="pink floyd, progressive rock" role="button">
 Pink Floyd - Works (1983)
@@ -111,9 +114,6 @@ Pink Floyd - Double Hits Collection, Volume 1 (1987-10-21)
 <li data-cover="http://coverartarchive.org/release/45e99e44-c955-4d44-94b9-8f0e1593fa12/23911853040-500.jpg" data-tags="psychedelic rock, classic rock, psychedelic" role="button">
 Syd Barrett - Opel (1988-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/df2f52b4-ccea-4ba5-932a-6e0bf9d946e5/28719054054-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Libest Spacement Monitor (1989)
 </li>
@@ -132,8 +132,14 @@ Pink Floyd - Dark Side of the Sky (1990)
 <li data-cover="http://coverartarchive.org/release/08245a23-9b49-4d72-bf41-919bae71ad92/2027886586-500.jpg" data-tags="pink floyd, progressive rock" role="button">
 Pink Floyd - Pink is the Pig (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/6fdb215f-55d9-4a72-ae27-ed2b828a5925/27224128554-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - The Best of Tour 72 (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/42dc95e4-975f-4c81-8d27-b9b324fc33cf/16327686467-500.jpg" data-tags="classic rock, pink floyd" role="button">
 Pink Floyd - The Man & the Journey (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/01a4cbf4-6fbe-41cc-9c0d-0a2297a7fc73/6929285093-500.jpg" data-tags="pink floyd, pink floyd 26 - vol 2" role="button">
+Pink Floyd - Ultra Rare Trax, Volume 2 (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d0d77aa-b955-4ca6-9c26-d4db1e358329/9433620776-500.jpg" data-tags="pink floyd, psychedelic-space rock" role="button">
 Pink Floyd - Welcome to the Machine (1990)
@@ -146,6 +152,9 @@ Pink Floyd - Pompeii (1990-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e97212-44dd-489e-8dba-c6db7f24cff5/20596913976-500.jpg" data-tags="excellent, pink floyd, bootleg, wish you were here" role="button">
 Pink Floyd - Live USA (1991)
+</li>
+<li data-cover="https://img.discogs.com/C-NiyF_RDbhblcTMCb5oB1OYFwY=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11846240-1523449975-5686.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - The Great Gig on the Moon (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5d5cf6b-6edd-4b2b-8947-40d67a32e441/8217785879-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - A CD Full of Secrets (1992)
@@ -204,6 +213,9 @@ Psychic TV - Trip Reset (1996)
 <li data-cover="http://coverartarchive.org/release/c660b3aa-3cfe-492b-b1ec-06bbb33e637d/15790105624-500.jpg" data-tags="progressive rock" role="button">
 Rick Wright - Broken China (1996-10-07)
 </li>
+<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Pinkie Milkie (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/47d05d4d-f62e-48c5-aa8c-09597cb52616/25985902238-500.jpg" data-tags="60s" role="button">
 Pink Floyd - 1967: The First 3 Singles (1997-08-04)
 </li>
@@ -249,20 +261,14 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="https://img.discogs.com/d0S5G4AxUjUaYEe_slYUyH4IZf8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1860040-1248374377.jpeg.jpg" data-tags="jazz, progressive rock, prog, marianne velvart, jrcrichardson, duncan parsons, jrc richardson, marc catley, paleys watch, cakeflap" role="button">
 The Clinton Administration - One Nation Under a Re-Groove (2003-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/9197db83-31b5-4eaa-9e96-1dc08ae5aa39/26886372116-500.jpg" data-tags="have on vinyl" role="button">
+Pink Floyd - BBC Archives 1967-1969 (2003-06-30)
+</li>
 <li data-cover="https://img.discogs.com/2db7W1kyzQ9ocVZ88XzDb4NfJ-w=/fit-in/591x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905319-1362137952-5607.jpeg.jpg" data-tags="delta blues, vblues" role="button">
 Eric Sardinas - Black Pearls (2003-08-26)
 </li>
-<li data-cover="https://img.discogs.com/YvxuyFBeqiAQci3U9DrvDInfOF8=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7023082-1431947255-4140.jpeg.jpg" data-tags="progressive rock, cover" role="button">
-Mostly Autumn - Pink Floyd Revisited (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/78024696-94c3-4b4e-a616-241c476e7f2c/14744891302-500.jpg" data-tags="progressive rock" role="button">
 Unitopia - More Than a Dream (2005-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental, progressive rock, oldfield, pink floyd, mike oldfield, gilmour" role="button">
-Christopher Nardozza - In The Dead Of Night (2006)
-</li>
-<li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
-David Gilmour - On an Island (2006-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e549bcc-c5c8-4a75-a131-027660da83d0/1281689911-500.jpg" data-tags="progressive rock, cover" role="button">
 Dream Theater - Dark Side Of The Moon (2006-04-23)
@@ -272,9 +278,6 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="https://img.discogs.com/QwCGnBony9z8q-lt9Rxh4QKlH_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7479861-1442504781-9415.jpeg.jpg" data-tags="pink floyd" role="button">
 David Gilmour - Smile (2006-06-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chris brown, dean martin, kenny g, stan getz, mana, marc anthony" role="button">
-Buzz Carlton - Just This Side of the Blues (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Best Ballads (2006-09-06)
@@ -297,6 +300,9 @@ Scouting for Girls - Scouting for Girls (2007-09-16)
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/c278e92d-58ec-400a-beab-0b71cbf7cdd7/15085459003-500.jpg" data-tags="progressive rock, psychedelic rock, art rock, space rock, german, classic rock, krautrock, symphonic rock" role="button">
+Shamall - Questions Of Life (2008-07-14)
+</li>
 <li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
 The Feeling - Join With Us (2008-09-05)
 </li>
@@ -306,14 +312,8 @@ Mountain Mirrors - Mountain Mirrors (2008-10-06)
 <li data-cover="https://img.discogs.com/f9ZxHgZlcTCaOKUuMF_O4F1z8SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677937-1296206354.jpeg.jpg" data-tags="rock, prog, queen, pink floyd, beatles, david bowie, 10s, elton john, enrico gabrielli" role="button">
 A Toys Orchestra - Midnight Talks (2010-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/50baa1ac-4aaa-46a2-b099-66ca92a1db31/6980894439-500.jpg" data-tags="fantasy, medieval, pop, hipster, art pop, hino, gothic metal, symphonic metal, power metal, meme, satanic pop, poptron, gothic rock, not gothic, not experimental, amatue, japanese, emo, epic, poetry, comedy, anime, j-pop, post-revolutionary pop song, visual kei, lolicore, totec radio, achingly intelligent, homosexual intifada, virally yours, horny voice, very intelligent lyrics, folklore intellectuel, not darkwave, misunderstood geniuses, gothic, dark, ethereal, humour, horny, gothic pop, 4chan, youtube, evil, art, dark pop, utter brilliance, criminally underrated, satanic metal, sexy vocalists, not metal, not goth, pink floyd, celtic, bard, dream folk, pseudogoth" role="button">
-Erutan - Raindancer (2010-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/15ef7a30-d0f0-4cee-80fc-5dc2a95e1422/14567248094-500.jpg" data-tags="psychedelic, pink floyd, japan, the doors, acid mothers temple, kawabata makoto, chinese flying saucer" role="button">
 Acid Mothers Temple & The Melting Paraiso U.F.O. - The Ripper At The Heaven's Gates Of Dark (2011-10-31)
-</li>
-<li data-cover="https://img.discogs.com/HxEAwUTH_IUqAHj7f0OIwRDU49c=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270839-1541979152-1545.jpeg.jpg" data-tags="progressive rock" role="button">
-Edison's Children - In the Last Waking Moments... (2011-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1878453-6875-4d83-a8b2-d380e7e70342/7764522281-500.jpg" data-tags="classic rock, rock, soul, grunge, alternative, alternative rock, heavy, pop rock, sleezy, solo, epic, intro, industrial, blues, psychedelic, moody, soundscape, nineties, space, progressive, muse, a perfect circle, pink floyd, aerosmith, melancholic, stoner, dutch, brass, nine inch nails, 90's, holland, netherlands, seventies, led zeppelin, tool, debut, scream, the netherlands, lowlands, the rolling stones, rage against the machine, deep purple, pearl jam, audioslave, soundgarden, rolling stones, guitar solo, ratm, high vocals, 70's, chris cornell, synthbass, the black crowes, guitarsolo, navarone" role="button">
 Navarone - A Darker Shade of White (2012-09-05)

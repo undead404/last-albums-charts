@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:46:12.946Z
+date: 2021-04-10T02:59:01.401Z
 title: "rhythm and blues: 100 albums you must listen to before you die"
 ---
 ![The Weeknd - Kiss Land (2013-09-09)](http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg "The Weeknd - Kiss Land (2013-09-09)")
@@ -33,14 +33,8 @@ Etta James - At Last (1960-11-15)
 <li data-cover="https://img.discogs.com/H3xANmxOR_9U50lRRX3ghUlGtEI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9586222-1485610086-8324.jpeg.jpg" data-tags="soul" role="button">
 Booker T. & the MG's - Green Onions (1962)
 </li>
-<li data-cover="http://coverartarchive.org/release/931cd000-1de5-4ad4-8b6b-9d1790af8683/6329235884-500.jpg" data-tags="rock, 60s" role="button">
-Chuck Berry - St. Louis to Liverpool (1964)
-</li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
-</li>
-<li data-cover="https://img.discogs.com/R1-z6HNPSAehczE8Fz4rVLETz7I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5943426-1461834840-3386.jpeg.jpg" data-tags="60s, blue-eyed soul" role="button">
-Van Morrison - Blowin' Your Mind! (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b43b2a7-2cab-4f87-9a7e-dfc0913c39ab/9245863212-500.jpg" data-tags="soul" role="button">
 Aretha Franklin - I Never Loved a Man the Way I Love You (1967-03-10)
@@ -50,6 +44,9 @@ Aretha Franklin - Respect (1968)
 </li>
 <li data-cover="https://img.discogs.com/Dhp36agUeeoYw6M8NAWln714sJA=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4740878-1473527519-9520.jpeg.jpg" data-tags="soul" role="button">
 Otis Redding - The Dock of the Bay (1968-02-23)
+</li>
+<li data-cover="https://img.discogs.com/3kgeCWEw6XIAskb5v3QtSv0BhIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631101-1467757244-1910.jpeg.jpg" data-tags="soul" role="button">
+Isaac Hayes - Hot Buttered Soul (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f83b06-9cf1-4e39-81ed-5bd1ce9c44c3/19273846900-500.jpg" data-tags="blues" role="button">
 Albert King - King Of The Blues Guitar (1969)
@@ -90,9 +87,6 @@ Randy Crawford - Now We May Begin (1980)
 <li data-cover="https://img.discogs.com/8SMZMGfaZc8C9-vLhHRZGz6DfFU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8217355-1472718265-6517.jpeg.jpg" data-tags="classic rock, rock, 80s" role="button">
 The Rolling Stones - Tattoo You (1981-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/5edf49b6-8364-42b2-ae25-611004289403/26886953373-500.jpg" data-tags="80s, yacht rock, wb recording" role="button">
-Michael McDonald - If That's What It Takes (1982)
-</li>
 <li data-cover="https://img.discogs.com/EVhqRV8PU2HLwFBGXSmNu_JWWaQ=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6186742-1413218734-2806.jpeg.jpg" data-tags="soul" role="button">
 Marvin Gaye - Midnight Love (1982)
 </li>
@@ -111,6 +105,9 @@ Little Richard - Good Golly, Miss Molly (1989)
 <li data-cover="https://img.discogs.com/iJynlpmha5UpjjgsSgeUT92rlzo=/fit-in/600x622/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11410427-1529925499-7752.jpeg.jpg" data-tags="soul" role="button">
 Wilson Pickett - Greatest Hits (1989)
 </li>
+<li data-cover="https://img.discogs.com/OVoyEpasfUfzgs6K3erkUwj1xJ4=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3359787-1327276768.jpeg.jpg" data-tags="50s, b diddley" role="button">
+Bo Diddley - Bo Diddley (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/aec86745-1482-42dc-b2e0-118caa53504b/1872074680-500.jpg" data-tags="pop, soul" role="button">
 Mariah Carey - Emotions (1991-09-12)
 </li>
@@ -122,9 +119,6 @@ Gabrielle - Find Your Way (1993-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7ae62ee-4da0-4662-89f6-a47264077b88/28717483363-500.jpg" data-tags="80s" role="button">
 The J. Geils Band - Showtime! (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
 London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
@@ -138,6 +132,9 @@ Etta James - Her Best (1997-03-25)
 <li data-cover="https://img.discogs.com/0wniLNmVoQ5d7VJ4cHrHD1bWBlA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1506065-1224757261.jpeg.jpg" data-tags="soul, motown" role="button">
 The Temptations - The Ultimate Collection (1997-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/b27462e8-69cf-4ec0-811c-a4fd518f31c8/8450399935-500.jpg" data-tags="ben harper, acoustic" role="button">
+Ben Harper - The Will to Live (1997-05-26)
+</li>
 <li data-cover="https://img.discogs.com/1v6kwF4-QVbjd6ldTPl24CD1IKU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2861033-1423413953-9436.jpeg.jpg" data-tags="soul" role="button">
 Solomon Burke - The Very Best of Solomon Burke (1998-02-03)
 </li>
@@ -146,6 +143,9 @@ The Marvelettes - Ultimate Collection (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/46de40b7-4a10-4df9-ad87-af55719d87cb/15136890162-500.jpg" data-tags="rnb" role="button">
+Brian McKnight - Back At One (1999-09-21)
 </li>
 <li data-cover="https://img.discogs.com/at17GbASD4new5-CawbqD3OuTfQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268805-1462217519-3161.jpeg.jpg" data-tags="rnb, donell jones" role="button">
 Donell Jones - Where I Wanna Be (1999-10-12)
@@ -162,6 +162,9 @@ Super Furry Animals - Rings Around the World (2001-07-23)
 <li data-cover="http://coverartarchive.org/release/30183fbe-f7aa-487e-8462-5d1a8974a1ad/3924500102-500.jpg" data-tags="soul" role="button">
 Macy Gray - the id (2001-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/41c797bc-d371-4478-9641-a64460eade30/14693256282-500.jpg" data-tags="rock, mick jagger" role="button">
+Mick Jagger - Goddess In The Doorway (2001-11-12)
+</li>
 <li data-cover="https://img.discogs.com/8cmTU-QuN5GMSuDjNX65BCwMSgM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9638095-1484019100-8094.jpeg.jpg" data-tags="jazz, rock, funk, funky, groovy, rhythm and blues, jecks, louis armstrong, larmstrong, l armstrong" role="button">
 Louis Armstrong - C'est Si Bon (2001-11-13)
 </li>
@@ -174,9 +177,6 @@ Ray Charles - The Very Best of Ray Charles (2003)
 <li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
 Akon - Trouble (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)
 </li>
@@ -186,17 +186,20 @@ Ray Charles - Mess Around (2004-04-26)
 <li data-cover="https://img.discogs.com/fCwxXUdTYhYEMi2PkmsJngjZPSQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336787-1098065764.jpg.jpg" data-tags="soul" role="button">
 Next - Platinum & Gold Collection (2004-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/79e61808-662a-48cb-94c0-19441b3a496b/10253810559-500.jpg" data-tags="classic rock" role="button">
+The Rolling Stones - Singles 1965-1967 (2004-07-12)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Macy Gray - The Very Best Of Macy Gray (2004-08-30)
 </li>
 <li data-cover="https://img.discogs.com/FmHghlUxV8FHoIwIHACv3ZBgGVk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1275629-1547400630-6964.jpeg.jpg" data-tags="soul" role="button">
 Joss Stone - Mind Body & Soul (2004-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
+</li>
+<li data-cover="https://img.discogs.com/KrjLwDirjXVBN_U-SW2TdL3G7Uc=/fit-in/480x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093043-1384333688-9589.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
+Ivete Sangalo - Berimbau Metalizado (2006-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e9c1e1-8e21-42fc-ac73-29d09ed92b38/25730817367-500.jpg" data-tags="rnb" role="button">
 Fantasia - Fantasia (2006-12-12)
@@ -216,11 +219,14 @@ The-Dream - Lovehate (2007-12-11)
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
 </li>
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, the rolling stones, blues rock" role="button">
+The Rolling Stones - Shine A Light (2008-04-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/c104dd56-2b3a-4137-9d35-7ab7d3af76b7/2962804482-500.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Pocketful of Sunshine (2008-07-29)
 </li>
-<li data-cover="https://img.discogs.com/1yUYXbMd-1P7YRiS710HOsetOTw=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2159048-1267195191.jpeg.jpg" data-tags="nu jazz, chillout, electropop, indie, jazz, pop, chill, rock, instrumental, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, acoustic, fusion, world, post-punk, soft rock, funk, jazz-funk, blues, house, indietronica, lounge, drum and bass, dream pop, american, funky, mellow, nu-jazz, smooth, folktronica, rnb, groovy, female vocalist, rhythm and blues, greys anatomy, neo soul, neo-soul, jazzy hip hop, nu-bluz, nu-bluz funky grooves in the e-lounge, electronic-folk, bay area best, groovelife advocate" role="button">
-Anya Marina - Slow & Steady Seduction: Phase II (2008-11-24)
+<li data-cover="http://coverartarchive.org/release/5ba43de6-27cd-4328-97bc-37b221d7124e/1821220132-500.jpg" data-tags="soul" role="button">
+Raphael Saadiq - The Way I See It (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/caa0e5f8-86ed-4276-9163-008cd385aa85/5728077343-500.jpg" data-tags="rhythm and blues" role="button">
 Black Joe Lewis & The Honeybears - Tell 'Em What Your Name Is! (2009-03-17)
@@ -234,26 +240,23 @@ Ciara - Fantasy Ride (2009-05-04)
 <li data-cover="http://coverartarchive.org/release/7b785869-0155-4977-b0b6-af733acdc008/2140091250-500.jpg" data-tags="soul" role="button">
 Mayer Hawthorne - A Strange Arrangement (2009-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a509a88-2d08-39a8-a6b6-aec83ead870b/17390032491-500.jpg" data-tags="experimental, idm, drum and bass" role="button">
-Zero 7 - Yeah Ghost (2009-09-28)
-</li>
 <li data-cover="https://img.discogs.com/dtb8lL6FrBIPNTQWrXQKDbt9bVg=/fit-in/412x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848281-1303821841.jpeg.jpg" data-tags="rockabilly, usa, rock and roll, rhythm and blues, 2010s, debut album, 2010 albums, my best of 2010, j mc pherson" role="button">
 JD McPherson - Signs & Signifiers (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/00efc95e-6b70-3544-919c-8eb12e71de6c/18245809739-500.jpg" data-tags="soul" role="button">
 Otis Redding - Pain in My Heart (2010-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/e8edc0e1-fa10-43d9-85f9-bb2960ef01a4/5095514944-500.jpg" data-tags="blues rock" role="button">
-Gary Clark Jr. - Gary Clark Jr. (2010-03-29)
-</li>
 <li data-cover="https://img.discogs.com/iN2CH1XwAGN9ti_S_myrNp23NYQ=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1900746-1460142828-6722.jpeg.jpg" data-tags="rhythm and blues" role="button">
 Keane - Stop For A Minute (2010-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e63f9f0-df89-4977-bb82-1840293c0eb8/7453162281-500.jpg" data-tags="soul, rhythm and blues, funky groove" role="button">
+Kings Go Forth - The Outsiders Are Back (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0e822bb-fd56-4ca1-be83-e71d4f1655ee/8127972577-500.jpg" data-tags="pop, soul, female vocalists, rhythm and blues, 00s, toni braxton, close harmony, albums of 2010" role="button">
 Toni Braxton - Pulse (2010-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/865b4950-cc21-48bc-808d-0fbd33aea1c6/2645572812-500.jpg" data-tags="soul" role="button">
-Fitz and the Tantrums - Pickin' Up the Pieces (2010-08-24)
+<li data-cover="https://img.discogs.com/CfEkhaV-cFemAErbbChcrNNTHC4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9737869-1485594601-3486.jpeg.jpg" data-tags="soul, rhythm and blues, solamente tu" role="button">
+Pablo Alborán - Solamente Tú (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e4e1f85-897d-4f0b-9024-97a68b590c68/5918492377-500.jpg" data-tags="soul" role="button">
 Charles Bradley - No Time for Dreaming (2011)
@@ -264,14 +267,8 @@ Chris Brown - F.A.M.E. (2011-03-18)
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/91e38c75-13be-3c6c-9dfb-59c3b19809fc/14830877315-500.jpg" data-tags="soul" role="button">
-Raphael Saadiq - Stone Rollin' (2011-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a12a56e-f16a-49d1-b7a2-84528900ae04/17642272732-500.jpg" data-tags="pop, electropop, dance, electronic, house" role="button">
-Wanessa - DNA (2011-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/03be83c7-ad6e-406b-ab22-5a5abc807340/3570507113-500.jpg" data-tags="electropop, rock, dance-punk" role="button">
-Patrick Stump - Soul Punk (2011-10-18)
+<li data-cover="http://coverartarchive.org/release/b33cdd0c-9743-4ed5-a36c-8523607e50e2/13420626480-500.jpg" data-tags="rock, soul, reggae, superheavy" role="button">
+SuperHeavy - SuperHeavy (2011-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
 King Krule - King Krule (2011-11-08)
@@ -281,6 +278,9 @@ Eddie Floyd - Knock On Wood (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d88ae0c-c4bf-4e64-bc97-45789880d910/4171528998-500.jpg" data-tags="pop, justin bieber" role="button">
 Justin Bieber - Believe (2012-01-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e4ac507-2401-4ce1-90d5-a3fe8b95a929/1674977749-500.jpg" data-tags="jazz, soul, funk, blues, new orleans" role="button">
+Dr. John - Locked Down (2012-04-02)
 </li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">
 Alabama Shakes - Boys & Girls (2012-04-03)
@@ -315,10 +315,10 @@ Ed Sheeran - x (2014-06-20)
 <li data-cover="http://coverartarchive.org/release/92402a00-7be5-4c40-ac27-cf91622e2e5a/8509740795-500.jpg" data-tags="pop" role="button">
 Ariana Grande - My Everything (2014-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c61fc307-94a7-4a0f-a04d-0de7c280cf30/11249947818-500.jpg" data-tags="pop" role="button">
-Jessie J - Sweet Talker (2014-10-10)
-</li>
 <li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
 Nicki Minaj - The Pinkprint (2014-12-12)
+</li>
+<li data-cover="https://img.discogs.com/GwDM40pKnJv3DtGHX81-A867nhk=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5590525-1397409758-2615.jpeg.jpg" data-tags="british, garage rock, rock and roll, rhythm and blues, british invasion, proto-punk, mod, garage peppermint, rock peppermint, folk-rock peppermint" role="button">
+The Kinks - The Anthology 1964 - 1971 (2014-12-15)
 </li>
 </ol>

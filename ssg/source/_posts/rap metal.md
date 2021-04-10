@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:23:01.504Z
+date: 2021-04-10T03:00:01.421Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -150,6 +150,9 @@ Cypress Hill - Skull & Bones (2000-04-25)
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+E.Town Concrete - The Second Coming (2000-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/caf9d8da-d295-37b8-938c-3bb92c769425/15775067834-500.jpg" data-tags="hard rock" role="button">
 Kid Rock - The History of Rock (2000-05-29)
 </li>
@@ -177,9 +180,6 @@ Reveille - Bleed The Sky (2001)
 <li data-cover="http://coverartarchive.org/release/c7c92eab-c53d-47d0-8ae4-92f22d5e3dd8/9285528262-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Pure Rock Fury (2001-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b848793-f784-4f1d-ac84-e761fe55b43d/28002424046-500.jpg" data-tags="nu metal" role="button">
-Endo - Evolve (2001-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/f38a8e29-3c4f-438b-809d-afd2ac0b603b/16490273372-500.jpg" data-tags="nu metal, hard rock" role="button">
 Saliva - Every Six Seconds (2001-03-27)
 </li>
@@ -206,9 +206,6 @@ Kid Rock - Cocky (2001-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
 Cypress Hill - Stoned Raiders (2001-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca90a458-54af-341b-8057-9f281774bdd0/3948496093-500.jpg" data-tags="rapcore, rock" role="button">
-Molotov - Dance And Dense Denso (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/58073fbb-c380-337a-ac6c-40048c3ba83c/25753837881-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Five Pointe O - Untitled (2002)
@@ -242,6 +239,9 @@ P.O.D. - Payable on Death (2003-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/c72e8dcd-e7bf-4666-bc7a-d045c4b1b27f/3757445108-500.jpg" data-tags="instrumental, piano" role="button">
+Linkin Park - Piano Instrumentals (2003-11-28)
 </li>
 <li data-cover="https://img.discogs.com/Qdu-fTfhHNWPsvMCia2uNmTX-YA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15081361-1597612494-9801.jpeg.jpg" data-tags="pop punk, rapcore" role="button">
 Zebrahead - Waste of MFZB (2004)

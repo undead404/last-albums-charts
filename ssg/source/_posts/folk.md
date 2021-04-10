@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:10:01.460Z
+date: 2021-04-10T03:29:01.471Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -195,9 +195,6 @@ Laura Marling - Alas I Cannot Swim (2008-02-11)
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
@@ -221,6 +218,9 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
+</li>
+<li data-cover="https://img.discogs.com/vwRgIQHNnlqj393afjcZVPhqPBo=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1940421-1609842441-1085.jpeg.jpg" data-tags="indie, folk" role="button">
+Volcano Choir - Unmap (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)

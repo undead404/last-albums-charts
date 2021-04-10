@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:55:01.452Z
+date: 2021-04-10T02:47:01.411Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -27,14 +27,11 @@ Echo & the Bunnymen - Ocean Rain (1984-05-04)
 <li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
 Spacemen 3 - The Perfect Prescription (1987)
 </li>
-<li data-cover="https://img.discogs.com/2rxbgU1-XyApbyxq01nCdwUmrKo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367493-1454894692-9295.jpeg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
-Spacemen 3 - Playing With Fire (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/dd58e50b-bf7b-31a1-bd82-47e7d4a2a77c/2197413454-500.jpg" data-tags="80s, post-punk" role="button">
-The Church - Starfish (1988-02-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e03f232-6c10-490e-9a95-7fd72cc52bfb/24592123891-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
 Spacemen 3 - Taking Drugs To Make Music To Take Drugs To (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
+Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
 Mercury Rev - Yerself Is Steam (1991)
@@ -51,14 +48,14 @@ Spiritualized - Lazer Guided Melodies (1992-04)
 <li data-cover="http://coverartarchive.org/release/9f87724c-5bb7-4f87-bd67-aa760960689c/5813395545-500.jpg" data-tags="shoegaze" role="button">
 The Verve - A Storm In Heaven (1993-06-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/57437410-f847-43c5-bf04-64f02973ec0e/13561508094-500.jpg" data-tags="90s, alternative rock" role="button">
+The Flaming Lips - Transmissions From the Satellite Heart (1993-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b87ff8-0782-499a-bc42-4c504fc00c84/22540815036-500.jpg" data-tags="rock" role="button">
 The Brian Jonestown Massacre - Take It From the Man! (1996-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e62175b-6b79-4954-b506-18027249bc62/18753438952-500.jpg" data-tags="neo-psychedelia, psychedelic" role="button">
-The Brian Jonestown Massacre - Their Satanic Majesties' Second Request (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
@@ -69,11 +66,17 @@ of Montreal - Cherry Peel (1997-08-19)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
+Grandaddy - Under The Western Freeway (1997-10-21)
+</li>
 <li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a807034d-09ee-3d4c-9566-06d114c1fc6c/5710869185-500.jpg" data-tags="britpop, rock" role="button">
+Oasis - Standing on the Shoulder of Giants (2000-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
@@ -89,6 +92,9 @@ The Coral - The Coral (2002-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
+Animal Collective - Here Comes the Indian (2003-06-17)
 </li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
@@ -120,11 +126,11 @@ MGMT - Oracular Spectacular (2007-10-02)
 <li data-cover="https://img.discogs.com/8iYEQcyrAHvZjq1FcLRGn2y7urc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1575143-1249316875.jpeg.jpg" data-tags="dream pop" role="button">
 Beach House - Devotion (2007-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1c1bbd3-c98b-4212-bc93-5784f5d81817/5142385480-500.jpg" data-tags="experimental, noise" role="button">
+Fuck Buttons - Street Horrrsing (2008-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/f68d456e-118a-4d6a-9df3-a48a327bfbd8/15764470897-500.jpg" data-tags="experimental, dub, psychedelic, psychedelia, 00s, tropical, neo-psychedelia, stoned, hazy, tropical drone, tropical break" role="button">
 Sun Araw - Beach Head (2008-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e84a9e9-5185-4b6b-96e4-4b6360e80df6/27063556999-500.jpg" data-tags="indie pop" role="button">
-Starfucker - Starfucker (2008-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
@@ -168,9 +174,6 @@ MGMT - Congratulations (2010-04-07)
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
 </li>
-<li data-cover="https://img.discogs.com/eVtiNJiNRoo5wGxgnDSeav_fskc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377893-1280509615.jpeg.jpg" data-tags="electronic, electropop, indietronica, psychedelic, anticon, glitch hop, neo-psychedelia, rad cult, loudness war, neon sleaze" role="button">
-Tobacco - Maniac Meat (2010-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
 Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
 </li>
@@ -188,9 +191,6 @@ Warpaint - The Fool (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
-</li>
-<li data-cover="https://img.discogs.com/Fuj38Pi-t1r4jE78ZjsWOf5oY1U=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2758889-1299748746.jpeg.jpg" data-tags="indie" role="button">
-Starfucker - Reptilians (2011-03-07)
 </li>
 <li data-cover="https://img.discogs.com/FR40N422nP5djNhesTfiTkMcSFQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916148-1307131262.jpeg.jpg" data-tags="indie, alternative, swedish, indie pop" role="button">
 Peter Bjorn and John - Gimme Some (2011-03-28)
@@ -218,9 +218,6 @@ Youth Lagoon - The Year of Hibernation (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
-Poliça - Give You The Ghost (2011-12-20)
 </li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
@@ -267,6 +264,9 @@ Yeah Yeah Yeahs - Mosquito (2013-04-12)
 <li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
 The Neighbourhood - I Love You. (2013-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/698ce3c2-e84b-4e85-b60b-1e0cb25969f0/14501283915-500.jpg" data-tags="alternative dance, neo-psychedelia" role="button">
+Primal Scream - More Light (2013-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
@@ -282,8 +282,8 @@ MGMT - MGMT (2013-09-13)
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc513877-c9ca-4a9b-9d51-39727d8c2575/5431659408-500.jpg" data-tags="electronic, pop, experimental, indie electronic, trip hop, neo-psychedelia, art pop, viking, vikings, my deepest desires, psychic album covers, alternative-indie rock" role="button">
-Son Lux - Lanterns (2013-10-28)
+<li data-cover="http://coverartarchive.org/release/4863a8fc-fb97-4a13-b859-82d681d1741e/5449474395-500.jpg" data-tags="pop, alternative, alternative rock, folk, soft rock, folk rock, psychedelic rock, country rock, alternative country rock, 10s, neo-psychedelia, soft rock revival" role="button">
+Jonathan Wilson - Fanfare (2013-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adeb0cd-f15c-447c-82a4-2d6fb5279436/6728311268-500.jpg" data-tags="indie pop, british" role="button">
 Metronomy - Love Letters (2013-12-06)
@@ -318,7 +318,7 @@ The Brian Jonestown Massacre - Revelation (2014-05-19)
 <li data-cover="https://img.discogs.com/gRK9qXxMhL4A8iR9BH6UhZ0qAds=/fit-in/494x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5951182-1447146079-7615.jpeg.jpg" data-tags="2014 releases, 2014: albums" role="button">
 Blonde Redhead - Barragán (2014-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
-Slow Magic - How To Run Away (2014-09-09)
+<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
+Car Seat Headrest - How To Leave Town (2014-10-31)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:44:01.451Z
+date: 2021-04-10T03:38:07.166Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -126,6 +126,9 @@ Jamiroquai - Cosmic Girl (1996-11-25)
 <li data-cover="http://coverartarchive.org/release/55b4d834-4916-4530-a184-f10f899e138e/20794420950-500.jpg" data-tags="chillout, downtempo" role="button">
 Koop - Sons Of Koop (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/def4619f-0de9-4b13-b3c3-0e2049f39bfd/11969760815-500.jpg" data-tags="funk, latin" role="button">
+Nuyorican Soul - Nuyorican Soul (1997-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/4b7f3557-4cdb-4196-9da2-1326f83f38d2/2572665131-500.jpg" data-tags="idm, electronic" role="button">
 Squarepusher - Hard Normal Daddy (1997-04-16)
 </li>
@@ -240,6 +243,9 @@ Massive Attack - Special Cases (2003-02-24)
 <li data-cover="http://coverartarchive.org/release/72480b42-a4af-4a16-8a18-1fdeaa56188b/6514747177-500.jpg" data-tags="electronic, acid jazz" role="button">
 Xploding Plastix - The Benevolent Volume Lurkings EP (2003-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab3fefde-9617-4d57-9a8e-9e17fa8ede97/8468315713-500.jpg" data-tags="acid jazz" role="button">
+Praful - One day deep (2003-07-15)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -303,14 +309,8 @@ Edward Maya feat. Vika Jigulina - Stereo Love (2009-09-17)
 <li data-cover="http://coverartarchive.org/release/7e311d8e-876e-4b3d-a8cb-a5af3447842d/7392995216-500.jpg" data-tags="jazz-funk, acid jazz, neo-soul, french hip hop, jazz rap, conscious hip hop, french hip-hop" role="button">
 Hocus Pocus - 16 pièces (2010-03-15)
 </li>
-<li data-cover="https://img.discogs.com/pwUG8vFB0C651lhYDqHEWijFmKs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2313815-1276257577.jpeg.jpg" data-tags="soul, experimental" role="button">
-Jamie Lidell - Compass (2010-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a1344a2-2b99-445a-98b9-964294343dec/2094897768-500.jpg" data-tags="alternative" role="button">
-The Asteroids Galaxy Tour - Out of Frequency (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8fc6cc2-2388-4ce3-934f-156fe050a517/3385247746-500.jpg" data-tags="jazz" role="button">
 José James - No Beginning No End (2013-01-16)

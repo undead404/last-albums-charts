@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:27:07.021Z
+date: 2021-04-10T03:20:01.430Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
@@ -300,9 +300,6 @@ Moderat - II (2013-08-02)
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/51c36b79-ad82-4e42-a3f2-4f940e84742a/5338280873-500.jpg" data-tags="electronic" role="button">
-Four Tet - Beautiful Rewind (2013-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)
 </li>
@@ -317,6 +314,9 @@ deadmau5 - while(1<2) (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Syro (2014-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/54471c6f-f3be-4c52-9868-6a253afc0185/11060604035-500.jpg" data-tags="experimental, idm, glitch" role="button">
+Arca - Xen (2014-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

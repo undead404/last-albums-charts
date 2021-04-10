@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:40:01.398Z
+date: 2021-04-10T03:33:01.414Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -189,6 +189,9 @@ Bonobo - Dial 'M' for Monkey (2003-06-09)
 <li data-cover="http://coverartarchive.org/release/e0cd2528-ed2e-3f74-bcda-8c7e97e9f221/21326685665-500.jpg" data-tags="chillout, trip-hop, morcheeba" role="button">
 Morcheeba - Parts of the Process (2003-06-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b41ec2e-083a-3b56-ac79-88ecce303214/14359156369-500.jpg" data-tags="electronic, trip-hop" role="button">
+Kosheen - Kokopelli (2003-08-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/65ae7726-7129-4456-ac20-e3e0e84e1f05/26300515610-500.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)
 </li>
@@ -278,9 +281,6 @@ Martina Topley-Bird - The Blue God (2008-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)

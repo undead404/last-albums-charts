@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:21:01.465Z
+date: 2021-04-10T03:02:06.902Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -42,9 +42,6 @@ Bob Dylan - Desire (1976-01-05)
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
-<li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
-Tracy Chapman - Tracy Chapman (1988-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f10a7d7-2dd9-380d-b13a-60e2ae0eef9c/21311200020-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Bossanova (1990-08-13)
 </li>
@@ -69,9 +66,6 @@ Le Tigre - Le Tigre (1999-11-08)
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
 </li>
-<li data-cover="https://img.discogs.com/WT1wu71Vs82Vi4OEtAxWvSrG7zc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640555-1491711277-5335.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
-Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
-</li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
@@ -83,9 +77,6 @@ Azure Ray - Azure Ray (2001-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
 Train - Drops of Jupiter (2001-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
-N*E*R*D - In Search Of... (2001-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/affb9073-3c21-3524-bc16-5497489ce059/1709609353-500.jpg" data-tags="pop" role="button">
 P!nk - M!ssundaztood (2001-11-20)
@@ -131,6 +122,9 @@ The Fray - Live at The Electric Factory Bootleg No. 1 (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0eca4e0-44e4-37ef-bfda-4398dfcd860f/9673756581-500.jpg" data-tags="contemporary r&b" role="button">
 Pharrell - In My Mind (2006-07-24)
+</li>
+<li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
+The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
 Amos Lee - Supply And Demand (2006-10-03)
@@ -195,6 +189,9 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="https://img.discogs.com/7qv5sHMcPvORr_c1d6B8QUUvdTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876084-1249485629.jpeg.jpg" data-tags="indie rock, 00s" role="button">
 Julian Plenti - Julian Plenti Is... Skyscraper (2009-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/766cf545-9651-4728-85e0-230d29adf83c/15868890607-500.jpg" data-tags="surf, usa, strange, psychedelic, california, garage, debut album, the desperate kingdom of love, 30 strand grass, 4jsfolk, q3jslfm, you cant be wise and then love at the same time, track to check again, stuff i still want to discover, 2unban" role="button">
+The Growlers - Are You In Or Out? (2009-10-06)
+</li>
 <li data-cover="https://img.discogs.com/4hqBDlYE_vgyn7oiCempQR8n0b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2196387-1269212249.jpeg.jpg" data-tags="indie, i n d i e" role="button">
 Freelance Whales - Weathervanes (2009-10-18)
 </li>
@@ -206,9 +203,6 @@ John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/54dcaa7b-fbec-3b9d-845a-542598ff0eed/22997559585-500.jpg" data-tags="hip-hop, trip-hop" role="button">
 RJD2 - The Colossus (2010-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/69115003-a563-4e9e-99d6-fce1ed9b141d/25465821647-500.jpg" data-tags="folk" role="button">
-Joanna Newsom - Have One on Me (2010-02-03)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)
@@ -240,14 +234,14 @@ Warpaint - The Fool (2010-10-25)
 <li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
 The Civil Wars - Barton Hollow (2011-01-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b59e035-b469-4c51-85fe-69c15d96a6b6/2625787976-500.jpg" data-tags="songwriting, 2011 releases" role="button">
+Joan as Police Woman - The Deep Field (2011-01-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9035757-3972-404c-89d3-cea1f904b3a1/3357027039-500.jpg" data-tags="indie, rock, usa, 2010s, fucking lovely, mistico, cartoon album covers, muita barba, hippagem, fundamento, a vida como ela e" role="button">
 J Mascis - Several Shades of Why (2011-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
-The Kills - Blood Pressures (2011-04-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
@@ -267,6 +261,9 @@ The Black Keys - El Camino (2011-12-01)
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
+Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
@@ -284,6 +281,9 @@ Bruno Mars - Unorthodox Jukebox (2012-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
 Yo La Tengo - Fade (2013-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/2637eead-2d02-4608-8991-642dda755394/3800015679-500.jpg" data-tags="beach goth" role="button">
+The Growlers - Hung At Heart (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

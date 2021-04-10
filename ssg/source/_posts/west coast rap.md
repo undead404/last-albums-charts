@@ -1,12 +1,12 @@
 ---
-date: 2021-04-09T18:37:01.567Z
+date: 2021-04-10T02:58:12.549Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
@@ -21,23 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
-N.W.A - Straight Outta Compton (1988-08-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/9eecb9b4-ea73-4dbc-a220-887b585db5ba/14894010747-500.jpg" data-tags="golden age hip hop" role="button">
 The D.O.C. - No One Can Do It Better (1989-06-19)
 </li>
 <li data-cover="https://img.discogs.com/DWtMsiB5hSrBwZoiImfeTzbi6SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832089-1372026607-3318.jpeg.jpg" data-tags="gangsta rap" role="button">
 Above the Law - Livin' Like Hustlers (1989-12)
 </li>
-<li data-cover="https://img.discogs.com/ONiXFykEvGzimEVKa81GZgUfR1U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387597-1445700059-9212.jpeg.jpg" data-tags="west coast rap, alternative hip hop, golden age hip hop, hip hop" role="button">
-Digital Underground - Sex Packets (1990)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/208b2d23-00bc-496b-9b0d-2763eb720004/9375491412-500.jpg" data-tags="west coast rap" role="button">
 Too $hort - Short Dog's In The House (1990-06-27)
+</li>
+<li data-cover="https://img.discogs.com/YLtxjqK_Lh5RrBz9iGD4LsurXJA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597739-1396955161-1634.jpeg.jpg" data-tags="gangsta rap, latin hip hop" role="button">
+Kid Frost - Hispanic Causing Panic (1990-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/573ba363-1706-4820-92ef-a3552235c7da/24589797802-500.jpg" data-tags="gangsta rap, west coast rap" role="button">
 DJ Quik - Quik Is The Name (1991-07-01)
@@ -53,6 +50,9 @@ Ice Cube - Death Certificate (1991-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/12eaf4ae-eaea-48ce-8731-5db687e3b71e/15827696836-500.jpg" data-tags="underground rap, old school rap, gangsta rap, west coast rap, bay area" role="button">
 RBL Posse - A Lesson To Be Learned (1992)
+</li>
+<li data-cover="https://img.discogs.com/t3M8KbY6mgx5Cyt2iP6mmBUj_vc=/fit-in/250x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6680346-1428127536-9334.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
+Kid Frost - East Side Story (1992-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/60aca4ff-ef2d-481d-af88-0902412e9963/7052463164-500.jpg" data-tags="hip-hop, 90s, west coast rap, white rap, collected, lastfm needs this, a sick honky straight goin donkey" role="button">
 N2DEEP - Back to the Hotel (1992-06-01)
@@ -138,8 +138,14 @@ Westside Connection - Bow Down (1996)
 <li data-cover="http://coverartarchive.org/release/eae05f09-15ab-467f-a81e-53ecf2e7d825/4088802731-500.jpg" data-tags="gangsta rap" role="button">
 MC Ren - The Villain In Black (1996-04-09)
 </li>
+<li data-cover="https://img.discogs.com/I9KSM5KKO4wuY7RxxkAU9y8Oze0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179746-1319325662.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
+N.W.A - Greatest Hits (1996-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/de3957cd-8960-4737-92be-985c62003e51/4410563298-500.jpg" data-tags="west coast rap" role="button">
 Delinquent Habits - Delinquent Habits (1996-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f42f670-812f-4a93-bbbb-e4d081d3609a/15007041788-500.jpg" data-tags="west coast rap" role="button">
+Foesum - Perfection (1996-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">
 Xzibit - At The Speed Of Life (1996-10-01)
@@ -161,9 +167,6 @@ The Psycho Realm - The Psycho Realm (1997-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4adb7634-b3d9-4687-820a-052e2c32f8ab/14279529712-500.jpg" data-tags="west coast rap, g-funk, g-rap, west coas baby" role="button">
 WC - The Shadiest One (1998-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ec884ec-d981-4a4c-bc3b-319b6b51bd14/5062349866-500.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Snoop Dogg - Da Game Is To Be Sold, Not To Be Told (1998-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34d3b22-9b21-44a1-bbef-6ebc05bed361/5131421085-500.jpg" data-tags="hip-hop" role="button">
 Cypress Hill - IV (1998-10-06)
@@ -225,9 +228,6 @@ Mack 10 - Bang Or Ball (2001-12-04)
 <li data-cover="http://coverartarchive.org/release/7b4272d8-133a-4f66-91d7-ad686c61a19a/27404836477-500.jpg" data-tags="west coast rap" role="button">
 Shade Sheist - Informal Introduction (2002-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/af8d7a0f-e838-4387-8fae-9a4ccd37b7d0/16076492694-500.jpg" data-tags="hip-hop" role="button">
-Busdriver - Temporary Forever (2002-09-24)
-</li>
 <li data-cover="https://img.discogs.com/k4Xwr_-2EvwkVY_tCBxUpqmumxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684169-1237899769.jpeg.jpg" data-tags="rap, g-funk" role="button">
 Snoop Dogg - Paid Tha Cost To Be Da Bo$$ (2002-11-25)
 </li>
@@ -261,6 +261,9 @@ The Game - The Documentary (2005-01-18)
 <li data-cover="https://img.discogs.com/Gz8fgdb8aRzaW9DvlXvOiCCn2Es=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955499-1380750118-1937.jpeg.jpg" data-tags="rap, hiphop, gangsta rap, west coast rap, bone thugs, silentangel" role="button">
 Layzie Bone - It's Not a Game (2005-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a8cb62a-68e4-48ad-80e5-a2cfa6aedfc4/27795385104-500.jpg" data-tags="west coast rap" role="button">
+Mack 10 - Hustla's Handbook (2005-09-27)
+</li>
 <li data-cover="https://img.discogs.com/MqcwGwndyMuPGcNa1fnwmuNTJjI=/fit-in/530x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169472-1141848342.jpeg.jpg" data-tags="hip hop, p-funk, hell" role="button">
 Digital Underground - Playwutchyalike: The Best Of Digital Underground (2006-01-27)
 </li>
@@ -291,9 +294,6 @@ Scarface - Emeritus (2008-12-02)
 <li data-cover="http://coverartarchive.org/release/47f24bf1-b934-4037-9430-75c498b25abb/20376297689-500.jpg" data-tags="hip-hop, west coast rap, pf09, pitchfork top 50 albums of 2009" role="button">
 DJ Quik & Kurupt - BlaQKout (2009-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5236f2b-ec9f-4b6b-a6d2-3cd85d048180/18248081257-500.jpg" data-tags="rap, fashawn" role="button">
-Fashawn - Boy Meets World (2009-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/f6f6704a-1bd1-4fa8-9acd-e340e669e48a/23246348312-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Cypress Hill - Rise Up (2010-04-16)
 </li>
@@ -306,11 +306,11 @@ Kero One - Kinetic World (2010-06-21)
 <li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">
 Kendrick Lamar - Overly Dedicated (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg" data-tags="alternative hip-hop, rap" role="button">
-Tyler, the Creator - Goblin (2011-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/57ea1ce3-b10c-4087-9dc0-79eb3e7ba260/9140296012-500.jpg" data-tags="hip-hop, underground hip-hop, west coast rap, cloud rap, lo-fi hip-hop" role="button">
+Main Attrakionz - 808s & Dark Grapes II (2011-12-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b831e2-ac0f-471b-832a-012e1a0a58fe/1691809420-500.jpg" data-tags="hip-hop, ab-soul" role="button">
 Ab-Soul - Control SYSTEM (2012-05-11)

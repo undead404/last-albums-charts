@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:30:01.478Z
+date: 2021-04-10T02:51:01.448Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -228,9 +228,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 <li data-cover="https://img.discogs.com/vwxoIJCM0ix4bNSbrNeDi9zXeaY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1839737-1265109088.jpeg.jpg" data-tags="emo, acoustic" role="button">
 Secondhand Serenade - A Twist in My Story (2008-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
@@ -293,6 +290,9 @@ Ben Howard - Every Kingdom (2011-09-30)
 </li>
 <li data-cover="https://img.discogs.com/rsW1eVsF4UFIMHKRWKc0jADwBeo=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15348184-1590105778-7101.jpeg.jpg" data-tags="pop, acoustic" role="button">
 Marina & the Diamonds - Primadonna (2012-03-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b9745c0-7729-4d2d-805e-836d136074bb/1258644423-500.jpg" data-tags="acoustic" role="button">
+Sleeping with Sirens - If You Were a Movie, This Would Be Your Soundtrack (2012-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)

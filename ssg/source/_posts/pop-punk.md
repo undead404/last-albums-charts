@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:45:01.696Z
+date: 2021-04-10T02:53:01.410Z
 title: "pop-punk: 100 albums you must listen to before you die"
 ---
 ![Yellowcard - Lights and Sounds (2006-01-18)](http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg "Yellowcard - Lights and Sounds (2006-01-18)")
@@ -26,9 +26,6 @@ The Adicts - Songs of Praise (1981)
 </li>
 <li data-cover="https://img.discogs.com/X6fiSwFs8qQ2G7qgID3MOmzZsQ8=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627925-1243439477.jpeg.jpg" data-tags="punk" role="button">
 The Adicts - Smart Alex (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
-Jawbreaker - Dear You (1995-09-12)
 </li>
 <li data-cover="https://img.discogs.com/BcS5KvjsQrcJcmIU_fGCojexqU0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101905-1411118419-6315.jpeg.jpg" data-tags="indie rock, britpop, 90s, rock" role="button">
 Ash - 1977 (1996-04-29)
@@ -93,9 +90,6 @@ Mest - Destination Unknown (2001-10-29)
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/44d30a5e-c4ba-46d4-bbc9-edcf9e11078b/4775642138-500.jpg" data-tags="indie, indie rock" role="button">
-We Are Scientists - Safety, Fun, and Learning (In That Order) (2002-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4981b053-513a-48e3-ac76-a0dd8c3287a6/24296430191-500.jpg" data-tags="alternative rock" role="button">
 The Apex Theory - Topsy-Turvy (2002-04-02)
 </li>
@@ -110,6 +104,9 @@ Allister - Last Stop Suburbia (2002-10-01)
 </li>
 <li data-cover="https://img.discogs.com/SIgY03YrHEIEtQPzl6q8eKCR5wE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949439-1254450919.jpeg.jpg" data-tags="rock, punk, emo, pop punk, pop-punk, niiice, epitaph, cds, owned albums, michele recommends" role="button">
 The Matches - E. Von Dahl Killed the Locals (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a473871-2585-4469-ae2c-bfeffe1c025f/10095593210-500.jpg" data-tags="punk, ska, punk rock, pop-punk" role="button">
+Ber-linn - V.P.N.S. (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
@@ -207,6 +204,9 @@ Ber-linn - Войналюбовь (2006-12-06)
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/f455779f-dec7-48c8-af09-f6714daf4c1f/23387977674-500.jpg" data-tags="ska" role="button">
+Mad Caddies - Keep It Going (2007-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/123a3fc0-7a4a-3e52-8a7a-f757d1d27175/14769024533-500.jpg" data-tags="pop punk, punk rock" role="button">
 Yellowcard - Paper Walls (2007-07-16)
 </li>
@@ -303,9 +303,6 @@ The Story So Far - What You Don't See (2013-03-26)
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/05c617c7-7512-4a0b-9c4e-a3fcc2bf5c03/7456741432-500.jpg" data-tags="chiptune, electronic, bitpop" role="button">
-Anamanaguchi - Endless Fantasy (2013-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/49bb21b4-1e7e-4dec-8357-a4d5d67dc0cf/4496467759-500.jpg" data-tags="indie, rock, indie rock, power pop, pop-punk, chapel hill, 10s, merge, favorites 2013" role="button">
 Superchunk - I Hate Music (2013-08-14)
 </li>
@@ -317,6 +314,9 @@ State Champs - The Finer Things (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3c71198-ebc5-44b3-b076-88fb8dd4bc0f/6960652013-500.jpg" data-tags="emo" role="button">
 Modern Baseball - You're Gonna Miss It All (2013-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/b043e4d2-708d-487f-a393-633d3363ecf3/6021977480-500.jpg" data-tags="pop punk" role="button">
+Polar Bear Club - Death Chorus (2013-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/45dcac3b-63c1-41fa-996b-6dbb33aee966/8956524652-500.jpg" data-tags="pop punk, alternative rock" role="button">
 You Me at Six - Cavalier Youth (2014-01-27)

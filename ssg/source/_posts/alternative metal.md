@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:44:01.408Z
+date: 2021-04-10T03:34:01.415Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -81,9 +81,6 @@ System of a Down - System of a Down (1998-06-30)
 <li data-cover="http://coverartarchive.org/release/1e8f0eda-b120-4495-aec6-416d83820697/3366759968-500.jpg" data-tags="nu metal" role="button">
 Korn - Follow the Leader (1998-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Slipknot (1999-06-29)
 </li>
@@ -116,6 +113,9 @@ A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
+</li>
+<li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
+Godsmack - Awake (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)

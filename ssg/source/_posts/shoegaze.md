@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:34:01.432Z
+date: 2021-04-10T03:36:01.412Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -27,20 +27,11 @@ Cocteau Twins - Head Over Heels (1983-10-31)
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb88fab3-cfe4-353f-9946-746602d9583e/4144152997-500.jpg" data-tags="shoegaze" role="button">
-My Bloody Valentine - You Made Me Realise (1987-11)
-</li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4640f48-b94f-4307-ae9e-4545261c08cf/16656065368-500.jpg" data-tags="shoegaze" role="button">
-My Bloody Valentine - Isn't Anything (1988-11-21)
-</li>
-<li data-cover="https://img.discogs.com/LUCqgkcI6OgQ2QGT-KpV-9OFOBg=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401199-1153637811.jpeg.jpg" data-tags="slowcore, dream pop, shoegaze" role="button">
-Galaxie 500 - On Fire (1989)
-</li>
 <li data-cover="https://img.discogs.com/ltRx7LMTaIcDRAR5dPZwxdmPEoM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528251-1153638308.jpeg.jpg" data-tags="shoegaze, 90s" role="button">
 Galaxie 500 - This Is Our Music (1990)
+</li>
+<li data-cover="https://img.discogs.com/-tql_MNQY1PAFDELDJP3jEr2x7k=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393894-1149518037.jpeg.jpg" data-tags="shoegaze" role="button">
+Pale Saints - The Comforts of Madness (1990-02-12)
 </li>
 <li data-cover="https://img.discogs.com/Ru1Wx6pVagAy8UHzXg-ktbcYyRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84680-1523164126-2096.jpeg.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Glider (1990-04)
@@ -99,6 +90,9 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 <li data-cover="http://coverartarchive.org/release/a6e8c16e-ebfb-47a0-abe7-582e606cb353/25345498085-500.jpg" data-tags="90s, indie rock, shoegaze" role="button">
 Yo La Tengo - Painful (1993-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a1c8de5-54bf-3efd-99af-e9757a9184a3/7941708576-500.jpg" data-tags="shoegaze" role="button">
+Chapterhouse - Blood Music (1993-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/0021f266-489a-33a8-b91f-506e37b6385d/15755743126-500.jpg" data-tags="shoegaze" role="button">
 Lush - Split (1994-06-13)
 </li>
@@ -131,6 +125,9 @@ The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
 <li data-cover="https://img.discogs.com/cPOAGSV5Ub7EhGwDZKsrFmxKs00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711857-1362859603-3556.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
+</li>
+<li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
+Mew - Frengers (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - Misery Is a Butterfly (2004-03-15)
@@ -237,9 +234,6 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
-<li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
-The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/c2529d41-26b6-4751-979d-ae0b19ec91a9/3754509342-500.jpg" data-tags="shoegaze" role="button">
 Tamaryn - The Waves (2010-09-14)
 </li>
@@ -279,6 +273,9 @@ Alcest - Les voyages de l'Âme (2012-01-06)
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
 </li>
+<li data-cover="https://img.discogs.com/kq317MTd7xcIwp6PXBS6sesrA5A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3934941-1349749081-5812.jpeg.jpg" data-tags="indie, emo, indie rock, shoegaze, xxx" role="button">
+Pity Sex - Dark World (2012-03-20)
+</li>
 <li data-cover="https://img.discogs.com/eter45RaHRFBjyMlpg69E_trNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506681-1336245635.jpeg.jpg" data-tags="shoegaze, dream pop" role="button">
 Lotus Plaza - Spooky Action at a Distance (2012-04-02)
 </li>
@@ -305,6 +302,9 @@ Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="https://img.discogs.com/9LAqQfeQlQIe8lU2gEcKe_oW5oQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5314918-1616614242-1474.jpeg.jpg" data-tags="shoegaze" role="button">
+Alcest - Shelter (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

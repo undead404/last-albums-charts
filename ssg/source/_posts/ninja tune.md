@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:17:01.547Z
+date: 2021-04-10T03:41:06.973Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -90,6 +90,9 @@ Kid Koala - Carpal Tunnel Syndrome (2000-02-15)
 <li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Supermodified (2000-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4832694-b9ca-446b-9c1d-9aeda9df7b5e/3647297441-500.jpg" data-tags="electronic, ninja tune" role="button">
+Bonobo - Scuba EP (2000-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
 </li>
@@ -177,9 +180,6 @@ Coldcut - Sound Mirrors (2005)
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/299de811-4f74-4e3d-a7e7-eef4835ef240/9336659533-500.jpg" data-tags="electronic" role="button">
-Daedelus - Exquisite Corpse (2005-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/c46177e5-1616-4605-b37a-5f0af0f93b40/16611798122-500.jpg" data-tags="live" role="button">
 Bonobo - Live Sessions EP (2005-05-31)
 </li>
@@ -224,6 +224,9 @@ The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/531fd8e4-1fb0-49bf-a8b2-bd33196ffbb6/4515192849-500.jpg" data-tags="electronic, ninja tune" role="button">
 Hexstatic - When Robots Go Bad (2007-06-22)
+</li>
+<li data-cover="https://img.discogs.com/AugVrQ0zqs9TgeyA3RWTAMASqHg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052111-1188555495.jpeg.jpg" data-tags="ninja tune, punk rock" role="button">
+Turbostaat - Harm Rochel (2007-08-03)
 </li>
 <li data-cover="https://img.discogs.com/-CuOB58AO3p7xDlSJYwEtaIiano=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1110723-1595031486-8377.jpeg.jpg" data-tags="ninja tune" role="button">
 Daedelus - Fair Weather Friends (2007-09)
@@ -296,9 +299,6 @@ Fink - Perfect Darkness (2011-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/477ae97f-9847-444c-8baa-b90455da1f67/4837907839-500.jpg" data-tags="ninja tune" role="button">
 Yppah - Eighty One (2012-02-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/2441a06f-86d5-4fca-ac37-412e7a69be29/9032402910-500.jpg" data-tags="indie pop, indie electronic, ambient pop, ninja tune, alternative-indie rock" role="button">
-Grasscut - Unearth (2012-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7be75a0d-ff22-4039-a5f8-7fe2ff34af8c/26895920549-500.jpg" data-tags="ninja tune" role="button">
 The Invisible - Rispah (2012-06-11)
