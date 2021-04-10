@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:58:01.409Z
+date: 2021-04-10T16:22:01.411Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -153,6 +153,9 @@ Cypress Hill - Skull & Bones (2000-04-25)
 <li data-cover="http://coverartarchive.org/release/aeb86f07-384f-4afb-a67c-2df7d064b2e6/1629888917-500.jpg" data-tags="hip-hop, gangsta rap, black music" role="button">
 50 Cent - Power of the Dollar (2000-07-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/62b64325-70f0-4290-a51a-05a63bf44330/13919672240-500.jpg" data-tags="hip-hop, rap, american, gangsta rap, crunk, 00s, southern hip-hop" role="button">
+Lil Jon & The East Side Boyz - We Still Crunk (2000-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
 </li>
@@ -281,9 +284,6 @@ Birdman - 5 * Stunna (2007-12-11)
 </li>
 <li data-cover="https://img.discogs.com/gQ10xuY7_eRhYXiJnWbxRtan634=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13132458-1548617759-9803.png.jpg" data-tags="hip-hop, rap, gangsta rap, yo, playlist1, yo gotti, drugs and alcohol, lil boosie and webbie, media player library, untitled playlist" role="button">
 Yo Gotti - Cocaine Muzik (2008-02-19)
-</li>
-<li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
-The Game - LAX (2008-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d177fc8-9be5-4682-86b6-b11257d71325/4406825400-500.jpg" data-tags="gangsta rap, 00s, southern hip-hop" role="button">
 Lil Wayne - No Ceilings (2009-10-31)

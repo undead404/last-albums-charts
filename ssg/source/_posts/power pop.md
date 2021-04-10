@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:10:01.440Z
+date: 2021-04-10T16:45:01.602Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -44,6 +44,9 @@ Hüsker Dü - Candy Apple Grey (1986-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
+</li>
+<li data-cover="https://img.discogs.com/edEkmxEd1Y87BZrFtSRgCJZaxRY=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1699663-1556520882-6418.jpeg.jpg" data-tags="power pop, indie, 90s" role="button">
+Teenage Fanclub - Thirteen (1993-10-04)
 </li>
 <li data-cover="https://img.discogs.com/qVc8tzano21PrFKiG8HBdphJ1tE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2016906-1477584476-3334.jpeg.jpg" data-tags="indie, pop, alternative rock, indie pop, power pop, britpop, jangle pop, snow patrol, 1985-94" role="button">
 The Wannadies - Be a Girl (1994)
@@ -110,9 +113,6 @@ Relient K - The Anatomy of the Tongue in Cheek (2001-08-28)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">
-Phantom Planet - The Guest (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bc9cf3d-c700-36c2-8fcd-92b7408f71a3/5883708887-500.jpg" data-tags="rock, alternative rock" role="button">
 Weezer - Maladroit (2002-05-11)

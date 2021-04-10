@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:48:01.516Z
+date: 2021-04-10T16:38:01.434Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -108,6 +108,9 @@ Neil Young - After the Gold Rush (1970-09-19)
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0bf93ec6-a96c-4d4d-9cc2-96f0f4306ff6/18627374936-500.jpg" data-tags="classic rock" role="button">
+Grateful Dead - American Beauty (1970-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3d7922d-6933-35cd-97f5-f81ca68c6f92/25035349368-500.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Janis Joplin - Pearl (1971-01)
 </li>
@@ -158,9 +161,6 @@ Elton John - Greatest Hits (1974-11-04)
 </li>
 <li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Physical Graffiti (1975-02-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d226c8cc-f58c-3b1f-997b-8243180870df/11671290803-500.jpg" data-tags="rock, classic rock, 70s" role="button">
 Bruce Springsteen - Born to Run (1975-08-25)

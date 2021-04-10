@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:13:01.631Z
+date: 2021-04-10T16:44:01.450Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -47,6 +47,9 @@ Tom Petty - Wildflowers (1994-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
+</li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
@@ -114,6 +117,9 @@ Bright Eyes - Fevers and Mirrors (2000-03-23)
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/4f2ff67a-d196-48a6-ba0a-bff6724b94ec/23140048958-500.jpg" data-tags="rock, alternative" role="button">
+Soul Asylum - Black Gold: The Best Of Soul Asylum (2000-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
 </li>
@@ -147,11 +153,14 @@ Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronic, singer-songwriter, melancholy, klik plum" role="button">
 Erlend Øye - Sudden Rush (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/05b8a456-27e6-4fdf-9c4e-7f0953ffc1e2/27739797760-500.jpg" data-tags="indie rock" role="button">
-The Dears - No Cities Left (2003-04-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/361eb780-0b77-479f-bf80-9f2ad813d3e0/7793148294-500.jpg" data-tags="indie" role="button">
 The National - Sad Songs for Dirty Lovers (2003-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6727cff4-ed37-4729-b87f-ebc351bb4a83/2106807340-500.jpg" data-tags="gothic, melancholy, darkwave, dark wave, future pop, owned cd" role="button">
+Diary of Dreams - Dream Collector (2003-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f4b686d-69fe-45d1-b4df-42c839c6db24/8259522263-500.jpg" data-tags="alternative rock, melancholy, space rock, kdzkpw" role="button">
+Kombajn Do Zbierania Kur Po Wioskach - ósme piętro (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
@@ -161,6 +170,9 @@ Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c11fe76c-b6de-4452-a253-41ab877e0dcf/3266021120-500.jpg" data-tags="piano, instrumental" role="button">
 Eluvium - An Accidental Memory in the Case of Death (2004-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc2b4c7a-a7e3-4756-bcec-cd3e9a2ce4b7/28392699788-500.jpg" data-tags="acoustic" role="button">
+Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2de859f9-b9d3-4512-ae9d-1bc8b70c60df/26658665691-500.jpg" data-tags="mellow, melancholy, my collection, diana picks, holy mountain, granka" role="button">
 Six Organs of Admittance - For Octavio Paz (2004-05-24)
@@ -194,12 +206,6 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
 Great Lake Swimmers - Bodies And Minds (2005-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
-Ben Folds - Songs For Silverman (2005-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
-Antimatter - Planetary Confinement (2005-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
@@ -249,14 +255,14 @@ Tiger Lou - A Partial Print (2008-10-22)
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
 </li>
-<li data-cover="https://img.discogs.com/RZ495RG_96dDUezihoJPuYBHxVE=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2167904-1267685676.jpeg.jpg" data-tags="indie, alternative rock" role="button">
-Starsailor - All The Plans (2009-03-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/59ff8aaf-2ad1-4b1d-9e2a-771f1d154a33/21498444470-500.jpg" data-tags="alternative, indie, alternative rock" role="button">
 Dinosaur Jr. - Farm (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
+Message To Bears - Departures (2009-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
@@ -279,17 +285,11 @@ The Drums - Portamento (2011-09-02)
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdcfa60a-672c-457b-8af1-555d26c9a930/6937966748-500.jpg" data-tags="cold wave" role="button">
-Linea Aspera - Linea Aspera (2012-01-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
 </li>
 <li data-cover="https://img.discogs.com/Xkj6xV-YrCXAGQBo4KwVjGDVYAU=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437109-1330368440.jpeg.jpg" data-tags="indie, alternative, melancholy, male vocalists, lp, ghostly international, tigerspring, kanal 98" role="button">
 Choir of Young Believers - Rhine Gold (2012-03-20)
-</li>
-<li data-cover="https://img.discogs.com/WfXoeQAwA_yE0EnMGxJD8w6HpgA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545726-1398309679-2877.jpeg.jpg" data-tags="singer-songwriter, melancholy, inspired, piano rock, love songs, really catchy, expert piano-playing" role="button">
-Jon McLaughlin - Promising Promises (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/12860ae7-5d2a-4df7-99df-875efcdd885e/14813410350-500.jpg" data-tags="4ad" role="button">
 Ariel Pink's Haunted Graffiti - Mature Themes (2012-08-20)

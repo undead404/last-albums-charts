@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:17:02.123Z
+date: 2021-04-10T16:41:01.435Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -144,6 +144,9 @@ The Cure - The Head on the Door (1985-08-13)
 <li data-cover="http://coverartarchive.org/release/830cce8b-4ddd-4d1e-8773-2e896fddf88c/11626984147-500.jpg" data-tags="80s, post-punk" role="button">
 Echo & the Bunnymen - Songs to Learn & Sing (1985-11-15)
 </li>
+<li data-cover="https://img.discogs.com/x66YepUAjLxxtGjTHL_2o9GM0G4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4829151-1376799074-8236.jpeg.jpg" data-tags="post-punk, gothic rock" role="button">
+Siouxsie and the Banshees - Tinderbox (1986-04-21)
+</li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
 </li>
@@ -159,11 +162,11 @@ The Psychedelic Furs - All Of this And Nothing (1988)
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
+Sonic Youth - Goo (1990-06-26)
+</li>
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
-</li>
-<li data-cover="https://img.discogs.com/_mk6UeLI52uNeSScGOuT4u94rbo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649918-1221129835.jpeg.jpg" data-tags="indie rock" role="button">
-The Wedding Present - Seamonsters (1991-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
@@ -242,9 +245,6 @@ Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
-</li>
-<li data-cover="https://img.discogs.com/P_bW-u-kx2WhrGw0d88zMMvt9VY=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501047-1394994335-8706.jpeg.jpg" data-tags="alternative, post-punk, alternative rock" role="button">
-The Cure - 4:13 Dream (2008-10-24)
 </li>
 <li data-cover="https://img.discogs.com/7ymhqa2eFVP5TMYG5e5p3S1LUmM=/fit-in/526x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574748-1229522744.jpeg.jpg" data-tags="indie rock" role="button">
 White Lies - To Lose My Life (2009-01-11)

@@ -1,14 +1,14 @@
 ---
-date: 2021-04-10T01:06:01.399Z
+date: 2021-04-10T16:37:01.399Z
 title: "sleep: 100 albums you must listen to before you die"
 ---
-![Aqualung - Memory Man (2007-03-13)](http://coverartarchive.org/release/389cd05b-7bed-4d1f-ac93-273b23936847/7592328592-500.jpg "Aqualung - Memory Man (2007-03-13)")
+![Minus the Bear - Planet of Ice (2007-08-21)](http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg "Minus the Bear - Planet of Ice (2007-08-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/1KzRcKEpSaSINwmZ8SortQPtCL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-310805-1455278197-8020.jpeg.jpg" data-tags="ambient, new age, sleep, dream, night time, theta inducing, anesthesia" role="button">Liquid Mind - Ambience Minimus (1994)</li>
+<li data-cover="http://coverartarchive.org/release/bd48ced5-49ae-4bf9-9cab-f5e0d7bea395/17569790398-500.jpg" data-tags="electronic, glitch, basic channel, sleep, 00s, mille plateaux, over twenty minutes, why why why are you so good, emusic saved for later, 2000-luvun elektroniset klassikot" role="button">Vladislav Delay - Anima (2001-01-23)</li>
 <li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">múm - Finally We are No One (2002-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">The Album Leaf - In A Safe Place (2004-06-22)</li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">Joshua Radin - We Were Here (2006-06-13)</li>
-<li data-cover="http://coverartarchive.org/release/389cd05b-7bed-4d1f-ac93-273b23936847/7592328592-500.jpg" data-tags="memory man" role="button">Aqualung - Memory Man (2007-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/b4612feb-3bdd-4d11-a34f-6bf400cb1f4a/15330503183-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">Ola Podrida - Ola Podrida (2007-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">Minus the Bear - Planet of Ice (2007-08-21)</li>
 <li data-cover="https://img.discogs.com/vxsJJub8q2Y0rdRMPw-ZKPoAN4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760543-1241604763.jpeg.jpg" data-tags="female vocalists, dream pop, sleep, ethereal" role="button">Julianna Barwick - Florine (2009-04-27)</li>
@@ -42,9 +42,6 @@ Nocturnal Emissions - Invocation of the Beast Gods (1989)
 <li data-cover="http://coverartarchive.org/release/0e61c401-242e-4033-8651-a6acd1c76e13/18348318993-500.jpg" data-tags="ambient" role="button">
 Steve Roach & Robert Rich - Soma (1992)
 </li>
-<li data-cover="https://img.discogs.com/0Fk90UlmiNT_4g5-rMK8pKbJPZI=/fit-in/591x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594704-1260026059.jpeg.jpg" data-tags="hip-hop, political rap" role="button">
-Paris - Sleeping With The Enemy (1992-11-23)
-</li>
 <li data-cover="https://img.discogs.com/1KzRcKEpSaSINwmZ8SortQPtCL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-310805-1455278197-8020.jpeg.jpg" data-tags="ambient, new age, sleep, dream, night time, theta inducing, anesthesia" role="button">
 Liquid Mind - Ambience Minimus (1994)
 </li>
@@ -63,20 +60,20 @@ Fred Frith - middle of the moment (1995)
 <li data-cover="http://coverartarchive.org/release/26a0b23d-785a-477d-96fd-1320ee1c006d/24559237348-500.jpg" data-tags="easy listening" role="button">
 Dan Gibson - Forest Piano (1996)
 </li>
-<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
-Sleep - Jerusalem (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/4a875d70-e6de-48ee-8d76-ca21cb4a8247/3320825593-500.jpg" data-tags="piano" role="button">
 Kevin Kern - In The Enchanted Garden (1996-01-07)
 </li>
-<li data-cover="https://img.discogs.com/u-fF9IP3EobTnFeEDAUA_v5KgKI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482113-1351654427-4165.jpeg.jpg" data-tags="rock, when you love a woman, trial by fire, message of love, castles burning" role="button">
-Journey - Trial by Fire (1996-10-16)
+<li data-cover="https://img.discogs.com/0hxBFwtKfrul-0HOcdQ6NsjFFUY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34740-1297187673.jpeg.jpg" data-tags="sleep" role="button">
+Delarosa - Sleep Method Suite (1997)
 </li>
 <li data-cover="https://img.discogs.com/XNjdkPXc8aXZhKonkSZcVmpj1sg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18225-1244836978.jpeg.jpg" data-tags="ambient, post-rock" role="button">
 Labradford - Mi media naranja (1997-10-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="summer, sleep, get this" role="button">
 Suburban Tribe - Prime Time Collection (1998)
+</li>
+<li data-cover="https://img.discogs.com/9hnza2Z5HkE9467lMET2oMtCvV4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351969-1338210432-2224.jpeg.jpg" data-tags="sleep, drugs" role="button">
+Skyray - Tranquilliser (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">
 Duster - Stratosphere (1998-02-24)
@@ -150,6 +147,9 @@ Biosphere - Shenzhou (2002-05)
 <li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
 </li>
+<li data-cover="https://img.discogs.com/-pxiL6Ou8gLrHZcJcpjSFJwg5QQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-63755-1158794460.jpeg.jpg" data-tags="electronic, experimental, minimal, sleep" role="button">
+Motion - Dust (2002-07-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/76fdee4a-622a-4509-b9e3-633983e4d226/8817984416-500.jpg" data-tags="sleep" role="button">
 Paul McKenna - I Can Make You Sleep (2003)
 </li>
@@ -161,6 +161,9 @@ Maximilian Hecker - Rose (2003)
 </li>
 <li data-cover="https://img.discogs.com/XqZuBQz555_9naPfH5OKW6WW1L0=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210688-1553865644-7808.jpeg.jpg" data-tags="kia" role="button">
 K.I.A. - Sonorous Susurrus (2003)
+</li>
+<li data-cover="https://img.discogs.com/wSH3Rw0z-24dm8WEmkHqsDtc6vY=/fit-in/368x322/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-356219-1102039688.jpg.jpg" data-tags="music to fall asleep to" role="button">
+Dollboy - Plans for a Modern City (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/236125f2-5999-443d-bf87-cb9c0213ee4a/24123138400-500.jpg" data-tags="sleep, mondiovision, buddha machine, leerraum" role="button">
 Fm3 - Pinpan (2004-06-01)
@@ -177,6 +180,9 @@ The Album Leaf - Red Tour EP (2005)
 <li data-cover="https://img.discogs.com/wT4W1A5V1S5wsNWUwehL_gPPMN4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1446568-1263761599.png.jpg" data-tags="post-rock, dutch" role="button">
 Vladimir - The Notion Express (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/d34150ab-47b1-48dc-aac1-82413fa84f5a/18977728437-500.jpg" data-tags="sleep, spotted peccary" role="button">
+Craig Padilla & Zero Ohms - Path of Least Resistance (2005-10)
+</li>
 <li data-cover="https://img.discogs.com/F5CM0q6Fx69t2Yabo-9GN1wPCB8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-532550-1598912237-8474.jpeg.jpg" data-tags="sleep, dfa" role="button">
 Delia Gonzalez & Gavin Russom - The Days Of Mars (2005-10-04)
 </li>
@@ -188,6 +194,9 @@ Takahiro Kido - Krageneidechse (2006)
 </li>
 <li data-cover="https://img.discogs.com/TJlCLykTKLRkFLUxWO3ssas8cZw=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765222-1199319964.jpeg.jpg" data-tags="ambient, new age, space ambient" role="button">
 Max Corbacho - The Talisman (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/c90cf1a2-5640-4a98-81e0-0a45f9c131b3/28044247621-500.jpg" data-tags="electronic, ambient, sleep" role="button">
+Takahiro Kido - Walking in the Rhythm (2006)
 </li>
 <li data-cover="https://img.discogs.com/w2iUINv9NZqcfPfiy0rIWCPDIM4=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11614040-1519442647-9319.jpeg.jpg" data-tags="cover album" role="button">
 Sotte Bosse - Essence of life (2006-02-02)
@@ -228,9 +237,6 @@ Absolute Sleep Music - Rain Sounds for Sleep and Relaxation (2007-01-04)
 <li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
 Scott Matthews - Passing Stranger (2007-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/389cd05b-7bed-4d1f-ac93-273b23936847/7592328592-500.jpg" data-tags="memory man" role="button">
-Aqualung - Memory Man (2007-03-13)
-</li>
 <li data-cover="https://img.discogs.com/2tdfD_v6Ceu_I25X9gP15xETgd4=/fit-in/334x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1127706-1194280920.jpeg.jpg" data-tags="ambient, dream pop, sleep, chill out, de:bug album reviews 2007" role="button">
 The Sea - The Boats Are In The Bay (2007-03-27)
 </li>
@@ -248,9 +254,6 @@ Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dce508c-0718-4eef-ad48-11386e297dd8/8728032407-500.jpg" data-tags="ambient" role="button">
 Steve Roach - A Deeper Silence (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/b352a7c8-a323-4002-ae75-ae3f1b48d7c7/20732908652-500.jpg" data-tags="ambient, sleep" role="button">
-Takahiro Kido - Fleursy Music (2008-02-16)
 </li>
 <li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
@@ -276,6 +279,9 @@ Project Divinity - Triosphere (2009-06-03)
 <li data-cover="https://img.discogs.com/ZmbGwdErFBmElVaC9ha7N4KxMVk=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1799582-1244123666.jpeg.jpg" data-tags="cronica, sleep, drone ambient, carnival of colours" role="button">
 The Beautiful Schizophonic - Erotikon (2009-07-13)
 </li>
+<li data-cover="https://img.discogs.com/94bAJJinsDQWwb8gvvmZJcVTW7s=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024435-1259195471.jpeg.jpg" data-tags="sleep" role="button">
+September Collective - Always Breathing Monster (2009-09-23)
+</li>
 <li data-cover="https://img.discogs.com/b4b2YL4ZCJyajOjQ29K--dwAz6Q=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960045-1525296960-1450.jpeg.jpg" data-tags="sleep, kranky" role="button">
 Ethernet - 144 Pulsations of Light (2009-10-05)
 </li>
@@ -297,9 +303,6 @@ Celer - Dying Star (2010-08)
 <li data-cover="http://coverartarchive.org/release/0a31c3a3-f69d-4a16-9267-b5d072615f55/22109056565-500.jpg" data-tags="post-rock" role="button">
 The World Is a Beautiful Place & I Am No Longer Afraid to Die - Formlessness (2010-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/98c196a9-99ea-47aa-a7c5-1bf0e8a13e7e/15932134454-500.jpg" data-tags="david sylvian" role="button">
-David Sylvian - Sleepwalkers (2010-09-27)
-</li>
 <li data-cover="https://img.discogs.com/Cqh9MCUyCi-rXMPs7VL_JL5pNio=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503267-1287579921.jpeg.jpg" data-tags="kranky" role="button">
 Brian McBride - The Effective Disconnect (2010-10-25)
 </li>
@@ -314,9 +317,6 @@ Holobody - Riverhood (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/43979a83-7f47-4469-802e-6a8b99abacfe/3912450728-500.jpg" data-tags="psychedelic drone" role="button">
 Barn Owl - V (2013-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/c066328e-8c73-46e0-84d8-7b141b7f9d8a/4723962084-500.jpg" data-tags="post-hardcore" role="button">
-BoySetsFire - While A Nation Sleeps... (2013-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a0f5c51-0ee6-412a-9b42-a8268eb52f00/4719617453-500.jpg" data-tags="ambient, choral" role="button">
 Julianna Barwick - Nepenthe (2013-07-20)

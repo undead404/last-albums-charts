@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:49:01.427Z
+date: 2021-04-10T16:03:01.419Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -144,9 +144,6 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
 </li>
-<li data-cover="https://img.discogs.com/EZPQs23Ai5G7Sju37qlkhEh-5AY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210597-1306884353.jpeg.jpg" data-tags="electronic, chillout, dance" role="button">
-Groove Armada - Lovebox (2002-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
 </li>
@@ -252,6 +249,9 @@ Groove Armada - Soundboy Rock (2007-05-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
+Minus the Bear - Planet of Ice (2007-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
 Sia - Some People Have Real Problems (2008-01-08)
 </li>
@@ -318,7 +318,7 @@ Rhye - Woman (2013-01)
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
-Indila - Mini World (2014-02-21)
+<li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
+Sia - 1000 Forms of Fear (2014-07-04)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:06:01.402Z
+date: 2021-04-10T16:07:07.000Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -243,11 +243,11 @@ Weezer - Christmas With Weezer (2008-12-16)
 <li data-cover="https://img.discogs.com/8gVZvS6OciDIanms37HA5tB0wM4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2843937-1447702961-4660.jpeg.jpg" data-tags="christmas, my gang 09, absolute favourite, george michael lust" role="button">
 George Michael - December Song (I Dreamed Of Christmas) (2009)
 </li>
-<li data-cover="https://img.discogs.com/TqHoppCselVVzOlRXazFz6FmckM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809556-1244749887.jpeg.jpg" data-tags="christmas" role="button">
-Sting - If On A Winter's Night (2009-09-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/21a128c8-9d86-3fbd-8aca-9f66226b7687/5726973508-500.jpg" data-tags="christmas" role="button">
 Bob Dylan - Christmas In The Heart (2009-10-09)
+</li>
+<li data-cover="https://img.discogs.com/5Ccmm49mCuRG3C6ibe1AAyU9z2c=/fit-in/421x372/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3286140-1323996209.jpeg.jpg" data-tags="christmas" role="button">
+David Archuleta - Christmas From The Heart (2009-10-13)
 </li>
 <li data-cover="https://img.discogs.com/r9YimVnhiB61Je11nSbF0H8Ve5c=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10111244-1491808535-3174.jpeg.jpg" data-tags="christmas" role="button">
 Mariah Carey - Merry Christmas II You (2010-11-02)

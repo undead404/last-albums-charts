@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:14:01.417Z
+date: 2021-04-10T15:49:01.429Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")

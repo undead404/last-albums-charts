@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:57:12.577Z
+date: 2021-04-10T16:20:01.421Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -53,6 +53,9 @@ Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
+</li>
+<li data-cover="https://img.discogs.com/I8hP5wDwaFIBa5uKe0z0fDNNxV8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16189786-1605737307-1687.jpeg.jpg" data-tags="soul, neo-soul" role="button">
+Erykah Badu - Mama's Gun (2000-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
 Citizen Cope - Citizen Cope (2001)
@@ -114,9 +117,6 @@ Jack Johnson - On and On (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/2a15446f-a6b7-4e9c-82b9-a4685ef6b269/1607144291-500.jpg" data-tags="alternative, indie rock" role="button">
 Eels - Shootenanny! (2003-05-28)
 </li>
-<li data-cover="https://img.discogs.com/BmGORWdUT7o3lCmfB-xSvtal4pA=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210474-1328076828.jpeg.jpg" data-tags="vocal, chill, cibelle - pequenos olhos" role="button">
-Cibelle - Cibelle (2003-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/8dc17780-6a26-4ccb-91c9-23d568de83d4/27879377982-500.jpg" data-tags="teitur" role="button">
 Teitur - Poetry & Aeroplanes (2003-06-22)
 </li>
@@ -171,14 +171,14 @@ Slightly Stoopid - Closer To The Sun (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
-Augustana - All The Stars and Boulevards (2005-09-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/123b84c6-d6da-3975-96ec-65ab937ee16a/19801864754-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
+</li>
+<li data-cover="https://img.discogs.com/SNTxoega6ilUGHmgFREXOCc1s4E=/fit-in/200x197/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040351-1187111190.jpeg.jpg" data-tags="indie rock" role="button">
+Maritime - We, The Vehicles (2005-09-22)
 </li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
@@ -197,9 +197,6 @@ The Whitest Boy Alive - Dreams (2006-04-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ce7c0ae-82d9-469d-88ed-a8875175633e/17321336815-500.jpg" data-tags="indie, the hush sound" role="button">
-The Hush Sound - Like Vines (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
@@ -257,6 +254,9 @@ Rebelution - Bright Side Of Life (2009-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
+</li>
+<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
+Lena - Satellite (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)

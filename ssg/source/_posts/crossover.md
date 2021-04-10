@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:58:01.444Z
+date: 2021-04-10T15:53:01.400Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1123d279-5441-49c4-a953-347a2a58ef3a/6512939821-500.jpg" data-tags="shady, hardcore, no core, shady grady, thrash metal, grady" role="button">
-Corrosion of Conformity - Animosity (1985-08)
+<li data-cover="http://coverartarchive.org/release/7531317e-f8a5-4452-9610-26ad1aa98f13/2862016528-500.jpg" data-tags="hardcore, hardcore punk, crossover thrash, nyhc" role="button">
+Agnostic Front - Cause for Alarm (1986)
 </li>
 <li data-cover="https://img.discogs.com/Nl0AMnKzBy9ICJrT2I_EZERASs8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719025-1369587904-1058.jpeg.jpg" data-tags="hardcore, crossover, thrash" role="button">
 Cryptic Slaughter - Convicted (1986-07)
@@ -42,14 +42,8 @@ Cryptic Slaughter - Money Talks (1987-05)
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/450717cf-837c-4889-affe-d04c3ee101d5/19464680594-500.jpg" data-tags="crossover, thrash metal, crossover thrash" role="button">
-D.R.I. - Thrash Zone (1989)
-</li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a3e31d9-7ee6-4d0f-a054-d466d37e9abe/20845507677-500.jpg" data-tags="hardcore punk" role="button">
-Neurosis - The Word As Law (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
@@ -108,9 +102,6 @@ H-Blockx - Time To Move (1994-08-22)
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
 Clawfinger - Use Your Brain (1995-03-23)
 </li>
-<li data-cover="https://img.discogs.com/65SvmbmWbrkpjkKGsS10kNiI9s8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3786354-1535394402-7842.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
-Primus - Tales From The Punchbowl (1995-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
 Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 </li>
@@ -165,9 +156,6 @@ Miriam Stockley - Miriam (1999-06-28)
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ddbe78e-0632-47b4-b3b6-c4528265f6f0/8560901384-500.jpg" data-tags="rock, rap" role="button">
-Molotov - Apocalypshit (1999-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
 Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
@@ -177,8 +165,14 @@ Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d624b01-48bf-4153-8064-4cc378bf1613/24761575309-500.jpg" data-tags="crossover" role="button">
+Such A Surge - Der Surge Effekt (2000-02-07)
+</li>
 <li data-cover="https://img.discogs.com/sLIzb7qlNbgdhISafXCCYgmJ2Ek=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369449-1421605831-8212.jpeg.jpg" data-tags="industrial metal, nu-metal" role="button">
 Apartment 26 - Hallucinating (2000-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/07d01128-8eb3-4d21-91c3-2d75adbb84af/27349769069-500.jpg" data-tags="crossover" role="button">
+Stuck Mojo - Declaration Of A Headhunter (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e248a9d-0170-3794-a978-f4c7af69f2cf/15248751850-500.jpg" data-tags="alternative" role="button">
 OPM - Menace To Sobriety (2000-08-15)
@@ -255,14 +249,14 @@ Limp Bizkit - Greatest Hitz (2005-11-04)
 <li data-cover="http://coverartarchive.org/release/cc644ea3-e900-4a5b-ad02-7fdfdda151a1/15055036367-500.jpg" data-tags="crossover, hardcore punk" role="button">
 Iron Age - Constant Struggle (2006-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/730e73f1-eba2-4466-abd1-7d33e16bf7f2/26439482444-500.jpg" data-tags="funk, rock, experimental, progressive rock, slap bass" role="button">
-Les Claypool - Of Whales And Woe (2006-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/73dc38c9-2f86-4295-ab2f-fddcc98877b5/4793338662-500.jpg" data-tags="ska" role="button">
 Akurat - Fantasmagorie (2006-05-31)
 </li>
-<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
-Placebo - Covers (2007-03-05)
+<li data-cover="https://img.discogs.com/D7ss8ucVD01kyY2uRDZ2w185k3g=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3802807-1345023269-2619.jpeg.jpg" data-tags="hip-hop, punk rock, crossover, nu metal" role="button">
+Dog Eat Dog - Walk With Me (2006-06-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/58a875ab-8ce3-440c-8d5d-5eecc855b395/5639688872-500.jpg" data-tags="crossover, rapcore" role="button">
+Urban Dance Squad - The Singles Collection (2006-08-08)
 </li>
 <li data-cover="https://img.discogs.com/K65TxDmX1r8hBNgvfbS5EvXzzms=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102386-1266479094.jpeg.jpg" data-tags="alternative, nu metal" role="button">
 Nevada Tan - Niemand hört dich (2007-04-20)
@@ -288,8 +282,8 @@ Lao Che - Gospel (2008-02-22)
 <li data-cover="https://img.discogs.com/mkLY91OJiGwNvrwxERyq50J4Mz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404325-1580767308-9603.png.jpg" data-tags="alternative rock, rapcore" role="button">
 One Day as a Lion - One Day as a Lion (2008-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
+<li data-cover="http://coverartarchive.org/release/007621c5-a077-4eff-a44c-73e16bc1bb69/23431173937-500.jpg" data-tags="hardcore" role="button">
+Trap Them - Seizures In Barren Praise (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7212dc8f-a116-4757-a3e8-7e85c1ea7645/10063918219-500.jpg" data-tags="metal, rock, crossover, polish" role="button">
 Rootwater - Visionism (2009-06-16)
@@ -306,11 +300,11 @@ Panik - Panik (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - American Tragedy (2011-04-04)
 </li>
-<li data-cover="https://img.discogs.com/KlPBEkSvY9Jyq4VOnrLro910MBk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3023094-1312179004.jpeg.jpg" data-tags="electronic, indie, indie pop, usa, shoegaze, dreamy, dream pop, american, crossover, dreampop, duo, san francisco, american underground, chillwave, 10s, free music, hypnagogic pop, america, netaudio, fully streamable tracks, experimental indie, electronic shoegaze, dreamwave, glo-fi, webaudio, fully streamable album, usa underground, fully streamable track, shoegazetronica" role="button">
-The Bilinda Butchers - regret, love, guilt, dreams (2011-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
+</li>
+<li data-cover="https://img.discogs.com/zoXHz2vFwmI1saZkqjPpFhe9M5s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14251465-1570758122-4493.jpeg.jpg" data-tags="crossover thrash, thrash metal" role="button">
+Municipal Waste - The Fatal Feast (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/31772b80-6448-4056-ad2f-c1da4c0f06b8/4442849437-500.jpg" data-tags="thrash metal" role="button">
 Power Trip - Manifest Decimation (2013-06-11)
@@ -320,5 +314,11 @@ Body Count - Manslaughter (2014-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0818f77-a295-42ac-b0a3-fba8b2605bbd/8489707726-500.jpg" data-tags="metalcore, crossover, metallic hardcore" role="button">
 Cold World - How the Gods Chill (2014-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/95a7bf38-f603-4757-91a1-1f771216c2b5/8660661844-500.jpg" data-tags="alternative metal, nu metal" role="button">
+Emil Bulls - Sacrifice to Venus (2014-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/8bbaf0c6-9cdb-47e2-b2c1-b0660b33000f/8303323694-500.jpg" data-tags="nu metal" role="button">
+King 810 - Memoirs of a Murderer (2014-08-15)
 </li>
 </ol>

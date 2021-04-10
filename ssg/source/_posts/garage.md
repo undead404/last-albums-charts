@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:43:01.415Z
+date: 2021-04-10T16:14:01.399Z
 title: "garage: 100 albums you must listen to before you die"
 ---
 ![The Strokes - Room on Fire (2003-10-16)](http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg "The Strokes - Room on Fire (2003-10-16)")
@@ -8,12 +8,12 @@ title: "garage: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">The Strokes - Room on Fire (2003-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">The White Stripes - Get Behind Me Satan (2005-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">The Strokes - First Impressions of Earth (2005-12-30)</li>
+<li data-cover="https://img.discogs.com/ipWNBa5vEdrGBXuCmK18AGa91SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-879052-1598539550-1068.jpeg.jpg" data-tags="garage" role="button">Bromheads Jacket - Dits From the Commuter Belt (2006-11-13)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">The White Stripes - Icky Thump (2007-06-15)</li>
-<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage" role="button">Ty Segall - Melted (2010-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">Grinderman - Grinderman 2 (2010-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">Ty Segall Band - Slaughterhouse (2012-06-26)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
-<li data-cover="http://coverartarchive.org/release/bc4cacb3-962e-4522-a30e-6b428524da61/5591485454-500.jpg" data-tags="soul, alternative rock, indie rock, psychedelic pop, garage rock, blues rock, garage, roots rock, fuck yeah, oh my, southern soul, my gang 13, better than one direction, dig music feature album 2013,  blues,  southern rock,  progressive rock" role="button">White Denim - Corsicana Lemonade (2013-10-29)</li>
+<li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">Jack White - Lazaretto (2014-06-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,6 +30,9 @@ The Barbarians - Are You A Boy Or Are You A Girl (1966)
 <li data-cover="http://coverartarchive.org/release/7663b84e-2337-4f60-9842-10f6a9daed5d/11261431522-500.jpg" data-tags="garage rock, proto-punk, 60s" role="button">
 The Monks - Black Monk Time (1966)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6e36357-8bdc-4082-a39b-7221cf3d81c7/3370069882-500.jpg" data-tags="garage rock" role="button">
+The Sonics - Boom (1966)
+</li>
 <li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (1966)
 </li>
@@ -41,6 +44,9 @@ The Litter - Distortions (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
 The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
+</li>
+<li data-cover="https://img.discogs.com/R8WR-WcbUXbW1VlPXCIlWfUSrcg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439454-1414326041-4740.jpeg.jpg" data-tags="60s, psychedelic, garage rock" role="button">
+The Chocolate Watch Band - No Way Out (1967)
 </li>
 <li data-cover="https://img.discogs.com/8m_-6lygdnEbzCgx3KESBloy5hE=/fit-in/472x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2387817-1281102047.jpeg.jpg" data-tags="60s, psychedelic" role="button">
 The Human Beinz - Nobody But Me (1967)
@@ -54,11 +60,14 @@ The Modern Lovers - The Modern Lovers (1976-08)
 <li data-cover="http://coverartarchive.org/release/421fc416-772c-4a45-8423-cad2a39aac58/4024218987-500.jpg" data-tags="punk, martin hannett, punk rock" role="button">
 Buzzcocks - Spiral Scratch (1977-01-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, psychobilly" role="button">
-The Cramps - Psychedelic Jungle (1981-03-27)
-</li>
 <li data-cover="https://img.discogs.com/CSZD_OWQLr_T3mZs-J0KBOQnZtU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684136-1415560836-7625.jpeg.jpg" data-tags="pop, rock, 80s, power pop, jangle pop, oldies, garage, male vocalists, surf punk, close harmony" role="button">
 The Barracudas - Drop Out With The Barracudas (1982)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
+The Gun Club - The Las Vegas Story (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
+The Remains - The Remains (1985)
 </li>
 <li data-cover="https://img.discogs.com/uviTSxmBrF74fQML05YIIWK52Q0=/fit-in/463x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188518-1440099871-7310.jpeg.jpg" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
 Spacemen 3 - Sound of Confusion (1986)
@@ -66,11 +75,11 @@ Spacemen 3 - Sound of Confusion (1986)
 <li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
 Dead Moon - In the Graveyard (1988)
 </li>
-<li data-cover="https://img.discogs.com/2rxbgU1-XyApbyxq01nCdwUmrKo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367493-1454894692-9295.jpeg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
-Spacemen 3 - Playing With Fire (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/ccba159a-e193-45b3-b3e1-25bdf73ebb07/4513008360-500.jpg" data-tags="keith richards" role="button">
 Keith Richards - Talk Is Cheap (1988)
+</li>
+<li data-cover="https://img.discogs.com/GW162sGjuvEDkyUbsdnlRxhTxa0=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046717-1187804998.jpeg.jpg" data-tags="psychedelic rock, garage" role="button">
+Simply Saucer - Cyborgs Revisited (1989)
 </li>
 <li data-cover="https://img.discogs.com/HmDqWA0P6JMx7FIPMz6VB2tyg6M=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3009716-1446227966-6142.jpeg.jpg" data-tags="garage rock, garage, pogge" role="button">
 Dead Moon - Unknown Passage (1989)
@@ -78,8 +87,14 @@ Dead Moon - Unknown Passage (1989)
 <li data-cover="http://coverartarchive.org/release/13cf05c7-49ff-4a56-870e-787b3ada35ec/23188786986-500.jpg" data-tags="90s, garage rock, garage, garage punk" role="button">
 The Gories - I Know You Fine, But How You Doin' (1990)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="garage" role="button">
+The Mummies - Never Been Caught (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/63356cd6-db86-49b7-b5bd-c558da9003b6/15994018775-500.jpg" data-tags="punk, lo-fi, garage rock, garage, crypt records" role="button">
 The Gories - Outta Here (1992)
+</li>
+<li data-cover="https://img.discogs.com/TzaKEEp8AzrRSuQAEmINxI6rujk=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083695-1466018250-4025.jpeg.jpg" data-tags="garage rock, garage, pogge" role="button">
+Dead Moon - Strange Pray Tell (1992-10-01)
 </li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
@@ -90,11 +105,17 @@ Dead Moon - Crack in the System (1994)
 <li data-cover="https://img.discogs.com/NdDnpFJPVVdRFC7Hi1VKNPKR-VQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4968035-1562664629-2575.jpeg.jpg" data-tags="60s" role="button">
 The Troggs - Wild Thing (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/dedd148e-8556-3428-b110-367644f9a70a/16138553905-500.jpg" data-tags="psychedelic rock" role="button">
+The Dandy Warhols - Dandys Rule OK (1995-04-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="garage punk" role="button">
 Oblivians - Popular Favorites (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/5bc26773-b6f3-366f-a239-0a93d6cd0a22/19962883559-500.jpg" data-tags="garage rock, punk, punk rock" role="button">
-The Donnas - Get Skintight (1999-06-02)
+<li data-cover="https://img.discogs.com/sdpklTnqbTy2NMVDjginNSaYefg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1610160-1231980402.jpeg.jpg" data-tags="garage rock" role="button">
+The Greenhornes - Gun for You (1999)
+</li>
+<li data-cover="https://img.discogs.com/snd5zc8YRwRlZAO_HNk1j-6eViM=/fit-in/321x321/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1729448-1335724177.gif.jpg" data-tags="garage, garage punk, the spaceshits" role="button">
+The Spaceshits - Misbehavin' (1999-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/06006e16-c1ca-4f8b-a629-0c2b6eb0162c/8880627069-500.jpg" data-tags="blues rock, rock, garage rock" role="button">
 The White Stripes - The White Stripes (1999-06-15)
@@ -125,9 +146,6 @@ The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 The Mooney Suzuki - Electric Sweat (2002-04)
-</li>
-<li data-cover="https://img.discogs.com/lp0LLwQUIG2ntHQOM23gO5bFYf4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398232-1373416781-9634.jpeg.jpg" data-tags="indie rock, garage rock" role="button">
-The Raveonettes - Whip It On (2002-05-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock" role="button">
 Mando Diao - Bring 'Em In (2002-09-23)
@@ -189,9 +207,6 @@ The White Stripes - Get Behind Me Satan (2005-06-01)
 <li data-cover="http://coverartarchive.org/release/a1c0ef14-a5d0-44fc-b8fb-6698d0c8133e/15330126310-500.jpg" data-tags="hiphop, hip hop, grime" role="button">
 Kano - Home Sweet Home (2005-06-27)
 </li>
-<li data-cover="https://img.discogs.com/GMix0TOg-nDA75WFJ0EBwOVy1jE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-562303-1487858805-5534.jpeg.jpg" data-tags="noise, electronica, rock, punk, surf, ambient, new wave, shoegaze, post punk, psychobilly, garage, ambient dub, rocknroll, dreampop, stuff to check out, psybient, psychedelic ambient, spacerock, bcore, spanish indie, psyambient, bilbao, recently played, zxzw, zxzw 2008, neopsychedelia" role="button">
-Capsula - Synthesis of Reality (2005-11-04)
-</li>
 <li data-cover="https://img.discogs.com/vEdrB4SjJ9z0apsEq6mZvwONIcg=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1419101-1218109391.jpeg.jpg" data-tags="garage punk" role="button">
 Black Lips - Let It Bloom (2005-11-22)
 </li>
@@ -225,12 +240,6 @@ The White Stripes - Icky Thump (2007-06-15)
 <li data-cover="http://coverartarchive.org/release/6f0c473d-292e-3f3f-abc0-05c6e0cfb3b2/5658758963-500.jpg" data-tags="soul, rnb" role="button">
 Craig David - Trust Me (2007-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea402b49-b13e-4c66-b368-479fa1dd3de8/15457559493-500.jpg" data-tags="garage punk" role="button">
-Ty Segall - Ty Segall (2008)
-</li>
-<li data-cover="https://img.discogs.com/DJnlZ_1PF5VmTj67b-ylVgvMt3Q=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722694-1239226050.jpeg.jpg" data-tags="experimental" role="button">
-Micachu - Jewellery (2009-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/caa0e5f8-86ed-4276-9163-008cd385aa85/5728077343-500.jpg" data-tags="rhythm and blues" role="button">
 Black Joe Lewis & The Honeybears - Tell 'Em What Your Name Is! (2009-03-17)
 </li>
@@ -252,23 +261,20 @@ Heavy Trash - Midnight Soul Serenade (2009-10-12)
 <li data-cover="https://img.discogs.com/aA3RVJjvze2xNkabfnIrXxmeiok=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4743186-1533818145-8384.jpeg.jpg" data-tags="indie rock" role="button">
 Blood Red Shoes - Fire Like This (2010-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage" role="button">
-Ty Segall - Melted (2010-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)
 </li>
-<li data-cover="https://img.discogs.com/STfw6ANBMsGPVJOiE8Od6yFthRo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871037-1388945962-8858.jpeg.jpg" data-tags="electronic" role="button">
-Africa HiTech - 93 Million Miles (2011-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc72820f-cc50-47ee-8a93-25b267079a69/2816373572-500.jpg" data-tags="indie, lo-fi, garage" role="button">
 Bleached - Carter (2011-06)
 </li>
 <li data-cover="https://img.discogs.com/WXX2I_MhqPlmmx9Q1dycpekQuJo=/fit-in/471x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2982964-1310331799.jpeg.jpg" data-tags="psychedelic" role="button">
 Night Beats - Night Beats (2011-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf26762d-99b2-4beb-9b2b-dd4d16f141a0/2738030386-500.jpg" data-tags="pop punk, garage rock, garage" role="button">
+Pangea - living dummy (2011-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7f0b7b1-f233-4712-a47d-93f465ecdb2b/6223595096-500.jpg" data-tags="downtempo" role="button">
 Gang Colours - The Keychain Collection (2012-02-27)
@@ -302,12 +308,6 @@ Speedy Ortiz - Major Arcana (2013-07-09)
 </li>
 <li data-cover="https://img.discogs.com/jk1sYLoZ6SO8vcZa0Z4g_nkZ79I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4831499-1388054309-1654.jpeg.jpg" data-tags="garage rock" role="button">
 Drenge - drenge (2013-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/0104b3b6-167a-4635-8dd4-d421d665da0c/8142238179-500.jpg" data-tags="dubstep, garage, edm, club/dance, jungle/drum'n'bass" role="button">
-Wilkinson - Lazers Not Included (2013-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc4cacb3-962e-4522-a30e-6b428524da61/5591485454-500.jpg" data-tags="soul, alternative rock, indie rock, psychedelic pop, garage rock, blues rock, garage, roots rock, fuck yeah, oh my, southern soul, my gang 13, better than one direction, dig music feature album 2013,  blues,  southern rock,  progressive rock" role="button">
-White Denim - Corsicana Lemonade (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/487e1eca-c10b-4a44-ace9-817f9e8e433a/7069468136-500.jpg" data-tags="garage rock" role="button">
 Thee Oh Sees - Drop (2014-04-15)

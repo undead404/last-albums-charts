@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:04:01.404Z
+date: 2021-04-10T16:29:01.444Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/UKJWMt2aR4kQEYCPjv9NwERiUcw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6769734-1617300941-3174.jpeg.jpg" data-tags="rock, classic rock" role="button">
-Bob Dylan - Self Portrait (1970-06-08)
+<li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
+Stephen Stills - Stephen Stills (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a9a59d6-6490-4735-bd48-19d7fb38ff06/1239649144-500.jpg" data-tags="rock" role="button">
 Elton John - Honky Château (1972-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/30049edc-8100-42a0-913c-d0cc234ee1ae/9169319958-500.jpg" data-tags="70s, experimental, progressive rock" role="button">
-Captain Beefheart & His Magic Band - Clear Spot (1972-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
@@ -36,35 +33,50 @@ Jim Stafford - Jim Stafford (1974)
 <li data-cover="https://img.discogs.com/pwYkgjsZh6pen0l0vTbJbx-SGkI=/fit-in/299x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067643-1334765613.jpeg.jpg" data-tags="singer songwriter" role="button">
 Todd Rundgren - Todd (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/27a6c1db-4648-348f-a99d-70fbc06b67ed/7494631756-500.jpg" data-tags="70s, blues and country" role="button">
-Little Feat - The Last Record Album (1975-11)
+<li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="classic rock, 70s" role="button">
+The Rolling Stones - Made In The Shade (1975-06-13)
 </li>
-<li data-cover="https://img.discogs.com/vycQL72qsloB2hiE8mzb3LLRe8M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9647730-1484164037-4884.jpeg.jpg" data-tags="hard rock, classic rock" role="button">
-Heart - Little Queen (1977-05-15)
+<li data-cover="https://img.discogs.com/iU4lgW6x6rpKAS6bq5f0QOR6e4w=/fit-in/297x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1548702-1227617857.jpeg.jpg" data-tags="singer songwriter" role="button">
+Todd Rundgren - Faithful (1976-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
 Warren Zevon - Excitable Boy (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/07659b32-36b3-4ff8-91c3-7c9edbe6c4a5/1339538879-500.jpg" data-tags="classic rock" role="button">
-Billy Joel - 52nd Street (1978-10-13)
+<li data-cover="http://coverartarchive.org/release/c1ceccb6-4485-404c-a0cc-6835bebea67f/6615312225-500.jpg" data-tags="punk, punk rock" role="button">
+X-Ray Spex - Germfree Adolescents (1978-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a8c88fb-a5c5-47b9-a499-9f1832baf27d/7821199789-500.jpg" data-tags="classic rock" role="button">
-Billy Joel - Glass Houses (1980-03-12)
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
+Tom Petty and The Heartbreakers - Damn the Torpedoes (1979-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f18237e-a18e-4aa5-857b-5a9bc3e4b648/7827739089-500.jpg" data-tags="rock" role="button">
 Pete Townshend - Empty Glass (1980-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/3738a93a-c335-3ec8-919a-6c9c9d1f7569/8751485160-500.jpg" data-tags="rock, 80s, experimental, progressive rock, blues, avantgarde, 1980s" role="button">
-Captain Beefheart & His Magic Band - Doc at the Radar Station (1980-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a646bf11-0b96-4471-8da6-ddf2d3fc2add/15714647770-500.jpg" data-tags="rock, 80s" role="button">
-Bryan Adams - Cuts Like a Knife (1983-01-18)
+<li data-cover="https://img.discogs.com/riMnP0OAwhNCx3OnUFtEE8du61k=/fit-in/516x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6661793-1424107826-9113.jpeg.jpg" data-tags="spanish, singer songwriter, trova" role="button">
+Joan Manuel Serrat - En Transito (1981)
+</li>
+<li data-cover="https://img.discogs.com/ar2FpFuxrsDk4kH93eICXvpHD9U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387672-1350921441-6332.jpeg.jpg" data-tags="classic rock, rock" role="button">
+The Kinks - Give The People What They Want (1981-08-26)
+</li>
+<li data-cover="https://img.discogs.com/1UPUm05OsyVP0kz_uYQyfugSx7M=/fit-in/391x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374151-1328282011.jpeg.jpg" data-tags="rock" role="button">
+Warren Zevon - The Envoy (1982-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1c5bdd3-a422-4a57-a88a-52e9bf74c41f/17703285753-500.jpg" data-tags="rock, punk, hard rock, classic rock, metal, female vocalists" role="button">
+The Runaways - The Best Of The Runaways (1987)
 </li>
 <li data-cover="https://img.discogs.com/Vj6vYDf0lPVlMdU17ph6FYsKESs=/fit-in/537x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440669-1219905549.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - One for the Road (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cc2d0f7-1472-4ee1-ac82-e1297d0f5a4b/8493817597-500.jpg" data-tags="american" role="button">
+Chris Whitley - Living With The Law (1991-07-02)
+</li>
+<li data-cover="https://img.discogs.com/qOxQRjWd-K6HKHx29BaS3onx4Lg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8338250-1459648831-2685.jpeg.jpg" data-tags="rock, alternative rock, indie rock, progressive rock, guitar, 90s, folk rock, sardonic, blues rock, male vocalist, male vocalists, singer songwriter, 1990s, cynical, sarcastic, concert of the dead, rock fusion, song noir, eclectic rock, cynical/sarcastic, dead man radio, warren zevon gets his own tag, hard progressive rock, enjoy every sandwich" role="button">
+Warren Zevon - Mr. Bad Example (1991-10-15)
+</li>
+<li data-cover="https://img.discogs.com/ztcGI_mFtjOQnTZRSdWh8ePS5Cc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254926-1540227517-9759.jpeg.jpg" data-tags="pop, rock, singer songwriter" role="button">
+Francis Dunnery - Fearless (1994)
 </li>
 <li data-cover="https://img.discogs.com/YH1jSYY601Ma377_-lDh2UDCKzs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8558232-1464017108-5824.jpeg.jpg" data-tags="lo-fi" role="button">
 Beck - One Foot In The Grave (1994-06-27)
@@ -81,6 +93,9 @@ Red House Painters - Ocean Beach (1995-03-28)
 <li data-cover="http://coverartarchive.org/release/9609250b-9cfc-3d8b-bc38-ce0213d1f512/6313419411-500.jpg" data-tags="pop, female vocalists, 90s" role="button">
 Amanda Marshall - Amanda Marshall (1995-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
+Lou Reed - Set The Twilight Reeling (1996-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
 The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
@@ -93,9 +108,6 @@ Boz Scaggs - Come On Home (1997-04-08)
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
 </li>
-<li data-cover="https://img.discogs.com/cQXBEy9782G_AaFGoIxXHR3E4_8=/fit-in/350x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6611256-1428662303-2922.jpeg.jpg" data-tags="argentina, rock argentino" role="button">
-Andrés Calamaro - Alta Suciedad (1997-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
@@ -104,9 +116,6 @@ Eels - Electro-Shock Blues (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd7859da-63b8-46d0-b811-e05e11a2c1c2/24875604394-500.jpg" data-tags="rock, 2000s" role="button">
 Warren Zevon - Life'll Kill Ya (2000-01-25)
-</li>
-<li data-cover="https://img.discogs.com/8zK5BwN0CGHQkHoEDnU7l_JJD5k=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16083116-1603191699-6994.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
-Morphine - The Night (2000-02-01)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -153,14 +162,14 @@ Devendra Banhart - Nino Rojo (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/82bd8062-e6b9-44e5-b08b-516be671e08d/14470617898-500.jpg" data-tags="indie" role="button">
 Iron & Wine - Passing Afternoon (2004-10-19)
 </li>
+<li data-cover="https://img.discogs.com/gfyUGydq6J_dW_h-5jff2a_ysc0=/fit-in/450x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775671-1157562082.jpeg.jpg" data-tags="raw, singer songwriter, diy wonders, folk albums i have loved" role="button">
+Thanksgiving - The River (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/15f339f3-0266-4e1e-8a6c-098c666b5bcc/5134976327-500.jpg" data-tags="rock, jazz vocal, folk" role="button">
 Van Morrison - Magic Time (2005-05-16)
 </li>
 <li data-cover="https://img.discogs.com/4NQZZn_xqtoo2XTpzP3pz6Thflk=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494447-1160317395.jpeg.jpg" data-tags="folk, indie" role="button">
 Smog - A River Ain't Too Much to Love (2005-05-24)
-</li>
-<li data-cover="https://img.discogs.com/Ea8FbKi9AUBh-cEGJXfLVl3YewY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591248-1184317356.jpeg.jpg" data-tags="pop, daniel powter" role="button">
-Daniel Powter - dp (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
@@ -186,9 +195,6 @@ Steve Adey - All Things Real (2006-03-06)
 <li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
 Vienna Teng - Dreaming Through The Noise (2006-07-25)
 </li>
-<li data-cover="https://img.discogs.com/O5XwKi9q8ZHB_1fGKNlvskSdI5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2127169-1533790488-7456.jpeg.jpg" data-tags="country, folk, americana" role="button">
-Old Crow Medicine Show - Big Iron World (2006-08-29)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
 </li>
@@ -210,9 +216,6 @@ Dungen - Tio Bitar (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/ce581068-c886-3ca7-b273-c1ea553eb45d/3779573244-500.jpg" data-tags="indie" role="button">
 Emily Haines & The Soft Skeleton - What Is Free to a Good Home? (2007-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/48160058-d239-4b0b-9969-47f73e6cf86f/21477044180-500.jpg" data-tags="rock, 80s" role="button">
-The Police - The Police (2007-06-05)
-</li>
 <li data-cover="https://img.discogs.com/UIkhOw5uXUhHu3T3_enAaw4-J68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4515619-1367083131-2150.jpeg.jpg" data-tags="singer songwriter" role="button">
 Milow - Coming Of Age (2008-02-01)
 </li>
@@ -230,6 +233,9 @@ Ben Kweller - Changing Horses (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/24e566cf-17d6-4253-b4fd-9b60b483c14a/2903136468-500.jpg" data-tags="singer-songwriter, acoustic, folk rock, investigate, singer songwriter, 2009 releases, new artist, j peel" role="button">
 Julie Peel - Near the Sun (2009-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/35d8d5a1-b2c4-4a68-8325-3279c6c11f65/17653240314-500.jpg" data-tags="jace everett" role="button">
+Jace Everett - Red Revelations (2009-06-23)
 </li>
 <li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
 Kurt Vile - Childish Prodigy (2009-10-05)
@@ -261,9 +267,6 @@ Ry Cooder - Pull Up Some Dust and Sit Down (2011-08-29)
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">
-Ryan Adams - Ashes & Fire (2011-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d5cb0587-f253-4eee-b7af-16a821b01ddc/10592364249-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Blue Jeans (2012-01-27)
 </li>
@@ -276,14 +279,11 @@ Amy Macdonald - Life in a Beautiful Light (2012-06-08)
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
+<li data-cover="http://coverartarchive.org/release/899777f1-9907-4116-bdd6-f610a9ec469c/9660731468-500.jpg" data-tags="ambient pop, better than the original" role="button">
+Ke$ha - Deconstructed (2012-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3640479c-7dfa-46f2-b56a-160de2912ee9/3429010691-500.jpg" data-tags="indie" role="button">
 Torres - Torres (2013-01-22)
-</li>
-<li data-cover="https://img.discogs.com/V6aukbXwUg7bUHU6ig8930G8IUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15264378-1588882880-2171.jpeg.jpg" data-tags="psychedelic folk, singer songwriter, excelsior recordings, i need, my crazy diamonds" role="button">
-Jacco Gardner - Cabinet of Curiosities (2013-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

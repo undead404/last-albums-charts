@@ -1,18 +1,18 @@
 ---
-date: 2021-04-09T20:13:01.655Z
+date: 2021-04-10T15:52:01.412Z
 title: "j-rock: 100 albums you must listen to before you die"
 ---
 ![DIR EN GREY - Vulgar (2003-09-10)](http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg "DIR EN GREY - Vulgar (2003-09-10)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/pM4_39Y3cXXUsPpShG0cMstN1Q4=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854086-1512640960-1267.jpeg.jpg" data-tags="j-rock" role="button">X Japan - DAHLIA (1996-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/1d5cae88-9b83-483b-b1d7-25b1febbaf3b/7461042517-500.jpg" data-tags="j-rock, visual kei" role="button">DIR EN GREY - Gauze (1999-07-28)</li>
-<li data-cover="http://coverartarchive.org/release/cdd7017c-9510-4c38-ad22-dc626c00b418/3178284336-500.jpg" data-tags="j-rock, visual kei" role="button">DIR EN GREY - Macabre (2000-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">DIR EN GREY - Vulgar (2003-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/578b8fb0-32f6-404c-a51a-ac4eb2a75332/7668705803-500.jpg" data-tags="j-rock" role="button">ASIAN KUNG-FU GENERATION - Sol-fa (2004-10-20)</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">DIR EN GREY - Withering to death (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/f3c4087a-dcc9-3cea-a50a-5acd052e71af/11254027972-500.jpg" data-tags="j-rock" role="button">the GazettE - NIL (2006-02-08)</li>
-<li data-cover="http://coverartarchive.org/release/339c1c01-6295-4576-a29d-fbe6f1ca00c9/7054757346-500.jpg" data-tags="j-rock" role="button">Hyde - Faith (2006-04-26)</li>
+<li data-cover="http://coverartarchive.org/release/5d43e329-315e-33c5-bba5-81d033e266c9/11644533393-500.jpg" data-tags="metalcore, alternative metal, japanese" role="button">DIR EN GREY - The Marrow Of A Bone (2007-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">the GazettE - STACKED RUBBISH (2007-07-04)</li>
+<li data-cover="http://coverartarchive.org/release/220f4989-ecd6-4d2b-a551-f7f56f8f5673/3429259291-500.jpg" data-tags="rock, japanese, alternative, emo, screamo, j-rock" role="button">ONE OK ROCK - Nicheシンドローム (2010-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">
+Scandal - Scandal (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/9856fe82-ee58-46f3-8dc6-1e146ae0989a/18870075471-500.jpg" data-tags="symphonic metal, progressive metal" role="button">
 X Japan - ART OF LIFE (1993-08-25)
-</li>
-<li data-cover="https://img.discogs.com/aVYuTaYK98DSZWc_VPlisrjNk-c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832189-1527491587-2668.jpeg.jpg" data-tags="rock, japanese, alternative rock, progressive rock, epic, post-punk, melodic, jpop, dream pop, japan, japanese rock, j, j-rock, j-pop, jrock, legends, japanese music, j-music, to explore, luna sea, pure beauty, loved albums, sugizo, ryuichi kawamura, inoran, legends of rock, in future, fxxing masterpiece, there is no tag for this masterpiece" role="button">
-Luna Sea - MOTHER (1994-10-26)
 </li>
 <li data-cover="https://img.discogs.com/blUiHA7OZwvowWtTS082Pg5B2x4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14350624-1572767140-4238.jpeg.jpg" data-tags="rock, japanese, japan, j-rock" role="button">
 Luna Sea - STYLE (1996-04-22)
@@ -54,14 +54,8 @@ GACKT - MARS (2000-04-26)
 <li data-cover="https://img.discogs.com/lpjkBWhTgEmszY9XiMKJpcJI4G0=/fit-in/500x978/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9143344-1475519802-6071.jpeg.jpg" data-tags="japanese, japanese rock, j-rock, visual kei, jrock, visual key" role="button">
 Luna Sea - LUNACY (2000-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/cdd7017c-9510-4c38-ad22-dc626c00b418/3178284336-500.jpg" data-tags="j-rock, visual kei" role="button">
-DIR EN GREY - Macabre (2000-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b0cb384-ad5a-32b1-a69e-566e1e436d5c/17833938395-500.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - Rebirth (2001-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a882962a-d989-4d2d-ab03-7a9da0385a1b/10902191890-500.jpg" data-tags="india, electronic" role="button">
-Karsh Kale - Realize (2001-07-31)
 </li>
 <li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="j-rock, j-pop, do as infinity" role="button">
 Do As Infinity - DEEP FOREST (2001-09-19)
@@ -83,6 +77,15 @@ ASIAN KUNG-FU GENERATION - Houkai Amplifier (2003-04-23)
 </li>
 <li data-cover="https://img.discogs.com/jd0I2Z2i9krH0Qly8StZfmT9xTQ=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6059875-1410026043-9412.jpeg.jpg" data-tags="j-rock, e, ellegarden, haruka, bring your board" role="button">
 ELLEGARDEN - BRING YOUR BOARD!! (2003-07-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, j-rock" role="button">
+クラムボン - best (2003-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/18c68a34-f3e9-4375-b182-bd9d4ef9f60f/19596576651-500.jpg" data-tags="j-rock" role="button">
+ACIDMAN - Loop (2003-08-06)
+</li>
+<li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="j-rock" role="button">
+ムック - Zekuu (2003-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">
 DIR EN GREY - Vulgar (2003-09-10)
@@ -120,8 +123,8 @@ BEAT CRUSADERS - Hit in the USA (2004-10-20)
 <li data-cover="http://coverartarchive.org/release/578b8fb0-32f6-404c-a51a-ac4eb2a75332/7668705803-500.jpg" data-tags="j-rock" role="button">
 ASIAN KUNG-FU GENERATION - Sol-fa (2004-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/b08eaad5-28f9-4404-b3b7-90067c092d1d/6692942777-500.jpg" data-tags="japanese" role="button">
-東京事変 - 教育 (2004-11-25)
+<li data-cover="https://img.discogs.com/kRGG9CiEe0QwK2FtDwtyOZIWf5g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9065963-1474176395-7169.jpeg.jpg" data-tags="japanese, jpop, j-rock, j-pop, mr ownership deal, in my possession, orangehappy" role="button">
+ORANGE RANGE - musiQ (2004-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
@@ -156,12 +159,6 @@ the GazettE - NIL (2006-02-08)
 <li data-cover="http://coverartarchive.org/release/a73f09e4-0136-44c4-a3ee-9dff4617d7f9/3462461101-500.jpg" data-tags="jpop, j-rock, j-pop, jrock" role="button">
 ASIAN KUNG-FU GENERATION - ファンクラブ (2006-03-15)
 </li>
-<li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="j-rock" role="button">
-ムック - 6 (2006-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/339c1c01-6295-4576-a29d-fbe6f1ca00c9/7054757346-500.jpg" data-tags="j-rock" role="button">
-Hyde - Faith (2006-04-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
 </li>
@@ -186,17 +183,11 @@ D'espairsRay - MIRROR (2007-04-11)
 <li data-cover="http://coverartarchive.org/release/a7c8c214-c7a1-4500-8e0e-5226c3ed9c86/7185809851-500.jpg" data-tags="j-rock" role="button">
 abingdon boys school - HOWLING (2007-05-16)
 </li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">
 the GazettE - STACKED RUBBISH (2007-07-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
 ギルガメッシュ - Reason of crying (2007-07-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-rock, s, the neilesh" role="button">
-Aqua Timez - Alones (2007-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6308416e-2d30-4abf-8242-f859272c8e71/24763633254-500.jpg" data-tags="post-hardcore, j-rock" role="button">
 凛として時雨 - Inspiration is DEAD (2007-08-22)
@@ -212,6 +203,9 @@ abingdon boys school - abingdon boys school (2007-10-17)
 </li>
 <li data-cover="https://img.discogs.com/5F3aoNdzzwQ78Ri8905Wn0ySu1E=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-854207-1165920252.jpeg.jpg" data-tags="electronic" role="button">
 Boom Boom Satellites - Exposed (2007-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e887266-e410-4ef6-b148-93752aa542da/9622712000-500.jpg" data-tags="j-rock" role="button">
+ONE OK ROCK - ゼイタクビョウ (2007-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
 BUMP OF CHICKEN - Orbital Period (2007-12-19)
@@ -264,8 +258,14 @@ the GazettE - DIM (2009-07-15)
 <li data-cover="http://coverartarchive.org/release/33981691-4a21-46ce-80c9-0b19b9f44478/19878739636-500.jpg" data-tags="j-rock" role="button">
 High And Mighty Color - swamp man (2009-09-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5eec799-e9d3-4dfe-b1e3-0ed2140a37f1/17830602837-500.jpg" data-tags="j-rock" role="button">
+exist†trace - Ambivalent Symphony (2009-10-21)
+</li>
 <li data-cover="https://img.discogs.com/cphJ96s0yDGx89i7brUKgACacEI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059678-1188925726.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
 DIR EN GREY - 激しさと、この胸の中で絡み付いた灼熱の闇 (2009-12-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
+サカナクション - kikUUiki (2010-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/29431e7a-e18e-4cdb-8d88-9144449a857b/19862107207-500.jpg" data-tags="j-rock" role="button">
 Girls Dead Monster - Little Braver (2010-06-09)
@@ -287,9 +287,6 @@ Hoobastank - Best Of (2010-08-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-rock, sun and moon and stars and outer space" role="button">
 BUMP OF CHICKEN - COSMONAUT (2010-12-15)
-</li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f03fc5b3-2ef7-4191-9386-7eed09d76090/3429279743-500.jpg" data-tags="emo, post-hardcore, j-rock, post hardcore" role="button">
 ONE OK ROCK - 残響リファレンス (2011-05-10)
@@ -317,6 +314,9 @@ the GazettE - Beautiful Deformity (2013-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
+Man with a Mission - Tales of Purefly (2014-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9aeb9804-c7ac-4598-907b-832c2a3ae553/7825800795-500.jpg" data-tags="j-rock" role="button">
 TK from 凛として時雨 - unravel (2014-07-23)

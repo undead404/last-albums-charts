@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:26:01.414Z
+date: 2021-04-10T16:28:01.427Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -113,6 +113,9 @@ Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/3979af5d-60bf-3fa6-bb8c-d3400dcbe83d/19204556527-500.jpg" data-tags="funk" role="button">
+Sly & The Family Stone - Anthology (1989)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - Mother's Milk (1989-08-22)
@@ -281,9 +284,6 @@ Friendly Fires - Pala (2011-05-16)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">
-Red Hot Chili Peppers - I'm With You (2011-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/870224d9-4213-4a71-b745-ec5ea8a6501e/9028766356-500.jpg" data-tags="indie, funk" role="button">
 The Heavy - The Glorious Dead (2012-08-20)

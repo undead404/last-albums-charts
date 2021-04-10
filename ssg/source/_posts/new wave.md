@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:59:01.648Z
+date: 2021-04-10T15:55:01.407Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -90,9 +90,6 @@ Men at Work - Business As Usual (1981)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, new wave" role="button">
 Duran Duran - Duran Duran (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/70814e13-d7e6-453f-b60e-a347ea238a7c/5169972689-500.jpg" data-tags="new wave" role="button">
-David Bowie - Scary Monsters (1981-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
 </li>
@@ -119,6 +116,9 @@ Men Without Hats - The Safety Dance (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
+</li>
+<li data-cover="https://img.discogs.com/YCRFKgAJE6XDQDZNfyribpkJT_Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-447539-1153334275.jpeg.jpg" data-tags="new wave" role="button">
+Modern English - After the Snow (1982-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)

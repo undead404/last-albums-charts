@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:01:06.938Z
+date: 2021-04-10T16:19:01.427Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -45,6 +45,9 @@ Elliott Smith - XO (1998-08-24)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a9840573-3895-44a0-bc72-fc53ab748c52/16155977876-500.jpg" data-tags="indie, pop, rock, alternative, singer-songwriter, chamber pop, canadian, 00s, iveldie best of 2000, valley of the bees radio" role="button">
+Destroyer - Thief (2000-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
@@ -59,9 +62,6 @@ Lambchop - Is A Woman (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/948a8a4c-23f3-4bf2-b201-dcb68a89b897/22908767075-500.jpg" data-tags="slowcore" role="button">
 Carissa's Wierd - Songs about Leaving (2002-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/05b8a456-27e6-4fdf-9c4e-7f0953ffc1e2/27739797760-500.jpg" data-tags="indie rock" role="button">
-The Dears - No Cities Left (2003-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
@@ -234,9 +234,6 @@ Lana Del Rey - Blue Velvet (2012-09-20)
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
-<li data-cover="https://img.discogs.com/fAQ--rjzEE7tN0B6-EhbPGOjKKY=/fit-in/567x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4034684-1353068033-4196.jpeg.jpg" data-tags="british, chamber, chamber pop, cabaret" role="button">
-The Irrepressibles - Nude (2012-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
 </li>
@@ -284,6 +281,9 @@ Andrew Bird - I Want to See Pulaski at Night (2013-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ad4c4cc-e9af-4cc8-84c3-23d6eec33666/7804882614-500.jpg" data-tags="post-rock, emo, midwest emo" role="button">
 Foxing - The Albatross (2013-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/b543cfef-c8d1-4ba3-a8b2-742af1d56cd3/15500392136-500.jpg" data-tags="indie, pop, female vocalists" role="button">
+Sophie Ellis-Bextor - Wanderlust (2014-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)

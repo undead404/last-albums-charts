@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:32:01.434Z
+date: 2021-04-10T15:56:01.392Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -12,7 +12,7 @@ title: "shoegaze: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">Have a Nice Life - Deathconsciousness (2008-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Saturdays = Youth (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">Deerhunter - Microcastle (2008-10-27)</li>
-<li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">Silversun Pickups - Swoon (2009-04-14)</li>
+<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
 </ol>
 List of 100 - under the cut.
@@ -111,6 +111,9 @@ The Brian Jonestown Massacre - Methodrone (1995-08-25)
 <li data-cover="https://img.discogs.com/MS8e20gJS70SvNwQESZFSm7wfD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3134-1499498900-2488.jpeg.jpg" data-tags="shoegaze" role="button">
 Bowery Electric - Beat (1996-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
+Mew - A Triumph for Man (1997-04)
+</li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
@@ -204,9 +207,6 @@ The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 <li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
 Amesoeurs - Amesoeurs (2009-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">
-Silversun Pickups - Swoon (2009-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5b17ab3-127d-476b-a4be-3d3c9e9d9e9a/24309818135-500.jpg" data-tags="shoegaze, post-punk" role="button">
 The Horrors - Primary Colours (2009-05-04)
 </li>
@@ -218,9 +218,6 @@ A Place to Bury Strangers - Exploding Head (2009-10-05)
 </li>
 <li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
 Atlas Sound - Logos (2009-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7d2c2d08-9367-4f4a-8e5c-62cc0d9ca86c/5235273791-500.jpg" data-tags="shoegaze" role="button">
-Les Discrets - Septembre et ses dernières Pensées (2010-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)
@@ -293,6 +290,9 @@ Deftones - Koi No Yokan (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8f1a34c-6ca3-482d-86a5-bc7ac7795e5a/3233313337-500.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - m b v (2013-02-02)
+</li>
+<li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">
+Beach Fossils - Clash The Truth (2013-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
 Daughter - If You Leave (2013-03-18)

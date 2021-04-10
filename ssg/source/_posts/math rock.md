@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:00:01.491Z
+date: 2021-04-10T16:18:12.579Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -29,9 +29,6 @@ Polvo - Today's Active Lifestyles (1993-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/13cb27a3-a149-4aa3-93e3-47b2cc6e0ab7/26663400234-500.jpg" data-tags="math rock, noise rock, post-hardcore" role="button">
-Shellac - At Action Park (1994-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/67a2138a-1130-4575-bb20-6b9995b81fad/12021123808-500.jpg" data-tags="math rock" role="button">
 Don Caballero - Don Caballero 2 (1995-09-15)
@@ -65,9 +62,6 @@ Don Caballero - American Don (2000-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/99e88b3f-3a18-4a13-a2b5-657b909383c8/27006231557-500.jpg" data-tags="math rock" role="button">
 Faraquet - The View from This Tower (2000-11-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/f7fa6320-4959-4c99-8ad2-fd65da810758/13634819160-500.jpg" data-tags="math rock" role="button">
-Owls - Owls (2001-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b486b98-76d4-4591-8430-0119454d42ac/11002700286-500.jpg" data-tags="math rock" role="button">
 Hella - Hold Your Horse Is (2002-03-19)
@@ -201,6 +195,9 @@ This Town Needs Guns - Animals (2008-10-13)
 <li data-cover="http://coverartarchive.org/release/8f89ed84-9b30-4d09-95ef-ea8ab06836b5/23940491742-500.jpg" data-tags="math rock, emo, midwest emo" role="button">
 Midwest Pen Pals - Inside Jokes EP (2009)
 </li>
+<li data-cover="http://coverartarchive.org/release/dddf0c43-c13e-4369-9639-b8dd6fcd9670/10875440689-500.jpg" data-tags="math rock, post punk, post hardcore, progressive post hardcore, mathpop mathrock indie, weas que planeo escuchar" role="button">
+Bats - Red In Tooth & Claw (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 </li>
@@ -272,6 +269,9 @@ Hella - Tripper (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/hrEyvwwjtk_ZpcvzvCHDnmc7vpM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3191675-1545550123-2688.jpeg.jpg" data-tags="indie, rock, progressive rock, indie progressive alternative" role="button">
 Mutemath - Odd Soul (2011-09-30)
+</li>
+<li data-cover="https://img.discogs.com/OTru_VS7QEfP9U8M6v1AEe7rK8w=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306902-1325016061.jpeg.jpg" data-tags="math rock" role="button">
+This Town Needs Guns - Adventure, Stamina & Anger (2011-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
 A Lot Like Birds - Conversation Piece (2011-10-11)

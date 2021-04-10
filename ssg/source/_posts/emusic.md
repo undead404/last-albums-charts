@@ -1,12 +1,12 @@
 ---
-date: 2021-04-10T04:57:12.581Z
+date: 2021-04-10T15:50:01.484Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">Cat Power - You Are Free (2003-02-17)</li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">of Montreal - The Sunlandic Twins (2005-02-23)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">Okkervil River - Black Sheep Boy (2005-04-05)</li>
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">Spoon - Gimme Fiction (2005-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">The Presets - Beams (2005-09-12)</li>
@@ -42,14 +42,17 @@ Sleater-Kinney - All Hands on the Bad One (2000-05-02)
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/4c230341-02b8-495d-ba3d-8984757b5399/2013993569-500.jpg" data-tags="electronic, ambient, emusic" role="button">
+Shuttle358 - Frame (2000-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
-<li data-cover="https://img.discogs.com/Ibc3g8neRWGeMlXTjKh7Ue6p2I8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1069108-1445584448-4000.jpeg.jpg" data-tags="indie pop, indie rock" role="button">
-Beulah - The Coast Is Never Clear (2001-09-11)
+<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
+I Am Kloot - Natural History (2001-03-26)
 </li>
-<li data-cover="https://img.discogs.com/mSeoI_HcIeqYDxK05onJaHlvmfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810930-1578767578-7046.jpeg.jpg" data-tags="indie, indie rock" role="button">
-The Wrens - The Meadowlands (2002)
+<li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - From Here to Infirmary (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5f00b14-ea4c-4c6e-8232-56b3dfdb37c9/26946642837-500.jpg" data-tags="rock, hard rock, psychedelia, psychedelic rock, blues rock, emusic, midwest, the black keys, all time favorite, dan auerbach, atomlist1, bums bums" role="button">
 The Black Keys - The Moan (2002)
@@ -60,17 +63,8 @@ The Anniversary - Your Majesty (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa606429-a18e-3230-b2be-0921619b7942/15721054603-500.jpg" data-tags="indie" role="button">
-The Decemberists - Castaways and Cutouts (2002-05-21)
-</li>
 <li data-cover="https://img.discogs.com/tpa5wY7vJpArimW7FdTV97JgEIU=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15606261-1596750220-3673.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Spoon - Kill the Moonlight (2002-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d9e290e-1001-4616-9de2-67fa69bfc9cd/13761995776-500.jpg" data-tags="electro, electronic, electropop, electroclash" role="button">
-Ladytron - Light & Magic (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/758af90d-178d-3450-8585-165e05746c5c/26836542879-500.jpg" data-tags="alternative rock, folk" role="button">
-Tom McRae - Just Like Blood (2003-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
 Cat Power - You Are Free (2003-02-17)
@@ -86,6 +80,9 @@ Yo La Tengo - Summer Sun (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/28cc2841-46e4-40ab-b371-989a749a8368/1632398945-500.jpg" data-tags="indie, rock, indie rock, emusic, san diego, duyster, absolutely kosher, awesome indie pop-alternative, amazing eps, duyster essentials 2003" role="button">
 Pinback - Offcell (2003-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/85e506c2-e6d6-4d06-8490-160ed6fdd337/26004122565-500.jpg" data-tags="indie" role="button">
+Elbow - Cast of Thousands (2003-08-13)
 </li>
 <li data-cover="https://img.discogs.com/is7TAuevkRtEgpoloPGOjOU16Bc=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1377651-1294688574.jpeg.jpg" data-tags="indie, start to finish albums, purchased 07" role="button">
 Josh Rouse - 1972 (2003-08-26)
@@ -132,11 +129,17 @@ Maritime - Glass Floor (2004-05-31)
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/f83a5171-3acc-4234-a13f-df6b67ddefc5/3509077233-500.jpg" data-tags="post-rock" role="button">
+The Six Parts Seven - Everywhere and Right Here (2004-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/766c6f55-15b9-4c08-a670-8545dec6bdd6/6066648466-500.jpg" data-tags="electronica, emusic" role="button">
 Delerium - The Best Of (2004-09-07)
 </li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+Pinback - Summer in Abaddon (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -162,12 +165,6 @@ The Decemberists - Picaresque (2005-03-21)
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
-</li>
-<li data-cover="https://img.discogs.com/g9qt8MUvGiB3uZ-jXKg8y_n_sjI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513587-1288765062.jpeg.jpg" data-tags="rock, indie" role="button">
-The Hold Steady - Separation Sunday (2005-05-03)
-</li>
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">
 Spoon - Gimme Fiction (2005-05-09)
 </li>
@@ -179,6 +176,9 @@ Sufjan Stevens - Illinois (2005-07-04)
 </li>
 <li data-cover="https://img.discogs.com/Z6jRKcM6S6ljssMF2ouhKbY6HT8=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646888-1297934930.jpeg.jpg" data-tags="indie, rock, british, indie rock, 00s, emusic, oh my, memphis industries, seen and heard, emusic saved for later, 3style, abstract album covers, colorful album covers, minimalist album covers" role="button">
 Field Music - Field Music (2005-08-08)
+</li>
+<li data-cover="https://img.discogs.com/QXHzcypRx0xDhH7LMlrnI_y7DDQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420786-1453248469-4856.jpeg.jpg" data-tags="rock, alternative rock, emo, pop punk, emusic, victory, chicago pop punk, month" role="button">
+June - If You Speak Any Faster (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
@@ -194,12 +194,6 @@ Animal Collective - Feels (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d0f5e8d-d27e-4fcb-98e9-8c9cb6492146/23900360741-500.jpg" data-tags="chillout, electroclash, 00s, emusic, yummy, favs, boomkat, desert island discs, stylusmagazine top albums 2005, lekkah, curso de armonica, 2000-luvun elektroniset klassikot, 4nas, my electronic music, little love, nadh, vemu, mmwm, tasty album from top to bottom" role="button">
-Kelley Polar - Love Songs of the Hanging Gardens (2005-11-15)
-</li>
-<li data-cover="https://img.discogs.com/kTjQ6V7qrJ3rRh0rYDgNc_APsX8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6322529-1418851835-6213.jpeg.jpg" data-tags="americana, bluegrass, country-folk, emusic, ramshackle, the avett brothers, produced by doug williams" role="button">
-The Avett Brothers - Four Thieves Gone: The Robbinsville Sessions (2006-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
@@ -219,6 +213,9 @@ The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/44fe85ee-f511-4c89-a156-3e9ed1ce1f5c/18646500835-500.jpg" data-tags="mashup" role="button">
+Girl Talk - Night Ripper (2006-05-08)
+</li>
 <li data-cover="https://img.discogs.com/O6tUgmp54g3WX4K_otOtQnfqntc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764886-1156447982.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
 </li>
@@ -234,11 +231,11 @@ The Mountain Goats - Get Lonely (2006-08-14)
 <li data-cover="http://coverartarchive.org/release/280bb838-ee2b-4ae7-9bc0-b83e54fefb7c/12725964170-500.jpg" data-tags="rock, punk, indie rock, american, live, emusic, fat wreck chords, was there, ila" role="button">
 Against Me! - Americans Abroad!!! Against Me!!! Live In London!!! (2006-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/962cc65f-b464-4206-ac2e-af47abc31959/20597287616-500.jpg" data-tags="indie, rock, indie rock, post-punk, jade tree" role="button">
+Snowden - Anti-Anti (2006-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2091c967-53c7-46a9-9cb2-202cb3c0b908/16269078409-500.jpg" data-tags="bluegrass" role="button">
-Crooked Still - Shaken by a Low Sound (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">
 Copeland - Eat, Sleep, Repeat (2006-08-31)
@@ -255,6 +252,9 @@ Andrew Weatherall - The Bullet Catcher's Apprentice (2006-10-23)
 <li data-cover="http://coverartarchive.org/release/b3aa7af7-abd0-4a63-b6b8-ea0a80355e1a/3472387381-500.jpg" data-tags="psychedelic, indie rock" role="button">
 Deerhunter - Cryptograms (2007-01-29)
 </li>
+<li data-cover="https://img.discogs.com/uGBs7Fr6LQD1PgrDlIpLv4NZ81c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-961663-1493062108-4952.jpeg.jpg" data-tags="indie rock" role="button">
+The Rakes - Ten New Messages (2007-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
@@ -266,6 +266,9 @@ Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
+Aesop Rock - None Shall Pass (2007-08-28)
 </li>
 <li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
 William Fitzsimmons - The Sparrow and the Crow (2008)
@@ -285,9 +288,6 @@ Dr. Dog - Fate (2008-07-22)
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
 </li>
@@ -303,8 +303,8 @@ We Were Promised Jetpacks - These Four Walls (2009-06-15)
 <li data-cover="http://coverartarchive.org/release/61e964e5-38c7-4c7c-8bc1-870f4340caf3/15403185325-500.jpg" data-tags="rock, indie rock, noise rock, post-punk, scottish, krautrock, dynamic, emusic, bobjebus16 owns this" role="button">
 The Twilight Sad - Forget the Night Ahead (2009-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/edb3bf55-a3ac-4450-8564-d1d6f433e3b5/3409377099-500.jpg" data-tags="country, emusic, reviewed in the observer" role="button">
-Dave Rawlings Machine - A Friend Of A Friend (2009-11-17)
+<li data-cover="http://coverartarchive.org/release/4a18bba8-5c52-36cc-8dbf-67b24bea7732/19444479909-500.jpg" data-tags="post-rock" role="button">
+Do Make Say Think - Other Truths (2009-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:51:01.425Z
+date: 2021-04-10T16:10:01.540Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -10,9 +10,9 @@ title: "americana: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">Gregory Alan Isakov - This Empty Northern Hemisphere (2009)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
-<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">Ryan Adams - Ashes & Fire (2011-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">First Aid Kit - The Lion's Roar (2012-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">Phosphorescent - Muchacho (2013-03-15)</li>
+<li data-cover="https://img.discogs.com/yxqESXxmldaE5n86jktHZwDBIGY=/fit-in/516x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5085547-1384336109-1853.jpeg.jpg" data-tags="americana" role="button">Monica Heldal - Boy From The North (2013-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,11 +27,11 @@ Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 <li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
 Townes Van Zandt - Our Mother the Mountain (1969-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e04e5d7-ed79-3e2e-8558-6df68bab5f6d/19688294474-500.jpg" data-tags="folk, singer-songwriter" role="button">
-John Prine - John Prine (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c29c50c-6c65-385f-a883-59d952c1b239/4192952574-500.jpg" data-tags="country, americana" role="button">
 Townes Van Zandt - High, Low And In Between (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/82298693-edea-4c59-b74c-36275186cb2f/13955129700-500.jpg" data-tags="alt-country, americana" role="button">
+Lyle Lovett - Pontiac (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - No Depression (1990)
@@ -60,6 +60,9 @@ Guster - Goldfly (1997-03-04)
 <li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
 Whiskeytown - Strangers Almanac (1997-07-29)
 </li>
+<li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
+Bob Dylan - Time Out of Mind (1997-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
 Calexico - The Black Light (1998-05-18)
 </li>
@@ -74,9 +77,6 @@ Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
 The Be Good Tanyas - Blue Horse (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/058e013c-9cee-4e2d-a3a7-2c643b0aef37/4558030091-500.jpg" data-tags="alt-country, americana" role="button">
-Lambchop - Nixon (2000-02-08)
 </li>
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
@@ -126,17 +126,17 @@ The National - Sad Songs for Dirty Lovers (2003-05)
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
+Drive-By Truckers - Decoration Day (2003-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
-</li>
-<li data-cover="https://img.discogs.com/okJGG8uLdDFFDZV-gNoKZgOklwk=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528233-1493375981-7883.jpeg.jpg" data-tags="alt-country, folk noir, americana" role="button">
-The Handsome Family - Singing Bones (2003-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1a400f03-445e-4510-a9d3-04aa625f3209/6253846025-500.jpg" data-tags="bluegrass" role="button">
-Old Crow Medicine Show - O.C.M.S. (2004-02-24)
+<li data-cover="http://coverartarchive.org/release/4321855e-8e8e-4786-8506-28e6d69633b9/13966110015-500.jpg" data-tags="country" role="button">
+Johnny Cash - Unearthed (2003-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
@@ -171,17 +171,14 @@ Iron & Wine and Calexico - In the Reins (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
 Ryan Adams - 29 (2005-12-20)
 </li>
-<li data-cover="https://img.discogs.com/kTjQ6V7qrJ3rRh0rYDgNc_APsX8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6322529-1418851835-6213.jpeg.jpg" data-tags="americana, bluegrass, country-folk, emusic, ramshackle, the avett brothers, produced by doug williams" role="button">
-The Avett Brothers - Four Thieves Gone: The Robbinsville Sessions (2006-02-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/61e933ae-208d-36fe-8dbc-fa0411780514/4021935438-500.jpg" data-tags="americana" role="button">
 Calexico - Garden Ruin (2006-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/00c8d0d6-ade8-485b-be3b-85a0399fb30e/11241065527-500.jpg" data-tags="folk" role="button">
 Bruce Springsteen - We Shall Overcome: The Seeger Sessions (2006-04-24)
 </li>
-<li data-cover="https://img.discogs.com/O5XwKi9q8ZHB_1fGKNlvskSdI5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2127169-1533790488-7456.jpeg.jpg" data-tags="country, folk, americana" role="button">
-Old Crow Medicine Show - Big Iron World (2006-08-29)
+<li data-cover="https://via.placeholder.com/450" data-tags="americana, random, wilco, slow-coustic, check out more, valtcountry, discos magistrais, eu tenho, like moonchild, vjayhawks, vgoldensmog" role="button">
+Golden Smog - Another Fine Day (2006-07-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
 Ryan Bingham - Mescalito (2007)
@@ -201,9 +198,6 @@ The Avett Brothers - Emotionalism (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
-Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c8398de-11e3-4dd1-ab32-4f2ca7cbccd8/27982063567-500.jpg" data-tags="indie" role="button">
 Dr. Dog - Fate (2008-07-22)
 </li>
@@ -218,6 +212,9 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
+</li>
+<li data-cover="https://img.discogs.com/Pu7wyaWJftnIaAStnPf1jSQGlCs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2000767-1257783425.jpeg.jpg" data-tags="rock" role="button">
+Heartless Bastards - The Mountain (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
@@ -249,6 +246,9 @@ Phosphorescent - Here's To Taking It Easy (2010-05-10)
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">
 Band of Horses - Infinite Arms (2010-05-17)
 </li>
+<li data-cover="https://img.discogs.com/EipJvrG-ThdaAL_Z7vTrkSrQIqc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337730-1278531684.jpeg.jpg" data-tags="alt-country" role="button">
+Deer Tick - The Black Dirt Sessions (2010-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
@@ -261,14 +261,14 @@ Justin Townes Earle - Harlem River Blues (2010-09-13)
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb304cf8-4ae2-4f0f-9114-58e2f63711ad/16252328129-500.jpg" data-tags="americana, southern rock" role="button">
+Drive-By Truckers - Go-Go Boots (2011-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/d018eb48-2097-463c-9d1b-433836f3ec47/28251309548-500.jpg" data-tags="rock, alternative, americana, kickass, my gang 11" role="button">
 Middle Brother - Middle Brother (2011-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">
-Ryan Adams - Ashes & Fire (2011-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
@@ -294,9 +294,6 @@ Phosphorescent - Muchacho (2013-03-15)
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">
 Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, monochrome album covers, american group, grammy winner 2014" role="button">
-The Civil Wars - The Civil Wars (2013-08-02)
-</li>
 <li data-cover="https://img.discogs.com/0ZxmEWYfvMahYDyVlfsf2zFRhbw=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5008713-1382263827-7200.jpeg.jpg" data-tags="pop, folk, contemporary folk, americana, alt-country, 2010s, contemporary bluegrass" role="button">
 Sarah Jarosz - Build Me Up From Bones (2013-09-24)
 </li>
@@ -305,6 +302,9 @@ Monica Heldal - Boy From The North (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5d5a923-0adc-47d4-847a-421cbe5823dc/6430174126-500.jpg" data-tags="singer-songwriter, folk" role="button">
 Sun Kil Moon - Benji (2014-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fac0e09-5173-42d0-b6a5-20c34d0e5100/6471705363-500.jpg" data-tags="americana" role="button">
+Hurray For The Riff Raff - Small Town Heroes (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
 Angel Olsen - Burn Your Fire for No Witness (2014-02-18)

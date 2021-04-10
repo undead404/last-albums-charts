@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:00:01.480Z
+date: 2021-04-10T16:31:01.519Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -51,6 +51,9 @@ Richard O'Brien - The Rocky Horror Picture Show (1975)
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
 </li>
+<li data-cover="https://img.discogs.com/OmsxWs4-CmOFOsnpZDOij0PBi2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754595-1377707976-4707.jpeg.jpg" data-tags="soundtrack" role="button">
+Queen - Flash Gordon (1980-12-08)
+</li>
 <li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
 Basil Poledouris - Conan the Barbarian (1982)
 </li>
@@ -59,9 +62,6 @@ Ray Parker Jr. - Ghostbusters (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/066d874b-8261-3d7a-8d0e-5923bd5a59dc/2844321267-500.jpg" data-tags="soundtrack" role="button">
 Ry Cooder - Paris, Texas (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">
-Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
@@ -80,6 +80,9 @@ Julee Cruise - Floating into the Night (1989-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/df7ea720-4e63-4de8-b6f6-b64a7776098b/15625632616-500.jpg" data-tags="soundtrack, 90s, jazz, pop" role="button">
 Madonna - I'm Breathless (1990-05-12)
+</li>
+<li data-cover="https://img.discogs.com/CC3T-htBU79wZAPVB6KNbpfM2QQ=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2304067-1275601230.jpeg.jpg" data-tags="rock, soundtrack, 90s" role="button">
+Jon Bon Jovi - Blaze Of Glory (1990-08-07)
 </li>
 <li data-cover="https://img.discogs.com/pDhLBqBs6D8ODY8kSrKc0iguskY=/fit-in/600x925/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585572-1431987750-2872.jpeg.jpg" data-tags="soundtrack" role="button">
 Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
@@ -119,9 +122,6 @@ Aerosmith - Armageddon (1998-07-29)
 </li>
 <li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
-Fugazi - Instrument Soundtrack (1999-03-23)
 </li>
 <li data-cover="https://img.discogs.com/sh4355luPnsoXEhirFa_Yujk7g4=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137239-1266343818.jpeg.jpg" data-tags="soundtrack" role="button">
 The Dust Brothers - Fight Club (1999-07-27)
@@ -228,6 +228,9 @@ Tenacious D - The Pick of Destiny (2006-09-26)
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
 </li>
+<li data-cover="https://img.discogs.com/jd4eySgSg5ip1QOCi4qHs8Z_Avs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972948-1521852291-5306.jpeg.jpg" data-tags="soundtrack" role="button">
+Javier Navarrete - Pan's Labyrinth (2006-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
 </li>
@@ -242,6 +245,9 @@ Sixx:A.M. - The Heroin Diaries Soundtrack (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
 Eddie Vedder - Into the Wild (2007-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/51a3e743-15e7-41f2-b333-7a5d90695c3a/853853080-500.jpg" data-tags="soundtrack" role="button">
+Steve Jablonsky - Transformers: The Score (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/27726944-0886-3373-b692-0e9324637870/4083569167-500.jpg" data-tags="soundtrack" role="button">
 Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert Ford (2007-10-23)
@@ -296,12 +302,6 @@ Danger Mouse & Daniele Luppi - Rome (2011-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/929c7f0c-8d6e-4862-baf4-ef2fc65fd990/6298370415-500.jpg" data-tags="soundtrack, electronic" role="button">
-Cliff Martinez - Drive (2011-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e32a277-a975-4b9d-aec0-01cf922e9e63/22180844894-500.jpg" data-tags="pop, a thousand years" role="button">
-Christina Perri - A Thousand Years (2011-10-18)
 </li>
 <li data-cover="https://img.discogs.com/qNXcjTVEm3KRkToIBlB5UvpMeHA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4856797-1377631990-4075.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Dark Knight Rises (2012-07-17)

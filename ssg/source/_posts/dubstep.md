@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:25:01.470Z
+date: 2021-04-10T15:47:01.403Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -38,6 +38,9 @@ Bassnectar - Underground Communication (2007-04-24)
 </li>
 <li data-cover="https://img.discogs.com/JuFemSOUd6S9llhZTiYCX3WJznA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990973-1376919315-7630.jpeg.jpg" data-tags="electronic" role="button">
 Lulu Rouge - Bless You (2008)
+</li>
+<li data-cover="https://img.discogs.com/9oW_iQe5oaMlfy2ISVBDq3Osn00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1223162-1302674885.jpeg.jpg" data-tags="dub, dubstep" role="button">
+Ikonika - Please / Simulacrum (2008-02-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Benga - Diary of an Afro Warrior (2008-03-10)
@@ -152,9 +155,6 @@ Blackmill - Reach for Glory (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/734bc2bf-fec5-4133-8fc3-7f88a5c03e69/24038436103-500.jpg" data-tags="dubstep" role="button">
 Rusko - Everyday (2011-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/29624b49-2a6a-484f-a67c-9263965b3cc0/4596022614-500.jpg" data-tags="dubstep, psychill" role="button">
-Phutureprimitive - Kinetik (2011-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/df9256e8-1956-4ce5-b93c-1be551d4075a/2349275927-500.jpg" data-tags="ambient, dub" role="button">
 Ott - Mir (2011-03-15)

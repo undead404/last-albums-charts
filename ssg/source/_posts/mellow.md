@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:36:01.414Z
+date: 2021-04-10T16:00:07.373Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -27,9 +27,6 @@ Vashti Bunyan - Some Things Just Stick In Your Mind (1965)
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Leonard Cohen - Songs of Love and Hate (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
@@ -47,12 +44,6 @@ Lighthouse Family - Ocean Drive (1996-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc41e65d-471e-37fb-a050-73393f0ba30a/1606468604-500.jpg" data-tags="90s, rock" role="button">
 Dave Matthews Band - Crash (1996-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/66e02005-e88d-3ccd-9138-c2333238a1da/28605041447-500.jpg" data-tags="piano" role="button">
-Ben Folds Five - Whatever and Ever Amen (1997-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
@@ -132,6 +123,9 @@ Alexi Murdoch - Four Songs (2002-11-06)
 <li data-cover="http://coverartarchive.org/release/dcfe99cd-1889-4828-8702-24ffed30dd61/15192015448-500.jpg" data-tags="80s, mellow" role="button">
 Kenny Loggins - The Essential Kenny Loggins (2002-11-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/16cf9e01-9036-49e4-b0b4-cfc109dead4c/28226842747-500.jpg" data-tags="indie, acoustic, turin brakes, good music to cry with" role="button">
+Turin Brakes - Ether Song (2003-03-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
 </li>
@@ -180,6 +174,9 @@ Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
+Iron & Wine - Woman King (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
@@ -188,9 +185,6 @@ The Decemberists - Picaresque (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
-The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc7e4abe-5672-40d4-bb39-a72ba0293476/3375657581-500.jpg" data-tags="acoustic" role="button">
 City and Colour - Sometimes (2005-10-31)
@@ -279,6 +273,9 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Melody Gardot - My One And Only Thrill (2008-12-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
@@ -290,6 +287,9 @@ Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef5be90c-ca72-40f6-8c8e-1c2234a23af0/18894936661-500.jpg" data-tags="folk" role="button">
+A.A. Bondy - When The Devil's Loose (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -312,13 +312,13 @@ Blind Pilot - We Are The Tide (2011-09-13)
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/045b654b-18fa-480c-9b58-020c70128370/10745016787-500.jpg" data-tags="pop, female vocalists, mellow, 10s" role="button">
+Julia Stone - By the Horns (2012-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4914b6a7-b95f-4ed7-82df-fc85c3a1e682/4281607299-500.jpg" data-tags="folk, mellow, folk rock, bittersweet, depressing, music to fall asleep to" role="button">
 Keaton Henson - Birthdays (2013-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
-Indila - Mini World (2014-02-21)
 </li>
 </ol>

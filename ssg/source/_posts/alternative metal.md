@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:45:01.631Z
+date: 2021-04-10T16:30:01.572Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
