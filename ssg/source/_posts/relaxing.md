@@ -1,12 +1,12 @@
 ---
-date: 2021-04-09T18:02:01.481Z
+date: 2021-04-10T02:02:01.408Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
-<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
+<li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">Eluvium - Copia (2007-02-20)</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
@@ -48,9 +48,6 @@ Robert Miles - Dreamland (1996-06-07)
 <li data-cover="http://coverartarchive.org/release/b8711c67-1203-35db-8312-83b772b00307/9734071071-500.jpg" data-tags="electronic" role="button">
 Vangelis - Oceanic (1996-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, new age, melodic, gentle, relaxing, nature, soothing, natural, beach radio" role="button">
-Medwyn Goodall - The Dolphin Quest (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/3068ed18-5a81-42b1-875e-3a97486695ea/26215295371-500.jpg" data-tags="easy listening, soft rock, favorite artists, good shit, relaxing, awesomeness, thinking, graduation, all music, as i lay dying, sister hazel, all american rejects, if everyone cared, self-reflect, blessid union of souls - blessid union of souls" role="button">
 Blessid Union Of Souls - Blessid Union Of Souls (1997-05-20)
 </li>
@@ -72,14 +69,26 @@ Modest Mouse - Night on the Sun (1999)
 <li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
 Yanni - Love Songs (1999-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
+Thievery Corporation - Abductions and Reconstructions (1999-04-20)
+</li>
+<li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
+Guster - Lost and Gone Forever (1999-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
+</li>
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="new age, relaxing, relax" role="button">
+Anugama - Healing (2000)
 </li>
 <li data-cover="https://img.discogs.com/aR_DAnxf1_Q3nsm6cGttuLUqLjI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920300-1561466655-8429.jpeg.jpg" data-tags="new age, relaxing" role="button">
 Anugama - Shamanic Dream II (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/df1cbbc3-1f49-4f22-95c7-96618000c58f/1436194084-500.jpg" data-tags="relaxing, vocal, new age, enya" role="button">
-Adiemus - Adiemus IV - The Eternal Knot (2000-09-25)
+<li data-cover="http://coverartarchive.org/release/793d727d-ed85-45b4-880e-3c4f5349499f/13988764360-500.jpg" data-tags="punk rock, punk, pop punk" role="button">
+MxPx - The Ever Passing Moment (2000-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/eb41d085-f38b-48cc-919f-377ee0fb2fe9/16112159503-500.jpg" data-tags="gregoriano" role="button">
+Magna Canta - Enchanted Spirits (2000-11-20)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
@@ -105,9 +114,6 @@ Amerie - All I Have (2002-07-30)
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2a314ab-986e-40af-8cab-04806ab68ce9/7927220552-500.jpg" data-tags="indie" role="button">
-The Mountain Goats - Tallahassee (2002-11-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dj trance" role="button">
 System F - Together (2003-01-29)
 </li>
@@ -123,6 +129,9 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="timeless" role="button">
+Michael Dulin - Timeless (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-01)
 </li>
@@ -134,9 +143,6 @@ Alicia Keys - If I Ain't Got You (2004-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
 Bond - Classified (2004-05-08)
-</li>
-<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
-Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d076e7c-42d4-40bc-a912-7c7e4400b65b/11322629989-500.jpg" data-tags="christmas, new age, spiritual, relaxing, transym, taria" role="button">
 Tarja - Yhden Enkelin Unelma (2004-12-13)
@@ -191,12 +197,6 @@ Jesse McCartney - Right Where You Want Me (2006-09-09)
 </li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f3ad312-7440-4490-956f-a7606ae03175/2121742544-500.jpg" data-tags="ambient, new age, relaxing" role="button">
-Celestial Aeon Project - Aeon (2006-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0178f62c-7662-46d9-9870-d331c21d290f/1087682353-500.jpg" data-tags="alternative, piano, new age, dreamy, melancholic, relaxing" role="button">
-Frozen Silence - Heart of Winter (2006-12-01)
 </li>
 <li data-cover="https://img.discogs.com/UvuEapQ35XJJs-OOa44ajvJJYcY=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1734647-1282241237.jpeg.jpg" data-tags="pop, rock, retro, relaxing, eclectic, 1940s, 1920s, coffee shop, british pop, lily allen, pop music, singles i own, cafe, black and white, bohemian, new faves, annymix, f singer-songwriter, audrey hepburn, joni radio, 1920's, bohemia, pop music tag, luda kokoshka, bohemic" role="button">
 Lily Allen - Littlest Things (2006-12-11)
@@ -261,6 +261,9 @@ Melody Gardot - My One And Only Thrill (2008-12-16)
 <li data-cover="http://coverartarchive.org/release/5e0a9494-7532-41c5-9088-9f97e2c41477/18229199776-500.jpg" data-tags="pop, soft, relaxing, pl, female vocalist, myf, wielkie albumy, po prostu  urocze, jest melancholijnie" role="button">
 Anita Lipnicka - Hard Land of Wonder (2009)
 </li>
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="chillout, indie, swedish, dreamy, dream pop, folktronica, relaxing, emusic, balearic beat" role="button">
+jj - jj n° 1 (2009-03-26)
+</li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
@@ -270,17 +273,11 @@ Maria Gadú - Maria Gadú (2009-07-20)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/1beaae9e-8f17-4281-a4e4-4fe1d38b17ef/16319634547-500.jpg" data-tags="scandinavian" role="button">
-múm - Sing Along to Songs You Don't Know (2009-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/69115003-a563-4e9e-99d6-fce1ed9b141d/25465821647-500.jpg" data-tags="folk" role="button">
-Joanna Newsom - Have One on Me (2010-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
@@ -294,14 +291,14 @@ Morcheeba - Blood Like Lemonade (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/hZxHJ6552hDvtEy_554gCcCdwro=/fit-in/396x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2584835-1291729897.jpeg.jpg" data-tags="chillout, electronic, ambient, indie rock, indie electronic, lo-fi, dreamy, dream pop, relaxing, chillwave, ambiental, alternative pop/rock, alternative-indie rock" role="button">
-Houses - All Night (2010-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
+Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
 Memoryhouse - The Slideshow Effect (2012-02-24)
@@ -314,6 +311,9 @@ Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
 Daughter - If You Leave (2013-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
+Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

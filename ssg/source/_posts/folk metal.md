@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T23:41:01.489Z
+date: 2021-04-10T02:45:01.592Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -74,9 +74,6 @@ Windir - 1184 (2001-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd653da3-a459-4859-bcbe-5d2f77890590/2630907884-500.jpg" data-tags="viking metal, folk metal, pagan metal" role="button">
 Moonsorrow - Voimasta ja Kunniasta (2001-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/718567e4-027a-417d-ab95-a5dff347cfdd/10335640801-500.jpg" data-tags="folk metal" role="button">
-Cruachan - Folk-Lore (2002-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ac99528-77a9-3624-84b7-3400f6f56e47/22056699402-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - The Mantle (2002-08-13)
@@ -246,7 +243,7 @@ In Extremo - Sängerkrieg (2008-05-09)
 <li data-cover="http://coverartarchive.org/release/7b689aac-42f0-463c-9ea3-9262abb690ad/2140896034-500.jpg" data-tags="folk metal" role="button">
 Equilibrium - Sagas (2008-06-27)
 </li>
-<li data-cover="https://img.discogs.com/VudnOAXUVufIwRxOB3KdCcQi1LA=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1744968-1506582772-4234.jpeg.jpg" data-tags="folk metal" role="button">
+<li data-cover="https://img.discogs.com/edNUSKLET0XIu59gO8weVwQVlvM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2456578-1285086205.jpeg.jpg" data-tags="folk metal" role="button">
 Subway to Sally - Kreuzfeuer (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/385ad8b3-cee4-36c6-869d-61ee12a65648/15392267057-500.jpg" data-tags="folk metal, power metal, pirate metal" role="button">
@@ -302,6 +299,9 @@ Orphaned Land - All Is One (2013-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/737602b3-837f-4e30-8f61-9ba4584bc7e4/5252944434-500.jpg" data-tags="folk metal" role="button">
 Týr - Valkyrja (2013-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c759983d-e895-4b5a-a024-fdb215984977/5270130572-500.jpg" data-tags="folk metal, viking metal, black metal" role="button">
+Falkenbach - Asa (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfc5fd4a-d781-4b0d-b987-4ffe86318150/7382794708-500.jpg" data-tags="doom metal, folk metal" role="button">
 Agalloch - The Serpent & The Sphere (2014-05-02)

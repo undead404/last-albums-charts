@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:04:01.460Z
+date: 2021-04-10T02:09:01.397Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -30,6 +30,9 @@ Black Sabbath - Master of Reality (1971-07-21)
 <li data-cover="https://img.discogs.com/kOsQtwg93cIn5cQLz0MIvDpUssg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1674075-1474044330-8654.jpeg.jpg" data-tags="stoner rock" role="button">
 Kyuss - Wretch (1991-09-23)
 </li>
+<li data-cover="https://img.discogs.com/Q2rq_XlwSX_VPHleZ5J4BJilcyg=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565195-1132346436.jpeg.jpg" data-tags="stoner rock" role="button">
+Monster Magnet - Spine of God (1991-12-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/42869337-4390-39af-899e-c585daef89a4/3675943253-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Blues for the Red Sun (1992-06-30)
 </li>
@@ -44,6 +47,9 @@ Melvins - Houdini (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6205da21-55a9-457d-aa85-2f1262e25694/8267363147-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Welcome to Sky Valley (1994-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/14e8adef-dc7e-4f7b-9c79-80af627ea817/7846949504-500.jpg" data-tags="sludge, doom metal" role="button">
+Acid Bath - When the Kite String Pops (1994-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf88a9c4-2fcd-46c8-8412-3b06bf0abbfa/6512861185-500.jpg" data-tags="stoner rock" role="button">
 Corrosion of Conformity - Deliverance (1994-09-27)
@@ -129,6 +135,9 @@ Queens of the Stone Age - Rated R (2000-06-05)
 <li data-cover="https://img.discogs.com/ejUY4Xklt1sCK6kSJRMsvZPqJNA=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1301027-1219880756.jpeg.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Dopethrone (2000-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/2ff64a41-490f-4657-bf68-258a1eb96e87/28945562011-500.jpg" data-tags="heavy metal, stoner rock, hard rock" role="button">
+Corrosion of Conformity - America's Volume Dealer (2000-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7c92eab-c53d-47d0-8ae4-92f22d5e3dd8/9285528262-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Pure Rock Fury (2001-03-13)
 </li>
@@ -186,9 +195,6 @@ Wolfmother - Wolfmother (2005-10-31)
 <li data-cover="http://coverartarchive.org/release/92b9695d-c79e-3d30-b1bd-e802bf808bd9/19685820164-500.jpg" data-tags="stoner rock" role="button">
 Dozer - Through the Eyes of Heathens (2005-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
-Boris - Pink (2005-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d105b15-896b-40f4-861d-27e63dfcf960/16250901067-500.jpg" data-tags="stoner metal, stoner rock" role="button">
 The Sword - Age of Winters (2006-02-14)
 </li>
@@ -200,9 +206,6 @@ Witch - Witch (2006-03-07)
 </li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
 Eagles of Death Metal - Death By Sexy (2006-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/37e09ed4-5543-4c4b-b9b9-0f5d690c843e/8360166556-500.jpg" data-tags="stoner rock, rock" role="button">
-Black Stone Cherry - Black Stone Cherry (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
 Melvins - A Senile Animal (2006-10-10)
@@ -224,9 +227,6 @@ Truckfighters - Phi (2007-10-08)
 </li>
 <li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Torche - Meanderthal (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/8986894376-500.jpg" data-tags="grunge, stoner rock, sludge metal" role="button">
 Melvins - Nude With Boots (2008-07-08)

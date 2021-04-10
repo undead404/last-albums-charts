@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:07:01.469Z
+date: 2021-04-10T01:45:29.562Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -53,6 +53,9 @@ The Prodigy - More Music For The Jilted Generation (1994-07-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
 Aphex Twin - Classics (1994-12)
+</li>
+<li data-cover="https://img.discogs.com/LPA2w-4DjKaKa7J63lr9HZWhFIc=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389573-1393368466-9302.jpeg.jpg" data-tags="electronic" role="button">
+Moby - Everything Is Wrong (1995-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf577924-6dc7-4948-841b-6f69c04f822f/21175811690-500.jpg" data-tags="idm" role="button">
 Aphex Twin - I Care Because You Do (1995-04-01)
@@ -122,6 +125,9 @@ Primal Scream - XTRMNTR (2000-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
 Laurent Garnier - Unreasonable Behaviour (2000-02-14)
+</li>
+<li data-cover="https://img.discogs.com/vok-pww6XUx5QFygj9FX9zAfMXs=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106523-1258962168.jpeg.jpg" data-tags="trance" role="button">
+Bomfunk MC's - Freestyler (2000-02-15)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
@@ -228,6 +234,9 @@ The Temper Trap - Sweet Disposition (2008)
 <li data-cover="https://via.placeholder.com/450" data-tags="jumpstyle" role="button">
 Scooter - Jumping All Over The World (2008-02-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/54a73470-8d02-4a18-b571-50cb0406c962/13278680258-500.jpg" data-tags="electronic" role="button">
+Junkie XL - Booming Back At You (2008-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
 </li>
@@ -243,6 +252,9 @@ Guru Josh Project - Infinity 2008 (2008-05-07)
 <li data-cover="http://coverartarchive.org/release/432dd14b-0622-3dfb-ad71-be10ddd81b8e/3955606785-500.jpg" data-tags="minimal house" role="button">
 Lindstrøm - Where You Go I Go Too (2008-08-18)
 </li>
+<li data-cover="https://img.discogs.com/8RfBOLAWWWwfYXJ3On8R4j93nd8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2943841-1393363798-7399.jpeg.jpg" data-tags="electronic, techno, house" role="button">
+Scott Grooves - Coco Brown / La Riddum (2008-11-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
 </li>
@@ -254,9 +266,6 @@ The Prodigy - Invaders Must Die (2009-02-18)
 </li>
 <li data-cover="https://img.discogs.com/yZUT6xPI8XVF_3yDlv0wSI84uCs=/fit-in/600x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1668437-1237888609.jpeg.jpg" data-tags="electronica, indie" role="button">
 Empire of the Sun - We Are The People (2009-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/5db5c666-e35b-40b1-af01-ff3af821bcd3/15670793276-500.jpg" data-tags="electronic" role="button">
-Simian Mobile Disco - Temporary Pleasure (2009-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
@@ -282,14 +291,8 @@ The Chemical Brothers - Further (2010-06-09)
 <li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
 Matthew Dear - Black City (2010-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad3feb4a-d061-4666-b543-666d503cdb67/4022993062-500.jpg" data-tags="electronic, synthpop" role="button">
-Miami Horror - Illumination (2010-08-20)
-</li>
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
-Gold Panda - Lucky Shiner (2010-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
@@ -297,8 +300,8 @@ David Guetta - Nothing But The Beat (2011-08-24)
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
 </li>
-<li data-cover="https://img.discogs.com/J85ybqtHuDBxfev7ARtE4s4IsUo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539-1165925325.jpeg.jpg" data-tags="ambient, post-rock, downtempo, electro, techno, abstract, warp, idm, drone, warp records, folktronica, modern classical, club/dance, aboriginal, 2012 wowish, alternative-indie rock, electronic superhighway, favourite electronic albums" role="button">
-Clark - Iradelphic (2012-04-02)
+<li data-cover="http://coverartarchive.org/release/8de037a4-f8db-4219-862e-2e50400441c2/23648189847-500.jpg" data-tags="electronic, australian" role="button">
+The Presets - Pacifica (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d59c9abd-b825-4aa7-b270-c86598ba73d0/3670901622-500.jpg" data-tags="electronic" role="button">
 DJ Koze - Amygdala (2013-03-22)
@@ -314,9 +317,6 @@ Jagwar Ma - Howlin (2013-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
 Moderat - II (2013-08-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/93c4a606-eb1b-4039-9e5d-c3be552ec0dc/5806199741-500.jpg" data-tags="techno" role="button">
-Gesaffelstein - Aleph (2013-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

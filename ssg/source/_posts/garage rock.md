@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:50:01.420Z
+date: 2021-04-10T02:16:06.865Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -279,9 +279,6 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">
 Ty Segall Band - Slaughterhouse (2012-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/594642e7-8f6d-4780-8f04-aa489607318a/6202190745-500.jpg" data-tags="indie rock, garage rock, post-punk" role="button">
-Parquet Courts - Light Up Gold (2012-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
 </li>
@@ -308,6 +305,9 @@ White Denim - Corsicana Lemonade (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/3142baf1-e562-4759-9510-be1983e79e8e/7349660598-500.jpg" data-tags="indie rock, post-punk" role="button">
+Parquet Courts - Sunbathing Animal (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/766e358a-90a5-4c37-a9c5-c60ce7faa875/6831500340-500.jpg" data-tags="rock, indie rock, garage rock, meghallgatni" role="button">
 The Orwells - Disgraceland (2014-06-03)

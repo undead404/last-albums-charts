@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:06:01.442Z
+date: 2021-04-10T02:36:01.438Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -62,9 +62,6 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c20f8cc-7b31-32de-8c44-2d28d1c07b9f/12662111311-500.jpg" data-tags="leonard cohen, 80s, singer-songwriter" role="button">
-Leonard Cohen - I'm Your Man (1988-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
@@ -320,5 +317,8 @@ Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5d5a923-0adc-47d4-847a-421cbe5823dc/6430174126-500.jpg" data-tags="singer-songwriter, folk" role="button">
 Sun Kil Moon - Benji (2014-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
+Beck - Morning Phase (2014-02-21)
 </li>
 </ol>

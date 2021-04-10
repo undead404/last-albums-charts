@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:20:01.516Z
+date: 2021-04-10T02:28:01.461Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -72,6 +72,9 @@ Led Zeppelin - In Through the Out Door (1979-08-15)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
+Motörhead - Ace of Spades (1980-11-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb0a5483-5a09-4f0f-90f1-417135985e0f/28871095408-500.jpg" data-tags="hard rock" role="button">
 Van Halen - 1984 (1983)
 </li>
@@ -86,9 +89,6 @@ Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/50bfd176-df4e-4808-87a7-2d4dd7dc3e2e/5514872783-500.jpg" data-tags="hard rock" role="button">
-Guns N' Roses - G N' R Lies (1988-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">
 Skid Row - Skid Row (1989-01-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:05:01.488Z
+date: 2021-04-10T01:58:01.441Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -21,20 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0774c7c4-c2ca-4d77-92a2-176456ef7475/27985403238-500.jpg" data-tags="noise rock" role="button">
-Slint - Tweez (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/5425e2d6-004b-40fb-93e6-04c123c04903/26755627965-500.jpg" data-tags="post-hardcore" role="button">
-Drive Like Jehu - Drive Like Jehu (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
 </li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a21fc30-b7fa-4553-a9a8-fcc3317ce816/12021129968-500.jpg" data-tags="math rock" role="button">
-Don Caballero - For Respect (1993-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9830d183-e96a-4ee0-bc14-cb0b58b39dcb/3195373886-500.jpg" data-tags="math rock, post-hardcore" role="button">
 Rodan - Rusty (1994-04-04)
@@ -44,9 +35,6 @@ Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/13cb27a3-a149-4aa3-93e3-47b2cc6e0ab7/26663400234-500.jpg" data-tags="math rock, noise rock, post-hardcore" role="button">
 Shellac - At Action Park (1994-08)
-</li>
-<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
-Slint - Slint (1994-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/67a2138a-1130-4575-bb20-6b9995b81fad/12021123808-500.jpg" data-tags="math rock" role="button">
 Don Caballero - Don Caballero 2 (1995-09-15)
@@ -62,6 +50,9 @@ Shellac - Terraform (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5af94a-6e11-4bb4-99ba-177d322027fa/16110487955-500.jpg" data-tags="math rock, instrumental" role="button">
 Don Caballero - What Burns Never Returns (1998-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/923f03ee-76d6-45bb-9753-150256487b47/8770449535-500.jpg" data-tags="math rock, post-rock" role="button">
+June of 44 - Anahata (1999-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">
 American Football - American Football (1999-09-14)
@@ -204,11 +195,14 @@ Don Caballero - Punkgasm (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/8760ae8f-a5b0-4909-95b0-4a9bb9fad408/9934565413-500.jpg" data-tags="math rock" role="button">
 Adebisi Shank - This is the album of a band called Adebisi Shank (2008-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2d8c10d-4c70-482c-b913-50550fc6d4c4/3813953556-500.jpg" data-tags="math rock, experimental, indie pop, indie rock, energetic, literate, irreverent, intense, confident, fiery, raucous, 00s, playful, sweet, math pop, revolutionary, repeat, sprawling, brash, ambitious, knotty, zach hill on the kit, math rap" role="button">
-Marnie Stern - This Is it and I Am it and You Are it and so Is That and He Is it and She Is it and it Is it and That is That (2008-10-03)
+<li data-cover="https://img.discogs.com/qFq_JUh1moTEk0L8OwcdsI9WspI=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1487574-1321826690.jpeg.jpg" data-tags="math rock" role="button">
+Foals - Olympic Airways (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/XfcjvTSndc-lvvVTzdnXziYy4Ts=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2491922-1286976641.jpeg.jpg" data-tags="math rock" role="button">
 This Town Needs Guns - Animals (2008-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f89ed84-9b30-4d09-95ef-ea8ab06836b5/23940491742-500.jpg" data-tags="math rock, emo, midwest emo" role="button">
+Midwest Pen Pals - Inside Jokes EP (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
@@ -227,6 +221,9 @@ Radiohead - These Are My Twisted Words (2009-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/238f52a2-e62e-4da0-ac0b-dced8e0e2e78/4706109611-500.jpg" data-tags="indie, math rock, experimental, indie pop, indie rock, i love this, math pop, math-rock" role="button">
 Colour - Anthology (2009-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b64b195-f5be-4a72-897d-11683bede047/16736380229-500.jpg" data-tags="math rock" role="button">
+Rooftops - A Forest of Polarity (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)
@@ -275,6 +272,9 @@ Hella - Tripper (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/hrEyvwwjtk_ZpcvzvCHDnmc7vpM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3191675-1545550123-2688.jpeg.jpg" data-tags="indie, rock, progressive rock, indie progressive alternative" role="button">
 Mutemath - Odd Soul (2011-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
+A Lot Like Birds - Conversation Piece (2011-10-11)
 </li>
 <li data-cover="https://img.discogs.com/1aqLeEDV3DWCQ3furE0AxSrpE64=/fit-in/498x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4118470-1356163849-4613.jpeg.jpg" data-tags="math rock, title is a full sentence, must check" role="button">
 toe - The Future Is Now EP (2012-06-20)

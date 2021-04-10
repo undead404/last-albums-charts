@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:59:01.422Z
+date: 2021-04-10T02:30:01.468Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
+Love - Da Capo (1966-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
 </li>
@@ -65,9 +68,6 @@ The Stranglers - La Folie (1981-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b75b6773-2687-4924-826a-c8d392aa72ee/15180250243-500.jpg" data-tags="soft rock, baroque pop, nick drake, brian wilson, iveldie best of 1988, record collectors 80s rock album best 100, bluk glub, self-titled album" role="button">
-Brian Wilson - Brian Wilson (1988-07-12)
 </li>
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
@@ -131,6 +131,9 @@ Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
 </li>
 <li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
 Final Fantasy - Has A Good Home (2005-03-01)
+</li>
+<li data-cover="https://img.discogs.com/M8iOeLNaOrUcsb5QanBnLpbz3MQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162836-1386263320-2668.jpeg.jpg" data-tags="metal, folk, baroque pop, symphonic metal, symphonic power metal, classical crossover, classical pop, neomedieval" role="button">
+Rhapsody - The Magic of the Wizard's Dream (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
@@ -231,9 +234,6 @@ C418 - Minecraft - Volume Alpha (2011-03-04)
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
-<li data-cover="https://img.discogs.com/pb0-qXJ1OdI1r5BK8MKjmnCvHyE=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903710-1306546309.jpeg.jpg" data-tags="electronic, experimental, alternative, elephant woman, i know my feelings" role="button">
-Planningtorock - W (2011-05-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/32d69bdd-ff69-4d55-b004-2d556e2a1138/1260171701-500.jpg" data-tags="indie, indie pop, chamber pop, baroque pop, russian, balkan brass, europe, 10s, european, russia, experimental indie, art pop, russian underground, balkan sound, snegiri, former soviet union, post soviet union" role="button">
 The Retuses - Waltz Baltika! (2011-06-14)
 </li>
@@ -245,6 +245,9 @@ Feist - Metals (2011-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/3233e76f-8038-4c35-bf9c-caeff3127225/1254033366-500.jpg" data-tags="soundtrack, game soundtrack" role="button">
+Jeremy Soule - The Elder Scrolls V: Skyrim Original Game Soundtrack (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
@@ -308,9 +311,6 @@ tUnE-yArDs - Nikki Nack (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcd44a2b-3e3f-4e7f-8af2-e553fa6a603f/7296590031-500.jpg" data-tags="alternative pop" role="button">
 Tori Amos - Unrepentant Geraldines (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c976f66-b784-4e09-be74-455f150a8082/7586223644-500.jpg" data-tags="house, classical crossover, electronic" role="button">
-Clean Bandit - New Eyes (2014-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c15ae8e9-1369-41c7-b57a-ef34ca61c22b/7143771102-500.jpg" data-tags="indie pop, baroque pop" role="button">
 Kishi Bashi - Lighght (2014-05-13)

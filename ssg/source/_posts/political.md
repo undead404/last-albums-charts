@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:16:06.963Z
+date: 2021-04-10T02:41:01.428Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/c7c02ab6-6aea-4199-a58d-51d8d6fdae32/20050030752-500.jpg" data-tags="soul, funk" role="button">
+Syl Johnson - Is It Because I'm Black (1970)
+</li>
 <li data-cover="http://coverartarchive.org/release/85318fcd-39a9-4e75-b715-6f961a1a8dc6/13483928513-500.jpg" data-tags="spoken word, soul, poetry, political" role="button">
 Gil Scott-Heron - Small Talk at 125th and Lenox (1970)
 </li>
@@ -54,6 +57,9 @@ Bob Marley & The Wailers - Catch A Fire (1973-04-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/63ca0a26-6b6f-4a5d-8b4c-4e3fcf7c0cc2/4546630557-500.jpg" data-tags="political" role="button">
+Gil Scott-Heron & Brian Jackson - Secrets (1978)
+</li>
 <li data-cover="http://coverartarchive.org/release/1280555a-4ab5-4c72-ab51-bd883b9865f6/8094406633-500.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Plastic Surgery Disasters (1982-10)
 </li>
@@ -75,6 +81,9 @@ Steve Earle - Guitar Town (1986-03-05)
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
 </li>
+<li data-cover="https://img.discogs.com/lelw5ZSGU9qgyRBqLuxXC4Rv7zY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5203047-1387347510-4247.jpeg.jpg" data-tags="folk" role="button">
+Phil Ochs - There But For Fortune (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/114ea1ec-d529-4c71-9ac7-a5a4aa13fcbd/22061206678-500.jpg" data-tags="80s, pop" role="button">
 Janet Jackson - Rhythm Nation 1814 (1989-09-15)
 </li>
@@ -84,14 +93,8 @@ Janet Jackson - Rhythm Nation (1989-10-23)
 <li data-cover="https://img.discogs.com/xYv9oqQix5EA4uhZtoyUhmZ_8o4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4870461-1442166097-6503.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Public Enemy - Fear of a Black Planet (1990-03-20)
 </li>
-<li data-cover="https://img.discogs.com/vBs_1NCZ5Kavk2d9NLb2mq1FyLk=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-549839-1143406946.jpeg.jpg" data-tags="90s" role="button">
-Billy Bragg - Don't Try This at Home (1991-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
-</li>
-<li data-cover="https://img.discogs.com/49TupoOfFHnaBKm9RkvrtSBCxxY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-752129-1587079583-5709.jpeg.jpg" data-tags="rap, 90s" role="button">
-Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of... (1992-03-24)
 </li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
@@ -225,9 +228,6 @@ DANGERDOOM - The Mouse and the Mask (2005-10-11)
 <li data-cover="https://img.discogs.com/uabzvAXqB5mOtROxF3rV2THuRWw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5013815-1382137753-7896.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Propagandhi - Potemkin City Limits (2005-10-18)
 </li>
-<li data-cover="https://img.discogs.com/3g5uzWFn4SjP7kgu5-OA8CgZ_l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8721669-1467335974-4536.jpeg.jpg" data-tags="rock, reggae, folk, folk-rock, acoustic, political, reggae-rock" role="button">
-State Radio - Peace Between Nations (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/0de04796-e829-4e05-a09d-3ca62258ef61/6614281778-500.jpg" data-tags="alternative rock, political" role="button">
 Cire - Wholesale Buyout (2006)
 </li>
@@ -258,12 +258,6 @@ Nine Inch Nails - Year Zero (2007-04-14)
 <li data-cover="https://img.discogs.com/uP7OSNvHPtEOToQTXuZU0PGJyAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963312-1475914392-4721.jpeg.jpg" data-tags="folk rock" role="button">
 The Nightwatchman - One Man Revolution (2007-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
-Ari Koivunen - Fuel For The Fire (2007-05-24)
-</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/4308166d-aa0d-470e-adc9-b62caab2ef68/3202117662-500.jpg" data-tags="alternative metal" role="button">
 Serj Tankian - Elect the Dead (2007-08-20)
 </li>
@@ -279,8 +273,14 @@ Flobots - Fight With Tools (2007-10-16)
 <li data-cover="http://coverartarchive.org/release/f7aac2ef-4994-43e7-bdd9-b557bac3f9bd/2156331272-500.jpg" data-tags="hip-hop, chill, svenskt, feel good, political, swedish hip-hop" role="button">
 Afasi & Filthy - Fläcken (2008-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1b6aa2f-bf89-4a59-8b8c-bca2f56f1756/2598509312-500.jpg" data-tags="turk, world, political, world music" role="button">
+Bandista - de te fabula narratur (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/2e9c87e2-c17b-48dc-b1e9-5bb267634e37/4802744422-500.jpg" data-tags="punk rock" role="button">
 Propagandhi - Supporting Caste (2009-03-09)
+</li>
+<li data-cover="https://img.discogs.com/jVhD2t-MCj52UbrwsoYG_YZAlzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523458-1288654372.jpeg.jpg" data-tags="rock, alternative rock, hip-hop" role="button">
+Flobots - Survival Story (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/26937850260-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Le Noise (2010-09-24)

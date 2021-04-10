@@ -1,19 +1,19 @@
 ---
-date: 2021-04-09T07:42:06.912Z
+date: 2021-04-10T02:40:01.410Z
 title: "surf: 100 albums you must listen to before you die"
 ---
 ![Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)](http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg "Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/70538a32-f163-4896-a22f-90a1f529ca56/14713576932-500.jpg" data-tags="surf, beach boys, rock" role="button">The Beach Boys - Stack-O-Tracks (1968-08-19)</li>
+<li data-cover="https://img.discogs.com/diBFTozZc_XMIj_DaE1xto6-6rY=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-693375-1313780934.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">Slightly Stoopid - Everything You Need (2003-03-18)</li>
-<li data-cover="http://coverartarchive.org/release/b6daa9c7-94c3-4453-8bc4-e74e5a47249e/6960638372-500.jpg" data-tags="folk, surf, australian, acoustic" role="button">Xavier Rudd - Solace (2004-03-28)</li>
+<li data-cover="http://coverartarchive.org/release/27f926ab-ff13-4be5-bebe-99e5e23e426e/5749835402-500.jpg" data-tags="surf" role="button">The Beautiful Girls - Learn Yourself (2003-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)</li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">The Supervillains - Grow Yer Own (2006)</li>
-<li data-cover="https://img.discogs.com/nOBAugDW1cb0hj4Wxp87YQC90wc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1516652-1586769598-1199.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">Donavon Frankenreiter - Move By Yourself (2006-06-06)</li>
 <li data-cover="https://img.discogs.com/lwkGNhHJvvJVL1mkDqV5DD_js8g=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065389-1189602288.jpeg.jpg" data-tags="surf, australian" role="button">Xavier Rudd - White Moth (2007-06-02)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">Washed Out - Within and Without (2011-07-06)</li>
-<li data-cover="http://coverartarchive.org/release/68a6f03a-20ec-4bee-84a6-926f3a234e1f/15821020755-500.jpg" data-tags="indie rock, indie pop" role="button">Real Estate - Days (2011-10-17)</li>
+<li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">Best Coast - The Only Place (2012-03-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,17 +33,11 @@ The Ventures - Surfing (1963-04)
 <li data-cover="https://img.discogs.com/_DQavv8DT-REm9P13B67jLCuywE=/fit-in/590x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385990-1328699490.jpeg.jpg" data-tags="surf rock, garage rock, surfin bird" role="button">
 The Trashmen - Surfin' Bird (1964)
 </li>
-<li data-cover="http://coverartarchive.org/release/5aee80ba-d81c-47e8-b20d-8a2f39668fea/3174149959-500.jpg" data-tags="60s" role="button">
-The Beach Boys - Smiley Smile (1967-09-05)
-</li>
 <li data-cover="https://img.discogs.com/3nlui8RGMT03SNYnA-IgPa94BMQ=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6869769-1428774685-1743.jpeg.jpg" data-tags="instrumental, classic rock, surf" role="button">
 The Ventures - Hawaii Five-O (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/70538a32-f163-4896-a22f-90a1f529ca56/14713576932-500.jpg" data-tags="surf, beach boys, rock" role="button">
 The Beach Boys - Stack-O-Tracks (1968-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/30f4bea8-27a1-3f55-b436-a804e45fa701/22612433836-500.jpg" data-tags="70s, psychedelic pop, most depressing album cover ever" role="button">
-The Beach Boys - Surf's Up (1971-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/44a77f28-c0c8-4b9c-ac11-2ba56e00ddfe/2221926630-500.jpg" data-tags="punk, surf punk" role="button">
 Agent Orange - Living In Darkness (1981-11-19)
@@ -75,23 +69,14 @@ Uncle Tupelo - Still Feel Gone (1991-09-17)
 <li data-cover="http://coverartarchive.org/release/8eba350a-5f56-4c19-99d7-7ddd26e89535/16705043688-500.jpg" data-tags="surf" role="button">
 Dick Dale and His Del-Tones - Greatest Hits 1961 - 1976 (1992-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/810a0525-8457-4184-973d-0ea2370faa76/13970145047-500.jpg" data-tags="surf" role="button">
-Dick Dale - Tribal Thunder (1993)
-</li>
 <li data-cover="http://coverartarchive.org/release/1933de01-235c-4252-8acc-20bafbee6f23/16217895857-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Destroy all Astromen! (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2674024-e465-459e-97dd-952f5f3bda81/6366189872-500.jpg" data-tags="surf" role="button">
-Dick Dale - Unknown Territory (1994)
 </li>
 <li data-cover="https://img.discogs.com/0lt0VPynj-LOuYonLu-nUk0mr3Y=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1190936-1342893999-8971.jpeg.jpg" data-tags="surf, surf rock, merkliste" role="button">
 Man or Astro-Man? - Your Weight On The Moon (1994-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b60147b4-f182-44cc-a359-58db5985d78a/28638241946-500.jpg" data-tags="surf" role="button">
 The Trashmen - Comic Book Collector (1995)
-</li>
-<li data-cover="https://img.discogs.com/cDBVtJVJF3puujxv0l-lg3JME-c=/fit-in/283x282/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1601231-1268663908.jpeg.jpg" data-tags="90s, indie pop, lo-fi, elephant 6, indie-pop" role="button">
-The Apples in Stereo - Fun Trick Noisemaker (1995-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/59426b59-a04c-4d5a-907d-fb9fd58bf738/20987635298-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Project Infinity (1995-06)
@@ -108,14 +93,26 @@ Frank Black - The Cult Of Ray (1996-01-19)
 <li data-cover="http://coverartarchive.org/release/20532932-c1f1-4c78-9127-4d8cdc5ad7b4/10425417412-500.jpg" data-tags="instrumental, surf, surf rock" role="button">
 Man or Astro-Man? - Experiment Zero (1996-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/588c155e-5905-49b7-934a-c0bdfaa5b6b9/15586507441-500.jpg" data-tags="surf, bl00d7 m4r7" role="button">
+The Volcanos - Surf Quake (1996-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d5af185-00b2-4c2a-8b6b-334bd098b910/28890692101-500.jpg" data-tags="surf, surf rock" role="button">
+Laika & The Cosmonauts - Absurdistan (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/a1904868-e9ab-4fd7-825e-842ca12f80fa/4517336324-500.jpg" data-tags="surf" role="button">
+The Bambi Molesters - Dumb Loud Hollow Twang (1997)
+</li>
 <li data-cover="https://img.discogs.com/CDmrFOv2u2wj_rw_DHJiP9ZsPWs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14653847-1579014090-4769.jpeg.jpg" data-tags="surf" role="button">
 Dick Dale - The Best of Dick Dale & His Del-tones (1997)
 </li>
-<li data-cover="https://img.discogs.com/FcagISxJDgeM-Lv70zpZT8NQigE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-32571-1507461325-2756.jpeg.jpg" data-tags="downtempo" role="button">
-Sofa Surfers - Transit (1997-08-19)
+<li data-cover="http://coverartarchive.org/release/6f338b57-cfc9-4355-a2bf-628181019ee6/9165076914-500.jpg" data-tags="surf, experimental, robot rock" role="button">
+Man or Astro-Man? - 1000X (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/15526833-fec3-49eb-b587-3e2debd3ef67/5813876796-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Made From Technetium (1997-09-02)
+</li>
+<li data-cover="https://img.discogs.com/Dbynx4lWCcOI8sdVFzhDgTNzGx0=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503660-1583953406-6793.jpeg.jpg" data-tags="surf rock, surf" role="button">
+The Surfaris - Surfers Rule (1998)
 </li>
 <li data-cover="https://img.discogs.com/oOu0tXKOjtAdbvdCWJVZx4JSIvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400111-1243787011.jpeg.jpg" data-tags="indie, rock, alternative, indie rock" role="button">
 Frank Black and the Catholics - Frank Black and The Catholics (1998-04-20)
@@ -135,8 +132,17 @@ Clinic - Clinic (1999-04-19)
 <li data-cover="http://coverartarchive.org/release/80637d8b-5372-4185-9324-665312d1607e/7357477241-500.jpg" data-tags="ska" role="button">
 Sublime - Greatest Hits (1999-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f05fc99-a1f8-4ddd-ae9b-364cd212e0ec/14162209274-500.jpg" data-tags="indie, rock, alternative rock, surf, female vocalists, brasil, garage rock, brazilian, brazilian rock, nacional, discos 2010" role="button">
+Autoramas - Stress, Depressão & Síndrome do Pânico (2000)
+</li>
+<li data-cover="https://img.discogs.com/Ns_1oP_oKZZuapSj_hpzxmCTIig=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3150112-1318084280.jpeg.jpg" data-tags="surf" role="button">
+Deadbolt - Hobo Babylon (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/a184f523-eae7-4b3e-add4-41c55ff6e841/6521522396-500.jpg" data-tags="classic rock" role="button">
 The Beach Boys - The Very Best of The Beach Boys (2001-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e1d7d161-d216-3f04-9dd3-349bf6191148/23354822195-500.jpg" data-tags="surf, surf rock" role="button">
+Dick Dale - Spacial Disorientation (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1032ded2-d9db-3f48-b25a-d2c065c2ee9e/24967222389-500.jpg" data-tags="japanese, rock, surf, garage rock" role="button">
 The 5.6.7.8's - Teenage Mojo Workout (2002)
@@ -150,20 +156,17 @@ Sofa Surfers - Encounters (2002-01-24)
 <li data-cover="http://coverartarchive.org/release/2d7d4335-d422-4086-930c-6b84182f0113/7736619608-500.jpg" data-tags="psychobilly, ipecac" role="button">
 Messer Chups - Crazy Price (2003)
 </li>
+<li data-cover="https://img.discogs.com/EaI2xdKKAz3G9krzAGbLIseXN2g=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-548873-1375460544-4008.jpeg.jpg" data-tags="surf" role="button">
+Langhorns - Mission Exotica (2003-02-24)
+</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc67270e-5cd7-4c47-ae59-773e23216fb4/18229562558-500.jpg" data-tags="indie" role="button">
 Yo La Tengo - Summer Sun (2003-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9168cdc-5131-454c-a754-0cfed305a304/8191189974-500.jpg" data-tags="alternative, jam band" role="button">
-O.A.R. - In Between Now and Then (2003-05-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/27f926ab-ff13-4be5-bebe-99e5e23e426e/5749835402-500.jpg" data-tags="surf" role="button">
 The Beautiful Girls - Learn Yourself (2003-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6daa9c7-94c3-4453-8bc4-e74e5a47249e/6960638372-500.jpg" data-tags="folk, surf, australian, acoustic" role="button">
-Xavier Rudd - Solace (2004-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9def2489-d952-4325-88df-d3b09667e9f0/22134783207-500.jpg" data-tags="surf, surf rock" role="button">
 Lost Acapulco - Acapulco Golden (2004-05)
@@ -171,8 +174,8 @@ Lost Acapulco - Acapulco Golden (2004-05)
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
 Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7b2aa52-2189-486a-aa6f-de095ddfd019/1602455849-500.jpg" data-tags="classic rock, pop, baroque pop" role="button">
-Brian Wilson - SMiLE (2004-09-28)
+<li data-cover="https://img.discogs.com/nEK0kFJVh-KgvHJmB_0R8SZ27cU=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4615754-1370020221-6824.jpeg.jpg" data-tags="surf" role="button">
+Red Elvises - Lunatics & Poets (2004-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7133d73d-2eb1-4dcd-af07-ba8ac48455d3/6419334015-500.jpg" data-tags="surf, retro, psychobilly" role="button">
 Messer Chups - Hyena Safari (2005)
@@ -186,6 +189,9 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="https://img.discogs.com/_-sYDENbhimRP2fWXuEIoOrn7Nc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-947558-1271119180.jpeg.jpg" data-tags="japanese, surf, hawaii, bilingual, must have, music i like but dont own" role="button">
 Def Tech - Def Tech (2005-01-21)
 </li>
+<li data-cover="https://img.discogs.com/89BscsZ5gp_OLkxKGeyZL63Ks58=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2271346-1274280912.jpeg.jpg" data-tags="chill, rock, alternative, reggae, surf, blues, world music, good spirit xavier rudd" role="button">
+Xavier Rudd - Good Spirit (2005-04-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/38b2dbf5-2a47-468c-a07b-79578423e5d0/14712475865-500.jpg" data-tags="60s, surf, easy listening, soft rock, oldies, library, the beach boys, lossless, t b boys, br5albums, br5next" role="button">
 The Beach Boys - The Platinum Collection (2005-05-30)
 </li>
@@ -194,9 +200,6 @@ The Aquabats - Charge!! (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a109f2c5-aa07-4e37-95b0-965718c5d96d/6453800513-500.jpg" data-tags="indie, cambodian, aj playlist" role="button">
 Dengue Fever - Escape From Dragon House (2005-09-13)
-</li>
-<li data-cover="https://img.discogs.com/y9HiKXNG-zkOzdSGYJAa6--hipk=/fit-in/583x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1330312-1210190090.jpeg.jpg" data-tags="acoustic, folk" role="button">
-Xavier Rudd - Food In The Belly (2005-10-24)
 </li>
 <li data-cover="https://img.discogs.com/GMix0TOg-nDA75WFJ0EBwOVy1jE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-562303-1487858805-5534.jpeg.jpg" data-tags="noise, electronica, rock, punk, surf, ambient, new wave, shoegaze, post punk, psychobilly, garage, ambient dub, rocknroll, dreampop, stuff to check out, psybient, psychedelic ambient, spacerock, bcore, spanish indie, psyambient, bilbao, recently played, zxzw, zxzw 2008, neopsychedelia" role="button">
 Capsula - Synthesis of Reality (2005-11-04)
@@ -207,17 +210,23 @@ State Radio - Us Against The Crown (2005-12-20)
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/7badaf1a-a695-405a-a98f-172b99c08a99/5355294855-500.jpg" data-tags="surf, psychobilly, neo-rockabilly, henryatlast, triple deuces" role="button">
+The Chop Tops - Triple Deuces (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/abc685a8-6339-4b71-bd30-1fb9b4b48ae1/2203270543-500.jpg" data-tags="chill, reggae, surf, summer, california, beach, reggae-rock, bally, happy music for work" role="button">
 Ballyhoo! - Do It For The Money! (2006-01-24)
-</li>
-<li data-cover="https://img.discogs.com/nOBAugDW1cb0hj4Wxp87YQC90wc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1516652-1586769598-1199.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">
-Donavon Frankenreiter - Move By Yourself (2006-06-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae rock" role="button">
 Slightly Stoopid - Winter Tour '05-'06 (2006-06-27)
 </li>
+<li data-cover="https://img.discogs.com/5vS-ovT4MtsZtK0XsLSFYykA-aM=/fit-in/597x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817925-1161891332.jpeg.jpg" data-tags="surf, surf rock, rock, instrumental, instrumental rock, instrumental surf" role="button">
+The Phantom Four - Madhur (2006-08-21)
+</li>
 <li data-cover="https://img.discogs.com/wJOK4lj6EB6Ax9jtBzFWjIh01h0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041314-1311448693.jpeg.jpg" data-tags="surf" role="button">
 Los Tiki Phantoms - Regresan De La Tumba (2007-03-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/035a1bcc-8b8d-4f84-bd55-d89191fdd5b4/2992217469-500.jpg" data-tags="surf, indie pop, summer, soft, beach, sixties, shuffle, cry, brian wilson, bauns, fuckin good, boys dressed up in velvet, teenagelove" role="button">
+Velour - Undress Your Alibis (2007-04-12)
 </li>
 <li data-cover="https://img.discogs.com/73m52PGEC3a-sCfvYU8yVPJ7H5Y=/fit-in/162x161/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3540716-1364460599-3207.jpeg.jpg" data-tags="surf" role="button">
 Autoramas - Teletransporte (2007-05-10)
@@ -231,14 +240,8 @@ Messer Chups - Zombie Shopping (2007-09-23)
 <li data-cover="http://coverartarchive.org/release/c3cc8759-010c-4212-8068-5c4052401514/4948990703-500.jpg" data-tags="oldies" role="button">
 The Ventures - The Very Best Of The Ventures (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/8725f303-1085-49d8-843c-412e696b04f4/6453716265-500.jpg" data-tags="indie" role="button">
-Dengue Fever - Venus On Earth (2008-01-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a25f4c3-bdeb-4420-9a74-0e1d8a560ddf/17893434961-500.jpg" data-tags="alternative, alternative rock" role="button">
 Xavier Rudd - Dark Shades of Blue (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/e043c3b4-3f03-4b8f-b8ba-356a7c5a3ac5/13295996521-500.jpg" data-tags="flawless" role="button">
-Ducktails - Ducktails (2009)
 </li>
 <li data-cover="https://img.discogs.com/DPyo-rHyf-SDq975sqF1hQ2TTgQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2020698-1258986704.jpeg.jpg" data-tags="surf" role="button">
 Messer Chups - Heretic Channel (2009-02)
@@ -248,9 +251,6 @@ Mishka - Above The Bones (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/766cf545-9651-4728-85e0-230d29adf83c/15868890607-500.jpg" data-tags="surf, usa, strange, psychedelic, california, garage, debut album, the desperate kingdom of love, 30 strand grass, 4jsfolk, q3jslfm, you cant be wise and then love at the same time, track to check again, stuff i still want to discover, 2unban" role="button">
 The Growlers - Are You In Or Out? (2009-10-06)
-</li>
-<li data-cover="https://img.discogs.com/sWHNkv0pmoiARb1DPZuRZf8iNaQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-615069-1458945321-7238.jpeg.jpg" data-tags="classic rock, surf, surf rock" role="button">
-Dick Dale - Guitar Legend: The Very Best Of Dick Dale (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d3488d4-f797-4508-b3b8-9b94d1d5e12f/13607085685-500.jpg" data-tags="surf, lo-fi pop, post present medium, ppm" role="button">
 Best Coast - Something In The Way (2010-02-09)
@@ -263,9 +263,6 @@ The Sadies - Darker Circles (2010-05-18)
 </li>
 <li data-cover="https://img.discogs.com/NeBBu5EEP2XGecymLXlAwoGnSSs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297842-1490435079-4947.jpeg.jpg" data-tags="dream pop" role="button">
 Wild Nothing - Gemini (2010-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8fb46b8-c4b4-4e27-9ab7-c0421f110cb5/4644693414-500.jpg" data-tags="electronic" role="button">
-Trentemøller - Into the Great Wide Yonder (2010-05-28)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
@@ -288,8 +285,11 @@ Woods - Sun and Shade (2011-05-31)
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/68a6f03a-20ec-4bee-84a6-926f3a234e1f/15821020755-500.jpg" data-tags="indie rock, indie pop" role="button">
-Real Estate - Days (2011-10-17)
+<li data-cover="https://img.discogs.com/HmgLLpLkygTl-oHjG_R6LwXE2zI=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3400276-1329066356.jpeg.jpg" data-tags="surf, noise rock, shoegaze, surf rock, surfgaze" role="button">
+Odonis Odonis - Hollandaze (2011-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/03fc6ff8-03a5-4846-b520-0cbb5bcee6f6/14656585932-500.jpg" data-tags="trip-hop, essential albums for the aspiring wizard" role="button">
+Lilacs & Champagne - Lilacs & Champagne (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)

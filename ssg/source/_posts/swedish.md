@@ -1,10 +1,11 @@
 ---
-date: 2021-04-09T18:19:01.453Z
+date: 2021-04-10T02:43:01.411Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">ABBA - Arrival (1976-10-11)</li>
+<li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">The Sounds - Living in America (2002)</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
@@ -13,7 +14,6 @@ title: "swedish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
 <li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">Junip - Fields (2010-09-10)</li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">Miike Snow - Happy To You (2012-03-13)</li>
-<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">Avicii - True (2013-08-13)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -107,6 +107,9 @@ The Hives - Tyrannosaurus Hives (2004-07-19)
 </li>
 <li data-cover="https://img.discogs.com/CJ861fOtI0Gng33HQE_sqE5PSSA=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3566995-1521526336-9419.jpeg.jpg" data-tags="rock, indie rock" role="button">
 Mando Diao - Hurricane Bar (2004-09-08)
+</li>
+<li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
+Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, swedish" role="button">
 Acid House Kings - Sing Along With Acid House Kings (2005)
@@ -296,9 +299,6 @@ Junip - Junip (2013-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, female vocalists" role="button">
 Say Lou Lou - Julian (2013-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
-Avicii - True (2013-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
 Icona Pop - This Is... Icona Pop (2013-08-27)

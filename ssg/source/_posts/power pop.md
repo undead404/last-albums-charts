@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:53:01.475Z
+date: 2021-04-10T01:57:01.421Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -27,26 +27,20 @@ Big Star - #1 Record (1972)
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/1e33bfe8-0eaf-4b27-a689-0142b324006e/9518303156-500.jpg" data-tags="70s, power pop" role="button">
-Big Star - Third - Sister Lovers (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/270dca36-2e04-4efe-8698-16d574daf8fd/4921979307-500.jpg" data-tags="new wave, rock, 70s" role="button">
 The Cars - The Cars (1978-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
+The Replacements - Let It Be (1984-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3adae32-66d6-4255-92b3-fb5bceaf3b2c/5642356116-500.jpg" data-tags="alternative rock, 80s" role="button">
 The Replacements - Tim (1985-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/95beab7d-97df-4acc-8936-9c11f8e9ca46/8959933482-500.jpg" data-tags="rock, 90s, greatest albums of the 90s" role="button">
-Matthew Sweet - Girlfriend (1991-10-22)
-</li>
-<li data-cover="https://img.discogs.com/zrffJsrUfjev7tBMhpGlX7HYBBk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2724504-1298193243.jpeg.jpg" data-tags="90s" role="button">
-Gin Blossoms - New Miserable Experience (1992-08-04)
 </li>
 <li data-cover="https://img.discogs.com/qVc8tzano21PrFKiG8HBdphJ1tE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2016906-1477584476-3334.jpeg.jpg" data-tags="indie, pop, alternative rock, indie pop, power pop, britpop, jangle pop, snow patrol, 1985-94" role="button">
 The Wannadies - Be a Girl (1994)
@@ -59,9 +53,6 @@ The Rembrandts - L.P. (1995-05-23)
 </li>
 <li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Grand Prix (1995-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/29db868e-db44-4bb9-87e1-c857a06dad09/1517121530-500.jpg" data-tags="indie pop, 90s, alternative" role="button">
-The Rentals - Return of the Rentals (1995-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
 Super Furry Animals - Fuzzy Logic (1996-05-20)
@@ -86,6 +77,9 @@ Hole - Celebrity Skin (1998-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
 Fountains of Wayne - Utopia Parkway (1999-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e3aa402-f384-4043-9da4-a74808e3a212/1650382862-500.jpg" data-tags="rock" role="button">
+Tal Bachman - Tal Bachman (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/306bf653-67fb-3788-9775-f44e4dc066be/26271448429-500.jpg" data-tags="power pop" role="button">
 Super Furry Animals - Guerrilla (1999-06-07)
@@ -161,6 +155,9 @@ The New Pornographers - Twin Cinema (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
 Girls Aloud - Chemistry (2005-12-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
+Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
@@ -311,6 +308,9 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/571feff4-76c9-49e8-8fb9-04cf265c433c/4914393030-500.jpg" data-tags="pop, roar" role="button">
 Katy Perry - Roar (2013-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d857435-09f1-4361-b7ed-b75683b47c49/18994749377-500.jpg" data-tags="alternative rock, power pop, pop rock, nu metal, female fronted" role="button">
+Guano Apes - Offline (2014-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fff52f3-67b8-46bf-93a6-ad43e285601d/8368597159-500.jpg" data-tags="rock, power pop" role="button">
 Weezer - Everything Will Be Alright in the End (2014-07-10)

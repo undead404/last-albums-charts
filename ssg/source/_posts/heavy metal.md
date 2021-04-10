@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:14:01.436Z
+date: 2021-04-10T02:19:01.524Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -60,6 +60,9 @@ Iron Maiden - Killers (1981-02-02)
 <li data-cover="http://coverartarchive.org/release/5073ba98-868e-43af-aa54-2e2b5b63fa04/7124923543-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Diary of a Madman (1981-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/304ecbca-cee0-3bba-af15-7e3c27f022b3/12567066048-500.jpg" data-tags="heavy metal" role="button">
+Manowar - Battle Hymns (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/4cc5c04c-3051-400a-bca7-09c8dbac0020/12220437049-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Iron Fist (1982-04-03)
 </li>
@@ -111,20 +114,11 @@ Motörhead - No Remorse (1984-09-15)
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
+Manowar - Fighting the World (1987-02-17)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/4dede30f-58cf-4d43-a857-b342ad7be945/1810188979-500.jpg" data-tags="thrash metal" role="button">
-Metallica - ...and Justice for All (1988)
-</li>
-<li data-cover="https://img.discogs.com/7O78wv6sPhnNgvthPJTCJjXZXRU=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5798839-1569091694-5128.jpeg.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/656243aa-0033-448c-91e1-ae50a0f5ac0d/16084924681-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Danzig - Danzig (1988-08-30)
-</li>
-<li data-cover="https://img.discogs.com/EdSZbcoz4dxDT6m3xqQQA2bXWmk=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075050-1483092089-2650.jpeg.jpg" data-tags="heavy metal" role="button">
-Manowar - Kings of Metal (1988-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">
 Skid Row - Skid Row (1989-01-24)
@@ -140,6 +134,9 @@ Judas Priest - Painkiller (1990-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Rust In Peace (1990-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/c280af5a-666b-3221-9d1f-a12b674ddf54/11350701340-500.jpg" data-tags="hard rock" role="button">
+AC/DC - The Razors Edge (1990-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/77ac07fc-c17a-4ab6-bddc-88d352b681d3/7847685484-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - No Prayer For The Dying (1990-10-01)
@@ -227,6 +224,9 @@ Disturbed - Believe (2002-09-16)
 </li>
 <li data-cover="https://img.discogs.com/akYypPVwureTC5Kj_1MQmg24GcI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1755193-1564071870-9517.jpeg.jpg" data-tags="thrash metal" role="button">
 Metallica - Master of Puppets (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
+Black Label Society - The Blessed Hellride (2003-03-29)
 </li>
 <li data-cover="https://img.discogs.com/KRMTwE7qWAZAHT2B0pdhwNqZyXc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297711-1207470861.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)

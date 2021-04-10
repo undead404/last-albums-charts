@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:15:01.355Z
+date: 2021-04-10T02:04:01.385Z
 title: "dsbm: 100 albums you must listen to before you die"
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
@@ -26,9 +26,6 @@ Forgotten Woods - As the Wolves Gather (1994-12)
 </li>
 <li data-cover="https://img.discogs.com/zyLdUc7gm5THqsmKKsc2uCYUjuc=/fit-in/200x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737385-1153585016.jpeg.jpg" data-tags="black metal" role="button">
 Forgotten Woods - Sjel Av Natten (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/da82d909-87f8-498e-a19d-715ec3942506/9995860894-500.jpg" data-tags="black metal" role="button">
 I Shalt Become - Wanderings (1996)
@@ -60,7 +57,7 @@ Xasthur - Nocturnal Poisoning (2002-08)
 <li data-cover="http://coverartarchive.org/release/9398f7be-b844-445d-b20f-940f362788a0/2696004207-500.jpg" data-tags="black metal, depressive black metal" role="button">
 Luror - The Iron Hand of Blackest Terror (2003-04)
 </li>
-<li data-cover="https://img.discogs.com/weXpoJ89gZp3sseqde66Syp0sMc=/fit-in/600x959/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3240616-1446731476-2789.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc2e6f32-2f93-41e7-8930-6485122e7052/3020431710-500.jpg" data-tags="folk" role="button">
@@ -83,9 +80,6 @@ Forgotten Tomb - Love's Burial Ground (2004-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bdc3ee4-4461-41b9-bfe8-80d1370ac7f7/15104130412-500.jpg" data-tags="black metal" role="button">
 Endless Dismal Moan - Endless Dismal Moan (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/l0EMlDT4Hlic6m6QW9DffGIshJk=/fit-in/208x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714855-1238727713.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
-Xasthur - Subliminal Genocide (2005)
 </li>
 <li data-cover="https://img.discogs.com/oGBIFi5FCQc7f2T-cvrx18ck0PE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4805821-1376082748-7333.jpeg.jpg" data-tags="black metal, melodic black metal, depressive black metal, dsbm, depressive suicidal black metal" role="button">
 Thy Light - The Call Of The Dark Forest (2005)
@@ -132,11 +126,14 @@ Amesoeurs - Ruines Humaines (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/d071c373-bf9b-423e-b67b-dd3f18515da0/26266848549-500.jpg" data-tags="black metal" role="button">
 Leviathan - The Blind Wound (2006-12-07)
 </li>
-<li data-cover="https://img.discogs.com/K0XauL3trsEH4sfbzdvCoKSbddY=/fit-in/165x165/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2823841-1302669746.jpeg.jpg" data-tags="black metal, dsbm, hipster, burzum, depressive suicidal black metal, posluchac, songs to play after you sit for an hour waiting for a bus, hipsturd" role="button">
+<li data-cover="https://img.discogs.com/RQIA6iEry0WCcH7jEFmVkepZ8gI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16235335-1605730084-2751.jpeg.jpg" data-tags="black metal, dsbm, hipster, burzum, depressive suicidal black metal, hipsturd" role="button">
 Happy Days - A World of Pain (2007)
 </li>
 <li data-cover="https://img.discogs.com/tBzdBPfY0muNim6CfZOIftB8BmQ=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9018277-1473354726-4218.jpeg.jpg" data-tags="black metal, usa, demo, suicidal black metal, depressive black metal, dsbm, usa black metal" role="button">
 Happy Days - Alone And Cold (2007)
+</li>
+<li data-cover="https://img.discogs.com/XLqywkc4l36OifdWetqhWCPHh0g=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1778197-1399131414-1493.jpeg.jpg" data-tags="black metal, atmospheric black metal, dsbm" role="button">
+Taarma - Remnants of a Tormenting Black Shadow (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/acd2c865-d6c2-44c4-ad3f-d3428cdb168d/1229282462-500.jpg" data-tags="black metal, depressive black metal" role="button">
 Thy Light - Suici.De.pression (2007)
@@ -255,7 +252,7 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 <li data-cover="http://coverartarchive.org/release/5f34173c-16e5-4d05-b6a6-fe0ff7456d4d/2501261681-500.jpg" data-tags="black metal, depressive black metal, dsbm, depressive suicidal black metal" role="button">
 Photophobia - Humana Fragilitas (2010-11-30)
 </li>
-<li data-cover="https://img.discogs.com/zvAFtFmy_e_YQYTVv4ZpCmMupqI=/fit-in/444x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-900364-1358775541-5248.jpeg.jpg" data-tags="black metal, swedish, funk metal, funk, funky, funk rock, dsbm, swedish black metal, true funk metal, trve funk metal" role="button">
+<li data-cover="https://img.discogs.com/VUzMraZzaIjytwqIyFN9NZ__reU=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3099962-1322204236.jpeg.jpg" data-tags="black metal, swedish, funk metal, funk, funky, funk rock, dsbm, swedish black metal, true funk metal, trve funk metal" role="button">
 Woods of Infinity - Förlåt (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/80e40eaa-142f-44d9-b7db-c112caa63cf1/2275047821-500.jpg" data-tags="depressive black metal" role="button">
@@ -288,6 +285,9 @@ Wintercult - Neverending Selfhatred (2012-02-16)
 <li data-cover="https://img.discogs.com/UeFvhC8W0-QJDCnvAyxJFfFjQME=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3639110-1338460689-5836.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
 Happy Days - Cause of Death: Life (2012-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/8722dd94-cadc-4800-a7fb-29c78423e255/2833573118-500.jpg" data-tags="black metal, post-rock, shoegaze, atmospheric black metal, depressive black metal, dsbm" role="button">
+Apocynthion - Correlations (2012-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/dc405478-0e19-4105-ab85-832802e83d48/5247770187-500.jpg" data-tags="post-rock, atmospheric black metal" role="button">
 Windbruch - No Stars, Only Full Dark (2012-03-09)
 </li>
@@ -306,7 +306,7 @@ An Autumn for Crippled Children - Only the Ocean Knows (2012-09-28)
 <li data-cover="http://coverartarchive.org/release/fcb73f6b-c640-4e3b-be21-153ae1d2e89f/10108979133-500.jpg" data-tags="shoegaze, blackgaze" role="button">
 An Autumn for Crippled Children - Hearts of Light | Blossoms (2013-02-11)
 </li>
-<li data-cover="https://img.discogs.com/tzeD9_8QLM8u3CAt0f_sBBBMT8E=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8530493-1566829774-4686.jpeg.jpg" data-tags="blackgaze" role="button">
+<li data-cover="https://img.discogs.com/uILGk_EJY0yRBHdqSYoWj5-YqVY=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4841931-1565596889-8810.jpeg.jpg" data-tags="blackgaze" role="button">
 Thränenkind - The Elk (2013-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/40180106-bacb-4b02-bed9-aaa902185ee4/9288587732-500.jpg" data-tags="suicidal black metal, depressive black metal, dsbm" role="button">

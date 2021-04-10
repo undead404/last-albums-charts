@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:10:01.606Z
+date: 2021-04-10T01:49:01.388Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -50,6 +50,9 @@ Minusbaby - Monkey Patch (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/64e3ab24-cb54-4828-83bf-a98f950d5633/1003890682-500.jpg" data-tags="electronica, 8-bit, russian, nintendocore, videogamecore, russian 8 bit" role="button">
 777minus111 - children of DOS (2004-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6372e259-413c-4d51-b591-25332c773865/1945393837-500.jpg" data-tags="instrumental, 8-bit, chiptunes, nintendo music" role="button">
+Psilodump - Washed (2004-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fc31b65-d3ed-4c0a-8da8-5217d66f9350/8425115741-500.jpg" data-tags="8-bit, chiptune" role="button">
 YMCK - Family Music (2004-11-03)
@@ -293,9 +296,6 @@ Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0268919b-57ca-4bf7-ab6c-08dc437272da/28838669770-500.jpg" data-tags="soundtrack" role="button">
 Danny Baranowsky - The Binding of Isaac (2011-09-28)
-</li>
-<li data-cover="https://img.discogs.com/plh8LBQniRHhM4Qj9K8Dv5c8M1U=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3148830-1318015914.jpeg.jpg" data-tags="dubstep" role="button">
-Rustie - Glass Swords (2011-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b90d2cf-9fbe-42ca-8b11-8a744331e9f7/1130981323-500.jpg" data-tags="8-bit" role="button">
 Disasterpeace - Deorbit (2011-11-02)

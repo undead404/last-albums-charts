@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:15:01.609Z
+date: 2021-04-10T02:20:01.443Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -42,14 +42,8 @@ Kate Bush - The Sensual World (1989-10-17)
 <li data-cover="https://img.discogs.com/L36s7FfcUjt4z9sprCNg4wtkERI=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994424-1431254085-4903.jpeg.jpg" data-tags="soundtrack" role="button">
 Judy Garland - The London Sessions (1992)
 </li>
-<li data-cover="https://img.discogs.com/oyescYj3RrjkBDR9Ds7yoF14ckQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-629591-1142681808.jpeg.jpg" data-tags="french" role="button">
-Vanessa Paradis - Vanessa Paradis (1992-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/75e0ef0e-0bb0-4418-bcee-ac765ef95a5b/1782305478-500.jpg" data-tags="ethereal" role="button">
 Love Spirals Downwards - Ever (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, new folk, ohio, sxsw, fivestar, visual, female voices, addictive, sweet, i like this, truth, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
-Over the Rhine - Good Dog Bad Dog: The Home Recordings (1996)
 </li>
 <li data-cover="https://img.discogs.com/EQNomXhVNPhOIDZyDrJEyBwchXk=/fit-in/600x936/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6140868-1412094829-3200.jpeg.jpg" data-tags="marilyn monroe" role="button">
 Marilyn Monroe - The Essential Recordings (1996)
@@ -84,17 +78,11 @@ Masha Qrella - Luck (2002-09-16)
 <li data-cover="http://coverartarchive.org/release/4b32b8a8-01a4-4f30-993c-13835fbf841d/13383637435-500.jpg" data-tags="female vocalists, girls, sex, euro trance, girl, god, sexy album covers, groove coverage, god is a girl" role="button">
 Groove Coverage - God Is A Girl (2002-11-11)
 </li>
-<li data-cover="https://img.discogs.com/MOMwHVe2p5W1t2C_WX2_dUESRmM=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-908095-1423688575-5624.jpeg.jpg" data-tags="country pop, pop, country" role="button">
-Shania Twain - Up! (2002-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/570b7d30-bf9e-4fe0-9b71-4c40545f2db5/5224988766-500.jpg" data-tags="female vocalists" role="button">
 Cyndi Lauper - The Essential Cyndi Lauper (2003-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/248c3bb0-f8dd-4898-a657-b008381a68f8/5682796712-500.jpg" data-tags="electronic, electropop, japanese, female vocalists, cute, girls, jpop, asian, j-pop, electro-pop, girl band, girl group, girl groups, group, girlband, idol, yasutaka nakata, asian music, asian pop, cute jpop" role="button">
 Perfume - モノクロームエフェクト (2004-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/165deaa5-a5ba-4170-842d-03496202c04a/1529579124-500.jpg" data-tags="pink, tags, shady, grady, shady grady, possibly auditory, clsid not unique, trip-hop, indie, female, male, rock, alternative, folk, female vocalists, dance, happy, fantastic, afternoon, girls, outsider, friendly, long, friend, pretty, like, soft, random, christian, why, poetic, provocative, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, recommended, game, inspirational, out, smart, worship, warm, north, place, depression, beach, pleasant, now, commercial, heart, visual, traditional, women, years, work, misogyny, sensual, lost, porn, monday, what, leaf, hole, woman, upcoming, single, fantasy, penis, tracks, sexual" role="button">
-Brigitte Bardot - The Best Of Bardot (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
 Charlotte Martin - On Your Shore (2004-08-10)
@@ -102,20 +90,17 @@ Charlotte Martin - On Your Shore (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/880db61c-d665-4fa4-9c0b-f5a6e1f7f216/11122787104-500.jpg" data-tags="indie, rock, indie rock, girls, great ep" role="button">
 Magneta Lane - The Constant Lover (2004-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
-Shania Twain - Greatest Hits (2004-11-08)
-</li>
 <li data-cover="https://img.discogs.com/K3VOhK0MFelMveTlj7fo5oHmjXU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710983-1150602556.jpeg.jpg" data-tags="female vocalist, showtunes, broadway, k chenoweth" role="button">
 Kristin Chenoweth - As I Am (2005-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/9057983d-9247-4607-aef0-888d595fb9cf/24008442870-500.jpg" data-tags="melancholy, folk, all time favorite records" role="button">
-Over the Rhine - Drunkard's Prayer (2005-03-29)
 </li>
 <li data-cover="https://img.discogs.com/sxYTqdcRpDhTIs31PX-UCuajF2w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2088976-1263339264.jpeg.jpg" data-tags="female vocalists" role="button">
 Susie Suh - Susie Suh (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3c617b-06af-4fa0-9f56-4f6ac896b2c2/20852828756-500.jpg" data-tags="hip hop, rap, funk, girls, fun, sugar, girl band, slam, girl rap, throw down, home rotation, saturday night hiphop" role="button">
 Yo Majesty - Yo EP (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd92a6d5-843d-4116-8515-4a9e36cee190/12776857878-500.jpg" data-tags="pop, jewel" role="button">
+Jewel - Goodbye Alice in Wonderland (2006-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
 Ingrid Michaelson - Girls and Boys (2006-05-16)
@@ -141,9 +126,6 @@ Nicole Scherzinger - Puakenikeni (2007-12-18)
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ca906ab-42c6-4742-946d-1f85da952504/2634411437-500.jpg" data-tags="jazz" role="button">
-Esperanza Spalding - Esperanza (2008-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a82ab6d3-ebad-49eb-8be4-a9d92e6f54bb/1542723631-500.jpg" data-tags="snsd, korean, k-pop, kpop" role="button">
 소녀시대 - Gee (2009-01-05)
 </li>
@@ -153,11 +135,14 @@ Kalafina - Lacrimosa (2009-03-04)
 <li data-cover="https://img.discogs.com/EcbSZSa_FTBD5vLNkUiDvOV-Ghc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7611822-1445122370-2468.jpeg.jpg" data-tags="female vocalists, j-pop" role="button">
 Kalafina - storia (2009-07-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
+T-ARA - Absolute First Album (2009-12-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/03567f57-0e50-4125-84fc-dc56cf024693/8393509772-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, seiyuu, girl band, girl group, girl groups, group, atmosphere, girlband, asian music, asian pop, voice actress" role="button">
+スフィア - A.T.M.O.S.P.H.E.R.E (2009-12-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/35b55bea-9d10-4dd8-8636-7d9961bf3ddf/3705570104-500.jpg" data-tags="rock, pop, alternative rock" role="button">
 Avril Lavigne - Alice (2010-01-29)
-</li>
-<li data-cover="https://img.discogs.com/zNUEtnAWIRR7JKuMt5cqzWZH01c=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3614960-1437950426-4273.jpeg.jpg" data-tags="female vocalists" role="button">
-Kina Grannis - Stairwells (2010-02-23)
 </li>
 <li data-cover="https://img.discogs.com/VGtnrM4WLQ_3WaoOaNZskk7P5yI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236730-1271526795.jpeg.jpg" data-tags="female vocalists" role="button">
 Kalafina - Red Moon (2010-03-17)
@@ -165,8 +150,11 @@ Kalafina - Red Moon (2010-03-17)
 <li data-cover="https://img.discogs.com/ZBup5Eg6NeLstu3wAjpWJmEDGaU=/fit-in/468x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15760060-1597275139-7938.jpeg.jpg" data-tags="girls, girl band, girl group, girl groups, taiwan, taiwanese, girlband, asian music, asian pop" role="button">
 S.H.E - SHERO (2010-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/82f002b0-6da7-42d4-9ad5-1aea3e4b65d3/6624527259-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alternative pop, warm, new folk, ohio, sxsw, visual, female voices, addictive, sweet, i like this, truth, cross rhythms, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, front porch, people who are freakier and folkier than motherfucking devendra banhart, shady, special, 2011 releases, river, north america, girls girls girls, i have seen live, relationships, really good, cosmic american music, husband and wife, down to earth, filtered, amazing vocals, real music" role="button">
-Over the Rhine - The Long Surrender (2010-04-23)
+<li data-cover="http://coverartarchive.org/release/c901475e-8840-44f5-a017-dcabffa0175b/1777817826-500.jpg" data-tags="j-pop, akb48, japanese, girl groups, idol" role="button">
+AKB48 - 神曲たち (2010-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/d838b77d-807f-3325-8886-6ac041b76fb9/4420723984-500.jpg" data-tags="japanese, female vocalists, dance, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
+ももいろクローバー - 行くぜっ!怪盗少女 (2010-05-05)
 </li>
 <li data-cover="https://img.discogs.com/LGFNw8dUst1I8LzGUmO36XtpaYI=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12072911-1528031508-7214.jpeg.jpg" data-tags="japanese" role="button">
 Scandal - TEMPTATION BOX (2010-08-11)
@@ -201,17 +189,23 @@ Mélanie Laurent - En t'attendant (2011-05-02)
 <li data-cover="http://coverartarchive.org/release/a720a3f4-a3c7-401f-abdd-2135f0c6dd98/6184121751-500.jpg" data-tags="j-pop, idol" role="button">
 ももいろクローバーZ - バトル アンド ロマンス (2011-07-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, asian, anime, j-pop, seiyuu, girl band, girl group, girl groups, group, girlband, asian music, asian pop, voice actress" role="button">
+RO-KYU-BU! - SHOOT! (2011-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/5db2b306-bcec-4781-b4fb-66bced1e6459/2928890778-500.jpg" data-tags="anime, j-pop" role="button">
+ClariS - nexus (2011-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, fantastic, girls, day, pretty, recommended, game, sometimes, inspirational, vocalists, pleasant, afrique, visual, women, lost, what, leaf, woman, single, girl, pleasing, something, afterlife, babe, verbal, ladies, when, where, satisfaction, richard, myself, you, else, thoughts, bananas, darlings, somewhere, bats, true, variable, awareness, miscellaneous, every, tasty, proper, the, alt, rich, can, shady, planet, only, one, swag, lady" role="button">
 Fatoumata Diawara - Fatou (2011-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c369d3f-c53e-4ec0-a651-979bb2b898c4/15584002891-500.jpg" data-tags="japanese, female vocalists, epic, ethereal, neoclassical" role="button">
-Kalafina - After Eden (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f978502e-6940-4f54-8e6b-c4bb7d6eeca1/7457150585-500.jpg" data-tags="k-pop, snsd" role="button">
 Girls' Generation - The Boys (2011-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/93c9676d-5648-475d-8d76-190c9faf69e9/4183552211-500.jpg" data-tags="j-pop" role="button">
 Perfume - スパイス (2011-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6349254-8a42-4797-9748-b3de6625bf63/26283470550-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
+SKE48 - オキドキ (2011-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfbf8d11-87fa-4ffc-8fb2-bb251fda3999/6190880306-500.jpg" data-tags="japanese, christmas, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 ももいろクローバーZ - 労働讃歌 (2011-11-23)
@@ -221,6 +215,9 @@ Perfume - JPN (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d187f6e4-9e17-4f7c-8d4f-aba4ebda4c02/24330266380-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, akb48, asian music, asian pop" role="button">
 AKB48 - 上からマリコ (2011-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc56ad5a-e4d0-448b-ab97-56c06c00a2af/21223513820-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, i've, asian music, asian pop" role="button">
+Larval Stage Planning - Trip -Innocent of D- (2012-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd810189-c202-4fdf-b830-d219e1b41c47/28892754744-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian music, asian pop" role="button">
 ClariS - ナイショの話 (2012-02-01)
@@ -266,6 +263,9 @@ Alicia Keys - Girl on Fire (2012-11-23)
 </li>
 <li data-cover="https://img.discogs.com/OFcrrfdWZsPVxszIoFdiiy58ayI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202479-1493604193-8446.jpeg.jpg" data-tags="ballads, christopher owens" role="button">
 Christopher Owens - Lysandre (2013-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/80a0ca23-3cdd-4484-8992-2549e4e272e6/6485768061-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+SUPER☆GiRLS - Celebration (2013-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/92f12c90-b11d-47f6-b94e-1c1f6b2ba393/15714276117-500.jpg" data-tags="japanese, female vocalists, dark, girls, jpop, asian, j-pop, girl band, girl groups, gloomy, asian pop, i love this fucking album" role="button">
 Kalafina - Consolation (2013-03-20)

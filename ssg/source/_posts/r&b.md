@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:20:01.453Z
+date: 2021-04-10T01:48:01.497Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/R1-z6HNPSAehczE8Fz4rVLETz7I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5943426-1461834840-3386.jpeg.jpg" data-tags="60s, blue-eyed soul" role="button">
-Van Morrison - Blowin' Your Mind! (1967)
-</li>
 <li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
 Little Feat - Dixie Chicken (1973-02)
 </li>
@@ -74,6 +71,9 @@ Mariah Carey - Rainbow (1999-10-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="joe, my name is joe, soul, rnb" role="button">
 Joe - My Name Is Joe (2000-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/96c789d8-5e4f-4fee-b4a6-5c3e43ac81e2/8188798739-500.jpg" data-tags="hip-hop, chillout, soul, r&b, rnb, slow jams, unlisted releases, soul train award best rnb soul album - female" role="button">
+Mýa - Fear of Flying (2000-04-25)
 </li>
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:11:01.449Z
+date: 2021-04-10T02:11:01.392Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -279,9 +279,6 @@ Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e09c94cb-e033-31ef-95c1-2ae22ca548b5/4723904214-500.jpg" data-tags="ska punk, have album" role="button">
-Bomb the Music Industry! - Get Warmer (2007-07-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">
 Streetlight Manifesto - Somewhere In The Between (2007-11-13)
 </li>
@@ -311,6 +308,9 @@ Bomb the Music Industry! - Adults!!!... Smart!!! Shithammered!!! And Excited By 
 </li>
 <li data-cover="http://coverartarchive.org/release/25a97fae-0cf7-4363-8fae-74b35ea88b14/4673555729-500.jpg" data-tags="rock, punk, reggae, ska punk" role="button">
 Sublime with Rome - Yours Truly (2011-07-08)
+</li>
+<li data-cover="https://img.discogs.com/yTE95Iyji3idxlRz5HoDfUyskHQ=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3902469-1582178853-6309.jpeg.jpg" data-tags="alternative, pop" role="button">
+No Doubt - Push and Shove (2012-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/58acf0d2-1f23-410a-a4d4-9a2f7213923a/1648091823-500.jpg" data-tags="ska punk" role="button">
 Reel Big Fish - Candy Coated Fury (2012-07-31)

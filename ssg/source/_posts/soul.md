@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:08:01.445Z
+date: 2021-04-10T02:39:01.451Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")

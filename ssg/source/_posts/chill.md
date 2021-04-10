@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:50:01.496Z
+date: 2021-04-10T01:51:01.402Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -57,9 +57,6 @@ Citizen Cope - Citizen Cope (2001)
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
-<li data-cover="https://img.discogs.com/W1ebskmATPP9dg6a2nWlvKk7Tmw=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-76745-1237046610.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
-Kings of Convenience - Quiet Is the New Loud (2001-01-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
@@ -77,6 +74,9 @@ Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
+</li>
+<li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
+Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
@@ -141,9 +141,6 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
-Kings of Convenience - Riot on an Empty Street (2004-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/ffb07277-c860-4ed0-957f-539096995573/17531246316-500.jpg" data-tags="chill, folk, singer-songwriter, folk rock, 00s" role="button">
 Griffin House - Lost & Found (2004-08-24)
 </li>
@@ -162,11 +159,14 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e721f43f-bac5-4459-a318-f47fe57b507a/15009927886-500.jpg" data-tags="chill, indie rock, female vocalist" role="button">
-Maria Taylor - 11:11 (2005-05-24)
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Slightly Stoopid - Closer To The Sun (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/123b84c6-d6da-3975-96ec-65ab937ee16a/19801864754-500.jpg" data-tags="indie, folk" role="button">
+Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
@@ -197,6 +197,9 @@ Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
+</li>
+<li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
+Ben Kweller - Ben Kweller (2006-09-19)
 </li>
 <li data-cover="https://img.discogs.com/cBeIDW7xK6KxSb-P0zJpViuKFyM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4853247-1597669352-9918.jpeg.jpg" data-tags="chillout, electronic, electronica, dance, faithless" role="button">
 Faithless - To All New Arrivals (2006-11-27)
@@ -249,9 +252,6 @@ Rebelution - Bright Side Of Life (2009-09-04)
 <li data-cover="http://coverartarchive.org/release/f3a962e3-0c46-4c3a-aeb9-a8efa29b4d51/1766802436-500.jpg" data-tags="electronic" role="button">
 Pretty Lights - Making Up a Changing Mind (2010-03-02)
 </li>
-<li data-cover="https://img.discogs.com/n_6Gxp6npqCzgf6SSrF6K5exuqo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913206-1275933926.jpeg.jpg" data-tags="synth" role="button">
-Grum - Heartbeats (2010-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)
 </li>
@@ -275,9 +275,6 @@ Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
-</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
 Of Monsters and Men - Into The Woods (2011-12-20)
@@ -305,6 +302,9 @@ CHON - Newborn Sun (2013-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8997b1d-3345-4750-a7e6-fe19b96a96f3/4436735162-500.jpg" data-tags="indie, chill, singer-songwriter, acoustic, columbia records, sony music, in my vinyl collection" role="button">
 Tom Odell - Long Way Down (2013-06-21)
+</li>
+<li data-cover="https://img.discogs.com/CxAUEwzgXdhJr79-OHCABTcKpyU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5200554-1387282827-9316.jpeg.jpg" data-tags="chill, us, movement" role="button">
+Movement - Us (2013-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c3f741e-2e97-4795-81f3-86a264d116f0/16471947055-500.jpg" data-tags="chill, punk" role="button">
 Panama - Always (2013-10-03)
