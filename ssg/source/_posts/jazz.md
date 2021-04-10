@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:11:01.456Z
+date: 2021-04-10T06:17:01.469Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -89,6 +89,9 @@ Herbie Hancock - Maiden Voyage (1965-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2153978a-9ca7-3d4f-901c-5a9221d833a9/27456676174-500.jpg" data-tags="jazz" role="button">
 Dave Brubeck - Dave Brubeck's Greatest Hits (1966)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Chick Corea - Now He Sings, Now He Sobs (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/47873c43-4337-4d3b-9bf2-959f85a7cec1/23109799066-500.jpg" data-tags="jazz" role="button">
 Miles Davis - In A Silent Way (1969-07-30)
@@ -311,9 +314,6 @@ Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/157f27fb-7f7f-4ea9-9674-fd84ed9db612/5113102481-500.jpg" data-tags="soul" role="button">
-Amy Winehouse - Lioness: Hidden Treasures (2011-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad584957-841b-43d3-a03c-a5e7b0012c7d/4862063196-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - To Be Loved (2013-04-12)

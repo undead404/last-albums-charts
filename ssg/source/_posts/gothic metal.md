@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:38:01.531Z
+date: 2021-04-10T06:21:01.398Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -26,6 +26,9 @@ Paradise Lost - Paradise Lost (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e9be7bb-460d-37f2-96f5-4d180f57f3cf/4051863729-500.jpg" data-tags="gothic metal" role="button">
 Type O Negative - Bloody Kisses (1993-08-17)
+</li>
+<li data-cover="https://img.discogs.com/whIOkDo1FMn8zrCUqaCs_uyi4EY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398860-1541291083-6962.jpeg.jpg" data-tags="doom metal, gothic metal" role="button">
+Paradise Lost - Icon (1993-09-23)
 </li>
 <li data-cover="https://img.discogs.com/SqSRvdU8Kh4fcRIL4UA4-99M2SQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326827-1417759630-8193.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Tiamat - Wildhoney (1994-09-01)
@@ -204,9 +207,6 @@ Nightwish - Once (2004-06-04)
 <li data-cover="http://coverartarchive.org/release/b7bea46d-8986-363c-8f81-458b81e8944b/2959523284-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Cradle of Filth - Nymphetamine (2004-09-27)
 </li>
-<li data-cover="https://img.discogs.com/Z5gcGJPTwrTliMRhjgGFjuSNitc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2970780-1379532440-8207.jpeg.jpg" data-tags="gothic rock" role="button">
-The 69 Eyes - Devils (2004-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
 </li>
@@ -233,6 +233,9 @@ Xandria - India (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b66e9fbd-eab9-4df0-bb33-92cc4656a7e6/1119140087-500.jpg" data-tags="gothic metal" role="button">
 Charon - Songs for the Sinners (2005-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/17833e8d-8f2f-3a65-817c-9eaf73e4129f/13604487761-500.jpg" data-tags="gothic metal" role="button">
+Beseech - Sunless Days (2005-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
@@ -284,9 +287,6 @@ Type O Negative - Dead Again (2007-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7318fcb2-2eef-4977-9ad1-bce29fd86dcf/9588866037-500.jpg" data-tags="symphonic metal" role="button">
 After Forever - After Forever (2007-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
-Nemesea - In Control (2007-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d9bf8c-1263-3826-999f-3793d6414234/4371819886-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Divine Conspiracy (2007-09-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:07:01.478Z
+date: 2021-04-10T05:57:01.396Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -80,9 +80,6 @@ Frank Sinatra - Ol' Blue Eyes Is Back (1973-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Joe Jackson - Jumpin' Jive (1981)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
-Billy Joel - An Innocent Man (1983-08-08)
 </li>
 <li data-cover="https://img.discogs.com/xhxL8u62seqjFwGMhQO-IAA9xDU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14918229-1584108958-8915.jpeg.jpg" data-tags="jazz, 60s, swing, 50s, weallgetold, bobs fav" role="button">
 Bobby Darin - The Ultimate Bobby Darin (1986-10-09)
@@ -228,9 +225,6 @@ Harry Connick, Jr. - Only You (2004-02-03)
 <li data-cover="http://coverartarchive.org/release/207372c6-3348-4245-a8c7-f0900a005996/4358723661-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Come Fly With Me (2004-03-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Matt Dusk - Two Shots (2004-09-09)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, jazz guitar" role="button">
 Django Reinhardt - The Best Of Django Reinhardt (2005)
 </li>
@@ -251,6 +245,9 @@ Julie London - The Very Best Of Julie London (2005-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1419feb3-17af-4bb7-b8e2-a7233db9a1ae/28199497322-500.jpg" data-tags="swing, jazz, deutsch" role="button">
 Roger Cicero - Männersachen (2006-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/73087c49-5262-4476-9717-7e4b14a9c2f3/6113407893-500.jpg" data-tags="my vinyl" role="button">
+Parov Stelar - Charleston Butterfly (2006-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg" data-tags="avant-garde metal, symphonic metal, progressive metal" role="button">
 Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
@@ -290,6 +287,9 @@ Dirty Honkers - Death By Swing (2010-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab4690ff-068f-4ea3-bdeb-ab1dd9e9a7a2/2264355616-500.jpg" data-tags="electronica, ambient, experimental, vocal jazz, swing, big band, electroswing" role="button">
 Caravan Palace - Panic (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/82dea955-304e-4289-8127-b097a2f31196/27965871446-500.jpg" data-tags="rockabilly, rock" role="button">
+The Baseballs - Strings 'n' Stripes (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">
 Frank Sinatra - Sinatra: Best of the Best (2011-11-15)

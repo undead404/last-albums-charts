@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:05:01.495Z
+date: 2021-04-10T06:24:01.409Z
 title: "songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -30,6 +30,9 @@ Bob Dylan - New Morning (1970-10-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/3fdd7c32-2da8-480c-8b70-1c628a7fd009/1619702784-500.jpg" data-tags="soul" role="button">
+Michael Jackson - Forever, Michael (1975)
+</li>
 <li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">
 Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
@@ -42,20 +45,23 @@ Marius Müller-Westernhagen - Mit Pfefferminz bin ich dein Prinz (1978)
 <li data-cover="http://coverartarchive.org/release/4a01d104-dfe8-341d-af62-a0d11022522a/2522658850-500.jpg" data-tags="pop" role="button">
 Franco Battiato - Orizzonti Perduti (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
-Billy Joel - An Innocent Man (1983-08-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddca2d68-47e2-4235-9ecc-45f7348b20a3/13758489426-500.jpg" data-tags="80s, adult contemporary, songwriter, aor, composer, west coast, david foster, back in the day fav albums" role="button">
 David Foster - David Foster (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/bae9025d-f140-30fd-870c-d09e93247edd/1818577446-500.jpg" data-tags="rock" role="button">
 Billy Joel - Storm Front (1989-10-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="david foster" role="button">
+David Foster - River of Love (1990-12-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/62aca5b1-697c-3347-a167-49c1696a91a1/3463240436-500.jpg" data-tags="songwriter, 12-stringsguitar" role="button">
 Roger McGuinn - Back From Rio (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2ca0f9d-e2cb-4cb2-923a-feabce21156f/17246839088-500.jpg" data-tags="dream pop" role="button">
 Kitchens of Distinction - The Death of Cool (1992-08-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/da27dab2-990a-421f-bea4-da368d3e7cc0/22245493067-500.jpg" data-tags="blues" role="button">
+Roy Buchanan - Guitar on Fire: The Atlantic Sessions (1993-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/653dace1-86ca-4604-80e5-421ec0691fb8/21668460133-500.jpg" data-tags="german" role="button">
 Element of Crime - An Einem Sonntag Im April (1994)
@@ -74,6 +80,9 @@ Ulla Meinecke - Die Tänzerin (1995-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad4e4f45-7dc6-453a-a223-bf817d26dc42/5729954620-500.jpg" data-tags="vince gill" role="button">
 Vince Gill - Souvenirs (1995-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/301fd44d-e8c9-46cd-a4f9-793f5db43c42/15028223804-500.jpg" data-tags="italy, italia" role="button">
+Carmen Consoli - Due Parole (1996)
 </li>
 <li data-cover="https://img.discogs.com/kvHtq3rsYlxlk61LdNbHly4bdPk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2156579-1578055615-2576.jpeg.jpg" data-tags="singer" role="button">
 Funny van Dannen - Basics (1996-04-19)
@@ -102,9 +111,6 @@ Jewel - Spirit (1998-11-17)
 <li data-cover="http://coverartarchive.org/release/f33f3da2-3557-4d3c-809f-649a4c0ad827/15906038407-500.jpg" data-tags="soul, smooth, rnb" role="button">
 Maxwell - Fortunate (1999-03-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pat metheny, guitar, jazz" role="button">
-Pat Metheny - A Map of the World (1999-11-16)
-</li>
 <li data-cover="https://img.discogs.com/MHeXUwrk37HLThS3wt7466t8e0s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9510569-1481830927-4514.jpeg.jpg" data-tags="rock, female vocalists, italy, musica italiana, italianigdchill" role="button">
 Carmen Consoli - Stato di necessità (2000)
 </li>
@@ -117,8 +123,8 @@ Mónica Naranjo - Minage (2000-05-23)
 <li data-cover="https://img.discogs.com/yLSXgeQNlbFyh5ERJx1HvnYYpa8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760589-1584710461-7332.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
 Tom McRae - Tom McRae (2000-10-02)
 </li>
-<li data-cover="https://img.discogs.com/tyi-Iz8GoOJpnV0ELq0ogTrUQNI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9976404-1489529552-3476.jpeg.jpg" data-tags="singer-songwriter, canadian, avril lavigne, b-sides avril lavigne" role="button">
-Avril Lavigne - B-Sides (2001)
+<li data-cover="https://img.discogs.com/PElUwas0h5LTKPlZTzAB8suwArA=/fit-in/239x215/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1590323-1230645778.jpeg.jpg" data-tags="folk" role="button">
+Herman Düne - Switzerland Heritage (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adf4299-fc93-327f-8bc1-2c6d65bdc507/3113582104-500.jpg" data-tags="alternative, 00s, rock" role="button">
 R.E.M. - Reveal (2001-05-01)
@@ -128,12 +134,6 @@ Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a344e6c7-1a5e-41f8-a6a6-fd24b3f546ae/15028431094-500.jpg" data-tags="italy" role="button">
 Carmen Consoli - L'Eccezione (2002)
-</li>
-<li data-cover="https://img.discogs.com/YEVE9vggwaPFLvXbJOSjxEdHhoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4916990-1379355770-6548.jpeg.jpg" data-tags="piano, acoustic" role="button">
-Allison Crowe - Lisa's Song + 6 Songs (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ebf8340-e8c4-40f9-954b-dd0d1702613d/2341606227-500.jpg" data-tags="singer-songwriter, acoustic, alt-country, female vocalists, americana" role="button">
-Patty Griffin - 1000 Kisses (2002-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c1d5131-ab01-4451-ada7-eb3850f6a196/14766541965-500.jpg" data-tags="indie, rock, pop rock, singer, songwriter, high school, producer, discoverockult, just another folk singer" role="button">
 Butch Walker - Left Of Self-Centered (2002-07-09)
@@ -147,6 +147,9 @@ Jeffrey Lewis - It's the Ones Who've Cracked That the Light Shines Through (2003
 <li data-cover="http://coverartarchive.org/release/9604ac19-3f62-4c2d-9c0e-6239fcc98556/26309850926-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Unwrapped (2003-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/c646c7a4-69f6-4cdf-a5cf-0d12026cbb4f/17734229579-500.jpg" data-tags="vocal, male, pop, folk, easy listening, singer, songwriter, italian, italo disco, eurovision song contest, italian pop, italiana, italia mia, italian oldies, ferri, mes chansons, italian author" role="button">
+Domenico Modugno - The Golden Collection (2004)
+</li>
 <li data-cover="https://img.discogs.com/Z-Um1aGSpvhIKeIaC96WfZRe2ZU=/fit-in/599x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-954775-1177008385.jpeg.jpg" data-tags="female vocalists, rachael yamagata" role="button">
 Rachael Yamagata - KCRW Sessions (2004-04-19)
 </li>
@@ -155,9 +158,6 @@ Max Herre - Max Herre (2004-09-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="italian, female vocalists" role="button">
 Elisa - Pearl Days (2004-10-15)
-</li>
-<li data-cover="https://img.discogs.com/GdHZpH8DXLBxIcD4DSWRrna1fXU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5860733-1499204889-4820.jpeg.jpg" data-tags="female vocalists, italian" role="button">
-Laura Pausini - Escucha (2004-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
 Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
@@ -234,6 +234,9 @@ Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
 <li data-cover="https://img.discogs.com/2DycDjYBsQGWgQDtsjArF6TrQ6E=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2185016-1600396011-2275.jpeg.jpg" data-tags="pop, rock, female vocalists, singer-songwriter, songwriter, australia, 00s" role="button">
 Vanessa Amorosi - Somewhere In The Real World (2008-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d67848b-2555-4af0-aaf8-7fd5fd49a0f5/15587571351-500.jpg" data-tags="rock, country, songwriter, female vocalist" role="button">
+Emily Barker & The Red Clay Halo - Despite the Snow (2008-09-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/84e6d804-850a-468a-a17a-86c470fd64cc/2964202277-500.jpg" data-tags="pop, male vocalists" role="button">
 Tiziano Ferro - Alla mia età (2008-11-07)
 </li>
@@ -251,9 +254,6 @@ Hanne Hukkelberg - Blood From a Stone (2009-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e37a8b0c-be65-4e7a-a6ae-bd52e89351aa/3710993341-500.jpg" data-tags="blues, songwriter" role="button">
 Lhasa - Lhasa (2009-04-21)
-</li>
-<li data-cover="https://img.discogs.com/zLpqc6GV_g1q72UEW5jThY4wJDA=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2246649-1291651826.jpeg.jpg" data-tags="soundtrack, chillout, indie, pop, chill, british, alternative, folk, ambient, sad, singer-songwriter, calm, piano, folk-rock, acoustic, romantic, melodic, singer, guitar, cello, songwriter, introspective, mellow, melancholy, soft, emotional, melancholic, relaxing, quiet, 00s, ballad, accoustic, relax, lovely, welsh, bones, jem, wales, alternrock, yestyn" role="button">
-Glass Pear - Streets Of Love (2009-05-20)
 </li>
 <li data-cover="https://img.discogs.com/4cdYg_ASEOspYdxS62A_rey19lM=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1772421-1242374541.jpeg.jpg" data-tags="electronic, indie, pop, rock, alternative, experimental, other, songwriter, berlin, audioase, devilduck records, stretchsaysabigyesto these albums" role="button">
 Siva. - Same Sights, New Light (2009-07-03)

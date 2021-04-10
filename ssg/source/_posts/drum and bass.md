@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:42:01.426Z
+date: 2021-04-10T06:10:01.479Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - In Silico (2008-05-09)](http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg "Pendulum - In Silico (2008-05-09)")
@@ -192,9 +192,6 @@ London Elektricity - Syncopated City (2008-09-01)
 <li data-cover="http://coverartarchive.org/release/f20719f3-0c5f-426d-b3d8-d02e4fd4917f/3498321233-500.jpg" data-tags="drum and bass" role="button">
 The Qemists - Join The Q (2008-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">
-Dub Fx - Everythinks a Ripple (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa1c5fc1-cc8b-4f19-9c8e-fa47d97d77d5/17754393267-500.jpg" data-tags="dubstep, drum and bass" role="button">
 Mistabishi - Drop (2009-02-23)
 </li>
@@ -239,6 +236,9 @@ The Qemists - Spirit In The System (2010-07-07)
 </li>
 <li data-cover="https://img.discogs.com/7DutYyqbDH6rfSXwVqILHTHOcqw=/fit-in/477x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396412-1281646500.jpeg.jpg" data-tags="drum and bass" role="button">
 Chase & Status - Let You Go (2010-08-15)
+</li>
+<li data-cover="https://img.discogs.com/du79Zje4dvNq5YM7nPnKCRIcHwU=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3428189-1330015421.jpeg.jpg" data-tags="dubstep, drum and bass, atmospheric drum and bass, r&s" role="button">
+Pariah - Safehouses EP (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/819bcfc2-1a31-443b-9415-26410a130121/20166816121-500.jpg" data-tags="dubstep" role="button">
 Black Sun Empire - Lights And Wires (2010-11-15)

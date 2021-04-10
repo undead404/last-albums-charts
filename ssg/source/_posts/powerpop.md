@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:27:01.469Z
+date: 2021-04-10T06:39:01.407Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -7,11 +7,11 @@ title: "powerpop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)</li>
 <li data-cover="https://img.discogs.com/ZGL0HhZKwQcKL-zWkq3hYjLC8Lc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2444943-1284431336.jpeg.jpg" data-tags="powerpop" role="button">The White Tie Affair - Walk This Way (2008-04-22)</li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
-<li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">Hey Monday - Hold On Tight (2008-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/7aa687a2-1a29-4f6a-8d95-5d730c9e56c1/15535365137-500.jpg" data-tags="electronic, dance" role="button">Cash Cash - Take It To The Floor (2008-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">All Time Low - Nothing Personal (2009-01-09)</li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">Breathe Carolina - Hello Fascination (2009-08-18)</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">The Summer Set - Love Like This (2009-10-13)</li>
+<li data-cover="https://img.discogs.com/peHPJK9RHkQ68Dwclf8SiCjp_mo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2607155-1469978877-3107.jpeg.jpg" data-tags="powerpop" role="button">Forever the Sickest Kids - The Weekend: Friday (2009-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/f5663634-2bd6-4b01-beab-1d979a599da0/1487209368-500.jpg" data-tags="powerpop" role="button">The Cab - Symphony Soldier (2011-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/bbe50630-ccc2-49fb-9b27-4acc46486e29/7688648143-500.jpg" data-tags="pop rock" role="button">5 Seconds of Summer - 5 Seconds of Summer (2014-06-27)</li>
 </ol>
@@ -27,11 +27,11 @@ The Easybeats - Friday on My Mind (1966)
 <li data-cover="http://coverartarchive.org/release/20a3b21d-5d06-4db7-a737-cce696fd763e/10723116989-500.jpg" data-tags="classic rock, rock" role="button">
 Faces - Ooh La La (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f6cc992-e572-4f3c-b62a-cb6111383e67/11570630075-500.jpg" data-tags="glam rock, proto-punk" role="button">
-New York Dolls - New York Dolls (1973-07-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/c42f97da-b73d-429c-9400-12f288c783d8/15325737905-500.jpg" data-tags="70s, powerpop" role="button">
 Big Star - Radio City (1974)
+</li>
+<li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
+Warren Zevon - Excitable Boy (1978)
 </li>
 <li data-cover="https://img.discogs.com/R-nD4hx9hRNSIPhu0VdsnStH4OQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521427-1366984642-3770.jpeg.jpg" data-tags="powerpop, loved album" role="button">
 The Boomtown Rats - A Tonic For The Troops (1978-06)
@@ -63,9 +63,6 @@ The Animals - The Most of the Animals (1989)
 <li data-cover="https://img.discogs.com/cTi_0lFzEgH2DPNSGdc7At_VcDU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431536-1529484494-6510.jpeg.jpg" data-tags="rock" role="button">
 The Romantics - What I Like About You (And Other Romantic Hits) (1990-12-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc4b9835-65fc-4f27-93f9-e853b168b6b5/21355582922-500.jpg" data-tags="glittering raspberry dancefloors, records and tapes" role="button">
-Television - Television (1992-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3347148-ff9a-4fff-a00e-35a171f86d27/13069256471-500.jpg" data-tags="classic rock, rock, punk, psychedelic, garage rock, glam rock, powerpop, high school, sommer, proto punk, my so-called life, i remember you, other great tracks, rock-protopunk, flashback alternatives, 20 favorite albums of 1993, my 100 favorite albums of the 1990s, big red letter day, soda-jerk" role="button">
 Buffalo Tom - Big Red Letter Day (1993-09-21)
 </li>
@@ -90,8 +87,14 @@ Pixies - Death to the Pixies (1997-10-06)
 <li data-cover="http://coverartarchive.org/release/a402586f-5215-4b26-8926-85e20b0c6c97/9587930745-500.jpg" data-tags="rock, hard rock" role="button">
 Buckcherry - Buckcherry (1999-04-06)
 </li>
+<li data-cover="https://img.discogs.com/HCJ6IGVuFD4bFIhNAnM52183pv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903762-1286490780.jpeg.jpg" data-tags="classic rock, rock" role="button">
+Jimmy Page & The Black Crowes - Live At The Greek (2000-07-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce3418e9-83f9-4ecb-acc5-82c47a67c9b5/6010970718-500.jpg" data-tags="rock" role="button">
 American Hi-Fi - American Hi-Fi (2001-02-27)
+</li>
+<li data-cover="https://img.discogs.com/5Cc1JYkPVV5nH71o3myDdceKUKU=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275845-1389965935-8238.jpeg.jpg" data-tags="rock" role="button">
+Black Rebel Motorcycle Club - Black Rebel Motorcycle Club (2001-04-03)
 </li>
 <li data-cover="https://img.discogs.com/A0VVIyKLQd_5FEOag2sZe82URmA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396805-1571162764-2400.jpeg.jpg" data-tags="rock, punk, punk rock" role="button">
 Joey Ramone - Don't Worry About Me (2002-02-19)
@@ -150,9 +153,6 @@ The Raveonettes - Pretty in Black (2005-05-03)
 <li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
 The White Stripes - Blue Orchid (2005-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c3600e7-1f41-4ae0-a6a3-4bdaa8364d24/10987433729-500.jpg" data-tags="alternative, rock" role="button">
-The Posies - Every Kind Of Light (2005-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/1dddc32b-1a2a-4a44-81a9-611c570b04a5/20752577327-500.jpg" data-tags="pop punk, powerpop" role="button">
 Houston Calls - A Collection Of Short Stories (2005-08-02)
 </li>
@@ -170,6 +170,9 @@ The Greenhornes - Sewed Soles (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/kHcCGM2OMBOD_VgLA2YI4GuapGY=/fit-in/256x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286510-1274537642.jpeg.jpg" data-tags="classic rock, metal, rock, punk, alternative rock, psychedelic, garage rock, glam rock, powerpop, chameleon, proto punk, rock-protopunk" role="button">
 The Vines - Don't Listen To The Radio (2006-05-01)
+</li>
+<li data-cover="https://img.discogs.com/ylqgZk5XYoi4gDChjvVznqU1ShQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445218-1330668701.jpeg.jpg" data-tags="alternative" role="button">
+Forgive Durden - Wonderland (2006-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, garage rock, powerpop, geffen, makes me drive fast" role="button">
 The Pink Spiders - Teenage Graffiti (2006-08-01)
@@ -212,9 +215,6 @@ Breathe Carolina - It's Classy, Not Classic (2008-09-16)
 </li>
 <li data-cover="https://img.discogs.com/DL6wyKT7zN0CdqK1wZfHRHX-O1U=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181445-1331982850.jpeg.jpg" data-tags="pop punk" role="button">
 You Me at Six - Take Off Your Colours (2008-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">
-Hey Monday - Hold On Tight (2008-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aa687a2-1a29-4f6a-8d95-5d730c9e56c1/15535365137-500.jpg" data-tags="electronic, dance" role="button">
 Cash Cash - Take It To The Floor (2008-10-07)

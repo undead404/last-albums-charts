@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:16:06.908Z
+date: 2021-04-10T06:22:01.849Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")

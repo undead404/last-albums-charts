@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:55:01.436Z
+date: 2021-04-10T06:34:01.568Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -177,6 +177,9 @@ Fall Out Boy - Take This to Your Grave (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
 NOFX - The War on Errorism (2003-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/d09eb97a-d4d9-4aec-ac81-524f4ee1c09d/6140037439-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - Good Mourning (2003-05-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/41c645e2-dc4d-3a56-ac30-1d1e55946c62/4773391073-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - Blackout (2003-06-10)
 </li>
@@ -245,9 +248,6 @@ Dropkick Murphys - The Warrior's Code (2005-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3614a7b6-5158-4b9a-bf18-b03bce0ca8f4/8815559499-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Greatest Hits (2005-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ec80332-991e-43f4-9de0-7ca6a38899db/9408515476-500.jpg" data-tags="gypsy punk" role="button">
-Gogol Bordello - Gypsy Punks: Underdog World Strike (2005-08-09)
 </li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)

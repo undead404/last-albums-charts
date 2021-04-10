@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:42:02.149Z
+date: 2021-04-10T06:41:01.389Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -198,9 +198,6 @@ Building 429 - Iris To Iris (2007-05-01)
 <li data-cover="http://coverartarchive.org/release/a1c9336f-c371-4af7-9cc3-4b65685a3345/17822792060-500.jpg" data-tags="rock, who you are" role="button">
 Cary Brothers - Who You Are (2007-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/82d3592b-2745-4175-b71f-cab0ac6d2cc1/9025593466-500.jpg" data-tags="christian rock, contemporary christian, christian" role="button">
-Casting Crowns - The Altar and The Door (2007-08-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/8c894c48-1d8f-446e-a97d-8a31089ca397/16546394976-500.jpg" data-tags="acoustic, christian rock, ntb" role="button">
 NEEDTOBREATHE - The Heat (2007-08-28)
 </li>
@@ -245,6 +242,9 @@ Run Kid Run - Love At The Core (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5deeaeca-3c3d-4a26-bfb6-3c35e46f239c/16397739294-500.jpg" data-tags="christian rock" role="button">
 Tenth Avenue North - Over And Underneath (2008-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/71f9f984-df10-4964-bcd6-1e464041cd05/4889578121-500.jpg" data-tags="christian rock, pop-punk, power-pop, discoverockult" role="button">
+Capital Lights - This Is An Outrage! (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/97b7642b-f572-46c9-aebc-c1200b4e4ce6/25696373504-500.jpg" data-tags="christian rock, gospel, revelation" role="button">
 Third Day - Revelation (2008-07-29)

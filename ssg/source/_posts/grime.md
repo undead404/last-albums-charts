@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:01:06.934Z
+date: 2021-04-10T06:40:01.382Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -153,17 +153,23 @@ Gang Gang Dance - Saint Dymphna (2008-10-20)
 <li data-cover="http://coverartarchive.org/release/d0acb0cf-4184-4739-ac2c-227692711fd8/7696262161-500.jpg" data-tags="rap" role="button">
 N-Dubz - Uncle B (2008-11-17)
 </li>
+<li data-cover="https://img.discogs.com/qnoWKaIsRkNoxmBocjRUXNBw-LA=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579040-1229827507.jpeg.jpg" data-tags="dubstep" role="button">
+ill.Gates - Autopirate (2008-11-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/09d214ff-df3b-4b8e-9317-0683247eaa2c/8042724648-500.jpg" data-tags="hip-hop, british, rap, grime, 00s, uk rap, general pop vocal, good in 2008, non-american rap" role="button">
 Wiley - See Clear Now (2008-12-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ff352a15-b8af-439c-8a58-7607181e7750/10991333928-500.jpg" data-tags="rap" role="button">
-Die Antwoord - $O$ (2009)
 </li>
 <li data-cover="https://img.discogs.com/hr7mBEAV5REhgnJVgp1_iodL6mc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727158-1489626590-4704.jpeg.jpg" data-tags="grime" role="button">
 Lady Sovereign - Jigsaw (2009-04-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/e256dde8-c55d-4e01-9351-1226aa99c046/23058852804-500.jpg" data-tags="hip hop, grime, dubstep, dancehall, raggacore, uk garage, ragga jungle, 1965 records" role="button">
+Toddla T - Skanky Skanky (2009-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2cd277f-7b8f-4e89-821a-3fe19144665c/15824350354-500.jpg" data-tags="grime" role="button">
 Skepta - Microphone Champion (2009-06-01)
+</li>
+<li data-cover="https://img.discogs.com/6QRVIRm72owRl_s2CVPwahjW4RQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1988390-1536214214-4080.jpeg.jpg" data-tags="hip-hop, hip hop, grime" role="button">
+Tinchy Stryder - Never Leave You (2009-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b9798de-6288-4b51-87bb-de0bcc51e2d4/24711110047-500.jpg" data-tags="trance, hip hop, pop, dance, house, tinchy stryder" role="button">
 Tinchy Stryder - Catch 22 (2009-08-14)
@@ -231,6 +237,9 @@ Pixelord - Puzzles (2011-03-29)
 <li data-cover="https://img.discogs.com/vbXG8KW9Uj4xlxZWoVtyMdE46l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838958-1365441229-7236.jpeg.jpg" data-tags="grime" role="button">
 Chipmunk - Transition (2011-04-18)
 </li>
+<li data-cover="https://img.discogs.com/0D5OmIEyQcoxMJsO9f6j0AsmMic=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2892504-1305997910.jpeg.jpg" data-tags="grime, bass, uk funky" role="button">
+Lil Silva - The Patience EP (2011-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/b68b43c4-8a46-4aae-9861-b1811d977130/26947273952-500.jpg" data-tags="grime, techno, acid house, night slugs" role="button">
 Bok Bok - Southside EP (2011-05-30)
 </li>
@@ -246,6 +255,9 @@ Wiley - 100% Publishing (2011-06-15)
 <li data-cover="http://coverartarchive.org/release/373ad88b-3eb7-42dc-ae11-77dd3b6dcb54/2267680912-500.jpg" data-tags="grime, vagabund, miron,  album,  digipak, nmdc" role="button">
 Oxxxymiron - Вечный жид (2011-09-03)
 </li>
+<li data-cover="https://img.discogs.com/DjNfKGcZkTWvM2QMysixfCnunQQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3426067-1329927822.jpeg.jpg" data-tags="downtempo, grime, dubstep, techno, glitch" role="button">
+MartyParty - Sub ON (2011-10-04)
+</li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
 </li>
@@ -260,9 +272,6 @@ SKisM - Down With The Kids EP (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">
 Plan B - Ill Manors (2012-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb433978-7bac-45bb-bbb1-a772cb89f421/1915288985-500.jpg" data-tags="grime, future garage, uk garage" role="button">
-LV - Sebenza (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/acc6da8d-7922-4800-9db0-f1bbba825d24/2944544209-500.jpg" data-tags="electronic, grime, dubstep, polska" role="button">
 Pezet - Radio Pezet Produkcja Sidney Polak (2012-09-04)
@@ -294,17 +303,8 @@ Hadouken! - Every Weekend (2013-03-18)
 <li data-cover="http://coverartarchive.org/release/e4c9a16e-cadf-44b1-9943-b67e518ebb0d/6410195934-500.jpg" data-tags="hip hop, grime, dubstep" role="button">
 Dope D.O.D. - Da Roach (2013-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/990d04d2-d3ac-4784-bf02-b8d2036aafd5/4215783947-500.jpg" data-tags="electronic, hip hop, grime, club, trap, bass music, contemporary rnb, alternative rnb" role="button">
-Kingdom - Vertical XL (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/72c27a03-f44c-481f-b789-ecc1405adfcc/23163003410-500.jpg" data-tags="4ad, 10s, uk bass" role="button">
-Zomby - With Love (2013-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/dedea8ba-f268-471c-a59c-01527640a603/21163578949-500.jpg" data-tags="grime, uk hip-hop" role="button">
 Dizzee Rascal - The Fifth (2013-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/60dbf2a4-ef03-4444-89b0-74ada78e3cae/5580008700-500.jpg" data-tags="hip hop, rap" role="button">
-Tinie Tempah - Demonstration (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bda704e4-9a05-4c2a-b055-e70b31e0d9ac/5766166401-500.jpg" data-tags="experimental, grime, dubstep, bass, 10s, 2013 wowish" role="button">
 Logos - Cold Mission (2013-11-18)

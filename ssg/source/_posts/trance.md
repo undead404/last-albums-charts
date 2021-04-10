@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:57:01.537Z
+date: 2021-04-10T05:59:01.428Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Cascada - Everytime We Touch (2006-02-21)](http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg "Cascada - Everytime We Touch (2006-02-21)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="trance" role="button">
+Paul van Dyk - 45 RPM (1994-10-04)
+</li>
 <li data-cover="https://img.discogs.com/iKPsz5HAZ_YSskrUF1vPn7iLQds=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33293-1603313013-1939.jpeg.jpg" data-tags="trance, chillout, electronic" role="button">
 Robert Miles - Children (1995)
 </li>
@@ -35,6 +38,9 @@ Astral Projection - Trust In Trance (1996-05-10)
 </li>
 <li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
+</li>
+<li data-cover="https://img.discogs.com/aAClwpTcGmJupflwGZOmBoLpHiw=/fit-in/500x421/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6639688-1423647615-4430.jpeg.jpg" data-tags="trance" role="button">
+Paul van Dyk - Seven Ways (1996-06-17)
 </li>
 <li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
@@ -83,6 +89,9 @@ Infected Mushroom - Classical Mushroom (2000-02-01)
 </li>
 <li data-cover="https://img.discogs.com/vok-pww6XUx5QFygj9FX9zAfMXs=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106523-1258962168.jpeg.jpg" data-tags="trance" role="button">
 Bomfunk MC's - Freestyler (2000-02-15)
+</li>
+<li data-cover="https://img.discogs.com/PL25gslqJlmHhOpFM9qTYumzXL4=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-142743-1613858050-5421.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
+Fischerspooner - #1 (2000-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
@@ -188,9 +197,6 @@ Infected Mushroom - IM the Supervisor (2004-09-10)
 </li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
-Juno Reactor - Labyrinth (2004-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7005a05e-76de-4777-809b-6afad9c45b2a/11655498373-500.jpg" data-tags="vocal trance, trance" role="button">
 iio - Poetica (2005-02-25)
@@ -299,12 +305,6 @@ Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca46bf9c-97e5-3592-8d1f-3f00592fc690/1133356400-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - Mirage (2010-09-10)
-</li>
-<li data-cover="https://img.discogs.com/c1ZMbrBIJGu3HhQOaJBawIoDJQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3154062-1318245920.jpeg.jpg" data-tags="trance, electronic" role="button">
-araabMUZIK - Electronic Dream (2011-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5bd4a0b-6a0d-44e9-8961-94260e83e625/10177231187-500.jpg" data-tags="trance" role="button">
-Above & Beyond - Group Therapy (2011-06-06)
 </li>
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)

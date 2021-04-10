@@ -1,12 +1,12 @@
 ---
-date: 2021-04-09T22:45:01.684Z
+date: 2021-04-10T06:16:12.464Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">Stereolab - Dots and Loops (1997-09-22)</li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">Pink Martini - Sympathique (1997-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
+<li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">Dzihan & Kamien - Gran Riserva (2000-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">Boozoo Bajou - Satta (2001-06)</li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)</li>
@@ -57,9 +57,6 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/b9ff12ec-607d-47aa-b9da-f34e51abd198/7063997004-500.jpg" data-tags="sweet downtempo, chillout downtempo, smoothly sexy sounding, groove lounge, downtempo influences, alternative lounge, genre: downtempo, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, chill chill, lounge at home tres, chillair, genre:downtempo, sexy sounding, acid lounge, smooth lounge, city lounge, my-love, chillounge1, awesome downtempo, uutta jazzia, serve chilled, jazz-trip, lounge-tech, tropcool, epic lounge, electrocool, lounge at home two, acoustic groove, lounge downtempo, electropcool" role="button">
 A Forest Mighty Black - Mellowdramatic (1997-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
-Pink Martini - Sympathique (1997-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
 Kid Loco - A Grand Love Story (1997-11-25)
 </li>
@@ -89,9 +86,6 @@ The Cinematic Orchestra - Motion (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
 Peace Orchestra - Peace Orchestra (1999-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc718e39-9f0b-3c63-aa69-7ecd272ab0f7/11484379007-500.jpg" data-tags="post-rock" role="button">
-Stereolab - Cobra and Phases Group Play Voltage in the Milky Night (1999-09-15)
 </li>
 <li data-cover="https://img.discogs.com/aXOvlvSwksc_Va7qe_P5NtxadW4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493126-1223829030.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Programmed to Love (2000)
@@ -207,6 +201,9 @@ Federico Aubele - Gran Hotel Buenos Aires (2004-02-27)
 <li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
 Afterlife - Speck Of Gold (2004-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/bae60ee9-2a48-3504-97e8-b2d7a722282a/4394074765-500.jpg" data-tags="electronic, house" role="button">
+Mylo - Destroy Rock & Roll (2004-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
@@ -258,14 +255,17 @@ Zero 7 - The Garden (2006-05-22)
 <li data-cover="https://img.discogs.com/bfMEL68rc00P8HtCMLhDFbEPGm8=/fit-in/354x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736035-1153535752.jpeg.jpg" data-tags="downtempo, future jazz" role="button">
 Quantic - An Announcement To Answer (2006-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
-Charlotte Gainsbourg - 5:55 (2006-08-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
 </li>
+<li data-cover="https://img.discogs.com/ogXc0_12p1azLm4vnVLiEPJDRQ4=/fit-in/589x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988006-1181152703.jpeg.jpg" data-tags="groove, deep house" role="button">
+Miguel Migs - Those Things (2007-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
 Pink Martini - Hey Eugene! (2007-05-14)
+</li>
+<li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
+SunSay - SunSay (2007-09)
 </li>
 <li data-cover="https://img.discogs.com/NzD5JHl0v0gEuFBRRJJjmi-nJYM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075518-1310430800.jpeg.jpg" data-tags="electrotango" role="button">
 Bajofondo - Mar Dulce (2007-09-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:44:01.404Z
+date: 2021-04-10T05:48:01.432Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")

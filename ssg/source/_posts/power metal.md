@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:29:01.963Z
+date: 2021-04-10T05:51:01.405Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/EdSZbcoz4dxDT6m3xqQQA2bXWmk=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075050-1483092089-2650.jpeg.jpg" data-tags="heavy metal" role="button">
-Manowar - Kings of Metal (1988-11-18)
-</li>
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">
 Gamma Ray - Heading For Tomorrow (1990-02-19)
 </li>
@@ -98,6 +95,9 @@ Nightwish - Oceanborn (1998-12-07)
 </li>
 <li data-cover="https://img.discogs.com/cUmOFPztRdAG2wv6wUYEemsptc0=/fit-in/306x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7110308-1433935129-1882.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Fourth Legacy (1999)
+</li>
+<li data-cover="https://img.discogs.com/3R3MKE3t6Lf4Zn33WCjCe7jlHlU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4520380-1367216737-2419.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Theater of Salvation (1999-01-27)
 </li>
 <li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Ecliptica (1999-08-29)
@@ -258,11 +258,11 @@ Helloween - Gambling with the Devil (2007-10-23)
 <li data-cover="http://coverartarchive.org/release/cf68f77f-7e28-4afb-b51e-e15b42a86a3e/8143822806-500.jpg" data-tags="power metal" role="button">
 Avantasia - The Scarecrow (2008-01-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/4106c5e2-d1ec-47d8-9676-22167b3667b9/14972188877-500.jpg" data-tags="power metal" role="button">
+Firewind - The Premonition (2008-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
 Sabaton - The Art of War (2008-05-30)
-</li>
-<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
-Versailles - NOBLE (2008-07-16)
 </li>
 <li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Ultra Beatdown (2008-08-20)

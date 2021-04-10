@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:33:01.447Z
+date: 2021-04-10T06:18:07.012Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -32,9 +32,6 @@ Beck - Mellow Gold (1994-03-01)
 </li>
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8828dbd-f2b2-30ed-ac2d-152341b10913/17553404705-500.jpg" data-tags="chillout, rock, alternative, folk, folk-rock, acoustic, romantic, guitar, male vocalists, twisted, meaningful, golden oldies, judely favourites, folky and acoustic stuff, casette, buenos" role="button">
-Del Amitri - Twisted (1995-02-28)
 </li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
@@ -93,8 +90,8 @@ Brian McFadden - Irish Son (2004-11-22)
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
 </li>
-<li data-cover="https://img.discogs.com/bYAV83fkUFWXBPjEVfOgUTIs-1o=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438812-1413230572-7636.jpeg.jpg" data-tags="electronic, electronica, alternative, rap, anticon, 00s, post-revolutionary pop song, avantgarde pop" role="button">
-13 & God - 13 & God (2005-04-18)
+<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
+Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="https://img.discogs.com/Dx5rsoFOygBx8nPxKW8Sq5ev6N0=/fit-in/392x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1777368-1242662992.jpeg.jpg" data-tags="rock, japanese, industrial, asian, male vocalists, 00s, industrial metal, j-rock, spookycore" role="button">
 D'espairsRay - [Coll:set] (2005-06-15)
@@ -110,9 +107,6 @@ Cartel - Chroma (2005-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
-Jace Everett - Jace Everett (2005-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/261d9f29-1c1f-47c1-a631-6e213b74a084/28025741649-500.jpg" data-tags="rock, pop rock, mcfly" role="button">
 McFly - Just My Luck (2006-05-09)
@@ -159,6 +153,9 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
+Jonas Brothers - A Little Bit Longer (2008-01-01)
+</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
@@ -191,6 +188,9 @@ Mat Kearney - City Of Black & White (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
+Dead Man's Bones - Dead Man's Bones (2009-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
@@ -285,9 +285,6 @@ Olly Murs - Right Place Right Time (2012-11-26)
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/873fb668-89e2-46c6-bfa6-33bc4dfeee4c/4135969932-500.jpg" data-tags="folk, indie rock" role="button">
-John Grant - Pale Green Ghosts (2013-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
@@ -299,6 +296,9 @@ Empire of the Sun - Alive (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
 Gregory Alan Isakov - The Weatherman (2013-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e563292f-5a19-4cf4-87ca-a6820f9dc96e/8566278172-500.jpg" data-tags="alternative rock, reggae, alternative metal, ska punk, male vocalists, pop-rock, skate punk, rap rock" role="button">
+Charlie Brown JR. - La Familia 013 (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b65834-9455-498f-bce1-4b037b4a65e3/7464470016-500.jpg" data-tags="electronic, indie, pop, uk, male vocalists, radio mirror park" role="button">
 Dan Croll - Sweet Disarray (2014-01-01)

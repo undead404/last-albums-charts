@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:23:06.985Z
+date: 2021-04-10T05:53:01.504Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -9,9 +9,9 @@ title: "indietronica: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">MGMT - Time To Pretend (2007-12-25)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">Phantogram - Eyelid Movies (2009-09)</li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">Metronomy - The English Riviera (2011-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">Foster the People - Torches (2011-05-23)</li>
+<li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">Bastille - Bad Blood (2013-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Reflektor (2013-09-09)</li>
 </ol>
@@ -99,11 +99,17 @@ Pnau - Pnau (2007-11-10)
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
+Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
+</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
+</li>
+<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
+Ladyhawke - Ladyhawke (2008-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
@@ -126,9 +132,6 @@ The xx - xx (2009-08-14)
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
@@ -140,9 +143,6 @@ Gold Panda - Companion (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">
-Ellie Goulding - Bright Lights (2010-03-01)
 </li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
@@ -156,14 +156,14 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/90c1d0fe-95d7-4d72-b807-c69a2e99400f/24223192647-500.jpg" data-tags="swedish, indietronica" role="button">
 Ceo - White Magic (2010-06-28)
 </li>
-<li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
-The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
-</li>
 <li data-cover="https://img.discogs.com/ioH5-72BfVmnpX3FBFn0LqxOcQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4807659-1547008224-4633.jpeg.jpg" data-tags="rock, experimental, indietronica, post, new" role="button">
 White Lies - Bigger Than Us (2011-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
+Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
@@ -173,9 +173,6 @@ Metronomy - The English Riviera (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
-</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
@@ -207,6 +204,9 @@ Grimes - Visions (2012-02-20)
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
+Santigold - Master of My Make-Believe (2012-04-21)
+</li>
 <li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
 iamamiwhoami - kin (2012-06-06)
 </li>
@@ -233,6 +233,9 @@ Strange Talk - Cast Away (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
+Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
@@ -263,6 +266,9 @@ Phoenix - Bankrupt! (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
+Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
 AlunaGeorge - Body Music (2013-07-26)
@@ -305,12 +311,6 @@ tUnE-yArDs - Nikki Nack (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9815a22f-d7ca-447f-a144-dfa658207998/7044912523-500.jpg" data-tags="electronic, synthpop, testament, exodus" role="button">
 Little Dragon - Nabuma Rubberband (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
-Chromeo - White Women (2014-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">
-Kyla La Grange - Cut Your Teeth (2014-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2418376-2c16-416d-84a6-bd045f0464dd/7515767685-500.jpg" data-tags="indie pop, 2010s, rca records" role="button">
 Bleachers - Strange Desire (2014-07-15)

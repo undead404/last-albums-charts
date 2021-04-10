@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:07:01.412Z
+date: 2021-04-10T06:44:01.427Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -125,6 +125,9 @@ Boozoo Bajou - Satta (2001-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
 Quantic - The 5th Exotic (2001-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/543cf502-ecc5-4981-9a99-97127afbaceb/4507263314-500.jpg" data-tags="downtempo" role="button">
+Sia - Healing Is Difficult (2001-07-09)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
@@ -275,9 +278,6 @@ Destroyer - Kaputt (2011-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/53b4be47-2888-4434-91ac-713489db8c1f/28541045554-500.jpg" data-tags="electronic, dubstep" role="button">
-James Blake - James Blake (2011-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)

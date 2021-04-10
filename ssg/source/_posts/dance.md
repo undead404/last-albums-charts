@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:04:01.429Z
+date: 2021-04-10T06:45:01.626Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/44a64b8c-f20d-33f2-be25-88740e575f2c/10607932122-500.jpg" data-tags="pop" role="button">
+Madonna - The Immaculate Collection (1990-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
@@ -81,9 +84,6 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
 </li>
-<li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
-Scissor Sisters - Scissor Sisters (2004-02-02)
-</li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
@@ -107,9 +107,6 @@ Cascada - Everytime We Touch (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
-MSTRKRFT - The Looks (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
@@ -135,6 +132,9 @@ Digitalism - Idealism (2007-05-09)
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
+Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
+</li>
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - I Created Disco (2007-06-18)
 </li>
@@ -146,9 +146,6 @@ Kanye West - Stronger (2007-07-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
-</li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Britney Spears - Blackout (2007-10-25)
@@ -191,6 +188,9 @@ The Prodigy - Invaders Must Die (2009-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/593de430-1ce9-4934-a46c-d168bf9d1653/25512976161-500.jpg" data-tags="dance, cascada, pop" role="button">
 Cascada - Evacuate the Dancefloor (2009-05)
+</li>
+<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
+Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)

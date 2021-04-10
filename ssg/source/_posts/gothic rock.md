@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:50:01.441Z
+date: 2021-04-10T06:36:01.407Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -86,9 +86,6 @@ The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - Floodland (1987-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a3dab35-b315-4916-b09c-7da62d39d6ef/7610227207-500.jpg" data-tags="gothic rock" role="button">
-Fields of the Nephilim - The Nephilim (1988-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
@@ -219,6 +216,9 @@ Evanescence - Bring Me to Life (2003-04-14)
 <li data-cover="https://img.discogs.com/-lr80SWu3Q6ICo4nNSf8Y21MFk4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3783951-1344287950-5460.jpeg.jpg" data-tags="love metal, him" role="button">
 Him - Love Metal (2003-04-14)
 </li>
+<li data-cover="https://img.discogs.com/PwLxDpKp4ZMyejyXT5CjJ_eDh8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479776-1402230122-1820.jpeg.jpg" data-tags="darkwave, gothic rock" role="button">
+Faith and the Muse - The Burning Season (2003-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/de3bd933-36b8-49aa-8d2d-55d0a86e64a9/27340748738-500.jpg" data-tags="doom metal, gothic metal, gothic rock, love metal, entwine" role="button">
 Entwine - Dieversity (2004-03-15)
 </li>
@@ -227,9 +227,6 @@ The Cure - The Cure (2004-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/844dba59-e6fd-4da8-b024-8b8dcb9d11ec/15850705428-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
 Elis - Dark Clouds in a Perfect Sky (2004-10-04)
-</li>
-<li data-cover="https://img.discogs.com/Z5gcGJPTwrTliMRhjgGFjuSNitc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2970780-1379532440-8207.jpeg.jpg" data-tags="gothic rock" role="button">
-The 69 Eyes - Devils (2004-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
@@ -255,8 +252,14 @@ Lacuna Coil - Karmacode (2006-03-31)
 <li data-cover="http://coverartarchive.org/release/77de0c94-8433-47db-b755-460391bb8a9c/27320358488-500.jpg" data-tags="rock, gothic rock, female vocalists, deutsch, good songs" role="button">
 Lafee - LaFee (2006-06-23)
 </li>
+<li data-cover="https://img.discogs.com/oOY0hXYgn-0Dr6Oc856IpBp4gwo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070575-1514157186-5942.jpeg.jpg" data-tags="gothic metal" role="button">
+Poisonblack - Lust Stained Despair (2006-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
+Sirenia - Nine Destinies And A Downfall (2007-02-23)
 </li>
 <li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Angels (2007-02-27)
@@ -269,9 +272,6 @@ Within Temptation - The Heart of Everything (2007-03-09)
 </li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
-Nemesea - In Control (2007-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)

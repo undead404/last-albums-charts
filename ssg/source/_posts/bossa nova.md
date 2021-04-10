@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:16:06.964Z
+date: 2021-04-10T06:15:07.069Z
 title: "bossa nova: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6c772c03-a36c-4e93-9263-983e2c4f29ae/5857968465-500.jpg" data-tags="bossa nova" role="button">
 João Gilberto - Chega De Saudade (1959)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">
+Cannonball Adderley - Cannonball's Bossa Nova (1962)
 </li>
 <li data-cover="https://img.discogs.com/sLZRAN0Kc9F5yDtsVNS4FAMnip0=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844072-1507644840-8301.jpeg.jpg" data-tags="jazz, bossa nova" role="button">
 Coleman Hawkins - Desafinado (1962)
@@ -81,6 +84,9 @@ João Donato - Quem é Quem (1973)
 <li data-cover="https://img.discogs.com/vQmCXeBPCAqHxRfmJtJZ19PffW0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784417-1595841130-8099.jpeg.jpg" data-tags="bossa nova" role="button">
 Astrud Gilberto - The Very Best of Astrud Gilberto II (1973)
 </li>
+<li data-cover="https://img.discogs.com/sEl__kMngLDjfRZ94quq96kYYck=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5834146-1424184021-5149.jpeg.jpg" data-tags="mpb, samba" role="button">
+Gal Costa - Cantar (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/f36f71b0-fe7b-45a9-bd2a-8fd68d1c41cd/28260791854-500.jpg" data-tags="samba" role="button">
 Cartola - Cartola (1976)
 </li>
@@ -132,14 +138,8 @@ Paulinho Da Viola - Bebadosamba (1996)
 <li data-cover="https://img.discogs.com/u-dHDQMK7a6w7GTwnUtB7ZFg8vE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8496325-1462779591-2808.jpeg.jpg" data-tags="bossa nova" role="button">
 Antônio Carlos Jobim - The Girl From Ipanema (A Retrospective) (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/c61a099a-7501-46e3-8d13-d048c1216dfa/8301999638-500.jpg" data-tags="brazilian" role="button">
-Caetano Veloso - Livro (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
-Pink Martini - Sympathique (1997-11-11)
 </li>
 <li data-cover="https://img.discogs.com/PjksQB2RZyMpgOf7gAwzi6uGk9M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555803-1457736731-9492.jpeg.jpg" data-tags="bossa nova, caetano veloso, ao vivo" role="button">
 Caetano Veloso - Prenda Minha (1998)
@@ -153,14 +153,8 @@ João Gilberto - João Voz E Violão (1999)
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">
 Bebel Gilberto - Tanto Tempo (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/f8bb8dda-fef4-4145-8b64-2479e70f2e84/19871863114-500.jpg" data-tags="jazz, bossa nova" role="button">
-Henri Salvador - Chambre Avec Vue (2000-10-16)
-</li>
 <li data-cover="https://img.discogs.com/21OwULkq7BahWogkH_f8LYg43Co=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1106886-1260896045.jpeg.jpg" data-tags="jazz" role="button">
 Lisa Ekdahl - Sings Salvadore Poe (2000-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e01f526-d786-4d03-87c8-1677f2807fb5/7015225648-500.jpg" data-tags="mpb" role="button">
-Marisa Monte - Marisa Monte (2001)
 </li>
 <li data-cover="https://img.discogs.com/_KUKUtiK2VkAGYrOsOO39355J7I=/fit-in/597x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072096-1314385273.jpeg.jpg" data-tags="bossa nova" role="button">
 Astrud Gilberto - The Astrud Gilberto Album (2001-04-23)
@@ -170,9 +164,6 @@ Astrud Gilberto - Astrud Gilberto's Finest Hour (2001-05-15)
 </li>
 <li data-cover="https://img.discogs.com/qGrB1yQKQNPAD0jS4MJDYSWuqaw=/fit-in/258x258/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711866-1150706483.jpeg.jpg" data-tags="bossa nova, brazilian" role="button">
 Rosalia De Souza - Garota moderna (2002)
-</li>
-<li data-cover="https://img.discogs.com/EEVhN-4JBxDOynNyMeIqNcoqQn0=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10387805-1496477354-7222.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
-Camille - Le Sac Des Filles (2002-09-23)
 </li>
 <li data-cover="https://img.discogs.com/5jRK-88xK53pkgaN_H49zwNlqXw=/fit-in/237x212/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82484-1450944629-4684.jpeg.jpg" data-tags="brasil" role="button">
 Fernanda Porto - Fernanda Porto (2002-10-23)
@@ -207,11 +198,17 @@ Marcos Valle - Contrasts (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/09040d62-6653-4ba5-b993-b3ce5ee8dd65/7443269601-500.jpg" data-tags="brasil" role="button">
 Rosa Passos - Amorosa (2004)
 </li>
-<li data-cover="https://img.discogs.com/jDLWo5m9PWweHaclU6LCoSCjd6E=/fit-in/223x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4048827-1353535051-8998.jpeg.jpg" data-tags="bossa nova, mpb, samba, latin grammy nominated, bresil, vocalistas masculinos, brasileirinhos, bom sambinha, j gilberto" role="button">
-João Gilberto - In Tokyo (2004)
+<li data-cover="http://coverartarchive.org/release/50862dd5-3ac5-4b93-8458-0d876282ed3d/15298257043-500.jpg" data-tags="jazz" role="button">
+Eliane Elias - Dreamer (2004)
+</li>
+<li data-cover="https://img.discogs.com/yOPuMc1WVIjHR0u1CRe9yR-k5Po=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1927555-1283424097.jpeg.jpg" data-tags="bossa nova" role="button">
+Brazzaville - Hastings Street (2004)
 </li>
 <li data-cover="https://img.discogs.com/Atnt2y-uOH6xSzN22O74riJOvrU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10714922-1502941476-6635.jpeg.jpg" data-tags="bossa nova" role="button">
 BossaCucaNova - Uma Batida Diferente (2004)
+</li>
+<li data-cover="https://img.discogs.com/9nnzfqjv0fw4YcisBJbn1Xnc6yw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13035033-1546904981-4787.jpeg.jpg" data-tags="electropop, jazz, pop, soul, bossa nova, female vocalists, dance, latin, blues, remix, brasil, mpb, samba, female vocalist, hot, musica latina, albuns completos ou quase completos, i have it, quarteto em cy, eletrosamba, e soares" role="button">
+Elza Soares - Vivo Feliz (2004)
 </li>
 <li data-cover="https://img.discogs.com/g3bJ7oDTSZGYQnZLRLvW_MeSJE8=/fit-in/600x911/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11495616-1582498420-4336.jpeg.jpg" data-tags="pop" role="button">
 Emma Bunton - Free Me (2004-02-09)
@@ -246,9 +243,6 @@ Sabrina Malheiros - Equilibria (2005-05)
 <li data-cover="http://coverartarchive.org/release/613aa14f-592b-4ab9-bfca-093902c3674c/2538327449-500.jpg" data-tags="deutsch" role="button">
 2raumwohnung - Melancholisch schön (2005-06-20)
 </li>
-<li data-cover="https://img.discogs.com/vn8Ek9gGQNV-2t14KbgH9s7wODA=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8848710-1589824943-5459.jpeg.jpg" data-tags="hip hop, pop, bossa nova, mpb, brazilian, samba, latin grammy nominated, teenage years" role="button">
-Sérgio Mendes - Timeless (2006-02-14)
-</li>
 <li data-cover="https://img.discogs.com/xVH-CTZ3jRiH1J-EMleJXli3ApU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394873-1215973578.jpeg.jpg" data-tags="brazilian" role="button">
 Marisa Monte - Infinito Particular (2006-03-14)
 </li>
@@ -261,6 +255,9 @@ Chico Buarque - Carioca (2006-04)
 <li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
 Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
 </li>
+<li data-cover="https://img.discogs.com/jnz6HD5QoJRJe4sbwIrV3iI2VYY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8708523-1467068201-7176.jpeg.jpg" data-tags="jazz, bossa nova" role="button">
+Delicatessen - Jazz + Bossa (2006-07-19)
+</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="mpb" role="button">
 Mariana Aydar - Kavita 1 (2007)
 </li>
@@ -269,9 +266,6 @@ Vanessa da Mata - Sim (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d290376-6cdd-423d-985e-a3004f7aebc3/5739976268-500.jpg" data-tags="bossa nova, chillout" role="button">
 Bebel Gilberto - Momento (2007-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/6c60a44c-6235-4aa9-82a2-bf77f238a3e2/7473339479-500.jpg" data-tags="mpb" role="button">
-Chico Buarque - Carioca_Ao Vivo (2007-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
 Nicola Conte - Rituals (2008-08)
@@ -293,6 +287,12 @@ Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8a9c11d-03a2-4f31-96e0-8283fe9fe5b7/10615151610-500.jpg" data-tags="bossa nova, brazilian, indie, folk" role="button">
 Cícero - Canções de Apartamento (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/16f39364-c71f-4131-9682-0fed00e5d392/25223225920-500.jpg" data-tags="bossa nova" role="button">
+Brazzaville - Jetlag Poetry (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg" data-tags="indie, folk, 10s, mpb" role="button">
+Mallu Magalhães - Pitanga (2011-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/75f27f5c-bc81-4cc9-bc46-afe4f041c6ab/8887014441-500.jpg" data-tags="pop, rock, bossa nova, jazz fusion" role="button">
 Shintaro Sakamoto - How to Live With a Phantom (2011-11-18)

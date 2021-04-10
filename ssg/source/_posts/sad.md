@@ -1,13 +1,13 @@
 ---
-date: 2021-04-09T19:09:01.470Z
+date: 2021-04-10T05:58:01.428Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![SoKo - I Thought I Was an Alien (2012-02-20)](http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg "SoKo - I Thought I Was an Alien (2012-02-20)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">Leonard Cohen - Songs of Love and Hate (1971)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">Azure Ray - Azure Ray (2001-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">Elliott Smith - From a Basement on the Hill (2004-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">Antony and the Johnsons - I Am a Bird Now (2005-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">The Antlers - Burst Apart (2011-05-10)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/881f621c-618c-48da-80a8-50380996fe15/18485861293-500.jpg" data-tags="jazz, vocal jazz, 50s" role="button">
+Frank Sinatra - In the Wee Small Hours (1955-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/c4392206-1f58-48a5-b665-c1515b2ec147/6454049795-500.jpg" data-tags="jazz, sad" role="button">
 Frank Sinatra - No One Cares (1959)
 </li>
@@ -42,8 +45,8 @@ Pink Floyd - The Final Cut (1983-03-21)
 <li data-cover="http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg" data-tags="sad, new wave, english club" role="button">
 The Police - Every Breath You Take (1983-05-20)
 </li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
+<li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
+Dead Can Dance - Aion (1990-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
@@ -53,9 +56,6 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
-Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/57a5da39-729b-3352-9c95-e9b390e22e08/16155956543-500.jpg" data-tags="sad, canadian, 90s" role="button">
 Destroyer - City of Daughters (1998)
@@ -81,6 +81,15 @@ Cat Power - Moon Pix (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/0e34d781-acbe-4ef5-bea3-43ffbf897d52/15802538479-500.jpg" data-tags="indie rock" role="button">
 Cursive - The Storms of Early Summer: Semantics of Song (1998-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a4569a0-63c2-49e5-ab64-2eb87157e8c8/2948168281-500.jpg" data-tags="plotters albums" role="button">
+Mark Lanegan - I'll Take Care of You (1999-09-21)
+</li>
+<li data-cover="https://img.discogs.com/5SFQRNhydZV1l1GMkdanFX7z2eA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1439976-1417816672-8157.jpeg.jpg" data-tags="icelandic" role="button">
+Sigur Rós - Svefn-G-Englar (1999-09-27)
+</li>
+<li data-cover="https://img.discogs.com/dOTKJwkOBVBqPq4Ls3BGIW5mzKE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-532005-1258815236.jpeg.jpg" data-tags="jazz, sad, downtempo, 90s, melancholic, beautiful voices, adult alternative pop-rock, music for rainy days, night radio, 2 check out, music to wake up to" role="button">
+Perry Blake - Still Life (1999-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/6651dafd-9ef1-4502-915d-a8d5e3ef0d59/1483160462-500.jpg" data-tags="sad, gotta check it out, doughty, will buy this - bpx" role="button">
 Mike Doughty - Skittish (2000)
 </li>
@@ -102,6 +111,9 @@ Azure Ray - Azure Ray (2001-01-16)
 <li data-cover="http://coverartarchive.org/release/61a91ee4-71d9-4ed7-a7ad-6ae6c83173d7/21486949080-500.jpg" data-tags="japanese" role="button">
 DIR EN GREY - ain't afraid to die (2001-04-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/51b02443-0363-4840-b1f4-b6e81fc2ae07/8013711579-500.jpg" data-tags="rock, alternative rock" role="button">
+Stabbing Westward - Stabbing Westward (2001-05-22)
+</li>
 <li data-cover="https://img.discogs.com/mSeoI_HcIeqYDxK05onJaHlvmfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810930-1578767578-7046.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Wrens - The Meadowlands (2002)
 </li>
@@ -120,9 +132,6 @@ Aqualung - Aqualung (2002-09-30)
 <li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
 The Early November - For All Of This (2002-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
-Irfan - IRFAN (2003)
-</li>
 <li data-cover="https://img.discogs.com/E5_hooWVbZtRFHjLevOh4QK5K9Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493485-1598683609-9129.jpeg.jpg" data-tags="folk, sad, slowcore, kal cahoone, allmusicl, motdmusic, motdsadsongs" role="button">
 Lilium - Short Stories (2003)
 </li>
@@ -138,17 +147,11 @@ The Long Winters - When I Pretend to Fall (2003-05-06)
 <li data-cover="https://img.discogs.com/mGkUaVwkEPSyW92Ls_yp1mWo2IQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764161-1379971553-7990.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/697776ac-f4ca-4de4-b3ec-0dff13fed33a/26485028742-500.jpg" data-tags="british hip hop" role="button">
 The Streets - Dry Your Eyes (2004-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6c55722-88da-4b4e-a6a2-f95b1d2014ba/5719264364-500.jpg" data-tags="sensitive" role="button">
 Saybia - These Are The Days (2004-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
-Narsilion - Nerbeleth (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -168,6 +171,9 @@ Okkervil River - Black Sheep Boy (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - The Sunset Tree (2005-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d0569a7-1bf9-4d71-843b-9e0d624036e5/10309709950-500.jpg" data-tags="soundtrack" role="button">
+Hans Zimmer & James Newton Howard - Batman Begins (2005-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
 Antimatter - Planetary Confinement (2005-07-25)
 </li>
@@ -186,14 +192,14 @@ Kate Havnevik - Melankton (2006-04-02)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
+Ben Frost - Theory of Machines (2006-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/173df3bb-9a98-41ac-a329-f8121f7fef5a/3039660821-500.jpg" data-tags="pop, hurt" role="button">
 Christina Aguilera - Hurt (2006-11-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
-Chris Garneau - Music For Tourists (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d592bd7-78aa-4106-b356-fbaf2a4d12bd/13083227080-500.jpg" data-tags="sad, post-rock, d2007" role="button">
 Aerial - The Sentinel (2007-01-31)
@@ -206,6 +212,9 @@ Bright Eyes - Cassadaga (2007-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
 Antimatter - Leaving Eden (2007-04-13)
+</li>
+<li data-cover="https://img.discogs.com/BoGbyy7Do1JUgre77BV5uJ9F9ZQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046299-1431906056-3192.jpeg.jpg" data-tags="australian, pop" role="button">
+Darren Hayes - This Delicate Thing We've Made (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
@@ -252,9 +261,6 @@ Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
 The Antlers - Burst Apart (2011-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/7158e68d-d68e-49ed-b9ff-99c932bc78b3/15012656713-500.jpg" data-tags="dream pop" role="button">
-Gem Club - Breakers (2011-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg" data-tags="pop, sad, female vocalists, goth pop, z serii: jest dokladnie tak jak w tej piosence, got vinyl" role="button">
 SoKo - I Thought I Was an Alien (2012-02-20)
 </li>
@@ -288,9 +294,6 @@ Majical Cloudz - Impersonator (2013-05-21)
 <li data-cover="http://coverartarchive.org/release/4777e15c-298d-4db7-a072-ee1c12f836b9/4912043152-500.jpg" data-tags="hi-fi" role="button">
 Coma Cinema - Posthumous Release (2013-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4cc09e57-e640-4784-92f0-db4aaefd903c/6617235157-500.jpg" data-tags="cloud rap" role="button">
-Yung Lean - Unknown Death 2002 (2013-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4b5221d-e21b-4bed-b61c-d525d05cc5a3/6096625503-500.jpg" data-tags="pop" role="button">
 Natalia Kills - Trouble (2013-09-03)
 </li>
@@ -314,9 +317,6 @@ The Hotelier - Home, Like Noplace Is There (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/2f6fffcd-92a4-4d48-9518-b5e4c757c179/8473647967-500.jpg" data-tags="cloud rap" role="button">
-Yung Lean - Unknown Memory (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3b9547-7a3c-49aa-af8a-40329db86b07/14478533949-500.jpg" data-tags="emo" role="button">
 Moose Blood - I'll Keep You In Mind, From Time to Time (2014-10-06)

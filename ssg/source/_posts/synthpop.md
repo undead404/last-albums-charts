@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:56:12.582Z
+date: 2021-04-10T06:29:01.492Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -63,23 +63,17 @@ New Order - Republic (1993-04-27)
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
 </li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - The Knife (2001-02-05)
-</li>
 <li data-cover="https://img.discogs.com/DFdycH0d8JucCOwi0wf-Q7xt8Gc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-91024-1356196838-1896.jpeg.jpg" data-tags="synthpop" role="button">
 Covenant - Northern Light (2002-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e01caaab-6482-4134-abde-84acb3d5a0ae/13381384015-500.jpg" data-tags="electronic, electroclash, synthpop, electro, electro-pop" role="button">
-Vive La Fête - Nuit Blanche (2003-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e441d80-ca54-35eb-b3df-42095796aff1/3880014705-500.jpg" data-tags="80s, synthpop" role="button">
+The Human League - The Very Best of The Human League (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
@@ -90,14 +84,14 @@ CSS - Cansei De Ser Sexy (2005-10)
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/025e433e-757a-34a9-b349-c1ef3e084f07/5220361427-500.jpg" data-tags="synthpop" role="button">
+And One - Bodypop (2006-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
-</li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">
 MGMT - Oracular Spectacular (2007-10-02)
@@ -134,6 +128,9 @@ Empire of the Sun - Walking on a Dream (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
+Desire - II (2009-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/79bca296-c0a8-4d1b-8b34-7cc9408688e6/22138203732-500.jpg" data-tags="synthpop, hurts" role="button">
 Hurts - Wonderful Life (2009-08-29)
@@ -179,9 +176,6 @@ Cut Copy - Zonoscope (2011-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
-</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">
 Grouplove - Never Trust A Happy Song (2011-09-02)
@@ -303,6 +297,9 @@ Future Islands - Singles (2014-03-24)
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/9815a22f-d7ca-447f-a144-dfa658207998/7044912523-500.jpg" data-tags="electronic, synthpop, testament, exodus" role="button">
+Little Dragon - Nabuma Rubberband (2014-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
 Glass Animals - ZABA (2014-06-03)
 </li>
@@ -314,6 +311,9 @@ iamamiwhoami - BLUE (2014-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15d9a20-5fe8-4b35-ad58-bf686787d950/11412700531-500.jpg" data-tags="pop" role="button">
 Taylor Swift - 1989 (2014-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
+Röyksopp - The Inevitable End (2014-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)
