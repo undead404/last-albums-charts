@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:59:01.599Z
+date: 2021-04-10T20:52:01.432Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Beck - Morning Phase (2014-02-21)](http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg "Beck - Morning Phase (2014-02-21)")
@@ -42,14 +42,8 @@ Bob Dylan - Desire (1976-01-05)
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f10a7d7-2dd9-380d-b13a-60e2ae0eef9c/21311200020-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Bossanova (1990-08-13)
-</li>
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5648344-7e08-4131-8a60-138676d0cfef/3370472226-500.jpg" data-tags="indie rock, indie, 90s" role="button">
-Nada Surf - High/Low (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
@@ -99,6 +93,12 @@ Kings of Leon - Youth & Young Manhood (2003-07-23)
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d91e5ce-6678-4108-bbb2-c037b0c588ae/22574686040-500.jpg" data-tags="chillout" role="button">
+Animal Liberation Orchestra - Fly Between Falls (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
+Wilco - A Ghost is Born (2004-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">
 The Album Leaf - In A Safe Place (2004-06-22)
 </li>
@@ -108,6 +108,9 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/68b08bd5-ea1e-3942-abc1-3bb9ee1201fe/2824385245-500.jpg" data-tags="reggae, reggae roots" role="button">
+Groundation - We Free Again (2004-11-12)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
@@ -116,6 +119,9 @@ Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
+Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5518064-7269-3e9a-9fd9-3cd4be58d23e/8078538085-500.jpg" data-tags="rock" role="button">
 Train - For Me, It's You (2006-01-31)
@@ -180,6 +186,9 @@ John Frusciante - The Empyrean (2009-01-14)
 <li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
 Matt & Kim - Grand (2009-01-20)
 </li>
+<li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
+Vetiver - Tight Knit (2009-02-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
 </li>
@@ -191,6 +200,9 @@ Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/993dd992-cc0b-36a6-b9b9-a2a582c141fe/13700643173-500.jpg" data-tags="00s" role="button">
+Wilco - Wilco (The Album) (2009-06-26)
 </li>
 <li data-cover="https://img.discogs.com/7qv5sHMcPvORr_c1d6B8QUUvdTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876084-1249485629.jpeg.jpg" data-tags="indie rock, 00s" role="button">
 Julian Plenti - Julian Plenti Is... Skyscraper (2009-08-03)
@@ -219,12 +231,6 @@ Band of Horses - Infinite Arms (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/689f26cd-b624-4bd2-a1bf-fd327f65f07b/9361302288-500.jpg" data-tags="electro hop" role="button">
-Mike Posner - 31 Minutes to Takeoff (2010-08-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f6b6a4d-36d4-472d-bdf0-f912bb2c1cbd/9103084649-500.jpg" data-tags="alternative rock, usa, american, male vocalists, americain, jacob" role="button">
 Plain White T's - Rhythm Of Love (2010-08-10)
 </li>
@@ -233,9 +239,6 @@ Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
-</li>
-<li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
-The Civil Wars - Barton Hollow (2011-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9035757-3972-404c-89d3-cea1f904b3a1/3357027039-500.jpg" data-tags="indie, rock, usa, 2010s, fucking lovely, mistico, cartoon album covers, muita barba, hippagem, fundamento, a vida como ela e" role="button">
 J Mascis - Several Shades of Why (2011-03-02)
@@ -293,9 +296,6 @@ The Growlers - Hung At Heart (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/30c6bed1-467f-41c9-93bf-12bf1251ea6e/28438481526-500.jpg" data-tags="usa, sadcore, slowcore, sadness" role="button">
-dandelion hands - It's All in Your Head (2013-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
 Ciara - Ciara (2013-07-05)

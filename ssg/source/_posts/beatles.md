@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:35:07.169Z
+date: 2021-04-10T21:24:06.998Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -117,11 +117,11 @@ The Beatles - Rarities (1978-11-02)
 <li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
 Wings - Wings Greatest (1978-11-22)
 </li>
-<li data-cover="https://img.discogs.com/tRFv_eMjwKjsj_P2t3t_hMjVMWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3745788-1464558373-3751.jpeg.jpg" data-tags="rock, classic rock" role="button">
-George Harrison - George Harrison (1979)
-</li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
 Wings - Back To The Egg (1979-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/f56e7684-ba28-46fd-afbf-9e0a77670bdb/11426468192-500.jpg" data-tags="jazz, piano, modern, variations, improvisation, bach, beatles, piano solo, fugue, fugues, beatles covered" role="button">
+John Bayless - Bach Meets the Beatles (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/9554aba4-85fd-42eb-a4df-fe9ebc71ebfb/4682090790-500.jpg" data-tags="beatles, the beatles" role="button">
 Julian Lennon - Valotte (1984)
@@ -240,9 +240,6 @@ DJ Nu-Mark & Pomo - Blend Crafters (2004-07-26)
 <li data-cover="http://coverartarchive.org/release/9ff2f140-f704-4230-a8f4-35627868da91/10843537721-500.jpg" data-tags="chillout, ambient, downtempo, psychill" role="button">
 Phutureprimitive - Sub Conscious (2004-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/5bb767b7-6973-4e14-a976-02122f21b1da/6045290014-500.jpg" data-tags="classic rock, acoustic, singer-songwriter, rock" role="button">
-John Lennon - Acoustic (2004-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf1d0781-961d-4396-930b-4533d3ee37fa/11404567568-500.jpg" data-tags="christmas" role="button">
 Allison Crowe - Tidings (2004-11-11)
 </li>
@@ -260,6 +257,9 @@ Ringo Starr - Choose Love (2005-06-07)
 </li>
 <li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
 Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/fea08a42-67eb-4463-9356-72dde7bc22d9/11997283098-500.jpg" data-tags="indie, pop, alternative, indie rock, pop rock" role="button">
+Rolla - La La Land (2005-09-28)
 </li>
 <li data-cover="https://img.discogs.com/tj2zU3V9AcrbiArentE5xunkYYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16577373-1608584361-6211.jpeg.jpg" data-tags="indie, rock, hamburg, zurich, beatles, jet, oasis, who, rolling stones, lennon, basel, roll, libertines, mccartney, biel, bienne, basle" role="button">
 Carnation - Waxy's Little Sister (2005-10-14)
@@ -282,9 +282,6 @@ Ringo Starr - Liverpool 8 (2008-01-14)
 <li data-cover="http://coverartarchive.org/release/6cda2aab-071a-466d-b4d9-36d8563a5f36/8647595415-500.jpg" data-tags="coldplay, radiohead, beatles, the shins, beach boys, weezer, modest mouse, vampire weekend, fleet foxes, excelsior, rogue wave, belle and sabastian" role="button">
 Marching Band - Spark Large (2008-07-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
-Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
-</li>
 <li data-cover="https://img.discogs.com/RsNWNkT6wr7JMO-k8Js_IRiwdjA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198730-1359957277-8561.jpeg.jpg" data-tags="covers" role="button">
 Soulive - Rubber Soulive (2010-03-23)
 </li>
@@ -305,6 +302,9 @@ The Beatles - Meet the Beatles (2014-07-22)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles" role="button">
 The Beatles - '69 Rehearsals (disc 2) (2015-11-06)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles, stonedbeat" role="button">
+The Beatles - 1962-1970 (2015-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7194480d-d3d1-4b14-8b1e-602514f70d29/1403982090-500.jpg" data-tags="beatles, stonedbeat, work it" role="button">
 The Beatles - Get Back 2nd Mix (2015-11-06)

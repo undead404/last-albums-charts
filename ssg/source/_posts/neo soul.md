@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:30:01.577Z
+date: 2021-04-10T20:55:01.409Z
 title: "neo soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/cWm8cNTE_B5glWEqf-U6kn_FAf0=/fit-in/394x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593390-1230901229.jpeg.jpg" data-tags="70s, soul, funk" role="button">
-Earth, Wind & Fire - All 'N All (1977)
+<li data-cover="http://coverartarchive.org/release/188b79b5-5f3f-4bee-af6c-73d194f97a61/7525713803-500.jpg" data-tags="70s" role="button">
+Earth, Wind & Fire - Head To The Sky (1973)
+</li>
+<li data-cover="https://img.discogs.com/bpRBB18T2BtK9pSTgIY6vItYkJk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5928329-1415640480-4837.jpeg.jpg" data-tags="soul, blues" role="button">
+Johnnie Taylor - Eargasm (1976)
+</li>
+<li data-cover="http://coverartarchive.org/release/50ed8242-0de9-4543-ab39-84d12849ac3c/28984219490-500.jpg" data-tags="70s" role="button">
+Earth, Wind & Fire - Spirit (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/d072d167-28e5-4e81-a904-1c85f7fada02/25413603758-500.jpg" data-tags="soul, rnb" role="button">
 Groove Theory - Groove Theory (1995-10-24)
@@ -36,9 +42,6 @@ Rahsaan Patterson - Rahsaan Patterson (1997)
 <li data-cover="http://coverartarchive.org/release/52d8d6a4-5e94-4200-8b02-530940f1ee1d/22530873406-500.jpg" data-tags="soul" role="button">
 Erykah Badu - Baduizm (1997-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5505efba-eb13-4499-b010-5296945d6519/15454753380-500.jpg" data-tags="90s" role="button">
-En Vogue - EV3 (1997-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ffc0e66-78ba-4efc-9a73-55ce13354a32/5194284962-500.jpg" data-tags="rnb, neo soul" role="button">
 Maxwell - MTV Unplugged (1997-07-15)
 </li>
@@ -48,14 +51,14 @@ Maxwell - Embrya (1998-06-30)
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
-<li data-cover="https://img.discogs.com/D4MU7vuAM9LWvfZzERcba6k37fU=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8555788-1463957393-4077.jpeg.jpg" data-tags="soul, r&b, 90s soul" role="button">
-En Vogue - Best of En Vogue (1998-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/85fe8a36-6efc-498a-a197-7971108fd287/9304670823-500.jpg" data-tags="soul, neo-soul" role="button">
 Amel Larrieux - Infinite Possibilities (1999)
 </li>
 <li data-cover="https://img.discogs.com/rOn2RmS9rEBSOsLB85heBj4FKac=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433615-1156473457.jpeg.jpg" data-tags="soul, neo soul, rahsaan patterson" role="button">
 Rahsaan Patterson - Love In Stereo (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/36782f2d-834f-48fc-b8b6-e2281f830cf4/6668826327-500.jpg" data-tags="neo-soul" role="button">
+Jazzyfatnastees - The Once And Future (1999)
 </li>
 <li data-cover="https://img.discogs.com/dPqt-3b86LpiEz5iRy_f0cji9uI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346056-1535625635-3593.jpeg.jpg" data-tags="soul" role="button">
 Angie Stone - Black Diamond (1999-09-28)
@@ -81,17 +84,11 @@ Bilal - 1st Born Second (2001-07-31)
 <li data-cover="http://coverartarchive.org/release/28964621-13f1-48eb-8546-e3bf84db2f14/15238553018-500.jpg" data-tags="soul, maxwell, rnb" role="button">
 Maxwell - Now (2001-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5bdbb977-4a13-422e-929d-55ca19f7ff03/15475337869-500.jpg" data-tags="rnb" role="button">
-Kelis - Wanderland (2001-10-17)
-</li>
 <li data-cover="https://img.discogs.com/f2rNispmTrKN9WukLKqKWG327h8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330894-1582129404-3446.jpeg.jpg" data-tags="rnb, glenn lewis" role="button">
 Glenn Lewis - World Outside My Window (2002-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6abc2071-c938-4659-b000-aeef26a8433c/7448267217-500.jpg" data-tags="rnb, ashanti" role="button">
 Ashanti - Ashanti (2002-04-02)
-</li>
-<li data-cover="https://img.discogs.com/YP039jQ-6O9WaEDY9euzSh5Q90E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330903-1341928568-7224.jpeg.jpg" data-tags="soul" role="button">
-Raphael Saadiq - Instant Vintage (2002-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/517b00ec-81da-42d2-b9b7-5a6ece841c5c/10229836601-500.jpg" data-tags="singer-songwriter" role="button">
 Darius Rucker - Back To Then (2002-07-30)
@@ -108,9 +105,6 @@ Kem - Kemistry (2003-02-25)
 <li data-cover="https://img.discogs.com/FGn8MyRKwLPjXf1MyJZDS_NJ3z4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-150572-1454525554-4783.jpeg.jpg" data-tags="neo soul" role="button">
 Dwele - Subject (2003-05-20)
 </li>
-<li data-cover="https://img.discogs.com/wFZKOdSiwEA1aBv5KaP0grLyjxw=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717328-1481294317-6976.jpeg.jpg" data-tags="hip-hop, soul, rnb" role="button">
-Mýa - Moodring (2003-07-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4084059-b9e3-4248-9d5a-487224970dfa/4514268539-500.jpg" data-tags="soul, neo-soul" role="button">
 Erykah Badu - Worldwide Underground (2003-09-15)
 </li>
@@ -120,8 +114,17 @@ Alicia Keys - The Diary of Alicia Keys (2003-12-01)
 <li data-cover="https://img.discogs.com/kAFcrJ7HmoY6TFruqgevqAKmZnk=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-355546-1103221358.jpg.jpg" data-tags="neo-soul" role="button">
 Rahsaan Patterson - After Hours (2004-04-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/34361b26-4ca9-3bcf-81ff-95ced75c64cf/15472233585-500.jpg" data-tags="world" role="button">
+Zap Mama - Ancestry In Progress (2004-08-09)
+</li>
+<li data-cover="https://img.discogs.com/XuMLR3boHgc5gyx2O2guMX7-tkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1511365-1367888751-8182.jpeg.jpg" data-tags="neo-soul" role="button">
+Jill Scott - Beautifully Human: Words and Sounds, Volume 2 (2004-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
+</li>
+<li data-cover="https://img.discogs.com/9a8xxjYSYuhSXeZvA4vlk3ZryMA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16002842-1601692246-1614.jpeg.jpg" data-tags="female vocalists, jazz" role="button">
+Lalah Hathaway - Outrun the Sky (2004-10-05)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
@@ -129,8 +132,8 @@ John Legend - Get Lifted (2004-10-25)
 <li data-cover="https://img.discogs.com/Bm3K-AQ-E3xs5p_FGH0gVmZqqWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3628890-1338018579-1886.jpeg.jpg" data-tags="soul" role="button">
 Conya Doss - Just Because (2004-11-09)
 </li>
-<li data-cover="https://img.discogs.com/wjUdI-GdgLHjZTKvlu6yc1nigDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418362-1289058903.jpeg.jpg" data-tags="nu jazz, chillout, electronic, trip-hop, jazz, downtempo, funk, acid jazz, groove, lounge, neo soul, sonar kollektiv, electronic-lounge, dox records, barturismooth" role="button">
-Benny Sings - I Love You (2005-02-14)
+<li data-cover="https://img.discogs.com/5g61htznL770S1GbBJAVDcjuoKU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3672712-1339783557-1967.jpeg.jpg" data-tags="neo-soul" role="button">
+Angela Johnson - Got To Let It Go (2005-06-06)
 </li>
 <li data-cover="https://img.discogs.com/3P3SNseRIXEqICizBxHOtiO2T0c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605964-1567797258-2769.jpeg.jpg" data-tags="rnb, neo soul, soul" role="button">
 Raheem DeVaughn - The Love Experience (2005-06-28)
@@ -144,11 +147,14 @@ Sofa Surfers - Sofa Surfers (2005-10-28)
 <li data-cover="https://img.discogs.com/gS99wBsu0GrxATpMifSV1_HI_e0=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591468-1137119629.jpeg.jpg" data-tags="soul" role="button">
 Goapele - Change It All (2005-12-27)
 </li>
-<li data-cover="https://img.discogs.com/aW82f0wIBQOYzJonVYV-e42C1oQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806993-1537193001-4457.jpeg.jpg" data-tags="soul, funk" role="button">
-Amp Fiddler - Afro Strut (2006)
-</li>
 <li data-cover="https://img.discogs.com/XGUj8MtZFiX4or3OtCiZLA5ev0I=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409813-1217282926.jpeg.jpg" data-tags="soul, neo soul, omar5" role="button">
 Omar - Sing (If You Want It) (2006-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/00f200b3-5329-40cc-8895-65b91161f3a3/12697075442-500.jpg" data-tags="neo-soul" role="button">
+Hil St. Soul - SOULidified (2006-04-16)
+</li>
+<li data-cover="https://img.discogs.com/pim_nk2JT4Nf9U7Zvx-AuPq2wec=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-883100-1235633436.jpeg.jpg" data-tags="neo-soul" role="button">
+Choklate - Choklate (2006-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cd353fc-259c-4af8-9417-0f05b0d8ea31/2586646663-500.jpg" data-tags="hip hop, soul, stones throw" role="button">
 Aloe Blacc - Shine Through (2006-07-11)
@@ -156,11 +162,14 @@ Aloe Blacc - Shine Through (2006-07-11)
 <li data-cover="http://coverartarchive.org/release/56f6887e-1960-4ac1-a293-1031c2dde05d/27698117872-500.jpg" data-tags="soul" role="button">
 Joy Denalane - Born & Raised (2006-08-11)
 </li>
-<li data-cover="https://img.discogs.com/vaNa1e0kAY_4AxUQ7iP72mHuSoM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2911768-1306925786.jpeg.jpg" data-tags="hip-hop, rnb" role="button">
-Kelis - Kelis Was Here (2006-08-22)
-</li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
+</li>
+<li data-cover="https://img.discogs.com/R51Nn2y18fIqFNZx0r758WSDCAc=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1034695-1189536009.jpeg.jpg" data-tags="ambient, trip hop" role="button">
+Cirkus - Laylow (2006-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/117548f8-3255-432a-82ef-5813cb1ed4ca/24622953430-500.jpg" data-tags="neo-soul" role="button">
+Anthony David - The Red Clay Chronicles (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1c6f2f9-c796-4294-8553-48e6cefc3262/9587445582-500.jpg" data-tags="rnb" role="button">
 Brian McKnight - Ten (2006-12-05)
@@ -171,6 +180,9 @@ Tina Dico - Count To Ten (2007-09-03)
 <li data-cover="https://img.discogs.com/wTw8m20kpo9LAmCEhDbr23kxSNQ=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1610677-1232052748.jpeg.jpg" data-tags="neo-soul, chill, neo soul" role="button">
 Rahsaan Patterson - Wines & Spirits (2007-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1cb59da-a6a7-459a-a5e3-a0461efcd27c/12114822282-500.jpg" data-tags="usa, female vocalist, 00s, neo soul" role="button">
+Angie Stone - The Art Of Love And War (2007-10-16)
+</li>
 <li data-cover="https://img.discogs.com/QHoVciBKnoWcxnuvALzYPCRtytw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1509458-1224980221.jpeg.jpg" data-tags="african" role="button">
 Mattafix - Living Darfur (2007-11-16)
 </li>
@@ -180,11 +192,14 @@ Raheem DeVaughn - Love Behind The Melody (2008-01-15)
 <li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
 Lizz Wright - The Orchard (2008-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/331f1816-7da8-4f89-a08e-4e8f76f81762/6412819789-500.jpg" data-tags="female vocalists" role="button">
-Kelis - The Hits (2008-03-03)
-</li>
 <li data-cover="https://img.discogs.com/iHm9jimYPOxx0a5P0DzME65LUDY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1359894-1212702927.jpeg.jpg" data-tags="soul, female vocalists" role="button">
 Lalah Hathaway - Self Portrait (2008-06-03)
+</li>
+<li data-cover="https://img.discogs.com/zRF9Be8UsB9mqkMPl_G8fSYSACs=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3525917-1599392717-4667.jpeg.jpg" data-tags="soul" role="button">
+Hil St. Soul - Black Rose (2008-06-10)
+</li>
+<li data-cover="https://img.discogs.com/6EJyORfVVDwgv0ve2LucQ46mZnA=/fit-in/431x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383285-1214902487.jpeg.jpg" data-tags="neo-soul, soul" role="button">
+Dwele - Sketches Of A Man (2008-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9e520f1-6687-4554-9cb6-6441e7131276/20915724240-500.jpg" data-tags="neo-soul" role="button">
 J*DaVeY - The Beauty In Distortion / The Land Of The Lost (2008-07-01)
@@ -201,11 +216,14 @@ John Legend - Evolver (2008-10-22)
 <li data-cover="http://coverartarchive.org/release/3a95c09e-dd91-412e-b21f-ddfe6fe82fec/4214196482-500.jpg" data-tags="jazz, pop, soul, r&b, smooth jazz, italian, compilation, neo soul" role="button">
 Giorgia - Spirito Libero (2008-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/761530f2-5a87-440e-ad76-39a1b036479d/4387425940-500.jpg" data-tags="rnb" role="button">
-Jamie Foxx - Intuition (2008-12-16)
+<li data-cover="http://coverartarchive.org/release/3c9ffbec-66a7-434d-8dd1-5ace83cd798d/24891706913-500.jpg" data-tags="anthony hamilton" role="button">
+Anthony Hamilton - The Point Of It All (2008-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8c1fe45-66b1-44f2-a32c-c04fa0645289/28404679797-500.jpg" data-tags="soul" role="button">
 Erykah Badu - Live (2009)
+</li>
+<li data-cover="http://coverartarchive.org/release/15c395bd-4ebb-4f83-92b9-09dc0fc091ce/10628285763-500.jpg" data-tags="soul, r and b, neo soul, neo-soul, american idol, retro soul" role="button">
+Melinda Doolittle - Coming Back To You (2009-02-03)
 </li>
 <li data-cover="https://img.discogs.com/GJfy06J2LGkCqqKGNZO7OQxor3g=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657826-1235012805.jpeg.jpg" data-tags="hip-hop" role="button">
 K'naan - Troubadour (2009-02-24)
@@ -228,8 +246,8 @@ Maskinen - Boys II Men (2009-11)
 <li data-cover="https://img.discogs.com/UILOrzZ3AjmaY1h3d5HtbPIWmu4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1950638-1433826368-5082.jpeg.jpg" data-tags="diva, neo soul, library, keepers of soul, goat, epistrophik peach, g a muldrow" role="button">
 Georgia Anne Muldrow - Early (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/54dcaa7b-fbec-3b9d-845a-542598ff0eed/22997559585-500.jpg" data-tags="hip-hop, trip-hop" role="button">
-RJD2 - The Colossus (2010-01-19)
+<li data-cover="http://coverartarchive.org/release/8fbd3c63-c8b8-4976-8e57-d17410a8bf8c/24891718269-500.jpg" data-tags="rnb" role="button">
+Angie Stone - Unexpected (2009-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9780c05d-7a75-45a5-9810-6c07f5f57609/18208181632-500.jpg" data-tags="electronica, soul, indie electronic, downtempo, 00s, neo soul, neo-soul, keepers of soul, damn this is art, alternative r and b, danish group" role="button">
 Quadron - Quadron (2010-02-23)
@@ -237,14 +255,8 @@ Quadron - Quadron (2010-02-23)
 <li data-cover="https://img.discogs.com/gtIFHzDvebzTpNoTDt2gopPMibg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3971682-1350976655-6786.jpeg.jpg" data-tags="soul, neo soul" role="button">
 Raheem DeVaughn - The Love & War MasterPeace (2010-03-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dbc3997-72eb-4848-8382-de5fc29a0d94/2433702226-500.jpg" data-tags="disco, chillout, electronic, hip hop, synth funk" role="button">
-Onra - Long Distance (2010-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
-</li>
-<li data-cover="https://img.discogs.com/__ivJJqyEVBcoxwGiLaN7FUOaok=/fit-in/545x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10222973-1493654928-4023.jpeg.jpg" data-tags="soul" role="button">
-Macy Gray - The Sellout (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/01c2dca6-37dc-4450-b47a-4c32951617e7/5144009707-500.jpg" data-tags="neo soul" role="button">
 Seal - 6: Commitment (2010-09-17)
@@ -258,8 +270,8 @@ Aloe Blacc - Good Things (2010-09-27)
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
 Miguel - All I Want Is You (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/474f6df2-77a1-4876-94bd-3ae5293024f0/7290069397-500.jpg" data-tags="soul" role="button">
-Jill Scott - The Light Of The Sun (2011-06-20)
+<li data-cover="http://coverartarchive.org/release/39ff1935-4459-4a48-a10d-6c6a0e82f09d/22260168345-500.jpg" data-tags="neo soul, neo-soul, goapele" role="button">
+Goapele - Play (2011-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, neo soul, soul revival" role="button">
 Mayer Hawthorne - How Do You Do (2011-10-04)
@@ -273,20 +285,11 @@ Georgia Anne Muldrow - Seeds (2012-03-26)
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
 Frank Ocean - channel ORANGE (2012-07-10)
 </li>
-<li data-cover="https://img.discogs.com/PzObw9EPJNHYJYtHsiOYUcr0-CM=/fit-in/558x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044903-1353393962-7969.jpeg.jpg" data-tags="soul" role="button">
-Lianne La Havas - Is Your Love Big Enough? (2012-08-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa7078c2-9b77-41ca-97bf-5364f838da88/1819429738-500.jpg" data-tags="soul" role="button">
 Jessie Ware - Devotion (2012-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dd3c28-468d-44f8-af28-04d84eb14b0b/2367021425-500.jpg" data-tags="soul, rnb" role="button">
 Miguel - Kaleidoscope Dream (2012-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/70efa2ac-bf75-4b2d-802f-e1a22df33115/15635736756-500.jpg" data-tags="soul, female vocalists, singer-songwriter, usa, neo soul, neo-soul, 10s, female singer songwriter, gray, robertitus global, soul rnb, american musician, soundtrack of my own life, lieblingssongs, funkyram, funky ram, wonder cover, stevie wonder tribute, radio 6 luisterpaal" role="button">
-Macy Gray - Talking Book (2012-10-30)
-</li>
-<li data-cover="https://img.discogs.com/3fpP2kLdPCVQ9PnNb0f9PpOpe8k=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4174227-1357688507-9575.jpeg.jpg" data-tags="soul, rnb" role="button">
-Solange - True (2012-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3d975db-2eb8-4f4d-b465-ac915a9b4f79/9114957897-500.jpg" data-tags="nu jazz, chillout, broken beat, neo soul" role="button">
 Joomanji - Manj (2013-01-22)
@@ -299,9 +302,6 @@ Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3c457b-cabb-4f22-9f60-56384f17dd83/5738839329-500.jpg" data-tags="indie pop" role="button">
 Fitz and the Tantrums - More Than Just a Dream (2013-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/5990c407-e053-40ef-b568-3ea7326233e0/6316639250-500.jpg" data-tags="jazz, contemporary jazz, hiphop, soul jazz, blue note, neo soul" role="button">
-Robert Glasper Experiment - Black Radio 2 (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/06b45779-5bbb-470e-bf98-5d37b42fa1cc/4341681749-500.jpg" data-tags="indie electronic, downtempo, epic, neo soul, 10s, alternative rnb, vested in culture, alternative r and b, danish group, danish duo, 3-5" role="button">
 Quadron - Avalanche (2013-05-31)

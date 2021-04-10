@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:49:01.429Z
+date: 2021-04-10T21:06:01.422Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -30,9 +30,6 @@ The Cure - Three Imaginary Boys (1979-05-08)
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6eac2f49-661a-4317-bc2b-71ec7debd8f9/3451488533-500.jpg" data-tags="post-punk" role="button">
-Bauhaus - In the Flat Field (1980-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
 </li>
@@ -51,8 +48,8 @@ Bauhaus - The Sky's Gone Out (1982)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a7f2097-1800-3978-afc2-e5971f24b536/8212967312-500.jpg" data-tags="post-punk" role="button">
-Cocteau Twins - Garlands (1982-09-01)
+<li data-cover="https://img.discogs.com/21L8upSOvyjopNZJBhNHyZ4plhM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-687536-1293969695.jpeg.jpg" data-tags="post-punk" role="button">
+Siouxsie and the Banshees - A Kiss in the Dreamhouse (1982-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Burning from the Inside (1983-07)
@@ -66,20 +63,11 @@ The Cult - Love (1985-08)
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">
 The Cure - The Head on the Door (1985-08-13)
 </li>
-<li data-cover="https://img.discogs.com/x66YepUAjLxxtGjTHL_2o9GM0G4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4829151-1376799074-8236.jpeg.jpg" data-tags="post-punk, gothic rock" role="button">
-Siouxsie and the Banshees - Tinderbox (1986-04-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
-Clan of Xymox - Medusa (1986-11-01)
-</li>
 <li data-cover="https://img.discogs.com/TIAz6Bz2UuxTyMqQM4uyJgLnWLs=/fit-in/599x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608618-1221972276.jpeg.jpg" data-tags="gothic rock" role="button">
 Fields of the Nephilim - Dawnrazor (1987-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/7947298813-500.jpg" data-tags="post-punk, new wave, 80s, alternative" role="button">
 The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
-Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - Floodland (1987-11-15)
@@ -90,14 +78,14 @@ The Cure - Disintegration (1989-05-01)
 <li data-cover="https://img.discogs.com/YXJHpQW8y46vG7hRWW_9ANNY1LI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008477-1258239023.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Lacrimosa - Angst (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
-Dead Can Dance - A Passage in Time (1991-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/fba3ddd3-6a38-4bc0-b428-e456f7cf3532/2107416724-500.jpg" data-tags="gothic, darkwave" role="button">
 Lacrimosa - Einsamkeit (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c750d3e-b0ae-4028-a00b-fdd05f435ab2/8157843330-500.jpg" data-tags="gothic rock" role="button">
 London After Midnight - Selected Scenes From the End of the World (1992)
+</li>
+<li data-cover="http://coverartarchive.org/release/507e67ef-8a5b-4595-81ea-2491bfa3af40/13082185119-500.jpg" data-tags="ethereal" role="button">
+Bel Canto - Shimmering, Warm & Bright (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
@@ -126,6 +114,9 @@ Lacrimosa - Inferno (1995)
 <li data-cover="https://img.discogs.com/yPObFg9KYqKXzYR5KCVBb95NkEc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172126-1198088260.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/caede476-52c5-45f8-923b-5991f20984af/5910861121-500.jpg" data-tags="industrial metal" role="button">
+Marilyn Manson - Smells Like Children (1995-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
 </li>
@@ -144,8 +135,14 @@ The Cure - Wild Mood Swings (1996-05-07)
 <li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f6128f3-6638-40d2-b9cd-dc069dba18b6/2115320360-500.jpg" data-tags="gothic rock, gothic" role="button">
+Inkubus Sukkubus - Vampyre Erotica (1997-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Angels Fall First (1997-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a49cfd9-f25c-4632-aecb-39da46da1766/10743085500-500.jpg" data-tags="gothic" role="button">
+The Crüxshadows - Telemetry of a Fallen Angel (1998)
 </li>
 <li data-cover="https://img.discogs.com/k0jZTlvf2cXLRUHH9SrPiwBGokE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075260-1325031345.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
@@ -159,17 +156,14 @@ The 69 Eyes - Wasting the Dawn (1999-02-22)
 <li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
 Lacrimosa - Elodia (1999-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd62ba3a-945a-421a-b516-63149a6836fd/21657403755-500.jpg" data-tags="gothic, german" role="button">
-E Nomine - Das Testament (1999-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">
 The Cure - Bloodflowers (2000-02-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic" role="button">
+Queen Adreena - Taxidermy (2000-04-10)
+</li>
 <li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Blessed Be (2000-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/516224a0-0c91-4b18-98e8-af3d0d66bdce/2216955296-500.jpg" data-tags="gothic" role="button">
-Collide - Chasing the Ghost (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">
 Evanescence - Origin (2000-11-04)
@@ -198,6 +192,9 @@ The 69 Eyes - Paris Kills (2002-04-16)
 <li data-cover="http://coverartarchive.org/release/95ffe5c6-3aa0-42bc-88bd-c4e31c83496a/10602738638-500.jpg" data-tags="alternative rock, gothic, goth, female vocalists" role="button">
 Queen Adreena - Drink Me (2002-08-05)
 </li>
+<li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">
+Lacuna Coil - Comalies (2002-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/9045185f-a666-488d-b63e-4e6fc141bb0a/1226061435-500.jpg" data-tags="rock, gothic rock, evanescence" role="button">
 Evanescence - Not for Your Ears (2003)
 </li>
@@ -215,9 +212,6 @@ Xandria - Kill the Sun (2003-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/05c76df8-a899-4fb7-aae9-ed5b12fb531b/2138443877-500.jpg" data-tags="gothic" role="button">
 Unheilig - Zelluloid (2004-02-16)
-</li>
-<li data-cover="https://img.discogs.com/TAQNSNTqA4isx3Ofy7f35PUb6yY=/fit-in/437x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-242496-1219104558.jpeg.jpg" data-tags="gothic, dark electro, darkwave" role="button">
-Blutengel - Demon Kiss (2004-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Lovelorn (2004-05-24)
@@ -243,6 +237,9 @@ Within Temptation - The Silent Force (2004-11-15)
 <li data-cover="http://coverartarchive.org/release/415d1dea-4107-49e0-8fbe-cba8cf607d86/9469978707-500.jpg" data-tags="rock, evanescence, live" role="button">
 Evanescence - Anywhere but Home (2004-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
+Gothminister - Empire of Dark Salvation (2005-04-04)
+</li>
 <li data-cover="https://img.discogs.com/NswOQ6A8V6vjUYuFzM_AR2GsofA=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9218495-1476867193-7269.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Lichtgestalt (2005-05-02)
 </li>
@@ -267,11 +264,14 @@ Lacuna Coil - Karmacode (2006-03-31)
 <li data-cover="https://img.discogs.com/oOY0hXYgn-0Dr6Oc856IpBp4gwo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070575-1514157186-5942.jpeg.jpg" data-tags="gothic metal" role="button">
 Poisonblack - Lust Stained Despair (2006-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/db7a53e9-8865-4756-9d26-157e4f50d165/19887853784-500.jpg" data-tags="electronic" role="button">
-Emilie Autumn - Opheliac (2006-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/3fea24e2-1fa9-43e8-ac8c-e364040cd341/8710607480-500.jpg" data-tags="rock, gothic" role="button">
+Evanescence - Lithium (2006-12-15)
+</li>
+<li data-cover="https://img.discogs.com/_BItylEPoMRHoWyzlcH5SQlGEmU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-881577-1337391256-5034.jpeg.jpg" data-tags="darkwave" role="button">
+The Crüxshadows - DreamCypher (2007-01-16)
 </li>
 <li data-cover="https://img.discogs.com/-VFw6TC4whnLtPwVFicpMIyVN-8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1227342-1202121963.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Creature Feature - The Greatest Show Unearthed (2007-02)
@@ -279,11 +279,11 @@ Creature Feature - The Greatest Show Unearthed (2007-02)
 <li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
 Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 </li>
+<li data-cover="https://img.discogs.com/59ui5Dl6FzjJoeLk6e_EbyYmNWQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353221-1452775343-7648.jpeg.jpg" data-tags="symphonic metal" role="button">
+Xandria - Salomé - The Seventh Veil (2007-05-25)
+</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
-</li>
-<li data-cover="https://img.discogs.com/UUWYawx3KqOk9SuBUVwg2jCIJBY=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1262816-1204659055.jpeg.jpg" data-tags="gothic" role="button">
-Emilie Autumn - A Bit O' This & That (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)
@@ -297,6 +297,9 @@ Nightwish - Dark Passion Play (2007-09-26)
 <li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/a84e64da-c7be-4bfc-a389-8313df84c8fc/8493534865-500.jpg" data-tags="darkwave, electronic, gothic" role="button">
+Johnny Hollow - Dirty Hands (2008)
+</li>
 <li data-cover="https://img.discogs.com/lFSiIjIhxLcRTV-0Nf2Kx-vE2lQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374498-1508528278-6098.jpeg.jpg" data-tags="gothic, unheilig" role="button">
 Unheilig - Puppenspiel (2008-02-22)
 </li>
@@ -308,9 +311,6 @@ Eisblume - Unter dem Eis (2009-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/68c04f2c-66dd-47d0-bc27-e289665f46d4/13805054818-500.jpg" data-tags="gothic" role="button">
 Mono Inc. - Voices Of Doom (2009-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0613007-0298-4ca6-b1f2-4b88dae63742/1693672754-500.jpg" data-tags="rock, alternative rock" role="button">
-We Are the Fallen - Tear The World Down (2010-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)

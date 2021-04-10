@@ -1,17 +1,17 @@
 ---
-date: 2021-04-09T22:46:12.491Z
+date: 2021-04-10T21:44:01.413Z
 title: "rave: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/3f315e99-933f-4891-abb9-0b33757a3e08/28961245825-500.jpg" data-tags="techno" role="button">Moby - Moby (1992-06)</li>
 <li data-cover="https://img.discogs.com/bSMt1idCUjPnH0eq3gle4B5GpHQ=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-76156-1231368734.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">The Prodigy - Experience (1992-09-21)</li>
+<li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">The Prodigy - Breathe (1996-11-11)</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/00bc3621-2184-354a-9d9c-cae28337d59b/3508428448-500.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Always Outnumbered, Never Outgunned (2004-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">Zomby - Where Were U in '92? (2008-11-10)</li>
-<li data-cover="http://coverartarchive.org/release/ff352a15-b8af-439c-8a58-7607181e7750/10991333928-500.jpg" data-tags="rap" role="button">Die Antwoord - $O$ (2009)</li>
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Invaders Must Die (2009-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/07290fdc-2274-4c01-a4cf-819a96b7b853/4965823690-500.jpg" data-tags="experimental, witch house" role="button">Crim3s - Stay Ugly EP (2013-04-11)</li>
-<li data-cover="http://coverartarchive.org/release/8038465b-116e-4ba2-92fd-1e78459908fe/4241101206-500.jpg" data-tags="electronic" role="button">Crystal Fighters - Cave Rave (2013-05-27)</li>
 <li data-cover="http://coverartarchive.org/release/eac0fab9-d4d3-452a-a90e-12648c291187/8379301227-500.jpg" data-tags="post-rock" role="button">Mogwai - Rave Tapes (2014-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg" data-tags="hip-hop, electronic, hip hop" role="button">Die Antwoord - Donker Mag (2014-05-30)</li>
 </ol>
@@ -108,6 +108,9 @@ Tower of Power - T.O.P. (1993)
 <li data-cover="http://coverartarchive.org/release/0f20bc6f-cbad-357b-81ab-32129bf04507/7932082038-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Moby - Early Underground (1993-03)
 </li>
+<li data-cover="https://img.discogs.com/i6l9YAIp-AunrMU1virX_DpBTV4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11217-1272224991.jpeg.jpg" data-tags="techno, rave" role="button">
+L.A. Style - L.A. Style (1993-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/fba6e1b0-325c-4384-a22b-4f1cdeffb49a/7919807512-500.jpg" data-tags="british, ambient techno, the klf" role="button">
 The KLF - Ultra Rare Trax (1993-09)
 </li>
@@ -144,6 +147,9 @@ Sunscreem - Change or Die (1996)
 <li data-cover="http://coverartarchive.org/release/30fd8fa4-c508-4076-86ed-acaa1776aed7/3497527334-500.jpg" data-tags="happy hardcore" role="button">
 Scooter - Our Happy Hardcore (1996-03-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/a9bc7bc2-fad2-4373-b10e-31c20fd28a3b/21890909689-500.jpg" data-tags="techno, eurodance" role="button">
+Music Instructor - The World of Music Instructor (1996-03-28)
+</li>
 <li data-cover="https://img.discogs.com/GXfN-xYlHqh6FYn7AtYBUXLorRQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23696-1539423054-8683.jpeg.jpg" data-tags="happy hardcore, dance" role="button">
 Blümchen - Herzfrequenz (1996-05-20)
 </li>
@@ -155,6 +161,9 @@ Scooter - Wicked! (1996-10-24)
 </li>
 <li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
 The Prodigy - Breathe (1996-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9370b4e-a80b-4e57-9b04-8bff05ad0cc7/3819848374-500.jpg" data-tags="electronic, dance, old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat, fgjhhjjghj" role="button">
+The Prodigy - The Rest, The Unreleased! The Last! (1997)
 </li>
 <li data-cover="https://img.discogs.com/FQ0Cd54-DwNjKHTUEKDlfMxvS68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12372523-1533929886-3292.jpeg.jpg" data-tags="electronic, dance, old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
 The Prodigy - The Singles (1997)
@@ -210,9 +219,6 @@ Askura Alexander Shkuratov - PORRIDGE (2006)
 <li data-cover="http://coverartarchive.org/release/bf786f88-3871-4f26-a56b-9e9800a85f79/7013875443-500.jpg" data-tags="trance, electronic" role="button">
 Ferry Corsten - L.E.F. (2006-05-26)
 </li>
-<li data-cover="https://img.discogs.com/JnzQ_U5gcFr-1E1rjDR0al2o_PY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4445117-1365078711-1489.jpeg.jpg" data-tags="breakcore" role="button">
-Bong-Ra - Stereohype Heroin Hooker (2006-06-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
 </li>
@@ -255,9 +261,6 @@ Moby - Last Night Remixed (2008-11-03)
 <li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">
 Zomby - Where Were U in '92? (2008-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff352a15-b8af-439c-8a58-7607181e7750/10991333928-500.jpg" data-tags="rap" role="button">
-Die Antwoord - $O$ (2009)
-</li>
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
 </li>
@@ -296,9 +299,6 @@ Infected Mushroom - Never Mind (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/07290fdc-2274-4c01-a4cf-819a96b7b853/4965823690-500.jpg" data-tags="experimental, witch house" role="button">
 Crim3s - Stay Ugly EP (2013-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8038465b-116e-4ba2-92fd-1e78459908fe/4241101206-500.jpg" data-tags="electronic" role="button">
-Crystal Fighters - Cave Rave (2013-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e18c3556-e4f4-46f4-9bcf-984bab67c2b6/28459398438-500.jpg" data-tags="rave" role="button">
 Scooter - 20 Years of Hardcore (2013-10-11)

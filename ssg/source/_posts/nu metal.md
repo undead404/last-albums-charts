@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:13:01.406Z
+date: 2021-04-10T21:05:01.435Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -156,6 +156,9 @@ Papa Roach - LoveHateTragedy (2002-05-31)
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/26b922bd-a931-4938-93f5-b9a09d227c10/9831908947-500.jpg" data-tags="metal, nu metal" role="button">
+Otep - Sevas Tra (2002-06-18)
+</li>
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
 </li>
@@ -218,9 +221,6 @@ Static-X - Shadow Zone (2003-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
 Mushroomhead - XIII (2003-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/201168d1-ca56-4b6e-9bb2-f37deb6bf045/28275822140-500.jpg" data-tags="industrial metal, nu metal" role="button">
-Dope - Group Therapy (2003-10-21)
 </li>
 <li data-cover="https://img.discogs.com/Aps8rjlwnJWV4Gu-tfAkYEFZnlM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065022-1212577271.jpeg.jpg" data-tags="nu metal" role="button">
 Element Eighty - Element Eighty (2003-10-28)

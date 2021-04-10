@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:13:01.617Z
+date: 2021-04-10T21:09:01.415Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -41,6 +41,9 @@ Wavves - Wavvves (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fff84f79-dfc4-37e5-a7c3-269c8316a55b/1251144355-500.jpg" data-tags="dreampop, chillwave" role="button">
 Memory Cassette - Call & Response (2009-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5658f44a-8137-4a3d-ad42-d00c72ee2a4a/1260542259-500.jpg" data-tags="indie" role="button">
+The Retuses - Echo (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
@@ -129,6 +132,9 @@ C418 - Minecraft - Volume Alpha (2011-03-04)
 <li data-cover="http://coverartarchive.org/release/30f5f4f6-8538-437a-9370-886a51f50bfc/1383687414-500.jpg" data-tags="electronic, indie, lo-fi, dreamy, dream pop, chillwave" role="button">
 Work Drugs - Summer Blood (2011-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7fed4ef-d2e3-4ba8-9894-785827bbb85c/1379568108-500.jpg" data-tags="indie pop, chillwave" role="button">
+Work Drugs - Tropic of Capricorn (2011-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
@@ -137,9 +143,6 @@ Purity Ring - Ungirthed (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/ut1GJKVFVD256JQ424WuONnxL7M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2921998-1307434209.jpeg.jpg" data-tags="chillwave" role="button">
 Ford & Lopatin - Channel Pressure (2011-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c32edc4-e937-4552-9501-5354ea6d7148/5965141013-500.jpg" data-tags="electronic" role="button">
-Com Truise - Galactic Melt (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
 Dye - Taki 183 (2011-06-27)
@@ -174,11 +177,11 @@ Mitch Murder - Current Events (2011-11-15)
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9ab4abd-cbe9-436d-b451-7c10db9ecada/3197833552-500.jpg" data-tags="instrumental, synthpop, emotional, chillwave, emotive" role="button">
+Beat Culture - Tokyo Dreamer (2012-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
 John Talabot - ƒin (2012-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/1924bf90-15e3-4a34-902e-18ba2f11acef/5240498709-500.jpg" data-tags="synthwave" role="button">
-Lazerhawk - Visitors (2012-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
@@ -188,9 +191,6 @@ Jesse Ruins - Dream Analysis (2012-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1f13b8f-10ac-4d10-a12a-b861307b3d78/2411269767-500.jpg" data-tags="indie, chillwave, captured tracks" role="button">
 Wild Nothing - Nowhere (2012-02-21)
-</li>
-<li data-cover="https://img.discogs.com/waGLvITKFk-9Ej0WOqr72I0Wwvw=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3571336-1600301909-8694.jpeg.jpg" data-tags="electronica, synthpop, italo disco, chillwave, synthwave" role="button">
-Teeel - University Heights (2012-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5aab894f-8a77-4c29-ae71-c9f90a6f84f5/13909652468-500.jpg" data-tags="smooth jazz, chillwave, fantasy, eletronic, passion, vaporwave, future funk, idk man, vaporpop" role="button">
 S U R F I N G - Deep Fantasy (2012-04-03)
@@ -206,9 +206,6 @@ Craft Spells - Gallery (2012-05-15)
 </li>
 <li data-cover="https://img.discogs.com/_5n3wNbAwmOAqyWWk3VVEYLyEWU=/fit-in/576x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-770886-1374689324-8722.jpeg.jpg" data-tags="swedish, chillwave" role="button">
 jj - High Summer (2012-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
-Twin Shadow - Confess (2012-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7818e9b8-568f-41c8-8933-57b129416e3c/1384235698-500.jpg" data-tags="electronic, lo-fi, dream pop, chillwave" role="button">
 Work Drugs - Absolute Bearing (2012-07-10)
@@ -261,6 +258,9 @@ Thundercat - Apocalypse (2013-06-03)
 <li data-cover="https://img.discogs.com/hG4ex4oVyBiOpHS4XlNDSbkDQ18=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4680871-1372040994-1987.jpeg.jpg" data-tags="electronic, indie, lo-fi, dream pop, chillwave" role="button">
 Work Drugs - Mavericks (2013-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/eea3e6d7-eaf8-4d3c-b7e5-7b90844ec9af/4404251011-500.jpg" data-tags="witch house" role="button">
+oOoOO - Without Your Love (2013-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
@@ -285,14 +285,14 @@ Active Child - Rapor - EP (2013-10-22)
 <li data-cover="http://coverartarchive.org/release/705f27c0-2986-4059-929d-df3a3fe11f0e/5821734492-500.jpg" data-tags="indie, chillwave" role="button">
 Noble Oak - Away (2013-12-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5262575-7281-451c-a734-7fc93f5daf91/7990515507-500.jpg" data-tags="vaporwave" role="button">
-マクロスMACROSS 82-99 - SAILORWAVE (2013-12-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
 Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
+</li>
+<li data-cover="https://img.discogs.com/dr2tQuNAiOTsIM748NSbxTz4fns=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6134893-1411928811-5321.jpeg.jpg" data-tags="electronic, indie, lo-fi, dream pop, chillwave, electro-pop, bobby cahn records" role="button">
+Work Drugs - Insurgents (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/82309c98-bdda-428b-b309-94fa9b060a97/6655564810-500.jpg" data-tags="indie, alternative, mpb, synthpop" role="button">
 Silva - Vista Pro Mar (2014-03-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:28:01.519Z
+date: 2021-04-10T21:35:01.595Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -32,9 +32,6 @@ Mythos - Mythos (1972)
 </li>
 <li data-cover="https://img.discogs.com/iQuDkDouKJZSou1DKToKPxqdIDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854258-1304165274.jpeg.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Hergest Ridge (1974-08-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/fe768488-bf44-4fee-8309-1e010f5e31a3/11969072130-500.jpg" data-tags="progressive rock, new age" role="button">
-Mike Oldfield - Ommadawn (1975-10-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="vangelis" role="button">
 Jon & Vangelis - The Friends Of Mr Cairo (1981)
@@ -74,9 +71,6 @@ Andreas Vollenweider - Book of Roses (1991)
 </li>
 <li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Visit (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
-Dead Can Dance - A Passage in Time (1991-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
@@ -198,6 +192,9 @@ Enya - A Day Without Rain (2000-11-11)
 <li data-cover="http://coverartarchive.org/release/138001e8-ea58-429b-be5b-05ab4fb1fdc1/14970489576-500.jpg" data-tags="ambient, new age, electronic" role="button">
 Deep Forest - Pacifique (2000-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/43284b14-75a2-4825-8664-a75fa2e0092d/24417195325-500.jpg" data-tags="new age" role="button">
+Diane Arkenstone - The Healing Spirit (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
@@ -242,6 +239,9 @@ Era - The Mass (2003-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/84f907d1-719d-442b-853e-36f1d05c79b1/26569542426-500.jpg" data-tags="gregorian chant, lesiem, new age" role="button">
 Lesiëm - Auracle (2003-04-11)
+</li>
+<li data-cover="https://img.discogs.com/XRNMoTkID3Igd_KNFYhMxOhV0ZE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6246860-1414683603-8850.jpeg.jpg" data-tags="ambient" role="button">
+Delerium - Chimera (2003-06-13)
 </li>
 <li data-cover="https://img.discogs.com/8cVaQakbPbZi1w0IaTpeVchpGW4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-207489-1617390721-6016.jpeg.jpg" data-tags="new age, enigma" role="button">
 Enigma - Voyageur (2003-09-08)

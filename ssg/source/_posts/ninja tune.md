@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:37:01.459Z
+date: 2021-04-10T21:22:01.397Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/5dc61cde-afe3-4b8b-ba30-d799226aff6e/4072706550-500.jpg" data-tags="chillout, electronic, downtempo, ninja tune" role="button">
+Coldcut - Philosophy (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/0321d916-5799-4eaf-aabc-70fac210465e/4506378697-500.jpg" data-tags="downtempo" role="button">
 9 Lazy 9 - Paradise Blown (1994-03)
 </li>
@@ -30,11 +33,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b181c56b-6aad-4f41-9104-3f3c044d8be1/23264238178-500.jpg" data-tags="acid jazz" role="button">
 9 Lazy 9 - The Herb (1995-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/9dcbf990-8d3a-49e0-b980-6829377d0d99/4532272745-500.jpg" data-tags="ninja tune, hip-hop" role="button">
-The Herbaliser - Remedies (1995-09-21)
-</li>
 <li data-cover="https://img.discogs.com/iskYsVfNFx1aJtjQ5o4pzojwy0g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-47200-1246343043.jpeg.jpg" data-tags="ninja tune" role="button">
 DJ Food - A Recipe For Disaster (1995-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0af09e84-ebe4-41af-ab67-65a6f20c0cb4/8285393464-500.jpg" data-tags="ninja tune, thug records" role="button">
+Jaga Jazzist - Jævla Jazzist Grete Stitz (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
 London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
@@ -80,6 +83,9 @@ Mr. Scruff - Keep It Unreal (1999-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/92ae4527-5b03-4bf1-a8c1-7d4832f26d7b/4514720848-500.jpg" data-tags="electronic, trip-hop, downtempo" role="button">
+Funki Porcini - Zombie (1999-10-19)
 </li>
 <li data-cover="https://img.discogs.com/Ew0P7-8vW_sDtp28Itv5SLH1ksE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55168-1166379646.jpeg.jpg" data-tags="ninja tune" role="button">
 FOG - Fog (2000)
@@ -230,12 +236,6 @@ Daedelus - Fair Weather Friends (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/565ecac2-2a18-3f3e-9026-b3cb7b7e567e/15591829201-500.jpg" data-tags="acoustic, ninja tune" role="button">
 Fink - Distance and Time (2007-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1166738-67ff-4703-ac07-dab86acf0091/8130862809-500.jpg" data-tags="chillout, downtempo, contemporary jazz, future jazz" role="button">
-The Cinematic Orchestra - Live At The Royal Albert Hall (2008-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d11dc0b-33e3-4da2-9605-857e328c1b4b/3572056905-500.jpg" data-tags="ninja tune, hip hop" role="button">
-The Herbaliser - Same As It Never Was (2008-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 The Bug - London Zoo (2008-07-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:39:01.421Z
+date: 2021-04-10T21:39:18.199Z
 title: "krautrock: 100 albums you must listen to before you die"
 ---
 ![Can - Tago Mago (1971)](http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg "Can - Tago Mago (1971)")
@@ -29,6 +29,9 @@ Can - Monster Movie (1969)
 </li>
 <li data-cover="https://img.discogs.com/2W5Kh2arEUQwsPck9fEC4VyJTHk=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6588319-1422622515-2631.jpeg.jpg" data-tags="krautrock, ambient" role="button">
 Popol Vuh - Affenstunde (1970)
+</li>
+<li data-cover="https://img.discogs.com/Nw5AZ9P9FrWucPthSvJLvHDbEk4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3144870-1362105598-3990.jpeg.jpg" data-tags="rock, krautrock, avantgarde, favs, jazzrock, gammarec, klassik kraut, remember70, freepurp1e, juma, jeppf, albums i listened to, sounds66till77" role="button">
+Embryo - Opal (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/d759d1dc-81a6-3d90-8bfa-e8c35b352036/9983561126-500.jpg" data-tags="krautrock" role="button">
 Can - Soundtracks (1970)
@@ -129,9 +132,6 @@ Ash Ra Tempel - Starring Rosi (1973)
 <li data-cover="https://img.discogs.com/XKru-VvZXln7gRjIe-inRByFQFE=/fit-in/592x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-323992-1204317778.jpeg.jpg" data-tags="electronic, ambient, experimental, krautrock" role="button">
 Tangerine Dream - Atem (1973-03)
 </li>
-<li data-cover="https://img.discogs.com/71wGZVjNTj5eTdlicwECG2eyemE=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645108-1569935804-4080.mpo.jpg" data-tags="krautrock" role="button">
-Agitation Free - 2nd (1973-07)
-</li>
 <li data-cover="https://img.discogs.com/4TbKU6jK0SNYOjSwAoNV4VBiD-g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13066734-1547465045-9190.jpeg.jpg" data-tags="progressive rock" role="button">
 Eloy - Floating (1974)
 </li>
@@ -159,14 +159,17 @@ Popol Vuh - Aguirre (1975)
 <li data-cover="http://coverartarchive.org/release/c1fa3fc4-5a73-3449-9abe-9c2f38e7b22e/23187067210-500.jpg" data-tags="krautrock" role="button">
 Neu! - Neu! 75 (1975)
 </li>
+<li data-cover="http://coverartarchive.org/release/8c6c3f4b-6bdd-4920-a5a7-113727b191f3/7901728495-500.jpg" data-tags="electronic" role="button">
+Kraftwerk - Radio-Activity (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/24e28094-bef2-40d2-a63e-6080e13cdb64/22048228043-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Dawn (1976)
 </li>
+<li data-cover="https://img.discogs.com/40seZoe7982TiFPmA7C__89JEZE=/fit-in/227x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220546-1311101202.jpeg.jpg" data-tags="psychedelic" role="button">
+Can - Flow Motion (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/46671884-f726-3088-9972-f3970f230369/10520442034-500.jpg" data-tags="krautrock" role="button">
 La Düsseldorf - La Düsseldorf (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/220dcfbf-f68c-3080-8966-1231debed51a/1121541209-500.jpg" data-tags="ambient, krautrock, progressive electronic, electronic" role="button">
-Ashra - New Age Of Earth (1976)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
 David Bowie - Station to Station (1976-01-23)
@@ -189,11 +192,11 @@ Can - Saw Delight (1977)
 <li data-cover="https://img.discogs.com/6DLf_U7Lhvx7YjQg40moIUybe2o=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7958179-1452427189-8331.jpeg.jpg" data-tags="electronic" role="button">
 Kraftwerk - Trans-Europe Express (1977)
 </li>
-<li data-cover="http://coverartarchive.org/release/3669ceae-11bf-49ef-b8f2-b5724d24a6f9/1331058877-500.jpg" data-tags="experimental, art rock, 70s" role="button">
-David Bowie - Low (1977-01-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/4e08d9c7-b9da-3b6f-ab1e-93a126e79b0c/1055312578-500.jpg" data-tags="krautrock, electronic" role="button">
 Ashra - Blackouts (1978)
+</li>
+<li data-cover="https://img.discogs.com/VmywRXxVwx1b5UNZwlZPCaPBCmA=/fit-in/480x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4696039-1372527688-1936.jpeg.jpg" data-tags="electronic, synthpop" role="button">
+Kraftwerk - The Man-Machine (1978)
 </li>
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
@@ -204,20 +207,17 @@ Holger Czukay - Movies (1979)
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
 </li>
-<li data-cover="https://img.discogs.com/xXtcDR_B4r3XzecAmRGyAljPdwA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-357662-1102734278.jpg.jpg" data-tags="krautrock, psychedelic" role="button">
-Can - Delay 1968 (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/288437a4-6475-4d86-8979-94b1ce57b55c/5699860540-500.jpg" data-tags="krautrock, h czukay" role="button">
 Holger Czukay - On The Way To The Peak Of Normal (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/792e00a8-a0fd-466d-a762-f4a74a38eb54/21783889382-500.jpg" data-tags="krautrock, can" role="button">
 Can - Cannibalism 1 (1989-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9e12c08-3e5f-43bf-99c2-4013dddd652c/2878501959-500.jpg" data-tags="shoegaze, noise pop, post-rock, 90s" role="button">
-Stereolab - Peng! (1992-05-26)
-</li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
+Stereolab - Mars Audiac Quintet (1994-08-09)
 </li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
@@ -236,9 +236,6 @@ Knorkator - Tribute to uns selbst (2000-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e987749-bbc4-4e34-bad8-058991f4f696/4558387608-500.jpg" data-tags="stoner rock" role="button">
 Colour Haze - Los Sounds De Krauts (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/887f53f8-4a26-4281-a659-019b07fe829e/3263073661-500.jpg" data-tags="experimental" role="button">
 Ataxia - Automatic Writing (2004-08-10)
@@ -287,6 +284,9 @@ The Phantom Band - The Wants (2010-10-18)
 </li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d718f92e-7c26-4969-b748-03c5b11a891c/6757653822-500.jpg" data-tags="experimental, krautrock, psychedelic, space rock, psychedelic rock, essential albums for the aspiring wizard" role="button">
+Eternal Tapestry - Beyond the 4th Door (2011-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">
 Django Django - Django Django (2012-01-30)

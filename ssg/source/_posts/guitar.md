@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:32:01.667Z
+date: 2021-04-10T21:38:01.427Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)](http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg "Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)")
@@ -30,9 +30,6 @@ The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 <li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/36205485-616a-4eb2-a109-c86de5eb5db6/1338198895-500.jpg" data-tags="blues rock" role="button">
-Jeff Beck - Truth (1968-08)
-</li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
@@ -54,9 +51,6 @@ Jeff Beck - Blow by Blow (1975-03)
 <li data-cover="http://coverartarchive.org/release/b3e974cc-d96a-4fb8-83fc-9c9b947b2eb6/5854190276-500.jpg" data-tags="blues-rockclub" role="button">
 Elvin Bishop - Struttin' My Stuff (1975-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/07860c3a-f7cd-3959-a40b-c79df58144db/15456423723-500.jpg" data-tags="fusion, instrumental" role="button">
-Jeff Beck - Wired (1976)
-</li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
 </li>
@@ -69,6 +63,9 @@ Dire Straits - Dire Straits (1978-06-02)
 <li data-cover="http://coverartarchive.org/release/767a43b2-f0f0-36b7-af90-444ebe766ce3/10110855411-500.jpg" data-tags="blues rock, british blues" role="button">
 Peter Green - In The Skies (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/3a40201d-e7ba-3121-98cb-e2d57fa71736/8103038053-500.jpg" data-tags="rock, classic rock" role="button">
+Dire Straits - Communiqué (1979-04)
+</li>
 <li data-cover="https://img.discogs.com/2_S53Z6Qr22T_X23q4Yktwddpb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027221-1185876506.jpeg.jpg" data-tags="jazz" role="button">
 Pat Metheny Group - Still Life (Talking) (1987-07-07)
 </li>
@@ -80,9 +77,6 @@ George Harrison - Cloud Nine (1987-11-02)
 </li>
 <li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
-</li>
-<li data-cover="https://img.discogs.com/1mENplx7WrPEdtH1yjQLVO47f1o=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5741976-1457531625-8181.mpo.jpg" data-tags="rock, instrumental rock, guitar virtuoso" role="button">
-Eric Johnson - Ah Via Musicom (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
@@ -113,6 +107,9 @@ Steve Vai - Alien Love Secrets (1995-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6420c2c-7ada-4a92-a16f-0ca0ced49290/14955445741-500.jpg" data-tags="gypsy flame, guitar, spanish, flamenco" role="button">
 Armik - Gypsy Flame (1995-04-18)
+</li>
+<li data-cover="https://img.discogs.com/qsvejpm1rEvyYnkFpA1ls0iNWVE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336148-1233531923.jpeg.jpg" data-tags="blues, blues rock" role="button">
+Jonny Lang - Lie To Me (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/a83b5bbe-7757-3565-b061-d25178c6962c/1608104027-500.jpg" data-tags="classic rock, rock, eric clapton" role="button">
 Eric Clapton - Pilgrim (1998-03-09)
@@ -153,11 +150,17 @@ Saves the Day - Stay What You Are (2001-07-10)
 <li data-cover="http://coverartarchive.org/release/5e67283a-0bb4-432e-b1ed-b4136660d4a2/2573081133-500.jpg" data-tags="acoustic, flamenco" role="button">
 Rodrigo y Gabriela - re-Foc (2002)
 </li>
+<li data-cover="https://img.discogs.com/5h_ZrW3sDyRcs5RDs9QWzsN9gvc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7872856-1450630821-7855.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
+Joe Satriani - Strange Beautiful Music (2002-06-25)
+</li>
 <li data-cover="https://img.discogs.com/b7YbITe-6tjcIf0KTV4oObOiFXo=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335362-1602036565-4961.jpeg.jpg" data-tags="rock, garage rock" role="button">
 The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ad421cb-26d8-47d9-ac97-ef0ba5230646/14928752516-500.jpg" data-tags="instrumental, guitar virtuoso, experimental" role="button">
 Buckethead - Electric Tears (2002-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e557f9b-9954-477d-a4c2-5dd7bd945fda/4672249676-500.jpg" data-tags="rock, latin rock" role="button">
+Santana - Shaman (2002-10-22)
 </li>
 <li data-cover="https://img.discogs.com/K_wFkVYGXXX23vuBQJ7vDfE4sdY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3649068-1338825965-9999.jpeg.jpg" data-tags="jazz, pat metheny" role="button">
 Pat Metheny - One Quiet Night (2003-05-13)
@@ -180,14 +183,14 @@ Howie Day - Stop All The World Now (2003-10-07)
 <li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
 Andy McKee - Dreamcatcher (2004)
 </li>
+<li data-cover="https://img.discogs.com/xdYNTGT-Q2m47QmLbwzyEuL7zII=/fit-in/472x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3243290-1378870863-5538.jpeg.jpg" data-tags="hip-hop, rock" role="button">
+Everlast - White Trash Beautiful (2004)
+</li>
 <li data-cover="https://img.discogs.com/m_HIIxTVTBve9_jukqMAsDXm860=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3164102-1563038591-5406.jpeg.jpg" data-tags="guitar" role="button">
 Tommy Emmanuel - Endless Road (2004-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f34799-1a4c-4ecb-89dc-2a05a0f1103b/4526835963-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Joe Satriani - Is There Love in Space? (2004-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
-Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
 <li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
 John Frusciante - The Will to Death (2004-06-22)
@@ -203,9 +206,6 @@ Tocotronic - Pure Vernunft darf niemals siegen (2005-01-17)
 </li>
 <li data-cover="https://img.discogs.com/HvUWjmSOc1F95WZzqrTFHKfgqy4=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784361-1330358908.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
 Laura Veirs - Year of Meteors (2005-08-23)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy, standup comedy" role="button">
-Stephen Lynch - The Craig Machine (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/125c9366-4f4f-3166-a31e-6855d9199b28/7547146717-500.jpg" data-tags="latin rock, classic rock, guitar" role="button">
 Santana - All That I Am (2005-10-28)
@@ -230,9 +230,6 @@ Fink - Biscuits for Breakfast (2006-04-17)
 </li>
 <li data-cover="https://img.discogs.com/0g8A8Ic0qyE1JbqnSZo3mewZPl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707924-1198936469.gif.jpg" data-tags="singer-songwriter" role="button">
 Kimya Dawson - Remember That I Love You (2006-05-09)
-</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
@@ -270,6 +267,9 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">
+Scouting for Girls - Scouting for Girls (2007-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/0720ab6f-d9e0-3cc9-82be-930cd76faf5d/8160980453-500.jpg" data-tags="blues" role="button">
 Eric Clapton - Complete Clapton (2007-10-08)
 </li>
@@ -288,14 +288,14 @@ David Cook - David Cook (2008-11-18)
 <li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
+<li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
+Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
+</li>
 <li data-cover="https://img.discogs.com/N8JTGR0ddazBmfq92Q1iPXzACzU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1794321-1352053259-3312.jpeg.jpg" data-tags="indie, guitar" role="button">
 Fink - Sort of Revolution (2009-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/43075c98-16b9-4d92-bb33-44a3a84d58a6/19979198538-500.jpg" data-tags="blues rock, rock" role="button">
 Mark Knopfler - Get Lucky (2009-09-11)
-</li>
-<li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
-The Big Pink - A Brief History of Love (2009-09-14)
 </li>
 <li data-cover="https://img.discogs.com/20kU5POHDa6FFpSgiU8xI2hhPWo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1074826-1405901004-8428.jpeg.jpg" data-tags="classic rock, guitar, psychedelic rock" role="button">
 Jimi Hendrix - Valleys of Neptune (2010-03-05)

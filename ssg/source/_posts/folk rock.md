@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:46:07.106Z
+date: 2021-04-10T21:12:01.423Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -63,9 +63,6 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/56d05907-9f3f-4eec-8c1d-97e9c735d88f/1262909032-500.jpg" data-tags="folk rock" role="button">
-Jim Croce - You Don't Mess Around with Jim (1972-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, folk" role="button">
 Joni Mitchell - Court and Spark (1974-04)
 </li>
@@ -86,6 +83,9 @@ Bob Dylan - Desire (1976-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/23716905-5107-4572-966e-f090100076c5/16198712449-500.jpg" data-tags="60s, donovan" role="button">
 Donovan - Donovan's Greatest Hits (1989-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/ccd94fae-b441-34d7-a3cd-b0e9785033ec/6919771664-500.jpg" data-tags="rock, 80s, singer-songwriter" role="button">
+Neil Young - Freedom (1989-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
@@ -122,6 +122,9 @@ Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/90312886-40f4-4369-bcd4-4aa76054c706/13515628922-500.jpg" data-tags="folk rock" role="button">
+Schandmaul - Narrenkönig (2002-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Arcade Fire (2003-06-15)
@@ -168,9 +171,6 @@ The Decemberists - The Crane Wife (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
-</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
@@ -194,6 +194,9 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
+</li>
+<li data-cover="https://img.discogs.com/0p4IeHnrBKzwZbaUP2XNQnSMdbY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328080-1361870851-6165.jpeg.jpg" data-tags="rock, folk, folk rock, 00s" role="button">
+Bob Dylan - Together Through Life (2009-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine - Around the Well (2009-05-19)
@@ -257,9 +260,6 @@ Boy & Bear - Moonfire (2011-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)
-</li>
-<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

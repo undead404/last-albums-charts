@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:02:01.408Z
+date: 2021-04-10T21:28:01.472Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -69,9 +69,6 @@ Sugar Ray - Floored (1997-06-24)
 <li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/8be21f84-ba80-4195-8a28-3562b8439476/10151203461-500.jpg" data-tags="rock" role="button">
-Rage Against the Machine - Live & Rare (1997-07-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc15e8e7-33ce-4b3c-a802-6dcc71c5f596/5337928255-500.jpg" data-tags="industrial metal, rapcore, industrial" role="button">
 Clawfinger - Clawfinger (1997-09-29)
 </li>
@@ -101,9 +98,6 @@ Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
 <li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">
 Crazy Town - The Gift of Game (1999-11-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
-Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
@@ -173,6 +167,9 @@ Linkin Park - Meteora (2003-03-24)
 </li>
 <li data-cover="https://img.discogs.com/TmQbV913FVbIEhOfGX5fJDdJLhY=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6560574-1422026632-2911.jpeg.jpg" data-tags="rapcore" role="button">
 Tribal Ink - Surrounded By Freaks (2003-03-26)
+</li>
+<li data-cover="https://img.discogs.com/CYKJnsbVVtQNYwcHFhHz5I709YQ=/fit-in/395x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5365546-1391591004-5448.jpeg.jpg" data-tags="metal, crossover" role="button">
+Clawfinger - Zeros & Heroes (2003-05-26)
 </li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
@@ -314,6 +311,9 @@ P.O.D. - Murdered Love (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/c80f4d23-4fe8-4b6c-816c-3ec3924ba18a/12620927677-500.jpg" data-tags="pop punk, rapcore" role="button">
+Zebrahead - Call Your Friends (2013-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)

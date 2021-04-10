@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:15:01.558Z
+date: 2021-04-10T20:46:06.911Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -29,9 +29,6 @@ Fleetwood Mac - Rumours (1977-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
-</li>
-<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
-Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
@@ -107,6 +104,9 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
+</li>
+<li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
+Hilary Duff - Most Wanted (2005-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)

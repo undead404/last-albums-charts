@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:19:01.604Z
+date: 2021-04-10T21:15:01.496Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -45,9 +45,6 @@ The Who - Quadrophenia (1973-11-16)
 <li data-cover="https://img.discogs.com/zRaJPERMIJk19NpxUQ-3-KSB0rU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1424009-1320333836.jpeg.jpg" data-tags="progressive rock" role="button">
 Yes - Tales from Topographic Oceans (1973-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5f85c80f-d33a-430f-be13-cec775a9bd04/6040849759-500.jpg" data-tags="progressive rock" role="button">
-Genesis - The Lamb Lies Down on Broadway (1974-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/287a0f2c-53da-4fac-b254-f004e350fe82/14956557712-500.jpg" data-tags="hard rock, rock" role="button">
 Alice Cooper - Welcome to My Nightmare (1975-03-11)
 </li>
@@ -56,6 +53,9 @@ Pink Floyd - Animals (1977-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - I Robot (1977-06-01)
+</li>
+<li data-cover="https://img.discogs.com/eZR1-CBlACzOQucuolv-S-s24uE=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9781757-1486245008-7913.jpeg.jpg" data-tags="70s, progressive rock, classic rock" role="button">
+Styx - The Grand Illusion (1977-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
@@ -66,9 +66,6 @@ Buggles - The Age of Plastic (1980)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b2d1c75-5ba2-44e1-8b09-449d893e229a/9699513967-500.jpg" data-tags="80s, symphonic rock, electric light orchestra" role="button">
-Electric Light Orchestra - Time (1981-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
@@ -78,23 +75,20 @@ Pink Floyd - The Final Cut (1983-03-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Marillion - Misplaced Childhood (1985-06-17)
 </li>
-<li data-cover="https://img.discogs.com/NwG6HC-zPorxreK0-5IspEnkF9c=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2594960-1526397691-3722.jpeg.jpg" data-tags="80s, post-punk" role="button">
-The The - Infected (1986-11-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/0dcf0812-3064-38d3-a234-74a7084ad634/23757549091-500.jpg" data-tags="heavy metal" role="button">
 King Diamond - Abigail (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/459b027b-c7d0-3f1c-9c49-1216179260c0/12905663035-500.jpg" data-tags="progressive rock" role="button">
 Marillion - Clutching At Straws (1987-06-12)
 </li>
-<li data-cover="https://img.discogs.com/sNgRvuxw78AEWk7TH4f_-1Y28C4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760586-1334719012.jpeg.jpg" data-tags="progressive rock, rock" role="button">
-Roger Waters - Radio K.A.O.S. (1987-06-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/4bdb8024-ed76-43a1-aec7-6c9702d512d2/12225451426-500.jpg" data-tags="heavy metal" role="button">
 W.A.S.P. - The Crimson Idol (1992-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - Amused to Death (1992-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/29383a47-4698-4141-80fc-1e1bf94231f2/16542007335-500.jpg" data-tags="progressive rock" role="button">
+Marillion - Brave (1994-02-07)
 </li>
 <li data-cover="https://img.discogs.com/DIj0FHZk3_TF1KTZi3CJ7hTisiI=/fit-in/397x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4644371-1370889637-7899.jpeg.jpg" data-tags="progressive metal" role="button">
 Ayreon - The Final Experiment (1995)
@@ -120,6 +114,9 @@ Pain of Salvation - Entropia (1997-08)
 <li data-cover="http://coverartarchive.org/release/8d8ce4ac-92a1-300c-88af-8f214ee2544b/5119636248-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - Into the Electric Castle (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e59050c-fbf2-4811-b177-c1dab9792b83/13963291476-500.jpg" data-tags="concept album, freestyle fellowship" role="button">
+Aceyalone - A Book of Human Language (1998-04-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
@@ -128,6 +125,9 @@ Opeth - My Arms, Your Hearse (1998-06-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Pain of Salvation - One Hour By The Concrete Lake (1998-07-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
+Eels - Electro-Shock Blues (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2412502a-559c-4e67-8602-ee42b0ba4e65/11585612900-500.jpg" data-tags="progressive metal, thrash metal" role="button">
 Nevermore - Dreaming Neon Black (1999-01-06)
@@ -143,9 +143,6 @@ Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
 <li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">
 Grandaddy - The Sophtware Slump (2000-05-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e973d272-3f35-4b02-82e3-aa43f83031b2/19933342206-500.jpg" data-tags="indie rock" role="button">
-Cursive - Domestica (2000-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3039a1a9-a8d2-4560-81c7-b0af31f692b3/1290036364-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - The Perfect Element, Part I (2000-10-10)
@@ -213,11 +210,11 @@ MF DOOM - MM..Food (2004-11-16)
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Black Halo (2005-02-16)
 </li>
+<li data-cover="https://img.discogs.com/uoXrj2YD3sFaaO6SjKUFn4qgjFs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207872-1200783193.jpeg.jpg" data-tags="import, concept album, merge records" role="button">
+Crooked Fingers - Dignity and Shame (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
-The Mountain Goats - The Sunset Tree (2005-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
 Boys Night Out - Trainwreck (2005-07-26)
@@ -246,9 +243,6 @@ Dog Fashion Disco - Adultery (2006-04-04)
 <li data-cover="http://coverartarchive.org/release/62332a08-7f1f-40d5-bd69-8ffa8d01cb51/24839986890-500.jpg" data-tags="spaghetti western" role="button">
 Murder By Death - In Bocca Al Lupo (2006-05-23)
 </li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/90f54514-f789-4835-b3e0-d1f14e9e766e/3820440959-500.jpg" data-tags="country" role="button">
 Eric Church - Sinners Like Me (2006-07-18)
 </li>
@@ -266,6 +260,9 @@ Funeral for a Friend - Tales Don't Tell Themselves (2007-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/80acdf88-f600-4ab6-9775-7e1a724b87f7/15388294239-500.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act II: The Meaning Of, And All Things Regarding Ms. Leading (2007-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b93d88c0-0953-422a-8e8c-d0831cb8fe9c/26551890096-500.jpg" data-tags="alternative rock" role="button">
+ASHES dIVIDE - Keep Telling Myself It's Alright (2008-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
@@ -285,8 +282,8 @@ The Decemberists - The Hazards of Love (2009-03-16)
 <li data-cover="https://img.discogs.com/U9Jn2NXxOsUmCAoL4u1P3zTb9w8=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1877212-1399495634-5871.jpeg.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act III: Life and Death (2009-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa8b7472-1647-4c42-b1ae-261567c31107/3784041521-500.jpg" data-tags="progressive rock, epic, rock opera" role="button">
-The Protomen - Act II: The Father of Death (2009-09-08)
+<li data-cover="http://coverartarchive.org/release/729871ea-4ac9-3140-953c-b8861c47c9e3/13189984972-500.jpg" data-tags="cabaret, 2010s" role="button">
+Evelyn Evelyn - Evelyn Evelyn (2010-03-30)
 </li>
 <li data-cover="https://img.discogs.com/qcIKjGB-FH-3K7RIwl7Ik8UsLbE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604977-1549321734-9052.jpeg.jpg" data-tags="soul" role="button">
 Plan B - The Defamation of Strickland Banks (2010-04-12)
@@ -311,6 +308,9 @@ The Sidekicks - Awkward Breeds (2012-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adc3099-6a1b-4624-ba9b-b9238bebce7d/3337530465-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - The Parallax II: Future Sequence (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fbd6978-4ba0-4f1f-b1fb-1ef7fb9eefd5/10787189786-500.jpg" data-tags="death metal, technical death metal, avant-garde death metal, progressive death metal" role="button">
+Gorguts - Colored Sands (2013-08-30)
 </li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)

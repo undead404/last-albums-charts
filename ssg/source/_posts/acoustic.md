@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:49:12.748Z
+date: 2021-04-10T21:10:01.441Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -186,11 +186,11 @@ Dashboard Confessional - Dusk And Summer (2006-06-26)
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
 </li>
+<li data-cover="https://img.discogs.com/1li0RtxWcxuVOXNCNgcLD-9xYP0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864987-1271282357.jpeg.jpg" data-tags="folk" role="button">
+Horse Feathers - Words Are Dead (2006-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dc3d8cb-900a-4816-9985-14be12cf989a/4421812716-500.jpg" data-tags="acoustic" role="button">
-Justin Nozuka - Holly (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)

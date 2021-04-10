@@ -1,10 +1,10 @@
 ---
-date: 2021-04-10T16:00:07.373Z
+date: 2021-04-10T21:21:01.596Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
+<li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">Beck - Mutations (1998-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">Coldplay - Parachutes (2000-07-10)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
@@ -45,14 +45,14 @@ Lighthouse Family - Ocean Drive (1996-02)
 <li data-cover="http://coverartarchive.org/release/cc41e65d-471e-37fb-a050-73393f0ba30a/1606468604-500.jpg" data-tags="90s, rock" role="button">
 Dave Matthews Band - Crash (1996-04-30)
 </li>
+<li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">
+Lighthouse Family - Postcards From Heaven (1997-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
-Cat Power - Moon Pix (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">
 Beck - Mutations (1998-11-02)
@@ -93,6 +93,9 @@ Travis - The Invisible Band (2001-06-10)
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
+Sondre Lerche - Faces Down (2001-09-10)
+</li>
 <li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
 Vanessa Carlton - Be Not Nobody (2002-04-30)
 </li>
@@ -122,9 +125,6 @@ Alexi Murdoch - Four Songs (2002-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcfe99cd-1889-4828-8702-24ffed30dd61/15192015448-500.jpg" data-tags="80s, mellow" role="button">
 Kenny Loggins - The Essential Kenny Loggins (2002-11-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/16cf9e01-9036-49e4-b0b4-cfc109dead4c/28226842747-500.jpg" data-tags="indie, acoustic, turin brakes, good music to cry with" role="button">
-Turin Brakes - Ether Song (2003-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
@@ -186,6 +186,9 @@ The Decemberists - Picaresque (2005-03-21)
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
+Mew - and the Glass Handed Kites (2005-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc7e4abe-5672-40d4-bb39-a72ba0293476/3375657581-500.jpg" data-tags="acoustic" role="button">
 City and Colour - Sometimes (2005-10-31)
 </li>
@@ -240,9 +243,6 @@ Matt Nathanson - Some Mad Hope (2007-08-14)
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
@@ -276,6 +276,9 @@ Ray LaMontagne - Gossip In The Grain (2008-10-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
+<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
+John Frusciante - The Empyrean (2009-01-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
@@ -296,9 +299,6 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/55254afb-148f-4e60-960f-af4b23b8c66d/4840328264-500.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - The Sea (2010-01-20)
-</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a54be848-c2a6-4282-8438-aa08fa6e648b/15941011609-500.jpg" data-tags="soul, easy listening, soft rock, mellow, pop soul, soft rock revival" role="button">
 Rumer - Seasons of My Soul (2010-08-23)

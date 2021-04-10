@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:59:01.822Z
+date: 2021-04-10T20:56:01.522Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -51,6 +51,9 @@ Nektar - A Tab in the Ocean (1972)
 <li data-cover="http://coverartarchive.org/release/4996990d-5082-3c38-9c97-e5347d2005d1/20450810893-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Hawkwind - Doremi Fasol Latido (1972-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6e38f26-e682-4392-bc7d-8c3f1c96fa6c/9916084098-500.jpg" data-tags="krautrock" role="button">
+Ash Ra Tempel - Starring Rosi (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/176f17b8-e0c3-4ba4-a09d-6866848180c2/2367078539-500.jpg" data-tags="space rock, progressive rock" role="button">
 Hawkwind - Space Ritual (1973-05-11)
 </li>
@@ -68,9 +71,6 @@ Eloy - Ocean (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/b532302c-ab4a-4917-85e0-cf600fb743ba/12442242530-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Colours (1980)
-</li>
-<li data-cover="https://img.discogs.com/uviTSxmBrF74fQML05YIIWK52Q0=/fit-in/463x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188518-1440099871-7310.jpeg.jpg" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
-Spacemen 3 - Sound of Confusion (1986)
 </li>
 <li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
 Spacemen 3 - The Perfect Prescription (1987)
@@ -135,9 +135,6 @@ Failure - Fantastic Planet (1996-08-13)
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/674023e2-07cd-407a-9b92-878e4e32210a/12554390373-500.jpg" data-tags="90s" role="button">
-The Dandy Warhols - The Dandy Warhols Come Down (1997-07-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
@@ -146,9 +143,6 @@ Bardo Pond - Lapsed (1997-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">
-Duster - Stratosphere (1998-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
@@ -171,6 +165,9 @@ Mercury Rev - All Is Dream (2001-08-27)
 <li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
 Spiritualized - Let It Come Down (2001-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/fae7688b-c019-4d77-9c52-40874dd613b8/12047096121-500.jpg" data-tags="stoner rock" role="button">
+35007 - Liquid (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
@@ -182,6 +179,9 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
 Spiritualized - The Complete Works Vol. 1 (2003-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/460b65c5-ac1b-44e1-89da-82a8ebf24d28/16615141609-500.jpg" data-tags="emo, alternative, rock" role="button">
+Armor for Sleep - Dream to Make Believe (2003-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
 Dead Meadow - Shivering King And Others (2003-06-03)
@@ -210,6 +210,9 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/da26b9c7-3c3c-40de-a7ca-3cd60950cb95/14750111264-500.jpg" data-tags="rock, instrumental, psychedelic" role="button">
+My Sleeping Karma - My Sleeping Karma (2006)
+</li>
 <li data-cover="https://img.discogs.com/IzOnZ7a1QRE6MIyUb0Gp12_eP1s=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028391-1253696432.jpeg.jpg" data-tags="alternative rock, indie rock, space rock" role="button">
 Mutemath - MuteMath (2006-01-29)
 </li>
@@ -228,6 +231,9 @@ Dope Stars Inc. - Gigahearts (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/e1058f8d-d271-492b-8a18-d625b2f65d54/26595077311-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - I-Empire (2007-01-01)
 </li>
+<li data-cover="https://img.discogs.com/MiQfFPrMeXcaHr7Emfn6OOLaVLQ=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652742-1549100268-4343.jpeg.jpg" data-tags="stoner rock, psychedelic, space rock, neo-psychedelic" role="button">
+Weird Owl - Nuclear Psychology (2007-02-12)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
@@ -242,9 +248,6 @@ My Sleeping Karma - Satya (2008)
 </li>
 <li data-cover="https://img.discogs.com/LU3-gs1JtwQ_WWgq5Cac_-nwwEc=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435966-1223858516.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 Ufomammut - Idolum (2008-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9506cb7-799c-470b-8fed-4fe4c8fe45d4/20129603489-500.jpg" data-tags="experimental, psychedelic rock" role="button">
-Wooden Shjips - Dos (2009-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4287b6f-d8a9-4312-bb8d-f11882f79ccc/18853270697-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Ozric Tentacles - The Yumyum Tree (2009-05-05)
@@ -263,9 +266,6 @@ Radiohead - These Are My Twisted Words (2009-08-17)
 </li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
-Angels & Airwaves - LOVE (2010-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2ed658-9a4b-4391-bfee-16e515ad9601/12338272827-500.jpg" data-tags="psychedelic rock, space rock" role="button">
 Samsara Blues Experiment - Long Distance Trip (2010-03-19)
@@ -294,14 +294,14 @@ Spiritualized - Sweet Heart Sweet Light (2012-04-16)
 <li data-cover="http://coverartarchive.org/release/7e12c6ac-7ad5-4b59-a94d-06982d1e228b/9524984103-500.jpg" data-tags="space rock" role="button">
 My Sleeping Karma - Soma (2012-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/723b77d9-e344-4425-9be1-0a3c7fa0ecb4/2919361152-500.jpg" data-tags="alternative, alternative rock, indie rock, canadian, atmospheric, space rock, piano rock, vancouver, martin, aoty" role="button">
-The Zolas - Ancient Mars (2012-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f4068da-46c5-4d68-8639-95df26b47f48/6581383510-500.jpg" data-tags="indie, rock" role="button">
 Föllakzoid - II (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/89a1bb84-f8e8-4cd5-83ca-a38317a41a98/6705416996-500.jpg" data-tags="alternative rock, indie rock, stoner rock, psychedelic, space rock, psychedelic rock, trip, lsd, ss, flightless records, flightless" role="button">
 King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dddeade-8f37-4413-8d3c-2db25e0e2e36/5478722467-500.jpg" data-tags="stoner rock" role="button">
+Earthless - From the Ages (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2469a6a4-d9fb-468b-9389-68fcd0f80a06/5440308357-500.jpg" data-tags="space rock, psychedelic black metal" role="button">
 Oranssi Pazuzu - Valonielu (2013-10-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:39:01.843Z
+date: 2021-04-10T21:43:01.406Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Overly Dedicated (2010-09-14)](http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg "Kendrick Lamar - Overly Dedicated (2010-09-14)")
@@ -26,6 +26,9 @@ Lost Boyz - Legal Drug Money (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
 Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
+Mobb Deep - Hell on Earth (1996-11-01)
 </li>
 <li data-cover="https://img.discogs.com/ZHqRfMShB3_2dTYxX9uzmW6qUQ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1564550-1460332471-7169.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
 Redman - Muddy Waters (1996-12-10)
@@ -117,17 +120,11 @@ Brother Ali - Shadows on the Sun (2003-05-02)
 <li data-cover="http://coverartarchive.org/release/369d7f45-19cd-4b86-8a09-7f61aca47072/11050987175-500.jpg" data-tags="hip-hop" role="button">
 Atmosphere - Seven's Travels (2003-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/83267759-636c-4bf5-9206-48d65f24fe25/26396017496-500.jpg" data-tags="hip-hop" role="button">
-Non-Prophets - Hope (2003-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/6ebad9e9-7ad5-4ae5-88cb-203dd5cbc414/5370610447-500.jpg" data-tags="hip-hop, underground hip-hop, hoppi albumit" role="button">
 Steen1 - Salaliittoteoria (2004-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0978c41-ecd8-4d0f-b53c-075acd705a6e/17201915846-500.jpg" data-tags="hip hop, 9th wonder" role="button">
-Murs - Murs 3:16: The 9th Edition (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/34b6fdf8-d1be-416f-a676-f1656291dd8c/5271373354-500.jpg" data-tags="hip hop, underground hip-hop, east coast hip hop, jedi mind tricks" role="button">
 Jedi Mind Tricks - Legacy of Blood (2004-08-24)
@@ -165,9 +162,6 @@ Felt - Felt 2: A Tribute to Lisa Bonet (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/d5a43378-bd1f-40fe-bf5e-8a3496ab073b/5738018864-500.jpg" data-tags="hip-hop" role="button">
 Atmosphere - You Can't Imagine How Much Fun We're Having (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/de92f6d3-8d9a-3152-abdf-f6e723c3d1ac/16839853239-500.jpg" data-tags="hip-hop" role="button">
-DANGERDOOM - The Mouse and the Mask (2005-10-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, chillout, jazz, hip hop, underground hip-hop, jazz hop, jazz rap, ubiquity, jazzy hiphop, bbe, procussions, sound providers, secret room" role="button">
 Kero One - Windmills of the Soul (2006-02-07)
 </li>
@@ -200,6 +194,9 @@ Grayskul - Bloody Radio (2007-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ade61b9a-d6d4-4939-aa72-cac3f518501d/6279978184-500.jpg" data-tags="hip hop, underground hip-hop" role="button">
 Army of the Pharaohs - Ritual Of Battle (2007-09-25)
+</li>
+<li data-cover="https://img.discogs.com/6UDYMW13Mb6hZJ90lizrtS15IKI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1083183-1284474119.jpeg.jpg" data-tags="rap, new york, underground hip-hop, definitive jux, albums of 2007, bobby freedom" role="button">
+Rob Sonic - Sabotage Gigante (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
@@ -293,6 +290,9 @@ Tech N9ne - All 6's And 7's (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e5cd4ed-8fe5-45c7-ad32-b7022c2ee397/3369266027-500.jpg" data-tags="hip-hop, underground hip-hop, ofwgkta" role="button">
+Domo Genesis - Under The Influence (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f99488e3-ae5a-419d-aa66-c91de67c99a9/19900354655-500.jpg" data-tags="underground hip-hop, hip-hop, rap, hardcore hip-hop" role="button">
 Jedi Mind Tricks - Violence Begets Violence (2011-10-25)

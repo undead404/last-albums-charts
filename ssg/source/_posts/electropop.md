@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:34:01.727Z
+date: 2021-04-10T21:02:01.428Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -47,6 +47,9 @@ Junior Boys - So This Is Goodbye (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
+</li>
+<li data-cover="https://img.discogs.com/rrCrFXiGfLmEPXLXqO28S-UWhJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021016-1184898924.jpeg.jpg" data-tags="pop" role="button">
+Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -107,6 +110,9 @@ Marina & the Diamonds - The Family Jewels (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
+</li>
+<li data-cover="https://img.discogs.com/jnGU0rPnUOyIqqugh4JtoaYDLOY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15537372-1593224889-6566.jpeg.jpg" data-tags="electronic" role="button">
+Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">
 Empire of the Sun - Walking on a Dream (2009-04-21)
@@ -255,9 +261,6 @@ Ellie Goulding - Halcyon (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ceb402e-47e0-401a-b94c-076370cad208/2514581263-500.jpg" data-tags="electropop, indie pop" role="button">
-Sky Ferreira - Ghost (2012-10-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/c2adc084-6cb3-4618-a72c-0328a4839bc1/6527039086-500.jpg" data-tags="electropop, synthpop, songs that will make you dance" role="button">
 Icona Pop - Iconic EP (2012-10-16)
 </li>
@@ -266,9 +269,6 @@ Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="https://img.discogs.com/jWX-99JX-c4vhbj23lyq68P1c68=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5347786-1391148311-4423.png.jpg" data-tags="electropop" role="button">
 BROODS - BROODS (2013-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef42678e-1b9d-451b-9326-f9804534e1f2/6339581097-500.jpg" data-tags="pop" role="button">
-Lorde - The Love Club EP (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
 NONONO - Pumpin Blood (2013-04-08)

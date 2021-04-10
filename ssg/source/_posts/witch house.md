@@ -1,18 +1,18 @@
 ---
-date: 2021-04-09T21:58:01.394Z
+date: 2021-04-10T21:41:01.398Z
 title: "witch house: 100 albums you must listen to before you die"
 ---
 ![Purity Ring - Shrines (2012-07-23)](http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg "Purity Ring - Shrines (2012-07-23)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9bbae45a-c814-44cf-9361-3978f98edf12/7359783071-500.jpg" data-tags="electro, witch house, post-dubstep, merok, newbreed, broken-clash, in the witch house family, witch-clash" role="button">Gatekeeper - Giza (2010)</li>
 <li data-cover="http://coverartarchive.org/release/c2852bc2-4919-41e7-aab4-c3ff47ba1c2c/20543754977-500.jpg" data-tags="witch house" role="button">Salem - King Night (2010-09-28)</li>
 <li data-cover="https://img.discogs.com/qrOQU1AqqIIxURq0nEQskWN2bdI=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2471178-1286031530.jpeg.jpg" data-tags="witch house" role="button">oOoOO - oOoOO (2010-10-04)</li>
-<li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">Grimes - Halfaxa (2010-10-05)</li>
 <li data-cover="http://coverartarchive.org/release/1c3b875d-bd9d-4157-97ae-6e1091437126/15535585693-500.jpg" data-tags="darkwave, witch house, shoegaze" role="button">White Ring - Black Earth That Made Me (2010-10-30)</li>
-<li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">Clams Casino - Rainforest (2011-06)</li>
+<li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">Laurel Halo - King Felix (2010-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">Purity Ring - Shrines (2012-07-23)</li>
-<li data-cover="http://coverartarchive.org/release/12eb94ea-54f1-4046-92ea-a34bff97e318/14798475045-500.jpg" data-tags="witch house" role="button">Holy Other - Held (2012-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/07290fdc-2274-4c01-a4cf-819a96b7b853/4965823690-500.jpg" data-tags="experimental, witch house" role="button">Crim3s - Stay Ugly EP (2013-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/eea3e6d7-eaf8-4d3c-b7e5-7b90844ec9af/4404251011-500.jpg" data-tags="witch house" role="button">oOoOO - Without Your Love (2013-06-24)</li>
+<li data-cover="https://img.discogs.com/dLC_bDGawJwapruDJRFUh3q9atM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4708877-1372953925-7899.jpeg.jpg" data-tags="electronic, indie, experimental, odd, witch house, sampling" role="button">Wise Blood - Id (2013-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/0094f7a4-216c-4ffe-93cd-14346f9a663a/8801601727-500.jpg" data-tags="electronic" role="button">Mr.kitty - Time (2014-07-08)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,23 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
 Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
 </li>
 <li data-cover="https://img.discogs.com/3f0faCl3nS479S8Hgif2sIVBpYU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-824948-1220728113.jpeg.jpg" data-tags="synthpop" role="button">
 Antarctica - 81:03 (1999-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/666aff27-7fee-421d-af9d-cf0052f38e02/21668717678-500.jpg" data-tags="witch house" role="button">
+DJ Pied Piper & The Masters Of Ceremonies - Do You Really Like It? (2001-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c5c0f70-2b15-4c16-b823-c069d8afedb8/2225474799-500.jpg" data-tags="rhythmic noise, noise" role="button">
 Converter - Exit Ritual (2003-10)
 </li>
 <li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/a05abebe-0e73-4ed9-9760-795a7ae9dd1a/5815430687-500.jpg" data-tags="dark electro" role="button">
-The Synthetic Dream Foundation - Behind the Gates of Horn and Ivory (2008-04)
 </li>
 <li data-cover="https://img.discogs.com/oCJTMdf7S6aout2vXwG8KyX_GLg=/fit-in/361x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10554815-1499799953-3353.jpeg.jpg" data-tags="shoegaze, darkwave, witch house" role="button">
 Salem - YES I SMOKE CRACK (2008-09-24)
@@ -69,9 +66,6 @@ Modern Witch - Disaro (2010-03)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="https://img.discogs.com/xzgKQwynOaMWktRT-p5XOx-5v40=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2435597-1556384227-8801.jpeg.jpg" data-tags="new wave" role="button">
-The Present Moment - THE HIGH ROAD (2010-04-10)
-</li>
 <li data-cover="https://img.discogs.com/fcZy6i0FpFUEP1gBVPOiHVkg5Q8=/fit-in/290x290/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4772964-1375049291-2335.jpeg.jpg" data-tags="dark ambient" role="button">
 Modern Witch - beko_BOX1_1 (2010-05-17)
 </li>
@@ -102,17 +96,14 @@ GuMMy†Be▲R! - Inauspicious (2010-08-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, witch house, turquoise and coral, ghost drone" role="button">
 LAKE R▲DIO - Blair (2010-09-20)
 </li>
+<li data-cover="https://img.discogs.com/xw6lZjuo7BsYWjfYAfxVVGO1w-4=/fit-in/600x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2468513-1285747045.jpeg.jpg" data-tags="rap" role="button">
+Taiunta - Suoraan kohti (2010-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2852bc2-4919-41e7-aab4-c3ff47ba1c2c/20543754977-500.jpg" data-tags="witch house" role="button">
 Salem - King Night (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/qrOQU1AqqIIxURq0nEQskWN2bdI=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2471178-1286031530.jpeg.jpg" data-tags="witch house" role="button">
 oOoOO - oOoOO (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
-Grimes - Halfaxa (2010-10-05)
-</li>
-<li data-cover="https://img.discogs.com/WkdpK1dX0-g2NBzhfmPC_901uok=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5031183-1382621510-4276.jpeg.jpg" data-tags="electroclash, dance, new wave, proto-punk, animals, post pop, witch house, money, drag, post-whatever, freakout, hipster, post-pop, death disco, freak out, experimental electro, deep-clash, witch-house, hardcore electro, blackwave, newbreed, post-dance, broken-clash, trianglecore, next wave, post-electroclash, ghost step, crunkgaze, terrortronik, indie trash, la shit, bipolar party, los angeles art school hipster, megawave, punk rock electro, rock n tronix, diy dancefloor, rock n roll industrial, los angeles 2010, dancemosh, unspinnable, next-wave, crunkwave" role="button">
-The Tleilaxu Music Machine - Diamond Eyed Coyote (2010-10-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, witch house, free albums, ghost drone, albums to listen to" role="button">
 LAKE R▲DIO - Planet Earth About To Be Recycled (2010-10-28)
@@ -122,6 +113,9 @@ White Ring - Black Earth That Made Me (2010-10-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="witch house" role="button">
 ✝ DE△D VIRGIN ✝ - ✞◇✞ (2010-10-31)
+</li>
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="alternative, dark ambient, witch house, ghost drone, spookycore, grave wave" role="button">
+I†† - The Lesser Keys EP (2010-11-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="witch house, drag, witchstep, gravewave, witchhouse" role="button">
 WIK▲N - ILLEG▲L GR▲VE MUSIC EP (2010-11-28)
@@ -144,6 +138,9 @@ Creep - Days (2010-12-20)
 <li data-cover="http://coverartarchive.org/release/bfed88c6-012d-4be8-8302-adf5d1eb2857/2816404852-500.jpg" data-tags="american, chillwave, synth-pop, 10s, witch house, trap edm" role="button">
 Blood Diamonds - Grins (2011)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="noise, dark jazz, electro, new wave, avant-garde, no wave, 10s, witch house, footwork, post-whatever, doom pop, screwgaze, newbreed, broken-clash, trianglecore, next wave, 21st-century-beat-music, in the witch house family, a simple glitch" role="button">
+ʄ≜uxmuℭica - HiFi ♮ SciFi ♮ (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb11b6c4-2503-46f1-91aa-c01e64ce88db/4102863010-500.jpg" data-tags="british" role="button">
 Charli XCX - Stay Away (2011)
 </li>
@@ -152,6 +149,9 @@ Magicks - Triangles (2011)
 </li>
 <li data-cover="https://img.discogs.com/MK1ZUkgGQYe35u_7buWk7qhmVBQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3125285-1338382326-2314.jpeg.jpg" data-tags="witch house, tribal industrial, electro ethereal" role="button">
 Ayshay - WARN-U (2011)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="witch house" role="button">
+§ - La Main Gauche (2011-01-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/832efca5-a97a-4284-b284-1df876a22cec/2379370744-500.jpg" data-tags="ambient, experimental, shoegaze, psychedelic, russian, avant-garde, noir, darkwave, experimental electronica, dark ambient, dark wave, 10s, free music, witch house, russia, drag, moscow, synths, netaudio, fully streamable tracks, dark pop, bandcamp, witch, organic electronica, free albums, free album, russian underground, webaudio, trianglecore, fully streamable album, self-released, fully streamable track, avant-electronica, synth industrial, shoegazetronica, noirwave, former soviet union, synth noir, drag house" role="button">
 ~▲†▲~ - ~▲††▲~ (2011-02)
@@ -177,14 +177,14 @@ Tiaam Basho - YYY2 EP (2011-04-12)
 <li data-cover="https://img.discogs.com/WCtBC5xSVsewNUBr42O57k3_P7U=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2983804-1310385411.jpeg.jpg" data-tags="witch house" role="button">
 Jewels of the Nile - PLEASURE (2011-05-01)
 </li>
+<li data-cover="https://img.discogs.com/ckdXKtIG2pdywP_AZEs5wKdNldc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2904381-1306545723.jpeg.jpg" data-tags="electronic, dark, dark ambient, witch house" role="button">
+Slixtrice - Void To Grave (2011-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/d5683416-fe54-42d4-8e12-fdaf9e145390/2825700597-500.jpg" data-tags="electronic, witch house" role="button">
 Rivka - RIVKA (2011-05-27)
 </li>
-<li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
-Clams Casino - Rainforest (2011-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/14990136-0c6a-49a2-befb-09b3703aa01a/3393506050-500.jpg" data-tags="experimental" role="button">
-XXYYXX - Still Sound (2011-07-08)
+<li data-cover="http://coverartarchive.org/release/10ad23dc-6437-4f82-b99f-6cfd4aaed43f/2722071472-500.jpg" data-tags="witch house" role="button">
+Poor Spirits - VVOVV (2011-07-17)
 </li>
 <li data-cover="https://img.discogs.com/RiURtSiDgw8hCLlQefhEq6ze8B8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000800-1311122520.jpeg.jpg" data-tags="noise, trance, electronic, electro" role="button">
 Pictureplane - THEE PHYSICAL (2011-07-19)
@@ -213,6 +213,12 @@ Salem - I'm Still In the Night (2011-11-22)
 <li data-cover="https://img.discogs.com/LfkyDQril2jsJGPDVswmcMFWZrs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306774-1325011800.jpeg.jpg" data-tags="witch house" role="button">
 Crim3s - Special Edition Remix EP (2011-12-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/df180f13-4c74-4011-a4d9-bba64fff316c/1705410471-500.jpg" data-tags="experimental, electro, industrial, minimal, female vocalist, dark ambient, ritual, witch house, electro-industrial, industrial ambient" role="button">
+Human Nihil - Temples Ov Nothing (2011-12-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dark, industrial, ebm, dark ambient, witch house, post-industrial" role="button">
+Anfea Eutua - Mountainz (2012-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d89a50e9-37e4-41be-8309-4061d729db6b/871787923-500.jpg" data-tags="noise, witch house" role="button">
 pigeon mort - EP (2012-01-14)
 </li>
@@ -221,12 +227,6 @@ Evian Christ - Kings and Them (2012-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/765bddb3-13a4-4b4c-9e96-c37551b65a71/6380481481-500.jpg" data-tags="trip-hop, digital hardcore, witch house, dubtech, third" role="button">
 Sissy - March of the Humans (2012-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/be2b3fda-9ea8-43a6-a4be-e9ac87a27e97/1475236238-500.jpg" data-tags="witch house" role="button">
-Bodyguard - Silica Gel (2012-02-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a35d2e2d-c084-4bbe-a01a-a0a0af83b8f6/1223950142-500.jpg" data-tags="heavy metal, black metal, metalcore, electropop, indie, grunge, grindcore, emo, djent, indie pop, indie rock, hard rock, doom metal, industrial, lo-fi, hair metal, viking metal, speed metal, melodic death metal, underground hip-hop, thrash metal, sludge, alt-country, pop punk, comedy, death metal, gothic metal, glam rock, crossover, powerpop, queercore, alt country, alternative country, rock n roll, industrial metal, speedcore, symphonic metal, post-grunge, post-hardcore, rapcore, underground hip hop, nu metal, melodic hardcore, power metal, mathcore, technical death metal, sludge metal, chillwave, rac, goregrind, rap metal, horrorcore, witch house, gabber, deathcore, brutal death metal, blackened death metal, powerviolence, nsbm, harsh noise, lolicore, deathgrind, rap rock, glam metal, atmospheric black metal, suicidal black metal, sludgecore, power violence, black doom metal, dsbm, skram, death doom, pornogrind, raw black metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, hatecore, drone metal, death doom metal, crossover thrash, cybergrind, porngrind, death n roll, true metal, depressive suicidal black metal, black n roll, true norwegian black metal, post-black metal, extreme black metal, pirate metal, gothic doom metal, death-doom metal, crunkcore, real screamo, true black metal, brutal deathcore, progressive metalcore, atmospheric sludge, emo violence, skramz, orthodox black metal" role="button">
-Double Take - Hot Problems (2012-04-18)
 </li>
 <li data-cover="https://img.discogs.com/3gfx5a05VS_rCN7C3HJMruhUKeM=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3648068-1338787447-2503.jpeg.jpg" data-tags="synthpop" role="button">
 Purity Ring - Belispeak (2012-05-29)
@@ -246,9 +246,6 @@ Crystal Castles - Plague (2012-07-25)
 <li data-cover="http://coverartarchive.org/release/2a858a5d-1aba-40c9-972e-cf504d59e8e5/5663548592-500.jpg" data-tags="industrial, witchhouse" role="button">
 Distorted Memory - Temple of the Black Star (2012-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/12eb94ea-54f1-4046-92ea-a34bff97e318/14798475045-500.jpg" data-tags="witch house" role="button">
-Holy Other - Held (2012-08-28)
-</li>
 <li data-cover="https://img.discogs.com/3G6tg3zdRs3S0xTIulSNoEPN9a4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3666671-1339523729-9505.jpeg.jpg" data-tags="british" role="button">
 Charli XCX - You're The One (2012-09-16)
 </li>
@@ -261,11 +258,17 @@ LAKE R▲DIO - Hypoxia (2012-09-29)
 <li data-cover="http://coverartarchive.org/release/99676865-2a18-479f-bd8b-4ef6d15c2992/11581258724-500.jpg" data-tags="synthpop, dark pop" role="button">
 Charli XCX - Super Ultra (2012-11-07)
 </li>
+<li data-cover="https://img.discogs.com/FDQUOmsr3B4yw2vuDpo_NUejXd4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4054872-1353733488-5006.jpeg.jpg" data-tags="downtempo, witch house, witchhouse, witchhouse downtempo experimental" role="button">
+Corvx De Timor - Blue Eyes Turn Black (2012-11-15)
+</li>
+<li data-cover="https://img.discogs.com/lX-45HBh2gSlKl50nM3FBfHAkP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4080384-1354572136-3458.jpeg.jpg" data-tags="downtempo, witch house" role="button">
+Corvx De Timor - Scars Heal (2012-12-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ecc9f4d7-9887-4532-893b-93de4b94bb70/5276899158-500.jpg" data-tags="electronic, witch house" role="button">
 Twos - Feel (2013)
 </li>
-<li data-cover="http://coverartarchive.org/release/138e55da-1d50-4a7d-b09c-e757064d72c6/26469204770-500.jpg" data-tags="hardcore, lo-fi, trap, witch house, overcompressed" role="button">
-Eugene - NECROCRUNK EP (2013-03-04)
+<li data-cover="https://img.discogs.com/-4GA9-b6_IXJDvTB_QAJRMY9tWg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4369817-1363056199-1837.jpeg.jpg" data-tags="downtempo, witch house, witch, gravewave, dark beat, witchhouse, dark electronic music" role="button">
+Corvx De Timor - Never Sun (2013-02-10)
 </li>
 <li data-cover="https://img.discogs.com/cAq0JGtNEe51XPmvBlA9VSysk8Q=/fit-in/568x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4518380-1367479083-1663.jpeg.jpg" data-tags="angst pop" role="button">
 Distel - puur (2013-04)
@@ -275,6 +278,9 @@ Crim3s - Stay Ugly EP (2013-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1439055-f1fa-4c4c-a8a3-71a074615911/4024431683-500.jpg" data-tags="synthpop" role="button">
 Charli XCX - True Romance (2013-04-12)
+</li>
+<li data-cover="https://img.discogs.com/h76od5GcdHzX3JEXYgoOlf3AGdM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4573966-1368798408-4715.jpeg.jpg" data-tags="chillout, downtempo, chillwave, witch house" role="button">
+Corvx De Timor - Change of Heart (2013-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/eea3e6d7-eaf8-4d3c-b7e5-7b90844ec9af/4404251011-500.jpg" data-tags="witch house" role="button">
 oOoOO - Without Your Love (2013-06-24)
@@ -300,9 +306,6 @@ Femme En Fourrure - The Beach (2014-01-10)
 <li data-cover="http://coverartarchive.org/release/4b4af757-4af8-4e9e-837d-a70238f5bb31/6464248143-500.jpg" data-tags="alternative, electronic" role="button">
 ††† - ††† (2014-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff974c85-06a6-4dfd-80c3-0d3abf99628d/7306388946-500.jpg" data-tags="dream pop, synthpop, chillwave, witch house, dreamwave, synthwave, dreamrave" role="button">
-Pastel Ghost - SHADOWS EP (2014-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/0094f7a4-216c-4ffe-93cd-14346f9a663a/8801601727-500.jpg" data-tags="electronic" role="button">
 Mr.kitty - Time (2014-07-08)
 </li>
@@ -314,9 +317,6 @@ IC3PEAK - Vacuum (2014-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/658d7ae7-c831-409a-aba4-7a1c8d8a7e73/8578456931-500.jpg" data-tags="trip-hop, psychedelic, witch house" role="button">
 S.Maharba - Memorial (2014-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ba75665-da71-49d1-9c20-f0f0a5327c24/9453722345-500.jpg" data-tags="electronic, experimental, downtempo, rnb, future, underground, trap, hypnagogic pop, witch house, slutwave, 2014 albums" role="button">
-18+ - Trust (2014-11-10)
 </li>
 <li data-cover="https://img.discogs.com/8CmxnUrqGR-cvuGqtXiGe-RgV9c=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6615934-1423155894-1335.jpeg.jpg" data-tags="techno, club, space, witch house, todolist" role="button">
 Mujuice - Planetarium Ep (2014-12-18)

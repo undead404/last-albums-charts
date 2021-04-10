@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:41:01.435Z
+date: 2021-04-10T21:01:06.945Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -32,6 +32,9 @@ Wire - Pink Flag (1977-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1eb1417-9ba7-4579-8767-f97576021c37/14840216501-500.jpg" data-tags="experimental, electronic, electropunk" role="button">
 Suicide - Suicide (1977-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cc90116-6833-4271-8477-42fb5fbee846/20706339769-500.jpg" data-tags="post-punk" role="button">
+Television - Adventure (1978-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 Devo - Q: Are We Not Men? A: We Are Devo! (1978-07)
@@ -69,9 +72,6 @@ Joy Division - Closer (1980-07-18)
 <li data-cover="http://coverartarchive.org/release/3acddd36-87e5-3564-a424-a79f6184ce3a/13485029013-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Kaleidoscope (1980-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6eac2f49-661a-4317-bc2b-71ec7debd8f9/3451488533-500.jpg" data-tags="post-punk" role="button">
-Bauhaus - In the Flat Field (1980-10)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
@@ -98,9 +98,6 @@ Bauhaus - The Sky's Gone Out (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a7f2097-1800-3978-afc2-e5971f24b536/8212967312-500.jpg" data-tags="post-punk" role="button">
-Cocteau Twins - Garlands (1982-09-01)
 </li>
 <li data-cover="https://img.discogs.com/HV3PkcnCqXxcN3RtBp1JG39rK5M=/fit-in/443x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3019834-1407571984-2110.jpeg.jpg" data-tags="rock, 80s" role="button">
 U2 - War (1983-02-28)
@@ -144,12 +141,6 @@ The Cure - The Head on the Door (1985-08-13)
 <li data-cover="http://coverartarchive.org/release/830cce8b-4ddd-4d1e-8773-2e896fddf88c/11626984147-500.jpg" data-tags="80s, post-punk" role="button">
 Echo & the Bunnymen - Songs to Learn & Sing (1985-11-15)
 </li>
-<li data-cover="https://img.discogs.com/x66YepUAjLxxtGjTHL_2o9GM0G4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4829151-1376799074-8236.jpeg.jpg" data-tags="post-punk, gothic rock" role="button">
-Siouxsie and the Banshees - Tinderbox (1986-04-21)
-</li>
-<li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
-The Smiths - The Queen Is Dead (1986-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/7947298813-500.jpg" data-tags="post-punk, new wave, 80s, alternative" role="button">
 The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 </li>
@@ -170,6 +161,12 @@ Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/2dd25b6d-d060-4cac-86a1-7666d3b43f7b/13484960339-500.jpg" data-tags="post-punk, alternative, new wave" role="button">
+Siouxsie and the Banshees - Twice Upon a Time: The Singles (1992-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
+Joy Division - Permanent (1995-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
@@ -236,6 +233,9 @@ The National - Boxer (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
+</li>
+<li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
+She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f214af9-7c6d-43b5-bb61-fd78ccffd805/9294779686-500.jpg" data-tags="indie rock, post-punk" role="button">
 The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
