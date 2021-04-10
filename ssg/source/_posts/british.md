@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:27:01.422Z
+date: 2021-04-10T08:27:01.582Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -26,6 +26,9 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
+The Rolling Stones - Let It Bleed (1969-11-29)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
@@ -221,9 +224,6 @@ Adele - 19 (2008-01-27)
 </li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
-</li>
-<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
-Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/108ff541-d605-3cd0-bd71-c7626dd224c3/15041273179-500.jpg" data-tags="indie, indie rock" role="button">
 The Kooks - Konk (2008-04-09)

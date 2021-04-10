@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:37:01.446Z
+date: 2021-04-10T08:33:01.423Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -129,9 +129,6 @@ The Knife - Deep Cuts (2003-01-17)
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
-</li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
@@ -158,6 +155,9 @@ Tycho - Past Is Prologue (2004-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Push the Button (2004-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
+M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
@@ -206,9 +206,6 @@ The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
-</li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -264,11 +261,17 @@ Massive Attack - Heligoland (2010-02-03)
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
+Bonobo - Black Sands (2010-03-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">
 Crystal Castles - Crystal Castles (2010-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Immersion (2010-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e31eec90-e341-3acd-8ba4-9e26e9fd7eea/9173931560-500.jpg" data-tags="electronic" role="button">
+The Chemical Brothers - Further (2010-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
@@ -317,8 +320,5 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
 Glass Animals - ZABA (2014-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">
-Odesza - In Return (2014-09-08)
 </li>
 </ol>

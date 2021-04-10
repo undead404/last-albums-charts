@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:30:01.452Z
+date: 2021-04-10T08:37:01.572Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
@@ -53,9 +53,6 @@ Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
@@ -129,11 +126,11 @@ The Middle East - The Recordings Of The Middle East (2008)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
+<li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
+Shearwater - Rook (2008-06-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/42716365-90b9-485e-a887-e5e120cb56da/15082708390-500.jpg" data-tags="indie" role="button">
 Okkervil River - The Stand Ins (2008-09-09)
-</li>
-<li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
-Jenny Lewis - Acid Tongue (2008-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
@@ -177,9 +174,6 @@ The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
 CocoRosie - Grey Oceans (2010-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/391fdaa1-7b1e-4e8f-b47e-fc8c6d7a3fed/4145034843-500.jpg" data-tags="indie, soft rock, indie folk, soulful, collaboration, under the radar best of 2010, soft rock revival" role="button">
-Gayngs - Relayted (2010-05-11)
-</li>
 <li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">
 Villagers - Becoming a Jackal (2010-05-24)
 </li>
@@ -207,6 +201,9 @@ Lykke Li - Wounded Rhymes (2011-02-11)
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/bcbd3447-d427-4b41-ae39-303e9022feb9/2433977772-500.jpg" data-tags="indie folk, 2011 releases" role="button">
+Daughter - His Young Heart EP (2011-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/945a8b68-7475-4e2b-9c7d-967dea8fc100/17331884416-500.jpg" data-tags="indie folk, stuff i want" role="button">
 The Middle East - I Want That You Are Always Happy (2011-06-06)
 </li>
@@ -228,9 +225,6 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
-Of Monsters and Men - Into The Woods (2011-12-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
@@ -239,9 +233,6 @@ Passenger - All the Little Lights (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/56bd2e38-1da5-4649-99eb-984bf1e0c2c3/5983216137-500.jpg" data-tags="indie folk, 10s, 2010s, want, knowing, comfortable" role="button">
-Half Moon Run - Dark Eyes (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
@@ -261,6 +252,9 @@ Grizzly Bear - Shields (2012-09-17)
 <li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
 Lucy Rose - Like I Used To (2012-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
+Jake Bugg - Jake Bugg (2012-10-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
 </li>
@@ -275,6 +269,9 @@ Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, monochrome album covers, american group, grammy winner 2014" role="button">
 The Civil Wars - The Civil Wars (2013-08-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/a80115f4-fbfe-4a48-ba2d-3807fb72c96f/5784873203-500.jpg" data-tags="indie, folk, acoustic, indie folk" role="button">
+Ry x - Berlin (2013-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4514530-80ec-4765-a903-6dac355031e1/5208050605-500.jpg" data-tags="indie, folk, post-rock, indie folk, 10s, 2010s, jagjaguwar, 2013 albums" role="button">
 Volcano Choir - Repave (2013-09-03)
@@ -299,6 +296,9 @@ The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1a5bff2-3c52-4ab4-b021-4e67c0d4e926/8084461779-500.jpg" data-tags="folk, indie folk" role="button">
+Andrew Bird - Things Are Really Great Here, Sort Of... (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b69931-add2-4409-8d7a-939f277223f2/7183720847-500.jpg" data-tags="folk" role="button">
 First Aid Kit - Stay Gold (2014-06-06)

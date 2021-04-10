@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:45:29.562Z
+date: 2021-04-10T08:20:07.093Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/8rFyleKW1Fx0UuFJ7Pq1FTLVHg0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61778-1411211779-6669.jpeg.jpg" data-tags="electronic" role="button">
 The Future Sound of London - Accelerator (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/add1a7a9-670a-4338-ab75-7e87465ee01b/23436390503-500.jpg" data-tags="techno, electronic" role="button">
-LFO - Frequencies (1991-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fd615b6-00bb-41c5-a151-5ed4bd350d31/16373960355-500.jpg" data-tags="electronic, techno" role="button">
 Orbital - Orbital (1991-09-30)
@@ -51,14 +48,14 @@ Underworld - Dubnobasswithmyheadman (1993-09-20)
 <li data-cover="http://coverartarchive.org/release/e1cfae23-df33-4a58-be49-5d34c6a5563e/3035311470-500.jpg" data-tags="electronic, techno" role="button">
 The Prodigy - More Music For The Jilted Generation (1994-07-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/e659da1c-cf43-3b6b-a7bb-31fe835d41fc/23548844170-500.jpg" data-tags="electronic" role="button">
+Orbital - Snivilisation (1994-08-04)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
 Aphex Twin - Classics (1994-12)
 </li>
 <li data-cover="https://img.discogs.com/LPA2w-4DjKaKa7J63lr9HZWhFIc=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389573-1393368466-9302.jpeg.jpg" data-tags="electronic" role="button">
 Moby - Everything Is Wrong (1995-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf577924-6dc7-4948-841b-6f69c04f822f/21175811690-500.jpg" data-tags="idm" role="button">
-Aphex Twin - I Care Because You Do (1995-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Exit Planet Dust (1995-06-26)
@@ -138,6 +135,9 @@ Daft Punk - Discovery (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/7e0dc6a7-1376-47cb-90ec-6ae9228d99fb/25473519992-500.jpg" data-tags="electronic" role="button">
 Orbital - The Altogether (2001-04-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
+The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/20ca4a82-abb1-48c4-8c7a-170e7511ff92/2748922226-500.jpg" data-tags="dance, trance" role="button">
 Lasgo - Some Things (2001-12-12)
 </li>
@@ -164,9 +164,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/40c506a7-32c7-4c4b-8342-a61668726a15/8333716948-500.jpg" data-tags="electroclash" role="button">
-Miss Kittin - I Com (2004-05-31)
 </li>
 <li data-cover="https://img.discogs.com/rp58FVm1KMOk0FZu9BK7C3ZJCoE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-256794-1331310260.jpeg.jpg" data-tags="electronic, electronica, techno, emp805, emp805 - mnml" role="button">
 Nathan Fake - Watlington Street EP (2004-06-07)
@@ -267,6 +264,9 @@ The Prodigy - Invaders Must Die (2009-02-18)
 <li data-cover="https://img.discogs.com/yZUT6xPI8XVF_3yDlv0wSI84uCs=/fit-in/600x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1668437-1237888609.jpeg.jpg" data-tags="electronica, indie" role="button">
 Empire of the Sun - We Are The People (2009-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b9798de-6288-4b51-87bb-de0bcc51e2d4/24711110047-500.jpg" data-tags="trance, hip hop, pop, dance, house, tinchy stryder" role="button">
+Tinchy Stryder - Catch 22 (2009-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
 </li>
@@ -300,6 +300,9 @@ David Guetta - Nothing But The Beat (2011-08-24)
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
 </li>
+<li data-cover="https://img.discogs.com/TZWomip8fOP-4FfmsSRTDHNsDqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4925817-1379708692-2252.jpeg.jpg" data-tags="hip-hop, hip hop, rock, 80s, punk, rap, techno, rosana wax" role="button">
+Wax - Rosana (2012-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/8de037a4-f8db-4219-862e-2e50400441c2/23648189847-500.jpg" data-tags="electronic, australian" role="button">
 The Presets - Pacifica (2012-09-07)
 </li>
@@ -314,9 +317,6 @@ Jon Hopkins - Immunity (2013-06-03)
 </li>
 <li data-cover="https://img.discogs.com/pr4P-Lu0VVSTmWZVoBfCXU3P7Uk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4651028-1371094078-3852.jpeg.jpg" data-tags="indie, psychedelic pop" role="button">
 Jagwar Ma - Howlin (2013-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
-Moderat - II (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

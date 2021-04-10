@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:00:07.058Z
+date: 2021-04-10T08:32:07.138Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -117,9 +117,6 @@ Iron & Wine - Woman King (2005-02-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
 </li>
@@ -161,6 +158,9 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
+The John Butler Trio - Grand National (2007-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)

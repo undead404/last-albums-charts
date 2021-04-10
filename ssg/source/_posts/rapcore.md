@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:55:01.411Z
+date: 2021-04-10T08:03:01.594Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -210,9 +210,6 @@ Cypress Hill - Till Death Do Us Part (2004-03-23)
 <li data-cover="https://img.discogs.com/nEiPjnWWHbgDBoEG-dLKMaCsprY=/fit-in/475x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765131-1156726876.jpeg.jpg" data-tags="alternative metal, nu metal, hard rock" role="button">
 Flaw - Endangered Species (2004-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/11aa512f-360c-403c-aaac-9b48cdcead9c/8580184700-500.jpg" data-tags="covers" role="button">
-Molotov - Con Todo Respeto (2004-10-21)
-</li>
 <li data-cover="https://img.discogs.com/F6aOVv8C-vDYnIl_4GVgzevGdus=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588605-1435672439-3852.jpeg.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 </li>
@@ -293,6 +290,9 @@ Bloodhound Gang - Show Us Your Hits (2010-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - American Tragedy (2011-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/2db7c0ca-199e-4253-bd04-c7869203a971/11119433478-500.jpg" data-tags="metal" role="button">
+Skindred - Union Black (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/52151fe3-2223-4bfd-8ab2-f8ce150735a3/15810419787-500.jpg" data-tags="nu metal" role="button">
 Korn - The Essential Korn (2011-05-10)

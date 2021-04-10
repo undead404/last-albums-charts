@@ -1,19 +1,19 @@
 ---
-date: 2021-04-09T23:38:01.422Z
+date: 2021-04-10T07:58:01.513Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">Ellie Goulding - Bright Lights (2010-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">The Joy Formidable - The Big Roar (2011-01-24)</li>
+<li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">Lykke Li - Wounded Rhymes (2011-02-11)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">Broken Bells - After the Disco (2014-01-30)</li>
 <li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">SOHN - Tremors (2014-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
-<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">Kyla La Grange - Cut Your Teeth (2014-06-02)</li>
+<li data-cover="http://coverartarchive.org/release/df3efb53-bbbd-4795-a484-2b4639965a27/26362266805-500.jpg" data-tags="indie pop" role="button">BROODS - Evergreen (2014-08-22)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -57,14 +57,17 @@ Ashlee Simpson - I Am Me (2005-10-13)
 <li data-cover="http://coverartarchive.org/release/5414773b-22f5-46eb-8678-901dbf50c52f/14731452775-500.jpg" data-tags="rock, indie rock" role="button">
 Tally Hall - Marvin's Marvelous Mechanical Museum (2005-10-24)
 </li>
+<li data-cover="https://img.discogs.com/R6AZzsVfSvPq6SAPVefqqk6YUWk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474219-1398882231-8755.jpeg.jpg" data-tags="punk rock" role="button">
+The Lawrence Arms - Oh! Calcutta! (2006-03-07)
+</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
 <li data-cover="https://img.discogs.com/Nlm-8o46bRtO842au5fPUnnslgA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949856-1254491658.jpeg.jpg" data-tags="indie, alternative, singer-songwriter" role="button">
 Glen Hansard & Markéta Irglová - The Swell Season (2006-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/d652d441-0d67-4983-a7f7-e31923d8da89/25350316840-500.jpg" data-tags="latin pop" role="button">
-Julieta Venegas - Limón y Sal (2006-06-06)
+<li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
+Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
 </li>
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
@@ -117,9 +120,6 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="https://img.discogs.com/EAzsLOGOKW_O1x-vupZHNf-83aI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15267609-1589057376-9693.jpeg.jpg" data-tags="mpb" role="button">
 Tulipa Ruiz - Efêmera (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">
-Ellie Goulding - Bright Lights (2010-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/03f665cb-5466-4a91-920d-4250a9534ad5/28094274353-500.jpg" data-tags="alternative rock" role="button">
 Travie McCoy - Lazarus (2010-06-07)
 </li>
@@ -141,8 +141,17 @@ Clare Maguire - Light After Dark (2011-02-28)
 <li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
+Dye - Taki 183 (2011-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
+Kate Bush - 50 Words for Snow (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cc7582b-3b2b-49f1-b41c-4b06dba5c9f5/25584823510-500.jpg" data-tags="pop, alternative, alternative pop, lana del rey" role="button">
+Lana Del Rey - Video Games Remixes (2011-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5cb0587-f253-4eee-b7af-16a821b01ddc/10592364249-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Blue Jeans (2012-01-27)
@@ -213,9 +222,6 @@ New Politics - A Bad Girl In Harlem (2013-05-17)
 <li data-cover="http://coverartarchive.org/release/c5002493-f832-4bc1-b9ce-269c00619ba7/6243979451-500.jpg" data-tags="alternative rock, indie rock" role="button">
 Bosnian Rainbows - Bosnian Rainbows (2013-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
-AlunaGeorge - Body Music (2013-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3392a7d-a6c1-49aa-8571-9f74d84c60a0/17037267715-500.jpg" data-tags="indie rock" role="button">
 White Lies - Big TV (2013-08-12)
 </li>
@@ -270,9 +276,6 @@ Mr. Little Jeans - Pocketknife (2014-03-25)
 <li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">
 SOHN - Tremors (2014-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/61c71f7b-cf57-4997-b8e4-8fc3694c7f61/7638510170-500.jpg" data-tags="pop, lana del rey, alternative" role="button">
-Lana Del Rey - West Coast (2014-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
 </li>
@@ -287,9 +290,6 @@ George Ezra - Wanted on Voyage (2014-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">
-Kyla La Grange - Cut Your Teeth (2014-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
 Glass Animals - ZABA (2014-06-03)

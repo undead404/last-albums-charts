@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:47:01.411Z
+date: 2021-04-10T08:08:01.597Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -69,9 +69,6 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
@@ -101,6 +98,9 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
+Supergrass - Road to Rouen (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
@@ -134,12 +134,6 @@ Sun Araw - Beach Head (2008-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
-</li>
-<li data-cover="https://img.discogs.com/lMWJeZe5UTygkMBOtMry3mlJfoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495929-1598270233-6381.jpeg.jpg" data-tags="indie pop" role="button">
-of Montreal - Skeletal Lamping (2008-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
 Deerhunter - Microcastle (2008-10-27)
@@ -219,6 +213,9 @@ Youth Lagoon - The Year of Hibernation (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/50520c33-49a9-409e-88a1-ae3e10867748/3194910998-500.jpg" data-tags="disco, downtempo, funk, synthpop, alternative dance, space disco, italo disco, neo-psychedelia, nu-disco, jf1" role="button">
+Thieves Like Us - Bleed Bleed Bleed (2012)
+</li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
 </li>
@@ -239,6 +236,9 @@ The Brian Jonestown Massacre - Aufheben (2012-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1e75e7b-fe4a-4cd6-b0d9-8ccf04a62406/5445765670-500.jpg" data-tags="indie pop" role="button">
+Alpine - A Is For Alpine (2012-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
 Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)

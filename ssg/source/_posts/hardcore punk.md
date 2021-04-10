@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:47:01.407Z
+date: 2021-04-10T08:44:01.424Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -86,6 +86,9 @@ Black Flag - Slip It In (1984-12)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcbce6d9-6ec0-34c2-bf1f-503078ee2b1b/3253218339-500.jpg" data-tags="classic, 80s, punk, alternative, straight edge, punk rock, hardcore punk, yellow, total shit, non-visual, fun to skateboard to, i love singing along, 7seconds, ear, finely tailored, deek, planet kolob, grumpy still skin, muhammad had a penis, expected, deek deek, deek deek deek, mime of charisma, excreted from a bloody rectum" role="button">
+7Seconds - Walk Together, Rock Together (1985)
 </li>
 <li data-cover="https://img.discogs.com/x5rzMxIRtPfUeEnjSGsDejuUNUs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371261-1385836726-2954.jpeg.jpg" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
@@ -194,9 +197,6 @@ Suicidal Tendencies - Freedumb (1999-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
-Misfits - Famous Monsters (1999-10-05)
 </li>
 <li data-cover="https://img.discogs.com/y31CTOsKV5Ub_SY9UmWcNqA7LzY=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4633945-1370558660-7579.jpeg.jpg" data-tags="punk rock, skate punk" role="button">
 NOFX - Pump Up the Valuum (2000-05-30)

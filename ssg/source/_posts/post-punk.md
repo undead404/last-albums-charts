@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:50:01.540Z
+date: 2021-04-10T07:54:01.521Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -44,6 +44,9 @@ The Cure - Three Imaginary Boys (1979-05-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Joy Division - Unknown Pleasures (1979-06-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+XTC - Drums And Wires (1979-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c6edb25-3614-4f2c-ae90-54a8d0b39c8c/9635980660-500.jpg" data-tags="post-punk" role="button">
 Gang of Four - Entertainment! (1979-09-25)
@@ -167,9 +170,6 @@ The Cure - Wild Mood Swings (1996-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/78db8ee8-94dc-444a-85f6-848ce0087092/22630338793-500.jpg" data-tags="indie, electronic" role="button">
-Le Tigre - Le Tigre (1999-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">
 The Cure - Bloodflowers (2000-02-02)

@@ -1,12 +1,11 @@
 ---
-date: 2021-04-10T02:52:12.788Z
+date: 2021-04-10T08:25:01.650Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1e1786e5-c6da-3bcf-961d-3b21a49ee9dc/13204157353-500.jpg" data-tags="indie pop, art pop, indie" role="button">St. Vincent - Actor (2009-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)</li>
-<li data-cover="http://coverartarchive.org/release/53b4be47-2888-4434-91ac-713489db8c1f/28541045554-500.jpg" data-tags="electronic, dubstep" role="button">James Blake - James Blake (2011-02-04)</li>
 <li data-cover="https://img.discogs.com/wkNlk8DexL-Q6Ivt-vKCVwjdrHQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871890-1304970303.jpeg.jpg" data-tags="experimental, freak folk, 4ad" role="button">tUnE-yArDs - w h o k i l l (2011-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">Kate Bush - 50 Words for Snow (2011-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">alt-J - An Awesome Wave (2012-05-28)</li>
@@ -14,6 +13,7 @@ title: "art pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Reflektor (2013-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">St. Vincent - St. Vincent (2014-02-24)</li>
+<li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,6 +30,9 @@ Kate Bush - Never for Ever (1980-09-08)
 <li data-cover="http://coverartarchive.org/release/1da98992-f955-4de8-9efc-ac4d9a9cf047/5565481684-500.jpg" data-tags="new wave, 80s" role="button">
 Talking Heads - Speaking in Tongues (1983-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/b94f7946-ddb1-4254-85f4-fd6e24a864b2/2263974859-500.jpg" data-tags="post-punk, dream pop, 4ad, ethereal wave, have on vinyl" role="button">
+Cocteau Twins - The Spangle Maker (1984-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
@@ -39,8 +42,8 @@ Björk - Post (1995-06-09)
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
+<li data-cover="https://img.discogs.com/GWBTAjGaW7WhP5q9-kFTJ6GgOSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13994-001.jpg.jpg" data-tags="electronic, remix" role="button">
+Björk - Telegram (1996-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
@@ -69,14 +72,14 @@ Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 <li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
 Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
+Elbow - Leaders of the Free World (2005-09-07)
+</li>
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
 </li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
-</li>
-<li data-cover="https://img.discogs.com/yyEJnDmsAgi2MtnxbEkNB6F0qCs=/fit-in/597x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477527-1363988511-9599.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Deerhoof - Friend Opportunity (2007-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f857ab9-6cd0-45e6-b618-93947c185cf5/13071763593-500.jpg" data-tags="neo-soul" role="button">
 Willow - Willow (2007-03)
@@ -111,17 +114,14 @@ St. Vincent - Actor (2009-05-04)
 <li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
 Patrick Wolf - The Bachelor (2009-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
-Girls - Album (2009-09-22)
-</li>
-<li data-cover="https://img.discogs.com/r7owAx43WhslvJfFYQxFrwUdDzA=/fit-in/393x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2352717-1328815012.jpeg.jpg" data-tags="art pop" role="button">
-Susanne Sundfør - The Brothel (2010-03-15)
-</li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
+</li>
+<li data-cover="https://img.discogs.com/-JtoD5g_X6JZb6s-TU8D70T8p4w=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2344917-1278429874.jpeg.jpg" data-tags="symphonic rock, finnish, art pop" role="button">
+Indica - A Way Away (2010-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fc2d2a-0704-4ebc-ac20-f2c744d300e5/27251745828-500.jpg" data-tags="lo-fi" role="button">
 Perfume Genius - Learning (2010-06-21)
@@ -146,9 +146,6 @@ Destroyer - Kaputt (2011-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/06016a9d-b92b-411a-87d0-9241f071fc1c/14793934142-500.jpg" data-tags="art pop" role="button">
 Baths - Pop Music / False B-Sides (2011-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/53b4be47-2888-4434-91ac-713489db8c1f/28541045554-500.jpg" data-tags="electronic, dubstep" role="button">
-James Blake - James Blake (2011-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)
@@ -189,17 +186,20 @@ Perfume Genius - Put Your Back N 2 It (2012-02-17)
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/e8ab98e5-f51c-4616-9547-8bb59aef7fa9/25001783422-500.jpg" data-tags="electronic, art pop" role="button">
-Susanne Sundfør - The Silicone Veil (2012-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
+Laurel Halo - Quarantine (2012-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
 </li>
 <li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
 iamamiwhoami - kin (2012-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/798c24c1-4ef9-47ca-ae68-d3c4f5fde3bc/15309211291-500.jpg" data-tags="baroque pop" role="button">
+Anna von Hausswolff - Ceremony (2012-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
@@ -219,14 +219,14 @@ Grouper - The Man Who Died in His Boat (2013-02-04)
 <li data-cover="https://img.discogs.com/LDZ4xPzGgrzq0VCslP4dBxvdrqE=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298618-1361919180-9465.jpeg.jpg" data-tags="electronic" role="button">
 Atoms for Peace - AMOK (2013-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/873fb668-89e2-46c6-bfa6-33bc4dfeee4c/4135969932-500.jpg" data-tags="folk, indie rock" role="button">
-John Grant - Pale Green Ghosts (2013-03-08)
-</li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e9b20e8-1ace-4181-af04-6d2fc04e279c/10108027334-500.jpg" data-tags="experimental, singer-songwriter, psychedelic, art rock, art pop, 2013 releases, sweet tender vibes" role="button">
+Jenny Hval - Innocence Is Kinky (2013-04-19)
 </li>
 <li data-cover="https://img.discogs.com/0ql8b3dLFazffFJrBCRFnqpVm_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566013-1368554865-9702.jpeg.jpg" data-tags="indie, alternative, indie pop, dream pop" role="button">
 MS MR - Secondhand Rapture (2013-05-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:37:01.442Z
+date: 2021-04-10T08:42:01.450Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -47,6 +47,9 @@ Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
+</li>
+<li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
+Cartel - Cartel (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2473f7-fd17-4158-b3da-623ee764cd2b/26112985625-500.jpg" data-tags="hip-hop, hip hop, sports, basketball, gin, g funk, abq, albums i had on cassette tape" role="button">
 Skee-Lo - I Wish (1995)
@@ -168,20 +171,17 @@ Gnarls Barkley - St. Elsewhere (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/f3e2c681-a117-478f-bba4-d3afa0872c11/889689286-500.jpg" data-tags="hip-hop, wiz khalifa" role="button">
 Wiz Khalifa - Show And Prove (2006-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/13296bd3-44e7-4a11-9032-4ef8f226c13a/3789938355-500.jpg" data-tags="timbaland, hip-hop, rnb" role="button">
-Timbaland - Shock Value (2007-04-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
 </li>
-<li data-cover="https://img.discogs.com/Q3QKu3J2VeBIW5V5ooDaBdb1ayc=/fit-in/460x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4700961-1372697120-8879.jpeg.jpg" data-tags="rap" role="button">
-Wale - Nike Boots (2007-11-17)
-</li>
 <li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
 M.I.A. - Paper Planes (2008-02-11)
+</li>
+<li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">
+Flo Rida - Mail On Sunday (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
@@ -197,9 +197,6 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
@@ -228,6 +225,9 @@ Timbaland - Shock Value II (2009-12-04)
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
 </li>
+<li data-cover="https://img.discogs.com/kjpz35exKVtaa_Luhqkdro-Cxic=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4060434-1515117342-2615.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
+Sam Adams - Boston's Boy (2010)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
 </li>
@@ -242,6 +242,9 @@ Eminem - Recovery (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb03333a-e805-44c2-85a3-0b77fa920871/1198344598-500.jpg" data-tags="hip hop" role="button">
 Kanye West - POWER (2010-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ba4f9bef-af39-4627-ad5a-6452597781d4/14912913412-500.jpg" data-tags="hip hop, r&b, jeremih" role="button">
+Jeremih - All About You (2010-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)
@@ -263,9 +266,6 @@ Wiz Khalifa - Rolling Papers (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e08a3b6c-22ff-423a-8706-adbd45203698/1585327827-500.jpg" data-tags="hip-hop, rap" role="button">
-Jay-Z & Kanye West - Watch the Throne (2011-08-08)
 </li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
@@ -318,7 +318,7 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
-Rae Sremmurd - SremmLife (2015-01-06)
+<li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
+Nicki Minaj - The Pinkprint (2014-12-12)
 </li>
 </ol>

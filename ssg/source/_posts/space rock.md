@@ -1,17 +1,17 @@
 ---
-date: 2021-04-09T19:47:01.432Z
+date: 2021-04-10T07:59:01.822Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/c183a94b-2172-36a7-bc2d-a6710542b049/10052283540-500.jpg" data-tags="space rock" role="button">Hawkwind - In Search of Space (1971-10)</li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)</li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">Angels & Airwaves - We Don't Need to Whisper (2006-05-22)</li>
+<li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">The Flaming Lips - Embryonic (2009-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/93be2c5f-b9e2-46da-8bc8-04ab3e384682/8450685693-500.jpg" data-tags="indie, british, alternative rock, space rock, psychedelic rock, 10s, fat possum, 2012 releases, double six, summer jams" role="button">Spiritualized - Sweet Heart Sweet Light (2012-04-16)</li>
 </ol>
@@ -78,12 +78,6 @@ Spacemen 3 - The Perfect Prescription (1987)
 <li data-cover="http://coverartarchive.org/release/c5867117-a1ed-4b49-8278-da11638ac7d6/20343897065-500.jpg" data-tags="shoegaze, space rock" role="button">
 Loop - Heaven's End (1987-11)
 </li>
-<li data-cover="https://img.discogs.com/2rxbgU1-XyApbyxq01nCdwUmrKo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367493-1454894692-9295.jpeg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
-Spacemen 3 - Playing With Fire (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7bbea81-3362-4d7b-9ad0-290aaf497f2e/27761341433-500.jpg" data-tags="shoegaze" role="button">
 Spacemen 3 - Recurring (1990)
 </li>
@@ -114,6 +108,9 @@ The Verve - A Storm In Heaven (1993-06-15)
 <li data-cover="https://img.discogs.com/19Z5i1oZgP0nE9HCWEAZC9WUfog=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1651797-1436213988-6529.jpeg.jpg" data-tags="alternative, alternative rock, space rock" role="button">
 Failure - Magnified (1994-03-08)
 </li>
+<li data-cover="https://img.discogs.com/TvMG19rxuanxza5V5PNmgM7WRDk=/fit-in/597x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-201698-1308772435.jpeg.jpg" data-tags="space rock" role="button">
+Ozric Tentacles - Arborescence (1994-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Sky Moves Sideways (1995-01-30)
 </li>
@@ -141,11 +138,11 @@ Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 <li data-cover="http://coverartarchive.org/release/674023e2-07cd-407a-9b92-878e4e32210a/12554390373-500.jpg" data-tags="90s" role="button">
 The Dandy Warhols - The Dandy Warhols Come Down (1997-07-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/a736eee8-551f-40bc-833c-c8f1e9575c39/12048725449-500.jpg" data-tags="shoegaze" role="button">
+Bardo Pond - Lapsed (1997-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
@@ -167,9 +164,6 @@ Porcupine Tree - Voyage 34: The Complete Trip (2000-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/84f521a4-ee77-418f-8ee8-21dd6c5d97a8/7575440808-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Cave In - Jupiter (2000-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/247957e4-caee-4e3c-b01a-14ec68e9df0a/18942843711-500.jpg" data-tags="space rock, post-rock" role="button">
-Bardo Pond - Dilate (2001-04-24)
 </li>
 <li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
@@ -207,11 +201,11 @@ Ozric Tentacles - Spirals in Hyperspace (2004-03-16)
 <li data-cover="https://img.discogs.com/WizXcjZB7bvDO3JSO8XWBmuY18w=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528621-1240352999.jpeg.jpg" data-tags="progressive rock" role="button">
 Amplifier - Amplifier (2004-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
+Samael - Reign of Light (2004-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
 The Verve - This Is Music: The Singles 92-98 (2004-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
-Black Mountain - Black Mountain (2005-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
@@ -239,6 +233,9 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a654fec2-eca3-4682-91b5-2173cdb1ef05/11547692059-500.jpg" data-tags="psychedelic, space rock" role="button">
+White Hills - Heads On Fire (2007-11-05)
 </li>
 <li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
@@ -279,14 +276,17 @@ God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, psychedelic" role="button">
+Moon Duo - Mazes (2011-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/c36efaca-88d5-4606-a018-b007159758a5/20135319621-500.jpg" data-tags="space rock" role="button">
-Wooden Shjips - West (2011-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee4093b1-28e1-4482-875b-266ffc458b60/1118766922-500.jpg" data-tags="post-rock, post-metal" role="button">
 Exxasens - Eleven Miles (2011-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/5df1ca96-ce3b-4ba7-8bc7-6613b1ac5bbd/9466174294-500.jpg" data-tags="post-rock" role="button">
+Junius - Reports From the Threshold of Death (2011-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/93be2c5f-b9e2-46da-8bc8-04ab3e384682/8450685693-500.jpg" data-tags="indie, british, alternative rock, space rock, psychedelic rock, 10s, fat possum, 2012 releases, double six, summer jams" role="button">
 Spiritualized - Sweet Heart Sweet Light (2012-04-16)

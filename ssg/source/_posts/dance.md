@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:45:01.626Z
+date: 2021-04-10T08:28:01.639Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -26,6 +26,9 @@ Michael Jackson - Thriller (1982-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/44a64b8c-f20d-33f2-be25-88740e575f2c/10607932122-500.jpg" data-tags="pop" role="button">
 Madonna - The Immaculate Collection (1990-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
+Boney M. - Daddy Cool (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
@@ -179,9 +182,6 @@ Lady Gaga - The Fame Monster (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
 </li>
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)

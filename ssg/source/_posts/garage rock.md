@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:20:01.440Z
+date: 2021-04-10T08:23:01.559Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -126,6 +126,9 @@ The Strokes - Room on Fire (2003-10-16)
 <li data-cover="https://img.discogs.com/900g2OX8ls0q0ZSGgVfocOvKcxA=/fit-in/299x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451852-1227466831.jpeg.jpg" data-tags="rock, indie rock" role="button">
 The Von Bondies - Pawn Shoppe Heart (2004-02-09)
 </li>
+<li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+The Vines - Winning Days (2004-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
 Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
@@ -207,17 +210,14 @@ The Kills - Midnight Boom (2008-03-10)
 <li data-cover="http://coverartarchive.org/release/700d7cf4-30ca-48fe-b2eb-44b9e35b19af/21909325010-500.jpg" data-tags="indie, indie rock, alternative" role="button">
 Blood Red Shoes - Box of Secrets (2008-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/375d22df-0aaf-3b2e-b91c-b354fccf9071/17994009333-500.jpg" data-tags="alternative rock" role="button">
-Ida Maria - Fortress Round My Heart (2008-05-05)
+<li data-cover="http://coverartarchive.org/release/9f769c69-d0c7-3a69-a85a-774adfb29271/5652970285-500.jpg" data-tags="blues rock" role="button">
+The Black Keys - Attack & Release (2008-03-31)
 </li>
 <li data-cover="https://img.discogs.com/SyB2V5tRP58VnZy7Jv88JpwbCpQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677269-1583376530-7454.jpeg.jpg" data-tags="indie rock" role="button">
 Cage the Elephant - Cage the Elephant (2008-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfa53a04-7d06-49b7-ac25-f5b448eee02a/5481993314-500.jpg" data-tags="rock, indie" role="button">
 Mando Diao - Give Me Fire (2009-02-13)
-</li>
-<li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
-Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)

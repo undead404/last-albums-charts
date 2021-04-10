@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:43:01.579Z
+date: 2021-04-10T07:57:01.447Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -59,6 +59,9 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/pT_kB-IGymMlAZZ7PmxEHRbp41A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434125-1155723074.jpeg.jpg" data-tags="grunge" role="button">
 Soundgarden - Badmotorfinger (1991-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/00430071-491d-4ca3-a61e-634cbc483021/13220151098-500.jpg" data-tags="rock, grunge, pearl jam" role="button">
+Pearl Jam - MTV Unplugged (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/250bd8f0-9c77-4318-b14c-0684ce5f9b75/24751455111-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Sap (1992-02-04)
@@ -224,9 +227,6 @@ Pearl Jam - Binaural (2000-05-16)
 </li>
 <li data-cover="https://img.discogs.com/zKrm-b4jrZ-oY-VyfDdSxcmDZ6A=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5449544-1595955921-2024.jpeg.jpg" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
-Staind - Break the Cycle (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)

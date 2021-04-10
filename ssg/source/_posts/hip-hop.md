@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:43:01.426Z
+date: 2021-04-10T07:55:01.741Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -56,6 +56,9 @@ Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
+</li>
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
 <li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
@@ -177,6 +180,9 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">
 Fort Minor - The Rising Tied (2005-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ae25feb-39ca-484b-80c0-ad8fe871b0ce/2980605648-500.jpg" data-tags="rnb, chris brown" role="button">
+Chris Brown - Chris Brown (2005-11-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/5f7c0d23-58d9-4bdf-bfd9-e1e420b3ef29/4515569227-500.jpg" data-tags="eminem, rap, hip-hop" role="button">
 Eminem - Curtain Call: The Hits (2005-12-02)
 </li>
@@ -194,9 +200,6 @@ OutKast - Idlewild (2006-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3e2c681-a117-478f-bba4-d3afa0872c11/889689286-500.jpg" data-tags="hip-hop, wiz khalifa" role="button">
 Wiz Khalifa - Show And Prove (2006-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/13296bd3-44e7-4a11-9032-4ef8f226c13a/3789938355-500.jpg" data-tags="timbaland, hip-hop, rnb" role="button">
-Timbaland - Shock Value (2007-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
@@ -219,11 +222,11 @@ N*E*R*D - Seeing Sounds (2008-06-09)
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
+</li>
+<li data-cover="https://img.discogs.com/GJfy06J2LGkCqqKGNZO7OQxor3g=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657826-1235012805.jpeg.jpg" data-tags="hip-hop" role="button">
+K'naan - Troubadour (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/25130d2d-8a82-4956-99e7-30efd0f9ff89/5871235568-500.jpg" data-tags="rap, hip-hop" role="button">
 Eminem - Relapse (2009-05-15)
@@ -264,11 +267,11 @@ Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
+Wiz Khalifa - Rolling Papers (2011-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e08a3b6c-22ff-423a-8706-adbd45203698/1585327827-500.jpg" data-tags="hip-hop, rap" role="button">
-Jay-Z & Kanye West - Watch the Throne (2011-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/657bb677-62f8-4b0a-a562-cc40ab943970/1921800445-500.jpg" data-tags="hip-hop, tumblr, aarmando, flor rider, flo rida - good feeling" role="button">
 Flo Rida - Good Feeling (2011-08-29)
@@ -317,8 +320,5 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ede655-ad25-4a32-a367-3a32edb0ad55/9269372663-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Only One (2014-12-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
-Rae Sremmurd - SremmLife (2015-01-06)
 </li>
 </ol>

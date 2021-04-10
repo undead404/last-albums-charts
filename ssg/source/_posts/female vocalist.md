@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:39:07.007Z
+date: 2021-04-10T08:16:06.925Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
@@ -48,6 +48,9 @@ Céline Dion - Let's Talk About Love (1997-11-14)
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
+Garbage - Version 2.0 (1998-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
@@ -78,6 +81,9 @@ Vanessa Carlton - Be Not Nobody (2002-04-30)
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4559308-a761-3279-8243-35952f3aeb7a/19438296770-500.jpg" data-tags="country" role="button">
+Faith Hill - Cry (2002-10-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
 </li>
@@ -87,17 +93,11 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="http://coverartarchive.org/release/6d0597e0-d564-4a07-9822-9ace6a80c538/8316333978-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Thankful (2003-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/aec0aab6-e302-449e-8bd4-f1947b15297e/5686176057-500.jpg" data-tags="pop" role="button">
-Jessica Simpson - In This Skin (2003-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
@@ -126,8 +126,8 @@ Kelly Clarkson - Breakaway (2004-11-30)
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
-<li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
-Mariah Carey - The Emancipation of Mimi (2005-04-04)
+<li data-cover="http://coverartarchive.org/release/3b1afcc4-5b3f-4462-b40a-419a51d9f339/10222782880-500.jpg" data-tags="indie, singer-songwriter, acoustic" role="button">
+Brandi Carlile - Brandi Carlile (2005-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -168,6 +168,9 @@ Evanescence - The Open Door (2006-09-25)
 <li data-cover="https://img.discogs.com/yN1TDls6ZCOnqUGsiJ48a5Yfk2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393131-1523761238-6659.jpeg.jpg" data-tags="opera, female vocalist, classical symphony, sarah brightman" role="button">
 Sarah Brightman - Symphony (2007)
 </li>
+<li data-cover="http://coverartarchive.org/release/0075a622-1005-46c7-b008-5a905f0828ca/1717249902-500.jpg" data-tags="chillout" role="button">
+Sia - Lady Croissant (2007-02-06)
+</li>
 <li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
@@ -186,11 +189,14 @@ A Fine Frenzy - One Cell in the Sea (2007-07-17)
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
 Kate Nash - Made of Bricks (2007-08-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
-Yelle - Pop Up (2007-09-03)
-</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
+Angus & Julia Stone - A Book Like This (2007-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">
+Sugababes - Change (2007-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b86285db-3459-37e8-a190-493ac9b7954f/21075550304-500.jpg" data-tags="pop, rnb" role="button">
 Jordin Sparks - Jordin Sparks (2007-10-29)
@@ -213,6 +219,9 @@ Cat Power - Jukebox (2008-01-18)
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
 </li>
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+Goldfrapp - Seventh Tree (2008-02-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
@@ -228,11 +237,11 @@ Lenka - Lenka (2008-06-28)
 <li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
 Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
-</li>
 <li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
 Erin McCarley - Love, Save The Empty (2009-01-06)
+</li>
+<li data-cover="https://img.discogs.com/nMUq5r_7Cx55c3hDjKfzXSV9Zp0=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717943-1238941814.jpeg.jpg" data-tags="2009 albums" role="button">
+Bat for Lashes - Daniel (2009-02)
 </li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
@@ -254,9 +263,6 @@ She & Him - Volume Two (2010-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
 CocoRosie - Grey Oceans (2010-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/da7f308f-d48c-41a4-9101-cdc062857ad5/7002612016-500.jpg" data-tags="pop, female vocalist" role="button">
-Katie Melua - The House (2010-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
@@ -285,26 +291,20 @@ Veronica Maggio - Satan i gatan (2011-04-27)
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
 Russian Red - Fuerteventura (2011-05-10)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/14ddee9e-a6ea-4f52-98e9-2785496352e8/7311581193-500.jpg" data-tags="female vocalists, alternative" role="button">
 Florence + the Machine - Shake It Out (2011-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
+Drake - Take Care (2011-11-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Goldie (2012-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b484d1b-65ce-4f84-b0c9-d022f1125ce2/6559339900-500.jpg" data-tags="electronica, electropop, pop, indie pop, upbeat, female vocalist" role="button">
 Betty Who - The Movement (2012-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/590146dd-f60e-445f-a428-eb8550640e04/5258183155-500.jpg" data-tags="dark, female vocalist, dark ambient, 10s, 2010s, neoclassical, my gang 13, 2013: favourite albums, d4rk c4rn1v4l" role="button">
-Soap&Skin - Sugarbread (2013-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)

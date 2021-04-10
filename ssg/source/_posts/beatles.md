@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:29:01.392Z
+date: 2021-04-10T07:51:01.428Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -57,8 +57,8 @@ The Beatles - Magical Mystery Tour (1967-11-27)
 <li data-cover="https://img.discogs.com/35slQMt3mxNX2L70DKC90Yn60OI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4460496-1400323194-7281.jpeg.jpg" data-tags="psychedelic, beatlesque" role="button">
 Chad & Jeremy - The Ark (1968)
 </li>
-<li data-cover="https://img.discogs.com/SdgkIMUXPs9ic3GLxR4usIGmILA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4238491-1419156472-3164.jpeg.jpg" data-tags="psychedelic, soundtrack, 60s" role="button">
-George Harrison - Wonderwall Music (1968-11-01)
+<li data-cover="http://coverartarchive.org/release/29d56360-a1c9-4494-b48b-80702ebc42d4/9864319308-500.jpg" data-tags="pop" role="button">
+The Idle Race - Idle Race (1969)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
@@ -192,12 +192,6 @@ The Idle Race - Back To The Story (1996)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, emo, beatles, stonedbeat, my whole damn collection" role="button">
 The Beatles - Real Love (1996-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/4991df87-15a6-33e8-9718-c17c7282d8de/10354133181-500.jpg" data-tags="classic rock, rock, 60s" role="button">
-The Beatles - Anthology 2 (1996-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/50893966-1a48-3500-8d35-d96d1109a39f/11784595282-500.jpg" data-tags="classic rock, british" role="button">
-The Beatles - Anthology 3 (1996-10-28)
-</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles, stonedbeat, alternate" role="button">
 The Beatles - The Alternate Revolver (1997)
 </li>
@@ -216,8 +210,8 @@ Nicoletta - 30 Ans De Passion (1999)
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
-<li data-cover="https://img.discogs.com/nyHqo_ES_IqkbcqO10BqRoZ15eg=/fit-in/600x664/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8721424-1467327188-4905.jpeg.jpg" data-tags="pop, rock, classic, british, alternative, hard, experimental, indie rock, singer-songwriter, pop rock, britpop, psychedelic pop, progressive, elvis, oldies, psychedelia, california, psychedelic rock, john lennon, beat, israel, beatles, pop-rock, the beatles, english, roma, madonna, liverpool, paul mccartney, paris, jesus, jerusalem, anthony, aleister crowley, latin grammy nominated, merseybeat, cubano, rock'n'roll, ringo starr, george, obama, smith, filme, nova, christopher lee, harrison, sexo, invasion, aleyster crowley, rock  indie, xuxa, argeu california seixas, silvio passos, wilson seixas, california seixas, lula, familia, aleister, raul seixas, holanda, libano, amidio junior, anyzio rocha, belem, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, capim cubano, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, desenho, thebestofaleystercrowley, banda metamorphosis, argeur california seixas, anthonyjoseph70, nova california, anthony smith, anthony joseph smith" role="button">
-Harmonia Do Samba - O Rodo (2000)
+<li data-cover="http://coverartarchive.org/release/a9b7e6e4-59ce-49de-adfb-23064c2cba31/1491718433-500.jpg" data-tags="classic rock, beatles" role="button">
+The Beatles - Revolver / Magical Mystery Tour (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
@@ -267,6 +261,9 @@ Ringo Starr - Choose Love (2005-06-07)
 <li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
 Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
 </li>
+<li data-cover="https://img.discogs.com/tj2zU3V9AcrbiArentE5xunkYYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16577373-1608584361-6211.jpeg.jpg" data-tags="indie, rock, hamburg, zurich, beatles, jet, oasis, who, rolling stones, lennon, basel, roll, libertines, mccartney, biel, bienne, basle" role="button">
+Carnation - Waxy's Little Sister (2005-10-14)
+</li>
 <li data-cover="https://img.discogs.com/tzidkIWH3rpqJSjHR1I2zmYOVTs=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6080742-1410559264-7482.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, indie pop, shoegaze, shoegazer, beatles, newgazer, my bloody valentine, engineers, sigur ros, the early years, newgaze, nugaze, ride, swervedriver, the wedding present, catherine wheel, fully streamable albums which i have streamed fully, nugazer, filmschool, soundpool, albuns completos ou quase completos, dream pop noise" role="button">
 Wry - Flames in the head (2006-04-03)
 </li>
@@ -276,9 +273,6 @@ The Red Button - She's About To Cross My Mind (2007-01-25)
 <li data-cover="http://coverartarchive.org/release/78b8e7bd-6f5a-46c4-96c1-705e50c697a7/21009905624-500.jpg" data-tags="paul mccartney, rock" role="button">
 Paul McCartney - Memory Almost Full (2007-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ddde52e2-5bd1-4e3a-899b-5933d32e25ce/28301806713-500.jpg" data-tags="folk" role="button">
-Blitzen Trapper - Wild Mountain Nation (2007-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
 </li>
@@ -287,9 +281,6 @@ Armando Cacciato - Puoi Farti Male (2007-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2096f01c-1e18-4067-954c-dd438446edcb/18858550074-500.jpg" data-tags="rock, ringo starr" role="button">
 Ringo Starr - Liverpool 8 (2008-01-14)
-</li>
-<li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
-Women - WOMEN (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cda2aab-071a-466d-b4d9-36d8563a5f36/8647595415-500.jpg" data-tags="coldplay, radiohead, beatles, the shins, beach boys, weezer, modest mouse, vampire weekend, fleet foxes, excelsior, rogue wave, belle and sabastian" role="button">
 Marching Band - Spark Large (2008-07-15)
@@ -315,8 +306,17 @@ George Harrison - Early Takes: Volume 1 (2012-05-01)
 <li data-cover="http://coverartarchive.org/release/539ece20-fafc-47cd-81bb-e470da9ef796/15453679630-500.jpg" data-tags="beatles" role="button">
 The Beatles - Meet the Beatles (2014-07-22)
 </li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles" role="button">
+The Beatles - '69 Rehearsals (disc 2) (2015-11-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/7194480d-d3d1-4b14-8b1e-602514f70d29/1403982090-500.jpg" data-tags="beatles, stonedbeat, work it" role="button">
+The Beatles - Get Back 2nd Mix (2015-11-06)
+</li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="rock, classic rock, 60s" role="button">
 The Beatles - The Beatles (disc 1) (2015-11-06)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, pop, 60s, beatles, stonedbeat, work it" role="button">
+The Beatles - The Beatles Golden Edition (2015-11-06)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - The Best Of The Beatles (2015-11-06)

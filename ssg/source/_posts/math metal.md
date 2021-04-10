@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T08:05:07.925Z
+date: 2021-04-10T07:52:12.856Z
 title: "math metal: 100 albums you must listen to before you die"
 ---
 ![Meshuggah - ObZen (2008-02-27)](http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg "Meshuggah - ObZen (2008-02-27)")
@@ -32,6 +32,9 @@ Gorguts - Obscura (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/46a520c7-993c-36a7-8f8f-640d0e32bb1d/14569129902-500.jpg" data-tags="thrash metal" role="button">
 Meshuggah - Contradictions Collapse (1998-01-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c81c2f64-b726-4199-8a49-6e82fbe1ce99/24759112168-500.jpg" data-tags="mathcore" role="button">
+The Dillinger Escape Plan - Under The Running Board (1998-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-500.jpg" data-tags="progressive metal, math metal" role="button">
 Meshuggah - Chaosphere (1998-11-09)
@@ -99,9 +102,6 @@ Coprofago - Unorthodox Creative Criteria (2005-07-29)
 <li data-cover="https://img.discogs.com/XnnkqZggbijApoY4bKcNmpE5A9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2782286-1300802505.jpeg.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Solace (2005-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cd95866-c534-4263-8239-5e629ab9d448/4472000578-500.jpg" data-tags="progressive metal" role="button">
-Mastodon - Call of the Mastodon (2006-01-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ab50207-be9d-4a21-a1bc-0b23e0984acd/16972065596-500.jpg" data-tags="progressive metal" role="button">
 Textures - Drawing Circles (2006-04-17)
 </li>
@@ -116,6 +116,9 @@ Car Bomb - Centralia (2007-01-06)
 </li>
 <li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/50282e53-167d-426f-b759-c93e934c3c6a/26841025086-500.jpg" data-tags="metalcore, progressive metal, mathcore" role="button">
+THE END - Elementary (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ecf488-9cdb-391a-9f51-d0c34254d045/19974817755-500.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Minus The Herd (2007-06-05)
@@ -152,9 +155,6 @@ CiLiCe - Deranged Headtrip (2009-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/00f54cea-1fc2-470a-a898-ebda5038d156/23171911166-500.jpg" data-tags="death metal, technical death metal" role="button">
 Ulcerate - Everything Is Fire (2009-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
-And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d83db1-866b-40c0-9ec9-f2b18e43058c/28254616844-500.jpg" data-tags="progressive metal" role="button">
 Animals as Leaders - Animals As Leaders (2009-04-28)

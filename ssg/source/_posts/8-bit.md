@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:49:01.388Z
+date: 2021-04-10T08:30:02.003Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -113,6 +113,9 @@ The Gothsicles - NESferatu (2006-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b53aa824-1e68-44eb-aedd-af0a2f1d7b98/3677936763-500.jpg" data-tags="8-bit" role="button">
 Disasterpeace - Atebite and the Warring Nations (2006-10-05)
+</li>
+<li data-cover="https://img.discogs.com/aRR8PlB4e76Yv1VvFmToH7FFpoQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-850302-1482549429-4089.jpeg.jpg" data-tags="8bit, chiptune" role="button">
+Goto80 - Digi-Dig (2006-12-11)
 </li>
 <li data-cover="https://img.discogs.com/v--qJAv4sBK7aHexf09KyNIuk4s=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717250-1238882319.jpeg.jpg" data-tags="8-bit, chiptune, gameboy, english" role="button">
 Leeni - 8 Bit Heart (2007)
@@ -236,9 +239,6 @@ Glomag - DaMaGe (2009-03-23)
 </li>
 <li data-cover="https://img.discogs.com/OAPHM-bBqDh2f3CmrM5EBKS6uQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9266997-1477658830-6045.jpeg.jpg" data-tags="electronica, techno, 8-bit, idm, chiptune, chiptronica" role="button">
 little-scale - Error Repeat (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a2a04ff-af1e-472c-b0c5-38253ac599fb/2129023006-500.jpg" data-tags="electronic, electroclash, electro, 8-bit, new rave, crystal castles clone" role="button">
-Vive La Fête - Disque d'or (2009-06-08)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)

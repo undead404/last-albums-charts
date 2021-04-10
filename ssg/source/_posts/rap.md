@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:50:01.424Z
+date: 2021-04-10T08:07:01.574Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -120,6 +120,9 @@ Eminem - The Marshall Mathers LP (2000-05-22)
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
+Gorillaz - Gorillaz (2001-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/67197045-893e-4d95-9eb0-27ca106d2170/2181640325-500.jpg" data-tags="rap" role="button">
 D12 - Devils Night (2001-06-18)
 </li>
@@ -146,9 +149,6 @@ Clipse - Lord Willin' (2002-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b9a30a1-9a94-49dd-a004-a7ee5c38126b/16759780312-500.jpg" data-tags="rap, nelly" role="button">
-Nelly - Nellyville (2002-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6d7be9e-8fc9-44c7-8066-caa658d05ef9/994878502-500.jpg" data-tags="rap, eminem" role="button">
 Eminem - Lose Yourself (2002-10-22)
@@ -252,6 +252,9 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="http://coverartarchive.org/release/37ec8148-b90d-4c07-8a5f-590f321eb5cf/1941023802-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Your Love (2010-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
+B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/c8ae2c69-899f-4ef5-9379-6f7214fffc3a/8328215880-500.jpg" data-tags="rap" role="button">
 Tinie Tempah - Disc-Overy (2010-05-31)
 </li>
@@ -273,8 +276,8 @@ T.I. - No Mercy (2010-12-07)
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e08a3b6c-22ff-423a-8706-adbd45203698/1585327827-500.jpg" data-tags="hip-hop, rap" role="button">
-Jay-Z & Kanye West - Watch the Throne (2011-08-08)
+<li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
+Criolo - Nó Na Orelha (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
@@ -317,8 +320,5 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
 Nicki Minaj - The Pinkprint (2014-12-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
-Rae Sremmurd - SremmLife (2015-01-06)
 </li>
 </ol>

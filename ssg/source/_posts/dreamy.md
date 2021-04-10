@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:48:02.030Z
+date: 2021-04-10T08:09:01.464Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![M83 - Saturdays &#x3D; Youth (2008-04-14)](http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg "M83 - Saturdays = Youth (2008-04-14)")
@@ -7,8 +7,8 @@ title: "dreamy: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Saturdays = Youth (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg" data-tags="dream pop" role="button">Beach House - Teen Dream (2010-01-16)</li>
+<li data-cover="https://img.discogs.com/NeBBu5EEP2XGecymLXlAwoGnSSs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297842-1490435079-4947.jpeg.jpg" data-tags="dream pop" role="button">Wild Nothing - Gemini (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">Little Dragon - Ritual Union (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">Of Monsters and Men - Into The Woods (2011-12-20)</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">Grimes - Visions (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
@@ -24,20 +24,17 @@ _________________
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
 </li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
-</li>
-<li data-cover="https://img.discogs.com/LUCqgkcI6OgQ2QGT-KpV-9OFOBg=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401199-1153637811.jpeg.jpg" data-tags="slowcore, dream pop, shoegaze" role="button">
-Galaxie 500 - On Fire (1989)
-</li>
-<li data-cover="https://img.discogs.com/ltRx7LMTaIcDRAR5dPZwxdmPEoM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528251-1153638308.jpeg.jpg" data-tags="shoegaze, 90s" role="button">
-Galaxie 500 - This Is Our Music (1990)
+<li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
+A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/b20eaf7a-ca77-4dfe-9f28-07f115c8ae11/16788902838-500.jpg" data-tags="shoegaze" role="button">
 Ride - Nowhere (1990-10-15)
 </li>
 <li data-cover="https://img.discogs.com/1HBW6zvyauirjRWawLzeIROBh5k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140088-1154032651.jpeg.jpg" data-tags="shoegaze, dreamy" role="button">
 lovesliescrushing - Bloweyelashwish (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
+Ernest Ranglin - Below The Bassline (1996-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
 Mew - A Triumph for Man (1997-04)
@@ -48,17 +45,20 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce4e8d96-5efb-4961-b3fe-8c7b2e788bfc/20027677976-500.jpg" data-tags="rock, alternative, alternative rock, dreamy, mellow, music to make love to, deserted island picks, analogue ideas in a digital world, iveldie best of 2000, idm ecclectic, pro sun and no fear, girls in bathtubs, idm ecclectic pro sun, vittorio favs, vittorio genial" role="button">
 The Twilight Singers - twilight as played by the twilight singers (2000-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
+Howie Day - Australia (2000-11)
 </li>
 <li data-cover="https://img.discogs.com/oi8qT8rgsWLbbrMhf8XFNrAdZew=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55727-1526118988-1457.jpeg.jpg" data-tags="chillout, downtempo, house, dreamy" role="button">
 Roger Sanchez - Another Chance (2001-07-02)
 </li>
 <li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
 Azure Ray - November (2002-01-22)
+</li>
+<li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
+Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
 Doves - The Last Broadcast (2002-04-29)
@@ -74,6 +74,9 @@ I Monster - Neveroddoreven (2003-07-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, indie rock, dreamy, melancholic, lullaby, underappreciated, a, music for sleepless nights, the best of 2003, rozne takie sobie lubie, soft silly music, spokojnie tu jest, poznac to musze bardziej, painting inspirations" role="button">
 Lady & Bird - Lady & Bird (2003-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/50862dd5-3ac5-4b93-8458-0d876282ed3d/15298257043-500.jpg" data-tags="jazz" role="button">
+Eliane Elias - Dreamer (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea9811df-915b-4d1b-8172-673b5cc4ce7d/4397578495-500.jpg" data-tags="ethereal" role="button">
 Flëur - Волшебство (2004-01-27)
@@ -102,8 +105,14 @@ My Morning Jacket - Z (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/6964b07b-a302-4226-a35c-b1635aea9ff2/2904783418-500.jpg" data-tags="electronic, ambient" role="button">
+Slow Dancing Society - The Sound of Lights When Dim (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">
 Nathan Fake - Drowning in a Sea of Love (2006-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/7dde8415-7145-470f-9a3d-21382ef4bf2f/4786479859-500.jpg" data-tags="pop punk" role="button">
+Hawk Nelson - Smile, It's The End Of The World (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
@@ -122,6 +131,9 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/p8ekxYH2ZEiI6ylivtCAFCEb-lA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937597-1180461208.jpeg.jpg" data-tags="ambient" role="button">
+Amiina - Kurr (2007-03-21)
 </li>
 <li data-cover="https://img.discogs.com/IOUe7XPlCVHIhTDBkQkrUo5KZw8=/fit-in/530x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982945-1417117053-7681.jpeg.jpg" data-tags="electronic, indie, folk, experimental, indietronica, dreamy, post rock, 00s, fatcat, de:bug album reviews 2007, mice parade, jaarlijstje 2007, worn-out from overplay, i n d i e, hoeralbum" role="button">
 Mice Parade - Mice Parade (2007-05-08)
@@ -147,17 +159,8 @@ Ra Ra Riot - The Rhumb Line (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
-Chairlift - Does You Inspire You (2008-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
 Deerhunter - Microcastle (2008-10-27)
-</li>
-<li data-cover="https://img.discogs.com/FRIMWHjtAELVTwS6s3Fr6Zo1Cqo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787758-1573510919-5647.jpeg.jpg" data-tags="synthpop, new romantic" role="button">
-Jonathan Johansson - En hand i himlen (2008-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ead1e021-702f-48be-8770-fcdc1043c591/12275065741-500.jpg" data-tags="post-rock, dreamy, music for studying" role="button">
 Sigur Rós - We Play Endlessly (2009-01-31)
@@ -189,17 +192,8 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/78bdcb53-b585-4f00-96e0-5f9173c51e1a/2618566400-500.jpg" data-tags="industrial, electronic, alternative rock, female vocalists, synth-rock" role="button">
-The Birthday Massacre - Pins and Needles (2010-08-13)
-</li>
 <li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
-Grimes - Halfaxa (2010-10-05)
-</li>
-<li data-cover="https://img.discogs.com/hZxHJ6552hDvtEy_554gCcCdwro=/fit-in/396x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2584835-1291729897.jpeg.jpg" data-tags="chillout, electronic, ambient, indie rock, indie electronic, lo-fi, dreamy, dream pop, relaxing, chillwave, ambiental, alternative pop/rock, alternative-indie rock" role="button">
-Houses - All Night (2010-10-19)
 </li>
 <li data-cover="https://img.discogs.com/uHHEJpVLOmFzbYpzk1Bxdj04FNA=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6192118-1413349642-3697.jpeg.jpg" data-tags="pop" role="button">
 Hooverphonic - The Night Before (2010-11-26)
@@ -225,14 +219,8 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
 Owl City - All Things Bright and Beautiful (2011-06-10)
-</li>
-<li data-cover="https://img.discogs.com/KlPBEkSvY9Jyq4VOnrLro910MBk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3023094-1312179004.jpeg.jpg" data-tags="electronic, indie, indie pop, usa, shoegaze, dreamy, dream pop, american, crossover, dreampop, duo, san francisco, american underground, chillwave, 10s, free music, hypnagogic pop, america, netaudio, fully streamable tracks, experimental indie, electronic shoegaze, dreamwave, glo-fi, webaudio, fully streamable album, usa underground, fully streamable track, shoegazetronica" role="button">
-The Bilinda Butchers - regret, love, guilt, dreams (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
@@ -243,9 +231,6 @@ The Drums - Portamento (2011-09-02)
 <li data-cover="http://coverartarchive.org/release/ff112f7c-8ee8-4071-a07e-e4ab240caa3b/6560200968-500.jpg" data-tags="indie pop" role="button">
 The Jezabels - Prisoner (2011-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1f9ca0a-c300-45b5-b62c-ae24c53da1bc/1329874155-500.jpg" data-tags="electronic, remix" role="button">
-Radiohead - TKOL RMX 1234567 (2011-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
@@ -254,6 +239,9 @@ Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
 Of Monsters and Men - Into The Woods (2011-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/bdcfa60a-672c-457b-8af1-555d26c9a930/6937966748-500.jpg" data-tags="cold wave" role="button">
+Linea Aspera - Linea Aspera (2012-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
@@ -273,6 +261,9 @@ Memoryhouse - The Slideshow Effect (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
+Bvdub - Serenity (2012-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/92524aeb-4b8d-4532-9c14-fd5981c442ba/3474469853-500.jpg" data-tags="electronic, electropop, british, indie pop, house, indietronica, dreamy, feel good, summer, introspective, synthpop, bittersweet, alternative dance, indie disco, nostalgia, wistful, she sings so sweetly, has me dancing even now" role="button">
 Saint Etienne - Words and Music by Saint Etienne (2012-05-21)
 </li>
@@ -284,6 +275,9 @@ Purity Ring - Shrines (2012-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, dreamy, ethereal, soundscapes, tasting colors" role="button">
+Manual - Awash (2012-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
 Yo La Tengo - Fade (2013-01-14)
@@ -320,5 +314,11 @@ Lamp - ゆめ (2014-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
+</li>
+<li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
+Damon Albarn - Everyday Robots (2014-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
+Foxes in Fiction - Ontario Gothic (2014-09-23)
 </li>
 </ol>

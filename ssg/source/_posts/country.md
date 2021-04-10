@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:35:01.425Z
+date: 2021-04-10T08:45:01.674Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -56,6 +56,12 @@ Shania Twain - Come on Over (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Wide Open Spaces (1998-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
+Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0d93e73-67b6-4225-a714-e9b21818b75b/5176275437-500.jpg" data-tags="country" role="button">
+Willie Nelson - 16 Biggest Hits (1998-07-14)
 </li>
 <li data-cover="https://img.discogs.com/na6SCvM0UqeDH4JbLATHyNmVPoM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377099-1280471658.jpeg.jpg" data-tags="country" role="button">
 Lonestar - Lonely Grill (1999-06-01)
@@ -141,6 +147,9 @@ Dierks Bentley - Modern Day Drifter (2005-05-10)
 <li data-cover="http://coverartarchive.org/release/4dec3817-f24f-4679-affd-9151761f59c2/6895436559-500.jpg" data-tags="country" role="button">
 Jason Aldean - Jason Aldean (2005-07-26)
 </li>
+<li data-cover="https://img.discogs.com/euPgMPOhkaUG4hkmQxHl-UUVdcI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528063-1333984291.jpeg.jpg" data-tags="country, cash" role="button">
+Johnny Cash - The Legend (2005-08-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d2355d2-963b-3bd8-8883-9b1dc8a08da8/21851390075-500.jpg" data-tags="country" role="button">
 Brad Paisley - Time Well Wasted (2005-08-16)
 </li>
@@ -155,9 +164,6 @@ Kenny Chesney - The Road and the Radio (2005-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a33b9822-9f09-4e19-9d6e-e05af85c727b/5228564975-500.jpg" data-tags="country" role="button">
 Carrie Underwood - Some Hearts (2005-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
-Jace Everett - Jace Everett (2005-11-22)
 </li>
 <li data-cover="https://img.discogs.com/FtULkQ6b0y6k9auEFqnrvhMRWsw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9814785-1587467828-8604.jpeg.jpg" data-tags="country" role="button">
 Johnny Cash - The Essential Johnny Cash (2006)
@@ -197,9 +203,6 @@ Keith Urban - Love, Pain & the whole crazy thing (2006-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
-Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/53c4847b-c398-4b45-bd9b-06ab0f70036e/9461802456-500.jpg" data-tags="country" role="button">
 Blake Shelton - Pure BS (2007-05-01)
@@ -254,9 +257,6 @@ Jason Aldean - Wide Open (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8b7e81c-cf6c-4cf5-bfed-71cece74d463/14961784503-500.jpg" data-tags="country" role="button">
 Justin Moore - Justin Moore (2009-08-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/875fafae-b1db-47c2-97e5-74d3783a02a6/8022941540-500.jpg" data-tags="country" role="button">
-Miranda Lambert - Revolution (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1bd5b2f-5194-4699-829d-f85233dce530/10144258124-500.jpg" data-tags="country" role="button">
 Tim McGraw - Southern Voice (2009-10-20)

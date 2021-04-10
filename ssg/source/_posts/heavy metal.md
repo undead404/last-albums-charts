@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:23:01.424Z
+date: 2021-04-10T08:22:01.670Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -186,6 +186,9 @@ Manowar - Louder Than Hell (1996-04-29)
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">
 Metallica - Load (1996-06-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/0235b824-f285-4f24-819d-e1ebdb686847/10879471570-500.jpg" data-tags="heavy metal" role="button">
+Iron Maiden - Best of the Beast (1996-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/7768fec2-abd5-43d7-9c43-19d9ffdb4ace/5032162083-500.jpg" data-tags="heavy metal, thrash metal" role="button">
 Megadeth - Cryptic Writings (1997-05-28)
 </li>
@@ -284,9 +287,6 @@ Five Finger Death Punch - War Is the Answer (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44f79f9-bfcf-4818-8fa5-702432de0ad1/9837113466-500.jpg" data-tags="grunge, hard rock" role="button">
 Alice in Chains - Black Gives Way to Blue (2009-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg" data-tags="metalcore, heavy metal" role="button">
-Bullet for My Valentine - Fever (2010-04-21)
 </li>
 <li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">
 Sabaton - Coat of Arms (2010-05-21)

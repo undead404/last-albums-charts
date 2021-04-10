@@ -1,8 +1,8 @@
 ---
-date: 2021-04-10T03:16:06.880Z
+date: 2021-04-10T08:01:01.626Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
-![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
+![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">Avenged Sevenfold - Waking The Fallen (2003-08-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, metal, thrash metal" role="button">Lamb of God - Ashes Of The Wake (2004-08-30)</li>
@@ -10,10 +10,10 @@ title: "metalcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">Avenged Sevenfold - City of Evil (2005-06-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Bullet for My Valentine - The Poison (2005-09-30)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Killswitch Engage - As Daylight Dies (2006-01-21)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, thrash metal" role="button">Lamb of God - Sacrament (2006-08-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">As I Lay Dying - An Ocean Between Us (2007-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
-<li data-cover="http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg" data-tags="metalcore, heavy metal" role="button">Bullet for My Valentine - Fever (2010-04-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -53,6 +53,9 @@ Lamb of God - As the Palaces Burn (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/be477226-1f7e-4bd5-89d6-09232bad1427/944238133-500.jpg" data-tags="metalcore" role="button">
 As I Lay Dying - Frail Words Collapse (2003-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Hot Damn! (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Waking The Fallen (2003-08-26)
@@ -159,6 +162,9 @@ The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, thrash metal" role="button">
 Lamb of God - Sacrament (2006-08-22)
 </li>
+<li data-cover="https://img.discogs.com/0FXAaNOwwuczwJ789zuZ8kalrAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297951-1613600745-7894.jpeg.jpg" data-tags="metalcore" role="button">
+Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
@@ -252,9 +258,6 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a95a890f-c2be-4edd-b98e-f86421d63dab/7888128153-500.jpg" data-tags="metalcore, pop metal, modern metal" role="button">
-Dead by April - Dead by April (2009-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Constellations (2009-07-14)
 </li>
@@ -269,9 +272,6 @@ Converge - Axe to Fall (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/810fcd2b-03d9-4d5f-95a2-76923a17e29e/6822132066-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Congregation of the Damned (2009-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg" data-tags="metalcore, heavy metal" role="button">
-Bullet for My Valentine - Fever (2010-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/edd79f3d-5f9e-423b-8bce-2ae37022b7c0/4226165962-500.jpg" data-tags="metalcore" role="button">
 As I Lay Dying - The Powerless Rise (2010-05-11)

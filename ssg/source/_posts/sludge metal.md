@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:28:01.481Z
+date: 2021-04-10T08:17:01.441Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -63,6 +63,9 @@ Down - NOLA (1995-09-15)
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
 </li>
+<li data-cover="https://img.discogs.com/CbRu4OlLfO4zsZQx8b-g1x2O_jg=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816167-1163471329.jpeg.jpg" data-tags="emo, noise rock, doom metal, doom, sludge metal, get the fuck away from me now" role="button">
+Harvey Milk - Courtesy And Good Will Toward Men (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
 </li>
@@ -74,6 +77,9 @@ Crowbar - Broken Glass (1996-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0c61daa-9d43-4c54-a65e-825a49613238/7740798604-500.jpg" data-tags="sludge, sludge metal, doom metal" role="button">
+Iron Monkey - Iron Monkey (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
 Crowbar - Odd Fellows Rest (1998-07-06)
@@ -144,14 +150,8 @@ Amenra - Mass III (2005-05)
 <li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
-Boris - Pink (2005-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/14c4ccd6-18df-4739-9ac1-d6ad00969d68/27820983490-500.jpg" data-tags="sludge, metal, progressive metal" role="button">
 The Ocean - Aeolian (2005-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/9cd95866-c534-4263-8239-5e629ab9d448/4472000578-500.jpg" data-tags="progressive metal" role="button">
-Mastodon - Call of the Mastodon (2006-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d105b15-896b-40f4-861d-27e63dfcf960/16250901067-500.jpg" data-tags="stoner metal, stoner rock" role="button">
 The Sword - Age of Winters (2006-02-14)
@@ -197,9 +197,6 @@ Dystopia - Dystopia (2008-02-10)
 </li>
 <li data-cover="https://img.discogs.com/-o7eSRB_col5tPuplGajkYAzoOc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721873-1271453714.jpeg.jpg" data-tags="sludge metal, metalcore, metal, hardcore" role="button">
 Kingdom of Sorrow - Kingdom of Sorrow (2008-02-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Torche - Meanderthal (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
 Cancer Bats - Hail Destroyer (2008-04-21)
@@ -260,6 +257,9 @@ The Ocean - Anthropocentric (2010-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5fb82fe-17ee-44fb-ba14-6edd516b94e3/1505255440-500.jpg" data-tags="sludge" role="button">
+Crowbar - Sever The Wicked Hand (2011-02-08)
 </li>
 <li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">
 Light Bearer - Lapsus (2011-03-23)

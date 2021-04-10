@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:34:01.432Z
+date: 2021-04-10T08:02:01.506Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -69,9 +69,6 @@ Savage Garden - Savage Garden (1997-03-24)
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ec72844-4b9b-4e5e-9441-3ae7570386b4/18283995835-500.jpg" data-tags="punk rock, australian, punkabilly" role="button">
-The Living End - The Living End (1998-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
 </li>
@@ -80,9 +77,6 @@ Savage Garden - Affirmation (2000-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/49e0129a-3401-3850-9c5b-27646356b106/2425079924-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Stiff Upper Lip (2000-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/acacc842-6066-4b8b-83b4-b378509a82c9/14132799564-500.jpg" data-tags="chillout, electronic, trip-hop, 80s, alternative, dance, australian, funk, turntablism, whimsical, 00s, aussie, bootleg, fake, summery, soothing, rusbeh" role="button">
-The Avalanches - When I Met You (2000-07)
 </li>
 <li data-cover="https://img.discogs.com/ACdDBfOmzhFhtqqk19ZxAy_n6-c=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1308402-1555946464-7528.jpeg.jpg" data-tags="rock, australian rock, powderfinger" role="button">
 Powderfinger - Odyssey Number Five (2000-09-04)
@@ -137,6 +131,9 @@ The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef2b7550-bb44-4289-9088-4daa37593f10/20024492143-500.jpg" data-tags="rock, australian" role="button">
 End of Fashion - End of Fashion (2005-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/fbe00d72-57d2-48e3-a736-ca533797a93b/17355643616-500.jpg" data-tags="pop" role="button">
+Missy Higgins - The Sound Of White (2005-08-25)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
@@ -207,9 +204,6 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
-<li data-cover="https://img.discogs.com/cQ-BI3c-jqD0z2VUvu9SO_iGIms=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1347767-1211653653.jpeg.jpg" data-tags="electronic" role="button">
-The Presets - Apocalypso (2008-04-12)
-</li>
 <li data-cover="https://img.discogs.com/FEQN95Zhrj2P1AbzV-25QcLbtig=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6129122-1445205253-2692.jpeg.jpg" data-tags="indie, singer-songwriter, australian" role="button">
 Josh Pyke - Chimney's Afire (2008-10-03)
 </li>
@@ -239,6 +233,9 @@ Sick Puppies - Tri-Polar (2009-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0859310-5eee-40dc-88ac-9cd761f91d49/6576902413-500.jpg" data-tags="trance, electronic, dance, australian, house" role="button">
 Bag Raiders - Shooting Stars (2009-08-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
+Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
@@ -293,6 +290,9 @@ Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b4f633e-b865-4534-a642-817c575ec44b/5407871094-500.jpg" data-tags="electropop, pop, dance, australian, epic, dance-pop, female vocalist, 10s, music, warrior, havana brown, ba bing" role="button">
+Havana Brown - Flashing Lights (2013-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/87efb798-d326-49e9-9905-65f9bfb45f44/7339492732-500.jpg" data-tags="australian" role="button">
 Violent Soho - Hungry Ghost (2013-09-06)

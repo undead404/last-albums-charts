@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:25:01.393Z
+date: 2021-04-10T07:50:01.476Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -116,9 +116,6 @@ Alien Ant Farm - Anthology (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f38a8e29-3c4f-438b-809d-afd2ac0b603b/16490273372-500.jpg" data-tags="nu metal, hard rock" role="button">
 Saliva - Every Six Seconds (2001-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
-Staind - Break the Cycle (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/57d61f02-3923-4e3f-8ea0-af878ffa6086/4993807159-500.jpg" data-tags="industrial metal" role="button">
 Static-X - Machine (2001-05-22)
@@ -311,6 +308,9 @@ Limp Bizkit - Gold Cobra (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
 Linkin Park - Living Things (2012-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
+In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f44d182-e925-448b-98b7-a525314079a0/7969942055-500.jpg" data-tags="nu metal" role="button">
 Korn - The Paradigm Shift (2013-10-04)
