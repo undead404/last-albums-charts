@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:31:06.880Z
+date: 2021-04-10T17:07:01.413Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -21,23 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/220dcfbf-f68c-3080-8966-1231debed51a/1121541209-500.jpg" data-tags="ambient, krautrock, progressive electronic, electronic" role="button">
-Ashra - New Age Of Earth (1976)
-</li>
 <li data-cover="http://coverartarchive.org/release/3eed1de9-3977-44cc-8e76-f442676698c9/19003555871-500.jpg" data-tags="electronic" role="button">
 Klaus Schulze - Moondawn (1976-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e279fc4-0c80-332c-aae0-941d114b0fed/1270665099-500.jpg" data-tags="electronic" role="button">
 Jean Michel Jarre - Equinoxe (1978-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/7adfa5f8-46ed-465a-bd64-d29a347dcaff/23936760412-500.jpg" data-tags="electronic, 70s, 80s, ambient, future" role="button">
-Jean Michel Jarre - Magnetic Fields (1981-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
 Bronski Beat - The Age of Consent (1984)
 </li>
 <li data-cover="https://img.discogs.com/v4UGajqzHWsZSyHZGbTqJ0wFlQo=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13876365-1563109546-8393.jpeg.jpg" data-tags="electronic" role="button">
 Jean Michel Jarre - Zoolook (1984)
+</li>
+<li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
+Depeche Mode - Personal Jesus (1989-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d81eed84-88b5-4a32-95ca-4d858c38b16a/4665702075-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Millennium Fever (1994-11-17)
@@ -65,6 +62,9 @@ Soulwax - Much Against Everyone's Advice (1999-03-15)
 </li>
 <li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
+</li>
+<li data-cover="https://img.discogs.com/443Me-UfWvk1u3SM4XP8f40zJ-g=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067267-1606252540-9592.jpeg.jpg" data-tags="italian" role="button">
+Subsonica - Microchip Emozionale (1999-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/33f0bb8d-c07f-406e-9146-a786f258e569/8345837686-500.jpg" data-tags="electronic, rock, alternative rock, soft rock, electronic rock" role="button">
 Nosowska - Sushi (2000-05-15)
@@ -129,9 +129,6 @@ Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">
-Pendulum - In Silico (2008-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
@@ -144,11 +141,20 @@ Celldweller - Soundtrack For The Voices In My Head, Vol. 01 (2008-10-16)
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">
 Kevin Rudolf - In The City (2008-11-24)
 </li>
+<li data-cover="https://img.discogs.com/eBjlrPWpv-NLJ4p89IdNXafbUJ8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193238-1272728551.jpeg.jpg" data-tags="indie rock, chiptune, electronic rock, nes-rock" role="button">
+I Fight Dragons - Cool Is Just A Number (2009-02-06)
+</li>
+<li data-cover="https://img.discogs.com/--Waz9y-p3BIi5g9nZG1egGA1iM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407281-1440370129-6345.jpeg.jpg" data-tags="electronic" role="button">
+Yeah Yeah Yeahs - Zero (2009-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/9376a0eb-85cc-490c-bac5-27d234082c13/26623138612-500.jpg" data-tags="electronic, rock, electronic rock, synth rock" role="button">
 I Will Never Be The Same - Standby (2009-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2a17662-ed52-436f-81f3-358c289104fa/15021205186-500.jpg" data-tags="funk rock, electronic rock" role="button">
 Shaka Ponk - Bad Porn Movie Trax (2009-05-25)
+</li>
+<li data-cover="https://img.discogs.com/VEH-venpOnoNeugFgxNsFF93fAw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1840864-1247067954.jpeg.jpg" data-tags="electronic, alternative, experimental, experimental rock, electronic rock, alt. rock" role="button">
+Derek Webb - Stockholm Syndrome (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
@@ -156,20 +162,14 @@ Breathe Carolina - Hello Fascination (2009-08-18)
 <li data-cover="http://coverartarchive.org/release/f1c777b5-712d-4134-a5fc-ce50181a2dbe/4226151140-500.jpg" data-tags="industrial, industrial rock, industrial metal, electronic rock" role="button">
 The Luna Sequence - They Follow You Home (2009-08-25)
 </li>
-<li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
-The Big Pink - A Brief History of Love (2009-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/36ad94a0-82f6-3eec-9fe6-209567941044/4945792946-500.jpg" data-tags="synthpop, electropop, new wave" role="button">
-Dragonette - Fixin to Thrill (2009-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/fad2af28-b836-4304-82aa-1cfdd3626588/8298746171-500.jpg" data-tags="alternative rock, rock" role="button">
 Dead By Sunrise - Out of Ashes (2009-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
-Angels & Airwaves - LOVE (2010-02-14)
+<li data-cover="https://img.discogs.com/fPRaFPdnrNcEuhIZkSVlDnlhiEc=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442497-1451244676-2555.jpeg.jpg" data-tags="rock, humanoid, german, tokio hotel" role="button">
+Tokio Hotel - Humanoid (2009-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/efaa53a7-4c07-4441-80b1-06f402ec5f7d/3566590122-500.jpg" data-tags="drum and bass" role="button">
-The Qemists - Spirit In The System (2010-07-07)
+<li data-cover="http://coverartarchive.org/release/f66518b0-c5d3-4643-bf63-e1ac257c3131/13140342040-500.jpg" data-tags="imagine dragons" role="button">
+Imagine Dragons - Hell and Silence (2010-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2074cb6-a185-4bfd-86de-decf013117d3/3194850526-500.jpg" data-tags="synthpop, electronic rock" role="button">
 Linkin Park - The Catalyst (2010-08-02)
@@ -225,8 +225,8 @@ I Fight Dragons - KABOOM! (2011-10-24)
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
 </li>
-<li data-cover="https://img.discogs.com/j75Xz87F9JNmAfcRod_agzSdvDI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523946-1432282788-6738.jpeg.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
-The Big Pink - Future This (2012-01-16)
+<li data-cover="https://img.discogs.com/uFSSM5NNiwabWvmXZimpTwyjLkg=/fit-in/488x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-80637-1363860266-6734.jpeg.jpg" data-tags="electronic, electronic rock" role="button">
+Apollo 440 - The Future's What It Used To Be (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
@@ -258,9 +258,6 @@ Serj Tankian - Harakiri (2012-07-02)
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
@@ -269,6 +266,9 @@ Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b2426c4-bf0b-48bc-9a73-160f42c1003f/2859176153-500.jpg" data-tags="electronic, dubstep, industrial, industrial rock, electronic rock" role="button">
 Blue Stahli - Antisleep Vol. 03 (2012-12-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
+Modestep - Evolution Theory (2013-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Bastille - All This Bad Blood (2013-03-04)

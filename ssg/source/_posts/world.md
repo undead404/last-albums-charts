@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:45:01.616Z
+date: 2021-04-10T17:38:07.030Z
 title: "world: 100 albums you must listen to before you die"
 ---
 ![Beirut - Elephant Gun (2007-06-25)](http://coverartarchive.org/release/c3085de3-262f-360f-84bd-e007c682f043/9700126803-500.jpg "Beirut - Elephant Gun (2007-06-25)")
@@ -8,10 +8,10 @@ title: "world: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7a1234c0-0c18-3394-bbe1-1204f616bec2/1270264448-500.jpg" data-tags="new age, world" role="button">Deep Forest - Boheme (1995-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">Buena Vista Social Club - Buena Vista Social Club (1997-06-23)</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">Manu Chao - Clandestino (1998-04-30)</li>
-<li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">Tribalistas - Tribalistas (2002-12-17)</li>
 <li data-cover="https://img.discogs.com/CYWXnnOLgzBU6l5Xxflmh3bL9cw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5084192-1384054235-2279.jpeg.jpg" data-tags="chillout, world" role="button">Oi Va Voi - Laughter Through Tears (2003-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/34ba7cab-c28a-3357-a4d7-66364636aed6/28641510966-500.jpg" data-tags="world, african, mali" role="button">Amadou & Mariam - Dimanche à Bamako (2004-08-02)</li>
 <li data-cover="https://img.discogs.com/CCbLKSKMPiCItOSdW4FcJgScE7g=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1045187-1547224644-3910.jpeg.jpg" data-tags="world, african, tuareg" role="button">Tinariwen - Aman Iman: Water Is Life (2006)</li>
+<li data-cover="http://coverartarchive.org/release/5cfb1f76-e542-4acf-875c-91d4af82d09e/4729456852-500.jpg" data-tags="world music, ethnic, world" role="button">Azam Ali - Elysium For The Brave (2006-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/c3085de3-262f-360f-84bd-e007c682f043/9700126803-500.jpg" data-tags="indie" role="button">Beirut - Elephant Gun (2007-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 </ol>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e436d0c0-008b-3656-b7db-a8d228352f0d/7498580143-500.jpg" data-tags="african, africa" role="button">
-Miriam Makeba - Pata Pata (1967)
-</li>
 <li data-cover="https://img.discogs.com/JAXVUtTvxQ4GvDKfQe1tV1LuSdA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437138-1266588444.jpeg.jpg" data-tags="80s, folk" role="button">
 Paul Simon - Graceland (1986-08-29)
 </li>
@@ -33,20 +30,11 @@ Zakir Hussain - Making Music (1987)
 <li data-cover="http://coverartarchive.org/release/a2d7aafd-96bc-3727-babd-440bab8a11c4/10012177305-500.jpg" data-tags="world, african" role="button">
 Geoffrey Oryema - Exile (1990)
 </li>
-<li data-cover="http://coverartarchive.org/release/a26525c0-2850-4516-bbad-86b68af68f44/13185028506-500.jpg" data-tags="contemporary classical, ravi shankar, philip glass" role="button">
-Ravi Shankar and Philip Glass - Passages (1990-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
-Dead Can Dance - Aion (1990-07-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
-Dead Can Dance - A Passage in Time (1991-10-21)
+<li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
+Loreena McKennitt - The Visit (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
-</li>
-<li data-cover="https://img.discogs.com/jCbkvkqQAP3I1LYRZT0ibau7IPE=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628098-1140489609.jpeg.jpg" data-tags="jazz, world, world music, oriental" role="button">
-Anouar Brahem - Conte De L'Incroyable Amour (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/554f927e-e45b-4ae0-9b5f-37301f05a5ce/1270310275-500.jpg" data-tags="electronic, world, ambient" role="button">
 Deep Forest - Sweet Lullaby (1992)
@@ -56,6 +44,9 @@ Deep Forest - Deep Forest (1992-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a21f909e-d675-4302-a143-2914bf3285a3/13600689975-500.jpg" data-tags="world" role="button">
 Ali Farka Touré - The Source (1992-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/640645f8-7eb2-4d06-8136-7d68d73b4fa5/7138791862-500.jpg" data-tags="african, world music" role="button">
+Ayub Ogada - En Mana Kuoyo (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba8bf2f1-162f-4761-9a5c-5c7a46cebc41/5647298054-500.jpg" data-tags="tango, tango nuevo" role="button">
 Astor Piazzolla - Libertango (1993)
@@ -69,17 +60,23 @@ Strunz & Farah - Heat of the Sun (1995)
 <li data-cover="http://coverartarchive.org/release/e7b9bda4-8a40-45cd-b624-1a689c6cd01e/10900710681-500.jpg" data-tags="africa, world" role="button">
 Habib Koité & Bamada - Muso Ko (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/7677b6b3-b1a9-3285-bb88-f1d962baced8/10364484101-500.jpg" data-tags="world:beats, electronic, ambient" role="button">
+Banco De Gaia - Last Train To Lhasa (1995-05-01)
+</li>
+<li data-cover="https://img.discogs.com/oTZiPKzaun9j06n3POu0whGyd1Y=/fit-in/410x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6061582-1410080043-3869.jpeg.jpg" data-tags="pop, divas, world" role="button">
+Edyta Górniak - Dotyk (1995-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
 Adiemus - Songs of Sanctuary (1995-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a1234c0-0c18-3394-bbe1-1204f616bec2/1270264448-500.jpg" data-tags="new age, world" role="button">
 Deep Forest - Boheme (1995-06-08)
 </li>
+<li data-cover="https://img.discogs.com/hhUC5MuJ4ResnSGsifa3drRdZZc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4722373-1416128909-5697.jpeg.jpg" data-tags="african" role="button">
+Ismaël Lô - Jammu Africa (1996)
+</li>
 <li data-cover="https://img.discogs.com/A9OPBaulkO3l_8JFMEF6E09Anlg=/fit-in/544x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7494740-1442650980-1048.jpeg.jpg" data-tags="pop, world, pausini" role="button">
 Laura Pausini - Le cose che vivi (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
-Dead Can Dance - Spiritchaser (1996-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6025a2f5-91b2-4a23-b314-9ef6c75daffe/25855299022-500.jpg" data-tags="lhasa, spanish, female vocalists, latin" role="button">
 Lhasa - La Llorona (1997-02)
@@ -105,20 +102,29 @@ Manu Chao - Clandestino (1998-04-30)
 <li data-cover="http://coverartarchive.org/release/57fb762d-b2ab-4950-8436-87255c4cb262/18785043977-500.jpg" data-tags="world, african" role="button">
 Baaba Maal - Nomad Soul (1998-07-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indian, ghazal, world music" role="button">
+Ghazal - As Night Falls On The Silk Road (1998-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d255979-2c83-4e1f-91d2-7d7b3faf0a9f/11408081526-500.jpg" data-tags="80s, world, latin, 90s, african, female vocalist, compilation, cape verdean, coladeira, moma" role="button">
+Cesária Évora - Best Of (1998-10-19)
+</li>
 <li data-cover="https://img.discogs.com/yBBzuEPP2qnV1ahJGaZcfyrpN58=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102636-1367825347-6488.jpeg.jpg" data-tags="world, afrobeat, african" role="button">
 Femi Kuti - Shoki Shoki (1998-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/dba2993e-4530-483c-a173-1d6704264472/2720958236-500.jpg" data-tags="latin, cuba" role="button">
 Compay Segundo - Cien Años de Son (1999-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f5ae74b-e47d-4e44-9a22-544c280b470d/6135574852-500.jpg" data-tags="african, world" role="button">
-Ali Farka Touré - Niafunke (1999-06-21)
-</li>
-<li data-cover="https://img.discogs.com/7weuNBvhQq1kasHoK8Qkey0wnpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7996-1214076463.jpeg.jpg" data-tags="chillout, downtempo" role="button">
-Nitin Sawhney - Beyond Skin (1999-09-13)
+<li data-cover="https://img.discogs.com/QMnlIBmPrtjG3PcNoSUWhzFW35w=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5727-1165445829.jpeg.jpg" data-tags="electronic, downtempo, world, acid jazz, idm, future jazz, space age pop, hi-tech, jazz favorites, brisk sound, robertitus global, barturismooth" role="button">
+Flanger - Templates (1999-06-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Global Spirit (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/9133ee05-ba79-4d1e-9137-2aeb1ca4767b/3134702383-500.jpg" data-tags="instrumental, ambient, world, world fusion, persian, world music: persian, world tribal" role="button">
+Axiom Of Choice - Niya Yesh (2000)
+</li>
+<li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
+múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b817449b-f665-4af2-b873-6530ba852413/3460026167-500.jpg" data-tags="female vocalists, world, world music, precious beyond description" role="button">
 Vas - In The Garden Of Souls (2000-05-09)
@@ -126,8 +132,8 @@ Vas - In The Garden Of Souls (2000-05-09)
 <li data-cover="http://coverartarchive.org/release/e6fef40a-3880-486b-a67c-c6266dd4b7a2/6732774459-500.jpg" data-tags="tabla" role="button">
 Tabla Beat Science - Tala Matrix (2000-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/1adf6e49-e74c-444f-b005-af3dd69757e1/10496581130-500.jpg" data-tags="cassia, mpb" role="button">
-Cássia Eller - Acústico MTV (2001)
+<li data-cover="http://coverartarchive.org/release/46f09fb1-b71b-43e3-9bd6-41d87560e3c1/2910674682-500.jpg" data-tags="folk, world, gypsy, egeszsegedre, jewish gypsy fiddler, thisworldly" role="button">
+Besh O Drom - Macsó hímzés (2000-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3a23b98-cd07-407b-8602-dc5356340412/6951984618-500.jpg" data-tags="jazz, sufi, world" role="button">
 Dhafer Youssef - Electric Sufi (2001)
@@ -141,9 +147,6 @@ Habib Koité & Bamada - Baro (2001-07-24)
 <li data-cover="http://coverartarchive.org/release/6018533d-2cc6-42e4-9a10-fab945f8c5fe/4412087433-500.jpg" data-tags="ukulele, iz" role="button">
 Israel Kamakawiwo'ole - Alone In IZ World (2001-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/a882962a-d989-4d2d-ab03-7a9da0385a1b/10902191890-500.jpg" data-tags="india, electronic" role="button">
-Karsh Kale - Realize (2001-07-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/d605cb38-597b-4541-9fe9-b8ec36f43623/12661462325-500.jpg" data-tags="female vocalists" role="button">
 Susheela Raman - Salt Rain (2001-08-05)
 </li>
@@ -153,17 +156,23 @@ Hagalaz' Runedance - Frigga's Web (2002)
 <li data-cover="https://via.placeholder.com/450" data-tags="african" role="button">
 Angélique Kidjo - Black Ivory Soul (2002-04-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/73118fa8-cfc8-41ba-8602-3b15360abe73/5457890886-500.jpg" data-tags="world, mali" role="button">
+Issa Bagayogo - Timbuktu (2002-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/65aaedc6-c698-4a45-9291-be5680bea6bf/6599717820-500.jpg" data-tags="electronic, new age" role="button">
 Deep Forest - Music Detected (2002-07-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/2509bae1-6cb6-46c4-b292-2d6ce6dfc437/14225573111-500.jpg" data-tags="jazz, arabic" role="button">
+Anouar Brahem - Le Pas Du Chat Noir (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/767a2b39-a080-3bff-9b79-e566392934ef/19914955423-500.jpg" data-tags="senegal" role="button">
 Orchestra Baobab - Specialist in All Styles (2002-09-23)
 </li>
-<li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
-Tribalistas - Tribalistas (2002-12-17)
+<li data-cover="https://via.placeholder.com/450" data-tags="mali, world, african, blues" role="button">
+Boubacar Traoré - The Best Of Boubacar Traoré (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c51d061-6a91-438f-925d-35e499d23a49/17933370289-500.jpg" data-tags="electronic, dub" role="button">
-Asian Dub Foundation - Enemy Of The Enemy (2003-02-03)
+<li data-cover="https://img.discogs.com/2PrdEyGgSxJKur3Mg0AoGrOsHzI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3006678-1540282351-4328.jpeg.jpg" data-tags="world" role="button">
+Susheela Raman - Love Trap (2003-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cecb3113-768b-4d15-b55c-e6dc68e959e3/20751703403-500.jpg" data-tags="folk" role="button">
 Iron & Wine - The Sea & the Rhythm (2003-09-09)
@@ -183,17 +192,23 @@ Konono Nº1 - Congotronics (2004)
 <li data-cover="http://coverartarchive.org/release/959ca073-1333-4247-8bfb-bab76eaeb617/16424997573-500.jpg" data-tags="jazz, folk, experimental, world, world music, balkan" role="button">
 Besh O Drom - Gyí! (2004)
 </li>
+<li data-cover="https://img.discogs.com/fajqnmSboH-Dm-dT9cZpjikmiY8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8014708-1465077605-1681.jpeg.jpg" data-tags="electronic, world, world fusion, ambient, ambient dub" role="button">
+Transglobal Underground - Impossible Broadcasting (2004)
+</li>
+<li data-cover="https://img.discogs.com/uHbeU2Oii_xPHRDqgC6hm4rLLnU=/fit-in/398x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2522020-1288603736.jpeg.jpg" data-tags="alternative, world, ska, turkish" role="button">
+Athena - Us (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/3fb4021f-345e-4688-bc3a-126e30bdfb59/21574217184-500.jpg" data-tags="world music, ethereal, new age" role="button">
 Vas - Feast Of Silence (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/34ba7cab-c28a-3357-a4d7-66364636aed6/28641510966-500.jpg" data-tags="world, african, mali" role="button">
 Amadou & Mariam - Dimanche à Bamako (2004-08-02)
 </li>
-<li data-cover="https://img.discogs.com/eM5IGpVRHZ6wHbSnRbHArjokR1o=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1105245-1524299160-8217.jpeg.jpg" data-tags="punk rock" role="button">
-Street Dogs - Back to the World (2005-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4a6ef09-5b44-47da-965f-fb36774d48ca/3651521402-500.jpg" data-tags="world, persian" role="button">
 Niyaz - Niyaz (2005-04-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="africa" role="button">
+Ali Farka Touré & Toumani Diabaté - In The Heart Of The Moon (2005-06-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sitar" role="button">
 Anoushka Shankar - Rise (2005-09-25)
@@ -206,6 +221,9 @@ Voo Voo - 21 (2006)
 </li>
 <li data-cover="https://img.discogs.com/CCbLKSKMPiCItOSdW4FcJgScE7g=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1045187-1547224644-3910.jpeg.jpg" data-tags="world, african, tuareg" role="button">
 Tinariwen - Aman Iman: Water Is Life (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/82d04d9a-37f3-44ec-9283-74c5456eb248/4891081441-500.jpg" data-tags="jazz, world music" role="button">
+Anouar Brahem - Le Voyage De Sahar (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="africa, cape verdean" role="button">
 Mayra Andrade - Navega (2006)
@@ -222,14 +240,17 @@ Toumani Diabaté's Symmetric Orchestra - Boulevard de l'Indépendance (2006-03-2
 <li data-cover="http://coverartarchive.org/release/9be57431-4d7d-4e00-85c3-3c834de56bb9/5613378360-500.jpg" data-tags="african" role="button">
 Ali Farka Touré - Savane (2006-07-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/298b2b1e-d3cf-4dec-be0b-1803064a093f/8915966727-500.jpg" data-tags="irish, celtic rock" role="button">
+Gaelic Storm - Bring Yer Wellies (2006-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/5cfb1f76-e542-4acf-875c-91d4af82d09e/4729456852-500.jpg" data-tags="world music, ethnic, world" role="button">
 Azam Ali - Elysium For The Brave (2006-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/1070b694-f9ec-43a6-becd-b66c9e5f5f5d/13986814706-500.jpg" data-tags="world, mali" role="button">
+Habib Koité & Bamada - Afriki (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/7dc3d8cb-900a-4816-9985-14be12cf989a/4421812716-500.jpg" data-tags="acoustic" role="button">
 Justin Nozuka - Holly (2007)
-</li>
-<li data-cover="https://img.discogs.com/_UuJPD-kMkkxSzVZJjQEOie3MM0=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12534406-1537134754-1202.jpeg.jpg" data-tags="pop en espanol" role="button">
-Miguel Bosé - Papito (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d06a3f4-3c76-4209-96c4-8e17c78c6cf1/22131577988-500.jpg" data-tags="nu metal" role="button">
 Linkin Park - What I've Done (2007-04-02)
@@ -243,9 +264,6 @@ Beirut - Elephant Gun (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/17faa726-53f0-3187-b91d-efd9027bb0a8/4637163920-500.jpg" data-tags="balkan" role="button">
 Shantel - Disko Partizani (2007-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b6191a0-de0b-3f4f-877a-92b33d8d9be5/15452057678-500.jpg" data-tags="jazz" role="button">
-Joni Mitchell - Shine (2007-09-24)
-</li>
 <li data-cover="https://img.discogs.com/skw-66OWvedyb74HG5b5kMebHQo=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121715-1489917459-1240.jpeg.jpg" data-tags="world, african" role="button">
 Orchestra Baobab - Made in Dakar (2007-10-15)
 </li>
@@ -258,14 +276,11 @@ Firewater - The Golden Hour (2008-04-04)
 <li data-cover="http://coverartarchive.org/release/7aa8f878-1ca8-4550-b273-042a397c69a2/24391938485-500.jpg" data-tags="reggae, rock" role="button">
 Michael Franti & Spearhead - All Rebel Rockers (2008-07-02)
 </li>
-<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
-Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
-</li>
 <li data-cover="https://img.discogs.com/NBtcWOyn3LeZEvP3-j5KdET3Ag0=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1705495-1575570138-4710.jpeg.jpg" data-tags="mali" role="button">
 Amadou & Mariam - Welcome to Mali (2008-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/1fa3e5de-3aee-445f-94de-20d51796816f/21676034251-500.jpg" data-tags="reggae, dub, electro, world, norteño, aj playlist" role="button">
+Bomba Estéreo - Blow Up (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/b945c87e-25be-4968-b28e-36a3079209d6/2569874889-500.jpg" data-tags="reggae, world, colombia, one world" role="button">
 Bomba Estéreo - Estalla (2009)
@@ -279,17 +294,14 @@ Playing For Change - Songs Around The World (2009-04-28)
 <li data-cover="https://img.discogs.com/o8kN2TuGEkjV7lgF8fja6vmUHvU=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1895573-1250785447.jpeg.jpg" data-tags="world, klezmer" role="button">
 Oi Va Voi - Travelling the Face of the Globe (2009-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/34f60ad7-1d10-4573-8e56-1674ea78310c/24557608344-500.jpg" data-tags="mpb" role="button">
-Céu - Vagarosa (2009-07-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
 Justin Bieber - My World (2009-11-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7271825-c1a8-42e4-a864-b958192d55c4/4506961275-500.jpg" data-tags="alternative dance" role="button">
+Balkan Beat Box - Blue Eyed Black Boy (2010-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a31c3a3-f69d-4a16-9267-b5d072615f55/22109056565-500.jpg" data-tags="post-rock" role="button">
 The World Is a Beautiful Place & I Am No Longer Afraid to Die - Formlessness (2010-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/83dfa146-08ce-47e3-954e-e30344926373/4483429550-500.jpg" data-tags="chillout, trip-hop, world, cello, world music, big chill, lo-fi beat, good in 2011, entropik" role="button">
-Ancient Astronauts - Into Bass and Time (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c763b64-12d2-4c61-9d4b-11eb06c2138d/13215984516-500.jpg" data-tags="indie, folk" role="button">
 Beirut - The Rip Tide (2011-08-02)
@@ -297,26 +309,14 @@ Beirut - The Rip Tide (2011-08-02)
 <li data-cover="http://coverartarchive.org/release/bdeb4647-5774-429a-88e3-da375cb540e1/8258911638-500.jpg" data-tags="classical, instrumental, epic, world, new age, symphonic metal, neo-classical rock, album to check again" role="button">
 Globus - Break From This World (2011-08-26)
 </li>
-<li data-cover="https://img.discogs.com/2Q2uyR6MeY09UOYicMOrErDKrA8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9179624-1476173102-9219.jpeg.jpg" data-tags="spanish, latin, pop, rock, female vocalists" role="button">
-Shakira - Live From Paris (2011-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/01ec1e8a-62c5-48fd-8e4f-6c9927e8bde0/6819373908-500.jpg" data-tags="k-pop" role="button">
-SISTAR - Alone (2012-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6429edc-3a9e-4623-a34b-2fb041a3ce98/1675010192-500.jpg" data-tags="world, dep, fm, az, enea agolli" role="button">
 Khaled - C'Est La Vie (2012-07-09)
 </li>
 <li data-cover="https://img.discogs.com/Xd89B7vAbeXdJFsEnBio3wCG__I=/fit-in/492x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3954491-1369233082-6418.jpeg.jpg" data-tags="psychedelic rock, psychedelic, sweden, afro-beat" role="button">
 Goat - World Music (2012-08-20)
-</li>
-<li data-cover="https://img.discogs.com/mwUdD0umW19LiiTb6ATvlWK2sLg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4465769-1369906271-5744.jpeg.jpg" data-tags="world, blues, guitar, african, psychedelic rock, nashville, alt rock, country blues, rhythm & blues, my gang 13, delta country blues" role="button">
-Bombino - Nomad (2013-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/88a01b41-c836-47dc-a71a-6bdc2651cd77/5638889910-500.jpg" data-tags="electronic" role="button">
-M.I.A. - Matangi (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/48a36cde-f6a9-4ef5-ae36-8236f910cf7c/9108150553-500.jpg" data-tags="world, anton newcombe, deathgaze, jason aldean" role="button">
 Jason Aldean - Burnin' It Down (2014-07-22)

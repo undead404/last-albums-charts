@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:03:01.462Z
+date: 2021-04-10T17:12:06.991Z
 title: "russian rock: 100 albums you must listen to before you die"
 ---
 ![Сплин - Гранатовый альбом (1998)](https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg "Сплин - Гранатовый альбом (1998)")
@@ -30,9 +30,6 @@ _________________
 <li data-cover="https://img.discogs.com/strtilJSiXOkfhnzPtmFzqz-ECo=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4359117-1362763051-9248.jpeg.jpg" data-tags="russian, russian rock" role="button">
 Аквариум - Десять стрел (1986)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca391767-e23f-4412-8799-038f61f6408c/7047446915-500.jpg" data-tags="post-punk, new wave, russian rock" role="button">
-Кино - Ночь (1986)
-</li>
 <li data-cover="https://img.discogs.com/oUDMukNxLs1rJfJI-FNy8eGRZXM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6849577-1446741517-4774.jpeg.jpg" data-tags="heavy metal" role="button">
 Ария - С кем ты? (1986-11)
 </li>
@@ -42,20 +39,11 @@ _________________
 <li data-cover="https://img.discogs.com/oUDMukNxLs1rJfJI-FNy8eGRZXM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6849577-1446741517-4774.jpeg.jpg" data-tags="heavy metal" role="button">
 Ария - Герой асфальта (1987-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2439a2d-2e72-4e5a-957f-afc676e03139/24846255082-500.jpg" data-tags="punk, post-punk, punk rock, russian rock" role="button">
-Гражданская оборона - Всё идёт по плану (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5352ccb-e912-4d8c-b42f-8393ca617d73/19213504783-500.jpg" data-tags="post-punk" role="button">
-Кино - Группа крови (1988)
-</li>
 <li data-cover="https://img.discogs.com/d0oolr3BFqouY4yHt_XsK2gyRr8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1799812-1298449236.jpeg.jpg" data-tags="russian rock" role="button">
 Егор Летов - Вершки и корешки (1989)
 </li>
 <li data-cover="https://img.discogs.com/KRAsF06OwWq8BQJ_h4tPqnfqoWU=/fit-in/394x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7174417-1435394577-3151.png.jpg" data-tags="russian rock" role="button">
 Кино - Звезда по имени Солнце (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e85c1d8-62ca-4be3-b973-44213138eff5/17682891915-500.jpg" data-tags="post-punk" role="button">
-Nautilus Pompilius - Князь тишины (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe7ce7e4-336d-45eb-8256-fca43c85b8d3/18417620964-500.jpg" data-tags="hard rock" role="button">
 Gorky Park - Gorky Park (1989-08-14)
@@ -87,11 +75,11 @@ Nautilus Pompilius - Чужая Земля (1991)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 Nautilus Pompilius - Титаник (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/613c7748-ede2-4006-b202-d6998c5a9716/12162854224-500.jpg" data-tags="rock, russian" role="button">
-Сплин - ПЫЛЬНАЯ БЫЛЬ (1994-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e1b301-dbed-31a1-ab07-0939d3673857/4166685041-500.jpg" data-tags="rock, russian rock" role="button">
 Nautilus Pompilius - Крылья (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/42c11713-eceb-393c-b4a0-aae5977fa098/3204253087-500.jpg" data-tags="russian rock" role="button">
+Чиж & Co - Эрогенная зона (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee696a2-a2df-3103-9552-84bc89c1b21f/10018803050-500.jpg" data-tags="russian, russian rock" role="button">
 Сплин - Коллекционер оружия (1996-04-27)
@@ -119,6 +107,9 @@ Tequilajazzz - Целлулоид (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/977ebcc6-6093-4135-81b2-35b952af51ce/5109695318-500.jpg" data-tags="belarusian" role="button">
 Ляпис Трубецкой - Ты кинула (1998-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff9f70b1-7106-4de9-ba4a-d2339c313236/5110648992-500.jpg" data-tags="rock" role="button">
+Кино - КИНО (1998-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e14b49ce-056d-4688-8278-03cb597df1ca/7047332743-500.jpg" data-tags="rock, russian, russian rock" role="button">
 Кукрыниксы - Кукрыниксы (1999)
@@ -246,6 +237,9 @@ Lumen - Свобода (2005)
 <li data-cover="https://img.discogs.com/TMi8KoANO3tTmuRzqKu8jTXlcBk=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359932-1289152737.jpeg.jpg" data-tags="russian alternative" role="button">
 Tracktor Bowling - Черта (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/95ef46de-a186-4d59-ad5d-f62f3202852f/1412863706-500.jpg" data-tags="rock" role="button">
+ЗЕМФИРА - Вендетта (2005-03-01)
+</li>
 <li data-cover="https://img.discogs.com/lGDP_8xqxQKo5T7UnrhwYrlzta8=/fit-in/174x174/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5295699-1389864679-4820.jpeg.jpg" data-tags="rock, russian rock" role="button">
 ДДТ - Пропавший без вести (2005-04-22)
 </li>
@@ -285,6 +279,9 @@ Lumen - Правда? (2007)
 <li data-cover="http://coverartarchive.org/release/57e186a7-85a5-499b-b59f-00e42a6e6a97/17957981432-500.jpg" data-tags="russian rock, russian" role="button">
 ЗЕМФИРА - Спасибо (2007-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/643d5214-7ca4-4419-8465-f67c86eaef5b/10070958476-500.jpg" data-tags="pop-rock" role="button">
+Мумий Тролль - Контрабанда (2008-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/93563577-c07b-416a-acb5-e90235af18f1/24692507668-500.jpg" data-tags="rock, russian" role="button">
 Мумий Тролль - 8 (2008-08-08)
 </li>
@@ -320,5 +317,8 @@ Lumen - На части (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36d4effe-da4e-44c0-8718-49547ac0f44c/8577010368-500.jpg" data-tags="rock, russian rock" role="button">
 Сплин - Резонанс. Часть 1 (2014-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/16c0cba2-6b7e-4fe1-a4de-36dc18b811b7/8929438651-500.jpg" data-tags="singer-songwriter, russian rock" role="button">
+Борис Гребенщиков - СОЛЬ (2014-10-01)
 </li>
 </ol>

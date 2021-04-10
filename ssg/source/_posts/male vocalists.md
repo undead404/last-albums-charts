@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:18:07.012Z
+date: 2021-04-10T17:42:01.429Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -35,9 +35,6 @@ Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
-</li>
-<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
 Robbie Williams - I've Been Expecting You (1998-10-26)
@@ -75,6 +72,9 @@ Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 <li data-cover="https://img.discogs.com/DWUkZS-mRjESctq9QdUy2uaygLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5401240-1395764464-9723.jpeg.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists" role="button">
 Arctic Monkeys - demo (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/7565f1b4-897b-4f24-a957-55ff8510b842/9711827786-500.jpg" data-tags="jazz, swing, oldies, male vocalists" role="button">
+Dean Martin - Dino: The Essential Dean Martin (2004-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
@@ -95,9 +95,6 @@ Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="https://img.discogs.com/Dx5rsoFOygBx8nPxKW8Sq5ev6N0=/fit-in/392x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1777368-1242662992.jpeg.jpg" data-tags="rock, japanese, industrial, asian, male vocalists, 00s, industrial metal, j-rock, spookycore" role="button">
 D'espairsRay - [Coll:set] (2005-06-15)
-</li>
-<li data-cover="https://img.discogs.com/Ea8FbKi9AUBh-cEGJXfLVl3YewY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591248-1184317356.jpeg.jpg" data-tags="pop, daniel powter" role="button">
-Daniel Powter - dp (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
@@ -122,6 +119,12 @@ Keane - Under the Iron Sea (2006-06-07)
 </li>
 <li data-cover="https://img.discogs.com/4fV88R-4UZfICgS7tZ9HaXL4pNk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929730-1174010117.jpeg.jpg" data-tags="pop" role="button">
 James Morrison - Undiscovered (2006-07-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/34a322de-e4ef-4861-a7ad-640644606d92/2503909808-500.jpg" data-tags="alternative rock" role="button">
+Five for Fighting - Two Lights (2006-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
+Plain White T's - Every Second Counts (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
@@ -153,6 +156,9 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
+Sigur Rós - Hvarf - Heim (2007-11-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
 </li>
@@ -161,9 +167,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6454561-2af7-460b-9b8c-d482b7c8a49d/15751521122-500.jpg" data-tags="pop, pop rock, male vocalists" role="button">
-Gavin DeGraw - Gavin DeGraw (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
@@ -210,6 +213,9 @@ Hot Chip - One Life Stand (2010-01-29)
 <li data-cover="https://img.discogs.com/LpgTn_0p-KGSbeUana5uLiF8wIg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11667002-1520330340-3120.jpeg.jpg" data-tags="pop, rock, alternative, adult alternative, male vocalists, singer/songwriter, albums i covet" role="button">
 Wakey!Wakey! - Almost Everything I Wish I'd Said The Last Time I Saw You... (2010-02-02)
 </li>
+<li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
+Jónsi - Go (2010-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
 B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
 </li>
@@ -249,20 +255,17 @@ Justice - Civilization (2011-03-30)
 <li data-cover="http://coverartarchive.org/release/134d9dae-6935-46e3-b8fa-e057f9ca543b/6375116090-500.jpg" data-tags="alternative, indie rock, mat kearney" role="button">
 Mat Kearney - Young Love (2011-08-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">
-Ryan Adams - Ashes & Fire (2011-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)
-</li>
-<li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">
-Los Campesinos! - Hello Sadness (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf660192-9355-47f7-8e84-846291e5949f/2863685000-500.jpg" data-tags="usher" role="button">
 Usher - Climax (2012-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/94fdd9eb-5394-4ca0-b12f-c4aff9660707/871610070-500.jpg" data-tags="alternative rock" role="button">
+Jason Mraz - Love Is A Four Letter Word (2012-04-13)
 </li>
 <li data-cover="https://img.discogs.com/UiCt42DRo0EjITs5xoV909xqKNM=/fit-in/576x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3748971-1342803920-8632.jpeg.jpg" data-tags="country, folk, male vocalists, 10s, 2010s, hairy chest, hunks, 2012 albums, tolle alben, nice fur, heavy pelt" role="button">
 Angus Stone - Broken Brights (2012-07-13)
@@ -302,9 +305,6 @@ Charlie Brown JR. - La Familia 013 (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b65834-9455-498f-bce1-4b037b4a65e3/7464470016-500.jpg" data-tags="electronic, indie, pop, uk, male vocalists, radio mirror park" role="button">
 Dan Croll - Sweet Disarray (2014-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">
-SOHN - Tremors (2014-04-07)
 </li>
 <li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
 Damon Albarn - Everyday Robots (2014-04-25)

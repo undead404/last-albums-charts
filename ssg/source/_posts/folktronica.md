@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:46:07.080Z
+date: 2021-04-10T17:03:01.408Z
 title: "folktronica: 100 albums you must listen to before you die"
 ---
 ![alt-J - An Awesome Wave (2012-05-28)](http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg "alt-J - An Awesome Wave (2012-05-28)")
@@ -45,9 +45,6 @@ K.I.A. - Adieu, Shinjuku Zulu (2002)
 <li data-cover="https://img.discogs.com/euOxpe1gP6-j9QfoVBGMiRt1csg=/fit-in/476x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2505002-1287673112.jpeg.jpg" data-tags="alternative, trip hop, folktronica" role="button">
 Chuck Prophet - No Other Love (2002)
 </li>
-<li data-cover="https://img.discogs.com/XcwpLqGcprgoLn2glzpjUz9t3Bc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-198649-1586603824-9916.jpeg.jpg" data-tags="singer-songwriter, folktronica, indie folk, iceland" role="button">
-Mugison - Lonely Mountain (2002-10)
-</li>
 <li data-cover="https://img.discogs.com/CHa9Pu3E_Rzm9XckY1necESOmz8=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-131244-1109694247.jpg.jpg" data-tags="electronic" role="button">
 Fonica - Ripple (2002-11-15)
 </li>
@@ -65,6 +62,9 @@ Qua - Painting Monsters on Clouds (2004-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
+</li>
+<li data-cover="https://img.discogs.com/QgoPiIlztL55ZLbHvrJ1fWeMRN8=/fit-in/328x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747299-1154688869.jpeg.jpg" data-tags="experimental, folktronica" role="button">
+Psapp - Northdown (2004-03)
 </li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
@@ -120,6 +120,12 @@ Bat for Lashes - Fur and Gold (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/e65e9d32-8fd1-4b7d-b6f7-6e12a4eb1fa2/22859041411-500.jpg" data-tags="ethereal, trip-hop, singer-songwriter, new age, dream pop" role="button">
 島みやえい子 - O (2006-10-04)
 </li>
+<li data-cover="https://img.discogs.com/aafFur7atbB1w3S8p00yHBeZVNM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270892-1205286522.jpeg.jpg" data-tags="folktronica" role="button">
+The Banjo Consorsium - A Turning One (2007)
+</li>
+<li data-cover="https://img.discogs.com/3XxULGhd2gJ7IxY5izfy-bESx0Q=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8912432-1471338399-4789.mpo.jpg" data-tags="british, alternative, eclectic, gilbert linley, pop" role="button">
+Gilbert - Gilbert (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/72bc836e-f45e-49bd-893b-43eeab861b90/7508123529-500.jpg" data-tags="contemporary folk, folktronica, s: ambient, s: nordic folk music" role="button">
 Valravn - Krunk Krunk (2007)
 </li>
@@ -174,11 +180,17 @@ Borko - Celebrating Life (2008-02-29)
 <li data-cover="https://img.discogs.com/-YW_3eaBsJ7UOaQmkDFOn65otGE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1303567-1566922120-6440.jpeg.jpg" data-tags="female vocalists, chamber pop, psychedelic pop, folktronica, art pop, baroque rock, i own" role="button">
 Goldfrapp - Happiness (2008-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, new age, ethereal, dream pop" role="button">
+島みやえい子 - ひかりなでしこ (2008-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/054079dd-1201-4cf4-b1c1-4033e6f659a0/23905162566-500.jpg" data-tags="dream pop, folktronica, pon pon" role="button">
 CocoRosie - God Has a Voice, She Speaks Through Me (2008-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/54f64e7e-b8a9-4b53-86ef-8979d4a5b7c4/25131017315-500.jpg" data-tags="finnish" role="button">
 Paavoharju - Laulu laakson kukista (2008-05-14)
+</li>
+<li data-cover="https://img.discogs.com/7Ed5nFW4DoOgLXhxuLmJVsVP1jE=/fit-in/553x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1441744-1219994915.jpeg.jpg" data-tags="folktronica" role="button">
+Color Cassette - Small Town Smoker (2008-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
@@ -219,6 +231,9 @@ Emily Wells - Dirty (2009-06-09)
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
+<li data-cover="https://img.discogs.com/EEGvZmGcZ9aQCsLEjTgCuLjikR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3078485-1314693230.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, indie, chill, alternative, experimental, female vocalists, post-rock, downtempo, australian, dark, new wave, indietronica, minimal, dreamy, lounge, trip hop, mellow, ethereal, folktronica, chilled, post rock, triphop, female vocals, australia, female vocalist, ballad, lesser known yet streamable artists, female singer, independent, female fronted electro, alternative female vocalists, artists who are lastfm users, elektro target, pixies palace, chez musinum, central point, vocal electronica, network, vocal electronic, alt-electro, 21stcentury, cybermusic, dementio13, melancholy lounge, pixieguts, aeo, preset, independent artists, free mp3 artist radio, dandelion radio, ide, alternative female vocalist" role="button">
+Cwtch - City To City (2009-08-24)
+</li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
 </li>
@@ -233,9 +248,6 @@ Peter and Kerry - Clothes, Friends, Photos EP (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/38f8f0a8-122a-4be6-b6f7-054c95bc2895/1260923379-500.jpg" data-tags="folk" role="button">
 The Retuses - The Evening Glow (2010)
-</li>
-<li data-cover="https://img.discogs.com/WlBphb3843a4RL0jKHoDjrNxAQo=/fit-in/440x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272432-1286623962.jpeg.jpg" data-tags="electronica, electronic, female vocalists" role="button">
-Goldfrapp - Rocket (2010-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)
@@ -252,20 +264,11 @@ Diana Vickers - Songs From the Tainted Cherry Tree (2010-04-30)
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
-<li data-cover="https://img.discogs.com/7q0QrysJ4ib8uYFyI_4upIgIijU=/fit-in/485x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709828-1238419933.jpeg.jpg" data-tags="nu jazz, chillout, electronica, trip-hop, electropop, downtempo, singer-songwriter, electro, dance, lo-fi, indietronica, idm, groove, lounge, club, remix, folktronica, nu-bluz, silky sexy smooth, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
-Goldfrapp - Believer (2010-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/d52c016f-7a08-4a78-abc9-1331c5e3666b/11724503080-500.jpg" data-tags="ambient" role="button">
-C418 - life changing moments seem minor in pictures (2010-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/6694e8ad-7b43-4721-bc45-f080904dd1ad/6280776264-500.jpg" data-tags="electronic, indie, japanese, instrumental, indie pop, indietronica, minimal, japan, toytronica, folktronica, electronic pop, crossover, duo, indietronic, 10s, legends, folktronic, fully streamable tracks, naive, bandcamp, toytronic, primitive, new weird japan, fully streamable album, japanese underground, nagoya, self-released, primitive pop" role="button">
 Lullatone - Elevator Music (2011-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a83e652f-2c29-4ba0-ad23-8c0f0b1c8c8f/3775429801-500.jpg" data-tags="dream pop" role="button">
 Sea Oleena - Sleeplessness (2011-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/38073b45-df20-4fbe-b74f-2d97bb9db60e/3845169437-500.jpg" data-tags="funky, rasputina" role="button">
-Emily Wells - Mama (2012)
 </li>
 <li data-cover="https://img.discogs.com/iTQNjUDuPe58SxPlS1_zv65LYmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3414448-1405202646-7635.jpeg.jpg" data-tags="indie, pop, alternative, indie pop, piano, chamber pop, mellow, synthpop, adult alternative, folktronica, swedish pop, alternative pop, 2012 albums" role="button">
 Amanda Mair - Amanda Mair (2012-02-15)
@@ -275,9 +278,6 @@ Zammuto - Zammuto (2012-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
-</li>
-<li data-cover="https://img.discogs.com/JQmoGZ_bSyqdVn2koiPVEe-biS0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12362922-1533730815-6565.jpeg.jpg" data-tags="florence the machine" role="button">
-Florence + the Machine - Spectrum (Say My Name) (2012-07-08)
 </li>
 <li data-cover="https://img.discogs.com/VHjn33iFOkAg0n_IzlxzuUcWVjU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7040347-1432315924-4427.jpeg.jpg" data-tags="indie, folktronica, folk rock, indie folk" role="button">
 Trails and Ways - Mtn Tune (2012-07-23)

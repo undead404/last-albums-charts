@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:35:01.568Z
+date: 2021-04-10T17:02:01.408Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -60,6 +60,9 @@ Rage Against the Machine - Evil Empire (1996-02)
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
+Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
 Sugar Ray - Floored (1997-06-24)
 </li>
@@ -92,9 +95,6 @@ P.O.D. - The Fundamental Elements of Southtown (1999-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/6ddbe78e-0632-47b4-b3b6-c4528265f6f0/8560901384-500.jpg" data-tags="rock, rap" role="button">
-Molotov - Apocalypshit (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
 Bloodhound Gang - Hooray for Boobies (1999-10-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:36:01.416Z
+date: 2021-04-10T17:20:01.438Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -131,6 +131,9 @@ Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
 Desire - II (2009-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
+Owl City - Ocean Eyes (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/79bca296-c0a8-4d1b-8b34-7cc9408688e6/22138203732-500.jpg" data-tags="synthpop, hurts" role="button">
 Hurts - Wonderful Life (2009-08-29)
@@ -287,9 +290,6 @@ Broken Bells - After the Disco (2014-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffe8de44-7c3a-4da4-a38a-4a07e519ffc0/6659279281-500.jpg" data-tags="electronic, pop, synthpop, glitch pop, minimal pop" role="button">
 MØ - Say You'll Be There (2014-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
-Future Islands - Singles (2014-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)

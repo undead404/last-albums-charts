@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:47:01.480Z
+date: 2021-04-10T17:28:01.434Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -32,9 +32,6 @@ Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
-</li>
-<li data-cover="https://img.discogs.com/LdWvbgL7F4VZYCmKD8GcwZea6CE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760825-1298491383.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
-Thin Lizzy - Vagabonds of the Western World (1973)
 </li>
 <li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
@@ -83,6 +80,9 @@ Christy Moore - LIVE AT THE POINT (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cd57757-4f37-4398-bf2a-ff45bfd84b7b/26474897084-500.jpg" data-tags="celtic, irish" role="button">
+The Chieftains - The Long Black Veil (1995-01-16)
 </li>
 <li data-cover="https://img.discogs.com/Slr1i12ptM4Pa_wmHHmphdcHVdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801987-1163945410.jpeg.jpg" data-tags="celtic" role="button">
 Ronan Hardiman - Michael Flatley's Lord Of The Dance (1996)
@@ -174,9 +174,6 @@ Gemma Hayes - Night On My Side (2002-05-27)
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d09f662-31e0-4f4b-b317-dd332bb03fcc/3333923376-500.jpg" data-tags="punk, irish, live, celtic punk, dropkick murphys" role="button">
-Dropkick Murphys - Live on St. Patrick's Day (2002-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f7fead6-9bba-3a45-ad9d-33d8712413bb/17641203848-500.jpg" data-tags="rock" role="button">
 U2 - The Best of 1990-2000 (2002-10-30)
 </li>
@@ -212,6 +209,9 @@ Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - The Warrior's Code (2005-06-15)
+</li>
+<li data-cover="https://img.discogs.com/fYjxUVlfj9RRrEg6GM0tF2l-b3A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2625293-1293867158.jpeg.jpg" data-tags="indie" role="button">
+Bell X1 - Flock (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee99133c-2a6a-4284-aa50-49080bdba6cd/28019561986-500.jpg" data-tags="westlife, pop" role="button">
 Westlife - Face to Face (2005-10-28)
@@ -252,6 +252,9 @@ Primordial - To the Nameless Dead (2007-11-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 The Script - We Cry (2008-04-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/e089c521-16fd-42c5-abf7-ee79fb6231fd/11994441629-500.jpg" data-tags="rock, irish, live, compilations, desert island discs" role="button">
+U2 - Live From Paris (2008-07-21)
+</li>
 <li data-cover="https://img.discogs.com/2ekcBuMG8g0xgx_m-NVExDI31-w=/fit-in/491x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2575678-1386862288-2838.jpeg.jpg" data-tags="the script" role="button">
 The Script - The Man Who Can't Be Moved (2008-07-25)
 </li>
@@ -278,9 +281,6 @@ Paddy and the Rats - Rats on Board (2009-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e748702-5e75-4a8a-8526-d0311a89d616/11826807120-500.jpg" data-tags="pop, irish, boybands" role="button">
 Westlife - Where We Are (2009-11-30)
-</li>
-<li data-cover="https://img.discogs.com/0EjyN9gwmpT9lgau73xUI1cBBs8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9677067-1616113193-5665.jpeg.jpg" data-tags="folk, irish punk" role="button">
-Flogging Molly - Live At The Greek Theatre (2010-02-23)
 </li>
 <li data-cover="https://img.discogs.com/1b1WHh7efP5ENa-4AcVgCFJovm4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270028-1274186975.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
 Keane - Night Train (2010-05-09)

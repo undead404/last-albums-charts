@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:03:06.990Z
+date: 2021-04-10T17:41:01.403Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -24,20 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/4e6fd74d-dc32-4d74-85ca-3ca40dff78b2/13250310414-500.jpg" data-tags="80s" role="button">
 Kim Wilde - Kim Wilde (1981-06)
 </li>
-<li data-cover="https://img.discogs.com/1OkGnqX46pz8jza_f83gdSTJHtE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13127015-1548527652-6910.jpeg.jpg" data-tags="classic rock" role="button">
-Heart - Bad Animals (1987-06-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/54505d79-b295-4a60-9cd3-06f6c6c5bdda/26499964153-500.jpg" data-tags="pop, 80s, alternative, you dont know, take my breath away, like flames" role="button">
 Berlin - Best Of Berlin 1979-1988 (1988-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
 </li>
+<li data-cover="http://coverartarchive.org/release/7452de66-3ec5-4a2f-8507-ebe956cef346/7742179377-500.jpg" data-tags="indie rock" role="button">
+Mourn - Mourn (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/1da84ef6-48ab-4065-9c60-4f94edc96cb6/2544207519-500.jpg" data-tags="spanish" role="button">
 Rosana - Lunas Rotas (1996)
-</li>
-<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
-The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3aef880-fc55-4a15-accd-c64f45aeb142/9128169781-500.jpg" data-tags="symphonic metal, medieval, folk metal" role="button">
 Haggard - And Thou Shalt Trust... The Seer (1997-11-14)
@@ -132,6 +129,9 @@ Stephen Fretwell - Magpie (2004-11-22)
 <li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
 Kari Jobe - Kari Jobe (2005)
 </li>
+<li data-cover="https://img.discogs.com/_KZauFt_ErZqzHZAJurWb4CXlMo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2132366-1265783666.jpeg.jpg" data-tags="indie, female vocals" role="button">
+Thao Nguyen - Like the Linen (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb536080-dcfa-43e6-9018-4e4fd0f7fb4d/997499052-500.jpg" data-tags="doom metal" role="button">
 Draconian - Arcane Rain Fell (2005-01-24)
 </li>
@@ -177,6 +177,9 @@ To-Mera - Transcendental (2006-09-11)
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/caeb738e-d0ea-3990-b685-dfe4dc2f89f6/944749916-500.jpg" data-tags="singer-songwriter" role="button">
+Anna Ternheim - Separation Road (2006-09-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rosana" role="button">
 Rosana - Lunas Rotas: De casa a las ventas (2007)
 </li>
@@ -215,9 +218,6 @@ Addison Road - Addison Road (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/87715ad3-a904-43de-9521-77fefd3d7349/27168060063-500.jpg" data-tags="acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uutta jazzia, downtempo groove, uuta jazzia, uutta jazziz, chillout bar nu jazz and funk" role="button">
-Bitter:Sweet - Drama (2008-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
@@ -291,9 +291,6 @@ Cold Specks - I Predict a Graceful Expulsion (2012-05-18)
 <li data-cover="https://img.discogs.com/dWaBUVVTfSjnZ1WAZqMvDQTV6fY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3654616-1339061010-2475.jpeg.jpg" data-tags="psychedelic rock, blues rock" role="button">
 Blues Pills - Bliss (2012-05-25)
 </li>
-<li data-cover="https://img.discogs.com/U2u1IJX-wxO7HQ0SZXpU4HL0Pis=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14117028-1568174135-7777.jpeg.jpg" data-tags="female vocalists, singer-songwriter, indie, folk" role="button">
-Brandi Carlile - Bear Creek (2012-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/fea40923-0beb-4be6-aafe-29349adfe9c2/8344484122-500.jpg" data-tags="symphonic metal" role="button">
 Delain - We Are the Others (2012-06-01)
 </li>
@@ -320,5 +317,8 @@ Deap Vally - Sistrionix (2013-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - The Blessed Unrest (2013-07-16)
+</li>
+<li data-cover="https://img.discogs.com/O0mIxXRu2fx3rso5fHeqsHTH5BQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5148079-1385807304-2244.jpeg.jpg" data-tags="synthpop, female vocals" role="button">
+Ejecta - Dominae (2013-11-18)
 </li>
 </ol>

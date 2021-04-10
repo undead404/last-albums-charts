@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:11:01.392Z
+date: 2021-04-10T16:59:01.405Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -27,6 +27,12 @@ Fishbone - Fishbone (1988-11)
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
 </li>
+<li data-cover="https://img.discogs.com/m8gMkP7Mn1jSXfEwT_KIW6ZwFqI=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230764-1432802058-7063.jpeg.jpg" data-tags="punk rock, hardcore punk" role="button">
+NOFX - S&M Airlines (1989-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/a59d723c-fc7e-4e5a-9853-6b832e4675fd/3331655987-500.jpg" data-tags="punk rock" role="button">
+NOFX - Ribbed (1991-02-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/7a5c73ca-9819-49dc-baec-bb99573720c8/23134904254-500.jpg" data-tags="punk" role="button">
 Operation Ivy - Operation Ivy (1991-07-01)
 </li>
@@ -39,17 +45,11 @@ No Doubt - No Doubt (1992-03-17)
 <li data-cover="https://img.discogs.com/eqR-qBFnLkP3ZarNfu9gMAUH1G8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4068215-1517650061-7747.jpeg.jpg" data-tags="punk rock" role="button">
 NOFX - White Trash, Two Heebs and a Bean (1992-12-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/4cac982f-7b4b-48f6-90c3-02b336013ff6/3374869805-500.jpg" data-tags="ska, skacore" role="button">
-The Mighty Mighty Bosstones - Don't know how to party (1993-05-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/349e91cc-dafe-4fc6-a5e7-d486337c7883/23385371680-500.jpg" data-tags="ska punk" role="button">
 Mustard Plug - Big Daddy Multitude (1993-12)
 </li>
 <li data-cover="https://img.discogs.com/yMpRGhb-fh0v9U25BPZsByznpvM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339432-1361440334-7934.jpeg.jpg" data-tags="ska" role="button">
 Ska-P - SKA-P (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7b346bb-1cd5-4a07-ae30-4ad15b1b1a9c/3374872062-500.jpg" data-tags="ska, ska punk" role="button">
-The Mighty Mighty Bosstones - Question The Answers (1994-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
@@ -114,23 +114,23 @@ Save Ferris - It Means Everything (1997-09-07)
 <li data-cover="http://coverartarchive.org/release/794f6593-539d-30c5-88e8-81da977865ab/9644316431-500.jpg" data-tags="ska punk" role="button">
 Goldfinger - Hang-Ups (1997-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ef09cab-23e6-4234-a1c6-8bf8f8ce4e00/3721447446-500.jpg" data-tags="ska punk, ska-punk, sublime, 1990s, smoke, second hand, us-american, compilation album, djtopp, its all chill, k1r7m, second-hand smoke, mca inc, passive smoking" role="button">
-Sublime - Second-Hand Smoke (1997-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
-Mano Negra - Best Of (1998)
+<li data-cover="http://coverartarchive.org/release/771774fa-e510-4bd1-9a21-6f3f2e716ccd/16695513200-500.jpg" data-tags="punk, covers, ska punk, cover, punk covers" role="button">
+Less Than Jake - Greased (1997-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9396979-7a88-457e-82f0-11f469cdd44f/4397619199-500.jpg" data-tags="ska, ska punk" role="button">
 Catch 22 - Keasbey Nights (1998-03-23)
 </li>
+<li data-cover="https://img.discogs.com/UwngDBJsmD7-M8R2S8_h6hF1hDE=/fit-in/526x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-603950-1261065517.jpeg.jpg" data-tags="punk, ska, ska punk, crossover, post metal, jump-right-in" role="button">
+The Urge - Master Of Styles (1998-04-21)
+</li>
 <li data-cover="https://img.discogs.com/gJuj3AxdwIXek8QMfdQm_iDE_Xg=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3263507-1360653308-9644.jpeg.jpg" data-tags="punk" role="button">
 Rancid - Life Won't Wait (1998-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/a0dfcd18-8b1a-4efe-aa62-13b44eefcd86/15586742775-500.jpg" data-tags="ska" role="button">
+Voodoo Glow Skulls - The Band Geek Mafia (1998-07-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddcc0477-d4b6-4201-85d1-df5e10482c16/28801509453-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - Eurosis (1998-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/a380a014-adfc-413a-8c14-f9e327faa994/7771572316-500.jpg" data-tags="ska punk" role="button">
-Mad Caddies - Duck And Cover (1998-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">
 Less Than Jake - Hello Rockview (1998-09-09)
@@ -138,8 +138,8 @@ Less Than Jake - Hello Rockview (1998-09-09)
 <li data-cover="http://coverartarchive.org/release/a4926255-873e-44fd-ac3f-aa23c0286a10/16000973513-500.jpg" data-tags="ska" role="button">
 Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5df4817-0c95-4e61-8bf2-cb18ea19a161/25101643073-500.jpg" data-tags="ska punk, hardcore punk, albums everyone should own" role="button">
-Choking Victim - No Gods / No Managers (1999-03-23)
+<li data-cover="http://coverartarchive.org/release/c749b99e-5b95-4f15-8ede-c4e651dfddba/26642486330-500.jpg" data-tags="ska" role="button">
+Mustard Plug - Pray For Mojo (1999-03-16)
 </li>
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
@@ -168,15 +168,6 @@ Catch 22 - Alone In a Crowd (2000-10-10)
 <li data-cover="http://coverartarchive.org/release/1d478195-58ba-3d18-a4db-61a7a84813e1/2279759228-500.jpg" data-tags="ska punk" role="button">
 Less Than Jake - Borders & Boundaries (2000-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac3cc2de-61d7-48c3-99fc-d3ad7d3a848b/2146281950-500.jpg" data-tags="rock, brasil, charlie brown jr" role="button">
-Charlie Brown JR. - 100% Charlie Brown JR - Abalando A Sua Fábrica (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/b55cac2b-dfcf-435c-82c3-fa9ddd3136d9/26290886238-500.jpg" data-tags="ska punk" role="button">
-Mad Caddies - Rock The Plank (2001-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce3ca604-377b-4a04-8991-22e10f8b65a2/22979586770-500.jpg" data-tags="crack rock steady, punk, hardcore punk" role="button">
-Leftöver Crack - Mediocre Generica (2001-08-28)
-</li>
 <li data-cover="https://img.discogs.com/WSwqNu9ppMi2xzXcuAgugV3sPKg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052646-1226812258.jpeg.jpg" data-tags="ska punk" role="button">
 Capdown - Pound For The Sound (2001-09-10)
 </li>
@@ -188,12 +179,6 @@ Reel Big Fish - Favorite Noise (2002-03-04)
 </li>
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1045b6d8-bc5f-38fa-a459-350e79dd34ef/3374878296-500.jpg" data-tags="ska punk" role="button">
-The Mighty Mighty Bosstones - A Jackknife to a Swan (2002-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/5674ac8c-f0da-4cab-97eb-3aa53caec890/7333715088-500.jpg" data-tags="ska punk, ska" role="button">
-Mad Caddies - Just One More (2003-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
 NOFX - The War on Errorism (2003-05-06)
@@ -210,6 +195,9 @@ Rancid - Indestructible (2003-08-19)
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">
 Streetlight Manifesto - Everything Goes Numb (2003-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/00fd8aec-1e25-4049-8e74-38e095009b34/5644167126-500.jpg" data-tags="ska" role="button">
+The Forces of Evil - Friend or FOE? (2003-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
 No Doubt - The Singles 1992-2003 (2003-10-28)
 </li>
@@ -222,14 +210,11 @@ Authority Zero - Andiamo (2004)
 <li data-cover="https://img.discogs.com/MSdFRkrA_XBkw_dEiS5f9MTrT4k=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1546079-1301302877.jpeg.jpg" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
 </li>
-<li data-cover="https://img.discogs.com/W44eaQj_d_o4lILFX8Mo7S13CZg=/fit-in/502x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379884-1139850324.jpeg.jpg" data-tags="ska punk, punk, ska, crack rock steady" role="button">
-Leftöver Crack - Fuck World Trade (2004-08-31)
-</li>
-<li data-cover="https://img.discogs.com/usJcxsZeOCG8ZWAMTRtMEw481zY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1034849-1573542154-4393.jpeg.jpg" data-tags="ska punk" role="button">
-Mad Caddies - Live From Toronto: Songs In The Key Of Eh (2004-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f19fa4e-f574-4c86-bc56-9362fb4f995a/4713235154-500.jpg" data-tags="ska" role="button">
 Big D And The Kids Table - How It Goes (2004-10-19)
+</li>
+<li data-cover="https://img.discogs.com/ARfWr1y9Fl01T0go0q6E6U13KRY=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15208974-1588127902-8667.jpeg.jpg" data-tags="ska" role="button">
+Less Than Jake - B Is for B-Sides (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/cece828f-b3e0-4b6f-a9ad-b6fa219c47c8/4723772725-500.jpg" data-tags="ska punk" role="button">
 Bomb the Music Industry! - Album Minus Band (2005-02)
@@ -242,6 +227,12 @@ Reel Big Fish - We're Not Happy 'til You're Not Happy (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05702c0-a8ef-473f-9ce8-e9dbb4ca10a0/4964947583-500.jpg" data-tags="ska" role="button">
 The Aquabats - Charge!! (2005-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/6dcc37c9-8dee-46e1-aef5-1fb2b737841f/4812144056-500.jpg" data-tags="skunk rock" role="button">
+The Flatliners - Destroy To Create (2005-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
+Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/PNjGbQhy6lNCujx_Kdd2GBiuLyE=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651885-1285922617.jpeg.jpg" data-tags="punk" role="button">
 The Suicide Machines - War Profiteering Is Killing Us All (2005-08-09)
@@ -270,9 +261,6 @@ New Found Glory - Coming Home (2006-09-18)
 <li data-cover="http://coverartarchive.org/release/9dfd248f-9bce-490d-9ad6-d2b1a4038d17/1599387966-500.jpg" data-tags="belarusian, rock" role="button">
 Ляпис Трубецкой - Капитал (2007-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/f455779f-dec7-48c8-af09-f6714daf4c1f/23387977674-500.jpg" data-tags="ska" role="button">
-Mad Caddies - Keep It Going (2007-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ae26f5d-c22b-4c19-a8f3-d5c133b98f48/3352654339-500.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
 </li>
@@ -294,11 +282,11 @@ Ska-P - Lagrimas Y Gozos (2008-10-03)
 <li data-cover="http://coverartarchive.org/release/4de390fa-42ce-3d6f-affa-a0946566ffd1/4812818167-500.jpg" data-tags="ska punk" role="button">
 The King Blues - Save the World, Get the Girl (2008-10-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, ska punk" role="button">
-Bomb the Music Industry! - Scrambles (2009-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/2109dc19-1081-4827-8246-85f81bf833e2/4801823238-500.jpg" data-tags="punk rock" role="button">
 NOFX - Coaster (2009-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/635101b2-65e0-402a-a80f-1723b4d665af/19657762187-500.jpg" data-tags="progressive rock, groove tech" role="button">
+RX Bandits - Mandala (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/324cdbb0-578d-353c-a34b-401b24ce3b57/3117012656-500.jpg" data-tags="belarusian, ska punk" role="button">
 Ляпис Трубецкой - Культпросвет (2009-08-24)
@@ -315,10 +303,22 @@ No Doubt - Push and Shove (2012-01-01)
 <li data-cover="http://coverartarchive.org/release/58acf0d2-1f23-410a-a4d4-9a2f7213923a/1648091823-500.jpg" data-tags="ska punk" role="button">
 Reel Big Fish - Candy Coated Fury (2012-07-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb457afb-4ead-45d5-95f1-fdd226b1edfa/3107628661-500.jpg" data-tags="punk rock" role="button">
+NOFX - Self Entitled (2012-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8345b1ef-6036-4ca2-acdb-82b26c266ab0/4199037204-500.jpg" data-tags="metal, punk, ska, russian, ska punk, austrian, russian ska, turbo polka" role="button">
+Russkaja - Energia! (2013-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/aee40e9a-6f3c-4608-84d4-c880ae449b3f/4206327898-500.jpg" data-tags="spanish, ska punk, 2010s, ska-p, sony bmg, compilation album, greatest hits album, todo ska-p, k1r7m, tony lopez" role="button">
+Ska-P - Todo Ska-p (2013-02-26)
+</li>
 <li data-cover="https://img.discogs.com/va4IjKKzW8IYcK5FhoG62NnRUnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4606117-1369755878-7901.jpeg.jpg" data-tags="ska punk" role="button">
 Streetlight Manifesto - The Hands That Thieve (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e563292f-5a19-4cf4-87ca-a6820f9dc96e/8566278172-500.jpg" data-tags="alternative rock, reggae, alternative metal, ska punk, male vocalists, pop-rock, skate punk, rap rock" role="button">
 Charlie Brown JR. - La Familia 013 (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/cedde5b9-21a1-4733-b845-1de8c066f4df/28084970501-500.jpg" data-tags="ska punk" role="button">
+Less Than Jake - See the Light (2013-11-12)
 </li>
 </ol>

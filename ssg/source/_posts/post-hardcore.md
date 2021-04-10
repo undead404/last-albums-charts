@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T14:43:01.419Z
+date: 2021-04-10T17:27:01.414Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/mWWmYqukf--04XnvgYW-RZqajk4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381186-1573438446-4282.jpeg.jpg" data-tags="post-hardcore" role="button">At the Drive-In - Relationship of Command (2000-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)</li>
+<li data-cover="http://coverartarchive.org/release/04f0fa1d-018e-4138-8359-26618b763fbf/13876313910-500.jpg" data-tags="emo, post-hardcore" role="button">Story of the Year - Page Avenue (2003-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">Underoath - They're Only Chasing Safety (2004-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/03fbe7bc-3c95-40b7-85f9-92202c21bd51/26809577879-500.jpg" data-tags="post-hardcore" role="button">Alexisonfire - Crisis (2005-08-22)</li>
 <li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">A Day to Remember - What Separates Me from You (2010-11-16)</li>
 </ol>
@@ -29,6 +29,9 @@ Slint - Spiderland (1991-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/1bbca62b-b444-4260-8d0b-e5570f8f38f0/15467254776-500.jpg" data-tags="post-hardcore" role="button">
+At the Drive-In - Acrobatic Tenement (1996-08-18)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -71,6 +74,9 @@ AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
 Silverstein - When Broken Is Easily Fixed (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3d0ebf2-5300-40d1-899d-80b2b8bee172/6128242245-500.jpg" data-tags="post-hardcore" role="button">
+Saosin - Translating the Name (2003-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Artist In The Ambulance (2003-07-22)
@@ -186,9 +192,6 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
 </li>
@@ -243,9 +246,6 @@ Attack Attack! - Someday Came Suddenly (2008-11-11)
 <li data-cover="http://coverartarchive.org/release/a4e48e1b-510f-4671-b51c-ae66fa6adfa7/9206975708-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5f83dd1-2e84-484c-bb8a-fbb6255c8a3f/15999857260-500.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Common Dreads (2009-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
 </li>
@@ -254,6 +254,9 @@ Adept - Another Year of Disaster (2009-02-04)
 </li>
 <li data-cover="https://img.discogs.com/ZgZLbGkGqrQGRuYinT2A0hCv8js=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3572382-1502046421-7512.jpeg.jpg" data-tags="post-hardcore" role="button">
 Isles & Glaciers - The Hearts of Lonely People (2009-03-09)
+</li>
+<li data-cover="https://img.discogs.com/wVvQZsZIbXmB5WoO8KH9wW7fwWQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828314-1550360653-9051.jpeg.jpg" data-tags="post-hardcore" role="button">
+Alexisonfire - Old Crows / Young Cardinals (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
 The Word Alive - Empire (2009-07-21)
@@ -305,9 +308,6 @@ Falling in Reverse - The Drug In Me Is You (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
-</li>
-<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
-Enter Shikari - A Flash Flood of Colour (2012-01-13)
 </li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">
 Cloud Nothings - Attack on Memory (2012-01-24)

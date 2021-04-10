@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:33:01.428Z
+date: 2021-04-10T17:08:12.593Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -51,9 +51,6 @@ Kyuss - Welcome to Sky Valley (1994-06-27)
 <li data-cover="http://coverartarchive.org/release/14e8adef-dc7e-4f7b-9c79-80af627ea817/7846949504-500.jpg" data-tags="sludge, doom metal" role="button">
 Acid Bath - When the Kite String Pops (1994-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf88a9c4-2fcd-46c8-8412-3b06bf0abbfa/6512861185-500.jpg" data-tags="stoner rock" role="button">
-Corrosion of Conformity - Deliverance (1994-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/450a2f27-bd33-439c-ac3b-1e6861076399/15857977884-500.jpg" data-tags="grunge, stoner rock" role="button">
 Melvins - Stoner Witch (1994-10-28)
 </li>
@@ -71,9 +68,6 @@ Down - NOLA (1995-09-15)
 </li>
 <li data-cover="https://img.discogs.com/Zqy0iud98Vj46YzHpmLQ6iGkm1Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667228-1145379565.jpeg.jpg" data-tags="stoner rock" role="button">
 Slo Burn - Amusing the Amazing (1996)
-</li>
-<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
-Sleep - Jerusalem (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac665057-4edf-4e12-9157-aa57abdc32c7/6513527640-500.jpg" data-tags="stoner rock, heavy metal" role="button">
 Corrosion of Conformity - Wiseblood (1996)
@@ -228,6 +222,9 @@ Truckfighters - Phi (2007-10-08)
 <li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
 </li>
+<li data-cover="https://img.discogs.com/LU3-gs1JtwQ_WWgq5Cac_-nwwEc=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435966-1223858516.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
+Ufomammut - Idolum (2008-04-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/8986894376-500.jpg" data-tags="grunge, stoner rock, sludge metal" role="button">
 Melvins - Nude With Boots (2008-07-08)
 </li>
@@ -320,5 +317,8 @@ Earthless - From the Ages (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
 Royal Blood - Royal Blood (2014-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
+Earth - Primitive and Deadly (2014-09-02)
 </li>
 </ol>

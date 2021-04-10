@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:59:01.428Z
+date: 2021-04-10T17:39:12.583Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Cascada - Everytime We Touch (2006-02-21)](http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg "Cascada - Everytime We Touch (2006-02-21)")
@@ -27,9 +27,6 @@ Paul van Dyk - 45 RPM (1994-10-04)
 <li data-cover="https://img.discogs.com/iKPsz5HAZ_YSskrUF1vPn7iLQds=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33293-1603313013-1939.jpeg.jpg" data-tags="trance, chillout, electronic" role="button">
 Robert Miles - Children (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/c26ab134-529c-4b28-be59-8d1927f01738/9666653096-500.jpg" data-tags="female vocalists, trance, 80s, laura branigan, my favorites" role="button">
-Laura Branigan - The Best of Branigan (1995-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/9d869542-507d-3a9f-810e-2ff84af0891e/10744313145-500.jpg" data-tags="goa, psytrance, trance" role="button">
 Juno Reactor - Beyond The Infinite (1995-09-18)
 </li>
@@ -50,6 +47,9 @@ Juno Reactor - Bible of Dreams (1997-06-18)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="trance" role="button">
 Sash! - It's My Life (1997-06-30)
+</li>
+<li data-cover="https://img.discogs.com/w_aTwaKqjOdtP1llEzuycrxNS8E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-22779-001.jpg.jpg" data-tags="trance" role="button">
+Binary Finary - 1998 (1997-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
@@ -89,9 +89,6 @@ Infected Mushroom - Classical Mushroom (2000-02-01)
 </li>
 <li data-cover="https://img.discogs.com/vok-pww6XUx5QFygj9FX9zAfMXs=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106523-1258962168.jpeg.jpg" data-tags="trance" role="button">
 Bomfunk MC's - Freestyler (2000-02-15)
-</li>
-<li data-cover="https://img.discogs.com/PL25gslqJlmHhOpFM9qTYumzXL4=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-142743-1613858050-5421.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
-Fischerspooner - #1 (2000-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
@@ -197,6 +194,9 @@ Infected Mushroom - IM the Supervisor (2004-09-10)
 </li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c054155-b21f-4831-9acd-dd40029b53d7/4702925224-500.jpg" data-tags="psytrance" role="button">
+Astrix - Artcore (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7005a05e-76de-4777-809b-6afad9c45b2a/11655498373-500.jpg" data-tags="vocal trance, trance" role="button">
 iio - Poetica (2005-02-25)

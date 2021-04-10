@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:42:01.405Z
+date: 2021-04-10T17:17:01.406Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -27,9 +27,6 @@ Tom Waits - Rain Dogs (1985)
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/aaa3c223-902d-48a6-b139-f3e0489b1089/28587170633-500.jpg" data-tags="90s" role="button">
-Jets to Brazil - Orange Rhyming Dictionary (1998-10-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
 </li>
@@ -47,9 +44,6 @@ The Used - The Used (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d8f61f4-10c8-453c-8d38-8d203897703e/12608387639-500.jpg" data-tags="00s, emocore, great cover art, albums i loved" role="button">
-Jets to Brazil - Perfecting Loneliness (2002-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alexisonfire - Alexisonfire (2002-10-29)
@@ -74,6 +68,9 @@ From Autumn To Ashes - The Fiction We Live (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04f0fa1d-018e-4138-8359-26618b763fbf/13876313910-500.jpg" data-tags="emo, post-hardcore" role="button">
 Story of the Year - Page Avenue (2003-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
+Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
@@ -129,6 +126,9 @@ Lovehatehero - Just Breathe (2005-05-17)
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
 </li>
+<li data-cover="https://img.discogs.com/pVDvs24cyz_uRhLVhrmLgdg-buU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6000562-1500790376-5357.jpeg.jpg" data-tags="hardcore, screamo, post-hardcore, emocore" role="button">
+The Amity Affliction - The Amity Affliction (2005-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/de811c20-f2b1-395a-a377-6ea2f1aa0ba6/24647170363-500.jpg" data-tags="post-hardcore" role="button">
 Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
 </li>
@@ -143,6 +143,9 @@ Silverstein - Discovering the Waterfront (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/03fbe7bc-3c95-40b7-85f9-92202c21bd51/26809577879-500.jpg" data-tags="post-hardcore" role="button">
 Alexisonfire - Crisis (2005-08-22)
+</li>
+<li data-cover="https://img.discogs.com/k9QxCaRnq3bEFUvEfbzpRii5oWU=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196779-1447684615-6316.gif.jpg" data-tags="hardcore, post-hardcore, metalcore" role="button">
+The Bled - Found In The Flood (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/PF-4IeNsOVZ5IHNmszQKaeSGVkA=/fit-in/508x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537138-1271067043.jpeg.jpg" data-tags="metalcore, post-hardcore, emocore" role="button">
 From Autumn To Ashes - Abandon Your Friends (2005-08-24)
@@ -209,9 +212,6 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
 <li data-cover="https://img.discogs.com/dBFOoJR_yaOMYDnpuX5jDystnbQ=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7346937-1570358150-9631.jpeg.jpg" data-tags="post-hardcore" role="button">
 Lovehatehero - White Lies (2007-02-20)
-</li>
-<li data-cover="https://img.discogs.com/J9zTjIUXIsVCWBmy_aeYa6ZzlVk=/fit-in/387x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2864774-1330620667.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Anything Can Happen in the Next Half Hour (2007-03-04)
 </li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)

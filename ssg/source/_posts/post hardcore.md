@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T22:07:01.417Z
+date: 2021-04-10T16:53:01.399Z
 title: "post hardcore: 100 albums you must listen to before you die"
 ---
 ![Chiodos - All&#39;s Well That Ends Well (2005-07-26)](http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg "Chiodos - All's Well That Ends Well (2005-07-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3c1d5669-ae58-33db-b98d-ef346b55acc7/26546641163-500.jpg" data-tags="post-hardcore" role="button">Fugazi - End Hits (1998-04-14)</li>
+<li data-cover="https://img.discogs.com/ifHXDIv3kRCViLBL_BnMSYjcRRc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880651-1301137759.jpeg.jpg" data-tags="post-hardcore" role="button">At the Drive-In - Vaya (1999-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/f5629cbf-9f10-49fc-a72c-a263b53dfb5a/27078039118-500.jpg" data-tags="post-hardcore, post hardcore" role="button">Rival Schools - United By Fate (2001-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">Chiodos - All's Well That Ends Well (2005-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">Thrice - Vheissu (2005-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">Chiodos - Bone Palace Ballet (2007-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - This War Is Ours (2008-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">Pierce The Veil - Selfish Machines (2010-06-21)</li>
@@ -35,6 +35,9 @@ Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/baee0b71-4a39-436b-bf62-78f46f235c00/3330961306-500.jpg" data-tags="alternative metal" role="button">
 Helmet - Betty (1994-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b572ec0-9b8f-3b54-af1b-5d3c680a20a6/21433211070-500.jpg" data-tags="punk, emo, punk rock, post-hardcore" role="button">
+Hot Water Music - Fuel for the Hate Game (1997-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebfb4400-5eb5-490f-ac77-5dd0a7bae786/25627484482-500.jpg" data-tags="post-hardcore, hardcore punk" role="button">
 Refused - The E.P. Compilation (1997-09-15)
@@ -189,11 +192,11 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/a219c008-8194-401e-bdf2-1d775b90f9bc/3330992900-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Hot Cross - Risk Revival (2007-02-20)
 </li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/818aa8f1-d844-48e4-bc21-1c3c9589d488/26249216838-500.jpg" data-tags="metalcore" role="button">
 Haste the Day - Pressure The Hinges (2007-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
+The Almost - Southern Weather (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
 blessthefall - His Last Walk (2007-04-10)
@@ -249,6 +252,9 @@ Hopes Die Last - Six Years Home (2008-08-04)
 <li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
 Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
+Underoath - Lost in the Sound of Separation (2008-09-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - This War Is Ours (2008-10-18)
 </li>
@@ -260,9 +266,6 @@ La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-
 </li>
 <li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
 The Fall of Troy - Phantom on the Horizon (2008-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/f5f83dd1-2e84-484c-bb8a-fbb6255c8a3f/15999857260-500.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Common Dreads (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)
@@ -281,9 +284,6 @@ The Word Alive - Empire (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa69a080-f4bd-44cd-bc3d-513880be9ea5/9465797397-500.jpg" data-tags="alternative rock" role="button">
 Brand New - Daisy (2009-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d44a4860-fa76-4418-b104-fedf7c7eb211/4896550705-500.jpg" data-tags="emo, pop punk, post hardcore, vvv" role="button">
 Seahaven - Ghost (2010-05-25)
@@ -306,8 +306,8 @@ ONE OK ROCK - 残響リファレンス (2011-05-10)
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
-Enter Shikari - A Flash Flood of Colour (2012-01-13)
+<li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
+A Lot Like Birds - Conversation Piece (2011-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7231fc60-0198-4931-8bfc-bb06ce6cdf96/1258512420-500.jpg" data-tags="post-hardcore" role="button">
 Memphis May Fire - Challenger (2012-06-26)

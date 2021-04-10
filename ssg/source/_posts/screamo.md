@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:14:01.407Z
+date: 2021-04-10T16:51:01.470Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -159,9 +159,6 @@ Silverstein - 18 Candles: The Early Years (2006-05-30)
 <li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/ef526583-b032-4430-b99a-0c07d9afa89f/15325030867-500.jpg" data-tags="emo, alternative, pop punk, screamo" role="button">
-A Change of Pace - Prepare The Masses (2006-06-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
@@ -185,9 +182,6 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
-</li>
-<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
@@ -228,6 +222,9 @@ Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - Bone Palace Ballet (2007-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
+Brand New - (Fork And Knife) (2007-10-23)
+</li>
 <li data-cover="https://img.discogs.com/cdxwuckJvWPMJFdQh9_JKFoWWzM=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6880459-1428621626-4630.jpeg.jpg" data-tags="post-hardcore" role="button">
 In Fear and Faith - Voyage (2007-12-18)
 </li>
@@ -239,6 +236,9 @@ Eyes Set to Kill - Reach (2008-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/6db3d7ec-fd51-473f-8e8a-cb9c47e5f5e6/25186336161-500.jpg" data-tags="screamo, post-hardcore, metalcore" role="button">
+A Bullet For Pretty Boy - Beauty In The Eyes of the Beholder (2008-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d9a3787-a6ae-475a-b93e-1c72a18c7018/3330594215-500.jpg" data-tags="post-hardcore" role="button">
 Greeley Estates - Go West Young Man, Let The Evil Go East (2008-05-06)

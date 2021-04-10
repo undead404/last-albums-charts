@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:37:01.421Z
+date: 2021-04-10T16:46:07.092Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -32,6 +32,9 @@ Boyz II Men - Cooleyhighharmony (1991-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e34dc48b-973f-4690-8062-c5d31c3980a0/17928794966-500.jpg" data-tags="new jack swing, soul" role="button">
 En Vogue - Funky Divas (1992-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
+Sade - Love Deluxe (1992-10-23)
 </li>
 <li data-cover="https://img.discogs.com/v6b6A8lVVCgDYmCOxydvMY-KtNk=/fit-in/200x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347495-1100245590.jpg.jpg" data-tags="soul, new jack swing, pop" role="button">
 SWV - It's About Time (1992-10-27)
@@ -293,9 +296,6 @@ Kelela - Cut 4 Me (2013-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
-</li>
-<li data-cover="https://img.discogs.com/verNsfVLO1iLaOKzgRyZuonOsT8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5421952-1392946139-1521.jpeg.jpg" data-tags="soul, r&b, 4ad, alternative pop, electro-pop, refreshing, gem" role="button">
-Lo-Fang - Blue Film (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)

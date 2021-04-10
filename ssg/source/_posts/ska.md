@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:06:01.672Z
+date: 2021-04-10T17:37:01.414Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -47,6 +47,9 @@ Operation Ivy - Energy (1989-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6a6d520-d743-4c71-bff3-299da409f34d/4895309608-500.jpg" data-tags="classic rock, reggae, ska, roots, roots reggae, lion" role="button">
 Bob Marley & The Wailers - Gold (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/46869c1b-94d7-4bc3-9774-0455e1109f92/988882362-500.jpg" data-tags="punk, reggae, ska" role="button">
+Sublime - Jah Won't Pay the Bills (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4a285a0-80ec-489d-86b2-d1666d2d99b0/6124024513-500.jpg" data-tags="ska" role="button">
 The Specials - The Singles Collection (1991-01-09)
@@ -123,9 +126,6 @@ Save Ferris - It Means Everything (1997-09-07)
 <li data-cover="http://coverartarchive.org/release/794f6593-539d-30c5-88e8-81da977865ab/9644316431-500.jpg" data-tags="ska punk" role="button">
 Goldfinger - Hang-Ups (1997-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
-Mano Negra - Best Of (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/b9396979-7a88-457e-82f0-11f469cdd44f/4397619199-500.jpg" data-tags="ska, ska punk" role="button">
 Catch 22 - Keasbey Nights (1998-03-23)
 </li>
@@ -134,9 +134,6 @@ Ska-P - Eurosis (1998-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">
 Less Than Jake - Hello Rockview (1998-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/24f6ddfe-3d2d-454f-87e6-d2f9d7ee3d14/2807928590-500.jpg" data-tags="ska" role="button">
-The Mighty Mighty Bosstones - Live From The Middle East (1998-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4926255-873e-44fd-ac3f-aa23c0286a10/16000973513-500.jpg" data-tags="ska" role="button">
 Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
@@ -267,9 +264,6 @@ Bomb the Music Industry! - To Leave or Die in Long Island (2005-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, ska, dub reggae, roots, jamband, indierock, jbb" role="button">
 10 Ft. Ganja Plant - Bass Chalice (2005-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
-Sublime - Gold (2005-11-15)
-</li>
 <li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
 Girls Aloud - Chemistry (2005-12-05)
 </li>
@@ -293,6 +287,12 @@ Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
 RX Bandits - ...And the Battle Begun (2006-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rocksteady, ska, third wave ska" role="button">
+Big D And The Kids Table - Strictly Rude (2007-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/a02a6d0b-cd51-4938-ab72-32efdc56acf8/6936491369-500.jpg" data-tags="punk, punk rock, plattensammlung" role="button">
+The Flatliners - The Great Awake (2007-09-04)
 </li>
 <li data-cover="https://img.discogs.com/95Km-qqD29mML7rgPetQ-ehaClw=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2587197-1464457762-7603.jpeg.jpg" data-tags="british" role="button">
 The Rumble Strips - Girls and Weather (2007-09-17)

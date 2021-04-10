@@ -1,10 +1,9 @@
 ---
-date: 2021-04-10T05:58:01.428Z
+date: 2021-04-10T17:33:01.414Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![SoKo - I Thought I Was an Alien (2012-02-20)](http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg "SoKo - I Thought I Was an Alien (2012-02-20)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">Leonard Cohen - Songs of Love and Hate (1971)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">Azure Ray - Azure Ray (2001-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
@@ -12,6 +11,7 @@ title: "sad: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">Antony and the Johnsons - I Am a Bird Now (2005-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">The Antlers - Burst Apart (2011-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg" data-tags="pop, sad, female vocalists, goth pop, z serii: jest dokladnie tak jak w tej piosence, got vinyl" role="button">SoKo - I Thought I Was an Alien (2012-02-20)</li>
+<li data-cover="https://img.discogs.com/1k47wZTRhC9GmAdBrDV3FpW84l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3887693-1456163738-5026.jpeg.jpg" data-tags="sad, hard rock, melancholy, my love, blues rock, songs to play at my funeral, road trip, nostalgia, makes me cry, sound poetry, sleepless nights, when im sad, whiskey and cigarettes, great song played at the right time, shes a rainbow, beautiful depressive songs, guille, solo en el puto mundo, guillerainbow, diciembre 2012, maisi 2013" role="button">Rival Sons - Head Down (2012-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">A Great Big World - Is There Anybody Out There? (2014-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">The Hotelier - Home, Like Noplace Is There (2014-02-25)</li>
 </ol>
@@ -27,14 +27,20 @@ Frank Sinatra - In the Wee Small Hours (1955-04-25)
 <li data-cover="http://coverartarchive.org/release/c4392206-1f58-48a5-b665-c1515b2ec147/6454049795-500.jpg" data-tags="jazz, sad" role="button">
 Frank Sinatra - No One Cares (1959)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Leonard Cohen - Songs of Love and Hate (1971)
+<li data-cover="https://img.discogs.com/GiVYt5duQ6pkKpz7b3KpnE8I7C0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8256525-1458094649-7843.jpeg.jpg" data-tags="folk" role="button">
+John Fahey - America (1971)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
+<li data-cover="https://img.discogs.com/EcRUNGWUxB9uHh6KB-VkTQ_vElM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5850151-1489343940-8609.jpeg.jpg" data-tags="pop" role="button">
+John Lennon & Yoko Ono - Double Fantasy (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/c91f3331-2413-3ad7-b8a0-7bf2eb4d4998/18288386494-500.jpg" data-tags="pop" role="button">
 ABBA - Super Trouper (1980-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/003c99ba-0909-4961-9726-92f4e8c0dc0d/26090688634-500.jpg" data-tags="new wave" role="button">
+Elvis Costello & The Attractions - Almost Blue (1981-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
 George Winston - December (1982)
@@ -45,11 +51,11 @@ Pink Floyd - The Final Cut (1983-03-21)
 <li data-cover="http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg" data-tags="sad, new wave, english club" role="button">
 The Police - Every Breath You Take (1983-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
-Dead Can Dance - Aion (1990-07-02)
+<li data-cover="http://coverartarchive.org/release/af5975e1-32f2-4f88-bd8e-f6b181762514/9635313264-500.jpg" data-tags="rock" role="button">
+Matthew Sweet - 100% Fun (1995-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
-Tori Amos - Little Earthquakes (1992-01-13)
+<li data-cover="https://img.discogs.com/Au0D-GbkkFHHGS4eZDAKNqFw4HE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433447-1327746246.jpeg.jpg" data-tags="indie rock" role="button">
+Chokebore - A Taste for Bitters (1996-10-08)
 </li>
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
@@ -59,6 +65,9 @@ Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/57a5da39-729b-3352-9c95-e9b390e22e08/16155956543-500.jpg" data-tags="sad, canadian, 90s" role="button">
 Destroyer - City of Daughters (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
+Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c8f10cc-c39d-44bd-a6c7-3de06a4d8745/28068755551-500.jpg" data-tags="scottish, indie rock, 90s" role="button">
 Arab Strap - Philophobia (1998-04-20)
@@ -71,9 +80,6 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
-Cat Power - Moon Pix (1998-09-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="98 degrees" role="button">
 98 Degrees - 98 Degrees and Rising (1998-10-20)
@@ -114,11 +120,11 @@ DIR EN GREY - ain't afraid to die (2001-04-18)
 <li data-cover="http://coverartarchive.org/release/51b02443-0363-4840-b1f4-b6e81fc2ae07/8013711579-500.jpg" data-tags="rock, alternative rock" role="button">
 Stabbing Westward - Stabbing Westward (2001-05-22)
 </li>
-<li data-cover="https://img.discogs.com/mSeoI_HcIeqYDxK05onJaHlvmfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810930-1578767578-7046.jpeg.jpg" data-tags="indie, indie rock" role="button">
-The Wrens - The Meadowlands (2002)
-</li>
 <li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
 Azure Ray - November (2002-01-22)
+</li>
+<li data-cover="https://img.discogs.com/f6bmPDZ_bE-s8ZgYH9VahxY8O2M=/fit-in/284x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4027690-1352829425-6531.jpeg.jpg" data-tags="hyde" role="button">
+Hyde - Roentgen (2002-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/65106183-2eb1-48e4-907f-3876f3183324/23777691533-500.jpg" data-tags="indie, female vocalists" role="button">
 Azure Ray - Burn and Shiver (2002-04-09)
@@ -126,17 +132,11 @@ Azure Ray - Burn and Shiver (2002-04-09)
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/c4ddbd2a-b2bb-409f-b326-a2e844e105a0/18742694428-500.jpg" data-tags="indie" role="button">
-Aqualung - Aqualung (2002-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
 The Early November - For All Of This (2002-11-05)
 </li>
 <li data-cover="https://img.discogs.com/E5_hooWVbZtRFHjLevOh4QK5K9Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493485-1598683609-9129.jpeg.jpg" data-tags="folk, sad, slowcore, kal cahoone, allmusicl, motdmusic, motdsadsongs" role="button">
 Lilium - Short Stories (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
-Cat Power - You Are Free (2003-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
@@ -156,32 +156,29 @@ Saybia - These Are The Days (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
-<li data-cover="https://img.discogs.com/4QMItOxNsznB4LOlbP9TeGenZ9E=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132768-1317281677.jpeg.jpg" data-tags="electronic" role="button">
-IAMX - Kiss + Swallow (2004-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f2549b6-d0e5-47f6-a7ee-d1d4aab27496/16354126929-500.jpg" data-tags="trip-hop, indie, unplugged" role="button">
 Archive - Unplugged (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
-The Mountain Goats - The Sunset Tree (2005-04-25)
+<li data-cover="http://coverartarchive.org/release/e06698bb-93fc-4b0f-a524-c39db5fe17fc/24652636848-500.jpg" data-tags="rock, alternative" role="button">
+Mike Doughty - Haughty Melodic (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d0569a7-1bf9-4d71-843b-9e0d624036e5/10309709950-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - Batman Begins (2005-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
-Antimatter - Planetary Confinement (2005-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
+<li data-cover="https://img.discogs.com/SliWxj2iy8Y5n12XU_grxv7piKE=/fit-in/476x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697568-1297007420.jpeg.jpg" data-tags="depressive black metal" role="button">
+Life is Pain - Bloody Melancholy (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/883c34c8-469a-4192-811d-095c1f8790b7/17000671940-500.jpg" data-tags="screamo" role="button">
 Suis la lune - Quiet, Pull the Strings! (2006)
+</li>
+<li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
+Steve Adey - All Things Real (2006-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f5a5c5-64f8-417e-be12-b50dc322bc23/3357093889-500.jpg" data-tags="post-rock" role="button">
 Jeniferever - Choose a Bright Morning (2006-03-13)
@@ -210,14 +207,11 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 <li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Cassadaga (2007-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
-Antimatter - Leaving Eden (2007-04-13)
-</li>
-<li data-cover="https://img.discogs.com/BoGbyy7Do1JUgre77BV5uJ9F9ZQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046299-1431906056-3192.jpeg.jpg" data-tags="australian, pop" role="button">
-Darren Hayes - This Delicate Thing We've Made (2007-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/51392bf7-adaf-4c93-8f81-4f49d09fea2d/8258208354-500.jpg" data-tags="soundtrack" role="button">
+Jonny Greenwood - There Will Be Blood (2007-12-17)
 </li>
 <li data-cover="https://img.discogs.com/P77tgw8KeCdkYtdn-B3LP_5eJPk=/fit-in/589x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1536049-1227293535.jpeg.jpg" data-tags="sad" role="button">
 White Lies - Unfinished Business (2008)
@@ -230,6 +224,9 @@ Yasemin Mori - Hayvanlar (2008-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
+Frozen Silence - Impressions (2008-12-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/638b8b03-2b7a-407c-bd76-54b925c4fe6c/14283405150-500.jpg" data-tags="folk punk" role="button">
 Andrew Jackson Jihad - Can't Maintain (2009)
@@ -279,11 +276,11 @@ Maria Peszek - Jezus Maria Peszek (2012-10-03)
 <li data-cover="http://coverartarchive.org/release/a066b065-cd76-4dd4-a975-f3812fcd3229/18848001906-500.jpg" data-tags="trance, dance, eurovision" role="button">
 Loreen - Heal (2012-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
-Daughter - If You Leave (2013-03-18)
-</li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ece8a0c-3a85-42d2-8a52-46f7ae770fa7/21164025219-500.jpg" data-tags="dark ambient" role="button">
+The Haxan Cloak - Excavation (2013-04-15)
 </li>
 <li data-cover="https://img.discogs.com/4VJcIji1VRyrCd8fhzc_3jIo6R8=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6859319-1428678455-3301.jpeg.jpg" data-tags="alternative rock" role="button">
 Jimmy Eat World - Damage (2013-05-07)
@@ -306,11 +303,14 @@ CHVRCHES - The Bones of What You Believe (2013-09-20)
 <li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
 Glee Cast - The Quarterback (2013-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/43932c39-e9bd-4411-82a1-c566b4ecc23d/7826976851-500.jpg" data-tags="sadcore, anti-folk" role="button">
-Crywank - Tomorrow Is Nearly Yesterday And Everyday Is Stupid (2013-11-07)
+<li data-cover="https://img.discogs.com/wrKx2pQ-5-B7CzdUDum9u-RpVEQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5295180-1390175471-7549.jpeg.jpg" data-tags="electronic, indie, ambient, sad, dreamy, ethereal, melancholic, ambient techno, 10s, brooding, darla, dream vocal, changes lives" role="button">
+Bvdub - I'll Only Break Your Heart (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b543cfef-c8d1-4ba3-a8b2-742af1d56cd3/15500392136-500.jpg" data-tags="indie, pop, female vocalists" role="button">
+Sophie Ellis-Bextor - Wanderlust (2014-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">
 The Hotelier - Home, Like Noplace Is There (2014-02-25)

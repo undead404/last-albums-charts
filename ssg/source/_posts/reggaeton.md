@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T20:51:07.076Z
+date: 2021-04-10T17:05:07.024Z
 title: "reggaeton: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0b0e84e9-a01f-41bc-bc5b-4d0322983076/14746881987-500.jpg" data-tags="reggaeton" role="button">Daddy Yankee - Barrio Fino (2004-06-13)</li>
+<li data-cover="http://coverartarchive.org/release/39596074-33cf-41c9-a4c2-cb8adf7821bf/872558402-500.jpg" data-tags="reggaeton" role="button">Don Omar - King Of Kings (2006-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
+<li data-cover="http://coverartarchive.org/release/1efdb640-9fc3-4707-bb17-29d31a133336/6403265894-500.jpg" data-tags="reggaeton" role="button">Zion - The Perfect Melody (2007-06-05)</li>
+<li data-cover="https://img.discogs.com/XN4gOB8lV9UKEQx9PT4T-Ommqhs=/fit-in/458x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3236526-1391807745-8245.jpeg.jpg" data-tags="reggaeton" role="button">Daddy Yankee - Talento De Barrio (2008-08-12)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/6fb164ce-031e-488b-b5b6-7090932e7621/28304456586-500.jpg" data-tags="reggaeton" role="button">Don Omar - Meet the Orphans (2010-11-16)</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">Deafheaven - Roads to Judah (2011-04-26)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
@@ -21,29 +21,29 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5af5ddcc-599c-47ed-861b-831f058a6b1c/19086075869-500.jpg" data-tags="latin" role="button">
-Fulanito - El Hombre Mas Famoso De La Tierra (1997-11-17)
+<li data-cover="http://coverartarchive.org/release/4b982e97-9e81-4ac1-9e57-8032f6c4b52e/14746910635-500.jpg" data-tags="hip-hop, reggaeton, spanish lyrics" role="button">
+Daddy Yankee - El Cartel (1998)
 </li>
 <li data-cover="https://img.discogs.com/Zls8L5Ty74vC6RVBUQ46KGQOJOo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2468555-1549796576-3804.jpeg.jpg" data-tags="reggae, dancehall, ragga, mr vegas" role="button">
 Mr. Vegas - Heads High (1999)
 </li>
-<li data-cover="https://img.discogs.com/ffJo-s_CggbAV_8Mxyv8ZUyObRE=/fit-in/450x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565631-1160235948.jpeg.jpg" data-tags="hip-hop, reggae, urban, latin, house, 90s, american, reggaeton, latino, merengue, dominican, merenhouse, merenrap, salsa-merengue" role="button">
-Fulanito - El Padrino (1999-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/3de6fac0-fa8b-4bf6-94f2-655e6f6df53c/14271051779-500.jpg" data-tags="hip-hop, tony touch, remix master, del bronx" role="button">
 Tony Touch - The Piece Maker (2000-04-18)
 </li>
-<li data-cover="https://img.discogs.com/tYnkNfkQp_3KCQsJUPt3MhWKYnE=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437934-1219696801.jpeg.jpg" data-tags="merengue" role="button">
-Fulanito - The Remixes (2001-04-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
-新居昭乃 - RGB (2002-04-24)
+<li data-cover="http://coverartarchive.org/release/81e42d65-0afa-4761-857a-69bf1e6c4f65/3305342120-500.jpg" data-tags="hip-hop, reggaeton, spanish lyrics" role="button">
+Wisin & Yandel - De Nuevos a Viejos (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/c58579ad-f20a-47bd-8f3f-b44b36e17126/6620954405-500.jpg" data-tags="hip-hop, reggaeton, spanish lyrics, skit" role="button">
 Daddy Yankee - El Cangri.com (2002-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/553e4b8a-7544-4784-a1c6-99426b734076/16084650931-500.jpg" data-tags="reggaeton, spanish lyrics" role="button">
+Wisin & Yandel - De Otra Manera (2002-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3e14ec9-216a-4754-be66-75453f5d10f4/21137689903-500.jpg" data-tags="reggaeton" role="button">
 Daddy Yankee - Los Homerun-es (2003)
+</li>
+<li data-cover="https://img.discogs.com/p4t0_uURtCI4UB9svaXiIBPO7XA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4857675-1377655178-9763.jpeg.jpg" data-tags="camela" role="button">
+Camela - Por Siempre Tu Y Yo (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc32f16f-5cdb-4566-bece-84ea1ffc5ab3/884495314-500.jpg" data-tags="reggaeton" role="button">
 Don Omar - The Last Don (2003-06)
@@ -51,14 +51,23 @@ Don Omar - The Last Don (2003-06)
 <li data-cover="http://coverartarchive.org/release/8a7228bf-ccb3-498c-abd9-8d65a1722224/1346149024-500.jpg" data-tags="reggaeton" role="button">
 Wisin - El Sobreviviente (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3e6190d-9259-458b-b43a-88e9c1c3796a/17238670440-500.jpg" data-tags="reggaeton" role="button">
+Nicky Jam - Vida Escante (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a6437b0-887b-412d-a8b3-19bfafc1d003/14911556305-500.jpg" data-tags="reggaeton" role="button">
 Zion y Lennox - Motivando a La Yal (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b0e84e9-a01f-41bc-bc5b-4d0322983076/14746881987-500.jpg" data-tags="reggaeton" role="button">
 Daddy Yankee - Barrio Fino (2004-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/409e16c9-de4c-4436-a601-b916de4cff9a/10007248813-500.jpg" data-tags="spanish, reggaeton, sensual, luxo, alefone" role="button">
+Luny Tunes - La Trayectoria (2004-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab77fb88-bad6-4e56-9fb3-345dd4864c2a/4942092078-500.jpg" data-tags="reggaeton, rnb" role="button">
 Nina Sky - Nina Sky (2004-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/29bef7a8-500c-4b75-8b64-7c6af12d0dcf/4483221262-500.jpg" data-tags="reggaeton, love dis cd" role="button">
+Divino - Todo A Su Tiempo (2004-08-02)
 </li>
 <li data-cover="https://img.discogs.com/mjOxPmaclMEP_xh0rPPtiE5OWb0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841506-1346519889-7225.jpeg.jpg" data-tags="metalcore" role="button">
 August Burns Red - Looks Fragile After All (2004-08-24)
@@ -66,23 +75,26 @@ August Burns Red - Looks Fragile After All (2004-08-24)
 <li data-cover="http://coverartarchive.org/release/4373f989-150d-4716-a522-64e1362637c0/28829791838-500.jpg" data-tags="reggae, german" role="button">
 Culcha Candela - Next Generation (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/790617c0-57af-4673-a045-8af526d3cfe4/19688854277-500.jpg" data-tags="memories, reggaeton" role="button">
+Wisin & Yandel - Rakata (2005-01-27)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="bachata" role="button">
 Aventura - God's Project (2005-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/50aa8f93-1a1c-44ff-8d9b-825458b87cf0/17781979335-500.jpg" data-tags="reggaeton" role="button">
-Wisin & Yandel - Pa'l Mundo (2005-11-08)
+<li data-cover="http://coverartarchive.org/release/524a8b6f-3bbd-47f0-be7f-00a21f68e0dd/17839978243-500.jpg" data-tags="reggaeton" role="button">
+Johnny Prez - The Prezident (2005-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac185c08-faaf-4141-9d52-ad1032459961/17280698641-500.jpg" data-tags="tony touch" role="button">
+Tony Touch - The Reggaetony Album (2005-06-28)
+</li>
+<li data-cover="https://img.discogs.com/VG0ZGPq8e-ZIcKP2hlASdpWHJZs=/fit-in/317x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2835382-1303217080.jpeg.jpg" data-tags="pop, latin pop" role="button">
+Jon Secada - Same Dream (2005-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f183e120-edac-4a0f-b1e0-28a03cf4382c/2009302187-500.jpg" data-tags="hip-hop, rap" role="button">
 Pitbull - Money Is Still A Major Issue (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/99210be3-5afa-4697-9c3e-ea31bcca84b5/1216273762-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - The Pitbulls (2005-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c5874e1d-1c1b-4b28-ab35-cf38e4e8bde7/2954384034-500.jpg" data-tags="reggaeton" role="button">
-Calle 13 - Calle 13 (2005-11-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f62ea87-c21d-3d86-adfd-a6752f759f70/25084521614-500.jpg" data-tags="reggaeton" role="button">
-Daddy Yankee - Barrio Fino en Directo (2005-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e00c1aed-765b-4d87-8426-dfa41ad3097d/17489676778-500.jpg" data-tags="reggaeton, daddy yankee, voltio" role="button">
 Voltio - Voltio (2005-12-27)
@@ -105,23 +117,26 @@ Latin Fresh - Plan Calle (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/5c912595-f439-4703-834d-630039081b24/2009506363-500.jpg" data-tags="crunk, reggeaton" role="button">
 Pitbull - El Mariel (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/d792bb9a-ad6e-4473-bef5-5f7812199dbd/14372633810-500.jpg" data-tags="latin, reggaeton" role="button">
+K-Narias - Hombres Con Pañales (2006-11-15)
+</li>
+<li data-cover="https://img.discogs.com/Y21XSXnx2Hmn12SDGCGbTkFEzGk=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343790-1326637506.jpeg.jpg" data-tags="pop, latin, mexico, reggaeton, latin pop, mexican, albums and songs i recommend, homem gostoso" role="button">
+RBD - Money Money (2006-12-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/7fc81176-62f4-4f52-b7ac-54f4e72de0b4/26715380953-500.jpg" data-tags="rbd, latin pop" role="button">
 RBD - Rebels (2006-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/81e0bd2c-c61b-4c9a-8f8a-21916911e1e6/8852178381-500.jpg" data-tags="deathcore" role="button">
 Attila - Fallacy (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/85761ccf-8afd-48e9-bf60-4144632b2824/17175595533-500.jpg" data-tags="reggaeton, latin grammy nominated, ivy, que lloren, corazon anestesiado, cuando no me tengas, en que fallamos corazon, indecisiones, que quieres tu de mi" role="button">
-Ivy Queen - Sentimiento (2007-03-27)
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="latin, reggaeton, cumbia, merengue, salsa, bachata, dominicana" role="button">
+Mamajuana - Bachata Bahiana (2007-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/81ffd3bb-aee7-4d83-bcbb-eed4f252534c/10281303418-500.jpg" data-tags="reggaeton, calle 13" role="button">
-Calle 13 - Residente o Visitante (2007-04-24)
+<li data-cover="http://coverartarchive.org/release/ce0a5126-11c7-49bc-9e05-c0183e0d5dc9/1901603301-500.jpg" data-tags="reggaeton" role="button">
+Wisin & Yandel - 2010 Lost Edition (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/07dec447-6484-41d5-905e-0deb74e5e578/17202420343-500.jpg" data-tags="reggaeton, notch, shamanes" role="button">
 Notch - Raised By The People (2007-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/5efad128-3495-43e9-b828-c7d68cf56544/4653652800-500.jpg" data-tags="reggaeton" role="button">
-Daddy Yankee - El Cartel: The Big Boss (2007-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1efdb640-9fc3-4707-bb17-29d31a133336/6403265894-500.jpg" data-tags="reggaeton" role="button">
 Zion - The Perfect Melody (2007-06-05)
@@ -132,23 +147,20 @@ Kat DeLuna - 9 Lives (2007-08-07)
 <li data-cover="http://coverartarchive.org/release/b5dbde2e-67e3-4f68-a4b6-1a91fb7008ca/5731884304-500.jpg" data-tags="reggaeton, 00s, latin pop" role="button">
 Nigga - Te Quiero (2007-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/791b6ff6-93e0-4298-9058-0d0eed8de93c/1902307735-500.jpg" data-tags="reggaeton, latin grammy nominated" role="button">
-Tito El Bambino - It's My Time (2007-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/f480ef6b-aabb-419c-ab25-bdef41bada6c/872549203-500.jpg" data-tags="reggaeton" role="button">
 Don Omar - King Of Kings Live (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b21315c9-8290-494b-ae20-49c49fd81469/16084688752-500.jpg" data-tags="reggaeton" role="button">
 Wisin & Yandel - Los Extraterrestres (2007-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/33a57c9c-a032-410a-a70b-9e2fbcc71583/17472230558-500.jpg" data-tags="reggaeton, latin grammy nominated, spanish lyrics" role="button">
-Alexis & Fido - Sobrenatural (2007-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/4cd20e89-3484-4c09-8fec-59df18d09df8/17489718547-500.jpg" data-tags="reggaeton" role="button">
 Voltio - En Lo Claro (2007-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3adacc3-a7c8-4a7d-bb91-07bbd381d33f/2009511677-500.jpg" data-tags="rap, pitbull" role="button">
 Pitbull - The Boatlift (2007-11-27)
+</li>
+<li data-cover="https://img.discogs.com/9gqjdJPDlX1Ei-O_rss9aR0c2DA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8699049-1466863537-1089.jpeg.jpg" data-tags="hip-hop, pop, glitch-hop, crunk, rnb, breakcore, experimental hip-hop, industrial hip-hop, noise-hop, avant-hop, death-hop" role="button">
+Chaos Royale - Chaos All Stars v1.3 (2008)
 </li>
 <li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
 Steel Panther - Death To All But Metal (2008)
@@ -164,9 +176,6 @@ Daddy Yankee - Talento De Barrio (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/22d29126-208f-4368-99e4-fe37fd7cd14f/17946178082-500.jpg" data-tags="reggaeton" role="button">
 Jadiel - Lo Mejor De Mi (2008-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf3dc753-6a43-41a6-9df6-bd9c3757f1f1/3574760050-500.jpg" data-tags="calle 13, hip-hop" role="button">
-Calle 13 - Los De Atrás Vienen Conmigo (2008-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cade5476-1735-40ee-a8bd-4175a56698af/20129058299-500.jpg" data-tags="reggaeton, 925 maxima" role="button">
 Makano - Te Amo (2008-11-18)
@@ -186,14 +195,11 @@ The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/2d841250-9f3b-4d34-8d88-b5c5bfe5eb6c/872455810-500.jpg" data-tags="reggaeton" role="button">
 Don Omar - Virtual Diva (2009-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/34775cb2-1d72-409f-bb5e-ea5d436bbe54/17397604507-500.jpg" data-tags="reggaeton, cumbia, merengue, bachata, latin grammy nominated" role="button">
-Tito El Bambino - El Patrón (2009-03-24)
+<li data-cover="http://coverartarchive.org/release/25720f3f-7f36-4d0f-b81c-d3b24cc86539/18724517850-500.jpg" data-tags="electronic, alternative, reggaeton" role="button">
+Meneo - Santa Nalga (2009-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d932ab9-fc15-4536-b70b-67670fa6e88e/28174666638-500.jpg" data-tags="electronic, reggaeton, cyberpunk, puerto rico, discos 2009, grammy latino 2009" role="button">
 Don Omar - iDon (2009-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/e81aa1a9-74c9-3859-953f-5f4bcb5f6168/17787070862-500.jpg" data-tags="reggaeton" role="button">
-Wisin & Yandel - La Revolucion (2009-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
@@ -219,17 +225,20 @@ Steel Panther - Don't Stop Believin' (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/527f3c47-c7fd-41b1-be6e-131782a1b467/6142053186-500.jpg" data-tags="reggaeton" role="button">
 Tony Dize - La Melodia De La Calle (2009-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc731300-3da1-46bf-8752-d20f5c06e9ac/3329978603-500.jpg" data-tags="reggaeton, puerto rico, perreo, nengo flow, gotay, el autentiko, gotay el autentiko" role="button">
+Gotay - El Autentiko (2010)
+</li>
+<li data-cover="https://img.discogs.com/HDX5afFre8ouskgnlPfaEyoZW9Q=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660616-1295436919.jpeg.jpg" data-tags="house, reggaeton, cumbia, ghetto, kwaito, favela funk" role="button">
+Nguzunguzu - NGUZUNGUZU EP (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/aedf33bd-48f4-4a4e-b40a-c6a54385ac0d/22050262809-500.jpg" data-tags="electropop, r&b, reggaeton" role="button">
+Wisin & Yandel - La Revolución: Live (2010-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/786bf250-76f1-4179-b1de-4429618d3990/7549448874-500.jpg" data-tags="spanish, reggaeton, latin pop, vallenato, 10s" role="button">
 Dyland & Lenny - My World (2010-03-01)
 </li>
-<li data-cover="https://img.discogs.com/lJ9agdMkf31zZfJOj0nbcAhQSvo=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11509746-1517611609-4601.jpeg.jpg" data-tags="bachata" role="button">
-Prince Royce - Prince Royce (2010-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fdd3dd3-97bf-4d73-ab1c-9555368b6a7e/8969894212-500.jpg" data-tags="reggaeton" role="button">
 Plan B - House of Pleasure (2010-07-20)
@@ -243,29 +252,17 @@ Motionless in White - Creatures (2010-10-12)
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Opus Eponymous (2010-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/b44d0d64-a0de-49c9-a0cd-3d9217a60df2/2009519755-500.jpg" data-tags="latino" role="button">
-Pitbull - Armando (2010-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fb164ce-031e-488b-b5b6-7090932e7621/28304456586-500.jpg" data-tags="reggaeton" role="button">
-Don Omar - Meet the Orphans (2010-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f0864db-6abb-49e5-8a76-34ae9fb3a322/19712971982-500.jpg" data-tags="hiphop, calle 13" role="button">
-Calle 13 - Entren Los Que Quieran (2010-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/baab743e-172b-4eb3-9b42-0dc71d06128a/26275550507-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
 Deafheaven - Libertine Dissolves (2011-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bfa1081-ae33-445d-a9aa-32510a32dd10/1241767883-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - Perreología (2011-01-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
+<li data-cover="http://coverartarchive.org/release/27f70bb8-fe73-4f3a-b02c-50f6bd7cccdb/838483523-500.jpg" data-tags="electronic, pop, dance, reggaeton" role="button">
+Wisin & Yandel - Los Vaqueros: El Regreso (2011-01-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/de9296a6-63ce-4aaf-80db-3b3755ec641e/14567835673-500.jpg" data-tags="dance, pop, latin, latin pop" role="button">
-Dulce María - Extranjera - Primera Parte (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
+<li data-cover="http://coverartarchive.org/release/f2a9331c-f519-4bc5-bf0c-cea893b00043/20196942399-500.jpg" data-tags="reggaeton" role="button">
+Nova & Jory - Mucha Calidad (2011-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
 Attila - Outlawed (2011-08-16)
@@ -276,11 +273,11 @@ The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/b60c5f53-c6ae-4e9a-ac02-616cf16fcfdf/23232270514-500.jpg" data-tags="romantic, latin, reggaeton" role="button">
+Apocalipsis - Apocalipsis (2012)
+</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Goldie (2012-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/84be76c9-41b9-4c2f-900b-9323334a10ae/1526397780-500.jpg" data-tags="black metal, pop, dance, latin, reggaeton, brutal death metal, latin grammy nominated, mierda" role="button">
-Wisin & Yandel - Líderes (2012-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/897905d8-576f-4841-a081-9bf24ce17251/7108515238-500.jpg" data-tags="metalcore" role="button">
 Motionless in White - Infamous (2012-11-12)
@@ -303,14 +300,17 @@ Attila - About That Life (2013-06-25)
 <li data-cover="http://coverartarchive.org/release/28a16fdd-292d-4b89-a6ef-75375a07ed8e/10334011340-500.jpg" data-tags="black metal, mierda" role="button">
 J Balvin - La Familia (2013-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d3dae7-ea0e-49f0-af0a-ddbf467aa11b/6319716415-500.jpg" data-tags="electropop, reggaeton, latin pop, latin grammy nominated" role="button">
-Yandel - De Líder a Leyenda (2013-11-05)
+<li data-cover="http://coverartarchive.org/release/6bc74729-f7c9-4d17-831e-643723589086/5935830271-500.jpg" data-tags="rap, reggaeton, latin pop, sentimiento, elegancia, maldad" role="button">
+Arcángel - Sentimiento, Elegancia y Maldad (2013-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe82a924-86af-4391-8808-521dfb6dd5ab/6642433468-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - La Esencia (2014-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e34bd314-6063-4fcb-843b-029bc735360a/6695927398-500.jpg" data-tags="pop, rap" role="button">
-Iggy Azalea - The New Classic (2014-04-18)
+<li data-cover="http://coverartarchive.org/release/4675c02e-935d-44b8-adce-3bfe5575877b/9163189625-500.jpg" data-tags="reggaeton" role="button">
+Alexis & Fido - La Esencia: World Edition (2014-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/e36585d2-94bc-40b5-8c8e-1bee5403b108/7548621292-500.jpg" data-tags="electropop, reggaeton, latin pop" role="button">
+Wisin - El Regreso del Sobreviviente (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - Black Veil Brides (2014-10-27)

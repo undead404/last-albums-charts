@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:57:01.396Z
+date: 2021-04-10T17:32:01.408Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -33,6 +33,9 @@ Frank Sinatra - In the Wee Small Hours (1955-04-25)
 <li data-cover="http://coverartarchive.org/release/ad745ba9-c885-44d4-ab4f-07e77ac316b1/28699341657-500.jpg" data-tags="swing, jazz" role="button">
 Frank Sinatra - Songs for Swingin' Lovers (1956-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/1bdbcc97-2eb5-434b-b948-91948980fc7f/28699328455-500.jpg" data-tags="jazz" role="button">
+Frank Sinatra - A Swingin' Affair! (1957)
+</li>
 <li data-cover="http://coverartarchive.org/release/b20ae32a-7008-49c7-9e30-a0825bc49e0b/13161146770-500.jpg" data-tags="christmas" role="button">
 Frank Sinatra - A Jolly Christmas From Frank Sinatra (1957-09)
 </li>
@@ -44,9 +47,6 @@ Dean Martin - A Winter Romance (1959-11-16)
 </li>
 <li data-cover="https://img.discogs.com/mW96bYRDAyNjKpt3v9SPCOxZIIk=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5200375-1387277094-4316.jpeg.jpg" data-tags="swing, big band" role="button">
 Benny Goodman - Sing, Sing, Sing (1960)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ba6e31c-4006-4575-a3cf-d69018374375/3281397958-500.jpg" data-tags="jazz, swing" role="button">
-Frank Sinatra - Sinatra's Swingin' Session!!! and More (1961)
 </li>
 <li data-cover="http://coverartarchive.org/release/39d33fdb-d710-33e6-ac98-5d401828cee6/16705596421-500.jpg" data-tags="jazz" role="button">
 Oliver Nelson - The Blues and the Abstract Truth (1961)
@@ -108,9 +108,6 @@ Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="big band, swing, jazz" role="button">
 Artie Shaw - Begin The Beguine (1993)
 </li>
-<li data-cover="https://img.discogs.com/tMTn65cgPFhu49UaEyd75o9KO0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7593051-1444744329-4405.jpeg.jpg" data-tags="swing, big band" role="button">
-Count Basie - Gold (1993)
-</li>
 <li data-cover="http://coverartarchive.org/release/4518e646-0695-4c85-87cc-36660d7f3e65/9686272893-500.jpg" data-tags="swing" role="button">
 Big Bad Voodoo Daddy - Big Bad Voodoo Daddy (1994)
 </li>
@@ -120,8 +117,8 @@ Fred Astaire - Steppin' Out: Astaire Sings (1994-06-21)
 <li data-cover="http://coverartarchive.org/release/6cde22f9-e946-4e96-beb0-40817ee65a06/5090261425-500.jpg" data-tags="jazz" role="button">
 Squirrel Nut Zippers - The Inevitable (1995-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/6c503d31-345a-452c-b25f-0350fe628375/3790054616-500.jpg" data-tags="swing" role="button">
-Michael Bublé - First Dance (1995-06-02)
+<li data-cover="https://img.discogs.com/9LHU55c5e4GpJmeh77p95ATOojM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3588745-1614967826-1786.jpeg.jpg" data-tags="swing" role="button">
+Indigo Swing - Indigo Swing (1995-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/59c6c27b-041b-40b5-a504-dda5f9454d74/7696266373-500.jpg" data-tags="swing" role="button">
 Royal Crown Revue - Mugzy's Move (1996)
@@ -149,9 +146,6 @@ Jack Jones - New Jack Swing (1997)
 </li>
 <li data-cover="https://img.discogs.com/s3x16GsK41wxy2uK0LrVoeA7-ok=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6872316-1488770804-6852.jpeg.jpg" data-tags="jazz, swing, big band" role="button">
 Frank Sinatra - New York, New York (1997-07-21)
-</li>
-<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a22441aa-e534-4c96-ae97-06e4a5a97c48/18272869082-500.jpg" data-tags="swing" role="button">
 Cherry Poppin' Daddies - Zoot Suit Riot (1998)
@@ -246,6 +240,9 @@ Julie London - The Very Best Of Julie London (2005-07-01)
 <li data-cover="http://coverartarchive.org/release/1419feb3-17af-4bb7-b8e2-a7233db9a1ae/28199497322-500.jpg" data-tags="swing, jazz, deutsch" role="button">
 Roger Cicero - Männersachen (2006-05-26)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="afrobeat" role="button">
+Goldfish - Caught in the loop (2006-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/73087c49-5262-4476-9717-7e4b14a9c2f3/6113407893-500.jpg" data-tags="my vinyl" role="button">
 Parov Stelar - Charleston Butterfly (2006-06-19)
 </li>
@@ -263,6 +260,9 @@ Frank Sinatra - Romance: Songs From The Heart (2007-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c050b7a-088a-4507-b228-2022438090d0/8740096796-500.jpg" data-tags="swing, deutsch" role="button">
+Roger Cicero - Beziehungsweise (2007-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d7d6b80-d802-41f0-bc81-2127a5a1603a/3089784007-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - Greatest Hits (2008)
