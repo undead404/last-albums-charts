@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:33:01.436Z
+date: 2021-04-10T09:27:01.415Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e572a3b-3210-3c99-955f-e47c59aaaeff/10661766770-500.jpg" data-tags="rnb, soul, 90s" role="button">
+Boyz II Men - II (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Bedtime Stories (1994-10-24)
@@ -245,9 +248,6 @@ Mariah Carey - Memoirs of an Imperfect Angel (2009-09-29)
 </li>
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc24f37f-ee6f-48f3-b0f2-b07e14481af0/10892266022-500.jpg" data-tags="pop" role="button">
-Leona Lewis - Echo (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Rated R (2009-11-16)

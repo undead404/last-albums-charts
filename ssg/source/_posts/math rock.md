@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:58:01.441Z
+date: 2021-04-10T09:00:01.491Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -26,9 +26,6 @@ Slint - Spiderland (1991-03-15)
 </li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9830d183-e96a-4ee0-bc14-cb0b58b39dcb/3195373886-500.jpg" data-tags="math rock, post-hardcore" role="button">
-Rodan - Rusty (1994-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
@@ -105,9 +102,6 @@ Sleeping People - Sleeping People (2005)
 <li data-cover="http://coverartarchive.org/release/8ec4547a-f513-4908-90e4-93faf84471d2/11123419461-500.jpg" data-tags="math rock, post-rock" role="button">
 Piglet - Lava Land (2005-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/37b256dd-b078-3f43-931a-e278c591a9c1/18726885638-500.jpg" data-tags="indie, indie rock, rock, minus the bear" role="button">
-Minus the Bear - Menos El Oso (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">
 toe - the book about my idle plot on a vague anxiety (2005-08-31)
 </li>
@@ -128,6 +122,9 @@ Lite - Filmlets (2006-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c602130f-51ae-4797-b2f4-842ad1453ee1/5416910313-500.jpg" data-tags="math rock, post-rock, monotreme records" role="button">
 65daysofstatic - Radio Protector (2006-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/171900d9-67ea-41cf-89af-0c1730563b06/7600488157-500.jpg" data-tags="indie, rock, math rock, progressive metal, progressive rock" role="button">
+Cinemechanica - The Martial Arts (2006-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd45f8f1-a0e8-4225-b864-c2ff58e4f54c/16110213518-500.jpg" data-tags="math rock" role="button">
 Don Caballero - World Class Listening Problem (2006-05-16)
@@ -207,11 +204,11 @@ Midwest Pen Pals - Inside Jokes EP (2009)
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
-And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/457b6f67-d5fb-4782-bff7-80b64043ce9b/25107683680-500.jpg" data-tags="instrumental, post-rock" role="button">
 65daysofstatic - Escape from New York (2009-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/36680ad6-a047-423a-b06b-d6723a3dc56f/12651455221-500.jpg" data-tags="alternative rock, post-hardcore, j-rock" role="button">
+凛として時雨 - just A moment (2009-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/162892dc-49d4-4540-80f6-b7127a147ad4/3370180048-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
@@ -233,6 +230,9 @@ Girlfriends - Girlfriends (2009-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f11735df-917a-41bf-8bc8-bae05bcec0e9/9186820888-500.jpg" data-tags="math rock, post-rock, twinkle daddies, role certo" role="button">
 Clever Girl - No Drum and Bass in the Jazz Room (2010)
+</li>
+<li data-cover="https://img.discogs.com/kTnUIFbSEfRuX2fQiv8uUxu2kD0=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2207200-1282079851.jpeg.jpg" data-tags="post-rock" role="button">
+Kaki King - Junior (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
@@ -282,11 +282,17 @@ toe - The Future Is Now EP (2012-06-20)
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2858fbf-9d65-4deb-8dbe-9c07f3af15cf/8764377056-500.jpg" data-tags="emo" role="button">
+Dads - American Radass (This Is Important) (2012-08-07)
+</li>
 <li data-cover="https://img.discogs.com/4OSOdDpTiQTbs_uwQUQBkgqjSgs=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4210791-1358639251-9339.jpeg.jpg" data-tags="math rock" role="button">
 This Town Needs Guns - 13.0.0.0.0 (2013-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a23bf85-a672-44c2-9fc1-5e479f7217d6/3064153162-500.jpg" data-tags="math rock" role="button">
+And So I Watch You From Afar - All Hail Bright Futures (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c7a21e2-ce44-4f2b-b400-3147a8a7d243/16060198295-500.jpg" data-tags="instrumental, math rock" role="button">
 The Physics House Band - Horizons / Rapture (2013-04-15)
@@ -306,9 +312,6 @@ tricot - T H E (2013-10-02)
 <li data-cover="http://coverartarchive.org/release/e3e31012-c9cd-4c30-b415-3e76609d4078/8536436332-500.jpg" data-tags="math rock" role="button">
 tricot - THE (2013-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/8640e342-ca55-4318-ba45-f9b92de83ad5/5399396436-500.jpg" data-tags="progressive rock" role="button">
-Plini - Sweet Nothings (2013-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/6c08b72b-19dd-45cd-96e3-141eb6993911/27197506984-500.jpg" data-tags="emo" role="button">
 Marietta - Summer Death (2013-10-21)
 </li>
@@ -317,8 +320,5 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="https://img.discogs.com/qNx490nv9tSlaaAVsLpNT3RnV6w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092431-1411209334-9708.jpeg.jpg" data-tags="math rock, noise rock" role="button">
 Shellac - Dude Incredible (2014-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b12e23d6-398c-4bda-a5aa-163b7dde3298/8816037746-500.jpg" data-tags="math rock, post-hardcore" role="button">
-Marmozets - The Weird and Wonderful Marmozets (2014-09-29)
 </li>
 </ol>

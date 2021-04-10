@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:44:01.427Z
+date: 2021-04-10T09:26:01.419Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -159,6 +159,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
+Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
 </li>
@@ -179,9 +182,6 @@ Air - Talkie Walkie (2004-01-21)
 </li>
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
-</li>
-<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
-Blockhead - Music By Cavelight (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
 Husky Rescue - Country Falls (2004-10-11)
@@ -218,9 +218,6 @@ Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/45eab23f-9c58-4cf0-93b8-7b744df34944/15448348648-500.jpg" data-tags="downtempo" role="button">
-Emancipator - Soon it Will be Cold Enough (2006-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Flunk - Personal Stereo (2007-04-23)
@@ -272,6 +269,9 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
+</li>
+<li data-cover="https://img.discogs.com/MooLgYBSQr1kFvbb2cGK5uvrZdE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3583119-1336214245.jpeg.jpg" data-tags="alternative rock, downtempo" role="button">
+Gotye - Eyes Wide Open (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)

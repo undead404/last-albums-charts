@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:53:01.406Z
+date: 2021-04-10T08:51:01.425Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -54,6 +54,9 @@ Son Volt - Trace (1995-09-19)
 <li data-cover="https://img.discogs.com/cMK3nWewwhq4rsy67g2jbnJf8SI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736313-1153473870.jpeg.jpg" data-tags="americana, alt-country" role="button">
 Gillian Welch - Revival (1996-04-09)
 </li>
+<li data-cover="https://img.discogs.com/8gCwivGfxziWqw7vLTg_KeVCgAc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2793119-1301259769.jpeg.jpg" data-tags="guster" role="button">
+Guster - Goldfly (1997-03-04)
+</li>
 <li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
 Whiskeytown - Strangers Almanac (1997-07-29)
 </li>
@@ -62,9 +65,6 @@ Calexico - The Black Light (1998-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc38531a-a567-3d20-a49c-80f0ff31dac2/6212217119-500.jpg" data-tags="americana" role="button">
-Gillian Welch - Hell Among The Yearlings (1998-07-28)
 </li>
 <li data-cover="https://img.discogs.com/n0rEsIRhAgZo9rDRLCP6Y3WxgnA=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368162-1104497072.jpg.jpg" data-tags="indie, 90s" role="button">
 Silver Jews - American Water (1998-10-20)
@@ -147,6 +147,9 @@ The National - Cherry Tree (2004-05-31)
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">
+The Avett Brothers - Mignonette (2004-07-27)
+</li>
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
@@ -180,6 +183,9 @@ Bruce Springsteen - We Shall Overcome: The Seeger Sessions (2006-04-24)
 <li data-cover="https://img.discogs.com/O5XwKi9q8ZHB_1fGKNlvskSdI5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2127169-1533790488-7456.jpeg.jpg" data-tags="country, folk, americana" role="button">
 Old Crow Medicine Show - Big Iron World (2006-08-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
+Ryan Bingham - Mescalito (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6c83654-eca9-44d9-9f5c-a77ae9de5f93/26393895109-500.jpg" data-tags="singer-songwriter, kurt, acoustic, abuse, virginia, ralph, harvey, miscellaneous, std, evan, curt, evans, peterson, dustin, mustard, marti, weinstein, partitioned, sandifur, rolph" role="button">
 Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
@@ -189,17 +195,14 @@ Bright Eyes - Four Winds (2007-02-26)
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/a471459a-0f9e-4a2f-9525-4179ba3baf36/2012803900-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Josh Ritter - The Historical Conquests Of Josh Ritter (2007-08-21)
+<li data-cover="https://img.discogs.com/UDV_1TtRN_gR1czRTs-EoUbP8Ic=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712279-1431256710-1520.jpeg.jpg" data-tags="alt-country" role="button">
+The Avett Brothers - Emotionalism (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
 Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c8398de-11e3-4dd1-ab32-4f2ca7cbccd8/27982063567-500.jpg" data-tags="indie" role="button">
 Dr. Dog - Fate (2008-07-22)
@@ -209,9 +212,6 @@ Peter Bradley Adams - Leavetaking (2008-08-05)
 </li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
-</li>
-<li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
-Jenny Lewis - Acid Tongue (2008-09-21)
 </li>
 <li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
 Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
@@ -233,9 +233,6 @@ Dawes - North Hills (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/86999218-5d93-4590-80f6-e609ca6ed072/17331772069-500.jpg" data-tags="folk" role="button">
 Bowerbirds - Upper Air (2009-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/edfa2198-2521-4c00-95e9-b8385f189aec/15829365088-500.jpg" data-tags="alt-country, folk rock" role="button">
-The Avett Brothers - I and Love and You (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
 Johnny Cash - American VI: Ain't No Grave (2010-02-22)
@@ -267,9 +264,6 @@ The Decemberists - The King Is Dead (2011-01-14)
 <li data-cover="http://coverartarchive.org/release/d018eb48-2097-463c-9d1b-433836f3ec47/28251309548-500.jpg" data-tags="rock, alternative, americana, kickass, my gang 11" role="button">
 Middle Brother - Middle Brother (2011-03-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5c8be35-4645-44b8-b994-7c5140081a2d/21285235822-500.jpg" data-tags="americana" role="button">
-Gillian Welch - The Harrow & The Harvest (2011-06-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)
 </li>
@@ -290,6 +284,9 @@ Band of Horses - Mirage Rock (2012-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
 Yo La Tengo - Fade (2013-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/89307837-a88f-4ca4-bbe8-f1a8c0e37683/12628217749-500.jpg" data-tags="americana" role="button">
+The Lone Bellow - The Lone Bellow (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
@@ -317,6 +314,9 @@ Sharon Van Etten - Are We There (2014-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b69931-add2-4409-8d7a-939f277223f2/7183720847-500.jpg" data-tags="folk" role="button">
 First Aid Kit - Stay Gold (2014-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/c5f97e39-ed91-4cdb-b2f4-43a1bee2a980/14843215229-500.jpg" data-tags="americana" role="button">
+Hiss Golden Messenger - Lateness of Dancers (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)

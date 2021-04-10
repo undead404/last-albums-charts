@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:51:01.431Z
+date: 2021-04-10T08:47:01.436Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -231,6 +231,9 @@ Norah Jones - Not Too Late (2006)
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/8aae5c08-f0aa-4568-b240-a43b4c1fa4ee/19223128466-500.jpg" data-tags="ben harper, blues" role="button">
+Ben Harper - Both Sides Of The Gun (2006-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
@@ -257,9 +260,6 @@ The Verve - Love Is Noise (2008-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
-</li>
-<li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
-Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)

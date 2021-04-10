@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:04:01.418Z
+date: 2021-04-10T08:52:01.402Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -39,6 +39,9 @@ Tricky - Maxinquaye (1995-02-20)
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
+<li data-cover="https://img.discogs.com/P1aDkYbPs3UCngSPoP-eOqSMKeQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11221028-1512156805-2715.gif.jpg" data-tags="trip-hop, electronic" role="button">
+Moloko - Do You Like My Tight Sweater? (1995-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
@@ -53,6 +56,9 @@ Sneaker Pimps - Becoming X (1996-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b994ee5-38c4-4fab-bc77-83fd172a3807/4890594100-500.jpg" data-tags="trip-hop" role="button">
+Tricky - Pre-Millennium Tension (1996-10-28)
 </li>
 <li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
@@ -153,9 +159,6 @@ Sneaker Pimps - Bloodsport (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
-<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
-DJ Shadow - The Private Press (2002-05-22)
-</li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
@@ -197,9 +200,6 @@ Lamb - Between Darkness And Wonder (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
-</li>
-<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
-Blockhead - Music By Cavelight (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/096bfa52-c298-4a55-a663-ce2da11448ba/28674249434-500.jpg" data-tags="trip-hop" role="button">
 Archive - Noise (2004-03-23)
@@ -251,9 +251,6 @@ Moloko - Catalogue (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/45eab23f-9c58-4cf0-93b8-7b744df34944/15448348648-500.jpg" data-tags="downtempo" role="button">
-Emancipator - Soon it Will be Cold Enough (2006-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
 Elsiane - Hybrid (2007-04-07)
@@ -308,6 +305,9 @@ Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d47f2080-8c2a-4f20-b81f-9dad7c2c84fc/2570423040-500.jpg" data-tags="dream pop, trip-hop, alternative" role="button">
 Lana Del Rey - Paradise (2012-11-12)
+</li>
+<li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
+Bonobo - The North Borders (2013-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:31:06.881Z
+date: 2021-04-10T09:37:01.421Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -119,6 +119,9 @@ Led Zeppelin - Physical Graffiti (1975-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Aerosmith - Toys in the Attic (1975-04-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
+Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
@@ -258,9 +261,6 @@ The Black Keys - Attack & Release (2008-03-31)
 <li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
 </li>
-<li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
-Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a0d6f6b-0a2b-4449-880c-4529bdaec15d/16256226007-500.jpg" data-tags="blues rock" role="button">
 Radio Moscow - Brain Cycles (2009-04-19)
 </li>
@@ -275,9 +275,6 @@ John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
 Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
-The White Stripes - Under Great White Northern Lights (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)
@@ -305,6 +302,9 @@ Jack White - Blunderbuss (2012-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b67efa71-3638-490e-98ec-2d7c4849832c/4200304495-500.jpg" data-tags="blues rock, the black keys" role="button">
 The Black Keys - Little Black Submarines (2012-09-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/2410cedd-3a9e-4822-8acf-158542f367ea/2745548084-500.jpg" data-tags="blues, blues rock, warner music, hotwire unlimited" role="button">
+Gary Clark Jr. - Blak and Blu (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

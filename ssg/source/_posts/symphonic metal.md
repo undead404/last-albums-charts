@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:42:01.395Z
+date: 2021-04-10T09:32:01.418Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -231,9 +231,6 @@ Kamelot - Ghost Opera (2007-03-29)
 <li data-cover="http://coverartarchive.org/release/7318fcb2-2eef-4977-9ad1-bce29fd86dcf/9588866037-500.jpg" data-tags="symphonic metal" role="button">
 After Forever - After Forever (2007-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/1fac1ccd-70b5-4ff2-99fe-c58addc99ba2/5922539539-500.jpg" data-tags="metal, finnish, symphonic metal, nightwish" role="button">
-Nightwish - Eva (2007-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/521ec9fe-01ec-4324-bbc4-08ffd7926741/8609207436-500.jpg" data-tags="symphonic metal" role="button">
 Visions of Atlantis - Trinity (2007-05-25)
 </li>
@@ -264,8 +261,14 @@ Avantasia - The Scarecrow (2008-01-23)
 <li data-cover="http://coverartarchive.org/release/6fcba7d8-952b-4cd9-b9f5-eb3d7550ac20/2490616264-500.jpg" data-tags="symphonic metal" role="button">
 Amberian Dawn - River of Tuoni (2008-01-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, power metal" role="button">
+Versailles -Philharmonic Quintet- - NOBLE (2008-07-16)
+</li>
 <li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Black Symphony (2008-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c7fe39d-1bd8-4974-8940-5cc8fa406490/1069142766-500.jpg" data-tags="gothic metal" role="button">
+Sirenia - The 13th Floor (2009-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bfd66c-2689-498b-bbd3-05e7d62cbefe/963414452-500.jpg" data-tags="symphonic metal" role="button">
 Delain - April Rain (2009-02-09)
@@ -311,9 +314,6 @@ Delain - We Are the Others (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
 Wintersun - Time I (2012-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
-Amaranthe - The Nexus (2013-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f93e14-2c2a-4ff9-96c1-52ce69b25216/6426874422-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Hydra (2014-01-22)

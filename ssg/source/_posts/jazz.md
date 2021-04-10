@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:17:01.469Z
+date: 2021-04-10T08:53:01.458Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -65,6 +65,9 @@ John Coltrane - Giant Steps (1960-01)
 </li>
 <li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">
 Etta James - At Last (1960-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/39d33fdb-d710-33e6-ac98-5d401828cee6/16705596421-500.jpg" data-tags="jazz" role="button">
+Oliver Nelson - The Blues and the Abstract Truth (1961)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Thelonious Monk - Monk's Dream (1963)
@@ -317,8 +320,5 @@ Destroyer - Kaputt (2011-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad584957-841b-43d3-a03c-a5e7b0012c7d/4862063196-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - To Be Loved (2013-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a681db6-3146-4166-b997-6db77bf796dc/7584904311-500.jpg" data-tags="jazz" role="button">
-BADBADNOTGOOD - III (2014-05-03)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:50:01.412Z
+date: 2021-04-10T09:19:18.168Z
 title: "symphonic rock: 100 albums you must listen to before you die"
 ---
 ![Muse - The Resistance (2009-09-10)](http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg "Muse - The Resistance (2009-09-10)")
@@ -39,6 +39,9 @@ Genesis - Nursery Cryme (1971-11-12)
 <li data-cover="http://coverartarchive.org/release/c68fd901-1fbd-4007-b113-dff07ba3f743/3691957295-500.jpg" data-tags="classic rock, progressive rock, rock" role="button">
 Jethro Tull - Living In The Past (1972-06-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/925b1483-3660-4f3a-a444-dfb0bd4353e6/1236088677-500.jpg" data-tags="progressive rock" role="button">
+Premiata Forneria Marconi - Per un Amico (1972-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/dabffad6-2b97-4838-b899-558d050b9024/27508222851-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Inside (1973)
 </li>
@@ -54,9 +57,6 @@ Jethro Tull - A Passion Play (1973-07-06)
 <li data-cover="http://coverartarchive.org/release/d7876fcb-c629-4b17-b973-de9824279360/23147950347-500.jpg" data-tags="progressive rock" role="button">
 Genesis - Selling England by the Pound (1973-10-13)
 </li>
-<li data-cover="https://img.discogs.com/0_s3EclknymwZ5q--6SjSlO1jrQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2298228-1395015091-2123.jpeg.jpg" data-tags="progressive rock, 70s, classic rock, rock" role="button">
-Electric Light Orchestra - On the Third Day (1973-11)
-</li>
 <li data-cover="https://img.discogs.com/zRaJPERMIJk19NpxUQ-3-KSB0rU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1424009-1320333836.jpeg.jpg" data-tags="progressive rock" role="button">
 Yes - Tales from Topographic Oceans (1973-12)
 </li>
@@ -68,6 +68,9 @@ Mike Oldfield - Hergest Ridge (1974-08-28)
 </li>
 <li data-cover="https://img.discogs.com/7V5J4YnVZUs2vTssmLWbmoMHobI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4318780-1362599932-7867.jpeg.jpg" data-tags="progressive rock" role="button">
 Yes - Relayer (1974-11-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbbdff45-5937-407b-ac41-585ad578edc7/10791518606-500.jpg" data-tags="progressive rock, space rock" role="button">
+Eloy - Power And The Passion (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/3da95428-3f4b-471b-8aea-ed40bcf04179/7108599389-500.jpg" data-tags="classic rock" role="button">
 Electric Light Orchestra - Face the Music (1975-10)
@@ -150,6 +153,9 @@ The Alan Parsons Project - Gaudi (1987-01-10)
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
+<li data-cover="https://img.discogs.com/Huu0vdX-BF3IpQz4I1o4bbEWfRE=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10618995-1501063879-2144.jpeg.jpg" data-tags="classic rock" role="button">
+The Moody Blues - Greatest Hits (1989-11-21)
+</li>
 <li data-cover="https://img.discogs.com/_HwFI-XY7QxEVZnyjrVH7Y9ybVY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1396786-1216302897.jpeg.jpg" data-tags="symphonic rock, theatrical, gothic" role="button">
 Devil Doll - Eliogabalus (1990-05)
 </li>
@@ -159,20 +165,23 @@ Legião Urbana - V (1991-12)
 <li data-cover="http://coverartarchive.org/release/77a1811d-188b-4622-82b2-2239682bd975/22695467189-500.jpg" data-tags="progressive rock" role="button">
 Emerson, Lake & Palmer - Works Live (1993)
 </li>
+<li data-cover="https://img.discogs.com/ii4QVHwJNxrQMG_mfNSgyzxRp48=/fit-in/596x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-414673-1231713197.jpeg.jpg" data-tags="symphonic rock" role="button">
+Devil Doll - Dies Irae (1996-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/7eb0aaaa-8c6d-4f00-8093-5a1ce4c2e53c/22731801358-500.jpg" data-tags="classic rock, rock, progressive rock, prog, epic, symphonic rock, atmospheric, art rock, progressive, symphonic prog" role="button">
 Manfred Mann's Earth Band - The Best of Manfred Mann's Earth Band (1996-06-11)
 </li>
 <li data-cover="https://img.discogs.com/xc2LvXnwywUoglPNWijLGS7kuJc=/fit-in/569x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1079972-1283246565.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, english group, t m blues" role="button">
 The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/5619d408-c548-4a46-aefa-1d4dd233d821/5842303816-500.jpg" data-tags="christmas" role="button">
+Trans-Siberian Orchestra - Christmas Eve and Other Stories (1996-10-15)
+</li>
 <li data-cover="https://img.discogs.com/pM4_39Y3cXXUsPpShG0cMstN1Q4=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854086-1512640960-1267.jpeg.jpg" data-tags="j-rock" role="button">
 X Japan - DAHLIA (1996-11-04)
 </li>
 <li data-cover="https://img.discogs.com/sxnPIjas0-x3HKkbP11i5pCKI5I=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463522-1262624981.jpeg.jpg" data-tags="britpop" role="button">
 Mansun - Attack Of The Grey Lantern (1997-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
 <li data-cover="https://img.discogs.com/gofzg8WWrEfHC3XGOdjWFnmXbh0=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5276007-1592068264-7558.jpeg.jpg" data-tags="j-rock" role="button">
 X Japan - BALLAD COLLECTION (1997-12-19)
@@ -197,9 +206,6 @@ Yes - Magnification (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
 Spiritualized - Let It Come Down (2001-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/655aa547-f1fa-49dd-9bba-de30f0aaef11/2106980504-500.jpg" data-tags="trance, e nomine" role="button">
-E Nomine - Finsternis (2002-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
@@ -288,23 +294,17 @@ Sting - Live In Berlin (2010-09-22)
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/84b11b50-eca0-4101-b982-4319f9b31028/1179212291-500.jpg" data-tags="instrumental, cello, cover" role="button">
-2cellos - 2Cellos (2011-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/340558b3-db7b-43d4-b658-7e539671eb51/3312096748-500.jpg" data-tags="progressive rock, atmospheric rock" role="button">
-Anathema - Falling Deeper (2011-09-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd511aa3-bdbc-4997-a5c8-0532197fd6cc/20786298396-500.jpg" data-tags="classic rock" role="button">
 Electric Light Orchestra - The Essential Electric Light Orchestra (2011-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/91c70f1c-f4e7-499f-983c-5b62b5e1298d/15645053829-500.jpg" data-tags="cello, cover" role="button">
-2cellos - In2ition (2012-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4aad4fc2-43ea-440e-8743-5aabacb6bcaa/4410509751-500.jpg" data-tags="alternative rock, symphonic rock, electronic rock, classical crossover" role="button">
 Les Friction - Les Friction (2012-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/88b326d1-7b63-4304-b403-d7ff46d56109/2491087347-500.jpg" data-tags="pop, alternative rock, soft rock" role="button">
 The Rasmus - The Rasmus (2012-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3321ccf-c714-495b-8fdf-38d983db5b1c/6493623620-500.jpg" data-tags="symphonic rock, symphonic pop" role="button">
+Within Temptation - The Q-Music Sessions (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd0d970d-7cd2-47f7-8839-ce02142b3c5d/5276135888-500.jpg" data-tags="metal" role="button">
 Within Temptation - Paradise (What About Us?) (2013-09-27)

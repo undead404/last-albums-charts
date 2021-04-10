@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:51:01.406Z
+date: 2021-04-10T09:34:01.418Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -89,9 +89,6 @@ The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
@@ -188,6 +185,9 @@ Craft Spells - Idle Labor (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
+Austra - Feel It Break (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)

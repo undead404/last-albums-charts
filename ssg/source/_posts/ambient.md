@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:38:01.467Z
+date: 2021-04-10T09:21:01.482Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/b630124e-5ab3-3d10-aa10-be94c81b728b/5727942814-500.jpg" data-tags="ambient" role="button">
+Brian Eno - Discreet Music (1975-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Brian Eno - Ambient 1: Music for Airports (1978)
 </li>
@@ -32,9 +35,6 @@ Brian Eno - Thursday Afternoon (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - MCMXC a.D. (1990-12-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/476d5ee1-266a-45d1-940a-d706663bb3f9/9717211777-500.jpg" data-tags="electronic, ambient" role="button">
-The Orb - The Orb's Adventures Beyond the Ultraworld (1991-04-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
@@ -216,9 +216,6 @@ Apparat - Walls (2007-05)
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg" data-tags="dubstep" role="button">
-Burial - Untrue (2007-11-05)
-</li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
@@ -260,6 +257,9 @@ Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
+Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)

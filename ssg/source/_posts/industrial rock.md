@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:51:01.392Z
+date: 2021-04-10T09:44:01.406Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -219,6 +219,9 @@ Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 <li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
+<li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
+D'espairsRay - MIRROR (2007-04-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - Year Zero (2007-04-14)
 </li>
@@ -281,9 +284,6 @@ Dope Stars Inc. - 21st Century Slave (2009-07-10)
 </li>
 <li data-cover="https://img.discogs.com/2juM1ZsU32l-m5L9XaWDg514H5E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048249-1264011671.jpeg.jpg" data-tags="industrial metal" role="button">
 Rammstein - Liebe ist für alle da (2009-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/78bdcb53-b585-4f00-96e0-5f9173c51e1a/2618566400-500.jpg" data-tags="industrial, electronic, alternative rock, female vocalists, synth-rock" role="button">
-The Birthday Massacre - Pins and Needles (2010-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b9d79e-7422-4c97-81ab-fea8ed068973/10666955584-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Blue Stahli (2011-03-02)

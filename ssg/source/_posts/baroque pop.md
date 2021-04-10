@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:37:01.424Z
+date: 2021-04-10T08:50:01.404Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -69,6 +69,9 @@ Kate Bush - The Kick Inside (1978-02-17)
 <li data-cover="http://coverartarchive.org/release/c435a09a-8d49-4f92-8893-ede5789fa065/15622941753-500.jpg" data-tags="60s, pop" role="button">
 David Bowie - David Bowie (1979)
 </li>
+<li data-cover="https://img.discogs.com/Rgylx2szfSezdFhgUD4oHZBLrtM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10194886-1494952151-2414.jpeg.jpg" data-tags="baroque pop" role="button">
+Scott Walker - Sings Jacques Brel (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9/3514546977-500.jpg" data-tags="new wave" role="button">
 The Stranglers - La Folie (1981-11-09)
 </li>
@@ -84,6 +87,9 @@ Nancy Sinatra - Lightning's Girl (1990)
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
+<li data-cover="https://img.discogs.com/ZNc7KJdUubXDshWouVLKU0RiiGk=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478435-1295910826.jpeg.jpg" data-tags="electronica, pop, folk, ambient, indie pop, post-rock, baroque pop, psychedelic, 90s, psychedelic folk, neo-psychedelia, vert-de-gris play-list, evilfaire, tag auditions" role="button">
+Gorky's Zygotic Mynci - Bwyd Time (1995-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
 </li>
@@ -95,9 +101,6 @@ Travis - Good Feeling (1997-09-08)
 </li>
 <li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">
 Jim O'Rourke - Eureka (1999-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec296c98-a954-4ae2-9e50-40ec6753c6c3/28727949293-500.jpg" data-tags="indie pop, indie rock" role="button">
-of Montreal - The Gay Parade (1999-02-16)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -245,9 +248,6 @@ Woodkid - Iron EP (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32d69bdd-ff69-4d55-b004-2d556e2a1138/1260171701-500.jpg" data-tags="indie, indie pop, chamber pop, baroque pop, russian, balkan brass, europe, 10s, european, russia, experimental indie, art pop, russian underground, balkan sound, snegiri, former soviet union, post soviet union" role="button">
 The Retuses - Waltz Baltika! (2011-06-14)
-</li>
-<li data-cover="https://img.discogs.com/cXWg8j0UYlRLsOvjKEW9mwzWqIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5189733-1459317279-9995.jpeg.jpg" data-tags="electronic, electropop, synth-pop" role="button">
-Ladytron - Gravity the Seducer (2011-08-25)
 </li>
 <li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)

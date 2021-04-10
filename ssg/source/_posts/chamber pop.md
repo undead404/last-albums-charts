@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:01:06.870Z
+date: 2021-04-10T09:01:06.938Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/3e5d53c1-dad9-364a-85a6-ac21a4558297/8790969277-500.jpg" data-tags="singer-songwriter, chamber pop, baroque pop" role="button">
+Colin Blunstone - One Year (1971)
+</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
@@ -36,14 +39,8 @@ Belle and Sebastian - Dog on Wheels (1997-05-12)
 <li data-cover="http://coverartarchive.org/release/ef8ffab3-2a8e-42d0-a208-5fef13716494/3558127143-500.jpg" data-tags="chamber pop, melancholy" role="button">
 Tindersticks - Curtains (1997-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
-</li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -81,9 +78,6 @@ Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/256bbffa-7d0a-3665-8e5d-3eebc20568c4/5165604938-500.jpg" data-tags="00s, indie" role="button">
-The Magnetic Fields - i (2004-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
@@ -99,9 +93,6 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 <li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
 Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
 </li>
-<li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
-Final Fantasy - Has A Good Home (2005-03-01)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
 </li>
@@ -110,6 +101,9 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
+</li>
+<li data-cover="https://img.discogs.com/Xw_HMsIEfJcK20RO01OQahC8XeI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797831-1530458980-6378.jpeg.jpg" data-tags="indie" role="button">
+Athlete - Tourist (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
@@ -159,6 +153,9 @@ Marina & the Diamonds - The Family Jewels (2009)
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">
 Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
+<li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
+Soap&Skin - Lovetune for Vacuum (2009-03-13)
+</li>
 <li data-cover="https://img.discogs.com/o8_V-hTUs1ECCKn6hzsWwStkPAs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7314256-1438690931-2167.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
@@ -188,9 +185,6 @@ Efterklang - Magic Chairs (2010-02-22)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/89accba6-949c-41c6-bc73-89465809e9fd/15884625435-500.jpg" data-tags="chamber pop, 2010s, iwasrecommendedthis, try before i buy" role="button">
-The Divine Comedy - Bang Goes The Knighthood (2010-05-31)
 </li>
 <li data-cover="https://img.discogs.com/0n3LA0qeaCcokxZCVAahUUMJGQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402294-1282013018.jpeg.jpg" data-tags="folk, ambient, chamber pop, indie folk, jagjaguwar" role="button">
 S. Carey - All We Grow (2010-08-24)
@@ -252,11 +246,11 @@ Yo La Tengo - Fade (2013-01-14)
 <li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">
 Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/873fb668-89e2-46c6-bfa6-33bc4dfeee4c/4135969932-500.jpg" data-tags="folk, indie rock" role="button">
-John Grant - Pale Green Ghosts (2013-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
 Woodkid - The Golden Age (2013-03-14)
+</li>
+<li data-cover="https://img.discogs.com/G4msYG6HDhRh7QMpozub5PwZsuo=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4553742-1368198351-6226.jpeg.jpg" data-tags="chamber pop, phildel" role="button">
+Phildel - The Disappearance Of The Girl (2013-03-18)
 </li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
@@ -288,6 +282,9 @@ Agnes Obel - Aventine (2013-09-27)
 <li data-cover="http://coverartarchive.org/release/e6b3043e-2b82-42be-832d-2172ed201429/5699952446-500.jpg" data-tags="indie pop, chamber pop" role="button">
 Andrew Bird - I Want to See Pulaski at Night (2013-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ad4c4cc-e9af-4cc8-84c3-23d6eec33666/7804882614-500.jpg" data-tags="post-rock, emo, midwest emo" role="button">
+Foxing - The Albatross (2013-11-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)
 </li>
@@ -296,6 +293,9 @@ St. Vincent - St. Vincent (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">
 SOHN - Tremors (2014-04-07)
+</li>
+<li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
+Damon Albarn - Everyday Robots (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:29:01.492Z
+date: 2021-04-10T09:07:01.419Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -258,9 +258,6 @@ Phoenix - Bankrupt! (2013-04-19)
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
-AlunaGeorge - Body Music (2013-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
@@ -314,6 +311,9 @@ Taylor Swift - 1989 (2014-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/539c942b-4eb8-40b7-bd05-f6d927fcb147/8947007068-500.jpg" data-tags="indie rock" role="button">
+TV on the Radio - Seeds (2014-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)

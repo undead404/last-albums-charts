@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:34:01.415Z
+date: 2021-04-10T08:55:01.420Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -126,9 +126,6 @@ Alien Ant Farm - Anthology (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
-Staind - Break the Cycle (2001-05-21)
-</li>
 <li data-cover="https://img.discogs.com/BZcAVXS5bx_QwHuPWufCEzvwRqY=/fit-in/518x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4438087-1364864404-5773.jpeg.jpg" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
 </li>
@@ -221,6 +218,9 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
+</li>
+<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
+A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e45b3f-3669-3e9a-a53b-d7a104ac83e4/8707741692-500.jpg" data-tags="alternative metal, metal" role="button">
 Deftones - Saturday Night Wrist (2005)

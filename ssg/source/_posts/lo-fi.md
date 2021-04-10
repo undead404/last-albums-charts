@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:19:01.419Z
+date: 2021-04-10T08:46:07.082Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/bcb2c6b8-6f7b-3657-a7de-95cf73738126/21730140974-500.jpg" data-tags="lo-fi" role="button">
+Pavement - Westing (By Musket and Sextant) (1993-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
 Liz Phair - Exile in Guyville (1993-06-22)
 </li>
@@ -90,20 +93,23 @@ The Moldy Peaches - The Moldy Peaches (2001-05-07)
 <li data-cover="http://coverartarchive.org/release/8381f1b2-33d0-4c43-a91a-2d83812edfbd/1436605758-500.jpg" data-tags="indie" role="button">
 Sparklehorse - It's A Wonderful Life (2001-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
-Vincent Gallo - When (2001-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/2dc03ffd-0ca8-4153-84f3-cc06dfe3460f/26281412966-500.jpg" data-tags="lo-fi, hmm sodermanland, excellent album, worn-out from overplay" role="button">
+Say Hi To Your Mom - Numbers & Mumbles (2004-02-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/883f16f2-1392-335d-bfb1-4729af737721/13028977817-500.jpg" data-tags="indie" role="button">
+Someone Still Loves You Boris Yeltsin - Broom (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee0d7b21-1493-495b-a314-2146941281a3/11086158708-500.jpg" data-tags="singer-songwriter, acoustic, lo-fi, summer drive, boo ya" role="button">
 Paul Baribeau - Paul Baribeau (2005)
@@ -144,8 +150,8 @@ Washed Out - High Times (2009-08-31)
 <li data-cover="http://coverartarchive.org/release/8651ca46-7a65-4056-87cb-350df491b217/14603571724-500.jpg" data-tags="alternative, indie rock, 00s" role="button">
 Yo La Tengo - Popular Songs (2009-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
-Girls - Album (2009-09-22)
+<li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
+Washed Out - Life of Leisure (2009-09-15)
 </li>
 <li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
 Kurt Vile - Childish Prodigy (2009-10-05)
@@ -195,9 +201,6 @@ Smith Westerns - Dye It Blonde (2011-01-18)
 <li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
 Iron & Wine - Kiss Each Other Clean (2011-01-24)
 </li>
-<li data-cover="https://img.discogs.com/_pX56AIo9tfD9m8aM3BbTF3Ywf0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2724134-1298166628.jpeg.jpg" data-tags="indie rock, indie" role="button">
-Yuck - Yuck (2011-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
@@ -218,9 +221,6 @@ Cults - Cults (2011-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc72820f-cc50-47ee-8a93-25b267079a69/2816373572-500.jpg" data-tags="indie, lo-fi, garage" role="button">
 Bleached - Carter (2011-06)
-</li>
-<li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
-Clams Casino - Rainforest (2011-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)

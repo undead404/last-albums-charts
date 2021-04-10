@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:45:07.191Z
+date: 2021-04-10T09:35:01.422Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -135,6 +135,9 @@ The Alan Parsons Project - Eye In The Sky (1982-06)
 <li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
 Peter Gabriel - So (1986-05-19)
 </li>
+<li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
+David Sylvian - Secrets Of The Beehive (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
@@ -260,9 +263,6 @@ Warpaint - The Fool (2010-10-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/06cf1f87-7904-4b7b-b8b9-1218ad644f1a/4093050228-500.jpg" data-tags="art rock" role="button">
-Kate Bush - Director's Cut (2011-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b851ecb-0355-4663-918b-0354ab88e982/15292116724-500.jpg" data-tags="alternative rock, progressive rock, art rock, trr" role="button">
 Extremoduro - Material Defectuoso (2011-05-24)

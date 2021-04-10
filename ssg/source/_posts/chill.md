@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:51:01.402Z
+date: 2021-04-10T08:57:12.577Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -8,12 +8,12 @@ title: "chill: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">Norah Jones - Come Away with Me (2002-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">Aqualung - Still Life (2003-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">Colbie Caillat - Coco (2007-01-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">Jack Johnson - Sleep Through The Static (2008-02-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
-<li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -47,6 +47,9 @@ Jack Johnson - Brushfire Fairytales (2000)
 </li>
 <li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">
 Everything But the Girl - Temperamental (2000-02-18)
+</li>
+<li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
+Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
@@ -111,6 +114,9 @@ Jack Johnson - On and On (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/2a15446f-a6b7-4e9c-82b9-a4685ef6b269/1607144291-500.jpg" data-tags="alternative, indie rock" role="button">
 Eels - Shootenanny! (2003-05-28)
 </li>
+<li data-cover="https://img.discogs.com/BmGORWdUT7o3lCmfB-xSvtal4pA=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210474-1328076828.jpeg.jpg" data-tags="vocal, chill, cibelle - pequenos olhos" role="button">
+Cibelle - Cibelle (2003-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dc17780-6a26-4ccb-91c9-23d568de83d4/27879377982-500.jpg" data-tags="teitur" role="button">
 Teitur - Poetry & Aeroplanes (2003-06-22)
 </li>
@@ -162,6 +168,9 @@ Jack Johnson - In Between Dreams (2005-02-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
+Anna Nalick - Wreck of the Day (2005-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
 </li>
@@ -194,6 +203,9 @@ The Hush Sound - Like Vines (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
+</li>
+<li data-cover="https://img.discogs.com/_pytQNoFquAHXxTr4S3Gy2D3VWo=/fit-in/189x189/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796427-1174893064.jpeg.jpg" data-tags="hip-hop" role="button">
+Gym Class Heroes - As Cruel As School Children (2006-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
@@ -234,12 +246,6 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0ba037d-1622-434a-bd91-cc4583a6e53b/26542085606-500.jpg" data-tags="hip-hop, hip hop, chill, underground rap, southern rap" role="button">
-CunninLynguists - Strange Journey Volume One (2009-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">
-Kid Cudi - Man on the Moon: The End of Day (2009-07-15)
-</li>
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
 </li>
@@ -249,8 +255,8 @@ Washed Out - High Times (2009-08-31)
 <li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
 Rebelution - Bright Side Of Life (2009-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3a962e3-0c46-4c3a-aeb9-a8efa29b4d51/1766802436-500.jpg" data-tags="electronic" role="button">
-Pretty Lights - Making Up a Changing Mind (2010-03-02)
+<li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
+Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)
@@ -270,14 +276,8 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
-Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Balmorhea - Stranger (2012-02-10)

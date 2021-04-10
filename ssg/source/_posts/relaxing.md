@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:02:01.408Z
+date: 2021-04-10T09:11:01.444Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -24,14 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e552cd6-a616-495d-8473-aaf79ad26c81/21884715670-500.jpg" data-tags="classical" role="button">
-Arvo Pärt - Arbos (1987-05-01)
+<li data-cover="http://coverartarchive.org/release/55555fce-af44-4e93-a170-7554ed1e932d/4879800403-500.jpg" data-tags="classical" role="button">
+Antonio Vivaldi - The Four Seasons (1990)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Secrets of Life (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/645c5d80-c673-4f92-91c0-f7b03f5c22fe/4485701379-500.jpg" data-tags="instrumental, relax, flute, relaxing, labels - real music" role="button">
 Nicholas Gunn - The Music of the Grand Canyon (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
+Adiemus - Songs of Sanctuary (1995-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
 KRS-One - KRS-One (1995-10-10)
@@ -48,8 +51,8 @@ Robert Miles - Dreamland (1996-06-07)
 <li data-cover="http://coverartarchive.org/release/b8711c67-1203-35db-8312-83b772b00307/9734071071-500.jpg" data-tags="electronic" role="button">
 Vangelis - Oceanic (1996-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3068ed18-5a81-42b1-875e-3a97486695ea/26215295371-500.jpg" data-tags="easy listening, soft rock, favorite artists, good shit, relaxing, awesomeness, thinking, graduation, all music, as i lay dying, sister hazel, all american rejects, if everyone cared, self-reflect, blessid union of souls - blessid union of souls" role="button">
-Blessid Union Of Souls - Blessid Union Of Souls (1997-05-20)
+<li data-cover="http://coverartarchive.org/release/db18ce9e-4bd5-43b7-869f-35e4e83423ab/3460033404-500.jpg" data-tags="world, ethnic, ethereal" role="button">
+Vas - Sunyata (1997-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a948de2b-b7fb-4826-ad61-53b0dc20d708/15270866152-500.jpg" data-tags="celtic" role="button">
 David Arkenstone - The Celtic Book Of Days (1998-02-10)
@@ -65,6 +68,9 @@ Thievery Corporation - It Takes a Thief (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
+</li>
+<li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
+Nas - I Am... (1999-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
 Yanni - Love Songs (1999-04-13)
@@ -87,6 +93,9 @@ Anugama - Shamanic Dream II (2000)
 <li data-cover="http://coverartarchive.org/release/793d727d-ed85-45b4-880e-3c4f5349499f/13988764360-500.jpg" data-tags="punk rock, punk, pop punk" role="button">
 MxPx - The Ever Passing Moment (2000-05-16)
 </li>
+<li data-cover="https://img.discogs.com/W9YLJuU4_Y7niQq492J8nW3BUPc=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277628-1544687511-9345.png.jpg" data-tags="electronic, trip-hop, downtempo, downbeat, relaxing, thievery corporation, ladytronica" role="button">
+Thievery Corporation - Shadows of Ourselves (2000-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb41d085-f38b-48cc-919f-377ee0fb2fe9/16112159503-500.jpg" data-tags="gregoriano" role="button">
 Magna Canta - Enchanted Spirits (2000-11-20)
 </li>
@@ -99,9 +108,6 @@ Amethystium - Odonata (2001-08-14)
 <li data-cover="http://coverartarchive.org/release/ce1299dc-d33b-44b2-86cd-303bb7db9583/10962586081-500.jpg" data-tags="amidio junior, donkalifa, krica morena bela, argeu, krica morena" role="button">
 Tears for Fears - Shout: The Very Best Of Tears For Fears (2001-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
-Vincent Gallo - When (2001-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
 Balligomingo - Beneath The Surface (2002-06-11)
 </li>
@@ -110,6 +116,9 @@ Andain - Summer Calling (2002-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/abb636a3-eb45-4489-a659-c6ec032c0b5a/11201614922-500.jpg" data-tags="rnb" role="button">
 Amerie - All I Have (2002-07-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
+Aimee Mann - Lost in Space (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
@@ -120,38 +129,26 @@ System F - Together (2003-01-29)
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
 Gregor Samsa - 27:36 (2003-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b33c647-97b8-4e0a-b3d0-fc349c4da9cb/27009716539-500.jpg" data-tags="rap" role="button">
-CunninLynguists - Southernunderground (2003-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="timeless" role="button">
-Michael Dulin - Timeless (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/d38a0e2e-cf35-47ad-85ae-a87c4f321d3b/13298022685-500.jpg" data-tags="idm, glitch" role="button">
-edIT - Crying Over Pros for No Reason (2004-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7b02e44-1533-4cc5-830b-3e8c96d528c3/1578981308-500.jpg" data-tags="soul, blues" role="button">
 Alicia Keys - If I Ain't Got You (2004-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
-Bond - Classified (2004-05-08)
+<li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
+Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d076e7c-42d4-40bc-a912-7c7e4400b65b/11322629989-500.jpg" data-tags="christmas, new age, spiritual, relaxing, transym, taria" role="button">
 Tarja - Yhden Enkelin Unelma (2004-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
 David Nevue - Overcome (2005)
-</li>
-<li data-cover="https://img.discogs.com/K7Fog8UtERpvhu4EfJ9lKGwq--M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7110579-1433940600-1305.jpeg.jpg" data-tags="piano, relaxing, ambient, new age" role="button">
-Fiona Joy Hawkins - Portrait of a Waterfall (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
@@ -186,8 +183,8 @@ Saltillo - Ganglion (2006-06-01)
 <li data-cover="http://coverartarchive.org/release/c10d1d4e-b5fd-421f-b3d7-425bce705b49/11124033595-500.jpg" data-tags="ambient, easy listening, new age, mellow, psychill, relaxing, goa, u2, magic male voice, newage, progressive psytrance, magic female voice, new age and ambient, new age rythm, nice new age, rich new age and chill, torquemada, -new-age-and-ambient-, -favorites-, new age influences, new age aesthetics, new age favorites, collective sonance, new age collection, ethereal new age, chill new age, new age electronic, getmegetme, genre: new age, etheogenic, 15oooo, new age ambiant, 9p" role="button">
 Entheogenic - Golden Cap (2006-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/84d537c0-bc24-43dc-ba55-377c25e9c17a/15824345226-500.jpg" data-tags="indie, acoustic" role="button">
-Sufjan Stevens - The Avalanche (2006-07-10)
+<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
+Vienna Teng - Dreaming Through The Noise (2006-07-25)
 </li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
@@ -215,9 +212,6 @@ Nic Chagall - What You Need (2007-03-05)
 </li>
 <li data-cover="https://img.discogs.com/H3tNbACNZmKF2__nBrH1ME-JUfE=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2910275-1471224440-4899.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Because I Love It (2007-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
-Jarabe de Palo - Adelantando (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
@@ -249,11 +243,17 @@ Oceanlab - Sirens of the Sea (2008-04-07)
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a5af92f-5593-4488-aaba-f9035faa77fa/10649760786-500.jpg" data-tags="post-rock, instrumental" role="button">
+The Evpatoria Report - Maar (2008-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6d4826a-6976-453e-a3a7-177bd5833763/8263011923-500.jpg" data-tags="christian, relaxing" role="button">
 Downhere - Ending Is Beginning (2008-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/889d431e-64ce-4153-82c0-74382574b4e6/27686187712-500.jpg" data-tags="relaxing, acoustic guitar" role="button">
+Erik Mongrain - Equilibrium (2008-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
@@ -267,9 +267,6 @@ jj - jj n° 1 (2009-03-26)
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
-<li data-cover="https://img.discogs.com/ChTjot53NIk0UW_axoOWeJvwD0M=/fit-in/501x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838165-1405526380-4464.jpeg.jpg" data-tags="mpb, chillout, brasil, relaxing" role="button">
-Maria Gadú - Maria Gadú (2009-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
@@ -278,6 +275,9 @@ Washed Out - High Times (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)
+</li>
+<li data-cover="https://img.discogs.com/w9cd3UpEjo7qVNa25W6pqdgEWns=/fit-in/315x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2171816-1268222661.jpeg.jpg" data-tags="experimental" role="button">
+Gonjasufi - A Sufi and a Killer (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)

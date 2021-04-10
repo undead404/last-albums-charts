@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:58:01.421Z
+date: 2021-04-10T09:12:01.412Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -228,6 +228,9 @@ Story of the Year - The Black Swan (2008-04-19)
 <li data-cover="http://coverartarchive.org/release/18bd479d-e0de-4603-b1c3-1217482181c9/15093249429-500.jpg" data-tags="post-hardcore" role="button">
 From First to Last - From First To Last (2008-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
+Emarosa - Relativity (2008-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -272,9 +275,6 @@ Of Mice & Men - Of Mice & Men (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e272a5-0f33-44b2-b8ab-17655a36869a/6997890720-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - With Ears to See and Eyes to Hear (2010-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3b933d5-6696-4e23-bd37-2e1c7f9fe106/15092597819-500.jpg" data-tags="post-hardcore" role="button">
-Attack Attack! - Attack Attack! (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)

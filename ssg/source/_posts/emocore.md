@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:17:01.513Z
+date: 2021-04-10T09:42:01.405Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")

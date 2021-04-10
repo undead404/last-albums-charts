@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:51:01.448Z
+date: 2021-04-10T09:31:07.053Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -81,9 +81,6 @@ Scorpions - Acoustica (2001-05-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="john mayer" role="button">
 John Mayer - Room for Squares (2001-06-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="staind, acoustic" role="button">
-Staind - MTV Unplugged (2002)
-</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
@@ -128,6 +125,9 @@ Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/5vuK3ehYd8gQaKMvS8bKtBzoWpc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204862-1528965128-4993.jpeg.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
+</li>
+<li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
+KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
@@ -179,9 +179,6 @@ Joshua Radin - We Were Here (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
 Dashboard Confessional - Dusk And Summer (2006-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/84d537c0-bc24-43dc-ba55-377c25e9c17a/15824345226-500.jpg" data-tags="indie, acoustic" role="button">
-Sufjan Stevens - The Avalanche (2006-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
@@ -276,6 +273,9 @@ Agnes Obel - Philharmonics (2010-10-04)
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
 </li>
+<li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
+The Civil Wars - Barton Hollow (2011-01-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
 </li>
@@ -306,11 +306,11 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/7c66e5f4-b6d6-4c21-85c5-442efa031936/7109966435-500.jpg" data-tags="acoustic" role="button">
 Vance Joy - God Loves You When You're Dancing (2013-03-22)
 </li>
+<li data-cover="https://img.discogs.com/LBHew7ocBw-8ugF7GKPnY1eqpK0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4757364-1374548829-9967.jpeg.jpg" data-tags="folk, acoustic" role="button">
+City and Colour - The Hurry And The Harm (2013-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/d8997b1d-3345-4750-a7e6-fe19b96a96f3/4436735162-500.jpg" data-tags="indie, chill, singer-songwriter, acoustic, columbia records, sony music, in my vinyl collection" role="button">
 Tom Odell - Long Way Down (2013-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, monochrome album covers, american group, grammy winner 2014" role="button">
-The Civil Wars - The Civil Wars (2013-08-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, jackj" role="button">
 Jack Johnson - From Here To Now To You (2013-09-13)

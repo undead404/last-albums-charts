@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:57:01.421Z
+date: 2021-04-10T09:10:01.440Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -39,6 +39,9 @@ The Replacements - Let It Be (1984-10-02)
 <li data-cover="http://coverartarchive.org/release/e3adae32-66d6-4255-92b3-fb5bceaf3b2c/5642356116-500.jpg" data-tags="alternative rock, 80s" role="button">
 The Replacements - Tim (1985-07-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d1d1960-884d-42d6-aa87-230424ab9ddf/19103392565-500.jpg" data-tags="alternative rock, rock, punk" role="button">
+Hüsker Dü - Candy Apple Grey (1986-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
 </li>
@@ -56,6 +59,9 @@ Teenage Fanclub - Grand Prix (1995-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
 Super Furry Animals - Fuzzy Logic (1996-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5648344-7e08-4131-8a60-138676d0cfef/3370472226-500.jpg" data-tags="indie rock, indie, 90s" role="button">
+Nada Surf - High/Low (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
@@ -99,6 +105,9 @@ Weezer - Weezer (2001-04-24)
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
 </li>
+<li data-cover="https://img.discogs.com/GKTi7KWgMWARiQAaR-OJs0cgXG4=/fit-in/523x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12901414-1544164325-6677.jpeg.jpg" data-tags="pop punk" role="button">
+Relient K - The Anatomy of the Tongue in Cheek (2001-08-28)
+</li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
@@ -111,11 +120,8 @@ Weezer - Maladroit (2002-05-11)
 <li data-cover="https://img.discogs.com/X7T-ui_y2CK5O-ZFcC6IuvmkFaw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3124239-1566918810-4860.jpeg.jpg" data-tags="indie rock" role="button">
 Hot Hot Heat - Make Up the Breakdown (2002-10-08)
 </li>
-<li data-cover="https://img.discogs.com/HIpIROEhOWUeC8Alzhpg-o2_Bt0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-256505-1085069241.jpg.jpg" data-tags="pop" role="button">
-Girls Aloud - Sound of the Underground (2002-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/1aae47bd-0b7a-453f-9997-cda93c8787af/24536601442-500.jpg" data-tags="reggae, power pop" role="button">
-Skank - Cosmotron (2003)
+<li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
+The Ataris - So Long, Astoria (2003-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)
@@ -204,9 +210,6 @@ Girls Aloud - Tangled Up (2007-11-19)
 <li data-cover="http://coverartarchive.org/release/3f62eb4a-3990-4782-b526-da1c13b50be4/21501116970-500.jpg" data-tags="indie, power pop, pop rock, pop punk, indie-emo, twin vocal" role="button">
 The Morning Of - The World As We Know It (2008-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/b76a7d36-f707-44c3-9274-786929552cf4/6658448923-500.jpg" data-tags="indie, rock" role="button">
-Nada Surf - Lucky (2008-02-04)
-</li>
 <li data-cover="https://img.discogs.com/ypPTqb73n_GuOC6vf_g1HJsQXBk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17302285-1612704703-3096.jpeg.jpg" data-tags="mcfly, rock" role="button">
 McFly - Radio:ACTIVE (2008-07-20)
 </li>
@@ -263,9 +266,6 @@ Weezer - Death to False Metal (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/373638f7-6707-4a1c-98c7-fb3a1998d6bf/21872854484-500.jpg" data-tags="power pop, new, pop punk, basically my life, scene pop" role="button">
-Forever the Sickest Kids - Forever The Sickest Kids (2011-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)

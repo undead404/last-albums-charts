@@ -1,10 +1,10 @@
 ---
-date: 2021-04-10T01:59:01.407Z
+date: 2021-04-10T09:04:01.404Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">Bob Dylan - New Morning (1970-10-21)</li>
+<li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">Deer Tick - War Elephant (2007)</li>
 <li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">Kurt Vile - Childish Prodigy (2009-10-05)</li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/UKJWMt2aR4kQEYCPjv9NwERiUcw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6769734-1617300941-3174.jpeg.jpg" data-tags="rock, classic rock" role="button">
 Bob Dylan - Self Portrait (1970-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">
-Bob Dylan - New Morning (1970-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a9a59d6-6490-4735-bd48-19d7fb38ff06/1239649144-500.jpg" data-tags="rock" role="button">
 Elton John - Honky Château (1972-05-19)
@@ -54,11 +51,17 @@ Billy Joel - 52nd Street (1978-10-13)
 <li data-cover="http://coverartarchive.org/release/9a8c88fb-a5c5-47b9-a499-9f1832baf27d/7821199789-500.jpg" data-tags="classic rock" role="button">
 Billy Joel - Glass Houses (1980-03-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f18237e-a18e-4aa5-857b-5a9bc3e4b648/7827739089-500.jpg" data-tags="rock" role="button">
+Pete Townshend - Empty Glass (1980-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/3738a93a-c335-3ec8-919a-6c9c9d1f7569/8751485160-500.jpg" data-tags="rock, 80s, experimental, progressive rock, blues, avantgarde, 1980s" role="button">
 Captain Beefheart & His Magic Band - Doc at the Radar Station (1980-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/a646bf11-0b96-4471-8da6-ddf2d3fc2add/15714647770-500.jpg" data-tags="rock, 80s" role="button">
+Bryan Adams - Cuts Like a Knife (1983-01-18)
 </li>
 <li data-cover="https://img.discogs.com/Vj6vYDf0lPVlMdU17ph6FYsKESs=/fit-in/537x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440669-1219905549.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - One for the Road (1989)
@@ -83,6 +86,9 @@ The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf2c2471-b584-46a1-a04f-e73592bbbb04/5232466594-500.jpg" data-tags="mellow, boz scaggs" role="button">
 Boz Scaggs - Fade Into Light (1996-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c5ce790-0430-4d8e-bf98-27fb7d0c3452/5933239186-500.jpg" data-tags="classic rock, rock, alternative rock, progressive rock, blues-rock, blues, guitar, blues rock, singer songwriter, song noir, boz scaggs" role="button">
+Boz Scaggs - Come On Home (1997-04-08)
 </li>
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
@@ -174,6 +180,9 @@ Johnny Cash - The Essential Johnny Cash (2006)
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
 </li>
+<li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
+Steve Adey - All Things Real (2006-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
 Vienna Teng - Dreaming Through The Noise (2006-07-25)
 </li>
@@ -240,12 +249,6 @@ Smoke Fairies - Through Low Light And Trees (2010-09-06)
 <li data-cover="http://coverartarchive.org/release/6dddb06c-9763-488f-bb3d-c89a72bcedf8/6531947728-500.jpg" data-tags="folk, indie" role="button">
 Passenger - Flight of the Crow (2010-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c1d1b6d-fd54-4ea2-b1fb-be863336e7e4/15092896819-500.jpg" data-tags="folk" role="button">
-Keaton Henson - Dear (2010-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b59e035-b469-4c51-85fe-69c15d96a6b6/2625787976-500.jpg" data-tags="songwriting, 2011 releases" role="button">
-Joan as Police Woman - The Deep Field (2011-01-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
@@ -281,9 +284,6 @@ Torres - Torres (2013-01-22)
 </li>
 <li data-cover="https://img.discogs.com/V6aukbXwUg7bUHU6ig8930G8IUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15264378-1588882880-2171.jpeg.jpg" data-tags="psychedelic folk, singer songwriter, excelsior recordings, i need, my crazy diamonds" role="button">
 Jacco Gardner - Cabinet of Curiosities (2013-02-11)
-</li>
-<li data-cover="https://img.discogs.com/u1aicx0O5S-M54wgmqzPTv3vVDc=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4701388-1372708014-5910.jpeg.jpg" data-tags="indie" role="button">
-Waxahatchee - Cerulean Salt (2013-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

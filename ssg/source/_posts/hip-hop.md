@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:55:01.741Z
+date: 2021-04-10T09:08:01.450Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -129,9 +129,6 @@ Nas - Stillmatic (2001-12-08)
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
 </li>
-<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
-DJ Shadow - The Private Press (2002-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
 </li>
@@ -257,6 +254,9 @@ Eminem - Recovery (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2507be-1576-44d0-9c2f-f5f135d514ed/2434018811-500.jpg" data-tags="hip-hop" role="button">
 The Roots - How I Got Over (2010-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d199f84-894f-34a3-a4a5-374ca72d697d/6514294348-500.jpg" data-tags="hip-hop" role="button">
+Chiddy Bang - The Preview (2010-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

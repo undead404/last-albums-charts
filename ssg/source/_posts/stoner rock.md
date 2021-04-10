@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:09:01.397Z
+date: 2021-04-10T09:33:01.428Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -258,6 +258,9 @@ Om - God Is Good (2009-09-29)
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
 Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3abd0fa-7480-4507-979d-4f2834175718/19110171752-500.jpg" data-tags="instrumental, stoner rock, psychedelic rock" role="button">
+My Sleeping Karma - Tri (2010-03-20)
+</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)
 </li>
@@ -308,9 +311,6 @@ Queens of the Stone Age - My God is the Sun (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
 Queens of the Stone Age - ...Like Clockwork (2013-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb287b02-6d7d-4357-bfa7-be779a472672/4700085367-500.jpg" data-tags="stoner rock" role="button">
-True Widow - Circumambulation (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/89a1bb84-f8e8-4cd5-83ca-a38317a41a98/6705416996-500.jpg" data-tags="alternative rock, indie rock, stoner rock, psychedelic, space rock, psychedelic rock, trip, lsd, ss, flightless records, flightless" role="button">
 King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
