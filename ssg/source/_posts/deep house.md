@@ -1,11 +1,10 @@
 ---
-date: 2021-04-10T06:35:01.405Z
+date: 2021-04-11T06:04:01.417Z
 title: "deep house: 100 albums you must listen to before you die"
 ---
 ![Kiesza - Hideaway (2014-04-11)](http://coverartarchive.org/release/9418e8f4-c5af-4354-8c24-bb7047ddc78d/7870652661-500.jpg "Kiesza - Hideaway (2014-04-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/aa334c74-adc9-4e0b-bada-f716c5385489/845123014-500.jpg" data-tags="lounge, deep house, downtempo" role="button">Blue Six - Beautiful Tomorrow (2002-01-22)</li>
-<li data-cover="https://img.discogs.com/h3Z0rvlV7L1RFbHNm1yJNxjS4Oo=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-514874-1424076592-7367.jpeg.jpg" data-tags="electronic, downtempo, house, deep house" role="button">Late Night Alumni - Empty Streets (2005-09)</li>
 <li data-cover="http://coverartarchive.org/release/386d8784-afad-40da-8185-edac15e4f284/3479297449-500.jpg" data-tags="house, deep house" role="button">Adana Twins - Everyday (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/360ec8be-ecb2-4229-b4f6-7424e40c9d1d/7931664102-500.jpg" data-tags="chillout, electronic, dance, house, deep house, dutch, liebe ich" role="button">Bakermat - One Day (Vandaag) (2012-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">Trentemøller - Lost (2013-09-16)</li>
@@ -13,6 +12,7 @@ title: "deep house: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9418e8f4-c5af-4354-8c24-bb7047ddc78d/7870652661-500.jpg" data-tags="party, deep house, running" role="button">Kiesza - Hideaway (2014-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/460a5032-d749-41cd-b0fb-e4bf1a7ab4ca/8503876069-500.jpg" data-tags="electronic" role="button">Caribou - Our Love (2014-10-03)</li>
 <li data-cover="http://coverartarchive.org/release/c3b03b7c-5b74-4c66-8bdf-6049cefef15c/8534196766-500.jpg" data-tags="electronic, dance, house, deep house, uk garage" role="button">Gorgon City - Sirens (2014-10-06)</li>
+<li data-cover="http://coverartarchive.org/release/452988bf-7e93-42db-a622-67c912fff56f/9942143701-500.jpg" data-tags="electronic, remix, progressive house, deep house, mp3, ultra records" role="button">deadmau5 - 5 Years of mau5 (2014-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/51f3f496-01b9-46f6-a3a3-54da87db0b71/9240189573-500.jpg" data-tags="dance-pop, electro house, deep house, nu-disco" role="button">The Avener - The Wanderings of the Avener (2015-01-19)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,11 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/jrMWAdA77IdybVQG1VzGVKI0euE=/fit-in/600x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3639974-1338458174-4981.jpeg.jpg" data-tags="ambient" role="button">
+Moby - Ambient (1993-08-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/972479e0-2240-3373-bdf8-5e19721d2b45/10341799280-500.jpg" data-tags="techno, dub techno" role="button">
 Basic Channel - Quadrant Dub (1994-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a36ff7d4-8248-40fb-b149-d76837d8bbf6/27196772705-500.jpg" data-tags="deep house, 90s albums that do not suck" role="button">
 The Bucketheads - All In The Mind (1995-08-05)
+</li>
+<li data-cover="https://img.discogs.com/_F_rK5AA8bFiL9WDWSZQpU_fO2Q=/fit-in/350x251/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15540-1076176664.jpg.jpg" data-tags="chill, deep house, vocal house, sleaze, afterdark, blue six, chaps, disco jazz, house royalty, djsampick, strictly rythmn" role="button">
+Sandy B - Make the World Go Round (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/91c4f715-6327-4057-beda-031a32e5d707/5345049101-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - Second Toughest in the Infants (1996-03-04)
@@ -35,6 +41,9 @@ Moodymann - Silentintroduction (1997-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a506d0a7-8298-44d3-b1c6-e48683cdfacb/21252737579-500.jpg" data-tags="electronic, jazz, house, detroit, deep house, detroit house, love detroit-chicago" role="button">
 Moodymann - Mahogany Brown (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0af113f-a845-466d-a2ea-9e44f9ca5d2f/6323341943-500.jpg" data-tags="deep house" role="button">
+The Timewriter - Jigsaw Pieces (1998-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa098e6-7ec7-4860-b39e-0855ce28e0b4/5883652581-500.jpg" data-tags="house" role="button">
 Stardust - Music Sounds Better With You (1998-06)
@@ -50,6 +59,9 @@ Bob Sinclar - Paradise (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/2505892f-aea1-404f-bf19-a9eda92b790a/9439777534-500.jpg" data-tags="electronic" role="button">
 Theo Parrish - First Floor (1998-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/4004495f-423e-4cfc-aabe-371405fa1292/12077298429-500.jpg" data-tags="electronic, ambient, house, deep house" role="button">
+Larry Heard - Genesis (1999-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/947a55fc-9f01-404a-ab12-7b753146c3a4/27879332218-500.jpg" data-tags="house, deep house, albums to get, leftfield house" role="button">
 Moodymann - Forevernevermore (2000)
@@ -78,14 +90,17 @@ Miguel Migs - Colorful You (2002-09-30)
 <li data-cover="http://coverartarchive.org/release/c35361b1-79a1-4b52-9c93-4d40a29368b0/27292980196-500.jpg" data-tags="disco, nu jazz, chillout, electronic, vocal, house, acid jazz, lounge, laidback, funky, deep house, subtle production" role="button">
 Projections - Between Here and Now (2002-10)
 </li>
-<li data-cover="https://img.discogs.com/YlGwzRwZWTDLSouudasIMQvW_a4=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-128014-001.jpg.jpg" data-tags="electronic, chillout, electronica, jakatta" role="button">
-Jakatta - Visions (2002-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/ea95d435-9eed-4bd6-8e8d-4ea3350c0361/16847169748-500.jpg" data-tags="deep house" role="button">
 Kaskade - It's You, It's Me (2003-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0cb8518-d0eb-416d-a59c-20863c0c53d2/17153988640-500.jpg" data-tags="deep house" role="button">
+Frankie Knuckles - A New Reality (2004)
+</li>
 <li data-cover="https://img.discogs.com/VgPwhe_aQ3eWqz0XVgGywYkxWzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1094968-1191652665.jpeg.jpg" data-tags="deep house" role="button">
 Parov Stelar - Primavera (2004)
+</li>
+<li data-cover="https://img.discogs.com/EPUPhR8Raok9WlBIudi2tjwYZK4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396480-1326270940.jpeg.jpg" data-tags="soundtrack, trance, chillout, electronic, ambient, funk, techno, house, deep house, chillout bar, favouritestreamablealbums, felipe" role="button">
+Phats & Small - Soundtrack To Our Lives (2004)
 </li>
 <li data-cover="https://img.discogs.com/wEPLNtVrse-b3hylac4Ef88G5qA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-251840-1569437533-5082.jpeg.jpg" data-tags="house, detroit, deep house" role="button">
 Moodymann - Black Mahogani (2004-05)
@@ -99,8 +114,8 @@ Deepest Blue - Late September (2004-06-07)
 <li data-cover="https://img.discogs.com/oXtSA5kDHsdrMvo_dcvo0jMJwhY=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309495-1585912587-3322.mpo.jpg" data-tags="deep house, electro jazz, e-jazz, jazztronik" role="button">
 Jazztronik - Samurai (2004-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2c78758-acc6-3805-a1f3-184397b9d1dd/22730123114-500.jpg" data-tags="deep house" role="button">
-Âme - Âme (2004-10-11)
+<li data-cover="https://img.discogs.com/9CW7efeSmeRZ7FVrZZYSTKvBfxw=/fit-in/541x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1399504-1255068211.jpeg.jpg" data-tags="pop, house, deep house, vocal house, new york house, garage house" role="button">
+Blaze - Most Precious Love (2004-11-22)
 </li>
 <li data-cover="https://img.discogs.com/oRqnLRa75dRNcszKKgHTbNlnrWQ=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-613206-1138602957.jpeg.jpg" data-tags="ninja tune" role="button">
 Coldcut - Sound Mirrors (2005)
@@ -120,12 +135,6 @@ Martin Solveig - Hedonist (2005-06-27)
 <li data-cover="http://coverartarchive.org/release/5fec26c0-4f00-4b19-8cb8-7958cca4bccf/3109418276-500.jpg" data-tags="dance, house, electronic" role="button">
 Deep Dish - George Is On (2005-07-12)
 </li>
-<li data-cover="https://img.discogs.com/h3Z0rvlV7L1RFbHNm1yJNxjS4Oo=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-514874-1424076592-7367.jpeg.jpg" data-tags="electronic, downtempo, house, deep house" role="button">
-Late Night Alumni - Empty Streets (2005-09)
-</li>
-<li data-cover="https://img.discogs.com/lzhqaCJcQ82Do7-Pt6hCGbq_PdY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-547340-1567460772-3455.jpeg.jpg" data-tags="downtempo, lounge" role="button">
-Lisa Shaw - Cherry (2005-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/322f445e-684a-446e-bb76-912a473ec3b6/5409357147-500.jpg" data-tags="soul, funk, house, r&b, deep house, live house, soulful and funky" role="button">
 Tortured Soul - Introducing Tortured Soul (2006-03-07)
 </li>
@@ -141,14 +150,11 @@ Kaskade - Love Mysterious (2006-09-20)
 <li data-cover="http://coverartarchive.org/release/c038f2a0-3e8a-38f2-ad9a-ec727c3e3b25/27287657696-500.jpg" data-tags="deep house" role="button">
 Dennis Ferrer - The World As I See It (2006-11)
 </li>
-<li data-cover="https://img.discogs.com/ogXc0_12p1azLm4vnVLiEPJDRQ4=/fit-in/589x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988006-1181152703.jpeg.jpg" data-tags="groove, deep house" role="button">
-Miguel Migs - Those Things (2007-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
 Samantha James - Rise (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/471bbe48-418f-4542-9753-4cc4ecb57739/6675677844-500.jpg" data-tags="deep house" role="button">
-Daso - Meine Idee EP (2007-10-31)
+<li data-cover="https://img.discogs.com/JuFemSOUd6S9llhZTiYCX3WJznA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990973-1376919315-7630.jpeg.jpg" data-tags="electronic" role="button">
+Lulu Rouge - Bless You (2008)
 </li>
 <li data-cover="https://img.discogs.com/T2-WMhkMFCDGydfUCpBrB-Nil0A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353608-1219058815.jpeg.jpg" data-tags="lounge" role="button">
 Plej - Home is Where Your Heart Was (2008-05-00)
@@ -162,6 +168,9 @@ SCSI-9 - Easy As Down (2008-09-19)
 <li data-cover="http://coverartarchive.org/release/9f4649c4-9dfa-4d0b-843b-266efbad5b98/1892889371-500.jpg" data-tags="deep house" role="button">
 DJ Sprinkles - Midtown 120 Blues (2009-01-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/464dd7ca-9ab7-4b2c-b53c-4e37dc08c19c/5409345779-500.jpg" data-tags="soul, house, lounge, r&b, deep house, live house" role="button">
+Tortured Soul - Did You Miss Me (2009-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/99b09d02-9cc9-3fed-8431-f162165a9371/6281423897-500.jpg" data-tags="electronic" role="button">
 Luke Vibert - We Hear You (2009-08-10)
 </li>
@@ -173,9 +182,6 @@ Tycho - Coastal Brake (2009-12-08)
 </li>
 <li data-cover="https://img.discogs.com/a5O9DuxiQF9xpUpkS5OaeiNjyr8=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137886-1266070810.jpeg.jpg" data-tags="house, deep house, detroit house" role="button">
 Pional - A Moot Point (2010)
-</li>
-<li data-cover="http://coverartarchive.org/release/10489ea7-c569-43a9-83c1-43928c753683/19859038169-500.jpg" data-tags="house, deep house" role="button">
-Maya Jane Coles - What They Say (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
@@ -189,14 +195,8 @@ Maya Jane Coles - Bubbler (2010-07-19)
 <li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
 Nicolas Jaar - Love You Gotta Lose Again (2010-09)
 </li>
-<li data-cover="https://img.discogs.com/bJxJWMYmWaD-EHlTQoJhO6QVKsk=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2432170-1283730105.jpeg.jpg" data-tags="house, funky house" role="button">
-Oliver Koletzki & Fran - Lovestoned (2010-09-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/1fbfbe77-f5d0-404a-bce0-cb1bd891f92c/4515825059-500.jpg" data-tags="techno, house" role="button">
 John Roberts - Glass Eights (2010-10-11)
-</li>
-<li data-cover="https://img.discogs.com/NfROqr8vpHrQtO2FL4kjdD8QiBI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3149699-1318069809.jpeg.jpg" data-tags="house" role="button">
-Lone - Emerald Fantasy Tracks (2010-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/edc2ac4f-6ff5-450b-920c-210634c7492b/5789409571-500.jpg" data-tags="deep house, deep techno, french touch" role="button">
 Joris Delacroix - Room with view Ep (2011)
@@ -210,9 +210,6 @@ Frivolous - Meteorology (2011-02-01)
 <li data-cover="http://coverartarchive.org/release/29d5c7b9-85b1-3e69-9b6d-99f239f7c1d0/4031224817-500.jpg" data-tags="dubstep, deep house" role="button">
 Koreless - 4D (2011-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/6383a0ee-56c5-494f-afb6-36c501de227e/4135608684-500.jpg" data-tags="electronic" role="button">
-Maya Jane Coles - Focus Now (2011-05)
-</li>
 <li data-cover="https://img.discogs.com/LPA2w-4DjKaKa7J63lr9HZWhFIc=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389573-1393368466-9302.jpeg.jpg" data-tags="electronic, ambient" role="button">
 Moby - Destroyed (2011-05-11)
 </li>
@@ -225,8 +222,8 @@ Thievery Corporation - Culture of Fear (2011-06-26)
 <li data-cover="http://coverartarchive.org/release/5349e290-fe88-4241-b1c9-0ce545072523/8211444674-500.jpg" data-tags="electronic, hip hop, slow, house, deep house, edits" role="button">
 Nicolas Jaar - Nico's Bluewave Edits (2011-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/927903c3-7182-4a1d-bee9-9d392b38b558/16487376693-500.jpg" data-tags="house" role="button">
-Azari & III - Azari & III (2011-08-08)
+<li data-cover="http://coverartarchive.org/release/d63a0dac-5f90-4996-bcb9-b3064bd86152/4026407184-500.jpg" data-tags="house" role="button">
+Miguel Migs - Outside the Skyline (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/580f7002-4718-4dd9-8bdc-6bf49248bb57/2088223186-500.jpg" data-tags="chillout, electronic, electro, techno, minimal, deep house" role="button">
 Niconé & Sascha Braemer - Romantic Thrills (2011-10-31)
@@ -243,6 +240,9 @@ Greeen Linez - Things That Fade (2012)
 <li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
 John Talabot - ƒin (2012-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/686e3138-0e10-4bd1-a997-897904031bfd/15367026706-500.jpg" data-tags="deep house" role="button">
+Andrés - New for U (2012-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/386d8784-afad-40da-8185-edac15e4f284/3479297449-500.jpg" data-tags="house, deep house" role="button">
 Adana Twins - Everyday (2012-02-20)
 </li>
@@ -251,6 +251,9 @@ Martin Roth - Beautiful Life / Make Love To Me Baby (2012-04-02)
 </li>
 <li data-cover="https://img.discogs.com/m_uFZ98_f0BrZ0G_-A2bB-wWhCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3630332-1338066920-5497.jpeg.jpg" data-tags="electronic, deep house" role="button">
 Robosonic - Worst Love EP (2012-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3648c50-6e76-45b5-835c-dc4f8afaac58/4342411364-500.jpg" data-tags="dance, deep house" role="button">
+Kraak & Smaak - Mixed Feelings (2012-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/360ec8be-ecb2-4229-b4f6-7424e40c9d1d/7931664102-500.jpg" data-tags="chillout, electronic, dance, house, deep house, dutch, liebe ich" role="button">
 Bakermat - One Day (Vandaag) (2012-08-27)
@@ -269,9 +272,6 @@ Gorgon City - Intentions (2013-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/94d039b5-b76e-4e70-ad3d-c0fc405825a2/12007188887-500.jpg" data-tags="deep house" role="button">
 Terekke - Yyyyyyyyyy (2013-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/666aed5e-09d0-4825-b932-c77461627cfe/18006497469-500.jpg" data-tags="house" role="button">
-Maya Jane Coles - Comfort (2013-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f2076f5-442c-4cee-ab41-772db6230a7b/5246820861-500.jpg" data-tags="electronic, deep house, epic album covers" role="button">
 Hot Natured - Different Sides of the Sun (2013-09-02)
@@ -300,9 +300,6 @@ XXANAXX - Triangles (2014-04-29)
 <li data-cover="https://img.discogs.com/hQZAbq1Kh5nB8vn8Xg2Jk3FWtnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5870076-1404978708-1420.jpeg.jpg" data-tags="electronic, ambient, downtempo, house, deep house, muzak, balearic" role="button">
 Mark Barrott - Sketches from an Island (2014-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
-deadmau5 - while(1<2) (2014-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/14074def-0940-4ffd-88bc-c7b35d0d7caf/8998642520-500.jpg" data-tags="robin schulz" role="button">
 Robin Schulz - Prayer (2014-09-14)
 </li>
@@ -314,6 +311,9 @@ George Maple - Vacant Space (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b03b7c-5b74-4c66-8bdf-6049cefef15c/8534196766-500.jpg" data-tags="electronic, dance, house, deep house, uk garage" role="button">
 Gorgon City - Sirens (2014-10-06)
+</li>
+<li data-cover="https://img.discogs.com/0_xZe0tcFHk7HFjZeEswo2k1tBI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219898-1414237445-9859.jpeg.jpg" data-tags="electronic, deep house" role="button">
+Huxley - Blurred (2014-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/452988bf-7e93-42db-a622-67c912fff56f/9942143701-500.jpg" data-tags="electronic, remix, progressive house, deep house, mp3, ultra records" role="button">
 deadmau5 - 5 Years of mau5 (2014-11-21)

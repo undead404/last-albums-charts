@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:35:01.432Z
+date: 2021-04-11T06:37:01.422Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/EGOkGRsgmL_vDdsk47QKCe1RcUE=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17519131-1613914397-8183.jpeg.jpg" data-tags="western, country" role="button">
-Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
-</li>
 <li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
 Townes Van Zandt - Our Mother the Mountain (1969-04)
 </li>
@@ -54,11 +51,11 @@ Son Volt - Trace (1995-09-19)
 <li data-cover="https://img.discogs.com/cMK3nWewwhq4rsy67g2jbnJf8SI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736313-1153473870.jpeg.jpg" data-tags="americana, alt-country" role="button">
 Gillian Welch - Revival (1996-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/7fe6a811-5c22-4211-b0b6-a7b8e0a270bd/28840033761-500.jpg" data-tags="singer-songwriter, alt-country, female vocalists" role="button">
+Patty Griffin - Living With Ghosts (1996-05-21)
+</li>
 <li data-cover="https://img.discogs.com/8gCwivGfxziWqw7vLTg_KeVCgAc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2793119-1301259769.jpeg.jpg" data-tags="guster" role="button">
 Guster - Goldfly (1997-03-04)
-</li>
-<li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
-Whiskeytown - Strangers Almanac (1997-07-29)
 </li>
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
@@ -80,6 +77,9 @@ Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
 The Be Good Tanyas - Blue Horse (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
+Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
@@ -117,9 +117,6 @@ Calexico - Feast of Wire (2003-02-10)
 <li data-cover="http://coverartarchive.org/release/2f82a5a3-d049-3cf9-a38f-c2250b1e228d/6723481969-500.jpg" data-tags="alt-country" role="button">
 Songs: Ohia - The Magnolia Electric Co. (2003-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c382865c-1a47-4650-97be-e8e12272e211/6785162229-500.jpg" data-tags="americana" role="button">
-The Jayhawks - Rainy Day Music (2003-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/361eb780-0b77-479f-bf80-9f2ad813d3e0/7793148294-500.jpg" data-tags="indie" role="button">
 The National - Sad Songs for Dirty Lovers (2003-05)
 </li>
@@ -134,9 +131,6 @@ Sufjan Stevens - Michigan (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/4321855e-8e8e-4786-8506-28e6d69633b9/13966110015-500.jpg" data-tags="country" role="button">
-Johnny Cash - Unearthed (2003-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
@@ -153,6 +147,9 @@ The Avett Brothers - Mignonette (2004-07-27)
 <li data-cover="http://coverartarchive.org/release/25b257bc-dd00-442f-9152-18f22b91b18c/13177956202-500.jpg" data-tags="funky blues" role="button">
 Marc Broussard - Carencro (2004-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
+Antony and the Johnsons - The Lake (2004-11-02)
+</li>
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
@@ -165,17 +162,11 @@ Sufjan Stevens - Illinois (2005-07-04)
 <li data-cover="https://img.discogs.com/euPgMPOhkaUG4hkmQxHl-UUVdcI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528063-1333984291.jpeg.jpg" data-tags="country, cash" role="button">
 Johnny Cash - The Legend (2005-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b63123a-f122-4feb-bce2-a3c02dc79a7b/4619205570-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Black Rebel Motorcycle Club - Howl (2005-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/123b84c6-d6da-3975-96ec-65ab937ee16a/19801864754-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
-Ryan Adams - 29 (2005-12-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/61e933ae-208d-36fe-8dbc-fa0411780514/4021935438-500.jpg" data-tags="americana" role="button">
-Calexico - Garden Ruin (2006-03-31)
+<li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
+Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/00c8d0d6-ade8-485b-be3b-85a0399fb30e/11241065527-500.jpg" data-tags="folk" role="button">
 Bruce Springsteen - We Shall Overcome: The Seeger Sessions (2006-04-24)
@@ -213,6 +204,9 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 <li data-cover="https://img.discogs.com/Pu7wyaWJftnIaAStnPf1jSQGlCs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2000767-1257783425.jpeg.jpg" data-tags="rock" role="button">
 Heartless Bastards - The Mountain (2009-02-03)
 </li>
+<li data-cover="https://img.discogs.com/zSpcKBEKldoaJrcwqt56A97j2xs=/fit-in/267x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1618745-1232547954.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
+Alela Diane - To Be Still (2009-02-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
 </li>
@@ -227,6 +221,12 @@ Dawes - North Hills (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/86999218-5d93-4590-80f6-e609ca6ed072/17331772069-500.jpg" data-tags="folk" role="button">
 Bowerbirds - Upper Air (2009-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
+Califone - All My Friends Are Funeral Singers (2009-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
+Brown Bird - The Devil Dancing (2009-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
 Johnny Cash - American VI: Ain't No Grave (2010-02-22)

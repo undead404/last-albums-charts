@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:34:01.425Z
+date: 2021-04-11T05:50:01.421Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -51,6 +51,9 @@ Wire - Chairs Missing (1978-10)
 <li data-cover="http://coverartarchive.org/release/a580e5c6-fb3a-4b62-8170-daa13fa1c046/28316388522-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - The Scream (1978-11-13)
 </li>
+<li data-cover="https://img.discogs.com/gxfhqodPNQWmmG7h3OO-jy4nEkU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102568-1466634765-6819.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
+Wipers - Is This Real? (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b62f7ca-2b74-3a22-b76f-c0c184466a3a/7904776862-500.jpg" data-tags="post-punk, new wave" role="button">
 The Cure - Three Imaginary Boys (1979-05-08)
 </li>
@@ -71,9 +74,6 @@ Public Image Ltd. - Metal Box (1979-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d43ec088-ce52-44a9-b58a-a34bd5fe7df6/16629301425-500.jpg" data-tags="post-punk" role="button">
 Young Marble Giants - Colossal Youth (1980)
-</li>
-<li data-cover="https://img.discogs.com/RMYzpYyIA6AOBZdbg7xWl2gJlIM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379639-1419989010-9809.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
-The Feelies - Crazy Rhythms (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)

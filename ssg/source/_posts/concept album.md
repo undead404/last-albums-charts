@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:15:01.496Z
+date: 2021-04-11T06:01:29.240Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -29,9 +29,6 @@ The Who - The Who Sell Out (1967-12-16)
 </li>
 <li data-cover="https://img.discogs.com/sMmSFb1IcPs_yLo53n3dR6L_C0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14496895-1575796384-1397.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
 The Who - Tommy (1969-05-23)
-</li>
-<li data-cover="https://img.discogs.com/bUu-_Iz8X7FYDg_zFwsCL5q2rRc=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8787282-1468764805-5076.jpeg.jpg" data-tags="concept album, italy" role="button">
-Fabrizio De André - Storia Di Un Impiegato (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ed99b83-6abc-402e-b723-b036b9441fc4/12733158344-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - A Passion Play (1973-07-06)
@@ -206,6 +203,9 @@ Pain of Salvation - Be (2004-09-24)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
+</li>
+<li data-cover="https://img.discogs.com/5YOzFKC9_c86SOuNkAW8PrCRBp0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059139-1554311912-3954.jpeg.jpg" data-tags="experimental rock" role="button">
+The Sound of Animals Fighting - Tiger and the Duke (2005-02-15)
 </li>
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Black Halo (2005-02-16)

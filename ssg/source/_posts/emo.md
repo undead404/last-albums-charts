@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:00:07.025Z
+date: 2021-04-11T06:21:01.416Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")

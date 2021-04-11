@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T16:05:07.067Z
+date: 2021-04-11T06:38:01.392Z
 title: "garage punk: 100 albums you must listen to before you die"
 ---
-![The Horrors - Strange House (2007-03-05)](http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg "The Horrors - Strange House (2007-03-05)")
+![The Hives - Veni Vidi Vicious (2000-04-10)](http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg "The Hives - Veni Vidi Vicious (2000-04-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1644f5b6-e1e3-4555-8492-22a8c7091810/3778611419-500.jpg" data-tags="garage rock, garage punk" role="button">The Hives - Barely Legal (1997-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">The Hives - Veni Vidi Vicious (2000-04-10)</li>
 <li data-cover="http://coverartarchive.org/release/ed179309-85ad-45c7-a81f-599cc90c3df8/2083318776-500.jpg" data-tags="garage rock" role="button">The Hives - Your New Favourite Band (2001-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">Yeah Yeah Yeahs - Fever To Tell (2003-04-28)</li>
+<li data-cover="http://coverartarchive.org/release/c50d3d01-3f3a-3685-9ad6-58d7942a31be/3374165987-500.jpg" data-tags="garage rock" role="button">The Hives - Tyrannosaurus Hives (2004-07-19)</li>
 <li data-cover="http://coverartarchive.org/release/e7bbdb0b-a407-3aeb-9b78-fcb5f9de9c66/8782359241-500.jpg" data-tags="garage punk" role="button">Jay Reatard - Blood Visions (2006-10-10)</li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">The Horrors - Strange House (2007-03-05)</li>
 <li data-cover="http://coverartarchive.org/release/9b6299d4-08c1-3a0f-8877-e64fd41b1c17/26142553847-500.jpg" data-tags="indie rock" role="button">Black Lips - Good Bad Not Evil (2007-09-11)</li>
 <li data-cover="https://img.discogs.com/SyB2V5tRP58VnZy7Jv88JpwbCpQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677269-1583376530-7454.jpeg.jpg" data-tags="indie rock" role="button">Cage the Elephant - Cage the Elephant (2008-06-23)</li>
 <li data-cover="http://coverartarchive.org/release/b204ad72-f666-427d-82ee-de4add53c7ab/5331069642-500.jpg" data-tags="rock, garage rock" role="button">The Hives - Lex Hives (2012-06-01)</li>
@@ -24,14 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/ac15cdd0-6501-46b8-bfe0-706d586b6eb0/9146609364-500.jpg" data-tags="psychedelic" role="button">
 The Litter - Distortions (1967)
 </li>
-<li data-cover="https://img.discogs.com/3tqMjgDKEUbMFk3ge3GAdBBAX_o=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2963994-1443996119-6003.jpeg.jpg" data-tags="punk, punk rock" role="button">
-The Saints - (I'm) Stranded (1977-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f803106-a53a-49f4-8b9c-991a38a1b3b8/11574025842-500.jpg" data-tags="punk" role="button">
 The Damned - Machine Gun Etiquette (1979-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b92101d-8d87-4a9d-b72e-f4dda3ccfe9b/16197865801-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Warsaw (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dd72b37-3066-4bf1-9a55-eaae80f45474/29001786139-500.jpg" data-tags="proto-punk, garage punk, itunes, iveldie best of 1981" role="button">
+Radio Birdman - Living Eyes (1981-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf35360c-9bfb-4459-926f-e686bbde68da/10191233331-500.jpg" data-tags="punk rock, hardcore punk, alternative rock" role="button">
 Social Distortion - Mommy's Little Monster (1983-02-01)
@@ -39,14 +39,14 @@ Social Distortion - Mommy's Little Monster (1983-02-01)
 <li data-cover="https://img.discogs.com/LXPJGygAiVX5KORWO1I0bIAlslg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894436-1344881489-1549.jpeg.jpg" data-tags="psychedelic" role="button">
 The Fuzztones - Lysergic Emanations (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
-Dead Moon - In the Graveyard (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/447793d9-08d5-4dfc-9b08-bdb03466d7f5/9637244123-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Mudhoney (1989)
+</li>
+<li data-cover="https://img.discogs.com/VucKnoZOZQcO9PF5oDafpk4Hnss=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-518275-1429972713-9245.jpeg.jpg" data-tags="shoegaze" role="button">
+The Telescopes - Taste (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/96b52d2e-971c-47f5-836c-ade9a30d0756/24918387989-500.jpg" data-tags="punk, noise rock, post-punk, garage punk" role="button">
 Гражданская оборона - Тошнота (1989)
@@ -59,6 +59,9 @@ The Gories - I Know You Fine, But How You Doin' (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf883f5b-2ada-4bc7-9faf-33039d525bc4/4923089110-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Piece of Cake (1992-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/84363fd5-4cc3-4b00-929d-4960345e233a/24908484187-500.jpg" data-tags="punk" role="button">
+New Bomb Turks - !!Destroy-Oh-Boy!! (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/838f683e-9c60-44af-9bf2-0519f54cba12/14563948219-500.jpg" data-tags="garage rock, garage punk" role="button">
 The Gories - I Know You Be Houserockin' (1994)
@@ -120,9 +123,6 @@ The Murder City Devils - In Name And Blood (2000-06-06)
 <li data-cover="http://coverartarchive.org/release/06df1caf-83d4-4bb4-9366-8a2bd2a93242/15902322936-500.jpg" data-tags="debut album" role="button">
 The Mooney Suzuki - People Get Ready (2000-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7c3a371-bdeb-4e31-85e8-acf3ce0ccfae/15859167577-500.jpg" data-tags="garage rock" role="button">
-The Dirtbombs - Ultraglide in Black (2001-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/25324581-4fb0-41a0-b241-d4507aff3235/13635902496-500.jpg" data-tags="indie, rock, alternative, garage rock revival, retro-rock, garage punk, punk revival" role="button">
 The Hives - Main Offender (2001-08-20)
 </li>
@@ -131,6 +131,9 @@ The D4 - 6Twenty (2001-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed179309-85ad-45c7-a81f-599cc90c3df8/2083318776-500.jpg" data-tags="garage rock" role="button">
 The Hives - Your New Favourite Band (2001-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/53f404d4-2d22-4ffa-9af8-cccba8bdc3c3/14521210692-500.jpg" data-tags="proto-punk, garage rock" role="button">
+Rocket From The Tombs - The Day the Earth Met the Rocket from the Tombs (2002-02-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 The Mooney Suzuki - Electric Sweat (2002-04)
@@ -143,9 +146,6 @@ Hot Snakes - Suicide Invoice (2002-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e6a4731-2f21-4d7b-aa4d-2518511fbc79/2097071587-500.jpg" data-tags="rock" role="button">
 The Vines - Highly Evolved (2002-06-15)
-</li>
-<li data-cover="https://img.discogs.com/KiLVb3JNBGQaK_GcW9nUlXaCx3E=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949257-1606233114-9756.jpeg.jpg" data-tags="loud, garage, garage punk, in the red records, powerful garage punk, uncut jan 09" role="button">
-The Hunches - Yes. No. Shut It. (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/938cf7ac-7c63-391b-9e55-0d3d09e5294d/1883381895-500.jpg" data-tags="rock, indie, alternative" role="button">
 Kings of Leon - Holy Roller Novocaine (2003-02-24)
@@ -207,9 +207,6 @@ The Ettes - Shake the Dust (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/e7bbdb0b-a407-3aeb-9b78-fcb5f9de9c66/8782359241-500.jpg" data-tags="garage punk" role="button">
 Jay Reatard - Blood Visions (2006-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
-The Horrors - Strange House (2007-03-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, garage rock, garage punk, get, american trad rock, the devil and the deep blue sea, the merch grrls, teh typos" role="button">
 The Mooney Suzuki - Have Mercy (2007-06-19)
 </li>
@@ -269,6 +266,9 @@ Moonhearts - Moonhearts (2010-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e549dc61-17a5-4d06-9f61-2e4158d6bb62/17988718814-500.jpg" data-tags="punk, noise rock, lo-fi, shitgaze, punk rock, garage rock, garage, no wave, garage punk" role="button">
 Tyvek - Nothing Fits (2010-11-09)
+</li>
+<li data-cover="https://img.discogs.com/wWmmkD7CKyVgtKTiGx78Rpyrbjk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2974052-1309900811.jpeg.jpg" data-tags="energetic, irreverent, aggressive, sardonic, raucous, drinking, sleazy, garage punk, silly, partying, rowdy, swaggering, messy, punk revival, tgif, boisterous, brash, guys night out, greasy, reckless, pool party" role="button">
+The Spits - Kill The Kool (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/56b749ab-070c-49bb-b7f4-1198ef28d585/15883380437-500.jpg" data-tags="lo-fi" role="button">
 Bass Drum of Death - GB City (2011-03-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:30:01.566Z
+date: 2021-04-11T06:03:07.110Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -147,9 +147,6 @@ Pink Floyd - The Wall (1979-11-30)
 <li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)
 </li>
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, psychedelic rock" role="button">
 Kingston Wall - II (1993-10)
 </li>
@@ -197,9 +194,6 @@ Graveyard - Graveyard (2007-09-10)
 </li>
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/c67bca1d-6300-445a-8140-d02e1ee335a2/24991340103-500.jpg" data-tags="psychedelic, psychedelic rock, tame impala" role="button">
-Tame Impala - Tame Impala (2008-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e80cd235-42ca-455c-bdbd-d8040ac89bba/19514642626-500.jpg" data-tags="psychedelic rock, mgmt, progressive electro-indie" role="button">
 MGMT - Metanoia (2008-08-12)
@@ -275,6 +269,12 @@ Goat - World Music (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">
 Tame Impala - Lonerism (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/7ffd99fa-4e2b-4dd2-aca7-edbabf6803a5/3330588150-500.jpg" data-tags="rock, hard rock, stoner rock, psychedelic rock" role="button">
+Graveyard - Lights Out (2012-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/44db4018-0448-4cb8-9150-d681a556138d/12121014371-500.jpg" data-tags="psychedelic rock" role="button">
+Pond - Hobo Rocket (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)

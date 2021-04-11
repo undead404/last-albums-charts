@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:55:01.461Z
+date: 2021-04-11T06:31:06.936Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -72,9 +72,6 @@ PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
 </li>
@@ -101,6 +98,9 @@ Sia - Colour the Small One (2004-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d443845e-fd6a-43dd-a533-7ac239809cb6/19918684452-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Feels Like Home (2004-02-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
+Avril Lavigne - Under My Skin (2004-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)

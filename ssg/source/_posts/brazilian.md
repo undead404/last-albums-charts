@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:57:06.984Z
+date: 2021-04-11T06:28:01.425Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
@@ -48,6 +48,9 @@ Di Melo - Di Melo (1975)
 <li data-cover="http://coverartarchive.org/release/267ea3f8-eb4e-4ba3-9b7c-2f774ca673aa/26080270080-500.jpg" data-tags="milton nascimento" role="button">
 Milton Nascimento - Minas (1975)
 </li>
+<li data-cover="http://coverartarchive.org/release/99a76d2d-d50a-407b-aa39-d40c9559344c/17196103051-500.jpg" data-tags="jazz fusion" role="button">
+Azymuth - Light as a Feather (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/3418183c-d712-4e53-a9f4-0554a416d164/3780563924-500.jpg" data-tags="brazilian" role="button">
 João Bosco - Linha De Passe (1979)
 </li>
@@ -68,12 +71,6 @@ Radio Futura - La Ley Del Desierto, La Ley Del Mar (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
 Cazuza - Exagerado (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9f79335-c1b6-421c-8b17-0efdb3b506f3/3076648829-500.jpg" data-tags="pop rock" role="button">
-RPM - Revoluções Por Minuto (1985-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
-Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d423a4cf-7ec3-4d84-9e9d-9240a7c6e3b4/20509711014-500.jpg" data-tags="post-punk, folk rock" role="button">
 Engenheiros Do Hawaii - A revolta dos Dândis (1987)
@@ -96,9 +93,6 @@ Chico César - Aos Vivos (1995)
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/0491932d-33df-4753-a8cb-bd22da00f287/13105330080-500.jpg" data-tags="rock" role="button">
-Chico Science & Nação Zumbi - Afrociberdelia (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/1fe19b4c-69a8-4369-827c-4d47dda8ccd3/15950037797-500.jpg" data-tags="90s, mpb, brazilian" role="button">
 Djavan - Malásia (1996)
 </li>
@@ -107,6 +101,9 @@ Sepultura - Roots (1996-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2279f39-ec58-3ec2-8c70-be4f084b0e6e/19296369854-500.jpg" data-tags="power metal" role="button">
 Angra - Holy Land (1996-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/fbabea02-d690-4bfb-8c42-a9e56260e859/5969567907-500.jpg" data-tags="rap" role="button">
+Racionais Mc's - Sobrevivendo no Inferno (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
@@ -144,8 +141,14 @@ O Rappa - Lado B Lado A (1999-09-15)
 <li data-cover="http://coverartarchive.org/release/aa6c218d-edf7-4293-9ce9-731756e0dd6e/6756058530-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
 Planet Hemp - A invasão do sagaz homem fumaça (2000)
 </li>
+<li data-cover="https://img.discogs.com/eBEXvYcC9eApID9pV9SBpEUC7ko=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15792731-1597876643-3402.jpeg.jpg" data-tags="hip-hop, rap, brazilian" role="button">
+509-E - Provérbios 13 (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">
 Bebel Gilberto - Tanto Tempo (2000)
+</li>
+<li data-cover="https://img.discogs.com/aWwkOGgqLiprrpKePRv_gZbdkE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073494-1478103358-6750.jpeg.jpg" data-tags="mpb" role="button">
+Ana Carolina - Ana Rita Joana Iracema e Carolina (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f70805ee-f3f5-4453-a344-eef3ad5f7e85/11449802748-500.jpg" data-tags="los hermanos" role="button">
 Los Hermanos - Bloco do Eu Sozinho (2001)
@@ -153,11 +156,11 @@ Los Hermanos - Bloco do Eu Sozinho (2001)
 <li data-cover="http://coverartarchive.org/release/dcde9e2b-777b-4890-a7d5-b5e7b2fa0cb1/6756154838-500.jpg" data-tags="br4z1l14n f4nk7 k0r3" role="button">
 Planet Hemp - MTV ao vivo (2001)
 </li>
-<li data-cover="https://img.discogs.com/_KUKUtiK2VkAGYrOsOO39355J7I=/fit-in/597x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072096-1314385273.jpeg.jpg" data-tags="bossa nova" role="button">
-Astrud Gilberto - The Astrud Gilberto Album (2001-04-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">
 Astrud Gilberto - Astrud Gilberto's Finest Hour (2001-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba73082-04fe-3bf4-a601-ec0b26e083e9/1555934640-500.jpg" data-tags="power metal" role="button">
 Angra - Rebirth (2001-10-24)
@@ -204,6 +207,9 @@ Los Hermanos - Ventura (2003)
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">
 Vanessa da Mata - Vanessa da Mata (2003-01-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e0f88f7-1fcc-4d78-80de-574db0d94f5f/1964546493-500.jpg" data-tags="pop" role="button">
+Rouge - C'est La Vie (2003-05-06)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="brazilian" role="button">
 Titãs - Como estão vocês? (2003-11)
 </li>
@@ -237,8 +243,8 @@ Pitty - Anacrônico (2005-08-21)
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
 CSS - Cansei De Ser Sexy (2005-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
-Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
+<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, samba, bossa nova" role="button">
+Jorge Ben Jor - Football & Samba Groove Association (2006)
 </li>
 <li data-cover="https://img.discogs.com/JAQK1ZOQh9hVjEh-Ei5erFmZoNM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635360-1521784378-3749.jpeg.jpg" data-tags="mpb, maria bethania" role="button">
 Maria Bethânia - Mar De Sophia (2006)
@@ -255,9 +261,6 @@ Angra - Aurora Consurgens (2006-10-24)
 <li data-cover="http://coverartarchive.org/release/9c92828d-0f3c-4277-9941-c99d9074ccdb/6694288362-500.jpg" data-tags="rock, reggae" role="button">
 Scracho - A Grande Bola Azul (2007-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/caf59918-931d-4ae7-927e-74824c54da25/5234376682-500.jpg" data-tags="pop, rock, alternative rock" role="button">
-Cachorro Grande - Todos os Tempos (2007-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/30af21c6-9cb1-4f3b-bbf0-948688c4462c/7216991156-500.jpg" data-tags="rock, brazilian, brazilian music, bacaninha, discos favoritos, discos 2009" role="button">
 Ludov - Disco paralelo (2007-07-13)
 </li>
@@ -267,14 +270,14 @@ Vanguart - Vanguart (2007-08-26)
 <li data-cover="http://coverartarchive.org/release/2608ecd7-89c8-417d-b8aa-b4c6e8d57176/18806428214-500.jpg" data-tags="electronic, indie, female vocalists" role="button">
 Copacabana Club - King of the Night (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/85fbcca1-77b7-473d-856b-f399b3090aef/5856782157-500.jpg" data-tags="indie" role="button">
+Moptop - Como Se Comportar (2008-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/57c88226-a275-4b59-a3e6-204ba2558c32/4690527625-500.jpg" data-tags="indie, rock, indie rock, brazilian, alternativo, indie baiano" role="button">
 Vivendo do Ócio - Nem Sempre Tão Normal (2009-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/34000f0b-e6a1-40be-8679-de8c96b87bcd/7083917698-500.jpg" data-tags="rock" role="button">
 Pitty - Chiaroscuro (2009-08-11)
-</li>
-<li data-cover="https://img.discogs.com/EAzsLOGOKW_O1x-vupZHNf-83aI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15267609-1589057376-9693.jpeg.jpg" data-tags="mpb" role="button">
-Tulipa Ruiz - Efêmera (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d9fb562-2e03-4698-9a81-b1cea5f3471a/4657601466-500.jpg" data-tags="indie, alternative, brazilian" role="button">
 Sabonetes - Sabonetes (2010)
@@ -317,8 +320,5 @@ Silva - Vista Pro Mar (2014-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d3a2571-7f0f-4fdc-a040-18dcb309cf80/8017470296-500.jpg" data-tags="alternative rock, rock" role="button">
 Pitty - SETEVIDAS (2014-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd73fd7b-89cc-4b7c-bbb3-fde7fa19de24/11699673662-500.jpg" data-tags="brazilian" role="button">
-Tiê - Esmeraldas (2014-09-23)
 </li>
 </ol>

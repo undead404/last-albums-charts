@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:22:01.397Z
+date: 2021-04-11T05:54:01.403Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -45,6 +45,9 @@ London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From
 <li data-cover="http://coverartarchive.org/release/a4a92e09-18b4-4367-b260-521d6e13b66b/1977934530-500.jpg" data-tags="ninja tune, aersche-tag wegen die ich nach 1000 tracks noch kein profile hab alle anderen haben eins wieso ich nicht wieso aersche aersche kinder blumen" role="button">
 Amon Tobin - Creatures (1996-11)
 </li>
+<li data-cover="https://img.discogs.com/CYHf9bWN-3TIW8yAvH2GCWSWl_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1779833-1591447901-1812.jpeg.jpg" data-tags="indie, alternative rock" role="button">
+The Wannadies - Bagsy Me (1996-11-30)
+</li>
 <li data-cover="https://img.discogs.com/KO3Hb5KPZe0KhgUq00CKQgTo6B8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1408100-1373923314-6008.jpeg.jpg" data-tags="ninja tune, hip-hop" role="button">
 The Herbaliser - Blow Your Headphones (1997-03-23)
 </li>
@@ -66,6 +69,9 @@ Jaga Jazzist - Magazine EP (1998)
 <li data-cover="http://coverartarchive.org/release/a898bb94-de8e-4213-ba7a-e92ade634729/26465477531-500.jpg" data-tags="ninja tune" role="button">
 Chocolate Weasel - Music For Body Lockers (1998-02)
 </li>
+<li data-cover="https://img.discogs.com/kc0nPBMRWZnZ6cAVFbukI139iJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654-1171751450.jpeg.jpg" data-tags="ninja tune" role="button">
+The Irresistible Force - It's Tomorrow Already (1998-09-21)
+</li>
 <li data-cover="https://img.discogs.com/CQg59_WNFY1WZOpvvSyaR38_fSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17371129-1613081510-7356.jpeg.jpg" data-tags="ninja tune, trip-hop" role="button">
 Coldcut - Let Us Replay (1998-10-21)
 </li>
@@ -86,6 +92,9 @@ The Cinematic Orchestra - Motion (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/92ae4527-5b03-4bf1-a8c1-7d4832f26d7b/4514720848-500.jpg" data-tags="electronic, trip-hop, downtempo" role="button">
 Funki Porcini - Zombie (1999-10-19)
+</li>
+<li data-cover="https://img.discogs.com/5LwekTjLgW0k0mv23rs4pWQbArI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34581-1226523868.jpeg.jpg" data-tags="ninja tune" role="button">
+Animals on Wheels - Nuvol i Cadira (1999-11-09)
 </li>
 <li data-cover="https://img.discogs.com/Ew0P7-8vW_sDtp28Itv5SLH1ksE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55168-1166379646.jpeg.jpg" data-tags="ninja tune" role="button">
 FOG - Fog (2000)
@@ -128,9 +137,6 @@ The Herbaliser - Something Wicked this Way Come (2002-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cf7347d-3aa2-47d0-b550-ed0c0f5a439f/6115379985-500.jpg" data-tags="ninja tune, 2000-luvun elektroniset klassikot, nojsa spins this vinyl" role="button">
 Chris Bowden - Slightly Askew (2002-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/82442a54-eaf8-497d-9910-67540dacb001/4524332801-500.jpg" data-tags="dub" role="button">
-Roots Manuva - Dub Come Save Me (2002-07-08)
 </li>
 <li data-cover="https://img.discogs.com/-eztj5rULDJYO9PrCwUW7fv1ooM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82803-1124377382.jpg.jpg" data-tags="trip-hop, downtempo" role="button">
 Funki Porcini - Fast Asleep (2002-07-29)
@@ -201,9 +207,6 @@ Roots Manuva - Alternately Deep (2006-03-13)
 <li data-cover="https://img.discogs.com/5_R8PSnEtAenqpSIUMLsTpfil_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479480-1131929193.jpeg.jpg" data-tags="downtempo, ninja tune" role="button">
 Loka - Fire Shepherds (2006-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/21afc18e-2a98-4200-85e6-f048f1ba881e/10339877652-500.jpg" data-tags="ninja tune, electronic, downtempo, guitar" role="button">
-Fink - Biscuits for Breakfast (2006-04-17)
-</li>
 <li data-cover="https://img.discogs.com/YPSPOx6FcIUxWj-VL-AC8NtBzec=/fit-in/475x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-769593-1220217419.jpeg.jpg" data-tags="ninja tune" role="button">
 Zero dB - Bongos, Bleeps & Basslines (2006-06-15)
 </li>
@@ -236,9 +239,6 @@ Daedelus - Fair Weather Friends (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/565ecac2-2a18-3f3e-9026-b3cb7b7e567e/15591829201-500.jpg" data-tags="acoustic, ninja tune" role="button">
 Fink - Distance and Time (2007-10-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
-The Bug - London Zoo (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
 Mr. Scruff - Ninja Tuna (2008-09-22)

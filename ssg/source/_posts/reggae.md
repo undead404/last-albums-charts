@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T01:24:01.454Z
+date: 2021-04-11T06:16:01.554Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
-![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
+![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Exodus (1977)</li>
 <li data-cover="http://coverartarchive.org/release/5930d9d3-a056-44eb-b90c-83692b58dbad/16612832348-500.jpg" data-tags="reggae" role="button">Bob Marley & The Wailers - Uprising (1980-06-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Legend (1984-05-08)</li>
 <li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
-<li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">Seeed - New Dubby Conquerors (2001-05-21)</li>
+<li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">311 - From Chaos (2001-06-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">Rihanna - Music of the Sun (2005-08-29)</li>
-<li data-cover="http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg" data-tags="reggae" role="button">Damian Marley - Welcome to Jamrock (2005-09-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Matisyahu - Youth (2006)</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">Rihanna - A Girl Like Me (2006-04-19)</li>
+<li data-cover="http://coverartarchive.org/release/d33ebeca-a13c-4974-bcad-85c7211b5455/7515734901-500.jpg" data-tags="pop, reggae, 10s, reggae fusion, albumsiown, reggae beat, nasri, alex tanas, ben spivak, mark pellizzer" role="button">Magic! - Don't Kill the Magic (2014-07-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -69,6 +69,9 @@ Israel Vibration - The Same Song (1978)
 <li data-cover="http://coverartarchive.org/release/3ed43286-195b-4e8c-a90d-add220e8c966/3336058240-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Kaya (1978-03-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Bob Marley & The Wailers - Babylon By Bus (1978-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/8615d2a7-45e6-4a3c-9520-58f6ffd4054b/2012570147-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Survival (1979-10-02)
 </li>
@@ -84,14 +87,23 @@ Eek-a-Mouse - Wa-Do-Dem (1981)
 <li data-cover="http://coverartarchive.org/release/4d8ca766-068d-45df-80bf-fa57932d1694/18235029110-500.jpg" data-tags="reggae, roots reggae" role="button">
 Black Uhuru - Red (1981-06)
 </li>
+<li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+Bad Brains - Bad Brains (1982)
+</li>
 <li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
 Gregory Isaacs - Night Nurse (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4927bba-f6ad-3a66-8312-74897ee48333/5169502385-500.jpg" data-tags="reggae" role="button">
+UB40 - Labour Of Love (1983)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - Mama Africa (1983)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Legend (1984-05-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/65d246f9-603e-4d60-ab2e-8029cf4181e6/7540027616-500.jpg" data-tags="reggae" role="button">
+Burning Spear - 100th Anniversary (1987)
 </li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
 Bobby McFerrin - Simple Pleasures (1988-08-22)
@@ -114,9 +126,6 @@ Bob Marley - Songs of Freedom (1992-10-06)
 <li data-cover="http://coverartarchive.org/release/8ad64552-1b61-4a7d-97cf-c8ec1cf46530/5216864402-500.jpg" data-tags="reggae, punk, dub" role="button">
 Sublime - Robbin' The Hood (1994-02-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/4613c1ad-f235-4306-a48b-78f28f24fd81/25846790445-500.jpg" data-tags="reggae" role="button">
-Shaggy - Boombastic (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/081410c0-39f9-4c47-bd43-046483200a08/15276429272-500.jpg" data-tags="reggae" role="button">
 Bob Marley - Chant Down Babylon (1995)
 </li>
@@ -132,8 +141,8 @@ Buju Banton - 'Til Shiloh (1995-07-18)
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/89c6f2d6-756f-4095-a94f-b261e8dccd23/5341994523-500.jpg" data-tags="reggae" role="button">
-Damian Marley - Mr. Marley (1996-09-10)
+<li data-cover="http://coverartarchive.org/release/a83286ac-f74f-4527-9577-f8d1cda8ac94/9458074336-500.jpg" data-tags="reggae" role="button">
+Big Mountain - The Best of Big Mountain (1998)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley - Natural Mystic (1999)
@@ -150,9 +159,6 @@ UB40 - The Very Best of UB40 1980-2000 (2000-10-23)
 <li data-cover="http://coverartarchive.org/release/7aa1aa75-7ca4-3e91-a34d-ab85cc1c3cd8/10092064156-500.jpg" data-tags="reggae" role="button">
 Jan Delay - Searching for the Jan Soul Rebels (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">
-Seeed - New Dubby Conquerors (2001-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">
 311 - From Chaos (2001-06-19)
 </li>
@@ -168,14 +174,8 @@ No Doubt - Rock Steady (2001-12-11)
 <li data-cover="http://coverartarchive.org/release/ba1a1b38-6c46-4126-9c7a-fe734f562a25/3330491024-500.jpg" data-tags="reggae" role="button">
 Gentleman - Journey To Jah (2002-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/714d1b4a-6739-4f38-a8c4-197379780bbd/28115360386-500.jpg" data-tags="metal, reggae metal" role="button">
-Skindred - Babylon (2002-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0eb8896a-8c3e-418d-ac86-159e41757599/4799862055-500.jpg" data-tags="reggae" role="button">
 Manu Chao - Radio Bemba Sound System (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c10b3ec-a0ff-4819-a6e9-9287c48e5a85/15542855333-500.jpg" data-tags="dancehall" role="button">
-Sean Paul - Dutty Rock (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8267e8-538e-45ce-9869-ab3141de7d9a/2002597102-500.jpg" data-tags="reggae" role="button">
 Soldiers of Jah Army - Peace In A Time Of War (2003)
@@ -216,8 +216,8 @@ Matisyahu - Shake Off the Dust...Arise (2004-10-12)
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdfe45eb-0b2d-4c96-bfc9-9b5c8b479b9a/5876442790-500.jpg" data-tags="reggae" role="button">
-Vavamuffin - Vabang! (2005-04-06)
+<li data-cover="http://coverartarchive.org/release/68b08bd5-ea1e-3942-abc1-3bb9ee1201fe/2824385245-500.jpg" data-tags="reggae, reggae roots" role="button">
+Groundation - We Free Again (2004-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
@@ -233,12 +233,6 @@ Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">
 Rihanna - Music of the Sun (2005-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg" data-tags="reggae" role="button">
-Damian Marley - Welcome to Jamrock (2005-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/635c9c26-e418-3e1e-b6ff-247fa6e631ba/1337019624-500.jpg" data-tags="reggae, dancehall" role="button">
-Sean Paul - The Trinity (2005-09-26)
 </li>
 <li data-cover="https://img.discogs.com/GUq_JB_l0I6gNuYQSQcD1jqJhAU=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910644-1502355394-1079.jpeg.jpg" data-tags="reggae, dancehall" role="button">
 Seeed - Next! (2005-10-14)
@@ -270,29 +264,35 @@ Jan Delay - Mercedes Dance (2006-08-04)
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
+<li data-cover="https://img.discogs.com/DxDHEIZFw_PJ11diIBAnj9JGMEQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309206-1497531301-1710.jpeg.jpg" data-tags="reggae, rap" role="button">
+Kapten Röd - Stjärnorna Finns Här (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0628139-bdef-4cb1-aaa1-5ecf073ffcb4/15635147931-500.jpg" data-tags="reggae" role="button">
 Stephen Marley - Mind Control (2007-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
 Collie Buddz - Collie Buddz (2007-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a7a16b9-704e-3dea-9d92-fc79ccb81512/15248891704-500.jpg" data-tags="reggae" role="button">
-Gentleman - Another Intensity (2007-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
-Culcha Candela - Culcha Candela (2007-08-31)
+<li data-cover="http://coverartarchive.org/release/967734dc-1f01-362f-a879-4c496da0b670/4713176142-500.jpg" data-tags="reggae" role="button">
+Bedouin Soundclash - Street Gospels (2007-08-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae, swedish reggae" role="button">
 Passafire - Submersible (2007-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
+The Cat Empire - So Many Nights (2007-12-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d68e86c-ca8e-403b-a208-5f440fcc6aa5/8684760406-500.jpg" data-tags="reggae, 00s, rap rock, opelmelange" role="button">
 The Dirty Heads - Any Port In A Storm (2008-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b71290e-af6f-4906-9368-c03f1360a1b4/4136795948-500.jpg" data-tags="reggae, polish" role="button">
-Jamal - Urban Discotheque (2008-10-03)
+<li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
+Peter Fox - Stadtaffe (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/41766637-4e52-4831-be2d-8361c745963f/15054862419-500.jpg" data-tags="reggae, rnb" role="button">
 Shontelle - Shontelligence (2008-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ae9e1a6-919c-4b88-aefa-6d932cabe288/10169904235-500.jpg" data-tags="reggae" role="button">
+Alborosie - Escape From Babylon (2009-06-15)
 </li>
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)

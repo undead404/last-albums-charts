@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:27:01.427Z
+date: 2021-04-11T06:06:01.411Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -39,6 +39,9 @@ The Knack - Get The Knack (1979-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, 70s" role="button">
 The Boomtown Rats - The Fine Art Of Surfacing (1979-10-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
+The Romantics - The Romantics (1980)
+</li>
 <li data-cover="https://img.discogs.com/UqcTAo_xEbK2m1yIZL0j6hVu6gM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15371139-1592327560-7618.jpeg.jpg" data-tags="i have this on vinyl" role="button">
 Sparks - Angst In My Pants (1982)
 </li>
@@ -66,14 +69,8 @@ The Animals - The Most of the Animals (1989)
 <li data-cover="https://img.discogs.com/cTi_0lFzEgH2DPNSGdc7At_VcDU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431536-1529484494-6510.jpeg.jpg" data-tags="rock" role="button">
 The Romantics - What I Like About You (And Other Romantic Hits) (1990-12-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/856a9660-eeb3-4088-837d-79f8ad094463/3128706063-500.jpg" data-tags="classic rock, rock" role="button">
-Thin Lizzy - Dedication (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3347148-ff9a-4fff-a00e-35a171f86d27/13069256471-500.jpg" data-tags="classic rock, rock, punk, psychedelic, garage rock, glam rock, powerpop, high school, sommer, proto punk, my so-called life, i remember you, other great tracks, rock-protopunk, flashback alternatives, 20 favorite albums of 1993, my 100 favorite albums of the 1990s, big red letter day, soda-jerk" role="button">
 Buffalo Tom - Big Red Letter Day (1993-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdedd063-075b-4adc-b3d5-ff0b58d1f131/26024319715-500.jpg" data-tags="rock, alternative, 90s, classic rock, 80s, female vocalists" role="button">
-The Pretenders - Last Of The Independents (1994-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
@@ -84,20 +81,11 @@ Golden Smog - Down by the Old Mainstream (1995-01-01)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/14992fdd-b7c2-321f-a6eb-492776e765e7/20895447487-500.jpg" data-tags="rock, power pop" role="button">
-Fountains of Wayne - Fountains of Wayne (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/d18da79c-cc83-4f16-be5d-5b3acd9a11f1/7696060644-500.jpg" data-tags="spanish, pop, 90s, powerpop, spanish indie pop, albums i own on cd, manicomio" role="button">
-Los Piratas - Manual para los fieles (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/a402586f-5215-4b26-8926-85e20b0c6c97/9587930745-500.jpg" data-tags="rock, hard rock" role="button">
 Buckcherry - Buckcherry (1999-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
 Fountains of Wayne - Utopia Parkway (1999-04-06)
-</li>
-<li data-cover="https://img.discogs.com/fvQQtrcHcK9_aqqrFJcqFto8W_M=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8248595-1608386323-3714.jpeg.jpg" data-tags="rock" role="button">
-Ben Harper - Burn To Shine (1999-09-21)
 </li>
 <li data-cover="https://img.discogs.com/HCJ6IGVuFD4bFIhNAnM52183pv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903762-1286490780.jpeg.jpg" data-tags="classic rock, rock" role="button">
 Jimmy Page & The Black Crowes - Live At The Greek (2000-07-04)
@@ -156,17 +144,20 @@ The Raveonettes - Pretty in Black (2005-05-03)
 <li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
 The White Stripes - Blue Orchid (2005-05-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
+The Hellacopters - Rock & Roll Is Dead (2005-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/1dddc32b-1a2a-4a44-81a9-611c570b04a5/20752577327-500.jpg" data-tags="pop punk, powerpop" role="button">
 Houston Calls - A Collection Of Short Stories (2005-08-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
 OK Go - Oh No (2005-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b63123a-f122-4feb-bce2-a3c02dc79a7b/4619205570-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Black Rebel Motorcycle Club - Howl (2005-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/e453efe7-f160-4322-a6da-b6ade8ead331/1482049436-500.jpg" data-tags="rock" role="button">
+Living Things - Ahead Of The Lions (2005-10-04)
 </li>
 <li data-cover="https://img.discogs.com/7ZqFrSl7QC4FQXlJ-1qj6jYLm10=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589412-1249399124.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Sewed Soles (2005-10-31)
@@ -185,6 +176,9 @@ Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
 Good Charlotte - Good Morning Revival (2007-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcce4aaf-9a90-4820-8f76-96f6ae3bc15d/13692333898-500.jpg" data-tags="pop punk" role="button">
+Broadway Calls - Broadway Calls (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
@@ -213,6 +207,9 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
+<li data-cover="https://img.discogs.com/ia9V3EWvFT_YgZSFDCxQLATKvUk=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2370982-1311364136.jpeg.jpg" data-tags="muscu" role="button">
+Metro Station - Shake It (2008-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/564c2a16-2688-4654-b8d7-92507cb73129/15196924086-500.jpg" data-tags="electronica" role="button">
 Breathe Carolina - It's Classy, Not Classic (2008-09-16)
 </li>
@@ -236,6 +233,9 @@ The Friday Night Boys - Off The Deep End (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/5eb46f96-76c0-48e2-8a6c-e54ec8d2298f/25457970141-500.jpg" data-tags="dutch indie" role="button">
+Moss - Never Be Scared / Don't Be A Hero (2009-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)

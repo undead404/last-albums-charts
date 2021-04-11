@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:54:06.991Z
+date: 2021-04-11T05:52:01.409Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -90,6 +90,9 @@ virt - FX3 (2006)
 <li data-cover="http://coverartarchive.org/release/c25e1d4a-471a-462f-8e8e-ab64846d070d/4706197861-500.jpg" data-tags="8-bit" role="button">
 Dong - Gone square (2006)
 </li>
+<li data-cover="https://img.discogs.com/cW_FUXj85FfcUr3EUsWA2XJTSfU=/fit-in/457x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929175-1183572118.jpeg.jpg" data-tags="8-bit" role="button">
+Acrnym - Sense-Data (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/701557d3-f3b8-443c-b4a6-820c4893720a/27017953798-500.jpg" data-tags="electronic" role="button">
 Copy - Mobius Beard (2006-01-10)
 </li>
@@ -102,14 +105,14 @@ Bondage Fairies - What You Didn't Know When You Hired Me (2006-01-20)
 <li data-cover="http://coverartarchive.org/release/0944b888-0cda-4dba-9507-2211123bcb2c/4667208673-500.jpg" data-tags="chiptune" role="button">
 Bit Shifter - Information Chase (2006-02-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, ambient, prog, techno, 8-bit, idm, chiptune, progressive, ambient idm, ambient techno, progressive electronica, melodic idm, progtronica, chiptronica" role="button">
-DISASTERTRON - Cereal Code (2006-05-19)
-</li>
 <li data-cover="https://img.discogs.com/28gLKev_TwNejFuE-TiPaIhRMU4=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-932399-1277418871.jpeg.jpg" data-tags="experimental" role="button">
 Mouse on Mars - Varcharz (2006-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c428fe4-d8db-4a80-8fc3-290aa9ea6ca6/5929326396-500.jpg" data-tags="8-bit, chiptune, 8-bit goth" role="button">
 The Gothsicles - NESferatu (2006-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c51d1c4b-d65b-4f75-9497-61bdc35cc28e/8596483575-500.jpg" data-tags="electro, circuit bending, garage" role="button">
+Computer Truck - Rock The Boulevard, Reach The Bourgeois (2006-09-06)
 </li>
 <li data-cover="https://img.discogs.com/aRR8PlB4e76Yv1VvFmToH7FFpoQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-850302-1482549429-4089.jpeg.jpg" data-tags="8bit, chiptune" role="button">
 Goto80 - Digi-Dig (2006-12-11)
@@ -122,9 +125,6 @@ Sabrepulse - Verão (2007)
 </li>
 <li data-cover="https://img.discogs.com/MRVV2GN2XbR3yffEhuvDEn8KWSU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-921161-1173016319.jpeg.jpg" data-tags="chiptune" role="button">
 Goto80 - Zyndabox (2007-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/3587bde3-7eee-4bf2-b751-586e4df550a1/3886926937-500.jpg" data-tags="trance, electronica, fusion, tech house, 8-bit, idm, chiptune, progressive trance, goa, psytrance, electro-techno, neo-psychedelia, darkpsy, chipmusic, hard trance, electro-house, chip trance, chip techno, chiptronica, progressive chiptune, chip fusion" role="button">
-Kplecraft - Multi-Boxer (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c714fcd-f447-4400-b868-b0b2482829d6/6437432777-500.jpg" data-tags="chiptune" role="button">
 Nullsleep - Electric Heart Strike (2007-06)
@@ -243,9 +243,6 @@ spamtron - D-PAD (2010)
 <li data-cover="http://coverartarchive.org/release/26598ff2-4719-4d26-a3e5-5ccd77119455/17424771205-500.jpg" data-tags="8-bit, post-electro-mellow-idm-techno-jota-18-m-aviles, check it out later" role="button">
 Teleidofusion - Around Past (2010-03-18)
 </li>
-<li data-cover="https://img.discogs.com/S8SC0gUDwhU661p27iTCEyN1cS0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2314644-1285127368.jpeg.jpg" data-tags="ebm" role="button">
-Eisenfunk - 8-Bit (2010-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/97c79f61-e8e7-45b9-beb8-2704705602ba/1394252281-500.jpg" data-tags="electronic, 8bit, 8-bit, chiptune, bitpop, furry, lapfox, bitcore, nostalgiacore, laptfoxtrax" role="button">
 Kitsune² - Star Road (2010-03-30)
 </li>
@@ -272,6 +269,9 @@ Lich King - Super Retro Thrash (2011-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5eabfd7b-638c-4d0d-8e0b-e358e1a1251f/17978515250-500.jpg" data-tags="chiptune" role="button">
 047 - Elva (2011-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/e64c90bd-3299-4c5e-be40-3a932374c6f7/2453779655-500.jpg" data-tags="ambient, experimental, dark ambient" role="button">
+Aurastys - Idea(l(s)) (2011-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/93929ade-48d1-4339-b6b3-2dda7478d083/6624722304-500.jpg" data-tags="chiptune" role="button">
 zabutom - Zeta Force (2011-08-07)

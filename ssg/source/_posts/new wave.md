@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:33:01.427Z
+date: 2021-04-11T06:22:01.425Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![New Order - Power, Corruption &amp; Lies (1983-05)](https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg "New Order - Power, Corruption & Lies (1983-05)")
@@ -204,9 +204,6 @@ INXS - Kick (1987-10-02)
 <li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
 The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
-<li data-cover="https://img.discogs.com/CJBQWr96FmlbEADMlkLZMWxXhMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3615222-1337459798-6856.jpeg.jpg" data-tags="80s, new wave" role="button">
-New Order - Technique (1989-01-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 The B-52's - Cosmic Thing (1989-06-06)
 </li>
@@ -260,6 +257,9 @@ Marina & the Diamonds - The Family Jewels (2009)
 </li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
+Metric - Fantasies (2009-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
 Desire - II (2009-06-29)

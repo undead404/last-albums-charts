@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:11:01.662Z
+date: 2021-04-11T05:57:01.413Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Kate Bush - 50 Words for Snow (2011-11-21)](http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg "Kate Bush - 50 Words for Snow (2011-11-21)")
@@ -24,20 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
-Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9465bd64-d234-4496-a0e0-000ee409324c/3201343272-500.jpg" data-tags="industrial" role="button">
-Alien Sex Fiend - Another Planet (1988-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
-Deine Lakaien - Dark Star (1991)
-</li>
 <li data-cover="https://img.discogs.com/XE8JlK6QbctaeaqhM6NowdWjunk=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105315-1320265971.jpeg.jpg" data-tags="dark ambient, industrial" role="button">
 Deutsch Nepal - Deflagration Of Hell (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
-Dead Can Dance - A Passage in Time (1991-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/303d108a-8b3c-4dbe-97bf-e070b5d36d01/3994580625-500.jpg" data-tags="shoegaze" role="button">
 Slowdive - Blue Day (1992-02)
@@ -47,9 +35,6 @@ Tori Amos - Winter (1992-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/03d5aab6-c3f5-483e-8e41-ca99ef7dab32/28641431315-500.jpg" data-tags="rock, post hardcore" role="button">
 Quicksand - Slip (1993-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e728075-e9fc-49e3-bd01-5a8f37de464a/6485162992-500.jpg" data-tags="ambient, minimal, emd, electronic, experimental" role="button">
-Oval - Systemisch (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/5941dfb0-209a-4661-9301-ae665b30223d/16110823346-500.jpg" data-tags="pop, acoustic" role="button">
 The Murmurs - The Murmurs (1994)
@@ -69,11 +54,17 @@ Teenage Fanclub - Grand Prix (1995-05-29)
 <li data-cover="http://coverartarchive.org/release/8d82a733-4389-424e-a28e-6af0b51618b2/16741522206-500.jpg" data-tags="ambient, shoegaze, drone" role="button">
 Windy & Carl - Drawing of Sound (1996-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c874902b-23f9-41aa-a8b2-fa8b8b1e0c49/4519437346-500.jpg" data-tags="ambient, winter, dark ambient, black ambient, hungarian, forest silence, freezing hungarian moon" role="button">
+Forest Silence - The 3rd Winter (1997)
+</li>
 <li data-cover="https://img.discogs.com/ZQkFoHZ_Mub8IYOF_c7O770P40g=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645215-1142711425.jpeg.jpg" data-tags="electronic" role="button">
 Recoil - Unsound Methods (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/e382e9a2-8637-4781-a29b-3dac5c991899/3760547066-500.jpg" data-tags="idm" role="button">
 Autechre - Chiastic Slide (1997-02-17)
+</li>
+<li data-cover="https://img.discogs.com/35inaW36YddkQh7zcH-BIWAZ_bE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11874623-1523900412-9752.jpeg.jpg" data-tags="metropolis" role="button">
+Haujobb - Matrix (1997-05-20)
 </li>
 <li data-cover="https://img.discogs.com/I-oViWD7yaPbPfp-56ogVSe6K8o=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10404061-1538314922-5725.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
@@ -83,6 +74,9 @@ Black Grape - Stupid Stupid Stupid (1997-10-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="winter, world serpent, nice nait" role="button">
 Sol Invictus - All Things Strange And Rare (1998)
+</li>
+<li data-cover="https://img.discogs.com/sKvUVlG66LknIHLAP7W4yThFQEw=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309452-1352391633-6894.jpeg.jpg" data-tags="dark ambient, ambient" role="button">
+Stratvm Terror - Pain Implantations (1998)
 </li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
@@ -147,32 +141,32 @@ Front Line Assembly - Epitaph (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
 Jimmy Eat World - Last Christmas (2001-12-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/28710e46-d422-4b1f-b6e9-c19107e0f625/26099503117-500.jpg" data-tags="deathrock" role="button">
-Cinema Strange - The Astonished Eyes of Evening (2002-01-18)
-</li>
 <li data-cover="https://img.discogs.com/KMM2dRr2pi53sfnL4ILdHDgVvOU=/fit-in/430x421/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297338-1220216793.jpeg.jpg" data-tags="trip-hop, ninja tune" role="button">
 The Herbaliser - Something Wicked this Way Come (2002-03-18)
 </li>
 <li data-cover="https://img.discogs.com/TIEMf34k2sWNvW6MEcWPbO5on4I=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-45988-1384549653-3131.jpeg.jpg" data-tags="electronic, winter, german, cold, snow, post-revolutionary pop song, avantgarde pop, cold days, first snow, music for cold days" role="button">
 März - Love Streams (2002-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/0cd8b400-95e2-4be5-af82-dcf40540cdfa/2960113401-500.jpg" data-tags="slowcore" role="button">
-Low - Trust (2002-09-23)
+<li data-cover="https://img.discogs.com/KG5cs3TGeT5vl3hghn7Dvw4WIZw=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740597-1556989837-9641.jpeg.jpg" data-tags="hardcore" role="button">
+Snapcase - End Transmission (2002-09-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="christmas" role="button">
+The Brian Setzer Orchestra - Boogie Woogie Christmas (2002-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4977ddc3-71ca-444b-b5b4-9fbdf2c7e5aa/2574736774-500.jpg" data-tags="breakcore, idm" role="button">
+Venetian Snares - Winter in the Belly of a Snake (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/bab4d458-8b0d-3854-b56c-800535efb678/9045882879-500.jpg" data-tags="industrial, new wave" role="button">
-Gary Numan - Hybrid (2003-02-10)
-</li>
 <li data-cover="https://img.discogs.com/nG3b68OocGn_aSsFZWl1mlXd4fk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7976877-1452850990-2073.jpeg.jpg" data-tags="post-rock" role="button">
 Meanwhile, Back In Communist Russia... - My Elixir; My Poison (2003-02-24)
 </li>
-<li data-cover="https://img.discogs.com/yTJ2t-oOJApxEaVPxI_k-iuaL4E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5719220-1404862392-1331.jpeg.jpg" data-tags="ambient, darkwave, dark ambient" role="button">
-Antimatter - Lights Out (2003-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ad974f7-091f-41b7-ae1c-1294b4b32cd5/15089570158-500.jpg" data-tags="jazz, blues" role="button">
 Nina Simone - Anthology (2003-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b90bb96-29e1-4384-b980-7205899f9464/9561418659-500.jpg" data-tags="electronic" role="button">
+Funkstörung - Disconnected (2004-03-13)
 </li>
 <li data-cover="https://img.discogs.com/tZUbIgIOFwGcOdGUMoZq_sihhYs=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14803942-1581907039-7504.jpeg.jpg" data-tags="piano" role="button">
 Jon Schmidt - Winter Serenade (2004-09-13)
@@ -204,9 +198,6 @@ The Coral - The Invisible Invasion (2005-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
-<li data-cover="https://img.discogs.com/8L5YZIN096fHanuOwsZePa7eTtA=/fit-in/202x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-754756-1155478794.jpeg.jpg" data-tags="element of crime" role="button">
-Element of Crime - Mittelpunkt der Welt (2005-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
 </li>
@@ -216,8 +207,14 @@ Metronomy - Pip Paine (Pay The £5000 You Owe) (2006)
 <li data-cover="https://via.placeholder.com/450" data-tags="winter, flawless albums" role="button">
 Kat Flint - The Secret Boy's Club Ep (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/86b4ecb7-4336-4e8f-bf13-6e4673e7698d/1314644765-500.jpg" data-tags="ambient, drone" role="button">
+Loscil - Stases (2006-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
 Anoice - Remmings (2006-05-23)
+</li>
+<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
+Project Divinity - Divinity (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">
 Copeland - Eat, Sleep, Repeat (2006-08-31)
@@ -237,9 +234,6 @@ Michael Cashmore - The Snow Abides (2007)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
-<li data-cover="https://img.discogs.com/QbfgqYwWtrY47tZI-ZoNWs9ryCg=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059358-1189082821.jpeg.jpg" data-tags="slowcore" role="button">
-Spokane - Little Hours (2007-08-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
 Sea Wolf - Leaves In The River (2007-09-25)
 </li>
@@ -252,11 +246,20 @@ The Twilight Sad - Here, It Never Snowed. Afterwards It Did (2008-06-02)
 <li data-cover="http://coverartarchive.org/release/ad006774-68da-3135-90de-44730d0d2239/22066393640-500.jpg" data-tags="ambient" role="button">
 The Future Sound of London - ENVIRONMENTS II (2008-08-29)
 </li>
+<li data-cover="https://img.discogs.com/H8BvOsvOFiaTVGashYadtz_jyeo=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13635631-1557992376-9266.jpeg.jpg" data-tags="christmas" role="button">
+Sarah Brightman - A Winter Symphony (2008-10-29)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, glitch, experimental" role="button">
 Ametsub - The Nothings of The North (2009-02-04)
 </li>
 <li data-cover="https://img.discogs.com/tjX1lChioV4W8jP7nRRWCYNvZE0=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1798530-1279110125.jpeg.jpg" data-tags="folk metal, symphonic melodic death metal" role="button">
 Blackguard - Profugus Mortis (2009-04-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="winter" role="button">
+Icicle - Cold Fear EP (2009-12-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="winter, dxm" role="button">
+Xerxes - christmas box (2009-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/564dc65d-2d42-4fc9-a28f-e65796716fed/2001762761-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Big Black & The Blue (2010-01-25)
@@ -281,9 +284,6 @@ Martial Canterel - You Today (2011-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/10c7388e-0ec1-43f4-8c8e-4a083640bc6e/16466640950-500.jpg" data-tags="indie" role="button">
 The Rural Alberta Advantage - Departing (2011-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a50be67-15c9-43c4-ae87-9cac28fffe39/5660502401-500.jpg" data-tags="shoegaze" role="button">
-True Widow - As High as the Highest Heavens and From the Center to the Circumference of the Earth (2011-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">
 Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)

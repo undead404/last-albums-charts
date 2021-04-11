@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:27:01.449Z
+date: 2021-04-11T06:13:01.431Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -125,9 +125,6 @@ Pink Floyd - Animals (1977-01-23)
 </li>
 <li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)
-</li>
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
@@ -305,6 +302,9 @@ Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">
 Tame Impala - Lonerism (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6f44f26-f8ec-4c0b-a4ba-b4211cb95f26/13489057096-500.jpg" data-tags="indie rock" role="button">
+Unknown Mortal Orchestra - II (2013-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:55:01.409Z
+date: 2021-04-11T06:41:01.406Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -147,9 +147,6 @@ Pink Floyd - Pompeii (1990-12)
 <li data-cover="http://coverartarchive.org/release/a5b79ce4-50cc-42a7-9ff6-6c5cd187eb02/13515423691-500.jpg" data-tags="70s, progressive rock, pink floyd" role="button">
 Pink Floyd - Volcanic Destruction (1990-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/62e97212-44dd-489e-8dba-c6db7f24cff5/20596913976-500.jpg" data-tags="excellent, pink floyd, bootleg, wish you were here" role="button">
-Pink Floyd - Live USA (1991)
-</li>
 <li data-cover="https://img.discogs.com/C-NiyF_RDbhblcTMCb5oB1OYFwY=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11846240-1523449975-5686.jpeg.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - The Great Gig on the Moon (1991)
 </li>
@@ -162,14 +159,14 @@ Pink Floyd - A Saucerful of Outtakes (1992)
 <li data-cover="http://coverartarchive.org/release/78f029f2-6f17-4530-bcd8-1c5a281fab53/8917963033-500.jpg" data-tags="classic rock, metal, rock, punk, alternative rock, progressive rock, psychedelic, pink floyd, garage rock, glam rock, powerpop, chameleon, proto punk, qogf, rock-protopunk, prog related, my prog rock favs" role="button">
 David Gilmour - New Game (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a8d81fa-5fa1-4f78-aca8-447c8c0baac7/26730803938-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Spiral (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - Amused to Death (1992-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6943dc7-5a36-3978-ab27-62add09b00ba/7041107569-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Shine On (1992-11-09)
-</li>
-<li data-cover="https://img.discogs.com/ad_GgGa4b3sXjPOfE5JiB8TjMK4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530698-1553812073-1058.jpeg.jpg" data-tags="freddie mercury" role="button">
-Freddie Mercury - The Great Pretender (1992-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9f89509-a8cb-44b1-8436-c071889e361f/21936264419-500.jpg" data-tags="trance" role="button">
 Pink Floyd - Wish You Were Here: Limited Edition Trance Remix (1993)
@@ -182,6 +179,9 @@ Alan Parsons - Try Anything Once (1993-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ecc78a8-ae27-45d4-8d92-998822852fcd/22775064330-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Early Singles (1993-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/aaeaf61f-62cc-4c1d-85eb-3972d7ef41e9/21936046981-500.jpg" data-tags="remix, pink floyd" role="button">
+Pink Floyd - Absolutely Ambient: The Ultimate Remix Collection (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/40677611-bc3b-459c-94b1-03c8d642d95d/1620377974-500.jpg" data-tags="progressive rock, remix, pink floyd" role="button">
 Pink Floyd - Dark Side of the Moon: Limited Edition Trance Remix (1994)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:41:01.419Z
+date: 2021-04-11T06:36:01.427Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -38,6 +38,9 @@ Antena - Camino Del Sol (1982)
 </li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/a58761e0-85cb-3050-b358-4b5588758afc/19843667410-500.jpg" data-tags="acid jazz" role="button">
+Us3 - Hand On The Torch (1993-11-16)
 </li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
@@ -165,8 +168,8 @@ Ursula 1000 - Kinda' Kinky (2002-04-16)
 <li data-cover="https://img.discogs.com/vHC5aQ5Ih9yJGG6hKDbxldUVy9s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-103268-1254216768.jpeg.jpg" data-tags="lounge" role="button">
 Naomi - Everyone Loves You (2002-04-23)
 </li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
+<li data-cover="http://coverartarchive.org/release/7840a710-b354-3856-8e98-d1afda2991c7/12013536001-500.jpg" data-tags="nu jazz" role="button">
+Jazzanova - In Between (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
@@ -233,9 +236,6 @@ Richard Cheese - Aperitif for Destruction (2005-05-24)
 </li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
-</li>
-<li data-cover="https://img.discogs.com/lzhqaCJcQ82Do7-Pt6hCGbq_PdY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-547340-1567460772-3455.jpeg.jpg" data-tags="downtempo, lounge" role="button">
-Lisa Shaw - Cherry (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/268776f6-7a42-4977-9580-50bf71891d2c/4395546858-500.jpg" data-tags="lounge, downtempo" role="button">
 Parov Stelar - Seven and Storm (2005-11-18)

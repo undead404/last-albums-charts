@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:16:01.408Z
+date: 2021-04-11T06:00:01.476Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
@@ -41,9 +38,6 @@ The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
-</li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="https://img.discogs.com/qnw7XijC2a8hHm73fJ0PWif6Ge0=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62910-1556200728-9015.jpeg.jpg" data-tags="indietronica" role="button">
 Ms. John Soda - No P. or D. (2002-10-07)
@@ -99,6 +93,9 @@ MGMT - Time To Pretend (2007-12-25)
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc06d707-0b4e-3092-b13c-629a0e33c46d/7875461543-500.jpg" data-tags="owl city, electronic" role="button">
+Owl City - Maybe I'm Dreaming (2008-03-18)
+</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
@@ -122,6 +119,9 @@ Flunk - This Is What You Get (2009-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
+Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:59:01.410Z
+date: 2021-04-11T06:39:01.413Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -111,9 +111,6 @@ Bloodbath - Nightmares Made Flesh (2004-09-27)
 <li data-cover="http://coverartarchive.org/release/08a85420-0fc6-4d94-81a0-858bff7d3b40/13912077048-500.jpg" data-tags="brutal death metal" role="button">
 Disgorge - Parallels Of Infinite Torture (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b87e1a4-bbb8-4dc4-92f9-2dc8170ccbf4/6991965580-500.jpg" data-tags="death metal" role="button">
-Aborted - The Archaic Abattoir (2005-05-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">
 Nile - Annihilation of the Wicked (2005-05-23)
 </li>
@@ -195,6 +192,9 @@ Origin - Antithesis (2008-04-01)
 <li data-cover="https://img.discogs.com/uZgs9jj576_KECHH_evgmUepUi4=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1854744-1248026135.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
 Aborted - Strychnine.213 (2008-06-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/44ee522d-7aba-495f-a00a-a14b5d2d04ea/6786713263-500.jpg" data-tags="death metal" role="button">
+Krisiun - Southern Storm (2008-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1210b0c-1980-4c4b-91fb-5a64866624e0/7530834969-500.jpg" data-tags="death metal" role="button">
 Bloodbath - The Fathomless Mastery (2008-10-06)
 </li>
@@ -222,9 +222,6 @@ Miley Cyrus - Party in the U.S.A. (2009-08-11)
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
-</li>
 <li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
 Blakroc - Blakroc (2009-09-09)
 </li>
@@ -245,6 +242,9 @@ Justin Bieber - My World (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1bc30f2a-2c69-45b9-9ef6-4b03f4b09fb1/15978143471-500.jpg" data-tags="death metal, brutal death metal" role="button">
+Hour of Penance - Paradogma (2010-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fc351ef-6f46-4f03-8f25-999b22615331/21780806298-500.jpg" data-tags="technical death metal" role="button">
 Fleshgod Apocalypse - Mafia (2010-06-10)

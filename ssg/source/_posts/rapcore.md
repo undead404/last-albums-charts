@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:28:01.472Z
+date: 2021-04-11T06:25:01.406Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -53,6 +53,9 @@ Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/399bae8e-7413-4cf7-a70c-36e8514fa9b9/9439590397-500.jpg" data-tags="hip hop, rap, latin, psychedelic, 90s, rapcore, free palestine, rap concret, originales, 90s in music" role="button">
 Cypress Hill - III - Temples Of Boom (1995-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ca68cf0-608a-426b-9572-bcbfe0ae40be/16648702520-500.jpg" data-tags="crossover, hardcore" role="button">
+Body Count - Body Count (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
@@ -158,9 +161,6 @@ Transplants - Transplants (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/40e7c84f-309b-4d2e-b93c-c9d56f682665/17105713835-500.jpg" data-tags="alternative rock" role="button">
 Guano Apes - Walking on a Thin Line (2003-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/c02fb0de-e35e-4c7d-916f-fff2637e87d8/15545331220-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Ünloco - Becoming I (2003-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)

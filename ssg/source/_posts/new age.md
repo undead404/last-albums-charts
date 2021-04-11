@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:35:01.595Z
+date: 2021-04-11T06:27:01.450Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -30,14 +30,14 @@ Popol Vuh - Hosianna Mantra (1972)
 <li data-cover="https://img.discogs.com/A8Q1FjBMKODKL1WWbAaHEsGrkE0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501853-1219671378.jpeg.jpg" data-tags="new age, chillout" role="button">
 Mythos - Mythos (1972)
 </li>
-<li data-cover="https://img.discogs.com/iQuDkDouKJZSou1DKToKPxqdIDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854258-1304165274.jpeg.jpg" data-tags="progressive rock" role="button">
-Mike Oldfield - Hergest Ridge (1974-08-28)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="vangelis" role="button">
 Jon & Vangelis - The Friends Of Mr Cairo (1981)
 </li>
 <li data-cover="https://img.discogs.com/QuPHXzK98xC_y4b82k_v2NiTEGs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6207532-1440860574-3062.jpeg.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Five Miles Out (1982-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/7546163d-238d-38e3-97bb-26c464dabbeb/3195155586-500.jpg" data-tags="celtic, irish" role="button">
+Clannad - Magical Ring (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Crises (1983-05-27)
@@ -57,6 +57,9 @@ Enya - Enya (1986)
 <li data-cover="http://coverartarchive.org/release/ba307aa7-3a01-4015-b9bb-2243bc0812dc/8421724752-500.jpg" data-tags="celtic" role="button">
 Enya - The Celts (1986)
 </li>
+<li data-cover="http://coverartarchive.org/release/4eea8757-618e-42f5-91c7-22cddd7bd613/1965491735-500.jpg" data-tags="ambient" role="button">
+Jonn Serrie - And the Stars Go With You (1987)
+</li>
 <li data-cover="https://img.discogs.com/GS663S7sapeLe0VxWsvOmdwK3tg=/fit-in/598x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2174292-1356312695-5687.jpeg.jpg" data-tags="piano, new age, instrumental" role="button">
 David Lanz - Cristofori's Dream (1988)
 </li>
@@ -66,17 +69,11 @@ Vangelis - Themes (1989-09-01)
 <li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - MCMXC a.D. (1990-12-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/3afdaa5d-a6d6-40a2-ade7-000c4de36cb9/17105253141-500.jpg" data-tags="new age" role="button">
-Andreas Vollenweider - Book of Roses (1991)
-</li>
-<li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Visit (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/d8834ebd-c636-4ae5-98d4-da6840256df1/2587583831-500.jpg" data-tags="ambient, new age" role="button">
-Deep Forest - Deep Forest (1992-06)
+<li data-cover="http://coverartarchive.org/release/cf97f282-5f26-49b1-8afb-8ac8cfc3bf80/27173497819-500.jpg" data-tags="instrumental, yanni, piano" role="button">
+Yanni - Dare To Dream (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/85c27f15-73f0-3377-b27b-dd59ad790ab3/21748686698-500.jpg" data-tags="instrumental" role="button">
 Mike Oldfield - Tubular Bells II (1992-08-31)
@@ -87,17 +84,11 @@ Clannad - Banba (1993)
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Enigma - The Cross of Changes (1993-12-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/37c6a72e-aabb-4c31-a35e-d3ebfec2550f/4138136542-500.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Mask and Mirror (1994-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/a19d73a5-005c-4be6-b256-2ca68249f176/18661266418-500.jpg" data-tags="electronic, ambient, chillout, electronica, delerium" role="button">
 Delerium - Semantic Spaces (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/311dfa35-0d6f-462b-b3b6-7b7f1dc3b4d1/11507971335-500.jpg" data-tags="yanni" role="button">
 Yanni - Live at the Acropolis (1994-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7074c5b5-1381-4e12-a596-cde003869cd2/10873806431-500.jpg" data-tags="new age, soundtrack" role="button">
-Cirque Du Soleil - Alegria (1994-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/397dce0c-4cb6-3a14-bf04-06cc4776d1a1/17460087873-500.jpg" data-tags="new age" role="button">
 Mike Oldfield - The Songs of Distant Earth (1994-11-21)
@@ -108,11 +99,14 @@ Secret Garden - Songs From a Secret Garden (1995)
 <li data-cover="https://img.discogs.com/P0DzPhdfZ95KP8ESoJ0PJt99yXc=/fit-in/498x794/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11854047-1523523939-1617.jpeg.jpg" data-tags="progressive rock, instrumental" role="button">
 Mike Oldfield - Tubular Bells (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
-Adiemus - Songs of Sanctuary (1995-05-15)
+<li data-cover="http://coverartarchive.org/release/07febcf2-196f-4822-af0f-c18b25644eeb/11671565491-500.jpg" data-tags="piano, new age" role="button">
+Jim Brickman - By Heart - Piano Solos (1995-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a1234c0-0c18-3394-bbe1-1204f616bec2/1270264448-500.jpg" data-tags="new age, world" role="button">
 Deep Forest - Boheme (1995-06-08)
+</li>
+<li data-cover="https://img.discogs.com/7eJ3USNNSSUZMxdKkVRN37HAhYk=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12141343-1552154146-8781.jpeg.jpg" data-tags="ambient" role="button">
+Vangelis - Voices (1995-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
 Enya - The Memory of Trees (1995-11-21)
@@ -153,9 +147,6 @@ Deep Forest - Comparsa (1998-01-14)
 <li data-cover="http://coverartarchive.org/release/a948de2b-b7fb-4826-ad61-53b0dc20d708/15270866152-500.jpg" data-tags="celtic" role="button">
 David Arkenstone - The Celtic Book Of Days (1998-02-10)
 </li>
-<li data-cover="https://img.discogs.com/WXehK75GZKE4T8W2qXuiNJUWjlY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021242-1541336852-8089.jpeg.jpg" data-tags="mantra, new age, meditative" role="button">
-Deva Premal - The Essence (1998-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/235cb0ac-d357-49f6-acb6-d36fbb940daa/15886844101-500.jpg" data-tags="new age, instrumental, peaceful" role="button">
 2002 - Land Of Forever (1998-05-19)
 </li>
@@ -171,6 +162,9 @@ Anugama - The Lightness of Being (1999)
 <li data-cover="http://coverartarchive.org/release/33f464bc-2922-3018-a958-560194a5f775/10673178657-500.jpg" data-tags="new age, secret garden" role="button">
 Secret Garden - Dawn of a New Century (1999-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/64d28341-fe13-4355-a49f-58a78ef73636/9424878633-500.jpg" data-tags="new age" role="button">
+Angels Of Venice - Angels of Venice (1999-07-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Global Spirit (2000)
 </li>
@@ -183,14 +177,14 @@ Anugama - Shamanic Dream II (2000)
 <li data-cover="http://coverartarchive.org/release/a587b53b-8e38-49bd-9546-c0289998511f/28359155946-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - The Screen Behind the Mirror (2000-01-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab553952-bf61-4b4b-b385-1a39d87e38c4/25263644033-500.jpg" data-tags="new age" role="button">
+Deva Premal - Love Is Space (2000-02-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0a44af5-13fb-303c-9df3-5ec23029c928/1171318298-500.jpg" data-tags="new age" role="button">
 Era - Era 2 (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
 Enya - A Day Without Rain (2000-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/138001e8-ea58-429b-be5b-05ab4fb1fdc1/14970489576-500.jpg" data-tags="ambient, new age, electronic" role="button">
-Deep Forest - Pacifique (2000-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/43284b14-75a2-4825-8664-a75fa2e0092d/24417195325-500.jpg" data-tags="new age" role="button">
 Diane Arkenstone - The Healing Spirit (2001)
@@ -213,6 +207,9 @@ Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
 <li data-cover="http://coverartarchive.org/release/1704269f-6866-389f-aa8c-51ed2476be3c/5678858162-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - Love Sensuality Devotion: The Greatest Hits (2001-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4c843654-e93a-4145-b623-14e6df9e294f/13289739357-500.jpg" data-tags="yiruma, piano" role="button">
+Yiruma - First Love (2001-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f02bc5e-8100-4acc-8c02-b128c496b90e/11637455866-500.jpg" data-tags="new age" role="button">
 2002 - Across an Ocean of Dreams (2002-01-02)
 </li>
@@ -221,9 +218,6 @@ Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
 Balligomingo - Beneath The Surface (2002-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/65aaedc6-c698-4a45-9291-be5680bea6bf/6599717820-500.jpg" data-tags="electronic, new age" role="button">
-Deep Forest - Music Detected (2002-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
 Conjure One - Conjure One (2002-09-17)
@@ -246,20 +240,23 @@ Delerium - Chimera (2003-06-13)
 <li data-cover="https://img.discogs.com/8cVaQakbPbZi1w0IaTpeVchpGW4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-207489-1617390721-6016.jpeg.jpg" data-tags="new age, enigma" role="button">
 Enigma - Voyageur (2003-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/793b0d7d-a4cd-4937-9ec6-41f8b9bc0228/2562227796-500.jpg" data-tags="yiruma" role="button">
+Yiruma - From The Yellow Room (2003-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/479ca9bb-bdeb-4e9f-a0e2-937851ccbecf/7633029193-500.jpg" data-tags="new age" role="button">
 Secret Garden - Earthsongs (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/30f7f74c-b36e-4142-84cc-c6180ea7221a/28378270424-500.jpg" data-tags="new age, meditation" role="button">
 Karunesh - Call of the Mystic (2004-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fb4021f-345e-4688-bc3a-126e30bdfb59/21574217184-500.jpg" data-tags="world music, ethereal, new age" role="button">
-Vas - Feast Of Silence (2004-05-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
 </li>
 <li data-cover="https://img.discogs.com/vpS3Dc-Yhl7f8JH5pPpPDsqHPIg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849622-1303857829.jpeg.jpg" data-tags="singer-songwriter, new age, 00s, 2000s, my favorites, my-alt-c, traumhaft, honeycomb, 20 favorite albums of 2005, make me happy now, lieblings2, arbeitsmusik" role="button">
 Frank Black - Honeycomb (2005-07-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/220c52d7-1ad6-4936-bfff-6a16de5fa277/18755922533-500.jpg" data-tags="new age" role="button">
+Bernward Koch - Walking Through Clouds (2005-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab03d71-aa7b-4d89-aa1d-20132a70c1af/11537775771-500.jpg" data-tags="new age" role="button">
 Achillea - The Nine Worlds (2005-08-09)
@@ -270,9 +267,6 @@ Deuter - East of the Full Moon (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/0365ca74-954f-4722-8248-21475ecc3fdc/26547972403-500.jpg" data-tags="new age, chillout breathe, ambient" role="button">
-Blue Stone - Breathe (2006-01-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b6c5339-285b-4993-b4f0-2cfe05ba0e7c/11637525105-500.jpg" data-tags="new age, peaceful" role="button">
 2002 - The Emerald Way (2006-01-31)
 </li>
@@ -282,14 +276,14 @@ Enigma - A Posteriori (2006-09-20)
 <li data-cover="https://img.discogs.com/yGFB9KNp46gTs9iW7mS3hfnZjqE=/fit-in/300x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51818-001.jpg.jpg" data-tags="ambient" role="button">
 Delerium - Nuages Du Monde (2006-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2b2cae8-31f8-43b6-a96b-381f615468e9/4035004328-500.jpg" data-tags="new age, ambient" role="button">
-Amethystium - Emblem (Selected Pieces) (2006-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab574ffb-2e56-4414-aa43-af4955bcbb72/22356708007-500.jpg" data-tags="new age, chillout, ambient" role="button">
 Mythos - Purity (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2afca94e-fa2e-3254-8924-7deb7eebf93a/3198564493-500.jpg" data-tags="celtic, new age, female vocalists" role="button">
 Loreena McKennitt - An Ancient Muse (2006-11-21)
+</li>
+<li data-cover="https://img.discogs.com/DiGEKB1Ms-4_PeoP-gHJNDO-mbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1310759-1447793793-9558.jpeg.jpg" data-tags="ambient, new age" role="button">
+Liquid Mind - Relax: A Liquid Mind Experience (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/5944569f-c36d-4520-a564-1d603bc3b0df/4476228153-500.jpg" data-tags="celtic" role="button">
 Celtic Woman - A New Journey (2007-01-10)
@@ -297,14 +291,14 @@ Celtic Woman - A New Journey (2007-01-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Blue Stone - Worlds Apart (2007-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/432c164d-a9cc-4735-9f83-1507c289d569/11539678567-500.jpg" data-tags="new age" role="button">
-Achillea - Amadas Estrellas (2007-02-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Amethystium - Isabliss (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a5e7990-51b3-409b-94fc-e07692709fb5/4187350753-500.jpg" data-tags="new age" role="button">
 Enigma - Seven Lives Many Faces (2008-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/16d139e2-e940-36e4-b865-99f4dd667573/14012130666-500.jpg" data-tags="christmas" role="button">
+Enya - And Winter Came (2008-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
 E.S. Posthumus - Makara (2010-02-02)
@@ -312,8 +306,14 @@ E.S. Posthumus - Makara (2010-02-02)
 <li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/77e37687-8814-3c42-8d07-2e47a5b4a43a/28856566940-500.jpg" data-tags="folk, new age, celtic" role="button">
+Peggy Sue - Fossils And Other Phantoms (2010-04-05)
+</li>
 <li data-cover="https://img.discogs.com/ovSxiuDh8VwF-TF7keyKe9je-v8=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873285-1305045271.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Gang Gang Dance - Eye Contact (2011-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e71682ab-2827-4922-914f-933c816dd27b/16155008824-500.jpg" data-tags="ambient, progressive rock" role="button">
+Devin Townsend Project - Ghost (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a991b2-c3ef-4475-ae96-fcff38406305/8837373509-500.jpg" data-tags="japanese, new age, dreamy, boobs on cover" role="button">
 Lamp - ゆめ (2014-02-05)

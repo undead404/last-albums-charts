@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:05:01.440Z
+date: 2021-04-11T05:51:07.010Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
-</li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
 A Man Called Adam - Bread, Love And Dreams (1992)
 </li>
@@ -119,6 +116,9 @@ The Disco Boys - For You (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Armand van Helden - Nympho (2005-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fec26c0-4f00-4b19-8cb8-7958cca4bccf/3109418276-500.jpg" data-tags="dance, house, electronic" role="button">
 Deep Dish - George Is On (2005-07-12)

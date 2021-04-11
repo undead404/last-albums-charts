@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:36:01.473Z
+date: 2021-04-11T05:58:01.465Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
-Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
@@ -66,11 +63,11 @@ Air - Moon Safari (1998-01-16)
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
 </li>
-<li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
-Boards of Canada - Music Has the Right to Children (1998-04-20)
-</li>
 <li data-cover="https://img.discogs.com/Kbzc-pUTQrxLWHcbM20uuukPyfg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071075-1189923687.jpeg.jpg" data-tags="trip-hop" role="button">
 UNKLE - Psyence Fiction (1998-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/768bb870-b958-49e9-a87b-a695b67aec1b/14288438323-500.jpg" data-tags="electronic, faithless" role="button">
+Faithless - Sunday 8PM (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
 The Beta Band - The Three E.P.'s (1998-09-28)
@@ -83,6 +80,9 @@ Moby - Play (1999-05-17)
 </li>
 <li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
+Air - The Virgin Suicides (2000-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
@@ -111,14 +111,8 @@ Radiohead - Amnesiac (2001-06-04)
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
-Boards of Canada - Geogaddi (2002-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
-</li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/StqPQsGS1lBDPXhOUNG8_Zwf4I0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482940-1121544057.jpg.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
@@ -164,6 +158,9 @@ The Chemical Brothers - Push the Button (2004-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
+Lemon Jelly - '64-'95 (2005-01-31)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
@@ -314,6 +311,9 @@ Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
+Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
