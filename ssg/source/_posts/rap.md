@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:21:01.434Z
+date: 2021-04-11T19:04:01.412Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -51,9 +51,6 @@ Cartel - Cartel (1995)
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
-Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
 </li>
@@ -71,9 +68,6 @@ Nas - It Was Written (1996-07-01)
 </li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
-The Notorious B.I.G. - Life After Death (1997-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
 Gang Starr - Moment Of Truth (1998-03-31)
@@ -182,6 +176,12 @@ Kanye West - Late Registration (2005-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
 50 Cent - The Massacre (2005-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a500cf0-36a3-4e93-9133-b99e019f4aea/28553158445-500.jpg" data-tags="rap" role="button">
+Missy Elliott - The Cookbook (2005-07-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddbf2b20-64b5-4ca3-b837-d8783e027880/24023733862-500.jpg" data-tags="rap" role="button">
+Three 6 Mafia - Most Known Unknown (2005-09-27)
 </li>
 <li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">
 Fort Minor - The Rising Tied (2005-11-21)

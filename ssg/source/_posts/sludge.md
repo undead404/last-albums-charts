@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:45:01.627Z
+date: 2021-04-11T18:58:07.013Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7e97048b-db16-31ed-8bb1-653771da1a6a/21355521156-500.jpg" data-tags="industrial metal" role="button">
+Godflesh - Streetcleaner (1989-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
 Melvins - Bullhead (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7245946-b87a-49a9-abdc-1b65b4410404/1604062677-500.jpg" data-tags="sludge, drone, doom metal" role="button">
-Melvins - Lysol (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/c02820b6-2fe7-4342-983e-617aa1bf7799/15868913031-500.jpg" data-tags="stoner metal, doom metal" role="button">
-Sleep - Sleep's Holy Mountain (1992-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf3fefe0-7734-43a9-a00e-4450e76a5401/19911040039-500.jpg" data-tags="sludge" role="button">
 Eyehategod - In The Name Of Suffering (1992-12-01)
@@ -51,12 +48,6 @@ Acid Bath - When the Kite String Pops (1994-08-08)
 <li data-cover="http://coverartarchive.org/release/450a2f27-bd33-439c-ac3b-1e6861076399/15857977884-500.jpg" data-tags="grunge, stoner rock" role="button">
 Melvins - Stoner Witch (1994-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/af588a1e-1077-431b-98b3-3e7291dac6c5/19675747596-500.jpg" data-tags="sludge" role="button">
-Crowbar - Time Heals Nothing (1995-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
-Down - NOLA (1995-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
 </li>
@@ -72,6 +63,9 @@ Acid Bath - Paegan Terrorism Tactics (1996-11-12)
 <li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
 Crowbar - Odd Fellows Rest (1998-07-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/9cb8892a-639d-480d-bd1c-37052a63553e/27681545119-500.jpg" data-tags="sludge" role="button">
+Noothgrush - Erode the Person (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/2025b5f9-13fc-376f-9484-24d074c8ff0a/10973592319-500.jpg" data-tags="sludge, post-metal" role="button">
 Isis - Sawblade (1999)
 </li>
@@ -84,23 +78,17 @@ Isis - The Red Sea (1999-07)
 <li data-cover="https://img.discogs.com/E3zacTqfQNSLzHq_ESkjuevv5wc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816626-1244854064.jpeg.jpg" data-tags="sludge, post-metal" role="button">
 Isis - Celestial (2000-07-19)
 </li>
-<li data-cover="https://img.discogs.com/ejUY4Xklt1sCK6kSJRMsvZPqJNA=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1301027-1219880756.jpeg.jpg" data-tags="doom metal" role="button">
-Electric Wizard - Dopethrone (2000-09-25)
-</li>
-<li data-cover="https://img.discogs.com/q82B24LwdyO8yStYImQR94qJc6w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655926-1144019904.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
-Goatsnake - Flower of Disease (2000-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd1456ae-d0fd-4e63-8efd-ac9a95936e5a/12829230668-500.jpg" data-tags="sludge" role="button">
 Neurosis - Sovereign (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/17432213-49df-4389-a05a-e2f91178792f/3927758235-500.jpg" data-tags="sludge" role="button">
 Cult of Luna - Cult of Luna (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
+Khanate - Khanate (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/27f00bc4-5016-48dd-a079-9b3a5e8bd8f3/9577987822-500.jpg" data-tags="sludge, post-metal" role="button">
 Isis - SGNL>05 (2001-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e52cdda-60a9-43a0-9cb7-bdc9b00af901/19910121194-500.jpg" data-tags="sludge" role="button">
-Weedeater - ...And Justice For Y'all (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca11e9a4-cc91-46e4-99c1-68790f99edec/3104797376-500.jpg" data-tags="post-metal" role="button">
 Neurosis - A Sun That Never Sets (2001-08-07)
@@ -120,8 +108,8 @@ Kylesa - Kylesa (2002-06)
 <li data-cover="http://coverartarchive.org/release/e41d013a-b455-4359-84c5-c14b6112bba8/28540264236-500.jpg" data-tags="post-metal, sludge" role="button">
 Isis - Oceanic (2002-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">
-Sleep - Dopesmoker (2003-04-22)
+<li data-cover="http://coverartarchive.org/release/1abfcaed-5206-4e7f-ad23-83e2f45c5f0f/14414784580-500.jpg" data-tags="hardcore, crust" role="button">
+Cursed - One (2003)
 </li>
 <li data-cover="https://img.discogs.com/aKa3diJi3OzltEG8-tobhk2bK6o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334231-1210541514.jpeg.jpg" data-tags="stoner rock" role="button">
 Boris - Akuma No Uta (2003-06-06)
@@ -150,23 +138,20 @@ Isis - Panopticon (2004-10-19)
 <li data-cover="http://coverartarchive.org/release/b8b0b3d0-1a65-44df-a717-49c3ef9edd18/1121997050-500.jpg" data-tags="sludge, doom metal, post metal" role="button">
 Mouth of the Architect - Time & Withering (2004-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/8c5fe4ad-f3a2-4b2e-b781-df50f524887b/25736837933-500.jpg" data-tags="doom, sludge, stoner metal" role="button">
-YOB - The Illusion Of Motion (2004-11-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/111b9760-852f-4a55-9c1a-981d38f6bf70/28704207369-500.jpg" data-tags="sludge, sludge metal" role="button">
 Crowbar - Lifesblood for the Downtrodden (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/78abaae9-0305-4239-b27c-b0dba4ddb6b6/27838608221-500.jpg" data-tags="sludge" role="button">
-Corrupted - El Mundo Frio (2005-09-29)
-</li>
 <li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/14c4ccd6-18df-4739-9ac1-d6ad00969d68/27820983490-500.jpg" data-tags="sludge, metal, progressive metal" role="button">
 The Ocean - Aeolian (2005-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a81ea41-82b0-4437-b9d2-eb38f6ed20a5/6848080154-500.jpg" data-tags="sludge" role="button">
+Graves at Sea - Documents of Grief (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">
 Cult of Luna - Somewhere Along The Highway (2006-04-24)
@@ -191,6 +176,9 @@ Isis - In the Absence of Truth (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d3600e-c847-3ffb-b2a2-dec1f3c2b172/2691122178-500.jpg" data-tags="doom metal, sludge, post-metal" role="button">
 Minsk - The Ritual Fires of Abandonment (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/17ba0f3e-1ccb-4e91-9411-006fe2bd56f4/4857548845-500.jpg" data-tags="sludge, metal" role="button">
+Zozobra - Harmonic Tremors (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
@@ -240,6 +228,9 @@ Mouth of the Architect - Quietly (2008-07-22)
 <li data-cover="http://coverartarchive.org/release/996bd661-e2db-4227-9839-4024e2efe8ed/2933297561-500.jpg" data-tags="post-metal, progressive metal, post-black metal" role="button">
 Sólstafir - Köld (2009-01-21)
 </li>
+<li data-cover="https://img.discogs.com/bKKaoaQCA2aak43BD1APQPJT5wk=/fit-in/371x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921521-1252604182.jpeg.jpg" data-tags="post-metal, progressive metal, post-rock, sludge" role="button">
+Giant Squid - The Ichthyologist (2009-02-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
 </li>
@@ -252,14 +243,29 @@ Tombs - Winter Hours (2009-04-17)
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
 Isis - Wavering Radiant (2009-04-21)
 </li>
-<li data-cover="https://img.discogs.com/2KByuhwxAF2strMfL_JlaUYfxAo=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1977998-1598081433-6825.jpeg.jpg" data-tags="stoner rock, sludge" role="button">
-Doomriders - Darkness Come Alive (2009-09-29)
+<li data-cover="http://coverartarchive.org/release/43ba4370-1e78-48f9-999b-46821347e75d/4701704430-500.jpg" data-tags="sludge" role="button">
+Kongh - Shadows Of The Shapeless (2009-05-15)
+</li>
+<li data-cover="https://img.discogs.com/MtK4YPClwkutejnHZN846f_Ge-g=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1897397-1551811272-4495.jpeg.jpg" data-tags="doom metal, post-metal" role="button">
+Minsk - With Echoes In The Movement of Stone (2009-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/da9e633c-b899-4e6f-b270-9dd4d788f81a/27317356479-500.jpg" data-tags="black metal" role="button">
+Dragged Into Sunlight - Hatred For Mankind (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dec9614d-1255-4fae-b2b7-09d6267d6d5d/9561730108-500.jpg" data-tags="progressive metal" role="button">
 Baroness - Blue Record (2009-10-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
+Russian Circles - Geneva (2009-10-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae532ee3-e084-34cb-a3ca-9e2d97f0c4d5/20106337426-500.jpg" data-tags="sludge, post-metal" role="button">
 Fall of Efrafa - Inlé (2009-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
+Justin Bieber - My Worlds (2010-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1579fa90-7fc4-4085-a571-3c32ae104334/4861062003-500.jpg" data-tags="hardcore punk" role="button">
+Cancer Bats - Bears, Mayors, Scraps and Bones (2010-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/84b5ab67-25b6-40b6-a1bb-d28af157c4d5/3646415633-500.jpg" data-tags="sludge" role="button">
 Black Tusk - Taste The Sin (2010-04-25)
@@ -272,9 +278,6 @@ Rosetta - A Determinism of Morality (2010-05-25)
 </li>
 <li data-cover="https://img.discogs.com/Jz7fKeWHFduRjuQgbPYjo8Dh8W8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2347119-1491088339-6743.jpeg.jpg" data-tags="sludge" role="button">
 Kingdom of Sorrow - Behind the Blackest Tears (2010-06-08)
-</li>
-<li data-cover="https://img.discogs.com/4eXy0sIWpoRa_oCXpu44OiNqI74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414844-1562770547-1307.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
-Bongripper - Satan Worshipping Doom (2010-08-13)
 </li>
 <li data-cover="https://img.discogs.com/B_myDAaZe2IV_hWhJ4BJZtnRuyQ=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2668637-1295789080.jpeg.jpg" data-tags="hardcore" role="button">
 The Throne - fig.2 (2010-09-10)
@@ -291,11 +294,11 @@ The Ocean - Anthropocentric (2010-11-09)
 <li data-cover="http://coverartarchive.org/release/fd47de10-60e8-4e5a-8e23-1a4ad095d122/17260640811-500.jpg" data-tags="experimental, sludge, fucking awesome, post metal" role="button">
 Blindead - Affliction XXIX II MXMVI (2010-11-26)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="sludge, post-metal" role="button">
+Obscure Sphinx - Anaesthetic Inhalation Ritual (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/d5fb82fe-17ee-44fb-ba14-6edd516b94e3/1505255440-500.jpg" data-tags="sludge" role="button">
 Crowbar - Sever The Wicked Hand (2011-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/733c1191-652b-4c28-aedf-41954554cf70/8777985158-500.jpg" data-tags="sludge" role="button">
-Belzebong - Sonic Scapes & Weedy Grooves (2011-04-20)
 </li>
 <li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">
 Mastodon - The Hunter (2011-09-27)
@@ -311,9 +314,6 @@ Cult of Luna - Vertikal (2013-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/694d7110-9373-4c35-8ac9-419aa0bfd752/6329214780-500.jpg" data-tags="doom metal, stoner metal" role="button">
-Windhand - Soma (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/19a294d7-751a-4b22-b3c2-41b98e4d5236/7851396334-500.jpg" data-tags="sludge" role="button">
 Bongripper - Miserable (2014-07-07)

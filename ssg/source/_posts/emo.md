@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:42:01.546Z
+date: 2021-04-11T19:25:01.411Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -30,9 +30,6 @@ Jimmy Eat World - Jimmy Eat World (1994-12)
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
@@ -50,6 +47,9 @@ American Football - American Football (1999-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Dashboard Confessional - The Swiss Army Romance (2000-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd3ea260-7f06-496b-aafe-7b93d2dad025/6169341657-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - The Places You Have Come To Fear The Most (2001-03-20)

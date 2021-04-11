@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:33:01.558Z
+date: 2021-04-11T19:11:01.412Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -192,9 +192,6 @@ Iron & Wine - Around the Well (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
@@ -296,6 +293,9 @@ Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffe4b7b-0f58-45e6-96be-91d4a3ead48c/4776296549-500.jpg" data-tags="folk, acoustic, folk rock, need to listen" role="button">
 Frank Turner - Tape Deck Heart (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">
+Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
 <li data-cover="https://img.discogs.com/yxqESXxmldaE5n86jktHZwDBIGY=/fit-in/516x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5085547-1384336109-1853.jpeg.jpg" data-tags="americana" role="button">
 Monica Heldal - Boy From The North (2013-11-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:25:01.615Z
+date: 2021-04-11T19:43:01.436Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")

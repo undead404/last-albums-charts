@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:04:01.493Z
+date: 2021-04-11T19:07:02.327Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
@@ -57,14 +57,8 @@ T.S.O.L. - Weathered Statues (1982-08-06)
 <li data-cover="http://coverartarchive.org/release/aa7473e6-6c7e-49d3-a5a7-d399161b20be/4024388785-500.jpg" data-tags="hardcore punk, horror punk" role="button">
 Misfits - Earth A.D. (1983-12-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5679d139-1b7e-4794-b275-e2097d6ece81/1503150758-500.jpg" data-tags="rock, 80s, punk, hardcore, punk rock, horror punk, art punk, deathrock, anarcho-punk, funkcore" role="button">
-T.S.O.L. - Change Today? (1984)
-</li>
-<li data-cover="https://img.discogs.com/r7J7Q1IQheng6F3dmOTwjQiqO2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1209860-1466259796-2685.jpeg.jpg" data-tags="punk rock, horror punk, fun to skateboard to" role="button">
-Misfits - Die, Die My Darling (1984-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d39fe33-996d-41c7-ba8b-8ec3c305f31d/6476986079-500.jpg" data-tags="horror punk" role="button">
-Samhain - Initium (1984-08)
+<li data-cover="http://coverartarchive.org/release/ac3b4061-af58-4e9d-bdca-7dd867005ba6/5213193388-500.jpg" data-tags="horror punk, danzig, eerie von" role="button">
+Samhain - Samhain III: November-Coming-Fire (1986-02)
 </li>
 <li data-cover="https://img.discogs.com/zkbrzBpyTW1KWKNk0bMjpAAE3xU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2113768-1322328683.jpeg.jpg" data-tags="alternative, alternative rock, horror punk, hardcore punk, misfits, danzig, mi likes, angels punk zone, my favorite misfits" role="button">
 Misfits - Collection I (1986-07-01)
@@ -101,9 +95,6 @@ Frankenstein Drag Queens from Planet 13 - Night of the Living Drag Queens (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/78bd4301-133a-47a2-bc0e-3671bdf2c5c5/22018047490-500.jpg" data-tags="punk" role="button">
-AFI - All Hallows EP (1999-10-05)
 </li>
 <li data-cover="https://img.discogs.com/DSBaShXQrPVATQ8GunjxkcETkCs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1638792-1233841760.jpeg.jpg" data-tags="punk rock" role="button">
 Король и Шут - Герои и Злодеи (2000)
@@ -162,6 +153,9 @@ Calabrese - Midnight Spookshow (2003)
 <li data-cover="http://coverartarchive.org/release/ffa48f5f-6504-4966-a2b8-824f8d3e2250/5833862268-500.jpg" data-tags="horror punk" role="button">
 The Rosedales - Raise Your Spirits (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/afbd4b52-5b21-4801-b483-8daaedf7404d/16752413181-500.jpg" data-tags="lo-fi, horror punk" role="button">
+Blitzkid - Studio Dead (2003)
+</li>
 <li data-cover="https://img.discogs.com/uaW5m5uHyJ5NEthgYpWrPEf7mw4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765180-1549047459-5428.jpeg.jpg" data-tags="heavy metal, horror punk" role="button">
 Murderdolls - White Wedding (2003-07-14)
 </li>
@@ -186,6 +180,9 @@ Danzig - Circle of Snakes (2004-08-31)
 <li data-cover="https://img.discogs.com/uRC95Fvu1DbaPf1va_2HPUDfo8w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-854582-1165698667.jpeg.jpg" data-tags="horror punk" role="button">
 American Werewolves - 1968 (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/12efd37f-1243-4f3f-9934-bc6b5906f06d/11228955355-500.jpg" data-tags="horror punk" role="button">
+Horror Story - Bride of the Monster (2005)
+</li>
 <li data-cover="https://img.discogs.com/Ewy_eCpJmxasTle9TuEgBb0Ttrk=/fit-in/300x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196761-1199998536.jpeg.jpg" data-tags="hardcore, horror punk, hardcore punk, ferret" role="button">
 The Banner - Each Breath Haunted (2005)
 </li>
@@ -200,9 +197,6 @@ Calabrese - 13 Halloweens (2005-04-19)
 </li>
 <li data-cover="https://img.discogs.com/CNiaYaRZJdGA0l_WX4RMuVW00bc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3604235-1432759743-4786.jpeg.jpg" data-tags="pop" role="button">
 Bratz - Rock Angelz (2005-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a408adff-9d18-40f9-891a-fba20fdf5fcd/1262181440-500.jpg" data-tags="horror punk" role="button">
 Michale Graves - Punk Rock Is Dead (2005-06-21)
@@ -236,9 +230,6 @@ Murderland - Lights Out (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">
 Calabrese - The Traveling Vampire Show (2007-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7930d0e4-2d28-337f-99b6-f5a8006ad5a9/14489546170-500.jpg" data-tags="alternative rock" role="button">
-Alkaline Trio - Remains (2007-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/44821269-04f5-4a0b-a07a-56a11e85875f/5929535139-500.jpg" data-tags="punk, stoner rock, punk rock, horror punk, nerd rock, geek rock, nerd, nerd punk, cthulhu, sci-fi rock, geek punk, nerd punk rock, cthulhu rock" role="button">
 The Darkest of The Hillside Thickets - The Shadow Out Of Tim (2007-06-14)
@@ -278,6 +269,15 @@ Aiden - Knives (2009-05-12)
 </li>
 <li data-cover="https://img.discogs.com/PeGyH-NmeEWefNqkUPXuB4xdGUM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006166-1258112692.jpeg.jpg" data-tags="horror punk" role="button">
 NIM VIND - The Stillness Illness (2009-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/df1fe5f5-c7d4-4e39-ac73-7c06c8871a2d/11254985934-500.jpg" data-tags="free albums, zorch factory" role="button">
+Los Carniceros del Norte - Poe is Dead (2009-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec8f9d52-81e0-4d23-ac26-7489700b6007/16751009717-500.jpg" data-tags="horror punk" role="button">
+The Rosedales - Once Upon A Season (2009-10-31)
+</li>
+<li data-cover="https://img.discogs.com/dEwMtdignx9yBp-NjUuGc2rTZAc=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9427878-1503597490-1519.jpeg.jpg" data-tags="horror punk, glam metal, death glam" role="button">
+Satan - 13 I Scream (2010-06)
 </li>
 <li data-cover="https://img.discogs.com/1UblDvy7P_2ODkJOjiMJtEEPAhE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423401-1494953862-1512.jpeg.jpg" data-tags="horror punk" role="button">
 Murderdolls - Women and Children Last (2010-08-31)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:38:01.432Z
+date: 2021-04-11T19:01:06.882Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, soundtrack" role="button">
 Miles Davis - Ascenseur Pour L'échafaud (1958)
-</li>
-<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
-Linda Perhacs - Parallelograms (1970)
 </li>
 <li data-cover="https://img.discogs.com/7MF7D6GsKOfVTfyGQfr2tcp3gQ4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5742450-1401483051-8899.jpeg.jpg" data-tags="progressive electronic, space music" role="button">
 Klaus Schulze - Irrlicht (1972-08)
@@ -60,8 +57,8 @@ Nightmares on Wax - A case of funk (1991-08-12)
 <li data-cover="https://img.discogs.com/oJ7lIXMWqX_m6SvAGVf8HEAyk8c=/fit-in/595x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9113746-1475003641-2632.jpeg.jpg" data-tags="bass, haunting, nice, soundscapes, lion, music that makes us look better to the aliens" role="button">
 Mad Professor - True Born African Dub (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/c77c9b80-e452-4849-b73a-4b4bda59ae20/3403004938-500.jpg" data-tags="trip-hop" role="button">
-One Dove - Morning Dove White (1993-09)
+<li data-cover="https://img.discogs.com/JwX7P83CMerPzyrk1yCLudO47s0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15700338-1596156537-2754.jpeg.jpg" data-tags="jazz, instrumental, haunting, emotional, nice, soundscapes, gammarec, music that makes us look better to the aliens, freepurp1e, juma" role="button">
+John Surman - Adventure Playground (1992-09)
 </li>
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
@@ -78,17 +75,20 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="world, minimal, haunting, african, nice, waking up in the morning, music that makes us look better to the aliens, hoeralbum" role="button">
 Geoffrey Oryema - Night to Night (1996-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/18a11d84-b90c-3a5c-8c60-7cd782a38dc6/3490500382-500.jpg" data-tags="singer-songwriter, soundscape, haunting, avantgarde" role="button">
+World Standard - Country Gazette (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/3a0f1699-f9f1-4e6f-991b-2d31082c6705/16924478102-500.jpg" data-tags="indie rock, shoegaze, shoegazer" role="button">
 Starflyer 59 - Americana (1997-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
-Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2fec2e5-77bb-4a7f-b61a-432a6a2fa34f/16251850210-500.jpg" data-tags="popol vuh" role="button">
 Popol Vuh - Messa di Orfeo (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b14bd8-05f8-4cd3-8510-b2f637a14693/8137290813-500.jpg" data-tags="pop, alternative, ambient, haunting, magical, kitty5" role="button">
 Vacuum - Seance at the Chaebol (1998)
+</li>
+<li data-cover="https://img.discogs.com/7bC_mEsQ3xzcGe6bicb5aut3Hxc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2117735-1539014474-6598.jpeg.jpg" data-tags="soundtrack, folk" role="button">
+Paul Giovanni - The Wicker Man (1998)
 </li>
 <li data-cover="https://img.discogs.com/aX3zG8n5AQQA-8vAyRHX4qrULOQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182949-1447010819-2515.jpeg.jpg" data-tags="pop, haunting, vacuum, good times, kitty5, vacuum - culture of night" role="button">
 Vacuum - Culture Of Night (2000)
@@ -162,12 +162,6 @@ Midlake - Bamnan and Slivercork (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/3de7a493-be70-401f-9c8d-742ed13cb1bd/3178873184-500.jpg" data-tags="soundtrack" role="button">
 Akira Yamaoka - Silent Hill 4: The Room (2004-06-17)
 </li>
-<li data-cover="https://img.discogs.com/02KGDmQXoHOiDbOJgVGY3TKq3Bc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796835-1318983028.jpeg.jpg" data-tags="etheral" role="button">
-Stellamara - The Seven Valleys (2004-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
-Antony and the Johnsons - The Lake (2004-11-02)
-</li>
 <li data-cover="https://img.discogs.com/HAPUMMhGqC22bgWX2SoQdUS2w8w=/fit-in/266x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738400-1153696402.jpeg.jpg" data-tags="instrumental, experimental, dark, haunting, violins, avantgarde, dark ambient, interesting, avant-prog, mimicry, horror music, noir dandy, hidden masterpiece" role="button">
 Miasma & The Carousel Of Headless Horses - Perils (2005-04-19)
 </li>
@@ -195,6 +189,9 @@ Bad Astronaut - Twelve Small Steps, One Giant Disappointment (2006-11-14)
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
 </li>
+<li data-cover="https://img.discogs.com/M__A7QvXeURLMpIbxnXEniyOiAQ=/fit-in/355x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934342-1208446849.jpeg.jpg" data-tags="indie, british, sad, singer-songwriter, jangle pop, scottish, atmospheric, haunting, melancholic, jangle, c86" role="button">
+Stephen Harrison - Chips For Supper (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/f6870af9-8d28-4153-8adf-22fed99fde25/1238446256-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Mariee Sioux - Faces In The Rocks (2007)
 </li>
@@ -219,14 +216,11 @@ Ruby Throat - The Ventriloquist (2007-11-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, compra mi disco" role="button">
 Woods Family Creeps - Woods Family Creeps (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/0bbc35bc-87c8-4a0a-9acd-f1d243c64842/3410553200-500.jpg" data-tags="ambient, experimental, abstract, haunting, conceptual" role="button">
-The Caretaker - recollected memories from the museum of garden history (2008)
+<li data-cover="https://img.discogs.com/JnGIWxtSVZhgjWKQZSdvlsk5U0s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1214443-1201235641.jpeg.jpg" data-tags="archaic horizon" role="button">
+Electricwest - Divine de Vice (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
 Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
-Duels - The Barbarians Move In (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/04144bd5-b872-41c8-8466-ff19ae77ef05/23715843413-500.jpg" data-tags="ambient, drone, drone ambient, visionary" role="button">
 Celer - Discourses Of The Withered (2008-07-22)
@@ -291,6 +285,9 @@ Forest Fire - Staring At the X (2011)
 <li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">
 Giles Corey - Giles Corey (2011-04-30)
 </li>
+<li data-cover="https://img.discogs.com/TUtNg1LHf97p_5Hc-4ainCfpl44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13603765-1557336635-2769.jpeg.jpg" data-tags="heavy metal, metal, doom metal, dark, acoustic, death, atmospheric, haunting, free, doom, death metal, melancholic, free downloads, free download, awesome vocals, torture, blake, great riffs, william blake, eargasmic, strangely beautiful, dark and beautiful, literary references, creepy as hell, songs that give me chills" role="button">
+Torture Garden - Dead Romantic (2011-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/91028749-d3c6-478d-bfde-e55ddce892c8/13142975281-500.jpg" data-tags="instrumental, post-rock, haunting, sweet, live brilliance" role="button">
 Balmorhea - Live at Sint-Elisabethkerk (2011-09-06)
 </li>
@@ -320,5 +317,8 @@ Angel Olsen - Half Way Home (2012-09-04)
 </li>
 <li data-cover="https://img.discogs.com/wRT5BgJgMqobhoy2FtIYPVbskdc=/fit-in/398x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4000435-1352860722-1625.jpeg.jpg" data-tags="female vocalists, haunting, evil, autumn, graveface" role="button">
 The Casket Girls - Sleepwalking (2012-11-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3fbaf1a-4674-4640-8fb6-e3df908f4809/7624790250-500.jpg" data-tags="stoner metal" role="button">
+Bloody Hammers - Spiritual Relics (2013-05-01)
 </li>
 </ol>

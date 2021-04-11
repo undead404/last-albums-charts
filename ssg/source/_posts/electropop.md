@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:33:01.638Z
+date: 2021-04-11T19:26:01.391Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -65,9 +65,6 @@ M.I.A. - Kala (2007-08-08)
 </li>
 <li data-cover="https://img.discogs.com/AJJGBWHRRDq-mS7TXshVuTdDlHE=/fit-in/454x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102142-1192142547.jpeg.jpg" data-tags="electropop, indie" role="button">
 Sohodolls - Ribbed Music for the Numb Generation (2007-09-24)
-</li>
-<li data-cover="https://img.discogs.com/cLJmQS2vtGhXqEBRnMSNi-HpqqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500085-1224352394.jpeg.jpg" data-tags="power pop, pop" role="button">
-Girls Aloud - Tangled Up (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c253de39-d431-3576-8471-a94d72edc3fa/16785422694-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - X (2007-11-21)
@@ -221,6 +218,9 @@ Metronomy - The English Riviera (2011-04-11)
 </li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
+</li>
+<li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
+Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9197df9f-7f26-4498-af10-4eb5e67d6c8b/25513914939-500.jpg" data-tags="lmfao, electronic" role="button">
 LMFAO - Sorry for Party Rocking (2011-06-11)

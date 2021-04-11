@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:54:01.957Z
+date: 2021-04-11T19:23:01.404Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -237,6 +237,9 @@ Clawfinger - Life Will Kill You (2007-07-27)
 <li data-cover="https://img.discogs.com/7eg3JKB0uiyCJBmK1Iow2nnWjZc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4061379-1353946167-4335.jpeg.jpg" data-tags="rock" role="button">
 H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/04dde72c-8a02-4359-84db-ef6f221f759e/15129440307-500.jpg" data-tags="metal, alternative, reggae, alternative metal, rapcore, nu metal, reggae metal, ragga metal, raggae, raggae metal" role="button">
+Skindred - Ratrace (2007-10-29)
+</li>
 <li data-cover="https://img.discogs.com/_C_mdbsSG1ja8F81cZJ3qMXDQlU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316480-1325961296.jpeg.jpg" data-tags="punk rock" role="button">
 Zebrahead - Phoenix (2008-07-09)
 </li>
@@ -281,9 +284,6 @@ Bloodhound Gang - Show Us Your Hits (2010-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a785ab9b-88a8-43d8-90d0-6ae82c63728f/24837880451-500.jpg" data-tags="hip-hop, rock, alternative" role="button">
 Travis Barker - Give The Drummer Some (2011-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - American Tragedy (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2db7c0ca-199e-4253-bd04-c7869203a971/11119433478-500.jpg" data-tags="metal" role="button">
 Skindred - Union Black (2011-04-25)

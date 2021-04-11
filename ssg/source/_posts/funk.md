@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:52:01.461Z
+date: 2021-04-11T18:46:06.900Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -150,9 +150,6 @@ Michael Jackson - Scream (1995-05-31)
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
-Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e5e7900-bd9a-461e-9768-a83fffe282be/17888190426-500.jpg" data-tags="soul" role="button">
 Curtis Mayfield - The Very Best of Curtis Mayfield (1996-04-22)
 </li>
@@ -183,6 +180,9 @@ Jamiroquai - Synkronized (1999-06-07)
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
+Rage Against the Machine - Renegades (2000-11-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/4866a1ef-8eb3-420b-9e21-de6d66fdbda8/13535180696-500.jpg" data-tags="funk, prince" role="button">
 Prince - The Very Best of Prince (2001-07-30)
 </li>
@@ -204,8 +204,8 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
+<li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
+Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
@@ -254,9 +254,6 @@ Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/D5zif8STedOBGvMsAzk9SQhzunQ=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495698-1227800340.jpeg.jpg" data-tags="funk" role="button">
 Menahan Street Band - Make the Road by Walking (2008-10-14)
-</li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
@@ -308,6 +305,9 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/11628a0e-99ad-433b-9259-6de49e72ca24/7668980421-500.jpg" data-tags="pop" role="button">
 Michael Jackson - XSCAPE (2014-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6540f0f1-6ee7-4bc7-808a-0b38398b9f64/7842080226-500.jpg" data-tags="synthpop" role="button">
+La Roux - Trouble in Paradise (2014-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e40b1cc-6f24-45cc-b579-bd2229d26308/11530770134-500.jpg" data-tags="funk" role="button">
 Vulfpeck - Fugue State (2014-08-26)

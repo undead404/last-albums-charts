@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:54:01.403Z
+date: 2021-04-11T18:54:01.396Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Natasha Bedingfield - Strip Me (2010-12-07)](https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg "Natasha Bedingfield - Strip Me (2010-12-07)")
@@ -8,11 +8,11 @@ title: "female voices: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/IABi9vpnFSXyzPTfvnE-rDYVdxA=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3067838-1314197681.jpeg.jpg" data-tags="japanese, female vocalists, female voices, the brilliant green" role="button">The Brilliant Green - Los Angeles (2001-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/863d6f97-4c29-46ad-ac35-03c6aaf8a6cd/17753189978-500.jpg" data-tags="jazz, female vocalists" role="button">Diana Krall - Live In Paris (2002-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">Hilary Duff - Metamorphosis (2003-06-20)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Diana Krall - The Girl In The Other Room (2004-03-31)</li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">Gwen Stefani - Wind It Up (2006-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">Sugababes - Change (2007-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">Jazmine Sullivan - Fearless (2008-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">Brandy - Human (2008-12-05)</li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">Ciara - Fantasy Ride (2009-05-04)</li>
 <li data-cover="https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg" data-tags="pop, female vocalists" role="button">Natasha Bedingfield - Strip Me (2010-12-07)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/21d8b3e6-488a-4aa4-95f1-8daa5859374f/22936286978-500.jpg" data-tags="jazz, billie holiday" role="button">
+Billie Holiday - Last Recording (1959-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/5856913b-e099-46a0-9631-8bb521eeb0ac/4600120465-500.jpg" data-tags="jazz vocal, jazz female vocalists" role="button">
 Blossom Dearie - May I Come In? (1964)
-</li>
-<li data-cover="https://img.discogs.com/3VToYXeNDH79WPSd2kxk02PjsV4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646534-1584302534-9254.jpeg.jpg" data-tags="rock, 70s" role="button">
-Affinity - Affinity (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/88004f16-f3dc-4b1c-8743-f3e333dfa64e/4398575297-500.jpg" data-tags="country" role="button">
 Emmylou Harris - Roses in the Snow (1980)
@@ -53,6 +53,9 @@ Emmylou Harris - Cowgirl's Prayer (1993-09-28)
 </li>
 <li data-cover="https://img.discogs.com/WlmK366nWzaikCSrtbbNmYzpHBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-989220-1509823212-1559.jpeg.jpg" data-tags="rock, pop" role="button">
 Edyta Bartosiewicz - Sen (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/08b7aa27-b6ec-4aab-abbe-f856e8b5f2d9/1464280911-500.jpg" data-tags="doom metal" role="button">
+The 3rd and the Mortal - Sorrow (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/052f365f-beb2-4794-90e0-f272c266e973/18446288488-500.jpg" data-tags="country, skeeter davis" role="button">
 Skeeter Davis - The Essential Skeeter Davis (1995)
@@ -90,9 +93,6 @@ NOA - Blue Touches Blue (2000-03-14)
 <li data-cover="http://coverartarchive.org/release/bdabd70c-49df-4d67-9eae-3c4cb898f9e6/6193239149-500.jpg" data-tags="country" role="button">
 Laura Cantrell - Not The Tremblin' Kind (2000-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/0909f454-253b-4da2-aa67-42836659b377/16071365098-500.jpg" data-tags="new age" role="button">
-Ronan Hardiman - Anthem (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/bfa96adb-9497-4161-b1ad-a1dcb992d2eb/7532869572-500.jpg" data-tags="female vocalists" role="button">
 Genitorturers - Flesh Is the Law (2001)
 </li>
@@ -101,6 +101,9 @@ The Brilliant Green - Los Angeles (2001-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Sarah Vaughan - Lover Man (2001-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/017e63de-d9d9-4945-b96f-c417df4c6b05/1784911510-500.jpg" data-tags="chill" role="button">
+Chandeen - Bikes and Pyramids (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/af2c04f4-876a-4f65-ab44-01495eb2b154/3136908745-500.jpg" data-tags="persian" role="button">
 Axiom Of Choice - Unfolding (2002)
@@ -153,14 +156,8 @@ Bethany Dillon - Bethany Dillon (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/b2355813-710a-49cb-8f00-cb157758a019/15697759311-500.jpg" data-tags="folk, americana" role="button">
 Hem - Eveningland (2004-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ae7371b-7e86-4fae-8bd6-7ec27894ade4/2598475240-500.jpg" data-tags="female, hardcore, female vocalists, crust, female vocals, female vocalist, riot grrrl, female voices, hardcore punk, punk hardcore, crustcore, riot girl, crust and roll, butra pjeva, punk underground full tracks, hardcore punk underground full tracks, hardcore underground full tracks" role="button">
-Beyond Pink - Jedan dva, jebla te ja (2005)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sephardic, yasmin levy" role="button">
 Yasmin Levy - La Juderia (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/e342874c-5ea9-4118-add3-cc4947d15cb7/27138458346-500.jpg" data-tags="pop" role="button">
-Geri Halliwell - Passion (2005-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce263e4d-36f8-4fe8-862a-30019fb573fd/13666614064-500.jpg" data-tags="rnb" role="button">
 Syleena Johnson - Chapter 3: The Flesh (2005-09-13)
@@ -182,6 +179,9 @@ Kuba - Inside Out (2006-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cb5e8fd-13d7-40db-8998-e1a4d206d5c4/14670899495-500.jpg" data-tags="pop, female voices" role="button">
 Peaches - Downtown (2006-07-03)
+</li>
+<li data-cover="https://img.discogs.com/LxmF_0uWMm3lFbQBhWGfGBxmihM=/fit-in/600x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912700-1459878063-6980.jpeg.jpg" data-tags="folk, celtic" role="button">
+Maggie Reilly - ROWAN (2006-09-15)
 </li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
@@ -218,9 +218,6 @@ Sugababes - Change (2007-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/39453157-9cbf-42eb-bede-78f92810e88c/17193647005-500.jpg" data-tags="dance, pop, club" role="button">
 Dannii Minogue - Club Disco (2007-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a791c85e-d48b-4fb5-852a-1263f2c88fc0/3904048975-500.jpg" data-tags="pop, dance" role="button">
-Dannii Minogue - Unleashed (2007-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/01384d33-152d-4d93-92db-c3d28bebc553/8366882984-500.jpg" data-tags="dance" role="button">
 Cascada - Perfect Day (2007-12-03)
@@ -264,9 +261,6 @@ Kylie Minogue - Boombox (2008-12-17)
 <li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Quiet Nights (2009-03-26)
 </li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4a3c5c8-9d5b-4b2b-b5e8-014bffc4dbef/1019564609-500.jpg" data-tags="pop, female voices" role="button">
 detroit7 - Black & White (2009-05-20)
 </li>
@@ -306,6 +300,9 @@ Dota und die Stadtpiraten - Bis auf den Grund (2010-04-01)
 <li data-cover="http://coverartarchive.org/release/7ff12938-4b9d-4bc8-a506-d82634cfdf66/2081827890-500.jpg" data-tags="vocal, jazz vocal, easy listening, vocal jazz, lounge, mellow, smooth, smooth jazz, jazzy, female vocal, female voices, r kelle" role="button">
 Robin McKelle - Mess Around (2010-05-04)
 </li>
+<li data-cover="https://img.discogs.com/e1jUY4xUIsxcQa7UVrvFwFcRMTI=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275800-1323522958.jpeg.jpg" data-tags="electronic, female vocalists, synthpop, female voices, frauen und technik, 4-5" role="button">
+Future Perfect - Dirty Little Secrets (2010-05-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/57877bb1-4a05-448b-a37e-41649ea99e35/10798226561-500.jpg" data-tags="country" role="button">
 Sugarland - The Incredible Machine (2010-10-19)
 </li>
@@ -320,5 +317,8 @@ Natasha Bedingfield - Strip Me (2010-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5f6df4b-ae7f-4ef4-8e30-bc5d66dcd495/7229454847-500.jpg" data-tags="60s" role="button">
 The Crystals - Da Doo Ron Ron: The Very Best of The Crystals (2011-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/97019de9-59ee-4377-801f-30f2b44ef5fa/7342742503-500.jpg" data-tags="rock, punk, grunge, alternative, street punk, female voices, all-girl, cuntpunk" role="button">
+Maid of Ace - MAID OF ACE (2014)
 </li>
 </ol>

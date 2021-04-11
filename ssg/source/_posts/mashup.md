@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:31:01.409Z
+date: 2021-04-11T18:56:01.397Z
 title: "mashup: 100 albums you must listen to before you die"
 ---
 ![Girl Talk - Feed the Animals (2008-06-19)](http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg "Girl Talk - Feed the Animals (2008-06-19)")
@@ -39,9 +39,6 @@ Current 93 - The Great in the Small (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/256567ac-7641-4f3c-98c2-7ed03498fed8/9336346447-500.jpg" data-tags="electronic" role="button">
-Daedelus - Invention (2002-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3d17c5e-db5c-45e7-94f3-05ad992be0ea/2086403244-500.jpg" data-tags="hip-hop, mashup" role="button">
 The Kleptones - Yoshimi Battles the Hip Hop Robots (2003-03)
 </li>
@@ -59,9 +56,6 @@ dj BC - dj BC presents The Beastles (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">
 Danger Mouse - The Grey Album (2004-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0bbd7276-b1b0-432a-a90a-379ea65012ef/10870391501-500.jpg" data-tags="breakcore, raggacore" role="button">
-Shitmat - Killababylonkutz (2004-03-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mashup, mash-up, bastard pop, bootleg, beach boys, goran bregovic, bootlegsfr" role="button">
 ToToM - Bastard Pet Sounds (2005)
@@ -110,6 +104,9 @@ ToToM - Bootwards (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cfc99cd-0819-44e9-9369-ecf3ac06c7d2/1310957308-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 G3RSt - INS3Rt COIN (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0682a67-daeb-4847-8d71-57a162b76f19/28552625443-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+DJ Schmolli - Schnipseljagd Vol.6 (2007)
 </li>
 <li data-cover="https://img.discogs.com/eIjxAmK09b6varLn6yDuhSUpKzY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275264-1360425062-7883.png.jpg" data-tags="mashup" role="button">
 Norwegian Recycling - So Far (2007)
@@ -207,6 +204,9 @@ Beatallica - Masterful Mystery Tour (2009-08-04)
 <li data-cover="http://coverartarchive.org/release/c391bb40-5be0-4308-824c-ba5159ad6d8e/17400181551-500.jpg" data-tags="rap, free, mashup" role="button">
 K.Flay - MASHed Potatoes (2009-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ddc2135-843c-48d8-a5fe-dfa27a04dd7e/3975024633-500.jpg" data-tags="mashup, mash-up, bastard pop, mash up, bootleg, halloween, halloween mashup" role="button">
+A Plus D - Halloween Booootie (2009-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/38aece60-1b76-4108-827c-37ab67d87f61/3458438160-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 A Plus D - Best of Bootie 2009 (2009-12-28)
 </li>
@@ -240,6 +240,9 @@ Wait What - the notorious xx (2010-03-10)
 <li data-cover="http://coverartarchive.org/release/789461b1-f91e-4b10-8fb5-f494335f0320/2046346536-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 DJs From Mars - Bootfellas (2010-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/ba238265-c556-49f6-b782-e40341feb4f0/4051779686-500.jpg" data-tags="mashup, remix, mash-up, party, bastard pop, mash up, bootleg, halloween, halloween mashup" role="button">
+A Plus D - Halloween Booootie 2 (2010-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ad1171f-a1ef-49eb-bfff-f772a27a27b7/12945861593-500.jpg" data-tags="mashup" role="button">
 Girl Talk - All Day (2010-11-15)
 </li>
@@ -261,9 +264,6 @@ Milkman - Algorithms (2011-01-25)
 <li data-cover="http://coverartarchive.org/release/b75e7dee-c8b5-466c-8771-29e37bda52fa/18626419728-500.jpg" data-tags="mashup" role="button">
 Titus Jones - Culture Shock (2011-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/58fe4134-f4e5-410f-83c8-eef38962b3f8/6161012496-500.jpg" data-tags="hip hop, mashup, remix, beats, rnb, swag, donald glover" role="button">
-Torpeedoh - Get @ Me Donald Glover (2011-04-11)
-</li>
 <li data-cover="https://img.discogs.com/aiugice_UU9HXC4lORqJ0msOthM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7312287-1438626263-7632.jpeg.jpg" data-tags="electronic, electronica, mashup, underground, newgrounds" role="button">
 Anwar Louis - Untitled Mashup (2011-04-18)
 </li>
@@ -279,14 +279,14 @@ Max Tannone - Ghostfunk (2011-07)
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
 </li>
-<li data-cover="https://img.discogs.com/kumjMG3rdnrfem9TbYL-3LQEudY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3101395-1315791467.jpeg.jpg" data-tags="electronic" role="button">
-The Twelves - The Twelves (2011-08-30)
-</li>
 <li data-cover="https://img.discogs.com/SgTwa_bSrVya6zHeo-lyvFKWFK4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7899678-1451242971-9320.jpeg.jpg" data-tags="experimental, mashup, mash-up" role="button">
 E-603 - SMOKESHOW (2011-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9f5108-082b-4c40-854a-1ed088aa0272/11478146363-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 A Plus D - Best of Bootie 2011 (2011-12-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/53e1ab87-7f3d-476a-91a7-bd071766c5ce/3142830090-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+G3RSt - Born Yesterday (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/4acf49e2-dc03-4d24-8ee3-88ef4a5cbdda/1506408526-500.jpg" data-tags="mashup" role="button">
 Wax Audio - Mashopolos III: Mashups for the People (2012)

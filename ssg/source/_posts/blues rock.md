@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:43:01.616Z
+date: 2021-04-11T19:12:01.414Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -135,9 +135,6 @@ AC/DC - Let There Be Rock (1977-03-21)
 <li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
-<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
-Led Zeppelin - Coda (1982-11-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/20f8ccf4-09cf-4607-a955-720ccbb2789e/14697523448-500.jpg" data-tags="blues rock, southern rock" role="button">
 ZZ Top - Eliminator (1983-03-23)
 </li>
@@ -155,6 +152,9 @@ The Doors - The Doors (1988)
 </li>
 <li data-cover="https://img.discogs.com/VJt5Q6CCIHtpsGDaKnvRZHhRhn8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043504-1494443705-7845.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Joe Cocker - With A Little Help From My Friends (1988-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f9210f1-564b-3e42-9b01-09505f7cd4c7/11228896309-500.jpg" data-tags="rock, 80s, female vocalists, blues rock" role="button">
+Alannah Myles - Alannah Myles (1989-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3268008-89d0-365b-9900-105250b25c81/6867563168-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Journeyman (1989-10-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:28:01.643Z
+date: 2021-04-11T18:51:01.401Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -27,12 +27,6 @@ Exuma - Exuma I (1970)
 <li data-cover="http://coverartarchive.org/release/d605007f-74eb-419b-9ed5-062c6743fbd0/6842201405-500.jpg" data-tags="folk, ambient, experimental, freak folk, free folk, tribal folk, my favourite cds, favourite cds" role="button">
 Exuma - Exuma II (1970)
 </li>
-<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
-Linda Perhacs - Parallelograms (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/652c22d0-7505-31d6-8a96-9edda5150613/10978564490-500.jpg" data-tags="progressive rock, psychedelic folk, psychedelic, progressive folk" role="button">
-Comus - First Utterance (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f3f054b-b78a-3782-be52-23824f0e8e6f/22841596347-500.jpg" data-tags="outsider, freak folk, b12, avant-folk, davecore, nancykitten all-time favourite albums, other corwood texas the units atonal songwriter experimental, psyche-vedelik" role="button">
 Jandek - Ready for the House (1978-08-31)
 </li>
@@ -48,6 +42,9 @@ Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
+Faun Fables - Mother Twilight (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/f98a5816-aa1e-49bd-acdc-dd1a42b1f5bf/25471937307-500.jpg" data-tags="noise, experimental rock, abstract, freak folk, 00s, neo-psychedelia, psychedelic noise" role="button">
 Avey Tare, Panda Bear & Geologist - Danse Manatee (2001-06-30)
 </li>
@@ -56,6 +53,9 @@ Animal Collective - Hollinndagain (2002)
 </li>
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
+</li>
+<li data-cover="https://img.discogs.com/Gh0AvnRc9YoA06yHj4mNUNFhe6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304636-1436955400-5740.jpeg.jpg" data-tags="noise" role="button">
+Excepter - KA (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Here Comes the Indian (2003-06-17)
@@ -71,6 +71,9 @@ Dirty Projectors - The Glad Fact (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/24afc25b-a3d1-4d7e-9f3f-35160eb872da/14486796788-500.jpg" data-tags="freak folk" role="button">
 Kemialliset Ystävät - Alkuhärkä (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e4771c7-3417-4f44-b04b-4d41c3a4290c/12915472124-500.jpg" data-tags="freak folk, mantric acoustic, islaja, new world fair, zpf top albums" role="button">
+Islaja - Meritie (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad18e295-186b-4b06-ba50-68b2270114d6/28647976797-500.jpg" data-tags="folk, experimental, freak folk, wfmu heavily played records" role="button">
 Six Organs of Admittance - The Manifestation (2004)
@@ -198,9 +201,6 @@ CocoRosie - The Adventures of Ghosthorse and Stillborn (2007-04-09)
 <li data-cover="http://coverartarchive.org/release/e66187ca-97ab-4d44-906e-58cfbd8d070b/20442282655-500.jpg" data-tags="indie, folk" role="button">
 Jana Hunter - There's No Home (2007-04-10)
 </li>
-<li data-cover="https://img.discogs.com/_lFRJx9DEhY8JAF1hjnvgQS8kJ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1617504-1232914529.jpeg.jpg" data-tags="folk, indie, acoustic" role="button">
-Bowerbirds - Hymns for a Dark Horse (2007-05-08)
-</li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
@@ -218,6 +218,9 @@ Ruby Throat - The Ventriloquist (2007-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Chains (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/aeff4835-b896-40a0-bd4e-bb7d700daa50/21311835882-500.jpg" data-tags="post-rock, psychedelia, freak folk, neo-psychedelia, newgaze, dronegaze, gazer, tropical drone" role="button">
+Pocahaunted - Peyote Road (2008)
 </li>
 <li data-cover="https://img.discogs.com/PEX6Bc0-lk0RupwrX6cCebRjxdA=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339354-1210962480.jpeg.jpg" data-tags="new weird finland" role="button">
 Lau Nau - Nukkuu (2008-05-14)
@@ -248,9 +251,6 @@ Sister Suvi - Now I Am Champion (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f7b8d80-755c-4fcc-ac8f-ebf4beaeb1ac/19194545986-500.jpg" data-tags="psychedelic" role="button">
-Master Musicians of Bukkake - Totem One (2009-05-25)
 </li>
 <li data-cover="https://img.discogs.com/oIOJJ7BUENpxXrvnqcDEs8K36oE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1810655-1248315184.jpeg.jpg" data-tags="freak folk, woodsist, album covers i like" role="button">
 Ganglians - Monster Head Room (2009-06)

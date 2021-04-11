@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:47:07.260Z
+date: 2021-04-11T19:31:12.469Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/6600f795-278c-49e3-883d-547016141503/15810465428-500.jpg" data-tags="alternative rock, rem" role="button">
+R.E.M. - Dead Letter Office (1987-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
@@ -35,6 +38,9 @@ Blind Guardian - The Forgotten Tales (1996-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a91e0362-3aaa-4d82-beee-e331a8fdfe72/10998135685-500.jpg" data-tags="ska" role="button">
 Save Ferris - It Means Everything (1997-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/771774fa-e510-4bd1-9a21-6f3f2e716ccd/16695513200-500.jpg" data-tags="punk, covers, ska punk, cover, punk covers" role="button">
+Less Than Jake - Greased (1997-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
 Metallica - Garage, Inc. (1998-11-24)
@@ -87,6 +93,9 @@ Jimmy Eat World - Last Christmas (2001-12-10)
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">
 Johnny Cash - American IV: The Man Comes Around (2002-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d217fbd-28fc-4f4b-86c2-cdb9e45563f9/11145293722-500.jpg" data-tags="country" role="button">
+Johnny Cash - The Man Comes Around (2002-11-05)
+</li>
 <li data-cover="https://img.discogs.com/JmOWVNoTQof7RFsqS82lCjDQ180=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2579489-1291457949.jpeg.jpg" data-tags="epic, cover, new prog, steven wilson" role="button">
 Steven Wilson - Cover Version (2003)
 </li>
@@ -120,14 +129,8 @@ A Perfect Circle - eMOTIVe (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/5d4135e8-4d34-443c-91d5-0297e9ef14d8/4783518168-500.jpg" data-tags="acoustic, lounge metal" role="button">
 Hellsongs - Hymns in the Key of 666 (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
-Richard Cheese - Aperitif for Destruction (2005-05-24)
-</li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
-</li>
-<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
-Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
@@ -143,9 +146,6 @@ Streetlight Manifesto - Keasbey Nights (2006-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/92f3be62-21cd-4651-850e-b244fbd0c01b/26946774221-500.jpg" data-tags="cover" role="button">
 The Black Keys - Chulahoma: The Songs of Junior Kimbrough (2006-05-02)
-</li>
-<li data-cover="https://img.discogs.com/rvnqyiHm6AibVJYr8a3v9ro1J2s=/fit-in/588x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7458346-1443578506-9462.jpeg.jpg" data-tags="cover" role="button">
-Def Leppard - Yeah! (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/00103e5a-a298-4108-9f74-4a5d9490a6ef/2772311711-500.jpg" data-tags="progressive metal, cover album" role="button">
 Between the Buried and Me - The Anatomy Of (2006-06-13)
@@ -180,9 +180,6 @@ Poison - Poison'd! (2007-06-05)
 <li data-cover="http://coverartarchive.org/release/dccee35f-1660-4f40-8522-ffc6927ba1c7/2588215795-500.jpg" data-tags="electronica, cover, remix, getit" role="button">
 Gotye - Mixed Blood (2007-06-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/938a4f90-c248-4794-8ceb-e8e48b396cb0/8778440610-500.jpg" data-tags="cover" role="button">
-Jeffrey Lewis - 12 Crass Songs (2007-10-01)
-</li>
 <li data-cover="https://img.discogs.com/cfZubMxXa-kMYSbL_pr1XWD-YJI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369273-1220479145.jpeg.jpg" data-tags="cover, late night, 00s, cover songs, after hours, beyondwithin, winter 2012, get later, aural fixation - best of 2007, wmbr, february 2012, music for cloudy days" role="button">
 Japancakes - Loveless (2007-11-13)
 </li>
@@ -209,6 +206,9 @@ Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
 <li data-cover="https://img.discogs.com/cqXrVOiTdSxBLd-0_4uFnEJTm_I=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17029668-1611230405-2101.jpeg.jpg" data-tags="power metal" role="button">
 HammerFall - Masterpieces (2008-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b9c4c63-1c05-428a-a0f3-c3b16da4abb2/5112402317-500.jpg" data-tags="electronica, instrumental, cover, melancholy, cover album, music i tried but didnt like, beautifully depressing" role="button">
+Black Light Burns - Cover Your Heart (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ba7c287-814a-4bfc-a1b2-d989147833c8/5674446491-500.jpg" data-tags="cover, finnish" role="button">
 Kotiteollisuus - Sotakoira (2008-08-13)

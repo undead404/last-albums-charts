@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:21:01.447Z
+date: 2021-04-11T19:06:06.999Z
 title: "ambient pop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Ghost Stories (2014-05-16)](http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg "Coldplay - Ghost Stories (2014-05-16)")
@@ -27,14 +27,17 @@ Kraftwerk - Ralf & Florian (1973)
 <li data-cover="https://img.discogs.com/s11-l1qMRcpXD1F6FgK-ZvGA2EI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-325246-1347643443-7114.jpeg.jpg" data-tags="ambient pop, dream pop" role="button">
 Deux Filles - Silence & Wisdom (1982)
 </li>
-<li data-cover="https://img.discogs.com/A1aXIi-wB9YcejTWj5CsKzpEDlg=/fit-in/348x345/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199803-1200227896.jpeg.jpg" data-tags="electro" role="button">
-Kraftwerk - Tour de France (1983)
-</li>
 <li data-cover="https://img.discogs.com/S9XgOF0J7Cj-N5id-AzQfcsUiEA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1432286-1296132881.jpeg.jpg" data-tags="acoustic ambient" role="button">
 Virginia Astley - From Gardens Where We Feel Secure (1983-07-29)
 </li>
+<li data-cover="https://img.discogs.com/7cA_4sdRtdjpCXfHNQsIO-BQ_ns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16121051-1603786635-8165.jpeg.jpg" data-tags="experimental, avant-garde" role="button">
+Flaming Tunes - Flaming Tunes (1985)
+</li>
 <li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
 David Sylvian - Secrets Of The Beehive (1987)
+</li>
+<li data-cover="https://img.discogs.com/_SajCAx2_Ab1mCnZ73wYl60VKZE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-658016-1234906175.jpeg.jpg" data-tags="ambient pop, dream pop, i listen to this late at night in my underwear, opal, my favorite hugo largo record, electro acoustic pleasure drone" role="button">
+Hugo Largo - Mettle (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
 Julee Cruise - Floating into the Night (1989-09-12)
@@ -44,6 +47,9 @@ Woo - Into the Heart Of Love (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9258621-6572-4de0-aa11-0af53821263b/1782106395-500.jpg" data-tags="ethereal" role="button">
 Love Spirals Downwards - Idylls (1992)
+</li>
+<li data-cover="https://img.discogs.com/-PH_VAYp9Gh8I41Fa2kkjIBq57w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1397606-1288364740.jpeg.jpg" data-tags="julee cruise" role="button">
+Julee Cruise - Summer Kisses, Winter Tears (1992)
 </li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
@@ -78,11 +84,11 @@ MiMi - Soak (1998)
 <li data-cover="https://img.discogs.com/hu9mwV4b2MMRyWJPhaCIhN-Pxk0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633221-1376883315-4469.jpeg.jpg" data-tags="ambient pop, dream pop, ethereal, piano pop, ethereal pop, music i tried but didnt like, h fury" role="button">
 Hannah Fury - Soul Poison (1998)
 </li>
-<li data-cover="https://img.discogs.com/Uplv_9Q4x9mMeGn22k967XBi6Tc=/fit-in/496x832/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2015912-1274188268.jpeg.jpg" data-tags="ambient" role="button">
-David Sylvian - Dead Bees on a Cake (1999-03-29)
-</li>
 <li data-cover="https://img.discogs.com/yqJjNzvm_FIXqlpGVzxSKh2m38g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309157-1288348316.jpeg.jpg" data-tags="indie rock, post-rock, shoegaze" role="button">
 Piano Magic - Low Birth Weight (1999-05)
+</li>
+<li data-cover="https://img.discogs.com/n3ofPzhMTQ7ZlR5PSwdS536H6xk=/fit-in/378x374/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-732999-1153131286.jpeg.jpg" data-tags="post-rock, ambient pop, 90s, dream pop, ethereal, psychodelic, late 90s, merkliste, gallon drunk merkliste" role="button">
+Breathless - Blue Moon (1999-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd9b2fd9-d67a-4c3b-a405-89252fbe16d9/21496136995-500.jpg" data-tags="ethereal" role="button">
 KOKIA - songbird (1999-07-16)
@@ -92,9 +98,6 @@ Hannah Fury - The Thing That Feels (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
 Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/93f25c75-2e29-3a88-8c67-d8c99aaeb9e9/27880195725-500.jpg" data-tags="trip-hop" role="button">
-Bowery Electric - Lushlife (2000-02-25)
 </li>
 <li data-cover="https://img.discogs.com/k_01zmWyWeVQDshGa_DKz63iz2g=/fit-in/597x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537771-1258392043.jpeg.jpg" data-tags="post-rock, ambient pop, minimal, soft, ethereal, slowcore, music to get the pussy wet, autumnal, hazy, flowers and plants, roads and journeys" role="button">
 Movietone - The Blossom Filled Streets (2000-07-03)
@@ -114,14 +117,14 @@ Idaho - Levitate (2001-10-02)
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
 </li>
+<li data-cover="https://img.discogs.com/Cyzvb6wfl2pca0XdjcF-YDU7e3I=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633235-1458194856-5544.jpeg.jpg" data-tags="ambient pop, dream pop, ethereal, piano pop, ethereal pop, music i tried but didnt like, h fury" role="button">
+Hannah Fury - I Can't Let You In (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/b685bd41-0cd2-4fa2-a0a7-2a0242a0e70b/3644268413-500.jpg" data-tags="trip-hop" role="button">
 Alpha - Stargazing (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce05e8f3-817b-4ddc-942d-dd52a0a2fec4/18280975029-500.jpg" data-tags="trip-hop" role="button">
 Laika - Wherever I Am I Am What Is Missing (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/9905699f-1b5b-4252-9b88-337b0c75b34b/27129224684-500.jpg" data-tags="jazz, acid jazz, lounge, j-jazz, cosy, chillout, jazzy, jazz pop, japanese jazz, easy listening, jazz fusion, japanese city pop, city pop" role="button">
-Round Table featuring Nino - April (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9b2dad8-75e4-4946-9ded-4c68549e7a69/25948654588-500.jpg" data-tags="trip-hop" role="button">
 Pomegranate - On Black Peak (2003-05-19)
@@ -138,8 +141,14 @@ Björk - Vespertine Live (2003-08-18)
 <li data-cover="http://coverartarchive.org/release/2ef8142b-eb60-4df4-860e-05eb9ed9c1d2/4697283205-500.jpg" data-tags="chillout" role="button">
 Bliss - It's Not the Sweetness We're After, It's the Sugar EP (2003-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/ea8d1ee3-2736-4590-82fb-329f3cff422f/19410802101-500.jpg" data-tags="ambient, ghost music, ghost ambient" role="button">
+Tor Lundvall - Last Light (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/05bc47ec-eaa8-3e1b-b705-07070f86f1ca/12340474874-500.jpg" data-tags="00s" role="button">
 The Beta Band - Heroes To Zeros (2004-04-26)
+</li>
+<li data-cover="https://img.discogs.com/YsdESH6vD6R4l9pnNv-mthrNU5M=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-250319-1270726079.jpeg.jpg" data-tags="dream pop, ghostly international" role="button">
+Dykehouse - Midrange (2004-05-04)
 </li>
 <li data-cover="https://img.discogs.com/woVB7wJzBvIjd6HyG1YVHmUX1D8=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2392252-1285625791.jpeg.jpg" data-tags="chillout, ambient, newage, new age and ambient" role="button">
 Sonic Adventure Project - Exergonic (2004-05-10)
@@ -153,9 +162,6 @@ Elbow - Leaders of the Free World (2005-09-07)
 <li data-cover="https://img.discogs.com/zqKiCDF5IinbqIA6xOZU2lp4L34=/fit-in/395x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-746091-1154553246.jpeg.jpg" data-tags="ambient pop, dream pop, melancholy, art pop" role="button">
 Idaho - The Lone Gunman (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3362b75-81b9-4529-9e0b-f72700dc8422/16001350233-500.jpg" data-tags="experimental, ambient" role="button">
-Nine Horses - Snow Borne Sorrow (2005-10-13)
-</li>
 <li data-cover="https://img.discogs.com/gps2-bp1Q0vb3PinB4A05U2UGww=/fit-in/500x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633241-1295057443.jpeg.jpg" data-tags="ambient pop, dream pop, ethereal, piano pop, ethereal pop, dark side of the carnival, h fury" role="button">
 Hannah Fury - Subterfuge (2006-01-16)
 </li>
@@ -165,17 +171,14 @@ R/R Coseboom - Beneath Trembling Lanterns (2006-02-15)
 <li data-cover="https://img.discogs.com/KYONK0oNcjDYyHJUSL-0BoqvVWg=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087022-1191046043.jpeg.jpg" data-tags="chillout, dream pop" role="button">
 Glassacre - Slow Attack (2006-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/99e650b7-5752-4a5c-a9cd-101cb1f1d804/22990616788-500.jpg" data-tags="jazz, acid jazz, cosy, chillout, lounge, j-jazz, jazzy, jazz pop, city pop" role="button">
-Round Table featuring Nino - Nino (2006-08-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/389992a8-fafd-4352-af1b-013029642b4d/8093539842-500.jpg" data-tags="electronic pop" role="button">
 Daan - The Player (2006-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/db787c14-a57c-4c99-a314-5a4377b40990/8897731704-500.jpg" data-tags="electronic melodic" role="button">
 Lullatone - Plays Pajama Pop Pour Vous (2006-12-05)
 </li>
-<li data-cover="https://img.discogs.com/2EKCyM1Ufkw5WFVwoyIZaU5Vy7E=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1280347-1206022713.jpeg.jpg" data-tags="chillout, ambient, lounge" role="button">
-Green Empathy - Souvenirs (2007-06-07)
+<li data-cover="https://img.discogs.com/yduwEXo-RiQc3Lk88mvUy764Zeg=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-903543-1171145851.jpeg.jpg" data-tags="downtempo, archaic horizon" role="button">
+Orange Crush - The Fields (2006-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b463fa1e-5d89-4d88-872a-c9d2370c46f6/15172038968-500.jpg" data-tags="ambient, electronic, idm" role="button">
 Piana - Eternal Castle (2007-06-08)
@@ -183,8 +186,8 @@ Piana - Eternal Castle (2007-06-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, ambient, female vocalists, singer-songwriter, ambient pop, new age, shoegaze, atmospheric, trip hop, dream pop, ethereal, fantasy, art pop, japanese shoegaze, japanese dream pop, j-shoegaze, shoegazefan, j-ethereal" role="button">
 石川智晶 - Uninstall (2007-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0454682-a083-453a-ad6f-61bc4d866345/3705099190-500.jpg" data-tags="japanese, ambient pop, new weird japan, chillout, electronica, ambient, experimental, easy listening, dream pop" role="button">
-cokiyu - Mirror Flake (2007-07-11)
+<li data-cover="http://coverartarchive.org/release/93614fd5-bcf1-453e-9ef1-90c6290757f3/4397152922-500.jpg" data-tags="j-pop" role="button">
+UA - Golden Green (2007-06-20)
 </li>
 <li data-cover="https://img.discogs.com/mlqlmJcBoErSPvGnR7arWK58sMQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314444-1208912306.jpeg.jpg" data-tags="ethereal" role="button">
 Hannah Fury - Through The Gash (2007-08-07)
@@ -209,6 +212,9 @@ William Basinski - 92982 (2009-03)
 </li>
 <li data-cover="https://img.discogs.com/AQHx18Dzue4JUc_wJaMXO-VsPD8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1691931-1237249077.jpeg.jpg" data-tags="dream pop" role="button">
 Lotus Plaza - The Floodlight Collective (2009-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ebd947f-307d-4f59-83a0-500b8531ce07/16408461958-500.jpg" data-tags="chillout, trip-hop, ambient, female vocalists, singer-songwriter, ambient pop, new age, shoegaze, atmospheric, trip hop, dream pop, ethereal, fantasy, art pop, japanese shoegaze, japanese dream pop, j-shoegaze, shoegazefan, j-ethereal" role="button">
+anNina - まなざし (2009-06-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, ambient, female vocalists, singer-songwriter, ambient pop, new age, shoegaze, atmospheric, trip hop, dream pop, ethereal, fantasy, art pop, japanese shoegaze, japanese dream pop, j-shoegaze, shoegazefan, j-ethereal" role="button">
 新居昭乃 - 蜜の夜明け (2009-08-05)
@@ -270,12 +276,6 @@ Slowdive - Original Album Classics (2012-05-08)
 <li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
 Laurel Halo - Quarantine (2012-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/db414072-aa75-4a05-bae6-cc20d19e4c22/3507556609-500.jpg" data-tags="chillout, trip-hop, indie, jazz, chill, alternative, ambient, experimental, indie pop, female vocalists, downtempo, singer-songwriter, easy listening, ambient pop, new age, acid jazz, lounge, jpop, dream pop, j-jazz, jazzy, anime, alternative pop, j-pop, tokyo, avant-pop, atmospheric pop, cosy, kokia, asian pop, tokyo jazz, j-ambient" role="button">
-Annabel - Above your hand (2012-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/798c24c1-4ef9-47ca-ae68-d3c4f5fde3bc/15309211291-500.jpg" data-tags="baroque pop" role="button">
-Anna von Hausswolff - Ceremony (2012-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/83d211cf-c4be-4c41-b265-e718afb8746c/4862428851-500.jpg" data-tags="dream pop, slowcore" role="button">
 Jessica Bailiff - At The Down-Turned Jagged Rim of the Sky (2012-10-01)
 </li>
@@ -300,6 +300,9 @@ Julianna Barwick - Nepenthe (2013-07-20)
 <li data-cover="http://coverartarchive.org/release/9d1dc16a-a854-4589-b78b-f008af493aac/4871200031-500.jpg" data-tags="art pop, chamber pop" role="button">
 Julia Holter - Loud City Song (2013-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ce116ca-b35a-46fa-adc8-fa0160c6e0b1/5433295275-500.jpg" data-tags="ambient" role="button">
+Moskitoo - Mitosis (2013-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
 </li>
@@ -308,9 +311,6 @@ Darkside - Psychic (2013-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/10f2f594-07c7-4ad8-bb18-00f806c252e5/5386505613-500.jpg" data-tags="alternative, experimental" role="button">
 V V Brown - Samson & Delilah (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e115ca8-5375-42a0-9b21-416cb9bfa1ec/6589420808-500.jpg" data-tags="dream pop, hardly art" role="button">
-Gem Club - In Roses (2014-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

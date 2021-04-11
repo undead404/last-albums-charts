@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:34:01.403Z
+date: 2021-04-11T19:35:01.410Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Vessel (2012-12-26)](http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg "Twenty One Pilots - Vessel (2012-12-26)")
@@ -9,8 +9,8 @@ title: "8-bit: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">Crystal Castles vs. Health - Crimewave (2007-08-13)</li>
 <li data-cover="http://coverartarchive.org/release/77baaaf6-8128-400e-aee7-0e9a6ca79692/994831655-500.jpg" data-tags="8-bit" role="button">pornophonique - 8-bit lagerfeuer (2007-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/717ad3d8-f8b3-4a6c-8a5e-4ab04fd63d31/27501129924-500.jpg" data-tags="8-bit, chiptune" role="button">Stu - GreateST HITs (2007-12-31)</li>
+<li data-cover="http://coverartarchive.org/release/d33a1214-fac2-4bcc-a058-e2dea8988a24/4709744474-500.jpg" data-tags="8bit" role="button">Kola Kid - Cash Machine Go! (2008-02)</li>
 <li data-cover="http://coverartarchive.org/release/d6e602eb-97e5-42ca-919b-37c2ea510bad/2060277808-500.jpg" data-tags="chiptune, bitpop" role="button">Anamanaguchi - Dawn Metropolis (2009-03-03)</li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">Bibio - Ambivalence Avenue (2009-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">C418 - Minecraft - Volume Alpha (2011-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">Neon Indian - Era Extraña (2011-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
@@ -60,9 +60,6 @@ Cutting Pink With Knives - Alef, Alef, Alef! (2005-04)
 <li data-cover="https://img.discogs.com/qNqV_ghuZMqLRi2T4ziE1IwrEi8=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702189-1193574768.jpeg.jpg" data-tags="8-bit, chiptunes, c 64" role="button">
 Desert Planet - Mario Built My Hot Rod (2005-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3160c670-8643-4480-a606-3f17c4c7ed69/6618973788-500.jpg" data-tags="psytrance" role="button">
-Aavepyörä - Elektro Fluoro Punx (2005-05-25)
-</li>
 <li data-cover="https://img.discogs.com/nqN0iWqm3amSG3PzB0Eb8jVnSYk=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-541257-1129322208.jpeg.jpg" data-tags="instrumental, 8-bit, chiptune, chiptunes, n01s3 n k0r3, merry works" role="button">
 Saskrotch - My Little Peach (2005-10)
 </li>
@@ -105,14 +102,14 @@ The Gothsicles - NESferatu (2006-09)
 <li data-cover="https://img.discogs.com/aRR8PlB4e76Yv1VvFmToH7FFpoQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-850302-1482549429-4089.jpeg.jpg" data-tags="8bit, chiptune" role="button">
 Goto80 - Digi-Dig (2006-12-11)
 </li>
-<li data-cover="https://img.discogs.com/v--qJAv4sBK7aHexf09KyNIuk4s=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717250-1238882319.jpeg.jpg" data-tags="8-bit, chiptune, gameboy, english" role="button">
-Leeni - 8 Bit Heart (2007)
-</li>
 <li data-cover="https://img.discogs.com/Ao_VkYGxRf6kTkSTfulCRIXKPxQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9865725-1487610737-3854.jpeg.jpg" data-tags="8-bit, chiptune, chipbreak" role="button">
 Sabrepulse - Verão (2007)
 </li>
 <li data-cover="https://img.discogs.com/MRVV2GN2XbR3yffEhuvDEn8KWSU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-921161-1173016319.jpeg.jpg" data-tags="chiptune" role="button">
 Goto80 - Zyndabox (2007-01-28)
+</li>
+<li data-cover="https://img.discogs.com/969IXhCZKSHQ_C0Nbr6J_5mYV8A=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-933554-1236452780.jpeg.jpg" data-tags="electro, 8bit, 8-bit, chiptune, electro punk, electro trash" role="button">
+Xerak - Pxl Def (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/729413e9-7262-4001-a291-356411148759/3667438205-500.jpg" data-tags="chiptune" role="button">
 Random - Bad Joke EP (2007-07-11)
@@ -207,9 +204,6 @@ little-scale - Error Repeat (2009-05-05)
 <li data-cover="https://img.discogs.com/qqbikIcrEWj9NrdOk3WhzkAUG1Y=/fit-in/256x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2594315-1292229835.gif.jpg" data-tags="8-bit, chiptune" role="button">
 Alex Mauer - Vegavox 2 (2009-05-17)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/2db9d407-ad7c-4575-9c6a-31d129ed79ec/6437563614-500.jpg" data-tags="instrumental" role="button">
 Minusbaby - Left (2009-08-29)
 </li>
@@ -243,11 +237,17 @@ Zan-zan-zawa-veia - N0De-claw (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/65aaf598-b452-4e9b-88db-340cba1e527b/5897170138-500.jpg" data-tags="chiptune" role="button">
 Zalza - Back to the chipland (2010-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2cae85a4-61a5-43a5-8b35-f74f29faccec/6670876590-500.jpg" data-tags="electronic, indie, alternative, experimental, solo, 8bit, 8-bit, psychedelic, chiptune, irish, crossover, alternative pop, europe, ireland, 10s, free music, solo artist, netaudio, experimental indie, one-man-band, art pop, bandcamp, free albums, free album, solo project, webaudio, self-released, irish underground" role="button">
+Hipster Youth - Teenage Elders (2010-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/71b9806a-7fab-4fe9-bc9a-36f8b00e2d1b/4330649701-500.jpg" data-tags="8-bit" role="button">
 Disasterpeace - Midnight Orphans (2010-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/670862ab-4dd8-4e8a-b385-497c093eba0b/885347231-500.jpg" data-tags="8-bit, chiptune, progressive, electrorock, chipmusic, vgm" role="button">
 Disasterpeace - Passcode: Soul of the Traveler (2010-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/359c4aac-98ea-42c4-9590-d81bbd59b981/3638334024-500.jpg" data-tags="electronic, alternative, 8-bit, chiptune" role="button">
+Dj CUTMAN - GameChops Vol. 1 (2011-01-13)
 </li>
 <li data-cover="https://img.discogs.com/Qpn4zab-AfD11r0fmSZALaBSvxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8757897-1468127199-6882.jpeg.jpg" data-tags="electronic, 8bit, 8-bit, chiptune" role="button">
 Chipocrite - Hit and Run (2011-01-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:32:01.420Z
+date: 2021-04-11T19:40:01.403Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -288,6 +288,9 @@ The 69 Eyes - Back in Blood (2009-08-21)
 <li data-cover="http://coverartarchive.org/release/fc4fe161-760e-4200-990a-5d043977cb56/9020464539-500.jpg" data-tags="rock, female vocalists, gothic rock" role="button">
 Evanescence - Together Again (2010-01-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/e30c7618-5569-46ea-8eb4-b2128a6ec1ab/7712117702-500.jpg" data-tags="chamber music, gothic, gothic rock, animals, avant-garde metal, avant-prog, goth fusion" role="button">
+Kayo Dot - Coyote (2010-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
 </li>
@@ -296,9 +299,6 @@ Evanescence - Evanescence (2011-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
-</li>
-<li data-cover="https://img.discogs.com/4U4FsAlx5bJw_M9SFpu3JIqAUZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4242505-1364551957-2976.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
-She Past Away - Belirdi Gece (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/84af1176-dbf9-4072-93fa-877112c97c07/5331768600-500.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - X (2012-09-28)

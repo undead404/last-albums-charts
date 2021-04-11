@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:04:02.049Z
+date: 2021-04-11T18:57:01.427Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![Avicii - Levels (2011-10-28)](https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg "Avicii - Levels (2011-10-28)")
@@ -72,6 +72,9 @@ Aqua - Aquarium (1997-05-21)
 <li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
 Aphex Twin - Come to Daddy (1997-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/096f5d5a-8ae2-4956-a503-5bf849c8fc80/27411662462-500.jpg" data-tags="racist country, blue da ba dee blue ice pop radio edit" role="button">
+Eiffel 65 - Blue (Da Ba Dee) (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/44d079fa-5ecc-4a02-b5d5-fd37f98e6f8b/4655099055-500.jpg" data-tags="techno" role="button">
 Scooter - No Time to Chill (1998-07-20)
 </li>
@@ -89,9 +92,6 @@ GusGus - This Is Normal (1999-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd351792-e53f-4d74-bf93-2a940edad8d1/10209301116-500.jpg" data-tags="dance, techno" role="button">
 Alice Deejay - Better Off Alone (1999-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a64115-e500-4192-a64b-89d4fc8bda95/4379798533-500.jpg" data-tags="techno" role="button">
-Armand van Helden - 2 Future 4 U (1999-06-01)
 </li>
 <li data-cover="https://img.discogs.com/Cz0JOIN8j8Gumlj128kA5NEP504=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-147167-1409737346-3469.jpeg.jpg" data-tags="trance" role="button">
 Darude - Before The Storm (2000-01-18)

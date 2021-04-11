@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:20:01.429Z
+date: 2021-04-11T18:50:01.407Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -45,6 +45,9 @@ Skid Row - B-Side Ourselves (1992-09-22)
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/0cdfbd91-2afc-4063-bf8f-7a5c3a685a6f/13965264588-500.jpg" data-tags="kenny loggins, pooh corner" role="button">
+Kenny Loggins - Return To Pooh Corner (1994-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/9bd2dd72-369f-4277-a199-0fc20df5b4f5/27006650765-500.jpg" data-tags="folk" role="button">
 Shawn Colvin - Cover Girl (1994-08-23)
 </li>
@@ -68,6 +71,9 @@ Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
 Metallica - Garage, Inc. (1998-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3f2ade5-2ac0-48c8-acfc-9511819e3ba6/10104894371-500.jpg" data-tags="covers, metallica, megallica" role="button">
+Metallica - Die, Die My Darling (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/n8IeQKlL1AkpY4WaZ5akx0X88EA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-631417-1400879404-2317.jpeg.jpg" data-tags="rock, grunge, 90s, covers, flashback alternatives" role="button">
 Pearl Jam - Last Kiss (1999-06-23)
@@ -156,17 +162,11 @@ Colin Meloy - Colin Meloy Sings Morrissey (2005-01-13)
 <li data-cover="http://coverartarchive.org/release/217fe65e-3493-4a96-b5a9-a0253ff5f4c1/13493928589-500.jpg" data-tags="melodic hardcore" role="button">
 Set Your Goals - Reset (2005-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
-Richard Cheese - Aperitif for Destruction (2005-05-24)
-</li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
-</li>
-<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
-Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
@@ -239,6 +239,9 @@ Four Year Strong - Explains It All (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b6f00f6-87f6-409f-a710-7ba31157e4b9/15160044156-500.jpg" data-tags="melodic death metal, cover" role="button">
 Children of Bodom - Skeletons in the Closet (2009-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4cb50c5-017b-35e8-baeb-bc4a1e849837/2895332486-500.jpg" data-tags="dance, scooter, electronic" role="button">
+Scooter - Under the Radar Over the Top (2009-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8632916-fb97-41bb-83fc-e76417000025/8199039341-500.jpg" data-tags="covers" role="button">
 Zebrahead - Panty Raid (2009-11-04)
@@ -317,8 +320,5 @@ Annie Lennox - Nostalgia (2014-09-30)
 </li>
 <li data-cover="https://img.discogs.com/C0phos8S4w71zv_Mx3ZIYDzu-P0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6995837-1431279126-3224.jpeg.jpg" data-tags="cover" role="button">
 The Flaming Lips - With a Little Help From My Fwends (2014-10-24)
-</li>
-<li data-cover="https://img.discogs.com/hjBxgIfKXDPjY8iU6UeI3KMi76Q=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6355650-1417678081-1682.jpeg.jpg" data-tags="covers, albums i have on vinyl, albumsiown" role="button">
-She & Him - Classics (2014-11-28)
 </li>
 </ol>

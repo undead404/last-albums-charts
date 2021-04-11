@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:40:01.412Z
+date: 2021-04-11T19:34:01.399Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -72,9 +72,6 @@ Ash - 1977 (1996-04-29)
 <li data-cover="http://coverartarchive.org/release/dfaaddd9-622e-4e46-a572-4a6363abb1fb/14359140360-500.jpg" data-tags="britpop, rock, 90s" role="button">
 Manic Street Preachers - Everything Must Go (1996-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="https://img.discogs.com/PJsTNfcs0chZc2eCLJQ_BFWzNCQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13125301-1548508144-6281.jpeg.jpg" data-tags="britpop" role="button">
 Suede - Coming Up (1996-09-02)
 </li>
@@ -108,9 +105,6 @@ Pulp - This Is Hardcore (1998-03-18)
 <li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">
 Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
-Placebo - Without You I'm Nothing (1998-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
 Robbie Williams - I've Been Expecting You (1998-10-26)
 </li>
@@ -140,6 +134,9 @@ Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/8054a8e7-4d4b-4fe5-ba79-ea9405c41b6a/7957015816-500.jpg" data-tags="britpop, rock" role="button">
+Oasis - Familiar to Millions (2000-11-13)
 </li>
 <li data-cover="https://img.discogs.com/R3So1-sky63DhEQ1Mm8y7zbCOgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702238-1490701455-2106.jpeg.jpg" data-tags="britpop, rock, indie rock" role="button">
 Stereophonics - Just Enough Education to Perform (2001-04-09)
@@ -189,6 +186,9 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/016b78cd-eea8-418b-98e2-f5927ce68951/27550314888-500.jpg" data-tags="indie rock, britpop" role="button">
+Graham Coxon - Happiness In Magazines (2004-05-04)
+</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
@@ -216,8 +216,8 @@ Oasis - Don't Believe the Truth (2005-05-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
+<li data-cover="https://img.discogs.com/_xOEfKKUjyhYvAfKZ-zuYew9oOc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-569186-1408805302-8056.jpeg.jpg" data-tags="indie" role="button">
+The Magic Numbers - The Magic Numbers (2005-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/745378c5-be6e-4500-b507-c50c6e175970/15823905696-500.jpg" data-tags="coldplay, rock, alternative rock, britpop" role="button">
 Coldplay - Fix You (2005-09-05)
@@ -231,11 +231,11 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 <li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
-Placebo - Meds (2006-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/04a5715f-0842-3e8d-93cd-37ae9163de69/16356973756-500.jpg" data-tags="britpop, indie, 00s" role="button">
 Morrissey - Ringleader of the Tormentors (2006-04-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Feeder - The Singles (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)

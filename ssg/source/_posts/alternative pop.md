@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:37:01.408Z
+date: 2021-04-11T19:30:01.453Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -168,6 +168,9 @@ Lana Del Rey - Blue Jeans Remixes (2012-01-27)
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/a53bc168-f7cd-4b86-88b0-02b5b54bb7ba/11544688718-500.jpg" data-tags="lana del rey" role="button">
+Lana Del Rey - Born to Die: The Paradise Edition (2012-01-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
 </li>
@@ -209,9 +212,6 @@ BROODS - BROODS (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
 Yo La Tengo - Fade (2013-01-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd03a003-7b3c-479a-b611-b0fdaa291194/10849152712-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Burning Desire (2013-03-19)
