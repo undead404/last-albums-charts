@@ -1,10 +1,9 @@
 ---
-date: 2021-04-09T23:32:01.436Z
+date: 2021-04-11T02:35:12.617Z
 title: "jpop: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">宇多田ヒカル - DEEP RIVER (2002-06-19)</li>
 <li data-cover="http://coverartarchive.org/release/645d3110-da65-4a26-8658-7be879a91431/18052713152-500.jpg" data-tags="j-pop, ayumi hamasaki, jpop" role="button">浜崎あゆみ - RAINBOW (2002-12-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jpop" role="button">大塚愛 - LOVE COOK (2005-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">Perfume - GAME (2008-04-16)</li>
@@ -13,6 +12,7 @@ title: "jpop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/eb8Dxtz7j4wZPSF-irTXSZCa5Po=/fit-in/560x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10358007-1495933318-6332.jpeg.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, asian music, asian pop" role="button">YUKI - うれしくって抱きあうよ (2010-02-17)</li>
 <li data-cover="https://img.discogs.com/aAJSpcToIy-skw6PGLAhAfk5qz4=/fit-in/505x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7123174-1434228240-1568.jpeg.jpg" data-tags="jpop, anime soundtrack, jrock, girls dead monster" role="button">Girls Dead Monster - Keep The Beats! (2010-06-30)</li>
 <li data-cover="https://img.discogs.com/7keK_Y6gzpT541dDfeXuyysowEI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13609910-1557464097-7090.jpeg.jpg" data-tags="jpop, anime" role="button">Linked Horizon - Jiyuu e no Shingeki (2013-07-10)</li>
+<li data-cover="http://coverartarchive.org/release/55337971-7618-45f8-aa57-304b339a029b/19508607303-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-pop, asian pop" role="button">Linked Horizon - 自由への進撃 (2013-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/cf57108a-858c-40c7-91c1-f279b706a7fd/27815880367-500.jpg" data-tags="japanese, female vocalists, jpop, j-pop, asian pop" role="button">Lisa - LANDSPACE (2013-10-30)</li>
 </ol>
 List of 100 - under the cut.
@@ -26,6 +26,9 @@ Scandal - Scandal (1982)
 </li>
 <li data-cover="https://img.discogs.com/H1zCciXUroFhycjd8LhxWol2qV4=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2049997-1261688149.jpeg.jpg" data-tags="rock, jpop, j-pop, jrock, superfly" role="button">
 Superfly - Superfly (1982)
+</li>
+<li data-cover="https://img.discogs.com/blUiHA7OZwvowWtTS082Pg5B2x4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14350624-1572767140-4238.jpeg.jpg" data-tags="rock, japanese, japan, j-rock" role="button">
+Luna Sea - STYLE (1996-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/49ee5606-261b-4efe-a96c-71c2221c4a36/4012896167-500.jpg" data-tags="j-pop" role="button">
 安室奈美恵 - 181920 (1998-01-28)
@@ -57,20 +60,11 @@ Do As Infinity - BREAK OF DAWN (2000-03-23)
 <li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="j-rock, j-pop, do as infinity" role="button">
 Do As Infinity - DEEP FOREST (2001-09-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-宇多田ヒカル - DEEP RIVER (2002-06-19)
-</li>
 <li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="japanese, pop rock, jpop, female vocalist, j-rock, j-pop, jrock, collection, do as infinity, record collection, japanese female pop-rock" role="button">
 Do As Infinity - TRUE SONG (2002-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/645d3110-da65-4a26-8658-7be879a91431/18052713152-500.jpg" data-tags="j-pop, ayumi hamasaki, jpop" role="button">
 浜崎あゆみ - RAINBOW (2002-12-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="namie amuro" role="button">
-安室奈美恵 - STYLE (2003-12-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
-浜崎あゆみ - Memorial address (2003-12-17)
 </li>
 <li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
 Jazztronik - 七色 (2004-02-04)
@@ -78,8 +72,8 @@ Jazztronik - 七色 (2004-02-04)
 <li data-cover="http://coverartarchive.org/release/a693d277-4f62-4cdb-b5cc-8539cc5b0c46/14805551856-500.jpg" data-tags="j-pop, utada hikaru, japanese" role="button">
 宇多田ヒカル - Utada Hikaru SINGLE COLLECTION VOL.1 (2004-03-31)
 </li>
-<li data-cover="https://img.discogs.com/yKzqw--EgFlAqCIwhw2_ahDZaaY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13217983-1550152762-5358.jpeg.jpg" data-tags="nakoruru" role="button">
-Rie fu - Life is Like a Boat (2004-09-23)
+<li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
+Utada - Exodus (2004-09-08)
 </li>
 <li data-cover="https://img.discogs.com/kRGG9CiEe0QwK2FtDwtyOZIWf5g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9065963-1474176395-7169.jpeg.jpg" data-tags="japanese, jpop, j-rock, j-pop, mr ownership deal, in my possession, orangehappy" role="button">
 ORANGE RANGE - musiQ (2004-12-01)
@@ -108,9 +102,6 @@ FictionJunction YUUKA - Destination (2005-11-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="jpop" role="button">
 大塚愛 - LOVE COOK (2005-12-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-浜崎あゆみ - (miss)understood (2006-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">
 YUI - FROM ME TO YOU (2006-02-22)
 </li>
@@ -129,6 +120,9 @@ Akeboshi - Yellow Moon (2006-04-19)
 <li data-cover="http://coverartarchive.org/release/12f5ac02-af0d-4aea-a839-e5ba660c7dff/2938000661-500.jpg" data-tags="japanese, jpop" role="button">
 水樹奈々 - HYBRID UNIVERSE (2006-05-03)
 </li>
+<li data-cover="https://img.discogs.com/bhJiekWOewWscs5g_OCCtI0d_YA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6894487-1428950901-4881.jpeg.jpg" data-tags="japanese, female vocalists, jpop, thrash metal, asian, j-pop, asian music, asian pop, japanese female pop-rock, jeff young, royal ruckus" role="button">
+BONNIE PINK - A Perfect Sky (2006-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a52f72b-f491-4d02-abb6-9433e645a1ab/26029915527-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, tokyo, asian music, asian pop, chstoperbrelli" role="button">
 YUI - I remember you (2006-09-20)
 </li>
@@ -137,6 +131,9 @@ YUI - I remember you (2006-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, j-pop" role="button">
 浜崎あゆみ - Secret (2006-11-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8ba5788-59d8-42a8-a092-fb2f49d4944e/9667370225-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-rock, j-pop, boyband, visual kei, jrock, boy band, asian pop" role="button">
+abingdon boys school - INNOCENT SORROW (2006-12-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop, game, anime, seiyuu, album, voice actor, wild arms, nanoha, mizuki nana, j pop, voice actress, cm song" role="button">
 水樹奈々 - THE MUSEUM (2007-02-07)
@@ -174,9 +171,6 @@ Flow - WORLD END (2008-08-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop" role="button">
 水樹奈々 - Trickster (2008-10-01)
 </li>
-<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
-Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/d410578e-44da-4691-9f84-362f556664b3/9364802380-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TABOO (2008-10-08)
 </li>
@@ -195,8 +189,8 @@ Capsule - MORE! MORE! MORE! (2008-11-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop, voice actress" role="button">
 坂本真綾 - かぜよみ (2009-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d290678-9d83-493e-b686-91a7351d70a7/2627971442-500.jpg" data-tags="ethereal, j-pop, yuki kajiura" role="button">
-Kalafina - Seventh Heaven (2009-03-04)
+<li data-cover="https://img.discogs.com/MepQb-g-iDf1XEVuLMftQBhusBE=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7611922-1445125084-1859.jpeg.jpg" data-tags="anime, j-pop" role="button">
+Kalafina - Lacrimosa (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/da1fb9e6-497e-4a1c-bc17-ed81273e83cf/5525512298-500.jpg" data-tags="jpop, j-pop" role="button">
 東方神起 - The Secret Code (2009-03-25)
@@ -230,9 +224,6 @@ YUKI - うれしくって抱きあうよ (2010-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7eda74c-c971-4f1d-874d-22b8e96d316e/6311300074-500.jpg" data-tags="electronic, electropop, j-pop, japanese" role="button">
 Capsule - PLAYER (2010-03-03)
-</li>
-<li data-cover="https://img.discogs.com/VGtnrM4WLQ_3WaoOaNZskk7P5yI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236730-1271526795.jpeg.jpg" data-tags="female vocalists" role="button">
-Kalafina - Red Moon (2010-03-17)
 </li>
 <li data-cover="https://img.discogs.com/aAJSpcToIy-skw6PGLAhAfk5qz4=/fit-in/505x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7123174-1434228240-1568.jpeg.jpg" data-tags="jpop, anime soundtrack, jrock, girls dead monster" role="button">
 Girls Dead Monster - Keep The Beats! (2010-06-30)
@@ -270,8 +261,14 @@ Supercell - My Dearest (2011-11-23)
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
 Perfume - JPN (2011-11-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/a9ba8d94-f0b5-4670-a94c-a1a0961be318/6305428711-500.jpg" data-tags="electropop, japanese, female vocalists, jpop, asian, j-pop, electro-pop, asian music, asian pop" role="button">
+きゃりーぱみゅぱみゅ - つけまつける (2011-12-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 きゃりーぱみゅぱみゅ - ぱみゅぱみゅレボリューション (2012-01-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/a5be654b-dfe0-421f-8dd1-55638620f135/13866695758-500.jpg" data-tags="japanese, jpop, j-pop, female fronted, asian music, asian rock, asian pop" role="button">
+東京事変 - color bars (2012-01-18)
 </li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - Scandal Show (2012-03-06)
@@ -294,14 +291,14 @@ Linked Horizon - Jiyuu e no Shingeki (2013-07-10)
 <li data-cover="http://coverartarchive.org/release/55337971-7618-45f8-aa57-304b339a029b/19508607303-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-pop, asian pop" role="button">
 Linked Horizon - 自由への進撃 (2013-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/134c12c6-7c5b-4366-a72a-a33e85cf5907/12685631277-500.jpg" data-tags="japanese, jpop, j-pop, female fronted, asian pop" role="button">
+相対性理論 - TOWN AGE (2013-07-24)
+</li>
 <li data-cover="https://img.discogs.com/fK_SBnhk_3gYkaQuDn1Mcg2Ro2E=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145641-1494989212-6727.jpeg.jpg" data-tags="electronic, electropop, j-pop" role="button">
 Perfume - LEVEL3 (2013-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf57108a-858c-40c7-91c1-f279b706a7fd/27815880367-500.jpg" data-tags="japanese, female vocalists, jpop, j-pop, asian pop" role="button">
 Lisa - LANDSPACE (2013-10-30)
-</li>
-<li data-cover="https://img.discogs.com/73ZwOiVWf4s3l_TtcL76cmNc24A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5121717-1386434067-8829.jpeg.jpg" data-tags="worst albums of 2013, pop, japanese, emo, female vocalists, power pop, dance, jpop, why, anime, j-pop, nerdcore, cheesy, bad grammar, sucks, visual kei, engrish, shame, assholes, trump, embarrassing, bland, not metal, not rock, pompous, hipster, vocaloid, kircore, achingly intelligent, bad english, paris hilton, pop metal, unoriginal, over the top, not music, over-the-top, shameless, fucking garbage, really bad, anison, facepalm, stupid lyrics, stinks, hates america, poser, not gothic, worst song ever, hipster metal, posers, mainstream shit, immature, merda, iconic, poser metal, flatulence, unimaginable brilliance, post-kircore, not darkwave, turd, not experimental, laughable, shameful, thumbs down" role="button">
-Rhapsody of Fire - Dark Wings of Steel (2013-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
@@ -311,6 +308,9 @@ GARNiDELiA - ambiguous (2014-03-05)
 </li>
 <li data-cover="https://img.discogs.com/CekTjiDimLI0Ymt9w79fECuYvv8=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319834-1094498826.jpeg.jpg" data-tags="japanese, female vocalists, jpop, anime, j-pop, asian pop" role="button">
 Lisa - Rising Hope (2014-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/4eb9b4e6-b871-4ab9-b97c-2a8daf4ee9a8/19540718466-500.jpg" data-tags="japanese, female vocalists, jpop, j-pop, asian pop" role="button">
+Aimer - Midnight Sun (2014-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/14fdecc7-02f6-4670-98ba-82f53076b121/7965163856-500.jpg" data-tags="pop, japanese, jpop, female vocalist, j-pop, boa, fairy tail" role="button">
 Boa - WHO'S BACK? (2014-09-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:25:07.047Z
+date: 2021-04-11T01:59:01.964Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -7,7 +7,7 @@ title: "soft rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">Fleetwood Mac - Rumours (1977-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">Toto - Toto IV (1982-04-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">The Feeling - Twelve Stops And Home (2006-06-02)</li>
+<li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">Howie Day - Stop All The World Now (2003-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="http://coverartarchive.org/release/08b3245a-ab9a-40d9-bac1-4f60800c8732/14072082225-500.jpg" data-tags="soft rock" role="button">Train - Hey, Soul Sister (2010-04-09)</li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">Destroyer - Kaputt (2011-01-25)</li>
@@ -35,6 +35,9 @@ John Lennon - Imagine (1971-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6af61fa2-870f-33bb-a17f-be65f6013597/11322817358-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Madman Across The Water (1971-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/f59591d8-f3fd-4d64-94b2-c5e17e187d1c/17314503667-500.jpg" data-tags="70s, soft rock" role="button">
+Albert Hammond - It Never Rains in Southern California (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f0662c0-b505-4e83-b8d8-973a2b2f19a6/15027846048-500.jpg" data-tags="classic rock, soft rock, soft-rock, soft peppermint" role="button">
 Looking Glass - Looking Glass (1972)
@@ -90,6 +93,9 @@ John Hiatt - Bring The Family (1987-05)
 <li data-cover="https://img.discogs.com/S3iViJFV1f90nU_Bygin0zHI8lQ=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10057567-1490879704-3159.jpeg.jpg" data-tags="soft rock, adult contemporary, aor, blues rock" role="button">
 Chris Rea - New Light Through Old Windows (1988)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b0bcf5d-9d9e-3835-8f61-63464010b66e/3100610198-500.jpg" data-tags="soft rock, aor, rock, adult contemporary, blues rock, chris rea" role="button">
+Chris Rea - The Road to Hell (1989-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3c8cddd-06a8-34a9-a58d-e55f8b5ead33/5729799714-500.jpg" data-tags="80s, rock, classic rock, toto" role="button">
 Toto - Past to Present 1977-1990 (1990-06-13)
 </li>
@@ -120,6 +126,9 @@ Mark Knopfler - Golden Heart (1996-03-22)
 <li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
 Firehouse - Good Acoustics (1996-10-23)
 </li>
+<li data-cover="https://img.discogs.com/dWKHTI_R9saye2JtpD9mdPVl-c8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7458381-1441924326-7543.jpeg.jpg" data-tags="80s" role="button">
+Kenny Loggins - Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins (1997-03-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/e31919f4-f0cf-4694-a1da-90e63044e93c/27758684577-500.jpg" data-tags="richard marx" role="button">
 Richard Marx - Greatest Hits (1997-11-04)
 </li>
@@ -129,11 +138,11 @@ Gerry Rafferty - Baker Street (1998-06-01)
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
-<li data-cover="https://img.discogs.com/yLSXgeQNlbFyh5ERJx1HvnYYpa8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760589-1584710461-7332.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
-Tom McRae - Tom McRae (2000-10-02)
+<li data-cover="https://img.discogs.com/zonqhzeLNgC07fqdcsZ5OrZ7h8k=/fit-in/565x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7768449-1448613040-9659.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
+The Cranberries - Bury The Hatchet (1999-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/939523c5-cfe9-4d04-a384-0e089bdc5417/24451153798-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
-Semisonic - All About Chemistry (2001-02-23)
+<li data-cover="http://coverartarchive.org/release/278a9836-423b-429f-8d30-e2b371288480/21135332629-500.jpg" data-tags="soft rock" role="button">
+Matt Nathanson - Still Waiting for Spring (2000-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
 Train - Drops of Jupiter (2001-03-27)
@@ -159,9 +168,6 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d688fc2-ae3e-49c0-bdc8-49cd71c55874/21135321687-500.jpg" data-tags="singer-songwriter" role="button">
-Matt Nathanson - Beneath These Fireworks (2003-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
@@ -177,29 +183,23 @@ Wilco - A Ghost is Born (2004-06-21)
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">
 Bee Gees - Number Ones (2004-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
-Josh Rouse - Subtitulo (2006-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/b52d23b3-416f-4662-a1af-f4718da44d1b/20163736814-500.jpg" data-tags="soft rock, fyc" role="button">
 Fine Young Cannibals - The Platinum Collection (2006-03-27)
 </li>
 <li data-cover="https://img.discogs.com/OwqlCzNXSiug-hWc2RyOFR65rA4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7141421-1434639883-6794.jpeg.jpg" data-tags="wish, reamonn-wish, rock, alternative" role="button">
 Reamonn - Wish (2006-04-15)
 </li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
+Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/080a8940-dc1a-49f2-b295-d0c15de3b066/12716962971-500.jpg" data-tags="rock" role="button">
 Daughtry - Daughtry (2006-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, funk, heart full of wine" role="button">
 Angus & Julia Stone - Heart Full of Wine (2007-02-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, records i own, cosmic american music, purchased 08, singing songwriters, mtce new likes, streamable albums, night pop, jorge lima alves, soft rock revival" role="button">
-Josh Rouse - Country Mouse, City House (2007-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
@@ -212,9 +212,6 @@ Matt White - Best Days (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">
-The Cardigans - Best Of (2008-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
@@ -284,6 +281,9 @@ The Script - #3 (2012-09-07)
 </li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
 Breakbot - By Your Side (2012-09-17)
+</li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb16fa21-7d1f-403b-9881-ebcc8296d19c/5700848143-500.jpg" data-tags="folk, singer-songwriter, soft rock, folktronica, alternative pop, pop/rock" role="button">
 Ásgeir - In the Silence (2013)

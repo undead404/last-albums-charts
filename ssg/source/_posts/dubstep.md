@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:03:01.410Z
+date: 2021-04-11T02:33:01.410Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -255,6 +255,9 @@ Bassnectar - Vava Voom (2012-04-10)
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4fdb0cf8-46aa-4bc7-a18d-05ede27c4c8a/15539361464-500.jpg" data-tags="grime, dubstep" role="button">
+SKisM - Down With The Kids EP (2012-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/58c86567-453f-466a-aa4c-1adc0b10d342/1781484416-500.jpg" data-tags="trance, dubstep, electro, house, progressive house" role="button">
 Zedd - Spectrum EP (2012-06-04)
 </li>
@@ -269,9 +272,6 @@ Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
-Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)

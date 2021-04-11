@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:58:01.413Z
+date: 2021-04-11T02:16:12.487Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -27,14 +27,23 @@ Eels - Beautiful Freak (1996-08-05)
 <li data-cover="http://coverartarchive.org/release/6f7a28b7-c6e0-4a65-870e-7e9e82d33511/4520869611-500.jpg" data-tags="90s, pop" role="button">
 The Cardigans - First Band On The Moon (1996-08-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
+Ween - The Mollusk (1997-06-24)
+</li>
 <li data-cover="https://img.discogs.com/xokyBz5hzFNuqZ2yH9JdepMHH7M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1158868-1197154991.jpeg.jpg" data-tags="soul, pop rock, alternative pop, bermudian" role="button">
 Heather Nova - South (2001-01-01)
+</li>
+<li data-cover="https://img.discogs.com/Y6VjojcPpRxfPinimmhjpcKu4Ck=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683953-1236714574.jpeg.jpg" data-tags="rock, shoegaze, my vitriol" role="button">
+My Vitriol - Finelines (2001-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b99e882-bce7-4d9e-a607-0ba2cd132b5f/15055745410-500.jpg" data-tags="pop, rock, alternative pop, benchmark production, my cds" role="button">
+Lisa Miskovsky - Fallingwater (2003)
 </li>
 <li data-cover="https://img.discogs.com/IZiCXRPKqjIpX_CPAqRz_2HJ7yU=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006598-1599280156-2301.jpeg.jpg" data-tags="electronic, electronica, electropop, pop, female vocalists, synth pop, synth, synthpop, alternative pop, ballad, 2010s, ballads, leona lewis, disappointing, underrated album, albumsiown, 2012 albums, leona, alternative electropop, favorite covers ever" role="button">
 Leona Lewis - Glassheart (2003-01-18)
@@ -72,17 +81,14 @@ Glen Hansard & Markéta Irglová - The Swell Season (2006-04-21)
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
 </li>
-<li data-cover="https://img.discogs.com/uxzB0mA7ozlIWPA3Q-0tyMWwJOI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2912388-1529262332-7922.png.jpg" data-tags="indie pop" role="button">
-Meg & Dia - Something Real (2006-08-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ced38f22-8389-3700-997e-1f8eeceda725/26869342430-500.jpg" data-tags="canada, alternative pop, 2000s" role="button">
 Barenaked Ladies - Barenaked Ladies Are Me (2006-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/7bbbf314-6c09-4955-af70-ac1e563edd7a/2083173659-500.jpg" data-tags="alternative, female vocalists" role="button">
+Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
+</li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
-</li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
@@ -120,9 +126,6 @@ Sarah Blasko - As Day Follows Night (2009-07-10)
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
-<li data-cover="https://img.discogs.com/EAzsLOGOKW_O1x-vupZHNf-83aI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15267609-1589057376-9693.jpeg.jpg" data-tags="mpb" role="button">
-Tulipa Ruiz - Efêmera (2010)
-</li>
 <li data-cover="https://img.discogs.com/HkebpGdFZnYhGEobY3j3sWs8lE4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2336448-1277852804.jpeg.jpg" data-tags="pop, swedish" role="button">
 Amanda Jenssen - Happyland (2010-04-30)
 </li>
@@ -143,9 +146,6 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/7d89c673-bd60-4dcb-bebc-4582572bfc94/5891033997-500.jpg" data-tags="soul" role="button">
-Clare Maguire - Light After Dark (2011-02-28)
 </li>
 <li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
@@ -176,6 +176,9 @@ Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5bff73a-47b5-4c9e-a75e-0ef6747e413b/1804110926-500.jpg" data-tags="pop" role="button">
+Rita Ora - How We Do (Party) (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d52983b7-3921-416d-8784-ffb013b33ba6/15504507282-500.jpg" data-tags="indie, rock, british, alternative, indie rock, britpop, alternative pop, mom and pop music" role="button">
 Animal Kingdom - The Looking Away (2012-05-08)
@@ -269,9 +272,6 @@ MØ - No Mythologies to Follow (2014-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/467e3807-0848-4009-9f73-1694642b8787/8667724427-500.jpg" data-tags="indie" role="button">
 Foster the People - Supermodel (2014-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/770b36ef-08c7-43f4-8ad5-360166e64330/7169004768-500.jpg" data-tags="indie, pop, alternative, indie pop, retro, italian, alternative pop, 10s, elevator music, nu disco, retropop, vintage pop, retro electronica, kitschwave, kitsch in a good way, kitsch arrangement, red black and white album covers" role="button">
-Kid Francescoli - With Julia (2014-03-22)
 </li>
 <li data-cover="https://img.discogs.com/1kbO307E3pv2qctbKUNAotmD8do=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5532669-1395807776-7865.jpeg.jpg" data-tags="indie pop, synthpop, alternative pop" role="button">
 Mr. Little Jeans - Pocketknife (2014-03-25)

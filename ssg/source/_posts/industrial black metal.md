@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:05:01.588Z
+date: 2021-04-11T02:42:12.591Z
 title: "industrial black metal: 100 albums you must listen to before you die"
 ---
 ![Blut aus Nord - 777 - Cosmosophy (2012-09-21)](http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg "Blut aus Nord - 777 - Cosmosophy (2012-09-21)")
@@ -8,12 +8,12 @@ title: "industrial black metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/3d4fc85f-fd33-34f5-9974-c58599edb290/1969312537-500.jpg" data-tags="black metal, atmospheric black metal" role="button">Blut aus Nord - The Work Which Transforms God (2003-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/4779ea3b-900d-428d-8ea7-b43e5e60b9f6/6761564051-500.jpg" data-tags="symphonic black metal, melodic black metal" role="button">Shade Empire - Sinthetic (2004-03-29)</li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">Samael - Reign of Light (2004-10-11)</li>
-<li data-cover="http://coverartarchive.org/release/935cfb64-0ab6-4204-ac4a-2d2b248f97e6/9141157361-500.jpg" data-tags="black metal, industrial black metal, industrial metal" role="button">Aborym - Generator (2006-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/cbad8c1c-500c-3a8e-83ff-7a67e54db5c3/8482057958-500.jpg" data-tags="industrial, dark electro, ebm" role="button">Psyclon Nine - Crwn Thy Frnicatr (2006-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/cc1d260b-f3be-3a62-9890-9b90bea13fd0/12012291508-500.jpg" data-tags="grindcore, black metal" role="button">Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/a3635d5d-9eeb-4bb6-bf9f-6680fc5979d5/9063650747-500.jpg" data-tags="industrial" role="button">Psyclon Nine - We The Fallen (2009-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg" data-tags="atmospheric black metal, post-black metal" role="button">Blut aus Nord - 777 - Cosmosophy (2012-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">Anaal Nathrakh - Vanitas (2012-10-15)</li>
+<li data-cover="http://coverartarchive.org/release/39b14176-29c0-4f6d-b876-abf43cecbce3/8663953259-500.jpg" data-tags="black metal, grindcore" role="button">Anaal Nathrakh - Desideratum (2014-10-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -96,17 +96,26 @@ Lux Occulta - The Mother and the Enemy (2001-11-19)
 <li data-cover="http://coverartarchive.org/release/e91f2f0b-984d-4494-98bc-f70cecb494d9/2650947088-500.jpg" data-tags="black metal" role="button">
 Anaal Nathrakh - The Codex Necro (2001-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/58f1b19c-d307-4dd9-aa8f-5a57ddf4a9b9/7732831696-500.jpg" data-tags="melodic black metal, industrial black metal" role="button">
+Source Of Tide - Blueprints (2002)
+</li>
 <li data-cover="https://img.discogs.com/umBHw9xvPFzZ3CGNx1cX55ZvahQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-384127-1338601244-8486.jpeg.jpg" data-tags="black metal, metal, industrial black metal" role="button">
 Ephel Duath - Rephormula (2002-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5358db20-f655-4f24-a565-1c7857dc4a3c/11494763084-500.jpg" data-tags="symphonic black metal" role="button">
 Shade Empire - Essence of Pain (2002-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/2871df6b-50c7-46f6-8593-73baf18beb5e/25315613685-500.jpg" data-tags="atmospheric black metal, ambient black metal" role="button">
+Darkspace - Dark Space -I (2002-05-30)
+</li>
 <li data-cover="https://img.discogs.com/l4OnpSlMnHk5Epkb1aQnkqbcx9M=/fit-in/376x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067792-1189632129.jpeg.jpg" data-tags="industrial black metal" role="button">
 Thee Maldoror Kollective - New Era Viral Order (2002-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial black metal" role="button">
 Mezzerschmitt - Weltherrschaft (2002-10-14)
+</li>
+<li data-cover="https://img.discogs.com/B9-4P5iWqnSCQfuRPYsvghnV31A=/fit-in/300x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2329689-1285327868.jpeg.jpg" data-tags="black metal" role="button">
+Cynicon - Cybernetic (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f8d31d2-b89b-4e3a-8af8-7db455c9d45e/2411240422-500.jpg" data-tags="black metal, french black metal" role="button">
 Haemoth - Satanik Terrorism (2003)
@@ -168,9 +177,6 @@ Darkspace - Dark Space II (2005-11-19)
 <li data-cover="http://coverartarchive.org/release/9c5cbfa1-198a-376a-a79f-bfd557bc4a41/2411144524-500.jpg" data-tags="black metal" role="button">
 Spektr - Near Death Experience (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/935cfb64-0ab6-4204-ac4a-2d2b248f97e6/9141157361-500.jpg" data-tags="black metal, industrial black metal, industrial metal" role="button">
-Aborym - Generator (2006-02-20)
-</li>
 <li data-cover="https://img.discogs.com/t1yJl-9BAroU4t8PDvocQM_jqkU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3057424-1455321394-8305.jpeg.jpg" data-tags="death metal, industrial death metal" role="button">
 Thy Disease - Rat Age (Sworn Kinds Final Verses) (2006-02-25)
 </li>
@@ -195,6 +201,9 @@ Blut aus Nord - MoRT (2006-10-23)
 <li data-cover="https://img.discogs.com/om15teooGrJAflwTLEZYwXdHCsM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-825987-1306013104.jpeg.jpg" data-tags="industrial black metal" role="button">
 Iperyt - Totalitarian Love Pulse (2006-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/137d6d11-aa36-4c55-b43e-13b67ca833eb/2674262542-500.jpg" data-tags="dark ambient, industrial black metal" role="button">
+Borgne - III (2007-01-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/859f2d1a-553e-4328-a4bc-9a1f400cbd92/1963988277-500.jpg" data-tags="industrial black metal" role="button">
 Control Human Delete - Terminal World Perspective (2007-03-26)
 </li>
@@ -213,9 +222,6 @@ Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)
 <li data-cover="http://coverartarchive.org/release/6792c266-0279-346e-9e6c-075ac4fe84d3/2332942970-500.jpg" data-tags="industrial metal" role="button">
 The CNK - L'Hymne À La Joie (2007-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/a44cf84f-0636-4a72-9312-86b2f0acadc7/4540734760-500.jpg" data-tags="drone metal, drone, drone doom" role="button">
-Menace Ruine - Cult of Ruins (2008-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/ebcb5b26-9c01-4b13-8980-85629bfabbe4/6019676499-500.jpg" data-tags="industrial black metal" role="button">
 Neo Inferno 262 - Hacking The Holy Code (2008-04)
 </li>
@@ -224,9 +230,6 @@ Neo Inferno 262 - Hacking The Holy Code (2008-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, metal, industrial, industrial metal, polish, poland, experimental black metal, industrial black metal, polish metal, polish black metal, let the world burn, polish industrial, polish industrial metal" role="button">
 CSSABA - toxic CSSABA (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc9af258-2d09-41ce-a9ac-b8ce6cc6626c/3728003674-500.jpg" data-tags="electro-industrial, dark electro" role="button">
-Alien Vampires - Fuck Off and Die (2009-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/632cd109-55c5-42e9-9b30-894d83521e59/16111613891-500.jpg" data-tags="industrial metal" role="button">
 Reaktor 4 - Reaktor 4 (2009-02)
@@ -278,9 +281,6 @@ Seagulls Insane and Swans Deceased Mining Out the Void - Seagulls Insane and Swa
 </li>
 <li data-cover="http://coverartarchive.org/release/8642a1bd-6f11-47ac-b9c4-84f29a18aa40/5602717092-500.jpg" data-tags="metalcore, metal" role="button">
 ID:VISION - Destination Cybermind (2011-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5a05607-cbe8-4006-a4bb-f7ee6ea51eba/26064100760-500.jpg" data-tags="black metal, progressive metal, industrial black metal" role="button">
-Tyrant of Death - Macrocosmic Lunacy (2011-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4296058d-8e55-4ec2-ac43-1216b05c93e8/1969287251-500.jpg" data-tags="black metal, industrial metal" role="button">
 Blut aus Nord - 777 - The Desanctification (2011-11-11)

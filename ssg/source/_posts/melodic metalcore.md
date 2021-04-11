@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:02:01.418Z
+date: 2021-04-11T02:28:01.439Z
 title: "melodic metalcore: 100 albums you must listen to before you die"
 ---
 ![In This Moment - Beautiful Tragedy (2007-03-20)](http://coverartarchive.org/release/d11a059c-31ac-3d54-bea8-a0dcf700cb53/1039510828-500.jpg "In This Moment - Beautiful Tragedy (2007-03-20)")
@@ -27,6 +27,9 @@ A Static Lullaby - A Static Lullaby (2001)
 <li data-cover="http://coverartarchive.org/release/8206ed48-c76e-3537-a0dd-eeb965fc15a0/6514111175-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Warmness on the Soul (2001-04-10)
 </li>
+<li data-cover="https://img.discogs.com/v7XavNjGA9WUtiK47xU2-3zMRkE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-510320-1159819313.jpeg.jpg" data-tags="nu metal" role="button">
+Flaw - Through the Eyes (2001-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c92025f-9c3b-44ba-94d9-085f045bcb40/14794011639-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Illusion Of Safety (2002-02-05)
 </li>
@@ -39,14 +42,17 @@ Killswitch Engage - Alive or Just Breathing (2002-05-13)
 <li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Waking The Fallen (2003-08-26)
 </li>
-<li data-cover="https://img.discogs.com/jK1FX3PZCxlNzEsDlNxR6hErfb8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2695264-1558481947-4377.jpeg.jpg" data-tags="metalcore" role="button">
-Haste the Day - Burning Bridges (2004-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8b35765d-4134-4abb-bfeb-ac6a5a6ce6d0/13036112779-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Don't Close Your Eyes (2004-03)
 </li>
+<li data-cover="https://img.discogs.com/nEiPjnWWHbgDBoEG-dLKMaCsprY=/fit-in/475x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765131-1156726876.jpeg.jpg" data-tags="alternative metal, nu metal, hard rock" role="button">
+Flaw - Endangered Species (2004-05-04)
+</li>
 <li data-cover="https://img.discogs.com/cWR2FLmDxIP9CqQFQJ6uGQxSU94=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321507-1396947908-2763.jpeg.jpg" data-tags="metalcore" role="button">
 Atreyu - The Curse (2004-06-28)
+</li>
+<li data-cover="https://img.discogs.com/IWTGyI0wlyri_J87gUX6A3yNj2Y=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657727-1429709711-4041.png.jpg" data-tags="metalcore" role="button">
+It Dies Today - The Caitiff Choir (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/14303fcb-f044-418e-8736-bb5fa39e7fd2/7461315604-500.jpg" data-tags="metalcore" role="button">
 Shadows Fall - The War Within (2004-09-21)
@@ -56,9 +62,6 @@ Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
 </li>
 <li data-cover="https://img.discogs.com/pVDvs24cyz_uRhLVhrmLgdg-buU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6000562-1500790376-5357.jpeg.jpg" data-tags="hardcore, screamo, post-hardcore, emocore" role="button">
 The Amity Affliction - The Amity Affliction (2005-06-27)
-</li>
-<li data-cover="https://img.discogs.com/1KSlLIsOIwssMCPV4kekgXGniB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2695274-1569483317-7615.jpeg.jpg" data-tags="metalcore" role="button">
-Haste the Day - When Everything Falls (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
 Protest the Hero - Kezia (2005-08-30)
@@ -77,6 +80,9 @@ All That Remains - The Fall of Ideals (2006-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Killswitch Engage - As Daylight Dies (2006-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
+Caliban - The Undying Darkness (2006-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6e27378-13d1-48a1-b6c7-52264dfd8001/1293739909-500.jpg" data-tags="metalcore" role="button">
 Atreyu - A Death-Grip on Yesterday (2006-03-28)
@@ -99,9 +105,6 @@ Bullet for My Valentine - Tears Don't Fall (2006-06-23)
 <li data-cover="http://coverartarchive.org/release/889014f0-cd87-4b43-a187-379f81e77b8d/1310831212-500.jpg" data-tags="metalcore" role="button">
 Eighteen Visions - Eighteen Visions (2006-07-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
-</li>
 <li data-cover="https://img.discogs.com/_olbivJ6ixFBsCa42vOBYRVKPuE=/fit-in/439x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1928888-1253102663.jpeg.jpg" data-tags="metalcore" role="button">
 It Dies Today - Sirens (2006-10-03)
 </li>
@@ -120,17 +123,14 @@ Sonic Syndicate - Only Inhuman (2007-04-25)
 <li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">
 Caliban - The Awakening (2007-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Messengers (2007-06-19)
-</li>
 <li data-cover="https://img.discogs.com/mWtBVtu1-2tL4XEW6L526zKnzJU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4155445-1581714551-5809.jpeg.jpg" data-tags="metalcore" role="button">
 Catherine - The Naturals (2007-08-07)
 </li>
+<li data-cover="https://img.discogs.com/d4yS8YblVDj-d4VFrefqU3K04oo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2365706-1279801027.jpeg.jpg" data-tags="metalcore" role="button">
+Still Remains - The Serpent (2007-08-07)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 As I Lay Dying - An Ocean Between Us (2007-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Plagues (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
@@ -140,6 +140,9 @@ Stigmata - Stigmata (2007-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Horizons (2007-10-06)
+</li>
+<li data-cover="https://img.discogs.com/She4j95H41dAvTZZrhWfvtDjdEg=/fit-in/457x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6492777-1420503045-3313.jpeg.jpg" data-tags="post-hardcore" role="button">
+Ice Nine Kills - The Burning (2007-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d30fc218-4362-49f0-9a2e-598591fd4849/15102934284-500.jpg" data-tags="metalcore, melodic hardcore" role="button">
 For the Fallen Dreams - Changes (2008-01-08)
@@ -153,11 +156,14 @@ Misery Speaks - Catalogue Of Carnage (2008-01-25)
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/61196a70-453a-4336-9866-748445b2c2e9/4226680801-500.jpg" data-tags="metalcore" role="button">
-Destroy The Runner - I, Lucifer (2008-04-15)
+<li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
+The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5961b42-8d5b-4587-8213-69a73555e060/9483447622-500.jpg" data-tags="melodic metalcore" role="button">
 Glamour of the Kill - Glamour Of The Kill (2008-06-23)
+</li>
+<li data-cover="https://img.discogs.com/TX1UI5DSYGhNVLJpHFUSXJ-DEZ8=/fit-in/185x182/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3725874-1341903948-2214.jpeg.jpg" data-tags="post-hardcore" role="button">
+Lower Definition - The Greatest Of All Lost Arts (2008-07-08)
 </li>
 <li data-cover="https://img.discogs.com/VCrfH-EVPJ4SGeYp3yO56pOnZfk=/fit-in/300x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1934487-1377363785-7148.jpeg.jpg" data-tags="glam metal" role="button">
 Blessed By A Broken Heart - Pedal To The Metal (2008-08-18)
@@ -171,14 +177,8 @@ All That Remains - Overcome (2008-09-16)
 <li data-cover="https://img.discogs.com/Z-v_I4KsD2dNpNEZFsaDnIF4xiM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756214-1570692530-7401.jpeg.jpg" data-tags="metalcore, melodic death metal" role="button">
 Sonic Syndicate - Love and Other Disasters (2008-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd58cbe8-974d-45c8-a420-60e2e8878d31/7369034084-500.jpg" data-tags="alternative rock, alternative metal, hard rock" role="button">
-In This Moment - The Dream (2008-09-30)
-</li>
 <li data-cover="https://img.discogs.com/GgIzWs3lmxQnYspgjoikZgaaYIs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2360753-1279477665.jpeg.jpg" data-tags="metalcore" role="button">
 Unearth - The March (2008-10-10)
-</li>
-<li data-cover="https://img.discogs.com/0aqJvHpFcY2AH9skDGBGvTqezak=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071931-1262380567.jpeg.jpg" data-tags="thrash metal, melodic death metal" role="button">
-Sylosis - Conclusion Of An Age (2008-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/baf11f84-1b4f-41ab-a67c-cbfe17f882d9/1481675719-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - Killswitch Engage (2009-01-01)
@@ -188,12 +188,6 @@ Adept - Another Year of Disaster (2009-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Constellations (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
 The Word Alive - Empire (2009-07-21)
@@ -219,14 +213,11 @@ Bury Tomorrow - Portraits (2009-10-12)
 <li data-cover="http://coverartarchive.org/release/810fcd2b-03d9-4d5f-95a2-76923a17e29e/6822132066-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Congregation of the Damned (2009-10-26)
 </li>
+<li data-cover="https://img.discogs.com/73xv-4Z0ObW0-snDU0R7pfEjGmk=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7848648-1522770382-2129.jpeg.jpg" data-tags="metalcore" role="button">
+Feed Her to the Sharks - The Beauty Of Falling (2010)
+</li>
 <li data-cover="http://coverartarchive.org/release/36344efe-8805-4e8d-b5f9-fef31aa39f02/8360822222-500.jpg" data-tags="metalcore" role="button">
 Times of Grace - The Hymn of a Broken Man (2010)
-</li>
-<li data-cover="http://coverartarchive.org/release/75b10697-0a93-462c-a7da-3a1ccdc956cf/1087064836-500.jpg" data-tags="metalcore, melodic metalcore" role="button">
-War Of Ages - Eternal (2010-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/edd79f3d-5f9e-423b-8bce-2ae37022b7c0/4226165962-500.jpg" data-tags="metalcore" role="button">
-As I Lay Dying - The Powerless Rise (2010-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d57b16a0-32f2-45c8-ac7a-edbd6e61ef18/7307523053-500.jpg" data-tags="metalcore" role="button">
 Silent Civilian - Ghost Stories (2010-05-18)
@@ -252,6 +243,9 @@ All That Remains - For We Are Many (2010-10-12)
 <li data-cover="http://coverartarchive.org/release/04b8815d-1586-402f-ad65-f8f3054a7c43/11283939391-500.jpg" data-tags="pop punk, easycore" role="button">
 Chunk! No, Captain Chunk! - Something For Nothing (2010-11-01)
 </li>
+<li data-cover="https://img.discogs.com/d6nMA51RfJ0XzdYIdpz-y6bHFj0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2742693-1298996856.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+Underoath - Ø (Disambiguation) (2010-11-09)
+</li>
 <li data-cover="https://img.discogs.com/OSFyP979ankyiOxHsNmIKhk8X70=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4146166-1584576357-7266.jpeg.jpg" data-tags="melodic metalcore" role="button">
 Affiance - No Secret Revealed (2010-11-30)
 </li>
@@ -273,6 +267,9 @@ Trivium - In Waves (2011-08-03)
 <li data-cover="https://img.discogs.com/RrYb5FvGKxu35LeaMp9mHdd6shA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13863688-1562834608-2794.jpeg.jpg" data-tags="metalcore, metal" role="button">
 Rise to Remain - City of Vultures (2011-09-05)
 </li>
+<li data-cover="https://img.discogs.com/m9N1BiAyHINpCJ4M9v--l1RuQlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3442803-1330560341.jpeg.jpg" data-tags="metalcore" role="button">
+Caliban - I Am Nemesis (2012-02-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/249fff88-c722-492c-9c2c-5057fde75de2/6779333944-500.jpg" data-tags="metalcore, christian, melodic metalcore" role="button">
 Demon Hunter - True Defiance (2012-04-10)
 </li>
@@ -281,9 +278,6 @@ Miss May I - At Heart (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/33463a25-836c-4d9a-a0fe-74155be3c1ad/3780483218-500.jpg" data-tags="metalcore" role="button">
 Bury Tomorrow - The Union of Crowns (2012-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e8bf44f-35bf-4b5d-8d26-fdbf128bedeb/3185047343-500.jpg" data-tags="post-hardcore" role="button">
 The Amity Affliction - Chasing Ghosts (2012-09-07)
@@ -311,6 +305,12 @@ Feed Her to the Sharks - Savage Seas (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f1a71e-34a8-45d9-b905-a40a798ac01d/7682599038-500.jpg" data-tags="melodic hardcore, hardcore" role="button">
 Counterparts - The Difference Between Hell and Home (2013-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/da714bba-e7a9-4051-88ba-6186c449f399/5372279436-500.jpg" data-tags="metalcore, thrash metal" role="button">
+Trivium - Vengeance Falls (2013-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f94edec-2059-4fe3-a41f-7ab70fee0d85/8471838075-500.jpg" data-tags="metalcore" role="button">
+Demon Hunter - Extremist (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/323b9b58-958e-4b37-a70d-f6d8696b7f1b/13955038898-500.jpg" data-tags="melodic hardcore, metalcore" role="button">
 Heart in Hand - Only Memories (2014-05-27)

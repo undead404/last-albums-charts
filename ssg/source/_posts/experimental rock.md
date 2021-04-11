@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:51:01.497Z
+date: 2021-04-11T02:32:01.417Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -80,9 +80,6 @@ Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/73503b2d-538f-431b-9ff4-2c6af04f7beb/10401957300-500.jpg" data-tags="post-punk, industrial" role="button">
-Swans - The Great Annihilator (1995-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
@@ -185,6 +182,9 @@ Ratatat - Classics (2006-08-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ce948fc-a995-4c62-8f00-3f5db5700341/4889935052-500.jpg" data-tags="indie rock" role="button">
+mewithoutYou - Brother, Sister (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)

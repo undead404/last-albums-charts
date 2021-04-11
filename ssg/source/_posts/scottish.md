@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:07:07.260Z
+date: 2021-04-11T02:19:07.095Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
 ![Primal Scream - Screamadelica (1991-09-23)](https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg "Primal Scream - Screamadelica (1991-09-23)")
@@ -24,38 +24,20 @@ _________________
 <li data-cover="http://coverartarchive.org/release/643eb27d-87af-49c2-a6c5-4192db8736df/19705565467-500.jpg" data-tags="60s, folk, singer-songwriter, scottish, british folk, debut album, on-demand, j martyn" role="button">
 John Martyn - London Conversation (1967-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/89c45b2b-897f-4ffa-8136-f89ef03e1d1b/24154174541-500.jpg" data-tags="70s, rock" role="button">
-Stealers Wheel - Stealers Wheel (1972)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f92b531-f09a-4dec-b954-2d3af9d3e961/27167515064-500.jpg" data-tags="folk, scottish, celtic, scottish folk" role="button">
 Silly Wizard - Caledonia's Hardy Sons (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
 </li>
-<li data-cover="https://img.discogs.com/tecjsc5LhzvHJAyq6enRDCzY03I=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10997740-1507921116-4317.jpeg.jpg" data-tags="classic rock, rock, british, hard rock, scottish, california, aleister crowley, british rock, christopher lee, aleyster crowley, scottish rock, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Nazareth - Sound Elixir (1983)
-</li>
-<li data-cover="https://img.discogs.com/_y82B3cOlJwBrix7kSIQD-9_o_A=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2189949-1482928999-3558.jpeg.jpg" data-tags="80s, new wave" role="button">
-Aztec Camera - High Land, Hard Rain (1983-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/417c5e1d-279e-4f55-b8c1-e1bc141e9bd4/15998998041-500.jpg" data-tags="80s, rock, new wave" role="button">
-Big Country - The Crossing (1983-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ef7f82e-1dff-4ca4-9f8f-a77264c4b2bc/20386264258-500.jpg" data-tags="rock, 80s, scottish, steve lillywhite" role="button">
-Big Country - Steeltown (1984-10-19)
+<li data-cover="http://coverartarchive.org/release/5d5c8f9a-016e-35ca-aa9c-8f5ef239d416/15948199646-500.jpg" data-tags="80s" role="button">
+Simple Minds - Sparkle in the Rain (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/e07504a6-258f-4bb3-b444-e872e5d9d829/2133522084-500.jpg" data-tags="scottish, folk, scottish folk" role="button">
 Silly Wizard - The Best of Silly Wizard (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/4079a779-6da4-4b04-b3c0-c524248679fa/25401507987-500.jpg" data-tags="rock, 80s, scottish" role="button">
-Big Country - The Seer (1986-07-14)
-</li>
 <li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
 Deacon Blue - Raintown (1987-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fc8e77b-310d-4245-9c80-3896bb83d4d7/5728592308-500.jpg" data-tags="pop, scottish" role="button">
-Texas - Southside (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba8a0e2e-3254-41e2-9b1a-deae14456d02/11825155352-500.jpg" data-tags="scottish" role="button">
 Deacon Blue - When The World Knows Your Name (1989)
@@ -75,8 +57,8 @@ The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 <li data-cover="http://coverartarchive.org/release/7bade8ee-88a9-4669-9de7-b9c0d6e87b55/25150632111-500.jpg" data-tags="pop" role="button">
 Texas - Ricks Road (1993-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/646c6f8d-64bd-38ec-8cf3-3a5f5008cf88/7946166850-500.jpg" data-tags="dream pop" role="button">
-Cocteau Twins - Four-Calendar Cafe (1993-11-02)
+<li data-cover="https://img.discogs.com/bnUms84qPNnR6H83cq0sQwEyRm4=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4167351-1357487994-7829.jpeg.jpg" data-tags="folk, female vocalists, scottish, quality pop" role="button">
+Eddi Reader - Eddi Reader (1994-06-20)
 </li>
 <li data-cover="https://img.discogs.com/8jqX15kVcalfEJ96BBUT_F3bsDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494595-1287379756.jpeg.jpg" data-tags="celtic" role="button">
 Capercaillie - To The Moon (1995)
@@ -147,6 +129,9 @@ Capercaillie - Live In Concert (2002)
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - Geogaddi (2002-02-13)
 </li>
+<li data-cover="https://img.discogs.com/-eRNr7XcurwMV-6Q_bzV4zGxWhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11253944-1512816777-2637.jpeg.jpg" data-tags="soundtrack" role="button">
+Christopher Young - The Shipping News (2002-02-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
 Biffy Clyro - Blackened Sky (2002-03-10)
 </li>
@@ -155,6 +140,9 @@ The Reindeer Section - Son of Evil Reindeer (2002-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/093f980f-60de-3ade-ac6f-ee8143e5a527/27330653748-500.jpg" data-tags="indie" role="button">
 The Delgados - Hate (2002-10-14)
+</li>
+<li data-cover="https://img.discogs.com/VWTFSfpNU0X2dDTGh3IzE1P3ezI=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1850561-1570380129-7751.jpeg.jpg" data-tags="pop, pop rock" role="button">
+Darius - Dive In (2002-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9693a9e6-e27d-4039-b655-441066c2bcf3/21357485950-500.jpg" data-tags="celtic, scottish" role="button">
 Capercaillie - Choice Language (2003)
@@ -219,6 +207,9 @@ Boards of Canada - The Campfire Headphase (2005-10-12)
 <li data-cover="http://coverartarchive.org/release/2027f714-cf03-3b6a-bc32-137105892b35/24181119924-500.jpg" data-tags="folk" role="button">
 My Latest Novel - Wolves (2006-03-06)
 </li>
+<li data-cover="https://img.discogs.com/pzbwd1k-g7t4w1C7aNIP1tHOe7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005869-1183928970.jpeg.jpg" data-tags="scottish" role="button">
+The Aliens - Alienoid Starmonica (2006-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -228,8 +219,14 @@ Sucioperro - Random Acts of Intimacy (2006-06-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Aereogramme - My Heart Has a Wish That You Would Not Go (2006-10-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+Josef K - Entomology (2006-11-20)
+</li>
 <li data-cover="https://img.discogs.com/JCw3mVVx6DoftPMBMTELrorBskk=/fit-in/500x187/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3326127-1325874725.jpeg.jpg" data-tags="singer-songwriter, scottish, really fucking good" role="button">
 King Creosote - Bombshell (2007)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="celtic fusion" role="button">
+Shooglenifty - Troots (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/d01e8648-c19e-4337-8ecf-a7ba8484d668/14348132710-500.jpg" data-tags="indie, indie rock" role="button">
 The View - Hats Off To The Buskers (2007-01-22)
@@ -293,6 +290,9 @@ Twin Atlantic - Free (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e425ba2d-7794-4184-957b-356e95cb4045/20788074152-500.jpg" data-tags="indie, shoegaze, scottish, 10s, dynamic, fatcat, mvr rock radio, bobjebus16 owns this" role="button">
 The Twilight Sad - No One Can Ever Know (2012-02-06)
+</li>
+<li data-cover="https://img.discogs.com/Z_LhOUL8KAfphyIaDj3ifk6HX94=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040556-1289330899.jpeg.jpg" data-tags="british, new wave" role="button">
+Ultravox - Brilliant (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/413e5119-af1a-4095-b1bd-e85b9f1c24d2/18650180966-500.jpg" data-tags="indie rock, british, soft rock" role="button">
 Amy Macdonald - Life in a Beautiful Light (2012-06-08)

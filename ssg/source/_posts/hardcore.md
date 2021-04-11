@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:46:12.654Z
+date: 2021-04-11T02:27:12.604Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -9,7 +9,7 @@ title: "hardcore: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Bullet for My Valentine - The Poison (2005-09-30)</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
+<li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
@@ -38,6 +38,9 @@ Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">
+Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
@@ -156,17 +159,14 @@ Parkway Drive - Killing With a Smile (2005-09-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Bullet for My Valentine - The Poison (2005-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Thrill Seeker (2005-11-08)
-</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
+Gallows - Orchestra of Wolves (2006)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Killswitch Engage - As Daylight Dies (2006-01-21)
-</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3861ea1-3341-39d0-8e46-2834f280f5f1/4803108083-500.jpg" data-tags="hardcore" role="button">
 Raised Fist - Sound of the Republic (2006-04-10)
@@ -188,9 +188,6 @@ Set Your Goals - Mutiny! (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2ee2038-e999-4427-a85c-c63959fd2021/4783374073-500.jpg" data-tags="hardcore" role="button">
 Have Heart - The Things We Carry (2006-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
 <li data-cover="https://img.discogs.com/As2bMi6ABBSb26QY5mumlYs5QXs=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759023-1271818514.jpeg.jpg" data-tags="hardcore, metalcore" role="button">
 Walls of Jericho - With Devils Amongst Us All (2006-08-22)
@@ -225,9 +222,6 @@ From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
 blessthefall - His Last Walk (2007-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Messengers (2007-06-19)
-</li>
 <li data-cover="https://img.discogs.com/IhR16Kk9wq_3d_gCYMgDCzqWb0M=/fit-in/385x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1834988-1273459962.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 Evergreen Terrace - Wolfbiker (2007-07-20)
 </li>
@@ -236,9 +230,6 @@ Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 As I Lay Dying - An Ocean Between Us (2007-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Plagues (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
@@ -249,14 +240,17 @@ Chiodos - Bone Palace Ballet (2007-09-04)
 <li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Horizons (2007-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
+The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/278bf0c5-7954-43ec-a0a3-1a15a0b05f61/4783384023-500.jpg" data-tags="hardcore" role="button">
 Have Heart - Songs to Scream at the Sun (2008-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/97db5757-a7ee-4921-8f9b-f726f6433a62/27059737189-500.jpg" data-tags="hardcore, metalcore" role="button">
-Norma Jean - The Anti Mother (2008-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d74eaf35-305c-4218-87a2-bf1f67ed9d5f/929423406-500.jpg" data-tags="metalcore" role="button">
+All That Remains - Overcome (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg" data-tags="deathcore, metalcore" role="button">
 Bring Me the Horizon - Suicide Season (2008-09-29)
@@ -273,12 +267,6 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Constellations (2009-07-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -291,6 +279,9 @@ We Came As Romans - To Plant a Seed (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/b4333310-ad10-4036-aacc-7f66c177d840/25544352121-500.jpg" data-tags="pop punk" role="button">
 Four Year Strong - Enemy of the World (2010-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
+Of Mice & Men - Of Mice & Men (2010-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
 </li>
@@ -300,6 +291,12 @@ The Ghost Inside - Returners (2010-06-08)
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/67eec991-c21c-452b-b4c9-49f7df5699ba/15585755840-500.jpg" data-tags="metalcore, post-hardcore" role="button">
+The Word Alive - Deceiver (2010-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/cdcee761-d794-45ee-90bb-a21f51b66bf6/11691630679-500.jpg" data-tags="hardcore" role="button">
+Your Demise - The Kids We Used To Be... (2010-09-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
@@ -308,6 +305,9 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/7058d184-572c-494a-b694-77743cbc2547/3996533360-500.jpg" data-tags="rock opera" role="button">
+Fucked Up - David Comes To Life (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - The Flood (2011-06-14)

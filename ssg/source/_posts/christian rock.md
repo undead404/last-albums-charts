@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:13:01.465Z
+date: 2021-04-11T01:46:06.894Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -95,6 +95,9 @@ Kutless - Sea of Faces (2004-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/73159ac5-152a-436d-97a5-306a684ec6aa/9419903972-500.jpg" data-tags="christian, christian rock" role="button">
 MercyMe - Undone (2004-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
+The Calling - Two (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/88992508-e1b2-44c9-910f-3c3b1ce7fd67/24219569474-500.jpg" data-tags="christian rock" role="button">
 Sanctus Real - Fight The Tide (2004-06-15)
@@ -206,9 +209,6 @@ Falling Up - Captiva (2007-10-02)
 </li>
 <li data-cover="https://img.discogs.com/DRrlwV0JifXY4WEcEJgEmT2uMMo=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6024039-1409083474-2124.jpeg.jpg" data-tags="christian, christian rock, gospel, contemporary christian, christian contemporary, religious, cross2life, contemporary praise and worship" role="button">
 MercyMe - All That Is Within Me (2007-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/94da1f64-ef0a-41fd-a0ae-bfdf2f83a935/19390174685-500.jpg" data-tags="metalcore, christian metal" role="button">
-Demon Hunter - Storm the Gates of Hell (2007-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
 Jon Foreman - Fall (2007-11-20)

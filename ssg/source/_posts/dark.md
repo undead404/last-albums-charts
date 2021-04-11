@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T10:29:01.420Z
+date: 2021-04-11T02:22:01.415Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">Lou Reed - Berlin (1973-10)</li>
-<li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">The Cure - Pornography (1982-05-03)</li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">Robbie Williams - Life Thru a Lens (1997-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">The Smashing Pumpkins - Adore (1998-05-29)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">Portishead - Third (2008-04-08)</li>
+<li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">Soap&Skin - Lovetune for Vacuum (2009-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">Bat for Lashes - Two Suns (2009-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Rated R (2009-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
@@ -30,20 +30,11 @@ Neil Young - On the Beach (1974-07-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 New Order - Movement (1981-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/7981f14a-1bb5-3a36-99ce-a1377a17095b/26259040094-500.jpg" data-tags="post-punk, gothic rock" role="button">
-Bauhaus - The Sky's Gone Out (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
-The Cure - Pornography (1982-05-03)
+<li data-cover="http://coverartarchive.org/release/3daaa225-b92c-340e-8a1e-2f78380e82a9/16360171548-500.jpg" data-tags="80s, rock" role="button">
+Lou Reed - The Blue Mask (1982-02)
 </li>
 <li data-cover="https://img.discogs.com/EWJD-VeCM5bj-nw9YQaElt6Tccs=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11627074-1519812156-1649.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/853ee016-b10d-3118-86ed-d9c3b797eebc/15258704059-500.jpg" data-tags="darkwave" role="button">
-Dead Can Dance - Spleen and Ideal (1985-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
-Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
 <li data-cover="https://img.discogs.com/FYbntpWx7Kum8VUDhEQ3SblLQBs=/fit-in/350x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4453816-1426631153-6153.jpeg.jpg" data-tags="alternative, dark, gang of four, flashback alternatives, wire-y" role="button">
 Gang of Four - A Brief History of the Twentieth Century (1990)
@@ -51,8 +42,8 @@ Gang of Four - A Brief History of the Twentieth Century (1990)
 <li data-cover="https://img.discogs.com/YXJHpQW8y46vG7hRWW_9ANNY1LI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008477-1258239023.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Lacrimosa - Angst (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f1e71b1-8edf-4a5e-9d9d-9d4e98647daf/11735022667-500.jpg" data-tags="alternative, female vocalists, 90s, indie" role="button">
-Belly - Star (1993-01-25)
+<li data-cover="http://coverartarchive.org/release/dca56b61-66f1-34d9-8184-1010cf5bb8c9/24465532686-500.jpg" data-tags="electronic, ebm" role="button">
+And One - Flop! (1992-03-30)
 </li>
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
@@ -60,17 +51,14 @@ Manic Street Preachers - The Holy Bible (1994-08-29)
 <li data-cover="http://coverartarchive.org/release/64bcdda1-f6f4-4d8e-877d-5c2253297462/2106453048-500.jpg" data-tags="electronic, dark, acoustic, gothic, psychedelic, live, infinite loop, schwarz, alexander veljanov, kuscheldunkel, dunkelbunnt, chrom records, d lakalen" role="button">
 Deine Lakaien - Acoustic (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ae797bf-8661-4a7f-928e-a9d3408374a3/5292269292-500.jpg" data-tags="french, goth, dark, gothic, goth rock" role="button">
-Corpus Delicti - Obsessions (1995)
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+Dark Funeral - The Secrets of the Black Arts (1996-01-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
-The Cure - Wild Mood Swings (1996-05-07)
+<li data-cover="http://coverartarchive.org/release/3852304a-41d1-4639-bab9-abb606c33c75/3031192753-500.jpg" data-tags="pop, alternative, britpop, rock" role="button">
+Robbie Williams - The Ego Has Landed (1997)
 </li>
-<li data-cover="https://img.discogs.com/-W5QN7_eVpe2JjMA_yNrTRvKHJs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483031-1529428927-4680.jpeg.jpg" data-tags="goth, dark, industrial, electro-industrial" role="button">
-Velvet Acid Christ - Calling Ov The Dead (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b972e14-2e2f-4585-a428-644689de0e5a/3856728197-500.jpg" data-tags="gothic rock, gothic" role="button">
-Агата Кристи - Ураган (1997)
+<li data-cover="https://img.discogs.com/ZQkFoHZ_Mub8IYOF_c7O770P40g=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645215-1142711425.jpeg.jpg" data-tags="electronic" role="button">
+Recoil - Unsound Methods (1997)
 </li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
@@ -86,12 +74,6 @@ Tori Amos - From the Choirgirl Hotel (1998-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">
 The Smashing Pumpkins - Adore (1998-05-29)
-</li>
-<li data-cover="https://img.discogs.com/RSQPWodEiDmoouF1zpMyYetBs68=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9240622-1477196357-9049.jpeg.jpg" data-tags="post-punk" role="button">
-Bauhaus - Crackle (1998-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
-Orgy - Candyass (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
@@ -111,17 +93,14 @@ Junior Kimbrough - Meet Me in the City (1999)
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/b79c1285-1f52-36b7-adb8-b24491389644/2386244795-500.jpg" data-tags="post-punk" role="button">
-Rowland S. Howard - Teenage Snuff Film (1999-06-26)
+<li data-cover="http://coverartarchive.org/release/c6918bbe-4343-4235-a8c5-ca6a79cf60ac/1009676795-500.jpg" data-tags="folk, acoustic, neofolk" role="button">
+Empyrium - Where at Night the Wood Grouse Plays (1999-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">
-The Cure - Bloodflowers (2000-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Sunset Mission (2000-02-25)
+<li data-cover="http://coverartarchive.org/release/6f39ba87-7f4d-458c-bfd3-60fafe5e3619/17806560705-500.jpg" data-tags="trip-hop" role="button">
+Sunday Munich - Vinculum (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
@@ -135,17 +114,26 @@ John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 <li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
 I Am Kloot - Natural History (2001-03-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
+Unwound - Leaves Turn Inside You (2001-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/88659fde-815a-4e36-b239-9d0818f23f1b/8345887600-500.jpg" data-tags="hard rock, rock, gothic" role="button">
 O.N.A. - Mrok (2001-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba845ec4-835a-4c0c-8ff1-178c0a96c173/3020029421-500.jpg" data-tags="alt-country, jay munly" role="button">
 Jay Munly - Jimmy Carter Syndrome (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/80f70658-2074-4471-b1ab-11562a783cc0/2133707556-500.jpg" data-tags="rock, finnish, gothic rock, the 69 eyes" role="button">
-The 69 Eyes - Paris Kills (2002-04-16)
+<li data-cover="http://coverartarchive.org/release/cacbd6c9-7136-4ed8-9695-24243064d47d/3166622070-500.jpg" data-tags="darkwave" role="button">
+Deine Lakaien - White Lies (2002)
 </li>
 <li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/49a9d443-4e2f-42de-80d6-77a04ab552f4/9607172240-500.jpg" data-tags="metal, ambient, experimental, dark, quality, has hidden track, albums owned by me, change my live forever" role="button">
+Martin Grech - Open Heart Zoo (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
@@ -165,14 +153,23 @@ The Cure - The Cure (2004-06-25)
 <li data-cover="http://coverartarchive.org/release/887f53f8-4a26-4281-a659-019b07fe829e/3263073661-500.jpg" data-tags="experimental" role="button">
 Ataxia - Automatic Writing (2004-08-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/36ea7556-cd72-4097-abaa-4a838c8aa204/8940387621-500.jpg" data-tags="ambient, 00s, arcana" role="button">
+Arcana - The New Light (2004-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
 </li>
 <li data-cover="https://img.discogs.com/HAPUMMhGqC22bgWX2SoQdUS2w8w=/fit-in/266x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738400-1153696402.jpeg.jpg" data-tags="instrumental, experimental, dark, haunting, violins, avantgarde, dark ambient, interesting, avant-prog, mimicry, horror music, noir dandy, hidden masterpiece" role="button">
 Miasma & The Carousel Of Headless Horses - Perils (2005-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/1827a150-50d3-322f-88e8-23855fd9cd3b/21285140194-500.jpg" data-tags="experimental, electronic, avant-garde" role="button">
+Ulver - Blood Inside (2005-06-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/76003d22-be58-4cad-900b-59f9222512fd/28650102737-500.jpg" data-tags="alternative rock, hard rock" role="button">
+32 Leaves - Welcome to the Fall (2005-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
@@ -189,9 +186,6 @@ Om - Conference of the Birds (2006-02-24)
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/648f3fd2-e05c-4315-86cc-091006d56b77/17747343629-500.jpg" data-tags="dark jazz" role="button">
-The Kilimanjaro Darkjazz Ensemble - The Kilimanjaro Darkjazz Ensemble (2006-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/65cfba88-743b-4466-a3ed-d18e44ad99e0/8784418216-500.jpg" data-tags="avant-garde, experimental" role="button">
 Scott Walker - The Drift (2006-05-08)
 </li>
@@ -204,8 +198,8 @@ Charlotte Martin - Stromata (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
 Amon Tobin - Foley Room (2007-02-26)
 </li>
-<li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Jesus On Extasy - Holy Beauty (2007-03-30)
+<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
+Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/19ea9185-cfce-4577-8f7d-56065d4181da/6362215975-500.jpg" data-tags="post-rock" role="button">
 Grails - Burning Off Impurities (2007-04-24)
@@ -218,9 +212,6 @@ Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
 PJ Harvey - White Chalk (2007-09-19)
-</li>
-<li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
-She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
@@ -243,20 +234,23 @@ Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
 <li data-cover="https://img.discogs.com/wz0yn2XqXYzmHJ5nwwlBxkfZsTs=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557097-1364509041-6883.jpeg.jpg" data-tags="dark, shoegaze" role="button">
 Mercury Rev - Snowflake Midnight (2008-09-29)
 </li>
-<li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
-Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/cd6d719b-10ca-4092-bde1-0ba2b3428b45/23912438078-500.jpg" data-tags="electronic, soul, alternative, new wave, 00s" role="button">
 Grace Jones - Hurricane (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a94365c2-0440-33f7-8278-bc3bf373243c/15037794641-500.jpg" data-tags="progressive rock" role="button">
 Steven Wilson - Insurgentes (2008-11-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/67fd1cdd-1024-41e1-b103-fab82330a0b4/5674381799-500.jpg" data-tags="industrial metal" role="button">
+Deathstars - Night Electric Night (2009-01-30)
+</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/c17e88d4-2faa-4d07-bbc3-d5453fdf54a6/10207969406-500.jpg" data-tags="black metal" role="button">
+Beherit - Engram (2009-04-09)
 </li>
 <li data-cover="https://img.discogs.com/lNDL8nXCb7x21HoFPfPmChKCZZU=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773854-1609708059-9034.jpeg.jpg" data-tags="alternative" role="button">
 IAMX - Kingdom of Welcome Addiction (2009-05-15)
@@ -266,6 +260,9 @@ Marilyn Manson - The High End Of Low (2009-05-19)
 </li>
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
+</li>
+<li data-cover="https://img.discogs.com/WKOPhtOLOcJTexdqT9-NIbgZzL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1972619-1510337422-8008.png.jpg" data-tags="doom metal, sludge" role="button">
+A Storm of Light - Forgive Us Our Trespasses (2009-09-22)
 </li>
 <li data-cover="https://img.discogs.com/GLTC9QYxisrKr6jj8FoO7cOYlps=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275018-1273837603.jpeg.jpg" data-tags="experimental, krautrock, ambient" role="button">
 Beak> - Beak> (2009-10-19)
@@ -282,14 +279,14 @@ Emika - Drop The Other (2010-01-18)
 <li data-cover="http://coverartarchive.org/release/fc4fe161-760e-4200-990a-5d043977cb56/9020464539-500.jpg" data-tags="rock, female vocalists, gothic rock" role="button">
 Evanescence - Together Again (2010-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0613007-0298-4ca6-b1f2-4b88dae63742/1693672754-500.jpg" data-tags="rock, alternative rock" role="button">
-We Are the Fallen - Tear The World Down (2010-05-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/db631e09-7b57-4efd-b62a-65a94e74cb64/14338666850-500.jpg" data-tags="experimental, dark" role="button">
 LA Vampires & Zola Jesus - LA Vampires & Zola Jesus (2010-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2852bc2-4919-41e7-aab4-c3ff47ba1c2c/20543754977-500.jpg" data-tags="witch house" role="button">
 Salem - King Night (2010-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fe6179a-6ae4-4436-950e-aaea4b2653c5/14003687395-500.jpg" data-tags="electro, dark, industrial, synth, synthpop, gothic rock, electro rock, aggro, electronic rock, belarus, synthrock, everything i need, lacrimaindarkness, angstwave, lacrima in darkness, synth gothic, 4 me, shadowplay release, aggro synthpop" role="button">
+Cold in May - Gone Away With the Memories (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
@@ -300,17 +297,20 @@ Austra - Feel It Break (2011-05-13)
 <li data-cover="http://coverartarchive.org/release/178a02ba-fe9a-4be1-a747-303faac35388/8156839578-500.jpg" data-tags="electronic" role="button">
 HTRK - Work (Work, Work) (2011-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdcfa60a-672c-457b-8af1-555d26c9a930/6937966748-500.jpg" data-tags="cold wave" role="button">
-Linea Aspera - Linea Aspera (2012-01-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">
 Trust - Trst (2012-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
+<li data-cover="http://coverartarchive.org/release/d13f150e-6669-4dbb-8645-b3d69b2314ab/3827163979-500.jpg" data-tags="soul" role="button">
+Cold Specks - I Predict a Graceful Expulsion (2012-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Trilogy (2012-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/92f12c90-b11d-47f6-b94e-1c1f6b2ba393/15714276117-500.jpg" data-tags="japanese, female vocalists, dark, girls, jpop, asian, j-pop, girl band, girl groups, gloomy, asian pop, i love this fucking album" role="button">
+Kalafina - Consolation (2013-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12b14b3-49a0-49cf-9a26-6a3adf658257/4125929133-500.jpg" data-tags="noise, experimental" role="button">
+Pharmakon - Abandon (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3132f48-0254-4df0-91b6-92387a64a949/10701698463-500.jpg" data-tags="pop, dark, korean, k-pop, dance pop, kpop, korea, korean pop, korean music" role="button">
 VIXX - hyde (2013-05-20)

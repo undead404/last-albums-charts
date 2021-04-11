@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:27:01.409Z
+date: 2021-04-11T01:58:01.465Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -80,9 +80,6 @@ múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80c691b-9444-3db0-9bfe-ff08f7b23e62/11071657210-500.jpg" data-tags="post-rock" role="button">
 Mono - One Step More and You Die (2002-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">
-Broken Social Scene - You Forgot It In People (2002-10-15)
 </li>
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ( ) (2002-10-23)
@@ -191,6 +188,9 @@ Caspian - The Four Trees (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
 Pelican - City of Echoes (2007-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd9f69f3-90ab-44c4-a243-0d0796300882/5860863096-500.jpg" data-tags="post-rock" role="button">
+Joy Wants Eternity - You Who Pretend to Sleep (2007-05-22)
 </li>
 <li data-cover="https://img.discogs.com/UBd7YqXMjTGwZKEQrXE1EotW9co=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944687-1546335869-8526.jpeg.jpg" data-tags="indie, folk, post-rock, indie folk" role="button">
 The Middle East - The Recordings Of The Middle East (2008)

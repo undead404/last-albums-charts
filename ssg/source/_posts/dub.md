@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:38:06.993Z
+date: 2021-04-11T02:43:01.406Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -29,9 +29,6 @@ The Congos - Heart Of The Congos (1977)
 </li>
 <li data-cover="https://img.discogs.com/NB6MT1rB6twKTfgyBiQMRJKAd6I=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-222956-1598288698-9582.jpeg.jpg" data-tags="post-punk" role="button">
 The Slits - Cut (1979-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd75a130-7ee1-4b68-940b-592b5f21c605/11523292523-500.jpg" data-tags="punk, dub" role="button">
-The Clash - Sandinista! (1980-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3fc457-3dc1-3077-ac66-83b380763714/5167702817-500.jpg" data-tags="dub" role="button">
 Augustus Pablo - East of the River Nile (1981)
@@ -63,11 +60,11 @@ Massive Attack - No Protection (1995-02-17)
 <li data-cover="http://coverartarchive.org/release/536470f1-1f45-4033-aca8-a4c0bda277cc/4480718201-500.jpg" data-tags="dub" role="button">
 Massive Attack vs. Mad Professor - No Protection (1995-02-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
-Dreadzone - Second Light (1995-05-29)
-</li>
 <li data-cover="https://img.discogs.com/ZxOyV_5ITeXdUQrDn0IWjAIKljA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54444-1494833577-4517.jpeg.jpg" data-tags="dub" role="button">
 Rockers Hi-Fi - Mish Mash (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/1611826c-6c9f-4dee-b1da-70b604a817dc/4524485847-500.jpg" data-tags="dub" role="button">
+Scientist - Dub In The Roots Tradition (1996-05-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, oops, b side" role="button">
 Blue Boy - Remember Me (1997-02-10)
@@ -137,6 +134,9 @@ High Tone - Acid Dub Nucleik (2002-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/82442a54-eaf8-497d-9910-67540dacb001/4524332801-500.jpg" data-tags="dub" role="button">
 Roots Manuva - Dub Come Save Me (2002-07-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
+Salmonella Dub - Outside the Dubplates (2002-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
@@ -228,6 +228,9 @@ DJ Vadim - The SoundCatcher (2007-04-02)
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
 Collie Buddz - Collie Buddz (2007-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/72f3570d-eb75-351d-9f10-2b5963142c83/27660843870-500.jpg" data-tags="ambient, orb" role="button">
+The Orb - The Dream (2007-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/6b342391-8172-4579-9668-09535698f6ae/18273571975-500.jpg" data-tags="reggae, dub, dancehall reggae" role="button">
 Chezidek - Inna Di Road (2007-09-21)
 </li>
@@ -260,9 +263,6 @@ Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
-Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
 <li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
 Lena - Satellite (2010-03-13)

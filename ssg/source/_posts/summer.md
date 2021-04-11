@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:00:01.437Z
+date: 2021-04-11T01:49:07.006Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Mark Ronson - Uptown Funk (2014-11-10)](http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg "Mark Ronson - Uptown Funk (2014-11-10)")
@@ -12,7 +12,7 @@ title: "summer: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/JJBgmPf-9tPrewwtG1ul6RU_TgI=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876303-1472076147-4763.jpeg.jpg" data-tags="summer, dfa" role="button">Yacht - See Mystery Lights (2009-08-04)</li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">Friendly Fires - Pala (2011-05-16)</li>
-<li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">Future Islands - Singles (2014-03-24)</li>
+<li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">MØ - Don't Wanna Dance (2014-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg" data-tags="funk, summer, singles, ye, mark ronson" role="button">Mark Ronson - Uptown Funk (2014-11-10)</li>
 </ol>
 List of 100 - under the cut.
@@ -69,9 +69,6 @@ Minus the Bear - Highly Refined Pirates (2002-11-19)
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc67270e-5cd7-4c47-ae59-773e23216fb4/18229562558-500.jpg" data-tags="indie" role="button">
-Yo La Tengo - Summer Sun (2003-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
@@ -80,12 +77,6 @@ Donna Summer - The Journey: The Very Best of Donna Summer (2003-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c18d5dd-3e3d-459c-b647-80734819d072/20451673315-500.jpg" data-tags="alternative, experimental" role="button">
 John Frusciante - Shadows Collide With People (2004-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/ddc66967-95b4-4870-86b4-7908d019935a/23824057797-500.jpg" data-tags="latin, belgian" role="button">
-Gabriel Rios - Ghostboy (2004-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
-Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/250bd2dc-a9e8-4c50-9b3d-7863a0efc6d2/3457679280-500.jpg" data-tags="indie" role="button">
 The Weepies - Happiness (2004-06-08)
@@ -111,11 +102,17 @@ Aqualung - Strange and Beautiful (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
 Hot Hot Heat - Elevator (2005-03-30)
 </li>
+<li data-cover="https://img.discogs.com/hKKGeB9vAfh7eom4Rg_DBM95-K0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-984723-1603607072-4022.jpeg.jpg" data-tags="indie" role="button">
+Art Brut - Bang Bang Rock & Roll (2005-05-23)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
 Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/125c9366-4f4f-3166-a31e-6855d9199b28/7547146717-500.jpg" data-tags="latin rock, classic rock, guitar" role="button">
+Santana - All That I Am (2005-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff24b6e-bb32-4500-b980-f99a413cc53f/1270154475-500.jpg" data-tags="summer" role="button">
 Bob Sinclar - Love Generation (2005-11-25)
@@ -147,17 +144,20 @@ M. Ward - Post-War (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/bf5303ec-7679-4867-a327-4088ac9d4dcc/15640207329-500.jpg" data-tags="indie, indie rock" role="button">
 Albert Hammond, Jr. - Yours To Keep (2006-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e97582f-00f1-3b68-8589-44fb42dce059/25280285422-500.jpg" data-tags="folk" role="button">
+Beirut - Lon Gisland (2006-11-10)
+</li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
-Blonde Redhead - 23 (2007-04-10)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/56690bd7-5023-4e5e-8cac-b1fa263c60ef/4086134991-500.jpg" data-tags="rock, alternative rock" role="button">
+Collective Soul - Afterwords (2007-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
@@ -309,14 +309,14 @@ Grouplove - Spreading Rumours (2013-09-17)
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
-Future Islands - Singles (2014-03-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/c15ae8e9-1369-41c7-b57a-ef34ca61c22b/7143771102-500.jpg" data-tags="indie pop, baroque pop" role="button">
 Kishi Bashi - Lighght (2014-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fff52f3-67b8-46bf-93a6-ad43e285601d/8368597159-500.jpg" data-tags="rock, power pop" role="button">
 Weezer - Everything Will Be Alright in the End (2014-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/f49f9b57-9ed8-450a-92b0-b68cb8dafa41/8541664027-500.jpg" data-tags="indie rock" role="button">
+Ex Hex - Rips (2014-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg" data-tags="funk, summer, singles, ye, mark ronson" role="button">
 Mark Ronson - Uptown Funk (2014-11-10)

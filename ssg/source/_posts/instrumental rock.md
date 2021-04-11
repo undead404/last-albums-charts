@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T04:00:01.437Z
+date: 2021-04-11T02:21:07.008Z
 title: "instrumental rock: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Joe Satriani - Surfing With The Alien (1987-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/cbda74c7-2b47-399a-b1cd-11384ac7529f/1726938938-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Joe Satriani - Flying In A Blue Dream (1989-10-30)</li>
-<li data-cover="https://img.discogs.com/1mENplx7WrPEdtH1yjQLVO47f1o=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5741976-1457531625-8181.mpo.jpg" data-tags="rock, instrumental rock, guitar virtuoso" role="button">Eric Johnson - Ah Via Musicom (1990-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/7a83e47e-78be-4992-bcff-c3cb6c2683db/4608197588-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Steve Vai - Passion and Warfare (1990-05)</li>
 <li data-cover="https://img.discogs.com/zcbdxYi8QP7ObDrIpoZiAqtfJJw=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178290-1543779095-8106.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">Joe Satriani - The Extremist (1992)</li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">Steve Vai - Alien Love Secrets (1995-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/9c61fc3f-f5b2-4789-a208-a62965f4eecd/6968354340-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Joe Satriani - Crystal Planet (1998-03-03)</li>
 <li data-cover="https://img.discogs.com/5h_ZrW3sDyRcs5RDs9QWzsN9gvc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7872856-1450630821-7855.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">Joe Satriani - Strange Beautiful Music (2002-06-25)</li>
+<li data-cover="http://coverartarchive.org/release/73f34799-1a4c-4ecb-89dc-2a05a0f1103b/4526835963-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">Joe Satriani - Is There Love in Space? (2004-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/39d56964-24ff-49e8-9cdd-939568ca2901/1617756617-500.jpg" data-tags="guitar virtuoso, instrumental, progressive metal" role="button">John Petrucci - Suspended Animation (2005-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/b0eab380-050a-3b30-8262-3305b4bb0359/6968445434-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Joe Satriani - Super Colossal (2006-03-14)</li>
 </ol>
@@ -33,15 +33,6 @@ Steve Vai - Flex-Able Leftovers (1984)
 <li data-cover="http://coverartarchive.org/release/dff1f058-7249-429a-8b44-25c215d8329f/1290813982-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Flex-able (1984)
 </li>
-<li data-cover="https://img.discogs.com/XPC2gEeDRx4I20-X97zi7hz20kg=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1392516-1475422752-4147.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
-Tony MacAlpine - Edge of Insanity (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/98fa3a29-38bb-3ff2-a34d-bfa27f0381dc/19700179286-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
-Joe Satriani - Not of This Earth (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/9efa1049-bb4a-33eb-8b9c-790ba4ecff21/14661487657-500.jpg" data-tags="rock, instrumental rock" role="button">
-Eric Johnson - Tones (1986)
-</li>
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Surfing With The Alien (1987-10-15)
 </li>
@@ -51,14 +42,14 @@ Joe Satriani - Dreaming #11 (1988-11-01)
 <li data-cover="http://coverartarchive.org/release/cbda74c7-2b47-399a-b1cd-11384ac7529f/1726938938-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Flying In A Blue Dream (1989-10-30)
 </li>
-<li data-cover="https://img.discogs.com/1mENplx7WrPEdtH1yjQLVO47f1o=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5741976-1457531625-8181.mpo.jpg" data-tags="rock, instrumental rock, guitar virtuoso" role="button">
-Eric Johnson - Ah Via Musicom (1990-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a83e47e-78be-4992-bcff-c3cb6c2683db/4608197588-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Passion and Warfare (1990-05)
 </li>
 <li data-cover="https://img.discogs.com/zcbdxYi8QP7ObDrIpoZiAqtfJJw=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178290-1543779095-8106.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">
 Joe Satriani - The Extremist (1992)
+</li>
+<li data-cover="http://coverartarchive.org/release/fa50aba0-7c8d-4f4b-a2e6-1cec333467ab/6968288069-500.jpg" data-tags="instrumental, instrumental rock, guitar virtuoso" role="button">
+Joe Satriani - The Beautiful Guitar (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/5551ab4f-c09f-4456-8d8c-821f63f71d7c/4524676990-500.jpg" data-tags="guitar virtuoso" role="button">
 Joe Satriani - Time Machine (1993-10-26)
@@ -68,9 +59,6 @@ Buckethead - Giant Robot (1994-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">
 Steve Vai - Alien Love Secrets (1995-03-21)
-</li>
-<li data-cover="https://img.discogs.com/TcvE-fZfDwmMTLJsYBKki7XoYnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9951469-1489114858-5063.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
-Joe Satriani - Joe Satriani (1995-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4875569-4a90-4e84-92a4-fe588c2e7af4/10047599054-500.jpg" data-tags="instrumental rock, surf rock, jazz-pop" role="button">
 The Marketts - Out of Limits! (1996)
@@ -93,8 +81,14 @@ Buckethead - Colma (1998-03-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">
 Dirty Three - Ocean Songs (1998-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a8213c4-1a96-30f3-ad02-9f3354b812fd/1224860395-500.jpg" data-tags="progressive rock, ambient, psychedelic" role="button">
+Porcupine Tree - Metanoia (1998-12)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Tarentel - From Bone to Satellite (1999)
+</li>
+<li data-cover="https://img.discogs.com/PBbZDGXtwMOeWEwMxdNVyhgqNec=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4004267-1372095039-9674.jpeg.jpg" data-tags="hard rock, instrumental rock, guitar virtuoso" role="button">
+Andy Timmons - The Spoken and the Unspoken (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a47be3-add0-4781-bcfe-46e0cb500c8f/17512877506-500.jpg" data-tags="instrumental rock" role="button">
 Vinnie Moore - The Maze (1999-03-23)
@@ -104,6 +98,9 @@ Liquid Tension Experiment - Liquid Tension Experiment 2 (1999-06-15)
 </li>
 <li data-cover="https://img.discogs.com/7cE9XJrzhryWvXUd_arWVokB16w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13447692-1554393966-7983.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Steve Vai - The Ultra Zone (1999-08-21)
+</li>
+<li data-cover="https://img.discogs.com/2en8E7y35r2PN3_VfnyQfeKNUYY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044416-1488366595-8539.jpeg.jpg" data-tags="progressive rock, jazz rock" role="button">
+Bozzio Levin Stevens - Situation Dangerous (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4803f49-06f2-383f-b790-10d1fff6b85e/15544478160-500.jpg" data-tags="instrumental rock" role="button">
 Joe Satriani - Engines of Creation (2000-03-13)
@@ -116,6 +113,9 @@ John Petrucci & Jordan Rudess - An Evening With John Petrucci & Jordan Rudess (2
 </li>
 <li data-cover="http://coverartarchive.org/release/6019dd2a-43ce-4f3c-9206-0f6e6e867dbc/9526726936-500.jpg" data-tags="post-rock" role="button">
 Mono - Under the Pipal Tree (2001-01-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/27f00bc4-5016-48dd-a079-9b3a5e8bd8f3/9577987822-500.jpg" data-tags="sludge, post-metal" role="button">
+Isis - SGNL>05 (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9766b8ad-4d43-3b1b-8508-a2c1c7b05ed6/23085585100-500.jpg" data-tags="progressive metal, progressive rock, instrumental, instrumental rock" role="button">
 Derek Sherinian - Inertia (2001-04-17)
@@ -162,11 +162,11 @@ John Petrucci - Suspended Animation (2005-03-01)
 <li data-cover="http://coverartarchive.org/release/ab4639dd-6ad2-446c-8582-f643c5c2e7db/13036032474-500.jpg" data-tags="stoner rock, psychedelic" role="button">
 Earthless - Sonic Prayer (2005-04-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/67ec78f6-b739-41be-b1e2-f1c99a0999b2/6284900914-500.jpg" data-tags="guitar, guitar virtuoso" role="button">
+Eric Johnson - Bloom (2005-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/101c783b-6ecb-450c-9c52-730e8450bd15/26393610881-500.jpg" data-tags="instrumental" role="button">
-Bell Orchestre - Recording a Tape the Colour of the Light (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/kDAwhUH8ilkDmbBYzVGCB-JoxzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4119755-1460963141-2662.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Michael Angelo Batio - Hands Without Shadows (2005-10-27)
@@ -179,6 +179,9 @@ Vast - April (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bdc7a73-f706-4e2d-a7be-3866984ed99b/2356490684-500.jpg" data-tags="instrumental, fusion, guitar virtuoso" role="button">
 Guthrie Govan - Erotic Cakes (2006)
+</li>
+<li data-cover="https://img.discogs.com/P3DESexB9-81Z87F5xHP3Ft6P8k=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3637236-1338370880-1683.jpeg.jpg" data-tags="guitar virtuoso" role="button">
+Andy Timmons - Resolution (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0eab380-050a-3b30-8262-3305b4bb0359/6968445434-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Super Colossal (2006-03-14)
@@ -195,9 +198,6 @@ Paul Gilbert - Get Out Of My Yard (2006-07-26)
 <li data-cover="http://coverartarchive.org/release/f551d2ca-207b-4e65-8ec2-fd86f9ab91e7/9460168429-500.jpg" data-tags="post-rock" role="button">
 Gifts from Enola - Loyal Eyes Betrayed The Mind (2006-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cda42f9-ac1b-484f-bd02-9ff52507e41a/5062044543-500.jpg" data-tags="instrumental, polish" role="button">
-Jelonek - Jelonek (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc29f643-e2d3-4801-b0fe-db736a18fa4a/2386372698-500.jpg" data-tags="drone" role="button">
 Earth - Hibernaculum (2007-03-20)
 </li>
@@ -210,11 +210,17 @@ John 5 - The Devil Knows My Name (2007-04-03)
 <li data-cover="http://coverartarchive.org/release/d017c662-5260-4165-96e2-20ec764c83e7/4605462658-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
 Earthless - Rhythms From a Cosmic Sky (2007-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
-Beastie Boys - The Mix-Up (2007-06-22)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+Planet X - Quantum (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/66ee743f-6a7c-4c0f-b13b-2d55c2b9830f/13094898806-500.jpg" data-tags="post-rock" role="button">
 El Ten Eleven - Every Direction Is North (2007-07-02)
+</li>
+<li data-cover="https://img.discogs.com/EpycoJC4FhrrALXckPBn4vj8FNA=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700259-1570652084-6516.jpeg.jpg" data-tags="progressive rock" role="button">
+Liquid Trio Experiment - Spontaneous Combustion (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/21dbd3cd-5141-4396-af71-d5abd5e7c7ff/2502910171-500.jpg" data-tags="instrumental rock" role="button">
+Buckethead - Cyborg Slunks (2007-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a6e6996-c015-484b-a59f-cb56d2d714b0/21417955442-500.jpg" data-tags="rock, instrumental, instrumental rock, shred" role="button">
 Marco Sfogli - There's Hope (2008)
@@ -231,11 +237,8 @@ Unwed Sailor - Little Wars (2008-04-01)
 <li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Station (2008-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5af92f-5593-4488-aaba-f9035faa77fa/10649760786-500.jpg" data-tags="post-rock, instrumental" role="button">
-The Evpatoria Report - Maar (2008-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
-And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
+<li data-cover="http://coverartarchive.org/release/778892a0-5879-43e0-bb37-4a29a60e2f95/2820368658-500.jpg" data-tags="experimental" role="button">
+Buckethead - Albino Slug (2008-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/162892dc-49d4-4540-80f6-b7127a147ad4/3370180048-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
@@ -245,9 +248,6 @@ GACKT - Flower (2009-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cf5ac6a-1186-4548-8e64-3c4bc4f0d4e8/11150538478-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Shrinebuilder - Shrinebuilder (2009-10-12)
-</li>
-<li data-cover="https://img.discogs.com/5rrKYhGwc8R6cRJj2-MUYuRD_fs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683430-1537127156-3823.jpeg.jpg" data-tags="post-rock" role="button">
-Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
@@ -267,11 +267,17 @@ nobody.one - Head Movies (2010-10-21)
 <li data-cover="http://coverartarchive.org/release/0bd6aacd-2e91-4ca1-8f9d-0dc49dcb02de/3829439616-500.jpg" data-tags="rock, guitar, satriani" role="button">
 Joe Satriani - The Essential Joe Satriani (2010-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/46b682ff-3129-4115-8977-93aba7b91fac/4809480311-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
+The Re-Stoned - Analog (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/16595b47-d4ee-4d2c-8273-a5063813b35c/28751699519-500.jpg" data-tags="post-rock" role="button">
 Grails - Deep Politics (2011-03-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/08ac6690-695e-4662-a30b-7d752c073e09/6456907325-500.jpg" data-tags="instrumental, ambient, experimental, djent, instrumental rock, melodic, bass, atmospheric, funky, progressive" role="button">
-Evan brewer - Alone (2011-06-28)
+<li data-cover="https://img.discogs.com/CC2z5Y__10QJnEo6P_1g96igVoU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3838469-1346462426-2616.jpeg.jpg" data-tags="progressive metal, instrumental rock, shred, jazz-rock, t m alpine" role="button">
+Tony MacAlpine - Tony MacAlpine (2011-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4adc7049-c1a6-41bb-99b1-eafc33cac370/20892309017-500.jpg" data-tags="progressive rock, jazz fusion, jazz rock" role="button">
+The Aristocrats - The Aristocrats (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/59d80e41-47d4-480b-aa91-87266f356c47/6072550008-500.jpg" data-tags="instrumental" role="button">
 Jelonek - Revenge (2011-11-07)
@@ -284,9 +290,6 @@ Dirty Three - Toward The Low Sun (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d13e62be-3de6-4d05-b95c-b2d4cbeda3a5/6968673564-500.jpg" data-tags="progressive metal" role="button">
 Jeff Loomis - Plains of Oblivion (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/405c0d89-d4ab-4dac-ba0a-3ecc402e6e50/10280804864-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
-John 5 - God Told Me To (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed73a8fb-16ad-436c-a3a5-52e231d1c367/6163634942-500.jpg" data-tags="post-rock" role="button">
 The Pirate Ship Quintet - Rope for No-Hopers (2012-05-25)
@@ -303,9 +306,6 @@ And So I Watch You From Afar - All Hail Bright Futures (2013-03-19)
 <li data-cover="http://coverartarchive.org/release/2b98d215-a7fe-416b-8953-63bb8f0e72bd/4117752099-500.jpg" data-tags="instrumental rock" role="button">
 Joe Satriani - Unstoppable Momentum (2013-05-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, instrumental" role="button">
-Scale the Summit - The Migration (2013-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7ae7bd2-0095-4d81-ade0-85e5a03918c6/4707907716-500.jpg" data-tags="progressive rock, fusion" role="button">
 The Aristocrats - Culture Clash (2013-07-16)
 </li>
@@ -318,7 +318,7 @@ Exxasens - Satellites (2013-10-14)
 <li data-cover="http://coverartarchive.org/release/14e2923f-2344-4d4c-9d24-02d18245412d/5929733555-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Memorial (2013-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/9402055f-3c29-437f-873a-1e0635c2028c/8775735119-500.jpg" data-tags="post-rock" role="button">
-Mono - Rays of Darkness (2014-10-14)
+<li data-cover="http://coverartarchive.org/release/069a8627-4fef-4012-b15f-8e8b2c467bd2/8992517889-500.jpg" data-tags="progressive metal" role="button">
+Cloudkicker - Little Histories (2014-12-01)
 </li>
 </ol>

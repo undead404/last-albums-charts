@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:20:01.469Z
+date: 2021-04-11T02:09:01.448Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -150,9 +150,6 @@ M. Ward - Post-War (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
 Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf580567-2c5a-447a-9943-30d8291ac559/7436314867-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Brett Dennen - So Much More (2006-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
 Amos Lee - Supply And Demand (2006-10-03)
 </li>
@@ -299,6 +296,9 @@ Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5d5a923-0adc-47d4-847a-421cbe5823dc/6430174126-500.jpg" data-tags="singer-songwriter, folk" role="button">
 Sun Kil Moon - Benji (2014-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
+Beck - Morning Phase (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

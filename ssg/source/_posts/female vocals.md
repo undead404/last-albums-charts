@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:41:01.403Z
+date: 2021-04-11T01:47:18.196Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -8,9 +8,9 @@ title: "female vocals: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">Black Eyed Peas - Elephunk (2003-06-24)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">Ashlee Simpson - Autobiography (2004-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/d0613007-0298-4ca6-b1f2-4b88dae63742/1693672754-500.jpg" data-tags="rock, alternative rock" role="button">We Are the Fallen - Tear The World Down (2010-05-07)</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">Sara Bareilles - Kaleidoscope Heart (2010-09-06)</li>
+<li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">Metric - Live It Out (2005-10-04)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
+<li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">Odesza - Summer's Gone (2012-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/5f63f608-a4c4-42e5-9689-134f3e9b1704/2864996407-500.jpg" data-tags="indie pop" role="button">MS MR - Candy Bar Creep Show (2012-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">Sara Bareilles - The Blessed Unrest (2013-07-16)</li>
@@ -45,9 +45,6 @@ The Sins of Thy Beloved - Lake of Sorrow (1998)
 <li data-cover="https://img.discogs.com/AvDHhFpOb0dIalCMltcrEwZK2nQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4027094-1352814355-5295.jpeg.jpg" data-tags="spanish, female vocals, mm, bn, rosana" role="button">
 Rosana - Luna Nueva (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
 </li>
@@ -60,6 +57,9 @@ Dance Hall Crashers - Purr (1999)
 <li data-cover="http://coverartarchive.org/release/05c4226e-6230-4598-9261-859af12fbb31/9579007154-500.jpg" data-tags="90s, rnb, female vocals, i own, blaque, albums in my cd rack, wie alles begann" role="button">
 Blaque - Blaque (1999-05-31)
 </li>
+<li data-cover="https://img.discogs.com/bYUT2UMYcakvfZRqjWWL7MFcjw8=/fit-in/397x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100570-1498662423-2513.png.jpg" data-tags="easy listening, female vocals, favourite country albums, reba mc entire, entire" role="button">
+Reba McEntire - So Good Together (1999-11-23)
+</li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
@@ -68,9 +68,6 @@ All Saints - Saints & Sinners (2000-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
 Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/98fec66c-ae1b-302e-9fbd-e87f419c2bcb/1051585580-500.jpg" data-tags="gothic metal" role="button">
-Mandragora Scream - Fairy Tales from Hell's Caves (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/76f8746d-a740-4257-ac68-ed15065a8313/3045375914-500.jpg" data-tags="female vocals, girlgroup" role="button">
 All Saints - All Hits (2001-11-05)
@@ -89,6 +86,9 @@ Ive Mendes - Ive Mendes (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
+Within Temptation - Running Up That Hill (2003)
 </li>
 <li data-cover="https://img.discogs.com/-jHRX-eJPGTA2oR-7Q3kBIJfRvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929781-1179521048.jpeg.jpg" data-tags="female, pop, rock, female vocalists, female vocals, female vocalist, female artists, female voices, gotanygoodmusic, rex ferric faves, girly power, 00s albums, albums in my cd rack" role="button">
 Lisa Marie Presley - To Whom It May Concern (2003-04-08)
@@ -122,6 +122,9 @@ Stellamara - The Seven Valleys (2004-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
 Antony and the Johnsons - The Lake (2004-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">
+Ophelia's Dream - Not A Second Time (2004-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">
 Stephen Fretwell - Magpie (2004-11-22)
@@ -165,6 +168,9 @@ Girls Aloud - Chemistry (2005-12-05)
 <li data-cover="http://coverartarchive.org/release/1d374001-7183-4e86-a315-f4601833a1c9/13959268563-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Sibylle Baier - Colour Green (2006-02-07)
 </li>
+<li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
+Android Lust - Devour, Rise, and Take Flight (2006-02-21)
+</li>
 <li data-cover="https://img.discogs.com/9qhCxMrjR5F_oxQT-Kt6BQ0yfm8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726453-1156064964.jpeg.jpg" data-tags="folk, singer-songwriter, americana, female vocals, 00s, sunday morning music, redhot, living room, americana-folk-siso vrouwen, snow on your eyelids, the poets, albums to checkout, the harrisburg family band, lorcas, going downtown, redhotmarisol, i love all the songs, redhotflor" role="button">
 Jolie Holland - Springtime Can Kill You (2006-05-08)
 </li>
@@ -195,6 +201,9 @@ Lightning Dust - Lightning Dust (2007-06-19)
 <li data-cover="https://img.discogs.com/bS6O7UNsC5xQl0_oPP1B4FKWruA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2068990-1612816256-2927.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
 Mary Gauthier - Between Daylight And Dark (2007-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a9f60dd-c556-457a-96f4-937f2f70a14e/10435093286-500.jpg" data-tags="ambient, world, psychill, female vocals" role="button">
+Dream Lab - Cosmotherapy (2007-09-27)
+</li>
 <li data-cover="https://img.discogs.com/-vubxZ0UEoouY5K97_nPioj62o0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1144048-1400434757-2045.jpeg.jpg" data-tags="female vocalists" role="button">
 Nicole Atkins - Neptune City (2007-10-30)
 </li>
@@ -203,6 +212,9 @@ Musetta - mice to meet you! (2007-11-01)
 </li>
 <li data-cover="https://img.discogs.com/qy4NzdeoIDtVBQQZJ7rKX6vqR3Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242072-1346934406-8539.jpeg.jpg" data-tags="lounge" role="button">
 Rekevin - A Peacock (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cf6b377-657c-4faf-96b9-57c736cbc5ae/12437174575-500.jpg" data-tags="lady gaga" role="button">
+Lady Gaga - Christmas Tree (2008)
 </li>
 <li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
@@ -234,9 +246,6 @@ Lunik - Preparing To Leave (2009)
 <li data-cover="http://coverartarchive.org/release/b88dbd5b-9d4e-49d8-a4ea-1634b9dfa5e1/14885682991-500.jpg" data-tags="jazz" role="button">
 Madeleine Peyroux - Bare Bones (2009-01-01)
 </li>
-<li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
-Erin McCarley - Love, Save The Empty (2009-01-06)
-</li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
@@ -246,17 +255,11 @@ Noisettes - Wild Young Hearts (2009-04-19)
 <li data-cover="https://img.discogs.com/nDscfZeWjXz_kewLtqwP7aOvwkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1989030-1257025066.jpeg.jpg" data-tags="gothic metal, female vocals, symphonic metal, metal" role="button">
 Stream of Passion - The Flame Within (2009-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/79b4d36d-595a-4afd-b10e-b53f71ef802f/1061656674-500.jpg" data-tags="metal, nu metal" role="button">
-Otep - Smash the Control Machine (2009-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0613007-0298-4ca6-b1f2-4b88dae63742/1693672754-500.jpg" data-tags="rock, alternative rock" role="button">
-We Are the Fallen - Tear The World Down (2010-05-07)
+<li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
+iwrestledabearonce - It's All Happening (2009-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
 Sugarland - Stuck Like Glue (2010-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
-Sara Bareilles - Kaleidoscope Heart (2010-09-06)
 </li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">
 Braids - Native Speaker (2011-01-18)
@@ -278,9 +281,6 @@ Sóley - We Sink (2011-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/178a02ba-fe9a-4be1-a747-303faac35388/8156839578-500.jpg" data-tags="electronic" role="button">
 HTRK - Work (Work, Work) (2011-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f82bdc4-d08a-4776-ae28-950d5fbd6fd1/4048297645-500.jpg" data-tags="electronic, shoegaze, dreamy, female vocals, records i own, redhot, village green, i love all the songs" role="button">
-Mint Julep - Save Your Season (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/840b2eb1-ebf3-41b6-8da4-ad28ff897552/4120038120-500.jpg" data-tags="female vocalists" role="button">
 Emma Hewitt - Burn the Sky Down (2012-05-18)

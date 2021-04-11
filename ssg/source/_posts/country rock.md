@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:55:01.400Z
+date: 2021-04-11T02:30:01.440Z
 title: "country rock: 100 albums you must listen to before you die"
 ---
 ![Neil Young - Harvest (1972-02-14)](http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg "Neil Young - Harvest (1972-02-14)")
@@ -84,6 +84,9 @@ Terry Reid - Seed Of Memory (1976)
 <li data-cover="https://img.discogs.com/g6Qi62Z2oEuySwlu6p9sEz9nRkE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-394522-1330284691.jpeg.jpg" data-tags="country, country rock, my country" role="button">
 Gram Parsons - Sleepless Nights (1976)
 </li>
+<li data-cover="http://coverartarchive.org/release/9951493a-4842-4d0b-bfdc-8f15d015b582/15026139423-500.jpg" data-tags="70s, country rock" role="button">
+The Band - Islands (1977-03-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
 Warren Zevon - Excitable Boy (1978)
 </li>
@@ -95,9 +98,6 @@ Meat Puppets - Meat Puppets II (1984-04)
 </li>
 <li data-cover="https://img.discogs.com/12XinCrK1-ERBM5rie8bnGzRqO4=/fit-in/593x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892381-1169932845.jpeg.jpg" data-tags="country rock, classic rock, rock" role="button">
 The Georgia Satellites - Georgia Satellites (1986)
-</li>
-<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
-Steve Earle - Guitar Town (1986-03-05)
 </li>
 <li data-cover="https://img.discogs.com/PgescH_NbCDmXQaNS1BL9I6ulo8=/fit-in/194x259/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8597939-1489266075-7765.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
 Nick Lowe - Basher: The Best of Nick Lowe (1989)
@@ -150,9 +150,6 @@ Garth Brooks - The Hits (1994-12-12)
 <li data-cover="http://coverartarchive.org/release/df50ebf9-5411-4f39-b5d6-4036903f0e34/936161960-500.jpg" data-tags="singer-songwriter, folk rock" role="button">
 Jim Croce - I Got A Name (1995-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cd9686a-b953-4c9c-818e-03256cb96dd3/9505339640-500.jpg" data-tags="rock, 80s, soft rock" role="button">
-Don Henley - Actual Miles: Henley's Greatest Hits (1995-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b0f8257-2a85-42bb-aaef-f796a61aaf59/14181734177-500.jpg" data-tags="political, country rock" role="button">
 Steve Earle - I Feel Alright (1996-03-05)
 </li>
@@ -167,6 +164,9 @@ Shania Twain - Come on Over (1997-11-04)
 </li>
 <li data-cover="https://img.discogs.com/eg6Wh1EYgRre6bpFJviJLuwereg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4312586-1410062256-3241.jpeg.jpg" data-tags="pop, rock, country, pop rock, adult contemporary, canadian, 90s, female vocalist, classic country, country rock, contemporary country, shania twain, twain, new traditionalist country, crime of the century, there goes the neighborhood, forget me, you lay a whole lot of love on me, dance with the one that brought you, stil under the weather, god aint gonna getcha for that, when he leaves you, hi love your mucik" role="button">
 Shania Twain - Shania Twain (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/0aad6166-e00f-40cf-b59e-1700fa102825/17554569612-500.jpg" data-tags="country rock, modern country, hum2check, wf" role="button">
+Rodney Carrington - Hangin' With Rodney (1998-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2658fda-efec-4b26-b07e-c9cec0887f37/26645577491-500.jpg" data-tags="country, country rock, countryalbum" role="button">
 Joe Diffie - Greatest Hits (1998-06-09)
@@ -204,6 +204,9 @@ Rodney Crowell - Fate's Right Hand (2003-08-26)
 <li data-cover="http://coverartarchive.org/release/45fe53e3-6695-464b-9859-990302f6d306/15270896003-500.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - The Complete Greatest Hits (2003-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/99dccf04-5813-493a-9277-ec4df7b0ef09/13886519569-500.jpg" data-tags="country, toby keith" role="button">
+Toby Keith - Shock'n Y'All (2003-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
@@ -230,9 +233,6 @@ Jason Aldean - Jason Aldean (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
-Ryan Adams - 29 (2005-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e461da2-55e8-4914-a2a9-fb8262bf3c81/8361384720-500.jpg" data-tags="southern rock, country rock, da fazenda" role="button">
 Shooter Jennings - Electric Rodeo (2006-04-04)

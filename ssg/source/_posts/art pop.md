@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:08:01.795Z
+date: 2021-04-11T02:18:01.424Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -65,6 +65,9 @@ Elbow - Cast of Thousands (2003-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fd10e64-ae53-31d9-adf0-df4566c50edd/20732430956-500.jpg" data-tags="electronic, alternative, idm, avant-garde, live, emusic, females, art pop, noteworthy, krojb" role="button">
 Björk - Post Live (2003-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/bee9a4bb-8db7-40d3-b129-779bacef5ff9/16127939552-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, the shit, art pop, moc mnam lofi" role="button">
+Dirty Projectors - The Glad Fact (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
 Xiu Xiu - Fabulous Muscles (2004-02-17)
@@ -200,9 +203,6 @@ alt-J - An Awesome Wave (2012-05-28)
 </li>
 <li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
 iamamiwhoami - kin (2012-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/798c24c1-4ef9-47ca-ae68-d3c4f5fde3bc/15309211291-500.jpg" data-tags="baroque pop" role="button">
-Anna von Hausswolff - Ceremony (2012-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
