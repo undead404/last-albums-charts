@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:14:01.472Z
+date: 2021-04-11T08:40:01.420Z
 title: "nu jazz: 100 albums you must listen to before you die"
 ---
 ![The Cinematic Orchestra - Motion (1999-09-01)](http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg "The Cinematic Orchestra - Motion (1999-09-01)")
@@ -84,14 +84,14 @@ Fila Brazillia - A Touch Of Cloth (1999-11-01)
 <li data-cover="http://coverartarchive.org/release/b90583a6-a000-4f23-ac1f-e63efec00de6/13210646761-500.jpg" data-tags="nu jazz, classical, jazz, piano" role="button">
 Leszek Możdżer - CHOPIN Impressions (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/a2316923-a960-472c-b68b-b2f6c7439c73/13873955619-500.jpg" data-tags="acid-jazz" role="button">
+Mondo Grosso - MG4 (2000-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">
 Dzihan & Kamien - Gran Riserva (2000-09-30)
 </li>
 <li data-cover="https://img.discogs.com/9pxgBdip5Ya3hoGyU-pk-B6Nnew=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653402-1545699178-4973.jpeg.jpg" data-tags="post-rock" role="button">
 Karate - Unsolved (2000-10-24)
-</li>
-<li data-cover="https://img.discogs.com/I53rN6Q4RqNI_EdCAYF2mXo5l3o=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-92759-1366675606-3999.jpeg.jpg" data-tags="nu jazz, jazz, instrumental, ambient, saxophone, kaufen, nice nite, wibutee" role="button">
-Wibutee - Eight Domestic Challenges (2001)
 </li>
 <li data-cover="https://img.discogs.com/S_u5hgxqd-TiZ8wwhrdvx880yOc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8871-1236606603.jpeg.jpg" data-tags="nu jazz, jazz, lounge, brisk sound, nathan, labaisssss baby vokaals, a joy forever" role="button">
 Nathan Haines - Sound Travels (2001)
@@ -102,14 +102,14 @@ Beady Belle - Home (2001-05-28)
 <li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
 Quantic - The 5th Exotic (2001-06-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu jazz, cafe del mar, lounge, chillout and- easy listening" role="button">
+Victor Davies - Victor Davies (2001-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/790ba88e-e193-49b0-8acb-2dae33f8b6b2/2221640191-500.jpg" data-tags="i am a spy here is my soundtrack" role="button">
 Xploding Plastix - Behind the Eightball (2001-11-05)
 </li>
 <li data-cover="https://img.discogs.com/WJ1wobMtrImn3d3hYA74fZDSnFo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29012-1464189405-3265.jpeg.jpg" data-tags="nu jazz, electronic, electronica, trip-hop, downtempo, trip-hip-hop, if only everyone knew" role="button">
 Attica Blues - Test. Don't Test (2002-01-22)
-</li>
-<li data-cover="https://img.discogs.com/7Vkg4dy5FHC4qgTp4bvmqo5boIM=/fit-in/595x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-32618-1209330266.jpeg.jpg" data-tags="nu jazz, chillout, electronic, electronica, trip-hop, jazz, chill, british, ambient, downtempo, lo-fi, 00s, ambient techno" role="button">
-Fila Brazillia - Jump Leads (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7840a710-b354-3856-8e98-d1afda2991c7/12013536001-500.jpg" data-tags="nu jazz" role="button">
 Jazzanova - In Between (2002-04-29)
@@ -141,8 +141,8 @@ Robotobibok - Instytut Las (2003)
 <li data-cover="http://coverartarchive.org/release/328e5984-a30f-47e7-bf5f-e47a165d3ad3/26936148482-500.jpg" data-tags="nu jazz" role="button">
 Nathan Haines - Squire for Hire (2003)
 </li>
-<li data-cover="https://img.discogs.com/bBN6bb7ozo-eV-DkeG9OohDAM-8=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-134435-1323947605.jpeg.jpg" data-tags="funk" role="button">
-The Quantic Soul Orchestra - Stampede (2003-04-21)
+<li data-cover="http://coverartarchive.org/release/f037ba50-f021-4514-80e5-666805f3381b/6592248206-500.jpg" data-tags="jazz, post-bop" role="button">
+Erik Truffaz - The Walk Of The Giant Turtle (2003-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b96285-1d26-4b87-aeb0-0cc68e7377b3/3462236101-500.jpg" data-tags="jazz" role="button">
 The Matthew Herbert Big Band - Goodbye Swingtime (2003-05-19)
@@ -164,9 +164,6 @@ Dani Siciliano - Likes... (2004-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/426f0e00-b541-461d-9747-9d861ed75141/6923514210-500.jpg" data-tags="idm" role="button">
 Squarepusher - Ultravisitor (2004-03-03)
-</li>
-<li data-cover="https://img.discogs.com/wEPLNtVrse-b3hylac4Ef88G5qA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-251840-1569437533-5082.jpeg.jpg" data-tags="house, detroit, deep house" role="button">
-Moodymann - Black Mahogani (2004-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/07a7bc50-ad40-4ac8-b328-846c9e62f616/2029917579-500.jpg" data-tags="nu jazz, jazz, bossa nova" role="button">
 Nicola Conte - Other Directions (2004-09-06)
@@ -240,6 +237,9 @@ Mouse on the Keys - Sezession (2007-11-21)
 <li data-cover="http://coverartarchive.org/release/7d4ea5ee-025d-4827-9c45-acb91a9c6123/10676566608-500.jpg" data-tags="nu jazz, electro, house, broken beat, nujazz, electrojazz, big beat, labels - etage noir recordings, p stelar" role="button">
 Parov Stelar - The Flame of Fame (2008-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/862e0da1-1197-4487-87b0-32b126d2d822/10701110865-500.jpg" data-tags="nu jazz, downtempo, electro-swing, electro swing" role="button">
+Parov Stelar - Single Collection 2 (2008-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
 Nicola Conte - Rituals (2008-08)
 </li>
@@ -266,9 +266,6 @@ Ronald Jenkees - Disorganized Fun (2009-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccdc4bce-779b-4df0-8419-b69cc9a19ba7/8663323607-500.jpg" data-tags="nu jazz, electronic" role="button">
 Parov Stelar - Coco (2009-08-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/3730d349-06f8-3e0e-bcdb-5effeecd5c13/18916516745-500.jpg" data-tags="dark jazz" role="button">
-The Kilimanjaro Darkjazz Ensemble - Here Be Dragons (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -317,6 +314,9 @@ Zaz - Recto Verso (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">
 Thundercat - Apocalypse (2013-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/3d45040f-d858-4ddc-b777-3fc59be8fb98/5942675454-500.jpg" data-tags="nu jazz" role="button">
+Submotion Orchestra - 1968 (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a8e7f92-d55f-4237-aeb4-b7a0c5e28f3d/9270438821-500.jpg" data-tags="nu jazz" role="button">
 Moonchild - Please Rewind (2014-03-25)

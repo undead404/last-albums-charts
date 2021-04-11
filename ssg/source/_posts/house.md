@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:51:07.010Z
+date: 2021-04-11T08:38:01.418Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -71,9 +71,6 @@ Modjo - Modjo (2001-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
 Daft Punk - Alive 1997 (2001-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
-Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
@@ -206,6 +203,9 @@ Adrian Lux - Teenage Crime (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/469de530-4198-4b4b-8408-66dfe1373212/1425963529-500.jpg" data-tags="dubstep, house, uk garage, katy, katy b, nton" role="button">
 Katy B - Katy On A Mission (2010-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
+Sky Ferreira - One (2010-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">
 Duck Sauce - Barbra Streisand (2010-09-13)

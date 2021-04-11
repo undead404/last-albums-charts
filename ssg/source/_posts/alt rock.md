@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:04:01.456Z
+date: 2021-04-11T08:44:06.998Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
 ![Imagine Dragons - Night Visions (2012-09-04)](http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg "Imagine Dragons - Night Visions (2012-09-04)")
@@ -45,9 +45,6 @@ Living Colour - Time's Up (1990-08)
 <li data-cover="http://coverartarchive.org/release/ee6bfa3c-6673-44ee-878e-cb6805765b58/12608688689-500.jpg" data-tags="grunge" role="button">
 Tad - 8-Way Santa (1991-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e2ed461-01f5-4692-bb7d-697b4f779775/15467186123-500.jpg" data-tags="alternative, 90s" role="button">
-Toad The Wet Sprocket - fear (1991-08-27)
-</li>
 <li data-cover="https://img.discogs.com/wiwc5F-Izgh-VQGPdgJ8Q5aLcLA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065347-1189482578.jpeg.jpg" data-tags="punk, riot grrrl" role="button">
 Daisy Chainsaw - Eleventeen (1992-10-06)
 </li>
@@ -57,17 +54,14 @@ Grant Lee Buffalo - Fuzzy (1993)
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, 1994" role="button">
 Nine Inch Nails - March of the Pigs (1994-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c0905835-0bde-3f87-bfae-50bac19440ed/6223552957-500.jpg" data-tags="rock" role="button">
-Deep Blue Something - Home (1995-06-13)
-</li>
 <li data-cover="https://img.discogs.com/67lVeCX2CFFomQ0ymc8_wdYC5tE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11192-1363744943-3826.jpeg.jpg" data-tags="rock, alternative, swedish, experimental, alt rock, dance rock, import, trip-rock, trip-pop, mnogo dobro, stoner pop, dawohuhu" role="button">
 Whale - We Care (1995-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ec3f8dc-27fe-31b1-ac45-f957da4e3773/28476982084-500.jpg" data-tags="90s, britpop, indie" role="button">
 The Verve - A Northern Soul (1995-07-03)
 </li>
-<li data-cover="https://img.discogs.com/ccIujQlCeGbuCWPV-Aj68vMS8L0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290632-1283752235.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
-Dishwalla - Pet Your Friends (1995-08-22)
+<li data-cover="http://coverartarchive.org/release/9a68998d-ee0e-4c43-8d1a-1ef3dbad7365/8147477255-500.jpg" data-tags="noise rock" role="button">
+Six Finger Satellite - Severe Exposure (1995-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
 Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
@@ -75,8 +69,8 @@ Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 <li data-cover="http://coverartarchive.org/release/47dff9f0-d1f3-47d3-a860-da762ea68f99/1651049249-500.jpg" data-tags="90s" role="button">
 The Verve Pipe - Villains (1996-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd51cabe-c150-38cf-b0cd-ebc9e5c9994f/27541946371-500.jpg" data-tags="alternative rock, rock" role="button">
-Tonic - Lemon Parade (1996-07-16)
+<li data-cover="https://img.discogs.com/aNhB1sEgHyAKQwaAN6vCmRCrRDc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-978211-1180098018.jpeg.jpg" data-tags="alternative, experimental rock, dreamy, 90s, alt rock, exprog, online record collection" role="button">
+Thinking Fellers Union Local 282 - I Hope It Lands (1996-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
 The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
@@ -87,8 +81,14 @@ Econoline Crush - The Devil You Know (1997-06-17)
 <li data-cover="https://img.discogs.com/I-oViWD7yaPbPfp-56ogVSe6K8o=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10404061-1538314922-5725.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
+<li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
+Super Furry Animals - Radiator (1997-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee01592b-5da1-3dea-a289-d2b0906b7d5a/5679112410-500.jpg" data-tags="rock" role="button">
 Fuel - Sunburn (1998-03-31)
+</li>
+<li data-cover="https://img.discogs.com/zau8CoVGHSxranIndl2IyM6GXMw=/fit-in/563x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1851550-1289985493.jpeg.jpg" data-tags="secretly canadian" role="button">
+Songs: Ohia - Impala (1998-04-01)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="rock, dave matthews band" role="button">
 Dave Matthews Band - Before These Crowded Streets (1998-04-28)
@@ -114,6 +114,9 @@ Vertical Horizon - Everything You Want (2000-08-14)
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
 </li>
+<li data-cover="https://img.discogs.com/xokyBz5hzFNuqZ2yH9JdepMHH7M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1158868-1197154991.jpeg.jpg" data-tags="soul, pop rock, alternative pop, bermudian" role="button">
+Heather Nova - South (2001-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/41de15ee-e9d8-4336-aa14-03ea5be4016f/15537492906-500.jpg" data-tags="alternative metal, nu metal, lovecore" role="button">
 Boy Hits Car - Boy Hits Car (2001-01-09)
 </li>
@@ -131,9 +134,6 @@ Hoobastank - Hoobastank (2001-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/20d00514-e1c6-4b09-a7cd-b824a80ab047/5896975081-500.jpg" data-tags="indie rock" role="button">
 Denali - Denali (2002-04-16)
-</li>
-<li data-cover="https://img.discogs.com/nNVV6HF1SBNCrnuguRpaQoUFmiQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475460-1497839811-1324.jpeg.jpg" data-tags="rock, alternative" role="button">
-Dishwalla - Opaline (2002-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
 Deerhoof - Reveille (2002-06-04)
@@ -185,9 +185,6 @@ TRUSTcompany - True Parallels (2005-03-22)
 </li>
 <li data-cover="https://img.discogs.com/aEnJ04MUDNSOAUQJakuVsDe9A98=/fit-in/344x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492004-1286975812.jpeg.jpg" data-tags="rock, alternative, female vocalists, singer-songwriter, alt rock, toll, albums in my cd rack" role="button">
 Lisa Marie Presley - Now What (2005-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, female vocalists, radio radio radio" role="button">
 Queen Adreena - The Butcher And The Butterfly (2005-05-23)
@@ -272,6 +269,9 @@ Anberlin - Dark Is The Way, Light Is A Place (2010-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
 fun. - Some Nights (2011-07-12)
+</li>
+<li data-cover="https://img.discogs.com/hxifDw2Ax_1r2UZRnikZj514wh0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3505138-1333096610.jpeg.jpg" data-tags="rock" role="button">
+We Are Augustines - Rise Ye Sunken Ships (2011-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/95501339-d993-49d8-8bb0-54cb98464c29/13194367606-500.jpg" data-tags="alternative rock" role="button">
 Tom Waits - Bad as Me (2011-10-21)

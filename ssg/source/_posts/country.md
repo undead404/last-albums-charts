@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:50:01.420Z
+date: 2021-04-11T08:04:01.432Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/EGOkGRsgmL_vDdsk47QKCe1RcUE=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17519131-1613914397-8183.jpeg.jpg" data-tags="western, country" role="button">
-Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
-</li>
 <li data-cover="http://coverartarchive.org/release/45647913-b279-4118-8ff4-ae3420437c66/17873579445-500.jpg" data-tags="country" role="button">
 Johnny Cash - At Folsom Prison (1968)
 </li>
@@ -215,6 +212,9 @@ Jason Aldean - Relentless (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/244fcc6f-2054-4717-89ff-1b602914cc9e/11160160955-500.jpg" data-tags="country" role="button">
 Brad Paisley - 5th Gear (2007-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef76dc88-d11d-4bfc-a0c4-c46c6eecb18c/14714946139-500.jpg" data-tags="zac brown" role="button">
+Zac Brown Band - The Foundation (2007-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/47330b34-5a07-4b32-8d1d-0def5938cd1e/19658481344-500.jpg" data-tags="country, luke bryan" role="button">
 Luke Bryan - I'll Stay Me (2007-08-14)

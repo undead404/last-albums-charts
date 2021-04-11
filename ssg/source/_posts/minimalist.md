@@ -1,11 +1,10 @@
 ---
-date: 2021-04-10T14:40:01.423Z
+date: 2021-04-11T08:20:01.434Z
 title: "minimalist: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Stay On My Side Tonight (2005-10-04)](http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg "Jimmy Eat World - Stay On My Side Tonight (2005-10-04)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/ZNKkcb7-IxdLb6DlcCn10OFvkGc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-77371-1373051103-3995.jpeg.jpg" data-tags="minimalism" role="button">Terry Riley - A Rainbow in Curved Air (1969)</li>
-<li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">Steely Dan - Countdown To Ecstasy (1973-07)</li>
 <li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">Moondog - H'art Songs (1978)</li>
 <li data-cover="http://coverartarchive.org/release/7c6cd35a-a86e-4ad5-97e9-b36d568bf6a7/22386593905-500.jpg" data-tags="ambient" role="button">Labradford - fixed::context (2000)</li>
 <li data-cover="http://coverartarchive.org/release/a1485165-4dc3-4249-bbfe-ef728f3b7bb1/21138150518-500.jpg" data-tags="jazz, ambient, minimalist, over ten minutes" role="button">The Necks - Aether (2001)</li>
@@ -14,6 +13,7 @@ title: "minimalist: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">Jimmy Eat World - Stay On My Side Tonight (2005-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/d127ac52-bdae-45ed-94b4-b72e805e353f/13277500423-500.jpg" data-tags="electronic, classical, ambient, minimal, spooky, modern classical, minimalist" role="button">Murcof - The Versailles Sessions (2008-12-01)</li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">Nicolas Jaar - Space Is Only Noise (2011-01-31)</li>
+<li data-cover="http://coverartarchive.org/release/566e1e78-5b72-45cc-81df-b1db543b67cd/16162039894-500.jpg" data-tags="ambient" role="button">Tim Hecker - Dropped Pianos (2011-10-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,9 +27,6 @@ Terry Riley - A Rainbow in Curved Air (1969)
 <li data-cover="http://coverartarchive.org/release/8893c8de-d50c-49ba-a2e1-b272e78c2d81/14704572438-500.jpg" data-tags="experimental" role="button">
 Tony Conrad with Faust - Outside the Dream Syndicate (1972)
 </li>
-<li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">
-Steely Dan - Countdown To Ecstasy (1973-07)
-</li>
 <li data-cover="https://img.discogs.com/XNSChXqDzzNbbNTCIKIxDBbV9Q4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551842-1383164301-5953.jpeg.jpg" data-tags="progressive rock" role="button">
 Gentle Giant - Free Hand (1975-07)
 </li>
@@ -39,9 +36,6 @@ Gentle Giant - Free Hand (1975-07)
 <li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">
 Moondog - H'art Songs (1978)
 </li>
-<li data-cover="https://img.discogs.com/DQFV__qivRhashkmsL443U1BPhk=/fit-in/345x345/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471803-1118521775.gif.jpg" data-tags="instrumental, belgium, belgian, belge, minimalist, belgique" role="button">
-Wim Mertens - For Amusement Only (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b92101d-8d87-4a9d-b72e-f4dda3ccfe9b/16197865801-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Warsaw (1981)
 </li>
@@ -50,12 +44,6 @@ Mick Karn - Titles (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c49f5cb3-ef33-44de-9699-47135b58dcc4/3315948669-500.jpg" data-tags="soundtrack" role="button">
 Ennio Morricone - The Thing (1982-09)
-</li>
-<li data-cover="https://img.discogs.com/iIuRdGyK6FzUZykcYZVIpJhSrw4=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1762136-1295564990.jpeg.jpg" data-tags="instrumental, belgium, belgian, belge, minimalist, belgique, robertitus global, intrumental ram, ambient ram, instrumental ram, robertitus coleccion, escalera al cielo" role="button">
-Wim Mertens - Close Cover (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/08e3200b-f184-4837-a262-6bdabbd23850/12622382583-500.jpg" data-tags="belgian" role="button">
-Wim Mertens - A Man Of no Fortune, And With A Name To Come (1986-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c34e3d05-12ac-4f13-b52d-95127233c096/8056344411-500.jpg" data-tags="industrial, ebm" role="button">
 Click Click - Wet Skin and Curious Eye (1987)
@@ -75,6 +63,12 @@ Meredith Monk - Book of Days (1990-04)
 <li data-cover="https://img.discogs.com/LfNZiVrR9mxAEZ07GWk7EW3g0pk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-67914-1302117186.jpeg.jpg" data-tags="avant-garde" role="button">
 Autopsia - Palladium (1991)
 </li>
+<li data-cover="https://img.discogs.com/qm5uk-nLT_IS4VHhNoG80uWKDN4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5580102-1397123462-3575.jpeg.jpg" data-tags="geoff mann, marc catley" role="button">
+Marc Catley & Geoff Mann - The Off The End Of The Pier Show (1991)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, industrial, noise, electronic, lo-fi" role="button">
+Autopsia - Wound (1991)
+</li>
 <li data-cover="https://img.discogs.com/8NGQ8vdov1cL_PyS0QQwLdtVcqw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8344208-1459769766-8491.jpeg.jpg" data-tags="minimalist" role="button">
 Suicide Commando - Black Flowers (1992)
 </li>
@@ -93,17 +87,11 @@ Ildjarn - Strength and Anger (1996)
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
-<li data-cover="https://img.discogs.com/Du0hBvd0btTI7gh8tdc0DFESGik=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35288-1526519542-3987.jpeg.jpg" data-tags="idm, electronic" role="button">
-Autechre - Cichlisuite (1997-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0fa2195d-b323-4c14-a0df-4cfc206c0bbd/10113442223-500.jpg" data-tags="ambient, experimental, avant-garde, minimalist" role="button">
 Hans-Joachim Roedelius - Aquarello (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0730eb5d-b0e1-4458-bc21-498783e5eb4e/20987949311-500.jpg" data-tags="math rock, post-punk" role="button">
 Shellac - Terraform (1998-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b79c1285-1f52-36b7-adb8-b24491389644/2386244795-500.jpg" data-tags="post-punk" role="button">
-Rowland S. Howard - Teenage Snuff Film (1999-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6cd35a-a86e-4ad5-97e9-b36d568bf6a7/22386593905-500.jpg" data-tags="ambient" role="button">
 Labradford - fixed::context (2000)
@@ -113,9 +101,6 @@ Pomegranate - This Illusion Sound (2000-01-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1485165-4dc3-4249-bbfe-ef728f3b7bb1/21138150518-500.jpg" data-tags="jazz, ambient, minimalist, over ten minutes" role="button">
 The Necks - Aether (2001)
-</li>
-<li data-cover="https://img.discogs.com/z9fAj8A2ZpoC2DsFu1GwoVq5vDQ=/fit-in/540x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8245256-1457869850-3526.jpeg.jpg" data-tags="instrumental, belgium, belgian, belge, minimalist, belgique" role="button">
-Wim Mertens - At Home - Not At Home (2001)
 </li>
 <li data-cover="https://img.discogs.com/204xHyPVZHG44IVu5wM4X1V2KJ8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15826865-1598527030-4789.jpeg.jpg" data-tags="piano" role="button">
 John Cage - Music for Prepared Piano, Volume 2 (Boris Berman) (2001)
@@ -141,20 +126,17 @@ Philip Glass - A Descent into the Maelström (2002-07-19)
 <li data-cover="https://img.discogs.com/_TWSxVg6lsbcmzPYXK29hWvsVpc=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9937964-1499117004-9986.jpeg.jpg" data-tags="classical, piano, minimalist, nonesuch, reich, axolotl" role="button">
 Steve Reich - Variations (2002-08-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/aa28bf3b-9df1-4d5a-9bec-6edb9d26093e/25831929775-500.jpg" data-tags="experimental, soundscape, avant-garde, microsound, performance, minimalist, peripheral music, conceptual albums" role="button">
+The Ocioso Blues Project - Media hora en la vida de Blues Vol 1 (2003)
+</li>
 <li data-cover="https://img.discogs.com/oyhOZzOTOAr21p5tWjbAwcZqIJM=/fit-in/291x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184899-1197149228.jpeg.jpg" data-tags="ambient, minimalist, good albmu" role="button">
 Ezekiel Honig - Technology Is Lonely (2003-04-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch" role="button">
-Fennesz - Venice (2004-03)
 </li>
 <li data-cover="https://img.discogs.com/WNQn-C45wK9Xa_uag69yD0hnhq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738320-1490355272-4628.jpeg.jpg" data-tags="folk, atmospheric, minimalist, sandalgaze, listening easy" role="button">
 The Blithe Sons - Arm of the Starfish (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f56d543-47bb-4d73-870e-f2e98e4358c4/21243794013-500.jpg" data-tags="raster-noton, glitch" role="button">
 Alva Noto - Transspray (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/2751c633-3cf6-47d3-a637-bc899fac1756/27670540502-500.jpg" data-tags="noise" role="button">
-Prurient - Black Vase (2005-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
 Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
@@ -177,14 +159,8 @@ So Percussion - Amid The Noise (2006-10-10)
 <li data-cover="https://img.discogs.com/XePhC1qlSLG6by_P6h8-Lo7quEI=/fit-in/338x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2544710-1289745495.jpeg.jpg" data-tags="drone" role="button">
 Rhys Chatham - A Crimson Grail (2007-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3d8a0ab-537d-425e-94ee-59248c1e4e66/16423303798-500.jpg" data-tags="instrumental, ambient, ethereal" role="button">
-Vision Éternel - Seul dans l'obsession (2007-02-14)
-</li>
 <li data-cover="https://img.discogs.com/jhQtFwgw59evadnxeTZCjElWEb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929565-1173990275.jpeg.jpg" data-tags="experimental, post-rock, soundscape, drone, psychedelic chillout, archaic horizon" role="button">
 Sora Shima - Distancing EP (2007-03-07)
-</li>
-<li data-cover="https://img.discogs.com/KuvFb_z9iDe8LlSSqY2sISpjryU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14947042-1584551619-4213.jpeg.jpg" data-tags="goth, ambient, dark, gothic, dreamy, moody, space, ethereal, space music, dark ambient, minimalist, chez musinum, drift, amorphous, progressive ambient, wilkerson" role="button">
-Phillip Wilkerson - Amorphous Worlds (2007-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2efaffaf-2d1f-4807-8dc2-49b5c7ca28b9/9211586395-500.jpg" data-tags="minimalist, guitar drone, minimalist drone" role="button">
 Dröne - Bleak (2008)
@@ -194,6 +170,9 @@ Brethren of the Free Spirit - The Wolf Also Shall Dwell with the Lamb (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f337fae-9026-4b10-9a54-8c37e687de3c/16423326140-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - Un automne en solitude (2008-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfde493d-4070-4141-beb7-01c6f2bd2ef7/1330011085-500.jpg" data-tags="electronica, ambient, experimental" role="button">
+Antendex - Photons (2008-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04144bd5-b872-41c8-8466-ff19ae77ef05/23715843413-500.jpg" data-tags="ambient, drone, drone ambient, visionary" role="button">
 Celer - Discourses Of The Withered (2008-07-22)
@@ -213,6 +192,15 @@ Murcof - The Versailles Sessions (2008-12-01)
 <li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
 Frozen Silence - Impressions (2008-12-23)
 </li>
+<li data-cover="https://img.discogs.com/P9xucAJnJHUwkyGRGTgDmjo-3ZY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12292494-1532297002-4923.jpeg.jpg" data-tags="soundscape, avant-garde, microsound, performance, minimalist, habla, historia de la humanidad, hombre prehistorico" role="button">
+The Ocioso Blues Project - El hombre de la Caverna, Disco 1 (2009)
+</li>
+<li data-cover="https://img.discogs.com/B9YVVpIoosHsskA_zKMMGuLFU7M=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3571594-1532127903-3947.jpeg.jpg" data-tags="ambient, experimental, soundscape, avant-garde, performance, minimalist, montage, artesonoro, poesiasonora" role="button">
+The Ocioso Blues Project - La Tirania de la Selva - Vol 1 (2009)
+</li>
+<li data-cover="https://img.discogs.com/B9YVVpIoosHsskA_zKMMGuLFU7M=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3571594-1532127903-3947.jpeg.jpg" data-tags="ambient, experimental, soundscape, avant-garde, performance, minimalist, poesiasonora" role="button">
+The Ocioso Blues Project - La Tirania de la selva - Vol 2 (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/1074e135-85a0-42ee-a59a-21337553f7f8/16423349997-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - An Anthology Of Past Misfortunes (2009-02-14)
 </li>
@@ -224,9 +212,6 @@ Pan•American - white bird release (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1cade39-f1f0-4873-a93b-adc4db3f3c8f/5772569391-500.jpg" data-tags="industrial, psychedelic, tympanik audio" role="button">
 Aphorism - Surge (2009-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9506cb7-799c-470b-8fed-4fe4c8fe45d4/20129603489-500.jpg" data-tags="experimental, psychedelic rock" role="button">
-Wooden Shjips - Dos (2009-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/55586ca1-3d8e-4eb1-b6f2-53c61b3f356b/10911281425-500.jpg" data-tags="dubstep" role="button">
 Kryptic Minds - One of Us (2009-09-28)
@@ -240,11 +225,11 @@ Llyn y Cwn - II (2009-11)
 <li data-cover="https://img.discogs.com/AE2XDKdLO32uEUWEqpUAMfFhkD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5414369-1392755079-2836.jpeg.jpg" data-tags="drone, minimalism, space ambient, atmospheric, ambient, atmosphere" role="button">
 fydhws - Fikcii (2009-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/3efc9178-5376-442f-b539-a7aca34679c5/1111526728-500.jpg" data-tags="electro-rock, industrial, post-punk, experimental, avantgarde, dark ambient, ambient, avant-garde, avant garde, experimental industrial" role="button">
-Her Ethic - Spoiler Warning: YOU DIE (2009-12-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/192d9fa4-6572-4ad6-b99b-adb2c28a3486/16423390315-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - Rehearsal November 30th, 2009 (2010-02-20)
+</li>
+<li data-cover="https://img.discogs.com/AE2XDKdLO32uEUWEqpUAMfFhkD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5414369-1392755079-2836.jpeg.jpg" data-tags="noise rock, no wave, experimental rock, psychedelic, drone, neo-psychedelia, psychedelic rock, shoegaze, psychedelia, space rock" role="button">
+fydhws - Eden i Dva (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/39e6b543-d83a-40f1-8a30-5faac85e68c2/1283887101-500.jpg" data-tags="instrumental, modern classical, minimalist, laridae" role="button">
 aAirial - le fil du temps (2010-03-04)
@@ -279,6 +264,9 @@ Lattice - Found Music (2011-01-01)
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
 </li>
+<li data-cover="https://img.discogs.com/p3rIriVlZ8f5Zt7eM5XZoE49LX0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2797062-1301438991.jpeg.jpg" data-tags="noise, ambient, experimental, atmospheric, drone, minimalism, electroacoustic, dark ambient, drone ambient, minimalist, musique concrete" role="button">
+Subterrestrial - Transmissions from the Hollow Earth (2011-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/a74bf01b-a7ed-44dd-afe9-33a15410d135/5181602986-500.jpg" data-tags="glitch" role="button">
 Seekae - +Dome (2011-03-25)
 </li>
@@ -300,20 +288,32 @@ Le Berger - ...On Silence (2011-10-24)
 <li data-cover="http://coverartarchive.org/release/945d2051-9f02-45dc-ac03-ce195b9975c4/2172423786-500.jpg" data-tags="atmospheric" role="button">
 Sophie Kazandjian - Glass Slopes (2012-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/e46bfe5b-ced1-4c81-a9bd-a5c57b6b64f5/3818770253-500.jpg" data-tags="house" role="button">
-Nina Kraviz - Nina Kraviz (2012-02-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/29d09717-913e-4202-b1bd-3df544cf6cf0/16423411034-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - The Last Great Torch Song (2012-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d81db5cd-416a-4aa0-ba92-48dc8bbe37b8/1267570424-500.jpg" data-tags="instrumental, cinematic, atmospheric, melancholy, ethereal, melancholic, minimalist" role="button">
 Wil Bolton - Under a Name That Hides Her (2012-05-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/b01f86ab-3e46-4a69-acf5-19a4e910c474/7272279185-500.jpg" data-tags="electronic, alternative, ambient, experimental, acoustic, lo-fi, minimal, idm, soundscape, glitch, avant-garde, drone, minimalist, home-listening" role="button">
+Chris Weeks - A Deconstructed Sun (2012-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d8a99d9-6fdb-4b77-a9d7-e662a5a3809b/3254348941-500.jpg" data-tags="instrumental, ambient, modern classical, minimalist" role="button">
 aAirial - Emotions are desert islands (2013-01-07)
 </li>
 <li data-cover="https://img.discogs.com/FSfvAGFvxdB7XKmfLd7O1Bey9ds=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5237701-1388405840-1388.jpeg.jpg" data-tags="ambient" role="button">
 Lattice - Remixes & Other Oddities (2013-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/800ee457-1865-467a-ad84-8fabf109e7f0/24018205670-500.jpg" data-tags="ambient, soundscape, avant-garde, microsound, performance, sound art, minimalist, montage, sound-art, silencio" role="button">
+The Cherry Blues Project - Memorias del Invierno: Vol. 1 (2013-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e468a18-f1de-4dc4-956c-5a0ffe3d0570/24018207709-500.jpg" data-tags="ambient, soundscape, avant-garde, microsound, performance, minimalist, montage" role="button">
+The Cherry Blues Project - Memorias del Invierno: Vol. 2 (2013-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d228ab8c-7ace-4d6c-8a66-71cceb777562/24018210351-500.jpg" data-tags="ambient, soundscape, atmospheric, avant-garde, poetry, microsound, performance, sound art, poet, minimalist, philosophy, montage, strange sounds, poesiasonora, historia de la humanidad, hombre prehistorico" role="button">
+The Cherry Blues Project - Memorias del Invierno: Vol. 3 (2013-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/73d6e6b6-ddee-480e-b2bd-dc61875c4b34/24018200115-500.jpg" data-tags="ambient, soundscape, avant-garde, microsound, performance, minimalist, montage" role="button">
+The Cherry Blues Project - Selectas Memorias del Invierno (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/20074beb-380c-4da5-8dcd-e1eb063f78ce/22288528767-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - Interstellar (2014-11-17)

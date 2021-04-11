@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:37:01.419Z
+date: 2021-04-11T08:37:01.409Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -50,6 +50,9 @@ Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/92170779-0baf-31f4-930d-8213c7462eac/3435477482-500.jpg" data-tags="trip-hop" role="button">
 Archive - Londinium (1996-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
+Everything But the Girl - Walking Wounded (1996-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
 London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
@@ -302,9 +305,6 @@ King Krule - 6 Feet Beneath The Moon (2013-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
-FKA twigs - EP2 (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)

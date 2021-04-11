@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:17:01.416Z
+date: 2021-04-11T08:41:01.540Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/vXkEoXsQV1UElskxuI9qUErajOc=/fit-in/468x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13023556-1546656092-1004.jpeg.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f6282a9-6b8f-4215-b61f-358ba8ebb9d0/2824608720-500.jpg" data-tags="alternative metal, post-punk, funk metal" role="button">
-Faith No More - We Care a Lot (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
@@ -71,6 +68,9 @@ Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">
 Extreme - Extreme II: Pornograffitti (1990-08-07)
+</li>
+<li data-cover="https://img.discogs.com/0uN1Ok3w-S714MQqDubwGTNEmS8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464540-1365621930-8597.jpeg.jpg" data-tags="funk metal, funk-thrash metal" role="button">
+Mordred - In This Life (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/01074d31-922b-43a3-9cb0-80845f09dac1/23809036137-500.jpg" data-tags="heavy metal, funk metal, thrash metal, punk metal, heavy-thrash metal" role="button">
 Discharge - Massacre Divine (1991)
@@ -162,9 +162,6 @@ Korn - Life Is Peachy (1996-10-15)
 <li data-cover="http://coverartarchive.org/release/ce4722b7-7d58-4f7d-b76d-cb4b37fb661b/1069838540-500.jpg" data-tags="metal, nu metal" role="button">
 Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
-Snot - Get Some (1997)
-</li>
 <li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
 Faith No More - Album of the Year (1997-06-03)
 </li>
@@ -224,6 +221,9 @@ Infectious Grooves - Mas Borracho (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/6185da21-757a-47a5-9183-1d0890fdda52/14839842507-500.jpg" data-tags="funk metal, alt metal" role="button">
+Korn - Kornography (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f51b2e-fb7d-43fc-9535-aba41b13477e/9495572033-500.jpg" data-tags="metalcore, metal, rock, alternative, alternative rock, hardcore, funk metal, funk, alternative metal, 00s, nu metal, funk rock, hardcore punk, maximum the hormone, nao, daisuke-han, maximum the ryo-kun, ue-chang" role="button">
 マキシマム ザ ホルモン - 鳳 (2001-02-14)

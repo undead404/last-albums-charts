@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:38:01.408Z
+date: 2021-04-11T08:21:07.010Z
 title: " male vocalists: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -7,12 +7,12 @@ title: " male vocalists: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/yDktBNc2mqIYK_pEAdzm2ijWeWs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10054585-1490820659-7104.jpeg.jpg" data-tags="80s, britpop, studiocolombo, buenos,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Blur - Hit Collection 2000 (2000)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">Pulp - Hits (2002-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/1afe7e41-7c77-4e13-90e5-f170404ad3df/13703071855-500.jpg" data-tags="alternative, brit-pop, alternative britpop, alternative rock, 90s" role="button">Suede - Singles (2003-10-20)</li>
+<li data-cover="http://coverartarchive.org/release/fa345686-b9cf-47d4-9862-e37e9199c4e5/8250454850-500.jpg" data-tags="pop punk" role="button">Fall Out Boy - Believers Never Die - Greatest Hits (2009-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 <li data-cover="http://coverartarchive.org/release/4040e134-a3bf-4b54-a0c4-befc4a9c62ed/17987960903-500.jpg" data-tags="britpop, record store day, 2013 releases, rough trade, record store day 2013,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Pulp - After You (2013-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">Fall Out Boy - Save Rock and Roll (2013-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/da6e9e8b-ba68-4cf5-a375-12f83181923c/3260557740-500.jpg" data-tags="alternative" role="button">Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (2013-04-16)</li>
-<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop, glam rock" role="button">Suede - Bloodsports (2013-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/7e06809c-5677-45ad-95c6-92f95503aa11/8236940745-500.jpg" data-tags="pop, pop rock,  pop rock,  male vocalists,  emo,  emo pop" role="button">Fall Out Boy - Centuries (2014-09-09)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/4hWONDDoT_2XOHooj__PrCTkui8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-313069-1223654037.jpeg.jpg" data-tags="post-punk" role="button">
-Pulp - Freaks (1987-05)
-</li>
 <li data-cover="https://img.discogs.com/1UunTYJc7mdjrz13G5yXHDNoNQw=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3716503-1342278865-9111.jpeg.jpg" data-tags="britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - My Legendary Girlfriend (1991-03)
 </li>
@@ -36,8 +33,8 @@ Pulp - Countdown (1991-08-22)
 <li data-cover="https://img.discogs.com/hOeX2unic3sqEV3Pp4XSmv1a0v0=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467763-1285695912.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Popscene (1992-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/ed8e6ae6-baf0-4e48-8f36-b927fd76064d/4395964292-500.jpg" data-tags="90s" role="button">
-Pulp - Separations (1992-07)
+<li data-cover="https://img.discogs.com/sIOVP75SjncQB1yTa6Zp3goatHE=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2115909-1523915746-9569.jpeg.jpg" data-tags="alternative pop and rock" role="button">
+Suede - The Drowners (1992-05-11)
 </li>
 <li data-cover="https://img.discogs.com/Pswlvl6nS1bjXMw-GiG38FnZTLE=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87457-1146661421.jpeg.jpg" data-tags="indie, alternative, indie pop, indie rock, britpop, england, sheffield, yorkshire, south yorkshire, adrien wayne,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - Razzmatazz (1993-02-15)
@@ -99,6 +96,9 @@ Blur - Song 2 (1997-01)
 <li data-cover="https://img.discogs.com/QV9TZOPWWClf6UT6NT2DZ4_GzQQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663446-1297358388.jpeg.jpg" data-tags="indie, rock, british, indie rock, britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Blur - Beetlebum (1997-01-20)
 </li>
+<li data-cover="https://img.discogs.com/QRkR5Mc--0pl5djU47d_wC6PtsQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931901-1554643221-5341.jpeg.jpg" data-tags="britpop, nude records,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
+Suede - Lazy (1997-04-07)
+</li>
 <li data-cover="https://img.discogs.com/QRkR5Mc--0pl5djU47d_wC6PtsQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931901-1554643221-5341.jpeg.jpg" data-tags="britpop, for sale, selling, nude records, for trade, trading,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Suede - Filmstar (1997-08-04)
 </li>
@@ -150,11 +150,17 @@ Pulp - We Love Life (2001-10-22)
 <li data-cover="https://img.discogs.com/MUHUeCvYgy6E6uMCxpoEywrXSKI=/fit-in/529x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1628919-1456112623-3389.jpeg.jpg" data-tags="rock, alternative, live,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
 The White Stripes - Hotel Yorba (2001-11-12)
 </li>
+<li data-cover="https://img.discogs.com/Z-nR4jZ7yypNkIB7HacT8cUD_xA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-870222-1562007428-2739.jpeg.jpg" data-tags="rock,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
+The White Stripes - Merry Christmas from The White Stripes (2002)
+</li>
 <li data-cover="https://img.discogs.com/EizDS34N8c7RcmKNS6VVWfEUQnc=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3717853-1503043169-7704.jpeg.jpg" data-tags="alternative" role="button">
 The White Stripes - Fell in Love With a Girl (2002-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8619a517-2a81-4719-bd7f-2803ed33f31e/17811509879-500.jpg" data-tags="britpop, jarvis cocker fan radio, bad cover version, island records, josta59 radio, pop lament,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - Bad Cover Version (2002-04-15)
+</li>
+<li data-cover="https://img.discogs.com/I3bv_2IYXed2_qYQRvMBb5B9oFw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7188552-1435875808-9510.jpeg.jpg" data-tags="rock, alternative rock, garage rock,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
+The White Stripes - Red Death At 6:14 (2002-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/de11cd24-1a3c-456f-bc99-44a29ee10abf/23815756252-500.jpg" data-tags="rock, live, leaves and roots and twigs and branches,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
 The White Stripes - Dead Leaves and the Dirty Ground (2002-09-02)
@@ -165,9 +171,6 @@ Suede - Positivity (2002-09-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">
 Pulp - Hits (2002-11-18)
 </li>
-<li data-cover="https://img.discogs.com/BW4KNYtreRgPwGgfomkrP0Jr7UA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13040293-1546972472-6077.jpeg.jpg" data-tags="rock, loud,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
-The White Stripes - There's No Home For You Here (2003)
-</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="indie rock" role="button">
 Blur - Crazy Beat (2003-03)
 </li>
@@ -176,9 +179,6 @@ The White Stripes - Life on the Flipside (2003-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b44192b-5b11-3985-b539-25174501d546/28391998382-500.jpg" data-tags="punk, emo, fall out boy" role="button">
 Fall Out Boy - Fall Out Boy's Evening Out With Your Girlfriend (2003-03-25)
-</li>
-<li data-cover="https://img.discogs.com/GwzFvRQQLriJYj_DdLrD1qfliHk=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568406-1229058007.jpeg.jpg" data-tags="rock" role="button">
-The White Stripes - Seven Nation Army (2003-04-21)
 </li>
 <li data-cover="https://img.discogs.com/f7xQ-fGYTGIdkzRYeq-zWvMh6ig=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6727593-1426113024-4838.jpeg.jpg" data-tags="rock,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
 The White Stripes - I Just Don't Know What To Do With Myself (2003-09-01)
@@ -294,6 +294,9 @@ Blur - Under the Westway (2012-07-02)
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
+<li data-cover="https://img.discogs.com/Z-nR4jZ7yypNkIB7HacT8cUD_xA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-870222-1562007428-2739.jpeg.jpg" data-tags="rock, live, white stripes, vault,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
+The White Stripes - Nine Miles From The White City (2013)
+</li>
 <li data-cover="http://coverartarchive.org/release/4040e134-a3bf-4b54-a0c4-befc4a9c62ed/17987960903-500.jpg" data-tags="britpop, record store day, 2013 releases, rough trade, record store day 2013,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - After You (2013-01-28)
 </li>
@@ -308,9 +311,6 @@ Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up) (2013-04-16)
 </li>
 <li data-cover="https://img.discogs.com/hFmK0hGoAMy6fL9smq8gqMvD5ns=/fit-in/380x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3505874-1452981640-9841.jpeg.jpg" data-tags="pop, remix, fall out boy, eletronca,  pop rock,  male vocalists,  emo,  emo pop" role="button">
 Fall Out Boy - Alone Together (2013-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop, glam rock" role="button">
-Suede - Bloodsports (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e06809c-5677-45ad-95c6-92f95503aa11/8236940745-500.jpg" data-tags="pop, pop rock,  pop rock,  male vocalists,  emo,  emo pop" role="button">
 Fall Out Boy - Centuries (2014-09-09)

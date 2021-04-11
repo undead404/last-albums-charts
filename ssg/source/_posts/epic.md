@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:52:01.419Z
+date: 2021-04-11T07:58:01.425Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -8,10 +8,10 @@ title: "epic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">Yndi Halda - Enjoy Eternal Bliss (2005)</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">Biffy Clyro - Puzzle (2007-05-28)</li>
-<li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Light (2009-08-25)</li>
+<li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">Between the Buried and Me - Colors (2007-09-18)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
-<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">Lady Gaga - ARTPOP (2013-11-05)</li>
+<li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">Lana Del Rey - Ultraviolence (2014-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">The Script - No Sound Without Silence (2014-09-12)</li>
 </ol>
@@ -59,6 +59,9 @@ Summoning - Stronghold (1999-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e5d0c29-9460-46e1-a775-ba37db84e48c/12950845683-500.jpg" data-tags="punk rock" role="button">
+NOFX - The Decline (1999-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
@@ -141,11 +144,17 @@ BUCK-TICK - Tenshi no Revolver (2007-09-19)
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
+Protest the Hero - Fortress (2008-01-29)
+</li>
 <li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfccbde1-7a24-4f89-896f-7ab5b582d350/8845334918-500.jpg" data-tags="soundtrack, instrumental, epic, score, original motion picture soundtrack" role="button">
 Harry Gregson-Williams - The Chronicles Of Narnia: Prince Caspian (2008-05-13)
+</li>
+<li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
+Little Boots - Hands (2008-06-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="epic, modern hardcore" role="button">
 The Carrier - No Love Can Save Me (2008-06-17)
@@ -182,9 +191,6 @@ IAMX - Kingdom of Welcome Addiction (2009-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
 Patrick Wolf - The Bachelor (2009-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">
-Matisyahu - Light (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
@@ -282,9 +288,6 @@ Quadron - Avalanche (2013-05-31)
 <li data-cover="https://img.discogs.com/pscnaQIdudebvxaNvSMSI0KzdJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012392-1524398620-5370.jpeg.jpg" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)
 </li>
-<li data-cover="https://img.discogs.com/Rf7xcLv4s1ZnEzT9v5a_hiMf_5E=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13298519-1581526054-7498.png.jpg" data-tags="pop" role="button">
-Justin Timberlake - The 20/20 Experience - 2 of 2 (2013-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
 </li>
@@ -299,9 +302,6 @@ Lady Gaga - Venus (2013-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e3ca07-71c4-4c15-8675-c49543813138/5643082410-500.jpg" data-tags="pop" role="button">
 Céline Dion - Loved Me Back to Life (2013-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
-Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f48c834-23b7-4e5c-a4f8-9f1cf9e45c33/5700304800-500.jpg" data-tags="jazz, epic, trumpet, jazz fusion, jazz funk, funky, world jazz, this album saved my life, fav albums of all time, the very embodiment of musical eclecticism and creativity" role="button">
 Ibrahim Maalouf - Illusions (2013-11-05)

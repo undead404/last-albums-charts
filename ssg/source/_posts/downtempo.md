@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:09:01.429Z
+date: 2021-04-11T07:55:01.459Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -33,17 +33,11 @@ Portishead - Dummy (1994-08-22)
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a95dbc6e-3066-46ea-91ed-cfb9539f0c7c/3483045674-500.jpg" data-tags="electronic, downtempo, idm, ambient" role="button">
-Boards of Canada - Twoism (1995-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
-</li>
-<li data-cover="https://img.discogs.com/PjY9A5PEtruXS07O5ljwPzWlFb8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-236-1198510051.jpeg.jpg" data-tags="ambient" role="button">
-Boards of Canada - Hi Scores (1996-12-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo" role="button">
 Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
@@ -62,9 +56,6 @@ Morcheeba - Big Calm (1998-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
-</li>
-<li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
-Boards of Canada - Music Has the Right to Children (1998-04-20)
 </li>
 <li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
 Nightmares on Wax - Carboot Soul (1999-04-12)
@@ -141,14 +132,8 @@ Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 <li data-cover="http://coverartarchive.org/release/680f53cf-e410-49a3-b1d0-a87c4c652b4c/974840185-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Sweetness (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
-Boards of Canada - Geogaddi (2002-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/5bc4c6d4-63c4-405c-ae08-df41577dd0e3/7851578939-500.jpg" data-tags="downtempo" role="button">
 Flunk - For Sleepyheads Only (2002-04-29)
-</li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
@@ -207,11 +192,17 @@ Boards of Canada - The Campfire Headphase (2005-10-12)
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/268776f6-7a42-4977-9580-50bf71891d2c/4395546858-500.jpg" data-tags="lounge, downtempo" role="button">
+Parov Stelar - Seven and Storm (2005-11-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - In A Space Outta Sound (2006-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4447a8b7-439c-434e-9937-34231d4eb7cd/3840466846-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Collected (2006-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
+Boards of Canada - Trans Canada Highway (2006-05-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
@@ -233,6 +224,9 @@ Sia - Some People Have Real Problems (2008-01-08)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
+</li>
+<li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
+Portishead - Third (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
 Martina Topley-Bird - The Blue God (2008-05-12)
@@ -303,6 +297,9 @@ Bonobo - The North Borders (2013-03-21)
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/cfaeac89-fbd5-4aaf-822a-6fa529762a55/8858446727-500.jpg" data-tags="electronic, experimental, post-rock, downtempo, 10s" role="button">
+Bibio - Silver Wilkinson (2013-05-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
 </li>
@@ -320,5 +317,8 @@ Sia - 1000 Forms of Fear (2014-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/35e125c3-e78e-4a4f-b638-527a57ebbefb/21981341896-500.jpg" data-tags="downtempo" role="button">
+Bonobo - Flashlight EP (2014-12-01)
 </li>
 </ol>

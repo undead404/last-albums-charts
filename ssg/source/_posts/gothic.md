@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:36:01.413Z
+date: 2021-04-11T07:50:01.432Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -78,20 +78,17 @@ Tiamat - Wildhoney (1994-09-01)
 <li data-cover="http://coverartarchive.org/release/67f8a8be-8314-449e-8f7e-992a60b99aed/9039558893-500.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Inferno (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/caede476-52c5-45f8-923b-5991f20984af/5910861121-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Smells Like Children (1995-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg" data-tags="ambient, darkwave, gothic" role="button">
-Arcana - Dark Age of Reason (1996)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="gothic, lacrimosa" role="button">
 Lacrimosa - Stolzes Herz (1996-10-25)
 </li>
 <li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
+</li>
+<li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
+Tiamat - A Deeper Kind Of Slumber (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Angels Fall First (1997-11-01)
@@ -123,6 +120,9 @@ Voltaire - Almost Human (2000-08-01)
 <li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Blessed Be (2000-09-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/b7da4b4f-31ae-408f-87de-18cf8fe8a4c7/22396327500-500.jpg" data-tags="gothic, neoclassical darkwave, ethereal, darkwave" role="button">
+Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">
 Evanescence - Origin (2000-11-04)
 </li>
@@ -147,6 +147,9 @@ The Faint - Danse MacAbre (2001-08-21)
 <li data-cover="https://img.discogs.com/wdd4p_tJ4rIY5k3ahZROER-oDZA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9256865-1477485793-3525.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
 Lacrimosa - Fassade (2001-10-01)
 </li>
+<li data-cover="https://img.discogs.com/eZiWyLJS1IbceZYpIBcNMbGV0Rk=/fit-in/512x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955949-1309284671.jpeg.jpg" data-tags="rock" role="button">
+Default - The Fallout (2001-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/88659fde-815a-4e36-b239-9d0818f23f1b/8345887600-500.jpg" data-tags="hard rock, rock, gothic" role="button">
 O.N.A. - Mrok (2001-10-29)
 </li>
@@ -168,6 +171,9 @@ Evanescence - Not for Your Ears (2003)
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
 </li>
+<li data-cover="https://img.discogs.com/5POZRB78GKsIKyN1T4kCXA3AigY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2732772-1298552037.jpeg.jpg" data-tags="gothic rock, gothic" role="button">
+Пикник - Говорит и показывает (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
 </li>
@@ -179,9 +185,6 @@ Xandria - Kill the Sun (2003-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d28fd10-63f6-3d39-8568-a1c8c9b72c62/26453759332-500.jpg" data-tags="gothic metal" role="button">
 Type O Negative - Life Is Killing Me (2003-06-16)
-</li>
-<li data-cover="https://img.discogs.com/2PnEsmVV9mRBanP9fPuBLjBPh-4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-356113-1229733917.jpeg.jpg" data-tags="gothic, darkwave" role="button">
-Qntal - Qntal III: Tristan und Isolde (2003-10-20)
 </li>
 <li data-cover="https://img.discogs.com/KAMvvNc8CN5ai-wJmjym_IcGqgs=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412532-1382725178-4636.jpeg.jpg" data-tags="gothic, gothic metal, dark ambient, neoclassical, theatre, neoclassical ambient, transym, this cover frightens me, a tears" role="button">
 Autumn Tears - Eclipse (2004)
@@ -254,9 +257,6 @@ Evanescence - Lithium (2006-12-15)
 </li>
 <li data-cover="https://img.discogs.com/_BItylEPoMRHoWyzlcH5SQlGEmU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-881577-1337391256-5034.jpeg.jpg" data-tags="darkwave" role="button">
 The Crüxshadows - DreamCypher (2007-01-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
-Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 </li>
 <li data-cover="https://img.discogs.com/59ui5Dl6FzjJoeLk6e_EbyYmNWQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353221-1452775343-7648.jpeg.jpg" data-tags="symphonic metal" role="button">
 Xandria - Salomé - The Seventh Veil (2007-05-25)

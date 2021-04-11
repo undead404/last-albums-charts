@@ -1,18 +1,18 @@
 ---
-date: 2021-04-10T23:15:12.817Z
+date: 2021-04-11T08:35:07.018Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Agnes Obel - Aventine (2013-09-27)](http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg "Agnes Obel - Aventine (2013-09-27)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/42341a2b-c423-43c4-960b-c07d3db659e4/1748410166-500.jpg" data-tags="dark ambient, neoclassical" role="button">Arcana - Cantar de Procella (1997-06)</li>
-<li data-cover="http://coverartarchive.org/release/4260861b-70fc-4f50-9ad5-3fc1ed1e268f/5525476766-500.jpg" data-tags="dark ambient" role="button">Elend - The Umbersun (1998-03-23)</li>
+<li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">E.S. Posthumus - Unearthed (2001-01-01)</li>
 <li data-cover="https://img.discogs.com/KAMvvNc8CN5ai-wJmjym_IcGqgs=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412532-1382725178-4636.jpeg.jpg" data-tags="gothic, gothic metal, dark ambient, neoclassical, theatre, neoclassical ambient, transym, this cover frightens me, a tears" role="button">Autumn Tears - Eclipse (2004)</li>
-<li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">Ophelia's Dream - Not A Second Time (2004-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/b4611307-b518-4052-8575-5c8955a0d6dc/7361374387-500.jpg" data-tags="ambient, gothic, dark ambient, neoclassical" role="button">Dark Sanctuary - Les Mémoires Blessées (2004-03)</li>
+<li data-cover="http://coverartarchive.org/release/612e5cc3-bb60-4bcd-8d93-4a58b544346f/2025419288-500.jpg" data-tags="neoclassical, darkwave" role="button">Artesia - Hilvern (2006-02)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical, darkwave, dark ambient" role="button">Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)</li>
-<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">Arcana - Raspail (2008-02-29)</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">Soap&Skin - Lovetune for Vacuum (2009-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/26a6d832-8412-4776-8169-85a0dbd8513b/5257873633-500.jpg" data-tags="neoclassical" role="button">Soap&Skin - Narrow (2012-02-10)</li>
+<li data-cover="http://coverartarchive.org/release/cfc72078-0fee-40ec-a3fc-fbd2f08d0097/4860101960-500.jpg" data-tags="atmospheric, neoclassical" role="button">Arcana - As Bright As A Thousand Suns (2012-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">Agnes Obel - Aventine (2013-09-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,59 +24,62 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
 </li>
+<li data-cover="https://img.discogs.com/TjNSUNtSpS69S-lTSfRJlnt6dpA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-447729-1115382853.jpg.jpg" data-tags="soundtrack" role="button">
+Michael Nyman - A Zed and Two Noughts (1985)
+</li>
+<li data-cover="https://img.discogs.com/_HwFI-XY7QxEVZnyjrVH7Y9ybVY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1396786-1216302897.jpeg.jpg" data-tags="symphonic rock, theatrical, gothic" role="button">
+Devil Doll - Eliogabalus (1990-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/a6682e27-ffeb-381b-9ce0-34298267ab03/5091940787-500.jpg" data-tags="neoclassic, neoclassical, ethereal" role="button">
 sToa - Porta VIII (1994)
 </li>
 <li data-cover="https://img.discogs.com/CqtVpYbLlOiUJOARWZbbTgwO59k=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-804414-1610210689-5538.jpeg.jpg" data-tags="neoclassical" role="button">
 Love Is Colder Than Death - Auter (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg" data-tags="ambient, darkwave, gothic" role="button">
-Arcana - Dark Age of Reason (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7e186c3-d122-4970-80a5-96372d76ad06/18602690984-500.jpg" data-tags="dark ambient" role="button">
 Amber Asylum - Frozen in Amber (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/92eb7271-6430-4eff-b96d-12c6bb1c3791/1125588014-500.jpg" data-tags="gothic, neoclassical" role="button">
+Elend - Les Ténèbres du Dehors (1996)
+</li>
+<li data-cover="https://img.discogs.com/EjD2WJ9FVqTu4fI5RWBQpOqMcy8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1350286-1382643098-6925.jpeg.jpg" data-tags="female vocals, neoclassic, neoclassical, a tears" role="button">
+Autumn Tears - Love Poems for Dying Children, Act I (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
-<li data-cover="https://img.discogs.com/iIR8P2o1UNaTJoE9QD487UOK7Mw=/fit-in/580x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816769-1232209294.jpeg.jpg" data-tags="folk" role="button">
-Garmarna - Guds Spelemän (1996-09-17)
-</li>
 <li data-cover="https://img.discogs.com/siX-C9kyl4KU7Vn9C7n8Oza9v8I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-317606-1369376141-8329.jpeg.jpg" data-tags="neoclassical, gothic, darkwave" role="button">
 Die Verbannten Kinder Evas - Come Heavy Sleep (1997)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="neoclassical" role="button">
+Xytras - Passage (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
 Stellamara - Star of the Sea (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f0064c7-ceb2-4abe-a2d7-67985e1a741c/5525235632-500.jpg" data-tags="gothic, neoclassical" role="button">
-Elend - Weeping Nights (1997)
+<li data-cover="http://coverartarchive.org/release/b296dcec-6745-42a3-81df-f933af14f689/1983167735-500.jpg" data-tags="dark folk, neo-classical, neoclassical, ethereal wave" role="button">
+Amber Asylum - The Natural Philosophy of Love (1997-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/42341a2b-c423-43c4-960b-c07d3db659e4/1748410166-500.jpg" data-tags="dark ambient, neoclassical" role="button">
-Arcana - Cantar de Procella (1997-06)
+<li data-cover="http://coverartarchive.org/release/0a3e54eb-f316-4006-a70e-f7b984597109/20230696038-500.jpg" data-tags="ethereal wave, redhot, vas" role="button">
+Vas - Offerings (1998-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/4260861b-70fc-4f50-9ad5-3fc1ed1e268f/5525476766-500.jpg" data-tags="dark ambient" role="button">
-Elend - The Umbersun (1998-03-23)
+<li data-cover="http://coverartarchive.org/release/23748427-c024-4c5b-a914-1849545fb42d/1829010155-500.jpg" data-tags="industrial, neofolk, martial industrial, neoclassical" role="button">
+Puissance - Mother of Disease (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6a14879-b04f-40dc-95e9-618e00be615d/2152586650-500.jpg" data-tags="dark ambient, darkwave" role="button">
-Dargaard - Eternity Rites (1998-10-13)
+<li data-cover="http://coverartarchive.org/release/4f2d5aeb-5d5d-4981-82ca-b151b89a3b03/23582255777-500.jpg" data-tags="neoclassical, ethereal wave, neo-classical wave" role="button">
+Amber Asylum - Songs of Sex and Death (1999-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cde5e66a-d7d2-4187-b389-6fa14a279910/17251378984-500.jpg" data-tags="gothic, darkwave" role="button">
-Sopor Aeternus & The Ensemble of Shadows - Dead Lovers' Sarabande (Face Two) (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e421cd9-eb4f-4a0e-a50b-2315efe293c9/2180696047-500.jpg" data-tags="ethereal" role="button">
-Arcana - ...The Last Embrace (2000)
+<li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">
+Garmarna - Vedergällningen (1999-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
 Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b817449b-f665-4af2-b873-6530ba852413/3460026167-500.jpg" data-tags="female vocalists, world, world music, precious beyond description" role="button">
-Vas - In The Garden Of Souls (2000-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/b2ec921a-0978-4a24-a1ef-24be706810a3/2856618513-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Chaostar - Chaostar (2000-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdf8d600-0893-4fe5-ba70-7065281e818d/17379814232-500.jpg" data-tags="tanzwut" role="button">
-Tanzwut - Labyrinth Der Sinne (2000-07-14)
+<li data-cover="https://img.discogs.com/odN_mixBOw_bWndp9Tfn1RaOuIg=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385078-1248849142.jpeg.jpg" data-tags="singer-songwriter, avantgarde, melancholic" role="button">
+Steve Von Till - As the Crow Flies (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9331eb4e-8cd0-4ac7-9c3b-6ecba5766de8/10337890844-500.jpg" data-tags="gothic, visual kei, neoclassical" role="button">
 Malice Mizer - Bara No Seidou (2000-08-23)
@@ -84,20 +87,35 @@ Malice Mizer - Bara No Seidou (2000-08-23)
 <li data-cover="http://coverartarchive.org/release/b7da4b4f-31ae-408f-87de-18cf8fe8a4c7/22396327500-500.jpg" data-tags="gothic, neoclassical darkwave, ethereal, darkwave" role="button">
 Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
 </li>
+<li data-cover="https://img.discogs.com/QOTTU1gNnxyLOgqN42EFRnXlwyU=/fit-in/446x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125167-1122717300.jpg.jpg" data-tags="martial industrial, neofolk" role="button">
+Von Thronstahl - E Pluribus Unum (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/773f7bb1-f5ea-47c0-9d29-2e40b41c3d4d/19637000151-500.jpg" data-tags="neoclassical" role="button">
 Chaostar - Threnody (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1afd1240-b777-4007-98c4-89747d551401/9506954669-500.jpg" data-tags="redhot, female folksy, i love all the songs, redhotflor, redhotsophie" role="button">
+Jocelyn Pook - Untold Things (2001-02-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b899022-96d4-496e-8f29-08a7ef0c1109/1065863215-500.jpg" data-tags="symphonic black metal" role="button">
+Profanum - Musaeum Esotericum (2001-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa4868f0-1f2f-4bdc-9cc3-61b107642db3/27796142340-500.jpg" data-tags="dark ambient, darkwave" role="button">
 Dargaard - The Dissolution of Eternity (2001-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/480c1e8d-5dae-49ef-a46a-e694be7d5197/2646624584-500.jpg" data-tags="symphonic black metal" role="button">
+Anorexia Nervosa - New Obscurantis Order (2001-10-29)
+</li>
+<li data-cover="https://img.discogs.com/3q3Rssrn_WEJBoTcmPzKAjm5W3Y=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392749-1107342097.jpg.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
+Leger Des Heils - Aryana (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c3edd6-5f61-4f08-b279-df27cc37e2e4/2026082057-500.jpg" data-tags="neoclassical" role="button">
 Ashram - Ashram (2002)
 </li>
-<li data-cover="https://img.discogs.com/o6otugAu6Mog26CUONR8ksBrxiQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-357946-1440925857-7760.jpeg.jpg" data-tags="gothic, ethereal" role="button">
-Black Tape for a Blue Girl - The Scavenger Bride (2002-04-05)
+<li data-cover="http://coverartarchive.org/release/880019b0-9411-4bb1-ad55-fb8b31d14bce/22408375238-500.jpg" data-tags="celtic" role="button">
+Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
 Emma Shapplin - Etterna (2002-05-27)
@@ -117,29 +135,14 @@ Dark Sanctuary - Les Mémoires Blessées (2004-03)
 <li data-cover="http://coverartarchive.org/release/5121be34-e138-3ddc-b2a8-d5493bf0b153/8157750790-500.jpg" data-tags="dark ambient, martial industrial" role="button">
 Karjalan Sissit - Karjalasta kajahtaa (2004-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fb4021f-345e-4688-bc3a-126e30bdfb59/21574217184-500.jpg" data-tags="world music, ethereal, new age" role="button">
-Vas - Feast Of Silence (2004-05-18)
-</li>
 <li data-cover="https://img.discogs.com/M8iOeLNaOrUcsb5QanBnLpbz3MQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162836-1386263320-2668.jpeg.jpg" data-tags="symphonic metal, symphonic power metal" role="button">
 Rhapsody - The Dark Secret (2004-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5a864d5-1736-3210-8aff-ebd71e512da4/1125887140-500.jpg" data-tags="neoclassical, gothic, dark ambient" role="button">
-Elend - Sunwar the Dead (2004-09-13)
-</li>
-<li data-cover="https://img.discogs.com/02KGDmQXoHOiDbOJgVGY3TKq3Bc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796835-1318983028.jpeg.jpg" data-tags="etheral" role="button">
-Stellamara - The Seven Valleys (2004-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">
-Ophelia's Dream - Not A Second Time (2004-11-12)
-</li>
-<li data-cover="https://img.discogs.com/iGUbpyngqulu0WQmzLxzX7TkKuI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1401744-1577299401-4804.jpeg.jpg" data-tags="ambient, gothic, dark ambient" role="button">
-Nox Arcana - Winter's Knight (2005-07-10)
+<li data-cover="http://coverartarchive.org/release/07b341fc-9fad-41ee-9b4c-8ffa86c395b5/2044678583-500.jpg" data-tags="folk noir, neofolk, neoclassical, celtic folk, wyrd folk, experimental folk, funeral folk, ethereal folk, darkfolk, ogham the ogham, je dirai quelque jour vos naissances latentes, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">
+Sieben - Ogham Inside the Night (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2765ed-26b6-4bdb-96b2-1260c210d146/18701163652-500.jpg" data-tags="pop, female vocalists, pop rock" role="button">
 Indica - Tuuliset tienoot (2005-10-20)
-</li>
-<li data-cover="https://img.discogs.com/kUrRrGyaJ-UaB9fZtrpU2v1kJo4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-936983-1577512490-1128.jpeg.jpg" data-tags="neoclassical, gothic, dark ambient" role="button">
-Nox Arcana - Transylvania (2005-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/723d1bbd-0101-4539-a970-c2b232bfce3e/26215282194-500.jpg" data-tags="ethereal, neoclassical" role="button">
 Trobar de Morte - Reverie (2006-01-23)
@@ -147,14 +150,8 @@ Trobar de Morte - Reverie (2006-01-23)
 <li data-cover="http://coverartarchive.org/release/612e5cc3-bb60-4bcd-8d93-4a58b544346f/2025419288-500.jpg" data-tags="neoclassical, darkwave" role="button">
 Artesia - Hilvern (2006-02)
 </li>
-<li data-cover="https://img.discogs.com/68m0_-Q770-uAHqgj9CiEAkXAew=/fit-in/400x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1064184-1189339453.jpeg.jpg" data-tags="ethereal, darkwave, neofolk" role="button">
-Narsilion - Arcadia (2006-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
 Anoice - Remmings (2006-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b184b7d-c653-4d16-a786-3a41645ea782/2511910885-500.jpg" data-tags="symphonic metal" role="button">
-Luca Turilli's Dreamquest - Lost Horizons (2006-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0257cd0d-999b-426b-b098-3902c691996a/11322636619-500.jpg" data-tags="christmas" role="button">
 Tarja - Henkäys Ikuisuudesta (2006-10-10)
@@ -165,11 +162,8 @@ Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="martial industrial, neoclassical" role="button">
 Der Blaue Reiter - Le Paradise Funèbre, L'Envers Du Tristesse (2006-11-14)
 </li>
-<li data-cover="https://img.discogs.com/GreYrXm3Pzj1Jnxa6NBReS0nWOM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493650-1577297812-9569.jpeg.jpg" data-tags="dark ambient, epic, neoclassical" role="button">
-Nox Arcana - Blood of the Dragon (2006-11-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac9ff732-814f-4c91-87eb-acc311c80c7d/2044549867-500.jpg" data-tags="ethereal, female vocalists" role="button">
-Irfan - Seraphim (2007)
+<li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
+Michael Cashmore - The Snow Abides (2007)
 </li>
 <li data-cover="https://img.discogs.com/bkcCvynXKegybilGD1PpboNjWYw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8440527-1461662230-8837.jpeg.jpg" data-tags="piano, neoclassical, solo piano, a 2414 piano" role="button">
 Jennifer Haines - Thoughts and Dreams: Solo Piano (2007)
@@ -180,9 +174,6 @@ Puissance - Grace of God (2007-01)
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
-Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/246e7498-17dc-484d-94d1-28bb6b59b7e6/5525285126-500.jpg" data-tags="avant-garde, neoclassical, impossible for liberals to deal with, soundtrack to the apocalypse, neo-classical wave" role="button">
 Elend - A World in Their Screams (2007-04-23)
 </li>
@@ -192,8 +183,8 @@ Artesia - Chants d'automne (2007-06)
 <li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
 Helen Jane Long - Porcelain (2007-06-04)
 </li>
-<li data-cover="https://img.discogs.com/QeyS22Ajj_SVXzbvsmpQXycHwak=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493654-1577653181-2167.jpeg.jpg" data-tags="dark ambient" role="button">
-Nox Arcana - Shadow of the Raven (2007-08-20)
+<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
+Narsilion - Namárië (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
 Scythelence - Post-Romantic Syndrome (2008)
@@ -209,6 +200,9 @@ Arditi - Omne Ensis Impera (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4918a87-344b-483d-80fe-bddec7861b88/2194958161-500.jpg" data-tags="epic, chamber music, neoclassical, tragic, all time fav, ambient classical, l f d l nuit, melancholic atmosphere, i love you flor" role="button">
 Les Fragments De La Nuit - Musique du Crépuscule (2008-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ddc7878-01f8-4d3b-a5d7-77667a666c25/19477974877-500.jpg" data-tags="power metal" role="button">
+Galneryus - Reincarnation (2008-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
 sToa - Silmand (2008-09-26)
@@ -228,6 +222,9 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="http://coverartarchive.org/release/37ee2649-7dfb-45ad-87b3-ca77ba66d87d/17650563376-500.jpg" data-tags="neofolk" role="button">
 Rome - Flowers From Exile (2009-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/86867f3d-eb2b-4e2d-8431-129eb3be060f/11460798997-500.jpg" data-tags="ambient" role="button">
+Richard Skelton - Landings (2009-07-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/f4196ceb-6d9b-43f2-b144-f63f9273114e/2690732839-500.jpg" data-tags="post-rock, neoclassical" role="button">
 [The] Slowest Runner [in all the world] - The Flophouse Session (2009-08-17)
 </li>
@@ -239,6 +236,9 @@ Inon Zur - Dragon Age: Origins (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b037ecc8-45fa-43c1-bf9a-30c4934b3aed/3104789300-500.jpg" data-tags="neofolk, neo folk" role="button">
 Neun Welten - Destrunken (2009-11-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/fe00aebf-c114-3d97-97a2-bc3867c13720/9218544927-500.jpg" data-tags="darkwave, neoclassical" role="button">
+Dark Sanctuary - Dark Sanctuary (2009-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d06ca3a-f4e5-4510-a747-7f7045c00403/8213070805-500.jpg" data-tags="pop, classic, instrumental, neoclassical" role="button">
 Brian Finnegan - The Ravishing Genius of Bones (2010-04-29)
@@ -264,14 +264,14 @@ Esmerine - La Lechuza (2011-06-07)
 <li data-cover="http://coverartarchive.org/release/0c1f6608-176c-407c-bce0-2d9afbd1813f/18279685376-500.jpg" data-tags="breakcore" role="button">
 goreshit - semantic compositions on death and its meaning (2011-06-15)
 </li>
-<li data-cover="https://img.discogs.com/ziBV_hUTFb96hfkRa37lbBSsMJs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3013599-1311716154.jpeg.jpg" data-tags="folk" role="button">
-Faun - Eden (2011-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/4825cfda-91f1-45eb-bade-064f60ffafb7/7168615000-500.jpg" data-tags="soundtrack, inspirational" role="button">
 Thomas Bergersen - Illusions (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d744184-34a0-415a-b89e-6f8c7ed2d305/11633838088-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Blood Axis - Ultimacy (2011-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/185b1da0-5c07-4892-bb20-fee4642650c6/9259617885-500.jpg" data-tags="neofolk, dark folk" role="button">
+:Of the Wand & the Moon: - The Lone Descent (2011-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9d7d3a5-8a1c-4dca-ae90-b0cb2233a1ac/4800580340-500.jpg" data-tags="ambient" role="button">
 Christina Vantzou - No. 1 (2011-10-24)
@@ -306,8 +306,8 @@ These New Puritans - Field of Reeds (2013-06-10)
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
-Marissa Nadler - July (2014-02-04)
+<li data-cover="https://img.discogs.com/jxA6YtZT1NSzgKBaGmcA4u-_6Ww=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5801020-1436292648-1228.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, musk ox, nox-aeternus" role="button">
+Musk Ox - Woodfall (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b10edb21-6597-419d-b585-90f7c5510c64/18289211918-500.jpg" data-tags="neofolk" role="button">
 Rome - A Passage to Rhodesia (2014-07)

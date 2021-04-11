@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:31:06.898Z
+date: 2021-04-11T07:51:07.020Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/025d8941-7a7a-3c12-8df5-df0fa3668460/23130927291-500.jpg" data-tags="70s, power pop" role="button">
 Big Star - #1 Record (1972)
 </li>
+<li data-cover="http://coverartarchive.org/release/c42f97da-b73d-429c-9400-12f288c783d8/15325737905-500.jpg" data-tags="70s, powerpop" role="button">
+Big Star - Radio City (1974)
+</li>
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
@@ -36,8 +39,8 @@ The Knack - Get The Knack (1979-04)
 <li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
 The Replacements - Let It Be (1984-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3adae32-66d6-4255-92b3-fb5bceaf3b2c/5642356116-500.jpg" data-tags="alternative rock, 80s" role="button">
-The Replacements - Tim (1985-07-01)
+<li data-cover="https://img.discogs.com/l0goLm4j5SulBWdRULTaltZc2F4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2497568-1604288768-3259.jpeg.jpg" data-tags="power pop" role="button">
+Jellyfish - Bellybutton (1990-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
@@ -51,9 +54,6 @@ The Wannadies - Be a Girl (1994)
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c4444eb-bbb0-350d-9453-b36550a3b91d/15466985388-500.jpg" data-tags="soundtrack, indie, indie rock, power pop, pop rock, jangle pop, soft rock, 90s, friends, one-hit-wonder, records i own, from the clearance bin, living in oblivion, driving tunes, records i should listen more often, the rembrandts" role="button">
-The Rembrandts - L.P. (1995-05-23)
-</li>
 <li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Grand Prix (1995-05-29)
 </li>
@@ -62,9 +62,6 @@ Super Furry Animals - Fuzzy Logic (1996-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/14992fdd-b7c2-321f-a6eb-492776e765e7/20895447487-500.jpg" data-tags="rock, power pop" role="button">
-Fountains of Wayne - Fountains of Wayne (1996-10-01)
 </li>
 <li data-cover="https://img.discogs.com/i81K-_1Sfz6SdPBzp9yI9KI3m8c=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1813262-1250820614.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
@@ -81,9 +78,6 @@ Hole - Celebrity Skin (1998-09-02)
 <li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
 Fountains of Wayne - Utopia Parkway (1999-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e3aa402-f384-4043-9da4-a74808e3a212/1650382862-500.jpg" data-tags="rock" role="button">
-Tal Bachman - Tal Bachman (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/306bf653-67fb-3788-9775-f44e4dc066be/26271448429-500.jpg" data-tags="power pop" role="button">
 Super Furry Animals - Guerrilla (1999-06-07)
 </li>
@@ -93,14 +87,14 @@ Smash Mouth - Astro Lounge (1999-06-08)
 <li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 </li>
-<li data-cover="https://img.discogs.com/FAGWC194GFMHIrVYWKb_9o7L9Kk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-607977-1360109255-6006.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Wheatus - Wheatus (2000-08-15)
-</li>
 <li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
 </li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
+</li>
+<li data-cover="https://img.discogs.com/D4TQiVXih8lUXHMWLda880kUDLA=/fit-in/486x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558652-1370617869-6756.jpeg.jpg" data-tags="emo" role="button">
+Saves the Day - Stay What You Are (2001-07-10)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
@@ -129,6 +123,9 @@ Broder Daniel - Cruel Town (2003-10-15)
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/aaee9217-d2a4-4402-b60c-55ad3552ac29/19044708662-500.jpg" data-tags="power pop" role="button">
+Cheap Trick - The Essential Cheap Trick (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/53de8ceb-d30e-4d07-b34d-64c469b74a27/25185452356-500.jpg" data-tags="pop, swedish, power pop, scandinavian, sweden, transport, suede, scandinavia, suecia, songs they never play on the radio, suedois, scandinave, scandinavie, streaming na full, left-cheek kisses" role="button">
 Billie the Vision & the Dancers - I Was So Unpopular in School and Now They're Giving Me This Beautiful Bicycle (2004-02-05)
 </li>
@@ -156,6 +153,9 @@ Sugar Ray - The Best Of Sugar Ray (2005-06-20)
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
 </li>
+<li data-cover="https://img.discogs.com/P9iAz8_lVn4csEFmDTgcSYipTVU=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2439542-1284135231.jpeg.jpg" data-tags="alternative" role="button">
+The Dandy Warhols - Odditorium Or Warlords Of Mars (2005-09-13)
+</li>
 <li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
 Girls Aloud - Chemistry (2005-12-05)
 </li>
@@ -176,9 +176,6 @@ Head Automatica - Popaganda (2006-06-05)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ed18e71-2cb5-4264-9a39-e2c05c183843/13875650487-500.jpg" data-tags="rock, alternative rock, power pop, progressive rock, 00s, manic street preachers, myslovitz, records i own, try before i buy, solo album, records i should listen more often, mvr rock radio, james dean bradfield, drivethruelvis knows this, soft male vocal, drivethruelvis at 22, 00s alternative rock, james dean - the great western" role="button">
-James Dean Bradfield - The Great Western (2006-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
@@ -213,6 +210,9 @@ McFly - Radio:ACTIVE (2008-07-20)
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">
 The Academy Is... - Fast Times At Barrington High (2008-08-18)
 </li>
+<li data-cover="https://img.discogs.com/_d5dtiQ2ELx4xOqZaLGOvvefnjw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4430741-1364676454-9646.jpeg.jpg" data-tags="power pop" role="button">
+Sing It Loud - Come Around (2008-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
@@ -230,9 +230,6 @@ Marianas Trench - Masterpiece Theatre (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
-</li>
-<li data-cover="https://img.discogs.com/9JqAItx5a6CbQrRx5nO6Nyg-2w0=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6009264-1408722623-3094.jpeg.jpg" data-tags="alternative" role="button">
-Weezer - Raditude (2009-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f2032d8-a08b-417b-94e8-ec7081197ff2/23137566621-500.jpg" data-tags="pop punk" role="button">
 Every Avenue - Picture Perfect (2009-11-03)
@@ -281,6 +278,9 @@ Tribes - Baby (2012-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
+</li>
+<li data-cover="https://img.discogs.com/IUn7BMzBTxC4pD7-VLW_KeZA1VA=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999518-1453213735-9537.jpeg.jpg" data-tags="rock, alternative rock, power pop, pop rock, neo-psychedelia" role="button">
+The Dandy Warhols - This Machine (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b769cd79-ba04-47b8-a015-9ded8e327e98/3905312015-500.jpg" data-tags="indie rock, post-punk" role="button">
 Friends - Manifest! (2012-06-04)

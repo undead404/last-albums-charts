@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:59:01.964Z
+date: 2021-04-11T08:15:01.511Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -35,6 +35,9 @@ John Lennon - Imagine (1971-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6af61fa2-870f-33bb-a17f-be65f6013597/11322817358-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Madman Across The Water (1971-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf591a71-0149-4e04-8425-92326347c3ca/15048384671-500.jpg" data-tags="pop, 70s" role="button">
+King Harvest - Dancing in the Moonlight (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59591d8-f3fd-4d64-94b2-c5e17e187d1c/17314503667-500.jpg" data-tags="70s, soft rock" role="button">
 Albert Hammond - It Never Rains in Southern California (1972)
@@ -78,9 +81,6 @@ Toto - Toto IV (1982-04-08)
 <li data-cover="https://img.discogs.com/heVEoJlpXNLutzNXmkFJDKTkm9M=/fit-in/600x943/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6446172-1419420537-1482.jpeg.jpg" data-tags="air supply, soft rock" role="button">
 Air Supply - Greatest Hits (1983)
 </li>
-<li data-cover="https://img.discogs.com/H-nPHu--YwS0G2MS5ZkUk4mtii8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315300-1208986367.jpeg.jpg" data-tags="80s" role="button">
-Don Henley - Building The Perfect Beast (1984)
-</li>
 <li data-cover="https://img.discogs.com/HqcijYT-Zg_uXDYvg-nUZycxJPw=/fit-in/528x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652854-1351345698-1656.jpeg.jpg" data-tags="pop, 80s" role="button">
 Phil Collins - No Jacket Required (1985-03-21)
 </li>
@@ -122,9 +122,6 @@ Fool's Garden - Dish Of The Day (1995-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae9e24f6-b180-3236-9284-93e02fad1f25/15425216845-500.jpg" data-tags="soft rock, rock" role="button">
 Mark Knopfler - Golden Heart (1996-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
-Firehouse - Good Acoustics (1996-10-23)
 </li>
 <li data-cover="https://img.discogs.com/dWKHTI_R9saye2JtpD9mdPVl-c8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7458381-1441924326-7543.jpeg.jpg" data-tags="80s" role="button">
 Kenny Loggins - Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins (1997-03-25)
@@ -296,6 +293,9 @@ Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/4863a8fc-fb97-4a13-b859-82d681d1741e/5449474395-500.jpg" data-tags="pop, alternative, alternative rock, folk, soft rock, folk rock, psychedelic rock, country rock, alternative country rock, 10s, neo-psychedelia, soft rock revival" role="button">
+Jonathan Wilson - Fanfare (2013-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)

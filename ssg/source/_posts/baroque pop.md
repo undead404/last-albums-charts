@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:59:01.409Z
+date: 2021-04-11T08:19:01.415Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -69,8 +69,8 @@ Scott Walker - 'Til the Band Comes In (1970-12)
 <li data-cover="https://img.discogs.com/dBjr4eRodC_8Arxa4xEWuJow38s=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-776417-1161724004.jpeg.jpg" data-tags="van dyke parks, steel pan" role="button">
 Van Dyke Parks - Discover America (1972)
 </li>
-<li data-cover="http://coverartarchive.org/release/89355b1f-40af-339d-b873-bfff6c53a3e8/10012036324-500.jpg" data-tags="70s" role="button">
-John Cale - Paris 1919 (1973-03)
+<li data-cover="http://coverartarchive.org/release/c972a9fe-c7de-4377-8f5e-fa6537e048ba/26473977011-500.jpg" data-tags="soft rock, baroque pop, library, russ ballard" role="button">
+Colin Blunstone - Ennismore (1973)
 </li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)

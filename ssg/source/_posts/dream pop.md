@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:17:01.411Z
+date: 2021-04-11T08:01:06.905Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -113,6 +113,9 @@ Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cf43ee9-65c3-407e-863d-cdb7b8bbad39/28864635475-500.jpg" data-tags="tom waits, alternative, cover" role="button">
+Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
 <li data-cover="https://img.discogs.com/rmPNjIDW0HMABn_H6aEqd5CVZlw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513679-1225289551.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 School of Seven Bells - Alpinisms (2008-09)
@@ -296,9 +299,6 @@ Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
-Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

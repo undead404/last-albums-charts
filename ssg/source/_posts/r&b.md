@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:09:01.402Z
+date: 2021-04-11T08:06:01.418Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -51,12 +51,6 @@ Montell Jordan - This Is How We Do It (1995-04-04)
 <li data-cover="https://img.discogs.com/gvM41THChf168V9hyPfTyMNDPIY=/fit-in/221x228/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-790364-1349877866-6908.jpeg.jpg" data-tags="r&b, rnb, girl group, 90s female rnb" role="button">
 Xscape - Off The Hook (1995-07-18)
 </li>
-<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc4ae0a1-b3f9-4e40-aec5-22c937e935f1/6412412220-500.jpg" data-tags="pop" role="button">
-Mariah Carey - Daydream (1995-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/50989c66-32db-4e87-b368-15a712783c6f/22017969148-500.jpg" data-tags="hip hop, 90s, rnb" role="button">
 Mark Morrison - Return Of The Mack (1996-03-01)
 </li>
@@ -92,6 +86,9 @@ Beyoncé - Dangerously in Love (2003-03-10)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
+Usher - Confessions (2004-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
 JoJo - JoJo (2004-06-22)
@@ -147,6 +144,9 @@ Cassidy - B.A.R.S. The Barry Adrian Reese Story (2007-11-06)
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
+Jesse McCartney - Departure (2008-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
@@ -174,14 +174,14 @@ N-Dubz - Against All Odds (2009-11-16)
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Rated R (2009-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/06697697-6019-31eb-b5a0-f7bc3c861bbe/4896141275-500.jpg" data-tags="soul" role="button">
+Sade - Soldier of Love (2010-02-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb03333a-e805-44c2-85a3-0b77fa920871/1198344598-500.jpg" data-tags="hip hop" role="button">
 Kanye West - POWER (2010-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
-Rihanna - Loud (2010-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bc5fce5-2fbf-4ba1-818d-bc3996110dde/2103447209-500.jpg" data-tags="r&b" role="button">
 Trey Songz - Passion, Pain & Pleasure (2010-09-14)

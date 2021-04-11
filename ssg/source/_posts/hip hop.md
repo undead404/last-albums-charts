@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:28:01.440Z
+date: 2021-04-11T08:43:01.413Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
+A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
@@ -51,9 +54,6 @@ Cartel - Cartel (1995)
 <li data-cover="http://coverartarchive.org/release/1d2473f7-fd17-4158-b3da-623ee764cd2b/26112985625-500.jpg" data-tags="hip-hop, hip hop, sports, basketball, gin, g funk, abq, albums i had on cassette tape" role="button">
 Skee-Lo - I Wish (1995)
 </li>
-<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Coolio - Gangsta's Paradise (1995-08-01)
-</li>
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
 </li>
@@ -71,9 +71,6 @@ The Roots - Illadelph Halflife (1996-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
 Gang Starr - Moment Of Truth (1998-03-31)
@@ -129,9 +126,6 @@ Nas - God's Son (2002-12-16)
 <li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
 50 Cent - The New Breed (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
-Akon - Trouble (2003)
-</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
 </li>
@@ -170,6 +164,12 @@ Wiz Khalifa - Show And Prove (2006-09-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
+</li>
+<li data-cover="https://img.discogs.com/suszDkAspQfZiKQlPi0XTLyjdJQ=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1058825-1188845963.jpeg.jpg" data-tags="hip hop, menschenverachtende untergrundmusik" role="button">
+K.I.Z. - Hahnenkampf (2007-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
+Aesop Rock - None Shall Pass (2007-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)

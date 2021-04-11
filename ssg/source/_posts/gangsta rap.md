@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:47:01.410Z
+date: 2021-04-11T08:45:01.610Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -60,6 +60,9 @@ Cypress Hill - Black Sunday (1993-07-20)
 <li data-cover="http://coverartarchive.org/release/ad4bfef3-3a8f-4dda-8d0f-56d39e35a654/22381675096-500.jpg" data-tags="gangsta rap" role="button">
 Spice 1 - 187 He Wrote (1993-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ea2a089-2c7b-4da3-b676-d87ba24fa867/2312470572-500.jpg" data-tags="bay area" role="button">
+Too $hort - Get In Where You Fit In (1993-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Ready to Die (1994-09-13)
 </li>
@@ -86,12 +89,6 @@ Three 6 Mafia - Mystic Stylez (1995-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2baf708f-8c79-4378-8577-32bedfb42548/13720364484-500.jpg" data-tags="gangsta rap" role="button">
 C-Bo - Tales From The Crypt (1995-06-15)
-</li>
-<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
-</li>
-<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b899bee-698e-4d88-a86c-f3992790e2a8/17632744739-500.jpg" data-tags="east coast rap" role="button">
 Onyx - All We Got Iz Us (1995-10-24)
@@ -284,6 +281,9 @@ Birdman - 5 * Stunna (2007-12-11)
 </li>
 <li data-cover="https://img.discogs.com/gQ10xuY7_eRhYXiJnWbxRtan634=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13132458-1548617759-9803.png.jpg" data-tags="hip-hop, rap, gangsta rap, yo, playlist1, yo gotti, drugs and alcohol, lil boosie and webbie, media player library, untitled playlist" role="button">
 Yo Gotti - Cocaine Muzik (2008-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
+Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d177fc8-9be5-4682-86b6-b11257d71325/4406825400-500.jpg" data-tags="gangsta rap, 00s, southern hip-hop" role="button">
 Lil Wayne - No Ceilings (2009-10-31)

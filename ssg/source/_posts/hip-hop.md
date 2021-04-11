@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:53:01.425Z
+date: 2021-04-11T08:08:01.441Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -54,14 +54,11 @@ The Notorious B.I.G. - Ready to Die (1994-09-13)
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/1d2473f7-fd17-4158-b3da-623ee764cd2b/26112985625-500.jpg" data-tags="hip-hop, hip hop, sports, basketball, gin, g funk, abq, albums i had on cassette tape" role="button">
+Skee-Lo - I Wish (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
-</li>
-<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
-</li>
-<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
@@ -284,6 +281,9 @@ Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">
 Plan B - Ill Manors (2012-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">
+C2C - Tetra (2012-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)

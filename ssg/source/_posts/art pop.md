@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:18:01.424Z
+date: 2021-04-11T08:02:01.418Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -33,6 +33,12 @@ Talking Heads - Speaking in Tongues (1983-05-31)
 <li data-cover="https://img.discogs.com/LM8XDDJAl7zeJ_xrgMM4Kt7uMU8=/fit-in/372x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972448-1215538670.jpeg.jpg" data-tags="new wave" role="button">
 Talk Talk - It's My Life (1984-01-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4fa8534-a5a7-330a-b61a-d72a40ba694b/26028960700-500.jpg" data-tags="sophisti-pop" role="button">
+The Blue Nile - A Walk Across The Rooftops (1984-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
+Mazzy Star - She Hangs Brightly (1990-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
@@ -51,11 +57,11 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/39727bac-11f4-4394-8f61-9f5a97b950fe/11824714012-500.jpg" data-tags="western" role="button">
-Blondie - Atomic: The Very Best of Blondie (1998-07-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e4523bd-c035-4f79-a031-9055e06970fb/26379919825-500.jpg" data-tags="indie, pop, rock, danish, somehow very nostalgic" role="button">
+Mew - Half the World Is Watching Me (2000-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
@@ -264,9 +270,6 @@ Janelle Monáe - The Electric Lady (2013-09-09)
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
-FKA twigs - EP2 (2013-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
 </li>
@@ -278,9 +281,6 @@ Metronomy - Love Letters (2013-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
-Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
 </li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Digital Witness (2014-02-24)

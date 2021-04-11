@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:11:01.406Z
+date: 2021-04-11T08:39:12.564Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -56,9 +56,6 @@ A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
-Silverstein - When Broken Is Easily Fixed (2003-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Artist In The Ambulance (2003-07-22)
@@ -317,6 +314,9 @@ Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/d11cac8a-1875-4136-9e95-f67fb2fc935d/4429383070-500.jpg" data-tags="post-hardcore" role="button">
+Sleeping with Sirens - Feel (2013-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:38:01.419Z
+date: 2021-04-11T08:26:01.413Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -45,9 +45,6 @@ Hot Chip - The Warning (2006-05-22)
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
 </li>
-<li data-cover="https://img.discogs.com/ZwgbTRkhj-EdrNJaIbBQ4iHtp2E=/fit-in/473x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777233-1157707554.jpeg.jpg" data-tags="electronic" role="button">
-Junior Boys - So This Is Goodbye (2006-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
 </li>
@@ -56,6 +53,9 @@ Metronomy - Nights Out (2007)
 </li>
 <li data-cover="https://img.discogs.com/rrCrFXiGfLmEPXLXqO28S-UWhJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021016-1184898924.jpeg.jpg" data-tags="pop" role="button">
 Ashley Tisdale - Headstrong (2007-02-06)
+</li>
+<li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
+Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -83,9 +83,6 @@ Owl City - Maybe I'm Dreaming (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
-Perfume - GAME (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
@@ -152,6 +149,9 @@ Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
+Washed Out - High Times (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1100bec9-0701-4ae2-909d-c30bef07752c/2100080149-500.jpg" data-tags="pop" role="button">
 Pixie Lott - Turn It Up (2009-09-11)

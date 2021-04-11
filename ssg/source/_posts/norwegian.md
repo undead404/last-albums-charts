@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:15:01.691Z
+date: 2021-04-11T08:42:12.620Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -225,6 +225,9 @@ Tristania - Illumination (2007-01-19)
 <li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
 Postgirobygget - Tidløs (2007-06)
 </li>
+<li data-cover="https://img.discogs.com/HLaC7oMWARF7BWVvg-uPdqFWQxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1186600-1229617974.jpeg.jpg" data-tags="hip-hop" role="button">
+Madcon - So Dark The Con Of Man (2007-12-03)
+</li>
 <li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
 </li>
@@ -275,9 +278,6 @@ Nils Petter Molvær - Baboon Moon (2011-09-16)
 </li>
 <li data-cover="https://img.discogs.com/eE2kVJmgUzz5HHPDhuHtfx5Shrk=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305596-1330446806.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Taake - Noregs Vaapen (2011-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/40ad926e-0aa5-476d-9640-fed5f95d8ede/3990865020-500.jpg" data-tags="maria mena" role="button">
-Maria Mena - Viktoria (2011-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1d4d4d8-b4fe-4b03-949a-ba5015bc1936/7765773453-500.jpg" data-tags="female vocalists, norwegian, post hardcore, hardcore punk, deathpop" role="button">
 Blood Command - Funeral Beach (2012)

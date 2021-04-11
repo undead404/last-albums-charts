@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:47:12.637Z
+date: 2021-04-11T08:16:06.905Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -90,6 +90,9 @@ Reel Big Fish - Turn the Radio Off (1996-08-13)
 <li data-cover="http://coverartarchive.org/release/9bc4688e-2268-4765-9d1c-f7c7d621304c/7535656529-500.jpg" data-tags="ska punk, ska" role="button">
 Less Than Jake - Losing Streak (1996-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4049ee35-5197-4d8a-922f-bef3c3550f1d/7119052974-500.jpg" data-tags="ska punk, asian man" role="button">
+Slapstick - Slapstick (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/e58d27fb-e833-4bdf-a742-65c5fc45648a/3374874042-500.jpg" data-tags="ska, ska punk" role="button">
 The Mighty Mighty Bosstones - Let's Face It (1997-03-11)
 </li>
@@ -131,9 +134,6 @@ Ska-P - Eurosis (1998-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">
 Less Than Jake - Hello Rockview (1998-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4926255-873e-44fd-ac3f-aa23c0286a10/16000973513-500.jpg" data-tags="ska" role="button">
-Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c749b99e-5b95-4f15-8ede-c4e651dfddba/26642486330-500.jpg" data-tags="ska" role="button">
 Mustard Plug - Pray For Mojo (1999-03-16)

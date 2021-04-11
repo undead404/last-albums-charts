@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:50:01.436Z
+date: 2021-04-11T07:59:01.421Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -95,9 +95,6 @@ The Shins - Oh, Inverted World (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
 Sondre Lerche - Faces Down (2001-09-10)
-</li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Busted Stuff (2002-07-16)
@@ -290,6 +287,9 @@ Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/e573d81f-7244-4ac7-9c2b-7e4e4c11586f/4199682719-500.jpg" data-tags="indie, singer-songwriter, folk, indie pop" role="button">
+Ingrid Michaelson - Everybody (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)

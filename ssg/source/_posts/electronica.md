@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:58:01.465Z
+date: 2021-04-11T08:34:01.430Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -111,9 +111,6 @@ Radiohead - Amnesiac (2001-06-04)
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
-Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
-</li>
 <li data-cover="https://img.discogs.com/StqPQsGS1lBDPXhOUNG8_Zwf4I0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482940-1121544057.jpg.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
 </li>
@@ -215,6 +212,9 @@ New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
+The Chemical Brothers - Brotherhood (2008-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)

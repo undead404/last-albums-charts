@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:00:01.498Z
+date: 2021-04-11T08:36:06.982Z
 title: "mpb: 100 albums you must listen to before you die"
 ---
 ![Los Hermanos - Ventura (2003)](http://coverartarchive.org/release/0949cf8b-b528-4d84-9354-7d53e0c49b95/8630198470-500.jpg "Los Hermanos - Ventura (2003)")
@@ -30,9 +30,6 @@ Jorge Ben - Ben é samba bom (1964)
 <li data-cover="http://coverartarchive.org/release/68e84ef5-dd48-4db0-8624-98f922a8808a/14739023370-500.jpg" data-tags="mpb" role="button">
 Walter Wanderley - Rain Forest (1966)
 </li>
-<li data-cover="https://img.discogs.com/nBEtWUYiSMbFwkA2w3O9-c4bAhg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7622557-1445353269-6927.jpeg.jpg" data-tags="bossa nova" role="button">
-Nara Leão - Nara (1967)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9a864bb-e4b5-3faf-b7ed-f26640252d5e/27490930083-500.jpg" data-tags="mpb, milton nascimento, bresil" role="button">
 Milton Nascimento - Courage (1968-12)
 </li>
@@ -50,6 +47,9 @@ Arthur Verocai - Arthur Verocai (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/53c31a17-289a-4544-a3f9-5c53e06f3e05/11382963942-500.jpg" data-tags="70s, mpb" role="button">
 Milton Nascimento & Lô Borges - Clube Da Esquina (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b70d270-c6d2-4e65-98eb-7e175a264cfd/11949303909-500.jpg" data-tags="mpb, vocalistas femeninas, cds perfeitos, brasileirinhos, g costa" role="button">
+Gal Costa - Índia (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbc1d4ed-8bbf-4d3b-889c-1bfaf6bcf14b/4822809513-500.jpg" data-tags="mpb" role="button">
 Secos & Molhados - Secos & Molhados (1974)
@@ -90,6 +90,9 @@ João Bosco - Comissão De Frente (1982)
 <li data-cover="http://coverartarchive.org/release/acb32976-869f-374b-9985-1962678a3bc0/3446888597-500.jpg" data-tags="mpb, brazilian" role="button">
 Djavan - Luz (1982)
 </li>
+<li data-cover="http://coverartarchive.org/release/2dc807ce-7418-4b3c-9022-467e5feb2472/13808968899-500.jpg" data-tags="pop, mpb, frevo, g costa" role="button">
+Gal Costa - Minha voz (1982)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, favourite artists" role="button">
 Caetano Veloso - Velô (1984)
 </li>
@@ -98,9 +101,6 @@ Cazuza - Exagerado (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/25f58f18-c40d-469a-b3b3-3b5cc926e33e/6532278942-500.jpg" data-tags="mpb" role="button">
 Tim Maia - O Melhor de Tim Maia (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9f79335-c1b6-421c-8b17-0efdb3b506f3/3076648829-500.jpg" data-tags="pop rock" role="button">
-RPM - Revoluções Por Minuto (1985-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/415c3471-cd05-484d-bebd-ea64c48bab1c/12731411441-500.jpg" data-tags="mpb, brazilian, favourite artists" role="button">
 Caetano Veloso - Caetano (1987)
@@ -189,6 +189,9 @@ Los Hermanos - Bloco do Eu Sozinho (2001)
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
 Arnaldo Antunes - Paradeiro (2001)
 </li>
+<li data-cover="https://img.discogs.com/mD6ZJc7UuBBvVMzl2VPvVrCEaEQ=/fit-in/395x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-70812-1343243207-2823.jpeg.jpg" data-tags="samba" role="button">
+Trio Mocotó - Samba Rock (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6325d10-23c3-4122-9dfa-46db5c22ec6c/1944839932-500.jpg" data-tags="leoni" role="button">
 Leoni - Leoni (2002)
 </li>
@@ -240,11 +243,11 @@ Roberta Sá - Braseiro (2005)
 <li data-cover="http://coverartarchive.org/release/390442f6-1835-4c49-93d5-87727b024603/4524253331-500.jpg" data-tags="mpb, djavan" role="button">
 Djavan - Na pista, etc (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/fd1e4da4-b6df-4e92-8575-96b23489bcc7/22358937579-500.jpg" data-tags="bossa nova, mpb, bandas que amo, saudade, vocalistas femeninas, brasileirinhos, zelia duncan, zelia, bom sambinha, z duncan" role="button">
+Zélia Duncan - Pré-Pós-Tudo-Bossa-Band (2005)
+</li>
 <li data-cover="https://img.discogs.com/Htcbn6lfwg5UMSg4AICdbK_gtog=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4352786-1362873307-8276.jpeg.jpg" data-tags="pop rock" role="button">
 Kid Abelha - Pega Vida (2005-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
-Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
 宇多田ヒカル - Passion (2005-12-14)
@@ -293,9 +296,6 @@ Maria Rita - Elo (2011-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1ddb9bf-0501-4327-bb6b-b49771cf7c65/1856221349-500.jpg" data-tags="pop, folk, indie pop, pop rock, mpb, mpb pop, discos 2012" role="button">
 Tulipa Ruiz - Tudo Tanto (2012)
-</li>
-<li data-cover="https://img.discogs.com/Y_ExyCKTuYVEPRjd0mbmIWXzR9k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3508291-1333223351.jpeg.jpg" data-tags="pop, mpb, samba, world music, discos 2012" role="button">
-Céu - Caravana Sereia Bloom (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef6a9bd8-e110-4b98-b74b-e1042e1d1e73/3734065063-500.jpg" data-tags="pop, rock, experimental, mpb" role="button">
 Rita Lee - Reza (2012-04-24)
