@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:24:06.998Z
+date: 2021-04-11T04:10:01.428Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -80,9 +80,6 @@ Stephen Stills - Stephen Stills (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbeb851b-ad68-43ab-9706-7f1ecd2bf59d/21251802402-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 John Lennon - Imagine (1971-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/1903f00b-5131-48ee-9f77-ecf1835a34bb/5582774603-500.jpg" data-tags="beatles, classic rock, 60s" role="button">
-The Beatles - 1962-1966 (1973-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
 John Lennon - Mind Games (1973-11-02)
@@ -185,6 +182,9 @@ The Beatles - Let It Be Sessions (1996)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, emo, beatles, stonedbeat, my whole damn collection" role="button">
 The Beatles - Real Love (1996-03-04)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="john lennon, beatles" role="button">
+The Beatles - It's Not too Bad (1997)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles, stonedbeat, alternate" role="button">
 The Beatles - The Alternate Revolver (1997)

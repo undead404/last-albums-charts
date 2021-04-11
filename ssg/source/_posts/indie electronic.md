@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:02:01.484Z
+date: 2021-04-11T03:55:07.001Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -51,9 +51,6 @@ Lemon Jelly - lemonjelly.ky (2000-10-23)
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/406ec6f6-a62e-4261-a7cd-6c87f1124eee/8153556746-500.jpg" data-tags="electronic, idm" role="button">
-Midwest Product - Specifics (2002-06-04)
-</li>
 <li data-cover="https://img.discogs.com/yg43594bo_Xzhsr6uBK7r7H5s0Y=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-85966-001.jpg.jpg" data-tags="electronic, indie, indie electronic, 00s, plug research, pro sun and no fear, sound good" role="button">
 Dntel - (This Is) The Dream of Evan and Chan (2002-08-19)
 </li>
@@ -62,6 +59,9 @@ Ms. John Soda - No P. or D. (2002-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b685bd41-0cd2-4fa2-a0a7-2a0242a0e70b/3644268413-500.jpg" data-tags="trip-hop" role="button">
 Alpha - Stargazing (2003)
+</li>
+<li data-cover="https://img.discogs.com/xSbVbB7CxDCCofSUgH-9fVsArGc=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106562-1210571779.jpeg.jpg" data-tags="electronic" role="button">
+Console - Reset The Preset (2003-01-13)
 </li>
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)

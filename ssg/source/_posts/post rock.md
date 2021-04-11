@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:44:01.827Z
+date: 2021-04-11T04:17:01.412Z
 title: "post rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -9,10 +9,10 @@ title: "post rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/6d34fe86-5e12-373e-b02b-7f4777543724/12154902728-500.jpg" data-tags="post-rock" role="button">Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever (2001-08-27)</li>
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg" data-tags="post-rock" role="button">Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)</li>
-<li data-cover="http://coverartarchive.org/release/7e456c3a-0987-445b-869d-f3402ccdbbc0/4679537098-500.jpg" data-tags="post-rock" role="button">God Is An Astronaut - All Is Violent, All Is Bright (2005-02-04)</li>
 <li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">Russian Circles - Enter (2006-05-16)</li>
 <li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">Russian Circles - Station (2008-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">toe - For Long Tomorrow (2009-12-09)</li>
+<li data-cover="http://coverartarchive.org/release/eac0fab9-d4d3-452a-a90e-12648c291187/8379301227-500.jpg" data-tags="post-rock" role="button">Mogwai - Rave Tapes (2014-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">Tycho - Awake (2014-03-18)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,8 +27,8 @@ The Sea and Cake - The Sea and Cake (1994-10-20)
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
-<li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
-Sigur Rós - Von (1997)
+<li data-cover="https://img.discogs.com/ExnmQcTDrRaae3wbKBuDXFnzDp8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-384959-1244480566.jpeg.jpg" data-tags="post rock" role="button">
+June of 44 - Tropics And Meridians (1996-06-18)
 </li>
 <li data-cover="https://img.discogs.com/MgbCo9h_A8B38ho2LhtEa6QR07k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3204761-1320403054.jpeg.jpg" data-tags="post-rock" role="button">
 Mogwai - Young Team (1997-10-21)
@@ -65,6 +65,12 @@ The Album Leaf - One Day I'll Be on Time (2001-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d34fe86-5e12-373e-b02b-7f4777543724/12154902728-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever (2001-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5d9e386-ce4e-4b97-bf28-4ef0b74d6776/27217476164-500.jpg" data-tags="screamo" role="button">
+City of Caterpillar - City of Caterpillar (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/ed19b0f1-f2d9-4255-bd80-a7c8ae43739a/17750500515-500.jpg" data-tags="post rock" role="button">
+Unwed Sailor - The Faithful Anchor (2002-08-27)
 </li>
 <li data-cover="https://img.discogs.com/dRHd7_3BN7rXKJwgLYeqsmgVh6M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745892-1301085573.jpeg.jpg" data-tags="indie, post rock" role="button">
 The Appleseed Cast - Lost Songs (2002-10-22)
@@ -134,9 +140,6 @@ This Will Destroy You - Young Mountain (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e456c3a-0987-445b-869d-f3402ccdbbc0/4679537098-500.jpg" data-tags="post-rock" role="button">
-God Is An Astronaut - All Is Violent, All Is Bright (2005-02-04)
 </li>
 <li data-cover="https://img.discogs.com/KyoJe8kQNtFQ5VlfYfxVOoqb5sY=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1286171-1227228285.jpeg.jpg" data-tags="post rock" role="button">
 Pelican - March Into the Sea (2005-04-12)
@@ -210,11 +213,17 @@ As Cities Burn - Come Now Sleep (2007-08-14)
 <li data-cover="http://coverartarchive.org/release/5f1cbec4-bc36-481c-ac27-29b1abfbc00f/17626614858-500.jpg" data-tags="post rock" role="button">
 Leech - The Stolen View (2007-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/723f350c-024c-4b39-a085-cc23a8612817/9420473522-500.jpg" data-tags="post-rock" role="button">
+EF - I Am Responsible (2008-02-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)
 </li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d07eda5-6b6b-499a-975a-2d1acb46a356/2443680379-500.jpg" data-tags="industrial" role="button">
+The Naked and Famous - This Machine (2008-05-05)
 </li>
 <li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Station (2008-05-06)
@@ -224,12 +233,6 @@ Maybeshewill - Not for Want of Trying (2008-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d94f03b3-c41a-3915-80e0-53b014ce5c89/9832280586-500.jpg" data-tags="post-rock" role="button">
 pg.lost - It's Not Me, It's You! (2008-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
-Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5af92f-5593-4488-aaba-f9035faa77fa/10649760786-500.jpg" data-tags="post-rock, instrumental" role="button">
-The Evpatoria Report - Maar (2008-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Mogwai - The Hawk is Howling (2008-08-23)
@@ -248,9 +251,6 @@ Long Distance Calling - Avoid The Light (2009-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
 Message To Bears - Departures (2009-07-07)
-</li>
-<li data-cover="https://img.discogs.com/5rrKYhGwc8R6cRJj2-MUYuRD_fs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683430-1537127156-3823.jpeg.jpg" data-tags="post-rock" role="button">
-Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)
@@ -285,11 +285,11 @@ Apparat - The Devil's Walk (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/19209a58-2ed9-4c4b-ac2e-c65756c12c1d/1568254179-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Sleep Alone (2012-07-20)
 </li>
-<li data-cover="https://img.discogs.com/gB7sHLSykJg4g6NEt6tY72ynO0c=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893030-1348326354-2133.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">
-Efterklang - Piramida (2012-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/ceaa4406-4225-4e3a-89d5-8bbe69af9f47/5823934220-500.jpg" data-tags="post-metal" role="button">
 Toundra - III (2012-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9dd16eaf-019d-4558-87e1-d01c87dda243/4892162290-500.jpg" data-tags="post-rock, in vinyl collection" role="button">
+El Ten Eleven - Transitions (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8b1da1c-0680-44e5-bcf5-71aec47c8d46/19983444195-500.jpg" data-tags="soundtrack, instrumental, post-rock" role="button">
 Mogwai - Les Revenants (2013-02-22)

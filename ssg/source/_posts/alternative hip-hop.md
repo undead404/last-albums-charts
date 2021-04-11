@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:47:03.010Z
+date: 2021-04-11T04:41:12.694Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -222,6 +222,9 @@ Earl Sweatshirt - EARL (2010-03-03)
 <li data-cover="https://img.discogs.com/jVhD2t-MCj52UbrwsoYG_YZAlzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523458-1288654372.jpeg.jpg" data-tags="rock, alternative rock, hip-hop" role="button">
 Flobots - Survival Story (2010-03-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/f6f6704a-1bd1-4fa8-9acd-e340e669e48a/23246348312-500.jpg" data-tags="hip hop, hip-hop" role="button">
+Cypress Hill - Rise Up (2010-04-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd0c27d3-89ec-3958-b213-8f04ba8e0e60/1495574905-500.jpg" data-tags="hip hop, independent hip-hop" role="button">
 Reflection Eternal - Revolutions Per Minute (2010-05-17)
 </li>
@@ -317,8 +320,5 @@ Mac Miller - Live From Space (2013-12-17)
 </li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/18523e5d-0235-4025-aba0-a50bee6e7310/8380516127-500.jpg" data-tags="trip-hop, arts and crafts, italo disco, alternative hip-hop, acid lounge, industrial hip-hop, k7 records, names of people, bestshit2014" role="button">
-Tricky - Adrian Thaws (2014-09-05)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:05:01.440Z
+date: 2021-04-11T04:44:23.790Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -90,23 +90,23 @@ Neil Young - Freedom (1989-10-02)
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
 </li>
+<li data-cover="https://img.discogs.com/w2LOcV1wDq5tnLESs2BaGqyYZiA=/fit-in/472x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592174-1135847165.jpeg.jpg" data-tags="folk, ben harper" role="button">
+Ben Harper - Welcome To The Cruel World (1994-02-08)
+</li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/f6403fc4-2225-41f0-b006-69461fe3d4d7/6753474012-500.jpg" data-tags="rock, singer-songwriter, 90s, folk, folk rock" role="button">
+Bruce Springsteen - The Ghost of Tom Joad (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
-Blackmore's Night - Shadow Of The Moon (1997-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter" role="button">
 Jackson Browne - The Next Voice You Hear: The Best of Jackson Browne (1997-09-23)
 </li>
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk rock, folk" role="button">
-Blackmore's Night - Under A Violet Moon (1999-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
 Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
@@ -123,14 +123,8 @@ Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/90312886-40f4-4369-bcd4-4aa76054c706/13515628922-500.jpg" data-tags="folk rock" role="button">
-Schandmaul - Narrenkönig (2002-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Arcade Fire (2003-06-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8c60f11-28fb-45f5-8ba2-39514a237b0c/2077182623-500.jpg" data-tags="folk rock, folk" role="button">
-Blackmore's Night - Ghost Of A Rose (2003-06-23)
 </li>
 <li data-cover="https://img.discogs.com/3cJprwd-XZTGvFCOSiAflbEBewQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-728468-1394138699-6330.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">
 The Proclaimers - Finest (2003-09-01)
@@ -144,9 +138,6 @@ Neil Young - Greatest Hits (2004-11-16)
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
-Мельница - Перевал (2005-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
@@ -156,6 +147,9 @@ Sufjan Stevens - Illinois (2005-07-04)
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
 </li>
+<li data-cover="https://img.discogs.com/2mMumTyeU5d-Bdf0Jkgc-viD1tU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-888713-1536068445-2270.jpeg.jpg" data-tags="folk" role="button">
+Ray LaMontagne - Trouble (2006-07-17)
+</li>
 <li data-cover="https://img.discogs.com/NAsJeiPF2ifIvV4ihcFCzf5IByQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148661-1291561010.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
 The Mountain Goats - Get Lonely (2006-08-14)
 </li>
@@ -164,9 +158,6 @@ M. Ward - Post-War (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bc0869-4cae-444a-8792-c17dd5d314fb/21233023204-500.jpg" data-tags="indie" role="button">
 The Decemberists - The Crane Wife (2006-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/43e4a25b-dcd7-40e3-abcb-8b9a47ac2d08/20163942881-500.jpg" data-tags="folk, folk rock, russian" role="button">
-Мельница - Зов Крови (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
@@ -209,6 +200,9 @@ Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/_bzQfuUArrqz6xSjVfDCNK4Pwp4=/fit-in/555x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926366-1330810865.jpeg.jpg" data-tags="indie, folk, folk rock, psych folk, 00's, awesomeness, loved at first listen, makes me happy, beatlesque, dodos, under the radar best of 2009, d 2009" role="button">
 The Dodos - Time To Die (2009-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/13d3b060-8112-4251-acb4-cfc88366ebbd/3323569123-500.jpg" data-tags="singer-songwriter, folk rock" role="button">
+Frank Turner - Poetry of the Deed (2009-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)
@@ -261,6 +255,9 @@ Boy & Bear - Moonfire (2011-08-05)
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)
 </li>
+<li data-cover="https://img.discogs.com/gGvo29mIV8rtAGgFsDiglFiSqGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181009-1487336547-2725.jpeg.jpg" data-tags="singer-songwriter, rock, folk, folk rock" role="button">
+Lisa Hannigan - Passenger (2011-09-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
 </li>
@@ -299,6 +296,9 @@ Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffe4b7b-0f58-45e6-96be-91d4a3ead48c/4776296549-500.jpg" data-tags="folk, acoustic, folk rock, need to listen" role="button">
 Frank Turner - Tape Deck Heart (2013-04-19)
+</li>
+<li data-cover="https://img.discogs.com/yxqESXxmldaE5n86jktHZwDBIGY=/fit-in/516x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5085547-1384336109-1853.jpeg.jpg" data-tags="americana" role="button">
+Monica Heldal - Boy From The North (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)

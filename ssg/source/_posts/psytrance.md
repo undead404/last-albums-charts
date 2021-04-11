@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:34:01.392Z
+date: 2021-04-11T04:21:07.091Z
 title: "psytrance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -78,6 +78,9 @@ Infected Mushroom - The Gathering (1999-03-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="goa trance, goa, psytrance" role="button">
 Astral Projection - Another World (1999-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/9724f283-050b-446e-a956-fc5b084b1258/10768929537-500.jpg" data-tags="psytrance" role="button">
+Koxbox - The Great Unknown (1999-12-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/931a2b12-037e-4dfc-8ced-017c4ec7837e/20650664259-500.jpg" data-tags="ambient, psychill" role="button">
 Asura - Code Eternity (2000)
 </li>
@@ -89,9 +92,6 @@ Porcupine Tree - Voyage 34: The Complete Trip (2000-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf40b167-5991-4a1d-8dc9-ad7a28dff10d/1242609371-500.jpg" data-tags="psytrance" role="button">
 Yahel - Waves Of Sound (2000-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/238adee4-f390-32ec-922c-5a46caee589b/5378433829-500.jpg" data-tags="trance, psytrance, electronic" role="button">
-Juno Reactor - Shango (2000-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b52887-ce26-430f-8413-ebf25da385b2/16662731622-500.jpg" data-tags="psytrance, goa" role="button">
 Man With No Name - Teleportation (2000-10-23)
@@ -123,11 +123,11 @@ Infected Mushroom - Merlin (2002)
 <li data-cover="https://img.discogs.com/AZgL_7XxWzLrtnvrIpxoQFn4-Qo=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66007-1425201434-7457.jpeg.jpg" data-tags="psytrance" role="button">
 Astrix - Eye to Eye (2002-10)
 </li>
-<li data-cover="https://img.discogs.com/QyhC4kaEv0y_9S2lxW-z82QL0HM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60168-1113697176.jpg.jpg" data-tags="psytrance" role="button">
-Astral Projection - Amen (2002-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/401f1131-8509-4c25-bbfe-a7cff4b0705e/10313386444-500.jpg" data-tags="psydub, dub" role="button">
 Hallucinogen - In Dub (2002-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/0761975a-9583-4024-9a1e-a2361b1e6cfd/28443449178-500.jpg" data-tags="goa, psytrance" role="button">
+Juno Reactor - Hotaka (2002-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b934e84-7898-4250-9ee2-c9bed1b4d2a5/11194847884-500.jpg" data-tags="psytrance, psychill, electronic, ambient" role="button">
 Younger Brother - A Flock of Bleeps (2003-03-28)
@@ -243,6 +243,9 @@ Electric Universe - Silence in Action (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/552aedd6-05e7-46a4-bdac-ebf06be94d06/2698016881-500.jpg" data-tags="chillout, downtempo, ambient, psychill" role="button">
 Kuba - Inside Out (2006-06-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/bdb75a15-89a6-480e-b329-01fdcc0f7e24/12984970979-500.jpg" data-tags="electronic" role="button">
+Infected Mushroom - Becoming Insane (2007-01-29)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age, psytrance, milla jovovich, kim kardashian, jenna jameson, sharon stone, sarenna lee, sabrina sabrok, minka, nina agdal, wendy whoppers, claire castel, ava addams, aletta ocean, tabatha cash, julia channel, louise jenson" role="button">
 Prometheus - Corridor of Mirrors (2007-02-19)
 </li>
@@ -263,6 +266,9 @@ Asura - Life² (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a6f86f2-65cf-4850-9dfe-fe493e63cc12/12494213750-500.jpg" data-tags="trance, electronic, psytrance, full-on" role="button">
 Ananda Shake - Inside The Sound (2007-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/95c16e6a-52a4-4b2e-8104-7971943a9380/3093877141-500.jpg" data-tags="progressive psytrance, psytrance" role="button">
+Ace Ventura - Rebirth (2007-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/913fd1ba-4f98-47b9-8e58-a495066f94c2/10298509218-500.jpg" data-tags="psychedelic, chillout" role="button">
 Younger Brother - The Last Days Of Gravity (2007-10-15)
@@ -294,9 +300,6 @@ Sesto Sento - Key To The Universe (2008-12-23)
 <li data-cover="http://coverartarchive.org/release/7e734f4f-3215-3153-8fa7-376cf8a8172e/8562147990-500.jpg" data-tags="electronic, psytrance, psychedelic" role="button">
 Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
-Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4709966-f695-4347-bd15-da2271295c67/12901779953-500.jpg" data-tags="electronic" role="button">
 nigel stanford - Solar Echoes (2009-11-14)
 </li>
@@ -317,8 +320,5 @@ Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5698ae7-f643-435a-b4a8-08a8f31a8bf3/8558532029-500.jpg" data-tags="psytrance, tribal" role="button">
 Juno Reactor - The Golden Sun of the Great East (2013-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b316d6fb-1484-48f1-b73d-29a55976a537/4726181605-500.jpg" data-tags="psychedelic" role="button">
-Shpongle - Museum of Consciousness (2013-07-25)
 </li>
 </ol>

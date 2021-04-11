@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:54:01.488Z
+date: 2021-04-11T04:45:01.595Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -213,11 +213,11 @@ He Is Legend - I Am Hollywood (2004-11-02)
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
 Lucero - Nobody's Darlings (2005-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Gutter Phenomenon (2005-08-23)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
 Maylene and the Sons of Disaster - Maylene and the Sons of Disaster (2005-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
-Ryan Adams - 29 (2005-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0119529-3800-4bb1-8716-cbbecbf3e360/16114653552-500.jpg" data-tags="southern rock" role="button">
 Drive-By Truckers - A Blessing and a Curse (2006-04-18)

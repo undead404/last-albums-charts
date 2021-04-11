@@ -1,18 +1,18 @@
 ---
-date: 2021-04-10T05:46:12.452Z
+date: 2021-04-11T04:08:07.008Z
 title: "celtic: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Visit (1991)</li>
+<li data-cover="http://coverartarchive.org/release/ba307aa7-3a01-4015-b9bb-2243bc0812dc/8421724752-500.jpg" data-tags="celtic" role="button">Enya - The Celts (1986)</li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">Enya - Shepherd Moons (1991-11-04)</li>
-<li data-cover="http://coverartarchive.org/release/37c6a72e-aabb-4c31-a35e-d3ebfec2550f/4138136542-500.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Mask and Mirror (1994-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/241eeee9-802f-3bf4-85e2-733cdd209836/27181976185-500.jpg" data-tags="new age, celtic, secret garden" role="button">Secret Garden - Songs From a Secret Garden (1995)</li>
 <li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">Enya - The Memory of Trees (1995-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">Era - Era (1996)</li>
 <li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">Enya - A Day Without Rain (2000-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">Enya - Amarantine (2005-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/2afca94e-fa2e-3254-8924-7deb7eebf93a/3198564493-500.jpg" data-tags="celtic, new age, female vocalists" role="button">Loreena McKennitt - An Ancient Muse (2006-11-21)</li>
+<li data-cover="http://coverartarchive.org/release/5944569f-c36d-4520-a564-1d603bc3b0df/4476228153-500.jpg" data-tags="celtic" role="button">Celtic Woman - A New Journey (2007-01-10)</li>
 <li data-cover="http://coverartarchive.org/release/8bd613e5-a2c5-4852-80c1-b45a0ea9232e/10917447319-500.jpg" data-tags="chillout, female vocalists, melancholic, celtic, native americans" role="button">First Aid Kit - Wolf (2012-09-07)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
+Planxty - Planxty (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/7546163d-238d-38e3-97bb-26c464dabbeb/3195155586-500.jpg" data-tags="celtic, irish" role="button">
 Clannad - Magical Ring (1983)
 </li>
@@ -57,9 +60,6 @@ Loreena McKennitt - Parallel Dreams (1989)
 <li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
 The Pogues - The Best of The Pogues (1991)
 </li>
-<li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Visit (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
 </li>
@@ -75,9 +75,6 @@ Nightnoise - Shadow of Time (1993-09-14)
 <li data-cover="http://coverartarchive.org/release/c1664b28-1260-4439-95e1-bd8e55d8f21e/16939033781-500.jpg" data-tags="celtic" role="button">
 Davy Spillane - A Place Among the Stones (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/37c6a72e-aabb-4c31-a35e-d3ebfec2550f/4138136542-500.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Mask and Mirror (1994-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/241eeee9-802f-3bf4-85e2-733cdd209836/27181976185-500.jpg" data-tags="new age, celtic, secret garden" role="button">
 Secret Garden - Songs From a Secret Garden (1995)
 </li>
@@ -86,9 +83,6 @@ Capercaillie - To The Moon (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd57757-4f37-4398-bf2a-ff45bfd84b7b/26474897084-500.jpg" data-tags="celtic, irish" role="button">
 The Chieftains - The Long Black Veil (1995-01-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
-Adiemus - Songs of Sanctuary (1995-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
 Enya - The Memory of Trees (1995-11-21)
@@ -102,29 +96,35 @@ Era - Era (1996)
 <li data-cover="https://img.discogs.com/Slr1i12ptM4Pa_wmHHmphdcHVdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801987-1163945410.jpeg.jpg" data-tags="celtic" role="button">
 Ronan Hardiman - Michael Flatley's Lord Of The Dance (1996)
 </li>
+<li data-cover="https://img.discogs.com/uqL-t2fouX_2r9RfBc_E5eq5pKk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829486-1455603083-9695.jpeg.jpg" data-tags="irish" role="button">
+The Dubliners - The Best Of The Dubliners (1996)
+</li>
 <li data-cover="https://img.discogs.com/YRziZahXdzveoCheBipybmOTUaY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179678-1204125283.jpeg.jpg" data-tags="celtic" role="button">
 Karen Matheson - The Dreaming Sea (1996)
 </li>
 <li data-cover="https://img.discogs.com/P3fjY5f-cOQ-Z0DZGi6mv_t8wnM=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7535855-1480358606-9008.jpeg.jpg" data-tags="new age, celtic" role="button">
 Medwyn Goodall - The Fair Queen Guinevere (1996)
 </li>
-<li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
-The Corrs - Forgiven, Not Forgotten (1996-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/87e6b1a4-1aab-4f5d-bc31-5089eaa988cd/16191870016-500.jpg" data-tags="celtic" role="button">
-Afro Celt Sound System - Volume 1: Sound Magic (1996-07-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/41f31d52-7672-4f51-b201-1a9595f7ec04/22754304622-500.jpg" data-tags="celtic" role="button">
 Mike Oldfield - Voyager (1996-08-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk rock" role="button">
+Fiddler's Green - On And On (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/a3ed3823-5cda-40cc-854c-3cf60e84ede2/12416978281-500.jpg" data-tags="celtic, enya" role="button">
+Enya - Romantic Years (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/28174166-ee47-4c07-84ee-59b9f8c9696a/13728151561-500.jpg" data-tags="irish, celtic" role="button">
+Mary Black - Shine (1997-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5afac18-abe4-34c5-b0ce-7456aeba6371/7633046106-500.jpg" data-tags="secret garden" role="button">
 Secret Garden - White Stones (1997-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
-Blackmore's Night - Shadow Of The Moon (1997-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/259ef148-90a3-44ab-87b2-1252c46febd5/5356649895-500.jpg" data-tags="pop" role="button">
 The Corrs - Talk On Corners (1997-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
+Yanni - Tribute (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
 Enya - Paint The Sky With Stars (1997-11-10)
@@ -147,20 +147,17 @@ Celtic Spirit - Lyra (1998-06-22)
 <li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
 Gaelic Storm - Gaelic Storm (1998-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d09adeed-3e9c-4b53-90c6-51a95c0466e6/5213019127-500.jpg" data-tags="pop" role="button">
-B*Witched - B*Witched (1998-10-12)
+<li data-cover="http://coverartarchive.org/release/88334fc0-fe21-44ee-affa-67d361c2bf11/3169241029-500.jpg" data-tags="celtic" role="button">
+Celtic Spirit - Lyra II (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/749f4d3e-14ac-42bf-a5e6-f308ffd080fb/10375802721-500.jpg" data-tags="new age, gregorian chant" role="button">
+Gregorian - Masters of Chant (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/63721f19-b847-437a-af89-a263c0999bdd/5933028276-500.jpg" data-tags="new age, celtic" role="button">
 Lisa Lynne - Seasons of the Soul (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/33f464bc-2922-3018-a958-560194a5f775/10673178657-500.jpg" data-tags="new age, secret garden" role="button">
 Secret Garden - Dawn of a New Century (1999-03-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk rock, folk" role="button">
-Blackmore's Night - Under A Violet Moon (1999-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/08e0b584-0c13-477c-aca5-a14747b13106/9568324668-500.jpg" data-tags="world music, celtic" role="button">
-Afro Celt Sound System - Volume 2: Release (1999-04-26)
 </li>
 <li data-cover="https://img.discogs.com/89NIntG61ouLZ1PKDmreXwCNuJ0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699439-1521231206-6805.jpeg.jpg" data-tags="folk, celtic, celtic rock" role="button">
 Gaelic Storm - Herding Cats (1999-09-20)
@@ -171,8 +168,8 @@ The Corrs - Unplugged (1999-11-12)
 <li data-cover="http://coverartarchive.org/release/387f7c8c-3c49-4601-af97-c7db2ba52593/20872496494-500.jpg" data-tags="new age, folk, celtic" role="button">
 Clannad - Greatest Hits (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/f297b8c5-2107-42c8-8a86-f70003f2c394/21687041041-500.jpg" data-tags="irish, celtic" role="button">
-Altan - Another Sky (2000-02-28)
+<li data-cover="https://img.discogs.com/BdzR3scS9jHuF_K10jNEDW7rzGg=/fit-in/600x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875431-1378491568-8294.jpeg.jpg" data-tags="celtic" role="button">
+Bill Whelan - Riverdance on Broadway (2000-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0a44af5-13fb-303c-9df3-5ec23029c928/1171318298-500.jpg" data-tags="new age" role="button">
 Era - Era 2 (2000-05-15)
@@ -186,8 +183,8 @@ Enya - Only Time (2000-11)
 <li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
 Enya - A Day Without Rain (2000-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9117488-4a84-4358-824c-b4fe7fd860e3/6600670207-500.jpg" data-tags="indie, celtic" role="button">
-Carbon Leaf - Echo Echo (2001-03-21)
+<li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
+E.S. Posthumus - Unearthed (2001-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e044665-039f-4821-9f8f-d0b2eecd7fc1/4269686549-500.jpg" data-tags="world" role="button">
 Afro Celt Sound System - Volume 3: Further In Time (2001-06-18)
@@ -195,17 +192,11 @@ Afro Celt Sound System - Volume 3: Further In Time (2001-06-18)
 <li data-cover="http://coverartarchive.org/release/99335960-be55-49ad-bd12-4b31b96195eb/8915627487-500.jpg" data-tags="celtic, folk, gaelic storm" role="button">
 Gaelic Storm - Tree (2001-06-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/ba9613ac-8bf8-4c3d-8217-c740d7391f4c/19368344561-500.jpg" data-tags="celtic, new age" role="button">
-Lisa Lynne - Maiden's Prayer (2001-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5119f27-ef7f-392f-8d93-790a7b62ef59/19311203167-500.jpg" data-tags="rock" role="button">
 The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
 </li>
-<li data-cover="https://img.discogs.com/pt4Sysc2txzm56pzkycsJdTQiio=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347599-1100269383.jpg.jpg" data-tags="celtic, world, new age" role="button">
-Hagalaz' Runedance - Frigga's Web (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/a325cd91-7117-47e1-83b4-b8e06647f854/8084423661-500.jpg" data-tags="celtic, darkness" role="button">
-Solas - The Edge of Silence (2002-02-12)
+<li data-cover="http://coverartarchive.org/release/915bd7aa-b5de-43e1-8643-0882b1206c9c/10262074175-500.jpg" data-tags="folk, scottish, celtic, irish folk, the irish rovers, t i rovers" role="button">
+The Irish Rovers - Another Round (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae29f406-27af-420c-a83a-0d15ec4a012a/15230818417-500.jpg" data-tags="celtic, instrumental" role="button">
 Enaid - Avalon: A Celtic Legend (2002-02-19)
@@ -230,6 +221,9 @@ Era - The Mass (2003-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/175e2c5a-9bbc-49f9-bfd1-ac3b077c7a96/16482696811-500.jpg" data-tags="celtic" role="button">
 Moya Brennan - Two Horizons (2003-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1bb01495-461b-400c-93a3-ba7b64bbf001/11473076579-500.jpg" data-tags="celtic" role="button">
+Solas - Another Day (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ea1aca1-7bf6-44fa-b01c-a4658a822de3/8366943784-500.jpg" data-tags="celtic" role="button">
 Celtic Woman - Celtic Woman (2004)
@@ -258,11 +252,14 @@ Flook - Haven (2005-10)
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5a3512a-d670-47c0-8120-865d1e8e7cb5/2125143022-500.jpg" data-tags="folk, celtic" role="button">
-Omnia - Pagan Folk (2006-03)
+<li data-cover="https://img.discogs.com/xtyIRLbgDMkw46jd2i97qmzBkUk=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3213038-1321048555.jpeg.jpg" data-tags="celtic" role="button">
+Anúna - Sensation (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/62c65ea0-fb83-4c43-ac89-95f8448c5b27/10374863828-500.jpg" data-tags="classical, ambient, new age, celtic" role="button">
 Gregorian - Masters Of Chant Chapter V (2006-03-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/298b2b1e-d3cf-4dec-be0b-1803064a093f/8915966727-500.jpg" data-tags="irish, celtic rock" role="button">
+Gaelic Storm - Bring Yer Wellies (2006-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd71e647-22fa-3975-803a-3df38034ca37/1339635847-500.jpg" data-tags="christmas" role="button">
 Celtic Woman - A Christmas Celebration (2006-10-03)
@@ -276,6 +273,9 @@ Loreena McKennitt - An Ancient Muse (2006-11-21)
 <li data-cover="http://coverartarchive.org/release/5944569f-c36d-4520-a564-1d603bc3b0df/4476228153-500.jpg" data-tags="celtic" role="button">
 Celtic Woman - A New Journey (2007-01-10)
 </li>
+<li data-cover="https://img.discogs.com/o7ZCkp0veWJSv6Mtr7fqZHlyNUE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3429124-1330188111.jpeg.jpg" data-tags="gaelic, scottish, celtic, folk" role="button">
+Julie Fowlis - Cuilidh (2007-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0c3e343-4ad3-4551-8dc7-9bee366d537b/10194948769-500.jpg" data-tags="spanish, folk, celtic, pop-rock, conchi" role="button">
 El Sueño de Morfeo - Nos vemos en el camino (2007-04-17)
 </li>
@@ -285,17 +285,14 @@ Flatfoot 56 - Jungle of the Midwest Sea (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/6bb83f74-1345-47ba-af3b-b9c1dbfdf7f6/2125124116-500.jpg" data-tags="folk" role="button">
 Omnia - Alive! (2007-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/d368cd8d-f91c-4ffc-b4d4-5fb47213c8ac/17254341663-500.jpg" data-tags="celtic punk, folk punk" role="button">
+Dropkick Murphys - The Meanest of Times (2007-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/14e876b0-4997-478d-956a-33f2703de8a3/15696428646-500.jpg" data-tags="irish folk" role="button">
 The High Kings - The High Kings (2008-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d2b3e0e-870c-31d2-a483-9791a8e08363/4610925301-500.jpg" data-tags="christmas, celtic, folk" role="button">
-Loreena McKennitt - A Midwinter Night's Dream (2008-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/16d139e2-e940-36e4-b865-99f4dd667573/14012130666-500.jpg" data-tags="christmas" role="button">
 Enya - And Winter Came (2008-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/61b05f0b-2eaa-4598-9520-661f1bb497d1/1562357918-500.jpg" data-tags="folk, folk metal, celtic folk" role="button">
-Eluveitie - Evocation I - The Arcane Dominion (2009-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b918ce6-dce5-4312-af28-5bd7daffc5cb/9144163700-500.jpg" data-tags="punk, folk, punk rock, irish, folk punk, celtic, celtic punk, woof, p a t rats" role="button">
 Paddy and the Rats - Rats on Board (2009-09-01)
@@ -320,5 +317,8 @@ Adrian Von Ziegler - The Celtic Collection (2012-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/21f11285-d569-4332-9566-680560cbc682/3462514269-500.jpg" data-tags="irish, celtic" role="button">
 The Pogues - The Very Best Of The Pogues (2013-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/d44c860a-e657-4f82-86ac-19a72def7712/7927196685-500.jpg" data-tags="folk metal, melodic death metal, pagan metal" role="button">
+Eluveitie - Origins (2014-08-01)
 </li>
 </ol>

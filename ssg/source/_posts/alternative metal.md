@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:59:01.412Z
+date: 2021-04-11T03:49:18.159Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -45,9 +45,6 @@ Tool - Undertow (1993-04-06)
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
 Primus - Pork Soda (1993-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/81fb8d37-226c-4126-b6b3-1f73b611dd72/11196962512-500.jpg" data-tags="industrial metal, alternative metal" role="button">
-Marilyn Manson - Portrait Of An American Family (1994-07-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
 </li>
@@ -62,9 +59,6 @@ Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Antichrist Superstar (1996-10-08)
 </li>
 <li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
 Faith No More - Album of the Year (1997-06-03)
@@ -114,6 +108,9 @@ A Perfect Circle - Mer De Noms (2000-05-23)
 <li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
+<li data-cover="https://img.discogs.com/7Feb1iNB1Qh6XZJcwbxC1qwiNA8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492491-1416494673-8726.jpeg.jpg" data-tags="nu metal, metal" role="button">
+Soulfly - Primitive (2000-09-21)
+</li>
 <li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
 Godsmack - Awake (2000-10-31)
 </li>
@@ -155,6 +152,9 @@ Breaking Benjamin - Saturate (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad94d53f-6937-4966-a532-b60868d800e3/9270145980-500.jpg" data-tags="nu metal, rock, alternative, alternative metal" role="button">
+Taproot - Welcome (2002-09-30)
 </li>
 <li data-cover="https://img.discogs.com/IfPm7VK8tPIDbGmQi_6sIAm_UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4789395-1616295980-4798.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Steal This Album! (2002-10-26)

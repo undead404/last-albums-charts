@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:04:01.403Z
+date: 2021-04-11T04:40:01.402Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -108,23 +108,20 @@ ABBA - Super Trouper (1980-11-03)
 <li data-cover="http://coverartarchive.org/release/73c43b3a-c8aa-472e-a1ad-576794fc1221/11700006337-500.jpg" data-tags="pop, 80s, disco, funk" role="button">
 Grace Jones - Nightclubbing (1981)
 </li>
+<li data-cover="https://img.discogs.com/WDjgq5CTpdSBkxt06-5WxoQ4yro=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2627166-1525324084-8529.jpeg.jpg" data-tags="80s, new wave" role="button">
+Blondie - The Best of Blondie (1981-10-31)
+</li>
 <li data-cover="https://img.discogs.com/0FWRp-dS5SyTgCSxVymx847Lt1A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642049-1281176455.jpeg.jpg" data-tags="pop" role="button">
 ABBA - The Visitors (1981-11-30)
 </li>
 <li data-cover="https://img.discogs.com/KpSzmKm1OaU1F9ZWokxYdUX9Uj4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3830309-1346082760-2042.jpeg.jpg" data-tags="disco, rnb" role="button">
 The Gap Band - Gap Band IV (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/418dc558-42ce-4181-aed3-5e8388a3795c/7475714152-500.jpg" data-tags="disco" role="button">
-Imagination - In the Heat Of The Night (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4a32dc8-e049-4dd6-94ff-5b948e60db22/6857645811-500.jpg" data-tags="70s, disco" role="button">
 Hot Chocolate - 20 Hottest Hits (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/fc10393a-8107-4cc4-b1a7-a9c88c74762b/16052027167-500.jpg" data-tags="dance, disco, 80s" role="button">
-Goombay Dance Band - Sun of Jamaica (1991)
 </li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
 A Man Called Adam - Bread, Love And Dreams (1992)
@@ -188,6 +185,9 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0780eda-0c5e-46ef-b7cf-6f4d4eeca1a6/7107828358-500.jpg" data-tags="electronic, dance, disco" role="button">
 Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
+</li>
+<li data-cover="https://img.discogs.com/HOJBvC15uRXGDOTyH_kexdd1vuk=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8269814-1458408052-9599.jpeg.jpg" data-tags="pop" role="button">
+Kylie Minogue - Body Language (2003-11-10)
 </li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)

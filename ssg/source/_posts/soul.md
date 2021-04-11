@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:03:07.031Z
+date: 2021-04-11T04:20:01.475Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -144,9 +144,6 @@ JoJo - JoJo (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/FmHghlUxV8FHoIwIHACv3ZBgGVk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1275629-1547400630-6964.jpeg.jpg" data-tags="soul" role="button">
-Joss Stone - Mind Body & Soul (2004-09-27)
-</li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
 </li>
@@ -212,6 +209,9 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b785869-0155-4977-b0b6-af733acdc008/2140091250-500.jpg" data-tags="soul" role="button">
+Mayer Hawthorne - A Strange Arrangement (2009-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a34aaf89-1aeb-31e7-847d-ec3223ccb2ff/1577578205-500.jpg" data-tags="rnb, soul" role="button">
 Alicia Keys - The Element of Freedom (2009-11-27)

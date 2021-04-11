@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:43:01.559Z
+date: 2021-04-11T04:13:01.409Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/cBMXsYJ72Rk8__pnCOxAEz8HzxU=/fit-in/352x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259749-1289376516.jpeg.jpg" data-tags="freak folk" role="button">
+Exuma - Exuma I (1970)
+</li>
 <li data-cover="http://coverartarchive.org/release/d605007f-74eb-419b-9ed5-062c6743fbd0/6842201405-500.jpg" data-tags="folk, ambient, experimental, freak folk, free folk, tribal folk, my favourite cds, favourite cds" role="button">
 Exuma - Exuma II (1970)
 </li>
@@ -110,9 +113,6 @@ Josephine Foster - Hazel Eyes, I Will Lead You (2005)
 </li>
 <li data-cover="https://img.discogs.com/RGydQCyaWOxlhavvHFNpAlHNLgo=/fit-in/150x145/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807303-1160815627.jpeg.jpg" data-tags="alternative, singer-songwriter, freak folk, indie folk, sufjan stevens" role="button">
 Hush Arbors - Hush Arbors (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef88e819-cdf2-43e7-9b06-591d9b2ea64a/3003107829-500.jpg" data-tags="medieval" role="button">
-The Moon and the Nightspirit - Of Dreams Forgotten and Fables Untold (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/42afd162-b4c6-49ed-ab32-dadbfc293a3d/12915497561-500.jpg" data-tags="new weird finland" role="button">
 Islaja - Palaa aurinkoon (2005-01-20)
@@ -228,6 +228,9 @@ Ruby Throat - The Ventriloquist (2007-11-07)
 <li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Chains (2008)
 </li>
+<li data-cover="https://img.discogs.com/qiU8v6VtsgRV3rwhiYnULPTadzY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774570-1242497752.jpeg.jpg" data-tags="folk, lo-fi, freak folk, psychedelic folk, psych folk, landmarks, experimental folk, drone folk" role="button">
+Alexander Tucker - Portal (2008-06-09)
+</li>
 <li data-cover="https://img.discogs.com/d8HJYr3cTrpOpXA6UZdVSK3bABw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655742-1234876537.jpeg.jpg" data-tags="freak folk, calarts, scruffian recommended" role="button">
 Parenthetical Girls - Entanglements (2008-09-09)
 </li>
@@ -296,9 +299,6 @@ Nicole Dollanganger - Ode to Dawn Wiener: Embarrassing Love Songs (2013-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b29a30c7-4c4f-402b-8e90-2b169527bd07/5587185247-500.jpg" data-tags="whats your rupture" role="button">
 Parquet Courts - Tally All The Things That You Broke (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
-Marissa Nadler - July (2014-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
 Angel Olsen - Burn Your Fire for No Witness (2014-02-18)

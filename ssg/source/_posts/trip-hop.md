@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:52:01.417Z
+date: 2021-04-11T03:47:01.422Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -171,9 +171,6 @@ Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/994e2eae-daf6-4428-a109-08ee24226397/7204386247-500.jpg" data-tags="trip-hop, icelandic" role="button">
-Bang Gang - Something Wrong (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Statues (2003-01-06)
 </li>
@@ -320,5 +317,8 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
+Sia - 1000 Forms of Fear (2014-07-04)
 </li>
 </ol>

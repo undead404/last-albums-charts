@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:03:01.443Z
+date: 2021-04-11T04:28:01.440Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -147,9 +147,6 @@ The Roots - The Tipping Point (2004-07-12)
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
 CunninLynguists - A Piece of Strange (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
-Omarion - O (2005-02-22)
-</li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
 </li>
@@ -197,6 +194,9 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/427c6a66-418a-4f23-8f4c-b0cf6cc0f628/15154271555-500.jpg" data-tags="hip hop, pop, rnb" role="button">
+Soulja Boy Tell 'Em - iSouljaBoyTellEm (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)

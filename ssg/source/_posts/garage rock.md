@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:42:01.406Z
+date: 2021-04-11T04:00:01.462Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -159,9 +159,6 @@ The White Stripes - Get Behind Me Satan (2005-06-01)
 <li data-cover="http://coverartarchive.org/release/ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3/16830848668-500.jpg" data-tags="indie rock, indie" role="button">
 The Subways - Young for Eternity (2005-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b63123a-f122-4feb-bce2-a3c02dc79a7b/4619205570-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Black Rebel Motorcycle Club - Howl (2005-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
@@ -263,6 +260,9 @@ The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
 <li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">
+Miles Kane - Colour Of The Trap (2011-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c575baf-f8dc-4914-8862-00bee1d9b69a/4525848346-500.jpg" data-tags="garage rock" role="button">
 Black Lips - Arabia Mountain (2011-06-06)

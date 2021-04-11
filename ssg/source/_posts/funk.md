@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:30:01.499Z
+date: 2021-04-11T04:25:01.435Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -204,9 +204,6 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
-The Cat Empire - The Cat Empire (2003-10-27)
-</li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
@@ -254,6 +251,9 @@ Ohio Players - Gold (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cf0b731-8d1c-37d7-9a03-a2734df4c22b/5685858560-500.jpg" data-tags="soul, funk" role="button">
 Gnarls Barkley - The Odd Couple (2008-03-18)
+</li>
+<li data-cover="https://img.discogs.com/D5zif8STedOBGvMsAzk9SQhzunQ=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495698-1227800340.jpeg.jpg" data-tags="funk" role="button">
+Menahan Street Band - Make the Road by Walking (2008-10-14)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)

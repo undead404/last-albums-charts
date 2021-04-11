@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:48:01.730Z
+date: 2021-04-11T04:02:01.409Z
 title: "nwobhm: 100 albums you must listen to before you die"
 ---
 ![Iron Maiden - The Number of the Beast (1982-04-26)](https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg "Iron Maiden - The Number of the Beast (1982-04-26)")
@@ -10,7 +10,7 @@ title: "nwobhm: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">Iron Maiden - The Number of the Beast (1982-04-26)</li>
 <li data-cover="http://coverartarchive.org/release/03f52642-f3b7-4cd8-abdd-10d445bc45cd/28091718961-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Piece of Mind (1983-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/556c0066-8114-33ad-aa45-ab2f203e2777/4947735140-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Powerslave (1984-09-03)</li>
-<li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Somewhere In Time (1986-06-29)</li>
+<li data-cover="http://coverartarchive.org/release/7e9b0af2-5fba-4cfa-8258-23be6afe768d/18944199815-500.jpg" data-tags="heavy metal" role="button">Judas Priest - Painkiller (1990-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/b0b6f83c-8d1a-3e5f-aa26-e6c56324e393/10969475744-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Fear of the Dark (1992-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Brave New World (2000-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/3c1e204d-5753-4a12-9a27-f6cd70f296a1/15064785894-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Dance Of Death (2003-09-03)</li>
@@ -189,9 +189,6 @@ Virtue - We Stand To Fight (1985)
 <li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Live After Death (1985-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Somewhere In Time (1986-06-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/cec02646-2fbe-452c-abc7-53d1cf9d5f0d/9500420141-500.jpg" data-tags="megadeth" role="button">
 Diamond Head - Behold The Beginning (1987)
 </li>
@@ -308,6 +305,9 @@ Iron Maiden - A Matter of Life and Death (2006-08-28)
 </li>
 <li data-cover="https://img.discogs.com/UfghKRDFdgSE-v6hi910ISbVuhU=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1469825-1224633872.jpeg.jpg" data-tags="heavy metal, doom metal, traditional doom metal" role="button">
 Pagan Altar - Mythical & Magical (2006-12-18)
+</li>
+<li data-cover="https://img.discogs.com/3oqygVRoQVdSMnGT1copOzU1KLs=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14268307-1571093344-5164.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
+Blitzkrieg - Theatre Of The Damned (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/e138b837-d9cf-4000-9a45-c7257d7d4ec7/4188294440-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Flight 666: The Original Soundtrack (2009-05-25)

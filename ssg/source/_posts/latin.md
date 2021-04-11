@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T21:04:06.991Z
+date: 2021-04-11T03:52:01.417Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">Buena Vista Social Club - Buena Vista Social Club (1997-06-23)</li>
-<li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">Manu Chao - Clandestino (1998-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">Ricky Martin - Ricky Martin (1999-05-04)</li>
+<li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">Jennifer Lopez - On the 6 (1999-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">Santana - Supernatural (1999-06-15)</li>
+<li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">Enrique Iglesias - Escape (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">Shakira - Laundry Service (2001-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">Juanes - Mi Sangre (2004-09-28)</li>
-<li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">Shakira - Sale el Sol (2010-10-14)</li>
 </ol>
@@ -33,26 +33,32 @@ Arthur Verocai - Arthur Verocai (1972)
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="brazil" role="button">
+Caetano Veloso - Cinema Transcendental (1979)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, latin" role="button">
+Silvio Rodríguez - Rabo de Nube (1979)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="latin, salsa, latinjazz" role="button">
 Ray Barretto - La Cuna (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/421e8c75-eda8-32d5-9fca-9956c15223c5/22047716263-500.jpg" data-tags="dance, latin" role="button">
+Miami Sound Machine - Primitive Love (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="flamenco" role="button">
-Gipsy Kings - Gipsy Kings (1988-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5c9a710-e690-3c27-962c-eafca1f980d3/22419403524-500.jpg" data-tags="pop, pop rock, latin, latin rock, alles, wea, my albums spanish, debut recording, -1990-" role="button">
 Maná - Falta Amor (1990-07-02)
+</li>
+<li data-cover="https://img.discogs.com/zIvtevA9FP8KzbGfE71GX8GYb2s=/fit-in/600x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6735984-1486318191-6142.jpeg.jpg" data-tags="cabo verde, latin" role="button">
+Cesária Évora - Miss Perfumado (1992-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0f9951-da70-4731-bf4d-50ffbd9baf49/10134225946-500.jpg" data-tags="latin, latin pop" role="button">
 Gloria Estefan - Greatest Hits (1992-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
-</li>
-<li data-cover="https://img.discogs.com/CymqfUebWk6JIhMNkp2cRtMF6mU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597828-1500660748-7245.jpeg.jpg" data-tags="gipsy kings" role="button">
-Gipsy Kings - Greatest Hits (1994-06-28)
 </li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
@@ -74,6 +80,9 @@ Lucero - Lucero (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/321e7965-876b-404b-a1ab-c0f8395fe320/14938667115-500.jpg" data-tags="latin, alternative latin" role="button">
 Café Tacvba - Avalancha de éxitos (1996-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/e81d483d-e3af-43b3-8580-d15dc4334d90/3300466581-500.jpg" data-tags="latin" role="button">
+No Mercy - No Mercy (1996-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/def4619f-0de9-4b13-b3c3-0e2049f39bfd/11969760815-500.jpg" data-tags="funk, latin" role="button">
 Nuyorican Soul - Nuyorican Soul (1997-01-29)
@@ -99,9 +108,6 @@ Ricky Martin - Vuelve (1998-02-10)
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
-Manu Chao - Clandestino (1998-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
 La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
@@ -113,9 +119,6 @@ Shakira - Dónde Están los Ladrones? (1998-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5613066-35eb-4633-80f7-b26838ebbd96/26694861033-500.jpg" data-tags="latin" role="button">
 Jorge Drexler - Frontera (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
-Sergent Garcia - Un Poquito Quema'o (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/dba2993e-4530-483c-a173-1d6704264472/2720958236-500.jpg" data-tags="latin, cuba" role="button">
 Compay Segundo - Cien Años de Son (1999-02-25)
@@ -153,6 +156,9 @@ Christina Aguilera - Mi Reflejo (2000-09-12)
 <li data-cover="https://img.discogs.com/TNbTicqr0_J0-aEMYJhH-NA7F5E=/fit-in/583x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1388691-1301646667.jpeg.jpg" data-tags="latin, 00s" role="button">
 Ricky Martin - Sound Loaded (2000-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/6bd68a20-ab77-4af2-a938-66ff74eb2ddb/26365957826-500.jpg" data-tags="pop, ricky martin" role="button">
+Ricky Martin - La Historia (2001-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)
 </li>
@@ -177,9 +183,6 @@ Jennifer Lopez - Jenny From the Block (2002-11-11)
 <li data-cover="http://coverartarchive.org/release/c0a27b1d-dbcf-3d6b-8beb-d066e57820d6/9614357626-500.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - This Is Me... Then (2002-11-19)
 </li>
-<li data-cover="https://img.discogs.com/rniixT0KyLXm7Y4H6bayTeVVRlc=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918939-1281404573.jpeg.jpg" data-tags="spanish, fusion, latin, mestizo" role="button">
-Amparanoia - Enchilao (2003)
-</li>
 <li data-cover="https://img.discogs.com/7WLRGGEEkHDtegI1LguEadJUzCM=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-560756-1526697664-9198.jpeg.jpg" data-tags="rock" role="button">
 Los Lonely Boys - Los Lonely Boys (2003-08-12)
 </li>
@@ -189,17 +192,11 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/b78e0d2b-4379-46bd-9eea-4a3be3d3a3a8/15476089187-500.jpg" data-tags="latin, salsa" role="button">
 Sergent Garcia - La Semilla Escondida (2003-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8472ac8d-284a-3504-8e36-7e1456f54f0a/18885750436-500.jpg" data-tags="world, latin" role="button">
-Lhasa - The Living Road (2003-10-21)
-</li>
 <li data-cover="https://img.discogs.com/ScCarVGhuxxBq37x1HAqniVJ1og=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4917090-1537588079-4373.jpeg.jpg" data-tags="latin, latin pop" role="button">
 Enrique Iglesias - 7 (2003-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/52b924be-bf9c-44ab-bb1d-c2300db431cd/7851491988-500.jpg" data-tags="chillout, latin" role="button">
 Federico Aubele - Gran Hotel Buenos Aires (2004-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/ddc66967-95b4-4870-86b4-7908d019935a/23824057797-500.jpg" data-tags="latin, belgian" role="button">
-Gabriel Rios - Ghostboy (2004-05-03)
 </li>
 <li data-cover="https://img.discogs.com/I0SWT3S8uigi0AFlNC8acIVz4_U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304407-1099749564.jpg.jpg" data-tags="bossa nova, brazilian" role="button">
 Bebel Gilberto - Bebel Gilberto (2004-06-07)
@@ -234,17 +231,17 @@ The Cat Empire - Two Shoes (2005-09)
 <li data-cover="http://coverartarchive.org/release/b04d255e-d2bd-48b9-800e-243e79c81d55/17642227829-500.jpg" data-tags="rbd" role="button">
 RBD - Nuestro Amor (2005-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/acd29b03-aad7-433f-b959-715c4319601b/3956393065-500.jpg" data-tags="spanish, flamenco" role="button">
-Ojos de Brujo - Techari (2006-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
-Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
+<li data-cover="http://coverartarchive.org/release/1a95f8b2-10f5-4244-9d03-9278cf849a73/9221638230-500.jpg" data-tags="latin, bachata" role="button">
+Toby Love - Toby Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/80b8d76a-36f2-477d-84b8-afac2918445c/8266537911-500.jpg" data-tags="dance, latin" role="button">
 Shakira - Hips Don't Lie (2006-04-17)
 </li>
 <li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
 Kudai - Sobrevive (2006-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, latin, salsa" role="button">
+Chelo - Cha Cha (2006-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c912595-f439-4703-834d-630039081b24/2009506363-500.jpg" data-tags="crunk, reggeaton" role="button">
 Pitbull - El Mariel (2006-10-31)
@@ -290,6 +287,9 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b2c662-c92d-4a98-98d3-bdd4527bfdc4/5372404333-500.jpg" data-tags="dub" role="button">
 Forfun - Polisenso (2008-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/102511cf-0853-4192-a05c-3bfe3157f745/15754159411-500.jpg" data-tags="dance, latin, floriszik" role="button">
+Ricky Martin - 17 (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/eecc4e0f-48bf-4b4f-9786-b22080cd128b/4448536862-500.jpg" data-tags="dance, funk, latin, acid jazz, venezuela" role="button">
 Los Amigos Invisibles - Commercial (2009-06-09)

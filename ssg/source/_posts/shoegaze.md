@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:01:07.060Z
+date: 2021-04-11T04:24:12.584Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -135,6 +135,9 @@ Mew - Frengers (2003-04-07)
 <li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
 Autolux - Future Perfect (2004-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/a3aa8a48-7b5b-475c-a713-442ea6c76871/10313121703-500.jpg" data-tags="shoegaze, shoegazer" role="button">
+Slowdive - Catch the Breeze (2004-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
@@ -242,9 +245,6 @@ The Pains of Being Pure at Heart - Belong (2011-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
 The Raveonettes - Raven in the Grave (2011-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/70b06391-f594-447e-925d-e6a75f822dd8/14981341481-500.jpg" data-tags="shoegaze, dream pop" role="button">
-Widowspeak - Widowspeak (2011-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)

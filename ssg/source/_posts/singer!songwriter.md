@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:15:01.480Z
+date: 2021-04-11T04:04:06.993Z
 title: "singer/songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -48,9 +48,6 @@ Silver Jews - American Water (1998-10-20)
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/62e05c98-34a5-40c3-8761-9d33220f6b3d/4912812860-500.jpg" data-tags="rock" role="button">
-John Frusciante - From The Sounds Inside (2001-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d8b01d8-f500-4e21-812c-56593c3f7169/1882705658-500.jpg" data-tags="pop, rock, acoustic, adult alternative, singer/songwriter, jason mraz, extended play" role="button">
 Jason Mraz - From the Cutting Room Floor (2001-08-30)
 </li>
@@ -68,9 +65,6 @@ John Frusciante - Shadows Collide With People (2004-02-24)
 </li>
 <li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
 John Frusciante - The Will to Death (2004-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
-The Mountain Goats - The Sunset Tree (2005-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cec076e7-e6f3-4a0c-8b3d-907dd0f2f2d3/3246614950-500.jpg" data-tags="pitchfork top albums 2005" role="button">
 Silver Jews - Tanglewood Numbers (2005-10-05)
@@ -96,9 +90,6 @@ St. Vincent - Marry Me (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/3cc35490-1ed9-4b17-8cb6-3b90a79bd780/5854154257-500.jpg" data-tags="purchased 09" role="button">
 Joe Purdy - Take My Blanket and Go (2007-09-18)
 </li>
-<li data-cover="https://img.discogs.com/54qWLcwP9FForIDuDdu02Lcrw6Y=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1407331-1217045468.jpeg.jpg" data-tags="folk, folk pop" role="button">
-Shugo Tokumaru - Exit (2007-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
@@ -108,14 +99,14 @@ Corey Crowder - Gold And The Sand (2008)
 <li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
 William Fitzsimmons - The Sparrow and the Crow (2008)
 </li>
+<li data-cover="https://img.discogs.com/8798gMynPFlxjiHZ3pjWqN41ql8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287918-1207379612.jpeg.jpg" data-tags="singer-songwriter" role="button">
+Sera Cahoone - Only As The Day Is Long (2008-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/332b04a6-1a19-4d44-94c6-3c03e14f374b/15577515732-500.jpg" data-tags="pop, country, pop rock, americana, singer/songwriter, purchased 09, albums checked" role="button">
 Peter Bradley Adams - Leavetaking (2008-08-05)
-</li>
-<li data-cover="https://img.discogs.com/eiLB1tHHlrLlrKx5AJsxI4arq3w=/fit-in/450x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5008962-1382016688-2352.jpeg.jpg" data-tags="rock, alternative, gospel, singer/songwriter, good album" role="button">
-Matthew Perryman Jones - Swallow the Sea (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1595b1f0-4940-48ee-973a-d0ac11a30f18/1614148391-500.jpg" data-tags="pop, singer/songwriter" role="button">
 Andrew Belle - All Those Pretty Lights EP (2008-09-09)
@@ -123,11 +114,11 @@ Andrew Belle - All Those Pretty Lights EP (2008-09-09)
 <li data-cover="http://coverartarchive.org/release/38c22892-07d3-4206-9796-3e10a173acab/18602356812-500.jpg" data-tags="pop, rock, folk, female vocalists, acoustic, adult alternative, singer/songwriter" role="button">
 Yuna - Yuna (2008-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/506735f3-7a17-4656-beef-38d6ad04548a/5908607322-500.jpg" data-tags="pop, rock, singer/songwriter" role="button">
+Katie Costello - Kaleidoscope Machine (2008-11-11)
+</li>
 <li data-cover="https://img.discogs.com/7KuC4DIsL8hgK53IgCfgUOZpUWc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2399440-1430916091-1878.jpeg.jpg" data-tags="pop, singer/songwriter" role="button">
 Rosi Golan - The Drifter and The Gypsy (2008-11-18)
-</li>
-<li data-cover="https://img.discogs.com/JfgVyjDJBDvVUxVjDDs_qd8Zvvo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6512283-1433857196-3801.jpeg.jpg" data-tags="pop, rock, gospel, singer/songwriter, discoverockult" role="button">
-Phillip Larue - Let The Road Pave Itself (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
@@ -168,9 +159,6 @@ Aunt Martha - Candymaker (2009-10-15)
 <li data-cover="http://coverartarchive.org/release/52b09877-7cbb-4238-b12e-a3481d081602/7761759003-500.jpg" data-tags="folk" role="button">
 Peter Bradley Adams - Traces (2009-10-20)
 </li>
-<li data-cover="https://img.discogs.com/hR5wriKFyLVfgomJGY0kCvRelNA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135999-1265980968.jpeg.jpg" data-tags="female vocalists" role="button">
-Lissie - Why You Runnin' (2009-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b7dccac-3336-4fe8-9cca-b573cbf509a1/25242897640-500.jpg" data-tags="acoustic, adult alternative, folk rock, singer/songwriter, 2009 albums" role="button">
 Passenger - Wide Eyes Blind Love (2009-11-20)
 </li>
@@ -188,6 +176,12 @@ Enno Bunger - Ein bisschen mehr Herz (2010-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f3ff51-abd2-4423-b3d1-7918699c1768/19969656469-500.jpg" data-tags="rock, alternative, britpop, adult alternative, singer/songwriter, must listen, start to finish albums, bestof2010, purchased 2010, gary brothers  coldplay  the thriving, easya" role="button">
 Cary Brothers - Under Control (2010-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/063b8550-4a19-458c-bc0f-4dd50bf2bab0/5325070958-500.jpg" data-tags="acoustic" role="button">
+Jack Johnson - You And Your Heart (2010-04-06)
+</li>
+<li data-cover="https://img.discogs.com/aQExMaZ7wiARrtIvo6acykd2Vgc=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9318006-1478491649-9650.jpeg.jpg" data-tags="pop, rock, singer/songwriter" role="button">
+Jesse Ruben - The Ones That Matter (2010-04-27)
 </li>
 <li data-cover="https://img.discogs.com/TfxRFG2a8jt0huysa7bKL_aEzmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2682039-1606551917-8470.jpeg.jpg" data-tags="deutsch, singer/songwriter, liebe, herz, tanzen, sucht, micha, poisel, geliebt, maat, nur mit dir, komm zurueck, micha maat, der moment, stille der nacht, zeig mir den weg" role="button">
 Philipp Poisel - Bis nach Toulouse (2010-08-27)
@@ -225,6 +219,9 @@ Trent Dabbs - Southerner (2011-02-22)
 <li data-cover="https://img.discogs.com/D85OUNqlEKZWA3DIhUdglvkl0xI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4814796-1377312480-9842.jpeg.jpg" data-tags="pop, rock, pop rock, acoustic, adult alternative, singer/songwriter, relevant magazine" role="button">
 Matt Wertz - Weights & Wings (2011-03-15)
 </li>
+<li data-cover="https://img.discogs.com/XzbVs5C13ciRPh7px1-ICDHvVYw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5186801-1394404407-8695.jpeg.jpg" data-tags="rock" role="button">
+Matthew Mayfield - Now You're Free (2011-04-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/d2c4b353-d004-4226-9bde-c5dd07cb1f0f/25831858893-500.jpg" data-tags="pop" role="button">
 Anna Nalick - Broken Doll & Odds & Ends (2011-06-05)
 </li>
@@ -236,6 +233,9 @@ Allie Moss - Late Bloomer (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5d3a6a-f7e8-434c-82f2-7e7085725182/9777802110-500.jpg" data-tags="pop, rock, folk, folk-pop, singer/songwriter" role="button">
 Amy Stroup - The Other Side of Love Sessions (2011-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/32363afe-81d9-45ed-b2c3-96cfa4d02dea/8857177959-500.jpg" data-tags="pop, rock, adult alternative, singer/songwriter" role="button">
+Ingrid Michaelson - Parachute (2011-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
@@ -266,6 +266,9 @@ Bruce Springsteen - Wrecking Ball (2012-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/05cd1cdd-1098-461a-8e2f-70eebd8c5ffc/835544029-500.jpg" data-tags="pop, singer/songwriter, pop/rock" role="button">
 Tyrone Wells - Where We Meet (2012-03-06)
+</li>
+<li data-cover="https://img.discogs.com/jc1Tyh3ngjwE5eaUs7Au8aoiMdw=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5932376-1406667178-6280.jpeg.jpg" data-tags="rock, alternative, singer/songwriter" role="button">
+Butterfly Boucher - Butterfly Boucher (2012-04-13)
 </li>
 <li data-cover="https://img.discogs.com/rkWXb0bdSsMkx0j3NhLAY-w1dO4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4877333-1378213829-3953.jpeg.jpg" data-tags="pop, rock, adult alternative, singer/songwriter" role="button">
 Eric Hutchinson - Moving Up Living Down (2012-04-17)
@@ -317,8 +320,5 @@ Father John Misty - I Love You, Honeybear (2015-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bf10c9b-79eb-46d4-9b00-615bf2d91ce5/9171464486-500.jpg" data-tags="alternative rock" role="button">
 Noel Gallagher's High Flying Birds - Chasing Yesterday (2015-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d797d643-05ff-4b06-ba7f-dd8df6762904/16232859825-500.jpg" data-tags="rock, gospel, singer/songwriter" role="button">
-Jenny & Tyler - Faint Not (2017)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:24:01.409Z
+date: 2021-04-11T03:48:12.601Z
 title: "glitch: 100 albums you must listen to before you die"
 ---
 ![The Glitch Mob - Drink the Sea (2010-05-25)](http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg "The Glitch Mob - Drink the Sea (2010-05-25)")
@@ -74,6 +74,9 @@ Squarepusher - Do You Know Squarepusher (2002-09-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, minimal, glitch" role="button">
 Taylor Deupree - Stil. (2002-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ce84e00-3708-4537-bac9-258ad1de8ca5/5962684753-500.jpg" data-tags="atmospheric" role="button">
+Telefon Tel Aviv - Immediate Action #8 (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8435025-4b43-4da9-bd8d-ad37748e0acf/13114830432-500.jpg" data-tags="minimal" role="button">
 Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
@@ -192,8 +195,8 @@ Nero's Day at Disneyland - From Rotting Fantasylands (2009)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, glitch, experimental" role="button">
 Ametsub - The Nothings of The North (2009-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/34ddc83f-e1c2-40ea-8c87-0bc1d6ab4e34/5073213622-500.jpg" data-tags="dubstep, dubstep idm, dj hiptronic" role="button">
-PANTyRAiD - The Sauce (2009-09-21)
+<li data-cover="http://coverartarchive.org/release/6f5b2341-22e2-41f1-943c-fd5ec913b021/6709656786-500.jpg" data-tags="electronic" role="button">
+She - Orion (2009-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ea83848-98c4-46e9-ada2-219c5044eaa0/24588619185-500.jpg" data-tags="instrumental, experimental, idm, glitch, broken beat, glitch-hop, chillwave, chilwave" role="button">
 Shlohmo - Shlo-Fi EP (2009-10)
@@ -215,9 +218,6 @@ Autechre - Oversteps (2010-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5d18496-c4a1-46ad-8219-452798ed3f58/3972240476-500.jpg" data-tags="ambient" role="button">
 Loscil - Endless Falls (2010-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c909de1-7a64-47d5-8ede-d3b5687e8656/7152942508-500.jpg" data-tags="dubstep" role="button">
-Bassnectar - Timestretch (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6164e1e-65c5-4734-90cb-7ed3aa5da962/6349917553-500.jpg" data-tags="glitch" role="button">
 Free the Robots - Ctrl Alt Delete (2010-03-30)

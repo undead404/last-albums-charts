@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:41:07.105Z
+date: 2021-04-11T04:11:01.410Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -81,6 +81,9 @@ Beck - Midnite Vultures (1999-11-20)
 <li data-cover="http://coverartarchive.org/release/884d7130-e9e4-40de-b009-d822f35c1ba4/27400649486-500.jpg" data-tags="electronic" role="button">
 Primal Scream - XTRMNTR (2000-01-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/d7817254-dde6-474e-9972-1b3bdb58e32a/2657727181-500.jpg" data-tags="electronic" role="button">
+Depeche Mode - Dream On (2001-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">
 New Order - Get Ready (2001-06-18)
 </li>
@@ -105,6 +108,9 @@ Annie - Anniemal (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
 </li>
+<li data-cover="https://img.discogs.com/wGy0Vo4cEFfdxgqVyvGTipm-SM0=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1671496-1242219123.jpeg.jpg" data-tags="gothic metal" role="button">
+End of You - Unreal (2005-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
 </li>
@@ -125,9 +131,6 @@ Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="https://img.discogs.com/HMcN6wd3h0rFHmI6igA_kToF8ek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3823203-1345819377-3987.jpeg.jpg" data-tags="alternative dance" role="button">
-Bloc Party - Flux (2007-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5edfc25c-4fdc-4fbc-8784-559d8fb0d381/990539724-500.jpg" data-tags="indie, rock, british" role="button">
 The Charlatans - You Cross My Path (2008-03-03)
@@ -170,9 +173,6 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative dance" role="button">
 Bloc Party - One More Chance (2009-08-10)
-</li>
-<li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
-Memory Tapes - Seek Magic (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
