@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:35:02.809Z
+date: 2021-04-11T00:16:06.919Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -66,14 +66,14 @@ The Move - Shazam (1970)
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
-<li data-cover="https://img.discogs.com/cDrCHJiTakeSSerrWzVHjXq9ZjA=/fit-in/459x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021841-1312119939.jpeg.jpg" data-tags="progressive rock, argentina, rock argentino, otro temaso, caos coleccion latinoamerica, sui" role="button">
-Sui Generis - Confesiones De Invierno (1973)
-</li>
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/56e6177c-02a4-338b-8b04-20e5d1dce1f1/14893755184-500.jpg" data-tags="new wave, psychedelic pop, 1980s, iveldie best of 1984, steveadams fm, steveadamsfm, vinyyl" role="button">
 Julian Cope - Fried (1984)
+</li>
+<li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
+Nancy Sinatra - Lightning's Girl (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
@@ -123,6 +123,9 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 <li data-cover="http://coverartarchive.org/release/67148959-1ccd-3c30-8645-cfb8301b0001/4778416413-500.jpg" data-tags="cardiowave" role="button">
 Flëur - Сияние (2004-10-12)
 </li>
+<li data-cover="https://img.discogs.com/oIc8B73tImkJcCw6vhK0pM9WhK0=/fit-in/242x242/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664193-1145040278.jpeg.jpg" data-tags="indie pop, psychedelic pop, extravagant" role="button">
+Mazarin - We're Already There (2005-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
 </li>
@@ -137,9 +140,6 @@ Willow - Willow (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
-The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 </li>
 <li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
 Dungen - Tio Bitar (2007-04-23)

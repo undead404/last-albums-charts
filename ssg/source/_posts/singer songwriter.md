@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:29:01.444Z
+date: 2021-04-11T00:10:01.440Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -75,6 +75,9 @@ Chris Whitley - Living With The Law (1991-07-02)
 <li data-cover="https://img.discogs.com/qOxQRjWd-K6HKHx29BaS3onx4Lg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8338250-1459648831-2685.jpeg.jpg" data-tags="rock, alternative rock, indie rock, progressive rock, guitar, 90s, folk rock, sardonic, blues rock, male vocalist, male vocalists, singer songwriter, 1990s, cynical, sarcastic, concert of the dead, rock fusion, song noir, eclectic rock, cynical/sarcastic, dead man radio, warren zevon gets his own tag, hard progressive rock, enjoy every sandwich" role="button">
 Warren Zevon - Mr. Bad Example (1991-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ccf559f-8f96-4106-b80a-739213bb0d15/13884686199-500.jpg" data-tags="classic rock, rock, alternative rock, progressive rock, guitar, singer songwriter, song noir, desert island discs, physical cds i actually own" role="button">
+Warren Zevon - Learning to Flinch (1993-04-13)
+</li>
 <li data-cover="https://img.discogs.com/ztcGI_mFtjOQnTZRSdWh8ePS5Cc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254926-1540227517-9759.jpeg.jpg" data-tags="pop, rock, singer songwriter" role="button">
 Francis Dunnery - Fearless (1994)
 </li>
@@ -86,9 +89,6 @@ The Mountain Goats - Zopilote Machine (1994-07)
 </li>
 <li data-cover="https://img.discogs.com/DU8d9eSCI6hG0tDZrPsmn8Clv8k=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-723654-1375426638-5194.jpeg.jpg" data-tags="pop, 70s" role="button">
 Captain & Tennille - Love Will Keep Us Together (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/074120cd-90be-32bf-a686-c19dfe8e9454/26746444669-500.jpg" data-tags="slowcore" role="button">
-Red House Painters - Ocean Beach (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9609250b-9cfc-3d8b-bc38-ce0213d1f512/6313419411-500.jpg" data-tags="pop, female vocalists, 90s" role="button">
 Amanda Marshall - Amanda Marshall (1995-10-17)
@@ -132,9 +132,6 @@ Sondre Lerche - Faces Down (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd3d3a01-a527-4559-b36c-b1fd11fcd0ae/24719629599-500.jpg" data-tags="sophie zelmani, female vocalists" role="button">
-Sophie Zelmani - Sing And Dance (2002-01-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/028d05bb-0b07-4dfc-a7a6-86b79694a6f5/2364676070-500.jpg" data-tags="rock" role="button">
 Sam Roberts - We Were Born In A Flame (2003-06-03)
 </li>
@@ -146,6 +143,9 @@ Patrick Wolf - Lycanthropy (2003-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e318e125-53a5-42ec-987b-3b05aa46b325/14141866528-500.jpg" data-tags="rock" role="button">
 Warren Zevon - The Wind (2003-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/62010681-0670-4261-9149-d2d86a83d28b/15850637628-500.jpg" data-tags="alternative rock" role="button">
+Hawksley Workman - Lover/Fighter (2003-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8472ac8d-284a-3504-8e36-7e1456f54f0a/18885750436-500.jpg" data-tags="world, latin" role="button">
 Lhasa - The Living Road (2003-10-21)
@@ -167,9 +167,6 @@ Thanksgiving - The River (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f339f3-0266-4e1e-8a6c-098c666b5bcc/5134976327-500.jpg" data-tags="rock, jazz vocal, folk" role="button">
 Van Morrison - Magic Time (2005-05-16)
-</li>
-<li data-cover="https://img.discogs.com/4NQZZn_xqtoo2XTpzP3pz6Thflk=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494447-1160317395.jpeg.jpg" data-tags="folk, indie" role="button">
-Smog - A River Ain't Too Much to Love (2005-05-24)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
@@ -215,6 +212,9 @@ Dungen - Tio Bitar (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce581068-c886-3ca7-b273-c1ea553eb45d/3779573244-500.jpg" data-tags="indie" role="button">
 Emily Haines & The Soft Skeleton - What Is Free to a Good Home? (2007-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/afa1edbc-0ef2-4866-bac5-cd07741f1146/27110101287-500.jpg" data-tags="folk, guitar, martin simpson - prodigal son" role="button">
+Martin Simpson - Prodigal Son (2007-07-30)
 </li>
 <li data-cover="https://img.discogs.com/UIkhOw5uXUhHu3T3_enAaw4-J68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4515619-1367083131-2150.jpeg.jpg" data-tags="singer songwriter" role="button">
 Milow - Coming Of Age (2008-02-01)

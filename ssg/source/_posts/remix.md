@@ -1,10 +1,9 @@
 ---
-date: 2021-04-10T09:14:01.409Z
+date: 2021-04-10T23:51:01.404Z
 title: "remix: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Reanimation (2002-07-29)](https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg "Linkin Park - Reanimation (2002-07-29)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b1bad019-ee7b-437a-a587-d314d4541892/2461283124-500.jpg" data-tags="new wave, alternative, remix" role="button">The Cure - Mixed Up (1990-10-30)</li>
 <li data-cover="https://img.discogs.com/GWBTAjGaW7WhP5q9-kFTJ6GgOSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13994-001.jpg.jpg" data-tags="electronic, remix" role="button">Björk - Telegram (1996-11-25)</li>
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Reanimation (2002-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/645b33f4-1eb3-4d02-8665-727738b66255/14746193465-500.jpg" data-tags="remix" role="button">Mariah Carey - The Remixes (2003-10-14)</li>
@@ -14,6 +13,7 @@ title: "remix: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4d7a9a46-837d-4edb-80a5-06457ca98190/18117356933-500.jpg" data-tags="electronic, remix" role="button">The xx - Crystalised (2009-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/fb255c42-b7da-4829-957b-83536a955ca9/22773473185-500.jpg" data-tags="electronic, indie, alternative, remix" role="button">The xx - Basic Space (2009-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/c714ae5e-6bb5-4f5b-a79a-77b8b7bcd26f/16467592252-500.jpg" data-tags="electronic, rock, alternative, ambient, remix, miike snow" role="button">Miike Snow - Black & Blue (2009-09)</li>
+<li data-cover="http://coverartarchive.org/release/9f332dc1-bc91-422d-9f83-a95d0a818d61/17661352244-500.jpg" data-tags="electronic, dubstep, remix" role="button">Linkin Park - Recharged (2013-10-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,14 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7e59e262-7f3b-3648-98f0-72e145f69e0e/1821444576-500.jpg" data-tags="pop, 80s, british, pop rock, new wave, remix" role="button">
 Phil Collins - 12"ers (1985-11-28)
 </li>
-<li data-cover="https://img.discogs.com/7c-PA0Zbb849-FFr_g6cwsIzrp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-571266-1287251211.jpeg.jpg" data-tags="synthpop, 80s" role="button">
-Pet Shop Boys - Disco (1986-11-17)
-</li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s" role="button">
 Madonna - You Can Dance (1987-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1bad019-ee7b-437a-a587-d314d4541892/2461283124-500.jpg" data-tags="new wave, alternative, remix" role="button">
-The Cure - Mixed Up (1990-10-30)
 </li>
 <li data-cover="https://img.discogs.com/Vuo_o8baUuG--KeS6uau8SnBOVk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242519-1474928995-6789.jpeg.jpg" data-tags="electronic, kraftwerk" role="button">
 Kraftwerk - The Mix (1991-06-10)
@@ -47,6 +41,9 @@ Nine Inch Nails - Closer to God (1994-05-14)
 </li>
 <li data-cover="https://img.discogs.com/dT23prXyJnG9NFzw5drDnHxkO7o=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2517479-1288432107.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Further Down the Spiral (1995-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f2839ae-170e-4351-9847-446ca5ce73d6/13453155769-500.jpg" data-tags="industrial" role="button">
+Nine Inch Nails - The Perfect Drug (1996)
 </li>
 <li data-cover="https://img.discogs.com/GWBTAjGaW7WhP5q9-kFTJ6GgOSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13994-001.jpg.jpg" data-tags="electronic, remix" role="button">
 Björk - Telegram (1996-11-25)
@@ -78,6 +75,9 @@ Sarah McLachlan - Remixed (2001-06-26)
 <li data-cover="https://img.discogs.com/E-P0DkpU7hvGLo0quajIijEfX7g=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831786-1303064507.jpeg.jpg" data-tags="remix, moloko, awesome remixes, 2001 releases, very possibly the greatest piece of music ever made" role="button">
 Moloko - All Back to the Mine (2001-07-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/aa48ac28-57e0-3019-ba97-db523a26471e/7733173920-500.jpg" data-tags="house, electronic" role="button">
+Modjo - Modjo (2001-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
 Limp Bizkit - New Old Songs (2001-11-30)
 </li>
@@ -86,9 +86,6 @@ Sophie Ellis-Bextor - Murder on the Dancefloor (2001-12-03)
 </li>
 <li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="remix" role="button">
 Ian Brown - Remixes Of The Spheres (2002)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
-Fischerspooner - The 15th (2002)
 </li>
 <li data-cover="https://img.discogs.com/PSYIyR6-V2tIoOeLuht0XeWmW44=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892451-1390417232-5195.jpeg.jpg" data-tags="trance, dance, techno, remix" role="button">
 Groove Coverage - Moonlight Shadow (2002-06-17)
@@ -102,11 +99,11 @@ Atjazz - Lab Results (2002-06-25)
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd42c289-9c0f-40c4-a168-36be8c5aeee8/15264621691-500.jpg" data-tags="downtempo, house, trip-hop, chilled electro" role="button">
-Röyksopp - Remind Me (2002-08-05)
-</li>
 <li data-cover="https://img.discogs.com/wO4FiZcNneXqcm51toR2VikOEis=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-311479-1092592379.gif.jpg" data-tags="electronic, indie electronica" role="button">
 The Faint - Danse Macabre Remixes (2003-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1bcfbae-2695-478e-a68f-42fc5594ec3b/16467454034-500.jpg" data-tags="remix, yeah, indie raunch rock, like full album, new artists-songs" role="button">
+Yeah Yeah Yeahs - Date With The Night (2003-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/645b33f4-1eb3-4d02-8665-727738b66255/14746193465-500.jpg" data-tags="remix" role="button">
 Mariah Carey - The Remixes (2003-10-14)
@@ -125,6 +122,9 @@ A Perfect Circle - aMOTION (2004-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccfcc5a0-28d9-37ae-a244-7b3d75ca287f/5727939754-500.jpg" data-tags="remix" role="button">
 Bloc Party - Silent Alarm Remixed (2005-08-29)
+</li>
+<li data-cover="https://img.discogs.com/nCCydOSCNyQfDP7ibcpKtj_Tflw=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044837-1494654263-3335.jpeg.jpg" data-tags="dance" role="button">
+Sarah McLachlan - Bloom: Remix Album (2005-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/695f8519-02d4-4b04-a6b0-62c34412bbfe/12099530564-500.jpg" data-tags="pop" role="button">
 Britney Spears - B in the Mix: The Remixes (2005-11-22)
@@ -210,6 +210,9 @@ Marina & the Diamonds - I Am Not A Robot (2009)
 <li data-cover="https://img.discogs.com/3C7HeuVRRlSIsN_EH5K4wyvt97o=/fit-in/500x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537433-1128951122.jpeg.jpg" data-tags="british, indie rock, alternative dance" role="button">
 Franz Ferdinand - No You Girls (2009-02)
 </li>
+<li data-cover="https://img.discogs.com/--Waz9y-p3BIi5g9nZG1egGA1iM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407281-1440370129-6345.jpeg.jpg" data-tags="electronic" role="button">
+Yeah Yeah Yeahs - Zero (2009-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d7a9a46-837d-4edb-80a5-06457ca98190/18117356933-500.jpg" data-tags="electronic, remix" role="button">
 The xx - Crystalised (2009-04-27)
 </li>
@@ -254,9 +257,6 @@ Glasser - Tremel (2010-03-23)
 </li>
 <li data-cover="https://img.discogs.com/PBhPOAwD-8j0w0d09aKsILWJDcE=/fit-in/500x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2663540-1295563257.jpeg.jpg" data-tags="remix" role="button">
 Tame Impala - Solitude Is Bliss (2010-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/fa26ddb2-5d90-4018-bec7-8c6de1f69f08/2858241155-500.jpg" data-tags="ellie goulding" role="button">
-Ellie Goulding - Run Into The Light (2010-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d730d994-3de3-4326-9f38-c9dbe0272f2e/22134441599-500.jpg" data-tags="dub, remix, dubby, 07-good" role="button">
 Easy Star All-Stars - Dubber Side of the Moon (2010-10-18)

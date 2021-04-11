@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:38:01.527Z
+date: 2021-04-11T00:03:01.443Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -231,9 +231,6 @@ Sam Adams - Boston's Boy (2010)
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ca7d52e-e60b-4a65-812b-95e268ca588e/2419336392-500.jpg" data-tags="hip hop" role="button">
-Diddy - Dirty Money - Last Train To Paris (2010-05-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
@@ -263,6 +260,9 @@ Chris Brown - F.A.M.E. (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/9197df9f-7f26-4498-af10-4eb5e67d6c8b/25513914939-500.jpg" data-tags="lmfao, electronic" role="button">
+LMFAO - Sorry for Party Rocking (2011-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)

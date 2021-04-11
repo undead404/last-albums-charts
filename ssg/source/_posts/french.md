@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:23:01.406Z
+date: 2021-04-10T23:52:01.414Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -7,13 +7,13 @@ title: "french: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">Phoenix - United (2000-06)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
+<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">Phoenix - Alphabetical (2004-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">Phoenix - It's Never Been Like That (2006-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">Air - Pocket Symphony (2006-12)</li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">Stromae - Racine Carrée (2013-08-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -59,9 +59,6 @@ Laurent Garnier - Unreasonable Behaviour (2000-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ffb01eed-88d2-43da-baa8-f58391ae309f/21020293449-500.jpg" data-tags="french" role="button">
-Keren Ann - La biographie de Luka Philipsen (2000-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
 Phoenix - United (2000-06)
@@ -138,6 +135,9 @@ Superbus - Pop'N'Gum (2004-06)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e52d813e-fb39-44f2-9a18-863914326fe6/5419927411-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Keren Ann - Nolita (2004-12-21)
+</li>
 <li data-cover="https://img.discogs.com/MGPDbH-ahnTs2ettL-wVTmOPuXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9401145-1479911459-2505.jpeg.jpg" data-tags="french" role="button">
 Camille - Le Fil (2005-02-14)
 </li>
@@ -167,6 +167,9 @@ Tender Forever - The Soft and the Hardcore (2005-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd/2734388850-500.jpg" data-tags="french, pop, indie pop, singer-songwriter, jazz-pop, nouvelle scène française, streamable album wants, je devrais avoir mon enfer de la caresse, francophonie, for a sleepy sunday morning" role="button">
 Emily Loizeau - L'Autre Bout Du Monde (2006-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/230c485d-1e76-423a-ac1f-64599c71a1c7/5104663902-500.jpg" data-tags="french, alternative, acoustic, 00s, stuff, record makers" role="button">
+Sébastien Tellier - Sessions (2006-04-03)
 </li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
@@ -314,9 +317,6 @@ Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e0b6cc-cc6e-4a94-acfb-328d70e4ccef/4486917629-500.jpg" data-tags="french, hip hop, french montana" role="button">
 French Montana - Excuse My French (2013-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
-Stromae - Racine Carrée (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcc44d38-7b10-4c61-af3a-413df2a3b3e9/7437861623-500.jpg" data-tags="pop" role="button">
 Christine and the Queens - Chaleur humaine (2014-05-27)

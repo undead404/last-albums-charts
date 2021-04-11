@@ -1,10 +1,11 @@
 ---
-date: 2021-04-10T09:11:01.444Z
+date: 2021-04-11T00:24:01.406Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">Eluvium - Copia (2007-02-20)</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
@@ -12,7 +13,6 @@ title: "relaxing: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">Morcheeba - Blood Like Lemonade (2010-06-07)</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">Agnes Obel - Philharmonics (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 </ol>
 List of 100 - under the cut.
@@ -26,6 +26,9 @@ Visage - The Damned Don't Cry (1982-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/55555fce-af44-4e93-a170-7554ed1e932d/4879800403-500.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - The Four Seasons (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
+Digable Planets - Blowout Comb (1994-10-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Secrets of Life (1995)
@@ -90,9 +93,6 @@ Anugama - Healing (2000)
 <li data-cover="https://img.discogs.com/aR_DAnxf1_Q3nsm6cGttuLUqLjI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920300-1561466655-8429.jpeg.jpg" data-tags="new age, relaxing" role="button">
 Anugama - Shamanic Dream II (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/793d727d-ed85-45b4-880e-3c4f5349499f/13988764360-500.jpg" data-tags="punk rock, punk, pop punk" role="button">
-MxPx - The Ever Passing Moment (2000-05-16)
-</li>
 <li data-cover="https://img.discogs.com/W9YLJuU4_Y7niQq492J8nW3BUPc=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277628-1544687511-9345.png.jpg" data-tags="electronic, trip-hop, downtempo, downbeat, relaxing, thievery corporation, ladytronica" role="button">
 Thievery Corporation - Shadows of Ourselves (2000-10-27)
 </li>
@@ -122,6 +122,12 @@ Aimee Mann - Lost in Space (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a76f57c5-5918-4354-9031-69724f598d82/14579605414-500.jpg" data-tags="50 cent" role="button">
+50 Cent - Best of 50 Cent (2003)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="piano, piano solo" role="button">
+Greg Maroney - Harmony Grove (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dj trance" role="button">
 System F - Together (2003-01-29)
@@ -177,6 +183,9 @@ Enya - Amarantine (2005-11-18)
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e4871f6-a3eb-363d-b268-5ab6553e6722/10141618573-500.jpg" data-tags="rock" role="button">
+Live - Songs from Black Mountain (2006-04-07)
+</li>
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Saltillo - Ganglion (2006-06-01)
 </li>
@@ -185,6 +194,9 @@ Entheogenic - Golden Cap (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
 Vienna Teng - Dreaming Through The Noise (2006-07-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7ef7ad3-b581-4e7a-a550-3e9b966caa93/9609859246-500.jpg" data-tags="rnb" role="button">
+Cherish - Unappreciated (2006-08-15)
 </li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
@@ -210,17 +222,14 @@ Eluvium - Copia (2007-02-20)
 <li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
 Nic Chagall - What You Need (2007-03-05)
 </li>
-<li data-cover="https://img.discogs.com/H3tNbACNZmKF2__nBrH1ME-JUfE=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2910275-1471224440-4899.jpeg.jpg" data-tags="rnb" role="button">
-Amerie - Because I Love It (2007-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/8888b7ee-e2b6-4a07-ae86-1f7977d8a574/4625841431-500.jpg" data-tags="hip hop, rap, smooth, relaxing, nature sounds, kaudogg" role="button">
+Havoc - The Kush (2007-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/60e82431-7430-45db-a02d-b7e13646f760/8259283262-500.jpg" data-tags="chillout, dance, house" role="button">
 Groove Armada - Greatest Hits (2007-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/3964b0f8-6868-4f2e-bbf7-e28a1a0d54cd/4457858158-500.jpg" data-tags="opera, classical" role="button">
-Andrea Bocelli - The Best of Andrea Bocelli - 'Vivere' (2007-10-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental, acoustic, relaxing, fingerstyle" role="button">
 Antoine Dufour - Existence (2008)
@@ -242,9 +251,6 @@ Oceanlab - Sirens of the Sea (2008-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5af92f-5593-4488-aaba-f9035faa77fa/10649760786-500.jpg" data-tags="post-rock, instrumental" role="button">
-The Evpatoria Report - Maar (2008-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
@@ -288,9 +294,6 @@ Carbon Based Lifeforms - Interloper (2010-05-03)
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
 Morcheeba - Blood Like Lemonade (2010-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
@@ -308,9 +311,6 @@ The Antlers - Drift Dive (2012-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
-Daughter - If You Leave (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

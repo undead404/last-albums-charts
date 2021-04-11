@@ -1,12 +1,12 @@
 ---
-date: 2021-04-10T10:04:07.004Z
+date: 2021-04-11T00:43:07.000Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">The Smiths - Hatful of Hollow (1984-11-12)</li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">Pixies - Death to the Pixies (1997-10-06)</li>
-<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">Genesis - Turn It on Again: The Hits (1999-10-22)</li>
+<li data-cover="http://coverartarchive.org/release/9feb63e8-ffc5-47cc-b0f4-dace3d9e75d4/920100536-500.jpg" data-tags="80s" role="button">The Smiths - The World Won't Listen (1987-02-23)</li>
+<li data-cover="http://coverartarchive.org/release/5f52d3ff-74dd-460d-a627-4d54f0f7eff6/1611443813-500.jpg" data-tags="indie, rock, alternative, indie rock, 90s" role="button">Modest Mouse - Interstate 8 (1996-08-06)</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur: The Best Of (2000-10-23)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - 1 (2000-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
@@ -21,14 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5d9391fb-7d01-30c2-879f-7e21ca6daa7e/1636883977-500.jpg" data-tags="classic rock, 60s" role="button">
-The Rolling Stones - Big Hits (High Tide and Green Grass) (1966-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
 Procol Harum - A Whiter Shade of Pale (1967)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ca5c7fd-6293-413d-b096-92c00a2e0587/8680012182-500.jpg" data-tags="classic rock" role="button">
-Janis Joplin - Janis Joplin's Greatest Hits (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
 Crosby, Stills, Nash & Young - So Far (1974-08-19)
@@ -63,6 +57,9 @@ The Velvet Underground - VU (1984)
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">
 The Smiths - Hatful of Hollow (1984-11-12)
 </li>
+<li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
+The Doors - The Best of The Doors (1985)
+</li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
 </li>
@@ -74,12 +71,6 @@ The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
 <li data-cover="https://img.discogs.com/F8vg3FhAEcNpd4S5wwjBmKqjNrw=/fit-in/235x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3885333-1348062286-2325.jpeg.jpg" data-tags="classic rock, rock, 80s, new wave, compilation, 80s rock, collected, gespannt" role="button">
 Billy Idol - The Essential (1988)
-</li>
-<li data-cover="https://img.discogs.com/SSsqpsUCcZVTM-V2kW2cfqm69DY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3896156-1348425536-7716.jpeg.jpg" data-tags="smooth jazz" role="button">
-Grover Washington, Jr. - Anthology (1988-09-30)
-</li>
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="classic rock, rock" role="button">
-David Bowie - ChangesBowie (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/74678f8d-80a8-3091-ada8-89d617241547/22697273580-500.jpg" data-tags="morrissey, alternative" role="button">
 Morrissey - Bona Drag (1990-10-08)
@@ -120,9 +111,6 @@ The Velvet Underground - Peel Slowly And See (1995-09-26)
 <li data-cover="http://coverartarchive.org/release/df661f80-08f8-41b3-9025-af22297dbd15/11244597832-500.jpg" data-tags="soul, usa, 90s, rnb, compilation, commodores, soul funk, soul tag, soul peppermint" role="button">
 Commodores - The Very Best Of The Commodores (1995-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cd9686a-b953-4c9c-818e-03256cb96dd3/9505339640-500.jpg" data-tags="rock, 80s, soft rock" role="button">
-Don Henley - Actual Miles: Henley's Greatest Hits (1995-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/5f52d3ff-74dd-460d-a627-4d54f0f7eff6/1611443813-500.jpg" data-tags="indie, rock, alternative, indie rock, 90s" role="button">
 Modest Mouse - Interstate 8 (1996-08-06)
 </li>
@@ -132,14 +120,20 @@ Eppu Normaali - Repullinen hittejä (1996-09-12)
 <li data-cover="https://img.discogs.com/xc2LvXnwywUoglPNWijLGS7kuJc=/fit-in/569x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1079972-1283246565.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, english group, t m blues" role="button">
 The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Death to the Pixies (1997-10-06)
+<li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
+Kiss - Greatest Kiss (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">
 The Mamas & the Papas - Greatest Hits (1998-03-10)
 </li>
-<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">
-Genesis - Turn It on Again: The Hits (1999-10-22)
+<li data-cover="http://coverartarchive.org/release/9d255979-2c83-4e1f-91d2-7d7b3faf0a9f/11408081526-500.jpg" data-tags="80s, world, latin, 90s, african, female vocalist, compilation, cape verdean, coladeira, moma" role="button">
+Cesária Évora - Best Of (1998-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
+Thievery Corporation - Abductions and Reconstructions (1999-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec286378-1430-41ae-b851-5e1bb50d57e7/7123321703-500.jpg" data-tags="heavy metal, metal" role="button">
+Iron Maiden - Ed Hunter (1999-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6218b7b4-62e3-4a46-a4d1-4d3cadbca7c9/19258054855-500.jpg" data-tags="stoner rock, compilation, virgin, cantor" role="button">
 Gomez - Abandoned Shopping Trolley Hotline (2000)
@@ -158,6 +152,9 @@ Queen - The Platinum Collection (2000-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/45c57051-d92f-310c-b0db-2a7ad464343f/5813683178-500.jpg" data-tags="alternative rock, rock" role="button">
+The Smashing Pumpkins - Greatest Hits (2001-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc3802fb-b98b-4fe2-8709-c09700dd2483/20718037945-500.jpg" data-tags="pop, rock, female vocalists" role="button">
 Blondie - Greatest Hits (2002-09-19)
@@ -198,6 +195,9 @@ Crosby, Stills & Nash - Greatest Hits (2005-03-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
 Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/caef1012-f6e2-42e4-9841-4e58ede860d9/1995269799-500.jpg" data-tags="jazz" role="button">
+Julie London - The Very Best Of Julie London (2005-07-01)
+</li>
 <li data-cover="https://img.discogs.com/pPPWcvD_F9GXyGQxpOVeJsKQTLY=/fit-in/600x691/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8875473-1470585325-4745.jpeg.jpg" data-tags="pop, michael jackson" role="button">
 Michael Jackson - The Essential Michael Jackson (2005-07-18)
 </li>
@@ -218,9 +218,6 @@ Crash Test Dummies - The Best of Crash Test Dummies (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef816820-8814-4a29-bec4-56f1a5b91896/24111679689-500.jpg" data-tags="soul, compilation, a franklin" role="button">
 Aretha Franklin - The Very Best of Aretha Franklin (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/48160058-d239-4b0b-9969-47f73e6cf86f/21477044180-500.jpg" data-tags="rock, 80s" role="button">
-The Police - The Police (2007-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a502507-95de-4d78-bf3c-f82b73b86f65/2010287344-500.jpg" data-tags="rap" role="button">
 DJ Khaled - We The Best (2007-06-12)
@@ -273,6 +270,9 @@ Foo Fighters - Greatest Hits (2009-10-30)
 <li data-cover="https://img.discogs.com/iBChasnJz7Yph41jWMq394G2ewo=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952837-1591705176-2117.jpeg.jpg" data-tags="compilation, rock n roll, greatest hits" role="button">
 Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/4a71c547-1757-4695-8d15-be0a59ab096c/27339835378-500.jpg" data-tags="classic rock, acoustic, blues rock, southern rock" role="button">
+The Black Crowes - Croweology (2010-08-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/311ab662-8c46-4b86-8ac8-d1b321c74e9a/4033343947-500.jpg" data-tags="new wave, compilation, 10s, boy band, norwegian group, boughtlist2011" role="button">
 a-ha - 25 (2010-08-06)
 </li>
@@ -303,6 +303,9 @@ Kylie Minogue - The Best of Kylie Minogue (2012-05-30)
 <li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
 Rodriguez - Searching for Sugar Man (2012-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/a8dc0bf1-c974-4f1b-9d70-bd132bc2bf84/9149605530-500.jpg" data-tags="rock" role="button">
+The Rolling Stones - GRRR! (2012-11-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, collection" role="button">
 Girls Aloud - Ten (2012-11-23)
 </li>
@@ -317,8 +320,5 @@ Gavin DeGraw - Finest Hour: The Best Of Gavin DeGraw (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b015e9ff-e38f-4cdd-97ec-5b4070716852/21009780466-500.jpg" data-tags="rock, uk" role="button">
 Queen - Queen Forever (2014-11-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ee837029-0618-4a57-b8e0-c86265e11508/9235376839-500.jpg" data-tags="compilation, purchase list" role="button">
-David Bowie - Nothing Has Changed (2014-11-14)
 </li>
 </ol>

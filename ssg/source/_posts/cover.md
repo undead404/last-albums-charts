@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:04:01.395Z
+date: 2021-04-11T00:21:07.004Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
-Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
@@ -39,14 +36,14 @@ Holly Cole - Temptation (1995-05-31)
 <li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - The Forgotten Tales (1996-04-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/a91e0362-3aaa-4d82-beee-e331a8fdfe72/10998135685-500.jpg" data-tags="ska" role="button">
+Save Ferris - It Means Everything (1997-09-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
 Metallica - Garage, Inc. (1998-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cfe5238-649e-492a-9335-863783cb9c5b/15454353410-500.jpg" data-tags="jazz, george michael" role="button">
-George Michael - Songs from the Last Century (1999-12-06)
 </li>
 <li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
@@ -99,11 +96,11 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
 Misfits - Project 1950 (2003-07-29)
 </li>
-<li data-cover="https://img.discogs.com/mvVEI1IwHBEg9zkJJrS6GjOt1Zk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3970912-1604835350-5701.jpeg.jpg" data-tags="pop, cover" role="button">
-Mandy Moore - Coverage (2003-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/4321855e-8e8e-4786-8506-28e6d69633b9/13966110015-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unearthed (2003-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/04cd3c24-5622-4470-a77a-a338b7998b34/4255241495-500.jpg" data-tags="rock, cover, punk rock, pop punk, green day, lyrical, cover song, green, albums i like, albums i have downloaded" role="button">
+Green Day - I Fought the Law (2004-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
@@ -116,6 +113,9 @@ A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4135e8-4d34-443c-91d5-0297e9ef14d8/4783518168-500.jpg" data-tags="acoustic, lounge metal" role="button">
 Hellsongs - Hymns in the Key of 666 (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
+Richard Cheese - Aperitif for Destruction (2005-05-24)
 </li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
@@ -135,14 +135,8 @@ José González - Heartbeats (2006-01-09)
 <li data-cover="http://coverartarchive.org/release/5e83ea65-df0b-431a-9c62-42a5b53f9ce2/8213237332-500.jpg" data-tags="cover" role="button">
 Tortoise & Bonnie "Prince" Billy - The Brave And The Bold (2006-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/fad57385-6e8d-4213-b82e-6adfea8e2d69/18994007660-500.jpg" data-tags="nina pastori" role="button">
-Niña Pastori - Joyas Prestadas (2006-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/275b722f-d7f9-40ea-be38-286414febeb6/3942871458-500.jpg" data-tags="ska punk" role="button">
 Streetlight Manifesto - Keasbey Nights (2006-03-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
-theNoLifeKing - Forgotten Landscape (2006-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/92f3be62-21cd-4651-850e-b244fbd0c01b/26946774221-500.jpg" data-tags="cover" role="button">
 The Black Keys - Chulahoma: The Songs of Junior Kimbrough (2006-05-02)
@@ -189,6 +183,9 @@ Jeffrey Lewis - 12 Crass Songs (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
 Northern Kings - Reborn (2007-10-29)
 </li>
+<li data-cover="https://img.discogs.com/cfZubMxXa-kMYSbL_pr1XWD-YJI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369273-1220479145.jpeg.jpg" data-tags="cover, late night, 00s, cover songs, after hours, beyondwithin, winter 2012, get later, aural fixation - best of 2007, wmbr, february 2012, music for cloudy days" role="button">
+Japancakes - Loveless (2007-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/6bfae325-47bb-47ea-94dc-59dc556e8439/2887550706-500.jpg" data-tags="briliant" role="button">
 Muse - Do We Need This: B-Sides & Rarities (1998-2007) (2007-12-07)
 </li>
@@ -212,6 +209,9 @@ Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
 <li data-cover="https://img.discogs.com/cqXrVOiTdSxBLd-0_4uFnEJTm_I=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17029668-1611230405-2101.jpeg.jpg" data-tags="power metal" role="button">
 HammerFall - Masterpieces (2008-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ba7c287-814a-4bfc-a1b2-d989147833c8/5674446491-500.jpg" data-tags="cover, finnish" role="button">
+Kotiteollisuus - Sotakoira (2008-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfa25c32-4c3d-4fef-a670-ddf3ab682cd4/6654965791-500.jpg" data-tags="cover, symphonic metal, power metal" role="button">
 Northern Kings - Rethroned (2008-11-17)
@@ -261,14 +261,8 @@ Ania - Ania Movie (2010-04-02)
 <li data-cover="http://coverartarchive.org/release/315b2219-0ad7-45e9-91e0-e8e445b39095/3370484418-500.jpg" data-tags="cover" role="button">
 Nada Surf - If I Had a Hi-Fi (2010-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/38d29d6c-39e3-3fcb-ba67-6033ea1dde92/1672912579-500.jpg" data-tags="pop" role="button">
-Mike Patton - Mondo cane (2010-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ba18394-614f-4361-bc39-b24854473fa9/6856128034-500.jpg" data-tags="instrumental" role="button">
-David Garrett - Rock Symphonies (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ef4e801-2e92-4689-8f8d-e17642d52423/23553460199-500.jpg" data-tags="feverray" role="button">
 Fever Ray - Mercy Street (2010-08-18)
@@ -284,6 +278,9 @@ The Strokes - Under Cover of Darkness (2011-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6049456f-ddab-4620-97d5-d1c7c710f8ed/7091657302-500.jpg" data-tags="metal, hard rock" role="button">
 Halestorm - ReAnimate: The Covers EP (2011-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/82dea955-304e-4289-8127-b097a2f31196/27965871446-500.jpg" data-tags="rockabilly, rock" role="button">
+The Baseballs - Strings 'n' Stripes (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/87900fee-78c0-3d3b-951c-016fff9c93de/1111445815-500.jpg" data-tags="glee" role="button">
 Glee Cast - Glee: The Music Presents The Warblers (2011-04-19)
@@ -317,6 +314,9 @@ Andrew Bird - Things Are Really Great Here, Sort Of... (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8568d0e6-7d65-4f72-aed8-61b62f2cbb36/13918080102-500.jpg" data-tags="cover" role="button">
 Us The Duo - Shake It Off (2014-09-23)
+</li>
+<li data-cover="https://img.discogs.com/j45fNW6eJrwpaMEjSLPON6EfNaU=/fit-in/218x308/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2099100-1263934585.jpeg.jpg" data-tags="covers" role="button">
+Annie Lennox - Nostalgia (2014-09-30)
 </li>
 <li data-cover="https://img.discogs.com/C0phos8S4w71zv_Mx3ZIYDzu-P0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6995837-1431279126-3224.jpeg.jpg" data-tags="cover" role="button">
 The Flaming Lips - With a Little Help From My Fwends (2014-10-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:01:06.879Z
+date: 2021-04-11T00:14:01.414Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -77,6 +77,9 @@ Woo - Into the Heart Of Love (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
+</li>
+<li data-cover="https://img.discogs.com/ZNc7KJdUubXDshWouVLKU0RiiGk=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478435-1295910826.jpeg.jpg" data-tags="electronica, pop, folk, ambient, indie pop, post-rock, baroque pop, psychedelic, 90s, psychedelic folk, neo-psychedelia, vert-de-gris play-list, evilfaire, tag auditions" role="button">
+Gorky's Zygotic Mynci - Bwyd Time (1995-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
 The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
@@ -177,9 +180,6 @@ Thee Oh Sees - The Cool Death OF Island Raiders (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
-Pink Floyd - Zabriskie Point (2006-09-06)
-</li>
 <li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
 Animal Collective - People (2006-11-13)
 </li>
@@ -188,9 +188,6 @@ Vibracathedral Orchestra - Wisdom Thunderbolt (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/73295f07-5e1d-4923-9821-05e4aed55838/27574041654-500.jpg" data-tags="folk, ambient, experimental, psychedelic, avant-garde, psychedelic folk, dark folk, dark acoustic, interesting, american primitive, art pop, avant-folk, experimental folk, drone folk, radio bav, atmospheric folk, gammarec, fursaxa, nancykitten all-time favourite albums" role="button">
 Fursaxa - Alone In The Dark Wood (2007-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
-The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 </li>
 <li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
 Dungen - Tio Bitar (2007-04-23)
@@ -209,6 +206,9 @@ Paavoharju - Laulu laakson kukista (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk, increible josephine, el mejor disco de josephine, josephine celestial, let the grieving be grand" role="button">
+Josephine Foster - This Coming Gladness (2008-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a84315d3-290b-333a-8a57-47014915eda9/2990284729-500.jpg" data-tags="indie, freak folk, new weird america, psychedelic folk, devendra banhart" role="button">
 Megapuss - Surfing (2008-09-09)
@@ -236,6 +236,9 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/70a9ffba-a48f-3255-9b27-4c55f98e2f80/25306984045-500.jpg" data-tags="shoegaze, folk, drone" role="button">
 Mount Eerie - Wind's Poem (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/73132ab7-a8ab-48ca-a75f-e1272053c29f/19423625948-500.jpg" data-tags="folk, psychedelic folk" role="button">
+Natural Snow Buildings - Shadow Kingdom (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
 Dead Man's Bones - Dead Man's Bones (2009-10-02)
@@ -273,9 +276,6 @@ Hexvessel - Dawnbearer (2011-02-05)
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/01e24c22-607e-4c9b-aee9-e778e81c9764/3020507337-500.jpg" data-tags="dream pop, ethereal, dream folk" role="button">
-Marissa Nadler - Marissa Nadler (2011-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
@@ -300,14 +300,14 @@ Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
 <li data-cover="https://img.discogs.com/8sSNITJrxKnoi7dJ0GJEihZ4Ric=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4460260-1365480975-1274.jpeg.jpg" data-tags="psychedelic folk, doom folk" role="button">
 Hexvessel - Iron Marsh (2013-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/be3a523a-1a32-4aeb-bd05-ae85c49e3f16/7551869002-500.jpg" data-tags="psychedelic folk" role="button">
+Matt Berry - Kill The Wolf (2013-06-21)
+</li>
 <li data-cover="https://img.discogs.com/XPGZkOo0dCbmKng_cY6_jsb1Cm0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4963579-1396460313-3423.jpeg.jpg" data-tags="dream pop" role="button">
 Mazzy Star - Seasons of Your Day (2013-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/82907832-2fca-4a1f-a8de-b2b4d0f719b7/5542526527-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 of Montreal - Lousy With Sylvianbriar (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
-Marissa Nadler - July (2014-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
 Angel Olsen - Burn Your Fire for No Witness (2014-02-18)

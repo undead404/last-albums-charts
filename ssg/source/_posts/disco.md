@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:16:06.965Z
+date: 2021-04-11T00:04:01.403Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -116,6 +116,9 @@ The Gap Band - Gap Band IV (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/418dc558-42ce-4181-aed3-5e8388a3795c/7475714152-500.jpg" data-tags="disco" role="button">
 Imagination - In the Heat Of The Night (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/a4a32dc8-e049-4dd6-94ff-5b948e60db22/6857645811-500.jpg" data-tags="70s, disco" role="button">
+Hot Chocolate - 20 Hottest Hits (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
@@ -255,14 +258,8 @@ Goldfrapp - Head First (2010-03-19)
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c0af1dc-6d39-4777-a880-d55a14a07dba/3736491560-500.jpg" data-tags="electronic, electro" role="button">
-Thieves Like Us - Again and Again (2010-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3a087a7-c5ab-443f-914d-7d112a2ec9a3/19625314388-500.jpg" data-tags="disco, electronic, pop, belgium, italian, italy, belgian, belge, italien, nu disco, belgique, italie, daniels album collection" role="button">
-Aeroplane - We Can't Fly (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3f04af-dc51-4e19-8a8f-655da163d8b6/12602343869-500.jpg" data-tags="disco, electronic, male vocalists, hairy chest, mpm, hunks, nice fur, heavy pelt, discos 2011" role="button">
 Marcelo Jeneci - Feito Pra Acabar (2010-12-01)
@@ -287,6 +284,9 @@ Thieves Like Us - Bleed Bleed Bleed (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3a051b3-871e-4ccb-a888-2abe560c9f4c/6574885986-500.jpg" data-tags="disco, african" role="button">
+Kiki Gyan - 24 Hours in a Disco 1978-82 (2012-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)

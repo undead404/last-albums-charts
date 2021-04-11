@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:04:01.530Z
+date: 2021-04-11T00:42:01.406Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -132,6 +132,9 @@ Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 <li data-cover="http://coverartarchive.org/release/c50d3d01-3f3a-3685-9ad6-58d7942a31be/3374165987-500.jpg" data-tags="garage rock" role="button">
 The Hives - Tyrannosaurus Hives (2004-07-19)
 </li>
+<li data-cover="https://img.discogs.com/xsUizbqX81coH37RZWytSN6UVAg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1023824-1203775273.jpeg.jpg" data-tags="punk, garage rock revival, garage rock, 00s, radio arcadia, punk revival, rough trade" role="button">
+The Libertines - Can't Stand Me Now (2004-08-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock" role="button">
 The Libertines - The Libertines (2004-08-30)
 </li>
@@ -185,9 +188,6 @@ Foxboro Hot Tubs - Stop Drop and Roll!!! (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
-The Horrors - Strange House (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)

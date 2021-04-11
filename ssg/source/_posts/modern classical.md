@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:07:01.405Z
+date: 2021-04-11T00:30:12.628Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
 ![KASHIWA Daisuke - Program Music I (2007-08-24)](http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg "KASHIWA Daisuke - Program Music I (2007-08-24)")
@@ -12,8 +12,8 @@ title: "modern classical: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">坂本龍一 - Playing The Piano (2009-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">of Montreal - Paralytic Stalks (2012-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">Black Elk - Sparks (2012-07-27)</li>
+<li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">Ben Lukas Boysen - Gravity (2013-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/7fed2586-a409-441a-b2a3-d6ea1b3107ad/5766164959-500.jpg" data-tags="ambient, post-rock" role="button">Hammock - Oblivion Hymns (2013-11-26)</li>
-<li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">deadmau5 - while(1<2) (2014-06-17)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,11 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a6c9d3b8-05da-4996-a3b5-93aab10f02d3/28855108015-500.jpg" data-tags="jazz" role="button">
 Sun Ra - The Futuristic Sounds Of Sun Ra (1962)
 </li>
+<li data-cover="http://coverartarchive.org/release/5af6d025-940e-392c-95e9-e79cc6b774c1/24646040139-500.jpg" data-tags="soundtrack" role="button">
+Ennio Morricone - Il buono, il brutto, il cattivo (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/9747d54b-1c5b-347e-b244-59c419cf900a/27094892626-500.jpg" data-tags="spaghetti western, western, film score" role="button">
 Ennio Morricone - The Good, The Bad & The Ugly (1966)
-</li>
-<li data-cover="https://img.discogs.com/iQuDkDouKJZSou1DKToKPxqdIDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854258-1304165274.jpeg.jpg" data-tags="progressive rock" role="button">
-Mike Oldfield - Hergest Ridge (1974-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/deb43c81-3021-4795-a2d8-20cbe3a6ce11/4317227862-500.jpg" data-tags="instrumental, progressive rock" role="button">
 Mike Oldfield - Incantations (1978-11-24)
@@ -39,12 +39,6 @@ Glenn Branca - The Ascension (1981)
 <li data-cover="http://coverartarchive.org/release/bd2f5b66-2bd8-36c1-bfdd-993dea167599/26254885464-500.jpg" data-tags="mixup" role="button">
 Malcolm McLaren - Fans (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/853ee016-b10d-3118-86ed-d9c3b797eebc/15258704059-500.jpg" data-tags="darkwave" role="button">
-Dead Can Dance - Spleen and Ideal (1985-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
-Dead Can Dance - Aion (1990-07-02)
-</li>
 <li data-cover="https://img.discogs.com/5tFWK1dJpY2ZIcNgu-cSgIDSaas=/fit-in/599x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612914-1338297842-6035.jpeg.jpg" data-tags="ambient, industrial, modern classical, porn soundtrack" role="button">
 Psychic TV - Themes (1995)
 </li>
@@ -53,9 +47,6 @@ Aphex Twin - Donkey Rhubarb (1995-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a561ce4-a02f-4c4f-91e4-d1799c1c2b8e/18277196118-500.jpg" data-tags="dream pop" role="button">
-Devics - If You Forget Me... (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd50be04-ab08-4468-b1a9-93fb05364bda/2610470476-500.jpg" data-tags="electronic, drum and bass, ffrr" role="button">
 Goldie - Saturnz Return (1998-01-27)
@@ -75,11 +66,11 @@ William Basinski - Melancholia (2003)
 <li data-cover="http://coverartarchive.org/release/4fb19aa0-aff2-48ce-85b0-b767f67fd985/11228342652-500.jpg" data-tags="ambient" role="button">
 Ulver - Svidd Neger (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/HFg8HB3ENTqCV9pnx9op_nh_maM=/fit-in/450x431/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2882105-1305490099.jpeg.jpg" data-tags="violin, modern classical, neo-classical" role="button">
-Lucia Micarelli - Music From a Farther Room (2004)
-</li>
 <li data-cover="https://img.discogs.com/arHUhpCOzGeU3rVTz8i4pzYo-Xc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11653728-1520094693-7966.jpeg.jpg" data-tags="minimalism, modern classical, gammarec, freepurp1e, feldman" role="button">
 Morton Feldman - Patterns in a Chromatic Field (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/dedf0123-fc50-4d6d-bb1f-9f263529bc19/2872793496-500.jpg" data-tags="gothic, female vocals, symphonic, avantgarde dark neo classical" role="button">
+Chaostar - The Scarlet Queen (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e760dec-67cc-40fe-a23c-8e08aa6137d3/19385157963-500.jpg" data-tags="piano, ambient" role="button">
 Swod - Gehen (2004-08-23)
@@ -90,17 +81,14 @@ Kaada/Patton - Romances (2004-11-30)
 <li data-cover="http://coverartarchive.org/release/515c3a3c-05ec-4a16-8e1c-ca1a9ef34e02/6155875688-500.jpg" data-tags="experimental, ambient, post-rock" role="button">
 World's End Girlfriend - The Lie Lay Land (2005-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/538c3e1a-dd81-4cc9-985a-1450ae63661d/2727000989-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
-Urfaust - Verräterischer, Nichtswürdiger Geist (2005-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Kirlian Selections (2005-04-05)
 </li>
-<li data-cover="https://img.discogs.com/iGUbpyngqulu0WQmzLxzX7TkKuI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1401744-1577299401-4804.jpeg.jpg" data-tags="ambient, gothic, dark ambient" role="button">
-Nox Arcana - Winter's Knight (2005-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/22a23fb5-dad5-42d3-b90f-98a7834c0fae/8147320447-500.jpg" data-tags="soundtrack, experimental" role="button">
 Björk - Drawing Restraint 9 (2005-07-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/334c808e-4511-4f8f-87a9-6aa317bbb228/1703273677-500.jpg" data-tags="ambient, dark ambient" role="button">
+Hecq - Night Falls (2006-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f45b308-e7ae-4c50-83a1-6816f72b3753/21243800624-500.jpg" data-tags="raster-noton, experimental, piano" role="button">
 Alva Noto + Ryuichi Sakamoto - Revep (2006-05)
@@ -113,9 +101,6 @@ Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/72a39b1b-d97f-425d-8c2c-8a4d894cb804/4467708993-500.jpg" data-tags="idm" role="button">
 Ochre - Lemodie (2006-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d6f9dbc-882f-4300-a985-88525483968b/1331176075-500.jpg" data-tags="singer-songwriter, piano" role="button">
-Sébastien Tellier - Universe (2006-09-18)
 </li>
 <li data-cover="https://img.discogs.com/xAMW7Kqd4VQfqsa466PIYsKC2l8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-802792-1173776485.jpeg.jpg" data-tags="ambient, idm" role="button">
 Kattoo - Hang On To A Dream (2006-10-06)
@@ -150,12 +135,6 @@ Murcof - Cosmos (2007-09-17)
 <li data-cover="http://coverartarchive.org/release/b52f4256-0d02-460e-b2bd-50aafdebe08c/22373580081-500.jpg" data-tags="ambient, drone, modern classical" role="button">
 Machinefabriek - Bijeen (2007-11)
 </li>
-<li data-cover="https://img.discogs.com/hHBlB1yVh2-nM437JtDKFUjPNa0=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-942451-1176025561.jpeg.jpg" data-tags="indie, epic, idm, moody, germany, modern classical, electronic music, rhythmic noise, estonia, brume, laid back electronica, fragmented beats" role="button">
-Talvekoidik - Silent Reflections (2007-11-10)
-</li>
-<li data-cover="https://img.discogs.com/j3BGaWo42W48gv9unP7x8uorAWQ=/fit-in/512x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241575-1229425115.jpeg.jpg" data-tags="indie" role="button">
-Caribou - She's The One (2007-11-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/51392bf7-adaf-4c93-8f81-4f49d09fea2d/8258208354-500.jpg" data-tags="soundtrack" role="button">
 Jonny Greenwood - There Will Be Blood (2007-12-17)
 </li>
@@ -168,14 +147,14 @@ KASHIWA Daisuke - 5 Dec. (2008-02-20)
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
 </li>
-<li data-cover="https://img.discogs.com/nlM6ZmTnq49cHQ22AXj2ZkRHBuo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288927-1206787698.jpeg.jpg" data-tags="ambient" role="button">
-Jacaszek - Treny (2008-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/05c9c1aa-9b47-434c-9536-74fe56283bbc/25665078834-500.jpg" data-tags="electronic" role="button">
 UNKLE - End Titles . . . Stories For Film (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb077503-d181-4a11-9ad4-740a04bc2670/5163613204-500.jpg" data-tags="electronic" role="button">
 Björk - The Dull Flame Of Desire (2008-08)
+</li>
+<li data-cover="https://img.discogs.com/-A8ZPivO_kiAlmrH-dtt7dvVv7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540961-1239982667.jpeg.jpg" data-tags="martial industrial" role="button">
+Triarii - Muse in Arms (2008-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d127ac52-bdae-45ed-94b4-b72e805e353f/13277500423-500.jpg" data-tags="electronic, classical, ambient, minimal, spooky, modern classical, minimalist" role="button">
 Murcof - The Versailles Sessions (2008-12-01)
@@ -204,11 +183,23 @@ Richard Skelton - Landings (2009-07-28)
 <li data-cover="http://coverartarchive.org/release/b361668a-2c27-49d1-9d76-d5ad374c789b/6674977315-500.jpg" data-tags="piano" role="button">
 Akira Kosemura - Polaroid Piano (2009-08-20)
 </li>
+<li data-cover="https://img.discogs.com/L5QL6NgufnZsC33XHPt2V7oUZzo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3336901-1326342813.jpeg.jpg" data-tags="chillout, french, easy listening, modern classical, france, free downloads, netlabel, cc, creative commons, free music, paris, free download, netaudio, netlabels, downloadable, free albums, net labels music, free album, free streamable albums, melancholism, french underground, sonic reverie, sonic reverie records" role="button">
+Bark Cat Bark - Mathilde (2009-09-04)
+</li>
+<li data-cover="https://img.discogs.com/dlr6nRx0-igodTqeXR7R51ZEFaQ=/fit-in/586x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2372809-1280221329.jpeg.jpg" data-tags="instrumental" role="button">
+Andrew W.K. - 55 Cadillac (2009-09-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">
 坂本龍一 - Playing The Piano (2009-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3756b97d-1b31-4e9b-97ae-14af0250e43c/22036421277-500.jpg" data-tags="ambient, depressing, modern classical, interesting title" role="button">
 Leyland Kirby - Sadly, the Future Is No Longer What It Was (2009-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/c128ffe8-5808-3af9-af74-5bcda1c96b16/1827905959-500.jpg" data-tags="neofolk" role="button">
+TriORE - Three Hours (2009-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/551c341c-1591-47c7-a9fa-599a27adb298/11408843592-500.jpg" data-tags="post-rock" role="button">
+Flica - Telepathy Dreams (2009-10-01)
 </li>
 <li data-cover="https://img.discogs.com/e1jffuBQm07QIDbQa_WRYb9RkJA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2034066-1274102133.jpeg.jpg" data-tags="neoclassical" role="button">
 Valgeir Sigurðsson - Draumalandið (2009-11)
@@ -222,11 +213,17 @@ Helen Jane Long - Embers (2010)
 <li data-cover="https://img.discogs.com/ArFZZ3Ph2Ae1FrWRIOcGZeYFEiI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182655-1268480028.jpeg.jpg" data-tags="ambient" role="button">
 Akira Kosemura - Grassland (2010-02-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/39e6b543-d83a-40f1-8a30-5faac85e68c2/1283887101-500.jpg" data-tags="instrumental, modern classical, minimalist, laridae" role="button">
+aAirial - le fil du temps (2010-03-04)
+</li>
 <li data-cover="https://img.discogs.com/C2Cv1ugSZFxILd7HA7fUrWHVxiQ=/fit-in/376x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359473-1279398577.jpeg.jpg" data-tags="modern classical" role="button">
 RQTN - Decades And Decisions (2010-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b470c8b-fa30-4efa-a37e-8067756ff397/2820384963-500.jpg" data-tags="electronic, ambient" role="button">
 Boy Is Fiction - Broadcasts In Colour (2010-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/186c4170-8821-43de-97b1-7085c496a0bf/1952245791-500.jpg" data-tags="synthpop, militarism leads to homosexuality" role="button">
+Dernière Volonté - Immortel (2010-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad6db21d-fab9-4aaa-b6fc-a2f128821d4f/12017292267-500.jpg" data-tags="ambient, industrial, idm" role="button">
 Undermathic - 10:10pm (2010-10-10)
@@ -243,8 +240,8 @@ Igorrr - Nostril (2010-11-09)
 <li data-cover="https://img.discogs.com/Qo4QI5pea63UMELNaPyPEPRWnb8=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2634606-1294280428.jpeg.jpg" data-tags="ambient, minimalism, modern classical, neofolk, emusic, electro-acoustic, bedroom music, empress, moteer, the remote viewer, lost tribe sound, aaron martin, heidi elva, scissors and sellotape, upward arrows" role="button">
 Part Timer - Real To Reel (2010-12-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd694589-36c0-4a3d-9757-a2a5aeb0076c/3256825341-500.jpg" data-tags="dark jazz" role="button">
-The Kilimanjaro Darkjazz Ensemble - From the Stairwell (2011-03-01)
+<li data-cover="https://img.discogs.com/6yU5FL4_BVOd_-c6D_Afo8omwwE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2688290-1443728613-4793.jpeg.jpg" data-tags="electronic, ambient, downtempo, idm, modern classical" role="button">
+Semiomime - From Memory (2011-02-11)
 </li>
 <li data-cover="https://img.discogs.com/zqAGi5QJ_klkUX26Ca2f7ii4BGg=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7478851-1442310612-9901.jpeg.jpg" data-tags="piano" role="button">
 Akira Kosemura - how my heart sings (2011-04-11)
@@ -257,6 +254,9 @@ goreshit - semantic compositions on death and its meaning (2011-06-15)
 </li>
 <li data-cover="https://img.discogs.com/ZPx5Y2GqChGJ1JckFCb2zvq4prI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5802758-1403089387-9875.jpeg.jpg" data-tags="instrumental, experimental, post-rock, usa, piano, epic, experimental rock, minimal, instrumental rock, american, postrock, post rock, crossover, modern classical, american underground, netlabel, 10s, creative commons, free music, new jersey, america, new brunswick, electro-acoustic, chamber rock, weblabel, netaudio, netlabels, organic electronica, free albums, net labels music, free album, webaudio, bad panda, usa underground, weblabels" role="button">
 Riding Alone for Thousands of Miles - Brick City Ghosts (2011-06-20)
+</li>
+<li data-cover="https://img.discogs.com/ICvHtNNtHkB2aVSveCs-s2zXKLM=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977372-1310070273.jpeg.jpg" data-tags="ambient" role="button">
+Field Rotation - Regenzeit (2011-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
 Floex - Zorya (2011-09-26)
@@ -281,6 +281,9 @@ Laurie Spiegel - The Expanding Universe (2012-09)
 </li>
 <li data-cover="https://img.discogs.com/NX10pZDJ_YjhiTnzDJQkrMQTIrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3894497-1351975232-9440.jpeg.jpg" data-tags="ambient" role="button">
 Valgeir Sigurðsson - Architecture of Loss (2012-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee641e7e-07bc-4c47-925d-90cbaa3e4620/2590662996-500.jpg" data-tags="electronic, japanese, post-rock, cinematic, modern classical, experimental stuff i cannot put my finger on" role="button">
+World's End Girlfriend - Story Telling Again And Again (2012-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b08a32c-b1b1-41af-80aa-b278ee3b2cbd/4241397444-500.jpg" data-tags="breakcore" role="button">
 Igorrr - Hallelujah (2012-12-21)
@@ -314,9 +317,6 @@ Douglas Dare - Whelm (2014-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/896d548a-5750-46ff-92da-57863c4690c0/13242850947-500.jpg" data-tags="breakcore" role="button">
 Venetian Snares - My Love Is a Bulldozer (2014-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
-deadmau5 - while(1<2) (2014-06-17)
 </li>
 <li data-cover="https://img.discogs.com/P-PeTy1oGiliJepKcIDGfnwG9Ao=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6370726-1417574503-6796.jpeg.jpg" data-tags="electronic, ambient, experimental, downtempo, idm, avant garde, breaks, modern classical" role="button">
 Poordream - Ninetynine (2014-12-02)

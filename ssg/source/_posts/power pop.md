@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:45:01.602Z
+date: 2021-04-11T00:31:06.898Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -39,9 +39,6 @@ The Replacements - Let It Be (1984-10-02)
 <li data-cover="http://coverartarchive.org/release/e3adae32-66d6-4255-92b3-fb5bceaf3b2c/5642356116-500.jpg" data-tags="alternative rock, 80s" role="button">
 The Replacements - Tim (1985-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d1d1960-884d-42d6-aa87-230424ab9ddf/19103392565-500.jpg" data-tags="alternative rock, rock, punk" role="button">
-Hüsker Dü - Candy Apple Grey (1986-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
 </li>
@@ -62,9 +59,6 @@ Teenage Fanclub - Grand Prix (1995-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
 Super Furry Animals - Fuzzy Logic (1996-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5648344-7e08-4131-8a60-138676d0cfef/3370472226-500.jpg" data-tags="indie rock, indie, 90s" role="button">
-Nada Surf - High/Low (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
@@ -108,9 +102,6 @@ Weezer - Weezer (2001-04-24)
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
 </li>
-<li data-cover="https://img.discogs.com/GKTi7KWgMWARiQAaR-OJs0cgXG4=/fit-in/523x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12901414-1544164325-6677.jpeg.jpg" data-tags="pop punk" role="button">
-Relient K - The Anatomy of the Tongue in Cheek (2001-08-28)
-</li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
@@ -122,6 +113,9 @@ Hot Hot Heat - Make Up the Breakdown (2002-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
+The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)
@@ -137,6 +131,9 @@ Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/53de8ceb-d30e-4d07-b34d-64c469b74a27/25185452356-500.jpg" data-tags="pop, swedish, power pop, scandinavian, sweden, transport, suede, scandinavia, suecia, songs they never play on the radio, suedois, scandinave, scandinavie, streaming na full, left-cheek kisses" role="button">
 Billie the Vision & the Dancers - I Was So Unpopular in School and Now They're Giving Me This Beautiful Bicycle (2004-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8ba136f-ecab-4a5a-8f3f-d43c31133d34/9767283611-500.jpg" data-tags="alternative, alternative rock, emo, power pop, pop punk, melodic hardcore" role="button">
+Saves the Day - Ups & Downs: Early Recordings and B-sides (2004-08-24)
 </li>
 <li data-cover="https://img.discogs.com/_61xPtVz3IOVR9NxeGWY042LXUc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6203928-1540255153-1360.jpeg.jpg" data-tags="pop punk, punk rock" role="button">
 Bowling for Soup - A Hangover You Don't Deserve (2004-09-07)
@@ -219,6 +216,9 @@ The Academy Is... - Fast Times At Barrington High (2008-08-18)
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
+<li data-cover="https://img.discogs.com/xoCrB0QbRxTmubVKTSGbVMwBzbs=/fit-in/404x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1843084-1259331781.jpeg.jpg" data-tags="pop" role="button">
+Girls Aloud - Out of Control (2008-10-31)
+</li>
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
@@ -227,9 +227,6 @@ Matt & Kim - Grand (2009-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a773460a-e896-4883-83fb-3ec44b8dce36/12726549225-500.jpg" data-tags="pop, rock, power pop, pop rock, symphonic rock, 2010s" role="button">
 Marianas Trench - Masterpiece Theatre (2009-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
-Boys Like Girls - Love Drunk (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
@@ -246,9 +243,6 @@ Snow Patrol - Up to Now (2009-11-05)
 <li data-cover="https://img.discogs.com/peHPJK9RHkQ68Dwclf8SiCjp_mo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2607155-1469978877-3107.jpeg.jpg" data-tags="powerpop" role="button">
 Forever the Sickest Kids - The Weekend: Friday (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/5aa59949-77fa-440f-ae5b-682bcb8a661d/20089403873-500.jpg" data-tags="power pop, albums i own on cd, electricabras" role="button">
-Supersubmarina - Electroviral (2010)
-</li>
 <li data-cover="https://img.discogs.com/6FBvjyvJcxDrsx12AU17uI62p4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2454624-1287282793.jpeg.jpg" data-tags="indie rock" role="button">
 OK Go - Of the Blue Colour of the Sky (2010-01-12)
 </li>
@@ -263,6 +257,9 @@ Maroon 5 - Hands All Over (2010-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5649b41-3412-4c61-9a06-efbe70efbcb3/5374781489-500.jpg" data-tags="power pop, rock, alternative rock" role="button">
 Weezer - Death to False Metal (2010-11-02)
+</li>
+<li data-cover="https://img.discogs.com/LQCPdkl6xmIPGyrMdt2Wj4IABcg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3469861-1331629438.jpeg.jpg" data-tags="indie rock" role="button">
+Cloud Nothings - Cloud Nothings (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
@@ -284,6 +281,9 @@ Tribes - Baby (2012-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b769cd79-ba04-47b8-a015-9ded8e327e98/3905312015-500.jpg" data-tags="indie rock, post-punk" role="button">
+Friends - Manifest! (2012-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)

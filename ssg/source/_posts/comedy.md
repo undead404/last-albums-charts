@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:03:01.641Z
+date: 2021-04-10T23:50:01.403Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -159,11 +159,11 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/7d3e58ba-633c-4314-af46-49402436ea1f/15800453103-500.jpg" data-tags="comedy" role="button">
 Lewis Black - The End of The Universe (2003-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5acf57a-471b-43a8-8e1f-7bd38a512f85/19666447469-500.jpg" data-tags="comedy" role="button">
-Dane Cook - Harmful If Swallowed (2003-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f98da90-6f32-4f17-986c-a5b0d3aeada5/15055776877-500.jpg" data-tags="comedy, stand-up" role="button">
 Lewis Black - Rules of Enragement (2003-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/059b1891-02c9-4c79-acc0-e8008661bc94/27543867154-500.jpg" data-tags="comedy" role="button">
+Bodo Wartke - Achillesverse (2003-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e01ccba2-048d-4eb0-8d89-514d6594f76b/27544488471-500.jpg" data-tags="comedy" role="button">
 Mitch Hedberg - Mitch All Together (2003-12-09)
@@ -197,12 +197,6 @@ Dane Cook - Retaliation (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/955b3795-9ece-4519-9652-ea879620b27f/13009776511-500.jpg" data-tags="comedy" role="button">
 Bloodhound Gang - Foxtrot Uniform Charlie Kilo (2005-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy, standup comedy" role="button">
-Stephen Lynch - The Craig Machine (2005-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d3fc783-03a0-4884-8d09-7374b17c08b1/9436016105-500.jpg" data-tags="comedy, stand-up, daniel tosh" role="button">
-Daniel Tosh - True Stories I Made Up (2005-11-08)
 </li>
 <li data-cover="https://img.discogs.com/wdxEs4AJXp867Jakhzj0RlL5FN4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670428-1495594011-3480.jpeg.jpg" data-tags="comedy" role="button">
 Jim Gaffigan - Beyond the Pale (2006-02-07)
@@ -303,6 +297,9 @@ The Lonely Island - Turtleneck & Chain (2011-05-09)
 <li data-cover="http://coverartarchive.org/release/770d41b7-b414-4741-ba70-094af070b5b2/14994359518-500.jpg" data-tags="2010s" role="button">
 "Weird Al" Yankovic - Alpocalypse (2011-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/30f9060a-f2e7-40c8-9723-7ac62efc07a8/18290116181-500.jpg" data-tags="comedy, youtube" role="button">
+Ninja Sex Party - NSFW (2011-09-29)
+</li>
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
@@ -311,6 +308,9 @@ Tenacious D - Rize of the Fenix (2012-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/99090280-a977-470e-8a7b-f94d98346dbd/4294738755-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - The Wack Album (2013-06-07)
+</li>
+<li data-cover="https://img.discogs.com/a6B7lojsdVg50o0d6z9kJvr5xSQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4771205-1375006213-3044.jpeg.jpg" data-tags="jazz, deutsch, comedy, german, male vocalist" role="button">
+Helge Schneider - Sommer, Sonne, Kaktus! (2013-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce1adb07-6bf7-4a45-83d8-d7220c4a473a/6015501620-500.jpg" data-tags="rap, comedy, synthpop, video games" role="button">
 Starbomb - Starbomb (2013-12-17)

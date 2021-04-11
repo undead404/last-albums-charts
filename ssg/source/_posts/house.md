@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T18:22:01.635Z
+date: 2021-04-11T00:09:01.412Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Homework (1997-01-20)</li>
+<li data-cover="http://coverartarchive.org/release/afa098e6-7ec7-4860-b39e-0855ce28e0b4/5883652581-500.jpg" data-tags="house" role="button">Stardust - Music Sounds Better With You (1998-06)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">Daft Punk - Daft Club (2003-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
+<li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">Kanye West - Stronger (2007-07-31)</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
-<li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">deadmau5 - For Lack of a Better Name (2009-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">David Guetta - Nothing But The Beat (2011-08-24)</li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">Zedd - Clarity (2012-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">Daft Punk - Random Access Memories (2013-05-17)</li>
 </ol>
@@ -84,9 +84,6 @@ David Guetta - Just A Little More Love (2002-06-10)
 <li data-cover="https://img.discogs.com/tpyi9QDYj0tJQNUVlrImxE7K5eM=/fit-in/600x966/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16688886-1609264840-5102.jpeg.jpg" data-tags="trance" role="button">
 Paul Oakenfold - Bunkka (2002-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd42c289-9c0f-40c4-a168-36be8c5aeee8/15264621691-500.jpg" data-tags="downtempo, house, trip-hop, chilled electro" role="button">
-Röyksopp - Remind Me (2002-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/11b4dd78-3fc1-48b7-ab89-3f2fcccac8fd/4379929819-500.jpg" data-tags="electronic, house" role="button">
 Audio Bullys - Ego War (2003-06-02)
 </li>
@@ -101,6 +98,9 @@ Junior Jack - Trust It (2004-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bae60ee9-2a48-3504-97e8-b2d7a722282a/4394074765-500.jpg" data-tags="electronic, house" role="button">
 Mylo - Destroy Rock & Roll (2004-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/2cb4445f-89dc-3d9c-aed3-492ab8607a1e/12144097523-500.jpg" data-tags="electronic, trip-hop" role="button">
+Faithless - No Roots (2004-06-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
 David Guetta - Guetta Blaster (2004-06-08)
@@ -129,6 +129,9 @@ Justice - Justice (2005-08-02)
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
 John Mayer Trio - Try! (2005-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
+Röyksopp - Röyksopp's Night Out (2006-01-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
 Bob Sinclar - Western Dream (2006-04-10)
 </li>
@@ -153,23 +156,20 @@ David Guetta - Pop Life (2007-06-18)
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">
 Kanye West - Stronger (2007-07-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
+Samantha James - Rise (2007-09-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
 </li>
 <li data-cover="https://img.discogs.com/7IBbkp_kqb5UMDSoCMiPmAuaXbk=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9321487-1478549467-2718.jpeg.jpg" data-tags="dance, house, faves of the year" role="button">
 Kaskade - Strobelite Seduction (2008-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/a94a2faf-b5e4-33c9-953b-ca020418cddd/7267268374-500.jpg" data-tags="progressive house" role="button">
-deadmau5 - Random Album Title (2008-09-16)
-</li>
 <li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9e6ec9b-a293-4e4b-a0f2-d00d1be13aa2/8669884061-500.jpg" data-tags="electronic, house" role="button">
 deadmau5 - Ghosts N Stuff (2008-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0a03a16-3daa-4abd-89e6-50858f300246/954633534-500.jpg" data-tags="house, tech house, progressive house, 00's" role="button">
-deadmau5 - It Sounds Like (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
@@ -180,26 +180,26 @@ Tinchy Stryder - Catch 22 (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
 </li>
-<li data-cover="https://img.discogs.com/jBj3QGbg5SrmsfLqQXY7UXYsTKo=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593294-1292173552.jpeg.jpg" data-tags="electronic, house, electro, dance" role="button">
-The Bloody Beetroots - Romborama (2009-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a50a3c-83df-41ce-a40b-9a9622d65df6/3592774798-500.jpg" data-tags="electronic, house" role="button">
 Basement Jaxx - Scars (2009-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
-deadmau5 - For Lack of a Better Name (2009-09-22)
+<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
+Four Tet - There Is Love in You (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
 Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/43095512-b767-4167-be33-5baf8f9b7b32/5512708587-500.jpg" data-tags="dance, house" role="button">
+Kaskade - Dynasty (2010-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c2fa6d9-edf3-43d9-a695-6710f3f89e0f/2267907104-500.jpg" data-tags="electronic, dance" role="button">
+Kelis - Flesh Tone (2010-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/e31eec90-e341-3acd-8ba4-9e26e9fd7eea/9173931560-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Further (2010-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ae4c1d-28db-4232-94a8-2094ca8c3083/8155989697-500.jpg" data-tags="electronic" role="button">
-Stromae - Cheese (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/39d89de6-ac42-4275-bd39-59285df14673/8175969090-500.jpg" data-tags="electronica, house, ash" role="button">
 Adrian Lux - Teenage Crime (2010-06-28)
@@ -221,9 +221,6 @@ Chris Brown - Yeah 3x (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
 Feed Me - Feed Me's Big Adventure (2010-12-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
-Alexandra Stan - Mr. Saxobeat (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
 Feed Me - To The Stars (2011-05-27)
@@ -258,6 +255,9 @@ Avicii - Levels (2011-10-28)
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)
 </li>
+<li data-cover="http://coverartarchive.org/release/386d8784-afad-40da-8185-edac15e4f284/3479297449-500.jpg" data-tags="house, deep house" role="button">
+Adana Twins - Everyday (2012-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
 Madeon - Icarus (2012-02-26)
 </li>
@@ -278,9 +278,6 @@ deadmau5 - > album title goes here < (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5c9fcab-cd0b-4932-897a-e802f490ac24/3325934271-500.jpg" data-tags="house" role="button">
 Ben Pearce - What I Might Do (2012-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
-Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3635ce51-ff95-4656-a8d0-3931a09573aa/7045624028-500.jpg" data-tags="house" role="button">
 Swedish House Mafia - Until Now (2012-10-22)
@@ -320,5 +317,8 @@ Gorgon City - Sirens (2014-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb53942-91a0-45ef-aa7c-834f5c47e6dd/8667458837-500.jpg" data-tags="electronic" role="button">
 Flight Facilities - Down To Earth (2014-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
+Pitbull - Globalization (2014-11-21)
 </li>
 </ol>

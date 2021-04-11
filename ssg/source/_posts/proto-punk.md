@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:44:01.445Z
+date: 2021-04-11T00:07:01.402Z
 title: "proto-punk: 100 albums you must listen to before you die"
 ---
 ![The Velvet Underground - White Light&#x2F;White Heat (1968-01-30)](http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg "The Velvet Underground - White Light/White Heat (1968-01-30)")
@@ -92,6 +92,9 @@ The Stooges - Fun House (1970-12)
 </li>
 <li data-cover="https://img.discogs.com/Gm-UUVHe6oXdbrqqxuroD3igsOI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4285792-1518860728-6237.jpeg.jpg" data-tags="hard rock" role="button">
 Dust - Dust (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec38019b-fd6f-4697-8a27-b5a154aee7e8/20234920694-500.jpg" data-tags="experimental, avant-garde" role="button">
+Yoko Ono - Fly (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e335ee5-ad12-45f6-89f0-7781c173f7fc/21730334418-500.jpg" data-tags="rock, classic, 70s, alternative, experimental, progressive rock, blues-rock, blues, psychedelic, avant garde, american, proto-punk, captain beefheart, only the best, underrated and overlooked, glorious vocals, c beefheart" role="button">
 Captain Beefheart & His Magic Band - Mirror Man (1971)
@@ -201,9 +204,6 @@ Radio Birdman - Living Eyes (1981-03)
 <li data-cover="http://coverartarchive.org/release/6d56f6b2-2913-3ec4-af22-06084d0cc28f/12601062710-500.jpg" data-tags="rock" role="button">
 Iggy Pop - Party (1981-07)
 </li>
-<li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
-Eric Burdon - Crawling King Snake (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2af3c5e-fb92-484f-851f-d26b27770d8b/15137212906-500.jpg" data-tags="classic rock, rock" role="button">
 The Velvet Underground - VU (1984)
 </li>
@@ -216,11 +216,14 @@ The Doors - The Best of The Doors (1985)
 <li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
 The Remains - The Remains (1985)
 </li>
-<li data-cover="https://img.discogs.com/VQWdLYQVbOsIexaKQS-9hX-7SSs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520353-1287692288.jpeg.jpg" data-tags="classic rock, rock, live" role="button">
-John Lennon - Live in New York City (1986-02-21)
+<li data-cover="https://img.discogs.com/9puOmOSNshZZY6ou2La4FuNqeyk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1161974-1214666265.jpeg.jpg" data-tags="garage rock, swedish" role="button">
+Union Carbide Productions - In The Air Tonight (1987)
 </li>
 <li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, proto punk" role="button">
 The Stooges - Rubber Legs (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/527773ff-bc0e-445c-8df3-618ac8b3993c/1536925265-500.jpg" data-tags="live" role="button">
+The Doors - Live at the Hollywood Bowl (1987-06)
 </li>
 <li data-cover="https://img.discogs.com/GW162sGjuvEDkyUbsdnlRxhTxa0=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1046717-1187804998.jpeg.jpg" data-tags="psychedelic rock, garage" role="button">
 Simply Saucer - Cyborgs Revisited (1989)
@@ -252,9 +255,6 @@ New York Dolls - Rock 'n' Roll (1994)
 <li data-cover="http://coverartarchive.org/release/a8fff4a7-3f3c-4027-b13a-b0f51b40af24/22145029461-500.jpg" data-tags="garage rock" role="button">
 ? and the Mysterians - 96 Tears (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, experimental rock" role="button">
-Half Japanese - Greatest Hits (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8a7408a-01a9-4a10-a699-bb7446fd57d1/8067062041-500.jpg" data-tags="classic rock, heavy metal, hard rock, punk rock, garage rock, glam rock, proto-punk, 70s hard rock, proto metal, proto punk, proto-metal, 70s heavy metal, 70s glam rock" role="button">
 The Stooges - Studio Sessions (1995)
 </li>
@@ -267,23 +267,17 @@ Lou Reed - Set The Twilight Reeling (1996-02-20)
 <li data-cover="http://coverartarchive.org/release/888bc005-3878-4054-b548-75ca8bdfe801/3774205017-500.jpg" data-tags="90s, rock, patti smith" role="button">
 Patti Smith - Gone Again (1996-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/51c0ac7f-03d3-4993-b902-054c25028a0d/27228068430-500.jpg" data-tags="punk, psychobilly" role="button">
-The Cramps - Big Beat from Badsville (1997-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b411121-4a41-4032-9e1f-ae7c3ce15328/10916053750-500.jpg" data-tags="60s" role="button">
 The Action - Rolled Gold (1998)
 </li>
 <li data-cover="https://img.discogs.com/X-2Ft9SS0UK6Gsgq-E7YyhKBe08=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-440194-1256893055.jpeg.jpg" data-tags="experimental, drone, fluxus, freak out" role="button">
 Angus MacLise - The Invasion Of Thunderbolt Pagoda (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/7198451b-594d-4d80-9a6e-9276ac6c7766/14180333568-500.jpg" data-tags="classic rock, rock, 70s" role="button">
-Faces - The Best Of Faces: Good Boys When They're Asleep (1999-08-17)
+<li data-cover="https://img.discogs.com/Z3e_i_mMEakC_nEb9yuB6tizeL4=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1322000-1437819479-1156.jpeg.jpg" data-tags="proto-punk, hippie, hippy, pothead" role="button">
+David Peel & the Lower East Side - And The Rest Is History: The Elektra Recordings (2000)
 </li>
 <li data-cover="https://img.discogs.com/11BoLcad0YxQOtlgBbET5R6KHsA=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380615-1222407511.jpeg.jpg" data-tags="new wave, post-punk, proto-punk" role="button">
 Josef K - Crazy To Exist (Live) (2000-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/8677415b-7979-46f0-b269-0e177145e59d/15458546198-500.jpg" data-tags="rock" role="button">
-Lou Reed - American Poet (2001-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/53f404d4-2d22-4ffa-9af8-cccba8bdc3c3/14521210692-500.jpg" data-tags="proto-punk, garage rock" role="button">
 Rocket From The Tombs - The Day the Earth Met the Rocket from the Tombs (2002-02-01)
@@ -306,6 +300,9 @@ The Stooges - The Weirdness (2007-03-06)
 <li data-cover="https://img.discogs.com/NvzEitHeovC5mtRcxXp3YIvsdaQ=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1049700-1384276859-9021.jpeg.jpg" data-tags="rock, 60s, lo-fi, garage rock, garage, live, rock and roll, proto-punk" role="button">
 The Sonics - Busy Body!!! Live In Tacoma 1964 (2007-03-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/72b3c848-e0ab-4fd1-9d2b-1630642afc32/8305869485-500.jpg" data-tags="garage rock" role="button">
+The Stooges - Gimme Some Skin (2008-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9a58849-fec6-493f-b664-b2f57c450687/13889169524-500.jpg" data-tags="proto-punk" role="button">
 Death - ...For the Whole World To See (2009-02-17)
 </li>
@@ -317,6 +314,9 @@ Harlem - Hippies (2010-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd523d62-ea0a-4d10-9a6a-a121f69eb5dc/3827161144-500.jpg" data-tags="punk" role="button">
 Cheap Time - Wallpaper Music (2012-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/01682ed7-3529-4af9-84f0-2a5527387a58/1111512012-500.jpg" data-tags="alternative, philadelphia, garage rock revival, guitar, retro, american, bluesy, slide guitar, garage rock, aggressive, garage, male vocalist, rhythm and blues, 60's, proto-punk, punk blues, the cramps, the rolling stones, grinderman, fat possum, rock & roll, the black keys, the yardbirds, trashy blues, garage-blues, flat duo jets, heartless bastards, eric burdon, the dead weather, hill country blues, the detroit cobras, the greenhornes, junior kimbrough, gun club, slim harpo, the pretty things, hasil adkins, rl burnside, raw blues, rock n blues, blues groove, jon spencer and the blues explosion, blues  explosion, the black rebel motorcycle club, the soledad brothers, the rancouters, jessie  mae hemphill, charles caldwell, bantam rooster, the blackwater fever, asie payton, rick shaffer, immortal lee county killers, phil may" role="button">
+Rick Shaffer - Idiot Flats (2012-05-15)
 </li>
 <li data-cover="https://img.discogs.com/GwDM40pKnJv3DtGHX81-A867nhk=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5590525-1397409758-2615.jpeg.jpg" data-tags="british, garage rock, rock and roll, rhythm and blues, british invasion, proto-punk, mod, garage peppermint, rock peppermint, folk-rock peppermint" role="button">
 The Kinks - The Anthology 1964 - 1971 (2014-12-15)

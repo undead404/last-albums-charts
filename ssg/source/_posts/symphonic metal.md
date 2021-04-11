@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:29:01.420Z
+date: 2021-04-11T00:28:01.428Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -71,9 +71,6 @@ Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
 <li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/bea18014-d2f3-3443-bb02-8d8184321775/7270873048-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Dawn of Victory (2000-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Within Temptation - Mother Earth (2000-12-04)
@@ -216,9 +213,6 @@ Delain - Lucidity (2006-09-04)
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
-Rhapsody of Fire - Triumph or Agony (2006-09-25)
-</li>
 <li data-cover="https://img.discogs.com/SWsNxG96QPYsX38jIm4nZbAuK-4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820668-1484762081-9976.jpeg.jpg" data-tags="symphonic metal" role="button">
 Therion - Gothic Kabbalah (2007-01-12)
 </li>
@@ -282,6 +276,9 @@ Sonata Arctica - The Days of Grays (2009-09-08)
 <li data-cover="http://coverartarchive.org/release/20973ccb-91fc-4a60-bdcf-66625331dd41/7921646004-500.jpg" data-tags="symphonic metal" role="button">
 Epica - Design Your Universe (2009-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/49f428de-3c35-3e20-8141-03d67aa2db2a/4050463336-500.jpg" data-tags="metal, acoustic, symphonic metal" role="button">
+Within Temptation - An Acoustic Night at the Theatre (2009-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/df5bf691-a022-4906-9b9e-b94902479ac5/17061803038-500.jpg" data-tags="power metal" role="button">
 Avantasia - The Wicked Symphony (2010-03-31)
 </li>
@@ -320,5 +317,8 @@ Within Temptation - Hydra (2014-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9338cac-6f7e-4d84-b035-c22ff406689e/7123206815-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Quantum Enigma (2014-04-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e9772d7-04c9-471d-b9e4-f5f90724b8ee/9026038350-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Beyond the Red Mirror (2015-01-28)
 </li>
 </ol>

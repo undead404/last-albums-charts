@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:53:01.404Z
+date: 2021-04-11T00:01:06.907Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -54,9 +54,6 @@ Omni Trio - Skeleton Keys (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
 Aphex Twin - Come to Daddy (1997-10-16)
 </li>
-<li data-cover="https://img.discogs.com/r0MAYDoaan_hffzZ76tmNjZ_ZKU=/fit-in/600x618/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6171991-1413022424-8603.jpeg.jpg" data-tags="drum and bass, ez rollers, jazzstep" role="button">
-E-Z Rollers - Weekend World (1998-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/db7667f1-d9bf-4387-835a-a5ea8427dc38/5129392290-500.jpg" data-tags="drum and bass" role="button">
 Grooverider - Mysteries Of Funk (1998-08-17)
 </li>
@@ -68,9 +65,6 @@ London Elektricity - Pull the Plug (1998-11-21)
 </li>
 <li data-cover="https://img.discogs.com/5Cb3INApPcqkJUbsfB0S_wAt-z0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3892-1399982354-5123.jpeg.jpg" data-tags="drum and bass" role="button">
 Krust - Coded Language (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/39522c95-a1d4-377c-ac14-31989d81a993/3795939422-500.jpg" data-tags="electronic, 90s" role="button">
-Squarepusher - Budakhan Mindphone (1999-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
@@ -92,6 +86,9 @@ Electric Rudeboyz - Kolejny Krok (2001-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/545e7c16-c711-4f0f-aa25-2c836850a040/25603629614-500.jpg" data-tags="electronica, idm, drum and bass, atmospheric drum and bass" role="button">
 PFM - Producer 02 (2002-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8689c59-a581-4caa-bf85-c17a29d1b137/25607825860-500.jpg" data-tags="atmospheric drum and bass, deep house" role="button">
+Tayla - Producer 04 (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/49cd5b24-36d8-4de0-aace-dfa25b386bfa/8545384175-500.jpg" data-tags="drum and bass, breakbeat" role="button">
 N.O.H.A. - Next Plateau (2003)
@@ -146,6 +143,9 @@ Counterstrike - From Beyond The Grave (2006-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/363afceb-a37b-4a8c-affb-a11a7c5379c9/20415950133-500.jpg" data-tags="drum and bass" role="button">
 Cyantific - Ghetto Blaster (2006-03-13)
+</li>
+<li data-cover="https://img.discogs.com/B1QSIdWojVREiLmknysAn712Tkc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-674880-1201994986.jpeg.jpg" data-tags="drum and bass, breakcore, 2 s34rch, d'n'b, sublight records" role="button">
+Belladonnakillz - As If (2006-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a292d675-5e37-491c-8e76-15f8c1f0570b/9853899226-500.jpg" data-tags="british, drum and bass, breakbeat" role="button">
 Future Funk Squad - Audio Damage (2006-05-08)

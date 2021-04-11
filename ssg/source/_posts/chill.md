@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:20:01.421Z
+date: 2021-04-10T23:58:01.420Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -27,6 +27,9 @@ Kruder & Dorfmeister - G-Stoned (1993-09-02)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e5a4cd5-43d1-3b78-a535-272f97c015c9/14327361700-500.jpg" data-tags="rock, 90s" role="button">
+Dave Matthews Band - Under The Table And Dreaming (1994-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
@@ -35,6 +38,9 @@ Tosca - Fuck Dub (1997-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
 Alpha - Come From Heaven (1997-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/23ff4315-ccce-440d-9711-3f82daf14d70/8147555706-500.jpg" data-tags="ambient, psychedelic" role="button">
+Celtic Cross - Hicksville (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
@@ -105,9 +111,6 @@ Alexi Murdoch - Four Songs (2002-11-06)
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
-Cat Power - You Are Free (2003-02-17)
-</li>
 <li data-cover="https://img.discogs.com/-Ghh-DxfY-YQVhDsE6_B06GuOuM=/fit-in/510x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138610-1333875595.jpeg.jpg" data-tags="chill, downtempo, chillout, ninja tune" role="button">
 Hint - Portakabin Fever (2003-04-22)
 </li>
@@ -116,6 +119,9 @@ Jack Johnson - On and On (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a15446f-a6b7-4e9c-82b9-a4685ef6b269/1607144291-500.jpg" data-tags="alternative, indie rock" role="button">
 Eels - Shootenanny! (2003-05-28)
+</li>
+<li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
+Grandaddy - Sumday (2003-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dc17780-6a26-4ccb-91c9-23d568de83d4/27879377982-500.jpg" data-tags="teitur" role="button">
 Teitur - Poetry & Aeroplanes (2003-06-22)
@@ -128,9 +134,6 @@ Howie Day - Stop All The World Now (2003-10-07)
 </li>
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
-Broken Social Scene - Broken Social Scene (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
 The Expendables - Gettin' Filthy (2004)
@@ -176,9 +179,6 @@ Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
-</li>
-<li data-cover="https://img.discogs.com/SNTxoega6ilUGHmgFREXOCc1s4E=/fit-in/200x197/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040351-1187111190.jpeg.jpg" data-tags="indie rock" role="button">
-Maritime - We, The Vehicles (2005-09-22)
 </li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
@@ -282,6 +282,9 @@ Active Child - You Are All I See (2011-08-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Balmorhea - Stranger (2012-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/477ae97f-9847-444c-8baa-b90455da1f67/4837907839-500.jpg" data-tags="ninja tune" role="button">
+Yppah - Eighty One (2012-02-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b266751b-2c9e-4a15-90f0-226bf0019e54/3301797137-500.jpg" data-tags="chill" role="button">
 Sammy Adams - All Night Longer (2012-08-21)
 </li>
@@ -290,9 +293,6 @@ Lucy Rose - Like I Used To (2012-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
-Daughter - If You Leave (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/53351ea5-0a4f-42ff-9bee-4a7d3c43fda8/7420843359-500.jpg" data-tags="kid cudi" role="button">
 Kid Cudi - Indicud (2013-04-16)
