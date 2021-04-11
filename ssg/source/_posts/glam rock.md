@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:23:01.447Z
+date: 2021-04-11T12:19:01.511Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -90,9 +90,6 @@ Japan - Adolescent Sex (1978-03)
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
 </li>
-<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
-Wings - Wings Greatest (1978-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/20f10584-bc6d-3bf6-a110-e06491275f45/1287473342-500.jpg" data-tags="hard rock" role="button">
 Kiss - Dynasty (1979-05-23)
 </li>
@@ -174,6 +171,9 @@ Morrissey - Your Arsenal (1992-07-22)
 <li data-cover="http://coverartarchive.org/release/d18dfc90-1575-3f45-ac16-2ff44674a5c5/15863736216-500.jpg" data-tags="rock, 90s" role="button">
 David Bowie - Black Tie White Noise (1993-04-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
+Tom Petty - Wildflowers (1994-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/240bf826-f94b-406b-8995-4ab2e9ad404c/2516926514-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, glam rock" role="button">
 Bryan Ferry - More Than This - The Best of Bryan Ferry and Roxy Music (1995-10-23)
 </li>
@@ -234,9 +234,6 @@ Negative - Sweet & Deceitful (2004-09-01)
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/6835ee10-af61-46c2-93a8-4c1d20c040ae/15428765305-500.jpg" data-tags="rock, 80s, classic rock" role="button">
-Billy Idol - Devil's Playground (2005-03-21)
-</li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
@@ -273,6 +270,9 @@ Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 <li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="tokio hotel" role="button">
 Tokio Hotel - Scream (2007-06-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock, finnish, glam rock, kiss, hair band" role="button">
+Hanoi Rocks - Street Poetry (2007-09-03)
+</li>
 <li data-cover="https://img.discogs.com/AJJGBWHRRDq-mS7TXshVuTdDlHE=/fit-in/454x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102142-1192142547.jpeg.jpg" data-tags="electropop, indie" role="button">
 Sohodolls - Ribbed Music for the Numb Generation (2007-09-24)
 </li>
@@ -288,8 +288,8 @@ Kiss - Sonic Boom (2009-09-09)
 <li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">
 Mika - The Boy Who Knew Too Much (2009-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e9abe81-ca3e-4710-adb7-7dabfb7afef1/16703206620-500.jpg" data-tags="indie rock, glam rock, dfa, albums to buy, listen once" role="button">
-Free Energy - Stuck On Nothing (2010-05-04)
+<li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
+Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/837a891b-8741-42ce-a911-270272530b16/11584607072-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Escape The Fate (2010-11-02)

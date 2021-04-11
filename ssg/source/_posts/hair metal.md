@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:56:07.067Z
+date: 2021-04-11T12:01:07.204Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -105,14 +105,14 @@ Whitesnake - Whitesnake (1987-03-31)
 <li data-cover="http://coverartarchive.org/release/aec11206-49ce-48d9-8a2d-754a696cfb3a/20752832103-500.jpg" data-tags="glam metal" role="button">
 Great White - Once Bitten (1987-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/830bc0f4-ece7-4a2c-9816-587e06a13e84/19863108125-500.jpg" data-tags="rock, hard rock, hair metal, melodic rock, glam metal, lps i own, face book" role="button">
+TNT - Tell No Tales (1987-04-13)
+</li>
 <li data-cover="https://img.discogs.com/vPBaPOfGv-s6atEihUmcIAsTGqA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078409-1262748089.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 Mötley Crüe - Girls, Girls, Girls (1987-07-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
-</li>
-<li data-cover="https://img.discogs.com/LIyq3NCZJ4qy0E7QG-usM6DEDi4=/fit-in/597x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9393257-1479762394-1426.jpeg.jpg" data-tags="80s, hard rock" role="button">
-Europe - Out of This World (1988-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c739cba6-9dc7-4ef6-bcc0-47cf9d68cf08/13723459826-500.jpg" data-tags="hard rock" role="button">
 Winger - Winger (1988-08-10)
@@ -189,6 +189,9 @@ White Lion - The Best of White Lion (1992-09-15)
 <li data-cover="http://coverartarchive.org/release/0463c25c-3e43-49ea-809a-2405c3122f9f/1477034985-500.jpg" data-tags="hair metal" role="button">
 Winger - Pull (1993-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/b68e8f3e-0e36-43c5-a6cd-ebd2d2a5462b/3671096470-500.jpg" data-tags="hard rock" role="button">
+Mr. Big - Bump Ahead (1993-09-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/48fa9a40-45e2-41a7-959d-33fb98cda709/6894169311-500.jpg" data-tags="hard rock" role="button">
 Whitesnake - Greatest Hits (1994-07-19)
 </li>
@@ -206,9 +209,6 @@ Kiss - Psycho Circus (1998-08)
 </li>
 <li data-cover="https://img.discogs.com/6vMdzT1i6RjDt0lErHUl67MR8e8=/fit-in/225x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5357863-1391384227-3855.jpeg.jpg" data-tags="hard rock, hair metal, 90s" role="button">
 Mötley Crüe - Supersonic And Demonic Relics (1999-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9fb0702-e64c-44fa-a8dc-393acf8b5964/2674609679-500.jpg" data-tags="heavy metal" role="button">
-W.A.S.P. - The Best of the Best (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/8015298f-9378-4ced-9aa5-03388d831af0/24536434630-500.jpg" data-tags="hard rock, hair metal" role="button">
 Vince Neil - Live at the Whisky: One Night Only (2003)
@@ -255,9 +255,6 @@ Steel Panther - Feel the Steel (2009-06-08)
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
-</li>
 <li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
 Blakroc - Blakroc (2009-09-09)
 </li>
@@ -266,6 +263,9 @@ Kiss - Sonic Boom (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8b32303-d6b9-4dac-9fd0-ac9d02b1a4e9/14874949381-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
+Steel Panther - Don't Stop Believin' (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)

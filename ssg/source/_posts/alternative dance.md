@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T04:11:01.410Z
+date: 2021-04-11T12:17:01.403Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">Björk - Debut (1993-07-12)</li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">Delphic - Acolyte (2010-01-11)</li>
 <li data-cover="http://coverartarchive.org/release/e3be7f1d-883f-4296-a3fa-a8b07cb7d4ea/3942398482-500.jpg" data-tags="electronic" role="button">LCD Soundsystem - This Is Happening (2010-05-12)</li>
+<li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">Cut Copy - Zonoscope (2011-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">Friendly Fires - Pala (2011-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">Foster the People - Torches (2011-05-23)</li>
@@ -30,11 +30,11 @@ New Order - Low-Life (1985-05-01)
 <li data-cover="https://img.discogs.com/zpqeoIliHjw8vF4OdTy6vHwkAfo=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719322-1239025055.jpeg.jpg" data-tags="80s" role="button">
 The Communards - Red (1987-10)
 </li>
-<li data-cover="https://img.discogs.com/CJBQWr96FmlbEADMlkLZMWxXhMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3615222-1337459798-6856.jpeg.jpg" data-tags="80s, new wave" role="button">
-New Order - Technique (1989-01-20)
-</li>
 <li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
 Depeche Mode - Personal Jesus (1989-08-29)
+</li>
+<li data-cover="https://img.discogs.com/3efiRk10AkNMe1HVcHk81t9RD1M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059231-1401982169-5779.jpeg.jpg" data-tags="techno, industrial rock, alternative dance" role="button">
+Pop Will Eat Itself - Cure For Sanity (1990-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/885f651d-9cfd-3a28-a67e-f9e3abbdf867/9583863696-500.jpg" data-tags="industrial, my-life-with-the-thrill-kill-kult" role="button">
 My Life with the Thrill Kill Kult - Sexplosion! (1991)
@@ -42,8 +42,8 @@ My Life with the Thrill Kill Kult - Sexplosion! (1991)
 <li data-cover="https://img.discogs.com/hbjGwQq_BRv7NVtSO2zLN4IAwUo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740136-1518104990-8297.jpeg.jpg" data-tags="post-punk" role="button">
 The Fall - Shift-Work (1991-04-22)
 </li>
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
+<li data-cover="http://coverartarchive.org/release/e411a740-84af-3f7c-8776-78c81fdc128d/21799937559-500.jpg" data-tags="electronic, pop, techno, house, 90s, male vocalists, alternative dance" role="button">
+Thompson Twins - Queer (1991-09-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 The Lightning Seeds - Sense (1992)
@@ -69,17 +69,11 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/06cf1467-1631-423a-b680-072225a7cc4f/14766461634-500.jpg" data-tags="90s" role="button">
 White Town - Women In Technology (1997-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/300da8a4-ae20-4c2e-9043-d2e467089e2f/27400793904-500.jpg" data-tags="electronic, alternative, 90s" role="button">
-Primal Scream - Vanishing Point (1997-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/97ee5e25-e39e-40db-9e1b-85cfb681c16d/20580184854-500.jpg" data-tags="rock, winter, alternative dance, where is my bong, collected, steveadams fm, steveadamsfm, music to play on mdma, smell the rot settling in, has me dancing even now" role="button">
-Black Grape - Stupid Stupid Stupid (1997-10-20)
+<li data-cover="http://coverartarchive.org/release/b92ca5de-c74c-36c1-9a0c-e5db91fdce8d/24147114073-500.jpg" data-tags="90s, electronic" role="button">
+Pet Shop Boys - Nightlife (1999-10-09)
 </li>
 <li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/884d7130-e9e4-40de-b009-d822f35c1ba4/27400649486-500.jpg" data-tags="electronic" role="button">
-Primal Scream - XTRMNTR (2000-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7817254-dde6-474e-9972-1b3bdb58e32a/2657727181-500.jpg" data-tags="electronic" role="button">
 Depeche Mode - Dream On (2001-04-23)
@@ -101,6 +95,9 @@ Hilary Duff - Come Clean (2004-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/9142e654-74a2-49ea-aa62-e48b012b8296/20933789973-500.jpg" data-tags="alternative, indie" role="button">
+Ian Brown - Solarized (2004-09-13)
 </li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
@@ -177,14 +174,14 @@ Bloc Party - One More Chance (2009-08-10)
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
 </li>
-<li data-cover="https://img.discogs.com/8di7nysakks0oXrggzhKnes7JII=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7043658-1432554779-3342.jpeg.jpg" data-tags="electronic" role="button">
-Chew Lips - Unicorn (2010-01-25)
-</li>
 <li data-cover="https://img.discogs.com/BkGqM6GnrMT2cJ6M4VWH74p5ZAM=/fit-in/462x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135595-1266229554.jpeg.jpg" data-tags="indie, electronic, electropop" role="button">
 Hot Chip - One Life Stand (2010-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7271825-c1a8-42e4-a864-b958192d55c4/4506961275-500.jpg" data-tags="alternative dance" role="button">
 Balkan Beat Box - Blue Eyed Black Boy (2010-03-01)
+</li>
+<li data-cover="https://img.discogs.com/MJBvjHvuQ__9AzvvNM_q49w_SYg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2443383-1284341287.jpeg.jpg" data-tags="alternative dance" role="button">
+Pin Me Down - Pin Me Down (2010-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3be7f1d-883f-4296-a3fa-a8b07cb7d4ea/3942398482-500.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - This Is Happening (2010-05-12)
@@ -209,6 +206,9 @@ Yelle - Safari Disco Club (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
+</li>
+<li data-cover="https://img.discogs.com/gBks7L08q-pf_wHFVdfZmimVdDE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213893-1370470570-9936.jpeg.jpg" data-tags="indie, pop, soul, indie pop, female vocalists, alternative dance" role="button">
+The Asteroids Galaxy Tour - The Golden Age - EP (2011-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/036221bd-ef88-4c76-adb0-3377b95952c3/5316731618-500.jpg" data-tags="indie rock" role="button">
 The Wombats - This Modern Glitch (2011-04-22)

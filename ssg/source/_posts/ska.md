@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:01:01.413Z
+date: 2021-04-11T11:53:01.392Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -222,9 +222,6 @@ Babylon Circus - Dances of Resistance (2004-05-10)
 <li data-cover="https://img.discogs.com/Hb8RD0jkaGaJzk6aqH6UxU0-VBw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-560097-1432775921-9899.jpeg.jpg" data-tags="alternative rock" role="button">
 311 - Greatest Hits '93-'03 (2004-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6bf471d-c306-4196-b8a1-9dd2cc30cedc/2582864276-500.jpg" data-tags="ska, punk rock, kung fu, oi, punk pathetique, albums i have downloaded, steveadams fm, steveadamsfm, ami punk, boracaymix" role="button">
-The Vandals - Hollywood Potato Chip (2004-06-29)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 </li>
@@ -293,6 +290,9 @@ The Flatliners - The Great Awake (2007-09-04)
 </li>
 <li data-cover="https://img.discogs.com/95Km-qqD29mML7rgPetQ-ehaClw=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2587197-1464457762-7603.jpeg.jpg" data-tags="british" role="button">
 The Rumble Strips - Girls and Weather (2007-09-17)
+</li>
+<li data-cover="https://img.discogs.com/UWHE_UdlXcZ1Aj4mBTB_H9lVCpE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6958316-1430408354-9869.jpeg.jpg" data-tags="ska" role="button">
+Ленинград - Аврора (2007-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">
 Streetlight Manifesto - Somewhere In The Between (2007-11-13)

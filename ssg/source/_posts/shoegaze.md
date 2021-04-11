@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:24:12.584Z
+date: 2021-04-11T12:26:01.407Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -56,9 +56,6 @@ My Bloody Valentine - Loveless (1991-11-04)
 </li>
 <li data-cover="https://img.discogs.com/yC7cMBlJDQqE28yvR-4e8loOk-s=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-554596-1259364363.jpeg.jpg" data-tags="shoegaze" role="button">
 Swirlies - Blonder Tongue Audio Baton (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/982d838e-2753-3964-8730-2219cb347560/11491218525-500.jpg" data-tags="shoegaze" role="button">
-Drop Nineteens - Delaware (1992)
 </li>
 <li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
 The Jesus and Mary Chain - Honey's Dead (1992)
@@ -299,6 +296,9 @@ Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/46296e6d-03d0-4304-b592-7d77490a8b48/5340095734-500.jpg" data-tags="instrumental, post-rock, shoegaze, atmospheric, sweden" role="button">
+EF - Ceremonies (2013-09-01)
 </li>
 <li data-cover="https://img.discogs.com/9LAqQfeQlQIe8lU2gEcKe_oW5oQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5314918-1616614242-1474.jpeg.jpg" data-tags="shoegaze" role="button">
 Alcest - Shelter (2014-01-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:47:01.502Z
+date: 2021-04-11T12:18:06.991Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -114,11 +114,8 @@ E-40 - In a Major Way (1995-03-14)
 <li data-cover="http://coverartarchive.org/release/c555c621-eaa9-40b0-969e-a5a465c14a45/6564068866-500.jpg" data-tags="gangsta rap" role="button">
 Jayo Felony - Take A Ride (1995-05-30)
 </li>
-<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
-</li>
-<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Coolio - Gangsta's Paradise (1995-08-01)
+<li data-cover="http://coverartarchive.org/release/f883fc5d-eed0-4820-8e12-d9c96ad5ef60/21232931492-500.jpg" data-tags="g-funk, gangsta rap" role="button">
+B.G. Knocc Out & Dresta - Real Brothas (1995-08-15)
 </li>
 <li data-cover="https://img.discogs.com/U3KuBPys_k3DkoxORmSLgIVEtz4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-226063-1561987540-3451.jpeg.jpg" data-tags="g-funk" role="button">
 Tha Dogg Pound - Dogg Food (1995-10-31)
@@ -231,11 +228,11 @@ Warren G - The Return of the Regulator (2001-11-28)
 <li data-cover="https://img.discogs.com/-ok0e1AkhDUzx0vUhWt78nR_kSk=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2204402-1325522242.jpeg.jpg" data-tags="west coast rap" role="button">
 Mack 10 - Bang Or Ball (2001-12-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f68c4733-b716-4173-ad90-57bb48b34f5c/28502832824-500.jpg" data-tags="g-funk" role="button">
+Nate Dogg - Music & Me (2001-12-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b4272d8-133a-4f66-91d7-ad686c61a19a/27404836477-500.jpg" data-tags="west coast rap" role="button">
 Shade Sheist - Informal Introduction (2002-09-10)
-</li>
-<li data-cover="https://img.discogs.com/k4Xwr_-2EvwkVY_tCBxUpqmumxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684169-1237899769.jpeg.jpg" data-tags="rap, g-funk" role="button">
-Snoop Dogg - Paid Tha Cost To Be Da Bo$$ (2002-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/105029c7-f9c6-4009-99ef-3649ee2f9657/6771386158-500.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Better Dayz (2002-11-26)
@@ -317,6 +314,9 @@ Ab-Soul - Control SYSTEM (2012-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfdd100c-4dbd-40ea-9aee-051f4c74bf8f/5922081800-500.jpg" data-tags="stones throw" role="button">
+7 Days Of Funk - 7 Days Of Funk (2013-12-06)
 </li>
 <li data-cover="https://img.discogs.com/f6NWG39Nnh8wYC3tC0dZJ8hq36U=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-165629-1156679776.jpeg.jpg" data-tags="gangsta rap, west coast rap" role="button">
 Domino - Domino (2014-03)

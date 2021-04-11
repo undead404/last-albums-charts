@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:39:01.458Z
+date: 2021-04-11T12:41:01.436Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -23,6 +23,12 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">
 Etta James - At Last (1960-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c89be9e-fb4f-4e6c-87ff-b569aa1ade17/24410065715-500.jpg" data-tags="jazz, blues, 60s" role="button">
+Nina Simone - Pastel Blues (1965)
+</li>
+<li data-cover="https://img.discogs.com/0h4cQRflb7QZo0Nwbtf1YTTIbKM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5051745-1392911107-7148.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
+Cream - Fresh Cream (1966-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8086b4f8-5365-45b7-872c-798d0626f237/3712022059-500.jpg" data-tags="jazz, blues" role="button">
 Nina Simone - Ne me quitte pas (1967)
@@ -99,9 +105,6 @@ Tom Waits - The Heart of Saturday Night (1974-10-15)
 <li data-cover="https://img.discogs.com/8wss12CfsuoyQ1bZdQIp7CoacF8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10692549-1502513873-3759.jpeg.jpg" data-tags="blues" role="button">
 J.J. Cale - Troubadour (1976)
 </li>
-<li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
-Tom Waits - Small Change (1976-10)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
 Dire Straits - Dire Straits (1978-06-02)
 </li>
@@ -167,9 +170,6 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1fac05f-bf5f-405c-8e3a-5b704c6970d8/19486232768-500.jpg" data-tags="blues" role="button">
 B.B. King - Deuces Wild (1997-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/21efbb0a-73b0-479f-9ef3-031bf7c5af49/26956464560-500.jpg" data-tags="blues, singer-songwriter" role="button">
-Tom Waits - Alice (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8eb987c-7514-4ee1-a052-f09458b8f8db/15337426460-500.jpg" data-tags="blues" role="button">
 Muddy Waters - The Best Of Muddy Waters (1999)

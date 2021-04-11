@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:23:01.416Z
+date: 2021-04-11T12:21:01.405Z
 title: "rock and roll: 100 albums you must listen to before you die"
 ---
 ![Slash - Slash (2010-03-31)](https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg "Slash - Slash (2010-03-31)")
@@ -9,8 +9,8 @@ title: "rock and roll: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">The Velvet Underground - White Light/White Heat (1968-01-30)</li>
 <li data-cover="http://coverartarchive.org/release/83ecd172-3f27-4d22-93f8-a8324d18248e/5642373000-500.jpg" data-tags="rock, 70s" role="button">The Rolling Stones - Exile on Main St. (1972-05-12)</li>
 <li data-cover="http://coverartarchive.org/release/68f9ce3e-0cdd-4f2d-897f-d8208eee1fc2/8130414856-500.jpg" data-tags="rock and roll" role="button">Chuck Berry - The Great Twenty-Eight (1982)</li>
-<li data-cover="https://img.discogs.com/6tvPTriSNW55SbOoZwd6vrrtuYA=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675762-1425129623-7371.jpeg.jpg" data-tags="rock and roll" role="button">Ritchie Valens - La Bamba (1988)</li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">Tom Petty - Full Moon Fever (1989-04-25)</li>
+<li data-cover="http://coverartarchive.org/release/c280af5a-666b-3221-9d1f-a12b674ddf54/11350701340-500.jpg" data-tags="hard rock" role="button">AC/DC - The Razors Edge (1990-09-21)</li>
 <li data-cover="https://img.discogs.com/mdbG3R6-Hr7CloivLJyj6MhA_fU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796999-1448568098-1082.jpeg.jpg" data-tags="rock and roll, heartland rock, nic e" role="button">Tom Petty and The Heartbreakers - Anthology: Through the Years (2000-10-31)</li>
 <li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">Slash - Slash (2010-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">AC/DC - Iron Man 2 (2010-04-16)</li>
@@ -29,6 +29,12 @@ Elvis Presley - Elvis Presley (1956-03-23)
 </li>
 <li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">
 Bill Haley & His Comets - Rock Around The Clock (1956-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6be7b74-e68b-4dfb-b24b-624115979948/17105004517-500.jpg" data-tags="classic rock" role="button">
+Elvis Presley - Jailhouse Rock (1957)
+</li>
+<li data-cover="http://coverartarchive.org/release/97eb3ba4-8503-423a-aad2-fb7481a6ed15/1876779636-500.jpg" data-tags="rock and roll" role="button">
+The Crickets - The "Chirping" Crickets (1957)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8c1426d-b237-4b8a-a22b-820b807849d4/9523057681-500.jpg" data-tags="rock and roll, time-100" role="button">
 Little Richard - Little Richard (1958)
@@ -68,6 +74,9 @@ The Rolling Stones - Out of Our Heads (1965-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf5aaf72-a9ca-4d81-b622-888ee228aa11/1503464212-500.jpg" data-tags="rock, 60s" role="button">
+The Rolling Stones - The Rolling Stones (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/18492d6e-b040-30c3-9d7c-e082ec2963fe/23559347519-500.jpg" data-tags="rock, classic rock, southern rock, 60s" role="button">
 Creedence Clearwater Revival - Bayou Country (1969-01-05)
@@ -129,20 +138,8 @@ The Rolling Stones - Undercover (1983-11-07)
 <li data-cover="http://coverartarchive.org/release/62625ded-7e9b-4c83-a054-474fc52262f4/1670338111-500.jpg" data-tags="little richard" role="button">
 Little Richard - 18 Greatest Hits (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/03fac47c-b0df-4c63-bf23-70cee2a91378/1636110357-500.jpg" data-tags="oldies, 50s" role="button">
-Little Richard - The Essential Little Richard (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/cfc813a4-aedc-371f-ab69-22986e79fa1d/9750752458-500.jpg" data-tags="mick jagger" role="button">
-Mick Jagger - She's the Boss (1985-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/d68e9cea-0dd5-4d89-8652-0b5e00823e6e/3465236438-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Fly on the Wall (1985-06-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-AC/DC - Who Made Who (1986-05-12)
-</li>
-<li data-cover="https://img.discogs.com/6tvPTriSNW55SbOoZwd6vrrtuYA=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675762-1425129623-7371.jpeg.jpg" data-tags="rock and roll" role="button">
-Ritchie Valens - La Bamba (1988)
 </li>
 <li data-cover="https://img.discogs.com/4CZx1wzcpUpZ-iu51bIR81gqKkY=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8077003-1454699153-4117.jpeg.jpg" data-tags="50s" role="button">
 Little Richard - Good Golly, Miss Molly (1989)
@@ -255,17 +252,20 @@ Elvis Presley - Elvis Rock (2006-02-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Buckcherry - 15 (2006-04-11)
 </li>
+<li data-cover="https://img.discogs.com/gpxmCvbMTCBf_A62dUGyuk8lnQ8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-709401-1380547578-9100.jpeg.jpg" data-tags="rock" role="button">
+Primal Scream - Riot City Blues (2006-05-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/93309c74-5a79-4658-8d1a-a335e686ed02/4810348355-500.jpg" data-tags="punk rock" role="button">
 The Bronx - The Bronx (2006-07-04)
-</li>
-<li data-cover="https://img.discogs.com/7i9_vK2abGzZYB8SaVttSqMC8jo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5130895-1385329250-8697.jpeg.jpg" data-tags="rock, drake bell" role="button">
-Drake Bell - It's Only Time (2006-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">
 Calabrese - The Traveling Vampire Show (2007-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/85a32b7d-f08a-40df-825c-ae5502a24aa3/24788754013-500.jpg" data-tags="elvis presley" role="button">
 Elvis Presley - The Essential Elvis Presley (2007-01-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/6865903e-1b14-45b1-bf4c-691ce3c2109c/3213873485-500.jpg" data-tags="heavy metal, metal, rockabilly" role="button">
+Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)

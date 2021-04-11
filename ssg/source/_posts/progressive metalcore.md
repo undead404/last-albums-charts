@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:21:01.400Z
+date: 2021-04-11T12:38:07.012Z
 title: "progressive metalcore: 100 albums you must listen to before you die"
 ---
 ![Protest the Hero - Fortress (2008-01-29)](http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg "Protest the Hero - Fortress (2008-01-29)")
@@ -27,17 +27,20 @@ Converge - Petitioning the Empty Sky (1996)
 <li data-cover="http://coverartarchive.org/release/d6a747ff-7a68-4bc2-8c8b-805f9e771ca9/15147967402-500.jpg" data-tags="hardcore" role="button">
 Cave In - Beyond Hypothermia (1998-02-17)
 </li>
+<li data-cover="https://img.discogs.com/S8M-fgvkkiO58GqKOB0N4Jp1-64=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824226-1464691214-7099.png.jpg" data-tags="metalcore, progressive metalcore, holy terror" role="button">
+Pale Creation - Twilight Haunt (1999)
+</li>
 <li data-cover="https://img.discogs.com/lwA4Hy3sy90zn4KHZ0o5yohbU6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1784559-1490645883-3048.jpeg.jpg" data-tags="metalcore" role="button">
 7 Angels 7 Plagues - Jhazmyne's Lullaby (2001-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/51cd398a-219a-4f24-b356-cf65b93ccdb3/20526290792-500.jpg" data-tags="progressive metal, screamo, mathcore, technical metal, progressive metalcore, technical metalcore, sikth" role="button">
+Sikth - Let The Transmitting Begin... (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/314ed00f-107c-3794-990b-08dbd9d4c538/15533917233-500.jpg" data-tags="metalcore, progressive metal" role="button">
 Between the Buried and Me - Between the Buried and Me (2002-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0f05ea5-f7b9-422e-9194-d3b48eebfb93/27657012463-500.jpg" data-tags="metalcore" role="button">
 7 Angels 7 Plagues - Until the Day Breathes and the Shadows Flee (2003-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/f70b40c2-910b-415e-a783-c0edd5063073/26655910860-500.jpg" data-tags="post-hardcore, progressive metal" role="button">
-Protest the Hero - A Calculated Use Of Sound (2003-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59e12ac-882a-4ebc-81ab-321ca329f98e/15424555925-500.jpg" data-tags="progressive metal" role="button">
 Burst - Prey on Life (2003-09-23)
@@ -47,9 +50,6 @@ Between the Buried and Me - The Silent Circus (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
 Protest the Hero - Kezia (2005-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b299829-5286-41ca-bde0-315f612cee96/7574001108-500.jpg" data-tags="metalcore" role="button">
-Becoming the Archetype - Terminate Damnation (2005-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Alaska (2005-09-06)
@@ -81,11 +81,8 @@ Abigail Williams - Legend (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/bb804b9e-7d12-4412-b134-ef49e9378997/26176143302-500.jpg" data-tags="post-hardcore" role="button">
 Behind Crimson Eyes - A Revelation For Despair (2006-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ed3b1f10-793c-4fd5-b46c-b7c731ce979d/18811878275-500.jpg" data-tags="hardcore, melodic hardcore" role="button">
-Life In Your Way - Waking Giants (2007-03-06)
-</li>
-<li data-cover="https://img.discogs.com/bMAhUNP3ite30A6Y3EnfSSpB49c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1142470-1499195765-4915.jpeg.jpg" data-tags="melodic death metal, progressive death metal" role="button">
-Becoming the Archetype - The Physics Of Fire (2007-05-08)
+<li data-cover="https://img.discogs.com/woX76sj1_ywiBkt8gs2pJZJEYB4=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10771633-1504029871-7120.jpeg.jpg" data-tags="metalcore, hardcore, deathcore, progressive metalcore" role="button">
+I Shot The Sheriff - I Shot The Sheriff (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/1066b8f2-237c-4461-9dbb-540a5aecc540/15528876986-500.jpg" data-tags="deathcore" role="button">
 Arsonists Get All The Girls - The Game Of Life (2007-08-14)
@@ -95,9 +92,6 @@ Between the Buried and Me - Colors (2007-09-18)
 </li>
 <li data-cover="https://img.discogs.com/miHaKw0ec93mi0Aw-mDRGWouowM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196802-1199997856.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 The Bled - Silent Treatment (2007-09-24)
-</li>
-<li data-cover="https://img.discogs.com/9YL9Z1IY96OPQMCNWXppa9bgeHY=/fit-in/469x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3783473-1344252280-9396.jpeg.jpg" data-tags="progressive metalcore, albums i own on cd" role="button">
-Hope For The Dying - Hope For The Dying (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
@@ -120,14 +114,8 @@ All Shall Perish - Awaken the Dreamers (2008-09-05)
 <li data-cover="https://img.discogs.com/Dgj4Xl7hVe7nxWz77BM5XT9c2tM=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8421256-1461272739-4732.png.jpg" data-tags="progressive hardcore" role="button">
 Your Memorial - Seasons (2008-09-27)
 </li>
-<li data-cover="https://img.discogs.com/0aqJvHpFcY2AH9skDGBGvTqezak=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071931-1262380567.jpeg.jpg" data-tags="thrash metal, melodic death metal" role="button">
-Sylosis - Conclusion Of An Age (2008-10-24)
-</li>
 <li data-cover="https://img.discogs.com/BnUbJTh3E8XyCBup7eFe6hj8aW4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7394579-1440563367-3398.jpeg.jpg" data-tags="metalcore, hardcore, post-hardcore, melodic hardcore, chaotic hardcore, progressive metalcore, melodic metalcore" role="button">
 Straight Reads The Line - The Author (2008-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/95a4f340-e792-42a2-b13f-95c7270c7174/15431927045-500.jpg" data-tags="progressive death metal" role="button">
-Becoming the Archetype - Dichotomy (2008-11-25)
 </li>
 <li data-cover="https://img.discogs.com/8WcT7gduUfrNfWsCRfAR7voz3Sc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8056357-1454285637-4986.jpeg.jpg" data-tags="deathcore" role="button">
 The Contortionist - Apparition (2009)
@@ -150,8 +138,8 @@ Within the Ruins - Creature (2009-02-20)
 <li data-cover="https://img.discogs.com/KxX2Tgb_G9d1aL_rqcKjOFdwieE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5571048-1396861179-4095.jpeg.jpg" data-tags="metalcore, experimental, progressive metal, progressive metalcore" role="button">
 Paria - The Barnacle Cordious (2009-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0c8d591-6aa6-49ef-8a6a-bcd2de9b6285/26643366789-500.jpg" data-tags="metalcore, christian" role="button">
-For Today - Portraits (2009-06-09)
+<li data-cover="http://coverartarchive.org/release/845d7ff4-59eb-4a64-a1c5-162327bc3937/9715271941-500.jpg" data-tags="japanese, melodic death metal, touhou, progressive metalcore, indstrumental" role="button">
+Pizuya's Cell x MyonMyon - Nuclear Blast (2009-08-15)
 </li>
 <li data-cover="https://img.discogs.com/T92KKrQayXQ2_oD4aFskZ9Sfb9A=/fit-in/366x362/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981322-1256505979.jpeg.jpg" data-tags="deathcore" role="button">
 No Consequence - In The Shadow Of Gods (2009-08-17)
@@ -195,9 +183,6 @@ Underoath - Ø (Disambiguation) (2010-11-09)
 <li data-cover="http://coverartarchive.org/release/d0c425b7-9d9f-4565-85d3-bda8cd615dad/10535600458-500.jpg" data-tags="progressive metalcore" role="button">
 Apostate - Seaborne (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/266a7184-b4c4-43ea-9357-a5b76696e8ac/4949732775-500.jpg" data-tags="metalcore" role="button">
-I, The Breather - These Are My Sins (2010-12-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/43884d4a-a3c9-4cf7-a9e3-7db84384b685/9717810451-500.jpg" data-tags="metalcore, metal, hardcore, progressive metalcore" role="button">
 Erra - Andromeda (2010-12-21)
 </li>
@@ -228,6 +213,9 @@ The Air I Breathe - Great Faith In Fools (2011-06-06)
 <li data-cover="http://coverartarchive.org/release/25d38669-25ce-4f15-84ee-2cdb3228e366/17547954563-500.jpg" data-tags="deathcore" role="button">
 All Shall Perish - This Is Where It Ends (2011-07-26)
 </li>
+<li data-cover="https://img.discogs.com/_lW-I3KXqIOuWA7vjcw6FySLl7w=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6851399-1427983928-4185.jpeg.jpg" data-tags="metalcore, progressive metalcore" role="button">
+Apostate - Hermeneutic Circle (2011-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/73dd64d8-28e1-4f25-bbf8-62295ed4cb84/4605373825-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Like Moths to Flames - When We Don't Exist (2011-11-08)
 </li>
@@ -236,6 +224,9 @@ Walking with Strangers - Hardships (2011-11-16)
 </li>
 <li data-cover="https://img.discogs.com/MwCd3u6-o_AHeMzwmVd8poxXsBU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7371207-1440023997-2407.jpeg.jpg" data-tags="metalcore, metal, hardcore, mathcore, progressive metalcore" role="button">
 The Afterimage - Formless (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9bea33c-ffb6-4f1b-8987-a4ea02edef61/10441597938-500.jpg" data-tags="metalcore" role="button">
+A Call to Sincerity - Foundations (2012-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/62235169-eaec-4a55-a41d-3a8af69b17bf/14116831943-500.jpg" data-tags="metalcore, progressive metalcore" role="button">
 Change of Loyalty - Freethinker (2012-02-13)
@@ -270,6 +261,9 @@ Becoming the Archetype - I Am (2012-09-18)
 <li data-cover="http://coverartarchive.org/release/e4a66f71-155e-4c41-9546-0ac1a9fdb0dd/20894043549-500.jpg" data-tags="metalcore" role="button">
 This or the Apocalypse - Dead Years (2012-09-25)
 </li>
+<li data-cover="https://img.discogs.com/nAqV157vupTQXp7-iT23VR2nI6E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745040-1533254486-1590.jpeg.jpg" data-tags="progressive metalcore, technical metalcore" role="button">
+The Greatness Design - Pillars of Creation (2013)
+</li>
 <li data-cover="https://img.discogs.com/foi3g0TgLnHVTSyjq0K32KV_9gQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7418728-1441126770-9332.jpeg.jpg" data-tags="progressive metalcore" role="button">
 Auras - Panacea (2013-01-13)
 </li>
@@ -294,14 +288,17 @@ Bring Me the Horizon - Sempiternal (2013-03-29)
 <li data-cover="http://coverartarchive.org/release/620ca94c-cad2-4db3-85a5-5291fc72bb3e/28147102664-500.jpg" data-tags="progressive metalcore" role="button">
 After the Burial - This Life Is All We Have (2013-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/373f65ca-f5f6-4ec1-89e8-424c8e3a28de/7428018732-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Rescue & Restore (2013-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/73f1a71e-34a8-45d9-b905-a40a798ac01d/7682599038-500.jpg" data-tags="melodic hardcore, hardcore" role="button">
 Counterparts - The Difference Between Hell and Home (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/32b00b8e-ec6a-46fe-9209-9dce4bb5e984/19368041858-500.jpg" data-tags="metalcore" role="button">
 Breakdown of Sanity - Perception (2013-10-18)
+</li>
+<li data-cover="https://img.discogs.com/HzdmkeVS3NGWAzRA7QFPv_cehZw=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5675389-1399622190-3905.jpeg.jpg" data-tags="metalcore, metal, post-hardcore, deathcore" role="button">
+Sirens & Sailors - Skeletons (2013-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/36a1411d-b25e-4b3f-9dd6-5788d6e31fc9/18231999887-500.jpg" data-tags="metalcore, progressive metalcore" role="button">
+Silent Planet - lastsleep (1944-1946) (2014-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/db412f0a-c58b-47f5-ac5f-d163e9ffa715/6303246041-500.jpg" data-tags="metalcore" role="button">
 Architects - Lost Forever // Lost Together (2014-03-07)
@@ -317,6 +314,9 @@ Within the Ruins - Phenomena (2014-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b41cfcf-8266-40d3-b8d9-0fa1ca513e04/8456803520-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Future Sequence: Live at the Fidelitorium (2014-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae2c3cb1-32b4-409e-aff9-3db6cc9d4a97/9139161622-500.jpg" data-tags="metalcore, swedish" role="button">
+Imminence - I (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b90b85a-a132-46f5-bbff-584e70c9ec77/9352955988-500.jpg" data-tags="melodic death metal, melodic metalcore" role="button">
 Sylosis - Dormant Heart (2015-01-12)

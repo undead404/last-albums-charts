@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:43:01.468Z
+date: 2021-04-11T12:42:01.419Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -68,6 +68,9 @@ Broken Note - Terminal Static (2009-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/42c22569-1d0f-41fd-ac67-327c2ae6f614/8171013124-500.jpg" data-tags="dubstep, electro, dark, quiet, sinister, synth-pop, sharp, scuba" role="button">
 Emika - Drop The Other (2010-01-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
+Hadouken! - For the Masses (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/95da9d74-569f-4406-8bc4-7bf2bcbe69b6/20733482972-500.jpg" data-tags="post-hardcore" role="button">
 Enter Shikari - Tribalism (2010-02-22)
@@ -176,9 +179,6 @@ Amon Tobin - ISAM (2011-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0748c23-2e2f-4e6e-9369-3b6c14bd4b67/2097313302-500.jpg" data-tags="dubstep" role="button">
 Nero - Guilt (2011-04-24)
-</li>
-<li data-cover="https://img.discogs.com/aMqppzB6n119MJJ_S7AY0Q_IDiU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2959907-1309217030.jpeg.jpg" data-tags="dubstep, electronic" role="button">
-Skrillex - More Monsters And Sprites (2011-06-07)
 </li>
 <li data-cover="https://img.discogs.com/y4XBgnPfRyJUXneW93sfjJwJt44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3354632-1336033311.jpeg.jpg" data-tags="electronic, dubstep, drum and bass, breakbeat, tetris" role="button">
 Doctor P - Tetris (2011-06-13)

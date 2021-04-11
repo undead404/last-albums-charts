@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:12:06.991Z
+date: 2021-04-11T12:05:01.662Z
 title: "russian rock: 100 albums you must listen to before you die"
 ---
 ![Сплин - Гранатовый альбом (1998)](https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg "Сплин - Гранатовый альбом (1998)")
@@ -31,13 +31,10 @@ _________________
 Аквариум - Десять стрел (1986)
 </li>
 <li data-cover="https://img.discogs.com/oUDMukNxLs1rJfJI-FNy8eGRZXM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6849577-1446741517-4774.jpeg.jpg" data-tags="heavy metal" role="button">
-Ария - С кем ты? (1986-11)
-</li>
-<li data-cover="https://img.discogs.com/_ubV7KFWl5rOyBtvsOOdRqXTB24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951271-1425725562-4185.jpeg.jpg" data-tags="russian rock" role="button">
-Пикник - Иероглиф (1987)
-</li>
-<li data-cover="https://img.discogs.com/oUDMukNxLs1rJfJI-FNy8eGRZXM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6849577-1446741517-4774.jpeg.jpg" data-tags="heavy metal" role="button">
 Ария - Герой асфальта (1987-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a3b0aa2-ae23-46de-8de8-e542f33c5f71/24918318790-500.jpg" data-tags="rock, punk, post-punk, psychedelic rock, russian rock" role="button">
+Гражданская оборона - Так закалялась сталь (1988)
 </li>
 <li data-cover="https://img.discogs.com/d0oolr3BFqouY4yHt_XsK2gyRr8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1799812-1298449236.jpeg.jpg" data-tags="russian rock" role="button">
 Егор Летов - Вершки и корешки (1989)
@@ -54,8 +51,8 @@ Gorky Park - Gorky Park (1989-08-14)
 <li data-cover="http://coverartarchive.org/release/067d4e72-783c-322c-96f2-c2842550a5bc/9374298882-500.jpg" data-tags="rock, new wave, post-punk, russian rock" role="button">
 Кино - Чёрный Альбом (1990-01-01)
 </li>
-<li data-cover="https://img.discogs.com/8Uctbi7ziKJ5lQehiHBSOqQnNWo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9110924-1474963027-4964.jpeg.jpg" data-tags="russian rock" role="button">
-Ноль - Песня о безответной любви к Родине (1991)
+<li data-cover="https://img.discogs.com/KhYo3RVKihmFn5C6EVmD_oIvp_I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1640147-1238269022.jpeg.jpg" data-tags="post-punk, psychedelic, russian, russian rock, art-rock, avant-jazz, jazz-rock" role="button">
+Аукцыон - Бодун (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed419c7f-a724-43d4-a5ed-fb5b4976d27b/4166591941-500.jpg" data-tags="post-punk, russian" role="button">
 Nautilus Pompilius - Чужая Земля (1991)
@@ -77,6 +74,12 @@ Nautilus Pompilius - Титаник (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e1b301-dbed-31a1-ab07-0939d3673857/4166685041-500.jpg" data-tags="rock, russian rock" role="button">
 Nautilus Pompilius - Крылья (1995)
+</li>
+<li data-cover="https://img.discogs.com/PV6LijxrU5kiF4qFR4gV9cFmFdY=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10076967-1491749418-8677.jpeg.jpg" data-tags="russian rock" role="button">
+Nautilus Pompilius - Легенды русского рока (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6e99ce9-3d8d-4a71-a3d1-6f52ca37dde8/7228131962-500.jpg" data-tags="russian rock" role="button">
+ДДТ - Любовь (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/42c11713-eceb-393c-b4a0-aae5977fa098/3204253087-500.jpg" data-tags="russian rock" role="button">
 Чиж & Co - Эрогенная зона (1996)
@@ -111,11 +114,17 @@ Tequilajazzz - Целлулоид (1998)
 <li data-cover="http://coverartarchive.org/release/ff9f70b1-7106-4de9-ba4a-d2339c313236/5110648992-500.jpg" data-tags="rock" role="button">
 Кино - КИНО (1998-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/bbc9e79c-6c53-3865-b74c-bd9bea133baa/7047433301-500.jpg" data-tags="punk rock" role="button">
+Король и Шут - Акустический Альбом (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/e14b49ce-056d-4688-8278-03cb597df1ca/7047332743-500.jpg" data-tags="rock, russian, russian rock" role="button">
 Кукрыниксы - Кукрыниксы (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/c17885d0-b406-4003-bc76-7855c5693bbd/7228150636-500.jpg" data-tags="russian rock, ddt, rock" role="button">
 ДДТ - Просвистела (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/470ff4dc-46a8-4972-976e-e7b8846db2d0/5109689506-500.jpg" data-tags="rock, russian rock, brutal kircore, belarussia, hdd" role="button">
+Ляпис Трубецкой - Красота (1999-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2519293-b0d9-43d8-a669-d52796161c7f/1412312432-500.jpg" data-tags="russian" role="button">
 ЗЕМФИРА - ЗЕМФИРА (1999-05-10)
@@ -201,9 +210,6 @@ Lumen - Без консервантов (2003)
 <li data-cover="http://coverartarchive.org/release/b54e926d-fefe-3de8-84ea-a14b6ce462e0/3409360415-500.jpg" data-tags="rock" role="button">
 Сплин - Новые люди (2003-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ea45f21-a336-40ba-a38b-bf2d1399b0e5/9478672915-500.jpg" data-tags="rock, russian, punk, alternative" role="button">
-Lumen - Три пути (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/74e829b2-6155-49d1-a634-ae72e685e264/11339739256-500.jpg" data-tags="rock, alternative, russian, russian rock, record collection" role="button">
 Би-2 - Иномарки (2004-03-02)
 </li>
@@ -231,9 +237,6 @@ Lumen - Три пути (2004)
 <li data-cover="http://coverartarchive.org/release/0bf087ff-4496-4233-980c-89ed2e4efe50/14831416930-500.jpg" data-tags="punk, russian, live, russian rock, live album" role="button">
 Lumen - Одной крови (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7af3832-ec57-4030-8c17-78e0f6f8f3a3/9478681638-500.jpg" data-tags="rock, lumen, alternative, alternative rock" role="button">
-Lumen - Свобода (2005)
-</li>
 <li data-cover="https://img.discogs.com/TMi8KoANO3tTmuRzqKu8jTXlcBk=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359932-1289152737.jpeg.jpg" data-tags="russian alternative" role="button">
 Tracktor Bowling - Черта (2005)
 </li>
@@ -255,14 +258,8 @@ Tracktor Bowling - Черта (2005)
 <li data-cover="https://img.discogs.com/UtQJIiw3C4XmBQVBN7JJc_zSxlY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-705452-1560867494-6266.jpeg.jpg" data-tags="rock, russian, russian rock" role="button">
 Звери - Когда мы вместе, никто не круче (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/596e5567-f743-4013-b036-4c35706083da/10095618121-500.jpg" data-tags="punk rock" role="button">
-Король и Шут - Продавец Кошмаров (2006)
-</li>
 <li data-cover="https://img.discogs.com/JX4qHWPHttRE2JBYKJbcnqW9a0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8195889-1507216029-3217.jpeg.jpg" data-tags="rock, alternative, pop-rock, russian rock" role="button">
 Би-2 - Молоко (2006-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d391aa9a-a06d-4061-8b85-bde5f16ca299/9478684377-500.jpg" data-tags="lumen, russian rock, punk, russian alternative" role="button">
-Lumen - Правда? (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/8014f993-3a10-43e6-91fc-e70e916e82ae/3409391770-500.jpg" data-tags="russian rock" role="button">
 Сплин - Раздвоение личности (2007-02-07)
@@ -299,6 +296,9 @@ Lumen - Мир (2009-05-21)
 </li>
 <li data-cover="https://img.discogs.com/WMoGKKgjYFAJCFeMUtzI_Moi8Vw=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11285784-1513447849-7032.jpeg.jpg" data-tags="rock, ska, russian, russian rock, mat, shnurok records, zenith" role="button">
 Ленинград - Хна (2011-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f459c03-a734-4bf1-905f-81e3cd33d32d/2617986989-500.jpg" data-tags="russian rock, 4-5" role="button">
+Аквариум - Архангельск (2011-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2780102-206c-485c-b5cf-5dead21e6e24/9585216667-500.jpg" data-tags="russian rock" role="button">
 ДДТ - Иначе (2011-10-01)

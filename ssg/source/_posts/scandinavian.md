@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:09:06.987Z
+date: 2021-04-11T12:23:01.409Z
 title: "scandinavian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Rhino Hi-Five: A-Ha (2005-07-19)](http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg "a-ha - Rhino Hi-Five: A-Ha (2005-07-19)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/FYyHIOJBBAEdJ23hhlI_DItQxag=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270586-1595148658-6758.jpeg.jpg" data-tags="jazz, jazz fusion, avant-garde, ecm" role="button">
-Terje Rypdal - Bleak House (1968)
-</li>
 <li data-cover="https://img.discogs.com/Pnle-zMfemt_Fd_806BmjmY9j7Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8352412-1459969116-7100.jpeg.jpg" data-tags="pop, swedish, scandinavian, 90s, ballads" role="button">
 Eva Dahlgren - En blekt blondins hjärta (1991)
 </li>
@@ -32,6 +29,9 @@ Bathory - Twilight of the Gods (1991-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/784bcc3e-9dc0-4333-b566-586ae1c5ec3c/1899935676-500.jpg" data-tags="swedish, scandinavian, retro, eurodance, sweden, zweden, noord-europa, zweeds, my mp3" role="button">
 Yaki-Da - Pride (1994)
+</li>
+<li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
+Isengard - Høstmørke (1995-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/034446d2-7f75-4c51-8cde-dcef3c9afafa/3471383481-500.jpg" data-tags="scandinavian, finnish, omat aarteet" role="button">
 Rinneradio - Rok (1996-02)
@@ -51,9 +51,6 @@ Jaga Jazzist - Magazine EP (1998)
 <li data-cover="http://coverartarchive.org/release/02304f7c-d527-41f7-b978-78f02307d47d/6366191614-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Frozen (1998-07-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Esbjörn Svensson Trio - From Gagarin's Point of View (1999)
-</li>
 <li data-cover="https://img.discogs.com/VtNIF05IylryawW9rNVCqqqHI8s=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1248781-1437338993-8173.jpeg.jpg" data-tags="scandinavian" role="button">
 Hedningarna - Karelia Visa (1999)
 </li>
@@ -66,11 +63,11 @@ Under Byen - Kyst (1999-11-03)
 <li data-cover="https://img.discogs.com/TJPW6ra3O4_N4fCjOP_xUjyJHis=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8291557-1458755518-8037.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Hagnesta Hill (1999-12-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9d39de1-f767-428b-b244-1e7d4ff29168/15449820595-500.jpg" data-tags="medieval" role="button">
-Hagalaz' Runedance - Volven (2000)
-</li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
+</li>
+<li data-cover="https://img.discogs.com/beEtVq2-cXWep_N6fIa036E6IzU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1080266-1321385476.jpeg.jpg" data-tags="indie rock, punk" role="button">
+The (International) Noise Conspiracy - Survival Sickness (2000-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e4523bd-c035-4f79-a031-9055e06970fb/26379919825-500.jpg" data-tags="indie, pop, rock, danish, somehow very nostalgic" role="button">
 Mew - Half the World Is Watching Me (2000-05-04)
@@ -90,20 +87,11 @@ Madrugada - The Nightly Disease (2001-03-01)
 <li data-cover="https://img.discogs.com/JtVUJDOBcXFclcbx8CM2mp5cFb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125549-1248439157.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
-Sondre Lerche - Faces Down (2001-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a6c2ac5-9931-41cd-98e1-9aad3c16468d/8354320939-500.jpg" data-tags="icelandic" role="button">
-múm - Please Smile My Noise Bleed (2001-09-10)
-</li>
 <li data-cover="https://img.discogs.com/zUaKSZxB5gHIgbTkjzgKCDppIyA=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-113230-1480267127-5798.jpeg.jpg" data-tags="fi-reggae" role="button">
 Soul Captain Band - Jokaiselle tulta (2001-10-05)
 </li>
 <li data-cover="https://img.discogs.com/MJAPTEh03tkQpEYfUAet7IjbdiE=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-153118-1125943589.jpeg.jpg" data-tags="scandinavian, finnish, suomi" role="button">
 Kapteeni Ä-Ni - Parhaat (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/41a6d204-ae1c-398f-819a-f3bbc44ddfff/15177439122-500.jpg" data-tags="contemporary jazz, jazz" role="button">
-Esbjörn Svensson Trio - Strange Place For Snow (2002)
 </li>
 <li data-cover="https://img.discogs.com/39jKLeEQEZt8Dbe4303tnzC3q1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385571-1245095998.jpeg.jpg" data-tags="indie rock" role="button">
 Logh - Every Time a Bell Rings an Angel Gets His Wings (2002-01-21)
@@ -126,11 +114,11 @@ Madder Mortem - Deadlands (2002-10-21)
 <li data-cover="http://coverartarchive.org/release/3d47e08f-5b2a-48a4-bfc9-c1e8fb07a12f/15052490842-500.jpg" data-tags="indie" role="button">
 Peter Bjorn and John - Peter Bjorn And John (2002-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e765db76-5025-3aad-8d7b-9c773f7092d3/24718719910-500.jpg" data-tags="jazz" role="button">
-Esbjörn Svensson Trio - Seven Days of Falling (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c85c527-e2d1-414b-85d3-c1cf6085d79f/7451583294-500.jpg" data-tags="scandinavian, finnish, 00s, mlx, favourite jazz, sekalaisia suosikkeja" role="button">
+Rinneradio - Lumix (2003-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">
 Caesars - Jerk It Out (2003-03-24)
@@ -216,11 +204,11 @@ Caesars - Paper Tigers (2005-04-25)
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
-<li data-cover="https://img.discogs.com/L-iB-nnREdsjNQ4tHtYWtQLG3A4=/fit-in/549x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199027-1200164728.jpeg.jpg" data-tags="gothic rock" role="button">
-Shamrain - Someplace Else (2005-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg" data-tags="norwegian, scandinavian, norway, noord-europa, noors, noorwegen" role="button">
 a-ha - Rhino Hi-Five: A-Ha (2005-07-19)
+</li>
+<li data-cover="https://img.discogs.com/9_okRelm90FQ4t6XXM6IQgMwbdI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664159-1546909500-5740.png.jpg" data-tags="female, scandinavian, love chords" role="button">
+Dadafon - Lost Love Chords (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c88b62ac-0033-473f-a410-eca33c76d67d/19860870110-500.jpg" data-tags="ambient, glitch" role="button">
 Vladislav Delay - The Four Quarters (2005-09)
@@ -230,9 +218,6 @@ Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">
 Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
-</li>
-<li data-cover="https://img.discogs.com/DZmRlMcMwlcggvazC7ufZl7eOCo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-781723-1243760396.jpeg.jpg" data-tags="finnish" role="button">
-Regina - Katso maisemaa (2005-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f5a5c5-64f8-417e-be12-b50dc322bc23/3357093889-500.jpg" data-tags="post-rock" role="button">
 Jeniferever - Choose a Bright Morning (2006-03-13)
@@ -246,8 +231,14 @@ Bo Kaspers Orkester - Hund (2006-09-20)
 <li data-cover="http://coverartarchive.org/release/e6d7653a-288a-48fd-a404-3f86cbaf67d7/28537486031-500.jpg" data-tags="indie electronic, svenskt, scandinavian, svenskprov, foreign rock, labrador:listened" role="button">
 [ingenting] - Mycket Väsen För Ingenting (2006-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/89f108c5-104a-4789-9060-4b375ce28f66/15437766864-500.jpg" data-tags="experimental" role="button">
+Svarte Greiner - Knive (2006-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d156114-5ec8-475d-898c-d3d8d3a405dd/6969714672-500.jpg" data-tags="indie, swedish" role="button">
 Boat Club - Caught The Breeze (2007)
+</li>
+<li data-cover="https://img.discogs.com/0zSGN5TVZhdVNs2czIhDo4Ip1UI=/fit-in/337x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1490762-1223634284.jpeg.jpg" data-tags="indie, alternative, americana, scandinavian, spex, glitterhouse" role="button">
+Washington - Astral Sky (2007-03-01)
 </li>
 <li data-cover="https://img.discogs.com/jkqsekvUiEX9gUl_zld0wnlSDz4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-938948-1499683351-5346.jpeg.jpg" data-tags="pop, norwegian, scandinavian" role="button">
 Magnet - The Simple Life (2007-03-26)
@@ -255,8 +246,8 @@ Magnet - The Simple Life (2007-03-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, glam rock, the ark" role="button">
 The Ark - Prayer For The Weekend (2007-04-12)
 </li>
-<li data-cover="https://img.discogs.com/tJGMqIxNxnhloum4lYPfINf0Psg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709880-1457801507-2650.jpeg.jpg" data-tags="indie rock, swedish" role="button">
-Mando Diao - Never Seen The Light Of Day (2007-10-24)
+<li data-cover="https://img.discogs.com/Rk2v6RVGipcDAQ4yoq4cPm3xsJU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178815-1381113698-6845.jpeg.jpg" data-tags="jazz, scandinavian, gammarec, freepurp1e" role="button">
+Food - Molecular Gastronomy (2007-11-12)
 </li>
 <li data-cover="https://img.discogs.com/PLTUP3KWeXE38bMyTQTlqf9YXaI=/fit-in/402x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1274754-1205604534.jpeg.jpg" data-tags="scandinavian" role="button">
 Hjaltalín - Sleepdrunk Seasons (2007-12)
@@ -306,14 +297,23 @@ Ginger Ninja - Wicked Map (2010-01-25)
 <li data-cover="https://img.discogs.com/iBtbv7FTp_kdU4IlYsCCUY-8vac=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2498942-1461682724-9478.jpeg.jpg" data-tags="rock, punk" role="button">
 Disco Ensemble - The Island Of Disco Ensemble (2010-05-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/110e2d56-75a4-43be-ab0a-074019f4ab0a/25642122464-500.jpg" data-tags="heavy metal" role="button">
+Grand Magus - Hammer Of The North (2010-06-13)
+</li>
 <li data-cover="https://img.discogs.com/DubFPCJwQPM2OIEUu84L2PIA2-Y=/fit-in/492x752/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927742-1350604184-6658.jpeg.jpg" data-tags="swedish, rock" role="button">
 Kent - En plats i solen (2010-06-30)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
+<li data-cover="https://img.discogs.com/5a9dV-Begh9DcQQk2D32XnvjRtM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5308756-1390173232-1339.jpeg.jpg" data-tags="pop" role="button">
+Roxette - Greatest Hits (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9de7172-8bee-4bd2-a978-1711770ea2cb/13630739784-500.jpg" data-tags="folk metal, progressive metal" role="button">
 Týr - The Lay of Thrym (2011-05-27)
+</li>
+<li data-cover="https://img.discogs.com/DdzvevyRlQ2dEqlo5j2WevrszIw=/fit-in/359x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3356343-1327154103.png.jpg" data-tags="indie pop" role="button">
+Hanne Hukkelberg - Featherbrain (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/737602b3-837f-4e30-8f61-9ba4584bc7e4/5252944434-500.jpg" data-tags="folk metal" role="button">
 Týr - Valkyrja (2013-09-13)

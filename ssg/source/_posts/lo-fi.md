@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:34:01.422Z
+date: 2021-04-11T12:33:18.287Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -57,6 +57,9 @@ Guided by Voices - Alien Lanes (1995-04-04)
 <li data-cover="https://img.discogs.com/nCKATUIQsI9NnkhyyivScw__00Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3226535-1321307308.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Pavement - Wowee Zowee (1995-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
+Cat Power - Myra Lee (1996-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
 </li>
@@ -68,9 +71,6 @@ Blur - Blur (1997-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/62def2bf-bb1c-4164-9b45-a08084845fcb/28727936263-500.jpg" data-tags="indie pop, twee pop, lo-fi, neo-psychedelia" role="button">
-of Montreal - Cherry Peel (1997-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eac7bfa-5248-4d9c-9114-87d97d7fea31/27142893724-500.jpg" data-tags="indie, indie rock" role="button">
 Built to Spill - Keep It Like a Secret (1998)
@@ -141,6 +141,9 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="https://img.discogs.com/8iYEQcyrAHvZjq1FcLRGn2y7urc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1575143-1249316875.jpeg.jpg" data-tags="dream pop" role="button">
 Beach House - Devotion (2007-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
+Have a Nice Life - Deathconsciousness (2008-02-21)
+</li>
 <li data-cover="https://img.discogs.com/SqSZu0EYpoWkG5ZZ2WxtzUCPi_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466403-1221855839.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - Midnight Boom (2008-03-10)
 </li>
@@ -152,9 +155,6 @@ Little Joy - Little Joy (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)
-</li>
-<li data-cover="https://img.discogs.com/61-X4PAgsIvCrrP8ibO7DU1lYFw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15977659-1601239800-4826.jpeg.jpg" data-tags="2009 albums" role="button">
-Woods - Songs of Shame (2009-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -182,9 +182,6 @@ Real Estate - Real Estate (2009-11-17)
 </li>
 <li data-cover="https://img.discogs.com/w9cd3UpEjo7qVNa25W6pqdgEWns=/fit-in/315x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2171816-1268222661.jpeg.jpg" data-tags="experimental" role="button">
 Gonjasufi - A Sufi and a Killer (2010-03-08)
-</li>
-<li data-cover="https://img.discogs.com/effQFt9V8WfguC24ZL9B_NLx3bo=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2172968-1267952137.jpeg.jpg" data-tags="indie rock, punk rock" role="button">
-Titus Andronicus - The Monitor (2010-03-08)
 </li>
 <li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
 Dum Dum Girls - I Will Be (2010-03-29)
@@ -270,6 +267,9 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">
 The Antlers - Undersea (2012-07-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/2559fbc2-0b36-48aa-a2fd-1b36eb71e966/8293463939-500.jpg" data-tags="lo-fi" role="button">
+Teen Suicide - i will be my own hell because there is a devil inside my body (2012-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
 Alex G - TRICK (2012-11-06)
 </li>
@@ -291,9 +291,6 @@ Wavves - Afraid Of Heights (2013-03-26)
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/877221c2-a4fe-4c34-b89f-8d43adb31d80/3707477205-500.jpg" data-tags="indie, rock, indie rock, lo-fi, garage rock, psychedelic rock, san francisco, 10s, 2013 releases, castle face, rel-mnth:2013:april, got this one on vinyl, wfmu heavily played records" role="button">
-Thee Oh Sees - Floating Coffin (2013-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/6ee343b4-9e9a-4c89-90b3-6fc6d17b45b2/14519207435-500.jpg" data-tags="indie, indie pop, lo-fi, secretly canadian" role="button">
 Cayucas - Bigfoot (2013-04-26)
 </li>
@@ -305,6 +302,9 @@ Washed Out - Paracosm (2013-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/e421663b-0682-4c9d-bfac-9e4e21d38813/7906285037-500.jpg" data-tags="indie, lo-fi, seventies, need to check out, dental surf combat" role="button">
+Happy Birthday - Happy Birthday (2014)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)
