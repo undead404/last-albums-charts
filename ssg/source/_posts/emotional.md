@@ -1,10 +1,9 @@
 ---
-date: 2021-04-11T03:36:01.419Z
+date: 2021-04-11T18:25:01.427Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Brand New - The Devil and God Are Raging Inside Me (2006-11-20)](http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg "Brand New - The Devil and God Are Raging Inside Me (2006-11-20)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9/21176995158-500.jpg" data-tags="90s" role="button">Sophie B. Hawkins - Tongues and Tails (1992-04-07)</li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">Robbie Williams - Life Thru a Lens (1997-09-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
 <li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)</li>
@@ -13,6 +12,7 @@ title: "emotional: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">Boys Night Out - Make Yourself Sick (2003-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">Xiu Xiu - Fabulous Muscles (2004-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
+<li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">Glasvegas - Glasvegas (2008-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">Lykke Li - Wounded Rhymes (2011-02-11)</li>
 </ol>
 List of 100 - under the cut.
@@ -39,6 +39,9 @@ Brand X - Unorthodox Behaviour (1976-06-18)
 <li data-cover="https://img.discogs.com/0yrEiyDsOslpS69MvvW1tG-RK5I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409930-1506580136-9788.jpeg.jpg" data-tags="soft rock, progressive rock, rockstar, wright is never wrong" role="button">
 Richard Wright - Wet Dream (1978-11-15)
 </li>
+<li data-cover="https://img.discogs.com/AB_zVj5AEVQrr7r7leNiXFkSACI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1439499-1336332743.jpeg.jpg" data-tags="ecm" role="button">
+Steve Tibbetts - Safe Journey (1984)
+</li>
 <li data-cover="https://img.discogs.com/Xo8QfqoStq0IfuqF7VeQ-iKpmm0=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-666440-1148231790.jpeg.jpg" data-tags="80s" role="button">
 Cock Robin - Cock Robin (1985)
 </li>
@@ -47,9 +50,6 @@ Roger Eno - Voices (1985)
 </li>
 <li data-cover="https://img.discogs.com/SytFAU-eJiMzdDvotKNtpwPOG28=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4239244-1359406982-8385.jpeg.jpg" data-tags="jazz, instrumental, blues, bass, emotional, cool jazz, smart, saxophon, charles mingus, modernjazz, mac jazz 100, jazzfanatics, eyeneed jazz-playlist, master bass, bassmania, c mingus" role="button">
 Charles Mingus - Mysterious Blues (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9/21176995158-500.jpg" data-tags="90s" role="button">
-Sophie B. Hawkins - Tongues and Tails (1992-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a938099b-8e26-4ad1-9283-16dbd760dcea/12516372313-500.jpg" data-tags="ecm" role="button">
 Eberhard Weber - Pendulum (1993)
@@ -80,9 +80,6 @@ Lycia - Estrella (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0efb51b9-b587-4cc2-ae11-fda10fd157f8/2772677034-500.jpg" data-tags="indie, lo-fi" role="button">
 Bright Eyes - A Collection of Songs Written and Recorded 1995-1997 (1998-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/922a4808-890b-4313-8211-874f36c7f45b/6677759219-500.jpg" data-tags="male, pop, rock, country, easy listening, soft rock, 90s, brazil, portuguese, mellow, soft, emotional, brazilian, male vocalists, country rock, sertanejo, leonardo" role="button">
-Leandro & Leonardo - Um Sonhador (1998-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c34f41f2-080b-4613-9f38-69a0f57f154b/13096884265-500.jpg" data-tags="rock, alternative rock, emo, soft rock, emotional, purchased 09, rockadd, damien cripps band" role="button">
 Dishwalla - And You Think You Know What Life's About (1998-08-11)
@@ -123,6 +120,9 @@ Aesop Rock - Float (2000-08-29)
 <li data-cover="https://img.discogs.com/-25gtckTo9rBxnAorcBHfU86hjA=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1676225-1457301363-7658.jpeg.jpg" data-tags="chillout, ambient" role="button">
 Bliss - Afterlife (2001)
 </li>
+<li data-cover="https://img.discogs.com/n1fZ_ekCNHDdPwgacb5ckCk2-Ns=/fit-in/597x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369239-1332153359.jpeg.jpg" data-tags="jazz, instrumental, double bass, emotional, smart, sunset, orgasmic, like a child" role="button">
+Charlie Haden & Egberto Gismonti - In Montreal (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/3590a73b-bcff-3b18-84a3-fb7ac9fbd1aa/14175880236-500.jpg" data-tags="progressive rock, porcupine tree" role="button">
 Porcupine Tree - Recordings (2001-05-21)
 </li>
@@ -138,9 +138,6 @@ Lampshade - Because Trees Can Fly (2003)
 <li data-cover="https://img.discogs.com/Tsy-efgTyeILKXqLIAQzXwIMOIQ=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15954053-1600848177-2663.jpeg.jpg" data-tags="female vocalists, doom metal, atmospheric, emotional" role="button">
 Lethian Dreams - Mournful Whispers (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9a082f0-6358-402e-89c5-379af2060a83/3031084886-500.jpg" data-tags="robbie williams, pop" role="button">
-Robbie Williams - The Love Songs (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
 </li>
@@ -155,6 +152,9 @@ Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
+</li>
+<li data-cover="https://img.discogs.com/8kofULiw0MzHz9ixX-yA2ER6EmY=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-214701-1236718923.jpeg.jpg" data-tags="ambient, idm, industrial" role="button">
+Gridlock - Formless (2003-10)
 </li>
 <li data-cover="https://img.discogs.com/-BJ3W5XyrgPaKFjreVaLkWj-yB4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467132-1533497416-9429.jpeg.jpg" data-tags="indie, alternative, dark, alternative rock" role="button">
 Robbie Williams - Sexed Up (2003-11-03)
@@ -192,9 +192,6 @@ Robin Trower - Another Days Blues (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/2839a139-42df-4c0e-85fd-589a70069cfd/26628346524-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Bic Runga - Birds (2005-11-28)
 </li>
-<li data-cover="https://img.discogs.com/C1RXEjrLo8JzDRTGARV9fgIiRNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7011244-1431705192-4614.jpeg.jpg" data-tags="indie, alternative, acoustic" role="button">
-Robbie Williams - Advertising Space (2005-12-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/d8ea618e-b7f2-4c6c-a2f6-160bf2338d57/11939232825-500.jpg" data-tags="ambient" role="button">
 Between Interval - Autumn Continent (2006)
 </li>
@@ -206,9 +203,6 @@ Android Lust - Devour, Rise, and Take Flight (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/72e0da1a-4d97-454e-8996-9e21ccd830df/6268951849-500.jpg" data-tags="jazz, andrew hill" role="button">
 Andrew Hill - Time Lines (2006-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dde8415-7145-470f-9a3d-21382ef4bf2f/4786479859-500.jpg" data-tags="pop punk" role="button">
-Hawk Nelson - Smile, It's The End Of The World (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e55179a-ef95-4ba5-8e7b-f77f8cfd21dd/9538277786-500.jpg" data-tags="ambient, dream pop" role="button">
 Robin Guthrie - Continental (2006-05-15)
@@ -234,11 +228,17 @@ Ulrich Schnauss - Goodbye (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/f266c388-6016-4963-8c0f-26d3354f09a1/15148699848-500.jpg" data-tags="math rock, experimental, emotional, irresistible, gammarec, freepurp1e" role="button">
 Zs - Arms (2007-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d869b5c-4b5b-42a6-81df-24bff7a86897/6101315907-500.jpg" data-tags="instrumental, post-rock, emotional, free albums" role="button">
+Coma Stereo - Binary Endings (2007-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c76df01a-608b-4c4e-bc83-72c9adce1cf6/7275760181-500.jpg" data-tags="soundtrack" role="button">
 James Newton Howard - I Am Legend (2008-01-15)
+</li>
+<li data-cover="https://img.discogs.com/8X2pdbVu2YlOlbt-cdY24xkLHFw=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1088768-1200315467.jpeg.jpg" data-tags="ambient" role="button">
+Autistici - Volume Objects (2008-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
@@ -282,11 +282,11 @@ Plastic Tree - ドナドナ (2009-12-23)
 <li data-cover="http://coverartarchive.org/release/04d7a489-5567-45e7-aa12-47816715a9ae/22818132226-500.jpg" data-tags="electronica, vocal, alternative, post-rock, glitch, emotional, leeds, lms" role="button">
 Worriedaboutsatan - Heart Monitor (2010-01-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7e8f73f-e4b7-43f4-a0a9-56ecb4b5de8e/8005260643-500.jpg" data-tags="alternative, indie pop, indie" role="button">
+Lana Del Rey - Lana Del Ray a.k.a. Lizzy Grant (2010-01-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7316e03-3752-47a3-983b-1c14deb80c78/2500304912-500.jpg" data-tags="darkwave" role="button">
 Íon - Immaculada (2010-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c2be459-b2f6-4e03-9b97-e89b044ff176/7531028055-500.jpg" data-tags="sad" role="button">
-Christina Aguilera - You Lost Me (2010-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6cfd873-367a-4ec4-ad7f-fea0b0568d84/10020528182-500.jpg" data-tags="electronica, emotional, epic instrumental" role="button">
 Mark Preston - Nature & Design (2010-09-01)

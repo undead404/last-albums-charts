@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:03:01.609Z
+date: 2021-04-11T17:47:01.507Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -41,6 +41,9 @@ The Clash - The Clash (1977-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/a4898dcc-1e74-4c2b-b5ce-ba8ace4ab45b/6889056955-500.jpg" data-tags="punk, punk rock" role="button">
+Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols (1977-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d872607-3392-3f15-9f42-24fc03722288/2571021191-500.jpg" data-tags="punk rock, punk" role="button">
 Ramones - Rocket to Russia (1977-11-04)
@@ -234,14 +237,14 @@ Simple Plan - Still Not Getting Any (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/093e6d8b-bfc0-4ea3-bcd1-9a3f30d5cdc1/3331685844-500.jpg" data-tags="punk" role="button">
 NOFX - The Greatest Songs Ever Written (By Us) (2004-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
+Goldfinger - The Best Of Goldfinger (2005-02-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
 Green Day - Holiday (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3614a7b6-5158-4b9a-bf18-b03bce0ca8f4/8815559499-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Greatest Hits (2005-06-20)
@@ -293,9 +296,6 @@ Sum 41 - Underclass Hero (2007-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
-</li>
-<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
-The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
 <li data-cover="https://img.discogs.com/SyB2V5tRP58VnZy7Jv88JpwbCpQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677269-1583376530-7454.jpeg.jpg" data-tags="indie rock" role="button">
 Cage the Elephant - Cage the Elephant (2008-06-23)

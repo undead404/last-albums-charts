@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T02:54:01.426Z
+date: 2021-04-11T18:02:01.460Z
 title: "deutsch: 100 albums you must listen to before you die"
 ---
 ![Clueso - So sehr dabei (2008-05-30)](http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg "Clueso - So sehr dabei (2008-05-30)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9487dab6-a5df-4fce-b37e-b5d811eebafd/3366701687-500.jpg" data-tags="deutsch" role="button">Kettcar - Du Und Wieviel Von Deinen Freunden (2002-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/014ed961-6515-371e-80c9-e4ce89e08c0e/4819589657-500.jpg" data-tags="german" role="button">Wir sind Helden - Die Reklamation (2003-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/4ef75fd8-9b02-4bfc-bacd-002846dc6f63/5555494044-500.jpg" data-tags="deutsch" role="button">Kettcar - Von Spatzen und Tauben, Dächern und Händen (2005-03-07)</li>
 <li data-cover="https://img.discogs.com/rLFbd4wzHfqWV4t0KBl6bD56rUQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927793-1242079929.jpeg.jpg" data-tags="german, pop" role="button">Wir sind Helden - Von hier an blind (2005-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/55ed3bfc-d023-45b7-9905-c4a3ff6e2e2a/3376905685-500.jpg" data-tags="german, deutsch, hamburger schule" role="button">Tomte - Buchstaben über der Stadt (2006-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/d17bfe8d-b962-4fa5-bf71-efbe76a201ce/4817979360-500.jpg" data-tags="indie, deutsch, german, hamburger schule" role="button">Tocotronic - Kapitulation (2007-07-06)</li>
-<li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">Culcha Candela - Culcha Candela (2007-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/6a81122a-d183-4008-ad9f-fcc8dd2b31b2/2140773824-500.jpg" data-tags="punk, deutschrock, punk rock, deutsch" role="button">Die Ärzte - Jazz Ist Anders (2007-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg" data-tags="deutsch" role="button">Clueso - So sehr dabei (2008-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">Peter Fox - Stadtaffe (2008-09-26)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e38790fe-0b99-45ac-b540-9b7cf2742d94/19025705025-500.jpg" data-tags="german" role="button">
 Nena - 99 Luftballons (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/2176bfcd-867a-4168-942d-c718507d6abb/16452956288-500.jpg" data-tags="german, herbert groenemeyer - 4630 bochum" role="button">
-Herbert Grönemeyer - 4630 Bochum (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e37ab5c-dbac-439e-84a0-a3ae9d3c3a4d/24638146742-500.jpg" data-tags="punk rock, punk, rock, deutsch, german" role="button">
 Die Ärzte - Ab 18 (1987-10-21)
@@ -75,9 +72,6 @@ Kante - Zweilicht (2001-01-08)
 <li data-cover="https://img.discogs.com/Z3uHmw4TYJHDabV1jJBBstOhvK4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-362701-1389771905-9340.jpeg.jpg" data-tags="hip-hop, german, german hip hop" role="button">
 Samy Deluxe - Samy Deluxe (2001-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">
-Seeed - New Dubby Conquerors (2001-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/2748414e-5f9d-470b-b748-9f98e6f51581/22141635600-500.jpg" data-tags="deutsch, comedy, german, a capella" role="button">
 Wise Guys - Ganz weit vorne (2001-08-27)
 </li>
@@ -113,6 +107,9 @@ Blumentopf - Gern geschehen (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6f8f4d8-851c-4f6f-b611-71fa97f9dd5c/14341492619-500.jpg" data-tags="punk rock" role="button">
 Die Ärzte - Geräusch (2003-09-29)
+</li>
+<li data-cover="https://img.discogs.com/Z8fZAd0RvvrRuyWLNR8nblD_efY=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13364776-1559511721-3658.jpeg.jpg" data-tags="industrial metal" role="button">
+Oomph! - Wahrheit Oder Pflicht (2004-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/26a2c975-e5ef-4a8c-b3de-15eccea73d56/21500980534-500.jpg" data-tags="deutsch, rosenstolz" role="button">
 Rosenstolz - Herz (2004-03-22)
@@ -186,6 +183,9 @@ Rosenstolz - Das grosse Leben (2006-03-03)
 <li data-cover="http://coverartarchive.org/release/527a5356-b45f-4665-bbe0-b481ebfcdd49/15859334735-500.jpg" data-tags="industrial metal" role="button">
 Oomph! - GlaubeLiebeTod (2006-03-24)
 </li>
+<li data-cover="https://img.discogs.com/mzKHMuQs9wMPFsFzFgy8r---19w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-112127-1227479517.jpeg.jpg" data-tags="pop, deutsch, mia" role="button">
+MIA. - Tanz der Moleküle (2006-04-19)
+</li>
 <li data-cover="https://img.discogs.com/xZoIktyNs8bpBHGjmcbPJkx0r5o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726919-1327261608.jpeg.jpg" data-tags="deutsch" role="button">
 PeterLicht - Lieder vom Ende des Kapitalismus (2006-04-28)
 </li>
@@ -237,9 +237,6 @@ Sportfreunde Stiller - La Bum (2007-08-03)
 <li data-cover="http://coverartarchive.org/release/ac753d74-5194-4d36-8b78-0b13d7c9d712/3326549443-500.jpg" data-tags="rock" role="button">
 Bela B. - Gitarre runter (2007-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
-Culcha Candela - Culcha Candela (2007-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a81122a-d183-4008-ad9f-fcc8dd2b31b2/2140773824-500.jpg" data-tags="punk, deutschrock, punk rock, deutsch" role="button">
 Die Ärzte - Jazz Ist Anders (2007-11-02)
 </li>
@@ -267,14 +264,14 @@ PeterLicht - Melancholie und Gesellschaft (2008-09-05)
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
 Peter Fox - Stadtaffe (2008-09-26)
 </li>
-<li data-cover="https://img.discogs.com/chbQCkNL9CHtkgJMePT9IfkzZZI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2010386-1258345609.jpeg.jpg" data-tags="german, pop" role="button">
-Cassandra Steen - Darum leben wir (2009-01-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/49ec31d8-d05f-4545-826f-2e5b00059b2e/18304648114-500.jpg" data-tags="germany, deutsch, german, deutschland, electropunk, female fronted" role="button">
 Jennifer Rostock - Der Film (2009-07-10)
 </li>
 <li data-cover="https://img.discogs.com/ktu61bNPRnFHBkwTL_PR4xcJjk4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3432082-1330172886.jpeg.jpg" data-tags="funk, deutsch" role="button">
 Jan Delay - Wir Kinder vom Bahnhof Soul (2009-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/c01c257f-a2bd-499f-8768-c0f7a786bda6/6279076473-500.jpg" data-tags="singer-songwriter" role="button">
+Max Herre - Ein Geschenkter Tag (2009-09-18)
 </li>
 <li data-cover="https://img.discogs.com/fPRaFPdnrNcEuhIZkSVlDnlhiEc=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442497-1451244676-2555.jpeg.jpg" data-tags="rock, humanoid, german, tokio hotel" role="button">
 Tokio Hotel - Humanoid (2009-10-06)
@@ -314,6 +311,9 @@ Jennifer Rostock - Mit Haut und Haar (2011-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1880c233-b30c-4a5a-9996-3475c0cf8967/3323225611-500.jpg" data-tags="indie, rock, singer-songwriter, deutsch, hamburg, german" role="button">
 Olli Schulz - SOS - Save Olli Schulz (2012-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/d583d680-82fc-4466-8ae4-f65751106be6/4476504719-500.jpg" data-tags="indie, rock, alternative, deutsch, deutschrock, german" role="button">
+Sportfreunde Stiller - New York, Rio, Rosenheim (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b31b37e-fa76-456d-8eec-900a438ef309/10134774591-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Marteria - Zum Glück in die Zukunft II (2014-01-31)

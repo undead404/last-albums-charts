@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:11:01.414Z
+date: 2021-04-11T18:22:01.411Z
 title: "songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/3fdd7c32-2da8-480c-8b70-1c628a7fd009/1619702784-500.jpg" data-tags="soul" role="button">
-Michael Jackson - Forever, Michael (1975)
 </li>
 <li data-cover="https://img.discogs.com/kapYXLY3xbb0aI-h4DZO9wD27dc=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5672086-1399538504-9683.jpeg.jpg" data-tags="songwriter, george martin, beaut" role="button">
 Jimmy Webb - El Mirage (1977-05)
@@ -53,9 +50,6 @@ Roger McGuinn - Back From Rio (1991)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
 Johnny Cash - Get Rhythm (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2ca0f9d-e2cb-4cb2-923a-feabce21156f/17246839088-500.jpg" data-tags="dream pop" role="button">
-Kitchens of Distinction - The Death of Cool (1992-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7e5bc8a-aa05-45b9-a957-399611e13d37/3185127559-500.jpg" data-tags="rock, french rock" role="button">
 Jean-Louis Aubert - H (1992-10)
@@ -114,6 +108,9 @@ Mónica Naranjo - Minage (2000-05-23)
 <li data-cover="https://img.discogs.com/csKQhqslGxRvhZdX6BTGSjzfuNM=/fit-in/299x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1962531-1255278741.jpeg.jpg" data-tags="alternative rock, singer-songwriter, songwriter, acoustic guitar, male singer, strings and guitars" role="button">
 Birth - Gotten Bold (2000-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/a87c13c6-a4a4-4f7b-a522-f177100ac571/6404274199-500.jpg" data-tags="progressive rock, avant-garde, art rock, lyrical electro rock, progressive rock underground full tracks" role="button">
+Mario Strack - The Songs (2000-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/0adf4299-fc93-327f-8bc1-2c6d65bdc507/3113582104-500.jpg" data-tags="alternative, 00s, rock" role="button">
 R.E.M. - Reveal (2001-05-01)
 </li>
@@ -134,9 +131,6 @@ Alina Lieske - Und die Zeit steht still (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/30a98851-b22e-4a08-a55d-1121a984605e/9313467961-500.jpg" data-tags="indie, folk, acoustic" role="button">
 Jeffrey Lewis - It's the Ones Who've Cracked That the Light Shines Through (2003-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/9604ac19-3f62-4c2d-9c0e-6239fcc98556/26309850926-500.jpg" data-tags="latin" role="button">
-Gloria Estefan - Unwrapped (2003-09-22)
 </li>
 <li data-cover="https://img.discogs.com/Aw6jGBRGiClMUr4q8_3lGs2S0Ro=/fit-in/480x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8573537-1464317671-3385.jpeg.jpg" data-tags="indie, canada, calm, acoustic, canadian, singer, guitar, songwriter, winter, loop, cold, rain, lonely, vancouver, independent, arctic, layered, indie-canada, i wanna hear it" role="button">
 Arctic - Music for Rain (2003-10-01)
@@ -168,9 +162,6 @@ Ben Johnson - Wait (2005-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="german, indie, rock, singer-songwriter, deutsch, deutschrock, pop, singer, rockstars, rockmusik, micha maat" role="button">
 Mitsnakker - die art sich zu täuschen (2005-07-27)
 </li>
-<li data-cover="https://img.discogs.com/HvUWjmSOc1F95WZzqrTFHKfgqy4=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784361-1330358908.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
-Laura Veirs - Year of Meteors (2005-08-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Boduf Songs - Boduf Songs (2005-10-03)
 </li>
@@ -198,6 +189,12 @@ Lambchop - Damaged (2006-08-11)
 <li data-cover="http://coverartarchive.org/release/d0a2f02d-bb3d-4860-951b-69902021e0a6/20852519057-500.jpg" data-tags="pop, songwriter" role="button">
 Hanne Hukkelberg - Rykestrasse 68 (2006-09-04)
 </li>
+<li data-cover="https://img.discogs.com/2dJO22QFer5_YFuH8lPQUBrwRG0=/fit-in/417x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3157588-1318392476.jpeg.jpg" data-tags="experimental, lo-fi, hamsterloco, j-pop, catalan, creative commons, japanese, outsider" role="button">
+Ocaixi - Jove Carn Japonesa (2006-09-24)
+</li>
+<li data-cover="https://img.discogs.com/gmk2SsqY1vESMUxhCPXM7fmSU9Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494274-1223917384.jpeg.jpg" data-tags="indie, jazz, pop, alternative, new york, singer-songwriter, piano, acoustic, singer, songwriter, brooklyn, emotional, angela, piano-based, lyrically driven, ortiz" role="button">
+Angela Ortiz - All About You (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/c59b82cc-ef48-4c7b-8dbb-f3ae77a91bde/23388424520-500.jpg" data-tags="jazz, soul, songwriter" role="button">
 José Feliciano - Light My Fire: The Very Best Of José Feliciano (2007)
 </li>
@@ -212,6 +209,9 @@ Cubworld - Step Lightly: Create Out Loud (2007-06-21)
 </li>
 <li data-cover="https://img.discogs.com/Wq5CmmJTvdFJFRZyR9wVwfbyuEQ=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2077383-1262695007.jpeg.jpg" data-tags="acoustic" role="button">
 Ben Harper & The Innocent Criminals - Lifeline (2007-08-10)
+</li>
+<li data-cover="https://img.discogs.com/2K0Q3uUfDqC4_vp2w3VZ52vB5Ho=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12011397-1585318000-3010.jpeg.jpg" data-tags="country, folk, songwriter, female vocalist" role="button">
+Kyrie Kristmanson - The Kyrie K Groove (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
 Lizz Wright - The Orchard (2008-02-26)

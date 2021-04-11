@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:19:06.988Z
+date: 2021-04-11T18:05:07.094Z
 title: "hiphop: 100 albums you must listen to before you die"
 ---
 ![Akon - Konvicted (2006-11-14)](http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg "Akon - Konvicted (2006-11-14)")
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae103b0a-b932-4009-acb6-388db1cf890b/17852073991-500.jpg" data-tags="rap, hip-hop" role="button">
-Vanilla Ice - To The Extreme (1990-09-04)
+<li data-cover="https://img.discogs.com/dTbHZUwAyW5fEx0Z-90SwlQqWxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-453085-1568208056-6843.jpeg.jpg" data-tags="hip-hop, hip hop, east coast rap" role="button">
+Eric B. & Rakim - Let The Rhythm Hit 'Em (1990-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccd1cbc9-5398-4e5d-8846-694fc3acab4f/1402677391-500.jpg" data-tags="french hip-hop, french" role="button">
 MC Solaar - Qui Sème le Vent Récolte le Tempo (1991)
@@ -42,23 +42,20 @@ Mobb Deep - The Infamous (1995-04-18)
 <li data-cover="http://coverartarchive.org/release/65d6ad44-109b-4c33-a9d2-2fd6e86b7223/2139954499-500.jpg" data-tags="german, hip hop" role="button">
 Die Fantastischen Vier - Lauschgift (1995-11-11)
 </li>
+<li data-cover="https://img.discogs.com/l3S40wUUnsOyG_ka9tmC9m8OmIk=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221339-1371421141-9632.jpeg.jpg" data-tags="dirty south, 90s" role="button">
+Goodie Mob - Soul Food (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b79edcef-bc1a-471f-9468-d050459c4d3a/15273239285-500.jpg" data-tags="hip hop" role="button">
 Lord Finesse - The Awakening (1996-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/a28ae1a5-577f-3324-95bf-e8cdb1595e3e/23815611613-500.jpg" data-tags="hip-hop, 90s, hip hop" role="button">
-A Tribe Called Quest - Beats, Rhymes and Life (1996-07-29)
-</li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">
 Xzibit - At The Speed Of Life (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
-The Notorious B.I.G. - Life After Death (1997-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
@@ -102,6 +99,9 @@ Common - Like Water for Chocolate (2000-03-28)
 <li data-cover="http://coverartarchive.org/release/93f78313-2ef8-37f4-a144-4c441deff078/22236753612-500.jpg" data-tags="hiphop" role="button">
 Big Punisher - Yeeeah Baby (2000-04-11)
 </li>
+<li data-cover="https://img.discogs.com/-FTLXlXt_wEClCPah1OnIfjAmQE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519605-1264963269.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
+Cypress Hill - Skull & Bones (2000-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c2c5aed-e1cf-3dc7-82c8-7936611d73f7/15200268076-500.jpg" data-tags="hiphop" role="button">
 Zion I - Mind over Matter (2000-05-30)
 </li>
@@ -114,14 +114,8 @@ Capone-N-Noreaga - The Reunion (2000-11-20)
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b9b2a46-264c-4c1c-a0d2-4f5d0377c1f4/14799800847-500.jpg" data-tags="hip hop, hiphop, fettttttttttttttt" role="button">
-Turntablerocker - Classic (2001-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/b07c61eb-ec65-46f5-be66-c744486c36b7/14907416395-500.jpg" data-tags="rap, hiphop, 90s rap, endangered species" role="button">
 Big Punisher - Endangered Species (2001-03-27)
-</li>
-<li data-cover="https://img.discogs.com/4pkmu5MaE9cjJMAnkH3lWXhxAFs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-107360-1411090269-7211.jpeg.jpg" data-tags="hip hop, rap, turntablism, underground hip-hop, hiphop, east coast, jazz hop, independent hip-hop, black star, in queue no tracks, del bronx" role="button">
-Hi-Tek - Hi-Teknology (2001-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
 Dilated Peoples - Expansion Team (2001-10-11)
@@ -135,17 +129,14 @@ Nas - Stillmatic (2001-12-08)
 <li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
 Clipse - Lord Willin' (2002-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/8cce9899-c085-4ca4-b44b-dd0c0e48df40/5932520706-500.jpg" data-tags="hiphop, jazz hop, independent hip-hop, interested, copywrite- high exhaulted" role="button">
-Copywrite - The High Exhaulted (2002-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/d79ef353-3fd8-4512-9ed2-8547ca9b6f3c/22158679444-500.jpg" data-tags="hip hop, eve" role="button">
 Eve - Eve-Olution (2002-08-22)
 </li>
 <li data-cover="https://img.discogs.com/Sc8h4hNvvfIveS0Cyd3A7gKBmqY=/fit-in/466x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463334-1135168849.jpeg.jpg" data-tags="crunk" role="button">
 Lil Jon & The East Side Boyz - Kings Of Crunk (2002-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/8c10b3ec-a0ff-4819-a6e9-9287c48e5a85/15542855333-500.jpg" data-tags="dancehall" role="button">
-Sean Paul - Dutty Rock (2002-11-12)
+<li data-cover="https://img.discogs.com/u-J6yQ1hPzUkjzPGCskIw481aJo=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5514300-1434540950-4161.jpeg.jpg" data-tags="hip-hop" role="button">
+Looptroop - The Struggle Continues (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - Quality (2002-11-18)
@@ -162,8 +153,17 @@ Cam'ron - Hey Ma (2003-01)
 <li data-cover="http://coverartarchive.org/release/723dea4c-3a6d-4d21-9d2c-548eb5dc54d7/17201983621-500.jpg" data-tags="hip-hop" role="button">
 Murs - ....The End Of The Beginning (2003-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/95d428d2-ea6f-4b47-ab4c-8c8899f8c977/16550895208-500.jpg" data-tags="hip hop" role="button">
+Don Johnson Big Band - Breaking Daylight (2003-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d509ac03-18cf-45b8-94ab-ab8617fb9f99/3349734538-500.jpg" data-tags="german hiphop, hip-hop, hip hop, german" role="button">
+Beginner - Blast Action Heroes (2003-09-01)
+</li>
 <li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">
 G-Unit - Beg For Mercy (2003-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/64da7eeb-d86d-3f3f-8a11-0ea6d1f48e25/24416039746-500.jpg" data-tags="french, rap, hiphop, french hip-hop, hiphopfrlab" role="button">
+MC Solaar - Mach 6 (2003-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/569ab96e-a3c7-44b7-9a89-5221abb75d43/18690093983-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Skinnyman - Council Estate of Mind (2004)
@@ -192,6 +192,9 @@ Talib Kweli - The Beautiful Struggle (2004-09-27)
 <li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Mos Def - The New Danger (2004-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/f0fef30c-753e-4468-9e90-fe94ca046d64/18633416035-500.jpg" data-tags="hiphop" role="button">
+Q-Unique - Vengeance is mine (2004-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4bb9e32-c5f3-41d8-b734-175987b8996e/15200089926-500.jpg" data-tags="hip-hop" role="button">
 Sage Francis - A Healthy Distrust (2005-02-08)
 </li>
@@ -200,6 +203,9 @@ Kano - Home Sweet Home (2005-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5a43378-bd1f-40fe-bf5e-8a3496ab073b/5738018864-500.jpg" data-tags="hip-hop" role="button">
 Atmosphere - You Can't Imagine How Much Fun We're Having (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c338df2-3294-4b90-88fd-8567d11293b1/22346044809-500.jpg" data-tags="rap, hiphop, sido" role="button">
+Deine Lieblingsrapper - Dein Lieblingsalbum (2005-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3bd3bca-228f-474a-a832-8f4aa63f69b6/12899238421-500.jpg" data-tags="hip-hop, hiphop" role="button">
 Die Fantastischen Vier - Best of 1990-2005 (2005-11-11)
@@ -224,9 +230,6 @@ The Procussions - 5 Sparrows for 2 Cents (2006-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
-</li>
-<li data-cover="https://img.discogs.com/gOBJ93e544-nJO5k3B0Eiqa_LG0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-766233-1378150799-8955.jpeg.jpg" data-tags="hip-hop" role="button">
-Rhymefest - Blue Collar (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
@@ -255,14 +258,17 @@ MIMS - Music Is My Savior (2007-03-27)
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">
 Die Fantastischen Vier - Fornika (2007-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
-Culcha Candela - Culcha Candela (2007-08-31)
+<li data-cover="http://coverartarchive.org/release/b3dd3103-aecf-45f9-a9d4-3d233d9924c9/4802749439-500.jpg" data-tags="grime, hip-hop" role="button">
+Wiley - Playtime Is Over (2007-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/458d070f-9b2e-40e3-8782-bf8fee4bc182/1189981150-500.jpg" data-tags="jazz hop" role="button">
-Hocus Pocus - Place 54 (2007-10-08)
+<li data-cover="https://img.discogs.com/chr0enqrjlaMHje2mXFuQ8GXqIc=/fit-in/579x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299797-1347987889-4469.jpeg.jpg" data-tags="hip-hop, hiphop, japan, qn5 music, extended famm, jazzy hiphop, tonedeff, substantial, the plague, dmv area hip hop" role="button">
+Substantial - Sacrifice (2007-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b9d63d5-f562-41fb-a5ff-fbd88bce1406/28656427305-500.jpg" data-tags="savas" role="button">
 Kool Savas - Tot oder lebendig (2007-11-02)
+</li>
+<li data-cover="https://img.discogs.com/HLaC7oMWARF7BWVvg-uPdqFWQxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1186600-1229617974.jpeg.jpg" data-tags="hip-hop" role="button">
+Madcon - So Dark The Con Of Man (2007-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf12164c-0153-42ab-8b62-df5ab03ddb31/21814774546-500.jpg" data-tags="hip hop, hiphop" role="button">
 Sido - Ich Und Meine Maske (2008-05-30)
@@ -272,9 +278,6 @@ N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
 <li data-cover="https://img.discogs.com/adipumG1eBV2SnHjmo67JHU0TlM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-321429-1097508341.jpg.jpg" data-tags="hiphop" role="button">
 Nappy Roots - The Humdinger (2008-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e9b710a-ffd1-4bb3-9368-23c394847a29/23813447148-500.jpg" data-tags="seattle, hiphop, jazz hop, underground hiphop, independent hip-hop, blue scholars, my favorite hip hop" role="button">
-Common Market - Tobacco Road (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0af017d6-f48f-44d4-9b55-80efd03b58a6/17604249293-500.jpg" data-tags="hip-hop, jazz, swing" role="button">
 Movits! - Äppelknyckarjazz (2008-11-26)
@@ -305,9 +308,6 @@ Hopsin - Raw (2010-11-19)
 </li>
 <li data-cover="https://img.discogs.com/o6SwXLZ6Lq03cQll6aPzAQE0kXw=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705920-1297365038.jpeg.jpg" data-tags="hip hop, experimental" role="button">
 Ghostpoet - Peanut Butter Blues & Melancholy Jam (2011-02-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e014020-ed7e-49d2-bfbb-d7014c94311d/9104755640-500.jpg" data-tags="reggae, deutsch, hiphop, ragga, german, dancehall, raagaeton" role="button">
-Culcha Candela - Flätrate (2011-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/81242780-a696-4a69-bdff-8315ce68d65b/4099647297-500.jpg" data-tags="rap, hiphop, 2010s, venezuela, rap venezolano, 2010-2014" role="button">
 Canserbero - Muerte (2012)

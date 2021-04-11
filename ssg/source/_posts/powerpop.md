@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:06:01.411Z
+date: 2021-04-11T18:06:01.450Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -113,9 +113,6 @@ Bad Cash Quartet - Midnight Prayer (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
 The New Pornographers - Electric Version (2003-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
-The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
 <li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
 Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
@@ -296,6 +293,9 @@ The All-American Rejects - Kids in the Street (2012-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aacd5e2-dfe8-4626-99d8-e5db4f887f30/14954163966-500.jpg" data-tags="electronic, indie, pop, rock, female vocalists, dance, powerpop" role="button">
 Kat Graham - Put Your Graffiti on Me (2012-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/30e8a6f7-7324-4f65-b9cc-d71890e572c8/5587174897-500.jpg" data-tags="pop punk" role="button">
+All Time Low - Don't Panic (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/61fc2dd0-4e07-4855-a8bd-26bf8d52dec2/5291095637-500.jpg" data-tags="punk rock, pop punk" role="button">
 All Time Low - Don't Panic: It's Longer Now! (2012-10-09)

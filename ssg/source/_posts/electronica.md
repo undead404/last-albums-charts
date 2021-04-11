@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:09:01.584Z
+date: 2021-04-11T18:44:01.426Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -33,9 +33,6 @@ Massive Attack - Protection (1994-09-26)
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)
 </li>
@@ -68,6 +65,9 @@ Moby - Play (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
+Amon Tobin - Supermodified (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)

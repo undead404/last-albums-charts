@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:18:06.992Z
+date: 2021-04-11T18:33:12.581Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
 ![A Rocket to the Moon - On Your Side (2009-10-13)](http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg "A Rocket to the Moon - On Your Side (2009-10-13)")
@@ -7,12 +7,12 @@ title: "discoverockult: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">Jack's Mannequin - This Is a Story... (2005)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">Orson - Bright Idea (2006-05-15)</li>
+<li data-cover="http://coverartarchive.org/release/04554003-dbd8-49d0-b265-ae0fd722ec88/4889589228-500.jpg" data-tags="alternative rock, discoverockult" role="button">The Classic Crime - Albatross (2006-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="https://img.discogs.com/CPXmv1BJUTsGE8IerpvK-vZ2zac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125175-1194045109.jpeg.jpg" data-tags="rock, discoverockult, sveta reminds" role="button">Graham Colton - Here Right Now (2007-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
 <li data-cover="http://coverartarchive.org/release/35d6ecf2-2a5d-41fd-9ab9-f5275b4fa5e6/3048236487-500.jpg" data-tags="alternative rock, hard rock, discoverockult" role="button">Adelitas Way - Adelitas Way (2009-07-14)</li>
 <li data-cover="http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg" data-tags="pop punk, 00s, discoverockult, a rocket to the moon" role="button">A Rocket to the Moon - On Your Side (2009-10-13)</li>
-<li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">Say Anything - Say Anything (2009-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/2cb7badd-7ee4-4fce-a1d1-65cecbcbf796/12182742905-500.jpg" data-tags="pop, rock, rawr, discoverockult" role="button">OneRepublic - All The Right Moves (2010-03-10)</li>
 </ol>
 List of 100 - under the cut.
@@ -38,9 +38,6 @@ Gavin DeGraw - Chariot (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
 The Calling - Two (2004-05-24)
@@ -135,9 +132,6 @@ The Summer Obsession - This Is Where You Belong (2006-08-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 My Chemical Romance - Welcome To The Black Parade (2006-09-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vacalists, colbie female pop" role="button">
-Colbie Caillat - Bubbly (2007)
-</li>
 <li data-cover="https://img.discogs.com/JDsAltUIKwyXurgABPb-FcHATlU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10855452-1505417884-3802.jpeg.jpg" data-tags="discoverockult, arte" role="button">
 Tomorrows Bad Seeds - Early Prayers (2007)
 </li>
@@ -207,6 +201,9 @@ The Fashion - The Fashion (2007-12-06)
 <li data-cover="https://img.discogs.com/wgW-Gl9oxI85XxJYPNafglHAyRo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5732353-1401153362-7748.jpeg.jpg" data-tags="rock, alternative rock, 00s, discoverockult" role="button">
 Course Of Nature - Damaged (2008-01-29)
 </li>
+<li data-cover="https://img.discogs.com/R9craWQElixpeN51Vks6BhbeVps=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608228-1312787312.jpeg.jpg" data-tags="alternative, discoverockult" role="button">
+Cage the Elephant - In One Ear (2008-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad0b8bde-c241-4639-98f8-094cfe3745ed/4354600780-500.jpg" data-tags="discoverockult, boyce avenue" role="button">
 Boyce Avenue - All You're Meant to Be (2008-03-11)
 </li>
@@ -252,6 +249,9 @@ Eye Alaska - Yellow & Elephant (2008-07-22)
 <li data-cover="https://img.discogs.com/2ekcBuMG8g0xgx_m-NVExDI31-w=/fit-in/491x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2575678-1386862288-2838.jpeg.jpg" data-tags="the script" role="button">
 The Script - The Man Who Can't Be Moved (2008-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/25f3608a-65a7-4d02-ae08-ae2e65faeb1d/2865751551-500.jpg" data-tags="discoverockult" role="button">
+The Narrative - Just Say Yes (2008-08-26)
+</li>
 <li data-cover="https://img.discogs.com/LBrC5kvGU4kK2HG7Lrl6VH1ZuLE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10287199-1507153135-3768.jpeg.jpg" data-tags="millow" role="button">
 Milow - Ayo Technology (2008-09-16)
 </li>
@@ -269,6 +269,9 @@ Aloha from Hell - No More Days To Waste (2009-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4097f8ef-f0d5-40f3-a5f3-547ea035fe3f/19782733021-500.jpg" data-tags="rock, alternative rock, discoverockult" role="button">
 Green River Ordinance - Out Of My Hands (2009-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/458945e2-465f-481e-8ba3-4f909b4efb9d/24236494761-500.jpg" data-tags="rock, alternative, christian, christian rock, worship, cross2life, praise and worship, discoverockult" role="button">
+Seventh Day Slumber - Take Everything (2009-03-10)
 </li>
 <li data-cover="https://img.discogs.com/0n6Vhm_FkoL9s7wgas-aLNx3CKE=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2815761-1505854231-2515.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 The Dangerous Summer - Reach For The Sun (2009-05-05)
@@ -302,9 +305,6 @@ A Rocket to the Moon - On Your Side (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d8fe07-8da1-4137-b0de-9355405b93ee/12364399886-500.jpg" data-tags="rock, alternative rock, soft rock, purchased 09, discoverockult" role="button">
 Five for Fighting - Slice (2009-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">
-Say Anything - Say Anything (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a1b680-9fa8-4025-b05d-649c2bb8f0c7/20690499516-500.jpg" data-tags="indie rock" role="button">
 The Cinematics - Love And Terror (2009-11-09)

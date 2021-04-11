@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:47:01.416Z
+date: 2021-04-11T18:00:01.501Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -51,6 +51,9 @@ Lacrimosa - Angst (1991)
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/024d27d2-a238-4168-a9a3-87a2b50696d1/4025431846-500.jpg" data-tags="doom metal, metal, gothic metal" role="button">
+Type O Negative - Slow, Deep and Hard (1991-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/0eeec535-48c2-4cca-bf7f-7b8d4371bd8e/12525338901-500.jpg" data-tags="gothic" role="button">
 Umbra Et Imago - Träume, Sex und Tod (1992)
 </li>
@@ -74,6 +77,9 @@ Tiamat - Wildhoney (1994-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/67f8a8be-8314-449e-8f7e-992a60b99aed/9039558893-500.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Inferno (1995)
+</li>
+<li data-cover="https://img.discogs.com/mdOxokszRESCVA-ORinn_2KmvG0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044179-1313107554.jpeg.jpg" data-tags="gothic metal" role="button">
+Moonspell - Wolfheart (1995-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
@@ -147,8 +153,8 @@ Default - The Fallout (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/88659fde-815a-4e36-b239-9d0818f23f1b/8345887600-500.jpg" data-tags="hard rock, rock, gothic" role="button">
 O.N.A. - Mrok (2001-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/cacbd6c9-7136-4ed8-9695-24243064d47d/3166622070-500.jpg" data-tags="darkwave" role="button">
-Deine Lakaien - White Lies (2002)
+<li data-cover="http://coverartarchive.org/release/0d499c6c-28ca-41fb-9ac9-6c002c1dc16b/5673726017-500.jpg" data-tags="industrial metal" role="button">
+Deathstars - Synthetic Generation (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fdad867-5926-4aa1-9606-dd05c7ca388f/2854819852-500.jpg" data-tags="electronic, industrial metal" role="button">
 Theatre of Tragedy - Assembly (2002-03-04)
@@ -170,9 +176,6 @@ Within Temptation - Running Up That Hill (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bc19092-cce1-4e0c-82fc-f49cdf55aeba/9223862312-500.jpg" data-tags="gothic, unheilig" role="button">
-Unheilig - Das 2. Gebot (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/NiBRsPQxiOyKK4rHRSQpyDBHOwE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7526890-1488963396-1647.jpeg.jpg" data-tags="gothic metal" role="button">
 Xandria - Kill the Sun (2003-05-03)
@@ -207,6 +210,9 @@ Elis - Dark Clouds in a Perfect Sky (2004-10-04)
 <li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Sirenia - Sirenian Shores (2004-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab3444d5-168f-447c-b7cb-95a1f8e393e6/13280087331-500.jpg" data-tags="gothic" role="button">
+Кукрыниксы - Фаворит солнца (2004-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
 </li>
@@ -215,9 +221,6 @@ Evanescence - Anywhere but Home (2004-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3435325a-c915-4028-a09c-a23b2f8556f2/2124103880-500.jpg" data-tags="folk metal, gothic metal" role="button">
 Midnattsol - Where Twilight Dwells (2005-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5ff0d70-f6e0-43be-bd5e-bb4db2a64889/3166613483-500.jpg" data-tags="darkwave" role="button">
-Deine Lakaien - April Skies (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
 Gothminister - Empire of Dark Salvation (2005-04-04)
@@ -249,14 +252,14 @@ Poisonblack - Lust Stained Despair (2006-08-25)
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/3215c305-e152-4b22-b074-379772fbe088/1057845862-500.jpg" data-tags="gothic metal" role="button">
+Mortal Love - Forever Will Be Gone (2006-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/446531b3-47a1-4caf-8815-dab5b6734dde/9819885655-500.jpg" data-tags="industrial metal" role="button">
 Oomph! - Delikatessen (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fea24e2-1fa9-43e8-ac8c-e364040cd341/8710607480-500.jpg" data-tags="rock, gothic" role="button">
 Evanescence - Lithium (2006-12-15)
-</li>
-<li data-cover="https://img.discogs.com/_BItylEPoMRHoWyzlcH5SQlGEmU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-881577-1337391256-5034.jpeg.jpg" data-tags="darkwave" role="button">
-The Crüxshadows - DreamCypher (2007-01-16)
 </li>
 <li data-cover="https://img.discogs.com/59ui5Dl6FzjJoeLk6e_EbyYmNWQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353221-1452775343-7648.jpeg.jpg" data-tags="symphonic metal" role="button">
 Xandria - Salomé - The Seventh Veil (2007-05-25)
@@ -275,9 +278,6 @@ Nightwish - Dark Passion Play (2007-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/93fadf79-9124-4d0c-8405-259659c68633/9389409640-500.jpg" data-tags="gothic, darkwave" role="button">
 Leandra - Metamorphine (2008-02-22)
-</li>
-<li data-cover="https://img.discogs.com/lFSiIjIhxLcRTV-0Nf2Kx-vE2lQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374498-1508528278-6098.jpeg.jpg" data-tags="gothic, unheilig" role="button">
-Unheilig - Puppenspiel (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
@@ -303,6 +303,9 @@ Mono Inc. - Voices Of Doom (2009-09-25)
 <li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
+<li data-cover="https://img.discogs.com/F8RoRnK6qIESu6qJeNVdZ472aK4=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2821384-1302550818.jpeg.jpg" data-tags="gothic" role="button">
+Blutengel - Tränenherz (2011-02-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
 </li>
@@ -311,9 +314,6 @@ Evanescence - Evanescence (2011-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
-</li>
-<li data-cover="https://img.discogs.com/4U4FsAlx5bJw_M9SFpu3JIqAUZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4242505-1364551957-2976.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
-She Past Away - Belirdi Gece (2012-02-20)
 </li>
 <li data-cover="https://img.discogs.com/JKscFmU-l6AmmbDzzxorQ6cn7ls=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7812317-1449309971-7044.jpeg.jpg" data-tags="gothic, gothic metal, gothic rock" role="button">
 Tiamat - The Scarred People (2012-10-26)

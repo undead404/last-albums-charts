@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:39:01.420Z
+date: 2021-04-11T18:16:06.874Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -123,6 +123,9 @@ Boney M. - Daddy Cool (1991)
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
 A Man Called Adam - Bread, Love And Dreams (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/6ec8b0d3-c9bd-4e69-858f-5c00aac13606/13510483716-500.jpg" data-tags="disco, dance" role="button">
+Sister Sledge - The Best Of Sister Sledge (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/f38d4719-5733-4545-8c02-22d7b820d6a9/4967179669-500.jpg" data-tags="abba" role="button">
 ABBA - Gold: Greatest Hits (1992-09-21)
 </li>
@@ -137,9 +140,6 @@ Haddaway - The Album (1993-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec0a25fe-0106-4f80-880c-9be18224742a/1799679527-500.jpg" data-tags="70s, disco" role="button">
 Village People - The Best of Village People (1993-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/89abe191-9dd6-4883-b10f-56922baf88e3/15081522104-500.jpg" data-tags="disco" role="button">
-Donna Summer - Endless Summer (1994)
 </li>
 <li data-cover="https://img.discogs.com/VeBLqRmN6T_vNX_TYOfcC2nK3K4=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340023-1469050479-3638.jpeg.jpg" data-tags="disco, funk" role="button">
 Carl Douglas - Kung Fu Fighting (1994)

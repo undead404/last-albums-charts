@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:19:12.643Z
+date: 2021-04-11T18:42:01.405Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -195,6 +195,9 @@ Blouse - Blouse (2011-11-01)
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
+King Krule - King Krule (2011-11-08)
+</li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
 </li>
@@ -260,9 +263,6 @@ Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d47f2080-8c2a-4f20-b81f-9dad7c2c84fc/2570423040-500.jpg" data-tags="dream pop, trip-hop, alternative" role="button">
 Lana Del Rey - Paradise (2012-11-12)
-</li>
-<li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
-FKA twigs - EP1 (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b082f5cb-0783-48e0-aa41-03e7d49f7631/5180943987-500.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - Wondrous Bughouse (2013-03-05)

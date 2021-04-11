@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:49:01.408Z
+date: 2021-04-11T18:40:01.402Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -105,9 +105,6 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="https://img.discogs.com/4PueUa2kLI6y5kROVwkYIn9VfyU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893224-1348330338-2171.jpeg.jpg" data-tags="swedish" role="button">
 Moneybrother - Blood Panic (2003-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
-José González - Veneer (2003-10)
-</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">
 Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 </li>
@@ -131,9 +128,6 @@ Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
-Johnossi - Johnossi (2005-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">
 Kent - Du & jag döden (2005-03-15)
@@ -216,6 +210,9 @@ Veronica Maggio - Och vinnaren är... (2008-03-26)
 <li data-cover="https://img.discogs.com/ZxGTw8KEhq3xWQdeJ0PRYWxRpxQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780985-1335607167.jpeg.jpg" data-tags="swedish, buy, favorit, therapy, blandband, markusevangeliet" role="button">
 Markus Krunegård - Markusevangeliet (2008-04-02)
 </li>
+<li data-cover="https://img.discogs.com/RlV03oCuf5K1OsL9Ho8p7sengrY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111641-1476532495-2662.jpeg.jpg" data-tags="swedish" role="button">
+Amanda Jenssen - Killing My Darlings (2008-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
 </li>
@@ -269,6 +266,9 @@ Junip - Fields (2010-09-10)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/03b31a1c-03c0-4eee-930b-a4e565b3f7f6/9539591161-500.jpg" data-tags="hip-hop, swedish, mixtape, cover, balearic, miks" role="button">
+jj - Kills (2010-12-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)

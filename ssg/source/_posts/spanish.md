@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T02:56:12.677Z
+date: 2021-04-11T18:13:01.427Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">La Unión - Mil Siluetas (1984-10-15)</li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
-<li data-cover="http://coverartarchive.org/release/da9bd129-a9ac-4d9d-b915-5940d0a4f451/10021627605-500.jpg" data-tags="spanish" role="button">Jarabe de Palo - La Flaca (1996)</li>
 <li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/56c57eda-b255-3626-9962-8cf341f4b50d/8669620484-500.jpg" data-tags="pop, spanish, latin" role="button">Christina Aguilera - Mi Reflejo (2000-09-12)</li>
+<li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">Enrique Iglesias - Escape (2001-10-24)</li>
+<li data-cover="http://coverartarchive.org/release/61c1fb8a-4a35-417e-ac44-be5dd6f20357/6262805461-500.jpg" data-tags="bebe" role="button">Bebe - Pafuera Telarañas (2004-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">Juanes - Mi Sangre (2004-09-28)</li>
 <li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">Pereza - Animales (2005)</li>
 <li data-cover="http://coverartarchive.org/release/3c4b4019-e51b-4334-811f-ca2621f32187/20956673504-500.jpg" data-tags="singer-songwriter, female vocalist, can you hear the rain" role="button">Russian Red - I Love Your Glasses (2008)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">
-La Unión - Mil Siluetas (1984-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
@@ -32,6 +29,9 @@ Rata Blanca - Magos, Espadas Y Rosas (1990-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccf687e1-d013-426b-b5d3-aa3c50a93929/6801915337-500.jpg" data-tags="rock" role="button">
 Héroes del Silencio - Senderos De Traición (1990-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc410ea3-7abd-41b9-b4b2-7c44f8d8b108/15631270579-500.jpg" data-tags="spanish, mikel erentxun, lo mejor de mikel" role="button">
+Mikel Erentxun - Naufragios (1992-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0f9951-da70-4731-bf4d-50ffbd9baf49/10134225946-500.jpg" data-tags="latin, latin pop" role="button">
 Gloria Estefan - Greatest Hits (1992-10-30)
@@ -51,20 +51,14 @@ Enrique Iglesias - Enrique Iglesias (1995-05-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="spanish, memories, latin, fey, l-pop, my first album ever" role="button">
 Fey - Fey (1995-06-27)
 </li>
-<li data-cover="https://img.discogs.com/agIVmxuf05EzCdwusuUhqjvAmIE=/fit-in/469x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611391-1293119185.jpeg.jpg" data-tags="pop, latin" role="button">
-Ricky Martin - A Medio Vivir (1995-07-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/3414cb5d-d3bc-37b8-9392-8c525fa1af52/3334214007-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - El Vals Del Obrero (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/da9bd129-a9ac-4d9d-b915-5940d0a4f451/10021627605-500.jpg" data-tags="spanish" role="button">
-Jarabe de Palo - La Flaca (1996)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="latin, lucerito" role="button">
-Lucero - Lucero (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/1da84ef6-48ab-4065-9c60-4f94edc96cb6/2544207519-500.jpg" data-tags="spanish" role="button">
 Rosana - Lunas Rotas (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
+La Renga - Despedazado Por Mil Partes (1996-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/43f4e4b2-88f9-4bbb-b59c-22efacc086bf/25183529349-500.jpg" data-tags="spanish, cantautor" role="button">
 Ismael Serrano - Atrapados En Azul (1997)
@@ -89,6 +83,9 @@ La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddcc0477-d4b6-4201-85d1-df5e10482c16/28801509453-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - Eurosis (1998-07-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/81a537ba-d262-46f2-a838-623d587fe616/6804977697-500.jpg" data-tags="folk metal" role="button">
+Mägo de Oz - La Leyenda De La Mancha (1998-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">
 Santana - Supernatural (1999-06-15)
@@ -123,6 +120,9 @@ La casa azul - El Sonido Efervescente de La Casa Azul (2000-10)
 <li data-cover="http://coverartarchive.org/release/afd09c19-87f1-368e-8e9a-738186154f7f/25137146393-500.jpg" data-tags="ska punk, ska" role="button">
 Ska-P - Planeta Eskoria (2000-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b060393-0f87-489c-800c-11c1b29095a1/17492701109-500.jpg" data-tags="spanish, jota" role="button">
+Pereza - Pereza (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)
 </li>
@@ -131,9 +131,6 @@ Marea - Besos De Perro (2002)
 </li>
 <li data-cover="https://img.discogs.com/575lyRIquyOOC1twTeKx0MUmAw0=/fit-in/600x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577693-1540603230-9511.jpeg.jpg" data-tags="spanish, indie rock" role="button">
 Los Planetas - Encuentros con entidades (2002-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d92bc85-8503-4f0a-a572-a242d7a1005d/8614444998-500.jpg" data-tags="soundtrack" role="button">
-Elliot Goldenthal - Frida (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
@@ -146,6 +143,9 @@ Pereza - Algo Para Cantar (2003)
 </li>
 <li data-cover="https://img.discogs.com/m_QVJX6IYZeBCULTKqgUy_sQK58=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578984-1336039114.jpeg.jpg" data-tags="spanish" role="button">
 Melendi - Sin Noticias De Holanda (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee6d01a2-5f54-4b39-953d-19927055a0b2/9154452590-500.jpg" data-tags="spanish, indie, 00s, favoritos" role="button">
+Deluxe - If Things Were to Go Wrong (2003-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/07a7dcb9-402f-45b2-ac17-28321b407163/15594205278-500.jpg" data-tags="folk metal" role="button">
 Mägo de Oz - gaia (2003-09-08)
@@ -198,6 +198,9 @@ Melendi - Que El Cielo Espere Sentao (2005)
 <li data-cover="http://coverartarchive.org/release/6b0c0780-d551-4378-9a60-1ede2a9ded6d/14269202127-500.jpg" data-tags="spanish, fusion" role="button">
 Muchachito Bombo Infierno - Vamos que nos vamos (2005)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="spanish, electronica, frauen und technik, favs - eng" role="button">
+Cycle - Weak On The Rocks (2005)
+</li>
 <li data-cover="https://img.discogs.com/2KjH5VWoCZWfH2vvjz9g1vdZaZc=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487682-1332343967.jpeg.jpg" data-tags="latin folk" role="button">
 Jorge Drexler - Eco (2005-03-01)
 </li>
@@ -219,9 +222,6 @@ Allison - Allison (2006)
 <li data-cover="http://coverartarchive.org/release/6b2235d4-eac6-4d42-9d2e-c3a46dbab436/10431262964-500.jpg" data-tags="he perdido los zapatos" role="button">
 Nena Daconte - He Perdido Los Zapatos (2006)
 </li>
-<li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
-Kudai - Sobrevive (2006-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/260cb9b6-12a0-4bcf-ae55-8a888eab4711/3330350226-500.jpg" data-tags="spanish, electropop, 2000s" role="button">
 Dover - Follow The City Lights (2006-10-02)
 </li>
@@ -233,9 +233,6 @@ La Quinta Estación - El Mundo Se Equivoca (2006-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/785febd6-84e4-4cca-b7ef-f95f9f598b17/15638856505-500.jpg" data-tags="spanish" role="button">
 Melendi - Mientras No Cueste Trabajo (2006-11-13)
-</li>
-<li data-cover="https://img.discogs.com/fKgjYyvMw0-0AAdfeGhDzx4Zybs=/fit-in/450x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343325-1468082959-4205.jpeg.jpg" data-tags="celestial, rbd, pop" role="button">
-RBD - Celestial (2006-11-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop latino, spanish, latina" role="button">
 Conchita - Nada Más (2007-02-04)
@@ -302,6 +299,9 @@ Javiera Mena - Mena (2010-09-01)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
 Shakira - Sale el Sol (2010-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d22ce5b-26b9-496d-840a-e1d18bbc76d8/3167458608-500.jpg" data-tags="pop, lady gaga, born this way" role="button">
+Lady Gaga - The Edge Of Glory (2011-05-09)
 </li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
 Russian Red - Fuerteventura (2011-05-10)

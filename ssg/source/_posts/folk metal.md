@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:52:01.411Z
+date: 2021-04-11T18:45:02.542Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -134,9 +134,6 @@ Haggard - Eppur Si Muove (2004-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c4f54f1-2816-48a2-8e19-90e05d337d97/4017787398-500.jpg" data-tags="folk metal, viking metal, battle metal" role="button">
 Turisas - Battle Metal (2004-07-23)
-</li>
-<li data-cover="https://img.discogs.com/e-eG1it8BAAvbH_j8Yi4mJ-QmAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3989512-1351564956-3569.jpeg.jpg" data-tags="folk metal" role="button">
-Tuatha de Danann - Trova Di Danú (2004-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-500.jpg" data-tags="melodic death metal" role="button">
 Wintersun - Wintersun (2004-08-25)
@@ -290,6 +287,9 @@ Wintersun - Time I (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/704cc447-22db-4920-b57a-02ff800fc8cf/7360065193-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Blodsvept (2013-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6469239-9a53-42a7-8852-1020632cf16b/26317723935-500.jpg" data-tags="progressive metal" role="button">
+Amorphis - Circle (2013-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4926cb-f111-4f88-9195-8d77758a5ce1/9363428502-500.jpg" data-tags="oriental metal, folk metal" role="button">
 Orphaned Land - All Is One (2013-06-24)

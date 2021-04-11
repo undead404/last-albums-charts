@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:30:01.434Z
+date: 2021-04-11T18:31:06.877Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -60,9 +60,6 @@ Within Temptation - Enter (1996-09)
 <li data-cover="https://img.discogs.com/bnct50onG-ZKnwFjFRHlbnY1uq8=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3143954-1321109003.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Velvet Darkness They Fear (1996-09-25)
 </li>
-<li data-cover="https://img.discogs.com/fftbzZNbE6CVLZ23o6n919Aaab4=/fit-in/507x246/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-780114-1157988368.jpeg.jpg" data-tags="black metal, symphonic black metal, gothic metal" role="button">
-Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/919914e8-20cc-427d-9779-7850f84ef5d6/21611675365-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Down (1996-11-11)
 </li>
@@ -74,6 +71,9 @@ Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
+</li>
+<li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
+Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
 <li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="gothic metal" role="button">
 Within Temptation - The Dance (1998)

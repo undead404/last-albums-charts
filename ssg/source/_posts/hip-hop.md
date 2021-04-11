@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:43:01.587Z
+date: 2021-04-11T17:59:01.449Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -30,17 +30,11 @@ Beastie Boys - Paul's Boutique (1989-07-25)
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - The Low End Theory (1991-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
 </li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
@@ -126,6 +120,9 @@ Gorillaz - Gorillaz (2001-03-24)
 <li data-cover="http://coverartarchive.org/release/cd171e0b-4cb1-4bef-ab60-ccab0729cd73/1672858721-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - Labor Days (2001-09-18)
 </li>
+<li data-cover="https://img.discogs.com/5jTf-8OEzRSsC6WGLm_zCBMx8qE=/fit-in/600x694/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718204-1528140306-6220.jpeg.jpg" data-tags="rap, hip-hop, ludacris" role="button">
+Ludacris - Word of Mouf (2001-11-06)
+</li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
 </li>
@@ -143,6 +140,9 @@ Jurassic 5 - Power In Numbers (2002-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
+</li>
+<li data-cover="https://img.discogs.com/26HBMwoKo7cvLxxeYKSfmR_JVVM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799422-1501524692-4284.jpeg.jpg" data-tags="rnb" role="button">
+Ciara - Goodies (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/1453bafd-09a5-43e6-aa52-5ab2867c7218/2090793464-500.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Fly Or Die (2004-03-22)

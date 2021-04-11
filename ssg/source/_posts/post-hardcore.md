@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:13:01.601Z
+date: 2021-04-11T17:56:07.037Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -102,9 +102,6 @@ Underoath - They're Only Chasing Safety (2004-06-15)
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/735c33ce-f86e-46b5-babd-52daee949e3c/21617257302-500.jpg" data-tags="post-hardcore, indie rock" role="button">
-mewithoutYou - Catch For Us The Foxes (2004-10-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
 The Blood Brothers - Crimes (2004-10-12)
 </li>
@@ -155,6 +152,9 @@ Fightstar - Grand Unification (2006-03-10)
 </li>
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
+</li>
+<li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
+Taking Back Sunday - Louder Now (2006-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - A City By The Light Divided (2006-05-02)
@@ -270,6 +270,9 @@ blessthefall - Witness (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
 We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
+Alesana - The Emptiness (2010-01-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - Of Mice & Men (2010-03-09)
 </li>
@@ -278,9 +281,6 @@ Sleeping with Sirens - With Ears to See and Eyes to Hear (2010-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)

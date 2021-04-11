@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:46:06.951Z
+date: 2021-04-11T18:03:01.425Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -29,6 +29,9 @@ Sagittarius - Present Tense (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d55d9495-c5b3-4db2-92a9-89a5a8d07f1b/27898587576-500.jpg" data-tags="60s, progressive rock" role="button">
+Nirvana - All Of Us (1968)
 </li>
 <li data-cover="https://img.discogs.com/4hsJ9bOHdky1Zlwc7Vizrq_0i4A=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923417-1482697240-6883.png.jpg" data-tags="60s, psychedelic" role="button">
 The Millennium - Begin (1968)
@@ -263,9 +266,6 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/17ba88b7-a665-4400-84b0-0f404eb8114f/5136359266-500.jpg" data-tags="indie" role="button">
-Tindersticks - The Something Rain (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)

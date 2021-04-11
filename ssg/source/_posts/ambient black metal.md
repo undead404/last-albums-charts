@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:05:07.136Z
+date: 2021-04-11T18:34:01.391Z
 title: "ambient black metal: 100 albums you must listen to before you die"
 ---
 ![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
@@ -42,9 +42,6 @@ Burzum - Filosofem (1996-01-31)
 <li data-cover="https://img.discogs.com/X4YLIMFjXCSXneR8sVHSBVAFM_M=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3123257-1316869768.jpeg.jpg" data-tags="black metal" role="button">
 Arckanum - Kostogher (1997-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/022e6980-e6be-408a-ae68-610a82da7583/1479936727-500.jpg" data-tags="dark ambient, ambient, dungeon synth" role="button">
-Burzum - Dauði Baldrs (1997-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/e68fcc1f-6d31-4d7f-8bb4-5b33e948eecf/2886105594-500.jpg" data-tags="atmospheric black metal" role="button">
 Paysage d'Hiver - Steineiche (1998)
 </li>
@@ -66,6 +63,9 @@ Blut aus Nord - The Mystical Beast of Rebellion (2001)
 <li data-cover="http://coverartarchive.org/release/ae1a0e77-5977-45f1-9557-634820859899/2708262058-500.jpg" data-tags="atmospheric black metal, ambient" role="button">
 Paysage d'Hiver - Winterkälte (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/8b3310df-e9ca-4ce9-ab5a-2090d7ba2aaf/19879101265-500.jpg" data-tags="black metal" role="button">
+Thorns - Thorns (2001-03-05)
+</li>
 <li data-cover="https://img.discogs.com/vg34NfRJndt6LrB3BHO9J9_jKBA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673087-1582543004-1914.jpeg.jpg" data-tags="black metal" role="button">
 Velvet Cacoon - Dextronaut (2002)
 </li>
@@ -83,6 +83,9 @@ Hate Forest - Purity (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d4fc85f-fd33-34f5-9974-c58599edb290/1969312537-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Blut aus Nord - The Work Which Transforms God (2003-03-17)
+</li>
+<li data-cover="https://img.discogs.com/u-H1mcaU4at2s4Ci8vq2tEFPVe8=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457790-1464912282-4405.jpeg.jpg" data-tags="dark ambient, atmospheric black metal" role="button">
+Vinterriket - Winterschatten (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/i0kIyRY1sOnQ3M3_ACfyO11jrUI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12192914-1530192983-6199.jpeg.jpg" data-tags="black metal" role="button">
 Leviathan - The Tenth Sub Level of Suicide (2003-09-29)
@@ -111,14 +114,8 @@ Velvet Cacoon - Genevieve (2004-09-14)
 <li data-cover="https://img.discogs.com/AHWokHo0fkSSBkIIenOTM8Fx7UY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775026-1157476365.jpeg.jpg" data-tags="black metal" role="button">
 Nae'blis - Beyond the Light (2004-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/538c3e1a-dd81-4cc9-985a-1450ae63661d/2727000989-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
-Urfaust - Verräterischer, Nichtswürdiger Geist (2005-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b4f01f4-469d-4b1c-bd4d-db60d7d69203/2727200713-500.jpg" data-tags="ambient" role="button">
 Velvet Cacoon - Northsuite (2005-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/77956299-d265-4039-9df5-f0d66854e598/8040444178-500.jpg" data-tags="ambient, dark ambient, funeral doom metal" role="button">
-Nortt - Ligfærd (2005-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e646a9ba-8885-364e-9839-6aa4a275234a/2889067150-500.jpg" data-tags="ambient black metal, atmospheric black metal, black metal, dark ambient" role="button">
 Darkspace - Dark Space II (2005-11-19)
@@ -138,9 +135,6 @@ ColdWorld - The Stars Are Dead Now (2006-01-20)
 <li data-cover="http://coverartarchive.org/release/d6414113-609d-4abb-9ada-10731f9d64a0/9229499878-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Wolves in the Throne Room - Diadem Of 12 Stars (2006-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/aaa514a1-c420-4558-9a0d-c20799269c45/5255983221-500.jpg" data-tags="black metal, ambient black metal, dark ambient, atmospheric black metal" role="button">
-Blut aus Nord - MoRT (2006-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c742374-3bfa-48f8-9b2f-042af52c3b06/2683630150-500.jpg" data-tags="atmospheric black metal, black metal" role="button">
 Forest Silence - Philosophy Of Winter (2006-11-10)
 </li>
@@ -149,6 +143,9 @@ Lunar Aurora - Andacht (2007-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bd738fa-ca28-416b-9c82-8855372a2dbb/2676025935-500.jpg" data-tags="black metal" role="button">
 Drudkh - Anti-Urban (2007-04-16)
+</li>
+<li data-cover="https://img.discogs.com/BPBbjGw2OB-16efBw0BlkvtlQnU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-994258-1444510911-3197.jpeg.jpg" data-tags="black metal, american, dark ambient, ambient black metal, usbm, raw black metal, avantgarde black metal" role="button">
+Black Funeral - Waters of Weeping (2007-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/218cbcd1-697b-47b2-98dd-860f6999056c/1644089497-500.jpg" data-tags="black metal, depressive black metal" role="button">
 Xasthur - Defective Epitaph (2007-09-21)
@@ -162,6 +159,9 @@ Zuriaake - Afterimage of Autumn (2007-12-24)
 <li data-cover="http://coverartarchive.org/release/53f8f713-3280-38fb-aaba-03c8b84db333/2693088052-500.jpg" data-tags="ambient black metal, atmospheric black metal, depressive black metal, dsbm, atmospheric blackmetal" role="button">
 Irrwisch - Irrwisch (2008)
 </li>
+<li data-cover="https://img.discogs.com/WAdRLHKS8jO3zY6OoIZTb0LCGc8=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5219173-1387827428-9145.jpeg.jpg" data-tags="ambient black metal, no colours" role="button">
+I Shalt Become - In The Falling Snow (2008-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c301c29-fb31-4968-9ff9-b44433ed3f2a/2694524133-500.jpg" data-tags="black metal" role="button">
 Leviathan - Massive Conspiracy Against All Life (2008-03-24)
 </li>
@@ -174,6 +174,9 @@ Panopticon - Panopticon (2008-05)
 <li data-cover="http://coverartarchive.org/release/3fa29797-78c4-4f5d-b4c5-f1b17f711eb1/22164626565-500.jpg" data-tags="atmospheric black metal, black metal" role="button">
 Darkspace - Dark Space III (2008-05-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/44f51b04-4049-496c-9d3b-df8e69ff5896/1018108378-500.jpg" data-tags="atmospheric black metal" role="button">
+Evilfeast - Lost Horizons of Wisdom (2008-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/e51e71ef-c9dc-4c0f-b7a3-d63d4016965f/2670666631-500.jpg" data-tags="black metal, ambient black metal, atmospheric black metal" role="button">
 Njiqahdda - Nji. Njiijn. Njiiijn. (2008-06)
 </li>
@@ -182,9 +185,6 @@ October Falls - The Womb of Primordial Nature (2008-06-21)
 </li>
 <li data-cover="https://img.discogs.com/Ywptm6Q77cEe7JBGbMRs-lAHIXY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2808388-1337090663-1530.jpeg.jpg" data-tags="black metal, ambient black metal, depressive black metal" role="button">
 Impavida - Eerie Sceneries (2008-11-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c64204f8-b29f-4958-9edb-ee9bfc951294/7428049168-500.jpg" data-tags="black metal" role="button">
-Wolves in the Throne Room - Malevolent Grain (2009-02-17)
 </li>
 <li data-cover="https://img.discogs.com/f0tNtznWhTCKp5k75hcyGpQa3qc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1747688-1420991692-4977.jpeg.jpg" data-tags="atmospheric black metal" role="button">
 Blut aus Nord - Memoria Vetusta II: Dialogue With The Stars (2009-02-23)
@@ -300,11 +300,11 @@ Paysage d'Hiver - Das Tor (2013-02-22)
 <li data-cover="https://img.discogs.com/BP-m4nRDuDAPPaxo4cm3-4ZnvQM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4370951-1363187464-6910.jpeg.jpg" data-tags="black metal, ambient black metal, atmospheric black metal, melancholic black metal, epic as fuck, melodic dark metal, the best of 2013" role="button">
 October Falls - The Plague of a Coming Age (2013-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/1956e044-ef94-4e60-87c2-2ae74dcc156a/4143463712-500.jpg" data-tags="ambient, dark ambient" role="button">
-Burzum - Sôl Austan, Mâni Vestan (2013-05-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/c87baa2c-bff5-4790-a806-9cb63a0d86f5/4014889358-500.jpg" data-tags="atmospheric black metal" role="button">
 Summoning - Old Mornings Dawn (2013-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/c68a9354-eaf7-4d5b-8bc0-4032578dfe49/19434698166-500.jpg" data-tags="ambient black metal, nature black metal" role="button">
+Basarabian Hills - In The Stillness Of The Codrii (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d26a7d5e-2e6b-464c-afe8-54766cfaeb53/4532270953-500.jpg" data-tags="depressive black metal" role="button">
 Thy Light - No Morrow Shall Dawn (2013-07-20)

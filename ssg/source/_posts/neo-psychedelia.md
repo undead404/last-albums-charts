@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:22:07.009Z
+date: 2021-04-11T18:01:06.936Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ac145397-4d4e-4f9b-ae94-ebbf2a7cc5a6/23440279381-500.jpg" data-tags="post-punk" role="button">
 Echo & the Bunnymen - Porcupine (1983-02-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/e897b539-ce48-475c-8c72-b6f0b0d0bb7d/16611425916-500.jpg" data-tags="post-punk, 80s" role="button">
-Echo & the Bunnymen - Ocean Rain (1984-05-04)
 </li>
 <li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
 Spacemen 3 - The Perfect Prescription (1987)
@@ -122,6 +119,9 @@ of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)

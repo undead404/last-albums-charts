@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T13:03:01.414Z
+date: 2021-04-11T18:19:01.413Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">Beck - Mutations (1998-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">Coldplay - Parachutes (2000-07-10)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/bc7e4abe-5672-40d4-bb39-a72ba0293476/3375657581-500.jpg" data-tags="acoustic" role="button">City and Colour - Sometimes (2005-10-31)</li>
+<li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)</li>
+<li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">The Weepies - Say I Am You (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
 <li data-cover="https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg" data-tags="female vocalist, indie" role="button">A Fine Frenzy - One Cell in the Sea (2007-07-17)</li>
@@ -57,9 +57,6 @@ Elliott Smith - XO (1998-08-24)
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">
-Beck - Mutations (1998-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
@@ -104,9 +101,6 @@ Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
@@ -168,9 +162,6 @@ Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
-Iron & Wine - Woman King (2005-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
@@ -185,6 +176,9 @@ Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc7e4abe-5672-40d4-bb39-a72ba0293476/3375657581-500.jpg" data-tags="acoustic" role="button">
 City and Colour - Sometimes (2005-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/6964b07b-a302-4226-a35c-b1635aea9ff2/2904783418-500.jpg" data-tags="electronic, ambient" role="button">
+Slow Dancing Society - The Sound of Lights When Dim (2006)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
@@ -212,6 +206,12 @@ Copeland - Eat, Sleep, Repeat (2006-08-31)
 </li>
 <li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
 The Album Leaf - Into The Blue Again (2006-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
+Sean Lennon - Friendly Fire (2006-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
+Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
@@ -267,14 +267,14 @@ Jesse McCartney - Departure (2008-05-20)
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
+Jem - Down to Earth (2008-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
-</li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)

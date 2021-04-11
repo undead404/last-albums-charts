@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:30:18.139Z
+date: 2021-04-11T18:43:01.405Z
 title: "alternative country: 100 albums you must listen to before you die"
 ---
 ![She &amp; Him - Volume Two (2010-03-17)](http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg "She & Him - Volume Two (2010-03-17)")
@@ -35,9 +35,6 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="https://img.discogs.com/4vdLb8gruqtlcnn9g-wVXZ44a4E=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13959529-1564938468-3725.jpeg.jpg" data-tags="folk, acoustic, alt-country, alternative country, pub rock, sweetearmusic" role="button">
 Brinsley Schwarz - Surrender To The Rhythm (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5ed4fdb-9628-4746-9dbf-4ecfaab3da1f/5796328005-500.jpg" data-tags="folk, singer-songwriter, beck, acoustic, blues" role="button">
-Beck - Don't Get Bent Out of Shape (1992)
 </li>
 <li data-cover="https://img.discogs.com/0hPNhgM6gtU_xjw0DsmqyLc5W78=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-837573-1497516330-6403.jpeg.jpg" data-tags="alternative rock, indie pop, indie rock, lo-fi, alternative country" role="button">
 Pavement - Range Life (1995-01-13)
@@ -105,9 +102,6 @@ Papa M - Papa M Sings (2001-01-30)
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
 The National - The National (2001-07-03)
 </li>
-<li data-cover="https://img.discogs.com/cKjUuGW348-8pjJEQxh85ap6DnM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7816244-1449389214-7975.jpeg.jpg" data-tags="alternative, robbie williams, indie, singer-songwriter" role="button">
-Robbie Williams - Eternity (2001-07-09)
-</li>
 <li data-cover="https://img.discogs.com/waW8T2jsCoViVLbRXfoS6qFQQnw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351645-1543660417-5834.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - Biggest Bluest Hi-Fi (2001-10-20)
 </li>
@@ -129,9 +123,6 @@ Peter Boss - Charlies Bar (2003)
 <li data-cover="http://coverartarchive.org/release/1d22deda-5427-4b32-83c3-d36a369c2070/15971902789-500.jpg" data-tags="americana" role="button">
 Calexico - Feast of Wire (2003-02-10)
 </li>
-<li data-cover="https://img.discogs.com/wXWlv5OPTINy4uKy4SFJ2odC_No=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043165-1187395720.jpeg.jpg" data-tags="folk" role="button">
-The Be Good Tanyas - Chinatown (2003-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
@@ -150,17 +141,11 @@ Fink - Bam Bam Bam (2005)
 <li data-cover="https://img.discogs.com/C4i552V-Q0swrF4Kw744AMohTxI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4324105-1361744228-3389.jpeg.jpg" data-tags="indie, jazz, pop, alternative, piano, alternative country, melancolic" role="button">
 Peter Boss - Slouching Again (2005)
 </li>
-<li data-cover="https://img.discogs.com/oSCW1FGIhjEa_-0CkriugAHEfJ8=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2958995-1309185257.jpeg.jpg" data-tags="indie, alternative, singer-songwriter, acoustic, americana, mellow, alt-country, berlin, alternative country, western" role="button">
-Motikat - 303 murmansk (2005-07)
-</li>
 <li data-cover="https://img.discogs.com/UO82ClUQ_4jxr8YO2pdiPuu5zvc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1007162-1183363008.jpeg.jpg" data-tags="indie, folk rock, alternative country, the devil and the deep blue sea, the merch grrls, teh typos" role="button">
 Steel Train - Twilight Tales From The Prairies Of The Sun (2005-08-24)
 </li>
 <li data-cover="https://img.discogs.com/-BJ3W5XyrgPaKFjreVaLkWj-yB4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467132-1533497416-9429.jpeg.jpg" data-tags="indie, alternative, alternative rock, indie rock, britpop, robbie williams" role="button">
 Robbie Williams - Tripping (2005-09-30)
-</li>
-<li data-cover="https://img.discogs.com/C1RXEjrLo8JzDRTGARV9fgIiRNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7011244-1431705192-4614.jpeg.jpg" data-tags="indie, alternative, acoustic" role="button">
-Robbie Williams - Advertising Space (2005-12-09)
 </li>
 <li data-cover="https://img.discogs.com/fxk4j1k-ofkUfAvw7C6r7Rc6J0c=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6247724-1414700393-9129.jpeg.jpg" data-tags="alternative country, memphis" role="button">
 Cory Branan - 12 Songs (2006)
@@ -225,6 +210,9 @@ The Chadderandom Abyss - 71 Miles (2008-09-23)
 <li data-cover="https://img.discogs.com/uP6RiqArQc8jI2qqrnks0JerKYI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6327404-1416569986-1578.jpeg.jpg" data-tags="alternative country, good album" role="button">
 Graham Lindsey - We Are All Alone in This Together (2008-11-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, original, poetic, female vocalist, alternative country, new folk, poignant, unique voice, real life, country/folk, urban folk, pretty voice, folk/rock, renaissance folk, english singer, folk plus, uk singer-songwriter, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - Reflections from the Edge (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/9360a785-a51a-460c-a00a-e9c1d8939c84/3946906870-500.jpg" data-tags="alternative, alt country, country rock, alternative country, 00s, apricot, rustic, american indie, drive-by truckers, band records, chaser iii" role="button">
 Arbouretum - Song of the Pearl (2009-03-10)
 </li>
@@ -248,9 +236,6 @@ Lucero - 1372 Overton Park (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/093a5c20-a4a0-4ea4-984c-b9469eb10237/9942613223-500.jpg" data-tags="alternative country" role="button">
 Matthew Ryan - Dear Lover (2010-02-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/31b072bb-bd3c-4273-b659-5ecd4884e847/2701268443-500.jpg" data-tags="indie, alternative" role="button">
-Robbie Williams - Morning Sun (2010-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
@@ -279,11 +264,20 @@ O'Death - Outside (2011-04-19)
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/7441addd-0e46-47e9-b7df-20f0440bbd66/23495050154-500.jpg" data-tags="alternative" role="button">
-Drugstore - Anatomy (2011-08-08)
-</li>
 <li data-cover="https://img.discogs.com/Dik0zO6N8CvqzLmW08nYSdPi-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16383534-1607418958-7067.jpeg.jpg" data-tags="americana, alt-country, rock and roll, alt country, alternative country, chicago, roots rock, milwaukee, no depression, alt.country, american rock, this is american music, avalanche, post hitching post, post card, post cards from hell" role="button">
 R. Mutt - Leash on Life (2011-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/5254052a-1bd0-4e1a-95df-3fc350aaec06/12001496901-500.jpg" data-tags="british, folk, singer-songwriter, americana, adult contemporary, female vocalist, alternative country, new folk, lyrical, poignant, unique voice, woodstock, real life, country/folk, urban folk, pretty voice, folk/rock, renaissance folk, true stories, folk plus, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - From 'Too Late' (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/abb5a244-6c25-4260-b607-cb78207b9dbf/1223288530-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, poetic, alternative country, new folk, lyrical, poignant, unique voice, woodstock, real life, country/folk, urban folk, renaissance folk, english singer, folk plus, original stories, award winning singer-songwriters, expressive voice" role="button">
+Sue Merchant - Suzanne, I can't (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc7adebd-ce66-4b9e-b42d-c479eb025bc4/1223674045-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, original, female vocalist, alternative country, new folk, lyrical, poignant, unique voice, woodstock, real life, country/folk, urban folk, folk/rock, renaissance folk, english singer, folk plus, uk singer-songwriter, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - The Visit (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b728147-16a4-43f1-8d97-9b3def190f68/1223144953-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, poetic, alternative country, new folk, lyrical, poignant, unique voice, woodstock, real life, country/folk, urban folk, pretty voice, renaissance folk, folk plus, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - Vignette from the Edge (2012)
 </li>
 <li data-cover="https://img.discogs.com/1VX79Fljej7oA6EBEWIL-lxlPpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6535748-1421490879-2300.jpeg.jpg" data-tags="pop, rock, country, alternative country, roots rock" role="button">
 Madi Diaz - Plastic Moon (2012-01-24)
@@ -297,8 +291,14 @@ Hank Williams III - Long Gone Daddy (2012-04-17)
 <li data-cover="http://coverartarchive.org/release/ccf6d369-fb1b-4ec0-9915-6b7206eb1820/5940230220-500.jpg" data-tags="blues, folk noir, dark folk, alternative country, gothic country, gothic americana, crowpush" role="button">
 Crowpush - Weak As Water (2012-07-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, female vocalist, alternative country, new folk, lyrical, poignant, woodstock, country/folk, urban folk, pretty voice, renaissance folk, english singer, folk plus, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - Stage Plays (2012-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d836a4d-cf59-47ef-a459-730ee2d221b1/8653695963-500.jpg" data-tags="country, dark, americana, doom, dark folk, alternative country, death country, gothic country, gothic americana, hellbilly, dark country, doom folk, god-damned country, cemetery western, alternative dark, doom country, horror country, country doom, outlaw doom country" role="button">
 Those Poor Bastards - Behold the Abyss (2012-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/0673214d-0223-4213-8197-729c5f341b57/12001503050-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, alternative country, new folk, lyrical, poignant, unique voice, woodstock, country/folk, urban folk, renaissance folk, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - The Homecoming (2012-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:45:01.581Z
+date: 2021-04-11T18:37:01.411Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -60,14 +60,17 @@ Steel Pulse - Tribute To The Martyrs (1979)
 <li data-cover="http://coverartarchive.org/release/1280555a-4ab5-4c72-ab51-bd883b9865f6/8094406633-500.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Plastic Surgery Disasters (1982-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-Time Zone - World Destruction (1984)
+<li data-cover="https://img.discogs.com/1VZmaHqA3tjeL7rQIL72HHXbrvY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-616311-1274770441.jpeg.jpg" data-tags="hardcore punk, american punk" role="button">
+Youth Brigade - Sink With Kalifornija (1984)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
 </li>
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
+</li>
+<li data-cover="https://img.discogs.com/OvYqq3BTD4eXpJle9TBmFI5n1eE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656641-1432379899-9607.jpeg.jpg" data-tags="british, jangle pop, political, class struggle, debut album, jangle indie" role="button">
+McCarthy - I Am a Wallet (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bb3fc83-0a98-3cf4-aca9-a6ecd2db0b9b/12662027144-500.jpg" data-tags="industrial" role="button">
 Laibach - Opus Dei (1987-03-23)
@@ -92,9 +95,6 @@ Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b35ab33b-a7ea-472f-a41f-9e550831ce6f/18410530118-500.jpg" data-tags="singer-songwriter, americana, political, killforpeace, countryalbum" role="button">
 Steve Earle - Essential Steve Earle (1993-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/c77de64a-633a-3e86-8da3-305bd8a14d0f/2709753142-500.jpg" data-tags="riot grrrl, punk" role="button">
-Bikini Kill - Pussy Whipped (1993-10-26)
 </li>
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
@@ -128,9 +128,6 @@ Pennywise - Full Circle (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c526990-9361-4863-8729-2908ffa760d7/3014501577-500.jpg" data-tags="rock, brazilian" role="button">
-Legião Urbana - Uma Outra Estação (1997-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
@@ -195,6 +192,9 @@ NOFX - The War on Errorism (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/205b7cb8-3494-4889-973f-02392d82568c/25780727475-500.jpg" data-tags="political" role="button">
 The Suicide Machines - A Match and Some Gasoline (2003-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/dfc70d01-83dc-48bb-b4a5-23786e5c3f69/8268385546-500.jpg" data-tags="industrial" role="button">
+Laibach - WAT (2003-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a8dd677-dff5-4175-93a2-26cbfea8e647/3082007842-500.jpg" data-tags="hip hop" role="button">
 Immortal Technique - Revolutionary, Volume 2 (2003-11-18)
 </li>
@@ -219,6 +219,9 @@ Manic Street Preachers - Lifeblood (2004-10-20)
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/300725c7-302f-4c30-90ac-7e8ad53ca3d6/28033535854-500.jpg" data-tags="spanish, political, street punk, el ultimo ke zierre, insurgente" role="button">
+El Último Ke Zierre - Insurgente (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4bb9e32-c5f3-41d8-b734-175987b8996e/15200089926-500.jpg" data-tags="hip-hop" role="button">
 Sage Francis - A Healthy Distrust (2005-02-08)
 </li>
@@ -227,9 +230,6 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de04796-e829-4e05-a09d-3ca62258ef61/6614281778-500.jpg" data-tags="alternative rock, political" role="button">
 Cire - Wholesale Buyout (2006)
-</li>
-<li data-cover="https://img.discogs.com/1wnCWz9j9-VEXqDU5fT2HLzB4TA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670151-1578905504-8499.jpeg.jpg" data-tags="polski hip hop" role="button">
-O.S.T.R. - 7 (2006-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e69b2cbb-bf35-41d0-a6a6-8d2fedd9d778/5651213506-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Coup - Pick A Bigger Weapon (2006-04-25)

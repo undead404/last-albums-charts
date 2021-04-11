@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:36:01.466Z
+date: 2021-04-11T18:32:01.414Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/8rFyleKW1Fx0UuFJ7Pq1FTLVHg0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61778-1411211779-6669.jpeg.jpg" data-tags="electronic" role="button">
 The Future Sound of London - Accelerator (1991)
-</li>
-<li data-cover="https://img.discogs.com/CQsf_a2rFbfH9sDrfEsuGUbECsQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12318604-1533667704-6146.jpeg.jpg" data-tags="electronic, idm" role="button">
-AFX - Analogue Bubblebath (1991-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b20bd11-00d2-4800-baa0-d2eb05486f09/6937494644-500.jpg" data-tags="idm" role="button">
 Polygon Window - Surfing on Sine Waves (1992)
@@ -68,9 +65,6 @@ Autechre - Chiastic Slide (1997-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
 Aphex Twin - Come to Daddy (1997-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/61d93407-3397-3dc6-a89a-1922e426432e/3157746200-500.jpg" data-tags="idm" role="button">
-Plaid - Not For Threes (1997-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0709c446-e190-4dce-b469-908e51267770/4058092546-500.jpg" data-tags="electronica, idm, boards of canada, electronic, downtempo" role="button">
 Boards of Canada - Peel Session (1998-06-16)
@@ -155,6 +149,9 @@ Secede - Tryshasla (2005-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8789c7e-d25c-45ae-8a36-ccdb26120444/3420071342-500.jpg" data-tags="idm" role="button">
+Vector Lovers - Capsule for one (2005-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/588c6bc0-7428-4753-8f6d-8e7a9320077a/2226497555-500.jpg" data-tags="idm, electronic" role="button">
 AFX - Chosen Lords (2006-04-10)
@@ -248,6 +245,9 @@ Aes Dana - Perimeters (2011-01-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
+</li>
+<li data-cover="https://img.discogs.com/srw5tT6H7BgCU3k8Oj8crk1ct3M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2691946-1296765846.jpeg.jpg" data-tags="classical, ambient, idm" role="button">
+Near The Parenthesis - Japanese for Beginners (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)

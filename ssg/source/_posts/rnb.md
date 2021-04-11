@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:47:01.414Z
+date: 2021-04-11T18:41:07.014Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -92,9 +92,6 @@ Christina Aguilera - Stripped (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/884cee1b-ee29-3bc2-9a4d-a9e24cbd021f/7321348087-500.jpg" data-tags="rnb" role="button">
-R. Kelly - Chocolate Factory (2003-02-17)
 </li>
 <li data-cover="https://img.discogs.com/BVQSqwGvZqrlONoIw9PsAxZYP78=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963273-1280519042.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
@@ -224,6 +221,9 @@ Jesse McCartney - Departure (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
+</li>
+<li data-cover="https://img.discogs.com/iCEWQF2PnDjvsJWGwAw8vH5R6ZE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057789-1261411597.jpeg.jpg" data-tags="soul" role="button">
+John Legend - Evolver (2008-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)

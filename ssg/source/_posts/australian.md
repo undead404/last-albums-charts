@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:26:01.509Z
+date: 2021-04-11T18:18:06.969Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -27,9 +27,6 @@ The Easybeats - Friday on My Mind (1966)
 <li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
-<li data-cover="https://img.discogs.com/I7mB_KrCVjLfzV9fjw9vMuKK9Ec=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2856067-1306599148.jpeg.jpg" data-tags="hard rock" role="button">
-AC/DC - '74 Jailbreak (1984-10-15)
-</li>
 <li data-cover="https://img.discogs.com/BKUnzmFqbvcnSwjiJB8gea1s5y4=/fit-in/592x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588932-1292031961.jpeg.jpg" data-tags="pop rock, australian, rca victor, needs to be played more, aussie classic, john farnham-pressure down, whispering jack" role="button">
 John Farnham - Whispering Jack (1986)
 </li>
@@ -47,6 +44,9 @@ AC/DC - The Razors Edge (1990-09-21)
 </li>
 <li data-cover="https://img.discogs.com/IYd0vgOIokmApK2eKqbbcFe-YkM=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342958-1470291334-7087.jpeg.jpg" data-tags="crowded house" role="button">
 Crowded House - Woodface (1991-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f7e1e4b-0fd2-4afb-bfe2-6c3e78e95389/2115349150-500.jpg" data-tags="rock" role="button">
+INXS - The Greatest Hits (1994-11-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge, rock" role="button">
 Silverchair - Frogstomp (1995-03-27)
@@ -99,8 +99,8 @@ Kylie Minogue - Fever (2001-10-05)
 <li data-cover="https://img.discogs.com/CNWQ-65tOtu0wHnoQxU8t7lmjCM=/fit-in/600x852/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970862-1452672610-7453.jpeg.jpg" data-tags="classic rock, pop, rock, 80s, australian, new wave, soft rock" role="button">
 Men at Work - The Essential Men at Work (2003-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/66dbad61-405a-4bac-a9f6-83f76cf9c7da/9725831330-500.jpg" data-tags="australian" role="button">
-The Sleepy Jackson - Lovers (2003-06-30)
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
+The Lucksmiths - Naturaliste (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/jsfuBqIQ9Tl25n0Dd8juDTzDnYc=/fit-in/350x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059559-1306253341.jpeg.jpg" data-tags="rock" role="button">
 Jet - Get Born (2003-09-14)
@@ -113,6 +113,9 @@ The Presets - Blow Up (2003-11-17)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2807803f-f6d2-498c-84d8-9efec28ddf0a/15587632674-500.jpg" data-tags="alternative rock" role="button">
+Spiderbait - Tonight Alright (2004-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
@@ -147,9 +150,6 @@ End of Fashion - End of Fashion (2005-08-20)
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
-The Presets - Beams (2005-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d283241-8ab9-4ce8-b5e5-4bed82e1f894/9230255613-500.jpg" data-tags="australian, acoustic" role="button">
 Bernard Fanning - Tea & Sympathy (2005-10-31)
 </li>
@@ -183,9 +183,6 @@ Airbourne - Runnin' Wild (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/3962f99b-8d61-469a-b6d0-b4f1ca14f668/19552680044-500.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - Places Like This (2007-07-28)
 </li>
-<li data-cover="https://img.discogs.com/f1ZtFzXpOWkuJM7_t-ivbz8FCR4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047786-1389507683-6088.jpeg.jpg" data-tags="electronic" role="button">
-Midnight Juggernauts - Dystopia (2007-08-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/a1caffde-a45e-43d6-bcae-631164058a97/16176453167-500.jpg" data-tags="indie, country, alternative, folk, singer-songwriter, australian, happy music, my cd collection" role="button">
 Ben Lee - Ripe (2007-09-04)
 </li>
@@ -206,6 +203,9 @@ Cut Copy - In Ghost Colours (2008-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
+</li>
+<li data-cover="https://img.discogs.com/ZaABIH3aPyc3vO7_to28TFmYPJs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5752380-1401681346-9960.jpeg.jpg" data-tags="australia" role="button">
+Pete Murray - Summer At Eureka (2008-05-17)
 </li>
 <li data-cover="https://img.discogs.com/7uw1dCIGEOtZ3-WH8kNZMELYEVU=/fit-in/450x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5642800-1398763523-1180.jpeg.jpg" data-tags="rock, 00s" role="button">
 The Living End - White Noise (2008-07-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:55:01.411Z
+date: 2021-04-11T17:53:01.413Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -87,9 +87,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
 Usher - Confessions (2004-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">
 Rihanna - Music of the Sun (2005-08-29)
 </li>
@@ -135,8 +132,14 @@ Keyshia Cole - Just Like You (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">
 Trey Songz - Trey Day (2007-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/b86285db-3459-37e8-a190-493ac9b7954f/21075550304-500.jpg" data-tags="pop, rnb" role="button">
+Jordin Sparks - Jordin Sparks (2007-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/b6325193-a947-43d1-bb85-0c43a95a737d/9609319297-500.jpg" data-tags="rap, r&b" role="button">
 Cassidy - B.A.R.S. The Barry Adrian Reese Story (2007-11-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2bed058-22f2-4c2e-a3f8-9e8f63a4ba11/25127575694-500.jpg" data-tags="pop" role="button">
+The Pussycat Dolls - Doll Domination 2.0 (2008-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
@@ -153,11 +156,11 @@ Shontelle - Shontelligence (2008-11-17)
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
 </li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
-</li>
 <li data-cover="https://img.discogs.com/Bg9bgjevL5gthxMbzB2SGOdB_Og=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894295-1478123270-3863.jpeg.jpg" data-tags="r&b" role="button">
 Taio Cruz - Break Your Heart (2009-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3def2f0-7450-3bf7-ba39-de5227fcbfe9/1579061296-500.jpg" data-tags="r&b, alicia keys, a keys" role="button">
+Alicia Keys - Doesn't Mean Anything (2009-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5a8aa32-02b0-419c-8065-0f8096acd449/23085200167-500.jpg" data-tags="r&b, rnb, i created disco, ready for the weekend, everybody wants to be on tv" role="button">
 Mario - D.N.A. (2009-10-08)
@@ -218,9 +221,6 @@ The Weeknd - Thursday (2011-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Unbroken (2011-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
 Rihanna - Talk That Talk (2011-11-18)

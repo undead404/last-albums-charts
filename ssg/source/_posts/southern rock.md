@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:45:01.595Z
+date: 2021-04-11T18:20:01.428Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -135,9 +135,6 @@ Lynyrd Skynyrd - Endangered Species (1994)
 <li data-cover="http://coverartarchive.org/release/16e6e02a-1bf3-4011-bcdf-c787343295cd/9357983536-500.jpg" data-tags="classic rock, rock, southern rock, hard rock, southern-rock" role="button">
 Blackfoot - Rattlesnake Rock 'n' Roll: The Best of Blackfoot (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/06864755-6e45-4af0-b2fe-3d5d11348ee7/13476346181-500.jpg" data-tags="southern rock" role="button">
-Pride & Glory - Pride & Glory (1994-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
 </li>
@@ -164,6 +161,9 @@ Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
 </li>
 <li data-cover="https://img.discogs.com/WiK-1OZ9OI_DiKWJMXnAm9S2tdM=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101246-1471092563-8075.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Edge Of Forever (1999-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/002f82bb-50ce-4550-9c38-eba9170c3089/16114308238-500.jpg" data-tags="southern rock" role="button">
+Agents of Oblivion - Agents of Oblivion (2000-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
@@ -264,9 +264,6 @@ Dead Confederate - Wrecking Ball (2008-09-16)
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5ae09cb-61a5-4d8b-a13f-c4759d5fb511/4758890682-500.jpg" data-tags="southern rock, stoner" role="button">
-Red Fang - Red Fang (2009-03-10)
-</li>
 <li data-cover="https://img.discogs.com/ktBOCx_zlv-PrQvBGaoLMPfJl9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828335-1246131553.jpeg.jpg" data-tags="southern rock, 2000s, 2009 albums" role="button">
 Maylene and the Sons of Disaster - III (2009-06-23)
 </li>
@@ -275,6 +272,9 @@ He Is Legend - It Hates You (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c21a8a63-2a58-427e-b9eb-7e1e2f8a475d/7714727211-500.jpg" data-tags="post-hardcore" role="button">
 Memphis May Fire - Sleepwalking (2009-07-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9fc2e27a-8a6b-494f-b70d-fd5009bd73c9/4773437650-500.jpg" data-tags="metalcore" role="button">
+Every Time I Die - New Junk Aesthetic (2009-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/da29d084-1a4e-4131-b583-41160ebef119/27714452702-500.jpg" data-tags="rock, southern rock, classic rock" role="button">
 Lynyrd Skynyrd - God & Guns (2009-09-21)

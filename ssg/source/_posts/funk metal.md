@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:41:01.540Z
+date: 2021-04-11T18:11:01.411Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/vXkEoXsQV1UElskxuI9qUErajOc=/fit-in/468x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13023556-1546656092-1004.jpeg.jpg" data-tags="funk rock" role="button">
-Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
@@ -39,11 +36,11 @@ Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
 <li data-cover="http://coverartarchive.org/release/797d256e-c1a8-4b79-b8c8-7220461ae2db/13222015293-500.jpg" data-tags="funk metal, mike patton" role="button">
 Mr. Bungle - Goddammit I Love America! (1988)
 </li>
+<li data-cover="https://img.discogs.com/oY1__FQTk7uTibsilcL-zsgyLwI=/fit-in/307x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404642-1112452845.jpg.jpg" data-tags="metal, math rock, experimental, progressive metal, noise rock, fusion, funk metal, funk rock, alt metal, heavy prog, neo-prog, dub rock, produced by bill laswell" role="button">
+Blind Idiot God - Undertow (1988)
+</li>
 <li data-cover="https://img.discogs.com/BcSnxF4diDV_rRbRjXB5uOl8Y6M=/fit-in/500x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573900-1368976469-4214.jpeg.jpg" data-tags="ska punk" role="button">
 Fishbone - Fishbone (1988-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a87dca1-6046-4204-842c-022126631eaa/18837963279-500.jpg" data-tags="funk metal" role="button">
-Mr. Bungle - OU818 (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/31b2522c-041b-44b7-9daa-17ecea4faf6f/28725503103-500.jpg" data-tags="hard rock, hair metal" role="button">
 Extreme - Extreme (1989-05-21)
@@ -90,6 +87,9 @@ Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 <li data-cover="http://coverartarchive.org/release/7e2c82ba-9ba4-4827-9a22-bcd7844f1a0b/7919566324-500.jpg" data-tags="hard rock, funk metal, wants, dr b tags" role="button">
 Ugly Kid Joe - As Ugly As They Wanna Be (1991-10-15)
 </li>
+<li data-cover="https://img.discogs.com/3aXFsLb-Yd4A0noU2SZCBJpJJ9w=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257250-1214764397.jpeg.jpg" data-tags="metal, rock, math rock, experimental, experimental rock, fusion, funk metal, funk rock, alt metal, heavy prog, neo-prog, dub rock" role="button">
+Blind Idiot God - Cyclotron (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ff3dc75-ab63-41aa-b071-5d610e2aac06/10710572538-500.jpg" data-tags="hard rock" role="button">
 Saigon Kick - The Lizard (1992-06-02)
 </li>
@@ -110,9 +110,6 @@ Living Colour - Stain (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
 Primus - Pork Soda (1993-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
-P.O.D. - Snuff the Punk (1994-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f4fc8ee-2c54-4796-ae65-cd935c86c52f/4851188326-500.jpg" data-tags="funk metal, funk" role="button">
 Infectious Grooves - Groove Family Cyco (1994-03-29)
@@ -213,6 +210,9 @@ O'Funk'illo - O'Funk'Illo (2000)
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental, funk metal, personal favourites" role="button">
 That 1 Guy - Songs in the Key of Beotch (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/0224e3c9-02bd-475d-9ce8-ccb8a4f8161d/15162471280-500.jpg" data-tags="funk, ska, ska-punk, fishbone" role="button">
+Fishbone - The Psychotic Friends Nuttwerx (2000-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/4ca0f1c9-d5f1-4001-ab83-e00a253133c3/5233810351-500.jpg" data-tags="hardcore" role="button">
 Suicidal Tendencies - Free Your Soul... and Save My Mind (2000-08-20)
 </li>
@@ -279,9 +279,6 @@ Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
 <li data-cover="http://coverartarchive.org/release/cea4b7d5-835f-47d4-af46-e5d507bd5d11/26430724808-500.jpg" data-tags="funk, experimental" role="button">
 Colonel Claypool's Bucket of Bernie Brains - The Big Eyeball In The Sky (2004-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/41a71be2-4c3d-43f5-a7f7-f7ea91541bc8/12638055306-500.jpg" data-tags="avant-garde, avant-prog" role="button">
-Sleepytime Gorilla Museum - Of Natural History (2004-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
 Mortifera - Vastiia Tenebrd Mortifera (2004-12)
 </li>
@@ -299,6 +296,9 @@ That 1 Guy - The Moon Is Disgusting (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
+Marcus Miller - Free (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c18246b-f3d1-45ae-b844-8b0c833f224a/17634236874-500.jpg" data-tags="experimental" role="button">
 Les Claypool - Of Fungi And Foe (2009-03-17)

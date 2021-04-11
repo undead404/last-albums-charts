@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:34:01.518Z
+date: 2021-04-11T17:50:01.447Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -92,6 +92,9 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
+John Mayer - Any Given Thursday (2003-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
@@ -233,9 +236,6 @@ Frank Turner - Love Ire & Song (2008-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
-Priscilla Ahn - A Good Day (2008-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)

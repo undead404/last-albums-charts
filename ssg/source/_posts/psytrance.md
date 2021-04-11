@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:21:07.091Z
+date: 2021-04-11T18:08:01.423Z
 title: "psytrance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -32,9 +32,6 @@ Electric Universe - One Love (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e84f173-3c96-3fc0-8565-bfb85d8724a3/10752369965-500.jpg" data-tags="psytrance" role="button">
 Hallucinogen - Twisted (1995-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d869542-507d-3a9f-810e-2ff84af0891e/10744313145-500.jpg" data-tags="goa, psytrance, trance" role="button">
-Juno Reactor - Beyond The Infinite (1995-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/09605364-828b-4664-b142-c7aaf75aa82b/5512445694-500.jpg" data-tags="psytrance" role="button">
 Total Eclipse - Delta Aquarids (1995-10)
@@ -71,6 +68,9 @@ Man With No Name - Earth Moving the Sun (1998-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">
 Shpongle - Are You Shpongled? (1998-10-01)
+</li>
+<li data-cover="https://img.discogs.com/9YW7QG1ZC6hmmqIU6e2cisOGENA=/fit-in/596x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-74353-1204898649.jpeg.jpg" data-tags="goa, psytrance, i love it" role="button">
+Chi-A.D. - Anno Domini (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0c0528-df5e-3aac-97b1-0318a9fb23f2/3183924982-500.jpg" data-tags="psytrance, goa, electronic" role="button">
 Infected Mushroom - The Gathering (1999-03-01)
@@ -125,9 +125,6 @@ Astrix - Eye to Eye (2002-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/401f1131-8509-4c25-bbfe-a7cff4b0705e/10313386444-500.jpg" data-tags="psydub, dub" role="button">
 Hallucinogen - In Dub (2002-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/0761975a-9583-4024-9a1e-a2361b1e6cfd/28443449178-500.jpg" data-tags="goa, psytrance" role="button">
-Juno Reactor - Hotaka (2002-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b934e84-7898-4250-9ee2-c9bed1b4d2a5/11194847884-500.jpg" data-tags="psytrance, psychill, electronic, ambient" role="button">
 Younger Brother - A Flock of Bleeps (2003-03-28)
@@ -186,6 +183,9 @@ Talamasca - Made In Trance (2004-07)
 <li data-cover="http://coverartarchive.org/release/9111bc76-628a-43fd-a109-a337ce27ed5b/6006993529-500.jpg" data-tags="electronic" role="button">
 Infected Mushroom - Cities of the Future (2004-07-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="goa, psytrance, psy, eskimo" role="button">
+Eskimo - Take a Look Out There (2004-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Infected Mushroom - IM the Supervisor (2004-09-10)
 </li>
@@ -206,9 +206,6 @@ Vibe Tribe - Melodrama (2004-11)
 </li>
 <li data-cover="https://img.discogs.com/asva7VJ138kLrHMWw-KW7gCQJag=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391825-1107213628.jpg.jpg" data-tags="psytrance" role="button">
 Fatali - Faith (2005-01-16)
-</li>
-<li data-cover="https://img.discogs.com/096GTWW9OnxQnwwQPAWus9S-brU=/fit-in/400x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428065-1112369689.jpg.jpg" data-tags="psytrance" role="button">
-Wrecked Machines - Second Thought (2005-03-16)
 </li>
 <li data-cover="https://img.discogs.com/n78aruqghHzFQNvqguOS4bQzZ3g=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448353-1126258120.jpeg.jpg" data-tags="psytrance" role="button">
 Rinkadink - Pirate Signal (2005-04)
@@ -296,6 +293,9 @@ Vibrasphere - Lungs of life (2008-12-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a443b45f-f7c9-4812-9287-926b8397cc09/3048051708-500.jpg" data-tags="psytrance" role="button">
 Sesto Sento - Key To The Universe (2008-12-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae77b57b-02bc-4ded-831a-f3bdebafa7ce/3447851903-500.jpg" data-tags="psytrance" role="button">
+Vibe Tribe - Destination Unknown (2009-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e734f4f-3215-3153-8fa7-376cf8a8172e/8562147990-500.jpg" data-tags="electronic, psytrance, psychedelic" role="button">
 Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)
