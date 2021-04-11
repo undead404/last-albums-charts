@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:39:12.578Z
+date: 2021-04-11T02:45:07.204Z
 title: "dance-pop: 100 albums you must listen to before you die"
 ---
 ![Robyn - Body Talk (2010-11-22)](https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg "Robyn - Body Talk (2010-11-22)")
@@ -60,11 +60,11 @@ Madonna - Like a Prayer (1989-03)
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/9713fc8a-1b94-4fdb-856c-1fd3530d07b8/8570302729-500.jpg" data-tags="90s, pop, dance" role="button">
-Ace of Base - The Sign (1993-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d61cc3bc-678c-4a7e-b6bb-a7663971c1ad/15863460281-500.jpg" data-tags="seal" role="button">
 Seal - Seal II (1994-05-31)
+</li>
+<li data-cover="https://img.discogs.com/agIVmxuf05EzCdwusuUhqjvAmIE=/fit-in/469x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611391-1293119185.jpeg.jpg" data-tags="pop, latin" role="button">
+Ricky Martin - A Medio Vivir (1995-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spice (1996-09-19)
@@ -87,8 +87,14 @@ Kylie Minogue - Light Years (2000-09-22)
 <li data-cover="http://coverartarchive.org/release/9c70900d-2b45-4bc9-823d-312b12b08956/15955007405-500.jpg" data-tags="pop, soul, dance-pop, r&b" role="button">
 Sarah Connor - Green Eyed Soul (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/dce3ee08-32a7-4b42-85bc-269754e24d52/7439103052-500.jpg" data-tags="europop" role="button">
+A*Teens - Teen Spirit (2001-02-21)
+</li>
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
+</li>
+<li data-cover="https://img.discogs.com/3CK529HiIwzc3kNoo8mCsUeO140=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7268457-1437683277-8109.jpeg.jpg" data-tags="pop" role="button">
+Geri Halliwell - Scream If You Wanna Go Faster (2001-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
@@ -98,9 +104,6 @@ Enrique Iglesias - Escape (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
-</li>
-<li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
-4 Strings - Believe (2003-04-22)
 </li>
 <li data-cover="https://img.discogs.com/HOJBvC15uRXGDOTyH_kexdd1vuk=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8269814-1458408052-9599.jpeg.jpg" data-tags="pop" role="button">
 Kylie Minogue - Body Language (2003-11-10)
@@ -153,9 +156,6 @@ The Pussycat Dolls - Doll Domination 2.0 (2008-01-01)
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/a61c5a2c-7bc7-4f79-b0bb-7c669fc47817/5813347705-500.jpg" data-tags="pop, dance, kate ryan" role="button">
-Kate Ryan - Free (2008-05-30)
-</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
@@ -168,14 +168,17 @@ Kerli - Love Is Dead (2008-07-08)
 <li data-cover="https://img.discogs.com/u5jtDTfJgyqKgFdMVwXL5Hzvi1Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973140-1255984820.jpeg.jpg" data-tags="pop" role="button">
 Agnes - Dance Love Pop (2008-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4057401b-9dae-40f5-8c9c-51b684480546/22621329969-500.jpg" data-tags="pop" role="button">
-Kristinia DeBarge - Exposed (2009)
+<li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
+Pet Shop Boys - Yes (2009-03-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electropop, electronic, j-pop" role="button">
 Perfume - ⊿ (2009-07-08)
 </li>
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d44ea6d1-9ad9-4276-b7bb-3f1723c31cb7/13196782911-500.jpg" data-tags="dance pop" role="button">
+Alphabeat - The Beat Is... (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
@@ -203,9 +206,6 @@ Robyn - Body Talk (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/38d43abc-6820-415d-97bc-fe736ae32a76/6834753707-500.jpg" data-tags="pop, dance" role="button">
 Inna - Sun Is Up (2011-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad1c56d1-ae09-4270-9ff3-5e12df7eadf5/6305581895-500.jpg" data-tags="electropop, dance-pop, eurodance, eletronic, electrodance" role="button">
-September - Love CPR (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
@@ -255,9 +255,6 @@ Maroon 5 - Overexposed (2012-06-20)
 <li data-cover="http://coverartarchive.org/release/d3bb9be2-fc20-4dd2-9931-8da768e3411b/2157808480-500.jpg" data-tags="pop" role="button">
 Carly Rae Jepsen - Kiss (2012-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
-Zedd - Clarity (2012-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/a066b065-cd76-4dd4-a975-f3812fcd3229/18848001906-500.jpg" data-tags="trance, dance, eurovision" role="button">
 Loreen - Heal (2012-10-22)
 </li>
@@ -284,6 +281,9 @@ Pet Shop Boys - Electric (2013-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf868417-05a1-44b6-8f09-1d715e027ddd/4947248316-500.jpg" data-tags="pop, dance-pop, girlie, american girl, dr luke" role="button">
 Bonnie McKee - American Girl (2013-07-23)
+</li>
+<li data-cover="https://img.discogs.com/fK_SBnhk_3gYkaQuDn1Mcg2Ro2E=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145641-1494989212-6727.jpeg.jpg" data-tags="electronic, electropop, j-pop" role="button">
+Perfume - LEVEL3 (2013-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea866a8d-d190-46db-80d5-84703c22bbb3/6190333473-500.jpg" data-tags="pop, dance-pop, 00s, disney, eletronic, divas, miley cyrus, eletronic pop, miley, 7things, parceiras" role="button">
 Fifth Harmony - Better Together (2013-10-18)

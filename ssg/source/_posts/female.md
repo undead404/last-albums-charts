@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:50:01.419Z
+date: 2021-04-11T03:42:07.008Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -48,14 +48,14 @@ Jewel - Pieces of You (1994)
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
-Dar Williams - Mortal City (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6ddf947-3515-4c8d-8143-04dfb60190b0/16619425615-500.jpg" data-tags="rock" role="button">
 Sheryl Crow - Sheryl Crow (1996-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9af39462-c1a0-4c45-b1c9-300ba2490f6a/4155878252-500.jpg" data-tags="vocal, female vocalists, female" role="button">
+Sarah Brightman - Timeless (1997-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd2699c3-5825-45fa-9133-facb02651524/14670573584-500.jpg" data-tags="female vocalists" role="button">
 Lisa Loeb - Firecracker (1997-10-27)
@@ -101,9 +101,6 @@ Azure Ray - Burn and Shiver (2002-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e57ad832-ba32-433e-ad5d-5e4d1023e9c5/21776156498-500.jpg" data-tags="heavy metal, metal, finnish, gothic metal" role="button">
 Entwine - Time of Despair (2002-04-22)
-</li>
-<li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
-Vanessa Carlton - Be Not Nobody (2002-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
 Rilo Kiley - The Execution of All Things (2002-10-01)
@@ -162,6 +159,9 @@ Natasha Bedingfield - Unwritten (2004-09-06)
 <li data-cover="http://coverartarchive.org/release/e0440635-800b-4b22-80fd-551d4abbdce9/10253297780-500.jpg" data-tags="pop, pop rock" role="button">
 Hilary Duff - Hilary Duff (2004-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Anna Ternheim - Somebody Outside (2004-10-13)
+</li>
 <li data-cover="https://img.discogs.com/ALkAqutxqMHyzuVHatwK4xq-OhE=/fit-in/449x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-345012-1162656985.jpeg.jpg" data-tags="indie, female, british, experimental, german, toytronic" role="button">
 Psapp - Tiger, My Friend (2004-11-02)
 </li>
@@ -195,9 +195,6 @@ Sugababes - Taller in More Ways (2005-10-10)
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
-theNoLifeKing - Forgotten Landscape (2006-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
 </li>
@@ -221,6 +218,9 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop latino, spanish, latina" role="button">
 Conchita - Nada Más (2007-02-04)
+</li>
+<li data-cover="https://img.discogs.com/Ho2ZothEblcMv6mVngRtYoIPvss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1325186-1238157184.jpeg.jpg" data-tags="pop" role="button">
+Natasha Bedingfield - N.B. (2007-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b751266-4d87-4f77-b0d1-e24c972da67b/17355678634-500.jpg" data-tags="female vocalists, missy" role="button">
 Missy Higgins - On A Clear Night [Australian Version] (2007-04-28)

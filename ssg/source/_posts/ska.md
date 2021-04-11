@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:17:01.415Z
+date: 2021-04-11T03:01:01.413Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -32,9 +32,6 @@ The Clash - London Calling (1979-12-14)
 </li>
 <li data-cover="https://img.discogs.com/GZTNxEFdR7Y4ZR0JiuMiR_FvYp0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17882959-1615988212-9837.jpeg.jpg" data-tags="ska, two-tone" role="button">
 The English Beat - I Just Can't Stop It (1980-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/922ded3b-38d8-4814-922d-85e8cc7491f5/5858926036-500.jpg" data-tags="ska" role="button">
-The Beat - I Just Can't Stop It (1980-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9604a153-5a40-35c0-ba5c-72019a5df380/22902123804-500.jpg" data-tags="ska" role="button">
 The Specials - More Specials (1980-10-04)
@@ -135,9 +132,6 @@ Ska-P - Eurosis (1998-07-17)
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">
 Less Than Jake - Hello Rockview (1998-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4926255-873e-44fd-ac3f-aa23c0286a10/16000973513-500.jpg" data-tags="ska" role="button">
-Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d325a894-2df2-4ed9-9230-dfdf0c54ae24/11450087455-500.jpg" data-tags="rock" role="button">
 Los Hermanos - Los Hermanos (1999)
 </li>
@@ -207,9 +201,6 @@ The Forces of Evil - Friend or FOE? (2003-10)
 <li data-cover="http://coverartarchive.org/release/18230503-dc0a-4822-b7bc-7822a769d4e8/28086874897-500.jpg" data-tags="ska, russian" role="button">
 Ленинград - Для миллионов (2003-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
-The Cat Empire - The Cat Empire (2003-10-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
 No Doubt - The Singles 1992-2003 (2003-10-28)
 </li>
@@ -245,6 +236,9 @@ The Planet Smashers - Unstoppable (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
 Goldfinger - The Best Of Goldfinger (2005-02-19)
+</li>
+<li data-cover="https://img.discogs.com/COI79GHYa5Q31EB4PZlT6ucMbeU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6463974-1419874590-8128.jpeg.jpg" data-tags="ska punk" role="button">
+Reel Big Fish - We're Not Happy 'til You're Not Happy (2005-04-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
@@ -291,6 +285,9 @@ RX Bandits - ...And the Battle Begun (2006-08-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="rocksteady, ska, third wave ska" role="button">
 Big D And The Kids Table - Strictly Rude (2007-03-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ae26f5d-c22b-4c19-a8f3-d5c133b98f48/3352654339-500.jpg" data-tags="ska punk, ska" role="button">
+Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/a02a6d0b-cd51-4938-ab72-32efdc56acf8/6936491369-500.jpg" data-tags="punk, punk rock, plattensammlung" role="button">
 The Flatliners - The Great Awake (2007-09-04)
 </li>
@@ -311,6 +308,9 @@ The Courteeners - St. Jude (2008-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c54c36bd-7a0e-4bcb-a8d5-8454ed4e3b5f/7101277809-500.jpg" data-tags="ska, polish, akurat, pol-ska" role="button">
 Akurat - Optymistyka (2008-11-07)
+</li>
+<li data-cover="https://img.discogs.com/3W0xB4mt2YDIZh8CLaxKgiOICJc=/fit-in/600x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596472-1369480147-6877.jpeg.jpg" data-tags="indie, alternative, 00s" role="button">
+Morrissey - Years of Refusal (2009-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff61674-a5db-4b1d-8181-460d906ba605/3988528235-500.jpg" data-tags="punk, punk rock" role="button">
 Rancid - Let the Dominoes Fall (2009-06-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:19:01.454Z
+date: 2021-04-11T03:04:01.410Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -39,9 +39,6 @@ Townes Van Zandt - Rear View Mirror (1993)
 <li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
 Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
-<li data-cover="https://img.discogs.com/ZuAf5s3qQsBkjGXO93JZ5_xlqC8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204512-1602101985-3896.jpeg.jpg" data-tags="alt-country" role="button">
-Whiskeytown - Faithless Street (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
 </li>
@@ -63,6 +60,9 @@ Gillian Welch - Revival (1996-04-09)
 <li data-cover="http://coverartarchive.org/release/7fe6a811-5c22-4211-b0b6-a7b8e0a270bd/28840033761-500.jpg" data-tags="singer-songwriter, alt-country, female vocalists" role="button">
 Patty Griffin - Living With Ghosts (1996-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b6ddf947-3515-4c8d-8143-04dfb60190b0/16619425615-500.jpg" data-tags="rock" role="button">
+Sheryl Crow - Sheryl Crow (1996-09-23)
+</li>
 <li data-cover="https://img.discogs.com/6JS4_JVkwPqO8SbUmSQS0w42i-U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-388145-1250532086.jpeg.jpg" data-tags="indie" role="button">
 Silver Jews - The Natural Bridge (1996-10-01)
 </li>
@@ -74,9 +74,6 @@ Johnny Cash - Unchained (1996-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f011457-2953-4a80-a00d-cb5a22dfae5d/24132483982-500.jpg" data-tags="alt-country, americana, 90s" role="button">
 Old 97's - Too Far To Care (1997-06-17)
-</li>
-<li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
-Whiskeytown - Strangers Almanac (1997-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
 Calexico - The Black Light (1998-05-18)
@@ -95,12 +92,6 @@ Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
 The Be Good Tanyas - Blue Horse (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/b896e218-6dbe-4d2c-9d12-0234b24d429a/24486264397-500.jpg" data-tags="alt-country" role="button">
-Whiskeytown - Pneumonia (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/857f4b2c-b396-4291-bdfe-78de6dac4828/23504502964-500.jpg" data-tags="alt-country" role="button">
-16 Horsepower - Hoarse (2000-04-01)
 </li>
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
@@ -165,14 +156,17 @@ Gillian Welch - Soul Journey (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a5d8a71-ef7b-4115-a686-318638aec5c2/6848655594-500.jpg" data-tags="indie, rock, alternative, ween" role="button">
+Ween - Quebec (2003-08-05)
+</li>
+<li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
+My Morning Jacket - It Still Moves (2003-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/6068b157-6b87-4c52-8419-3fc7e43357b3/21217525089-500.jpg" data-tags="female vocalists, alt-country" role="button">
-Patty Griffin - Impossible Dream (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
@@ -207,23 +201,20 @@ My Morning Jacket - Z (2005-10-04)
 <li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
 Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
-Ryan Adams - 29 (2005-12-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ff8d6c1-3d3d-45ca-9912-85374dac43a8/5929512227-500.jpg" data-tags="folk, alt-country, discovered gems, bhplay, and finally the world is okay okay okay and all the burdens fade away" role="button">
 DeYarmond Edison - Silent Signs (2006-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc234d9b-4934-4e47-b58c-4c73c6dd7aa3/1065192461-500.jpg" data-tags="alternative, singer-songwriter, alt-country, rhett" role="button">
 Rhett Miller - The Believer (2006-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
-Josh Rouse - Subtitulo (2006-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/61e933ae-208d-36fe-8dbc-fa0411780514/4021935438-500.jpg" data-tags="americana" role="button">
 Calexico - Garden Ruin (2006-03-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
+My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
 M. Ward - Post-War (2006-08-22)
@@ -279,6 +270,12 @@ Dawes - North Hills (2009-06-16)
 <li data-cover="http://coverartarchive.org/release/0df19cac-877c-4dae-9c09-83f1509ee181/21009277200-500.jpg" data-tags="indie, alt country" role="button">
 Magnolia Electric Co. - Josephine (2009-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
+Califone - All My Friends Are Funeral Singers (2009-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
+Brown Bird - The Devil Dancing (2009-11-10)
+</li>
 <li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">
 Phosphorescent - Here's To Taking It Easy (2010-05-10)
 </li>
@@ -314,6 +311,9 @@ Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
+</li>
+<li data-cover="https://img.discogs.com/LBHew7ocBw-8ugF7GKPnY1eqpK0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4757364-1374548829-9967.jpeg.jpg" data-tags="folk, acoustic" role="button">
+City and Colour - The Hurry And The Harm (2013-06-04)
 </li>
 <li data-cover="https://img.discogs.com/0ZxmEWYfvMahYDyVlfsf2zFRhbw=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5008713-1382263827-7200.jpeg.jpg" data-tags="pop, folk, contemporary folk, americana, alt-country, 2010s, contemporary bluegrass" role="button">
 Sarah Jarosz - Build Me Up From Bones (2013-09-24)

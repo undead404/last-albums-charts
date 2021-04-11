@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:42:06.984Z
+date: 2021-04-11T03:28:12.621Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -30,6 +30,12 @@ Crystal Gayle - We Must Believe In Magic (1977)
 <li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
 Glen Campbell - Southern Nights (1977-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/b69cf6bd-70b4-4e71-a3f8-ca7c78abe75e/5704200723-500.jpg" data-tags="pop, 80s, country pop, mtplay" role="button">
+Eddie Rabbitt - Horizon (1980)
+</li>
+<li data-cover="https://img.discogs.com/JzpAP-kIUwt3X6uqCSwC510f8yk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4304112-1361216678-1310.jpeg.jpg" data-tags="country" role="button">
+Alabama - Feels So Right (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca3fc917-deaf-4a15-9cbc-dbf37f9f5e9b/5679177340-500.jpg" data-tags="country" role="button">
 Willie Nelson - Always On My Mind (1982)
 </li>
@@ -54,9 +60,6 @@ Tim McGraw - Not a Moment Too Soon (1994-03-22)
 <li data-cover="http://coverartarchive.org/release/e0b8ea86-2462-454e-950c-e9428882aa2a/10151666191-500.jpg" data-tags="country" role="button">
 Reba McEntire - Read My Mind (1994-04-26)
 </li>
-<li data-cover="https://img.discogs.com/pAKaNMcVw3-Vj6P_FpeUQ6p6gXo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435832-1197757353.jpeg.jpg" data-tags="eurodance" role="button">
-Rednex - Sex & Violins (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/449e8f48-40a1-3486-886d-ceb3393d1089/22085040754-500.jpg" data-tags="country, terri clark" role="button">
 Terri Clark - Terri Clark (1995-08-08)
 </li>
@@ -77,9 +80,6 @@ Brooks & Dunn - Greatest Hits (1997)
 </li>
 <li data-cover="https://img.discogs.com/faB_-tEElnsFZt1mt4QCSLCA_Tk=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8648129-1466040642-2252.jpeg.jpg" data-tags="country, female vocalists, country pop, pop country, 90s country, country-crossover, country divas, ladies of country, 90s country-pop, 90s country pop, m bride" role="button">
 Martina McBride - Evolution (1997-08-26)
-</li>
-<li data-cover="https://img.discogs.com/wcHWm7ZN0DmVzC3W0dfV4CJybbk=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9029127-1586477800-6585.jpeg.jpg" data-tags="country" role="button">
-LeAnn Rimes - You Light Up My Life: Inspirational Songs (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Come on Over (1997-11-04)
@@ -240,6 +240,9 @@ Keith Urban - Defying Gravity (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/17313ca7-d200-4f04-993a-eaec731083b0/23737640405-500.jpg" data-tags="country" role="button">
 Rodney Atkins - It's America (2009-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/ec88908d-cf8a-46cd-a4da-3b5ba8fe9b2b/8300809077-500.jpg" data-tags="country pop, teen pop, nickelodeon, russell98, boogieman981" role="button">
+Jennette McCurdy - Homeless Heart (2009-05-19)
+</li>
 <li data-cover="https://img.discogs.com/g4P_85i4os0onW_ADNpUL27DLwM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3151386-1318138761.jpeg.jpg" data-tags="country" role="button">
 Gloriana - Gloriana (2009-08-03)
 </li>
@@ -317,8 +320,5 @@ Jason Aldean - Old Boots, New Dirt (2014-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3757c03f-d849-4f8f-a4c7-726904ef8fb0/25348040175-500.jpg" data-tags="not country, not sexy" role="button">
 Sam Hunt - Montevallo (2014-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/97c9644e-e32c-4216-875e-7ae390e63571/8451772893-500.jpg" data-tags="folk" role="button">
-Leighton Meester - Heartstrings (2014-10-28)
 </li>
 </ol>

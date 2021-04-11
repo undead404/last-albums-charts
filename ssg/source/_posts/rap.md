@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:00:01.465Z
+date: 2021-04-11T03:40:01.518Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -105,6 +105,9 @@ OutKast - Aquemini (1998-09-28)
 <li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">
 Eminem - The Slim Shady LP (1999-02-23)
 </li>
+<li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
+Nas - I Am... (1999-04-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/737a3d1e-5875-41c8-9cd2-c9d5c17f0b64/21858122807-500.jpg" data-tags="rap" role="button">
 Method Man & Redman - Blackout! (1999-09-27)
 </li>
@@ -182,9 +185,6 @@ MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
-Omarion - O (2005-02-22)
 </li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)

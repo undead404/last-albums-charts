@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:04:01.512Z
+date: 2021-04-11T03:24:01.414Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -8,7 +8,7 @@ title: "mathcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - Jane Doe (2001-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/42ea3211-d82a-465a-8ead-741a2e7dcf55/8879651355-500.jpg" data-tags="mathcore" role="button">The Dillinger Escape Plan - Miss Machine (2004-07-20)</li>
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">Protest the Hero - Kezia (2005-08-30)</li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">August Burns Red - Messengers (2007-06-19)</li>
+<li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - No Heroes (2006-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/f9fb71aa-44af-4cc3-8dd9-ef83a5f95454/9120940458-500.jpg" data-tags="mathcore" role="button">The Dillinger Escape Plan - Ire Works (2007-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">Protest the Hero - Fortress (2008-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/41b4c3be-b228-4abc-a79c-5f2fd31169b4/20002393726-500.jpg" data-tags="metalcore, mathcore" role="button">Architects - Hollow Crown (2009-01-26)</li>
@@ -29,6 +29,9 @@ Converge - Petitioning the Empty Sky (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/864fea9e-14c2-4d91-af31-67c2a06d8622/26500496298-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - The Dillinger Escape Plan (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ea34ebe-26b4-4eef-95c2-6603ecc3149f/28269315809-500.jpg" data-tags="metalcore, mathcore" role="button">
+Botch - Unifying Themes Redux (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf382078-916b-4b37-a2a5-64f1888a4ea7/10719186208-500.jpg" data-tags="mathcore" role="button">
 Botch - American Nervoso (1998)
@@ -141,12 +144,6 @@ Between the Buried and Me - Alaska (2005-09-06)
 <li data-cover="https://img.discogs.com/XnnkqZggbijApoY4bKcNmpE5A9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2782286-1300802505.jpeg.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Solace (2005-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b4389ad-d198-4272-b9da-cf01666be10e/19427644119-500.jpg" data-tags="experimental, jazz metal, progressive metal, mathcore, avant-garde metal" role="button">
-Ephel Duath - Pain Necessary To Know (2005-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Thrill Seeker (2005-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/c2a7c5ec-9bf8-45c8-ab10-7fd6a04f90f0/21192167958-500.jpg" data-tags="metalcore, chaotic hardcore, mathcore" role="button">
 The Chariot - Unsung EP (2005-12-05)
 </li>
@@ -155,6 +152,9 @@ After the Burial - Forging A Future Self (2006-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc891dcb-eea0-4659-a9a1-fc21cfb1fab2/20002248335-500.jpg" data-tags="mathcore, metalcore" role="button">
 Architects - Nightmares (2006-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f0d51ae8-6e20-4588-ba6e-e95d04fb36cb/4980648812-500.jpg" data-tags="experimental, hardcore punk, mathcore" role="button">
+The Dillinger Escape Plan - Plagiarism (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/00103e5a-a298-4108-9f74-4a5d9490a6ef/2772311711-500.jpg" data-tags="progressive metal, cover album" role="button">
 Between the Buried and Me - The Anatomy Of (2006-06-13)
@@ -171,14 +171,14 @@ Norma Jean - Redeemer (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/9d13e3dd-67b2-444b-9f54-f420f0801888/26506766143-500.jpg" data-tags="grindcore, experimental" role="button">
 Heavy Heavy Low Low - Everything's Watched, Everyone's Watching (2006-09-19)
 </li>
-<li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
-Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a48e55e-5876-4477-8b53-44474b7f9a35/2061177990-500.jpg" data-tags="mathcore" role="button">
 Car Bomb - Centralia (2007-01-06)
+</li>
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
+Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://img.discogs.com/iWyRJbHjh45yON6e95jzI7_Q7yE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061669-1189109237.jpeg.jpg" data-tags="mathcore" role="button">
 PsyOpus - Our Puzzling Encounters Considered (2007-02-20)
@@ -189,17 +189,11 @@ The Locust - New Erections (2007-03-20)
 <li data-cover="https://img.discogs.com/Uk0nm8c7oLNBjTpasaPyptc34Q4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393274-1215839336.jpeg.jpg" data-tags="mathcore" role="button">
 See You Next Tuesday - Parasite (2007-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/615e536c-49d0-4213-8712-91bf5deb1bf0/21192181221-500.jpg" data-tags="hardcore" role="button">
-The Chariot - The Fiancée (2007-04-03)
-</li>
 <li data-cover="https://img.discogs.com/F0PJpap4eBWr5cbsS72NJ-CgUBo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071802-1215843325.jpeg.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Manipulator (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ecf488-9cdb-391a-9f51-d0c34254d045/19974817755-500.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Minus The Herd (2007-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Messengers (2007-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c89d6d8-74f6-375f-a06e-a271012d3ccd/27078108254-500.jpg" data-tags="mathcore" role="button">
 The Number Twelve Looks Like You - Mongrel (2007-06-19)
@@ -219,6 +213,9 @@ The Dillinger Escape Plan - Ire Works (2007-11-13)
 <li data-cover="http://coverartarchive.org/release/1ee0ac7b-3696-44e3-94c8-783eda35ee75/6683333870-500.jpg" data-tags="experimental, mathcore, deathcore" role="button">
 iwrestledabearonce - Iwrestledabearonce (2007-12-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/855f0762-01b7-4d7f-99f4-364eca05bb4e/8270013529-500.jpg" data-tags="mathcore" role="button">
+Capsule - Blue (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
 </li>
@@ -228,8 +225,8 @@ Genghis Tron - Board Up the House (2008-02-19)
 <li data-cover="https://img.discogs.com/SQxuLUlGGruxVSMBdmpI8Ev6iro=/fit-in/300x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2551329-1290045489.jpeg.jpg" data-tags="mathcore" role="button">
 Architects - Ruin (2008-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/97db5757-a7ee-4921-8f9b-f726f6433a62/27059737189-500.jpg" data-tags="hardcore, metalcore" role="button">
-Norma Jean - The Anti Mother (2008-08-05)
+<li data-cover="https://img.discogs.com/R77oDC3ePNo5T3pWma__RIMQ-s0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3094173-1315434080.jpeg.jpg" data-tags="mathcore" role="button">
+Duck Duck Goose - Noise, Noise and more Noise (2008-06-17)
 </li>
 <li data-cover="https://img.discogs.com/flx8uYuhHbv5WMKluPM8fxzQEZQ=/fit-in/500x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846257-1303732161.jpeg.jpg" data-tags="mathcore" role="button">
 Exotic Animal Petting Zoo - I Have Made My Bed In Darkness (2008-08-19)
@@ -258,6 +255,9 @@ The Chariot - Wars and Rumors of Wars (2009-05-05)
 <li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
 iwrestledabearonce - It's All Happening (2009-06-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/264134a2-99f2-4a38-80da-ecc4c5e3df6f/28729186719-500.jpg" data-tags="mathcore" role="button">
+Coalesce - Ox (2009-06-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Fall of Troy - In the Unlikely Event (2009-10-06)
 </li>
@@ -275,9 +275,6 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/95961c06-c3bb-4fe1-912e-7559ce0340fe/10554778238-500.jpg" data-tags="mathcore" role="button">
 Rolo Tomassi - Cosmology (2010-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1632644d-0c16-466e-9913-b12f0c808bff/3134783593-500.jpg" data-tags="metalcore" role="button">
-Norma Jean - Meridional (2010-07-12)
 </li>
 <li data-cover="https://img.discogs.com/3LOAhxCjAStQ3AEgV1qAsukrKag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2565251-1290716034.jpeg.jpg" data-tags="mathcore" role="button">
 The Chariot - Long Live (2010-11-22)
@@ -314,6 +311,9 @@ The Dillinger Escape Plan - One of Us Is the Killer (2013-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/040b2ef9-8923-4b92-9670-40c7548d468b/4877251710-500.jpg" data-tags="mathcore, hardcore" role="button">
 Norma Jean - Wrongdoers (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/211b6917-8c48-4a95-9dd7-a61f564dd7ea/6819593306-500.jpg" data-tags="mathcore" role="button">
+Sworn In - The Death Card (2013-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d38eb752-3eef-4fed-8128-125b89406dc7/6655634678-500.jpg" data-tags="progressive metal, melodic death metal, mathcore, modern metal, melodic death metalcore" role="button">
 Destrage - Are You Kidding Me? No. (2014-03-04)

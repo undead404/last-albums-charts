@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:30:01.451Z
+date: 2021-04-11T02:59:01.451Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -84,6 +84,9 @@ Los Planetas - Super 8 (1994)
 <li data-cover="http://coverartarchive.org/release/cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/3882539681-500.jpg" data-tags="indie rock" role="button">
 Pavement - Crooked Rain, Crooked Rain (1994-02-14)
 </li>
+<li data-cover="https://img.discogs.com/VACsS8J_F8Mbqk_ExGSZ_fns2vo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986924-1181048050.jpeg.jpg" data-tags="indie rock" role="button">
+Luna - Penthouse (1995-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
 The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
@@ -110,6 +113,9 @@ Black Tambourine - Complete Recordings (1999-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f00c29a-d93d-4233-a16c-987bde6c89b1/16162147832-500.jpg" data-tags="experimental" role="button">
+The Microphones - Don't Wake Me Up (1999-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/95586553-68a7-4d51-9e3b-ea75019cb33c/7066058886-500.jpg" data-tags="twee pop, jangle pop, garage rock revival, melodic, noise pop, 00s, sing-along, tuneful, truckload of trouble, dr small jukebox, actually cool, evening city, thelastmatch, savonlinna" role="button">
 The Aislers Set - The Last Match (2000-05)
@@ -171,9 +177,6 @@ Johnny Foreigner - Waited Up 'Til It Was Light (2008-06-02)
 <li data-cover="https://img.discogs.com/IBmiYwiDaKRlah6HX1SvQD2HhqA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466864-1282221333.jpeg.jpg" data-tags="noise rock, crazy, noise pop, art rock, wind and rain and ice and snow" role="button">
 Ponytail - Ice Cream Spiritual (2008-06-17)
 </li>
-<li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
-Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
-</li>
 <li data-cover="https://img.discogs.com/rlI4SmRCqB39hMcrZXHUmoP7dKE=/fit-in/479x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831656-1246382246.gif.jpg" data-tags="lo-fi, noise pop, weird canada" role="button">
 Tonstartssbandht - An When (2009)
 </li>
@@ -210,9 +213,6 @@ The Flaming Lips - Embryonic (2009-10-09)
 <li data-cover="http://coverartarchive.org/release/b3f7c6a2-bd5a-4aec-8fa5-1324d2df2ccc/26183911617-500.jpg" data-tags="noise pop" role="button">
 Sleigh Bells - Sleigh Bells (2009-12-06)
 </li>
-<li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie rock, rock" role="button">
-Los Campesinos! - Romance is Boring (2010-02-15)
-</li>
 <li data-cover="https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg" data-tags="noise pop" role="button">
 Sleigh Bells - Treats (2010-05-11)
 </li>
@@ -248,9 +248,6 @@ Car Seat Headrest - My Back Is Killing Me Baby (2011-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
 The Raveonettes - Raven in the Grave (2011-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7d17dabe-9909-42ac-ac1b-1f05bf07e500/7299643178-500.jpg" data-tags="indie" role="button">
-Crystal Stilts - In Love With Oblivion (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/abe3ba47-e9e2-406a-9ee0-5a9c7d06640d/11278649860-500.jpg" data-tags="noise pop" role="button">
 Boris - Attention Please (2011-05-23)
@@ -299,6 +296,9 @@ No Joy - Wait To Pleasure (2013-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="https://img.discogs.com/g_5r7oDFs8JaxW6_ODn7U3ASafo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4781559-1375326286-5445.jpeg.jpg" data-tags="electronic, noise pop, owsla" role="button">
+Heartsrevolution - Ride or Die (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/510bfd27-b585-4523-aee0-2c60f54b493f/5166508856-500.jpg" data-tags="electronic, indie" role="button">
 The Naked and Famous - In Rolling Waves (2013-09-13)

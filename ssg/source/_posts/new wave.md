@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:35:01.421Z
+date: 2021-04-11T03:33:01.427Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![New Order - Power, Corruption &amp; Lies (1983-05)](https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg "New Order - Power, Corruption & Lies (1983-05)")
@@ -59,9 +59,6 @@ The B-52's - The B-52's (1979-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/621b308e-ef79-4c7a-aa87-1f47885a709b/9312152547-500.jpg" data-tags="new wave" role="button">
 Talking Heads - Fear of Music (1979-08-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-XTC - Drums And Wires (1979-08-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
@@ -164,6 +161,9 @@ Talk Talk - It's My Life (1984-01-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0299e566-f951-440f-bb63-8d6608aff482/6126735758-500.jpg" data-tags="80s" role="button">
 The Smiths - The Smiths (1984-02-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/4aadb3cb-1935-38be-a824-798fc9e3c090/7905004727-500.jpg" data-tags="post-punk, new wave" role="button">
+The Cure - The Top (1984-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e8b1d1-6fa7-3baa-8658-026060ae06c5/14454641304-500.jpg" data-tags="80s" role="button">
 Alphaville - Forever Young (1984-09-27)

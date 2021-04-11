@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:16:07.009Z
+date: 2021-04-11T03:22:01.539Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -105,6 +105,9 @@ R. Kelly - Chocolate Factory (2003-02-17)
 <li data-cover="https://img.discogs.com/BVQSqwGvZqrlONoIw9PsAxZYP78=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963273-1280519042.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
+Black Eyed Peas - Elephunk (2003-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)
 </li>
@@ -128,9 +131,6 @@ John Legend - Get Lifted (2004-10-25)
 </li>
 <li data-cover="https://img.discogs.com/p3iuoIT_ocpEwZAzxDdx-ZVVRmU=/fit-in/500x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2022934-1259106451.jpeg.jpg" data-tags="rnb" role="button">
 Destiny's Child - Destiny Fulfilled (2004-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
-Omarion - O (2005-02-22)
 </li>
 <li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - Rebirth (2005-02-28)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T15:50:01.484Z
+date: 2021-04-11T02:52:01.415Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">Cat Power - You Are Free (2003-02-17)</li>
+<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">Azure Ray - Azure Ray (2001-01-16)</li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">of Montreal - The Sunlandic Twins (2005-02-23)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">Spoon - Gimme Fiction (2005-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">The Presets - Beams (2005-09-12)</li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">Destroyer - Destroyer's Rubies (2006-02-21)</li>
-<li data-cover="http://coverartarchive.org/release/595f30a5-c75b-48a4-a392-77c21a17be74/15447136541-500.jpg" data-tags="indie rock, indie, rock" role="button">Margot & the Nuclear So and So's - The Dust of Retreat (2006-03-28)</li>
+<li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">Andrew Bird - Armchair Apocrypha (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
 <li data-cover="https://img.discogs.com/VE9CKGGUhU21t3LZuEmRzRMuaq0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697610-1297008713.jpeg.jpg" data-tags="rock, indie rock" role="button">Cold War Kids - Mine Is Yours (2011-01-25)</li>
 </ol>
@@ -27,9 +27,6 @@ Sleater-Kinney - Dig Me Out (1997-04-08)
 <li data-cover="http://coverartarchive.org/release/6aca9251-e534-3c3c-b146-35996ff4abdd/1224066898-500.jpg" data-tags="indie, indie rock" role="button">
 Modest Mouse - The Fruit That Ate Itself (1997-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
-Cat Power - Moon Pix (1998-09-22)
-</li>
 <li data-cover="https://img.discogs.com/IKLQX9qx0jwFaw5BbQ_n-vn28II=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7181281-1437509290-7833.jpeg.jpg" data-tags="folk, colin hay" role="button">
 Colin Hay - Transcendental Highway (1998-10-13)
 </li>
@@ -44,6 +41,9 @@ Ryan Adams - Heartbreaker (2000-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c230341-02b8-495d-ba3d-8984757b5399/2013993569-500.jpg" data-tags="electronic, ambient, emusic" role="button">
 Shuttle358 - Frame (2000-12-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/734135d9-e730-4c5c-83e6-6da2ffb3b0b7/19969820364-500.jpg" data-tags="emusic, bedroom floor" role="button">
+Kevin Devine - Circle Gets the Square (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
@@ -66,17 +66,11 @@ The Black Keys - The Big Come Up (2002-05-20)
 <li data-cover="https://img.discogs.com/tpa5wY7vJpArimW7FdTV97JgEIU=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15606261-1596750220-3673.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Spoon - Kill the Moonlight (2002-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
-Cat Power - You Are Free (2003-02-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9371710-4a3d-44f8-b864-262902dc73dd/1785190880-500.jpg" data-tags="post-rock, emusic, progarchives100" role="button">
 Dirty Three - She Has No Strings Apollo (2003-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc67270e-5cd7-4c47-ae59-773e23216fb4/18229562558-500.jpg" data-tags="indie" role="button">
-Yo La Tengo - Summer Sun (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/28cc2841-46e4-40ab-b371-989a749a8368/1632398945-500.jpg" data-tags="indie, rock, indie rock, emusic, san diego, duyster, absolutely kosher, awesome indie pop-alternative, amazing eps, duyster essentials 2003" role="button">
 Pinback - Offcell (2003-06-03)
@@ -84,20 +78,20 @@ Pinback - Offcell (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/85e506c2-e6d6-4d06-8490-160ed6fdd337/26004122565-500.jpg" data-tags="indie" role="button">
 Elbow - Cast of Thousands (2003-08-13)
 </li>
-<li data-cover="https://img.discogs.com/is7TAuevkRtEgpoloPGOjOU16Bc=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1377651-1294688574.jpeg.jpg" data-tags="indie, start to finish albums, purchased 07" role="button">
-Josh Rouse - 1972 (2003-08-26)
+<li data-cover="http://coverartarchive.org/release/5fd10e64-ae53-31d9-adf0-df4566c50edd/20732430956-500.jpg" data-tags="electronic, alternative, idm, avant-garde, live, emusic, females, art pop, noteworthy, krojb" role="button">
+Björk - Post Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
+Hanne Hukkelberg - Little Things (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ee8a58-ed4a-412b-b5df-0769e0400ad2/4057944478-500.jpg" data-tags="electronic, emusic" role="button">
 Blue States - The Soundings (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
-TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae99cab-ba12-49e7-9a6d-ebbd8f14d3cb/4316585150-500.jpg" data-tags="indie" role="button">
 Ambulance Ltd - LP (2004-03-23)
@@ -107,6 +101,9 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
+</li>
+<li data-cover="https://img.discogs.com/pWR5red6KiRm4n6SOdMh6mOySIM=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-252667-1597703699-7756.jpeg.jpg" data-tags="electronica, indietronica" role="button">
+Lali Puna - Faking The Books (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
@@ -150,6 +147,9 @@ Ted Leo and the Pharmacists - Shake the Sheets (2004-10-19)
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
+<li data-cover="https://img.discogs.com/_CKi3p4wcoXIJWjTGs432aonwco=/fit-in/296x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-974660-1181122965.jpeg.jpg" data-tags="emusic, vert-de-gris play-list" role="button">
+Junip - Black Refuge EP (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/883f16f2-1392-335d-bfb1-4729af737721/13028977817-500.jpg" data-tags="indie" role="button">
 Someone Still Loves You Boris Yeltsin - Broom (2005)
 </li>
@@ -189,20 +189,20 @@ Elbow - Leaders of the Free World (2005-09-07)
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/871f0f8d-6009-42b4-bf7e-f85f3ddddae4/22530906121-500.jpg" data-tags="emusic" role="button">
+The Rosebuds - Birds Make Good Neighbors (2005-09-13)
+</li>
+<li data-cover="https://img.discogs.com/OW89G1guM7yGgIevQ1wIl-kk1ow=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-564096-1249054551.jpeg.jpg" data-tags="indie rock" role="button">
+Bloc Party - Two More Years (2005-10-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
-Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
-</li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/595f30a5-c75b-48a4-a392-77c21a17be74/15447136541-500.jpg" data-tags="indie rock, indie, rock" role="button">
-Margot & the Nuclear So and So's - The Dust of Retreat (2006-03-28)
 </li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
@@ -230,9 +230,6 @@ The Mountain Goats - Get Lonely (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/280bb838-ee2b-4ae7-9bc0-b83e54fefb7c/12725964170-500.jpg" data-tags="rock, punk, indie rock, american, live, emusic, fat wreck chords, was there, ila" role="button">
 Against Me! - Americans Abroad!!! Against Me!!! Live In London!!! (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/962cc65f-b464-4206-ac2e-af47abc31959/20597287616-500.jpg" data-tags="indie, rock, indie rock, post-punk, jade tree" role="button">
-Snowden - Anti-Anti (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
@@ -273,14 +270,17 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
 William Fitzsimmons - The Sparrow and the Crow (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
+Cat Power - Jukebox (2008-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/bbd7d814-3ec1-3a38-af77-9c99176fcd2c/11024800644-500.jpg" data-tags="indie, rock, indie pop, indie rock, emusic, 2008 albums, albums i need, i own, albums 2008, jaarlijstje 2008" role="button">
 Los Campesinos! - Hold On Now, Youngster (2008-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/e19accd9-a4de-4b27-b2fe-9dfb313b3cdb/18814987284-500.jpg" data-tags="emusic" role="button">
+Colour Revolt - Plunder, Beg, and Curse (2008-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
 Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
-</li>
-<li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
-Tokyo Police Club - Elephant Shell (2008-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c8398de-11e3-4dd1-ab32-4f2ca7cbccd8/27982063567-500.jpg" data-tags="indie" role="button">
 Dr. Dog - Fate (2008-07-22)
@@ -303,6 +303,9 @@ We Were Promised Jetpacks - These Four Walls (2009-06-15)
 <li data-cover="http://coverartarchive.org/release/61e964e5-38c7-4c7c-8bc1-870f4340caf3/15403185325-500.jpg" data-tags="rock, indie rock, noise rock, post-punk, scottish, krautrock, dynamic, emusic, bobjebus16 owns this" role="button">
 The Twilight Sad - Forget the Night Ahead (2009-09-22)
 </li>
+<li data-cover="https://img.discogs.com/WJJaa67H8k15qkvbZwJav9hCKI8=/fit-in/499x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981851-1256551273.jpeg.jpg" data-tags="garage rock, rock" role="button">
+The Raveonettes - In and Out of Control (2009-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a18bba8-5c52-36cc-8dbf-67b24bea7732/19444479909-500.jpg" data-tags="post-rock" role="button">
 Do Make Say Think - Other Truths (2009-10-19)
 </li>
@@ -311,9 +314,6 @@ Yeasayer - Odd Blood (2010-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
 </li>
 <li data-cover="https://img.discogs.com/CYHQa_7Gf3mHKSX8TlNJ-SlCLyk=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377628-1497037073-5068.jpeg.jpg" data-tags="rock, indie rock" role="button">
 Menomena - Mines (2010-07-27)

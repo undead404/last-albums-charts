@@ -1,18 +1,18 @@
 ---
-date: 2021-04-09T22:17:01.412Z
+date: 2021-04-11T02:55:01.416Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Krypteria - In Medias Res (2005-07-25)](http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg "Krypteria - In Medias Res (2005-07-25)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">Gamma Ray - Heading For Tomorrow (1990-02-19)</li>
 <li data-cover="http://coverartarchive.org/release/197caa52-0c83-4af1-9542-d6ab12369fd8/3463166259-500.jpg" data-tags="power metal" role="button">Gamma Ray - Somewhere Out in Space (1997-08-21)</li>
-<li data-cover="http://coverartarchive.org/release/252f2cef-369e-4487-be30-cb833d7a9613/26712151056-500.jpg" data-tags="power metal" role="button">Gamma Ray - Powerplant (1999-03-20)</li>
 <li data-cover="https://img.discogs.com/WlY6RcBtAclXLRjwmdBWwT4TrYg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025013-1213235451.jpeg.jpg" data-tags="metal, rock, comedy, industrial metal, fun metal, knorkator" role="button">Knorkator - Tribute to uns selbst (2000-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/351e5578-2bdd-452e-b4ba-b2d13518eeb1/6834755855-500.jpg" data-tags="power metal" role="button">Helloween - The Dark Ride (2000-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/d430e4e4-ed7d-45d1-aeea-7dc093106010/22849845060-500.jpg" data-tags="heavy metal, power metal" role="button">Rage - Welcome To The Other Side (2001-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">Freedom Call - Eternity (2002-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/bce6e4d9-096d-4f59-9b70-30db1dc49b3d/5372712419-500.jpg" data-tags="power metal, heavy metal" role="button">Powerwolf - Return in Bloodred (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">Krypteria - In Medias Res (2005-07-25)</li>
+<li data-cover="http://coverartarchive.org/release/51121f7e-9a09-4f12-bb02-1dc6587575a1/7792795848-500.jpg" data-tags="heavy metal" role="button">Teräsbetoni - Metallitotuus (2005-11-16)</li>
 <li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">Caliban - The Awakening (2007-05-23)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,23 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7ba0fd7f-4443-4284-8748-fd75d4449a09/3039751372-500.jpg" data-tags="speed metal, heavy metal" role="button">
 Running Wild - Gates to Purgatory (1984)
 </li>
-<li data-cover="https://img.discogs.com/r-0abg-0HOKgfgnrllIkUnHw2a0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594417-1136202475.jpeg.jpg" data-tags="hard rock" role="button">
-Scorpions - World Wide Live (1985-06)
-</li>
-<li data-cover="https://img.discogs.com/gbnVlI_UmESzLU2GuuhAMbLeR0s=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4184393-1446770754-8990.jpeg.jpg" data-tags="speed metal" role="button">
-Rage - Reign Of Fear (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/328082ff-4789-4bcd-921c-c86d6d0bf96a/14899283868-500.jpg" data-tags="heavy metal" role="button">
-Warlock - True As Steel (1986-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b05958-62c6-393f-b42c-46ae75abac38/16721913332-500.jpg" data-tags="heavy metal, power metal" role="button">
-Running Wild - Port Royal (1988)
-</li>
 <li data-cover="https://img.discogs.com/jQ3weI4V5fXCp-ONpGOQEhzYJKw=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659565-1424047304-5456.jpeg.jpg" data-tags="heavy metal, 80s, speed metal, germany, german, live, power metal, melodic metal, live album, german metal, helloween, very favorite" role="button">
 Helloween - Keepers Live (1989-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7b23612-a3f3-41d4-8293-167532ad1b6f/21718519556-500.jpg" data-tags="rock" role="button">
 Michael Schenker Group - Save Yourself (1989-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b6ae345-cbc6-4efe-8eb3-0f3514b9c378/15332954939-500.jpg" data-tags="heavy metal" role="button">
+Axel Rudi Pell - Wild Obsession (1989-12-01)
 </li>
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">
 Gamma Ray - Heading For Tomorrow (1990-02-19)
@@ -57,6 +48,9 @@ Grave Digger - The Reaper (1993)
 <li data-cover="http://coverartarchive.org/release/769422ef-0e90-44cc-8da3-4137760cb082/25711103397-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Insanity And Genius (1993-07-07)
 </li>
+<li data-cover="https://img.discogs.com/ql9jlOAmfy9egeGMBknmjkZCld0=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7969750-1596690180-8312.jpeg.jpg" data-tags="alternative thrash metal" role="button">
+Voodoocult - Voodoocult (1995-01-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/3ef7e1a4-9dbc-413d-8a5e-5c704b1f86c4/14971918968-500.jpg" data-tags="heavy metal" role="button">
 Grave Digger - Heart of Darkness (1995-04-03)
 </li>
@@ -72,6 +66,9 @@ Lunar Aurora - Weltengänger (1996-11)
 <li data-cover="http://coverartarchive.org/release/910cdbf9-5a09-4e9c-947f-bbbb625c21c8/10691439731-500.jpg" data-tags="folk metal, melodic death metal, death metal, german metal" role="button">
 SuidAkrA - Lupine Essence (1997-06)
 </li>
+<li data-cover="https://img.discogs.com/swKjwnPuBJHutpP6k7Hl7yFtQVA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3412972-1477568231-7658.jpeg.jpg" data-tags="power metal" role="button">
+Iron Savior - Iron Savior (1997-07-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/c666ffc2-1cbf-4a8c-801e-8fabd56ca062/22022063680-500.jpg" data-tags="rammstein" role="button">
 Rammstein - Du Hast (1997-07-18)
 </li>
@@ -84,20 +81,17 @@ Gamma Ray - Somewhere Out in Space (1997-08-21)
 <li data-cover="http://coverartarchive.org/release/1e21ea40-21dc-4365-8736-26fb0be6ce9d/2192435340-500.jpg" data-tags="black metal" role="button">
 Eisregen - Krebskolonie (1998)
 </li>
+<li data-cover="https://img.discogs.com/XjrnnfwZs6VnA1UlYK3KqbIyRLA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2952818-1308860725.jpeg.jpg" data-tags="power metal" role="button">
+Iron Savior - Unification (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/66087fff-0c62-438c-9dde-4173119c63fa/17501065184-500.jpg" data-tags="melodic death metal" role="button">
 SuidAkrA - Auld Lang Syne (1998-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/252f2cef-369e-4487-be30-cb833d7a9613/26712151056-500.jpg" data-tags="power metal" role="button">
-Gamma Ray - Powerplant (1999-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/fccce690-ea43-4ecd-9bc3-21e44f3319f6/21606407612-500.jpg" data-tags="death metal" role="button">
 Die Apokalyptischen Reiter - Allegro Barbaro (1999-03-29)
 </li>
 <li data-cover="https://img.discogs.com/F7zNx70njpazkXxJ8wMdpcWhZX0=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418284-1477953943-3899.jpeg.jpg" data-tags="power metal" role="button">
 Metalium - Millennium Metal: Chapter One (1999-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0272e44-eef1-4a7d-a68b-593d09ec1c68/15537876129-500.jpg" data-tags="gothic, german, metal" role="button">
-Letzte Instanz - Das Spiel sich im Kreise dreht (1999-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb98eecd-7938-475e-98df-e3e00ef09140/10691425514-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 SuidAkrA - Lays from Afar (1999-12-04)
@@ -122,6 +116,9 @@ Blind Guardian - Lucifer's Heritage (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/61408db7-4816-4d00-a190-ef1e903b2fa7/4870441493-500.jpg" data-tags="porngrind, grindcore, goregrind, pornogrind" role="button">
 Cock and Ball Torture - Sadochismo (2001)
+</li>
+<li data-cover="https://img.discogs.com/dCEfi4lmX_KlUT4leEplEv4Zeuk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2480201-1552919931-5296.jpeg.jpg" data-tags="power metal" role="button">
+Iron Savior - Dark Assault (2001-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d430e4e4-ed7d-45d1-aeea-7dc093106010/22849845060-500.jpg" data-tags="heavy metal, power metal" role="button">
 Rage - Welcome To The Other Side (2001-02-26)
@@ -152,6 +149,9 @@ At Vance - The Evil in You (2003-05-19)
 </li>
 <li data-cover="https://img.discogs.com/7-SKo4aywocvVo6kw328DiDmOGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11060626-1509120055-1245.jpeg.jpg" data-tags="power metal, live" role="button">
 Blind Guardian - Live (2003-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9c2285e-1178-4de2-bdac-5863e9f200fe/6241900041-500.jpg" data-tags="post-hardcore" role="button">
+Waterdown - The Files You Have on Me (2003-05-23)
 </li>
 <li data-cover="https://img.discogs.com/LOudhndVV3_3OQOZ8QFlXxdHSHY=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931603-1358611194-3430.jpeg.jpg" data-tags="heavy metal, power metal" role="button">
 Brainstorm - Soul Temptation (2003-06-24)
@@ -300,14 +300,11 @@ Crematory - Infinity (2010-01-29)
 <li data-cover="http://coverartarchive.org/release/9dc4da57-80c0-493d-a48c-407a528e3cc8/24953967672-500.jpg" data-tags="metal, germany, german, war metal, 2010s, german metal, 2010s metal, 2010 metal, 2010s war metal, 2010 war metal" role="button">
 Truppensturm - Salute To The Iron Emperors (2010-05-31)
 </li>
-<li data-cover="https://img.discogs.com/IV0BS7AbHadb7BaT0HjFgs1T-i8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14622102-1578348402-3515.jpeg.jpg" data-tags="heavy metal, melodic, germany, good shit, german, great song, live, power metal, epic metal, heavy rock, good stuff, good live, live album, german metal, ripper, i own this, my collection, electric guitar riffs, great guitars, fucking good, musical god, german heavy metal, rob halford, mr ownership deal, my music collection, live metal, new 2010, my cds, great live album, ralf scheepers, needs more listeners, need to rate, goes fucking good with beer, tim owens, frontiers records, mat sinner, heavy power speed metal, cd in collection, important cds, musica que me anima, cd dvds i own, excellent guitars sounds, cds i bought, double cds i own, judas priest painkiller era feeling, live in the usa, recorded at la and atlanta usa 2009, tom naumann" role="button">
-Primal Fear - Live in the USA (2010-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/fcb0dbcd-8b4a-4ff7-9a53-803d795d4dd2/10146670953-500.jpg" data-tags="pagan metal" role="button">
 Adorned Brood - Hammerfeste (2010-10-01)
 </li>
-<li data-cover="https://img.discogs.com/MNjpvM12TcXNaBdZ713VcJxbTRA=/fit-in/582x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716646-1329991758.jpeg.jpg" data-tags="black metal" role="button">
-Dornenreich - Flammentriebe (2011-02-11)
+<li data-cover="https://img.discogs.com/NxNRlXQOL8eYPnY8aDT5ab3zWeE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3324943-1325823830.jpeg.jpg" data-tags="progressive metal, symphonic metal" role="button">
+Sons of Seasons - Magnisphyricon (2011-04-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="thrash metal" role="button">
 Onkel Tom Angelripper - Nunc Est Bibendum (2011-08-26)
@@ -320,5 +317,8 @@ Black Messiah - The Final Journey (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/adc0930f-a765-4d3c-90e3-c638973d7ae5/1803329658-500.jpg" data-tags="goregrind, psychopathic, deathgrind, pornogrind, cybergrind, porngrind, german metal, digital grindcore, mmfwcl, juggalo stylz" role="button">
 Insane Clown Posse - The Mighty Death Pop - Smothered, Covered, and Chunked - Red Pop (2012-08-14)
+</li>
+<li data-cover="https://img.discogs.com/356GWOvyO3YFnoFPFLM5gG-6T2M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6149798-1483736494-8255.jpeg.jpg" data-tags="heavy metal" role="button">
+Stallion - Rise and Ride (2014-09-12)
 </li>
 </ol>

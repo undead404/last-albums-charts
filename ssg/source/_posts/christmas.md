@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:07:07.000Z
+date: 2021-04-11T03:29:01.406Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -156,9 +156,6 @@ Céline Dion - These Are Special Times (1998-10-31)
 <li data-cover="http://coverartarchive.org/release/c67ffcf5-f858-4798-a808-916fd453abf7/28141500900-500.jpg" data-tags="christmas" role="button">
 Perry Como - Greatest Christmas Songs (1999)
 </li>
-<li data-cover="https://img.discogs.com/ijwSpz0EVqFUi4n6dFYG7aTXXgQ=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395605-1135255743.jpeg.jpg" data-tags="christmas" role="button">
-Low - Christmas (1999-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
 Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
@@ -216,6 +213,9 @@ Sufjan Stevens - Songs For Christmas (2006-10-18)
 <li data-cover="http://coverartarchive.org/release/20256ee1-e55e-4f60-91ed-bb70c678f322/2873491865-500.jpg" data-tags="christmas hits, christmas" role="button">
 Various Artists - Christmas Hits (2006-12-04)
 </li>
+<li data-cover="https://img.discogs.com/pMMzfJV642fsml75t43MGh23BGE=/fit-in/600x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3805904-1607425077-5900.jpeg.jpg" data-tags="christmas" role="button">
+Nat King Cole - Merry Christmas (2007-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd0b18cf-61f4-449f-9068-5b96c84a2bbc/2112408295-500.jpg" data-tags="christmas" role="button">
 Relient K - Let It Snow Baby...Let It Reindeer (2007-10-23)
 </li>
@@ -270,11 +270,11 @@ Hurts - All I Want for Christmas Is New Year's Day (2010-12-14)
 <li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
 Michael Bublé - Christmas (2011-10-14)
 </li>
+<li data-cover="https://img.discogs.com/BXg03-ENZ6mh-471YGpGH-uALTk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625873-1337880387-5250.jpeg.jpg" data-tags="hip-hop, hip hop, pop, rap, female vocalists, dance, christmas, justin bieber, jb, moips" role="button">
+Justin Bieber - Mistletoe (2011-10-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/5bf9dfbc-a02c-40e0-ba09-7348928b6093/4804310167-500.jpg" data-tags="christmas" role="button">
 She & Him - A Very She & Him Christmas (2011-10-24)
-</li>
-<li data-cover="https://img.discogs.com/PwqZUsOMj3HiFYGYCP2oCfygoOM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3781806-1344183057-6751.jpeg.jpg" data-tags="christmas" role="button">
-Justin Bieber - Under the Mistletoe (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e4afd0-c779-4f6d-a184-01c84e5e80a8/21527480162-500.jpg" data-tags="pop, christmas" role="button">
 Natasha Bedingfield - Shake up Christmas 2011 (Official Coca-Cola Christmas Song) (2011-11-08)

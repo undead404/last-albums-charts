@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:27:07.009Z
+date: 2021-04-11T03:27:01.449Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -132,6 +132,9 @@ Primal Scream - Screamadelica (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
+Red Hot Chili Peppers - One Hot Minute (1995-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
@@ -155,6 +158,9 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/G_lQGAvP2uMhUYgKP2sny3aAodE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019236-1464300306-9378.jpeg.jpg" data-tags="electronic, psytrance" role="button">
 Infected Mushroom - Converting Vegetarians (2003-04-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/99e39642-cae5-4061-9800-751108bc650b/6477557415-500.jpg" data-tags="dub, ambient" role="button">
+Ott - Blumenkraft (2003-05-13)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
@@ -246,9 +252,6 @@ Neon Indian - Psychic Chasms (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
-Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)
 </li>
@@ -263,9 +266,6 @@ Tame Impala - Innerspeaker (2010-05-21)
 </li>
 <li data-cover="https://img.discogs.com/fk5BiJ91Z_K3T0C7SNktSmqB6mc=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3610607-1337281517-5573.jpeg.jpg" data-tags="indie rock, psychedelic" role="button">
 The Coral - Butterfly House (2010-07-12)
-</li>
-<li data-cover="https://img.discogs.com/wLUsWMORrOXxUaAekYkwFc3_tu4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219468-1414012241-6652.jpeg.jpg" data-tags="indie, indie pop, psychedelic" role="button">
-of Montreal - False Priest (2010-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)

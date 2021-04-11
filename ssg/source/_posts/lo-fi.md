@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:01:06.895Z
+date: 2021-04-11T03:34:01.422Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -72,6 +72,9 @@ Elliott Smith - Either/Or (1997-02-25)
 <li data-cover="http://coverartarchive.org/release/62def2bf-bb1c-4164-9b45-a08084845fcb/28727936263-500.jpg" data-tags="indie pop, twee pop, lo-fi, neo-psychedelia" role="button">
 of Montreal - Cherry Peel (1997-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/4eac7bfa-5248-4d9c-9114-87d97d7fea31/27142893724-500.jpg" data-tags="indie, indie rock" role="button">
+Built to Spill - Keep It Like a Secret (1998)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
@@ -98,6 +101,9 @@ Sparklehorse - It's A Wonderful Life (2001-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
+Iron & Wine - The Creek Drank the Cradle (2002-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
@@ -216,9 +222,6 @@ Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 <li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
 Dirty Beaches - Badlands (2011-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/42065b7e-fa17-4589-99f0-04d605adbdaa/14114675414-500.jpg" data-tags="lo-fi" role="button">
-Vivian Girls - Share the Joy (2011-04-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 Cults - Cults (2011-05-30)
 </li>
@@ -260,9 +263,6 @@ Kindness - World, You Need a Change of Mind (2012-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/2bb5caf5-d835-431c-b087-4d92070bb14a/25458175200-500.jpg" data-tags="lo-fi, blues" role="button">
-Willis Earl Beal - Acousmatic Sorcery (2012-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">
 Japandroids - Celebration Rock (2012-06-05)

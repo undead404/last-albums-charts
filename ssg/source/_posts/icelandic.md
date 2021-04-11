@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:25:01.396Z
+date: 2021-04-11T03:13:01.412Z
 title: "icelandic: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - ágætis byrjun (1999-06)](http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg "Sigur Rós - ágætis byrjun (1999-06)")
@@ -69,11 +69,11 @@ Sigur Rós - Svefn-G-Englar (1999-09-27)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/5680b7dc-345a-4163-b68e-02af27f19a44/3956533827-500.jpg" data-tags="electronic" role="button">
-Mum - Mum (2000)
-</li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0c78a86-9f5b-4506-8b6b-8d8a9a3876d0/24638522404-500.jpg" data-tags="icelandic" role="button">
+XXX Rottweiler Hundar - XXX Rottweiler Hundar (2001)
 </li>
 <li data-cover="https://img.discogs.com/oEjFB4Vzyh0H81eVKtOUysKLpvk=/fit-in/200x177/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15128-001.jpg.jpg" data-tags="ambient" role="button">
 Manual - until tomorrow (2001-05-07)
@@ -83,9 +83,6 @@ múm - Remixed (2001-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fd14be4-e40d-443c-9588-7575133cd414/11786213157-500.jpg" data-tags="electronica, icelandic, bjork" role="button">
 Björk - Hidden Place (disc 1) (2001-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/83a233fa-b0bc-4507-8aa8-71197e99ed62/19056063496-500.jpg" data-tags="ambient, icelandic" role="button">
-Hilmar Örn Hilmarsson & Sigur Rós - Angels of the Universe (2001-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/965b38de-1913-484c-8515-3f1c38cf174a/5191918805-500.jpg" data-tags="soundtrack, icelandic, sigur ros" role="button">
 Hilmar Örn Hilmarsson & Sigur Rós - Englar Alheimsins (2001-09-10)
@@ -242,6 +239,9 @@ Agent Fresco - A Long Time Listening (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/58da8c30-6af1-43ae-8012-68c2ee6be235/4239717633-500.jpg" data-tags="icelandic" role="button">
 Sin Fang - Summer Echoes (2011-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/eec714e9-22b9-442c-b08a-90c9237c33c9/22541340580-500.jpg" data-tags="french, rock, folk, american, german, sex, icelandic, yes, third millennium, frodo lives" role="button">
+The Brian Jonestown Massacre - Iluminomi (2011-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/245eebec-4344-426e-9039-bb7ddfd1286b/3116867787-500.jpg" data-tags="icelandic, indie rock" role="button">
 Sóley - We Sink (2011-09-02)

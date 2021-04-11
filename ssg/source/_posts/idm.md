@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:59:01.470Z
+date: 2021-04-11T03:11:01.420Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
@@ -8,11 +8,11 @@ title: "idm: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/PwJSdezghAFKP4Bo53Xwx2T_LW0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567865-1567010804-1922.jpeg.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Richard D. James Album (1996-11-04)</li>
 <li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)</li>
+<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - Geogaddi (2002-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - The Campfire Headphase (2005-10-12)</li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Windowlicker (2010)</li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">Four Tet - There Is Love in You (2010-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">Radiohead - The King of Limbs (2011-02-18)</li>
-<li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">Jon Hopkins - Immunity (2013-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">Aphex Twin - Syro (2014-09-19)</li>
 </ol>
 List of 100 - under the cut.
@@ -261,6 +261,9 @@ Radiohead - Supercollider / The Butcher (2011-04-16)
 <li data-cover="http://coverartarchive.org/release/6bc86b31-424a-48bc-8156-4d9656bb5f30/2751813457-500.jpg" data-tags="electronic, indie, idm, glitch, glitch mob" role="button">
 The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d444b3e-9171-419f-8a28-594eb4202b9a/3738107049-500.jpg" data-tags="hip hop, ambient, idm, synth-pop" role="button">
+Giraffage - Comfort (2011-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
@@ -291,14 +294,14 @@ Evenings - Yore (2013-04-16)
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">
-Jon Hopkins - Immunity (2013-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad249aa2-bf79-4042-8a49-ae10547203d9/4332528130-500.jpg" data-tags="ambient, idm" role="button">
 Boards of Canada - Tomorrow's Harvest (2013-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/517341f6-7289-4817-be47-a81eea4d54f1/6401015519-500.jpg" data-tags="idm, electronic, ninja tune, vaporwave" role="button">
+Actress - Ghettoville (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)
@@ -308,9 +311,6 @@ Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/49b0ee79-bebd-4a7d-8e40-ebf62e3153ed/7746818326-500.jpg" data-tags="idm, lone" role="button">
 Lone - Reality Testing (2014-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
-deadmau5 - while(1<2) (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Syro (2014-09-19)

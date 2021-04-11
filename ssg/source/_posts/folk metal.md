@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:51:01.768Z
+date: 2021-04-11T03:15:01.590Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -35,6 +35,9 @@ Finntroll - Midnattens Widunder (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/a15a0fcc-e67c-460a-bf71-9a38fcdbb973/15224017594-500.jpg" data-tags="folk metal" role="button">
 Subway to Sally - Hochzeit (1999-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6918bbe-4343-4235-a8c5-ca6a79cf60ac/1009676795-500.jpg" data-tags="folk, acoustic, neofolk" role="button">
+Empyrium - Where at Night the Wood Grouse Plays (1999-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ebfa0e4-0f05-4719-a8ed-d4bee5683e61/16231521636-500.jpg" data-tags="folk metal" role="button">
 In Extremo - Verehrt und Angespien (1999-07)
@@ -117,9 +120,6 @@ Ensiferum - Iron (2004-04-15)
 <li data-cover="http://coverartarchive.org/release/dce2a43e-d689-4d87-aab7-9c2c9e24ed50/4793834335-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Nattfödd (2004-04-19)
 </li>
-<li data-cover="https://img.discogs.com/ne3_Pi7E0_f24aWrA58BwfsEkTY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2002240-1257868568.jpeg.jpg" data-tags="folk metal" role="button">
-Elvenking - Wyrd (2004-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/a814f976-5789-4d16-ba18-238b448fa3f4/20215906870-500.jpg" data-tags="symphonic metal" role="button">
 Haggard - Eppur Si Muove (2004-04-26)
 </li>
@@ -164,9 +164,6 @@ Subway to Sally - Nord Nord Ost (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/86ab957a-d7ce-473f-b38d-21fd0f3a3f3a/2460152201-500.jpg" data-tags="folk metal, viking metal" role="button">
 Månegarm - Vredens tid (2005-09-28)
-</li>
-<li data-cover="https://img.discogs.com/FLilKaoz6h_qcpp6iBibzv6CnB4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7076900-1488969159-6175.jpeg.jpg" data-tags="folk metal, power metal" role="button">
-Elvenking - The Winter Wake (2006-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d982adb1-e0c0-43a5-95c4-1d5200555842/2996998812-500.jpg" data-tags="viking metal, folk metal" role="button">
 Ensiferum - Dragonheads (2006-02-15)
@@ -287,6 +284,9 @@ Alestorm - Back Through Time (2011-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b94ce417-dff5-44df-a83b-8f996ee8ae97/1554212344-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 Eluveitie - Helvetios (2012-02-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/be8ecd6e-6acc-47e1-8f6a-335aecc85bd8/6320445358-500.jpg" data-tags="folk metal" role="button">
+Eluveitie - Vên (2012-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
 Wintersun - Time I (2012-10-19)

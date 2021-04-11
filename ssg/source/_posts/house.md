@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:09:01.412Z
+date: 2021-04-11T03:05:01.440Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -87,6 +87,9 @@ Paul Oakenfold - Bunkka (2002-06-18)
 <li data-cover="http://coverartarchive.org/release/11b4dd78-3fc1-48b7-ab89-3f2fcccac8fd/4379929819-500.jpg" data-tags="electronic, house" role="button">
 Audio Bullys - Ego War (2003-06-02)
 </li>
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+Starsailor - Silence Is Easy (2003-09-15)
+</li>
 <li data-cover="https://img.discogs.com/ao8trswytlnbZgZr3dagbE2_lQQ=/fit-in/366x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538745-1129068276.jpeg.jpg" data-tags="electronic, dance" role="button">
 Basement Jaxx - Kish Kash (2003-10-20)
 </li>
@@ -125,9 +128,6 @@ deadmau5 - Get Scraped (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
-John Mayer Trio - Try! (2005-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
 Röyksopp - Röyksopp's Night Out (2006-01-30)

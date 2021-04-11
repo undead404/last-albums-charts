@@ -1,16 +1,16 @@
 ---
-date: 2021-04-10T18:46:07.112Z
+date: 2021-04-11T03:12:01.418Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">ABBA - Arrival (1976-10-11)</li>
+<li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">The Hives - Veni Vidi Vicious (2000-04-10)</li>
 <li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">The Sounds - Living in America (2002)</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">Peter Bjorn and John - Writer's Block (2006-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
 <li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">Junip - Fields (2010-09-10)</li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">Miike Snow - Happy To You (2012-03-13)</li>
@@ -29,6 +29,9 @@ ABBA - ABBA (1975-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Arrival (1976-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd611007-adcc-4c48-b170-e9e41602ef74/3127908596-500.jpg" data-tags="pop, 70s, abba" role="button">
+ABBA - The Album (1977-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4138236f-05c6-3494-b6d8-5d460024ed21/12551767179-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Voulez-Vous (1979-04-23)
@@ -168,6 +171,9 @@ The Radio Dept. - Pet Grief (2006-04-12)
 <li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
+Carbon Based Lifeforms - World of Sleepers (2006-12-02)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
 </li>
@@ -192,14 +198,8 @@ Lars Winnerbäck - Daugava (2007-09-26)
 <li data-cover="https://img.discogs.com/W0MWLlxLuJqQ06UhJPcSog5899Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160872-1271274610.jpeg.jpg" data-tags="indie, swedish" role="button">
 Sambassadeur - Migration (2007-10-24)
 </li>
-<li data-cover="https://img.discogs.com/tJGMqIxNxnhloum4lYPfINf0Psg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709880-1457801507-2650.jpeg.jpg" data-tags="indie rock, swedish" role="button">
-Mando Diao - Never Seen The Light Of Day (2007-10-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/65e879cd-d819-4675-ad98-28cc3c11bcfc/23841213869-500.jpg" data-tags="swedish, scandinavian, 90s, sweden, zweden, noord-europa, zweeds, geraldine" role="button">
 Ace of Base - Greatest Hits (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">
-The Cardigans - Best Of (2008-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
@@ -300,6 +300,9 @@ The Hives - Lex Hives (2012-06-01)
 <li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
 iamamiwhoami - kin (2012-06-06)
 </li>
+<li data-cover="https://img.discogs.com/tAYEKbPrUOuZ2yurvXkPhXNNKoU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943273-1350040768-8251.jpeg.jpg" data-tags="indie, pop, alternative, swedish, indie pop, indie rock, phoenix" role="button">
+The Royal Concept - The Royal Concept (2012-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
 </li>
@@ -317,8 +320,5 @@ Kent - Tigerdrottningen (2014-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
-Tove Lo - Queen of the Clouds (2014-09-24)
 </li>
 </ol>

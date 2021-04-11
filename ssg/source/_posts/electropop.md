@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:56:01.516Z
+date: 2021-04-11T02:51:01.417Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -153,6 +153,9 @@ Imogen Heap - Ellipse (2009-08-24)
 <li data-cover="http://coverartarchive.org/release/1100bec9-0701-4ae2-909d-c30bef07752c/2100080149-500.jpg" data-tags="pop" role="button">
 Pixie Lott - Turn It Up (2009-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">
+Madonna - Celebration (2009-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Bad Romance (2009-10-26)
 </li>
@@ -290,9 +293,6 @@ CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
-Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:02:01.716Z
+date: 2021-04-11T03:41:01.430Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -69,6 +69,9 @@ Jan Hammer - Escape From Television (1987)
 <li data-cover="http://coverartarchive.org/release/8b2b725f-c3dd-41c2-b98d-e42f027fbe1c/3768060682-500.jpg" data-tags="musical, soundtrack" role="button">
 Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
 </li>
+<li data-cover="https://img.discogs.com/wNegC7-JxaAHzGEbh6TrPiDxS0s=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557218-1484150433-9328.jpeg.jpg" data-tags="soundtrack" role="button">
+Ennio Morricone - The Good, the Bad and the Ugly (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/256007d2-4ac6-45ba-8053-e3e497cfd66c/2839903465-500.jpg" data-tags="soundtrack" role="button">
 Prince - Batman (1989-06-16)
 </li>
@@ -80,12 +83,6 @@ Julee Cruise - Floating into the Night (1989-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/df7ea720-4e63-4de8-b6f6-b64a7776098b/15625632616-500.jpg" data-tags="soundtrack, 90s, jazz, pop" role="button">
 Madonna - I'm Breathless (1990-05-12)
-</li>
-<li data-cover="https://img.discogs.com/CC3T-htBU79wZAPVB6KNbpfM2QQ=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2304067-1275601230.jpeg.jpg" data-tags="rock, soundtrack, 90s" role="button">
-Jon Bon Jovi - Blaze Of Glory (1990-08-07)
-</li>
-<li data-cover="https://img.discogs.com/pDhLBqBs6D8ODY8kSrKc0iguskY=/fit-in/600x925/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585572-1431987750-2872.jpeg.jpg" data-tags="soundtrack" role="button">
-Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
 </li>
 <li data-cover="https://img.discogs.com/nuKaRqtEek4RrITM1-7V7-Y6gtE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15764513-1597359569-7785.jpeg.jpg" data-tags="soundtrack" role="button">
 Angelo Badalamenti - Twin Peaks (1990-08-31)
@@ -317,6 +314,9 @@ Mogwai - Les Revenants (2013-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8440d67b-e5f6-4836-8496-fa3c8f207ea5/5344526170-500.jpg" data-tags="soundtrack" role="button">
 Gustavo Santaolalla - The Last of Us (2013-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b157b7a4-32d7-476d-8012-3aaefe1fa6b3/6585909620-500.jpg" data-tags="orange is the new black" role="button">
+Regina Spektor - You've Got Time (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/23b00a21-b663-4647-ab49-68f694d40776/8324756218-500.jpg" data-tags="soundtrack, pop, ballad, movie, adam levine" role="button">
 Adam Levine - Lost Stars (2014-07-01)

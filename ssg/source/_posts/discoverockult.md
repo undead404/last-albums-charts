@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T11:10:07.012Z
+date: 2021-04-11T03:18:06.992Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
-![Saving Abel - Saving Abel (2008-03-11)](http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg "Saving Abel - Saving Abel (2008-03-11)")
+![A Rocket to the Moon - On Your Side (2009-10-13)](http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg "A Rocket to the Moon - On Your Side (2009-10-13)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">Jack's Mannequin - This Is a Story... (2005)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">Orson - Bright Idea (2006-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg" data-tags="saving abel, rock" role="button">Saving Abel - Saving Abel (2008-03-11)</li>
+<li data-cover="https://img.discogs.com/CPXmv1BJUTsGE8IerpvK-vZ2zac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125175-1194045109.jpeg.jpg" data-tags="rock, discoverockult, sveta reminds" role="button">Graham Colton - Here Right Now (2007-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
-<li data-cover="http://coverartarchive.org/release/9f3e5ea9-7f48-477b-ae0c-a01e7e7503e4/11255982828-500.jpg" data-tags="emo, discoverockult" role="button">Go:Audio - Made Up Stories (2009)</li>
 <li data-cover="http://coverartarchive.org/release/35d6ecf2-2a5d-41fd-9ab9-f5275b4fa5e6/3048236487-500.jpg" data-tags="alternative rock, hard rock, discoverockult" role="button">Adelitas Way - Adelitas Way (2009-07-14)</li>
 <li data-cover="http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg" data-tags="pop punk, 00s, discoverockult, a rocket to the moon" role="button">A Rocket to the Moon - On Your Side (2009-10-13)</li>
 <li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">Say Anything - Say Anything (2009-11-03)</li>
+<li data-cover="http://coverartarchive.org/release/2cb7badd-7ee4-4fce-a1d1-65cecbcbf796/12182742905-500.jpg" data-tags="pop, rock, rawr, discoverockult" role="button">OneRepublic - All The Right Moves (2010-03-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/432b87c4-0711-49b6-96ba-135064d40cd2/28302129708-500.jpg" data-tags="90s, takes me back, cheffy, discoverockult, albums i worked on, reminds me of mom, xantica, loandbatch, albums in my collection" role="button">
-Stroke 9 - Nasty Little Thoughts (1999-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/73bf440a-5c61-4d8c-89d6-cf6c1cfc842c/1483745366-500.jpg" data-tags="rock" role="button">
-Nine Days - The Madding Crowd (2000-05-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
 Vertical Horizon - Everything You Want (2000-08-14)
 </li>
@@ -36,12 +30,6 @@ Dexter Freebish - A Life Of Saturdays (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f734750-4a00-35b4-a259-2c15093c83cc/10182730882-500.jpg" data-tags="rock, alternative rock, alternative" role="button">
-Goo Goo Dolls - Gutterflower (2002-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d8f7afbc-673f-43fb-9fad-9ad035ccc939/26393514550-500.jpg" data-tags="rock, alternative rock" role="button">
-Lifehouse - Stanley Climbfall (2002-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
 Anberlin - Blueprints For The Black Market (2003-04-24)
 </li>
@@ -50,9 +38,6 @@ Gavin DeGraw - Chariot (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d688fc2-ae3e-49c0-bdc8-49cd71c55874/21135321687-500.jpg" data-tags="singer-songwriter" role="button">
-Matt Nathanson - Beneath These Fireworks (2003-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
@@ -114,14 +99,14 @@ People In Planes - As Far as the Eye Can See... (2006-01-01)
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
 </li>
+<li data-cover="https://img.discogs.com/mEwCaz6AyjsNNqOWXpi5y0R9V9o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6287099-1434977348-4293.jpeg.jpg" data-tags="discoverockult, albums i sorta own, album collection" role="button">
+Stabilo - Happiness & Disaster (2006-04-04)
+</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
 Mat Kearney - Nothing Left To Lose (2006-04-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="canadian, discoverockult, all-male bands, daniels album collection" role="button">
 Mobile - Tomorrow Starts Today (2006-04-18)
-</li>
-<li data-cover="https://img.discogs.com/r_FBVFPof_yTZIlFN7aHXTpNi4A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14246467-1570650643-7779.jpeg.jpg" data-tags="alternative, rock" role="button">
-Goo Goo Dolls - Let Love In (2006-04-24)
 </li>
 <li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">
 Orson - Bright Idea (2006-05-15)
@@ -144,6 +129,9 @@ Sunrise Avenue - Fairytale Gone Bad (2006-08-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
 Crossfade - Falling Away (2006-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ce38111-2a30-4a7d-b83f-ab643c7816ca/4254481907-500.jpg" data-tags="pop punk" role="button">
+The Summer Obsession - This Is Where You Belong (2006-08-29)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 My Chemical Romance - Welcome To The Black Parade (2006-09-11)
 </li>
@@ -156,14 +144,17 @@ Tomorrows Bad Seeds - Early Prayers (2007)
 <li data-cover="https://img.discogs.com/IjgX6HbZB_u8yejgfP7sShfQzdU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3111250-1325056223.jpeg.jpg" data-tags="discoverockult, rockadd, gritos no escuro" role="button">
 Black Lab - Passion Leaves A Trace (2007-01-16)
 </li>
+<li data-cover="https://img.discogs.com/_fMV4bvnAs3ae70PAnDtpq_dAsQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6107557-1411249778-6362.jpeg.jpg" data-tags="alternative, discoverockult, missionary music" role="button">
+Future of Forestry - Twilight (2007-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/15cb3b91-8377-4a26-8fb4-4cb2d19376a7/8255060472-500.jpg" data-tags="indie rock, indie" role="button">
 The Cinematics - A Strange Education (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e426fa8-74fb-47ec-93df-944efb0d92df/4786675611-500.jpg" data-tags="christian, discoverockult, i love this band" role="button">
 Seventh Day Slumber - Finally Awake (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4154364-8616-4603-b823-406e01443884/13686171413-500.jpg" data-tags="alternative rock, hard rock" role="button">
-Sick Puppies - Dressed Up As Life (2007-04-03)
+<li data-cover="http://coverartarchive.org/release/63d89273-b1bc-41a9-8eda-d8aa8a63c523/11656331899-500.jpg" data-tags="discoverockult" role="button">
+Waking Ashland - The Well (2007-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d797372b-c9db-34cc-98d1-d7b5ea6c32fd/6069527022-500.jpg" data-tags="pop rock, indierock" role="button">
 Mêlée - Devils & Angels (2007-04-07)
@@ -195,8 +186,8 @@ The Last Goodnight - Poison Kiss (2007-08-28)
 <li data-cover="https://img.discogs.com/yLC8neE3FmyAUk_P6IYoZDj_9X0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2265381-1273254827.jpeg.jpg" data-tags="rock, yum, discoverockult, stuff i need" role="button">
 Stereoside - So Long (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/04343812-81cb-4561-a949-144c7ea6b097/9933764493-500.jpg" data-tags="rock" role="button">
-Matchbox Twenty - Exile On Mainstream (2007-09-28)
+<li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
+Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
 </li>
 <li data-cover="https://img.discogs.com/9hcuy9_oClTx_TAeGJXGj2-NYfg=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3670228-1339680603-3285.jpeg.jpg" data-tags="chillout, indie, rock, indie rock, pop rock, american, 00s, real good, discoverockult, sues fave, orson- radio" role="button">
 Orson - Culture Vultures (2007-10-22)
@@ -210,20 +201,20 @@ Faker - Be The Twilight (2007-11-17)
 <li data-cover="http://coverartarchive.org/release/de961eae-f2ea-4296-9dbb-86ecb46dbd4d/16693768625-500.jpg" data-tags="rock" role="button">
 Automatic Loveletter - Recover EP (2007-12-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5a9b81b-03b3-4952-8b2d-48c5854f1235/4812186297-500.jpg" data-tags="indie rock" role="button">
+The Fashion - The Fashion (2007-12-06)
+</li>
 <li data-cover="https://img.discogs.com/wgW-Gl9oxI85XxJYPNafglHAyRo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5732353-1401153362-7748.jpeg.jpg" data-tags="rock, alternative rock, 00s, discoverockult" role="button">
 Course Of Nature - Damaged (2008-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/deaac2cb-1514-4db1-982d-4fab7fc80039/9495466369-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
-Carolina Liar - Coming To Terms (2008-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0b8bde-c241-4639-98f8-094cfe3745ed/4354600780-500.jpg" data-tags="discoverockult, boyce avenue" role="button">
 Boyce Avenue - All You're Meant to Be (2008-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg" data-tags="saving abel, rock" role="button">
-Saving Abel - Saving Abel (2008-03-11)
-</li>
 <li data-cover="https://img.discogs.com/tsSPyzF7appgV9KYiyno_tDreiw=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3884842-1352603741-4657.jpeg.jpg" data-tags="discoverockult, toevoegen mm" role="button">
 Alive In Wild Paint - Ceilings (2008-03-18)
+</li>
+<li data-cover="https://img.discogs.com/0AErEX9L2ASujSbdItMD7HDnDbs=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352544-1212077140.jpeg.jpg" data-tags="discoverockult, royworld" role="button">
+Royworld - Dust (2008-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c60645e-049c-465c-94e9-90dc4fd0900e/20524117250-500.jpg" data-tags="calm, discoverockult, sun and moon and stars and outer space, rated 100, at times theatrical, soft yet powerful" role="button">
 Ferras - Aliens & Rainbows (2008-04-01)
@@ -258,14 +249,14 @@ The Classic Crime - The Silver Cord (2008-07-22)
 <li data-cover="https://img.discogs.com/qIlRCqGiLGQE03vXuJGNrt4lwok=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8126311-1455633525-8675.jpeg.jpg" data-tags="discoverockult" role="button">
 Eye Alaska - Yellow & Elephant (2008-07-22)
 </li>
+<li data-cover="https://img.discogs.com/2ekcBuMG8g0xgx_m-NVExDI31-w=/fit-in/491x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2575678-1386862288-2838.jpeg.jpg" data-tags="the script" role="button">
+The Script - The Man Who Can't Be Moved (2008-07-25)
+</li>
 <li data-cover="https://img.discogs.com/LBrC5kvGU4kK2HG7Lrl6VH1ZuLE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10287199-1507153135-3768.jpeg.jpg" data-tags="millow" role="button">
 Milow - Ayo Technology (2008-09-16)
 </li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f3e5ea9-7f48-477b-ae0c-a01e7e7503e4/11255982828-500.jpg" data-tags="emo, discoverockult" role="button">
-Go:Audio - Made Up Stories (2009)
 </li>
 <li data-cover="https://img.discogs.com/yOk0NaLqORgkTAYscjCSaO_JWas=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895164-1506106917-2148.jpeg.jpg" data-tags="discoverockult" role="button">
 My Favorite Highway - The Pre-Release (2009)
@@ -285,6 +276,9 @@ The Dangerous Summer - Reach For The Sun (2009-05-05)
 <li data-cover="http://coverartarchive.org/release/bef01324-dd9e-4608-9726-781d68fc26fb/8041117572-500.jpg" data-tags="pop rock, pop punk" role="button">
 There for Tomorrow - A Little Faster (2009-06-09)
 </li>
+<li data-cover="https://img.discogs.com/23nKT3_LjFziizxktBxdP3rYUvo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2313129-1277566664.jpeg.jpg" data-tags="discoverockult, swapped, ripped single" role="button">
+Eye Alaska - Genesis Underground (2009-07-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/35d6ecf2-2a5d-41fd-9ab9-f5275b4fa5e6/3048236487-500.jpg" data-tags="alternative rock, hard rock, discoverockult" role="button">
 Adelitas Way - Adelitas Way (2009-07-14)
 </li>
@@ -300,6 +294,9 @@ Cavo - Bright Nights Dark Days (2009-08-11)
 <li data-cover="http://coverartarchive.org/release/68453bb1-969e-4960-8eaf-a2a1a35306eb/16546439880-500.jpg" data-tags="acoustic, christian, discoverockult, tyde moore radio" role="button">
 NEEDTOBREATHE - The Outsiders (2009-08-24)
 </li>
+<li data-cover="https://img.discogs.com/yzL6La1-g7Q1L8qGu1K9HSXRiNw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3768337-1343632854-6374.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Vertical Horizon - Burning The Days (2009-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg" data-tags="pop punk, 00s, discoverockult, a rocket to the moon" role="button">
 A Rocket to the Moon - On Your Side (2009-10-13)
 </li>
@@ -308,6 +305,9 @@ Five for Fighting - Slice (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">
 Say Anything - Say Anything (2009-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/75a1b680-9fa8-4025-b05d-649c2bb8f0c7/20690499516-500.jpg" data-tags="indie rock" role="button">
+The Cinematics - Love And Terror (2009-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4edd26a-d8a8-41d3-a0af-e22491bbc264/15663319760-500.jpg" data-tags="alternative rock, discoverockult" role="button">
 Plan Three - Screaming Our Sins (2009-11-25)

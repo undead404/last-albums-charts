@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:32:07.126Z
+date: 2021-04-11T02:57:01.421Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -7,12 +7,12 @@ title: "male vocalist: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">Lighthouse Family - Postcards From Heaven (1997-10-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">The Feeling - Twelve Stops And Home (2006-06-02)</li>
+<li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">Jesse McCartney - Beautiful Soul (2004-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">John Legend - Once Again (2006-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">Trey Songz - Trey Day (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">Mario - Go (2007-12-10)</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">Angus & Julia Stone - Down the Way (2010-03-12)</li>
+<li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">She & Him - Volume Two (2010-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/7ba215ca-677c-43bb-93bc-d68a308a19b3/10020073334-500.jpg" data-tags="indie, male vocalist" role="button">Magic Man - Before The Waves (2014-05-19)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,8 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1fa999fd-c89d-449b-91d5-a6f5ef4fdd8e/18869449348-500.jpg" data-tags="60s, male vocalist" role="button">
+Wilson Pickett - Hey Jude (1969)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb224bc4-27f8-4b46-9c46-75d13873454e/11052080256-500.jpg" data-tags="singer-songwriter, 70s" role="button">
 Cat Stevens - Teaser and the Firecat (1971-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c418b20d-3d73-4796-8511-c0f77eb900c5/3626149179-500.jpg" data-tags="folk" role="button">
+Rodriguez - Coming From Reality (1971-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
@@ -45,14 +51,17 @@ David Bowie - Sound And Vision (1989-09-19)
 <li data-cover="http://coverartarchive.org/release/bae9025d-f140-30fd-870c-d09e93247edd/1818577446-500.jpg" data-tags="rock" role="button">
 Billy Joel - Storm Front (1989-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0dbcc4bd-624e-353a-a882-cc66a0d393ed/21927527006-500.jpg" data-tags="alternative, 90s, male vocalist, folk punk" role="button">
-Violent Femmes - Why Do Birds Sing? (1991-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e2ed461-01f5-4692-bb7d-697b4f779775/15467186123-500.jpg" data-tags="alternative, 90s" role="button">
-Toad The Wet Sprocket - fear (1991-08-27)
+<li data-cover="http://coverartarchive.org/release/1d5605ed-288c-4476-bc13-d245a2502786/8679536909-500.jpg" data-tags="blues-rock" role="button">
+Joe Cocker - Have a Little Faith (1994-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3827d42e-ae55-4d01-a4a8-699ffc750c30/28313173034-500.jpg" data-tags="90s, alternative rock" role="button">
 Hootie & The Blowfish - Cracked Rear View (1994-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a5d6753-a1c7-41fc-96d6-a39c4a0e793a/7980812319-500.jpg" data-tags="alternative rock, 90s, rock, alternative" role="button">
+The Smashing Pumpkins - Pisces Iscariot (1994-10-04)
+</li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
@@ -96,9 +105,6 @@ Ricky Martin - Ricky Martin (1999-05-04)
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/b49048c3-e4d2-412b-bd9e-722fdee388b9/5678714096-500.jpg" data-tags="rock" role="button">
-Fuel - Something Like Human (2000-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
@@ -107,6 +113,12 @@ Blue - All Rise (2001-05-21)
 </li>
 <li data-cover="https://img.discogs.com/eZiWyLJS1IbceZYpIBcNMbGV0Rk=/fit-in/512x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955949-1309284671.jpeg.jpg" data-tags="rock" role="button">
 Default - The Fallout (2001-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/28bb69f0-49b6-4708-9ebb-1de3d2e71e2b/1667482394-500.jpg" data-tags="leonard cohen" role="button">
+Leonard Cohen - Ten New Songs (2001-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ada8dd34-8505-4f90-819a-3077342ee583/15257767088-500.jpg" data-tags="chris rea" role="button">
+Chris Rea - The Very Best of Chris Rea (2001-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)
@@ -120,14 +132,8 @@ Ronan Keating - Destination (2002)
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f734750-4a00-35b4-a259-2c15093c83cc/10182730882-500.jpg" data-tags="rock, alternative rock, alternative" role="button">
-Goo Goo Dolls - Gutterflower (2002-04-08)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
-</li>
-<li data-cover="https://img.discogs.com/sg8nKQdVkribFIiM_lHOpzFHJ8E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662708-1437943239-7963.jpeg.jpg" data-tags="tiziano ferro, italian, italian pop" role="button">
-Tiziano Ferro - Rosso relativo (2002-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -162,8 +168,8 @@ Westlife - Turnaround (2003-11-24)
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2088365-7cb1-4efe-bdd9-92aed9689c8d/5849848257-500.jpg" data-tags="indie pop, belgian, plotters albums" role="button">
-Girls in Hawaii - From here to there (2004-02-03)
+<li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+The Vines - Winning Days (2004-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
 Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
@@ -174,6 +180,9 @@ Mario - Turning Point (2004-08-06)
 <li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">
 Jesse McCartney - Beautiful Soul (2004-08-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/83398ea8-70fb-4fbf-87c5-f0cab4e3e602/15883691039-500.jpg" data-tags="alternative, alternative rock" role="button">
+The Presidents of the United States of America - Love Everybody (2004-08-17)
+</li>
 <li data-cover="https://img.discogs.com/NIY9TBUlMY9tSMb3_RCah2bgdYU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4482921-1366142975-2236.jpeg.jpg" data-tags="00s" role="button">
 Ryan Cabrera - Take It All Away (2004-08-17)
 </li>
@@ -182,6 +191,9 @@ Blue - Best of Blue (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Mos Def - The New Danger (2004-10-12)
+</li>
+<li data-cover="https://img.discogs.com/Zo7D977oOvF1hP3b2ytKauQG4hI=/fit-in/324x384/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13430182-1554050602-3928.jpeg.jpg" data-tags="j-rock" role="button">
+BEAT CRUSADERS - Hit in the USA (2004-10-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
@@ -198,9 +210,6 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f977712-f3b4-4a9a-ade3-24a071e4a1fc/6625176890-500.jpg" data-tags="indie, 80s, punk, alternative" role="button">
-Violent Femmes - Permanent Record: The Very Best of Violent Femmes (2005-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/4dec3817-f24f-4679-affd-9151761f59c2/6895436559-500.jpg" data-tags="country" role="button">
 Jason Aldean - Jason Aldean (2005-07-26)
 </li>
@@ -210,20 +219,11 @@ Simple Plan - MTV Hard Rock Live (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/ee99133c-2a6a-4284-aa50-49080bdba6cd/28019561986-500.jpg" data-tags="westlife, pop" role="button">
+Westlife - Face to Face (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
-Ryan Adams - 29 (2005-12-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5518064-7269-3e9a-9fd9-3cd4be58d23e/8078538085-500.jpg" data-tags="rock" role="button">
-Train - For Me, It's You (2006-01-31)
-</li>
-<li data-cover="https://img.discogs.com/r_FBVFPof_yTZIlFN7aHXTpNi4A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14246467-1570650643-7779.jpeg.jpg" data-tags="alternative, rock" role="button">
-Goo Goo Dolls - Let Love In (2006-04-24)
-</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
@@ -246,17 +246,14 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Trey Songz - Can't Help But Wait (2007-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ad4196c-38ce-4bfd-bb03-9aa76d59bfa9/15707752309-500.jpg" data-tags="rise above" role="button">
-Dirty Projectors - Rise Above (2007-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">
 Trey Songz - Trey Day (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
 Mario - Go (2007-12-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b85a181-d30e-4846-9c48-bda066c8693a/3367824453-500.jpg" data-tags="usa, rnb, male vocalist, 00s" role="button">
+Justin Timberlake - Mr. Timberlake (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
@@ -282,9 +279,6 @@ The Heavy - The House That Dirt Built (2009-09-18)
 <li data-cover="https://img.discogs.com/nh3OZHgRgjaM1PHyNelh-x8gl4s=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2023069-1580651857-5952.jpeg.jpg" data-tags="pop, kris allen" role="button">
 Kris Allen - Kris Allen (2009-11-17)
 </li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
 </li>
@@ -303,6 +297,9 @@ Amos Lee - Mission Bell (2011-01-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f2ca96e-7276-4111-95fa-89f311e6cdc1/10496417589-500.jpg" data-tags="alternative rock" role="button">
+Bush - The Sea of Memories (2011-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)
 </li>
@@ -317,6 +314,9 @@ Rodriguez - Searching for Sugar Man (2012-07-20)
 </li>
 <li data-cover="https://img.discogs.com/nRKU_Ho5jJvAi-SOxUeJoE52aZg=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4113031-1355665098-4478.jpeg.jpg" data-tags="singer-songwriter, male vocalist" role="button">
 Willy Mason - Carry On (2012-12-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
+Bring Me the Horizon - Shadow Moses (2013-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ba215ca-677c-43bb-93bc-d68a308a19b3/10020073334-500.jpg" data-tags="indie, male vocalist" role="button">
 Magic Man - Before The Waves (2014-05-19)

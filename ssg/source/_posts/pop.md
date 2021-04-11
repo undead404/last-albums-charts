@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:13:01.484Z
+date: 2021-04-11T03:17:01.490Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -107,6 +107,9 @@ Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
+</li>
+<li data-cover="https://img.discogs.com/4fV88R-4UZfICgS7tZ9HaXL4pNk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929730-1174010117.jpeg.jpg" data-tags="pop" role="button">
+James Morrison - Undiscovered (2006-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
@@ -305,9 +308,6 @@ Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
-Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

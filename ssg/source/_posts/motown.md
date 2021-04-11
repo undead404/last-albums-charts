@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:08:06.988Z
+date: 2021-04-11T02:48:01.402Z
 title: "motown: 100 albums you must listen to before you die"
 ---
 ![Stevie Wonder - Songs in the Key of Life (1976-09-28)](http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg "Stevie Wonder - Songs in the Key of Life (1976-09-28)")
@@ -60,23 +60,14 @@ Sam & Dave - The Best of Sam & Dave (1969-01-17)
 <li data-cover="http://coverartarchive.org/release/c1d733ce-1a51-3e5c-9fd0-d60e697b7fe7/12741470637-500.jpg" data-tags="soul, motown" role="button">
 The Temptations - Puzzle People (1969-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/19118d73-2e80-4c7b-9b88-4d1fa34c3f26/10754575478-500.jpg" data-tags="soul" role="button">
-The Jackson 5 - Diana Ross Presents the Jackson 5 (1969-12-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/3485e16a-e422-45bd-83fc-87d0b29787ef/1876715280-500.jpg" data-tags="soul" role="button">
 Donny Hathaway - Donny Hathaway (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f86ac47-ae72-4588-8ecb-fb18ef30bfef/2809813041-500.jpg" data-tags="soul, motown, jackson 5" role="button">
-The Jackson 5 - Maybe Tomorrow (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/43e92b4e-83bb-43db-895d-454665e66720/4348743077-500.jpg" data-tags="soul, motown, temptations" role="button">
 The Temptations - Sky's The Limit (1971-04-22)
 </li>
 <li data-cover="https://img.discogs.com/_9ng2B8Jgtq2R1FzwZZBmRu2WCQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984176-1558329508-1528.jpeg.jpg" data-tags="soul" role="button">
 Marvin Gaye - What's Going On (1971-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/46f1b361-b73f-3759-bb3e-b09ef32bbcc3/23853626125-500.jpg" data-tags="70s, soul" role="button">
-The Jackson 5 - Greatest Hits (1971-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/59d19767-4489-4437-90d5-c756f15915c7/15237635364-500.jpg" data-tags="soul" role="button">
 The O'Jays - Back Stabbers (1972)
@@ -99,6 +90,9 @@ Stevie Wonder - Talking Book (1972-10-27)
 <li data-cover="https://img.discogs.com/iRcoYXw9OJcnidFU9XSzlLLIMKU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7518858-1443151332-2861.jpeg.jpg" data-tags="70s, motown" role="button">
 The O'Jays - Ship Ahoy (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/91fdfc6b-6855-451e-8b46-68dbcf89cb83/13558845253-500.jpg" data-tags="soul, motown, tamla motown" role="button">
+Smokey Robinson - Smokey (1973-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/d82dec3e-e077-42d4-ba4f-51b57128e19a/16046182344-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Innervisions (1973-08-03)
 </li>
@@ -110,9 +104,6 @@ Willie Hutch - Foxy Brown (1974-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/84a41e38-2502-4bf6-97b6-c92899ed2bda/6322723604-500.jpg" data-tags="70s, soulgdchill" role="button">
 Barry White - Can't Get Enough (1974-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/661b5cf1-0ffd-4dc1-ae5e-d9a44b7bc7a5/2130980979-500.jpg" data-tags="70s, motown" role="button">
-The Jackson 5 - Dancing Machine (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e11be41a-4c71-44a4-ab7f-0185cac15899/6801939905-500.jpg" data-tags="rock, 60s" role="button">
 Janis Joplin - Best of Janis Joplin (1975)
@@ -134,6 +125,12 @@ Rainbow - Rainbow Rising (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Songs in the Key of Life (1976-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1b81ba7-e07a-4453-8f91-982a697774c5/23026284080-500.jpg" data-tags="soul" role="button">
+The Isley Brothers - Go For Your Guns (1977)
+</li>
+<li data-cover="https://img.discogs.com/cL3ILShDY_qhK4RLhInuv0GCByY=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5109089-1584515860-1802.jpeg.jpg" data-tags="old school, soul, motown" role="button">
+The Spinners - The Best Of Spinners (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/744d0395-6a7e-48db-8d42-711e9da13423/2115101502-500.jpg" data-tags="soul" role="button">
 Marvin Gaye - Here, My Dear (1978-12)
@@ -158,9 +155,6 @@ Stevie Wonder - Original Musiquarium I (1982-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb00031c-a769-4e92-ae71-3d830362f088/10549702846-500.jpg" data-tags="female vocalist, female vocalists, motown" role="button">
 Dionne Warwick - Heartbreaker (1982-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/974cdb88-830c-4efc-8a9d-83e19b37ca90/21028345978-500.jpg" data-tags="disco, dance, don kalifa" role="button">
-Rockwell - Somebody's Watching Me (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/c322ae93-fa58-453c-9793-ed839e7eb95e/2210990117-500.jpg" data-tags="classic rock, rock" role="button">
 The Doors - Alive She Cried (1983-10)
@@ -201,6 +195,9 @@ Diana Ross - The Ultimate Collection (1994-10-18)
 <li data-cover="http://coverartarchive.org/release/ad373d88-6668-4756-a372-452f77f4ddae/17156305978-500.jpg" data-tags="soul, motown" role="button">
 Marvin Gaye - The Best of Marvin Gaye (1995)
 </li>
+<li data-cover="https://img.discogs.com/xjpmi8QzGQ1Aq5OGAR9wd7A3SjQ=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1661093-1235227404.jpeg.jpg" data-tags="disco" role="button">
+Shalamar - The Very Best of Shalamar (1995)
+</li>
 <li data-cover="https://img.discogs.com/rIBYqqgN7MwQH9lOAmIMRLgrl5g=/fit-in/256x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8858259-1470236522-7272.jpeg.jpg" data-tags="motown" role="button">
 Marvin Gaye - Anthology (1995-08-22)
 </li>
@@ -210,8 +207,14 @@ The Jackson 5 - The Ultimate Collection (1996-01-23)
 <li data-cover="http://coverartarchive.org/release/fdf4bdfc-1cc1-4b99-b520-410e15ccdec3/5983831339-500.jpg" data-tags="60s" role="button">
 Marvin Gaye - I Heard It Through The Grapevine (1997)
 </li>
+<li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="heavy metal, jazz, pop, rock, soul, 60s, instrumental, hard rock, acoustic, motown, funk, organ, funky, progressive, oldies, groovy, male vocalists, guitar virtuoso, jecks, deep purple, close harmony, knocking at your back door" role="button">
+Deep Purple - Knocking At Your Back Door (1997)
+</li>
 <li data-cover="https://img.discogs.com/O2iz_HxuIEO5lTVLG5UZBdHMTzA=/fit-in/600x789/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12688739-1540567871-5918.jpeg.jpg" data-tags="motown, soul" role="button">
 Smokey Robinson - The Ultimate Collection (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/afd221f9-122f-43d9-8616-037b30d92ee7/21396971785-500.jpg" data-tags="motown" role="button">
+The Temptations - Motown's Greatest Hits (1997-03-24)
 </li>
 <li data-cover="https://img.discogs.com/0wniLNmVoQ5d7VJ4cHrHD1bWBlA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1506065-1224757261.jpeg.jpg" data-tags="soul, motown" role="button">
 The Temptations - The Ultimate Collection (1997-03-25)
@@ -224,9 +227,6 @@ Mary Wells - The Ultimate Collection (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/da40c18c-652b-4901-8c76-2779f9a269a2/16639019832-500.jpg" data-tags="soul, motown" role="button">
 The Marvelettes - Ultimate Collection (1998-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/73776da1-4a89-40cc-b679-f5ba786554e3/1394757653-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, 90s, funky, groovy, italian, jecks, italian rock, mycds, drivethruelvis knows this, drivethruelvis at 17, hotel pop, original cds" role="button">
-Afterhours - Non È Per Sempre (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed42c144-0be7-48f7-97ff-7b0df24e70ca/16623109803-500.jpg" data-tags="motown, soul" role="button">
 The Velvelettes - The Very Best Of The Velvelettes (1999-03-23)
@@ -267,8 +267,8 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/4dcc6f8b-661a-469a-8d64-f22d0099b392/24474476694-500.jpg" data-tags="soul" role="button">
 The Isley Brothers - The Essential Isley Brothers (2004-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/947456b1-0047-4f44-ade4-e8f6b755e21c/27508233508-500.jpg" data-tags="motown, soul" role="button">
-The Supremes - Gold (2005-04-26)
+<li data-cover="http://coverartarchive.org/release/533c3798-125c-42a3-ba4a-875f492c6372/2232157376-500.jpg" data-tags="motown, oldies" role="button">
+Smokey Robinson - My World: The Definitive Collection (2005-05-03)
 </li>
 <li data-cover="https://img.discogs.com/BN39JJ6K1PCGmOQ5nssRBUGa9uk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-578227-1258357271.jpeg.jpg" data-tags="soul, motown" role="button">
 Stevie Wonder - A Time To Love (2005-10-18)
@@ -288,9 +288,6 @@ Kottonmouth Kings - Cloud Nine (2007)
 <li data-cover="https://img.discogs.com/RVRreQObTy1Jd9angkuzn6xVjpE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2826750-1485903897-9302.jpeg.jpg" data-tags="motown, 60s" role="button">
 The Elgins - The Motown Anthology (2007-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/48160058-d239-4b0b-9969-47f73e6cf86f/21477044180-500.jpg" data-tags="rock, 80s" role="button">
-The Police - The Police (2007-06-05)
-</li>
 <li data-cover="https://img.discogs.com/081MyRiVX4V3Du8_H0ZAW8No3hc=/fit-in/362x362/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1392022-1294289062.jpeg.jpg" data-tags="motown, nice picture, my phone ring, i love the clip" role="button">
 Madcon - Beggin' (2007-11-05)
 </li>
@@ -308,6 +305,9 @@ Sugarland - Love On The Inside (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1189c51-b3b4-4fb6-9d05-7122b8ca99d7/5951428264-500.jpg" data-tags="motown" role="button">
 Martha Reeves & The Vandellas - The Definitive Collection (2008-09-23)
+</li>
+<li data-cover="https://img.discogs.com/ENsS107K0-XGq7r_rj3GAu44ZNA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16669068-1609169517-9822.jpeg.jpg" data-tags="soul, 60s, motown" role="button">
+Jr. Walker & The All Stars - The Definitive Collection (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7cba802-a824-4b60-8590-15eefe59b876/9706598071-500.jpg" data-tags="soul, funk" role="button">
 Sharon Jones and the Dap-Kings - I Learned the Hard Way (2010-04-02)

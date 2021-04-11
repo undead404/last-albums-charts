@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:53:01.412Z
+date: 2021-04-11T03:09:01.402Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -183,9 +183,6 @@ Kanye West - POWER (2010-07-01)
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
 </li>
-<li data-cover="https://img.discogs.com/wLUsWMORrOXxUaAekYkwFc3_tu4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219468-1414012241-6652.jpeg.jpg" data-tags="indie, indie pop, psychedelic" role="button">
-of Montreal - False Priest (2010-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bc5fce5-2fbf-4ba1-818d-bc3996110dde/2103447209-500.jpg" data-tags="r&b" role="button">
 Trey Songz - Passion, Pain & Pleasure (2010-09-14)
 </li>
@@ -209,6 +206,9 @@ Selah Sue - Selah Sue (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/5597fa83-0f6a-4eef-ac83-ee15f6eb9b2e/2524821065-500.jpg" data-tags="female vocalist, soul, r&b, jennifer hudson" role="button">
+Jennifer Hudson - I Remember Me (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fe337a7-2e91-4475-be84-af9cf8ad2e3c/4805128775-500.jpg" data-tags="r&b" role="button">
 Frank Ocean - nostalgia, ULTRA (2011-03-24)

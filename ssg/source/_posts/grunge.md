@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:31:06.894Z
+date: 2021-04-11T03:08:01.418Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")

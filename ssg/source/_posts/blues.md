@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:05:01.479Z
+date: 2021-04-11T03:39:01.458Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -7,7 +7,7 @@ title: "blues: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">Etta James - At Last (1960-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">Eric Clapton - Unplugged (1992-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
+<li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">Katie Melua - Piece by Piece (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
 <li data-cover="https://img.discogs.com/M_Wy2XOuhikxL5YB_zx_Lqe6Wx0=/fit-in/408x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13817306-1561785201-4941.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
@@ -41,6 +41,9 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f83b06-9cf1-4e39-81ed-5bd1ce9c44c3/19273846900-500.jpg" data-tags="blues" role="button">
 Albert King - King Of The Blues Guitar (1969)
+</li>
+<li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
+The Doors - The Soft Parade (1969-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4945c044-d742-433b-b8ff-eb5b28d14249/25081651246-500.jpg" data-tags="blues, blues rock" role="button">
 Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama! (1969-10)
@@ -99,6 +102,9 @@ J.J. Cale - Troubadour (1976)
 <li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
 Tom Waits - Small Change (1976-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
+Dire Straits - Dire Straits (1978-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739-500.jpg" data-tags="blues" role="button">
 Tom Waits - Blue Valentine (1978-10)
 </li>
@@ -153,6 +159,9 @@ Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/4e341073-f4b4-4362-9f73-72aafe3b46c7/21892739181-500.jpg" data-tags="blues" role="button">
 Elmore James - Dust My Broom (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/b53bb19e-6570-4992-acfa-c03b5b07f351/7792468682-500.jpg" data-tags="blues" role="button">
+Etta James - Her Best (1997-03-25)
+</li>
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
@@ -201,23 +210,14 @@ Ray Charles - Genius Loves Company (2004-08-27)
 <li data-cover="http://coverartarchive.org/release/54d85f60-dbc4-4227-82f9-caf822057562/19708899133-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Rubber Factory (2004-09-07)
 </li>
-<li data-cover="https://img.discogs.com/FmHghlUxV8FHoIwIHACv3ZBgGVk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1275629-1547400630-6964.jpeg.jpg" data-tags="soul" role="button">
-Joss Stone - Mind Body & Soul (2004-09-27)
-</li>
 <li data-cover="https://img.discogs.com/gcvh_G1cU7K2nvX7-zDztowbVh4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438161-1558967298-3250.jpeg.jpg" data-tags="blues, experimental" role="button">
 Tom Waits - Real Gone (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
 Amos Lee - Amos Lee (2005-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b63123a-f122-4feb-bce2-a3c02dc79a7b/4619205570-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Black Rebel Motorcycle Club - Howl (2005-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
-John Mayer Trio - Try! (2005-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)

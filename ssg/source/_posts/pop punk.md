@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:17:12.496Z
+date: 2021-04-11T02:58:01.458Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -32,9 +32,6 @@ Green Day - Nimrod (1997-10-10)
 </li>
 <li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
-</li>
-<li data-cover="https://img.discogs.com/i9uA0TZJ9Q72ePh9e-V5XWwgSIA=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836667-1246787710.jpeg.jpg" data-tags="alternative rock" role="button">
-Lit - A Place in the Sun (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c99bcef0-0809-42c0-8fe7-7273d3a59d0f/9767229393-500.jpg" data-tags="pop punk" role="button">
 Saves the Day - Through Being Cool (1999-11-02)
@@ -92,6 +89,9 @@ Yellowcard - Ocean Avenue (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
+Avril Lavigne - Under My Skin (2004-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)

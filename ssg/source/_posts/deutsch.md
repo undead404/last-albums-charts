@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:01:06.873Z
+date: 2021-04-11T02:54:01.426Z
 title: "deutsch: 100 albums you must listen to before you die"
 ---
 ![Clueso - So sehr dabei (2008-05-30)](http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg "Clueso - So sehr dabei (2008-05-30)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/axZCL8e5TNw1YBpV77kECEhoGOw=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-343260-1423732712-3253.jpeg.jpg" data-tags="80s, deutsch" role="button">
-Peter Schilling - Fehler im System (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/e38790fe-0b99-45ac-b540-9b7cf2742d94/19025705025-500.jpg" data-tags="german" role="button">
 Nena - 99 Luftballons (1983)
 </li>
@@ -165,9 +162,6 @@ Revolverheld - Revolverheld (2005-09-23)
 <li data-cover="https://img.discogs.com/rLFbd4wzHfqWV4t0KBl6bD56rUQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927793-1242079929.jpeg.jpg" data-tags="german, pop" role="button">
 Wir sind Helden - Von hier an blind (2005-09-23)
 </li>
-<li data-cover="https://img.discogs.com/8L5YZIN096fHanuOwsZePa7eTtA=/fit-in/202x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-754756-1155478794.jpeg.jpg" data-tags="element of crime" role="button">
-Element of Crime - Mittelpunkt der Welt (2005-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/054e623b-57ce-42fb-bb62-f1c82dfedf1d/4801247210-500.jpg" data-tags="german" role="button">
 Muff Potter - Von Wegen (2005-10-07)
 </li>
@@ -189,8 +183,14 @@ Tomte - Buchstaben über der Stadt (2006-02-03)
 <li data-cover="http://coverartarchive.org/release/bd12c697-199e-4a24-ae2d-c0054107ebcd/20525798298-500.jpg" data-tags="rosenstolz" role="button">
 Rosenstolz - Das grosse Leben (2006-03-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/527a5356-b45f-4665-bbe0-b481ebfcdd49/15859334735-500.jpg" data-tags="industrial metal" role="button">
+Oomph! - GlaubeLiebeTod (2006-03-24)
+</li>
 <li data-cover="https://img.discogs.com/xZoIktyNs8bpBHGjmcbPJkx0r5o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726919-1327261608.jpeg.jpg" data-tags="deutsch" role="button">
 PeterLicht - Lieder vom Ende des Kapitalismus (2006-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c1f170f-2411-41fb-b476-545fb484788d/10009033849-500.jpg" data-tags="electronic" role="button">
+Deichkind - Aufstand im Schlaraffenland (2006-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5debf44a-74f5-47cb-b32e-9ccbee99e76e/3376054171-500.jpg" data-tags="german, deutsch" role="button">
 Clueso - Weit weg (2006-05-19)
@@ -206,9 +206,6 @@ MIA. - Zirkus (2006-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2bf42fc-16e3-4496-b3d7-f72be4bf0aae/10864576866-500.jpg" data-tags="christina strmer - lebe lauter, deutsch" role="button">
 Christina Stürmer - Lebe Lauter (2006-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e399300-e2d0-4836-ade1-67783e8aba6c/1594214502-500.jpg" data-tags="german" role="button">
-Fotos - Fotos (2006-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e0f641-ad35-43fd-b7ed-aecd6685caf5/3323261794-500.jpg" data-tags="grand hotel van cleef" role="button">
 Olli Schulz & der Hund Marie - Warten Auf Den Bumerang (2006-11-17)
@@ -236,6 +233,9 @@ Tocotronic - Kapitulation (2007-07-06)
 </li>
 <li data-cover="https://img.discogs.com/MHVuQK7v08wTgv3QeTy2GwZTM7k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2263929-1273152085.jpeg.jpg" data-tags="deutschrock" role="button">
 Sportfreunde Stiller - La Bum (2007-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac753d74-5194-4d36-8b78-0b13d7c9d712/3326549443-500.jpg" data-tags="rock" role="button">
+Bela B. - Gitarre runter (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
 Culcha Candela - Culcha Candela (2007-08-31)
@@ -267,8 +267,8 @@ PeterLicht - Melancholie und Gesellschaft (2008-09-05)
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
 Peter Fox - Stadtaffe (2008-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/be5ff3f4-825b-498e-9ce7-f516aec0ada7/10579966467-500.jpg" data-tags="punk rock, punk" role="button">
-Die Toten Hosen - In aller Stille (2008-11-14)
+<li data-cover="https://img.discogs.com/chbQCkNL9CHtkgJMePT9IfkzZZI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2010386-1258345609.jpeg.jpg" data-tags="german, pop" role="button">
+Cassandra Steen - Darum leben wir (2009-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/49ec31d8-d05f-4545-826f-2e5b00059b2e/18304648114-500.jpg" data-tags="germany, deutsch, german, deutschland, electropunk, female fronted" role="button">
 Jennifer Rostock - Der Film (2009-07-10)

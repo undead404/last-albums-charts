@@ -1,10 +1,9 @@
 ---
-date: 2021-04-10T18:45:01.841Z
+date: 2021-04-11T03:10:01.488Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/xYv9oqQix5EA4uhZtoyUhmZ_8o4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4870461-1442166097-6503.jpeg.jpg" data-tags="hip-hop, rap" role="button">Public Enemy - Fear of a Black Planet (1990-03-20)</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">Rage Against the Machine - The Battle of Los Angeles (1999-09)</li>
@@ -12,6 +11,7 @@ title: "political: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/56db4963-266b-4c39-8515-57ee7a11f0d1/14154529310-500.jpg" data-tags="punk, folk punk" role="button">Against Me! - Reinventing Axl Rose (2002-02-02)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
+<li data-cover="http://coverartarchive.org/release/4308166d-aa0d-470e-adc9-b62caab2ef68/3202117662-500.jpg" data-tags="alternative metal" role="button">Serj Tankian - Elect the Dead (2007-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">Flobots - Fight With Tools (2007-10-16)</li>
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">PJ Harvey - Let England Shake (2011-02-14)</li>
 </ol>
@@ -63,9 +63,6 @@ Dead Kennedys - Plastic Surgery Disasters (1982-10)
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9f79335-c1b6-421c-8b17-0efdb3b506f3/3076648829-500.jpg" data-tags="pop rock" role="button">
-RPM - Revoluções Por Minuto (1985-05)
-</li>
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
 </li>
@@ -83,9 +80,6 @@ Janet Jackson - Rhythm Nation 1814 (1989-09-15)
 </li>
 <li data-cover="https://img.discogs.com/GuB3krqqMIGM8_h4n3pgjTF0bdg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-232622-1572222531-4863.jpeg.jpg" data-tags="80s, pop" role="button">
 Janet Jackson - Rhythm Nation (1989-10-23)
-</li>
-<li data-cover="https://img.discogs.com/xYv9oqQix5EA4uhZtoyUhmZ_8o4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4870461-1442166097-6503.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Public Enemy - Fear of a Black Planet (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
@@ -138,14 +132,23 @@ Legião Urbana - Uma Outra Estação (1997-07)
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a5adcfc-aa96-42a4-93ab-70d3af740b56/12618649300-500.jpg" data-tags="polish rock, polish, rock" role="button">
+Kult - Ostateczny krach systemu korporacji (1998-05-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddcc0477-d4b6-4201-85d1-df5e10482c16/28801509453-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - Eurosis (1998-07-17)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/ba62578d-6e37-462c-99a9-561fb60b14ca/24754125331-500.jpg" data-tags="singer-songwriter, acoustic, americana" role="button">
+Mary Gauthier - Drag Queens in Limousines (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc0d284f-16d3-41b0-8ad6-90fa55506fbf/4395767858-500.jpg" data-tags="rap" role="button">
+Busta Rhymes - Anarchy (2000-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
@@ -252,6 +255,9 @@ State Radio - The Barn Sessions (2007-04-17)
 <li data-cover="https://img.discogs.com/uP7OSNvHPtEOToQTXuZU0PGJyAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963312-1475914392-4721.jpeg.jpg" data-tags="folk rock" role="button">
 The Nightwatchman - One Man Revolution (2007-04-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal" role="button">
+Ministry - Rio Grande Blood (2007-07-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/4308166d-aa0d-470e-adc9-b62caab2ef68/3202117662-500.jpg" data-tags="alternative metal" role="button">
 Serj Tankian - Elect the Dead (2007-08-20)
 </li>
@@ -270,14 +276,8 @@ Afasi & Filthy - Fläcken (2008-04-09)
 <li data-cover="https://img.discogs.com/5TJbA6VEELkMQyjbQm2lkpvmEFI=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500297-1224355593.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, political, socially conscious, revolutionary hip-hop, good in 2008" role="button">
 East Coast Avengers - Prison Planet (2008-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1b6aa2f-bf89-4a59-8b8c-bca2f56f1756/2598509312-500.jpg" data-tags="turk, world, political, world music" role="button">
-Bandista - de te fabula narratur (2009)
-</li>
 <li data-cover="https://img.discogs.com/jVhD2t-MCj52UbrwsoYG_YZAlzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523458-1288654372.jpeg.jpg" data-tags="rock, alternative rock, hip-hop" role="button">
 Flobots - Survival Story (2010-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/a757d40c-d374-4dcb-af91-fec6fa2b61a9/10544833177-500.jpg" data-tags="goth, russian, political, marxist, gospel, mambo, psychic, pink, penis, pee pee, russia, drunk, red, yellow, richard, ccc, ussr, rich, communist, shady, orthodox, dolce, vcf, orthodox christian, martyr, dick, diarrhea, anti-american, infidel, this is music, ywam, no core, vineyard, diversity, eastern orthodox, pinko, poo poo, phallus, political prisoner, eastern orthodox christian, everyone loves you when you are dead, campus crusade for christ, explosive diarrhea, 12 steps, goodbye to romance, owner of a penis, youth with a mission, dick dolce, rich dolce, richard dolce, penis warrior, speaks in tongues, tongue talker, you can listen to this, old believers, coloring song, glandular, old believer, rocor, synod, synodal, vineyard christian fellowship, ivf, magic astrology mood ring, banjo loving fools" role="button">
-Eduard Khil - I am very glad, because I'm finally returning back home (2010-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d012abac-3cde-4eb4-a33b-1e2e13f47fea/19861451151-500.jpg" data-tags="hip-hop, rap, underground hip-hop, dope, political, lyrical, hardcore rap, hardcore hip-hop, conspiracy theory" role="button">
 DJ Muggs vs. Ill Bill - Kill Devil Hills (2010-08-24)

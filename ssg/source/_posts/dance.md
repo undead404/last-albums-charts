@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:55:01.424Z
+date: 2021-04-11T02:46:23.653Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -186,6 +186,9 @@ Little Boots - Hands (2008-06-08)
 <li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
+Katy Perry - One of the Boys (2008-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
 Lady Gaga - The Fame (2008-08-19)
 </li>
@@ -302,9 +305,6 @@ Selena Gomez - Stars Dance (2013-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4081f66-bcee-4805-800c-cae6e9847fb7/5176860791-500.jpg" data-tags="wake me up" role="button">
 Avicii - Wake Me Up (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
-Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
 Rita Ora - I Will Never Let You Down (2014-04-04)

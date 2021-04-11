@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:33:01.808Z
+date: 2021-04-11T03:23:01.421Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -60,9 +60,6 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d5461d0-07c0-431a-b5b3-e7f8088642cd/18043607840-500.jpg" data-tags="soul, during the good times" role="button">
-Ramsey Lewis - Mother Nature's Son (1968)
-</li>
 <li data-cover="http://coverartarchive.org/release/668cb2ad-f70d-43d5-80b7-838c82fe7cb9/17866105028-500.jpg" data-tags="folk rock, psychedelic" role="button">
 Fairport Convention - Fairport Convention (1968-06)
 </li>
@@ -92,12 +89,6 @@ John Lennon - Imagine (1971-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfbcac3d-b343-4e64-93d3-d9d83274d479/15764013872-500.jpg" data-tags="70s" role="button">
 John Lennon & Yoko Ono - Sometime in New York City (1972-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/1903f00b-5131-48ee-9f77-ecf1835a34bb/5582774603-500.jpg" data-tags="beatles, classic rock, 60s" role="button">
-The Beatles - 1962-1966 (1973-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ceab392-f96e-490d-a1b6-214ec63bad8e/11825207228-500.jpg" data-tags="pop, 70s" role="button">
-Elton John - Captain Fantastic And The Brown Dirt Cowboy (1975-05-19)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, rock n roll" role="button">
 The Beatles - Rock and Roll Music (1976-06-07)
@@ -143,6 +134,9 @@ The Beatles - Ain't She Sweet (1984-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca0d25-cce8-4366-93af-14262426054f/9053370792-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Decca Tapes (1986-03-01)
+</li>
+<li data-cover="https://img.discogs.com/Nv-GmLdY8bncIYX81FWsbO_N62Q=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7075071-1433112075-6405.jpeg.jpg" data-tags="the beatles, harrison" role="button">
+George Harrison - Acetates and Alternates (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a55bb4-abb2-4d8c-8646-a06c56cd5a2c/9460984577-500.jpg" data-tags="classic rock, rock" role="button">
 George Harrison - Cloud Nine (1987-11-02)
@@ -207,6 +201,9 @@ The Simpsons - The Yellow Album (1998-11-24)
 <li data-cover="http://coverartarchive.org/release/5b169db9-a9ae-4e76-a8dd-118c2fe4d0e3/4327398469-500.jpg" data-tags="mar de copas" role="button">
 Mar de Copas - Suna (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/c07cab2b-264b-4a9e-9fe2-2dd52b422df8/1887511272-500.jpg" data-tags="the beatles" role="button">
+Paul McCartney - Wild Life, Venus and Mars (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
 </li>
@@ -221,6 +218,9 @@ Benise - Spanish Nights (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cb84d28-d9a0-4b38-b38e-9f478d90242b/16655902889-500.jpg" data-tags="power metal" role="button">
 Freedom Call - Crystal Empire (2001-01-22)
+</li>
+<li data-cover="https://img.discogs.com/QvxMAF29T9Q0_L2scN5-pmk7H5M=/fit-in/261x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2363233-1279641482.jpeg.jpg" data-tags="beatles cover song" role="button">
+Sweet Little Band - Babies Go Beatles (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/163efc1f-64e1-47ce-8bf1-b64a2d281d22/13677088030-500.jpg" data-tags="cover, the beatles, nick cave" role="button">
 Nick Cave - Here Comes the Sun (2002-05-20)
@@ -242,9 +242,6 @@ Lasha - Beatles - Baby Style (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">
 Danger Mouse - The Grey Album (2004-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5d9ac9c-9b99-46af-8679-9a005d4ba2a1/1935751672-500.jpg" data-tags="heavy metal" role="button">
-Beatallica - Beatallica (2004-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4050c80-21b2-4f91-a8d8-0ef8d4c2d845/8809394844-500.jpg" data-tags="black beatles" role="button">
 Various Artists - Trojan Beatles Tribute Box Set (2004-11-22)
@@ -290,6 +287,9 @@ PAULUSMA - iRECORD (2008-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/75047fd6-d3a3-4fca-9fbe-42072cff4286/7567861972-500.jpg" data-tags="the beatles, the shins, beck, foo fighters, nirvana, elliott smith, belle and sebastian, white stripes, supergrass, iron and wine, the hidden cameras, johnossi, artic monkeys:, pavement:" role="button">
 Jens Wennberg - Welcome to 1984 (2008-12-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - The Orphanage (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/12f954b9-ae94-4ed3-9d29-9296e74a7afb/1795854551-500.jpg" data-tags="heavy metal, metal, cover, mashup, remix, mash-up, bastard pop, the beatles, parody, bootleg, 2000s, sample, joke" role="button">
 Beatallica - Masterful Mystery Tour (2009-08-04)

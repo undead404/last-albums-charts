@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:21:01.596Z
+date: 2021-04-11T02:50:01.436Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/zM8o5H0dbngN1kISj4o5IIS9qvU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1115835-1343568487-2712.jpeg.jpg" data-tags="folk" role="button">
-Vashti Bunyan - Some Things Just Stick In Your Mind (1965)
-</li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
 </li>
@@ -69,6 +66,9 @@ Jack Johnson - Brushfire Fairytales (2000)
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
 Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b306a26-cb3a-346a-8394-ce5a4b9342e1/16542394141-500.jpg" data-tags="indie, rock" role="button">
+Richard Ashcroft - Alone With Everybody (2000-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
 </li>
@@ -96,14 +96,8 @@ The Shins - Oh, Inverted World (2001-06-19)
 <li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
 Sondre Lerche - Faces Down (2001-09-10)
 </li>
-<li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
-Vanessa Carlton - Be Not Nobody (2002-04-30)
-</li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
-</li>
-<li data-cover="https://img.discogs.com/pE0AwIwBF0qU0WqboplXrZyHmn8=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986389-1260080883.jpeg.jpg" data-tags="indie, joseph arthur" role="button">
-Joseph Arthur - Redemption's Son (2002-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Busted Stuff (2002-07-16)
@@ -116,9 +110,6 @@ Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">
-Broken Social Scene - You Forgot It In People (2002-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
@@ -155,6 +146,9 @@ The Shins - Chutes Too Narrow (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/94982128-51c8-3a44-b77c-ec78be7d8e5f/20542671034-500.jpg" data-tags="sarah mclachlan" role="button">
 Sarah McLachlan - Afterglow (2003-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
+Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
@@ -264,11 +258,17 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
+She & Him - Volume One (2008-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
 Jesse McCartney - Departure (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e7f1846-7df8-3268-a5cd-d8b85e3c38a2/19782779310-500.jpg" data-tags="indie, alternative" role="button">
+Chad VanGaalen - Soft Airplane (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
@@ -291,9 +291,6 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/ef5be90c-ca72-40f6-8c8e-1c2234a23af0/18894936661-500.jpg" data-tags="folk" role="button">
-A.A. Bondy - When The Devil's Loose (2009-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
@@ -302,6 +299,9 @@ Corinne Bailey Rae - The Sea (2010-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a54be848-c2a6-4282-8438-aa08fa6e648b/15941011609-500.jpg" data-tags="soul, easy listening, soft rock, mellow, pop soul, soft rock revival" role="button">
 Rumer - Seasons of My Soul (2010-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
+The Decemberists - The King Is Dead (2011-01-14)
 </li>
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)

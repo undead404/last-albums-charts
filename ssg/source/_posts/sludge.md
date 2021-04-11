@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:43:01.599Z
+date: 2021-04-11T03:45:01.627Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -60,9 +60,6 @@ Down - NOLA (1995-09-15)
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
 </li>
-<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
-Sleep - Jerusalem (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/867a9c66-d738-3857-b967-62b9367970fc/7697193187-500.jpg" data-tags="post-metal, sludge, sludge metal" role="button">
 Neurosis - Through Silver In Blood (1996-04-12)
 </li>
@@ -83,9 +80,6 @@ Neurosis - Times of Grace (1999-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfab7e90-c67b-433b-a365-a5c2fe4e31af/9456816625-500.jpg" data-tags="sludge" role="button">
 Isis - The Red Sea (1999-07)
-</li>
-<li data-cover="https://img.discogs.com/XdlanQ-pVauyIKX25zVrgtnMLBM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-384179-1106251469.jpg.jpg" data-tags="sludge, sludge metal" role="button">
-Eyehategod - Southern Discomfort (2000-01-25)
 </li>
 <li data-cover="https://img.discogs.com/E3zacTqfQNSLzHq_ESkjuevv5wc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816626-1244854064.jpeg.jpg" data-tags="sludge, post-metal" role="button">
 Isis - Celestial (2000-07-19)
@@ -152,6 +146,9 @@ Cult of Luna - Salvation (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8b0b3d0-1a65-44df-a717-49c3ef9edd18/1121997050-500.jpg" data-tags="sludge, doom metal, post metal" role="button">
+Mouth of the Architect - Time & Withering (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c5fe4ad-f3a2-4b2e-b781-df50f524887b/25736837933-500.jpg" data-tags="doom, sludge, stoner metal" role="button">
 YOB - The Illusion Of Motion (2004-11-29)
@@ -290,6 +287,9 @@ Cough - Ritual Abuse (2010-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6bf386-774f-4680-93bf-286b6bf996c4/12182847250-500.jpg" data-tags="post-metal, progressive metal, experimental, sludge" role="button">
 The Ocean - Anthropocentric (2010-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/fd47de10-60e8-4e5a-8e23-1a4ad095d122/17260640811-500.jpg" data-tags="experimental, sludge, fucking awesome, post metal" role="button">
+Blindead - Affliction XXIX II MXMVI (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5fb82fe-17ee-44fb-ba14-6edd516b94e3/1505255440-500.jpg" data-tags="sludge" role="button">
 Crowbar - Sever The Wicked Hand (2011-02-08)

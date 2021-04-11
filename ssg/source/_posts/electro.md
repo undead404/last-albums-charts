@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:09:07.086Z
+date: 2021-04-11T02:47:01.421Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -11,9 +11,9 @@ title: "electro: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">Calvin Harris - I Created Disco (2007-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">Skrillex - Scary Monsters and Nice Sprites (2010-10-22)</li>
+<li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/79c61225-395e-45bb-9ecd-e6b8ba70821a/14364011001-500.jpg" data-tags="electro" role="button">Klangkarussell - Sonnentanz (2012-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">C2C - Tetra (2012-08-03)</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">Stromae - Racine Carrée (2013-08-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,6 +32,9 @@ Kraftwerk - The Mix (1991-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5922184-c4e7-35df-bd1d-b198da677993/1148951969-500.jpg" data-tags="electronica, electro, house, daft punk, electrofunk" role="button">
 Daft Punk - Da Funk (1995-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
+Stereolab - Dots and Loops (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
@@ -53,9 +56,6 @@ Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
-</li>
-<li data-cover="https://img.discogs.com/OimAbQe6hYEVuD2k_WvxSCv6MDM=/fit-in/500x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1483251-1338738012-2908.jpeg.jpg" data-tags="electronic" role="button">
-Soulwax - Any Minute Now (2004-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8b76cb7-43db-4b7d-9eac-af54fd564b31/12289706070-500.jpg" data-tags="electronica, electro, dance, chiptune, bitpop, sweden, synth-pop, blip blop, mmmmm, bit, svenskprov, najjs" role="button">
 Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)
@@ -168,8 +168,8 @@ Little Boots - Hands (2008-06-08)
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/75b023d9-9703-4b4f-b931-5015122e2158/1439139825-500.jpg" data-tags="electronic, indie, electro, 00s, indie electro, aggro, harsh, dance-rock, refreshing, hard electro, whos got the clap, aggro techno, aggro electro, industro, in queue no tracks, discos que debo comprar, aggro synthpop, wikus, ds co, aggro synth" role="button">
-Van She - V (2008-08-12)
+<li data-cover="http://coverartarchive.org/release/7dcfdfdb-15ad-4e0f-aada-7086b9c28bea/5530144564-500.jpg" data-tags="electro" role="button">
+The Bloody Beetroots - Rombo EP (2008-09-09)
 </li>
 <li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
@@ -201,9 +201,6 @@ Basement Jaxx - Raindrops (2009-06-21)
 <li data-cover="https://img.discogs.com/_gMnPujlN9AT4zUPw0Ct1BHZNsQ=/fit-in/320x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876353-1249499089.jpeg.jpg" data-tags="electronic" role="button">
 Amanda Blank - I Love You (2009-08-04)
 </li>
-<li data-cover="https://img.discogs.com/jBj3QGbg5SrmsfLqQXY7UXYsTKo=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593294-1292173552.jpeg.jpg" data-tags="electronic, house, electro, dance" role="button">
-The Bloody Beetroots - Romborama (2009-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
 </li>
@@ -222,6 +219,9 @@ Tensnake - Coma Cat (2010-01-25)
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/12b9a59b-65ea-4098-a38d-c94aab4fc298/1040906016-500.jpg" data-tags="instrumental, electro, idm, listen more, checkout 2010" role="button">
+Mux Mool - Skulltaste (2010-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/6c2fa6d9-edf3-43d9-a695-6710f3f89e0f/2267907104-500.jpg" data-tags="electronic, dance" role="button">
 Kelis - Flesh Tone (2010-05-17)
 </li>
@@ -230,12 +230,6 @@ Crystal Castles - Crystal Castles (2010-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/607fad5d-1010-42b5-a18a-01f3eef6b81b/5607683561-500.jpg" data-tags="dubstep, dance, electro" role="button">
 Skrillex - My Name Is Skrillex (2010-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ae4c1d-28db-4232-94a8-2094ca8c3083/8155989697-500.jpg" data-tags="electronic" role="button">
-Stromae - Cheese (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c0af1dc-6d39-4777-a880-d55a14a07dba/3736491560-500.jpg" data-tags="electronic, electro" role="button">
-Thieves Like Us - Again and Again (2010-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1a1dbc7-382f-4a53-b02f-56c98e1bd550/22558909538-500.jpg" data-tags="electronic, electro, electro house, complextro" role="button">
 Porter Robinson - Say My Name (2010-08-13)
@@ -279,6 +273,9 @@ Justice - Audio, Video, Disco (2011-09-21)
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
 Madeon - Icarus (2012-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/2691c644-a0da-498f-b625-2e8b4823eebb/7723323719-500.jpg" data-tags="electro" role="button">
+Darius - Velour (2012-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
@@ -294,17 +291,20 @@ C2C - Tetra (2012-08-03)
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
-Zedd - Clarity (2012-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/3635ce51-ff95-4656-a8d0-3931a09573aa/7045624028-500.jpg" data-tags="house" role="button">
 Swedish House Mafia - Until Now (2012-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/448070f8-bb82-49eb-b132-404d37a8bdf8/5858921353-500.jpg" data-tags="dubstep, electro, piano, house, electro house, brostep, owsla" role="button">
+Kill the Noise - Black Magic (2012-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
-Stromae - Racine Carrée (2013-08-16)
+<li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
+Empire of the Sun - Ice on the Dune (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b6379fb-8b83-4d07-9375-854cc90ea1b3/21405595554-500.jpg" data-tags="dubstep, glitch" role="button">
+The Glitch Mob - Love Death Immortality (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/04b9e742-3022-4cc4-b863-6a6f9a2ce05b/8871975828-500.jpg" data-tags="instrumental, electro, chilled house" role="button">
 Ten Walls - Walking With Elephants (2014-04-13)

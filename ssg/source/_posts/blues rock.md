@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:54:01.415Z
+date: 2021-04-11T02:49:01.420Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -228,9 +228,6 @@ The White Stripes - Get Behind Me Satan (2005-06-01)
 <li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - A Bigger Bang (2005-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
-John Mayer Trio - Try! (2005-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
@@ -269,6 +266,9 @@ Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
+</li>
+<li data-cover="https://img.discogs.com/LFXcNnQuWWQKvKA9bXg0KopqGjU=/fit-in/554x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440214-1600174985-6208.jpeg.jpg" data-tags="pop, rock, pop rock, soft rock, blues rock, funk rock, ok, 10s, nick jonas, wrkut, who i am, lo mejor del momento" role="button">
+Nick Jonas & the Administration - Who I Am (2010-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
 Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
