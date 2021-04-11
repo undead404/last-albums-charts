@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:28:01.682Z
+date: 2021-04-11T22:00:01.451Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -38,6 +38,9 @@ Tricky - Maxinquaye (1995-02-20)
 </li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
+</li>
+<li data-cover="https://img.discogs.com/P1aDkYbPs3UCngSPoP-eOqSMKeQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11221028-1512156805-2715.gif.jpg" data-tags="trip-hop, electronic" role="button">
+Moloko - Do You Like My Tight Sweater? (1995-09-01)
 </li>
 <li data-cover="https://img.discogs.com/53O4nbwhSos24lA0I3Bm2do3b8M=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61294-1193595283.jpeg.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - Smokers Delight (1995-09-25)
@@ -278,9 +281,6 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfdfb309-1a97-4436-8029-4bce887447f7/1492502467-500.jpg" data-tags="experimental, abstract hip hop" role="button">
-Aesop Rock - Skelethon (2012-07-10)
 </li>
 <li data-cover="https://img.discogs.com/59bXsu33PLTKLLayvOH1aPqAlMg=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4023781-1353288266-4410.jpeg.jpg" data-tags="pop, lana del rey" role="button">
 Lana Del Rey - Ride (2012-09-25)

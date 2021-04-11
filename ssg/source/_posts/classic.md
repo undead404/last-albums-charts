@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:21:01.440Z
+date: 2021-04-11T22:04:01.402Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/-Qb3fR5oGYrJyaqvEBvznK_l7dA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3877251-1347790095-2316.jpeg.jpg" data-tags="60s" role="button">
+The Yardbirds - Five Live Yardbirds (1964)
+</li>
 <li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - You Really Got Me (1964-10-02)
 </li>
@@ -69,12 +72,6 @@ The Who - Who's Greatest Hits (1983-05-08)
 <li data-cover="http://coverartarchive.org/release/88c30d58-617f-4092-98ba-49f10c243552/6323306000-500.jpg" data-tags="new wave" role="button">
 Frankie Goes to Hollywood - Relax (1983-10-24)
 </li>
-<li data-cover="https://img.discogs.com/zXSwQGG7BZaDYqJp4Iz2ZTB_AQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14660088-1579104041-8146.jpeg.jpg" data-tags="80s, pop" role="button">
-Prince & The Revolution - Purple Rain (1984-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
-The Replacements - Let It Be (1984-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ede5854-8fd5-4370-9880-7581976408c2/17256685078-500.jpg" data-tags="classic, fun to skateboard to, i love singing along, hardcore old" role="button">
 Minor Threat - Salad Days (1985-04)
 </li>
@@ -96,6 +93,9 @@ Tom Waits - Franks Wild Years (1987-08-17)
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">
 Chicago - The Chicago Story (1989)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
+Operation Ivy - Energy (1989-03-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e272d73-ed9d-48b0-809c-8c562be52bd7/4416968015-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Gang Starr - Step In The Arena (1990)
 </li>
@@ -104,9 +104,6 @@ Johann Strauss II - Vienna of My Dreams (1990)
 </li>
 <li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
 Main Source - Breaking Atoms (1991-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - The Low End Theory (1991-09-24)
 </li>
 <li data-cover="https://img.discogs.com/dSHHQw7HsvatcIMDhjSAuuRjFI0=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726664-1433286162-6985.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
 Morrissey - Your Arsenal (1992-07-22)
@@ -132,11 +129,11 @@ Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
 </li>
+<li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
+Shakira - Pies Descalzos (1995)
+</li>
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
-Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -183,9 +180,6 @@ Wilco - Summerteeth (1999-03-09)
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/df9a8504-38c0-3df8-baf2-653c8037ef08/4782955873-500.jpg" data-tags="industrial" role="button">
-Rob Zombie - American Made Music To Strip By (1999-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
 </li>
@@ -201,6 +195,9 @@ OutKast - Stankonia (2000-10-23)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/25287053-9075-45ef-aa51-e75103c165be/7794239082-500.jpg" data-tags="post-punk, mojo 1000, mojo 1000 rock" role="button">
+The Birthday Party - The John Peel Sessions (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">
 Billy Joel - The Essential Billy Joel (2001-10-02)
 </li>
@@ -209,6 +206,9 @@ Masta Ace - Disposable Arts (2001-10-30)
 </li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/10084ccd-464b-44fb-b96e-1130f254c5a0/9344019684-500.jpg" data-tags="classic, piano, oasis, relaxing music, yiruma" role="button">
+Yiruma - Oasis & Yiruma (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)
@@ -231,14 +231,17 @@ Talib Kweli - Quality (2002-11-18)
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/849f67a4-a3be-429d-b310-932e316faed4/15835064453-500.jpg" data-tags="grime" role="button">
+Dizzee Rascal - Boy in da Corner (2003-07-21)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
+<li data-cover="http://coverartarchive.org/release/793b0d7d-a4cd-4937-9ec6-41f8b9bc0228/2562227796-500.jpg" data-tags="yiruma" role="button">
+Yiruma - From The Yellow Room (2003-10-23)
 </li>
 <li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
 Maurice Ravel - Piano Concerto (2004)
@@ -248,6 +251,9 @@ Trae - Same Thing Different Day (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
+</li>
+<li data-cover="https://img.discogs.com/Cg0XR_4W3vAKWxFD_9ByGzO9EnA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4425372-1543274379-4790.jpeg.jpg" data-tags="rnb" role="button">
+Brandy - Afrodisiac (2004-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/34b6fdf8-d1be-416f-a676-f1656291dd8c/5271373354-500.jpg" data-tags="hip hop, underground hip-hop, east coast hip hop, jedi mind tricks" role="button">
 Jedi Mind Tricks - Legacy of Blood (2004-08-24)
@@ -273,9 +279,6 @@ Mos Def - TRUE MAGIC (2006-12-19)
 <li data-cover="https://img.discogs.com/M65YJITon9l3Z-QBBCIhe86BP6M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5671278-1399508083-7419.jpeg.jpg" data-tags="soul, classic, my kind of music, marc broussard, somethin somethin-" role="button">
 Marc Broussard - S.O.S.: Save Our Soul (2007-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
-Paul Potts - One Chance (2007-07-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d69c11b-b82e-4c5f-af4b-4a34e9b16d00/15536303099-500.jpg" data-tags="classic, piano, relax" role="button">
 Isaac Shepard - Deep Joy (2008)
 </li>
@@ -290,9 +293,6 @@ The Who - Greatest Hits (2009-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">
-Kendrick Lamar - Overly Dedicated (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)

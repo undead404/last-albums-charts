@@ -1,10 +1,9 @@
 ---
-date: 2021-04-11T06:50:01.427Z
+date: 2021-04-11T21:47:01.877Z
 title: "playful: 100 albums you must listen to before you die"
 ---
 ![Dirty Projectors - Bitte Orca (2009-06-08)](http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg "Dirty Projectors - Bitte Orca (2009-06-08)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">A Tribe Called Quest - Midnight Marauders (1993-11-09)</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
@@ -13,6 +12,7 @@ title: "playful: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">Janelle Monáe - The ArchAndroid (2010-05-17)</li>
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">The Walkmen - Lisbon (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">The Shins - Port of Morrow (2012-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)</li>
 <li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">Vampire Weekend - Modern Vampires of the City (2013-05-06)</li>
 </ol>
 List of 100 - under the cut.
@@ -33,11 +33,11 @@ Sonny Rollins - Way Out West (1957)
 <li data-cover="http://coverartarchive.org/release/b5ce6304-bcc8-4ede-b457-47759af3420c/2595490692-500.jpg" data-tags="jazz, big band" role="button">
 Count Basie - The Complete Atomic Basie (1958)
 </li>
-<li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
-Ravi Shankar - The Sounds of India (1958)
-</li>
 <li data-cover="https://img.discogs.com/3gyn_G2Fg90uiyUBr5Pn24r1t88=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5946864-1467839335-1144.jpeg.jpg" data-tags="jazz" role="button">
 Dizzy Gillespie - Have Trumpet, Will Excite! (1959)
+</li>
+<li data-cover="http://coverartarchive.org/release/15809285-9201-4906-82db-383e914451e9/10123439347-500.jpg" data-tags="blues" role="button">
+Lightnin' Slim - Rooster Blues (1960)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3091591-a9b8-4be6-885f-76e15d630d73/8017634615-500.jpg" data-tags="energetic, cheerful, playful, rollicking, rambunctious" role="button">
 Chuck Berry - New Juke Box Hits (1961)
@@ -50,6 +50,9 @@ The Oscar Peterson Trio - Night Train (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fa5c438-5611-4cae-8523-057572f0f23b/24779251123-500.jpg" data-tags="jazz" role="button">
 Lee Morgan - Cornbread (1965)
+</li>
+<li data-cover="https://img.discogs.com/CHtxcXMEdWMN9nZ9hyLg9qgNQaE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8885217-1504188049-1601.jpeg.jpg" data-tags="salsa" role="button">
+Sonora Ponceña - Hacheros Pa' Un Palo (1967)
 </li>
 <li data-cover="https://img.discogs.com/8m_-6lygdnEbzCgx3KESBloy5hE=/fit-in/472x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2387817-1281102047.jpeg.jpg" data-tags="60s, psychedelic" role="button">
 The Human Beinz - Nobody But Me (1967)
@@ -65,9 +68,6 @@ The Incredible String Band - The Hangman's Beautiful Daughter (1968-03)
 </li>
 <li data-cover="https://img.discogs.com/nFJWJ3tXfKbb_rhqV0pSiTPMtgY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-839258-1275482207.jpeg.jpg" data-tags="classic rock" role="button">
 It's A Beautiful Day - It's A Beautiful Day (1969)
-</li>
-<li data-cover="https://img.discogs.com/TQAThz03NUlqod0hiCz8n183I3Y=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11907291-1524510312-2932.jpeg.jpg" data-tags="mantric acoustic" role="button">
-Michael Hurley - Armchair Boogie (1971)
 </li>
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
@@ -93,6 +93,9 @@ ABBA - Arrival (1976-10-11)
 <li data-cover="http://coverartarchive.org/release/09e18b28-756e-313c-b402-744dfaca3da0/9469576180-500.jpg" data-tags="reggae" role="button">
 Third World - Journey To Addis (1978)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Air - Air Lore (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
@@ -108,6 +111,9 @@ Madness - Absolutely (1980)
 <li data-cover="https://img.discogs.com/qM5T8kdar5aFG13oLaIZ08VDyyw=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10543741-1499591888-1833.jpeg.jpg" data-tags="jazz, drums, avant-garde, playful, avant-garde jazz, reeds, gammarec, accoustic bass, freepurp1e" role="button">
 Air - Live Air (1980-12-28)
 </li>
+<li data-cover="https://img.discogs.com/6eHeZRYHcp28jD5xHdBVUYtnygg=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5516878-1407928800-1941.jpeg.jpg" data-tags="synth pop" role="button">
+Godley & Creme - Ismism (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
@@ -120,9 +126,6 @@ Joe Jackson - Night And Day (1982-06)
 <li data-cover="https://img.discogs.com/21xR7CRutjALMZS8sqMuJN9ZzUM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10550506-1499718550-3501.jpeg.jpg" data-tags="rock" role="button">
 The Who - It's Hard (1982-09-04)
 </li>
-<li data-cover="https://img.discogs.com/rgH57-b0lMnZ-28HuL1zEB2zIa8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11002371-1516755407-9548.jpeg.jpg" data-tags="soundtrack" role="button">
-Barbra Streisand - Yentl (1983-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/9178130b-806b-426a-a8eb-9ca616a340c3/1269384177-500.jpg" data-tags="golden age hip hop, 80s" role="button">
 LL Cool J - Radio (1985)
 </li>
@@ -132,11 +135,17 @@ Prince - Batman (1989-06-16)
 <li data-cover="http://coverartarchive.org/release/b221ea36-df40-4872-bb8f-46ad705b2ae9/4164037874-500.jpg" data-tags="quincy jones, soul" role="button">
 Quincy Jones - Back On The Block (1989-08-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazzcore" role="button">
+Naked City - Torture Garden (1990)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new jack swing" role="button">
 Tony Toni Toné - The Revival (1990-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b04d6d-b900-49ee-aa2d-6e29c35a0c24/1978519255-500.jpg" data-tags="dance" role="button">
 Deee-Lite - World Clique (1990-08-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8b7d138-4e52-4292-b63f-424556fa51cd/27386720342-500.jpg" data-tags="blues, allboutguitar, german blues lovers, brc blues band, brc blues band karlsruhe, brc blues band - juke and the blue joint" role="button">
+Guitar Slim - Sufferin' Mind (1991-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d449881-59be-435e-a921-877a86c84dbe/15887398813-500.jpg" data-tags="vocal, jazz, traditional pop, vocal jazz, romantic, earnest, elegant, playful, sensual, sentimental, jazz vocalist, slow dance, stylish, romantic evening, ballades" role="button">
 Jimmy Scott - All the Way (1992)
@@ -144,11 +153,8 @@ Jimmy Scott - All the Way (1992)
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e8c16e-ebfb-47a0-abe7-582e606cb353/25345498085-500.jpg" data-tags="90s, indie rock, shoegaze" role="button">
-Yo La Tengo - Painful (1993-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
+<li data-cover="http://coverartarchive.org/release/bc344ec4-1967-49a3-8b2a-e8c61f1860d5/3168145689-500.jpg" data-tags="soundtrack" role="button">
+Terry Scott Taylor - Neverhood Songs (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
@@ -159,12 +165,6 @@ Cirrus - Drop The Break (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f3709-c180-3db4-8f43-96a29e4bb67e/11908074749-500.jpg" data-tags="idm, electronic" role="button">
-Mouse on Mars - Autoditacker (1997-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/60a2b021-e664-457c-bd5e-dd67949fe118/20130235098-500.jpg" data-tags="post-punk" role="button">
-Royal Trux - Accelerator (1998-04-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/5fc0f575-cb30-4e42-aee5-0359bfbfe620/13052477305-500.jpg" data-tags="country, country-pop, progressive country, energetic, cheerful, confident, earnest, earthy, country-folk, playful, sweet, sentimental, contemporary country, traditional country" role="button">
 Dolly Parton - Hungry Again (1998-08-25)
 </li>
@@ -173,9 +173,6 @@ Handsome Boy Modeling School - So..Hows Your Girl (1999-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc0d284f-16d3-41b0-8ad6-90fa55506fbf/4395767858-500.jpg" data-tags="rap" role="button">
 Busta Rhymes - Anarchy (2000-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/92648a5a-23d5-4ea4-8276-ef0d81aaf16b/4838892552-500.jpg" data-tags="indie" role="button">
-The New Pornographers - Mass Romantic (2000-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f871f8f-6685-45ec-be40-c4977613a0b2/11134571351-500.jpg" data-tags="electronica, electronic" role="button">
 Rei Harakami - Red Curb (2001-04-25)
@@ -201,9 +198,6 @@ Ween - Quebec (2003-08-05)
 <li data-cover="http://coverartarchive.org/release/05bc47ec-eaa8-3e1b-b705-07070f86f1ca/12340474874-500.jpg" data-tags="00s" role="button">
 The Beta Band - Heroes To Zeros (2004-04-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
-Steve Jablonsky - Steamboy (2004-07-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
 Husky Rescue - Country Falls (2004-10-11)
 </li>
@@ -222,8 +216,17 @@ Miranda Lambert - Kerosene (2005-03-15)
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="eglantine records" role="button">
+Bacanal Intruder - Final Edition (2005-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b62eff99-85ba-4a4d-85e5-53b3e649f5ea/1360708747-500.jpg" data-tags="indietronica, folktronica" role="button">
+Bacanal Intruder - Modem (2006-03-01)
+</li>
 <li data-cover="https://img.discogs.com/7V1nZH4deiYbVW_5AUJY-B51wtc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8714367-1467367475-2659.jpeg.jpg" data-tags="country" role="button">
 k.d. lang - Reintarnation (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/83fa7813-1c72-4b5f-8218-4c14824a3334/20570991484-500.jpg" data-tags="garage rock" role="button">
+Thee Midniters - In Thee Midnite Hour!!!! (2006-07-05)
 </li>
 <li data-cover="https://img.discogs.com/0rjmWBD0s7jaVLVl4Ibb9ycdGPM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-938433-1274192545.jpeg.jpg" data-tags="electronica, summer, playful, thrill jockey, aural fixation - best of 2007, wmbr" role="button">
 Trans Am - Sex Change (2007-02-20)
@@ -258,8 +261,8 @@ Natasha Bedingfield - Pocketful of Sunshine (2008-07-29)
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/880b40cf-d307-4357-8979-6835006746fa/25443786883-500.jpg" data-tags="pop, folk, 2009 albums" role="button">
-Dear Reader - Replace Why With Funny (2009-02-20)
+<li data-cover="http://coverartarchive.org/release/c59f2d02-8711-47c9-9431-536b724f3ba0/16833801904-500.jpg" data-tags="jazz, romantic, passionate, earnest, warm, playful, rollicking, sentimental, tender, jazz blues, saxophone jazz, mainstream jazz, reserved, reminiscing, small gathering, jazz instrument" role="button">
+David "Fathead" Newman - The Blessing (2009)
 </li>
 <li data-cover="https://img.discogs.com/0p4IeHnrBKzwZbaUP2XNQnSMdbY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328080-1361870851-6165.jpeg.jpg" data-tags="rock, folk, folk rock, 00s" role="button">
 Bob Dylan - Together Through Life (2009-04-23)
@@ -296,9 +299,6 @@ Scissor Sisters - Magic Hour (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/0eb2068a-673b-4e60-9dd7-3e95e8da60f7/3406080237-500.jpg" data-tags="indie pop" role="button">
-Fear of Men - Early Fragments (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/024abf44-0f50-4369-bcd6-ea7017d40474/14533802813-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Same Trailer Different Park (2013-03-19)

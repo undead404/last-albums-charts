@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:58:01.591Z
+date: 2021-04-11T22:44:01.402Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -291,9 +291,6 @@ Hannibal Buress - My Name is Hannibal (2010-07-27)
 <li data-cover="https://img.discogs.com/q3iRD8iwvFACY0RbVuAuSwgtIcc=/fit-in/596x819/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2646730-1294791839.jpeg.jpg" data-tags="comedy, wf" role="button">
 Louis C.K. - Hilarious (2011-01-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/c0791d09-7efa-4be6-bb48-93dd06fe25ba/4539784466-500.jpg" data-tags="comedy, misc, scat, daniel, miscellaneous, trans, central, comedy central, down under, viral, shemale, tosh, daniel tosh, specific, optional, r-rated, without cognitive function, closeted, sausage fest, filtered extremity, good but most of the fans are solipsist trendy douchebags, miscellaneous specificity, potty humor, generalities, specific generalities, specificity, cognition free, needle nose, internet creations, lost without the internet" role="button">
-Daniel Tosh - Happy Thoughts (2011-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca702568-c353-44f4-86e8-9fc3b5b1f104/10964780293-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - Turtleneck & Chain (2011-05-09)
 </li>
@@ -317,6 +314,9 @@ Helge Schneider - Sommer, Sonne, Kaktus! (2013-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce1adb07-6bf7-4a45-83d8-d7220c4a473a/6015501620-500.jpg" data-tags="rap, comedy, synthpop, video games" role="button">
 Starbomb - Starbomb (2013-12-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/9098c6ed-2e00-41d0-979b-49c172ed9210/7084652970-500.jpg" data-tags="comedy, stand up" role="button">
+Patton Oswalt - Tragedy Plus Comedy Equals Time (2014-04-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Bill Hicks - Revelations (2015-12-02)

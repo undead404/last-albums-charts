@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:43:07.271Z
+date: 2021-04-11T21:50:01.393Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
 ![Escala - Escala (2009-05-25)](http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg "Escala - Escala (2009-05-25)")
@@ -69,12 +69,6 @@ Amber Asylum - The Natural Philosophy of Love (1997-05-13)
 <li data-cover="http://coverartarchive.org/release/dae76dfa-6868-4105-ab35-133b9cd8f70d/5944843706-500.jpg" data-tags="neo-classical, score, cool score, granka" role="button">
 坂本龍一 - Cinemage (1999)
 </li>
-<li data-cover="https://img.discogs.com/Ya3koBn8bPDcyh4IIEP_AKbBRwE=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319531-1110888231.jpg.jpg" data-tags="new age, neo-classical, dark wave, attrition" role="button">
-Attrition - The Jeopardy Maze (1999-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd9b2fd9-d67a-4c3b-a405-89252fbe16d9/21496136995-500.jpg" data-tags="ethereal" role="button">
-KOKIA - songbird (1999-07-16)
-</li>
 <li data-cover="https://img.discogs.com/H_8bP53VPgZEDcRV_x5WylcY2Xs=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3712366-1450342881-1170.jpeg.jpg" data-tags="power metal" role="button">
 Majestic - Abstract Symphony (1999-09-08)
 </li>
@@ -89,6 +83,9 @@ Chaostar - Chaostar (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e9bbba-ed81-4fcf-ae5d-3ec288622532/1748896321-500.jpg" data-tags="dark ambient, martial industrial" role="button">
 Sophia - Sigillum Militum (2000-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dddaac3-8236-4e77-8b5d-909ade4e211c/3268752361-500.jpg" data-tags="acoustic, neo-classical, neo folk, neo-classic" role="button">
+Dwelling - Moments (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdeea919-4101-4e00-832d-db0c7cf01cb7/9873657770-500.jpg" data-tags="covers, assault genre" role="button">
 Rasputina - The Lost & Found (2001)
@@ -168,14 +165,14 @@ Steve Hackett - Metamorpheus (2005-03-28)
 <li data-cover="http://coverartarchive.org/release/3b803df2-86cb-4106-91b1-1c269b1776fc/18247981407-500.jpg" data-tags="ambient, female vocalists, world, new age, ethereal, world fusion, neo-classical, heavenly voices, lisa gerrard" role="button">
 Lisa Gerrard & Jeff Rona - A Thousand Roads (2005-08-23)
 </li>
+<li data-cover="https://img.discogs.com/Q5gd-TkXwdIYvfbsxL-39P1UjNs=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230474-1202324939.png.jpg" data-tags="ambient, neoclassical" role="button">
+Merankorii - Crash (2005-12-21)
+</li>
 <li data-cover="https://img.discogs.com/TJlCLykTKLRkFLUxWO3ssas8cZw=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765222-1199319964.jpeg.jpg" data-tags="ambient, new age, space ambient" role="button">
 Max Corbacho - The Talisman (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/334c808e-4511-4f8f-87a9-6aa317bbb228/1703273677-500.jpg" data-tags="ambient, dark ambient" role="button">
 Hecq - Night Falls (2006-04-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/97ed049d-b909-40d6-af26-3bb3957fac88/25846634458-500.jpg" data-tags="melodic metal" role="button">
-Narnia - Enter the Gate (2006-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ccacb7d-082c-4889-bf3e-bc424dfa5c49/26310137897-500.jpg" data-tags="metalcore, progressive metal" role="button">
 The Human Abstract - Nocturne (2006-06-22)
@@ -201,9 +198,6 @@ Philip Glass - Les Animaux Amoureux (2007-12-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 ALI PROJECT - Grand Finale (2007-12-12)
 </li>
-<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
-Narsilion - Namárië (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
 Scythelence - Post-Romantic Syndrome (2008)
 </li>
@@ -219,6 +213,9 @@ Oda Relicta - Czarstvo Dukha (2008-02-25)
 <li data-cover="http://coverartarchive.org/release/cafa6c66-be1b-4433-aebc-dd4db939f00c/25933550672-500.jpg" data-tags="power metal" role="button">
 Neverland - Reversing Time (2008-02-29)
 </li>
+<li data-cover="https://img.discogs.com/nGfMpoTcTtSu8fo5WcLVTWeD_Aw=/fit-in/378x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481848-1299178185.jpeg.jpg" data-tags="noise, indie, alternative, ambient, experimental, dark, darkwave, dark ambient, neofolk, dark folk, neo-classical, neoclassical" role="button">
+Merankorii - A Viagem (2008-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ddc7878-01f8-4d3b-a5d7-77667a666c25/19477974877-500.jpg" data-tags="power metal" role="button">
 Galneryus - Reincarnation (2008-09-10)
 </li>
@@ -227,6 +224,9 @@ sgt. - Stylus Fantasticus (2008-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
 Frozen Silence - Impressions (2008-12-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, instrumental, neo-classical, doujin, middleisland" role="button">
+MiddleIsland - 弦奏悲哀響 (2008-12-29)
 </li>
 <li data-cover="https://img.discogs.com/6bIa8Iywmo8-ZeJPY6wxGjqV0ts=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1615569-1539644737-8323.jpeg.jpg" data-tags="neo-classical, albums i want to own" role="button">
 Ataraxia - Oil On Canvas (2009-01)
@@ -279,11 +279,11 @@ Outer - Outer (2011-08-12)
 <li data-cover="https://img.discogs.com/aXV1q_T1bd761Vtpzu6M6f51igc=/fit-in/301x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638599-1352390172-2502.jpeg.jpg" data-tags="drone, dark ambient, neo-classical" role="button">
 Broken Harbour - Gramophone Transmissions (2011-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/964ec492-5cf2-4635-a54a-0287007f956c/14928757307-500.jpg" data-tags="vaporwave" role="button">
-James Ferraro - Far Side Virtual (2011-10-25)
-</li>
 <li data-cover="https://img.discogs.com/dZ_UqoM2w4y9u5aucJ9JT6QYx9k=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3244185-1322081791.jpeg.jpg" data-tags="experimental, neo-classical, drone folk" role="button">
 Preterite - Pillar of Winds (2011-11-08)
+</li>
+<li data-cover="https://img.discogs.com/p8fOQYw0QqtiWkA47RfJeHso1UI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4231226-1359213101-3953.jpeg.jpg" data-tags="ambient, experimental, post-rock, australian, modern classical, neo-classical, perth" role="button">
+Gilded - Terrane (2012)
 </li>
 <li data-cover="https://img.discogs.com/epCs7lVREZDLSpmYIBJsPhCnbUw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3337356-1326373174.jpeg.jpg" data-tags="ambient, experimental, post-rock, drone, neo-classical, music to fall asleep to, post-classical, hibernate" role="button">
 Good Weather For An Airstrike - Underneath The Stars (2012-01-06)

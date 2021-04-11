@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:50:01.447Z
+date: 2021-04-11T22:23:01.414Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -36,6 +36,9 @@ Eric Clapton - Unplugged (1992-08-21)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
+Jewel - Pieces of You (1994)
+</li>
 <li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
@@ -65,9 +68,6 @@ Alanis Morissette - MTV Unplugged (1998-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/79e912db-4f71-4fcb-b5be-aced98234ed3/23716283658-500.jpg" data-tags="acoustic" role="button">
 Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac22031b-15c1-4323-a3f2-f6cfe61b9b9c/13116115117-500.jpg" data-tags="acoustic, john mayer" role="button">
-John Mayer - Inside Wants Out (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
@@ -123,9 +123,6 @@ James Blunt - Back to Bedlam (2004-04-15)
 <li data-cover="http://coverartarchive.org/release/fc2b4c7a-a7e3-4756-bcec-cd3e9a2ce4b7/28392699788-500.jpg" data-tags="acoustic" role="button">
 Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
-Damien Rice - B-Sides (2004-08-03)
-</li>
 <li data-cover="https://img.discogs.com/5vuK3ehYd8gQaKMvS8bKtBzoWpc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204862-1528965128-4993.jpeg.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
 </li>
@@ -155,6 +152,9 @@ Fleet Foxes - Fleet Foxes (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">
 Andy McKee - Art of Motion (2006-01-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/7df49ccd-3a84-4424-8ffa-07f660ba4865/10866678503-500.jpg" data-tags="acoustic, progressive rock" role="button">
+Green Carnation - The Acoustic Verses (2006-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bf551f7-96be-3f50-8ae4-9895eb26af9a/7965698121-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-06)

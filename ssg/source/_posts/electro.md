@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:31:06.915Z
+date: 2021-04-11T21:49:01.399Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
-</li>
-<li data-cover="https://img.discogs.com/Vuo_o8baUuG--KeS6uau8SnBOVk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242519-1474928995-6789.jpeg.jpg" data-tags="electronic, kraftwerk" role="button">
-Kraftwerk - The Mix (1991-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5922184-c4e7-35df-bd1d-b198da677993/1148951969-500.jpg" data-tags="electronica, electro, house, daft punk, electrofunk" role="button">
 Daft Punk - Da Funk (1995-12-07)
@@ -240,11 +237,11 @@ Röyksopp - Senior (2010-09-08)
 <li data-cover="https://img.discogs.com/HFo33p7UCC8e_4q_vT767itQUew=/fit-in/558x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2464141-1285509013.jpeg.jpg" data-tags="pop" role="button">
 Mark Ronson & The Business Intl - Record Collection (2010-09-24)
 </li>
-<li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
-Suuns - Zeroes QC (2010-10-12)
-</li>
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
+Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a06702d0-814a-4a71-9c56-c6f2f2023b57/4100526040-500.jpg" data-tags="electronic, electro, indie electro, electronic indie" role="button">
 Chrome Sparks - My <3 (2011-07-17)
@@ -266,6 +263,9 @@ Wolfgang Gartner - Weekend In America (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/690b45dc-36f9-4ebf-9457-9ede8bd19982/8657752782-500.jpg" data-tags="electro" role="button">
+The M Machine - Promise Me A Rose Garden / Glow (2011-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/70d7277a-739c-4942-bea4-bf460dd30271/4077314370-500.jpg" data-tags="rap, electro" role="button">
 Deluxe - Polishing Peanuts EP (2011-11-28)

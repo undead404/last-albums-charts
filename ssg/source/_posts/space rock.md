@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T09:36:52.191Z
+date: 2021-04-11T22:28:01.412Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">Pink Floyd - A Saucerful of Secrets (1968-06-29)</li>
 <li data-cover="http://coverartarchive.org/release/c183a94b-2172-36a7-bc2d-a6710542b049/10052283540-500.jpg" data-tags="space rock" role="button">Hawkwind - In Search of Space (1971-10)</li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">Angels & Airwaves - We Don't Need to Whisper (2006-05-22)</li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">The Flaming Lips - Embryonic (2009-10-09)</li>
@@ -90,14 +90,11 @@ Spiritualized - Lazer Guided Melodies (1992-04)
 <li data-cover="http://coverartarchive.org/release/e3605965-46d3-3605-b0d7-b37e3158f292/16321712308-500.jpg" data-tags="progressive rock, psychedelic rock" role="button">
 Porcupine Tree - On the Sunday of Life... (1992-05-12)
 </li>
+<li data-cover="https://img.discogs.com/8slEsjSy910j46G26F7c6as4MvA=/fit-in/511x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2932329-1307924893.jpeg.jpg" data-tags="rock, stoner rock, psychedelic, space rock, funkedelic" role="button">
+I Mother Earth - Dig (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e3024e5-0c49-4ed5-8dc8-7881463fe78f/21944796590-500.jpg" data-tags="classic rock, rock, alternative, space rock, post hardcore" role="button">
 Hum - Electra 2000 (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/66b03169-303a-45e2-88c4-60f949a4a2d8/12082275533-500.jpg" data-tags="shoegaze" role="button">
-Flying Saucer Attack - Flying Saucer Attack (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/bbc791e0-addf-4007-a52b-3b780c88e88a/4683356712-500.jpg" data-tags="space rock, psychedelic" role="button">
-Ozric Tentacles - Jurassic Shift (1993-04-19)
 </li>
 <li data-cover="https://img.discogs.com/KKGUCiJsCI0yoVBqATHBsWAI3XU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999197-1575500120-2747.jpeg.jpg" data-tags="progressive rock, space rock" role="button">
 Porcupine Tree - Up the Downstair (1993-05)
@@ -110,9 +107,6 @@ Failure - Magnified (1994-03-08)
 </li>
 <li data-cover="https://img.discogs.com/TvMG19rxuanxza5V5PNmgM7WRDk=/fit-in/597x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-201698-1308772435.jpeg.jpg" data-tags="space rock" role="button">
 Ozric Tentacles - Arborescence (1994-06-28)
-</li>
-<li data-cover="https://img.discogs.com/e3_1nTkQhzG8tdG1ffTSAjpzASU=/fit-in/585x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-92611-1253151504.jpeg.jpg" data-tags="ambient, post-rock, shoegaze, 90s, space rock, soft, spacy, drone rock, neo-psychedelia, freak out, fuzzy guitar goodness, dronegaze, have on vinyl, knorpelfunky, shoegazing goodness, where is my bong, painting music, albums to get, great for p, gazer, wfmu heavily played records, tremolo radio" role="button">
-Flying Saucer Attack - Distance (1994-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Sky Moves Sideways (1995-01-30)
@@ -129,11 +123,11 @@ Hum - You'd Prefer an Astronaut (1995-04-11)
 <li data-cover="http://coverartarchive.org/release/1ec3f8dc-27fe-31b1-ac45-f957da4e3773/28476982084-500.jpg" data-tags="90s, britpop, indie" role="button">
 The Verve - A Northern Soul (1995-07-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
+The Flaming Lips - Clouds Taste Metallic (1995-09-19)
+</li>
 <li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Bardo Pond - Amanita (1996-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
-Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
@@ -150,6 +144,9 @@ Grandaddy - Under The Western Freeway (1997-10-21)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/2493ff32-ae4b-4491-82ef-7ffed7a1fb0b/5950868258-500.jpg" data-tags="psychedelic" role="button">
+Ozric Tentacles - Waterfall Cities (1999-07-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
 Boredoms - Vision Creation Newsun (1999-10-27)
 </li>
@@ -162,6 +159,9 @@ Porcupine Tree - Voyage 34: The Complete Trip (2000-06-06)
 <li data-cover="http://coverartarchive.org/release/84f521a4-ee77-418f-8ee8-21dd6c5d97a8/7575440808-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Cave In - Jupiter (2000-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/f63f37c5-81f9-426f-b8c2-daff8c835e65/6416930866-500.jpg" data-tags="indie" role="button">
+Los Planetas - Unidad De Desplazamiento (2000-09-18)
+</li>
 <li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
 </li>
@@ -170,9 +170,6 @@ Mercury Rev - All Is Dream (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
-</li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
-The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
@@ -207,8 +204,8 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/da26b9c7-3c3c-40de-a7ca-3cd60950cb95/14750111264-500.jpg" data-tags="rock, instrumental, psychedelic" role="button">
-My Sleeping Karma - My Sleeping Karma (2006)
+<li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
+Oceansize - Everyone Into Position (2005-09-19)
 </li>
 <li data-cover="https://img.discogs.com/IzOnZ7a1QRE6MIyUb0Gp12_eP1s=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028391-1253696432.jpeg.jpg" data-tags="alternative rock, indie rock, space rock" role="button">
 Mutemath - MuteMath (2006-01-29)
@@ -261,11 +258,11 @@ We Fell to Earth - We Fell To Earth (2009-07-13)
 <li data-cover="http://coverartarchive.org/release/3b7453da-f435-4e22-9e33-15c78727fd90/1984961533-500.jpg" data-tags="alternative rock" role="button">
 Radiohead - These Are My Twisted Words (2009-08-17)
 </li>
+<li data-cover="https://img.discogs.com/fPRaFPdnrNcEuhIZkSVlDnlhiEc=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442497-1451244676-2555.jpeg.jpg" data-tags="rock, humanoid, german, tokio hotel" role="button">
+Tokio Hotel - Humanoid (2009-10-06)
+</li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d2ed658-9a4b-4391-bfee-16e515ad9601/12338272827-500.jpg" data-tags="psychedelic rock, space rock" role="button">
-Samsara Blues Experiment - Long Distance Trip (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a36ab113-612d-4e2d-92f0-47ffda893f6a/4793906460-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
@@ -293,6 +290,9 @@ My Sleeping Karma - Soma (2012-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f4068da-46c5-4d68-8639-95df26b47f48/6581383510-500.jpg" data-tags="indie, rock" role="button">
 Föllakzoid - II (2013-01-22)
+</li>
+<li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
+The Flaming Lips - The Terror (2013-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/89a1bb84-f8e8-4cd5-83ca-a38317a41a98/6705416996-500.jpg" data-tags="alternative rock, indie rock, stoner rock, psychedelic, space rock, psychedelic rock, trip, lsd, ss, flightless records, flightless" role="button">
 King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)

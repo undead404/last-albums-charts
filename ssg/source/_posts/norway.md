@@ -1,12 +1,12 @@
 ---
-date: 2021-04-09T23:43:06.969Z
+date: 2021-04-11T22:17:01.404Z
 title: "norway: 100 albums you must listen to before you die"
 ---
 ![a-ha - Rhino Hi-Five: A-Ha (2005-07-19)](http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg "a-ha - Rhino Hi-Five: A-Ha (2005-07-19)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/QG8LAixgZJOu0luN1OniMLlIm0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11938484-1525100462-2528.jpeg.jpg" data-tags="ambient, norway" role="button">Mortiis - Keiser av en dimensjon ukjent (1995)</li>
 <li data-cover="https://img.discogs.com/FA0sKAo13tvmM2Ajs_G6hBeWgs0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4225709-1359058284-9040.jpeg.jpg" data-tags="black metal" role="button">Satyricon - Nemesis Divina (1996-04-22)</li>
 <li data-cover="https://img.discogs.com/JtVUJDOBcXFclcbx8CM2mp5cFb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125549-1248439157.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">Röyksopp - Eple (2001-07-23)</li>
+<li data-cover="http://coverartarchive.org/release/022b3015-30f8-4145-8cae-edad117dca8e/9294207380-500.jpg" data-tags="electronic, lounge" role="button">Ralph Myerz And The Jack Herren Band - A Special Album (2003-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg" data-tags="norwegian, scandinavian, norway, noord-europa, noors, noorwegen" role="button">a-ha - Rhino Hi-Five: A-Ha (2005-07-19)</li>
 <li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">Flunk - Personal Stereo (2007-04-23)</li>
 <li data-cover="https://img.discogs.com/bblHPn1Sxim88iNjLg24F_3dAwc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11414564-1518363853-2633.jpeg.jpg" data-tags="norway, jarle bernhoft" role="button">Bernhoft - Solidarity Breaks (2010)</li>
@@ -24,14 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/bmm7Qgx3MI_sAU9w3bNtM6uzCHQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473266-1489840881-1414.jpeg.jpg" data-tags="ecm" role="button">
 Terje Rypdal - Descendre (1980)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
-Clan of Xymox - Medusa (1986-11-01)
-</li>
 <li data-cover="https://img.discogs.com/0WCyYa4dzPT82wd76gz4k4_s8kU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7100340-1444877304-1282.jpeg.jpg" data-tags="hard rock" role="button">
 TNT - Intuition (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5083e7d-5a9c-37ea-9779-7bc34ac18fb5/22275727369-500.jpg" data-tags="pop, 80s" role="button">
-a-ha - Headlines and Deadlines: The Hits of A-ha (1991-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f34cba1-870b-4fa2-9942-90b35c4f5cc5/15893444939-500.jpg" data-tags="metal, grunge, alternative rock, indie rock, alternative metal, norway, motorpsycho, heavy psychedelia" role="button">
 Motorpsycho - 8 Soothing Songs for Rut (1992)
@@ -42,6 +36,9 @@ Carpathian Forest - Bloodlust and Perversion (1992)
 <li data-cover="http://coverartarchive.org/release/be7fe10b-1bf8-4591-86e8-f25e186d8b61/5950177561-500.jpg" data-tags="black metal, raw black metal" role="button">
 Gorgoroth - A Sorcery Written in Blood (1993-04-28)
 </li>
+<li data-cover="https://img.discogs.com/w_c0NZ7bnTja-fQ5Gs4WZjrFNiw=/fit-in/454x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4040978-1353262943-8483.jpeg.jpg" data-tags="viking metal" role="button">
+Einherjer - Aurora Borealis (1994)
+</li>
 <li data-cover="https://img.discogs.com/WIIzAuYj14jeuppWO5Fzaquczb8=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1950700-1327145793.jpeg.jpg" data-tags="black metal" role="button">
 Gehenna - First Spell (1994)
 </li>
@@ -51,20 +48,14 @@ Vond - Selvmord (1994)
 <li data-cover="http://coverartarchive.org/release/ce224ea2-0d5d-4f2e-8b44-85395b0a4a14/15829122100-500.jpg" data-tags="1994, norway, rune grammofon, deathprod, helge sten, nancykitten all-time favourite albums" role="button">
 Deathprod - Treetop Drive (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/947ec7ef-b1bf-3d02-9c85-b0aafbd68a7e/16696599681-500.jpg" data-tags="ambient, dungeon synth" role="button">
-Mortiis - Ånden som gjorde opprør (1994)
-</li>
 <li data-cover="https://img.discogs.com/hhmmhKiC1C_0oBVBQwcM7ivE_sI=/fit-in/600x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13828919-1562050533-9900.jpeg.jpg" data-tags="black metal" role="button">
 Satyricon - Dark Medieval Times (1994-03)
 </li>
-<li data-cover="https://img.discogs.com/K0JrcXIVDjiDf1MjSqxAJz7MIW0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340358-1596813888-4728.jpeg.jpg" data-tags="disco, synthpop" role="button">
-Data - Accumulator (1995)
+<li data-cover="http://coverartarchive.org/release/6c5f2c9e-193f-4dcb-921f-3fd9ff2ca52f/1828333669-500.jpg" data-tags="dark ambient" role="button">
+Aghast - Hexerei Im Zwielicht der Finsternis (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb581132-a5ca-4ff1-bac4-cbc2df5dcb6a/28114159888-500.jpg" data-tags="jazz, ecm, jazz guitar" role="button">
 Terje Rypdal - If Mountains Could Sing (1995)
-</li>
-<li data-cover="https://img.discogs.com/QG8LAixgZJOu0luN1OniMLlIm0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11938484-1525100462-2528.jpeg.jpg" data-tags="ambient, norway" role="button">
-Mortiis - Keiser av en dimensjon ukjent (1995)
 </li>
 <li data-cover="https://img.discogs.com/zyLdUc7gm5THqsmKKsc2uCYUjuc=/fit-in/200x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737385-1153585016.jpeg.jpg" data-tags="black metal" role="button">
 Forgotten Woods - Sjel Av Natten (1995)
@@ -74,6 +65,12 @@ Ved Buens Ende - Written In Waters (1995)
 </li>
 <li data-cover="https://img.discogs.com/VXRlIE-4v9V2zhB4C7HHzmHCBWE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6864427-1428258355-7628.jpeg.jpg" data-tags="doom metal, gothic metal" role="button">
 Theatre of Tragedy - Theatre of Tragedy (1995-07-04)
+</li>
+<li data-cover="https://img.discogs.com/dc3EQAJA86oDF6P-KdeLG9XLB3k=/fit-in/600x820/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12391282-1551289137-5256.jpeg.jpg" data-tags="industrial black metal" role="button">
+Mysticum - In the Streams of Inferno (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a41ad24-0ad5-46dc-84a9-5a3a57979ab1/19400322000-500.jpg" data-tags="black metal" role="button">
+Dismal Euphony - Soria Moria Slott (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fc8cf19-6070-41b2-809e-76fb2ed02b69/11858401873-500.jpg" data-tags="1996, rock, norway" role="button">
 DumDum Boys - Sus (1996)
@@ -105,6 +102,9 @@ Bugge Wesseltoft - It's Snowing on My Piano (1997-11-07)
 <li data-cover="https://img.discogs.com/ZuYu1t3LAkc833eMw8IHrKJbSWc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169250-1267742405.jpeg.jpg" data-tags="viking metal" role="button">
 Einherjer - Far Far North (1997-12-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/261dff04-43f1-4e38-8a99-2f6db83e5b29/20853589551-500.jpg" data-tags="ambient, female vocalists, synth pop, norway, american records, aggie peterson, per martinsen, norwegian frost, bedsit theories" role="button">
+Frost - Bedsit Theories (1998)
+</li>
 <li data-cover="https://img.discogs.com/nUR4X-kKuMT9XopvxeYUPD-MsUU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11604063-1519264478-2485.jpeg.jpg" data-tags="black metal, symphonic black metal, melodic black metal" role="button">
 Covenant - Nexus Polaris (1998-02-23)
 </li>
@@ -125,6 +125,9 @@ Arcturus - Disguised Masters (1999-07-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Satyricon - Rebel Extravaganza (1999-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/acd76711-6036-40c8-86c0-299a4427c41f/14047938617-500.jpg" data-tags="death metal, black metal" role="button">
+Myrkskog - Deathmachine (2000)
 </li>
 <li data-cover="https://img.discogs.com/p1_YXoPwU0K-OS0LqGVzUWNiuc8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8177595-1463222916-2006.jpeg.jpg" data-tags="black metal" role="button">
 Tsjuder - Kill for Satan (2000-04)
@@ -183,9 +186,6 @@ Panzer AG - This Is My Battlefield (2004-06-14)
 <li data-cover="https://img.discogs.com/XFPiqyF_Qw3m-Te-ug57KyojzlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847137-1241031913.jpeg.jpg" data-tags="progressive metal" role="button">
 Age of Silence - Acceleration (2004-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/f980a65a-13fc-4b42-b7a7-be74ea8d98bc/26651881692-500.jpg" data-tags="experimental" role="button">
-Shining - In the Kingdom of Kitsch You Will Be a Monster (2005-01-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/123c1973-6bcf-4d65-9af9-77f0e16ec532/3357365837-500.jpg" data-tags="rock, punk rock, death punk, punk, hard rock" role="button">
 Turbonegro - Party Animals (2005-05-09)
 </li>
@@ -215,9 +215,6 @@ Evig Natt - I Am Silence (2007-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Flunk - Personal Stereo (2007-04-23)
-</li>
-<li data-cover="https://img.discogs.com/VZ_zPIMy1i_7pwuiR10WIN8cfZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-977717-1351107428-2527.jpeg.jpg" data-tags="gothic metal" role="button">
-Octavia Sperati - Grace Submerged (2007-05-21)
 </li>
 <li data-cover="https://img.discogs.com/z8sfi_PJ1MyKDEcLWsUGlRtjgAQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1023643-1185219244.jpeg.jpg" data-tags="black metal, metal" role="button">
 Trelldom - Til Minne... (2007-05-29)
@@ -255,14 +252,8 @@ Shining - Blackjazz (2010-01-18)
 <li data-cover="http://coverartarchive.org/release/f8276d8f-336c-4e9b-9eea-b25f47cfde14/9348674402-500.jpg" data-tags="nu jazz, jazz, ninja tune" role="button">
 Jaga Jazzist - One-Armed Bandit (2010-01-20)
 </li>
-<li data-cover="https://img.discogs.com/NO50HdDBIFXxouwB6mw9i6jyshw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2170878-1581424171-6943.jpeg.jpg" data-tags="progressive rock" role="button">
-Elephant9 - Walk The Nile (2010-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/969f6a82-feb4-479e-b8f7-df0359341d2c/6320368371-500.jpg" data-tags="viking metal" role="button">
 Einherjer - Norrøn (2011-09-09)
-</li>
-<li data-cover="https://img.discogs.com/lg9xI8RDpC2k7e1BEXN-AjZfYQQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277711-1391697879-2854.jpeg.jpg" data-tags="metal, rock, alternative, experimental, progressive metal, experimental rock, norwegian, jazz fusion, contemporary jazz, alternative metal, live, industrial metal, norway, extreme metal, avant-garde metal, shining, shining norwegian" role="button">
-Shining - Live Blackjazz (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d56982d0-e0a3-4c02-9ba7-e1743c236ea5/14485604343-500.jpg" data-tags="progressive metal, power metal" role="button">
 Royal Hunt - Show Me How to Live (2011-11-29)
@@ -278,6 +269,9 @@ NettleCarrier - NettleCarrier (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3a50e4-db1f-45eb-9879-485c6a6523f3/3115251344-500.jpg" data-tags="2012, black metal" role="button">
 Vemod - Venter på stormene (2012-12-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e2a1d1f-a8f9-40fb-89d4-b09f2ad9e9f8/7049728946-500.jpg" data-tags="instrumental, post-rock, postrock, post rock, norway, trondheim, wake, iron fist, the grand design, death is here, doognad, machine fire ghost, there is no such constellation, while the city sleeps, your future" role="button">
+1099 - 1099 (2013-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/731f6fac-d826-45eb-972c-15ac396528f3/3739926833-500.jpg" data-tags="psychedelic, stoner doom metal" role="button">
 High Priest of Saturn - High Priest of Saturn (2013-03-22)
@@ -297,6 +291,9 @@ Stein Torleif Bjella - Heim for å døy (2013-11)
 <li data-cover="http://coverartarchive.org/release/9028aa2d-5482-4e82-bc8a-ff0cb1178842/8871578703-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">
 Donkeyboy - Crazy Something Normal (2014)
 </li>
+<li data-cover="http://coverartarchive.org/release/88472546-9e1f-4183-b053-41d2b87bb69c/6726781003-500.jpg" data-tags="metal, thrash metal, thrash, norway, attack, black/thrash, metal to the bone, speed metal legions" role="button">
+Nocturnal Breed - Napalm Nights (2014-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)
 </li>
@@ -308,6 +305,9 @@ Bernhoft - Islander (2014-04-25)
 </li>
 <li data-cover="https://img.discogs.com/1j0Kpej_RWOBedrrde4Ru1-8foQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6178045-1413023451-4299.jpeg.jpg" data-tags="progressive rock, norway" role="button">
 Seven Impale - City of the Sun (2014-09-09)
+</li>
+<li data-cover="https://img.discogs.com/kR7ueBV_7RNzh8_CDtB1DMbUC6s=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6126992-1411740105-6024.jpeg.jpg" data-tags="black metal" role="button">
+Khold - Til Endes (2014-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-500.jpg" data-tags="hip-hop, pop, norwegian, r&b, norway, norge" role="button">
 Nico & Vinz - Black Star Elephant (2014-10-03)

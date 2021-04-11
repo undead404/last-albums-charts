@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:29:01.412Z
+date: 2021-04-11T22:30:01.459Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -39,9 +39,6 @@ Antena - Camino Del Sol (1982)
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/a58761e0-85cb-3050-b358-4b5588758afc/19843667410-500.jpg" data-tags="acid jazz" role="button">
-Us3 - Hand On The Torch (1993-11-16)
-</li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
 </li>
@@ -71,9 +68,6 @@ A Man Called Adam - Duende (1998-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/99677fc2-236c-4467-91a9-7d6a4a9f6273/1460136469-500.jpg" data-tags="lounge" role="button">
 I:Cube - Adore (1999)
-</li>
-<li data-cover="https://img.discogs.com/VjLeHRQJa6PTfSLaGS52xPCax8Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3702456-1340966618-4946.jpeg.jpg" data-tags="jazz, jazz vocal, lounge, mel torme, scatt" role="button">
-Mel Tormé - The Best of Mel Tormé (1999)
 </li>
 <li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="chillout, lounge" role="button">
 Banco De Gaia - The Magical Sounds of Banco De Gaia (1999-05-17)
@@ -144,6 +138,9 @@ Zero 7 - I Have Seen (2001-06-04)
 <li data-cover="http://coverartarchive.org/release/d45df9d7-7f2d-49bb-9a5c-543f44112f6d/8188829362-500.jpg" data-tags="lounge, electronic, downtempo" role="button">
 Thunderball - Scorpio Rising (2001-07-10)
 </li>
+<li data-cover="https://img.discogs.com/JtVUJDOBcXFclcbx8CM2mp5cFb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125549-1248439157.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
+Röyksopp - Eple (2001-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
@@ -155,6 +152,9 @@ Robbie Williams - Swing When You're Winning (2001-11-19)
 </li>
 <li data-cover="https://img.discogs.com/s9-E6pL93KLJxAsspg-lsJtAgMg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-255719-1222292123.jpeg.jpg" data-tags="tango, lounge" role="button">
 Bajofondo - Bajofondo Tango Club (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/f39d6165-e3b3-4ab5-a1f9-d094c574cf55/1837217288-500.jpg" data-tags="lounge" role="button">
+King Kooba - Indian Summer (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa334c74-adc9-4e0b-bada-f716c5385489/845123014-500.jpg" data-tags="lounge, deep house, downtempo" role="button">
 Blue Six - Beautiful Tomorrow (2002-01-22)
@@ -188,6 +188,9 @@ Blank & Jones - Relax (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/022b3015-30f8-4145-8cae-edad117dca8e/9294207380-500.jpg" data-tags="electronic, lounge" role="button">
 Ralph Myerz And The Jack Herren Band - A Special Album (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/561ef915-9383-40ec-9baf-f9c55d1ddf72/24765160123-500.jpg" data-tags="electronic" role="button">
+I Monster - Neveroddoreven (2003-07-21)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -230,9 +233,6 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/97eda073-055a-4dda-afda-b0e64c772dcd/3675151522-500.jpg" data-tags="nu jazz, lounge" role="button">
 Parov Stelar - A Night in Torino (2005-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
-Richard Cheese - Aperitif for Destruction (2005-05-24)
 </li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)

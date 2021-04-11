@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:54:01.410Z
+date: 2021-04-11T22:41:06.990Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -57,9 +57,6 @@ Amel Larrieux - Infinite Possibilities (1999)
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/8466b6ac-fd2f-415b-818d-3e56b5a3d1da/4839004740-500.jpg" data-tags="rnb, carl thomas" role="button">
-Carl Thomas - Emotional (2000-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/eecb042f-85a2-4f1a-ab8c-5c9a947c2d66/15106304103-500.jpg" data-tags="soul, neo-soul" role="button">
 Jill Scott - Who Is Jill Scott? Words and Sounds, Volume 1 (2000-07-10)
 </li>
@@ -114,6 +111,9 @@ Joss Stone - The Soul Sessions (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/7353e5b6-9daf-45e3-920b-721b908a96b7/6107658380-500.jpg" data-tags="neo-soul" role="button">
 Anthony Hamilton - Comin' From Where I'm From (2003-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2797529-2448-413d-80c2-1fdba20afb5b/23188699463-500.jpg" data-tags="rap" role="button">
+OutKast - Speakerboxxx / The Love Below (2003-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)
 </li>
@@ -143,6 +143,9 @@ John Legend - Get Lifted (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a8e7e6e-8ce2-4698-b636-1b8537302418/25199644021-500.jpg" data-tags="neo-soul, soul" role="button">
 Kindred The Family Soul - In This Life Together (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/2df088a3-6037-4606-840d-1bb38dd938ec/22845742457-500.jpg" data-tags="neo-soul" role="button">
+Eric Roberson - The Appetizer (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
@@ -177,6 +180,9 @@ Choklate - Choklate (2006-05)
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/4e987f83-2761-45ba-9bc8-906029b22cff/14142312180-500.jpg" data-tags="soul, neo-soul" role="button">
+Darien Brockington - Somebody To Love (2006-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/117548f8-3255-432a-82ef-5813cb1ed4ca/24622953430-500.jpg" data-tags="neo-soul" role="button">
 Anthony David - The Red Clay Chronicles (2006-09-26)
 </li>
@@ -203,12 +209,6 @@ Celeste - Nihiliste(s) (2008-02-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, neo-soul" role="button">
 Erykah Badu - New Amerykah Part One (4th World War) (2008-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
-Lizz Wright - The Orchard (2008-02-26)
-</li>
-<li data-cover="https://img.discogs.com/iHm9jimYPOxx0a5P0DzME65LUDY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1359894-1212702927.jpeg.jpg" data-tags="soul, female vocalists" role="button">
-Lalah Hathaway - Self Portrait (2008-06-03)
 </li>
 <li data-cover="https://img.discogs.com/6EJyORfVVDwgv0ve2LucQ46mZnA=/fit-in/431x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383285-1214902487.jpeg.jpg" data-tags="neo-soul, soul" role="button">
 Dwele - Sketches Of A Man (2008-06-24)

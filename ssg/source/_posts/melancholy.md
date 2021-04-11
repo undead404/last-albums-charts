@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:57:01.442Z
+date: 2021-04-11T22:15:12.688Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -7,9 +7,9 @@ title: "melancholy: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">Nick Drake - Pink Moon (1972-02-25)</li>
 <li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">Elliott Smith - From a Basement on the Hill (2004-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
+<li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">The National - Boxer (2007-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">Coldplay - Viva la Vida (2008-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/3282de09-0297-3a37-83f8-f2d5588da1ff/7897264083-500.jpg" data-tags="rock, alternative" role="button">Manchester Orchestra - Simple Math (2011-05-06)</li>
@@ -47,9 +47,6 @@ Tiamat - Wildhoney (1994-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/82380d93-e180-4ec3-b8e3-cf19832b03c2/9131911956-500.jpg" data-tags="strings, melancholy, radiant electro" role="button">
 Rachel's - Handwriting (1995-05-23)
@@ -90,6 +87,9 @@ Tindersticks - Curtains (1997-06-16)
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/ce037097-b68d-4bbb-8d17-476fc82ebde3/3613013207-500.jpg" data-tags="piano, melancholic" role="button">
+Current 93 - Soft Black Stars (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">
 The Smashing Pumpkins - Adore (1998-05-29)
 </li>
@@ -114,6 +114,9 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
 </li>
+<li data-cover="https://img.discogs.com/0tLx6h37PbIT-dOy4e4LysLs5Jk=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491534-1122498312.jpg.jpg" data-tags="rock, melancholy, emusic, my favorites, stoney" role="button">
+Mark Kozelek - Rock 'N' Roll Singer (2000-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
@@ -125,9 +128,6 @@ Howie Day - Australia (2000-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
-</li>
-<li data-cover="https://img.discogs.com/cEaKtdU8XpEYAc-xXDL54g7uoEY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1433959-1279370870.jpeg.jpg" data-tags="noise, indie, rock, alternative, melancholy, irish, friends, heartbeat, plaintive, boomtown" role="button">
-The Frames - For The Birds (2001-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Elbow - Asleep in the Back (2001-05-03)
@@ -144,9 +144,6 @@ Damien Rice - O (2002-07-22)
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
@@ -155,9 +152,6 @@ Erlend Øye - Sudden Rush (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/361eb780-0b77-479f-bf80-9f2ad813d3e0/7793148294-500.jpg" data-tags="indie" role="button">
 The National - Sad Songs for Dirty Lovers (2003-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6727cff4-ed37-4729-b87f-ebc351bb4a83/2106807340-500.jpg" data-tags="gothic, melancholy, darkwave, dark wave, future pop, owned cd" role="button">
-Diary of Dreams - Dream Collector (2003-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f4b686d-69fe-45d1-b4df-42c839c6db24/8259522263-500.jpg" data-tags="alternative rock, melancholy, space rock, kdzkpw" role="button">
 Kombajn Do Zbierania Kur Po Wioskach - ósme piętro (2004)
@@ -198,14 +192,14 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 <li data-cover="http://coverartarchive.org/release/3897e8aa-3aef-4d54-beaf-5527488fd90f/10298808727-500.jpg" data-tags="folk" role="button">
 M. Ward - Transistor Radio (2005-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
-Great Lake Swimmers - Bodies And Minds (2005-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, female vocalists" role="button">
 Lou Rhodes - Beloved One (2005-12-05)
+</li>
+<li data-cover="https://img.discogs.com/HTUO3RBWYsY8PxP38_QA8d-1vvA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-669159-1145756162.jpeg.jpg" data-tags="indie pop" role="button">
+Augie March - Moo, You Bloody Choir (2006-02-13)
 </li>
 <li data-cover="https://img.discogs.com/UTfPdDO7yKlna4J-8s7oIndKMmc=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024101-1259182598.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Fionn Regan - The End Of History (2006-08-07)
@@ -240,6 +234,9 @@ Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/7b9c4c63-1c05-428a-a0f3-c3b16da4abb2/5112402317-500.jpg" data-tags="electronica, instrumental, cover, melancholy, cover album, music i tried but didnt like, beautifully depressing" role="button">
+Black Light Burns - Cover Your Heart (2008-08-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
@@ -248,9 +245,6 @@ Tiger Lou - A Partial Print (2008-10-22)
 </li>
 <li data-cover="https://img.discogs.com/oSZSAYcfuPgNH85uQH8DAZwczao=/fit-in/261x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1582598-1230080028.jpeg.jpg" data-tags="instrumental, ambient, melancholy, modern classical, autumn, boomkat, music for a sad road movie" role="button">
 Dakota Suite - The End of Trying (2009-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="melancholy" role="button">
 Jay-Jay Johanson - Self-Portrait (2009-03-02)
@@ -263,6 +257,9 @@ Moby - Wait for Me (2009-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
 Message To Bears - Departures (2009-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/83125eb1-6073-499c-9e55-9045c9260e10/1242922933-500.jpg" data-tags="soundtrack, melancholy, nocturnal, brooding, colours, 4 star, sun and moon and stars and outer space" role="button">
+Nick Cave & Warren Ellis - White Lunar (2009-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
@@ -291,6 +288,9 @@ Kate Bush - 50 Words for Snow (2011-11-21)
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/b02dd44e-2b35-44f1-8001-768fc94f5d14/4083920556-500.jpg" data-tags="singer-songwriter" role="button">
+Leonard Cohen - Old Ideas (2012-01-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
 </li>
@@ -303,6 +303,9 @@ Max Herre - Hallo Welt! (2012-08-24)
 <li data-cover="https://img.discogs.com/1k47wZTRhC9GmAdBrDV3FpW84l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3887693-1456163738-5026.jpeg.jpg" data-tags="sad, hard rock, melancholy, my love, blues rock, songs to play at my funeral, road trip, nostalgia, makes me cry, sound poetry, sleepless nights, when im sad, whiskey and cigarettes, great song played at the right time, shes a rainbow, beautiful depressive songs, guille, solo en el puto mundo, guillerainbow, diciembre 2012, maisi 2013" role="button">
 Rival Sons - Head Down (2012-09-14)
 </li>
+<li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
+The Flaming Lips - The Terror (2013-04-01)
+</li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
@@ -314,9 +317,6 @@ Baths - Obsidian (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:32:01.414Z
+date: 2021-04-11T22:27:01.409Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -26,9 +26,6 @@ The Future Sound of London - Accelerator (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b20bd11-00d2-4800-baa0-d2eb05486f09/6937494644-500.jpg" data-tags="idm" role="button">
 Polygon Window - Surfing on Sine Waves (1992)
-</li>
-<li data-cover="https://img.discogs.com/fofGJOhGSq117rY1a869V0R3-mY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719-1341379129-7547.jpeg.jpg" data-tags="ambient, idm, electronica" role="button">
-Amorphous Androgynous - Tales of Ephidrina (1993-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e33730ce-6791-4e2e-aa4d-9b190ec39fdb/2575518065-500.jpg" data-tags="idm" role="button">
 Aphex Twin - On (1993-11-15)
@@ -147,6 +144,9 @@ Autechre - Untilted (2005-04-09)
 <li data-cover="http://coverartarchive.org/release/fe6ce1a1-a9d5-48b3-bc9d-4cd557954a33/11141493728-500.jpg" data-tags="ambient" role="button">
 Secede - Tryshasla (2005-06-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
+deadmau5 - Get Scraped (2005-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
@@ -207,9 +207,6 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="http://coverartarchive.org/release/83a4fc0b-252e-4f81-9be5-cef614eec381/2247984246-500.jpg" data-tags="idm, mustget, labels - aleph zero records, aleph-zero, sonic fetish, cosmicwax, ambientimin" role="button">
 Bluetech - The Divine Invasion (2009-04-20)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
 </li>
@@ -263,6 +260,9 @@ Giraffage - Comfort (2011-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/04388a4a-4861-4129-aed7-f72257a46215/27851840371-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Opus At The End Of Everything (2012-02-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/477ae97f-9847-444c-8baa-b90455da1f67/4837907839-500.jpg" data-tags="ninja tune" role="button">
+Yppah - Eighty One (2012-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)

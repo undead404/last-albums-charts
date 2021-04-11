@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:12:01.631Z
+date: 2021-04-11T22:43:01.390Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -123,6 +123,9 @@ Amon Tobin - 4 Ton Mantis (2000-09-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Elbow - Asleep in the Back (2001-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/aefe7d05-b2c6-488c-9fb6-59126049f51f/4282073533-500.jpg" data-tags="downtempo" role="button">
+Jon Kennedy - We're Just Waiting For You Now (2001-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/4b3b5c57-8665-45f7-8592-b8f2a251a2e8/4524340509-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Run Come Save Me (2001-08-13)
 </li>
@@ -204,9 +207,6 @@ Treva Whateva - Music's Made Of Memories (2005-07-29)
 <li data-cover="https://img.discogs.com/ifpjrE5MwTDYg-dq5Vgmhvk06DU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614991-1399552288-7125.jpeg.jpg" data-tags="chillout, electronic, downtempo, ninja tune" role="button">
 Coldcut - Man In A Garage (2006-01-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a690df6-1ee2-4023-99aa-4b3b7902f0fe/13786115983-500.jpg" data-tags="hip-hop" role="button">
-Roots Manuva - Alternately Deep (2006-03-13)
-</li>
 <li data-cover="https://img.discogs.com/5_R8PSnEtAenqpSIUMLsTpfil_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479480-1131929193.jpeg.jpg" data-tags="downtempo, ninja tune" role="button">
 Loka - Fire Shepherds (2006-03-26)
 </li>
@@ -261,9 +261,6 @@ The Long Lost - The Long Lost (2009-03-02)
 <li data-cover="http://coverartarchive.org/release/114aa1d1-b599-4cbe-999b-bf4fb1c423b1/13253326376-500.jpg" data-tags="electronic, shoegaze, ninja tune" role="button">
 Yppah - Gumball Machine Weekend (2009-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/8cba862c-d91f-4270-8311-72b4eea3e3f2/12199752750-500.jpg" data-tags="electronica, shoegaze, ninja tune" role="button">
-Yppah - They Know What Ghost Know (2009-05-18)
-</li>
 <li data-cover="https://img.discogs.com/Y_JGQPj4-ERxgGf96nlXw-dEJf0=/fit-in/170x168/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1928542-1253075184.jpeg.jpg" data-tags="hip-hop, fusion, ninja tune, kid koala" role="button">
 The Slew - 100% (2009-09-02)
 </li>
@@ -276,11 +273,14 @@ Bonobo - Black Sands (2010-03-13)
 <li data-cover="http://coverartarchive.org/release/95ceb8ed-936c-45ae-a376-c22f1a727b5a/15902647072-500.jpg" data-tags="downtempo" role="button">
 Andreya Triana - Lost Where I Belong (2010-04-17)
 </li>
+<li data-cover="https://img.discogs.com/HHJ62rKHki18sbhJc7tzDjsSTbA=/fit-in/395x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2502639-1287529158.jpeg.jpg" data-tags="ninja tune, i boxx" role="button">
+Igor Boxx - Breslau (2010-11-17)
+</li>
+<li data-cover="https://img.discogs.com/9w9FKd1UAeo1AM86dddU6CKoGcw=/fit-in/430x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2667006-1295718459.jpeg.jpg" data-tags="ninja tune" role="button">
+Spokes - Everyone I Ever Met (2011-01-17)
+</li>
 <li data-cover="https://img.discogs.com/DUFr4xOyonZCOpl7MC6s1tR_QR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531305-1289079410.jpeg.jpg" data-tags="electronica, ninja tune" role="button">
 Stateless - Matilda (2011-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a773da9a-49fb-474a-b7eb-69a7ef21cbaa/4196286531-500.jpg" data-tags="indie, indietronica, driving, outsider, ninja tune, summer, not emo, if this were a pokemon i would catch it, reason why i love this band" role="button">
-The Death Set - Michel Poiccard (2011-02-28)
 </li>
 <li data-cover="https://img.discogs.com/gGj42qXYmtUu2KfQF7l6vL5tTLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768244-1327121549.jpeg.jpg" data-tags="funky, ninja tune" role="button">
 Wagon Christ - Toomorrow (2011-03-07)

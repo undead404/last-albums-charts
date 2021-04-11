@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:41:35.309Z
+date: 2021-04-11T21:51:07.020Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Mark Ronson - Uptown Funk (2014-11-10)](http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg "Mark Ronson - Uptown Funk (2014-11-10)")
@@ -42,9 +42,6 @@ Mr. Scruff - Mrs Cruff (1997-05-09)
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/d325a894-2df2-4ed9-9230-dfdf0c54ae24/11450087455-500.jpg" data-tags="rock" role="button">
-Los Hermanos - Los Hermanos (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
 </li>
@@ -59,9 +56,6 @@ Smash Mouth - Smash Mouth (2001-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ec89647-6a77-4757-b334-382bd44e60e7/8217126604-500.jpg" data-tags="rock" role="button">
 Phantom Planet - California (2002-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">
 Minus the Bear - Highly Refined Pirates (2002-11-19)
@@ -83,6 +77,9 @@ The Weepies - Happiness (2004-06-08)
 </li>
 <li data-cover="https://img.discogs.com/li3hcIKHQHsgrGaXYfl8NA_i-rI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653480-1143747193.jpeg.jpg" data-tags="chillout, pop, rap, cute, summer, beachy, rap-pop, when we were young album version" role="button">
 Shifty - Happy Love Sick (2004-07-13)
+</li>
+<li data-cover="https://img.discogs.com/5NNYBdvkIRB0AsBAzyOYrzCBOOQ=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831018-1510596595-2378.jpeg.jpg" data-tags="indie, rock" role="button">
+Butch Walker - Letters (2004-08-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Pinback - Summer in Abaddon (2004-10-11)
@@ -165,6 +162,9 @@ Firekites - The Bowery (2008)
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae642655-f569-35fa-a412-8fb2b826fc92/25458953523-500.jpg" data-tags="jazz, dutch" role="button">
+Room Eleven - Mmm... Gumbo? (2008-03-12)
+</li>
 <li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Flo Rida - Mail On Sunday (2008-03-17)
 </li>
@@ -222,11 +222,11 @@ She & Him - Volume Two (2010-03-17)
 <li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
 Dum Dum Girls - I Will Be (2010-03-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4bf4650-67e4-46ff-8a4f-92a19ef2cf35/8581246798-500.jpg" data-tags="indie, acoustic, mellow" role="button">
+The Phoenix Foundation - Buffalo (2010-04-26)
+</li>
 <li data-cover="https://img.discogs.com/G8CJXSrFx_vyi-x53xBSAgIxtpo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357339-1305964061.jpeg.jpg" data-tags="indie rock" role="button">
 Minus the Bear - Omni (2010-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/97c3ab39-fc2d-4596-a1d0-5690cc80c253/26018767908-500.jpg" data-tags="chillwave" role="button">
-Blackbird Blackbird - Summer Heart (2010-07-02)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)

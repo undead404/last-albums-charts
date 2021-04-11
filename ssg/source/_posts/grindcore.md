@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:44:01.418Z
+date: 2021-04-11T22:19:01.414Z
 title: "grindcore: 100 albums you must listen to before you die"
 ---
 ![Bruno Mars - Grenade (2011-02-04)](http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg "Bruno Mars - Grenade (2011-02-04)")
@@ -29,6 +29,9 @@ Extreme Noise Terror - A Holocaust in Your Head (1989)
 </li>
 <li data-cover="https://img.discogs.com/IRDXfVdxYglRlRj16OeeJnli9Io=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-790305-1396394102-9674.jpeg.jpg" data-tags="grindcore" role="button">
 Repulsion - Horrified (1989)
+</li>
+<li data-cover="https://img.discogs.com/tijq99rt01gqgOBrKApnkK3mVNM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4826877-1376731964-5614.jpeg.jpg" data-tags="death metal" role="button">
+Bolt Thrower - Realm of Chaos (1989-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/19142eb1-c7b9-390b-ac19-14a3fefc8aa4/23477447943-500.jpg" data-tags="death metal, goregrind, grindcore" role="button">
 Carcass - Symphonies of Sickness (1989-11)
@@ -62,6 +65,9 @@ Brutal Truth - Need to Control (1994-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0821d028-8ea3-4d04-a814-ea64a8eb342c/10372911420-500.jpg" data-tags="death metal" role="button">
 Carcass - Wake Up And Smell The Carcass (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/94d456f5-6a7a-4556-b6ba-dd690f31b268/22376963285-500.jpg" data-tags="death metal" role="button">
+Napalm Death - Inside the Torn Apart (1997-06-03)
 </li>
 <li data-cover="https://img.discogs.com/wkTSKHPUoBzHP15DFFcSvevSoyk=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-771583-1322919182.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - Killing on Adrenaline (1998)
@@ -156,20 +162,17 @@ Despised Icon - The Healing Process (2005-04-05)
 <li data-cover="https://img.discogs.com/J3CqTy7ecwNkqebC8j2zFqOfPNc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1031863-1521502816-6650.jpeg.jpg" data-tags="deathcore" role="button">
 The Red Chord - Clients (2005-05-17)
 </li>
+<li data-cover="https://img.discogs.com/tz468xkwrGcwh925RNMyIHsUHEE=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2132191-1265765217.jpeg.jpg" data-tags="beatdown hardcore, moshcore" role="button">
+Bury Your Dead - You Had Me At Hello (2005-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
 The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/56eda536-9545-4005-9924-7781af660bc1/7545947728-500.jpg" data-tags="death metal, nu metal, deathcore, teeheecore" role="button">
-Suicide Silence - Suicide Silence (2005-09-30)
 </li>
 <li data-cover="https://img.discogs.com/JOMj2bpiUxvVE0oTmaH2X0YR3LU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750256-1250434738.jpeg.jpg" data-tags="grindcore, tfuj stary to tfuj ojciec" role="button">
 Head Wound City - Head Wound City (2005-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/05e0c9b2-7c36-3e54-9aa7-6a700c2e37c4/4552506140-500.jpg" data-tags="grindcore, industrial metal, industrial death metal" role="button">
 The Berzerker - World Of Lies (2006-01-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
-theNoLifeKing - Forgotten Landscape (2006-04-12)
 </li>
 <li data-cover="https://img.discogs.com/8ErnF-yDamX6QWRx4CpESI3egVY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4311636-1361419900-3546.jpeg.jpg" data-tags="death metal" role="button">
 Misery Index - Discordia (2006-05-16)
@@ -278,9 +281,6 @@ Magrudergrind - Magrudergrind (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8000d1e-ed5f-4fe8-b5a4-921b133ce0be/2650883035-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)

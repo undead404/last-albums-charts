@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T23:07:01.397Z
+date: 2021-04-11T22:40:07.021Z
 title: "totec radio: 100 albums you must listen to before you die"
 ---
-![Justin Bieber - My World (2009-11-13)](http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg "Justin Bieber - My World (2009-11-13)")
+![Justin Bieber - My World 2.0 (2010-03-23)](http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg "Justin Bieber - My World 2.0 (2010-03-23)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd08060d-bfe3-4ece-845f-6417e4adbc41/14104113696-500.jpg" data-tags="chillout, electronic dance" role="button">Spiller - Groovejet (If This Ain't Love) (2000-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/492b42f9-e583-4dda-ae2d-b7ac8cc9fe52/15475485304-500.jpg" data-tags="totec radio" role="button">The Animals - A's B's & EP's (2003)</li>
 <li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">Rogue Wave - Publish My Love (2006-01-30)</li>
+<li data-cover="http://coverartarchive.org/release/e535227a-a4aa-4062-9187-d5ab0d1384a2/6401618869-500.jpg" data-tags="new wave, britpop, totec radio" role="button">Orchestral Manoeuvres in the Dark - Messages: Greatest Hits (2008-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">Kasabian - Fire (2009-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="https://img.discogs.com/FLoGd0mV2cWoFWPTW4kl79EbUpQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2142620-1549915270-8295.jpeg.jpg" data-tags="indie rock, brille" role="button">Good Shoes - No Hope, No Future (2010-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">Justin Bieber - My Worlds (2010-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg" data-tags="justin bieber" role="button">Justin Bieber - My World 2.0 (2010-03-23)</li>
@@ -33,20 +33,20 @@ Manfred Mann - The Manfred Mann Album (1964)
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c139edd-5b39-409c-a28a-aa077aa2f078/1276260096-500.jpg" data-tags="samba rock" role="button">
-Jorge Ben - A Tábua De Esmeralda (1974)
-</li>
 <li data-cover="https://img.discogs.com/Y158l_KtIsAc3D8EtzERz1jeaPw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318517-1210581252.jpeg.jpg" data-tags="totec radio, sun and moon and stars and outer space, bleep blop, ralbums" role="button">
 The Cosmic Jokers - Planeten Sit-in (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/69e9d478-2cc1-4574-857a-9298f315c3da/9384947846-500.jpg" data-tags="totec radio, mojo 1000, mojo 1000 soul" role="button">
 Booker T. & the MG's - The Best of Booker T. & the MG's (1984)
 </li>
+<li data-cover="https://img.discogs.com/8SV6ZrvKd_zEGGcBQE_UJYeo-iA=/fit-in/452x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-488204-1378515424-5264.jpeg.jpg" data-tags="punk, anarcho-punk, totec radio, bollix" role="button">
+Conflict - Increase the Pressure (1984-06)
+</li>
 <li data-cover="https://img.discogs.com/gUa8x32XU2iO6Lq6_bx18W6PuWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-585309-1143485487.jpeg.jpg" data-tags="80s" role="button">
 Lionel Richie - Dancing On The Ceiling (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/681d32f9-1174-45a5-a24f-070566119aba/14582118471-500.jpg" data-tags="tangerine dream" role="button">
-Tangerine Dream - Dream Sequence (1985-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="anarcho-punk" role="button">
+Conflict - The Ungovernable Force (1986)
 </li>
 <li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack, totec radio" role="button">
 Various Artists - GOOD MORNING, VIETNAM (1987)
@@ -56,6 +56,9 @@ KMFDM - Don't Blow Your Top (1988-01)
 </li>
 <li data-cover="https://img.discogs.com/Lbpu68IOzpVePgAOYv5scI0iXLU=/fit-in/591x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528268-1333988334.jpeg.jpg" data-tags="alternative, british invasion, totec radio, rpc band" role="button">
 The Animals - House of the Rising Sun (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a766e00-e9a7-4a83-85cd-5376b24525fd/5045275406-500.jpg" data-tags="beatles, 60na" role="button">
+The Byrds - The Byrds (1990-10)
 </li>
 <li data-cover="https://img.discogs.com/f0_mZrjWff9-E6MR_hMS9B-CHmA=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3876193-1466764103-2494.jpeg.jpg" data-tags="90s, rock-etc" role="button">
 Dinosaur Jr. - Fossils (1991)
@@ -69,14 +72,8 @@ Sonic Youth - Screaming Fields Of Sonic Love (1994)
 <li data-cover="http://coverartarchive.org/release/14b5483c-0210-4a84-ad38-030d2c89c25d/15000059781-500.jpg" data-tags="post-rock, experimental rock, alternative metal, funny, amusing, totec radio, in the witch house family, trollcore, shit but who cares, nelson scott" role="button">
 Melvins - Prick (1994-08-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female voices, singles i own, flap" role="button">
-Björk - Hyperballad (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/159be40b-3d93-481e-9b8b-d8786364d97c/1682071566-500.jpg" data-tags="brazilectro, favouritestreamablealbums" role="button">
 Rinôçérôse - Retrospective (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
-The Cure - Wild Mood Swings (1996-05-07)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
@@ -99,8 +96,8 @@ Sugar Ray - Floored (1997-06-24)
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/23ff4315-ccce-440d-9711-3f82daf14d70/8147555706-500.jpg" data-tags="ambient, psychedelic" role="button">
-Celtic Cross - Hicksville (1998)
+<li data-cover="http://coverartarchive.org/release/aabf63ad-7e72-3059-947f-65b802ee624c/27373703298-500.jpg" data-tags="ambient" role="button">
+Casino Versus Japan - Casino Versus Japan (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/42d7bc44-ff89-41bc-b667-af865cb60a53/7743077647-500.jpg" data-tags="totec radio" role="button">
 Ben E. King - The Very Best of Ben E. King (1998-02-03)
@@ -146,6 +143,9 @@ The Animals - A's B's & EP's (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/47bf6ce7-1f8f-48c0-bf10-adee94fdee82/8214312330-500.jpg" data-tags="soul, disco, barry white" role="button">
 Barry White - Love Songs (2003-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0d01d8b-e3c7-4abc-9baa-e8ae1ebd9e85/16263336521-500.jpg" data-tags="chill, meditative" role="button">
+Bardo Pond - On the Ellipse (2003-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/07719be7-6f9e-4b05-aad7-c4aeaadd2072/9600416970-500.jpg" data-tags="totec radio, screwed, allmusicb, allmusicf" role="button">
 Frayser Boy - Gone On That Bay (2003-08-26)
@@ -198,6 +198,9 @@ Digital Underground - Playwutchyalike: The Best Of Digital Underground (2006-01-
 <li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">
 Rogue Wave - Publish My Love (2006-01-30)
 </li>
+<li data-cover="https://img.discogs.com/mzKHMuQs9wMPFsFzFgy8r---19w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-112127-1227479517.jpeg.jpg" data-tags="pop, deutsch, mia" role="button">
+MIA. - Tanz der Moleküle (2006-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/0554e45f-09d8-4d47-97c9-8214ac8e437e/14781463643-500.jpg" data-tags="steely dan, voulez voulez voulez vous, steely dan-the definitive collection" role="button">
 Steely Dan - The Definitive Collection (2006-08-01)
 </li>
@@ -216,11 +219,11 @@ Rooney - When Did Your Heart Go Missing? (2007-09-03)
 <li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
 Samantha James - Rise (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
-Blue Stahli - Antisleep Vol. 01 (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/9abb5ff2-6113-4fa4-b7e5-307072460661/6919853478-500.jpg" data-tags="00s" role="button">
 Black Kids - I'm Not Gonna Teach Your Boyfriend How To Dance With You (2008-04-04)
+</li>
+<li data-cover="https://img.discogs.com/v-mnkFpJcGFkimRFg3I3buMVluc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6601997-1487256959-9353.jpeg.jpg" data-tags="copyriot" role="button">
+Heartsrevolution - C.Y.O.A. (2008-04-15)
 </li>
 <li data-cover="https://img.discogs.com/4vjnGFCwyJPYdA-94nP0tiwIFAA=/fit-in/300x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1465569-1221794884.jpeg.jpg" data-tags="electronic, hollyoaks, sunsead" role="button">
 Does It Offend You, Yeah? - Epic Last Song (2008-06-02)
@@ -252,9 +255,6 @@ Crippled Black Phoenix - 200 Tons of Bad Luck (2009-04-20)
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">
 Kasabian - Fire (2009-05-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="remix" role="button">
-Fever Ray - Triangle Walks (2009-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/a8d172ac-fabe-4198-b071-2274d60b72b0/2083169546-500.jpg" data-tags="alternative" role="button">
 Sarah Blasko - As Day Follows Night (2009-07-10)
 </li>
@@ -263,6 +263,9 @@ Moby - Mistake (2009-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b24cdb8a-1cb3-4a25-9637-9df23d2e9121/18878417537-500.jpg" data-tags="electro" role="button">
 Fukkk Offf - LOVE ME HATE ME KISS ME KILL ME (2009-08-10)
+</li>
+<li data-cover="https://img.discogs.com/-ehpicIpOaEqvEmXuFM44PRmYg8=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005880-1293459919.jpeg.jpg" data-tags="reggae, dub, roots reggae, totec radio" role="button">
+Scotty - He's A Pirate (2009-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">
 Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)
@@ -275,9 +278,6 @@ Piano Magic - Ovations (2009-10-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Lymbyc Systym - Shutter Release (2009-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/79eebda7-c062-4448-add6-c154c0f8fb26/3316749118-500.jpg" data-tags="mellow" role="button">
 Mumford & Sons - Winter Winds (2009-12-07)

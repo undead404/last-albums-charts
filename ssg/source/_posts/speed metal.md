@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:32:13.130Z
+date: 2021-04-11T22:26:07.098Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -45,6 +45,9 @@ Motörhead - Iron Fist (1982-04-03)
 <li data-cover="http://coverartarchive.org/release/39467290-704e-4f0e-b804-9527c40d9695/4949650785-500.jpg" data-tags="heavy metal" role="button">
 Anvil - Metal On Metal (1982-04-15)
 </li>
+<li data-cover="https://img.discogs.com/oTq6AZK6XgPvFZtlt3tYD6bL2ww=/fit-in/337x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151480-1333868528.jpeg.jpg" data-tags="speed metal" role="button">
+Exciter - Heavy Metal Maniac (1983)
+</li>
 <li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
 </li>
@@ -53,21 +56,6 @@ Metallica - Kill 'Em All (1983-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/15baf22c-46ed-4ad9-81b8-2d5ca4eb9347/13385226428-500.jpg" data-tags="thrash metal" role="button">
 Slayer - Show No Mercy (1983-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ba0fd7f-4443-4284-8748-fd75d4449a09/3039751372-500.jpg" data-tags="speed metal, heavy metal" role="button">
-Running Wild - Gates to Purgatory (1984)
-</li>
-<li data-cover="https://img.discogs.com/z3d4uIUFQ4ZD2xvrxzWxttpqIBY=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6384754-1417924934-3756.jpeg.jpg" data-tags="thrash metal" role="button">
-Slayer - Haunting the Chapel (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/29b48fd3-0efe-4b48-a24f-b73854cf7581/1863207540-500.jpg" data-tags="thrash metal" role="button">
-Anthrax - Fistful of Metal (1984-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/85f98f87-9653-40e9-bfed-035447e78785/17905397407-500.jpg" data-tags="heavy metal" role="button">
-Judas Priest - Defenders of the Faith (1984-01-04)
-</li>
-<li data-cover="https://img.discogs.com/is7w4T162a5Jq-i8TGe8IjGzb9o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1654753-1375750936-4827.jpeg.jpg" data-tags="black metal, heavy metal, nwobhm, speed metal" role="button">
-Venom - At War With Satan (1984-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4ff5-e94d-48b2-a99d-33ee251c2c34/9516015595-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - No Remorse (1984-09-15)
@@ -198,6 +186,9 @@ Running Wild - The Rivalry (1998-02-09)
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
+<li data-cover="https://img.discogs.com/C7UPeU2G6nPelT2DkaCYEy0rl7o=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4032739-1520405178-8822.jpeg.jpg" data-tags="thrash metal" role="button">
+Slayer - Diabolus In Musica (1998-06-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
 </li>
@@ -261,6 +252,9 @@ Savage Circus - Dreamland Manor (2005-09-05)
 <li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Majestic (2005-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ac6669a-d12f-306d-9be2-67f2ac9c544c/14209741844-500.jpg" data-tags="power metal" role="button">
+Helloween - Keeper of the Seven Keys: The Legacy (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
 </li>
@@ -279,11 +273,17 @@ Megadeth - United Abominations (2007-05-09)
 <li data-cover="http://coverartarchive.org/release/c3212ee8-b50d-3511-b830-19bad4070c3d/20719326770-500.jpg" data-tags="power metal" role="button">
 Helloween - Gambling with the Devil (2007-10-23)
 </li>
+<li data-cover="https://img.discogs.com/kkBY0uYM5-1c3ZwQBFDOroVPf3I=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2749206-1426014965-2872.jpeg.jpg" data-tags="power metal" role="button">
+Gamma Ray - Land Of The Free II (2007-11-16)
+</li>
 <li data-cover="https://img.discogs.com/53QhjJuy6zjLmnarIn1SYt13I6Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1792105-1460549521-1203.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Tide - Light From Above (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Ultra Beatdown (2008-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/07e83449-5953-35e0-8aed-122e366787ec/8306970381-500.jpg" data-tags="heavy metal, hard rock" role="button">
+Motörhead - Motörizer (2008-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7763a77-deaa-4fa0-b644-48821a2c0a6d/22917069905-500.jpg" data-tags="heavy metal, speed metal, melodic death metal, death metal" role="button">
 Renegade Five - Undergrounded Universe (2009-02-04)

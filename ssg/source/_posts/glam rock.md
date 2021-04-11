@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T17:29:12.668Z
+date: 2021-04-11T22:37:12.617Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
 <li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">Roxy Music - For Your Pleasure (1973)</li>
+<li data-cover="http://coverartarchive.org/release/47a61826-8264-46e1-a1ef-e854618195c5/7784208473-500.jpg" data-tags="hard rock, 70s, classic rock, rock" role="button">Queen - Queen (1973-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">Elton John - Goodbye Yellow Brick Road (1973-10-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s, rock, hard rock" role="button">Queen - Sheer Heart Attack (1974-11-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">Queen - A Night at the Opera (1975-11-21)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">David Bowie - Station to Station (1976-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">Queen - Greatest Hits (1981-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">David Bowie - Sound And Vision (1989-09-19)</li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">The Darkness - Permission to Land (2003-07-07)</li>
 </ol>
 List of 100 - under the cut.
@@ -111,6 +111,9 @@ Queen - Hot Space (1982-05-21)
 <li data-cover="http://coverartarchive.org/release/090700a7-0ec5-41bb-b970-52e6aa47b755/16567307250-500.jpg" data-tags="80s" role="button">
 Roxy Music - Avalon (1982-06)
 </li>
+<li data-cover="https://img.discogs.com/PCgnxVCzzTl-HSsQaU4qnKhloN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600291-1175787502.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
+Billy Idol - Billy Idol (1982-07-16)
+</li>
 <li data-cover="https://img.discogs.com/aRYwPniGEsRquBk8QCl7QZ-qeIY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096803-1453599913-8199.jpeg.jpg" data-tags="hard rock, heavy metal, rock" role="button">
 Kiss - Creatures Of The Night (1982-10-13)
 </li>
@@ -174,9 +177,6 @@ Tom Petty - Wildflowers (1994-10-31)
 <li data-cover="http://coverartarchive.org/release/240bf826-f94b-406b-8995-4ab2e9ad404c/2516926514-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, glam rock" role="button">
 Bryan Ferry - More Than This - The Best of Bryan Ferry and Roxy Music (1995-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="https://img.discogs.com/PJsTNfcs0chZc2eCLJQ_BFWzNCQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13125301-1548508144-6281.jpeg.jpg" data-tags="britpop" role="button">
 Suede - Coming Up (1996-09-02)
 </li>
@@ -224,9 +224,6 @@ The Darkness - I Believe in a Thing Called Love (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
-Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd92ce8-dba4-43ae-8c37-1be8a9dbf0db/7409169038-500.jpg" data-tags="glam rock" role="button">
 Negative - Sweet & Deceitful (2004-09-01)
@@ -293,6 +290,9 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/837a891b-8741-42ce-a911-270272530b16/11584607072-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Escape The Fate (2010-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
+Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)

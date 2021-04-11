@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:57:01.413Z
+date: 2021-04-11T22:39:01.406Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Kate Bush - 50 Words for Snow (2011-11-21)](http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg "Kate Bush - 50 Words for Snow (2011-11-21)")
@@ -21,14 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/16238918-b897-3140-bc04-77b45f99f3ae/21634689401-500.jpg" data-tags="blues" role="button">
+Nina Simone - 'Nuff Said! (1968)
+</li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
 <li data-cover="https://img.discogs.com/XE8JlK6QbctaeaqhM6NowdWjunk=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105315-1320265971.jpeg.jpg" data-tags="dark ambient, industrial" role="button">
 Deutsch Nepal - Deflagration Of Hell (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/303d108a-8b3c-4dbe-97bf-e070b5d36d01/3994580625-500.jpg" data-tags="shoegaze" role="button">
-Slowdive - Blue Day (1992-02)
 </li>
 <li data-cover="https://img.discogs.com/vWeYc_m_2FWBlIj7kDovCLzRi2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3233908-1321635138.jpeg.jpg" data-tags="alternative, 90s" role="button">
 Tori Amos - Winter (1992-09-29)
@@ -39,14 +39,8 @@ Quicksand - Slip (1993-02-09)
 <li data-cover="http://coverartarchive.org/release/5941dfb0-209a-4661-9301-ae665b30223d/16110823346-500.jpg" data-tags="pop, acoustic" role="button">
 The Murmurs - The Murmurs (1994)
 </li>
-<li data-cover="https://img.discogs.com/dncLtd56tF7iqt7gTb2w_0WXxAI=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332-1275414476.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
-Wagon Christ - Throbbing Pouch (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/172ddda3-1837-4fd2-8d12-ddd1e70b4c57/9070622875-500.jpg" data-tags="electronic, trip-hop" role="button">
 Portishead - Numb (1994-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
 </li>
 <li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Grand Prix (1995-05-29)
@@ -69,9 +63,6 @@ Haujobb - Matrix (1997-05-20)
 <li data-cover="https://img.discogs.com/I-oViWD7yaPbPfp-56ogVSe6K8o=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10404061-1538314922-5725.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/97ee5e25-e39e-40db-9e1b-85cfb681c16d/20580184854-500.jpg" data-tags="rock, winter, alternative dance, where is my bong, collected, steveadams fm, steveadamsfm, music to play on mdma, smell the rot settling in, has me dancing even now" role="button">
-Black Grape - Stupid Stupid Stupid (1997-10-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="winter, world serpent, nice nait" role="button">
 Sol Invictus - All Things Strange And Rare (1998)
 </li>
@@ -80,6 +71,9 @@ Stratvm Terror - Pain Implantations (1998)
 </li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ac7d573-b6d4-489f-9de3-63a873afb3e3/1641155319-500.jpg" data-tags="atmospheric black metal" role="button">
+Paysage d'Hiver - Schattengang (1998-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
@@ -165,6 +159,9 @@ Meanwhile, Back In Communist Russia... - My Elixir; My Poison (2003-02-24)
 <li data-cover="http://coverartarchive.org/release/8ad974f7-091f-41b7-ae1c-1294b4b32cd5/15089570158-500.jpg" data-tags="jazz, blues" role="button">
 Nina Simone - Anthology (2003-07-01)
 </li>
+<li data-cover="https://img.discogs.com/Aw6jGBRGiClMUr4q8_3lGs2S0Ro=/fit-in/480x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8573537-1464317671-3385.jpeg.jpg" data-tags="indie, canada, calm, acoustic, canadian, singer, guitar, songwriter, winter, loop, cold, rain, lonely, vancouver, independent, arctic, layered, indie-canada, i wanna hear it" role="button">
+Arctic - Music for Rain (2003-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b90bb96-29e1-4384-b980-7205899f9464/9561418659-500.jpg" data-tags="electronic" role="button">
 Funkstörung - Disconnected (2004-03-13)
 </li>
@@ -198,6 +195,9 @@ The Coral - The Invisible Invasion (2005-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c0d529f-7d08-380c-94a0-4852d7124d45/20432697158-500.jpg" data-tags="black metal" role="button">
+Lunar Aurora - Mond (2005-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
 </li>
@@ -209,9 +209,6 @@ Kat Flint - The Secret Boy's Club Ep (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/86b4ecb7-4336-4e8f-bf13-6e4673e7698d/1314644765-500.jpg" data-tags="ambient, drone" role="button">
 Loscil - Stases (2006-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
-Anoice - Remmings (2006-05-23)
 </li>
 <li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
 Project Divinity - Divinity (2006-08-21)
@@ -240,6 +237,12 @@ Sea Wolf - Leaves In The River (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/05eaa945-6eb6-4e4b-a74a-e9bb0f2be39f/5817210927-500.jpg" data-tags="instrumental, winter" role="button">
 Sumner McKane - What A Great Place To Be (2007-12-31)
 </li>
+<li data-cover="https://img.discogs.com/rbEJ5DqzSdyUk6xyKqV_bCFLZVQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1174383-1198382976.jpeg.jpg" data-tags="ambient, drone, winter, soundscapes, benbecula, want to buy" role="button">
+talkingmakesnosense - The Winter Drones (2008-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/e322064b-c0cc-43e8-a89c-295793d7f061/2500350500-500.jpg" data-tags="ambient" role="button">
+Irezumi - Endurance (2008-02-20)
+</li>
 <li data-cover="https://img.discogs.com/k6Q9HpcT0w9TVlKXKLL29cYjWn4=/fit-in/400x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1671211-1308318414.gif.jpg" data-tags="winter, bobjebus16 owns this, no waste album, stand out albums of 2008" role="button">
 The Twilight Sad - Here, It Never Snowed. Afterwards It Did (2008-06-02)
 </li>
@@ -249,11 +252,8 @@ The Future Sound of London - ENVIRONMENTS II (2008-08-29)
 <li data-cover="https://img.discogs.com/H8BvOsvOFiaTVGashYadtz_jyeo=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13635631-1557992376-9266.jpeg.jpg" data-tags="christmas" role="button">
 Sarah Brightman - A Winter Symphony (2008-10-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, glitch, experimental" role="button">
-Ametsub - The Nothings of The North (2009-02-04)
-</li>
-<li data-cover="https://img.discogs.com/tjX1lChioV4W8jP7nRRWCYNvZE0=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1798530-1279110125.jpeg.jpg" data-tags="folk metal, symphonic melodic death metal" role="button">
-Blackguard - Profugus Mortis (2009-04-28)
+<li data-cover="https://img.discogs.com/N6qHAyHa7JusGcvRH_jPjI-vIrE=/fit-in/532x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4093702-1355018527-1569.jpeg.jpg" data-tags="japanese, female vocalists, christmas, jpop, winter, asian, j-rock, j-pop, jrock, asian music, asian pop" role="button">
+BONNIE PINK - CHAIN (2008-11-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="winter" role="button">
 Icicle - Cold Fear EP (2009-12-07)
@@ -291,6 +291,9 @@ Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
 <li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
 Michael Bublé - Christmas (2011-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a882803-2220-41dc-b94b-2938728d28c0/6437332025-500.jpg" data-tags="winter" role="button">
+Stormloop - snowbound* (2011-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
@@ -305,9 +308,6 @@ Connect.Ohm - 9980 (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6c6d7a9-3093-4c7c-9e41-87a7cf0a38bd/5163933768-500.jpg" data-tags="christmas" role="button">
 Tracey Thorn - Tinsel and Lights (2012-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a74e612-98f5-4018-9da5-6802f60e3b77/6384943627-500.jpg" data-tags="k-pop" role="button">
-Hello Venus - 오늘 뭐해? (2012-12-12)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:24:01.419Z
+date: 2021-04-11T22:07:01.386Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -41,6 +41,9 @@ Clawfinger - Deaf Dumb Blind (1993-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e433c3-1afe-43a8-be20-5441529c8d48/4864202701-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Judgment Night (1993-09-14)
+</li>
+<li data-cover="https://img.discogs.com/YTvdD4bCjKOoxoO8mni6rnSPwLs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817822-1266683823.jpeg.jpg" data-tags="rap metal" role="button">
+MCM and the Monster - Collective Emotional Problems (1993-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/125b1731-f5b0-4542-96a3-c05c025f877c/23724829556-500.jpg" data-tags="alternative metal" role="button">
 Megaherz - Herzwerk (1995)
@@ -224,9 +227,6 @@ L'Esprit du Clan - Chapitre 1 (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/58073fbb-c380-337a-ac6c-40048c3ba83c/25753837881-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Five Pointe O - Untitled (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
-3rd Strike - Lost Angel (2002-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad94d53f-6937-4966-a532-b60868d800e3/9270145980-500.jpg" data-tags="nu metal, rock, alternative, alternative metal" role="button">
 Taproot - Welcome (2002-09-30)

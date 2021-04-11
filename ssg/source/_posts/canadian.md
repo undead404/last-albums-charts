@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:26:01.859Z
+date: 2021-04-11T22:36:01.452Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -72,14 +72,11 @@ Godspeed You! Black Emperor - Slow Riot for New Zero Kanada (1999-03-08)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/92648a5a-23d5-4ea4-8276-ef0d81aaf16b/4838892552-500.jpg" data-tags="indie" role="button">
-The New Pornographers - Mass Romantic (2000-10-24)
+<li data-cover="http://coverartarchive.org/release/aed60d55-27fb-42f0-b84a-3840a2534e8b/21423464152-500.jpg" data-tags="rock" role="button">
+Barenaked Ladies - Maroon (2000-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2af92ddc-2457-3ccb-ba1c-a8ac103c1b8d/6079267084-500.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - Under Rug Swept (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
-Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
@@ -263,6 +260,9 @@ The New Pornographers - Together (2010-05-03)
 </li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/50b1784e-fe17-4944-80af-604a7f27f892/22157262431-500.jpg" data-tags="indie pop" role="button">
+Stars - The Five Ghosts (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
 Black Mountain - Wilderness Heart (2010-09-10)

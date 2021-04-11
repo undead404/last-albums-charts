@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:20:01.457Z
+date: 2021-04-11T21:58:01.441Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -150,9 +150,6 @@ Blues Traveler - Four (1994-09-13)
 <li data-cover="http://coverartarchive.org/release/4fab8af6-95fd-461f-82b7-f40da90180ed/19619688692-500.jpg" data-tags="classic rock, blues, 60s" role="button">
 Janis Joplin - 18 Essential Songs (1995-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
-Joan Osborne - Relish (1995-03-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f66e9df-ee19-475b-8f0b-3e1f27c2c8af/7086920950-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 </li>
@@ -245,6 +242,9 @@ Scott Matthews - Passing Stranger (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0720ab6f-d9e0-3cc9-82be-930cd76faf5d/8160980453-500.jpg" data-tags="blues" role="button">
 Eric Clapton - Complete Clapton (2007-10-08)
+</li>
+<li data-cover="https://img.discogs.com/pOWJ9y4vvwOtb3Bd_IAxl4LOLyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151980-1322079135.jpeg.jpg" data-tags="rock, rock country" role="button">
+Kid Rock - Rock N Roll Jesus (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">
 John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)

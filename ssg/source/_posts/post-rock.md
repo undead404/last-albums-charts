@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:57:01.622Z
+date: 2021-04-11T22:06:01.414Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -59,9 +59,6 @@ Explosions in the Sky - How Strange, Innocence (2000-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ada966-ad97-3806-8e11-78a4c8c4c19c/19444477382-500.jpg" data-tags="post-rock" role="button">
 Do Make Say Think - Goodbye Enemy Airship The Landlord Is Dead (2000-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
-Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/33a19b38-195f-4d41-82aa-60784b63e008/9519834306-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Rock Action (2001-04-04)
@@ -135,9 +132,6 @@ Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">
-toe - the book about my idle plot on a vague anxiety (2005-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/a41e4735-76af-4ee3-aa0f-1d12eda2bf25/2737978532-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - One Time for All Time (2005-10-24)
 </li>
@@ -195,6 +189,9 @@ Pelican - City of Echoes (2007-04-27)
 <li data-cover="http://coverartarchive.org/release/cd9f69f3-90ab-44c4-a243-0d0796300882/5860863096-500.jpg" data-tags="post-rock" role="button">
 Joy Wants Eternity - You Who Pretend to Sleep (2007-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
+Sigur Rós - Hvarf - Heim (2007-11-05)
+</li>
 <li data-cover="https://img.discogs.com/UBd7YqXMjTGwZKEQrXE1EotW9co=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944687-1546335869-8526.jpeg.jpg" data-tags="indie, folk, post-rock, indie folk" role="button">
 The Middle East - The Recordings Of The Middle East (2008)
 </li>
@@ -240,9 +237,6 @@ Long Distance Calling - Avoid The Light (2009-04-24)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
@@ -270,6 +264,9 @@ God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/94f4bf51-b0be-4fd3-bfd0-0f744bc18a93/25713773260-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Hardcore Will Never Die, But You Will (2011-02-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
+Panda Bear - Tomboy (2011-04-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/aec34795-7691-3451-b9ce-fc53ad901420/11793213169-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)
 </li>
@@ -284,6 +281,9 @@ Russian Circles - Empros (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Alcest - Les voyages de l'Âme (2012-01-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Balmorhea - Stranger (2012-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e2f5fb4-5c55-45c3-8e16-572c46a9ddcc/2884696107-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Red Forest (2012-03-20)

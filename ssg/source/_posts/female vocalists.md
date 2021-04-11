@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:56:01.450Z
+date: 2021-04-11T22:33:07.039Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -66,6 +66,9 @@ Dido - No Angel (1999-06-01)
 <li data-cover="https://img.discogs.com/wcbeSKP_aB4pvG4rgyduqbSndRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10368880-1496116674-5471.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
 Whitney Houston - My Love Is Your Love (1999-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
+Christina Aguilera - Christina Aguilera (1999-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
@@ -89,9 +92,6 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/398e0153-1af0-4052-a78d-d0120e80bc48/22471055903-500.jpg" data-tags="pop" role="button">
 Dido - Life for Rent (2003-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/187e5a40-e083-43d6-bdc3-d472a35622e5/5112992648-500.jpg" data-tags="jazz, soul" role="button">
-Amy Winehouse - Frank (2003-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
@@ -138,9 +138,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
-Anna Nalick - Wreck of the Day (2005-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
@@ -164,6 +161,9 @@ Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/238e03d1-2a43-4d87-8608-6f2e8a5a66a6/5835269563-500.jpg" data-tags="indie rock, rock" role="button">
 Yeah Yeah Yeahs - Show Your Bones (2006-03-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
+Rihanna - A Girl Like Me (2006-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
 Ingrid Michaelson - Girls and Boys (2006-05-16)

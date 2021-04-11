@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:55:01.435Z
+date: 2021-04-11T22:14:01.397Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -26,9 +26,6 @@ Visage - The Damned Don't Cry (1982-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/55555fce-af44-4e93-a170-7554ed1e932d/4879800403-500.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - The Four Seasons (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
-Digable Planets - Blowout Comb (1994-10-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Secrets of Life (1995)
@@ -132,9 +129,6 @@ Underworld - A Hundred Days Off (2002-09-16)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="piano, piano solo" role="button">
 Greg Maroney - Harmony Grove (2003)
 </li>
-<li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
-Gregor Samsa - 27:36 (2003-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
@@ -179,6 +173,9 @@ Deuter - East of the Full Moon (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/eb71e741-6836-4803-8ef4-acf941a09cff/20604365596-500.jpg" data-tags="ambient, atmospheric" role="button">
+Rudy Adrian - MoonWater (2006)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
@@ -240,8 +237,8 @@ She & Him - Volume One (2008-03-18)
 <li data-cover="http://coverartarchive.org/release/6cbdd132-ff95-44ed-ba64-8239070527f4/6618403033-500.jpg" data-tags="vocal trance" role="button">
 Oceanlab - Sirens of the Sea (2008-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
-Priscilla Ahn - A Good Day (2008-06-10)
+<li data-cover="https://img.discogs.com/sq5FQNNQQ_APmhp59jSYDQ8x7ww=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040608-1260275159.jpeg.jpg" data-tags="cherish, rnb" role="button">
+Cherish - The Truth (2008-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
@@ -258,14 +255,14 @@ Erik Mongrain - Equilibrium (2008-10-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e0a9494-7532-41c5-9088-9f97e2c41477/18229199776-500.jpg" data-tags="pop, soft, relaxing, pl, female vocalist, myf, wielkie albumy, po prostu  urocze, jest melancholijnie" role="button">
-Anita Lipnicka - Hard Land of Wonder (2009)
-</li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="chillout, indie, swedish, dreamy, dream pop, folktronica, relaxing, emusic, balearic beat" role="button">
 jj - jj n° 1 (2009-03-26)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/39504ed9-0946-44d0-94ed-d30d0e18a02e/12573005881-500.jpg" data-tags="instrumental, chillout, experimental, progressive rock" role="button">
+Buckethead - A Real Diamond In The Rough (2009-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
@@ -317,6 +314,9 @@ Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/5eadb768-a764-4569-b693-b9c63f3bbe4d/6623828320-500.jpg" data-tags="electronic, instrumental, ambient, new age, atmospheric, ethereal, relaxing, ammu records" role="button">
+Amethystium - Transience (2014-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)

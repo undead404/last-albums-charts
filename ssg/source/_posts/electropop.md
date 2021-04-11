@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:26:01.391Z
+date: 2021-04-11T22:13:06.981Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -114,6 +114,9 @@ Empire of the Sun - Walking on a Dream (2009-04-21)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
+Patrick Wolf - The Bachelor (2009-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/34375ad9-5765-4894-810c-bb457f60b702/3832887948-500.jpg" data-tags="french, electropop, horses and ponies and unicorns too" role="button">
 Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
 </li>
@@ -146,6 +149,9 @@ Pixie Lott - Turn It Up (2009-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">
 Madonna - Celebration (2009-09-18)
+</li>
+<li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
+Taio Cruz - Rokstarr (2009-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Bad Romance (2009-10-26)
@@ -191,9 +197,6 @@ Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/ylFMbCSfzCE06ALM-NIdCBBndBQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2674841-1299796440.jpeg.jpg" data-tags="electropop" role="button">
 Austra - Beat And The Pulse (2010-11-16)
-</li>
-<li data-cover="https://img.discogs.com/V-w5rL3u3C2DbLuqGxZy-IDxZ3Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559604-1341268022-7993.jpeg.jpg" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
-Tove Styrke - Tove Styrke (2010-11-17)
 </li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Cannibal (2010-11-19)
@@ -243,9 +246,6 @@ Miike Snow - Happy To You (2012-03-13)
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
 </li>
@@ -288,9 +288,6 @@ Austra - Olympia (2013-06-17)
 <li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
 Icona Pop - This Is... Icona Pop (2013-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
 </li>
@@ -300,11 +297,14 @@ Banks - Goddess (2014-01-01)
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
-Rita Ora - I Will Never Let You Down (2014-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
+Sam Smith - In the Lonely Hour (2014-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcc44d38-7b10-4c61-af3a-413df2a3b3e9/7437861623-500.jpg" data-tags="pop" role="button">
+Christine and the Queens - Chaleur humaine (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

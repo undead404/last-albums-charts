@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T15:10:01.465Z
+date: 2021-04-11T22:35:01.475Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">Teenage Fanclub - Bandwagonesque (1991-10)</li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">Cartel - Cartel (1995)</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">Weezer - Pinkerton (1996-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">Hole - Celebrity Skin (1998-09-02)</li>
@@ -11,7 +12,6 @@ title: "power pop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">Aqualung - Still Life (2003-10-27)</li>
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">Weezer - Make Believe (2005-05-09)</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
-<li data-cover="https://img.discogs.com/cLJmQS2vtGhXqEBRnMSNi-HpqqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500085-1224352394.jpeg.jpg" data-tags="power pop, pop" role="button">Girls Aloud - Tangled Up (2007-11-19)</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">Snow Patrol - A Hundred Million Suns (2008-10-24)</li>
 <li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">Paramore - Paramore (2013-04-05)</li>
 </ol>
@@ -150,9 +150,6 @@ Girls Aloud - Chemistry (2005-12-05)
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, power pop, dream pop, ambitious, bibibi" role="button">
-The Car Is On Fire - Lake & Flames (2006)
-</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
@@ -174,6 +171,9 @@ Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/67db7446-023c-482c-881d-90501a6637a1/28025724057-500.jpg" data-tags="mcfly, pop rock, rock" role="button">
 McFly - Motion in the Ocean (2006-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/374def0e-027f-4b02-94c7-3b4ff2da9eea/12008848675-500.jpg" data-tags="indie rock, power pop, polaris prize" role="button">
+Two Hours Traffic - Little Jabs (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
@@ -191,9 +191,6 @@ Just Surrender - We're In Like Sin (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
-</li>
-<li data-cover="https://img.discogs.com/cLJmQS2vtGhXqEBRnMSNi-HpqqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500085-1224352394.jpeg.jpg" data-tags="power pop, pop" role="button">
-Girls Aloud - Tangled Up (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f62eb4a-3990-4782-b526-da1c13b50be4/21501116970-500.jpg" data-tags="indie, power pop, pop rock, pop punk, indie-emo, twin vocal" role="button">
 The Morning Of - The World As We Know It (2008-01-29)
@@ -245,6 +242,9 @@ Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d6c4da4-5eb3-4de9-b528-0613dea5d9a1/2477638318-500.jpg" data-tags="power pop, omg, feel good, less than 40 minutes" role="button">
 The Maine - Black & White (2010-07-12)
+</li>
+<li data-cover="https://img.discogs.com/x6Kzc9Z11xiFiCHQn8lOqt8ckDE=/fit-in/393x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2522118-1321738058.jpeg.jpg" data-tags="rock" role="button">
+Weezer - Hurley (2010-09-07)
 </li>
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)

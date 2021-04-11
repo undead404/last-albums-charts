@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:46:01.450Z
+date: 2021-04-11T22:11:06.988Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -116,6 +116,9 @@ My Morning Jacket - At Dawn (2001-04-05)
 </li>
 <li data-cover="https://img.discogs.com/fd8s0bGop6cSW6gtMG9KtK1O0EU=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497106-1260966944.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
 M. Ward - End of Amnesia (2001-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
+The National - The National (2001-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-500.jpg" data-tags="alt-country, 00s" role="button">
 Lambchop - Is A Woman (2002-02-19)
@@ -305,9 +308,6 @@ Chuck Ragan - Covering Ground (2011-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd6b690-da36-458a-aaee-28902e2b3338/27766620196-500.jpg" data-tags="rock" role="button">
 Band of Horses - Mirage Rock (2012-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

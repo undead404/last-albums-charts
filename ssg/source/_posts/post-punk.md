@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:09:01.586Z
+date: 2021-04-11T22:42:01.412Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -138,6 +138,9 @@ Echo & the Bunnymen - Songs to Learn & Sing (1985-11-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/06bacf92-484b-3b01-aceb-2d3f255f0971/27317292861-500.jpg" data-tags="post-punk, industrial" role="button">
+Swans - Children of God (1987-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
 The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
@@ -155,9 +158,6 @@ Siouxsie and the Banshees - Twice Upon a Time: The Singles (1992-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Interpol - Turn on the Bright Lights (2002-08-19)

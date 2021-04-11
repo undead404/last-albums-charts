@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:04:01.412Z
+date: 2021-04-11T22:32:01.401Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -92,6 +92,9 @@ Eminem - The Slim Shady LP (1999-02-23)
 </li>
 <li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
 Nas - I Am... (1999-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
+Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/737a3d1e-5875-41c8-9cd2-c9d5c17f0b64/21858122807-500.jpg" data-tags="rap" role="button">
 Method Man & Redman - Blackout! (1999-09-27)
@@ -302,9 +305,6 @@ Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
-Pusha T - My Name Is My Name (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:46:06.893Z
+date: 2021-04-11T22:16:12.475Z
 title: "alt country: 100 albums you must listen to before you die"
 ---
 ![Great Lake Swimmers - New Wild Everywhere (2012-04-02)](http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg "Great Lake Swimmers - New Wild Everywhere (2012-04-02)")
@@ -9,11 +9,11 @@ title: "alt country: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">My Morning Jacket - It Still Moves (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">The Avett Brothers - Mignonette (2004-07-27)</li>
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">Lucero - Nobody's Darlings (2005-05-24)</li>
+<li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)</li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">Wilco - Sky Blue Sky (2007-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/0df19cac-877c-4dae-9c09-83f1509ee181/21009277200-500.jpg" data-tags="indie, alt country" role="button">Magnolia Electric Co. - Josephine (2009-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">First Aid Kit - The Lion's Roar (2012-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg" data-tags="indie, folk, alt country, remember, nettwerk records" role="button">Great Lake Swimmers - New Wild Everywhere (2012-04-02)</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">Yo La Tengo - Fade (2013-01-14)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -57,6 +57,9 @@ Diamond Rio - Diamond Rio (1991-05-28)
 <li data-cover="https://img.discogs.com/PqD4V5GCVuTqdWD1zS_M3u5DPck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3504333-1333048227.jpeg.jpg" data-tags="country, alt-country" role="button">
 Uncle Tupelo - Still Feel Gone (1991-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d06fbcd0-8ee6-4d68-9a84-fd1ba3048c09/10574059188-500.jpg" data-tags="alt country" role="button">
+Connie Dover - Somebody (1991-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcea85cd-6bf6-4e35-bf57-63b24bd193e3/2686537879-500.jpg" data-tags="singer-songwriter, female vocalist, kd lang" role="button">
 k.d. lang - Ingénue (1992-03-17)
 </li>
@@ -65,6 +68,9 @@ Greg Brown - Dream Cafe (1992-05-01)
 </li>
 <li data-cover="https://img.discogs.com/fyoDS43t0DpEHgGYOWdvXjj5NTU=/fit-in/551x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3781371-1344171603-5524.jpeg.jpg" data-tags="folk" role="button">
 Emmylou Harris - Cowgirl's Prayer (1993-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/226c7e34-bd9c-4acf-bcb6-0f98798fed09/10574050281-500.jpg" data-tags="alt country, quik wanted, white cliffs of, from celtic circle 2" role="button">
+Connie Dover - The Wishing Well (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6403fc4-2225-41f0-b006-69461fe3d4d7/6753474012-500.jpg" data-tags="rock, singer-songwriter, 90s, folk, folk rock" role="button">
 Bruce Springsteen - The Ghost of Tom Joad (1995)
@@ -80,6 +86,9 @@ Texas Is the Reason - Do You Know Who You Are? (1996-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18b273a-4987-4594-a4db-419454c7e113/2013460549-500.jpg" data-tags="alt-country, 90s" role="button">
 Wilco - Being There (1996-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/f380beae-072c-46a8-bbf6-343ff7e321b0/10574069180-500.jpg" data-tags="alt country" role="button">
+Connie Dover - If Ever I Return (1997-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7466b2ea-f91c-4ab6-9d33-89b36b35adee/26371846608-500.jpg" data-tags="americana, alt-country, indie folk, alt country, gothic country, progressive bluesgrass" role="button">
 Jay Munly - Munly de Dar He (1997-02-14)
@@ -153,9 +162,6 @@ Calexico - Feast of Wire (2003-02-10)
 <li data-cover="http://coverartarchive.org/release/053ba2f9-d0d9-4352-af5c-96113cff1e56/20035415924-500.jpg" data-tags="folk, singer-songwriter, americana, alt country, the poets, the devil and the deep blue sea, just another folk singer, the harrisburg family band, the merch grrls" role="button">
 Tim Easton - Break Your Mother's Heart (2003-02-11)
 </li>
-<li data-cover="https://img.discogs.com/wXWlv5OPTINy4uKy4SFJ2odC_No=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043165-1187395720.jpeg.jpg" data-tags="folk" role="button">
-The Be Good Tanyas - Chinatown (2003-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa51c84c-d61f-37e3-b285-241a2a89a4bd/15549971613-500.jpg" data-tags="folk" role="button">
 Evan Dando - Baby I'm Bored (2003-04-22)
 </li>
@@ -180,17 +186,14 @@ The Sadies - Favourite Colours (2004)
 <li data-cover="https://img.discogs.com/Ll4UmHzi8za-g1vIYRxqR4pnTTY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509839-1605614053-3155.jpeg.jpg" data-tags="indie, liverpool" role="button">
 The Stands - All Years Leaving (2004-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/aacef983-5fd6-4db8-bfce-61003ec6510a/17155303619-500.jpg" data-tags="alt-country" role="button">
-Blanche - If We Can't Trust the Doctors... (2004-03-29)
-</li>
 <li data-cover="https://img.discogs.com/8UyMIUyagQX1SNQzNO7AXzlH6ns=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2869653-1304869746.jpeg.jpg" data-tags="singer-songwriter, americana, alt-country" role="button">
 Peter Case - Thank You St. Jude (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">
 The Avett Brothers - Mignonette (2004-07-27)
 </li>
-<li data-cover="https://img.discogs.com/Al4LRLb8bLBwQYpAgK8atsK1htk=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231365-1282772334.jpeg.jpg" data-tags="cosmic american music" role="button">
-Clem Snide - End Of Love (2005-02-22)
+<li data-cover="https://img.discogs.com/1M-d1xk5PA1Gi9FXykK_zeHolUo=/fit-in/546x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491879-1286969447.jpeg.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Pieta Brown - In The Cool (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6d8c013-997d-4858-8d87-00f823b49771/19888930029-500.jpg" data-tags="singer-songwriter" role="button">
 Josh Rouse - Nashville (2005-02-22)
@@ -317,8 +320,5 @@ First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg" data-tags="indie, folk, alt country, remember, nettwerk records" role="button">
 Great Lake Swimmers - New Wild Everywhere (2012-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 </ol>
