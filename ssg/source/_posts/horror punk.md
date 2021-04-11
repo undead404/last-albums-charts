@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:03:01.679Z
+date: 2021-04-11T07:04:01.493Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
@@ -13,7 +13,7 @@ title: "horror punk: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/ACDOvN4An4nOhtThe6dpg9ALWr4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372413-1268622380.jpeg.jpg" data-tags="horror punk" role="button">Murderdolls - Beyond the Valley of the Murderdolls (2002-08-17)</li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">Misfits - Project 1950 (2003-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">Aiden - Nightmare Anatomy (2005-10-04)</li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">The Horrors - Strange House (2007-03-05)</li>
+<li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">Calabrese - The Traveling Vampire Show (2007-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,6 +27,9 @@ Misfits - Bullet (1978-06)
 <li data-cover="https://img.discogs.com/CuSR7EHSKtoZlc9yM_0TACvgkOE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2126364-1265469184.jpeg.jpg" data-tags="horror punk" role="button">
 Misfits - Night Of The Living Dead (1979-10-31)
 </li>
+<li data-cover="https://img.discogs.com/unnlyeR1YPmvwrs3w9P4p-YseKg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-518597-1398490285-1984.jpeg.jpg" data-tags="punk rock, horror punk, deathrock, my vinyl collection" role="button">
+The Flesh Eaters - No Questions Asked (1980)
+</li>
 <li data-cover="https://img.discogs.com/-i-oQXO0wffhZMOda1_K-Naqcw8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-516396-1349396002-2440.jpeg.jpg" data-tags="punk, punk rock, horror punk, garage rock, deathrock, punk blues, psychic album covers, check it out later, voodoo punk, hoodoobilly" role="button">
 The Flesh Eaters - A Minute To Pray, A Second To Die (1981)
 </li>
@@ -36,17 +39,11 @@ Misfits - Halloween (1981)
 <li data-cover="http://coverartarchive.org/release/d7931956-18f4-4374-8213-e6486a203c5c/9861705156-500.jpg" data-tags="horror punk" role="button">
 Misfits - 3 Hits From Hell (1981-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/797a71c7-d099-42bc-a7b9-f7ec3ca4947c/14306528498-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
-T.S.O.L. - Dance With Me (1981-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/650d27e1-9f0e-494f-9884-adbf7cdd4870/15536272807-500.jpg" data-tags="punk, post-punk, art punk, deathrock" role="button">
 T.S.O.L. - Beneath the Shadows (1982)
 </li>
 <li data-cover="https://img.discogs.com/SeAJDQLC0y-OfXgPauxzsK2iWSE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067387-1262092734.jpeg.jpg" data-tags="horror punk" role="button">
 Misfits - Evilive (1982)
-</li>
-<li data-cover="https://img.discogs.com/i8JUBpcOGj56pkM-e_tbsxPMhqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431237-1575075897-8255.jpeg.jpg" data-tags="deathrock" role="button">
-Christian Death - Only Theatre of Pain (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">
 Misfits - Walk Among Us (1982-03)
@@ -125,9 +122,6 @@ Misfits - 12 Hits From Hell (2001)
 </li>
 <li data-cover="https://img.discogs.com/SwrGtc4KGouOzY4kooyubvwBRCo=/fit-in/447x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4463078-1462198344-7441.jpeg.jpg" data-tags="punk n roll" role="button">
 T.S.O.L. - Disappear (2001)
-</li>
-<li data-cover="https://img.discogs.com/aqBRx1nbE0cYa9mXNVjU2dTKJ-Q=/fit-in/493x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1631600-1291487409.jpeg.jpg" data-tags="horror punk, death rock, to buy" role="button">
-Penis Flytrap - Dismemberment (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3c674fe-fdda-4f81-819a-1bf136eb5a9c/7047351704-500.jpg" data-tags="horror punk" role="button">
 Король и Шут - Как в старой сказке (2001)
@@ -216,6 +210,9 @@ Michale Graves - Punk Rock Is Dead (2005-06-21)
 <li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">
 Aiden - Nightmare Anatomy (2005-10-04)
 </li>
+<li data-cover="https://img.discogs.com/Qs7rHWiuGUMpGm-y5mjcaYylyCQ=/fit-in/468x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3251285-1322402141.jpeg.jpg" data-tags="punk, horror punk" role="button">
+Plan 9 - Manmade Monster (2006)
+</li>
 <li data-cover="https://img.discogs.com/aG0Uf_cqdV2yZpYA1P74ltqnoWs=/fit-in/343x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2532973-1290009326.jpeg.jpg" data-tags="horror punk" role="button">
 The Other - We Are Who We Eat (2006-04-14)
 </li>
@@ -242,12 +239,6 @@ Calabrese - The Traveling Vampire Show (2007-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7930d0e4-2d28-337f-99b6-f5a8006ad5a9/14489546170-500.jpg" data-tags="alternative rock" role="button">
 Alkaline Trio - Remains (2007-01-29)
-</li>
-<li data-cover="https://img.discogs.com/-VFw6TC4whnLtPwVFicpMIyVN-8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1227342-1202121963.jpeg.jpg" data-tags="gothic, darkwave" role="button">
-Creature Feature - The Greatest Show Unearthed (2007-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
-The Horrors - Strange House (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/44821269-04f5-4a0b-a07a-56a11e85875f/5929535139-500.jpg" data-tags="punk, stoner rock, punk rock, horror punk, nerd rock, geek rock, nerd, nerd punk, cthulhu, sci-fi rock, geek punk, nerd punk rock, cthulhu rock" role="button">
 The Darkest of The Hillside Thickets - The Shadow Out Of Tim (2007-06-14)
@@ -279,6 +270,9 @@ Voodoo Zombie - Voodoo Zombie (2008-10-07)
 <li data-cover="http://coverartarchive.org/release/efd773fa-00d7-4b8c-936b-17311cf76c54/16900342452-500.jpg" data-tags="punk, punk rock, horror punk, horror rock" role="button">
 Zumbis do Espaço - Destructus Maximus (2009)
 </li>
+<li data-cover="https://img.discogs.com/qe6UnsoJhKUfcPSiJOUOb9Ewplk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7438346-1441556342-6061.jpeg.jpg" data-tags="horror punk" role="button">
+Cancerslug - Tales Of A Butcher (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0d24c0e-825a-434a-b043-55efa8cf11df/14949767296-500.jpg" data-tags="horror punk" role="button">
 Aiden - Knives (2009-05-12)
 </li>
@@ -300,11 +294,17 @@ Misfits - The Devil's Rain (2011-10-04)
 <li data-cover="https://img.discogs.com/WHd0j3RQ2n_5r-xfHlE1Vunn3SU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316663-1408365390-3432.jpeg.jpg" data-tags="horror punk" role="button">
 Wednesday 13 - Calling All Corpses (2011-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8fd239aa-e209-4817-bbf7-d545b323a005/2783447087-500.jpg" data-tags="dark cabaret" role="button">
-Creature Feature - It Was A Dark And Stormy Night... (2011-10-28)
+<li data-cover="https://img.discogs.com/VQOWsI3jeOphsYPIai4sBWblF3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6760558-1426070393-6938.jpeg.jpg" data-tags="electronic, horror punk, gothic rock, dark cabaret" role="button">
+RUFUS REX - Dead Beat (2011-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b420143b-93e7-4836-b3d8-e0e774ad8645/26547756668-500.jpg" data-tags="rock, alternative, punk rock, pop punk" role="button">
+Aiden - Some Kind Of Hate (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9c51228-a352-454a-a3c1-a44dbe79e75d/1830794367-500.jpg" data-tags="horror punk, rock and roll, mcr, a fire inside, nim vind, spookshow, mr underhill" role="button">
 Calabrese - Dayglo Necros (2012-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbf373d2-cdc4-4b8c-9f32-50909dcbf07a/17260295458-500.jpg" data-tags="horror punk" role="button">
+45 Grave - Pick Your Poison (2012-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9a58f73-a669-4848-9d77-27d8694bcce1/16999955477-500.jpg" data-tags="horror punk" role="button">
 Misfits - DeA.D. Alive! (2013)

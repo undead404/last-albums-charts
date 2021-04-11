@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:21:01.409Z
+date: 2021-04-11T07:16:06.887Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -183,6 +183,9 @@ Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 <li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">
 Dzihan & Kamien - Gran Riserva (2000-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/17bec90b-853a-3094-9560-e831e9dcb857/9725026485-500.jpg" data-tags="downtempo, acid jazz" role="button">
+Flanger - Midnight Sound (2000-10-06)
+</li>
 <li data-cover="https://img.discogs.com/RC6NvAe0GKxaxGhlPMKA_6a6j-Q=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227952-1139461309.jpeg.jpg" data-tags="acid jazz" role="button">
 45 Dip - The Acid Lounge (2000-10-24)
 </li>
@@ -194,9 +197,6 @@ Marc Moulin - Top Secret (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c3abc6d-8e80-4ac4-8e8a-61838de08115/4515154942-500.jpg" data-tags="electronic" role="button">
-Herbert - Bodily Functions (2001-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
 Quantic - The 5th Exotic (2001-06-18)

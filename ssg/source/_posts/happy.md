@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:05:02.206Z
+date: 2021-04-11T07:25:07.020Z
 title: "happy: 100 albums you must listen to before you die"
 ---
 ![Little Joy - Little Joy (2008-11-03)](http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg "Little Joy - Little Joy (2008-11-03)")
@@ -63,6 +63,9 @@ They Might Be Giants - Flood (1990-01-05)
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
+Digable Planets - Blowout Comb (1994-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/40f239f7-248d-4bcf-aae0-894afcd46ea2/9526033999-500.jpg" data-tags="jazz, happy, tenor saxophone, intelligent, modern jazz, nice, blue note, san francisco, simply amazing, radio friendly, kick out the jams, jazszsz, greasy granny, smart songwriter, charlie hunter trio, dave ellis" role="button">
 Charlie Hunter Trio - Bing, bing, bing! (1995-06-20)
 </li>
@@ -105,9 +108,6 @@ Fatboy Slim - Halfway Between The Gutter and the Stars (2000-11-01)
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/31053210-b40e-4105-a27f-0b8e83e77b94/8594647165-500.jpg" data-tags="chillout, electronica" role="button">
-Kid Loco - Kill Your Darlings (2001-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
@@ -131,9 +131,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">
 Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
-The Cat Empire - The Cat Empire (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
@@ -168,6 +165,9 @@ Skye Sweetnam - Noise from the Basement (2004-09-21)
 <li data-cover="http://coverartarchive.org/release/9bd752d0-2b57-3395-8164-b75abc8e2e42/12608703957-500.jpg" data-tags="indie" role="button">
 The Boy Least Likely To - The Best Party Ever (2005-02-14)
 </li>
+<li data-cover="https://img.discogs.com/YmncxciICIl1LAGMyoXlj5nfPvE=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568176-1290873847.jpeg.jpg" data-tags="indie, british, happy" role="button">
+The Futureheads - Hounds of Love (2005-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
 Aqualung - Strange and Beautiful (2005-03-22)
 </li>
@@ -180,6 +180,9 @@ Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
+<li data-cover="https://img.discogs.com/Lrw3AIZ9l1S4GVSSwePVq2suQeU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-541078-1157643473.jpeg.jpg" data-tags="indie pop, indie, twee" role="button">
+Suburban Kids with Biblical Names - #3 (2005-10-12)
+</li>
 <li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
 Jim Noir - Tower Of Love (2005-12-05)
 </li>
@@ -188,6 +191,9 @@ Jack Johnson - Upside Down (2006-02-24)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
+Bob Sinclar - Western Dream (2006-04-10)
 </li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
 Eagles of Death Metal - Death By Sexy (2006-04-11)
@@ -203,9 +209,6 @@ Kimya Dawson - Remember That I Love You (2006-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Format - Dog Problems (2006-05-18)
-</li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
 Lily Allen - Alright, Still (2006-07-17)
@@ -255,9 +258,6 @@ Röyksopp - Happy Up Here (2009-01-18)
 <li data-cover="http://coverartarchive.org/release/02a56c3b-b793-3f2f-abbf-c9844fd3953a/15606688812-500.jpg" data-tags="indie, rock, indie rock, happy, canadian, 00s, matador, verbwhores2009, my whole damn collection, tag auditions" role="button">
 A.C. Newman - Get Guilty (2009-01-20)
 </li>
-<li data-cover="https://img.discogs.com/CVQos0tzIvf8hE0Us6Qhz1A3Ttc=/fit-in/352x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8020511-1453620722-9724.png.jpg" data-tags="happy, acoustic, soft, love songs, ballad, sweet, purchased 09, start to finish albums, discoverockult, powerballad, alt ballad, lovetravel, lovetravels, i own this song" role="button">
-Angel Taylor - Love Travels (2009-03-31)
-</li>
 <li data-cover="https://img.discogs.com/lNDL8nXCb7x21HoFPfPmChKCZZU=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773854-1609708059-9034.jpeg.jpg" data-tags="alternative" role="button">
 IAMX - Kingdom of Welcome Addiction (2009-05-15)
 </li>
@@ -288,14 +288,14 @@ Tensnake - Coma Cat (2010-01-25)
 <li data-cover="http://coverartarchive.org/release/593a917a-9f7e-46ea-bf2f-10a6f34fadb4/13513416639-500.jpg" data-tags="indie rock" role="button">
 Fang Island - Fang Island (2010-02-23)
 </li>
+<li data-cover="https://img.discogs.com/iHelhTOTo0KojAYcMn_Z_WeA9Bs=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2382555-1280775512.jpeg.jpg" data-tags="dub, happy, theme songs" role="button">
+Robyn - Dancehall Queen (2010-04-13)
+</li>
 <li data-cover="https://img.discogs.com/LWh_oQb7EG0KtAKkssoE_AWK1-E=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2752340-1299436862.jpeg.jpg" data-tags="alternative, alternative rock" role="button">
 Jimmy Eat World - Invented (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bcfd4b2-a2f4-4d9a-ae5d-bbe6f343b1c5/4781198698-500.jpg" data-tags="alternative, indie rock, happy, electornic, low down, drunk walking the streets at 4am thinking of her, u street dc" role="button">
 Man Man - Life Fantastic (2011-05-06)
-</li>
-<li data-cover="https://img.discogs.com/onmqSEYZPlKxHXLcDhp3F3tVWLQ=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10455018-1497785721-9981.jpeg.jpg" data-tags="pop, somebody that i used to know" role="button">
-Gotye - Somebody That I Used to Know (2011-07-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="one direction" role="button">
 One Direction - What Makes You Beautiful (2011-09-11)

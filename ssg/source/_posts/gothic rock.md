@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:36:01.443Z
+date: 2021-04-11T07:42:01.519Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -62,9 +62,6 @@ Siouxsie and the Banshees - Twice Upon a Time: The Singles (1992-10-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="gothic rock, darkwave, decadence, gothic" role="button">
 Агата Кристи - Позорная Звезда (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/caede476-52c5-45f8-923b-5991f20984af/5910861121-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Smells Like Children (1995-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
@@ -275,6 +272,9 @@ She Wants Revenge - Save Your Soul (2008-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/67fd1cdd-1024-41e1-b103-fab82330a0b4/5674381799-500.jpg" data-tags="industrial metal" role="button">
+Deathstars - Night Electric Night (2009-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/03666113-97e0-44dc-a3fd-71f15b3bc1e7/14899098997-500.jpg" data-tags="gothic metal, alternative metal" role="button">
 Lacuna Coil - Shallow Life (2009-04-21)

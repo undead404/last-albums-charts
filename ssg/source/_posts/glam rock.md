@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:49:01.415Z
+date: 2021-04-11T07:23:01.447Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -183,9 +183,6 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="https://img.discogs.com/PJsTNfcs0chZc2eCLJQ_BFWzNCQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13125301-1548508144-6281.jpeg.jpg" data-tags="britpop" role="button">
 Suede - Coming Up (1996-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
-Firehouse - Good Acoustics (1996-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
 </li>
@@ -242,6 +239,9 @@ Billy Idol - Devil's Playground (2005-03-21)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
+Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)

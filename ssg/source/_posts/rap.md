@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:40:01.518Z
+date: 2021-04-11T07:05:01.441Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -120,6 +120,9 @@ Dr. Dre - 2001 (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/b06e2d75-8f6e-488b-ac1f-1551fa97c2b4/3331705479-500.jpg" data-tags="hip-hop, rap" role="button">
 The Notorious B.I.G. - Born Again (1999-12-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/6e0de6ea-bf19-4d90-b97d-7ba8684de1b0/9239764655-500.jpg" data-tags="rap, hip hop, dmx" role="button">
+DMX - ...And Then There Was X (1999-12-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
@@ -128,9 +131,6 @@ OutKast - Stankonia (2000-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/67197045-893e-4d95-9eb0-27ca106d2170/2181640325-500.jpg" data-tags="rap" role="button">
-D12 - Devils Night (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dab8857-3a60-4f03-9700-0c3cb04c3e09/2478079610-500.jpg" data-tags="rap" role="button">
 Afroman - The Good Times (2001-08-28)
@@ -171,14 +171,11 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">
 G-Unit - Beg For Mercy (2003-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/5efe962f-5feb-4ffc-aab6-ec924b2455c6/5261434671-500.jpg" data-tags="horrorcore, hardcore hip hop, rap" role="button">
-D12 - D12 World (2004-04-26)
+<li data-cover="https://img.discogs.com/F-vOuGPAlARaqo5swOWB35ZuTzU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-252113-1523457421-5387.jpeg.jpg" data-tags="rap, twista" role="button">
+Twista - Kamikaze (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
-Eminem - Encore (2004-11-12)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
@@ -299,6 +296,9 @@ Drake - Nothing Was the Same (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
 Tyler, the Creator - Wolf (2013-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/53351ea5-0a4f-42ff-9bee-4a7d3c43fda8/7420843359-500.jpg" data-tags="kid cudi" role="button">
+Kid Cudi - Indicud (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
 Chance the Rapper - Acid Rap (2013-04-30)

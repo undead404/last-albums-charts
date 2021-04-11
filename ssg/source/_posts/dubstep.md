@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:33:01.410Z
+date: 2021-04-11T07:43:01.468Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -47,9 +47,6 @@ Benga - Diary of an Afro Warrior (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6175641b-76c6-49ea-9d50-8afff91ef0bb/26997391455-500.jpg" data-tags="dubstep" role="button">
 iTAL tEK - Cyclical (2008-05-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
-The Bug - London Zoo (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/243c3d2d-5c5c-4b22-a296-a1400341a534/5356084335-500.jpg" data-tags="dubstep" role="button">
 Mimosa - Hostilis (2008-10-11)
@@ -174,9 +171,6 @@ Katy B - On a Mission (2011-04-01)
 <li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
 Jamie Woon - Mirrorwriting (2011-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e956b5c-d33a-433b-a194-33a2e331d346/1459636806-500.jpg" data-tags="pop, electronic" role="button">
-Alex Clare - Too Close (2011-04-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)
 </li>
@@ -252,6 +246,9 @@ Klaypex - Ready to Go (2012-04-10)
 <li data-cover="http://coverartarchive.org/release/df08397a-da08-4fcd-bc85-da3c59288f9a/16114656028-500.jpg" data-tags="dubstep, breaks" role="button">
 Bassnectar - Vava Voom (2012-04-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+Datsik - Vitamin D (2012-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
@@ -267,6 +264,9 @@ Celldweller - Wish Upon A Blackstar (2012-06-12)
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/c727f868-131c-4420-a752-3a44ee426ef2/16657845874-500.jpg" data-tags="electronic, dubstep, bass" role="button">
+Doctor P - Animal Vegetable Mineral - Part 1 (2012-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
 </li>
@@ -275,6 +275,9 @@ Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/755b8eea-888a-4a8f-84fd-60cb1d76afde/2961309353-500.jpg" data-tags="dubstep" role="button">
+Bassnectar - Freestyle (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5be1a346-e541-4838-996d-e20f83e76d32/4870387010-500.jpg" data-tags="dubstep" role="button">
 Stumbleine - Spiderwebbed (2012-10-29)
@@ -308,9 +311,6 @@ Phaeleh - Tides (2013-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c15c3529-0e8e-4cca-a478-1ee3c29bff15/4882899899-500.jpg" data-tags="pop" role="button">
-Lady Gaga - Applause (2013-08-13)
 </li>
 <li data-cover="https://img.discogs.com/bzkui0aRuxdOCeus2i__1I1INe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5001817-1381821314-8290.jpeg.jpg" data-tags="electronic, dubstep, house, electro house, 10s, days of the week, edm, brostep, complextro, food and drink" role="button">
 Feed Me - Calamari Tuesday (2013-10-14)

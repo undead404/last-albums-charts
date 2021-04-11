@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:08:07.142Z
+date: 2021-04-11T07:02:01.475Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -72,9 +72,6 @@ The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
 <li data-cover="http://coverartarchive.org/release/a83e740b-8e53-4391-b50a-1bd08b7d06ee/27044971526-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Fake Train (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
-Butthole Surfers - Independent Worm Saloon (1993-03-23)
-</li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
 </li>
@@ -89,6 +86,9 @@ Sonic Youth - Washing Machine (1995-09-26)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e772271-81cb-4c7d-a33e-25890f84c7d4/25181867422-500.jpg" data-tags="alternative rock, indie rock, shoegaze, post-hardcore" role="button">
+...And You Will Know Us by the Trail of Dead - ...And You Will Know Us by the Trail of Dead (1997)
 </li>
 <li data-cover="https://img.discogs.com/N6Xjb1_7B8Hm8CRkYw6BH7chHdU=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702256-1575569552-6407.jpeg.jpg" data-tags="indie rock, alternative" role="button">
 Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
@@ -150,9 +150,6 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock" role="button">
 The Mae Shi - HLLLYH (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
-The Horrors - Strange House (2007-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8e850b0-f816-41cf-8fd7-625e2e03ea6f/21355592306-500.jpg" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">
 The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
 </li>
@@ -164,6 +161,9 @@ Pissed Jeans - Hope For Men (2007-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8541b1c1-ab31-4b75-a3c9-5dde5e6f2266/23905573829-500.jpg" data-tags="noise rock" role="button">
 No Age - Weirdo Rippers (2007-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2d97501-6139-4b63-9360-b37f1c17b270/17473979290-500.jpg" data-tags="noise rock, experimental rock" role="button">
+Oxbow - The Narcotic Story (2007-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a31f314-b55d-45ed-9ad2-832503d7d6af/26607619749-500.jpg" data-tags="noise rock" role="button">
 Future of the Left - Curses (2007-09-24)

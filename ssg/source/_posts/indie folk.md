@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:27:01.409Z
+date: 2021-04-11T07:41:01.591Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -129,6 +129,9 @@ She & Him - Volume One (2008-03-18)
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/180a76e8-efe0-4d2d-9bdf-3f5e51223460/18171634835-500.jpg" data-tags="indie, rock, folk, acoustic, music to start the day to" role="button">
+Good Old War - Only Way To Be Alone (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/42716365-90b9-485e-a887-e5e120cb56da/15082708390-500.jpg" data-tags="indie" role="button">
 Okkervil River - The Stand Ins (2008-09-09)
 </li>
@@ -257,9 +260,6 @@ Phosphorescent - Muchacho (2013-03-15)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="folk" role="button">
 Iron & Wine - Ghost On Ghost (2013-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Junip - Junip (2013-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">
 Laura Marling - Once I Was An Eagle (2013-05-24)

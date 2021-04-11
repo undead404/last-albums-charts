@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:08:01.439Z
+date: 2021-04-11T07:26:01.408Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -147,8 +147,8 @@ Dizzee Rascal - Dance wiv Me (2008-06-29)
 <li data-cover="http://coverartarchive.org/release/8fbf22dc-2393-405b-a6d1-71a7e87cfd08/10704784319-500.jpg" data-tags="dubstep, grime" role="button">
 Plastician - Beg To Differ (2008-06-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
-The Bug - London Zoo (2008-07-07)
+<li data-cover="http://coverartarchive.org/release/3a6a6007-97a7-4f8c-b60f-7593eeebdff6/1680613635-500.jpg" data-tags="grime" role="button">
+Virus Syndicate - Sick Pay (2008-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0acb0cf-4184-4739-ac2c-227692711fd8/7696262161-500.jpg" data-tags="rap" role="button">
 N-Dubz - Uncle B (2008-11-17)
@@ -234,11 +234,11 @@ Pixelord - Puzzles (2011-03-29)
 <li data-cover="https://img.discogs.com/vbXG8KW9Uj4xlxZWoVtyMdE46l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838958-1365441229-7236.jpeg.jpg" data-tags="grime" role="button">
 Chipmunk - Transition (2011-04-18)
 </li>
+<li data-cover="https://img.discogs.com/jEH95QQllvnOYejmfg_eh7a7ii8=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873378-1305048274.png.jpg" data-tags="grime" role="button">
+Darq E Freaker - Cherryade EP (2011-05-04)
+</li>
 <li data-cover="https://img.discogs.com/0D5OmIEyQcoxMJsO9f6j0AsmMic=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2892504-1305997910.jpeg.jpg" data-tags="grime, bass, uk funky" role="button">
 Lil Silva - The Patience EP (2011-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b68b43c4-8a46-4aae-9861-b1811d977130/26947273952-500.jpg" data-tags="grime, techno, acid house, night slugs" role="button">
-Bok Bok - Southside EP (2011-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f833dadc-3151-4000-8e19-e8cbea8aaad4/2877625885-500.jpg" data-tags="grime, dubstep" role="button">
 Foreign Beggars - The Harder They Fall EP (2011-06-06)

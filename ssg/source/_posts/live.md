@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:33:01.437Z
+date: 2021-04-11T07:44:01.707Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -10,9 +10,9 @@ title: "live: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">Bright Eyes - Motion Sickness (2001-01-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)</li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">Stereophonics - Live From Dakota (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)</li>
+<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">Justice - A Cross The Universe (2008-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">Coldplay - LeftRightLeftRightLeft (2009-05-15)</li>
 </ol>
 List of 100 - under the cut.
@@ -47,9 +47,6 @@ Led Zeppelin - The Song Remains The Same (1976-09-28)
 </li>
 <li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
 Queen - Live Killers (1979-06-22)
-</li>
-<li data-cover="https://img.discogs.com/61NkGxGTxlQQedy14A81R8dXzE0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503277-1350805348-9057.jpeg.jpg" data-tags="classic rock, live" role="button">
-Neil Young & Crazy Horse - Live Rust (1979-11-14)
 </li>
 <li data-cover="https://img.discogs.com/CJUhQdKx8cnKYRTRFL7YEsrO8mo=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7540898-1466772398-1897.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
@@ -171,6 +168,9 @@ Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)
 <li data-cover="http://coverartarchive.org/release/3d039a02-231c-3c6c-a9ac-f89e60bf0329/1154225975-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - And All That Could Have Been (2002-01-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd5e5015-c000-408a-9d74-d9c39fb67e9d/20479650176-500.jpg" data-tags="indie" role="button">
+Dashboard Confessional - MTV Unplugged v2.0 (2002-12-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
@@ -240,9 +240,6 @@ Wilco - Kicking Television: Live in Chicago (2005-11-15)
 <li data-cover="http://coverartarchive.org/release/c16704e7-6827-4eb7-a81b-35b1dc868de4/15472469630-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - (Set This) World Ablaze (2005-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
-John Mayer Trio - Try! (2005-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/8beeaf1d-dc8f-4a93-8f7e-2eb8e15bb671/27919718997-500.jpg" data-tags="live" role="button">
 My Chemical Romance - Life on the Murder Scene (2006-03-21)
 </li>
@@ -287,6 +284,9 @@ Within Temptation - Black Symphony (2008-08-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, pop, rock, folk, experimental, live, record, subliminal sounds, kemado records, sfo borders, under the radar best of 2008" role="button">
 Dungen - 4 (2008-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c7b6839-ce71-3741-a107-2f5dc678f4b4/6758955815-500.jpg" data-tags="live" role="button">
+Linkin Park - Road To Revolution: Live at Milton Keynes (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)

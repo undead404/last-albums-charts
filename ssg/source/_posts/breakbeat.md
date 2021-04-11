@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:27:01.418Z
+date: 2021-04-11T07:20:01.436Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -24,8 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/0d3add81-2f31-3575-83bb-44002b7d542b/12248561705-500.jpg" data-tags="electronic" role="button">
 The Prodigy - Charly (1991-08-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/147213f3-4756-4183-9cef-1360b0d90f42/4076525239-500.jpg" data-tags="techno, abstract, breakbeat, acid house, aersche-tag wegen die ich nach 1000 tracks noch kein profile hab alle anderen haben eins wieso ich nicht wieso aersche aersche kinder blumen" role="button">
-Aphex Twin - Xylem Tube EP (1992-06-01)
+<li data-cover="https://img.discogs.com/qsd8ADl3GCUr7MZoG9_dL92Hd5w=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-325964-1543069126-6417.jpeg.jpg" data-tags="electronic, breakbeat, the prodigy, danistret, favorite singles 1991" role="button">
+The Prodigy - Everybody in the Place (1991-12-30)
+</li>
+<li data-cover="https://img.discogs.com/6TP3gtV2gI0ouF_I7Nn1s5UQRWA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-95988-1389150472-1382.jpeg.jpg" data-tags="breakbeat" role="button">
+Liquid - Sweet Harmony (1992-03-09)
 </li>
 <li data-cover="https://img.discogs.com/bSMt1idCUjPnH0eq3gle4B5GpHQ=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-76156-1231368734.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">
 The Prodigy - Experience (1992-09-21)
@@ -38,9 +41,6 @@ Boards of Canada - Hooper Bay (1994-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1cfae23-df33-4a58-be49-5d34c6a5563e/3035311470-500.jpg" data-tags="electronic, techno" role="button">
 The Prodigy - More Music For The Jilted Generation (1994-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/e659da1c-cf43-3b6b-a7bb-31fe835d41fc/23548844170-500.jpg" data-tags="electronic" role="button">
-Orbital - Snivilisation (1994-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Exit Planet Dust (1995-06-26)
@@ -69,6 +69,9 @@ The Chemical Brothers - Block Rockin' Beats (1997-03-24)
 <li data-cover="http://coverartarchive.org/release/79f2fb40-1e55-4a56-b749-89a9c73d8cb6/19177871704-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Dig Your Own Hole (1997-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/f59e164a-ca57-4d80-8f4e-1a10a9757354/15320405430-500.jpg" data-tags="electronic, electronica, druggy, energetic, clinical, breakbeat, big beat, playful, sensual, celebratory" role="button">
+Cirrus - Drop The Break (1997-04-22)
+</li>
 <li data-cover="https://img.discogs.com/W1wBY1fPrkbArglm19JIndz2T3Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51686-1570878836-2085.jpeg.jpg" data-tags="trip-hop, instrumental, 90s, breakbeat, cartoon, lbm, collected, college years, sample collage" role="button">
 Bentley Rhythm Ace - Bentley Rhythm Ace (1997-05-12)
 </li>
@@ -95,9 +98,6 @@ The Prodigy - Smack My Bitch Up (1997-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e48d986-ca1d-47f4-8694-7477aea0f159/24821791374-500.jpg" data-tags="electronic, dj mix, big beat" role="button">
 Fatboy Slim - On the Floor at the Boutique (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/7787e897-c3c9-4e80-bda6-2189bfbcdad4/4834963518-500.jpg" data-tags="breaks, breakbeat" role="button">
-Freestylers - We Rock Hard (1998-06-14)
 </li>
 <li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">
 Bomfunk MC's - In Stereo (1999)
@@ -128,6 +128,9 @@ Everything But the Girl - Temperamental (2000-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Supermodified (2000-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e0dc6a7-1376-47cb-90ec-6ae9228d99fb/25473519992-500.jpg" data-tags="electronic" role="button">
+Orbital - The Altogether (2001-04-11)
 </li>
 <li data-cover="https://img.discogs.com/G3eQegMvT-dbtvd-azpSoIdFM9I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-215888-1148545820.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Crystal Method - Tweekend (2001-05)
@@ -162,6 +165,9 @@ Kraddy - Truth Has No Path (2003)
 <li data-cover="http://coverartarchive.org/release/28e3b48f-82b6-4733-b6df-270107e8fd94/3113437097-500.jpg" data-tags="breakbeat" role="button">
 Freeland - Now & Them (2003-01-09)
 </li>
+<li data-cover="https://img.discogs.com/rljSxHVp0LZmGZipFDbInnAi9AM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164861-1111663316.jpg.jpg" data-tags="electronica" role="button">
+Plump DJs - Eargasm (2003-07-07)
+</li>
 <li data-cover="https://img.discogs.com/mU_PY87EMZkuEH2NnufJ6T8WU3U=/fit-in/484x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417033-1110584937.jpg.jpg" data-tags="electronic" role="button">
 Overseer - Wreckage (2003-08-25)
 </li>
@@ -176,9 +182,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/-Y1s-IWydUvT-hb8HWRv38IUxbg=/fit-in/400x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229723-1391753369-3106.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Crystal Method - Legion of Boom (2004-01-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
-Orbital - Blue Album (2004-06-21)
 </li>
 <li data-cover="https://img.discogs.com/NG7L1r4khs5Byo2QHY-TeLf_9XI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304218-1095818087.jpg.jpg" data-tags="electronic, dance, breakbeat" role="button">
 Freestylers - Raw as Fuck (2004-08-02)
@@ -219,6 +222,9 @@ deadmau5 - Get Scraped (2005-07-26)
 <li data-cover="https://img.discogs.com/eSg97VBOuDmK3a-ohmyuthYK4LQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867064-1428322635-3422.jpeg.jpg" data-tags="breaks, breakbeat" role="button">
 General Midi - MIDI Style (2005-10-15)
 </li>
+<li data-cover="https://img.discogs.com/pUI_te1NTDMwYQ1i8k6G7NgSSjI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557280-1348161919-8961.jpeg.jpg" data-tags="grime, hip hop" role="button">
+Lady Sovereign - Vertically Challenged (2005-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/a292d675-5e37-491c-8e76-15f8c1f0570b/9853899226-500.jpg" data-tags="british, drum and bass, breakbeat" role="button">
 Future Funk Squad - Audio Damage (2006-05-08)
 </li>
@@ -251,9 +257,6 @@ Junkie XL - Booming Back At You (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
 Mr. Scruff - Ninja Tuna (2008-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5418ec-d3bd-4f32-8782-b66d78c5b145/3551449520-500.jpg" data-tags="superbacana, kuduro" role="button">
-Buraka Som Sistema - Black Diamond (2008-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1fdc581-6f03-46a1-ac5a-cc18dfff1374/5428348641-500.jpg" data-tags="glitch-hop" role="button">
 Kraddy - Android Porn / Steppin' Razor - Single (2008-10-21)
@@ -299,9 +302,6 @@ Chase & Status - No More Idols (2011-01-28)
 </li>
 <li data-cover="https://img.discogs.com/y4XBgnPfRyJUXneW93sfjJwJt44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3354632-1336033311.jpeg.jpg" data-tags="electronic, dubstep, drum and bass, breakbeat, tetris" role="button">
 Doctor P - Tetris (2011-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/cbdb4c70-25d6-4501-b673-04ca9e1ee227/4509805320-500.jpg" data-tags="breakbeat" role="button">
-Buraka Som Sistema - Komba (2011-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)

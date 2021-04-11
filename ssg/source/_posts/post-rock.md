@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:58:01.465Z
+date: 2021-04-11T06:58:01.450Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -13,7 +13,7 @@ title: "post-rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/hTywSIGX36GrVMcBP_DkZUS9sJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269964-1235539919.jpeg.jpg" data-tags="post-rock" role="button">This Will Destroy You - Young Mountain (2005)</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Takk... (2005-08-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Explosions in the Sky - All of a Sudden I Miss Everyone (2007-02-19)</li>
-<li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)</li>
+<li data-cover="http://coverartarchive.org/release/d0625be2-7d18-4ed8-a121-352ba282bd78/3370136741-500.jpg" data-tags="post-rock" role="button">This Will Destroy You - This Will Destroy You (2008-01-29)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,9 +32,6 @@ Tortoise - Millions Now Living Will Never Die (1996-01-30)
 </li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
-</li>
-<li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
-Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
@@ -74,9 +71,6 @@ The Album Leaf - One Day I'll Be on Time (2001-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d34fe86-5e12-373e-b02b-7f4777543724/12154902728-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever (2001-08-27)
-</li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80c691b-9444-3db0-9bfe-ff08f7b23e62/11071657210-500.jpg" data-tags="post-rock" role="button">
 Mono - One Step More and You Die (2002-10-02)
@@ -150,6 +144,9 @@ toe - the book about my idle plot on a vague anxiety (2005-08-31)
 <li data-cover="https://img.discogs.com/x6SWrlbfsNYQ1w-fyD5DPOiuwpY=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699064-1599320517-4791.jpeg.jpg" data-tags="post-rock" role="button">
 Mogwai - Mr. Beast (2006-01)
 </li>
+<li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
+Gregor Samsa - 55:12 (2006-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
 </li>
@@ -168,8 +165,14 @@ Jakob - Solace (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b5559fd-2ef6-451f-ad05-c7f80d8a5f1b/9546365317-500.jpg" data-tags="post-rock" role="button">
+Moving Mountains - Pneuma (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa3740d6-5283-4d47-99ab-9837937e743c/8957154758-500.jpg" data-tags="post-rock" role="button">
 pg.lost - Yes I Am (2007-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
+Jesu - Conqueror (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/41edeb3e-bb68-3ddc-87a8-c7ed8964e730/2155282117-500.jpg" data-tags="post-rock" role="button">
 Do Make Say Think - You, You're A History In Rust (2007-02-12)
@@ -215,9 +218,6 @@ Maybeshewill - Not for Want of Trying (2008-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
 Radiohead - The Best Of (2008-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
-Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Mogwai - The Hawk is Howling (2008-08-23)

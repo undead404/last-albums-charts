@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:32:07.209Z
+date: 2021-04-11T07:39:02.170Z
 title: "glam metal: 100 albums you must listen to before you die"
 ---
 ![Mötley Crüe - Shout at the Devil (1983-09-26)](https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg "Mötley Crüe - Shout at the Devil (1983-09-26)")
@@ -105,6 +105,12 @@ Mötley Crüe - Theatre Of Pain (1985-06-21)
 <li data-cover="https://img.discogs.com/fqAGJPgwOhZR2f6l49pHNdtlY3Q=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3060454-1333002897.jpeg.jpg" data-tags="heavy metal" role="button">
 W.A.S.P. - The Last Command (1985-10)
 </li>
+<li data-cover="https://img.discogs.com/JOC80ZvnLUNbm9ETC7XqzeCwr14=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4146291-1473110674-2947.jpeg.jpg" data-tags="heavy metal, hard rock" role="button">
+Twisted Sister - Come Out And Play (1985-11-09)
+</li>
+<li data-cover="https://img.discogs.com/Plytnlkf0x0jZXfgLf4rUGWEwdE=/fit-in/312x312/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908162-1327235747.gif.jpg" data-tags="hard rock, hair metal, glam metal" role="button">
+King Kobra - Ready To Strike (1985-11-09)
+</li>
 <li data-cover="https://img.discogs.com/70lzbt4s2Zqo386vA_EqUgCdfDQ=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3692099-1340674621-4666.jpeg.jpg" data-tags="aor, glam metal, king kobra, thrill of a lifetime, woodpile" role="button">
 King Kobra - Thrill Of A Lifetime (1986)
 </li>
@@ -137,9 +143,6 @@ Def Leppard - Hysteria (1987-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c40f7ec-94ea-4e8c-a4bd-da556a6e9896/18852315057-500.jpg" data-tags="glam metal" role="button">
 Stryper - In God We Trust (1988-06-28)
-</li>
-<li data-cover="https://img.discogs.com/LIyq3NCZJ4qy0E7QG-usM6DEDi4=/fit-in/597x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9393257-1479762394-1426.jpeg.jpg" data-tags="80s, hard rock" role="button">
-Europe - Out of This World (1988-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c739cba6-9dc7-4ef6-bcc0-47cf9d68cf08/13723459826-500.jpg" data-tags="hard rock" role="button">
 Winger - Winger (1988-08-10)
@@ -216,9 +219,6 @@ Europe - Prisoners In Paradise (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/998ec18c-debb-42b1-9be2-717b47fe4ca1/2921760985-500.jpg" data-tags="hard rock" role="button">
 Def Leppard - Adrenalize (1992-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a7ed000-fb9e-4809-bbb3-2a8ac10c8de2/17573707300-500.jpg" data-tags="hard rock, glam metal" role="button">
-Firehouse - Hold Your Fire (1992-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/21f2fb1e-7da3-4dda-8c49-dbc4de61851c/13957195506-500.jpg" data-tags="hard rock, 90s, glam metal" role="button">
 Poison - Native Tongue (1993-02-16)
 </li>
@@ -233,9 +233,6 @@ Warrant - The Best of Warrant (1996-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
-</li>
-<li data-cover="https://img.discogs.com/mILUluzBR1jukmBkzybamUALaus=/fit-in/560x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5272465-1389267090-2726.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
-Mötley Crüe - Generation Swine (1997-05-25)
 </li>
 <li data-cover="https://img.discogs.com/r43wbr3V_mNGe0S-t43kD_MhehM=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2144658-1266427258.jpeg.jpg" data-tags="hard rock" role="button">
 Kiss - Psycho Circus (1998-08)
@@ -257,6 +254,9 @@ Amy Studt - False Smiles (2003-06-30)
 </li>
 <li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/64f41710-c5ed-47b4-bb02-fa694d1511ae/19868553017-500.jpg" data-tags="heavy metal, hard rock, hair metal, glam metal, sleaze rock" role="button">
+Vain - On the Line (2005-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0fc396a-b1eb-41d7-917d-943bc728a02e/19532456200-500.jpg" data-tags="hard rock, glam metal" role="button">
 Crashdïet - Rest in Sleaze (2005-08-24)
@@ -285,9 +285,6 @@ Steel Panther - Feel the Steel (2009-06-08)
 <li data-cover="http://coverartarchive.org/release/89651704-2e01-4347-91fd-9a4a2e412b3f/4019095622-500.jpg" data-tags="rock, punk, hard rock, sweden, 2000s, sleaze, glam metal, sleaze rock, halland, falkenberg, falkenberg municipality" role="button">
 Vains of Jenna - The Art of Telling Lies (2009-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c71b28a2-d8fb-4900-a5fd-81573fde7872/10315463887-500.jpg" data-tags="hard rock" role="button">
 Kiss - Sonic Boom (2009-09-09)
 </li>
@@ -308,6 +305,9 @@ Reckless Love - Animal Attraction (2011-09-12)
 </li>
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c69f297f-192f-49a8-9a49-2f8009f36f95/8660839066-500.jpg" data-tags="hard rock" role="button">
+Black Veil Brides - Rebels (2011-12-13)
 </li>
 <li data-cover="https://img.discogs.com/ZdWgpjuKVYtVRXBl3oQqDxFczMc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3840189-1522713684-8376.png.jpg" data-tags="hard rock" role="button">
 The Darkness - Hot Cakes (2012-08-12)

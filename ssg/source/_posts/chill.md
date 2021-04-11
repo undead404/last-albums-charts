@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:58:01.420Z
+date: 2021-04-11T07:07:06.990Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -39,9 +39,6 @@ Tosca - Fuck Dub (1997-09-05)
 <li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
 Alpha - Come From Heaven (1997-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/23ff4315-ccce-440d-9711-3f82daf14d70/8147555706-500.jpg" data-tags="ambient, psychedelic" role="button">
-Celtic Cross - Hicksville (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
@@ -80,6 +77,9 @@ Télépopmusik - Genetic World (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f58e4f08-9204-4898-b0d2-69fe5367e602/16928251797-500.jpg" data-tags="chillout, trip-hop" role="button">
 Waldeck - The Night Garden (2001-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/6018533d-2cc6-42e4-9a10-fab945f8c5fe/4412087433-500.jpg" data-tags="ukulele, iz" role="button">
+Israel Kamakawiwo'ole - Alone In IZ World (2001-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
@@ -195,6 +195,9 @@ The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Dreams (2006-04-27)
 </li>
+<li data-cover="https://img.discogs.com/lguPJnH5Khsos0mzOgWcCCf7UKU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648501-1445894176-6010.jpeg.jpg" data-tags="chill, reggae, dub, drinking, summer music, good to smoke to" role="button">
+Rebelution - Rebelution (2006-05-04)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
 </li>
@@ -216,8 +219,8 @@ Faithless - To All New Arrivals (2006-11-27)
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
 </li>
-<li data-cover="https://img.discogs.com/lwkGNhHJvvJVL1mkDqV5DD_js8g=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065389-1189602288.jpeg.jpg" data-tags="surf, australian" role="button">
-Xavier Rudd - White Moth (2007-06-02)
+<li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
+Bassnectar - Underground Communication (2007-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
@@ -227,6 +230,9 @@ Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/KR2icblwxBD7a9YMMOR8JUAkRNk=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3742890-1342555718-8961.jpeg.jpg" data-tags="flying upside down" role="button">
 Griffin House - Flying Upside Down (2007-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a4cb291-8de3-47af-8183-605f1576311a/10068010974-500.jpg" data-tags="nas, rap, east coast" role="button">
+Nas - Greatest Hits (2007-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
@@ -242,9 +248,6 @@ Ratatat - LP3 (2008-07-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
-</li>
-<li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
-Memory Tapes - Seek Magic (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
@@ -317,8 +320,5 @@ Noah Gundersen - Ledges (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec5aeb38-6541-4821-bd8a-9c161967f0db/7686700961-500.jpg" data-tags="electropop, chill, electro, house, icelandic, iceland, electro-pop, mp3" role="button">
-GusGus - Mexico (2014-06-14)
 </li>
 </ol>

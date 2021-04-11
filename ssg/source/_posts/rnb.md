@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:16:06.902Z
+date: 2021-04-11T07:11:01.421Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -29,9 +29,6 @@ Boyz II Men - II (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Bedtime Stories (1994-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc4ae0a1-b3f9-4e40-aec5-22c937e935f1/6412412220-500.jpg" data-tags="pop" role="button">
-Mariah Carey - Daydream (1995-09-28)
 </li>
 <li data-cover="https://img.discogs.com/MjE_fzy4x-exqUYQ2y9_OjU6SZ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7408550-1472989303-9386.jpeg.jpg" data-tags="rnb, greatest hits, 90s" role="button">
 Janet Jackson - Design of a Decade: 1986-1996 (1995-10-02)
@@ -278,6 +275,9 @@ The Weeknd - House of Balloons (2011-03-21)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc5bf983-8d0f-4d3f-81de-0bed1010e6ec/4893083093-500.jpg" data-tags="rnb" role="button">
+The Weeknd - Thursday (2011-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Unbroken (2011-09-20)

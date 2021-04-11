@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:25:01.410Z
+date: 2021-04-11T06:46:06.888Z
 title: "post-metal: 100 albums you must listen to before you die"
 ---
 ![Isis - Panopticon (2004-10-19)](http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg "Isis - Panopticon (2004-10-19)")
@@ -92,9 +92,6 @@ Sólstafir - Masterpiece of Bitterness (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
 Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
-</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">
 Cult of Luna - Somewhere Along The Highway (2006-04-24)
@@ -189,6 +186,9 @@ Callisto - Providence (2009-02-18)
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 </li>
+<li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
+Amesoeurs - Amesoeurs (2009-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Altar of Plagues - White Tomb (2009-04-13)
 </li>
@@ -209,9 +209,6 @@ Ghost Brigade - Isolation Songs (2009-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
-</li>
-<li data-cover="https://img.discogs.com/5rrKYhGwc8R6cRJj2-MUYuRD_fs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683430-1537127156-3823.jpeg.jpg" data-tags="post-rock" role="button">
-Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae532ee3-e084-34cb-a3ca-9e2d97f0c4d5/20106337426-500.jpg" data-tags="sludge, post-metal" role="button">
 Fall of Efrafa - Inlé (2009-10-24)
@@ -269,6 +266,9 @@ If These Trees Could Talk - Red Forest (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a28432f-5932-4106-9534-d5e7dbf622df/2904365048-500.jpg" data-tags="post-rock" role="button">
 pg.lost - Key (2012-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/160e5dd6-a49d-4dff-aed5-fe33b52f7476/2401541724-500.jpg" data-tags="german, atmospheric black metal, post-metal, post-black metal" role="button">
+Downfall of Gaia - Suffocating In The Swarm Of Cranes (2012-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ceaa4406-4225-4e3a-89d5-8bbe69af9f47/5823934220-500.jpg" data-tags="post-metal" role="button">
 Toundra - III (2012-09-01)

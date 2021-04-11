@@ -1,12 +1,12 @@
 ---
-date: 2021-04-10T16:37:01.399Z
+date: 2021-04-11T07:35:01.938Z
 title: "sleep: 100 albums you must listen to before you die"
 ---
 ![Minus the Bear - Planet of Ice (2007-08-21)](http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg "Minus the Bear - Planet of Ice (2007-08-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/1KzRcKEpSaSINwmZ8SortQPtCL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-310805-1455278197-8020.jpeg.jpg" data-tags="ambient, new age, sleep, dream, night time, theta inducing, anesthesia" role="button">Liquid Mind - Ambience Minimus (1994)</li>
 <li data-cover="http://coverartarchive.org/release/bd48ced5-49ae-4bf9-9cab-f5e0d7bea395/17569790398-500.jpg" data-tags="electronic, glitch, basic channel, sleep, 00s, mille plateaux, over twenty minutes, why why why are you so good, emusic saved for later, 2000-luvun elektroniset klassikot" role="button">Vladislav Delay - Anima (2001-01-23)</li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">múm - Finally We are No One (2002-05-20)</li>
+<li data-cover="https://img.discogs.com/ucpS3AYj31l4N9ImWG_PDw8vJgg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956829-1465066401-8577.jpeg.jpg" data-tags="instrumental, acoustic" role="button">Kaki King - Everybody Loves You (2002)</li>
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">The Album Leaf - In A Safe Place (2004-06-22)</li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">Joshua Radin - We Were Here (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/b4612feb-3bdd-4d11-a34f-6bf400cb1f4a/15330503183-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">Ola Podrida - Ola Podrida (2007-04-06)</li>
@@ -29,9 +29,6 @@ Mississippi John Hurt - The Immortal Mississippi John Hurt (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/deb43c81-3021-4795-a2d8-20cbe3a6ce11/4317227862-500.jpg" data-tags="instrumental, progressive rock" role="button">
 Mike Oldfield - Incantations (1978-11-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
-Pieter Nooten and Michael Brook - Sleeps With The Fishes (1987-10-12)
 </li>
 <li data-cover="https://img.discogs.com/EJkJ8YJtsA2iX8wZEBLetw_jJGk=/fit-in/550x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8668912-1488009370-6640.jpeg.jpg" data-tags="sleep, healing, relaxation" role="button">
 Daniel Kobialka - When You Wish Upon A Star (1988)
@@ -60,23 +57,20 @@ Fred Frith - middle of the moment (1995)
 <li data-cover="http://coverartarchive.org/release/26a0b23d-785a-477d-96fd-1320ee1c006d/24559237348-500.jpg" data-tags="easy listening" role="button">
 Dan Gibson - Forest Piano (1996)
 </li>
+<li data-cover="https://img.discogs.com/Z7SVOkUEfAhI38aUbZVeVjur4SE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3184116-1597071115-3278.jpeg.jpg" data-tags="sleep, relaxkitti, dreadowntime" role="button">
+Hypnosis - Voices Of Tranquility (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a875d70-e6de-48ee-8d76-ca21cb4a8247/3320825593-500.jpg" data-tags="piano" role="button">
 Kevin Kern - In The Enchanted Garden (1996-01-07)
 </li>
 <li data-cover="https://img.discogs.com/0hxBFwtKfrul-0HOcdQ6NsjFFUY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34740-1297187673.jpeg.jpg" data-tags="sleep" role="button">
 Delarosa - Sleep Method Suite (1997)
 </li>
-<li data-cover="https://img.discogs.com/XNjdkPXc8aXZhKonkSZcVmpj1sg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18225-1244836978.jpeg.jpg" data-tags="ambient, post-rock" role="button">
-Labradford - Mi media naranja (1997-10-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="summer, sleep, get this" role="button">
 Suburban Tribe - Prime Time Collection (1998)
 </li>
 <li data-cover="https://img.discogs.com/9hnza2Z5HkE9467lMET2oMtCvV4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351969-1338210432-2224.jpeg.jpg" data-tags="sleep, drugs" role="button">
 Skyray - Tranquilliser (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">
-Duster - Stratosphere (1998-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/aacf8914-a4a8-46fd-b519-765eb82b594f/13460413858-500.jpg" data-tags="electronic" role="button">
 Pan•American - Pan American (1998-03-23)
@@ -143,9 +137,6 @@ Azure Ray - Burn and Shiver (2002-04-09)
 </li>
 <li data-cover="https://img.discogs.com/VRRv4VeBZN-jSObom183eoliu-k=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-74326-1472060870-6695.jpeg.jpg" data-tags="ambient" role="button">
 Biosphere - Shenzhou (2002-05)
-</li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="https://img.discogs.com/-pxiL6Ou8gLrHZcJcpjSFJwg5QQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-63755-1158794460.jpeg.jpg" data-tags="electronic, experimental, minimal, sleep" role="button">
 Motion - Dust (2002-07-02)
@@ -261,9 +252,6 @@ Ane Brun - Changing of the Seasons (2008-03-10)
 <li data-cover="http://coverartarchive.org/release/04144bd5-b872-41c8-8466-ff19ae77ef05/23715843413-500.jpg" data-tags="ambient, drone, drone ambient, visionary" role="button">
 Celer - Discourses Of The Withered (2008-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/809f306e-c89b-416d-99e4-40035889844d/4529618230-500.jpg" data-tags="ambient, ambient techno" role="button">
-The Sight Below - Glider (2008-11-11)
-</li>
 <li data-cover="https://img.discogs.com/q9dVzp7d_PyvDjfi5yUf5D4yZFc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2733165-1300330330.jpeg.jpg" data-tags="new age" role="button">
 Liquid Mind - Liquid Mind IX: Lullaby (2009-03-03)
 </li>
@@ -272,6 +260,9 @@ Julianna Barwick - Florine (2009-04-27)
 </li>
 <li data-cover="https://img.discogs.com/C7RHk2c5rCS45DMdgoAu5TzaNnI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3895452-1348410251-5295.jpeg.jpg" data-tags="ambient" role="button">
 Cluster - Qua (2009-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f51585f-c0ff-4f9a-a0fe-1b47e3161611/2121884854-500.jpg" data-tags="ambient" role="button">
+Project Divinity - Beyond (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e94bb5-7681-4489-a348-c94364910312/2121894117-500.jpg" data-tags="chillout, indie, instrumental, alternative, ambient, easy listening, new age, yoga, drone, mellow, sleep, soft, ethereal, finnish, meditation, relaxing, jamendo, meditative, relax, electronic music, inspiring, creative commons, background music, finland, spa, sleep music, beautiful music, programming music, relaxing music, finnish and streamable, jarre, study music, work music, soft music, matti paalanen, concentration, progressive ambient, relaxing ambient, yoga music, spa music, beautiful ambient, project divinity, jonn serrie, similar to mike oldfield, similar to jonn serrie, similar to vangelis, helps to concentrate" role="button">
 Project Divinity - Triosphere (2009-06-03)
@@ -303,6 +294,9 @@ Celer - Dying Star (2010-08)
 <li data-cover="http://coverartarchive.org/release/0a31c3a3-f69d-4a16-9267-b5d072615f55/22109056565-500.jpg" data-tags="post-rock" role="button">
 The World Is a Beautiful Place & I Am No Longer Afraid to Die - Formlessness (2010-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/fe3a4afd-e767-49b1-86b9-82cdab41c856/1978673949-500.jpg" data-tags="doom metal, stoner metal" role="button">
+Groan - The Sleeping Wizard (2010-10-02)
+</li>
 <li data-cover="https://img.discogs.com/Cqh9MCUyCi-rXMPs7VL_JL5pNio=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503267-1287579921.jpeg.jpg" data-tags="kranky" role="button">
 Brian McBride - The Effective Disconnect (2010-10-25)
 </li>
@@ -312,6 +306,9 @@ Sea Oleena - Sleeplessness (2011-04-13)
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/3a307fd4-0ed8-44ea-813d-99f9d86bb507/3142065230-500.jpg" data-tags="ambient, drone, sleep" role="button">
+Silencio - When I'm Gone (2012-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/f2bbe1a4-6772-44f4-9c0a-d0c67638e8a6/5259731979-500.jpg" data-tags="electronic, electronica, folk, experimental, shoegaze, psychedelic, sleep" role="button">
 Holobody - Riverhood (2012-05-22)
 </li>
@@ -320,5 +317,8 @@ Barn Owl - V (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a0f5c51-0ee6-412a-9b42-a8268eb52f00/4719617453-500.jpg" data-tags="ambient, choral" role="button">
 Julianna Barwick - Nepenthe (2013-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/04ac43b3-ad61-428f-8f3f-62a4b0c7cb3d/7115239056-500.jpg" data-tags="sleep, songs, lucas, cozified records, liquid night, songs to sleep on" role="button">
+Lucas O'Connell - Songs to Sleep On (2013-10-15)
 </li>
 </ol>

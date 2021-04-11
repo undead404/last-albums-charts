@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:24:01.406Z
+date: 2021-04-11T07:38:02.007Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -35,9 +35,6 @@ Karunesh - Secrets of Life (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/645c5d80-c673-4f92-91c0-f7b03f5c22fe/4485701379-500.jpg" data-tags="instrumental, relax, flute, relaxing, labels - real music" role="button">
 Nicholas Gunn - The Music of the Grand Canyon (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
-Adiemus - Songs of Sanctuary (1995-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
 KRS-One - KRS-One (1995-10-10)
@@ -105,9 +102,6 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/2a4d245c-f596-4ea5-91ef-0c5761b0f826/2308134752-500.jpg" data-tags="new age, ambient" role="button">
 Amethystium - Odonata (2001-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce1299dc-d33b-44b2-86cd-303bb7db9583/10962586081-500.jpg" data-tags="amidio junior, donkalifa, krica morena bela, argeu, krica morena" role="button">
-Tears for Fears - Shout: The Very Best Of Tears For Fears (2001-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
 Balligomingo - Beneath The Surface (2002-06-11)
 </li>
@@ -116,6 +110,9 @@ Andain - Summer Calling (2002-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/abb636a3-eb45-4489-a659-c6ec032c0b5a/11201614922-500.jpg" data-tags="rnb" role="button">
 Amerie - All I Have (2002-07-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="meditation" role="button">
+Deuter - Like the Wind in the Trees (2002-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
@@ -299,6 +296,9 @@ Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/e71682ab-2827-4922-914f-933c816dd27b/16155008824-500.jpg" data-tags="ambient, progressive rock" role="button">
+Devin Townsend Project - Ghost (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)

@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T03:11:01.420Z
+date: 2021-04-11T07:01:06.900Z
 title: "idm: 100 albums you must listen to before you die"
 ---
-![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
+![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)</li>
 <li data-cover="https://img.discogs.com/PwJSdezghAFKP4Bo53Xwx2T_LW0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567865-1567010804-1922.jpeg.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Richard D. James Album (1996-11-04)</li>
-<li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
+<li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">Aphex Twin - Come to Daddy (1997-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)</li>
-<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - Geogaddi (2002-02-13)</li>
+<li data-cover="http://coverartarchive.org/release/a3a96dde-8af3-3622-a936-4ac3af501e1d/9517970099-500.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Drukqs (2001-08)</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - The Campfire Headphase (2005-10-12)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">Apparat - Walls (2007-05)</li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Windowlicker (2010)</li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">Four Tet - There Is Love in You (2010-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">Radiohead - The King of Limbs (2011-02-18)</li>
@@ -30,32 +30,17 @@ AFX - Analogue Bubblebath (1991-09)
 <li data-cover="http://coverartarchive.org/release/2b20bd11-00d2-4800-baa0-d2eb05486f09/6937494644-500.jpg" data-tags="idm" role="button">
 Polygon Window - Surfing on Sine Waves (1992)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
-Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
-</li>
 <li data-cover="https://img.discogs.com/fofGJOhGSq117rY1a869V0R3-mY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719-1341379129-7547.jpeg.jpg" data-tags="ambient, idm, electronica" role="button">
 Amorphous Androgynous - Tales of Ephidrina (1993-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e33730ce-6791-4e2e-aa4d-9b190ec39fdb/2575518065-500.jpg" data-tags="idm" role="button">
 Aphex Twin - On (1993-11-15)
 </li>
-<li data-cover="https://img.discogs.com/TZMmffcLpFCwgYJTAuXQN5gwVg0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1195788-1269360598.jpeg.jpg" data-tags="idm" role="button">
-Autechre - Incunabula (1993-11-29)
-</li>
-<li data-cover="https://img.discogs.com/sK9h1adOTnPeoHrXq6lYf-F9k-8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51735-1144213857.jpeg.jpg" data-tags="idm, ambient" role="button">
-Autechre - Amber (1994-11-07)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
 Aphex Twin - Classics (1994-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/49e04615-eb8d-3a81-af8e-402496a33d19/4819179308-500.jpg" data-tags="idm, electronic, ambient" role="button">
 Autechre - Garbage (1995-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a15e0831-cdf6-4e2a-a51b-034c6e98972b/2575192108-500.jpg" data-tags="idm" role="button">
-Aphex Twin - Donkey Rhubarb (1995-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a95dbc6e-3066-46ea-91ed-cfb9539f0c7c/3483045674-500.jpg" data-tags="electronic, downtempo, idm, ambient" role="button">
-Boards of Canada - Twoism (1995-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8c015c8-2418-3e11-b71f-f9e391d94f6e/16619973353-500.jpg" data-tags="idm" role="button">
 Autechre - Tri Repetae (1995-11-06)
@@ -75,9 +60,6 @@ The Future Sound of London - Dead Cities (1996-10-28)
 <li data-cover="https://img.discogs.com/PwJSdezghAFKP4Bo53Xwx2T_LW0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567865-1567010804-1922.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
-<li data-cover="https://img.discogs.com/PjY9A5PEtruXS07O5ljwPzWlFb8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-236-1198510051.jpeg.jpg" data-tags="ambient" role="button">
-Boards of Canada - Hi Scores (1996-12-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/e382e9a2-8637-4781-a29b-3dac5c991899/3760547066-500.jpg" data-tags="idm" role="button">
 Autechre - Chiastic Slide (1997-02-17)
 </li>
@@ -87,20 +69,11 @@ Aphex Twin - Come to Daddy (1997-10-16)
 <li data-cover="http://coverartarchive.org/release/61d93407-3397-3dc6-a89a-1922e426432e/3157746200-500.jpg" data-tags="idm" role="button">
 Plaid - Not For Threes (1997-10-27)
 </li>
-<li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
-Boards of Canada - Music Has the Right to Children (1998-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/0709c446-e190-4dce-b469-908e51267770/4058092546-500.jpg" data-tags="electronica, idm, boards of canada, electronic, downtempo" role="button">
 Boards of Canada - Peel Session (1998-06-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, idm, boards of canada, electronic, downtempo" role="button">
-Boards of Canada - Peel Session - EP (1998-06-16)
-</li>
 <li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
 Autechre - LP5 (1998-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ba66a6d-9ac4-465f-9a9f-e4d20e0d7f4b/4219700465-500.jpg" data-tags="ambient, electronic, idm" role="button">
-Bola - Soup (1998-11-23)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
 Leftfield - Rhythm and Stealth (1999-09-15)
@@ -126,20 +99,23 @@ Plaid - Double Figure (2001-05-26)
 <li data-cover="http://coverartarchive.org/release/a3a96dde-8af3-3622-a936-4ac3af501e1d/9517970099-500.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Drukqs (2001-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/56aac611-e605-4401-bced-89f980fc3a10/11989247626-500.jpg" data-tags="idm, electronic" role="button">
+Apparat - Multifunktionsebene (2001-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/77b7f962-a391-4af6-a570-0e74159fcb1d/18808524977-500.jpg" data-tags="idm" role="button">
 Telefon Tel Aviv - Fahrenheit Fair Enough (2001-09-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
-Boards of Canada - Geogaddi (2002-02-13)
+<li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
+Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 </li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
-</li>
-<li data-cover="https://img.discogs.com/Re_vK0Y1JKoHs58TsP-e8MG5KlI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10835797-1505080162-4561.jpeg.jpg" data-tags="idm" role="button">
-Autechre - Draft 7.30 (2003-04-07)
+<li data-cover="http://coverartarchive.org/release/080639a6-91da-413e-92c5-93f568712f53/5815953470-500.jpg" data-tags="idm, ambient, electronic" role="button">
+Secede - Bye Bye Gridlock Traffic (2003-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a99b7ed9-58ca-4f67-8e89-e2f05aac907e/3551340626-500.jpg" data-tags="idm, electronic" role="button">
 Apparat - Duplex (2003-09-03)
+</li>
+<li data-cover="https://img.discogs.com/27FuOpQx6x6ynGYjGZ7jCw9emS8=/fit-in/400x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197766-001.jpg.jpg" data-tags="electronic, idm" role="button">
+Plaid - Spokes (2003-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/106bcd6a-97b6-405e-8cd2-91dcfeb37ffb/11124939055-500.jpg" data-tags="idm" role="button">
 Proem - Socially Inept (2004-01-14)
@@ -165,11 +141,17 @@ Ochre - A Midsummer Nice Dream (2004-11-29)
 <li data-cover="https://img.discogs.com/lsyG4vw3UWpE6UV-XCwqUiBGi70=/fit-in/500x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6620592-1423251240-6188.jpeg.jpg" data-tags="idm, electronic, acid, 00s" role="button">
 AFX - Analord 01 (2005-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c6b8279-a59b-40a5-a607-ad5dc1a684d0/10373912964-500.jpg" data-tags="electronic, acid, idm" role="button">
+AFX - Analord 05 (2005-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Kirlian Selections (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5af15a6-a463-455d-9308-910b1f5b99f1/1990842142-500.jpg" data-tags="idm" role="button">
 Autechre - Untilted (2005-04-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/fe6ce1a1-a9d5-48b3-bc9d-4cd557954a33/11141493728-500.jpg" data-tags="ambient" role="button">
+Secede - Tryshasla (2005-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
@@ -183,6 +165,9 @@ Boards of Canada - Trans Canada Highway (2006-05-19)
 <li data-cover="http://coverartarchive.org/release/72a39b1b-d97f-425d-8c2c-8a4d894cb804/4467708993-500.jpg" data-tags="idm" role="button">
 Ochre - Lemodie (2006-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/adff4c98-9914-4715-a675-9b61de4bd294/11700606085-500.jpg" data-tags="ambient" role="button">
+BT - This Binary Universe (2006-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/be3ee5d2-98ff-46af-bf7f-b5aafc2dbcee/5303829713-500.jpg" data-tags="idm, electronic" role="button">
 Clark - Body Riddle (2006-10-02)
 </li>
@@ -191,6 +176,9 @@ Squarepusher - Hello Everything (2006-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/278756b2-edfe-48b6-b282-c42cbd3e3a13/2013202913-500.jpg" data-tags="instrumental, experimental, idm, glitch-hop" role="button">
 Nosaj Thing - Views/Octopus EP (2006-11-07)
+</li>
+<li data-cover="https://img.discogs.com/RyZjoS54hx_LQs6NjEcmsquUpjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17534146-1613998196-8031.jpeg.jpg" data-tags="idm" role="button">
+Christ. - Blue Shift Emissions (2007-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
 Amon Tobin - Foley Room (2007-02-26)
@@ -201,6 +189,9 @@ Apparat - Walls (2007-05)
 <li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">
 Mujuice - Cool Cool Death (2007-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1d2128c-436a-4584-95f5-07da18f3fba0/2573352078-500.jpg" data-tags="electronic, acid" role="button">
+The Tuss - Rushup Edge (2007-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
 </li>
@@ -210,11 +201,11 @@ Autechre - Quaristice (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)
 </li>
+<li data-cover="https://img.discogs.com/IbMuPSU7awPxdRyUdt_Nl1rAHlg=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225596-1329953361.jpeg.jpg" data-tags="ambient, downtempo" role="button">
+Subheim - Approach (2008-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
 Helios - Caesura (2008-08-12)
-</li>
-<li data-cover="https://img.discogs.com/-gs0xEDzpwdTmd7s1x6rgHbHG6I=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2064382-1336321550.jpeg.jpg" data-tags="idm" role="button">
-Kodomo - Still Life (2008-10-07)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
@@ -224,6 +215,9 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
+Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
@@ -252,6 +246,9 @@ Mount Kimbie - Crooks & Lovers (2010-07-19)
 <li data-cover="http://coverartarchive.org/release/c547c7b0-89e3-4cee-ab5b-bba5e84cf3a9/10423561471-500.jpg" data-tags="idm, ambient house, 7 out of 10, achieving interstellar travel through tapes" role="button">
 Aes Dana - Perimeters (2011-01-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
+Nicolas Jaar - Space Is Only Noise (2011-01-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
@@ -264,6 +261,9 @@ The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
 <li data-cover="http://coverartarchive.org/release/8d444b3e-9171-419f-8a28-594eb4202b9a/3738107049-500.jpg" data-tags="hip hop, ambient, idm, synth-pop" role="button">
 Giraffage - Comfort (2011-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/04388a4a-4861-4129-aed7-f72257a46215/27851840371-500.jpg" data-tags="idm" role="button">
+The Flashbulb - Opus At The End Of Everything (2012-02-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
@@ -272,6 +272,9 @@ Actress - R.I.P. (2012-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/227c2635-f1c6-45e5-85d9-b5ed04c1a991/2260390817-500.jpg" data-tags="idm, 2012 favourite albums" role="button">
 Christian Löffler - A Forest (2012-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e7e2495-b424-4c11-bb65-7d5c9093878e/3537787498-500.jpg" data-tags="experimental, downtempo, idm, glitch-hop, title is imperative" role="button">
+Groundislava - Feel Me (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc920d5-b0e6-4982-8c63-9301140efd7d/3668346734-500.jpg" data-tags="glitch, idm" role="button">
 Trifonic - Ninth Wave (2012-11-12)
@@ -294,11 +297,11 @@ Evenings - Yore (2013-04-16)
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad249aa2-bf79-4042-8a49-ae10547203d9/4332528130-500.jpg" data-tags="ambient, idm" role="button">
-Boards of Canada - Tomorrow's Harvest (2013-06-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
+</li>
+<li data-cover="https://img.discogs.com/_17X3gO1kUCtordXcZf1SY67o1U=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4948955-1383656910-5443.jpeg.jpg" data-tags="vaporwave, electronic" role="button">
+Oneohtrix Point Never - R Plus Seven (2013-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/517341f6-7289-4817-be47-a81eea4d54f1/6401015519-500.jpg" data-tags="idm, electronic, ninja tune, vaporwave" role="button">
 Actress - Ghettoville (2014-01-01)
@@ -317,8 +320,5 @@ Aphex Twin - Syro (2014-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/54471c6f-f3be-4c52-9868-6a253afc0185/11060604035-500.jpg" data-tags="experimental, idm, glitch" role="button">
 Arca - Xen (2014-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
-Andy Stott - Faith In Strangers (2014-11-17)
 </li>
 </ol>

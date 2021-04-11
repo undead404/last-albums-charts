@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:39:01.449Z
+date: 2021-04-11T06:53:01.425Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/c5470b73-b208-4f26-97d7-a6d8f50921ed/2236356187-500.jpg" data-tags="hip-hop, 80s" role="button">
+Beastie Boys - Paul's Boutique (1989-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
@@ -152,9 +155,6 @@ The Roots - The Tipping Point (2004-07-12)
 </li>
 <li data-cover="https://img.discogs.com/4py4xiK0UiIC3_z0rrt5exFOY2I=/fit-in/352x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378450-1173002498.jpeg.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - The Beautiful Struggle (2004-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
-Eminem - Encore (2004-11-12)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)

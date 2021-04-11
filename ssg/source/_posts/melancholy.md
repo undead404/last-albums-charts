@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:26:01.415Z
+date: 2021-04-11T07:40:02.498Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -38,6 +38,12 @@ Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
+</li>
+<li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
+Manic Street Preachers - The Holy Bible (1994-08-29)
+</li>
+<li data-cover="https://img.discogs.com/SqSRvdU8Kh4fcRIL4UA4-99M2SQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326827-1417759630-8193.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
+Tiamat - Wildhoney (1994-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
@@ -107,9 +113,6 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/b896e218-6dbe-4d2c-9d12-0234b24d429a/24486264397-500.jpg" data-tags="alt-country" role="button">
-Whiskeytown - Pneumonia (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
@@ -272,9 +275,6 @@ Wild Nothing - Gemini (2010-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b970bb34-96bd-4cce-8e63-d7cf0f7a36f2/27689058661-500.jpg" data-tags="folk, singer-songwriter, melancholy" role="button">
 Sun Kil Moon - Admiral Fell Promises (2010-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a50be67-15c9-43c4-ae87-9cac28fffe39/5660502401-500.jpg" data-tags="shoegaze" role="button">
-True Widow - As High as the Highest Heavens and From the Center to the Circumference of the Earth (2011-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3282de09-0297-3a37-83f8-f2d5588da1ff/7897264083-500.jpg" data-tags="rock, alternative" role="button">
 Manchester Orchestra - Simple Math (2011-05-06)

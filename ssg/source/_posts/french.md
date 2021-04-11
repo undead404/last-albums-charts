@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:52:01.414Z
+date: 2021-04-11T06:51:01.416Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -44,9 +44,6 @@ Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb844a4d-c02f-3199-b949-1656b36722da/8145217760-500.jpg" data-tags="house" role="button">
 Cassius - 1999 (1999-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
-Sergent Garcia - Un Poquito Quema'o (1999-02-22)
 </li>
 <li data-cover="https://img.discogs.com/m0h-UlKMG1DTrfC9qJsW9goHTaQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-843503-1565081194-5414.jpeg.jpg" data-tags="french, rock" role="button">
 Saez - Jours Etranges (1999-10-25)
@@ -135,9 +132,6 @@ Superbus - Pop'N'Gum (2004-06)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e52d813e-fb39-44f2-9a18-863914326fe6/5419927411-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Keren Ann - Nolita (2004-12-21)
-</li>
 <li data-cover="https://img.discogs.com/MGPDbH-ahnTs2ettL-wVTmOPuXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9401145-1479911459-2505.jpeg.jpg" data-tags="french" role="button">
 Camille - Le Fil (2005-02-14)
 </li>
@@ -186,8 +180,14 @@ Air - Pocket Symphony (2006-12)
 <li data-cover="http://coverartarchive.org/release/dc4d4a96-ce43-4943-b842-fa2fd8f056eb/3296666852-500.jpg" data-tags="french" role="button">
 Dionysos - Monsters In Love (2007-01-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4eb146a-b25b-4745-ad95-66d955f18add/2461265563-500.jpg" data-tags="rock" role="button">
+Aaron - Artificial Animals Riding on Neverland (2007-01-29)
+</li>
 <li data-cover="https://img.discogs.com/M5XoAihsoC5sX0_DB5py0UhnGug=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1569471-1507134506-2210.jpeg.jpg" data-tags="french, rock francais" role="button">
 BB Brunes - Blonde Comme Moi (2007-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/310d7d17-1d46-3199-a88b-f6e4dc850d66/2220639868-500.jpg" data-tags="trip-hop" role="button">
+Wax Tailor - Hope & Sorrow (2007-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc2e7457-8423-4d59-90a6-32857c4a2734/15454232486-500.jpg" data-tags="french, french pop" role="button">
 Christophe Willem - Inventaire (2007-04-16)

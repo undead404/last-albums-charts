@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:10:01.440Z
+date: 2021-04-11T07:21:01.406Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -30,8 +30,14 @@ Elton John - Honky Château (1972-05-19)
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
 </li>
+<li data-cover="https://img.discogs.com/YsbfqGhG-z2cojJlJl5FA33OmwQ=/fit-in/320x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3793466-1344646886-5124.jpeg.jpg" data-tags="classic rock, rock, alternative rock, progressive rock, guitar, blues rock, singer songwriter, song noir, boz scaggs, marco, johnny bristol, hymalbums" role="button">
+Boz Scaggs - Slow Dancer (1974)
+</li>
 <li data-cover="https://img.discogs.com/pwYkgjsZh6pen0l0vTbJbx-SGkI=/fit-in/299x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067643-1334765613.jpeg.jpg" data-tags="singer songwriter" role="button">
 Todd Rundgren - Todd (1974)
+</li>
+<li data-cover="https://img.discogs.com/ZkqBhbgY0jNz1NTx8p3vUDEtIOg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8749376-1476118070-7272.jpeg.jpg" data-tags="rock, rock opera" role="button">
+The Kinks - Soap Opera (1975-04-25)
 </li>
 <li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="classic rock, 70s" role="button">
 The Rolling Stones - Made In The Shade (1975-06-13)
@@ -87,12 +93,6 @@ Beck - One Foot In The Grave (1994-06-27)
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
 </li>
-<li data-cover="https://img.discogs.com/DU8d9eSCI6hG0tDZrPsmn8Clv8k=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-723654-1375426638-5194.jpeg.jpg" data-tags="pop, 70s" role="button">
-Captain & Tennille - Love Will Keep Us Together (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/9609250b-9cfc-3d8b-bc38-ce0213d1f512/6313419411-500.jpg" data-tags="pop, female vocalists, 90s" role="button">
-Amanda Marshall - Amanda Marshall (1995-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
 Lou Reed - Set The Twilight Reeling (1996-02-20)
 </li>
@@ -108,6 +108,9 @@ Boz Scaggs - Come On Home (1997-04-08)
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
 </li>
+<li data-cover="https://img.discogs.com/mifGqo1kQ4cCmWQRifPqedoGpc0=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14620067-1578320532-7937.jpeg.jpg" data-tags="soundtrack, classic rock, oldies" role="button">
+Blue Swede - The Golden Classics of Blue Swede (1998-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
@@ -120,11 +123,8 @@ Warren Zevon - Life'll Kill Ya (2000-01-25)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
-<li data-cover="https://img.discogs.com/O9mFNNhXNljFykJOOHFWUQrBBBE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13228821-1550343229-9653.jpeg.jpg" data-tags="folk, indie folk, sufjan stevens, singer-songwriter, 00s" role="button">
-Sufjan Stevens - A Sun Came! (2000-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a5455bd-8ce7-40ef-be1f-79bd771018fb/26214109741-500.jpg" data-tags="acid house" role="button">
-Alabama 3 - La Peste (2000-10-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Hawksley Workman - (Last Night We Were) The Delicious Wolves (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
 Sondre Lerche - Faces Down (2001-09-10)
@@ -132,23 +132,20 @@ Sondre Lerche - Faces Down (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/028d05bb-0b07-4dfc-a7a6-86b79694a6f5/2364676070-500.jpg" data-tags="rock" role="button">
-Sam Roberts - We Were Born In A Flame (2003-06-03)
-</li>
 <li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
 </li>
 <li data-cover="https://img.discogs.com/bY10RFNvAACh8D1BqP5ApgOQiho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2232010-1518455778-2565.jpeg.jpg" data-tags="electronic, indie" role="button">
 Patrick Wolf - Lycanthropy (2003-07-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/265da9ab-a9b1-4362-af6f-24cc0770539f/10954310724-500.jpg" data-tags="rock" role="button">
+Peter Frampton - Now (2003-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/e318e125-53a5-42ec-987b-3b05aa46b325/14141866528-500.jpg" data-tags="rock" role="button">
 Warren Zevon - The Wind (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/62010681-0670-4261-9149-d2d86a83d28b/15850637628-500.jpg" data-tags="alternative rock" role="button">
 Hawksley Workman - Lover/Fighter (2003-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/8472ac8d-284a-3504-8e36-7e1456f54f0a/18885750436-500.jpg" data-tags="world, latin" role="button">
-Lhasa - The Living Road (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf2f95e0-9915-4346-8c9c-2a386784ce1b/10349051636-500.jpg" data-tags="indie rock, singer songwriter" role="button">
 Carina Round - The Disconnection (2004-01-01)
@@ -186,8 +183,14 @@ Johnny Cash - The Essential Johnny Cash (2006)
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
 </li>
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="indie rock, rock, british, alternative rock, brit pop, indie, alternative, britpop, manchester, english, pop rock, unsigned, brit-pop, uk indie, british indie, manchester music" role="button">
+Colours Run - Doghouse Demo (2006-02-11)
+</li>
 <li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
 Steve Adey - All Things Real (2006-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/c81d1401-0cdf-4fed-9978-def03b67e6ee/21213491147-500.jpg" data-tags="rock, alternative rock, progressive rock, guitar, singer songwriter, song noir, the devil and the deep blue sea, just another folk singer, the merch grrls" role="button">
+Tim Easton - Ammunition (2006-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
 Vienna Teng - Dreaming Through The Noise (2006-07-25)
@@ -203,9 +206,6 @@ Kendall Payne - Paper Skin (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">
 Deer Tick - War Elephant (2007)
-</li>
-<li data-cover="https://img.discogs.com/hLBq-Nmm040vEWoyAIKOidats1o=/fit-in/454x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608369-1231930638.jpeg.jpg" data-tags="folktronica, electronica" role="button">
-James Yuill - Turning Down Water For Air (2007-02-26)
 </li>
 <li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
 Dungen - Tio Bitar (2007-04-23)

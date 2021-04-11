@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:28:01.495Z
+date: 2021-04-11T06:59:01.407Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -30,9 +30,6 @@ Echo & the Bunnymen - Ocean Rain (1984-05-04)
 <li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
 Spacemen 3 - The Perfect Prescription (1987)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e03f232-6c10-490e-9a95-7fd72cc52bfb/24592123891-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Spacemen 3 - Taking Drugs To Make Music To Take Drugs To (1990)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
@@ -41,9 +38,6 @@ Mercury Rev - Yerself Is Steam (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/5834ce7b-007f-4e47-84bb-b4b66a6bdabf/4454840771-500.jpg" data-tags="britpop, alternative rock, 90s" role="button">
 Blur - Leisure (1991-08-26)
-</li>
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
@@ -95,6 +89,9 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba2f329-e4c3-3410-bffd-5172f2aae8f8/23645786082-500.jpg" data-tags="indie" role="button">
 The Coral - The Coral (2002-07-29)
+</li>
+<li data-cover="https://img.discogs.com/yegoHtYjwT1kM1KOsxZwsN1u-kI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-421989-1559901904-4868.jpeg.jpg" data-tags="alternative rock" role="button">
+Zwan - Mary Star of the Sea (2003-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
@@ -233,6 +230,9 @@ Beach House - Bloom (2012-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3504f670-3ee5-4954-b8e1-a6cb28b5af02/11904296141-500.jpg" data-tags="drone, psychedelic rock, 10s, neo-psychedelia, 2012 releases, raga rock" role="button">
 The Brian Jonestown Massacre - Aufheben (2012-05-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
+Animal Collective - Honeycomb / Gotham (2012-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)
