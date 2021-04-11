@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:23:01.421Z
+date: 2021-04-11T09:40:01.723Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -102,14 +102,8 @@ The Beatles - Love Songs (1977-11-19)
 <li data-cover="http://coverartarchive.org/release/e5ef6cd9-d078-4435-b005-2f4ee6d44d61/1507872034-500.jpg" data-tags="rock" role="button">
 The Beatles - The Beatles (1978)
 </li>
-<li data-cover="https://img.discogs.com/_Y-d56JUMvZJgxDuftfr0y4SsMU=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450570-1172752373.jpeg.jpg" data-tags="british" role="button">
-The Rutles - The Rutles (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fde009c-c33b-3379-91ba-67dcfe6f8f68/6674918603-500.jpg" data-tags="classic rock, 60s" role="button">
 The Beatles - Rarities (1978-11-02)
-</li>
-<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
-Wings - Wings Greatest (1978-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
 Wings - Back To The Egg (1979-05-24)
@@ -134,6 +128,9 @@ The Beatles - Ain't She Sweet (1984-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca0d25-cce8-4366-93af-14262426054f/9053370792-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Decca Tapes (1986-03-01)
+</li>
+<li data-cover="https://img.discogs.com/1VC6ZDjLrlY6SspXPc7PtqLic30=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11155735-1531057392-7320.jpeg.jpg" data-tags="early tapes" role="button">
+The Beatles - The Original Decca Tapes & Cavern Club Rehearsals (1986-03-01)
 </li>
 <li data-cover="https://img.discogs.com/Nv-GmLdY8bncIYX81FWsbO_N62Q=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7075071-1433112075-6405.jpeg.jpg" data-tags="the beatles, harrison" role="button">
 George Harrison - Acetates and Alternates (1987)
@@ -177,8 +174,14 @@ The Beatles - Unplugged (1995)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - Free as a Bird (1995-07-04)
 </li>
+<li data-cover="https://img.discogs.com/M8jS6uqeEeEgbwpMblcRuvziARw=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9485834-1481403892-6410.jpeg.jpg" data-tags="the beatles" role="button">
+Sesame Street - Sesame Road (1995-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/93920277-bb3f-4944-a33a-b4a48ee3f7e6/12052993672-500.jpg" data-tags="classic rock, 60s, beatles" role="button">
 The Beatles - Anthology 1 (1995-11-21)
+</li>
+<li data-cover="https://img.discogs.com/nzEysiBS_PQWxkz5Qs_Lhm5Us-8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4102249-1365983980-6470.jpeg.jpg" data-tags="the beatles" role="button">
+The Pete Best Combo - Beyond The Beatles 1964-66 (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aedd180-b1b4-4e4e-a929-1e924eb38aba/4327371891-500.jpg" data-tags="spanish, rock" role="button">
 Mar de Copas - III (1997)
@@ -194,9 +197,6 @@ George Martin - In My Life (1998-03-23)
 </li>
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a55a759b-703d-434a-b5ee-8ba457ccf6db/21353003827-500.jpg" data-tags="the simpsons" role="button">
-The Simpsons - The Yellow Album (1998-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b169db9-a9ae-4e76-a8dd-118c2fe4d0e3/4327398469-500.jpg" data-tags="mar de copas" role="button">
 Mar de Copas - Suna (1999)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:29:01.400Z
+date: 2021-04-11T08:59:07.011Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -36,6 +36,9 @@ Jo Stafford - The Columbia Hits Collection (1981)
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">
 Scandal - Scandal (1982)
 </li>
+<li data-cover="http://coverartarchive.org/release/0fc0ba82-f6a7-4080-84e8-941689385b2a/14092853214-500.jpg" data-tags="female vocalists, jazz" role="button">
+Patti Page - Patti Page's Greatest Hits (1990)
+</li>
 <li data-cover="https://img.discogs.com/L36s7FfcUjt4z9sprCNg4wtkERI=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994424-1431254085-4903.jpeg.jpg" data-tags="soundtrack" role="button">
 Judy Garland - The London Sessions (1992)
 </li>
@@ -44,6 +47,9 @@ Sandie Shaw - All The Hits: The Ultimate Collection (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/05476d4f-fb3f-40c8-897b-48a55c3258b7/19581159677-500.jpg" data-tags="pop, dance, female vocalists" role="button">
+Christina Aguilera - Just Be Free (2000-05-08)
 </li>
 <li data-cover="https://img.discogs.com/wU2W5xzm5Gc3jcY1Mv_D3F9ZWNE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13065895-1547437219-9044.jpeg.jpg" data-tags="female vocalists" role="button">
 Indigo Girls - Retrospective (2000-10-03)
@@ -66,17 +72,14 @@ Masha Qrella - Luck (2002-09-16)
 <li data-cover="http://coverartarchive.org/release/4b32b8a8-01a4-4f30-993c-13835fbf841d/13383637435-500.jpg" data-tags="female vocalists, girls, sex, euro trance, girl, god, sexy album covers, groove coverage, god is a girl" role="button">
 Groove Coverage - God Is A Girl (2002-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/248c3bb0-f8dd-4898-a657-b008381a68f8/5682796712-500.jpg" data-tags="electronic, electropop, japanese, female vocalists, cute, girls, jpop, asian, j-pop, electro-pop, girl band, girl group, girl groups, group, girlband, idol, yasutaka nakata, asian music, asian pop, cute jpop" role="button">
-Perfume - モノクロームエフェクト (2004-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
 Charlotte Martin - On Your Shore (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/880db61c-d665-4fa4-9c0b-f5a6e1f7f216/11122787104-500.jpg" data-tags="indie, rock, indie rock, girls, great ep" role="button">
 Magneta Lane - The Constant Lover (2004-10-05)
 </li>
-<li data-cover="https://img.discogs.com/K3VOhK0MFelMveTlj7fo5oHmjXU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710983-1150602556.jpeg.jpg" data-tags="female vocalist, showtunes, broadway, k chenoweth" role="button">
-Kristin Chenoweth - As I Am (2005-03-28)
+<li data-cover="http://coverartarchive.org/release/05f4b678-b62e-43aa-bc1c-80812f58e6d5/2060428212-500.jpg" data-tags="hip-hop, japanese, female vocalists, girls, jpop, asian, duo, j-pop, girl band, girl group, girl groups, group, girlband, asian music, asian pop" role="button">
+BENNIE K - Dreamland (2005-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3c617b-06af-4fa0-9f56-4f6ac896b2c2/20852828756-500.jpg" data-tags="hip hop, rap, funk, girls, fun, sugar, girl band, slam, girl rap, throw down, home rotation, saturday night hiphop" role="button">
 Yo Majesty - Yo EP (2006)
@@ -93,14 +96,8 @@ Ingrid Michaelson - Girls and Boys (2006-05-16)
 <li data-cover="http://coverartarchive.org/release/415b68c0-e326-4c26-829d-bdd620e5f722/1330751900-500.jpg" data-tags="french, girls, rx, 60er, bilititas, objectum-sexualis, nichopoulooza, os group, mes chansons, tag auditions, vartan" role="button">
 Sylvie Vartan - Nouvelle Vague (2007-07-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/6333b9ef-f66f-4d74-ada4-f1a18eb9c787/4407018207-500.jpg" data-tags="japanese, techno, j-pop" role="button">
-Perfume - ポリリズム (2007-09-12)
-</li>
 <li data-cover="https://img.discogs.com/iKQ40GJJfP-1o-wBdNSSEKHeQZ8=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838307-1303338556.jpeg.jpg" data-tags="rnb" role="button">
 Nicole Scherzinger - Puakenikeni (2007-12-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
-Perfume - GAME (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a82ab6d3-ebad-49eb-8be4-a9d92e6f54bb/1542723631-500.jpg" data-tags="snsd, korean, k-pop, kpop" role="button">
 소녀시대 - Gee (2009-01-05)
@@ -138,9 +135,6 @@ Kalafina - 輝く空の静寂には (2010-09-15)
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="party" role="button">
 P!nk - Raise Your Glass (2010-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/85a498af-d30d-40d4-b8f8-6145859141e3/2920654146-500.jpg" data-tags="j-pop" role="button">
-ClariS - irony (2010-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 Perfume - ねぇ (2010-11-10)
 </li>
@@ -159,6 +153,9 @@ Beyoncé - Run The World (Girls) (2011-04-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 東京女子流 - 鼓動の秘密 (2011-05-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, asian, anime, j-pop, seiyuu, girl band, girl group, girl groups, group, girlband, asian music, asian pop, voice actress" role="button">
+スフィア - Hazy (2011-05-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/a720a3f4-a3c7-401f-abdd-2135f0c6dd98/6184121751-500.jpg" data-tags="j-pop, idol" role="button">
 ももいろクローバーZ - バトル アンド ロマンス (2011-07-27)
 </li>
@@ -168,23 +165,17 @@ RO-KYU-BU! - SHOOT! (2011-08-17)
 <li data-cover="http://coverartarchive.org/release/fbe23b3a-eaf2-4c2b-a276-f02f721f7ea6/24333484420-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, idol, akb48, asian music, asian pop" role="button">
 AKB48 - フライングゲット (2011-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5db2b306-bcec-4781-b4fb-66bced1e6459/2928890778-500.jpg" data-tags="anime, j-pop" role="button">
-ClariS - nexus (2011-09-14)
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, cute, girls, jpop, seiyuu, girl band, girl group, girl groups, girlband, idol, kawaii, moe, asian pop, kawaiicore, voice actress" role="button">
+ゆいかおり - Puppy (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f978502e-6940-4f54-8e6b-c4bb7d6eeca1/7457150585-500.jpg" data-tags="k-pop, snsd" role="button">
 Girls' Generation - The Boys (2011-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/93c9676d-5648-475d-8d76-190c9faf69e9/4183552211-500.jpg" data-tags="j-pop" role="button">
-Perfume - スパイス (2011-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6349254-8a42-4797-9748-b3de6625bf63/26283470550-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 SKE48 - オキドキ (2011-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfbf8d11-87fa-4ffc-8fb2-bb251fda3999/6190880306-500.jpg" data-tags="japanese, christmas, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 ももいろクローバーZ - 労働讃歌 (2011-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
-Perfume - JPN (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d187f6e4-9e17-4f7c-8d4f-aba4ebda4c02/24330266380-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, akb48, asian music, asian pop" role="button">
 AKB48 - 上からマリコ (2011-12-07)
@@ -204,17 +195,14 @@ Scandal - Harukaze (2012-02-22)
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - Scandal Show (2012-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/8e68e56d-0e5e-4c68-a49d-36d4285379ac/5230794935-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+9nine - 9nine (2012-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a3daf8a-6d4e-4b8b-9110-e299a3f86771/6191046645-500.jpg" data-tags="j-pop, idol" role="button">
 ももいろクローバーZ - 猛烈宇宙交響曲・第七楽章「無限の愛」 (2012-03-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 東京女子流 - Limited addiction (2012-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf/2928978635-500.jpg" data-tags="j-pop" role="button">
-ClariS - Birthday (2012-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/014a2f6b-5eb1-4887-9128-2fc77fb806f2/4183482084-500.jpg" data-tags="j-pop" role="button">
-Perfume - Spring of Life (2012-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2436359b-73fe-4747-8788-6cf500606c2f/15714368431-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 Kalafina - to the beginning (2012-04-18)
@@ -231,8 +219,8 @@ BABYMETAL - ヘドバンギャー!! (2012-07-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 桃黒亭一門 - ニッポン笑顔百景 (2012-08-01)
 </li>
-<li data-cover="https://img.discogs.com/i9PmZdilGSz5Jzv4VY91XG_9mO0=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3911980-1348981179-6719.jpeg.jpg" data-tags="j-pop" role="button">
-Perfume - Spending all my time (2012-08-15)
+<li data-cover="http://coverartarchive.org/release/0645d89b-6a0b-42e1-988b-9adef784f365/24570450361-500.jpg" data-tags="akb48" role="button">
+AKB48 - 1830m (2012-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7729c062-2f0b-497d-88f2-49723b85fab0/5201904852-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 Kalafina - ひかりふる (2012-10-24)
@@ -258,6 +246,12 @@ Kalafina - Consolation (2013-03-20)
 <li data-cover="http://coverartarchive.org/release/f08fd386-a01d-453e-83aa-033ed90d7d47/6184320768-500.jpg" data-tags="j-pop" role="button">
 ももいろクローバーZ - 5TH DIMENSION (2013-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3eef56b-a2fb-4973-9d45-536a246d8455/15983778489-500.jpg" data-tags="j-pop" role="button">
+ClariS - reunion (2013-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/fedb5f7a-926f-4b8d-92c3-f54cb284cfcc/6184436709-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+ももいろクローバー - 入口のない出口 (2013-06-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/85167333-2e3d-4bb8-b83e-402dfb4ffaa8/24071620722-500.jpg" data-tags="pop" role="button">
 Kelly Rowland - Talk a Good Game (2013-06-18)
 </li>
@@ -279,11 +273,11 @@ Scandal - STANDARD (2013-10-02)
 <li data-cover="http://coverartarchive.org/release/59e4d76b-649d-4e2f-8f01-3071a1cb4700/17546920743-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 ClariS - カラフル (2013-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/fac4f0ba-9494-4a0e-8f87-c363f6dd584a/17763243619-500.jpg" data-tags="jpop, j-pop" role="button">
+Kalafina - 君の銀の庭 (2013-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/e66e82a0-90c2-47bb-a92e-4e5f4d60a35b/5909336594-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 ももいろクローバーZ - GOUNN (2013-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/109d1943-05a6-4f22-8970-1d2f666f7965/5514267186-500.jpg" data-tags="j-pop" role="button">
-Perfume - Sweet Refrain (2013-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ace97754-a59e-4119-b5b3-fec0e58ef3fe/15744423857-500.jpg" data-tags="j-pop, idol" role="button">
 でんぱ組.inc - WORLD WIDE DEMPA (2013-12-11)
@@ -312,13 +306,19 @@ especia - GUSTO (2014-05-28)
 <li data-cover="http://coverartarchive.org/release/91ca4a2c-46ea-40df-b5fd-68d6b7d9c825/17546809913-500.jpg" data-tags="electropop, japanese, female vocalists, jpop" role="button">
 ClariS - PARTY TIME (2014-06-04)
 </li>
-<li data-cover="https://img.discogs.com/2O8L0YqBEhOMkn29Xg2_H-MVJe0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9080986-1474430645-1315.jpeg.jpg" data-tags="j-pop" role="button">
-Perfume - Cling Cling (2014-07-02)
+<li data-cover="http://coverartarchive.org/release/b866fda9-5230-40ad-bee4-0883b5960ad3/7926924007-500.jpg" data-tags="japanese, girls, jpop, anime, j-pop, sailor moon, girl band, girl group, girl groups, girlband, idol, asian pop, terrible singer, terrible vocalists, terrible singers, worst japanese music" role="button">
+ももいろクローバーZ - MOON PRIDE (2014-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c14d70b-cf86-4082-b726-ce6212744ac9/8204261251-500.jpg" data-tags="japanese, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 Kalafina - heavenly blue (2014-08-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/f4d1c924-cfc0-4009-8709-ef28e190431e/28377402280-500.jpg" data-tags="japanese, girl group" role="button">
+Kalafina - believe (2014-11-19)
+</li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - HELLO WORLD (2014-12-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc8304be-229c-4441-af28-d24401159959/28867076326-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
+ClariS - border (2014-12-31)
 </li>
 </ol>

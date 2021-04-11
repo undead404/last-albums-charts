@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:04:01.410Z
+date: 2021-04-11T09:30:01.676Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -93,6 +93,9 @@ Wilco - Summerteeth (1999-03-09)
 <li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
 The Be Good Tanyas - Blue Horse (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
+Bright Eyes - Fevers and Mirrors (2000-03-23)
+</li>
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
 </li>
@@ -146,9 +149,6 @@ Calexico - Feast of Wire (2003-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f82a5a3-d049-3cf9-a38f-c2250b1e228d/6723481969-500.jpg" data-tags="alt-country" role="button">
 Songs: Ohia - The Magnolia Electric Co. (2003-03-04)
-</li>
-<li data-cover="https://img.discogs.com/wXWlv5OPTINy4uKy4SFJ2odC_No=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043165-1187395720.jpeg.jpg" data-tags="folk" role="button">
-The Be Good Tanyas - Chinatown (2003-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
@@ -210,9 +210,6 @@ Rhett Miller - The Believer (2006-02-28)
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/61e933ae-208d-36fe-8dbc-fa0411780514/4021935438-500.jpg" data-tags="americana" role="button">
-Calexico - Garden Ruin (2006-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
 </li>
@@ -248,6 +245,9 @@ Band of Horses - Cease to Begin (2007-10-09)
 </li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/cae64c05-0393-4356-9a91-9509cefea635/24619048157-500.jpg" data-tags="rock, alt-country" role="button">
+Woven Hand - Ten Stones (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b535058a-8f04-4815-b2a2-0749d21bb7e1/12715197370-500.jpg" data-tags="canadian" role="button">
 The Rural Alberta Advantage - Hometowns (2008-11-11)

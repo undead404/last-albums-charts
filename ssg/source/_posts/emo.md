@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:21:01.416Z
+date: 2021-04-11T08:58:12.602Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -95,9 +95,6 @@ AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
-Silverstein - When Broken Is Easily Fixed (2003-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/460b65c5-ac1b-44e1-89da-82a8ebf24d28/16615141609-500.jpg" data-tags="emo, alternative, rock" role="button">
 Armor for Sleep - Dream to Make Believe (2003-06-03)
@@ -236,6 +233,9 @@ All Time Low - Put Up or Shut Up (2006-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">
 Boys Like Girls - Boys Like Girls (2006-08-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+Sugarcult - Lights Out (2006-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)

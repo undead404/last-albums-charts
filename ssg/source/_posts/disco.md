@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:40:01.402Z
+date: 2021-04-11T09:16:06.918Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -131,6 +131,9 @@ ABBA - Gold: Greatest Hits (1992-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e9840d-562b-4fa0-b332-b8cf8501a046/5183142728-500.jpg" data-tags="80s, sandra, dance" role="button">
 Sandra - 18 Greatest Hits (1992-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f34641f-a3b0-4f28-a168-397085e54e3f/11660848788-500.jpg" data-tags="dance, eurodance" role="button">
+Haddaway - Haddaway (1993-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e628ebd-769e-4848-9aa5-5b1bcbe1cc26/28882040167-500.jpg" data-tags="dance" role="button">
 Haddaway - The Album (1993-11-23)
@@ -305,9 +308,6 @@ Robin Thicke - Blurred Lines (2013-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)
-</li>
-<li data-cover="https://img.discogs.com/Rf7xcLv4s1ZnEzT9v5a_hiMf_5E=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13298519-1581526054-7498.png.jpg" data-tags="pop" role="button">
-Justin Timberlake - The 20/20 Experience - 2 of 2 (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:30:01.477Z
+date: 2021-04-11T09:05:01.488Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -59,6 +59,9 @@ Stevie Wonder - Talking Book (1972-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d82dec3e-e077-42d4-ba4f-51b57128e19a/16046182344-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Innervisions (1973-08-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Marvin Gaye - Let's Get It On (1973-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Songs in the Key of Life (1976-09-28)
@@ -209,9 +212,6 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7b785869-0155-4977-b0b6-af733acdc008/2140091250-500.jpg" data-tags="soul" role="button">
-Mayer Hawthorne - A Strange Arrangement (2009-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a34aaf89-1aeb-31e7-847d-ec3223ccb2ff/1577578205-500.jpg" data-tags="rnb, soul" role="button">
 Alicia Keys - The Element of Freedom (2009-11-27)

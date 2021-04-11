@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:41:01.444Z
+date: 2021-04-11T09:20:01.429Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -11,7 +11,7 @@ title: "covers: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">Tori Amos - Strange Little Girls (2001-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
-<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)</li>
+<li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">Paul Anka - Rock Swings (2005-06-07)</li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">Patti Smith - Twelve (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">Cat Power - Jukebox (2008-01-18)</li>
 </ol>
@@ -33,6 +33,9 @@ Grace Jones - Portfolio (1977)
 <li data-cover="http://coverartarchive.org/release/74468206-c938-4a96-be09-5d07a5bb32d6/997337637-500.jpg" data-tags="covers" role="button">
 Los Lobos - La Bamba (1987)
 </li>
+<li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
+Bobby McFerrin - Simple Pleasures (1988-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
 Everything But the Girl - Acoustic (1992-06-02)
 </li>
@@ -41,9 +44,6 @@ Skid Row - B-Side Ourselves (1992-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
-Ramones - Acid Eaters (1993-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd2dd72-369f-4277-a199-0fc20df5b4f5/27006650765-500.jpg" data-tags="folk" role="button">
 Shawn Colvin - Cover Girl (1994-08-23)
@@ -56,6 +56,9 @@ MxPx - On The Cover (1995-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unchained (1996-11-05)
+</li>
+<li data-cover="https://img.discogs.com/f2Qs841LGickxYo-Fxbdz0qabNo=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-825161-1398740860-6475.jpeg.jpg" data-tags="misfits cover" role="button">
+Various Artists - Violent World: A Tribute To The Misfits (1997-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/771774fa-e510-4bd1-9a21-6f3f2e716ccd/16695513200-500.jpg" data-tags="punk, covers, ska punk, cover, punk covers" role="button">
 Less Than Jake - Greased (1997-11-18)
@@ -114,9 +117,6 @@ Smash Mouth - Smash Mouth (2001-11-27)
 <li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
 Jimmy Eat World - Last Christmas (2001-12-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/562b21a7-3723-465f-b60d-8360631e27d3/22199271402-500.jpg" data-tags="marilyn manson" role="button">
-Marilyn Manson - Tainted Love (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/9cdba68c-8d15-4b97-8d1e-2023509bdca9/12262547683-500.jpg" data-tags="covers" role="button">
 Joan Osborne - How Sweet It Is (2002-09-17)
 </li>
@@ -134,9 +134,6 @@ Misfits - Project 1950 (2003-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb540536-a7a0-48b8-9d67-9413bd336b65/15067372288-500.jpg" data-tags="covers" role="button">
 Cyndi Lauper - At Last (2003-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/04aac32f-c843-4f2b-b532-b4ad3d0e5e3e/3366213863-500.jpg" data-tags="folk, russian folk, fantasy" role="button">
-Мельница - Master of the Mill (2004-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4843163a-5119-469c-9639-863cd5d3a856/15495644463-500.jpg" data-tags="pop, female vocalists, covers, 00s" role="button">
 Agnetha Fältskog - My Colouring Book (2004-04-19)
@@ -174,9 +171,6 @@ Sun Kil Moon - Tiny Cities (2005-10-31)
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
-Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b2fcbdd-6fb5-40bd-ae9e-0698cce97d8f/2044947282-500.jpg" data-tags="covers, ana torroja" role="button">
 Ana Torroja - Me Cuesta Tanto Olvidarte (2006)
 </li>
@@ -207,8 +201,8 @@ Stars - Do You Trust Your Friends? (2007-05-15)
 <li data-cover="https://img.discogs.com/9Zmwat6J-bSlyq_U41G7S8MsLos=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700781-1237851517.jpeg.jpg" data-tags="deutsch, covers" role="button">
 Erdmöbel - No. 1 Hits (2007-05-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
-Northern Kings - Reborn (2007-10-29)
+<li data-cover="http://coverartarchive.org/release/d03c6f9d-a5f3-43ae-860a-5a92ad2a690e/8468336880-500.jpg" data-tags="jazz, female vocalists, smooth jazz, soul, covers" role="button">
+Queen Latifah - Trav'lin' Light (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
@@ -288,6 +282,9 @@ Glee Cast - River Deep, Mountain High (Glee Cast Version) (2010-10-12)
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c89465c6-c9f2-4cd6-bb86-6f7b4fa9015b/1742910830-500.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - Stop! In The Name Of Love / Free Your Mind (Glee Cast Version) (2010-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/1b1818f3-0e80-4a25-ae98-9511dd549255/5119794652-500.jpg" data-tags="tribute" role="button">
 Various Artists - Rave On Buddy Holly (2011-06-28)
 </li>
@@ -302,6 +299,9 @@ Clan of Xymox - Kindred Spirits (2012-10-05)
 </li>
 <li data-cover="https://img.discogs.com/3ANZe2TlHoKtfBa88Vjj-yt-O9c=/fit-in/502x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3949070-1352020656-8749.jpeg.jpg" data-tags="traditional pop, covers, standards, elo, classics, electric light orchestra, jeff lynne, long wave" role="button">
 Jeff Lynne - Long Wave (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8fb9135-ba7a-454e-a442-e3020c74ab02/6349492271-500.jpg" data-tags="covers, queens of the stone age cover" role="button">
+Olivier Libaux - Uncovered Queens of the Stone Age (2013-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
 Glee Cast - The Quarterback (2013-10-07)

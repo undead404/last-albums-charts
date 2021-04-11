@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:05:01.441Z
+date: 2021-04-11T08:49:01.446Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -51,6 +51,9 @@ The Notorious B.I.G. - Ready to Die (1994-09-13)
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
 </li>
+<li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
+Cartel - Cartel (1995)
+</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
@@ -59,12 +62,6 @@ Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
-</li>
-<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
-Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
-</li>
-<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
@@ -84,9 +81,6 @@ OutKast - ATLiens (1996-08-26)
 <li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Life After Death (1997-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
 Gang Starr - Moment Of Truth (1998-03-31)
 </li>
@@ -95,6 +89,9 @@ DMX - It's Dark And Hell Is Hot (1998-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">
+Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
@@ -159,9 +156,6 @@ Eminem - Lose Yourself (2002-10-22)
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
-Akon - Trouble (2003)
-</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
 </li>
@@ -179,6 +173,9 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/53b2c4a2-8d26-40bc-aa1e-a2eecff58096/2733321240-500.jpg" data-tags="rap, ludacris, southern rap" role="button">
+Ludacris - The Red Light District (2004-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
@@ -272,6 +269,9 @@ Wiz Khalifa - Rolling Papers (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
 Criolo - Nó Na Orelha (2011-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
+Kendrick Lamar - Section.80 (2011-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)

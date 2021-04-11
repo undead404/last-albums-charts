@@ -1,11 +1,11 @@
 ---
-date: 2021-04-11T02:08:01.404Z
+date: 2021-04-11T09:43:12.684Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">Everything But the Girl - Temperamental (2000-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">Regina Spektor - Songs (2002)</li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">Frou Frou - Details (2002-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">Beth Gibbons & Rustin Man - Out of Season (2002-10-28)</li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">Alanis Morissette - So-Called Chaos (2004-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
@@ -27,6 +27,9 @@ Grace Jones - Portfolio (1977)
 <li data-cover="https://img.discogs.com/U3i5VmBuiuo7U9Dq1vOz6cOD18A=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9331183-1514740160-7938.jpeg.jpg" data-tags="jazz" role="button">
 Jo Stafford - The Columbia Hits Collection (1981)
 </li>
+<li data-cover="https://img.discogs.com/xzFjNEgPfLtD8Hev_qhlrAGD8F0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864130-1588601217-5493.jpeg.jpg" data-tags="female vocal" role="button">
+Toyah - The Changeling (1982-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/58f38213-6016-4664-bd23-77bd4f7aafaf/3039576624-500.jpg" data-tags="dance, screamin diva" role="button">
 Grace Jones - Living My Life (1983)
 </li>
@@ -41,6 +44,9 @@ Billie Holiday - That Ole Devil Called Love (1985)
 </li>
 <li data-cover="https://img.discogs.com/IDCvj5HKq5M7q6RzHVDyqlNxo9Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-118021-1398198692-8500.jpeg.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Savage (1987-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/757f9015-6eaa-4c93-8686-9de7ccb69df9/15325901017-500.jpg" data-tags="rock" role="button">
+Kate Bush - Live at Hammersmith Odeon (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/e45add67-2c0a-4e93-b729-8a3bfc8cfd8b/24475200257-500.jpg" data-tags="jazz, female vocalists" role="button">
 Ella Fitzgerald - The Best Of The Song Books (1993-09-21)
@@ -114,9 +120,6 @@ Ani DiFranco - Revelling/Reckoning (2001-04-10)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
-</li>
 <li data-cover="https://img.discogs.com/bs-y8icVdA4CZ8bGzVY5UlPDG2g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767510-1157123470.jpeg.jpg" data-tags="female vocalists, singer-songwriter, christian, contemporary christian, female vocal, wonderful women, godly girls" role="button">
 Sara Groves - All Right Here (2002-08-20)
 </li>
@@ -135,11 +138,14 @@ Venus Hum - Big Beautiful Sky (2003-04-01)
 <li data-cover="http://coverartarchive.org/release/d2632a11-b6c5-479c-8102-e3f78d0d4247/21191766454-500.jpg" data-tags="rnb, sexy music, sedokova" role="button">
 Виа Гра - Стоп! Снято! (2003-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/553bf243-ae3c-4e7a-8b24-3451b009eac4/18933942633-500.jpg" data-tags="symphonic metal, power metal" role="button">
-Dark Moor - Between Light and Darkness (2003-04-28)
+<li data-cover="http://coverartarchive.org/release/739571f8-ee7b-402e-a050-ecc4d469db51/20480269363-500.jpg" data-tags="00s, female vocal" role="button">
+Gracia - Intoxicated (2003-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7699cadb-b69e-4f39-a8a3-3f72487a35db/8018314646-500.jpg" data-tags="danish, denmark, copenhagen, europe, european, skandinavian music, skandinavian" role="button">
 Sepiamusic - Prototype (2003-12-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, acoustic" role="button">
+Ten2Five - I Will Fly (2004)
 </li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
@@ -153,11 +159,11 @@ Nouvelle Vague - Nouvelle Vague (2004-08-09)
 <li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
 Utada - Exodus (2004-09-08)
 </li>
-<li data-cover="https://img.discogs.com/02KGDmQXoHOiDbOJgVGY3TKq3Bc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796835-1318983028.jpeg.jpg" data-tags="etheral" role="button">
-Stellamara - The Seven Valleys (2004-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
 Kari Jobe - Kari Jobe (2005)
+</li>
+<li data-cover="https://img.discogs.com/yq1jA9WkBRLihLbrF4bQkkmRnwg=/fit-in/353x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740286-1153913153.jpeg.jpg" data-tags="jazz, vocal jazz" role="button">
+Torun Eriksen - Prayers & Observations (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8a4e516-bb6c-489e-9897-e12ba9eb1d56/2643794288-500.jpg" data-tags="metal, gothic metal, female vocalist, symphonic metal, play on demand" role="button">
 At the Lake - Silvae (2005)
@@ -183,12 +189,6 @@ Nightwish - The Siren (2005-07-25)
 <li data-cover="https://img.discogs.com/VoNFzBQgLnKTx3DR65qisBLXCkU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423767-1307175961.jpeg.jpg" data-tags="female vocal, depressive black metal" role="button">
 Hypomanie - Sehnsucht (2005-08-05)
 </li>
-<li data-cover="https://img.discogs.com/lzhqaCJcQ82Do7-Pt6hCGbq_PdY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-547340-1567460772-3455.jpeg.jpg" data-tags="downtempo, lounge" role="button">
-Lisa Shaw - Cherry (2005-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/514d1977-f16c-4242-a588-83cc872db5ee/23766973179-500.jpg" data-tags="trance, dance, belgium, female vocal, movin on radio edit, dah" role="button">
-Ian Van Dahl - Movin' On (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8131144-7364-4be0-aac3-193605b10d91/4542221169-500.jpg" data-tags="russian" role="button">
 Чи-Ли - Преступление (2006)
 </li>
@@ -198,8 +198,8 @@ Be Your Own Pet - Be Your Own Pet (2006-03-27)
 <li data-cover="http://coverartarchive.org/release/b3a3cae0-dda8-4d98-a62a-b7b35a2b9f0d/23448788511-500.jpg" data-tags="out here all night, outta my way, youre the one" role="button">
 Damone - Out Here All Night (2006-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/75633906-7ee3-4f4c-a27c-e7deb2908711/1049823429-500.jpg" data-tags="symphonic metal" role="button">
-Lunatica - The Edge of Infinity (2006-07-26)
+<li data-cover="https://via.placeholder.com/450" data-tags="voice, female vocal, teshima aoi" role="button">
+手嶌葵 - テルーの唄 (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bb4d73-96bf-481d-9354-28de7f9f6073/20731613344-500.jpg" data-tags="electronic, female vocal" role="button">
 Sonique - On Kosmo (2006-08-26)

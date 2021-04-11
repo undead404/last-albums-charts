@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:56:01.522Z
+date: 2021-04-11T09:36:52.191Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -57,6 +57,9 @@ Ash Ra Tempel - Starring Rosi (1973)
 <li data-cover="http://coverartarchive.org/release/176f17b8-e0c3-4ba4-a09d-6866848180c2/2367078539-500.jpg" data-tags="space rock, progressive rock" role="button">
 Hawkwind - Space Ritual (1973-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/ed46c870-7db3-3550-ad13-734770570b10/3519010189-500.jpg" data-tags="electronic" role="button">
+Tangerine Dream - Phaedra (1974-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/3d132efb-5391-4198-8298-ca0e39fe9cc5/12632877328-500.jpg" data-tags="space rock" role="button">
 Hawkwind - Hall of the Mountain Grill (1974-09)
 </li>
@@ -75,23 +78,20 @@ Eloy - Colours (1980)
 <li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
 Spacemen 3 - The Perfect Prescription (1987)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5867117-a1ed-4b49-8278-da11638ac7d6/20343897065-500.jpg" data-tags="shoegaze, space rock" role="button">
-Loop - Heaven's End (1987-11)
+<li data-cover="http://coverartarchive.org/release/aabb5643-fb55-35a2-8dd6-7609c6d4fbb6/6543105927-500.jpg" data-tags="psychedelic rock, psychedelic, space rock" role="button">
+Ozric Tentacles - Pungent Effulgent (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7bbea81-3362-4d7b-9ad0-290aaf497f2e/27761341433-500.jpg" data-tags="shoegaze" role="button">
 Spacemen 3 - Recurring (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e03f232-6c10-490e-9a95-7fd72cc52bfb/24592123891-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Spacemen 3 - Taking Drugs To Make Music To Take Drugs To (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfdb6572-97d0-4852-a4e4-a5f55f27711b/26197383967-500.jpg" data-tags="psychedelic, space rock" role="button">
-Ozric Tentacles - Strangeitude (1991-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3605965-46d3-3605-b0d7-b37e3158f292/16321712308-500.jpg" data-tags="progressive rock, psychedelic rock" role="button">
 Porcupine Tree - On the Sunday of Life... (1992-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e3024e5-0c49-4ed5-8dc8-7881463fe78f/21944796590-500.jpg" data-tags="classic rock, rock, alternative, space rock, post hardcore" role="button">
+Hum - Electra 2000 (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b03169-303a-45e2-88c4-60f949a4a2d8/12082275533-500.jpg" data-tags="shoegaze" role="button">
 Flying Saucer Attack - Flying Saucer Attack (1993)
@@ -111,6 +111,9 @@ Failure - Magnified (1994-03-08)
 <li data-cover="https://img.discogs.com/TvMG19rxuanxza5V5PNmgM7WRDk=/fit-in/597x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-201698-1308772435.jpeg.jpg" data-tags="space rock" role="button">
 Ozric Tentacles - Arborescence (1994-06-28)
 </li>
+<li data-cover="https://img.discogs.com/e3_1nTkQhzG8tdG1ffTSAjpzASU=/fit-in/585x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-92611-1253151504.jpeg.jpg" data-tags="ambient, post-rock, shoegaze, 90s, space rock, soft, spacy, drone rock, neo-psychedelia, freak out, fuzzy guitar goodness, dronegaze, have on vinyl, knorpelfunky, shoegazing goodness, where is my bong, painting music, albums to get, great for p, gazer, wfmu heavily played records, tremolo radio" role="button">
+Flying Saucer Attack - Distance (1994-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Sky Moves Sideways (1995-01-30)
 </li>
@@ -129,8 +132,8 @@ The Verve - A Northern Soul (1995-07-03)
 <li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Bardo Pond - Amanita (1996-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
-Failure - Fantastic Planet (1996-08-13)
+<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
+Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
@@ -162,9 +165,6 @@ Cave In - Jupiter (2000-08-08)
 <li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
 </li>
-<li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
-Spiritualized - Let It Come Down (2001-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/fae7688b-c019-4d77-9c52-40874dd613b8/12047096121-500.jpg" data-tags="stoner rock" role="button">
 35007 - Liquid (2002)
 </li>
@@ -183,17 +183,14 @@ Spiritualized - The Complete Works Vol. 1 (2003-04-15)
 <li data-cover="http://coverartarchive.org/release/460b65c5-ac1b-44e1-89da-82a8ebf24d28/16615141609-500.jpg" data-tags="emo, alternative, rock" role="button">
 Armor for Sleep - Dream to Make Believe (2003-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
-Dead Meadow - Shivering King And Others (2003-06-03)
-</li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9c907bc-8de7-460b-a489-4b61ab41520b/10540614856-500.jpg" data-tags="indie" role="button">
-Ambulance Ltd - Ambulance LTD (2003-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f4b686d-69fe-45d1-b4df-42c839c6db24/8259522263-500.jpg" data-tags="alternative rock, melancholy, space rock, kdzkpw" role="button">
 Kombajn Do Zbierania Kur Po Wioskach - ósme piętro (2004)
+</li>
+<li data-cover="https://img.discogs.com/7yCDIG4pZBEcvNv8dzzeUAYUF_I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15516892-1592852882-9807.jpeg.jpg" data-tags="progressive rock" role="button">
+Porcupine Tree - Warszawa (2004-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/94879be1-bbe5-4a96-a9b4-e874f9e54e20/18850275911-500.jpg" data-tags="psychedelic, progressive rock, space rock" role="button">
 Ozric Tentacles - Spirals in Hyperspace (2004-03-16)
@@ -314,6 +311,9 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="https://img.discogs.com/4kVuAt__MwM_SkTymSf2DP-gKyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5828215-1403816473-3637.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Tame Impala - Live Versions (2014-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/5865d9f3-d424-42d9-9a37-d399b676f9d1/9024507544-500.jpg" data-tags="indie, alternative rock, swedish, krautrock, space rock, sweden, neo-psychedelia, anton newcombe, les big byrd" role="button">
+Les Big Byrd - They Worshipped Cats (2014-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4785004d-ea89-4397-909c-312d97826d45/7445539786-500.jpg" data-tags="progressive metal, alternative metal, electronic, symphonic" role="button">
 Starset - Transmissions (2014-07-08)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T15:07:01.392Z
+date: 2021-04-11T09:00:01.481Z
 title: "rockabilly: 100 albums you must listen to before you die"
 ---
 ![Volbeat - Guitar Gangsters &amp; Cadillac Blood (2008-08-28)](http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg "Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/wSyQhOEOkeZrpWw3cZCB0vEAGEk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880902-1305451439.jpeg.jpg" data-tags="rockabilly" role="button">Stray Cats - Stray Cats (1981)</li>
 <li data-cover="http://coverartarchive.org/release/4aa8444f-1fb8-4cb4-af63-f49287808017/2410144596-500.jpg" data-tags="rockabilly" role="button">Carl Perkins - Carl Perkins (1985-10)</li>
-<li data-cover="http://coverartarchive.org/release/1b8fc2e6-14da-40b9-a408-bbc81bc2f5b2/6393758818-500.jpg" data-tags="swing, big band, rockabilly" role="button">The Brian Setzer Orchestra - The Dirty Boogie (1998-06-23)</li>
 <li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">Volbeat - The Strength/The Sound/The Songs (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/dcdd08b7-5d2a-4f1e-8506-73edf93dcf25/7213204580-500.jpg" data-tags="rockabilly, female vocalists" role="button">Imelda May - Love Tattoo (2007)</li>
 <li data-cover="http://coverartarchive.org/release/6865903e-1b14-45b1-bf4c-691ce3c2109c/3213873485-500.jpg" data-tags="heavy metal, metal, rockabilly" role="button">Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)</li>
 <li data-cover="http://coverartarchive.org/release/6972e801-09c8-4e16-a3ee-6084f6add45f/25924070770-500.jpg" data-tags="rockabilly" role="button">Kitty, Daisy & Lewis - Kitty, Daisy & Lewis (2008-07-28)</li>
 <li data-cover="http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg" data-tags="heavy metal, rockabilly" role="button">Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)</li>
+<li data-cover="http://coverartarchive.org/release/1ee17f89-66f8-3ce2-8b11-68e088f988bd/6791775045-500.jpg" data-tags="rock" role="button">The Baseballs - Strike! (2009-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/3a63ea96-27bb-36a1-a18f-82b5e6d9c928/3799827743-500.jpg" data-tags="heavy metal" role="button">Volbeat - Beyond Hell / Above Heaven (2010-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/278a5cf6-fb7e-41b9-888e-99a39cd6e5e8/3703120238-500.jpg" data-tags="heavy metal" role="button">Volbeat - Outlaw Gentlemen & Shady Ladies (2013-04-05)</li>
 </ol>
@@ -38,9 +38,6 @@ Johnny Cash - Sings the Songs That Made Him Famous (1958-11-13)
 </li>
 <li data-cover="https://img.discogs.com/YX_TQkYyBrY5vWYnPk0qXdcBvLI=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10689060-1601725389-5917.jpeg.jpg" data-tags="rockabilly" role="button">
 The Big Bopper - Chantilly Lace (1959)
-</li>
-<li data-cover="https://img.discogs.com/EGOkGRsgmL_vDdsk47QKCe1RcUE=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17519131-1613914397-8183.jpeg.jpg" data-tags="western, country" role="button">
-Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 </li>
 <li data-cover="https://img.discogs.com/IND-VIy5UFlyGgl8e4QD44t5kwU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9462368-1480997976-5835.jpeg.jpg" data-tags="rockabilly, eddie cochran, ex-fan-des-sixties" role="button">
 Eddie Cochran - Somethin' Else (1959)
@@ -87,17 +84,11 @@ Stray Cats - Rant N' Rave With the Stray Cats (1983-08-15)
 <li data-cover="http://coverartarchive.org/release/4aa8444f-1fb8-4cb4-af63-f49287808017/2410144596-500.jpg" data-tags="rockabilly" role="button">
 Carl Perkins - Carl Perkins (1985-10)
 </li>
-<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
-Steve Earle - Guitar Town (1986-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/7825a9b2-3abf-425a-b5d3-3cadf803be8d/2384597591-500.jpg" data-tags="rockabilly, oldies, 50s, carl perkins" role="button">
 Carl Perkins - Original Sun Greatest Hits (1986-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/395a89e3-4f66-4202-b084-2d1837507d0f/4285812357-500.jpg" data-tags="rockabilly" role="button">
 Charlie Feathers - Jungle Fever (1987)
-</li>
-<li data-cover="https://img.discogs.com/6tvPTriSNW55SbOoZwd6vrrtuYA=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675762-1425129623-7371.jpeg.jpg" data-tags="rock and roll" role="button">
-Ritchie Valens - La Bamba (1988)
 </li>
 <li data-cover="https://img.discogs.com/QZJGr2czWaL1-LxbFNpFRWouKSw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7851007-1453341147-8013.jpeg.jpg" data-tags="oldies" role="button">
 The Everly Brothers - A Portrait Of... (1989)
@@ -129,9 +120,6 @@ Social Distortion - Social Distortion (1990-03-27)
 <li data-cover="http://coverartarchive.org/release/7d010922-9359-409a-b97b-b8532cd8bec7/3825656497-500.jpg" data-tags="rockabilly, blues, rock n roll" role="button">
 Chuck Berry - The Best Of Chuck Berry (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/4be1e068-3152-3ce6-87ec-93c88429de43/24042392576-500.jpg" data-tags="80s, rock" role="button">
-Chris Isaak - Wicked Game (1991-01-14)
-</li>
 <li data-cover="https://img.discogs.com/f9ZcVkV1fG_PswuF0v1ICwCVSxw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8957225-1472224566-1088.jpeg.jpg" data-tags="90s" role="button">
 Morrissey - Kill Uncle (1991-03-04)
 </li>
@@ -152,6 +140,9 @@ Wayne Hancock - Thunderstorms and Neon Signs (1995)
 </li>
 <li data-cover="https://img.discogs.com/kLwwdL7g-KtySuIYVlNHiBCNU-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6094760-1411874073-9376.jpeg.jpg" data-tags="chile, rock chileno, rock en castellano" role="button">
 Los Tres - La Espada & la Pared (1995-03-17)
+</li>
+<li data-cover="https://img.discogs.com/CXuJxxmHP1gJBTDEKS3CmP5n6Gw=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306515-1465548510-3314.jpeg.jpg" data-tags="country" role="button">
+The Mavericks - Music For All Occasions (1995-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/95b0b1ea-9749-4cc3-a282-71d49bccb84c/2183978164-500.jpg" data-tags="rockabilly" role="button">
 Stray Cats - Runaway Boys: A Retrospective '81-'92 (1996)
@@ -180,9 +171,6 @@ The Mavericks - Trampoline (1998-03-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="rockabilly, killforpeace" role="button">
 John Fogerty - Premonition (1998-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b8fc2e6-14da-40b9-a408-bbc81bc2f5b2/6393758818-500.jpg" data-tags="swing, big band, rockabilly" role="button">
-The Brian Setzer Orchestra - The Dirty Boogie (1998-06-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/647bdfce-8294-480a-b8fe-b331161e97de/3377211187-500.jpg" data-tags="rockabilly" role="button">
 Mike Ness - Cheating At Solitaire (1999-04-13)
 </li>
@@ -191,6 +179,9 @@ Wanda Jackson - Queen of Rockabilly (2000)
 </li>
 <li data-cover="https://img.discogs.com/iqnhdfUK_VFgNiQM25Pe2I8CDV4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4715510-1373199970-7143.jpeg.jpg" data-tags="oldies, classic rock" role="button">
 Roy Orbison - The Essential Roy Orbison (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/c31af88f-adae-4d42-bd81-7b5c513043a5/1727808836-500.jpg" data-tags="rockabilly" role="button">
+Stray Cats - Greatest Hits (2000-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/743f9428-5bb2-3f3b-a335-5e9e7d53d387/4810297797-500.jpg" data-tags="swing, rockabilly" role="button">
 The Brian Setzer Orchestra - Vavoom (2000-07-26)
@@ -237,6 +228,12 @@ Heavy Trash - Heavy Trash (2005-04-19)
 <li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
 Volbeat - The Strength/The Sound/The Songs (2005-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a6f42b2-1ed9-4c49-8857-b6068213cbda/7867562117-500.jpg" data-tags="country" role="button">
+The BossHoss - Internashville Urban Hymns (2005-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcd3f55e-c908-4a26-8eea-fa8f0a31aa61/2376264497-500.jpg" data-tags="rockabilly" role="button">
+Lee Rocker - Racin' the Devil (2006)
+</li>
 <li data-cover="https://img.discogs.com/C9R5YENO0DoiAobO0d4-DbmA-Mc=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1145683-1277913339.jpeg.jpg" data-tags="rockabilly" role="button">
 The Living End - State of Emergency (2006-02-04)
 </li>
@@ -266,6 +263,9 @@ Kitty, Daisy & Lewis - Kitty, Daisy & Lewis (2008-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg" data-tags="heavy metal, rockabilly" role="button">
 Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/6568838a-da3f-4475-aeb7-df9ecb8b164a/3331254976-500.jpg" data-tags="rockabilly, country, folk, alt-country" role="button">
+Sarah Blackwood - Way Back Home (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c14b2ee-72a0-4e39-af4a-d5bad7de4bb8/28054857149-500.jpg" data-tags="bill haley" role="button">
 Bill Haley - Rock Around the Clock (2009)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:41:01.430Z
+date: 2021-04-11T09:03:01.438Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -114,11 +114,11 @@ Various Artists - City of Angels (1998-03-31)
 <li data-cover="http://coverartarchive.org/release/96d4e197-0451-36ea-bc71-3692b0bc16ab/5228985911-500.jpg" data-tags="soundtrack, female vocalists" role="button">
 Vonda Shepard - Songs From Ally McBeal (1998-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/37958dba-1767-4d8a-b242-11d6a0add333/1628998671-500.jpg" data-tags="rock" role="button">
-Aerosmith - Armageddon (1998-07-29)
-</li>
 <li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/4cf675c2-a1ff-49d6-b0eb-c136eb528c10/21921338333-500.jpg" data-tags="soundtrack" role="button">
+Polaris - Music From The Adventures Of Pete & Pete (1999-04-06)
 </li>
 <li data-cover="https://img.discogs.com/sh4355luPnsoXEhirFa_Yujk7g4=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137239-1266343818.jpeg.jpg" data-tags="soundtrack" role="button">
 The Dust Brothers - Fight Club (1999-07-27)
@@ -162,14 +162,14 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
 </li>
-<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
-Various Artists - 8 Mile (2002-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0112d2f1-f978-461e-b92f-8c9a31462d11/2572749895-500.jpg" data-tags="soundtrack" role="button">
 John Murphy - 28 Days Later (2002-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/ffacfd78-14f0-4d37-bcd2-84fbb65ef99d/6298274284-500.jpg" data-tags="soundtrack, ambient" role="button">
+Cliff Martinez - Solaris (2002-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c10f248d-de57-48c6-884e-6a8b1d3eaf83/6109068027-500.jpg" data-tags="soundtrack" role="button">
 Howard Shore - The Lord of the Rings: The Two Towers (2002-12-10)
@@ -188,6 +188,9 @@ Jonny Greenwood - Bodysong (2003-10-27)
 </li>
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
+</li>
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="electronic" role="button">
+The Knife - Hannah med H (2003-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/38bbd5dc-b26c-49ea-96d5-7a39be22776b/21076376416-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Last Samurai (2003-11-25)
@@ -246,9 +249,6 @@ Eddie Vedder - Into the Wild (2007-09-14)
 <li data-cover="http://coverartarchive.org/release/51a3e743-15e7-41f2-b333-7a5d90695c3a/853853080-500.jpg" data-tags="soundtrack" role="button">
 Steve Jablonsky - Transformers: The Score (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/27726944-0886-3373-b692-0e9324637870/4083569167-500.jpg" data-tags="soundtrack" role="button">
-Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert Ford (2007-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
 </li>
@@ -260,9 +260,6 @@ Two Steps from Hell - Legend (2008-07-01)
 </li>
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/e376f404-5229-4774-b2b3-1aeed5aa6f7a/17796794761-500.jpg" data-tags="indie rock" role="button">
-The Airborne Toxic Event - The Airborne Toxic Event (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Nightmare Revisited (2008-09-30)
@@ -297,8 +294,14 @@ C418 - Minecraft - Volume Alpha (2011-03-04)
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/7cdf6a6f-8677-4598-a475-a8aa2d8bfe43/1674518181-500.jpg" data-tags="soundtrack" role="button">
+Two Steps from Hell - Archangel (2011-09-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/28dca1ba-c547-4a34-839d-a006945cb64c/1446206019-500.jpg" data-tags="soundtrack" role="button">
 Trent Reznor and Atticus Ross - The Girl with the Dragon Tattoo (2011-12-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddb25c48-6683-484d-a7ed-9f3cc5c649ec/3325005621-500.jpg" data-tags="electronic" role="button">
+Air - Le Voyage dans la Lune (2012-02-03)
 </li>
 <li data-cover="https://img.discogs.com/qNXcjTVEm3KRkToIBlB5UvpMeHA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4856797-1377631990-4075.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Dark Knight Rises (2012-07-17)
@@ -317,8 +320,5 @@ Gustavo Santaolalla - The Last of Us (2013-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b157b7a4-32d7-476d-8012-3aaefe1fa6b3/6585909620-500.jpg" data-tags="orange is the new black" role="button">
 Regina Spektor - You've Got Time (2013-07-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/23b00a21-b663-4647-ab49-68f694d40776/8324756218-500.jpg" data-tags="soundtrack, pop, ballad, movie, adam levine" role="button">
-Adam Levine - Lost Stars (2014-07-01)
 </li>
 </ol>

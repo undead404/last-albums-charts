@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:31:06.890Z
+date: 2021-04-11T09:35:01.582Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -45,9 +45,6 @@ The Used - The Used (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
 </li>
-<li data-cover="https://img.discogs.com/dEQah6C7HfFT_jzEHA1fS4FnW6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547728-1457059020-1993.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
-Senses Fail - From The Depths Of Dreams (2002-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alexisonfire - Alexisonfire (2002-10-29)
 </li>
@@ -60,8 +57,11 @@ A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 <li data-cover="https://img.discogs.com/kRhGE1p4CAb52fJpgyfezYZq1rw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371783-1530777030-9373.png.jpg" data-tags="screamo, post hardcore" role="button">
 Envy - A Dead Sinking Story (2003-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
-Silverstein - When Broken Is Easily Fixed (2003-05-20)
+<li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Hot Damn! (2003-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - The Artist In The Ambulance (2003-07-22)
 </li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)

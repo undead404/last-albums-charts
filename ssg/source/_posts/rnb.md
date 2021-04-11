@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:11:01.421Z
+date: 2021-04-11T09:08:01.433Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e572a3b-3210-3c99-955f-e47c59aaaeff/10661766770-500.jpg" data-tags="rnb, soul, 90s" role="button">
-Boyz II Men - II (1994-08-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Bedtime Stories (1994-10-24)
 </li>
@@ -36,6 +33,9 @@ Janet Jackson - Design of a Decade: 1986-1996 (1995-10-02)
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/d72bcc5b-714f-4d4e-995e-498c7f89ed99/5970467541-500.jpg" data-tags="90s, rnb" role="button">
+Blackstreet - Another Level (1996-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
 </li>
@@ -44,9 +44,6 @@ Usher - My Way (1997-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c0f94d0-6e7c-4547-bf52-eba96b14e3d3/8121259237-500.jpg" data-tags="rnb, pop, 90s" role="button">
 Janet Jackson - The Velvet Rope (1997-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0803dd88-91ca-4995-9b99-0da05a20ca09/11174769845-500.jpg" data-tags="rnb" role="button">
 Brandy - Never Say Never (1998)
@@ -92,9 +89,6 @@ Christina Aguilera - Stripped (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
-Akon - Trouble (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/884cee1b-ee29-3bc2-9a4d-a9e24cbd021f/7321348087-500.jpg" data-tags="rnb" role="button">
 R. Kelly - Chocolate Factory (2003-02-17)
@@ -222,6 +216,9 @@ Chris Brown - Forever (2008)
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
+Jesse McCartney - Departure (2008-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
@@ -263,6 +260,9 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
+James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

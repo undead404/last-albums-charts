@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:27:01.443Z
+date: 2021-04-11T09:18:01.413Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -86,9 +86,6 @@ Morcheeba - Big Calm (1998-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a8694b0-3377-43ac-92d1-7ce4c2888b28/5742999682-500.jpg" data-tags="trip-hop, electronic" role="button">
-Hooverphonic - Blue Wonder Power Milk (1998-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/994207cd-403e-3d5f-9149-1299390545ae/16038719610-500.jpg" data-tags="trip-hop, electronic" role="button">
 Moloko - I Am Not a Doctor (1998-07-27)
@@ -248,6 +245,9 @@ Bonobo - Days to Come (2006-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
 Elsiane - Hybrid (2007-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
+Flunk - Personal Stereo (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/176834c5-0a32-31b1-aa5e-ada3037202e5/22417025585-500.jpg" data-tags="trip-hop, electronic" role="button">
 UNKLE - War Stories (2007-06-20)

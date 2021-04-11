@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:53:01.400Z
+date: 2021-04-11T09:45:02.371Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
@@ -24,17 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/7531317e-f8a5-4452-9610-26ad1aa98f13/2862016528-500.jpg" data-tags="hardcore, hardcore punk, crossover thrash, nyhc" role="button">
-Agnostic Front - Cause for Alarm (1986)
-</li>
-<li data-cover="https://img.discogs.com/Nl0AMnKzBy9ICJrT2I_EZERASs8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719025-1369587904-1058.jpeg.jpg" data-tags="hardcore, crossover, thrash" role="button">
-Cryptic Slaughter - Convicted (1986-07)
-</li>
 <li data-cover="https://img.discogs.com/wN0gsUlckFwBc3A5kSE50fVL8vM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13690557-1559094645-6605.jpeg.jpg" data-tags="crossover, thrash metal" role="button">
 D.R.I. - Crossover (1987-03)
-</li>
-<li data-cover="https://img.discogs.com/yD0W7W4dpxF_I-6ToLCGtuVFQco=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-469816-1264660239.jpeg.jpg" data-tags="rock" role="button">
-BUCK-TICK - HURRY UP MODE (1987-04-01)
 </li>
 <li data-cover="https://img.discogs.com/tjCZlQCP483V7A4azyYcOeLaia4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-838339-1164077523.jpeg.jpg" data-tags="punk, hardcore, crossover" role="button">
 Cryptic Slaughter - Money Talks (1987-05)
@@ -50,6 +41,9 @@ Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
 <li data-cover="https://img.discogs.com/6Nkszn5tJFDJywElV8Q0g26itWc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3222714-1399314519-9565.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/3db4fe31-593a-4d2b-a997-d7cfc2303236/2618510081-500.jpg" data-tags="alternative rock, live, rock" role="button">
+Faith No More - Live at the Brixton Academy (1990-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
 MC 900 Ft Jesus - Welcome to My Dream (1991)
@@ -87,6 +81,9 @@ Body Count - Born Dead (1994)
 <li data-cover="http://coverartarchive.org/release/01d60556-470b-319f-b53a-5ab69373c74a/24686864418-500.jpg" data-tags="industrial metal" role="button">
 Prong - Cleansing (1994)
 </li>
+<li data-cover="https://img.discogs.com/UZ2nQ-i3dcaktEif0diRNLA5jSw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6381252-1429427507-9775.jpeg.jpg" data-tags="rock, fusion, 90s, crossover" role="button">
+Urban Dance Squad - Persona Non Grata (1994)
+</li>
 <li data-cover="https://img.discogs.com/2puxTO--ho_Y9fzS24J3nSn5SVQ=/fit-in/593x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720614-1252526994.jpeg.jpg" data-tags="crossover" role="button">
 Senser - Stacked Up (1994-04-25)
 </li>
@@ -98,6 +95,12 @@ Suicidal Tendencies - Suicidal For Life (1994-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/01b387c3-0977-47a4-8def-1aae48b79447/17994376284-500.jpg" data-tags="crossover" role="button">
 H-Blockx - Time To Move (1994-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/d86fe8d8-d735-49bf-bd0d-70d3c79119d4/19102091588-500.jpg" data-tags="crossover" role="button">
+Such A Surge - UNDER PRESSURE (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fc148b8-c043-4cae-9854-70cf33ba423e/27349613589-500.jpg" data-tags="crossover" role="button">
+Stuck Mojo - Snappin' Necks (1995-03-03)
 </li>
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
 Clawfinger - Use Your Brain (1995-03-23)
@@ -141,6 +144,9 @@ Bloodhound Gang - Along Comes Mary (1998)
 <li data-cover="https://img.discogs.com/OfA6CUNXfIUGGueOcy2OJRoIEt4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3310039-1325173673.jpeg.jpg" data-tags="crossover" role="button">
 H-Blockx - Fly Eyes (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/73b788f8-f8c4-408b-960f-fd749b041f99/4283295646-500.jpg" data-tags="alternative metal" role="button">
+Deftones - Live Tracks (1998-04-10)
+</li>
 <li data-cover="https://img.discogs.com/UwngDBJsmD7-M8R2S8_h6hF1hDE=/fit-in/526x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-603950-1261065517.jpeg.jpg" data-tags="punk, ska, ska punk, crossover, post metal, jump-right-in" role="button">
 The Urge - Master Of Styles (1998-04-21)
 </li>
@@ -159,9 +165,6 @@ Rage Against the Machine - The Battle of Los Angeles (1999-09)
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
 Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
-Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
 </li>
@@ -171,6 +174,9 @@ Such A Surge - Der Surge Effekt (2000-02-07)
 <li data-cover="https://img.discogs.com/sLIzb7qlNbgdhISafXCCYgmJ2Ek=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369449-1421605831-8212.jpeg.jpg" data-tags="industrial metal, nu-metal" role="button">
 Apartment 26 - Hallucinating (2000-05-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/caf9d8da-d295-37b8-938c-3bb92c769425/15775067834-500.jpg" data-tags="hard rock" role="button">
+Kid Rock - The History of Rock (2000-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/07d01128-8eb3-4d21-91c3-2d75adbb84af/27349769069-500.jpg" data-tags="crossover" role="button">
 Stuck Mojo - Declaration Of A Headhunter (2000-06-13)
 </li>
@@ -179,9 +185,6 @@ OPM - Menace To Sobriety (2000-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a145bc0-6ba6-4c7c-9dc9-a85b6235b36e/2479170585-500.jpg" data-tags="nu metal" role="button">
-4Lyn - 4LYN (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/092daa69-e70a-46cc-945c-13210ed86e11/20535418229-500.jpg" data-tags="crossover, industrial metal" role="button">
 Clawfinger - A Whole Lot Of Nothing (2001-08-06)
@@ -195,8 +198,8 @@ Emil Bulls - Angel Delivery Service (2001-12-03)
 <li data-cover="https://img.discogs.com/oKuPt4tLuiCaBwQDx73igsycv-Y=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-886336-1348405300-6388.jpeg.jpg" data-tags="alternative rock" role="button">
 H-Blockx - Get in the Ring (2002-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/714d1b4a-6739-4f38-a8c4-197379780bbd/28115360386-500.jpg" data-tags="metal, reggae metal" role="button">
-Skindred - Babylon (2002-06-01)
+<li data-cover="http://coverartarchive.org/release/95e8c5bc-872d-42e5-a8f2-ebc527cedf1f/11855376903-500.jpg" data-tags="alternative metal, alternative rock" role="button">
+Earshot - Letting Go (2002-05-07)
 </li>
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
@@ -233,9 +236,6 @@ Lao Che - Powstanie Warszawskie (2005-03-21)
 </li>
 <li data-cover="https://img.discogs.com/iEaAiLbyvBRZ4V1GCWpSMF_ii4E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2621027-1293652951.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 First Blood - Killafornia (2005-05-01)
-</li>
-<li data-cover="https://img.discogs.com/-3x_mausfJTSh9ZKith4W6nZN8U=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193466-1568649071-5787.jpeg.jpg" data-tags="nu metal" role="button">
-Emil Bulls - The Southern Comfort (2005-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a149d3d6-ff04-46a9-8e75-d9e38c4e8ead/14714564913-500.jpg" data-tags="hip-hop" role="button">
 Flipsyde - We The People (2005-07-12)

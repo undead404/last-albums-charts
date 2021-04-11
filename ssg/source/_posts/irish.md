@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:38:01.435Z
+date: 2021-04-11T09:21:01.414Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -33,6 +33,9 @@ Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/85dfbc75-c389-4c36-a0f2-4d7b41723478/11412752699-500.jpg" data-tags="hard rock" role="button">
+Thin Lizzy - Fighting (1975)
+</li>
 <li data-cover="https://img.discogs.com/Ow-Gaovoa219SVHQbCTq-VoIkbA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-868401-1514550929-4213.jpeg.jpg" data-tags="punk" role="button">
 Stiff Little Fingers - Inflammable Material (1979-02-02)
 </li>
@@ -57,6 +60,9 @@ Christy Moore - Ride On (1984)
 <li data-cover="http://coverartarchive.org/release/b268f8c3-a6ee-359f-8804-b2d2eba6f673/8126647993-500.jpg" data-tags="rock" role="button">
 U2 - The Unforgettable Fire (1984-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb533884-3d66-4945-955e-3c57e629b316/3722741186-500.jpg" data-tags="celtic, new age" role="button">
+Clannad - Macalla (1985)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf48d517-6671-4715-bf69-1f3a96769a3a/5115726658-500.jpg" data-tags="folk, celtic" role="button">
 The Pogues - Rum Sodomy & the Lash (1985)
 </li>
@@ -80,6 +86,9 @@ The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8a3ad14-933f-308c-866e-b28dd14403a7/3770659611-500.jpg" data-tags="rock, 90s, u2" role="button">
 U2 - Zooropa (1993-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d10def02-976f-4e8e-adb9-5194991b6f24/2060398223-500.jpg" data-tags="celtic" role="button">
+Nightnoise - Shadow of Time (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/24c4d72b-fd9c-463a-802d-aebd5e8f2a0a/15396072186-500.jpg" data-tags="irish" role="button">
 Christy Moore - LIVE AT THE POINT (1994)
@@ -138,9 +147,6 @@ The Tossers - Long Dim Road (2000-05-16)
 <li data-cover="https://img.discogs.com/SFPzHAzX4ah4IFjPf-JRPl37kXU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951267-1428563434-2020.jpeg.jpg" data-tags="pop" role="button">
 The Corrs - In Blue (2000-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ad25a36-8eda-3abd-ab57-b1db6cbfe0e7/27458441899-500.jpg" data-tags="pop" role="button">
-Ronan Keating - Ronan (2000-07-21)
-</li>
 <li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">
 U2 - All That You Can't Leave Behind (2000-10-30)
 </li>
@@ -179,9 +185,6 @@ Dropkick Murphys - Blackout (2003-06-10)
 </li>
 <li data-cover="https://img.discogs.com/C7ivzZqISbQUn_PodoOTtCo-Z2c=/fit-in/239x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044574-1406510932-1126.jpeg.jpg" data-tags="indie, indie rock, irish, stuff i like, drive-thru records" role="button">
 Bell X1 - Music In Mouth (2003-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/524f982f-8870-4893-b4bc-878ff99577c7/11516428847-500.jpg" data-tags="pop, boy band, male vocalist, turnaround" role="button">
-Westlife - Turnaround (2003-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
@@ -230,9 +233,6 @@ Flogging Molly - Whiskey On A Sunday (2006-07-25)
 </li>
 <li data-cover="https://img.discogs.com/UTfPdDO7yKlna4J-8s7oIndKMmc=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024101-1259182598.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Fionn Regan - The End Of History (2006-08-07)
-</li>
-<li data-cover="https://img.discogs.com/oZDTjqcNIOHPK2sxhrQc-vbP7Jk=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655344-1234852888.jpeg.jpg" data-tags="indie, irish, rock" role="button">
-The Frames - The Cost (2006-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)

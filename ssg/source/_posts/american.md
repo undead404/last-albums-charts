@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:01:29.350Z
+date: 2021-04-11T09:31:07.089Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -56,9 +56,6 @@ Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
@@ -195,9 +192,6 @@ MGMT - Time To Pretend (2007-12-25)
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/e376f404-5229-4774-b2b3-1aeed5aa6f7a/17796794761-500.jpg" data-tags="indie rock" role="button">
-The Airborne Toxic Event - The Airborne Toxic Event (2008-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/42716365-90b9-485e-a887-e5e120cb56da/15082708390-500.jpg" data-tags="indie" role="button">
 Okkervil River - The Stand Ins (2008-09-09)
 </li>
@@ -300,6 +294,9 @@ Beach Fossils - Clash The Truth (2013-02-19)
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
 </li>
+<li data-cover="https://img.discogs.com/0ql8b3dLFazffFJrBCRFnqpVm_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566013-1368554865-9702.jpeg.jpg" data-tags="indie, alternative, indie pop, dream pop" role="button">
+MS MR - Secondhand Rapture (2013-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
 </li>
@@ -314,6 +311,9 @@ Beck - Morning Phase (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">
 The Chainsmokers - #SELFIE (2014-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/a990ac66-a24f-4579-9dd0-4f088bbc3a94/8669461649-500.jpg" data-tags="pop" role="button">
+Meghan Trainor - Lips Are Movin (2014-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff15d5f2-13a9-4f05-8d45-a171e445a411/8807148250-500.jpg" data-tags="american" role="button">
 Fifth Harmony - Sledgehammer (2014-10-29)

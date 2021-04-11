@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:47:01.421Z
+date: 2021-04-11T09:11:01.437Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
 </li>
-<li data-cover="https://img.discogs.com/A1aXIi-wB9YcejTWj5CsKzpEDlg=/fit-in/348x345/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199803-1200227896.jpeg.jpg" data-tags="electro" role="button">
-Kraftwerk - Tour de France (1983)
-</li>
 <li data-cover="https://img.discogs.com/Vuo_o8baUuG--KeS6uau8SnBOVk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242519-1474928995-6789.jpeg.jpg" data-tags="electronic, kraftwerk" role="button">
 Kraftwerk - The Mix (1991-06-10)
 </li>
@@ -50,6 +47,9 @@ The Knife - Deep Cuts (2003-01-17)
 </li>
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6eabc91-8e61-4858-9d94-4dda0ef3ab7c/21935695143-500.jpg" data-tags="electro" role="button">
+Anthony Rother - popkiller (2004-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
@@ -141,14 +141,14 @@ New Young Pony Club - Fantastic Playroom (2007-07-09)
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">
-Pnau - Pnau (2007-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/430826de-7856-412a-a644-3344e0b9d09e/1114878797-500.jpg" data-tags="electronic" role="button">
 Hot Chip - Made in the Dark (2008-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcbdee94-6070-40c0-9262-2a405f981bd1/2772718732-500.jpg" data-tags="experimental, electro" role="button">
+Boys Noize - Oi Oi Oi Remixed (2008-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d4ea5ee-025d-4827-9c45-acb91a9c6123/10676566608-500.jpg" data-tags="nu jazz, electro, house, broken beat, nujazz, electrojazz, big beat, labels - etage noir recordings, p stelar" role="button">
 Parov Stelar - The Flame of Fame (2008-04)
@@ -246,6 +246,9 @@ Röyksopp - Senior (2010-09-08)
 <li data-cover="https://img.discogs.com/HFo33p7UCC8e_4q_vT767itQUew=/fit-in/558x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2464141-1285509013.jpeg.jpg" data-tags="pop" role="button">
 Mark Ronson & The Business Intl - Record Collection (2010-09-24)
 </li>
+<li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
+Suuns - Zeroes QC (2010-10-12)
+</li>
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
 </li>
@@ -311,9 +314,6 @@ Ten Walls - Walking With Elephants (2014-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">
 Tiësto - A Town Called Paradise (2014-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec5aeb38-6541-4821-bd8a-9c161967f0db/7686700961-500.jpg" data-tags="electropop, chill, electro, house, icelandic, iceland, electro-pop, mp3" role="button">
-GusGus - Mexico (2014-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/14074def-0940-4ffd-88bc-c7b35d0d7caf/8998642520-500.jpg" data-tags="robin schulz" role="button">
 Robin Schulz - Prayer (2014-09-14)

@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T01:47:18.196Z
+date: 2021-04-11T09:29:20.554Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/76f8746d-a740-4257-ac68-ed15065a8313/3045375914-500.jpg" data-tags="female vocals, girlgroup" role="button">All Saints - All Hits (2001-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">Black Eyed Peas - Elephunk (2003-06-24)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">Ashlee Simpson - Autobiography (2004-07-20)</li>
+<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">Antony and the Johnsons - The Lake (2004-11-02)</li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">Metric - Live It Out (2005-10-04)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
@@ -27,6 +27,9 @@ Kim Wilde - Kim Wilde (1981-06)
 <li data-cover="http://coverartarchive.org/release/54505d79-b295-4a60-9cd3-06f6c6c5bdda/26499964153-500.jpg" data-tags="pop, 80s, alternative, you dont know, take my breath away, like flames" role="button">
 Berlin - Best Of Berlin 1979-1988 (1988-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/e34dc48b-973f-4690-8062-c5d31c3980a0/17928794966-500.jpg" data-tags="new jack swing, soul" role="button">
+En Vogue - Funky Divas (1992-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
 </li>
@@ -35,9 +38,6 @@ Mourn - Mourn (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da84ef6-48ab-4065-9c60-4f94edc96cb6/2544207519-500.jpg" data-tags="spanish" role="button">
 Rosana - Lunas Rotas (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/a3aef880-fc55-4a15-accd-c64f45aeb142/9128169781-500.jpg" data-tags="symphonic metal, medieval, folk metal" role="button">
-Haggard - And Thou Shalt Trust... The Seer (1997-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/36eeea8a-0ffa-4eae-906a-63fd6339b8cf/1083820711-500.jpg" data-tags="gothic metal" role="button">
 The Sins of Thy Beloved - Lake of Sorrow (1998)
@@ -54,9 +54,6 @@ Mary Gauthier - Drag Queens in Limousines (1999)
 <li data-cover="http://coverartarchive.org/release/de75f45c-44b0-4ab1-829f-12077a27bc3a/24951821000-500.jpg" data-tags="ska punk, female vocals, pop-punk" role="button">
 Dance Hall Crashers - Purr (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/05c4226e-6230-4598-9261-859af12fbb31/9579007154-500.jpg" data-tags="90s, rnb, female vocals, i own, blaque, albums in my cd rack, wie alles begann" role="button">
-Blaque - Blaque (1999-05-31)
-</li>
 <li data-cover="https://img.discogs.com/bYUT2UMYcakvfZRqjWWL7MFcjw8=/fit-in/397x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100570-1498662423-2513.png.jpg" data-tags="easy listening, female vocals, favourite country albums, reba mc entire, entire" role="button">
 Reba McEntire - So Good Together (1999-11-23)
 </li>
@@ -68,9 +65,6 @@ All Saints - Saints & Sinners (2000-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
 Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/76f8746d-a740-4257-ac68-ed15065a8313/3045375914-500.jpg" data-tags="female vocals, girlgroup" role="button">
-All Saints - All Hits (2001-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cdd5f4-825e-4711-a415-d9aa9c436301/22898731132-500.jpg" data-tags="gothic metal" role="button">
 Flowing Tears - Serpentine (2002-01-21)
@@ -102,6 +96,15 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/9698924f-c7f3-4192-b964-4de33a3a63e7/997471036-500.jpg" data-tags="doom metal, gothic doom metal, gothic metal" role="button">
 Draconian - Where Lovers Mourn (2003-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ea1aca1-7bf6-44fa-b01c-a4658a822de3/8366943784-500.jpg" data-tags="celtic" role="button">
+Celtic Woman - Celtic Woman (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/cba4f81e-86f7-4959-9f8d-ff15aefa2afd/28099162231-500.jpg" data-tags="singer-songwriter, female vocals, kendall  payne" role="button">
+Kendall Payne - Grown (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/8568a76b-6b83-36e8-a6d2-a0d0d6fcdff7/4106992170-500.jpg" data-tags="country" role="button">
+Gretchen Wilson - Here for the Party (2004-05-11)
+</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
@@ -117,14 +120,8 @@ Charlotte Martin - On Your Shore (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Anna Ternheim - Somebody Outside (2004-10-13)
 </li>
-<li data-cover="https://img.discogs.com/02KGDmQXoHOiDbOJgVGY3TKq3Bc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796835-1318983028.jpeg.jpg" data-tags="etheral" role="button">
-Stellamara - The Seven Valleys (2004-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
 Antony and the Johnsons - The Lake (2004-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">
-Ophelia's Dream - Not A Second Time (2004-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">
 Stephen Fretwell - Magpie (2004-11-22)
@@ -141,14 +138,14 @@ Draconian - Arcane Rain Fell (2005-01-24)
 <li data-cover="http://coverartarchive.org/release/c6b02e4f-6081-486a-a47d-b2e58a1821e6/9545106519-500.jpg" data-tags="jazz, latin, swing, female vocals" role="button">
 Chiara Civello - Last Quarter Moon (2005-02-15)
 </li>
-<li data-cover="https://img.discogs.com/os3EGEhLGvE2Q_Ghgzt408L2wjY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420768-1424961278-8704.jpeg.jpg" data-tags="electronic, electronica, female vocals, e l e c t r o, steveadams fm, steveadamsfm, dance machine" role="button">
-Annie - Heartbeat (2005-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b20e188-c9dd-48da-b723-221af61af752/12568552591-500.jpg" data-tags="electronic" role="button">
 Everything But the Girl - Adapt or Die: Ten Years of Remixes (2005-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd03503e-ae8f-4059-b78d-6816bdfac2f1/4802046549-500.jpg" data-tags="rock, indie rock, vocals, female vocals, victory records" role="button">
 The Forecast - Late Night Conversations (2005-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f4c2e4e-4b53-473a-b573-bc2a373a63b0/1027102711-500.jpg" data-tags="gothic metal" role="button">
+Forever Slave - Alice's Inferno (2005-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9483e9ed-b96e-4e93-bb29-12d6a37bf9d8/5217790189-500.jpg" data-tags="acoustic, mellow" role="button">
 Antony and the Johnsons - Hope There's Someone (2005-06-07)
@@ -161,6 +158,9 @@ Ashlee Simpson - I Am Me (2005-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b2de8fb-35ae-4401-8a37-0c06a859e544/10262636124-500.jpg" data-tags="alternative" role="button">
+Antony and the Johnsons - You Are My Sister (2005-10-25)
 </li>
 <li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
 Girls Aloud - Chemistry (2005-12-05)
@@ -191,9 +191,6 @@ Rosana - Lunas Rotas: De casa a las ventas (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb653ae6-356b-4d2d-9773-cff88e6be5db/944793000-500.jpg" data-tags="female vocals, 10s" role="button">
 Anna Ternheim - Lovers Dream & More Music For Psychotic Lovers (2007-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/521ec9fe-01ec-4324-bbc4-08ffd7926741/8609207436-500.jpg" data-tags="symphonic metal" role="button">
-Visions of Atlantis - Trinity (2007-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2295f4dc-9550-4f81-a43c-62337fad9fbd/15358695273-500.jpg" data-tags="indie, folk, canadian, mellow, female vocals, debut album, jaarlijstje 2007" role="button">
 Lightning Dust - Lightning Dust (2007-06-19)
@@ -252,9 +249,6 @@ Anjulie - Boom (2009-04-07)
 <li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
 Noisettes - Wild Young Hearts (2009-04-19)
 </li>
-<li data-cover="https://img.discogs.com/nDscfZeWjXz_kewLtqwP7aOvwkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1989030-1257025066.jpeg.jpg" data-tags="gothic metal, female vocals, symphonic metal, metal" role="button">
-Stream of Passion - The Flame Within (2009-05-22)
-</li>
 <li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
 iwrestledabearonce - It's All Happening (2009-06-02)
 </li>
@@ -311,6 +305,12 @@ MS MR - Candy Bar Creep Show (2012-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3688b2a9-3d34-4093-bebd-de46a5249d0b/16069645317-500.jpg" data-tags="rock, christian rock, female vocals, 2010s rock, tyde moore radio" role="button">
 Plumb - Need You Now (2013-02-26)
+</li>
+<li data-cover="https://img.discogs.com/ej1rCJmFxb8TF7bc9nQbrLrsfSQ=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4532968-1367594233-7749.jpeg.jpg" data-tags="gothic, gothic metal, female vocals" role="button">
+Trail of Tears - Oscillation (2013-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
+Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/aYeFlqZvadrkMMekFY1E0HPIc1o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4694785-1372499121-9278.jpeg.jpg" data-tags="rock, blues rock" role="button">
 Deap Vally - Sistrionix (2013-06-28)

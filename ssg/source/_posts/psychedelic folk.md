@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:14:01.414Z
+date: 2021-04-11T09:39:01.470Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -102,20 +102,11 @@ The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, experimental, psychedelic folk, musiikkia autiolle saarelle" role="button">
 Kuusumun Profeetta - Kukin kaappiaan selässään kantaa (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/62e05c98-34a5-40c3-8761-9d33220f6b3d/4912812860-500.jpg" data-tags="rock" role="button">
-John Frusciante - From The Sounds Inside (2001-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/603cc5b9-22b1-4a92-a224-81de75c406be/25331831751-500.jpg" data-tags="folk, psychedelic folk" role="button">
-Six Organs of Admittance - Dark Noontide (2002-02-19)
-</li>
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/60b946ee-96e3-4a88-9213-5a101e978230/2355430075-500.jpg" data-tags="drone, psychedelic folk" role="button">
 Hala Strana - Fielding (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/40170c08-13a6-4c5b-8fed-f272338a3265/25471452169-500.jpg" data-tags="folk, experimental, ambient" role="button">
-Animal Collective - Campfire Songs (2003-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Here Comes the Indian (2003-06-17)
@@ -135,6 +126,9 @@ Devendra Banhart - Nino Rojo (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5db586b-b8b4-42d5-a49c-9cac637fdfbd/21757788068-500.jpg" data-tags="singer-songwriter, psychedelic folk" role="button">
+Devendra Banhart - At the Hop (2004-11-15)
+</li>
 <li data-cover="https://img.discogs.com/WkoXThSBS1kO0x2aoxmPcZSy31E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270364-1273529219.jpeg.jpg" data-tags="folk, psychedelic folk, jonasmusik" role="button">
 Diane Cluck - Countless Times (2005)
 </li>
@@ -143,9 +137,6 @@ Feathers - Feathers (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/42afd162-b4c6-49ed-ab32-dadbfc293a3d/12915497561-500.jpg" data-tags="new weird finland" role="button">
 Islaja - Palaa aurinkoon (2005-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6d5ba16-50eb-4b3d-94b8-ca9926ccb9d5/26159823167-500.jpg" data-tags="folk, psychedelic" role="button">
-Six Organs of Admittance - School of the Flower (2005-01-24)
 </li>
 <li data-cover="https://img.discogs.com/ZWdFOHOi3TOZR9TymAtE86pb22A=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329578-1341599154-1632.jpeg.jpg" data-tags="freak folk" role="button">
 Animal Collective - Prospect Hummer (2005-05-16)
@@ -192,8 +183,14 @@ Fursaxa - Alone In The Dark Wood (2007-01)
 <li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
 Dungen - Tio Bitar (2007-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/67e6fd04-0ffc-4f0f-8ef8-1403abaa5d57/11848217197-500.jpg" data-tags="electronic, psychedelic rock, psychedelic folk, four tet, abstract album covers, psychedelic album covers, colorful album covers" role="button">
+Sunburned Hand of the Man - Fire Escape (2007-10-02)
+</li>
 <li data-cover="https://img.discogs.com/5g3kwSDWrE91c1S6pYxoj3Rt70A=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2327074-1461917090-4947.jpeg.jpg" data-tags="folk" role="button">
 Six Organs of Admittance - Shelter From The Ash (2007-11-20)
+</li>
+<li data-cover="https://img.discogs.com/sVVO7MJ-yxUSjTPqnfmvOTqvNb0=/fit-in/500x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1447807-1360984631-4799.jpeg.jpg" data-tags="folk, psychedelic folk" role="button">
+Spires That in the Sunset Rise - Curse the Traced Bird (2008)
 </li>
 <li data-cover="https://img.discogs.com/tZ5kqavXzh06R56V_1lm3nUzYKU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1233113-1286730899.jpeg.jpg" data-tags="ambient, psychedelic, psychedelic folk, feel the noize, musica drogadicta, brujeria, nocturno, diletancia" role="button">
 Religious Knives - It's After Dark (2008)
@@ -203,6 +200,9 @@ Woods Family Creeps - Woods Family Creeps (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/54f64e7e-b8a9-4b53-86ef-8979d4a5b7c4/25131017315-500.jpg" data-tags="finnish" role="button">
 Paavoharju - Laulu laakson kukista (2008-05-14)
+</li>
+<li data-cover="https://img.discogs.com/qiU8v6VtsgRV3rwhiYnULPTadzY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774570-1242497752.jpeg.jpg" data-tags="folk, lo-fi, freak folk, psychedelic folk, psych folk, landmarks, experimental folk, drone folk" role="button">
+Alexander Tucker - Portal (2008-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
@@ -225,11 +225,11 @@ Natural Snow Buildings - Daughter of Darkness (2009-01-27)
 <li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
 </li>
-<li data-cover="https://img.discogs.com/61-X4PAgsIvCrrP8ibO7DU1lYFw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15977659-1601239800-4826.jpeg.jpg" data-tags="2009 albums" role="button">
-Woods - Songs of Shame (2009-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f7b8d80-755c-4fcc-ac8f-ebf4beaeb1ac/19194545986-500.jpg" data-tags="psychedelic" role="button">
+Master Musicians of Bukkake - Totem One (2009-05-25)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)

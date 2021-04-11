@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:32:01.417Z
+date: 2021-04-11T08:55:01.464Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -41,9 +41,6 @@ Faust - Faust IV (1973)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/70996c1f-4713-33ef-9f28-c3ec792d1526/16061268057-500.jpg" data-tags="post-punk, experimental rock" role="button">
-This Heat - Deceit (1981)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
@@ -198,9 +195,6 @@ Battles - Mirrored (2007-04-25)
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)
 </li>
-<li data-cover="https://img.discogs.com/t_Cs0tNPuSGRothsNolWGHi2xic=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030330-1604947121-2716.jpeg.jpg" data-tags="indie rock, progressive rock" role="button">
-Portugal. The Man - Church Mouth (2007-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
@@ -225,6 +219,9 @@ Super Furry Animals - Dark Days/Light Years (2009-03-16)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/19f14544-77fb-4d5f-92c8-352fa5cfea8e/18182528220-500.jpg" data-tags="psychedelic, graveface" role="button">
+Black Moth Super Rainbow - Eating Us (2009-05-26)
+</li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">
 Sonic Youth - The Eternal (2009-06-03)
 </li>
@@ -236,6 +233,9 @@ Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/53e71236-6849-3089-a38b-4b84072fe38b/26299801216-500.jpg" data-tags="post-hardcore, rock, experimental rock" role="button">
 Thrice - Beggars (2009-08-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa69a080-f4bd-44cd-bc3d-513880be9ea5/9465797397-500.jpg" data-tags="alternative rock" role="button">
+Brand New - Daisy (2009-09-18)
 </li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)

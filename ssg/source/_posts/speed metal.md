@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:42:01.410Z
+date: 2021-04-11T09:32:13.130Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -228,9 +228,6 @@ DragonForce - Valley of the Damned (2003-01-27)
 <li data-cover="https://img.discogs.com/QTttsNxHvqu8GxP2q31_blNPRJI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3789374-1611442156-5958.jpeg.jpg" data-tags="thrash metal" role="button">
 Anthrax - We've Come For You All (2003-02-14)
 </li>
-<li data-cover="https://img.discogs.com/Etdg6NU8LjK3zc6LwzSxDu9oHzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612442-1361530770-6064.jpeg.jpg" data-tags="power metal" role="button">
-Sonata Arctica - Winterheart's Guild (2003-02-21)
-</li>
 <li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
 Helloween - Rabbit Don't Come Easy (2003-05-12)
 </li>
@@ -272,6 +269,9 @@ HammerFall - Threshold (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2a63170-71c4-4563-bc6d-bd182ea8741c/27117150755-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Kiss of Death (2006-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/208cde40-4cb3-4f64-8829-ad4664ae0e6d/4075176902-500.jpg" data-tags="power metal" role="button">
+Heavenly - Virus (2006-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e327023-ec02-3650-82fa-5fa79ddaa08a/23704616687-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - United Abominations (2007-05-09)

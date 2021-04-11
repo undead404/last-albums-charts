@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:32:01.405Z
+date: 2021-04-11T09:34:01.418Z
 title: "synth pop: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -38,9 +38,6 @@ Duran Duran - Duran Duran (1981)
 </li>
 <li data-cover="https://img.discogs.com/aXTz_t6kfQrlt04iDyDJ5Qexh3g=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8555873-1537843848-3448.jpeg.jpg" data-tags="80s, synthpop" role="button">
 Heaven 17 - Penthouse And Pavement (1981)
-</li>
-<li data-cover="http://coverartarchive.org/release/8416d1ba-f520-4ef3-897b-0f3618e131ea/4733610053-500.jpg" data-tags="80s, new wave, new romantic" role="button">
-Ultravox - Vienna (1981-01-15)
 </li>
 <li data-cover="https://img.discogs.com/CFTaBhtZ5wm6-5TnAXz4kwJ7XE4=/fit-in/600x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15042924-1586277572-5066.jpeg.jpg" data-tags="80s" role="button">
 Orchestral Manoeuvres in the Dark - Architecture & Morality (1981-11-06)
@@ -111,9 +108,6 @@ Orchestral Manoeuvres in the Dark - If You Leave (1986-04-28)
 <li data-cover="https://img.discogs.com/udOI4fyGJRtPE6tTrzBL1i7-zs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545367-1255250271.jpeg.jpg" data-tags="80s, pop" role="button">
 Pet Shop Boys - Actually (1987-09-07)
 </li>
-<li data-cover="https://img.discogs.com/CJBQWr96FmlbEADMlkLZMWxXhMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3615222-1337459798-6856.jpeg.jpg" data-tags="80s, new wave" role="button">
-New Order - Technique (1989-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/28bb674b-dc21-3a26-92a9-ced106a4165c/2633457554-500.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Greatest Hits (1991-02-28)
 </li>
@@ -126,8 +120,8 @@ Erasure - Pop! The First 20 Hits (1992-11-16)
 <li data-cover="http://coverartarchive.org/release/f79de1c4-d185-42d1-88dc-2bc00cabbd68/15546860362-500.jpg" data-tags="chillout, dance, synth pop" role="button">
 The Beloved - Conscience (1993-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/fbd6f8e5-1106-3648-bb8e-9b1bb084666d/15046403005-500.jpg" data-tags="80s" role="button">
-Thomas Dolby - The Best of Thomas Dolby: Retrospectacle (1994-02-10)
+<li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
+New Order - Republic (1993-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
@@ -150,14 +144,11 @@ Jay-Jay Johanson - Antenna (2002-09-01)
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
 </li>
-<li data-cover="https://img.discogs.com/IZiCXRPKqjIpX_CPAqRz_2HJ7yU=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006598-1599280156-2301.jpeg.jpg" data-tags="electronic, electronica, electropop, pop, female vocalists, synth pop, synth, synthpop, alternative pop, ballad, 2010s, ballads, leona lewis, disappointing, underrated album, albumsiown, 2012 albums, leona, alternative electropop, favorite covers ever" role="button">
-Leona Lewis - Glassheart (2003-01-18)
+<li data-cover="http://coverartarchive.org/release/a4b23584-204f-4e88-82b7-ab4c664e3e42/2095021943-500.jpg" data-tags="electronic, synth pop, idm, music i tried but didnt like, favori" role="button">
+Iris - Awakening (2003-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e441d80-ca54-35eb-b3df-42095796aff1/3880014705-500.jpg" data-tags="80s, synthpop" role="button">
-The Human League - The Very Best of The Human League (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
@@ -165,14 +156,17 @@ Phoenix - Alphabetical (2004-03-21)
 <li data-cover="https://img.discogs.com/987NsiAX9j24z4m0p8rzVHyEEAk=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-334652-1097616842.jpg.jpg" data-tags="indie" role="button">
 The Faint - Wet From Birth (2004-09-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
+Nine Inch Nails - The Hand That Feeds (2005-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
 Röyksopp - Röyksopp's Night Out (2006-01-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/9140307c-3fd4-4aef-9cc4-1a70608ab086/2547081348-500.jpg" data-tags="industrial, industrial rock" role="button">
+Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
+</li>
 <li data-cover="https://img.discogs.com/eArzhz6swATRsWd4n3ZKro2FjYo=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699157-1363743943-5976.jpeg.jpg" data-tags="dance, new wave, synth pop, remix" role="button">
 Dangerous Muse - The Rejection Remixes (2006-07-04)
-</li>
-<li data-cover="https://img.discogs.com/ZwgbTRkhj-EdrNJaIbBQ4iHtp2E=/fit-in/473x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777233-1157707554.jpeg.jpg" data-tags="electronic" role="button">
-Junior Boys - So This Is Goodbye (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
@@ -215,6 +209,12 @@ Yeasayer - Odd Blood (2010-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/cb32e961-9ecc-41cb-9cf0-0232dc976c7e/19633438603-500.jpg" data-tags="trip-hop, ambient, synth pop, indietronica" role="button">
+Blue Sky Black Death - Third Party (2010-09-07)
+</li>
+<li data-cover="https://img.discogs.com/Sc6WL1ndDUeyWpxiTLHkonx78mA=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13802579-1561460893-1517.jpeg.jpg" data-tags="electronic, electropop, synth pop, 03-01" role="button">
+The Temper Trap - Conditions Remixed (2010-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec909364-b428-422c-85bc-fd562bb3a194/22034568945-500.jpg" data-tags="electronic" role="button">
 Gypsy & The Cat - Gilgamesh (2010-11-12)

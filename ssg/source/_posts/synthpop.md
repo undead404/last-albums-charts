@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:26:01.430Z
+date: 2021-04-11T09:44:01.468Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
