@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:13:01.398Z
+date: 2021-04-11T11:39:02.009Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
 ![Father John Misty - Fear Fun (2012-04-30)](http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg "Father John Misty - Fear Fun (2012-04-30)")
@@ -9,8 +9,8 @@ title: "seattle: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">Pearl Jam - Vs. (1993-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">Soundgarden - Superunknown (1994-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/294e3f8b-e60b-4975-aa2c-618451d51705/8951028803-500.jpg" data-tags="grunge" role="button">Mad Season - Above (1995-03-14)</li>
+<li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">Alice in Chains - MTV Unplugged (1996-04-10)</li>
 <li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">Minus the Bear - Highly Refined Pirates (2002-11-19)</li>
-<li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">Pedro the Lion - Achilles Heel (2004-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">Foo Fighters - In Your Honor (2005-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">Pearl Jam - Backspacer (2009-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">Father John Misty - Fear Fun (2012-04-30)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6286422c-4045-452e-9c73-82466249a30d/2150308396-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 Heart - Dog & Butterfly (1978-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/e77642b1-e08d-4d84-907b-85d5a42ce7f7/12607476714-500.jpg" data-tags="grunge, alternative, seattle" role="button">
+Green River - Come on Down (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
@@ -75,6 +78,9 @@ Pearl Jam - Vs. (1993-10-08)
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">
 Soundgarden - Superunknown (1994-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/15d2007e-df26-4c04-9afd-caee905fb0b0/22460844670-500.jpg" data-tags="rock, grunge, alternative, seattle, riot grrrl, 90s rock, northwest, desert island discs, this album is exceptionally important" role="button">
+The Gits - Enter: The Conquering Chicken (1994-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/294e3f8b-e60b-4975-aa2c-618451d51705/8951028803-500.jpg" data-tags="grunge" role="button">
 Mad Season - Above (1995-03-14)
 </li>
@@ -95,6 +101,9 @@ Soundgarden - Down on the Upside (1996-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8d42cff-a67c-4a29-9c31-e28ad8fcc32d/10611684247-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - No Code (1996-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/ccb1417c-f66b-4629-a231-1d6bed2cbe6b/11527072911-500.jpg" data-tags="rock, alternative" role="button">
+The Presidents of the United States of America - II (1996-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge, alternative, seattle, interiors, northwest, rivers all time favorite albums, ssij, tragically yours, tragically yours - bittersweet you, tragically yours - sister stone, discovering journey, tragically yours - give me one reason" role="button">
 Brad - Interiors (1997-06-03)
@@ -141,9 +150,6 @@ The Presidents of the United States of America - Freaked Out And Small (2000-09-
 <li data-cover="http://coverartarchive.org/release/132df5ae-1c07-4900-8e2e-5af898d49cd1/27168811431-500.jpg" data-tags="alternative, indie" role="button">
 Harvey Danger - King James Version (2000-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/e8aa6de5-b9ba-492c-8996-9deab783edd1/28737274420-500.jpg" data-tags="00s, alternative, singer-songwriter" role="button">
-Mark Lanegan - Field Songs (2001-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/8a60c85d-5ddf-4ce2-b7b6-6bcb25c58d42/21785498122-500.jpg" data-tags="indie, alternative, seattle, indie rock, 00s, apricot, american indie, band records" role="button">
 Preston School of Industry - Goodbye to the Edge City (2001-07-30)
 </li>
@@ -189,9 +195,6 @@ Blue Scholars - Blue Scholars (2004-02)
 <li data-cover="http://coverartarchive.org/release/77d5fc59-6d52-4070-b31a-b4841f86179b/3759468978-500.jpg" data-tags="grunge, rock" role="button">
 Courtney Love - America's Sweetheart (2004-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">
-Pedro the Lion - Achilles Heel (2004-05-25)
-</li>
 <li data-cover="https://img.discogs.com/cMKCWVsASiLAFs8HGeQKz8j1an4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-818140-1164848474.jpeg.jpg" data-tags="indie rock" role="button">
 Minus the Bear - They Make Beer Commercials Like This (2004-07-13)
 </li>
@@ -215,9 +218,6 @@ Harvey Danger - Little by Little (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0392562c-1a8a-44d5-8520-73da5881cc7e/26906695046-500.jpg" data-tags="hip hop" role="button">
 Blue Scholars - The Long March EP (2005-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d142c3ef-096d-4cd3-b81d-af34cca15677/24134023560-500.jpg" data-tags="singer-songwriter" role="button">
-Rocky Votolato - Makers (2006-01-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
@@ -249,9 +249,6 @@ Say Hi - The Wishes And The Glitch (2007-10-08)
 <li data-cover="https://img.discogs.com/L0gON9exB5Tk0atJLpNZfhllS0c=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1249526-1203719810.jpeg.jpg" data-tags="indie rock" role="button">
 Grand Archives - The Grand Archives (2008-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c9cf45b-5354-43e0-95c5-825f49d1e668/15535030253-500.jpg" data-tags="alternative rock" role="button">
-Blind Melon - For My Friends (2008-04-22)
-</li>
 <li data-cover="https://img.discogs.com/ApFR1O_HLzyiUWbXEy2wvCBIqow=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515193-1517702743-4731.jpeg.jpg" data-tags="rock, grunge" role="button">
 Mudhoney - The Lucky Ones (2008-05-20)
 </li>
@@ -266,6 +263,9 @@ Motopony - Motopony (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">
 Pearl Jam - Backspacer (2009-09-18)
+</li>
+<li data-cover="https://img.discogs.com/beUkkW4LLNmpXiTcWG8FjLg8Wg4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194679-1584286276-6396.jpeg.jpg" data-tags="rock, grunge, alternative, seattle, live, northwest, fuzzy guitar goodness, where is my bong, music to play on mdma, drunk tank singalong tune" role="button">
+Mudhoney - Live At El Sol (2009-10-20)
 </li>
 <li data-cover="https://img.discogs.com/D5_Pv19U8urkTZ3la7gVujoMCvw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10323123-1495313942-1248.jpeg.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
 Ivan & Alyosha - The Verse, The Chorus (2009-10-20)

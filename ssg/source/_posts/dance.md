@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:05:01.585Z
+date: 2021-04-11T11:35:02.399Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -30,6 +30,12 @@ Madonna - The Immaculate Collection (1990-11-12)
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
+Madonna - Erotica (1992-10-19)
+</li>
+<li data-cover="https://img.discogs.com/d28tpqQucwJ9drJ-Ad8JCNBVpoI=/fit-in/371x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1737046-1333832985.jpeg.jpg" data-tags="90s, pop, dance" role="button">
+Real McCoy - Another Night (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
@@ -39,9 +45,6 @@ Spice Girls - Spice (1996-09-19)
 <li data-cover="http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg" data-tags="dance, pop, eurodance, 90s" role="button">
 Aqua - Aquarium (1997-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
-The Prodigy - The Fat Of The Land (1997-06-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/02f8aca3-8bb3-44c4-abdf-26e4354d2e00/2137821691-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spiceworld (1997-10-31)
 </li>
@@ -50,12 +53,6 @@ Madonna - Ray of Light (1998-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/63b3a8ca-26f2-4e2b-b867-647a6ec2bebd/11266341757-500.jpg" data-tags="pop, 90s, dance" role="button">
 Cher - Believe (1998-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f829bf7-163b-49e5-84ba-fb44c2ad88e8/9560869252-500.jpg" data-tags="electronic" role="button">
-Fatboy Slim - You've Come a Long Way, Baby (1998-10-12)
-</li>
-<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
-The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="pop" role="button">
 Madonna - Music (2000-09-18)
@@ -90,9 +87,6 @@ Britney Spears - In the Zone (2003-11-13)
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
-The Chemical Brothers - Push the Button (2004-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
@@ -101,6 +95,9 @@ Basement Jaxx - The Singles (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
+</li>
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
+Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
@@ -134,9 +131,6 @@ Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
-The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
 Digitalism - Idealism (2007-05-09)
@@ -180,6 +174,9 @@ Madonna - Hard Candy (2008-04-25)
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
 </li>
+<li data-cover="https://img.discogs.com/Mic5a3Xc69_sJljWtqsC1qmfWPE=/fit-in/600x670/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15941827-1600615587-5102.jpeg.jpg" data-tags="pop, dance" role="button">
+The Pussycat Dolls - When I Grow Up (2008-05-27)
+</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
@@ -198,8 +195,8 @@ Lady Gaga - The Fame Monster (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
 </li>
-<li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
-The Prodigy - Invaders Must Die (2009-02-18)
+<li data-cover="https://img.discogs.com/PEP_ZS744KnxIEbpm0jJrasIlGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5081101-1383983724-1806.jpeg.jpg" data-tags="pop" role="button">
+Britney Spears - Circus (2008-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/593de430-1ce9-4934-a46c-d168bf9d1653/25512976161-500.jpg" data-tags="dance, cascada, pop" role="button">
 Cascada - Evacuate the Dancefloor (2009-05)
@@ -239,6 +236,9 @@ Stromae - Alors On Danse (2009-12-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Animal (2010-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d2f9cb7-eeee-49e1-aa01-316db029928a/5121685540-500.jpg" data-tags="dance, cooler than me" role="button">
+Mike Posner - Cooler Than Me (2010-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)

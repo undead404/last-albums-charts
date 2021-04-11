@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:05:01.438Z
+date: 2021-04-11T11:02:01.583Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c3740c56-e6db-3e9f-855e-feedf0538f85/25429949866-500.jpg" data-tags="heavy metal" role="button">
-Corrosion of Conformity - Blind (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
 Melvins - Bullhead (1991)
 </li>
@@ -110,6 +107,9 @@ Kylesa - Kylesa (2002-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e41d013a-b455-4359-84c5-c14b6112bba8/28540264236-500.jpg" data-tags="post-metal, sludge" role="button">
 Isis - Oceanic (2002-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3bfb6c1-9ce1-49d1-9f0f-32a219f46ff6/28744780847-500.jpg" data-tags="sludge metal, stoner metal" role="button">
+Weedeater - Sixteen Tons (2003-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
 Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
@@ -216,9 +216,6 @@ Mastodon - Crack the Skye (2009-02-23)
 <li data-cover="https://img.discogs.com/GiT-DzVcc0ckVTmIMmIqwHy9toI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1675413-1500133971-3022.jpeg.jpg" data-tags="sludge metal" role="button">
 Buried Inside - Spoils of Failure (2009-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/0497aa67-d982-4355-8af6-f2f8c95c15f4/4857645763-500.jpg" data-tags="sludge metal" role="button">
-Zoroaster - Voice of Saturn (2009-03-10)
-</li>
 <li data-cover="https://img.discogs.com/zPztsibNMG0_1WI-qrSwMurPO1c=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1856423-1589318076-9272.jpeg.jpg" data-tags="sludge metal" role="button">
 Kylesa - Static Tensions (2009-03-17)
 </li>
@@ -290,6 +287,9 @@ Cult of Luna - Vertikal (2013-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d33b338-de33-47ac-9445-cf84debf1816/3617872571-500.jpg" data-tags="sludge metal" role="button">
 Inter Arma - Sky Burial (2013-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b41d70a-4b9f-4523-9853-41c56b9585b5/3877523427-500.jpg" data-tags="rock, grunge, stoner metal, sludge metal, alice in chains, dr, herzschmerz, baamhakke, lieblingssongs, nice cover-art" role="button">
+Alice in Chains - Stone (2013-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)

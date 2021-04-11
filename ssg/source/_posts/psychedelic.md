@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:13:01.431Z
+date: 2021-04-11T11:45:01.626Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")

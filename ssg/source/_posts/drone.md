@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:21:01.418Z
+date: 2021-04-11T11:32:01.578Z
 title: "drone: 100 albums you must listen to before you die"
 ---
 ![Have a Nice Life - Deathconsciousness (2008-02-21)](http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg "Have a Nice Life - Deathconsciousness (2008-02-21)")
@@ -75,11 +75,11 @@ Stars of the Lid - Avec Laudenum (1999-12-07)
 <li data-cover="https://img.discogs.com/_jQwbyIaFrSFv2bgTHamg70Tn4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498119-1156908358.jpeg.jpg" data-tags="drone" role="button">
 Sunn O))) - The Grimmrobe Demos (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Sunset Mission (2000-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/8c22b1b6-07c9-4ac4-944a-4f5697c0c98b/2817171034-500.jpg" data-tags="drone" role="button">
 Sunn O))) - ØØ Void (2000-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/287b657f-7e81-4eea-8021-12b8c25d8040/1096834667-500.jpg" data-tags="ambient" role="button">
+Aix Em Klemm - Aix Em Klemm (2000-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/51838493-3a1b-48cf-b7d3-a1dd35aec471/1964934865-500.jpg" data-tags="post-rock, drone" role="button">
 Boris - Flood (2000-12-15)
@@ -95,9 +95,6 @@ Nurse With Wound - Salt Marie Celeste (2003-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcbffba8-7ec2-40d7-a957-a9c6ea270f04/21797761752-500.jpg" data-tags="drone" role="button">
 Sunn O))) - White1 (2003-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/40170c08-13a6-4c5b-8fed-f272338a3265/25471452169-500.jpg" data-tags="folk, experimental, ambient" role="button">
-Animal Collective - Campfire Songs (2003-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c4d2fcd-2578-4b19-875b-8836ecf1f179/2704214622-500.jpg" data-tags="drone" role="button">
 Nadja - Touched (2003-05)
@@ -138,6 +135,9 @@ Nadja - Truth Becomes Death (2005-10-17)
 <li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
 </li>
+<li data-cover="https://img.discogs.com/MtgXu0yNy2hLeIQvopQGKdLTUm8=/fit-in/490x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263768-1446998694-5625.png.jpg" data-tags="drone" role="button">
+Natural Snow Buildings - The Dance of the Moon and the Sun (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/62b3c1b2-1ecf-449e-b0ce-f972736da46e/19073869053-500.jpg" data-tags="ambient, drone" role="button">
 Belong - October Language (2006-02-08)
 </li>
@@ -162,9 +162,6 @@ Tim Hecker - Harmony In Ultraviolet (2006-10-16)
 <li data-cover="http://coverartarchive.org/release/441e27af-1bab-4295-9a07-76b5d534766c/12049469320-500.jpg" data-tags="drone, drone doom, experimental" role="button">
 Sunn O))) & Boris - Altar (2006-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
-Ben Frost - Theory of Machines (2006-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
 </li>
@@ -188,6 +185,9 @@ Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1c1bbd3-c98b-4212-bc93-5784f5d81817/5142385480-500.jpg" data-tags="experimental, noise" role="button">
 Fuck Buttons - Street Horrrsing (2008-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7bbf689-b65c-4d85-b8e2-533faf788fe1/1016426077-500.jpg" data-tags="drone" role="button">
+Nadja - Desire In Uneasiness (2008-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)

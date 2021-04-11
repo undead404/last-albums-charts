@@ -1,10 +1,10 @@
 ---
-date: 2021-04-11T01:53:01.463Z
+date: 2021-04-11T11:43:07.271Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
-![Arcana - Dark Age of Reason (1996)](http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg "Arcana - Dark Age of Reason (1996)")
+![Escala - Escala (2009-05-25)](http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg "Escala - Escala (2009-05-25)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg" data-tags="ambient, darkwave, gothic" role="button">Arcana - Dark Age of Reason (1996)</li>
+<li data-cover="http://coverartarchive.org/release/dae76dfa-6868-4105-ab35-133b9cd8f70d/5944843706-500.jpg" data-tags="neo-classical, score, cool score, granka" role="button">坂本龍一 - Cinemage (1999)</li>
 <li data-cover="https://img.discogs.com/rX0rFXm9Ngs9mJov-Nuk-MBTcjE=/fit-in/599x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4846896-1377355013-5168.jpeg.jpg" data-tags="classical, josh groban" role="button">Josh Groban - Closer (2003-08-11)</li>
 <li data-cover="https://img.discogs.com/R6ljqIn0A1AOWSfAZjomEC2K_B8=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2695328-1366535833-9837.jpeg.jpg" data-tags="neo-classical power metal" role="button">Galneryus - The Flag of Punishment (2003-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/3b803df2-86cb-4106-91b1-1c269b1776fc/18247981407-500.jpg" data-tags="ambient, female vocalists, world, new age, ethereal, world fusion, neo-classical, heavenly voices, lisa gerrard" role="button">Lisa Gerrard & Jeff Rona - A Thousand Roads (2005-08-23)</li>
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://img.discogs.com/pYnWoEW60oQ8jHHW3T6sqdkG7TA=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4583179-1369072733-8009.jpeg.jpg" data-tags="progressive rock, art rock" role="button">
 Procol Harum - Grand Hotel (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/24f86bde-4c00-4395-8de9-0b5495dec619/15902883312-500.jpg" data-tags="electronic" role="button">
-Vangelis - Mask (1985)
-</li>
 <li data-cover="http://coverartarchive.org/release/82815fc7-a9f9-3079-a256-822cd9ccb98b/3766549021-500.jpg" data-tags="industrial" role="button">
 The Legendary Pink Dots - Any Day Now (1987)
 </li>
@@ -36,8 +33,8 @@ Sol Invictus - Lex Talionis (1989)
 <li data-cover="https://img.discogs.com/IkP4iuRJA8Jhfpj8-QpJQc7cTZE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9037076-1473679317-6157.jpeg.jpg" data-tags="piano, neo-classical, piano solo, solo piano" role="button">
 Rick Wakeman - Sea Airs (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/e44d36c4-b257-4de0-97a5-60df977bede0/8722233162-500.jpg" data-tags="dark ambient, martial industrial" role="button">
-Death in June & Les Joyaux de la Princesse - Östenbräun (1989)
+<li data-cover="https://img.discogs.com/QagybxIYJmdxVTp05pWNRoaelwI=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427144-1336831134-9791.jpeg.jpg" data-tags="female vocalists, gothic, darkwave" role="button">
+Collection d'Arnell~Andréa - Au val des roses (1990)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="piano" role="button">
 Rick Wakeman - Night Airs (1990)
@@ -51,9 +48,6 @@ Steve Roach & Robert Rich - Soma (1992)
 <li data-cover="http://coverartarchive.org/release/03dfc4fc-01e6-4c77-8288-c73c3380c1d0/5499094764-500.jpg" data-tags="ambient" role="button">
 Harold Budd & Hector Zazou - Glyph (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d034d4b-98cb-4810-9f0c-e82e50248342/2180846856-500.jpg" data-tags="ambient, darkwave, gothic" role="button">
-Arcana - Dark Age of Reason (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7e186c3-d122-4970-80a5-96372d76ad06/18602690984-500.jpg" data-tags="dark ambient" role="button">
 Amber Asylum - Frozen in Amber (1996)
 </li>
@@ -63,17 +57,14 @@ In Slaughter Natives - Purgate My Stain (1996)
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4aa9a6f-311e-48f5-b485-c91f7ae4aa96/22465842542-500.jpg" data-tags="progressive metal" role="button">
+Windham Hell - Window of Souls (1996)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical" role="button">
 Xytras - Passage (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/e9c80d1e-ff57-4f9f-a9f1-917f998df883/1802519676-500.jpg" data-tags="dark ambient" role="button">
-Raison D'Être - Reflections from the Time of Opening (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/b296dcec-6745-42a3-81df-f933af14f689/1983167735-500.jpg" data-tags="dark folk, neo-classical, neoclassical, ethereal wave" role="button">
 Amber Asylum - The Natural Philosophy of Love (1997-05-13)
-</li>
-<li data-cover="https://img.discogs.com/RpXm5J1JHUWdYH1GKWvm94O8M9E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2627858-1299894556.jpeg.jpg" data-tags="power metal" role="button">
-KenZiner - Timescape (1998-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/dae76dfa-6868-4105-ab35-133b9cd8f70d/5944843706-500.jpg" data-tags="neo-classical, score, cool score, granka" role="button">
 坂本龍一 - Cinemage (1999)
@@ -84,14 +75,14 @@ Attrition - The Jeopardy Maze (1999-02-09)
 <li data-cover="http://coverartarchive.org/release/cd9b2fd9-d67a-4c3b-a405-89252fbe16d9/21496136995-500.jpg" data-tags="ethereal" role="button">
 KOKIA - songbird (1999-07-16)
 </li>
+<li data-cover="https://img.discogs.com/H_8bP53VPgZEDcRV_x5WylcY2Xs=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3712366-1450342881-1170.jpeg.jpg" data-tags="power metal" role="button">
+Majestic - Abstract Symphony (1999-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/4abc730c-8168-342f-b684-dc447747f11b/12866556038-500.jpg" data-tags="soundtrack" role="button">
 Danny Elfman - Sleepy Hollow (1999-11-16)
 </li>
 <li data-cover="https://img.discogs.com/Sn9pZIro7A8-o6WKXsX6FYqvy1E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-827284-1162850996.jpeg.jpg" data-tags="neo-classical, dark neo-classical" role="button">
 Thou Shalt Suffer - Somnium (2000-02-28)
-</li>
-<li data-cover="https://img.discogs.com/fdIUHKK7OKwtirOEUs7p1O5zCVc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-604392-1342613189-8889.jpeg.jpg" data-tags="dark ambient, gothic, darkwave" role="button">
-Dargaard - In Nomine Aeternitatis (2000-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2ec921a-0978-4a24-a1ef-24be706810a3/2856618513-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Chaostar - Chaostar (2000-05-16)
@@ -113,6 +104,9 @@ Sophia - Spite (2002-05)
 </li>
 <li data-cover="https://img.discogs.com/IVc8t3EULzNZX7y9GlPN_Ltb_KQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4442997-1476808209-8807.jpeg.jpg" data-tags="neo-classical metal" role="button">
 Time Requiem - Time Requiem (2002-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/009f589e-cfaa-4409-8a11-14acca3b77a6/3268689329-500.jpg" data-tags="folk, dark folk, neo-classical, neo folk" role="button">
+Dwelling - Humana (2003)
 </li>
 <li data-cover="https://img.discogs.com/68iVyMUGjqVVZ2bE5w6WrfSJP8E=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-388015-1106728407.jpg.jpg" data-tags="ambient, electronic, atmospheric ambient" role="button">
 Max Corbacho - Nocturnal Emanations (2003)
@@ -138,9 +132,6 @@ Galneryus - The Flag of Punishment (2003-10-22)
 <li data-cover="https://img.discogs.com/qngKYUIvYNKS9LbECtZMn83MvZ4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240856-1524763418-2292.jpeg.jpg" data-tags="dark ambient" role="button">
 Sophia - Deconstruction of the World (2003-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/01306766-df09-48d3-93c3-20410e1d5be5/25929250794-500.jpg" data-tags="power metal" role="button">
-Dark Moor - Dark Moor (2003-11-24)
-</li>
 <li data-cover="https://img.discogs.com/66vLNpK7uUfUTl4DgbyDK8uExS4=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937446-1174914881.jpeg.jpg" data-tags="neo-classical" role="button">
 Sibelian - The Soul Rush (2004)
 </li>
@@ -159,9 +150,6 @@ Mystic Forest - Romances (2004-09-17)
 <li data-cover="https://img.discogs.com/hg0r9XtcZwDBcouweWw25hqFGZ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-936989-1577644243-2720.jpeg.jpg" data-tags="lovecraft" role="button">
 Nox Arcana - Necronomicon (2004-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">
-Ophelia's Dream - Not A Second Time (2004-11-12)
-</li>
 <li data-cover="https://img.discogs.com/jJpqTTwjlEr3rjQ2WbYCmlbuJ9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963401-1376031707-9511.jpeg.jpg" data-tags="ethereal, dark folk, neo-classical, neo folk" role="button">
 Corde Oblique - Respiri (2005)
 </li>
@@ -173,6 +161,9 @@ Galneryus - Advance to the Fall (2005-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e547608-ebdb-4cfc-9345-03fdd13635bd/7833182768-500.jpg" data-tags="power metal, melodic power metal" role="button">
 Iron Mask - Hordes Of The Brave (2005-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9566473c-e999-44b8-b7e4-dc40063b2fa9/25343086357-500.jpg" data-tags="classical, instrumental, progressive rock, neo-classical, acoustic guitar, y2k prog, out of genesis" role="button">
+Steve Hackett - Metamorpheus (2005-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b803df2-86cb-4106-91b1-1c269b1776fc/18247981407-500.jpg" data-tags="ambient, female vocalists, world, new age, ethereal, world fusion, neo-classical, heavenly voices, lisa gerrard" role="button">
 Lisa Gerrard & Jeff Rona - A Thousand Roads (2005-08-23)
@@ -189,8 +180,8 @@ Narnia - Enter the Gate (2006-04-21)
 <li data-cover="http://coverartarchive.org/release/1ccacb7d-082c-4889-bf3e-bc424dfa5c49/26310137897-500.jpg" data-tags="metalcore, progressive metal" role="button">
 The Human Abstract - Nocturne (2006-06-22)
 </li>
-<li data-cover="https://img.discogs.com/xAMW7Kqd4VQfqsa466PIYsKC2l8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-802792-1173776485.jpeg.jpg" data-tags="ambient, idm" role="button">
-Kattoo - Hang On To A Dream (2006-10-06)
+<li data-cover="http://coverartarchive.org/release/db6864b9-cae5-4295-8079-7d9199dd026c/2773641886-500.jpg" data-tags="neo-classical" role="button">
+L'Effet C'Est Moi - Tomber En Héros (2007-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Mind's Eye - A Gentleman's Hurricane (2007-08-01)
@@ -215,6 +206,9 @@ Narsilion - Namárië (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
 Scythelence - Post-Romantic Syndrome (2008)
+</li>
+<li data-cover="https://img.discogs.com/HAkP2AQNYaIPrfCpIRClmrfRfdE=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1786041-1319067229.jpeg.jpg" data-tags="neo-classical, ethereal wave" role="button">
+The Victim's Shudder - Terror Romance (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
 Balmorhea - Rivers Arms (2008-02-12)
@@ -243,6 +237,9 @@ Corde Oblique - The Stones of Naples (2009-03-30)
 <li data-cover="http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg" data-tags="classical crossover, escala" role="button">
 Escala - Escala (2009-05-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/297e81ca-2dc8-4835-846f-2ea4e8b11529/21940972754-500.jpg" data-tags="ambient" role="button">
+Stray Ghost - An Avalanche of Swollen Tongues (2009-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/fe00aebf-c114-3d97-97a2-bc3867c13720/9218544927-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Dark Sanctuary - Dark Sanctuary (2009-12-04)
 </li>
@@ -258,11 +255,11 @@ Cicada - Over the Sea / Under the Water (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/39132851-5072-4816-897d-f4a00711c2a0/9571442188-500.jpg" data-tags="classical, piano" role="button">
 Raphaël D. Hardy - Everything That Came Into My Mind (2010-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/411fd526-ffd2-4712-8961-5fab7606f69c/14972155532-500.jpg" data-tags="symphonic metal" role="button">
-Amberian Dawn - End of Eden (2010-10-18)
-</li>
 <li data-cover="https://img.discogs.com/cXNfc2JIgq7z1jV7WuIpmdAI43g=/fit-in/600x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3688746-1603892233-4907.jpeg.jpg" data-tags="chamber metal, gothic" role="button">
 Coppelius - Zinnober (2010-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/72ddf800-2a50-4589-9280-a8ae16be5b0e/9571443290-500.jpg" data-tags="classical, piano" role="button">
+Raphaël D. Hardy - Wonderful Stories (2010-12-18)
 </li>
 <li data-cover="https://img.discogs.com/IUJcKo2twb4Y55Gjr55AhY0CGhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4610374-1369860491-8805.jpeg.jpg" data-tags="soundtrack, instrumental, ambient, new age, neo-classical" role="button">
 Celestial Aeon Project - Aeon 4 (2011-02-17)
@@ -273,14 +270,17 @@ My Dying Bride - Evinta (2011-05-30)
 <li data-cover="http://coverartarchive.org/release/3b44339a-12e5-4db5-8ca7-5268c1b7aed2/21164914728-500.jpg" data-tags="ambient, neo-classical" role="button">
 Sebastian Larsson - Piano (2011-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/384a04ff-bb6a-46c9-8b09-3f570d43569c/9571440974-500.jpg" data-tags="classical, chamber, chamber music, modern classical, neo-classical, neoclassical, seeing and hearing, mountains and hills and volcanoes and valleys" role="button">
+Raphaël D. Hardy - Looking at Them from the Top of the Hill (2011-08)
+</li>
 <li data-cover="https://img.discogs.com/BZf6fN4-puEWWKfuZVfC30P97YQ=/fit-in/436x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12558358-1537591888-8799.jpeg.jpg" data-tags="alternative, neo-classical" role="button">
 Outer - Outer (2011-08-12)
 </li>
+<li data-cover="https://img.discogs.com/aXV1q_T1bd761Vtpzu6M6f51igc=/fit-in/301x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638599-1352390172-2502.jpeg.jpg" data-tags="drone, dark ambient, neo-classical" role="button">
+Broken Harbour - Gramophone Transmissions (2011-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/964ec492-5cf2-4635-a54a-0287007f956c/14928757307-500.jpg" data-tags="vaporwave" role="button">
 James Ferraro - Far Side Virtual (2011-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1eba073-7a48-400c-970d-a0a3bd157d80/27730400160-500.jpg" data-tags="future pop, out of line" role="button">
-Kirlian Camera - Nightglory (2011-10-28)
 </li>
 <li data-cover="https://img.discogs.com/dZ_UqoM2w4y9u5aucJ9JT6QYx9k=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3244185-1322081791.jpeg.jpg" data-tags="experimental, neo-classical, drone folk" role="button">
 Preterite - Pillar of Winds (2011-11-08)

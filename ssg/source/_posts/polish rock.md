@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:42:01.410Z
+date: 2021-04-11T11:44:13.041Z
 title: "polish rock: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -44,9 +44,6 @@ Budka Suflera - Za ostatni grosz (1982)
 </li>
 <li data-cover="https://img.discogs.com/u3JSvuvtkjrcQQEkrDz11XxBiIQ=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13156185-1549035989-8096.jpeg.jpg" data-tags="rock, polish rock, 80s" role="button">
 Lady Pank - Lady Pank (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/55277f0f-0a72-4c7d-b825-b2dd6ee9a89d/13469361414-500.jpg" data-tags="rock, post-punk, coldwave" role="button">
-Aya RL - Aya RL (Czerwona) (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/c33f8d3f-456f-30f2-971c-c778e6bc4946/15712394762-500.jpg" data-tags="rock, blues, blues rock, polish, polish rock" role="button">
 Dżem - Dzień w którym pękło niebo (1985-05)
@@ -167,6 +164,9 @@ Czesław Niemen - Największe przeboje (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/36c3ea97-3583-44f1-988b-36d18e43eace/4225033613-500.jpg" data-tags="rock" role="button">
 Hey - Hey (1999-05-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, punk rock" role="button">
+Kukiz i Piersi - Pieśni ojczyźniane (2000-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5edf5ba8-5dd7-46b3-8019-7886ffe0ed63/7231340659-500.jpg" data-tags="rock, punk, alternative, alternative rock, polish, polska, 2000s, polish rock, polskie, polish music, kazik staszewski, ukass" role="button">
 El Dupa - A Pudle? (2000-12)

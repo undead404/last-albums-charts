@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:10:07.037Z
+date: 2021-04-11T11:38:01.695Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
@@ -33,14 +33,11 @@ Steppenwolf - Steppenwolf (1968-01)
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/193eddb6-6c3d-4bae-8a8e-77ef966889b0/8308969582-500.jpg" data-tags="folk" role="button">
-Rodriguez - Cold Fact (1970-03)
-</li>
 <li data-cover="https://img.discogs.com/NmsVUmq9vFd1TzISWaEutHROlws=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9909654-1603646763-2297.jpeg.jpg" data-tags="soul" role="button">
 Bill Withers - Just As I Am (1971-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/89c45b2b-897f-4ffa-8136-f89ef03e1d1b/24154174541-500.jpg" data-tags="70s, rock" role="button">
-Stealers Wheel - Stealers Wheel (1972)
+<li data-cover="http://coverartarchive.org/release/18d980d4-43f6-4d22-a6df-50ce7a3a6757/15600546210-500.jpg" data-tags="funk" role="button">
+Cymande - Cymande (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa0bc1db-0f54-4787-ae0e-e176fd498c95/11052429526-500.jpg" data-tags="country, country rock" role="button">
 Gram Parsons - GP (1973-01)
@@ -51,17 +48,17 @@ Dr. Feelgood - Down By The Jetty (1975)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Talking Heads: 77 (1977-09-16)
 </li>
-<li data-cover="https://img.discogs.com/RMYzpYyIA6AOBZdbg7xWl2gJlIM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379639-1419989010-9809.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
-The Feelies - Crazy Rhythms (1980)
+<li data-cover="https://img.discogs.com/a3UQ9-x0vzWAZWsyFhLLKqbr8vI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533376-1334183708.jpeg.jpg" data-tags="punk rock, punk" role="button">
+Buzzcocks - Another Music In A Different Kitchen (1978-03-10)
+</li>
+<li data-cover="https://img.discogs.com/adQO3tosrLHZ8KcQN24NXeL2na0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814611-1599857426-7150.jpeg.jpg" data-tags="post-punk, 70s, new wave" role="button">
+The Boys Next Door - Door, Door (1979-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/9353890a-a687-4882-88a5-12fdfdbe4419/12297527115-500.jpg" data-tags="pop, 80s" role="button">
 Wham! - Fantastic (1983-07-09)
-</li>
-<li data-cover="https://img.discogs.com/3uZgSt_SrYjrbMdq2GURj1H54XM=/fit-in/594x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478981-1335477478.jpeg.jpg" data-tags="new wave, electronic, 80s, synthpop" role="button">
-Nik Kershaw - Human Racing (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
 Cazuza - Exagerado (1985)
@@ -71,12 +68,6 @@ Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 </li>
 <li data-cover="https://img.discogs.com/w8npsPv1K_YmGXAJNwgoPpDeM7Y=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404791-1586645228-1108.jpeg.jpg" data-tags="80s" role="button">
 Arcadia - So Red The Rose (1985-09)
-</li>
-<li data-cover="https://img.discogs.com/2SgB42_HSgvVJGTAZ8GIEp1rE7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1509509-1265976464.jpeg.jpg" data-tags="80s" role="button">
-Cutting Crew - Broadcast (1986)
-</li>
-<li data-cover="https://img.discogs.com/lSQ2Dm03zcPucXA80L3T8rY_-ic=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1000845-1182632136.jpeg.jpg" data-tags="80s, synthpop" role="button">
-Pet Shop Boys - Please (1986-03-24)
 </li>
 <li data-cover="https://img.discogs.com/FyWbP7l4mBZD2nRO8wThr9qRoF0=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-967206-1344016381-4490.jpeg.jpg" data-tags="80s" role="button">
 Terence Trent D'Arby - Introducing The Hardline According To Terence Trent D'Arby (1987-07-09)
@@ -90,9 +81,6 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 <li data-cover="http://coverartarchive.org/release/91f744a9-83ff-4136-a570-956284fe0453/26961386827-500.jpg" data-tags="britpop" role="button">
 The Charlatans - Some Friendly (1990-09-25)
 </li>
-<li data-cover="https://img.discogs.com/ygbtWyhBA34L3aIc-x6JhsUggmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2753074-1509751324-7430.jpeg.jpg" data-tags="morphine, 90s, alternative, jazz rock" role="button">
-Morphine - Good (1992)
-</li>
 <li data-cover="https://img.discogs.com/GQLcU8u1ZNMwfInUdtY2_Uz6nQ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3688303-1471467370-3560.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - Generation Terrorists (1992-02-10)
 </li>
@@ -105,17 +93,14 @@ The Sea and Cake - The Sea and Cake (1994-10-20)
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/383317a2-bec7-324e-8abc-2beffca9412c/13607215415-500.jpg" data-tags="indie rock, indie" role="button">
+Sparklehorse - Vivadixiesubmarinetransmissionplot (1995-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6ee1837-5a06-47d2-b972-def8edd9cd7e/16084945087-500.jpg" data-tags="britpop" role="button">
 Cast - All Change (1995-10-16)
 </li>
-<li data-cover="https://img.discogs.com/FMnUmmbHGbRy61LkVDPpqwpzGz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3659325-1430926101-6224.jpeg.jpg" data-tags="britpop" role="button">
-The Bluetones - Expecting To Fly (1996-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
-Super Furry Animals - Fuzzy Logic (1996-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
@@ -137,9 +122,6 @@ Ian Brown - Unfinished Monkey Business (1998-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7d03874-bb32-436a-be72-1e8dbf467ff3/2407106828-500.jpg" data-tags="indie" role="button">
 Gomez - Bring It On (1998-04-13)
-</li>
-<li data-cover="https://img.discogs.com/rbx49RgVI7wbygpJyFPUCLKg8W4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-733460-1579641953-9778.jpeg.jpg" data-tags="alternative rock, lo-fi, 90s, title is a full sentence, debut album, steveadams fm, steveadamsfm, grahamcoxon, none of the good none of it, the worst album ever made" role="button">
-Graham Coxon - The Sky Is Too High (1998-08-08)
 </li>
 <li data-cover="https://img.discogs.com/wCe-9BW4YHDxpkpHGgBCr1TOtwU=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810448-1200057793.jpeg.jpg" data-tags="indie, folk" role="button">
 My Morning Jacket - The Tennessee Fire (1999-05-25)
@@ -216,6 +198,9 @@ Efterklang - Tripper (2004-10-25)
 <li data-cover="http://coverartarchive.org/release/f5e76ae6-1a5a-3eb9-8e0a-3e7588e16496/4812030096-500.jpg" data-tags="dub, ska, indie rock" role="button">
 The Dead 60s - The Dead 60s (2005-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/abd92415-25d2-3975-92cf-5714042083ad/25159035142-500.jpg" data-tags="stoner rock, hard rock" role="button">
+Priestess - Hello Master (2005-10-18)
+</li>
 <li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
 Jim Noir - Tower Of Love (2005-12-05)
 </li>
@@ -237,6 +222,9 @@ The View - Hats Off To The Buskers (2007-01-22)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/39ff3267-382e-45b8-bb75-e1e8588403c8/16256223840-500.jpg" data-tags="blues rock" role="button">
+Radio Moscow - Radio Moscow (2007-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/d2f48572-80b9-4d54-b675-6fa07cee6266/20687828354-500.jpg" data-tags="alternative rock, indie rock" role="button">
 Harrisons - No Fighting in the War Room (2007-06-11)
 </li>
@@ -245,6 +233,9 @@ Mutya Buena - Real Girl (2007-06-22)
 </li>
 <li data-cover="https://img.discogs.com/guPIzgSzoenHmmS7IeFD2j5ZvO0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222635-1201797400.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Wooden Shjips - Wooden Shjips (2007-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e6c60c6-8c4d-447d-b700-c709d0458737/1401794822-500.jpg" data-tags="k-pop, debut album, replay era, debut era" role="button">
+SHINee - 누난 너무 예뻐 (Replay) (2008-05-23)
 </li>
 <li data-cover="https://img.discogs.com/u6BB7YlomDdMpfUvSdokRTkxZio=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16174411-1605047855-3531.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Rascals - Rascalize (2008-06-23)
@@ -270,11 +261,11 @@ The Growlers - Are You In Or Out? (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/1427e66d-344e-4220-99ee-82261f82dfaf/5157119012-500.jpg" data-tags="pop" role="button">
 Cheryl Cole - 3 Words (2009-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/edea9349-db87-3945-90f0-64e4e6a3aeab/25416808404-500.jpg" data-tags="pop, rnb, xfactor, jls" role="button">
-JLS - JLS (2009-11-09)
-</li>
 <li data-cover="https://img.discogs.com/dtb8lL6FrBIPNTQWrXQKDbt9bVg=/fit-in/412x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848281-1303821841.jpeg.jpg" data-tags="rockabilly, usa, rock and roll, rhythm and blues, 2010s, debut album, 2010 albums, my best of 2010, j mc pherson" role="button">
 JD McPherson - Signs & Signifiers (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8c752d3-5c58-43d1-b258-6641cefbf9cd/16144170516-500.jpg" data-tags="rock, psychedelic" role="button">
+Moon Duo - Escape (2010-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4cf47b-6460-40dd-ad2b-5854aadd0f77/1614151671-500.jpg" data-tags="folk" role="button">
 Andrew Belle - The Ladder (2010-02-23)
@@ -294,11 +285,17 @@ Ab-Soul - Longterm Mentality (2011-04-05)
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">
 Miles Kane - Colour Of The Trap (2011-05-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1a2192a-6708-495e-8a19-c4ba13a4fd89/20369918463-500.jpg" data-tags="reggae, dub" role="button">
+Hollie Cook - Hollie Cook (2011-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0777432-5282-4f97-ac2a-de8aca33187b/18467734714-500.jpg" data-tags="jay rock" role="button">
 Jay Rock - Follow Me Home (2011-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d863bed-1a1b-4a49-bf1b-379c5b766693/10587938395-500.jpg" data-tags="soul" role="button">
+Eddie Floyd - Knock On Wood (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d48bbf8-6ce7-4fe8-be42-c5dc8ddfa5ae/6441498616-500.jpg" data-tags="schoolboy q" role="button">
 ScHoolboy Q - Habits & Contradictions (2012-01-14)
@@ -320,5 +317,8 @@ Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
+</li>
+<li data-cover="https://img.discogs.com/aYeFlqZvadrkMMekFY1E0HPIc1o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4694785-1372499121-9278.jpeg.jpg" data-tags="rock, blues rock" role="button">
+Deap Vally - Sistrionix (2013-06-28)
 </li>
 </ol>

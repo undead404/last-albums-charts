@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T03:16:06.889Z
+date: 2021-04-11T10:54:01.403Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Natasha Bedingfield - Strip Me (2010-12-07)](https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg "Natasha Bedingfield - Strip Me (2010-12-07)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="female voices, singles i own, flap" role="button">Björk - Hyperballad (1995)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Nina Simone - Nina Simone (2000)</li>
 <li data-cover="https://img.discogs.com/IABi9vpnFSXyzPTfvnE-rDYVdxA=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3067838-1314197681.jpeg.jpg" data-tags="japanese, female vocalists, female voices, the brilliant green" role="button">The Brilliant Green - Los Angeles (2001-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/863d6f97-4c29-46ad-ac35-03c6aaf8a6cd/17753189978-500.jpg" data-tags="jazz, female vocalists" role="button">Diana Krall - Live In Paris (2002-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">Hilary Duff - Metamorphosis (2003-06-20)</li>
+<li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">Gwen Stefani - Wind It Up (2006-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">Sugababes - Change (2007-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">Jazmine Sullivan - Fearless (2008-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">Brandy - Human (2008-12-05)</li>
@@ -54,9 +54,6 @@ Emmylou Harris - Cowgirl's Prayer (1993-09-28)
 <li data-cover="https://img.discogs.com/WlmK366nWzaikCSrtbbNmYzpHBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-989220-1509823212-1559.jpeg.jpg" data-tags="rock, pop" role="button">
 Edyta Bartosiewicz - Sen (1994)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female voices, singles i own, flap" role="button">
-Björk - Hyperballad (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/052f365f-beb2-4794-90e0-f272c266e973/18446288488-500.jpg" data-tags="country, skeeter davis" role="button">
 Skeeter Davis - The Essential Skeeter Davis (1995)
 </li>
@@ -92,6 +89,9 @@ NOA - Blue Touches Blue (2000-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdabd70c-49df-4d67-9eae-3c4cb898f9e6/6193239149-500.jpg" data-tags="country" role="button">
 Laura Cantrell - Not The Tremblin' Kind (2000-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/0909f454-253b-4da2-aa67-42836659b377/16071365098-500.jpg" data-tags="new age" role="button">
+Ronan Hardiman - Anthem (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfa96adb-9497-4161-b1ad-a1dcb992d2eb/7532869572-500.jpg" data-tags="female vocalists" role="button">
 Genitorturers - Flesh Is the Law (2001)
@@ -228,6 +228,9 @@ Cascada - Perfect Day (2007-12-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="israel, shiri maimon" role="button">
 שירי מימון - רגע לפני ש... (2008-01-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/0cc4e183-a823-4ddc-9179-f7718ed90ad7/12161513739-500.jpg" data-tags="jazz vocal, vocal, jazz, easy listening, vocal jazz, lounge, mellow, smooth jazz, jazzy, female vocal, female voices" role="button">
+Diane Schuur - Some Other Time (2008-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
 </li>
@@ -260,9 +263,6 @@ Kylie Minogue - Boombox (2008-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Quiet Nights (2009-03-26)
-</li>
-<li data-cover="https://img.discogs.com/hr7mBEAV5REhgnJVgp1_iodL6mc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727158-1489626590-4704.jpeg.jpg" data-tags="grime" role="button">
-Lady Sovereign - Jigsaw (2009-04-06)
 </li>
 <li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)

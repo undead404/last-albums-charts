@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:01:06.907Z
+date: 2021-04-11T11:30:01.839Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -41,9 +41,6 @@ Anima Sound System - Anima (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0bf2459-477c-309d-b597-9130106f4a02/28915832286-500.jpg" data-tags="90s" role="button">
 David Bowie - Earthling (1997-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
-Apollo 440 - Electro Glide In Blue (1997-02-27)
 </li>
 <li data-cover="https://img.discogs.com/42yY8-728mQ_HeoZtb58netsqT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127733-1369690762-6030.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, downtempo" role="button">
 Mr. Scruff - Mrs Cruff (1997-05-09)
@@ -89,6 +86,9 @@ PFM - Producer 02 (2002-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8689c59-a581-4caa-bf85-c17a29d1b137/25607825860-500.jpg" data-tags="atmospheric drum and bass, deep house" role="button">
 Tayla - Producer 04 (2002-03-25)
+</li>
+<li data-cover="https://img.discogs.com/qnw7XijC2a8hHm73fJ0PWif6Ge0=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62910-1556200728-9015.jpeg.jpg" data-tags="indietronica" role="button">
+Ms. John Soda - No P. or D. (2002-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/49cd5b24-36d8-4de0-aace-dfa25b386bfa/8545384175-500.jpg" data-tags="drum and bass, breakbeat" role="button">
 N.O.H.A. - Next Plateau (2003)

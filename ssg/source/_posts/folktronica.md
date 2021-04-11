@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:37:07.074Z
+date: 2021-04-11T11:27:01.611Z
 title: "folktronica: 100 albums you must listen to before you die"
 ---
 ![alt-J - An Awesome Wave (2012-05-28)](http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg "alt-J - An Awesome Wave (2012-05-28)")
@@ -39,11 +39,11 @@ Momus - Folktronic (2000)
 <li data-cover="http://coverartarchive.org/release/5b44657a-b0d1-4f99-97a3-3f53665e8da0/12596134090-500.jpg" data-tags="electronic, contemporary folk, folktronica, danish, nordic ethno grooves" role="button">
 Sorten Muld - III (2000)
 </li>
-<li data-cover="https://img.discogs.com/fRakLxfxm6wTSC7d1vJh3L03EPo=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54849-1100905702.jpg.jpg" data-tags="chillout, electronic, electronica, trip-hop, indie, vocal, chill, instrumental, reggae, ambient, downtempo, dub, cafe del mar, fusion, world, techno, house, idm, lounge, feist, folktronica, moby, singer songwriter, ballad, relax, beth orton, imogen heap, mash up, shopping, buddha bar, sarah mclachlan, six degrees, groove armada, itunes, intelligent dance music, elizabeth fraser, losing my mind, feel it, mrs major tom, adieu shinjuku zulu, various chimeras, allelujah, bedouin engine, eyeah, sayasaya, aem, almighty beat, losing my mind like, operafrica, box the gnat, e-yeah, happiness like motion" role="button">
-K.I.A. - Adieu, Shinjuku Zulu (2002)
-</li>
 <li data-cover="https://img.discogs.com/euOxpe1gP6-j9QfoVBGMiRt1csg=/fit-in/476x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2505002-1287673112.jpeg.jpg" data-tags="alternative, trip hop, folktronica" role="button">
 Chuck Prophet - No Other Love (2002)
+</li>
+<li data-cover="https://img.discogs.com/leUu1i2SDXU8XChlK2eKcjw1Gd4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2919853-1614443975-4015.jpeg.jpg" data-tags="folktronica" role="button">
+Namelessnumberheadman - When We Leave, We Will Know Where We've Been (2002)
 </li>
 <li data-cover="https://img.discogs.com/CHa9Pu3E_Rzm9XckY1necESOmz8=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-131244-1109694247.jpg.jpg" data-tags="electronic" role="button">
 Fonica - Ripple (2002-11-15)
@@ -54,14 +54,14 @@ Madonna - American Life (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/f762f5a8-df9b-4f68-909e-7bd8d3a9d660/24248998962-500.jpg" data-tags="ninja tune, folktronica, 00s, excellent albums, pro sun and no fear, dork folk" role="button">
 FOG - Ether Teeth (2003-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f95186a-906d-493a-ad75-9d0820292956/25217623886-500.jpg" data-tags="chamber pop, psychedelic pop, folktronica, 00s, neo-psychedelia, earlies, in queue no tracks, chamber psych" role="button">
-The Earlies - These Were The Earlies (2004)
-</li>
 <li data-cover="https://img.discogs.com/rfhTvyuqEuaR_lKNfDz4nbhUJYw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-293536-1393577017-8306.jpeg.jpg" data-tags="electronica, ambient, melodic, folktronica, australia, to and fro, adelaide, mush, headz, surgery records" role="button">
 Qua - Painting Monsters on Clouds (2004-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
+</li>
+<li data-cover="https://img.discogs.com/3zeqOjNHbbmQeHesYsKV6PkkJK4=/fit-in/582x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229511-1155605254.jpeg.jpg" data-tags="noise, electronica, ambient, experimental, acoustic, bristol, drone" role="button">
+Knowledge of Bugs - My Way No Way (2004-02-11)
 </li>
 <li data-cover="https://img.discogs.com/QgoPiIlztL55ZLbHvrJ1fWeMRN8=/fit-in/328x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747299-1154688869.jpeg.jpg" data-tags="experimental, folktronica" role="button">
 Psapp - Northdown (2004-03)
@@ -93,14 +93,14 @@ Colleen - The Golden Morning Breaks (2005-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/5eed9379-6b15-4b34-96cd-7fe87205402d/13519123987-500.jpg" data-tags="experimental, experimental rock, alpenrock, austropop, freak folk, folktronica, folk punk, austrian, austria, abstract hip hop, neue volksmusik, attwenger" role="button">
-Attwenger - Dog (2005-10-14)
-</li>
 <li data-cover="https://img.discogs.com/ojBj8tNf2UXJPGb87gBHvZ3bWL0=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540512-1363821648-8738.jpeg.jpg" data-tags="guitar" role="button">
 Tape - Rideau (2005-10-24)
 </li>
 <li data-cover="https://img.discogs.com/v56umtxzGgRrapRtXhCWMraVJAE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559544-1267556588.jpeg.jpg" data-tags="electronic, folktronica" role="button">
 Magnétophone - The Man Who Ate The Man (2005-10-24)
+</li>
+<li data-cover="https://img.discogs.com/wWcolyaKSP_acNbyKC2yGvC2rNc=/fit-in/304x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4893974-1378696268-5809.jpeg.jpg" data-tags="folktronica" role="button">
+The Endless - the Republic of Heaven (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62eff99-85ba-4a4d-85e5-53b3e649f5ea/1360708747-500.jpg" data-tags="indietronica, folktronica" role="button">
 Bacanal Intruder - Modem (2006-03-01)
@@ -120,11 +120,17 @@ Detektivbyrån - Hemvägen EP (2006-08-29)
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/36280c20-3d0d-489a-8953-93c18c78aa56/28268391632-500.jpg" data-tags="soundtrack, female fronted metal, metal, chillout, classical, vocal, classic, folk, ambient, post-rock, easy listening, choral, world, ambient pop, gothic, new age, dreamy, orchestral, atmospheric, dream pop, diva, mellow, evanescence, composer, synthpop, ethereal, folktronica, gothic metal, darkwave, soft pop, world fusion, disney, healing, fantasy, enya, heavenly voices, neoclassical, lana del rey, avant-pop, nightwish, magical, score, celtic pop, dreamwave, soprano, classical crossover, loreena mckennitt, kanon, within temptation, atmospheric pop, celine dion, vocal pop, gothic pop, musique classique, amazing vocals, popera, japanese folk, talent, eclectic dreaming, great vocals, loreena, medieval pop, tarja turunen, tarja, neoclassical darkwave, japanese new age, fantasy music, kokia, hino, indie classical, dark classical, prikosnovenie, better light a candle, j-classical, this is what dreams are made of, female fronted gothic metal, asian folk, world folk, pop opera, japanese female vocal, j-folk, divas international, world classical, akiko shikata, musica leggera, j-darkwave, japanese darkwave, j-gothic, mondovision, neoclassical pop, dream classical, disney pop, disney princess, japanese chillout" role="button">
+Cécile Corbel - songbook.1 (2006-10-02)
+</li>
 <li data-cover="https://img.discogs.com/wQ8bK-rB-FZPV5xCbRjd_CZFdEI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15084000-1586475346-8783.jpeg.jpg" data-tags="soundtrack, chillout, classical, vocal, classic, ambient, post-rock, choral, world, ambient pop, gothic, new age, dreamy, orchestral, atmospheric, dream pop, diva, mellow, composer, synthpop, ethereal, folktronica, darkwave, soft pop, world fusion, healing, fantasy, enya, heavenly voices, neoclassical, avant-pop, score, celtic pop, dreamwave, soprano, classical crossover, loreena mckennitt, kanon, atmospheric pop, celine dion, vocal pop, gothic pop, musique classique, amazing vocals, popera, eclectic dreaming, great vocals, loreena, medieval pop, tarja turunen, tarja, neoclassical darkwave, japanese new age, fantasy music, hino, indie classical, dark classical, j-classical, this is what dreams are made of, pop opera, divas international, world classical, akiko shikata, musica leggera, j-darkwave, japanese darkwave, j-gothic, mondovision, neoclassical pop, dream classical, japanese chillout, classical divas, j-ethereal, j-chillout, 2016 releases" role="button">
 カノン - Brand New Breeze (2006-11-22)
 </li>
 <li data-cover="https://img.discogs.com/aafFur7atbB1w3S8p00yHBeZVNM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270892-1205286522.jpeg.jpg" data-tags="folktronica" role="button">
 The Banjo Consorsium - A Turning One (2007)
+</li>
+<li data-cover="https://img.discogs.com/JhI1_Br9838uI7jb83l_8Cjc4ww=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9186602-1476294987-7319.jpeg.jpg" data-tags="galician, galicia, galiza" role="button">
+Fanny + Alexander - Finais dos 70s, comezos dos 80s (2007)
 </li>
 <li data-cover="https://img.discogs.com/3XxULGhd2gJ7IxY5izfy-bESx0Q=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8912432-1471338399-4789.mpo.jpg" data-tags="british, alternative, eclectic, gilbert linley, pop" role="button">
 Gilbert - Gilbert (2007)
@@ -134,6 +140,12 @@ Valravn - Krunk Krunk (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b70f9ddd-19f5-4102-a6c2-abf042b74841/3168135402-500.jpg" data-tags="nordic ethno grooves" role="button">
 Valravn - Valravn (2007)
+</li>
+<li data-cover="https://img.discogs.com/UeCONAjGBEHxtwGj9HKKwHYyRAw=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120322-1195676790.jpeg.jpg" data-tags="folk, alternative, acoustic" role="button">
+Denis Jones - humdrum virtue (2007)
+</li>
+<li data-cover="https://img.discogs.com/pMzmJYFfEXyvWH8lThJ4czlICSw=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14167533-1569108759-4584.jpeg.jpg" data-tags="noise, folktronica, new weird america" role="button">
+The Binary Marketing Show - yield what you may (2007)
 </li>
 <li data-cover="https://img.discogs.com/mq4DkIY7v2FdVEVc9iZgnShlj6M=/fit-in/395x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-873765-1167905285.jpeg.jpg" data-tags="happy, melodic, glitch, folktronica, netlabel, found sounds, netlabel artist" role="button">
 Bacanal Intruder - Lulo (2007-01-17)
@@ -147,9 +159,6 @@ Ellis Island Sound - The Good Seed (2007-02-12)
 <li data-cover="https://img.discogs.com/AmSUIlWlBwms-IZYvX-nmoh788o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934801-1340950615-3272.jpeg.jpg" data-tags="folk" role="button">
 Rio En Medio - The Bride of Dynamite (2007-02-13)
 </li>
-<li data-cover="https://img.discogs.com/hLBq-Nmm040vEWoyAIKOidats1o=/fit-in/454x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608369-1231930638.jpeg.jpg" data-tags="folktronica, electronica" role="button">
-James Yuill - Turning Down Water For Air (2007-02-26)
-</li>
 <li data-cover="https://img.discogs.com/LNUeIOwEI23ab53OD2RZ96Jn5t0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-994435-1257652853.jpeg.jpg" data-tags="post-rock" role="button">
 Damiak - Micalavera (2007-05-08)
 </li>
@@ -162,8 +171,8 @@ cokiyu - Mirror Flake (2007-07-11)
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
-<li data-cover="https://img.discogs.com/crc20hbBkQlhL5XwjsZCtvlj4sk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059879-1406310327-3283.jpeg.jpg" data-tags="folktronica" role="button">
-Tunng - Good Arrows (2007-08-27)
+<li data-cover="http://coverartarchive.org/release/39bb5fd6-a538-4235-aca9-17fe9ce3070a/1279286488-500.jpg" data-tags="field recording, folktronica, 00s, psych-folk, musique concrete, post-folk, raga folk, art pop, drone folk, organic electronica, dream folk, new weird canada, art folk, glitch-folk, 12rec." role="button">
+Nicolas Bernier & Simon Trottier - Objet Abandonné en Mer (2007-09-04)
 </li>
 <li data-cover="https://img.discogs.com/MdUS463xtQ4Q6YNgB92tN0WWtrk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1107914-1319506688.jpeg.jpg" data-tags="folktronica" role="button">
 Part Timer - Blue (2007-09-17)
@@ -177,11 +186,11 @@ Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/512bab90-386e-48a0-9aba-d77e03c3c858/1397016092-500.jpg" data-tags="folktronica" role="button">
+Chikiss - Untitled vitamin (2008-02-18)
+</li>
 <li data-cover="https://img.discogs.com/MZSoBok1MtaL17HflbjBSO-jn8o=/fit-in/288x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1370955-1213725532.jpeg.jpg" data-tags="folktronica, music to fall asleep to" role="button">
 Borko - Celebrating Life (2008-02-29)
-</li>
-<li data-cover="https://img.discogs.com/-YW_3eaBsJ7UOaQmkDFOn65otGE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1303567-1566922120-6440.jpeg.jpg" data-tags="female vocalists, chamber pop, psychedelic pop, folktronica, art pop, baroque rock, i own" role="button">
-Goldfrapp - Happiness (2008-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/054079dd-1201-4cf4-b1c1-4033e6f659a0/23905162566-500.jpg" data-tags="dream pop, folktronica, pon pon" role="button">
 CocoRosie - God Has a Voice, She Speaks Through Me (2008-05-13)
@@ -231,14 +240,11 @@ Emily Wells - Dirty (2009-06-09)
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
-<li data-cover="https://img.discogs.com/EEGvZmGcZ9aQCsLEjTgCuLjikR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3078485-1314693230.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, indie, chill, alternative, experimental, female vocalists, post-rock, downtempo, australian, dark, new wave, indietronica, minimal, dreamy, lounge, trip hop, mellow, ethereal, folktronica, chilled, post rock, triphop, female vocals, australia, female vocalist, ballad, lesser known yet streamable artists, female singer, independent, female fronted electro, alternative female vocalists, artists who are lastfm users, elektro target, pixies palace, chez musinum, central point, vocal electronica, network, vocal electronic, alt-electro, 21stcentury, cybermusic, dementio13, melancholy lounge, pixieguts, aeo, preset, independent artists, free mp3 artist radio, dandelion radio, ide, alternative female vocalist" role="button">
-Cwtch - City To City (2009-08-24)
-</li>
-<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
-Imogen Heap - Ellipse (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd1d3a84-3600-49cd-b1d7-ccd4d10c58af/3168123217-500.jpg" data-tags="ethereal, folktronica" role="button">
 Valravn - Koder på snor (2009-09-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie, folk, folktronica" role="button">
+Agent A & Omae - Symphony Leaf (2009-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fb4f073-94e0-4f6b-bcd2-8b9a48dafdbb/12165987773-500.jpg" data-tags="indie pop" role="button">
 Coma Cinema - Blue Suicide (2010)
@@ -294,17 +300,11 @@ Ass - Ass (2013)
 <li data-cover="http://coverartarchive.org/release/db156baa-231f-47ec-bad9-d8dbeed93597/14548046594-500.jpg" data-tags="chamber pop, folktronica, art pop" role="button">
 Chris Garneau - Winter Games (2013-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Junip - Junip (2013-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2598039-995f-466a-a330-d81dd5e7f340/5632330043-500.jpg" data-tags="ambient, experimental, idm, glitch, folktronica" role="button">
 Oval - Voa (2013-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
-Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5b77ae7-c4c3-4104-86c3-38b9bac10ed8/8747954287-500.jpg" data-tags="indie pop, folktronica, folktronic" role="button">
 DVA - NIPOMO (2014-02-25)

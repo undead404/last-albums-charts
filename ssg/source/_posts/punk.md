@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:29:01.440Z
+date: 2021-04-11T10:57:01.437Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -63,9 +63,6 @@ Bad Brains - Bad Brains (1982)
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
-Violent Femmes - Violent Femmes (1983-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
 </li>
@@ -80,6 +77,9 @@ Sublime - 40 Oz. to Freedom (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ignition (1992-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/fd4a7f6c-63cf-4b9f-885b-ada3032ccd88/3754348144-500.jpg" data-tags="punk rock" role="button">
+Bad Religion - Stranger Than Fiction (1994)
 </li>
 <li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Dookie (1994-01-28)
@@ -117,11 +117,11 @@ Refused - The Shape of Punk to Come (1998-10-27)
 <li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
+Bloodhound Gang - Hooray for Boobies (1999-10-04)
+</li>
 <li data-cover="https://img.discogs.com/MsiWJNpi0AFCi3HcwEoprQEGid8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1521897-1290105045.jpeg.jpg" data-tags="punk" role="button">
 Alkaline Trio - Maybe I'll Catch Fire (2000-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">
-Flogging Molly - Swagger (2000-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccb4be41-f6d1-435d-8e9e-7d8459fa40cb/11551221768-500.jpg" data-tags="punk rock" role="button">
 Green Day - Warning (2000-03-21)
@@ -141,23 +141,23 @@ Sum 41 - All Killer No Filler (2001-05-08)
 <li data-cover="http://coverartarchive.org/release/1b20f6b7-3e89-3b18-b52e-98558a3b6539/9460754680-500.jpg" data-tags="punk rock, rock, punk" role="button">
 Green Day - International Superhits! (2001-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/56db4963-266b-4c39-8515-57ee7a11f0d1/14154529310-500.jpg" data-tags="punk, folk punk" role="button">
-Against Me! - Reinventing Axl Rose (2002-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">
-Flogging Molly - Drunken Lullabies (2002-03-19)
-</li>
 <li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b24f4f3-5617-47fd-ac30-e82282d7621f/11149812820-500.jpg" data-tags="punk rock" role="button">
 Box Car Racer - Box Car Racer (2002-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - Let Go (2002-06-04)
+</li>
 <li data-cover="https://img.discogs.com/EEctr5TwNHN6kK0zJTkPBdmzFPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4098241-1590334404-2830.jpeg.jpg" data-tags="pop punk" role="button">
 New Found Glory - Sticks and Stones (2002-06-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
+</li>
+<li data-cover="https://img.discogs.com/1YbCa_LUFfTJlv-EsKzNe_4WaF0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1325572-1429907599-1947.jpeg.jpg" data-tags="punk" role="button">
+Transplants - Transplants (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/29911ee4-301b-4192-924e-24db9e973227/15248581026-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Does This Look Infected? (2002-11-25)
@@ -183,9 +183,6 @@ NOFX - The War on Errorism (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/d09eb97a-d4d9-4aec-ac81-524f4ee1c09d/6140037439-500.jpg" data-tags="punk rock" role="button">
 Alkaline Trio - Good Mourning (2003-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/41c645e2-dc4d-3a56-ac30-1d1e55946c62/4773391073-500.jpg" data-tags="punk, punk rock" role="button">
-Dropkick Murphys - Blackout (2003-06-10)
-</li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)
 </li>
@@ -207,6 +204,9 @@ The Used - In Love and Death (2004-01-24)
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
+Bad Religion - The Empire Strikes First (2004-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
@@ -221,9 +221,6 @@ Bowling for Soup - A Hangover You Don't Deserve (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
-</li>
-<li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">
-Flogging Molly - Within a Mile of Home (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">
 Green Day - American Idiot (2004-09-20)
@@ -245,9 +242,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
 Alkaline Trio - Crimson (2005-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
-Dropkick Murphys - The Warrior's Code (2005-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3614a7b6-5158-4b9a-bf18-b03bce0ca8f4/8815559499-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Greatest Hits (2005-06-20)
@@ -279,6 +273,9 @@ New Found Glory - Coming Home (2006-09-18)
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/f33e4eed-270b-3e51-8f04-d9c1eba4a8e6/7984535080-500.jpg" data-tags="punk rock, punk" role="button">
+The Clash - The Singles (2006-10-30)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
 </li>
@@ -308,6 +305,9 @@ The Gaslight Anthem - The '59 Sound (2008-08-18)
 </li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/af93aa3c-4046-40f1-8b84-c6cc95ab91a2/14099783969-500.jpg" data-tags="punk" role="button">
+The Offspring - You're Gonna Go Far, Kid (2008-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)

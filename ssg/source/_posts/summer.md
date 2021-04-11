@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:49:07.006Z
+date: 2021-04-11T11:41:35.309Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Mark Ronson - Uptown Funk (2014-11-10)](http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg "Mark Ronson - Uptown Funk (2014-11-10)")
@@ -144,9 +144,6 @@ M. Ward - Post-War (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/bf5303ec-7679-4867-a327-4088ac9d4dcc/15640207329-500.jpg" data-tags="indie, indie rock" role="button">
 Albert Hammond, Jr. - Yours To Keep (2006-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e97582f-00f1-3b68-8589-44fb42dce059/25280285422-500.jpg" data-tags="folk" role="button">
-Beirut - Lon Gisland (2006-11-10)
-</li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
@@ -276,6 +273,9 @@ Saint Etienne - Words and Music by Saint Etienne (2012-05-21)
 <li data-cover="http://coverartarchive.org/release/c42aa1fb-a930-4d93-9b8f-1ee6a6b03f73/26941915089-500.jpg" data-tags="indie" role="button">
 Walk the Moon - Walk the Moon (2012-06-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/a42c4336-c712-4df2-8cbe-c3a31977d91e/28138649646-500.jpg" data-tags="happy, jungle, summer, reggae dnb" role="button">
+Dub Pistols - Worshipping The Dollar (2012-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
 </li>
@@ -288,14 +288,14 @@ Toro y Moi - Anything in Return (2013-01-22)
 <li data-cover="http://coverartarchive.org/release/d716ce8b-0678-44de-8845-9981245fbd04/8458717217-500.jpg" data-tags="summer" role="button">
 The Little Ones - The Dawn Sang Along (2013-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Junip - Junip (2013-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">
 Vampire Weekend - Modern Vampires of the City (2013-05-06)
 </li>
 <li data-cover="https://img.discogs.com/gx2Zf1m74BCtv2HxuuSCsKsDfOw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552627-1368272300-8300.jpeg.jpg" data-tags="indie, new wave, dreamy, summer, synthpop, dreampop, sunny, captured tracks" role="button">
 Wild Nothing - Empty Estate (2013-05-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/50487f67-efd3-4d63-a18f-fa2dc1e6787d/7115602466-500.jpg" data-tags="math rock, summer, post rock, 2013 albums, hymnic" role="button">
+Enemies - Embark, Embrace (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)

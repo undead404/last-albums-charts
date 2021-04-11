@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:34:01.430Z
+date: 2021-04-11T11:06:01.709Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -9,11 +9,11 @@ title: "electronica: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">Radiohead - Kid A (2000-08-03)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
+<li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">Röyksopp - The Understanding (2005-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">Gorillaz - Plastic Beach (2010-03-03)</li>
-<li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,11 +30,11 @@ Enigma - The Cross of Changes (1993-12-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
 </li>
+<li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Protection (1994-09-26)
+</li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
-The Chemical Brothers - Exit Planet Dust (1995-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)
@@ -44,15 +44,6 @@ Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/79f2fb40-1e55-4a56-b749-89a9c73d8cb6/19177871704-500.jpg" data-tags="electronic, big beat" role="button">
-The Chemical Brothers - Dig Your Own Hole (1997-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
-The Prodigy - The Fat Of The Land (1997-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a664645-ab08-4ffe-9ad2-a34c47029bb2/10125792528-500.jpg" data-tags="electronic, breakbeat" role="button">
-The Crystal Method - Vegas (1997-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
@@ -72,14 +63,8 @@ Faithless - Sunday 8PM (1998-09-21)
 <li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
 The Beta Band - The Three E.P.'s (1998-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f829bf7-163b-49e5-84ba-fb44c2ad88e8/9560869252-500.jpg" data-tags="electronic" role="button">
-Fatboy Slim - You've Come a Long Way, Baby (1998-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
-</li>
-<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
-The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
@@ -105,14 +90,23 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
+Four Tet - Pause (2001-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/86064722-1df6-3ade-ae5f-30cb7542c7a9/28689862312-500.jpg" data-tags="electronic" role="button">
+Faithless - Outrospective (2001-06-08)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
-<li data-cover="https://img.discogs.com/StqPQsGS1lBDPXhOUNG8_Zwf4I0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482940-1121544057.jpg.jpg" data-tags="electronic" role="button">
-The Chemical Brothers - Come With Us (2002-08)
+<li data-cover="https://img.discogs.com/lU8JOpVOHgwTfqSW8uc0IhKzrUM=/fit-in/553x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290388-1206828056.jpeg.jpg" data-tags="trip-hop" role="button">
+Sneaker Pimps - Bloodsport (2002-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
+Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
@@ -147,11 +141,11 @@ Lali Puna - Faking The Books (2004-04-19)
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/bae60ee9-2a48-3504-97e8-b2d7a722282a/4394074765-500.jpg" data-tags="electronic, house" role="button">
+Mylo - Destroy Rock & Roll (2004-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/fd01efd0-91ef-4a6a-832b-a4945c233cbf/11348812197-500.jpg" data-tags="electronic, ambient" role="button">
 Tycho - Past Is Prologue (2004-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
-The Chemical Brothers - Push the Button (2004-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
@@ -161,6 +155,9 @@ Lemon Jelly - '64-'95 (2005-01-31)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/75735819-6bca-42bf-a807-5d456f277dbd/11778363663-500.jpg" data-tags="chillout, electronica" role="button">
+Brazilian Girls - Brazilian Girls (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
@@ -180,11 +177,17 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
+<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
+CSS - Cansei De Ser Sexy (2005-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - In A Space Outta Sound (2006-01)
+</li>
+<li data-cover="https://img.discogs.com/PjmlRvRhOludN9TU2ttaSQLg104=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656724-1148757680.jpeg.jpg" data-tags="electronic" role="button">
+Hot Chip - The Warning (2006-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
@@ -204,17 +207,17 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
-The Chemical Brothers - We Are The Night (2007-05)
+<li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
+Digitalism - Idealism (2007-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/430826de-7856-412a-a644-3344e0b9d09e/1114878797-500.jpg" data-tags="electronic" role="button">
+Hot Chip - Made in the Dark (2008-02-01)
+</li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
-The Chemical Brothers - Brotherhood (2008-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
@@ -222,11 +225,11 @@ Friendly Fires - Friendly Fires (2008-09-01)
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
-<li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
-The Prodigy - Invaders Must Die (2009-02-18)
-</li>
 <li data-cover="https://img.discogs.com/jnGU0rPnUOyIqqugh4JtoaYDLOY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15537372-1593224889-6566.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">
+Empire of the Sun - Walking on a Dream (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
@@ -242,6 +245,9 @@ Desire - II (2009-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
+Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
@@ -267,14 +273,8 @@ Gorillaz - Plastic Beach (2010-03-03)
 <li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
 Bonobo - Black Sands (2010-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">
-Crystal Castles - Crystal Castles (2010-05-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Immersion (2010-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e31eec90-e341-3acd-8ba4-9e26e9fd7eea/9173931560-500.jpg" data-tags="electronic" role="button">
-The Chemical Brothers - Further (2010-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)

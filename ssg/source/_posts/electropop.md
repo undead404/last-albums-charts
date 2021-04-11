@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:26:01.413Z
+date: 2021-04-11T11:09:01.430Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -147,9 +147,6 @@ The xx - xx (2009-08-14)
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
-<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
-Imogen Heap - Ellipse (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
 </li>
@@ -233,6 +230,9 @@ LMFAO - Sorry for Party Rocking (2011-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
 Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/362900b0-e046-4c34-beb1-eb2ecd3bff64/19088259874-500.jpg" data-tags="rock, hot chelle rae" role="button">
+Hot Chelle Rae - Whatever (2011-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)

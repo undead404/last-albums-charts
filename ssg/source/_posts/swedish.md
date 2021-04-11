@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:12:01.418Z
+date: 2021-04-11T10:49:01.408Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a3ce24a2-ddd3-3b38-93f6-aed1e16b4c74/18286980985-500.jpg" data-tags="pop" role="button">
 ABBA - Ring Ring (1973-03-26)
 </li>
+<li data-cover="https://img.discogs.com/9StqbEn9kWNdC3W7kdjl7KG4d-o=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472286-1299412248.jpeg.jpg" data-tags="pop, 70s" role="button">
+ABBA - Waterloo (1974-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/c549b917-ad9c-454f-bcdd-1a7b52de1455/7439486158-500.jpg" data-tags="pop, abba, disco, 70s" role="button">
 ABBA - ABBA (1975-04-21)
 </li>
@@ -41,9 +44,6 @@ ABBA - Super Trouper (1980-11-03)
 </li>
 <li data-cover="https://img.discogs.com/0NOMf8Yk7O_Djhb8UPJDdvuWEOc=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12255979-1531540052-2119.jpeg.jpg" data-tags="roxette, 90s, pop" role="button">
 Roxette - Joyride (1991-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8dbf89dc-ff9e-45e3-ac43-2b82afee28ad/7443972996-500.jpg" data-tags="pop, 90s" role="button">
-Roxette - Crash! Boom! Bang! (1994-04-08)
 </li>
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
@@ -135,9 +135,6 @@ The Ark - State of The Ark (2004-12-27)
 <li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
 Johnossi - Johnossi (2005-01-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/217c3eef-272e-475b-9959-d9e6f092369c/3671648879-500.jpg" data-tags="indie" role="button">
-Håkan Hellström - Ett kolikbarns bekännelser (2005-02-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">
 Kent - Du & jag döden (2005-03-15)
 </li>
@@ -158,6 +155,9 @@ Kent - The Hjärta & Smärta EP (2005-11-02)
 </li>
 <li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">
 Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
+</li>
+<li data-cover="https://img.discogs.com/av4vKOyCWa60QXni1p8bqrEe6HM=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10227973-1493743125-3281.jpeg.jpg" data-tags="rock, classic rock, swedish, unsigned, pop" role="button">
+The Milestone Corporation - Big Night Out (2006-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">
 The Sounds - Dying to Say This to You (2006-03-21)
@@ -288,6 +288,9 @@ First Aid Kit - The Lion's Roar (2012-01-17)
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/0162cc15-66c7-4bb1-9754-94798255fbd2/973572535-500.jpg" data-tags="rock" role="button">
+Kent - Jag är inte rädd för mörkret (2012-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
 Icona Pop - I Love It (2012-05-09)
 </li>
@@ -305,9 +308,6 @@ The Royal Concept - The Royal Concept (2012-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Junip - Junip (2013-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, female vocalists" role="button">
 Say Lou Lou - Julian (2013-05-03)

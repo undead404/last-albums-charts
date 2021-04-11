@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T04:47:01.400Z
+date: 2021-04-11T11:26:01.509Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">Silverchair - Neon Ballroom (1999-03-05)</li>
 <li data-cover="https://img.discogs.com/jsfuBqIQ9Tl25n0Dd8juDTzDnYc=/fit-in/350x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059559-1306253341.jpeg.jpg" data-tags="rock" role="button">Jet - Get Born (2003-09-14)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">Wolfmother - Wolfmother (2005-10-31)</li>
-<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">Pnau - Pnau (2007-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">The Temper Trap - Sweet Disposition (2008)</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">Cut Copy - In Ghost Colours (2008-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">Empire of the Sun - Walking on a Dream (2009-04-21)</li>
@@ -62,6 +62,9 @@ Crowded House - Recurring Dream: The Very Best of Crowded House (1996-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
 Savage Garden - Savage Garden (1997-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/87383a10-7042-44d5-8457-9026f2365f8e/6657328580-500.jpg" data-tags="australian" role="button">
+Regurgitator - Unit (1997-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
@@ -129,6 +132,9 @@ The Lucksmiths - Warmer Corners (2005-04)
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
+<li data-cover="https://img.discogs.com/5ZkhvkjfpMuxoJixDG17lobiaBg=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4299046-1361096926-5564.jpeg.jpg" data-tags="reggae" role="button">
+The Beautiful Girls - We're Already Gone (2005-07-04)
+</li>
 <li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
 Karnivool - Themata (2005-07-11)
 </li>
@@ -186,9 +192,6 @@ Ben Lee - Ripe (2007-09-04)
 <li data-cover="https://img.discogs.com/5CSR2ZexE31wNBuqOnv9HvTMq1A=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664115-1334722692.jpeg.jpg" data-tags="australian" role="button">
 The Panics - Cruel Guards (2007-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">
-Pnau - Pnau (2007-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f1817f1-0357-4f55-912b-1e4b052abaab/1158143504-500.jpg" data-tags="indie, rock, australian, aussie, sydney, discoverockult, good australian pop with substance" role="button">
 Faker - Be The Twilight (2007-11-17)
 </li>
@@ -215,9 +218,6 @@ AC/DC - Black Ice (2008-10-17)
 </li>
 <li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">
 Wolfmother - Cosmic Egg (2009-01-01)
-</li>
-<li data-cover="https://img.discogs.com/386MqCyhoQeEYW_EV0DED1vektE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673013-1248027968.jpeg.jpg" data-tags="australian" role="button">
-Howling Bells - Radio Wars (2009-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">
 Empire of the Sun - Walking on a Dream (2009-04-21)

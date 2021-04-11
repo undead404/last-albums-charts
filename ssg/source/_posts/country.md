@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:04:01.432Z
+date: 2021-04-11T11:14:02.129Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -69,9 +69,6 @@ Faith Hill - Breathe (2000-05-08)
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="country, lee ann womack" role="button">
 Lee Ann Womack - I Hope You Dance (2000-05-23)
 </li>
-<li data-cover="https://img.discogs.com/1W0VNVjD24tviPLcPvTdgAwnVew=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2397609-1420294713-2113.jpeg.jpg" data-tags="country" role="button">
-LeAnn Rimes - I Need You (2000-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/816a606d-2f9f-41bf-ba9f-5dd6078b5d98/14960259719-500.jpg" data-tags="country" role="button">
 Kenny Chesney - Greatest Hits (2000-07-26)
 </li>
@@ -80,9 +77,6 @@ Johnny Cash - American III: Solitary Man (2000-10-17)
 </li>
 <li data-cover="https://img.discogs.com/cSCVrUbcX48zwzhULaQTSSVfa1M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3383244-1440352343-6027.jpeg.jpg" data-tags="country" role="button">
 Johnny Cash - I Walk The Line (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a673cad-d296-4eae-9cc5-0c95aba1c6bd/15390139795-500.jpg" data-tags="country, blake shelton" role="button">
-Blake Shelton - Blake Shelton (2001-07-31)
 </li>
 <li data-cover="https://img.discogs.com/Dr6CQPc1uoAqHC0JNTN5gOkLpQs=/fit-in/250x249/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5624160-1398277601-4017.jpeg.jpg" data-tags="country" role="button">
 Martina McBride - Greatest Hits (2001-09-18)
@@ -140,6 +134,9 @@ Craig Morgan - My Kind Of Livin' (2005-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae883ce-905d-4b1b-8440-037e4102bf7a/10037462392-500.jpg" data-tags="country" role="button">
 Miranda Lambert - Kerosene (2005-03-15)
+</li>
+<li data-cover="https://img.discogs.com/w2AgT8B2Samkg8jg-v6-TuDnfGA=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3990087-1450596632-2224.jpeg.jpg" data-tags="country, modern country, wild flowers" role="button">
+Keith Anderson - Three Chord Country and American Rock & Roll (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/67747899-e291-49f7-bf83-d88854230386/4259252736-500.jpg" data-tags="country" role="button">
 Dierks Bentley - Modern Day Drifter (2005-05-10)
@@ -237,6 +234,9 @@ Lady Antebellum - Lady Antebellum (2008-04-14)
 <li data-cover="http://coverartarchive.org/release/705ba981-d00e-4ad0-ac65-e78375b51c7e/11573283421-500.jpg" data-tags="country" role="button">
 Sugarland - Love On The Inside (2008-07-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/332b04a6-1a19-4d44-94c6-3c03e14f374b/15577515732-500.jpg" data-tags="pop, country, pop rock, americana, singer/songwriter, purchased 09, albums checked" role="button">
+Peter Bradley Adams - Leavetaking (2008-08-05)
+</li>
 <li data-cover="https://img.discogs.com/V3obrzp3VfPEZP_MT6_dqQj4qs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1584667-1587659164-1860.jpeg.jpg" data-tags="country" role="button">
 Darius Rucker - Learn To Live (2008-09-16)
 </li>
@@ -270,11 +270,11 @@ Carrie Underwood - Play On (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
 Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b041e25-e0e9-480d-8f65-b7ac56ecf3d4/14666618913-500.jpg" data-tags="country" role="button">
+Lee Brice - Love Like Crazy (2010-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
 Sugarland - Stuck Like Glue (2010-07-23)
-</li>
-<li data-cover="https://img.discogs.com/zteNv1tVpnVVFCc4ntfol1GJVrE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10287477-1494698642-4142.jpeg.jpg" data-tags="country, awesome song" role="button">
-Thompson Square - Are You Gonna Kiss Me Or Not (2010-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2be90de4-791d-4799-b70e-0f0891fd4871/10220409119-500.jpg" data-tags="country, female vocalists" role="button">
 The Band Perry - The Band Perry EP (2010-10-12)

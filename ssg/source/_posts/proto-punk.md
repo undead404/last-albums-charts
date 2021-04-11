@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:07:01.402Z
+date: 2021-04-11T11:37:01.610Z
 title: "proto-punk: 100 albums you must listen to before you die"
 ---
 ![The Velvet Underground - White Light&#x2F;White Heat (1968-01-30)](http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg "The Velvet Underground - White Light/White Heat (1968-01-30)")
@@ -138,9 +138,6 @@ Captain Beefheart & His Magic Band - Unconditionally Guaranteed (1974-04)
 <li data-cover="http://coverartarchive.org/release/c1fa3fc4-5a73-3449-9abe-9c2f38e7b22e/23187067210-500.jpg" data-tags="krautrock" role="button">
 Neu! - Neu! 75 (1975)
 </li>
-<li data-cover="https://img.discogs.com/4YincA5GiUpYRyCSQ78b-amMwSQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7892014-1515600506-6062.jpeg.jpg" data-tags="proto-punk" role="button">
-Peter Hammill - Nadir's Big Chance (1975-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="rock, punk, 70s" role="button">
 Patti Smith - Horses (1975-11)
 </li>
@@ -153,9 +150,6 @@ Eddie & The Hot Rods - Teenage Depression (1976)
 <li data-cover="https://img.discogs.com/yI6Z09DmSyrpxvyOb5pkixlTnoA=/fit-in/352x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1246515-1203485861.gif.jpg" data-tags="alternative, experimental, experimental rock, avant-garde, art rock, glam rock, art punk, proto-punk" role="button">
 Debris' - Static Disposal (1976-04)
 </li>
-<li data-cover="https://img.discogs.com/EOV6DoffVVHUbw4k_O5MkcqUdgI=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663786-1290619664.jpeg.jpg" data-tags="rock, classic rock" role="button">
-Alice Cooper - Goes to Hell (1976-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
 The Modern Lovers - The Modern Lovers (1976-08)
 </li>
@@ -164,9 +158,6 @@ The Dictators - Manifest Destiny (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
 Television - Marquee Moon (1977-02-08)
-</li>
-<li data-cover="https://img.discogs.com/3tqMjgDKEUbMFk3ge3GAdBBAX_o=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2963994-1443996119-6003.jpeg.jpg" data-tags="punk, punk rock" role="button">
-The Saints - (I'm) Stranded (1977-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/31881496-3666-3b76-bdda-b24db24178ae/23464146422-500.jpg" data-tags="post-punk" role="button">
 Iggy Pop - The Idiot (1977-03-18)
@@ -179,6 +170,9 @@ Iggy Pop - Lust For Life (1977-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1eb1417-9ba7-4579-8767-f97576021c37/14840216501-500.jpg" data-tags="experimental, electronic, electropunk" role="button">
 Suicide - Suicide (1977-12)
+</li>
+<li data-cover="https://img.discogs.com/e8a2KgIkQdhieq3lmbmQWRifPZw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2036763-1260023214.jpeg.jpg" data-tags="proto-punk, iveldie albums, iveldie best of 1978" role="button">
+Doctors Of Madness - Sons of Survival (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cc90116-6833-4271-8477-42fb5fbee846/20706339769-500.jpg" data-tags="post-punk" role="button">
 Television - Adventure (1978-04)
@@ -216,6 +210,9 @@ The Doors - The Best of The Doors (1985)
 <li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
 The Remains - The Remains (1985)
 </li>
+<li data-cover="https://img.discogs.com/8pE2fXk4QfcjSrc3jwQ3555Ufvc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2925424-1362771961-6234.jpeg.jpg" data-tags="proto-punk" role="button">
+Flamin' Groovies - One Night Stand (1986)
+</li>
 <li data-cover="https://img.discogs.com/9puOmOSNshZZY6ou2La4FuNqeyk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1161974-1214666265.jpeg.jpg" data-tags="garage rock, swedish" role="button">
 Union Carbide Productions - In The Air Tonight (1987)
 </li>
@@ -230,6 +227,9 @@ Simply Saucer - Cyborgs Revisited (1989)
 </li>
 <li data-cover="https://img.discogs.com/vfu4aPEmTYtMUjnzuQPioYaM3eU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16693092-1609287992-8281.jpeg.jpg" data-tags="classic rock" role="button">
 Flamin' Groovies - Groovies' Greatest Grooves (1989)
+</li>
+<li data-cover="https://img.discogs.com/3DCoHs0XCyALmZdtw1TiNV1icCA=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15164770-1587522968-3552.jpeg.jpg" data-tags="rock, classic, 70s, punk, garage rock" role="button">
+Johnny Thunders & The Heartbreakers - Live at Max's Kansas City '79 (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/723fa46a-628d-44c9-8e22-8fba5ba44c6c/2947394304-500.jpg" data-tags="rock, 90s" role="button">
 Mark Lanegan - The Winding Sheet (1990-05-01)
@@ -260,6 +260,9 @@ The Stooges - Studio Sessions (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa11a0a5-d91b-4daf-9f07-7ab71ad54401/9551953175-500.jpg" data-tags="experimental rock, proto-punk, jam bands" role="button">
 Träd, Gräs och Stenar - Gärdet 12.6.1970 (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc6fc4dc-1933-4341-ad1a-28c81b6cf445/22543059741-500.jpg" data-tags="proto-punk" role="button">
+Flamin' Groovies - Step Up (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
 Lou Reed - Set The Twilight Reeling (1996-02-20)
@@ -302,9 +305,6 @@ The Sonics - Busy Body!!! Live In Tacoma 1964 (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b3c848-e0ab-4fd1-9d2b-1630642afc32/8305869485-500.jpg" data-tags="garage rock" role="button">
 The Stooges - Gimme Some Skin (2008-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9a58849-fec6-493f-b664-b2f57c450687/13889169524-500.jpg" data-tags="proto-punk" role="button">
-Death - ...For the Whole World To See (2009-02-17)
 </li>
 <li data-cover="https://img.discogs.com/gOLVJFOOcZGwSnwKcllU0MaSIjU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2617270-1364510667-2588.jpeg.jpg" data-tags="garage  rock" role="button">
 Los Saicos - ¡Demolición! The Complete Recordings (2010)

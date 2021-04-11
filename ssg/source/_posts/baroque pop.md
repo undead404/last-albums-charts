@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:19:01.415Z
+date: 2021-04-11T11:31:07.093Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -90,6 +90,9 @@ Mecano - Entre el cielo y el suelo (1986-06-16)
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
 </li>
+<li data-cover="https://img.discogs.com/jGaZ79UN3qniHTysli0JEenrq7Q=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4735518-1373832381-4298.jpeg.jpg" data-tags="60s" role="button">
+The Left Banke - There's Gonna Be a Storm: The Complete Recordings 1966-1969 (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
@@ -146,9 +149,6 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
 Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
-</li>
-<li data-cover="https://img.discogs.com/M8iOeLNaOrUcsb5QanBnLpbz3MQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162836-1386263320-2668.jpeg.jpg" data-tags="metal, folk, baroque pop, symphonic metal, symphonic power metal, classical crossover, classical pop, neomedieval" role="button">
-Rhapsody - The Magic of the Wizard's Dream (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:37:07.216Z
+date: 2021-04-11T11:01:07.239Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -246,6 +246,9 @@ Lily Allen - Alright, Still (2006-07-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
+Robbie Williams - Rudebox (2006-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
 Oasis - Stop the Clocks (2006-11-15)
 </li>
@@ -266,9 +269,6 @@ Editors - An End Has A Start (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9531dc7b-dca8-373c-b41f-94bee7b4c661/25387153577-500.jpg" data-tags="britpop" role="button">
 Travis - The Boy With No Name (2007-05-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="james blunt, pop" role="button">
-James Blunt - All the Lost Souls (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/78a30a53-7278-4aa2-bee5-dbfe741a3675/21188045762-500.jpg" data-tags="rock, britpop" role="button">
 Stereophonics - Pull the Pin (2007-10-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:31:18.087Z
+date: 2021-04-11T11:18:07.483Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -42,6 +42,9 @@ Enslaved - Frost (1994-08-04)
 <li data-cover="https://img.discogs.com/26pcwglune0yDgZngk_fRFHKFKY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199166-1432728271-7272.jpeg.jpg" data-tags="viking metal" role="button">
 Bathory - Blood on Ice (1996-05-27)
 </li>
+<li data-cover="https://img.discogs.com/4Irql0evMcx6dYiiJfBOIoO_6rY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1854143-1248003479.jpeg.jpg" data-tags="black metal" role="button">
+Borknagar - Borknagar (1996-08)
+</li>
 <li data-cover="https://img.discogs.com/ZuYu1t3LAkc833eMw8IHrKJbSWc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169250-1267742405.jpeg.jpg" data-tags="viking metal" role="button">
 Einherjer - Dragons of the North (1996-12-02)
 </li>
@@ -63,6 +66,9 @@ Amon Amarth - Once Sent From The Golden Hall (1998-02-10)
 <li data-cover="https://img.discogs.com/PBZ1G8-uUSfimdtqpSozSZDeeug=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648606-1602693361-6969.jpeg.jpg" data-tags="viking metal" role="button">
 Thyrfing - Thyrfing (1998-03)
 </li>
+<li data-cover="https://img.discogs.com/9nibMnWyjSZmhYoT76KDJhs2qUE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381461-1393490734-5016.jpeg.jpg" data-tags="folk metal, viking metal" role="button">
+Otyg - Älvefärd (1998-03-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/f2411a4f-20af-4016-aa75-a8d0b083ed6f/25545963152-500.jpg" data-tags="viking metal" role="button">
 Einherjer - Odin Owns Ye All (1998-05-05)
 </li>
@@ -77,6 +83,9 @@ Thyrfing - Hednaland (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4ef0e9a-efd6-4f1c-a6cd-b88edc26cb32/11690344953-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Midnattens Widunder (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3df01b0-ea8d-4b6a-bf8c-22cca88166d1/10675245240-500.jpg" data-tags="black metal, folk metal" role="button">
+Moonsorrow - Tämä Ikuinen Talvi (1999)
 </li>
 <li data-cover="https://img.discogs.com/xmYtOGGDZNlhDojJ_WqZKeVOE6s=/fit-in/550x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2346077-1415984067-6528.jpeg.jpg" data-tags="viking metal" role="button">
 Vintersorg - Ödemarkens Son (1999)
@@ -195,12 +204,6 @@ Equilibrium - Turis Fratyr (2005-02-14)
 <li data-cover="https://img.discogs.com/6I28TAxCUoXkdWCSZFbVVuQE9_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338887-1210954766.jpeg.jpg" data-tags="folk metal, viking metal, black metal, pagan metal" role="button">
 Moonsorrow - Verisäkeet (2005-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/6db4c9f1-1376-4502-bf32-b799362458da/2638094958-500.jpg" data-tags="pagan metal, folk metal" role="button">
-XIV Dark Centuries - Jul (2005-06-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/86ab957a-d7ce-473f-b38d-21fd0f3a3f3a/2460152201-500.jpg" data-tags="folk metal, viking metal" role="button">
-Månegarm - Vredens tid (2005-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/51121f7e-9a09-4f12-bb02-1dc6587575a1/7792795848-500.jpg" data-tags="heavy metal" role="button">
 Teräsbetoni - Metallitotuus (2005-11-16)
 </li>
@@ -305,9 +308,6 @@ Falkenbach - Tiurida (2011-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
 Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
-</li>
-<li data-cover="https://img.discogs.com/T0W57vrf7Y9CAVlaN76garpbTNA=/fit-in/350x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951775-1380390621-8347.gif.jpg" data-tags="folk metal, symphonic metal" role="button">
-Turisas - Stand Up and Fight (2011-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a599b32-363f-45e7-9712-29084a5855ee/13876171030-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Surtur Rising (2011-03-25)

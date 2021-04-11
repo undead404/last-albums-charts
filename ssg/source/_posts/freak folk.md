@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:13:01.409Z
+date: 2021-04-11T11:28:01.643Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -48,17 +48,14 @@ Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/f98a5816-aa1e-49bd-acdc-dd1a42b1f5bf/25471937307-500.jpg" data-tags="noise, experimental rock, abstract, freak folk, 00s, neo-psychedelia, psychedelic noise" role="button">
+Avey Tare, Panda Bear & Geologist - Danse Manatee (2001-06-30)
+</li>
 <li data-cover="https://img.discogs.com/sLmX0cLgU4GXuNR3am2vGa7GoKU=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138272-1466323574-9059.jpeg.jpg" data-tags="experimental" role="button">
 Animal Collective - Hollinndagain (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/603cc5b9-22b1-4a92-a224-81de75c406be/25331831751-500.jpg" data-tags="folk, psychedelic folk" role="button">
-Six Organs of Admittance - Dark Noontide (2002-02-19)
-</li>
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/40170c08-13a6-4c5b-8fed-f272338a3265/25471452169-500.jpg" data-tags="folk, experimental, ambient" role="button">
-Animal Collective - Campfire Songs (2003-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Here Comes the Indian (2003-06-17)
@@ -117,9 +114,6 @@ Hush Arbors - Hush Arbors (2005)
 <li data-cover="http://coverartarchive.org/release/42afd162-b4c6-49ed-ab32-dadbfc293a3d/12915497561-500.jpg" data-tags="new weird finland" role="button">
 Islaja - Palaa aurinkoon (2005-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6d5ba16-50eb-4b3d-94b8-ca9926ccb9d5/26159823167-500.jpg" data-tags="folk, psychedelic" role="button">
-Six Organs of Admittance - School of the Flower (2005-01-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
@@ -156,9 +150,6 @@ Espers - The Weed Tree (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/1005917e-1f21-497d-b8ee-80034c0f97ce/18235742957-500.jpg" data-tags="folk" role="button">
 Jana Hunter - Blank Unstaring Heirs of Doom (2005-10-25)
 </li>
-<li data-cover="https://img.discogs.com/ewRGJpl74_oSYVSajGaCrag_b4Y=/fit-in/300x289/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067974-1203687283.jpeg.jpg" data-tags="folk" role="button">
-O'Death - Head Home (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/fe9e6281-d68a-4063-8c09-230d212dff50/23816680860-500.jpg" data-tags="rewind 2006" role="button">
 Charalambides - A Vintage Burden (2006-05-22)
 </li>
@@ -174,11 +165,11 @@ Brightblack Morning Light - Brightblack Morning Light (2006-06-20)
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
-<li data-cover="https://img.discogs.com/diqF2jHvenIsZPuXlxt43VlF7UM=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853556-1521918562-3438.jpeg.jpg" data-tags="psychedelic, new weird america" role="button">
-Akron/Family - Meek Warrior (2006-09-25)
-</li>
 <li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
 Animal Collective - People (2006-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/97291f62-7c9e-4b59-b5f5-79cae7a64d78/13633615038-500.jpg" data-tags="folk, psychedelic, freak folk, new weird america, check out later, drag city, white magic, insuperable, mistico, muita barba, hippagem, fundamento, busca, terrible discooooooo, mas que folk" role="button">
+White Magic - Dat Rosa Mel Apibus (2006-11-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Au - Au (2007)
@@ -228,6 +219,9 @@ Ruby Throat - The Ventriloquist (2007-11-07)
 <li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Chains (2008)
 </li>
+<li data-cover="https://img.discogs.com/PEX6Bc0-lk0RupwrX6cCebRjxdA=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339354-1210962480.jpeg.jpg" data-tags="new weird finland" role="button">
+Lau Nau - Nukkuu (2008-05-14)
+</li>
 <li data-cover="https://img.discogs.com/qiU8v6VtsgRV3rwhiYnULPTadzY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774570-1242497752.jpeg.jpg" data-tags="folk, lo-fi, freak folk, psychedelic folk, psych folk, landmarks, experimental folk, drone folk" role="button">
 Alexander Tucker - Portal (2008-06-09)
 </li>
@@ -254,6 +248,9 @@ Sister Suvi - Now I Am Champion (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f7b8d80-755c-4fcc-ac8f-ebf4beaeb1ac/19194545986-500.jpg" data-tags="psychedelic" role="button">
+Master Musicians of Bukkake - Totem One (2009-05-25)
 </li>
 <li data-cover="https://img.discogs.com/oIOJJ7BUENpxXrvnqcDEs8K36oE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1810655-1248315184.jpeg.jpg" data-tags="freak folk, woodsist, album covers i like" role="button">
 Ganglians - Monster Head Room (2009-06)
@@ -287,6 +284,9 @@ Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, surf, psychedelic, freak folk, woodsist" role="button">
 Woods - Sun and Shade (2011-05-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/85bdf7e2-6973-4422-b2f6-6034e81dcc2d/3704963022-500.jpg" data-tags="2012 releases" role="button">
+Josephine Foster - Blood Rushing (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/288b34fd-f78c-423a-a144-8191ada79d25/2048304998-500.jpg" data-tags="indie, rock, freak folk, woodsist" role="button">
 Woods - Bend Beyond (2012-09-18)

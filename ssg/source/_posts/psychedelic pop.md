@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:42:01.423Z
+date: 2021-04-11T10:51:01.442Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -45,9 +45,6 @@ The Hollies - Butterfly (1967-11-27)
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/c18c7521-2e8e-403f-9dc4-fca12b2dee1f/6250318875-500.jpg" data-tags="folk, i have this on vinyl, bestradio" role="button">
-Tiny Tim - God Bless Tiny Tim (1968)
-</li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
@@ -72,9 +69,6 @@ Syd Barrett - Barrett (1970-11-14)
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
 </li>
-<li data-cover="http://coverartarchive.org/release/56e6177c-02a4-338b-8b04-20e5d1dce1f1/14893755184-500.jpg" data-tags="new wave, psychedelic pop, 1980s, iveldie best of 1984, steveadams fm, steveadamsfm, vinyyl" role="button">
-Julian Cope - Fried (1984)
-</li>
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
 </li>
@@ -92,6 +86,9 @@ The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
 The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
+</li>
+<li data-cover="https://img.discogs.com/lASHXtQEYiOAujCaqAPgaKB4gkY=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4474327-1548917782-2664.jpeg.jpg" data-tags="indie pop, 90s, welsh" role="button">
+Gorky's Zygotic Mynci - Barafundle (1997-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
@@ -117,9 +114,6 @@ The Bees - Sunshine Hit Me (2002-03-25)
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f95186a-906d-493a-ad75-9d0820292956/25217623886-500.jpg" data-tags="chamber pop, psychedelic pop, folktronica, 00s, neo-psychedelia, earlies, in queue no tracks, chamber psych" role="button">
-The Earlies - These Were The Earlies (2004)
-</li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
@@ -131,6 +125,9 @@ Mazarin - We're Already There (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
+</li>
+<li data-cover="https://img.discogs.com/_Y0qrDeClFek8uLda_3ZinmLgpE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10900151-1506194823-1076.jpeg.jpg" data-tags="shoegaze, indie rock" role="button">
+Toy - Toy (2006-02-13)
 </li>
 <li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
@@ -153,8 +150,8 @@ Black Moth Super Rainbow - Dandelion Gum (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
 </li>
-<li data-cover="https://img.discogs.com/-YW_3eaBsJ7UOaQmkDFOn65otGE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1303567-1566922120-6440.jpeg.jpg" data-tags="female vocalists, chamber pop, psychedelic pop, folktronica, art pop, baroque rock, i own" role="button">
-Goldfrapp - Happiness (2008-03)
+<li data-cover="https://img.discogs.com/OFRqzacWmweSCg3sCk6YKWpSMn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13765085-1560626477-5838.jpeg.jpg" data-tags="progressive rock" role="button">
+Motorpsycho - Little Lucid Moments (2008-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
@@ -225,14 +222,14 @@ of Montreal - thecontrollersphere (2011-04-25)
 <li data-cover="https://img.discogs.com/ovSxiuDh8VwF-TF7keyKe9je-v8=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873285-1305045271.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Gang Gang Dance - Eye Contact (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
-Dye - Taki 183 (2011-06-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e44b221-832d-4310-bf12-1067c9f00370/2852359567-500.jpg" data-tags="psychedelic pop, wfmu heavily played records" role="button">
+Gap Dream - Gap Dream (2012-01-10)
 </li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
@@ -290,6 +287,9 @@ Jagwar Ma - Howlin (2013-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="https://img.discogs.com/J7yfrpVoplHYq-CYXRLMyqNDyH0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4745669-1378143796-2392.jpeg.jpg" data-tags="electronic, experimental, indie rock, post-rock, experimental rock, synth pop, psychedelic pop, experimental electronic, alterantive rock" role="button">
+Grumbling Fur - Glynnaestra (2013-07-23)
 </li>
 <li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)

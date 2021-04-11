@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:38:01.418Z
+date: 2021-04-11T11:20:01.716Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -48,14 +48,8 @@ Basement Jaxx - Remedy (1999-05-10)
 <li data-cover="http://coverartarchive.org/release/d52d6d37-f6cb-417d-b32a-284222400fac/8042015899-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Vertigo (1999-05-24)
 </li>
-<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
-The Chemical Brothers - Surrender (1999-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce51e568-6070-4d8c-b798-c5c25e4fc9e5/15820257420-500.jpg" data-tags="dance, house" role="button">
 Sonique - Hear My Cry (2000-02-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfc9ac28-7ec8-3052-8653-0b2eee239b58/9158817243-500.jpg" data-tags="electronic" role="button">
-Fatboy Slim - Halfway Between The Gutter and the Stars (2000-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
@@ -77,9 +71,6 @@ David Guetta - Just A Little More Love (2002-06-10)
 </li>
 <li data-cover="https://img.discogs.com/tpyi9QDYj0tJQNUVlrImxE7K5eM=/fit-in/600x966/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16688886-1609264840-5102.jpeg.jpg" data-tags="trance" role="button">
 Paul Oakenfold - Bunkka (2002-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/11b4dd78-3fc1-48b7-ab89-3f2fcccac8fd/4379929819-500.jpg" data-tags="electronic, house" role="button">
-Audio Bullys - Ego War (2003-06-02)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -126,6 +117,9 @@ deadmau5 - Get Scraped (2005-07-26)
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Fonzerelli - Moonlight Party (2005-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
 Röyksopp - Röyksopp's Night Out (2006-01-30)
 </li>
@@ -149,6 +143,9 @@ Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)
 </li>
 <li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">
 David Guetta - Pop Life (2007-06-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Armand van Helden - Ghettoblaster (2007-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">
 Kanye West - Stronger (2007-07-31)
@@ -177,6 +174,9 @@ Tinchy Stryder - Catch 22 (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/ccdc4bce-779b-4df0-8419-b69cc9a19ba7/8663323607-500.jpg" data-tags="nu jazz, electronic" role="button">
+Parov Stelar - Coco (2009-08-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
 </li>
@@ -194,9 +194,6 @@ Kaskade - Dynasty (2010-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c2fa6d9-edf3-43d9-a695-6710f3f89e0f/2267907104-500.jpg" data-tags="electronic, dance" role="button">
 Kelis - Flesh Tone (2010-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e31eec90-e341-3acd-8ba4-9e26e9fd7eea/9173931560-500.jpg" data-tags="electronic" role="button">
-The Chemical Brothers - Further (2010-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/39d89de6-ac42-4275-bd39-59285df14673/8175969090-500.jpg" data-tags="electronica, house, ash" role="button">
 Adrian Lux - Teenage Crime (2010-06-28)
@@ -254,6 +251,9 @@ Avicii - Levels (2011-10-28)
 </li>
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
+John Talabot - ƒin (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/386d8784-afad-40da-8185-edac15e4f284/3479297449-500.jpg" data-tags="house, deep house" role="button">
 Adana Twins - Everyday (2012-02-20)

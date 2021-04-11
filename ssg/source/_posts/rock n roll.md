@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:17:01.412Z
+date: 2021-04-11T11:21:01.982Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -93,9 +93,6 @@ Elvis Presley - The All Time Greatest Hits (1987)
 <li data-cover="http://coverartarchive.org/release/7fc944af-cbd7-4fe7-a85a-9f9743a3b5c0/27099866666-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Rock 'n' Roll (1987-09-05)
 </li>
-<li data-cover="https://img.discogs.com/6tvPTriSNW55SbOoZwd6vrrtuYA=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675762-1425129623-7371.jpeg.jpg" data-tags="rock and roll" role="button">
-Ritchie Valens - La Bamba (1988)
-</li>
 <li data-cover="https://img.discogs.com/QZJGr2czWaL1-LxbFNpFRWouKSw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7851007-1453341147-8013.jpeg.jpg" data-tags="oldies" role="button">
 The Everly Brothers - A Portrait Of... (1989)
 </li>
@@ -150,12 +147,6 @@ Buddy Holly - Greatest Hits (1996-09-24)
 <li data-cover="http://coverartarchive.org/release/d44ae919-ecca-4587-b460-97c2f1c9042d/10187158587-500.jpg" data-tags="rock, rock n roll, turkish rock, debut, benimmm, s ferah" role="button">
 Şebnem Ferah - Kadın (1996-11-15)
 </li>
-<li data-cover="https://img.discogs.com/8_zs1rwhyuZmunrNHaMa5Ex_fLY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3551863-1334978409.jpeg.jpg" data-tags="easy listening" role="button">
-Bic Runga - Drive (1997-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/da2b642f-e1e9-3fb1-8d31-e067204b2351/15341628025-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Snake Bite Love (1998-03-03)
 </li>
@@ -173,6 +164,9 @@ Motörhead - Motörhead (2000-10-02)
 </li>
 <li data-cover="https://img.discogs.com/t9V5IKOOYHyN0eXnwumaxvcIqYI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243797-1542808643-8274.jpeg.jpg" data-tags="oldies" role="button">
 Elvis Presley - ELV1S 30 #1 Hits (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/70c071e9-8d39-42a1-b6f1-ccf992f9216d/1368793994-500.jpg" data-tags="hard rock" role="button">
+AC/DC - The Very Best (2001)
 </li>
 <li data-cover="https://img.discogs.com/kLgDkbo1ZHiaykphjDXWzniCWIo=/fit-in/458x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6499693-1500325239-2139.jpeg.jpg" data-tags="thrash metal, rock n roll" role="button">
 Megadeth - Capitol Punishment (2001-05-12)
@@ -197,6 +191,9 @@ Hanoi Rocks - Twelve Shots On the Rocks (2002-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/f883bcc3-206d-4788-9674-0bfe09735888/19263212495-500.jpg" data-tags="soul, blues" role="button">
 Ray Charles - The Very Best of Ray Charles (2003)
+</li>
+<li data-cover="https://img.discogs.com/p_KgZdPTvqzbRceXb_MG6s14kVY=/fit-in/580x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-815017-1161864523.jpeg.jpg" data-tags="rock" role="button">
+Nickelback - Someday (2003-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/95af8ca5-8f40-42c3-815b-461f36018d24/4803477506-500.jpg" data-tags="rock" role="button">
 Ryan Adams - Rock N Roll (2003-11-03)
@@ -228,9 +225,6 @@ Bif Naked - Superbeautifulmonster (2005-06-28)
 <li data-cover="http://coverartarchive.org/release/d97890c7-75c7-4e90-a399-79f1710c7e93/16018100211-500.jpg" data-tags="rock n roll" role="button">
 Şebnem Ferah - Can Kırıkları (2005-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
-Krypteria - In Medias Res (2005-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
 Aly & AJ - Into the Rush (2005-08-16)
 </li>
@@ -252,11 +246,17 @@ McFly - Just My Luck (2006-05-09)
 <li data-cover="http://coverartarchive.org/release/e2a63170-71c4-4563-bc6d-bd182ea8741c/27117150755-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Kiss of Death (2006-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/72e498ef-d43b-461d-a7d0-403aedbb521b/20651038768-500.jpg" data-tags="rock n roll" role="button">
+Veruca Salt - IV (2006-09-12)
+</li>
 <li data-cover="https://img.discogs.com/9vR92UVNv5yr5tRfOQnqwnJJAoM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1201224-1539899298-7399.jpeg.jpg" data-tags="rock" role="button">
 Juliette and the Licks - Four On The Floor (2006-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6865903e-1b14-45b1-bf4c-691ce3c2109c/3213873485-500.jpg" data-tags="heavy metal, metal, rockabilly" role="button">
 Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
+</li>
+<li data-cover="https://img.discogs.com/GYXc7wlL5NDmdsPRrLQvioQngXA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396405-1504959986-1948.jpeg.jpg" data-tags="turkce rock" role="button">
+Aslı - Söylediğim Şarkılarda Saklı (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/69af4cf7-7f7a-4844-b90f-ddf7dad55f11/11099611837-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Warchest (2007-10-09)
@@ -282,8 +282,8 @@ The Baseballs - Strike! Back (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/205f316f-33dc-4296-b8c5-c2d0aa20b83f/2568022947-500.jpg" data-tags="rockabilly, country, rock n roll, sympathy68, j l lewis" role="button">
 Jerry Lee Lewis - Mean Old Man (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc54b301-80ca-442f-9d06-f9e1ddad0a67/27649916153-500.jpg" data-tags="progressive metal, rock n roll, symphonic metal, neoclassical metal, neo-classical metal, 2009 albums, neoclassic metal, neo-classic metal" role="button">
-Trans-Siberian Orchestra - Night Castle (2009-10-26)
+<li data-cover="http://coverartarchive.org/release/83fba43b-5af8-476c-8d60-9ce74ce8b11e/13235886955-500.jpg" data-tags="rock" role="button">
+Orianthi - According To You (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d14bee4-6470-4009-b05b-6ae80f646048/5501714799-500.jpg" data-tags="rock, rock n roll, guzel, alo orman 177, orman haftasi, orman ferah, s ferah" role="button">
 Şebnem Ferah - Benim Adım Orman (2009-12-29)

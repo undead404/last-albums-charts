@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:41:01.591Z
+date: 2021-04-11T10:48:01.411Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -32,6 +32,9 @@ Elliott Smith - XO (1998-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9de3ce89-63a1-4dff-9066-64ffada9d7c1/15992612886-500.jpg" data-tags="indie, rock, emo, acoustic, indie folk, masterful, vagrant records" role="button">
 Dashboard Confessional - So Impossible EP (2001-12-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
+The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -137,9 +140,6 @@ Okkervil River - The Stand Ins (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
-</li>
-<li data-cover="https://img.discogs.com/61-X4PAgsIvCrrP8ibO7DU1lYFw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15977659-1601239800-4826.jpeg.jpg" data-tags="2009 albums" role="button">
-Woods - Songs of Shame (2009-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine - Around the Well (2009-05-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:36:01.414Z
+date: 2021-04-11T11:13:07.273Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -39,20 +39,11 @@ Bill Cosby - Himself (1982-11-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Weird Al Yankovic (1983-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9acb1d2-04ec-3f3c-909a-436ec6f6f7db/6297135716-500.jpg" data-tags="comedy" role="button">
-"Weird Al" Yankovic - In 3-D (1984-02-28)
-</li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
-"Weird Al" Yankovic - Dare To Be Stupid (1985-06-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
 Robin Williams - A Night at the Met (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/11a5139e-b82b-3280-ae0b-128f884315e4/2909604669-500.jpg" data-tags="comedy" role="button">
-"Weird Al" Yankovic - Even Worse (1988-04-12)
 </li>
 <li data-cover="https://img.discogs.com/rvhYpR9vwuSGNUzpIVRNdG58sS8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600834-1183286497.jpeg.jpg" data-tags="comedy" role="button">
 Monty Python - Monty Python Sings (1989-12-11)
@@ -69,9 +60,6 @@ Spinal Tap - Break Like The Wind (1992-03-17)
 <li data-cover="http://coverartarchive.org/release/55f73dc4-aecd-4d61-ac11-9091eb67bc41/11196133071-500.jpg" data-tags="comedy" role="button">
 Adam Sandler - They're All Gonna Laugh at You (1993-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/29edd9b0-7e41-36f9-8aa8-167b0a63dcf1/6298624106-500.jpg" data-tags="comedy" role="button">
-"Weird Al" Yankovic - Alapalooza (1993-10-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/6318d3f5-3641-4009-b084-cfa1878dc0d2/9885679918-500.jpg" data-tags="metal, canadian, comedy, humour, humor, childrens, lolcore" role="button">
 Raffi - Bananaphone (1994)
 </li>
@@ -80,9 +68,6 @@ Monty Python - The Ultimate Monty Python Rip Off (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9ebf61a-db25-45ea-ac98-98b53895acad/13888678204-500.jpg" data-tags="classic rock, comedy, parody, a bit of fun" role="button">
-The Rutles - Archaeology (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5abdef9-36e7-321d-90c8-29e6faacb9e8/19260323889-500.jpg" data-tags="rock, comedy" role="button">
 Adam Sandler - What the Hell Happened to Me? (1996-02-13)
@@ -96,6 +81,9 @@ Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
 </li>
+<li data-cover="https://img.discogs.com/lkyVwhjRCNPtZksCjxDlGInGpVk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055910-1521855719-7213.jpeg.jpg" data-tags="comedy, stand-up" role="button">
+Eddie Izzard - Glorious (1997-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
 </li>
@@ -107,6 +95,9 @@ Mitch Hedberg - Strategic Grill Locations (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef244c63-70ac-4097-8a83-65bc94d45aed/8735304430-500.jpg" data-tags="rock, alternative, alternative rock, hardcore, 90s, punk rock, raimundos, metal, punk, brazil, brazilian" role="button">
 Raimundos - Só No Forevis (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/411fd137-4e9e-4b86-b81f-79d3a11bb1a9/19883974746-500.jpg" data-tags="comedy" role="button">
+George Carlin - You Are All Diseased (1999-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3179b51f-fb47-35f7-8739-bc4c5a1c488f/2916747119-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Running With Scissors (1999-06-29)
@@ -198,6 +189,9 @@ Dane Cook - Retaliation (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/955b3795-9ece-4519-9652-ea879620b27f/13009776511-500.jpg" data-tags="comedy" role="button">
 Bloodhound Gang - Foxtrot Uniform Charlie Kilo (2005-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/28c2eb88-5e7f-45fb-8bd5-a47715384979/25413545820-500.jpg" data-tags="comedy" role="button">
+George Carlin - Life Is Worth Losing (2006-01-10)
+</li>
 <li data-cover="https://img.discogs.com/wdxEs4AJXp867Jakhzj0RlL5FN4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670428-1495594011-3480.jpeg.jpg" data-tags="comedy" role="button">
 Jim Gaffigan - Beyond the Pale (2006-02-07)
 </li>
@@ -215,6 +209,9 @@ Demetri Martin - These Are Jokes (2006-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
 Greg Giraldo - Good Day To Cross A River (2006-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a2091d2-70eb-4464-8a32-67488a85a312/19499347108-500.jpg" data-tags="jazz, comedy, helge schneider" role="button">
+Helge Schneider - I Brake Together (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, stand-up" role="button">
 Joe Rogan - Shiny Happy Jihad (2007-04-10)
@@ -278,6 +275,9 @@ Steel Panther - Feel the Steel (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/50bab0df-1762-49d2-b766-f6b20b63394c/3225570861-500.jpg" data-tags="metal, comedy, stand-up comedy, allmusicb, allmusicp" role="button">
+Brian Posehn - Fart and Wiener Jokes (2010-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f9c1e69-ea54-401c-9157-55366794af2a/7940878656-500.jpg" data-tags="comedy" role="button">
 Hannibal Buress - My Name is Hannibal (2010-07-27)

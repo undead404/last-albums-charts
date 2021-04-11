@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:25:01.434Z
+date: 2021-04-11T10:59:01.710Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -141,11 +141,11 @@ Scar Symmetry - Symmetric in Design (2005-02-07)
 <li data-cover="http://coverartarchive.org/release/c9ca3d33-881c-41ad-8ad0-a6edd1aec185/15808991556-500.jpg" data-tags="progressive metal" role="button">
 Gojira - The Link Alive (2005-04-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/b75313c8-7eea-4b56-b833-34f148a3a67f/2647089330-500.jpg" data-tags="progressive death metal" role="button">
+Hieronymus Bosch - Artificial Emotions (2005-05-30)
+</li>
 <li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b299829-5286-41ca-bde0-315f612cee96/7574001108-500.jpg" data-tags="metalcore" role="button">
-Becoming the Archetype - Terminate Damnation (2005-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Alaska (2005-09-06)
