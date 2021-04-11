@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:39:02.170Z
+date: 2021-04-11T19:52:01.422Z
 title: "glam metal: 100 albums you must listen to before you die"
 ---
 ![Mötley Crüe - Shout at the Devil (1983-09-26)](https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg "Mötley Crüe - Shout at the Devil (1983-09-26)")
@@ -7,10 +7,10 @@ title: "glam metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2c47c459-5eb4-4f20-861b-cadefa122e0f/1978507984-500.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">Mötley Crüe - Too Fast For Love (1981-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/3e29cdde-aa86-43cd-9521-d96f286957c6/17667761428-500.jpg" data-tags="heavy metal" role="button">Quiet Riot - Metal Health (1983-03-11)</li>
 <li data-cover="https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">Mötley Crüe - Shout at the Devil (1983-09-26)</li>
-<li data-cover="https://img.discogs.com/MMqZp2WZBPdxCzul7S6MKCFyYoo=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14447510-1574703270-9085.png.jpg" data-tags="glam metal, hard rock" role="button">Ratt - Out of the Cellar (1984)</li>
-<li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">Twisted Sister - Stay Hungry (1984-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">Mötley Crüe - Theatre Of Pain (1985-06-21)</li>
 <li data-cover="https://img.discogs.com/vPBaPOfGv-s6atEihUmcIAsTGqA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078409-1262748089.jpeg.jpg" data-tags="hard rock, glam metal" role="button">Mötley Crüe - Girls, Girls, Girls (1987-07-10)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Def Leppard - Hysteria (1987-11-23)</li>
+<li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">Skid Row - Skid Row (1989-01-24)</li>
 <li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">Alice Cooper - Trash (1989-07-25)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Mötley Crüe - Dr. Feelgood (1989-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">Steel Panther - Feel the Steel (2009-06-08)</li>
@@ -42,6 +42,9 @@ Dokken - Breaking the Chains (1981)
 <li data-cover="http://coverartarchive.org/release/2c47c459-5eb4-4f20-861b-cadefa122e0f/1978507984-500.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Mötley Crüe - Too Fast For Love (1981-11-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3b64108-b131-4ab6-82c0-dd14c72b8204/28521333318-500.jpg" data-tags="80s, glam rock, glam punk, headbangers ball" role="button">
+Hanoi Rocks - Oriental Beat (1982)
+</li>
 <li data-cover="https://img.discogs.com/aRYwPniGEsRquBk8QCl7QZ-qeIY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096803-1453599913-8199.jpeg.jpg" data-tags="hard rock, heavy metal, rock" role="button">
 Kiss - Creatures Of The Night (1982-10-13)
 </li>
@@ -69,23 +72,8 @@ Kiss - Lick It Up (1983-09-18)
 <li data-cover="https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Mötley Crüe - Shout at the Devil (1983-09-26)
 </li>
-<li data-cover="https://img.discogs.com/MMqZp2WZBPdxCzul7S6MKCFyYoo=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14447510-1574703270-9085.png.jpg" data-tags="glam metal, hard rock" role="button">
-Ratt - Out of the Cellar (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/b106b1bf-cff8-466a-bb66-f21727b9b9da/26669191070-500.jpg" data-tags="glam metal, heavy metal" role="button">
-Pantera - Projects in the Jungle (1984)
-</li>
-<li data-cover="https://img.discogs.com/p0RivTvNvywCM_BAq9mPfz5a12I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592241-1420027673-8932.jpeg.jpg" data-tags="hair metal" role="button">
-Autograph - Sign In Please (1984)
-</li>
 <li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Twisted Sister - Stay Hungry (1984-05-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-Kiss - Animalize (1984-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0123a862-a0f7-4355-ab1f-601241337dd8/26669636397-500.jpg" data-tags="glam metal, heavy metal" role="button">
 Pantera - I Am the Night (1985)
@@ -95,9 +83,6 @@ Ratt - Invasion of Your Privacy (1985)
 </li>
 <li data-cover="https://img.discogs.com/ZfP-tinkUIGOB_69COIUKdHpUrg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7139364-1463587740-2697.jpeg.jpg" data-tags="hard rock, hair metal" role="button">
 Kix - Midnite Dynamite (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/f782e65e-dce9-4b04-acec-a360b5cc97c9/19135026454-500.jpg" data-tags="glam metal, christian metal" role="button">
-Stryper - Soldiers Under Command (1985-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
@@ -113,9 +98,6 @@ King Kobra - Ready To Strike (1985-11-09)
 </li>
 <li data-cover="https://img.discogs.com/70lzbt4s2Zqo386vA_EqUgCdfDQ=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3692099-1340674621-4666.jpeg.jpg" data-tags="aor, glam metal, king kobra, thrill of a lifetime, woodpile" role="button">
 King Kobra - Thrill Of A Lifetime (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9616156-8640-490f-ae4b-5f823074f0f3/4199461380-500.jpg" data-tags="christian metal" role="button">
-Stryper - To Hell With The Devil (1986-01-21)
 </li>
 <li data-cover="https://img.discogs.com/hJB40h5YEHr6ORqxaYcLf2EZ8PQ=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3780023-1499060326-4529.jpeg.jpg" data-tags="glam metal" role="button">
 Ratt - Dancing Undercover (1986-12-21)
@@ -141,9 +123,6 @@ Dokken - Back for the Attack (1987-11-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c40f7ec-94ea-4e8c-a4bd-da556a6e9896/18852315057-500.jpg" data-tags="glam metal" role="button">
-Stryper - In God We Trust (1988-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/c739cba6-9dc7-4ef6-bcc0-47cf9d68cf08/13723459826-500.jpg" data-tags="hard rock" role="button">
 Winger - Winger (1988-08-10)
 </li>
@@ -155,6 +134,9 @@ Ratt - Reach for the Sky (1988-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">
 Skid Row - Skid Row (1989-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/31b2522c-041b-44b7-9daa-17ecea4faf6f/28725503103-500.jpg" data-tags="hard rock, hair metal" role="button">
+Extreme - Extreme (1989-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
 Alice Cooper - Trash (1989-07-25)
@@ -210,6 +192,9 @@ Pink Cream 69 - One Size Fits All (1991-02-25)
 <li data-cover="http://coverartarchive.org/release/29cdaf27-152d-4190-9099-f917b3976cff/5146208974-500.jpg" data-tags="hard rock" role="button">
 Mr. Big - Lean Into It (1991-03-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab3c1acd-2e3e-44b6-ae7b-30397bd04af3/2240429611-500.jpg" data-tags="hard rock, power pop, glam metal" role="button">
+Enuff Z'Nuff - Strength (1991-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/39035234-80b8-49ab-96f3-c8b129d090ba/15657839477-500.jpg" data-tags="hardrock" role="button">
 White Lion - Mane Attraction (1991-04-02)
 </li>
@@ -237,6 +222,9 @@ Kiss - Greatest Kiss (1996-11-11)
 <li data-cover="https://img.discogs.com/r43wbr3V_mNGe0S-t43kD_MhehM=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2144658-1266427258.jpeg.jpg" data-tags="hard rock" role="button">
 Kiss - Psycho Circus (1998-08)
 </li>
+<li data-cover="https://img.discogs.com/5dZST520f9JoImhRMC4nqaOMtyY=/fit-in/300x308/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1887808-1301352931.jpeg.jpg" data-tags="ratt, glam metal" role="button">
+Ratt - Infestation (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/647617b9-2792-34ed-8c1c-307dcc046fdf/24652265801-500.jpg" data-tags="industrial, live, industrial metal" role="button">
 Marilyn Manson - The Last Tour On Earth (1999-11-15)
 </li>
@@ -263,6 +251,12 @@ Crashdïet - Rest in Sleaze (2005-08-24)
 </li>
 <li data-cover="https://img.discogs.com/CJ9wl_jCrgYnfpdw0tIpbyYQwB8=/fit-in/598x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748943-1366115471-7197.jpeg.jpg" data-tags="heavy metal, hard rock" role="button">
 Lordi - Hard Rock Hallelujah (2006-05-19)
+</li>
+<li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
+The 69 Eyes - Angels (2007-02-27)
+</li>
+<li data-cover="https://img.discogs.com/obnDt6e1g0LmeR4CB-b23FI-7mA=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509742-1505043182-7050.jpeg.jpg" data-tags="metal" role="button">
+Ratt - Tell The World: The Very Best Of Ratt (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0903a88-9bd8-4342-a7e5-5ee2ed48a238/24342577070-500.jpg" data-tags="glam metal, hard rock" role="button">
 Crashdïet - The Unattractive Revolution (2007-10-03)
@@ -309,6 +303,9 @@ Steel Panther - Balls Out (2011-10-26)
 <li data-cover="http://coverartarchive.org/release/c69f297f-192f-49a8-9a49-2f8009f36f95/8660839066-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Rebels (2011-12-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/aea2e015-ae9b-4e6e-bfa6-cb89be9090fc/4226218816-500.jpg" data-tags="heavy metal, metalcore, christian, glam metal" role="button">
+Blessed By A Broken Heart - Feel the Power (2012-01-24)
+</li>
 <li data-cover="https://img.discogs.com/ZdWgpjuKVYtVRXBl3oQqDxFczMc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3840189-1522713684-8376.png.jpg" data-tags="hard rock" role="button">
 The Darkness - Hot Cakes (2012-08-12)
 </li>
@@ -317,6 +314,9 @@ Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/90539634-07f6-4ee3-a89a-8353ebe220b5/5102924699-500.jpg" data-tags="heavy metal, hair metal, finnish, glam rock, single, 2010s, finland, glam metal, kuopio, night on fire" role="button">
 Reckless Love - Night On Fire (2013-04-26)
+</li>
+<li data-cover="https://img.discogs.com/iF5hss3UAp43Bm4tjjZU4pZ0UlY=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11165274-1511064533-2130.jpeg.jpg" data-tags="hard rock, single, glam metal" role="button">
+Steel Panther - Party Like Tomorrow Is the End of the World (2013-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bce46e23-f32a-4302-af97-b06e8c249098/19575660795-500.jpg" data-tags="glam metal" role="button">
 Steel Panther - All You Can Eat (2014-03-28)

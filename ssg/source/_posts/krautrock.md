@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:39:18.199Z
+date: 2021-04-11T20:00:12.535Z
 title: "krautrock: 100 albums you must listen to before you die"
 ---
 ![Can - Tago Mago (1971)](http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg "Can - Tago Mago (1971)")
@@ -75,9 +75,6 @@ Amon Düül II - Tanz Der Lemminge (1971-03)
 <li data-cover="http://coverartarchive.org/release/c1804e30-7be7-47fb-901d-3065136e9f76/15895870235-500.jpg" data-tags="krautrock, experimental" role="button">
 Cluster - Cluster II (1972)
 </li>
-<li data-cover="https://img.discogs.com/ouEEX4jGlY-wom1ap4zLggOFj9s=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1628411-1234103532.jpeg.jpg" data-tags="krautrock, birth control" role="button">
-Birth Control - Hoodoo Man (1972)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
 </li>
@@ -104,6 +101,9 @@ Kraftwerk - Kraftwerk 2 (1972-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c83ded7-af5e-4524-a7d9-d007817711dd/18628114778-500.jpg" data-tags="krautrock" role="button">
 Agitation Free - Malesch (1972-06)
+</li>
+<li data-cover="https://img.discogs.com/7MF7D6GsKOfVTfyGQfr2tcp3gQ4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5742450-1401483051-8899.jpeg.jpg" data-tags="progressive electronic, space music" role="button">
+Klaus Schulze - Irrlicht (1972-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/716bf38e-9c94-3031-b637-ea3e6a362515/9191770992-500.jpg" data-tags="electronic, space" role="button">
 Tangerine Dream - Zeit (1972-08)
@@ -135,8 +135,8 @@ Tangerine Dream - Atem (1973-03)
 <li data-cover="https://img.discogs.com/4TbKU6jK0SNYOjSwAoNV4VBiD-g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13066734-1547465045-9190.jpeg.jpg" data-tags="progressive rock" role="button">
 Eloy - Floating (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/76e86529-46bc-4331-b184-6d13aed65ebe/1305157651-500.jpg" data-tags="krautrock" role="button">
-Can - Soon Over Babaluma (1974)
+<li data-cover="https://img.discogs.com/rwhbA0lMeTmCE5gxo4xZAMxnzmg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319589-1495643967-9443.jpeg.jpg" data-tags="krautrock, gammarec, sun and moon and stars and outer space, freepurp1e, juma, automatgwency dreamworld" role="button">
+The Cosmic Jokers - Galactic Supermarket (1974)
 </li>
 <li data-cover="https://img.discogs.com/F7mD8SUDZnu_WFgoIfHy8LA9rmk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1192551-1485173272-1387.jpeg.jpg" data-tags="krautrock" role="button">
 Can - Unlimited Edition (1974)
@@ -149,6 +149,9 @@ Harmonia - Musik von Harmonia (1974-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed46c870-7db3-3550-ad13-734770570b10/3519010189-500.jpg" data-tags="electronic" role="button">
 Tangerine Dream - Phaedra (1974-02-20)
+</li>
+<li data-cover="https://img.discogs.com/1aK0elUCu8_I3UxQgMeafnAU_j0=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2081290-1290409894.jpeg.jpg" data-tags="krautrock, prog rock" role="button">
+Klaus Schulze - Blackdance (1974-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cc98515-1ffc-3d30-99b5-054056d1c295/13891846763-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Autobahn (1974-11)
@@ -195,11 +198,11 @@ Kraftwerk - Trans-Europe Express (1977)
 <li data-cover="http://coverartarchive.org/release/4e08d9c7-b9da-3b6f-ab1e-93a126e79b0c/1055312578-500.jpg" data-tags="krautrock, electronic" role="button">
 Ashra - Blackouts (1978)
 </li>
-<li data-cover="https://img.discogs.com/VmywRXxVwx1b5UNZwlZPCaPBCmA=/fit-in/480x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4696039-1372527688-1936.jpeg.jpg" data-tags="electronic, synthpop" role="button">
-Kraftwerk - The Man-Machine (1978)
-</li>
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
+</li>
+<li data-cover="http://coverartarchive.org/release/867bd39f-ff8f-49be-9cbd-258de4cd79a6/19003593851-500.jpg" data-tags="electronic, kraut, klaus schulze, electronic classics" role="button">
+Klaus Schulze - Dune (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2e4ce9a-7e5e-42b3-b589-7451e4db03da/23419569599-500.jpg" data-tags="70s, krautrock" role="button">
 Holger Czukay - Movies (1979)
@@ -209,6 +212,9 @@ Kraftwerk - Computer World (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/288437a4-6475-4d86-8979-94b1ce57b55c/5699860540-500.jpg" data-tags="krautrock, h czukay" role="button">
 Holger Czukay - On The Way To The Peak Of Normal (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/63134639-bae8-4a3e-88dc-b07a69f5552d/19012496414-500.jpg" data-tags="electronic" role="button">
+Tangerine Dream - Exit (1981-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/792e00a8-a0fd-466d-a762-f4a74a38eb54/21783889382-500.jpg" data-tags="krautrock, can" role="button">
 Can - Cannibalism 1 (1989-07-01)
@@ -264,17 +270,8 @@ The Twilight Sad - Forget the Night Ahead (2009-09-22)
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
-<li data-cover="https://img.discogs.com/GLTC9QYxisrKr6jj8FoO7cOYlps=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275018-1273837603.jpeg.jpg" data-tags="experimental, krautrock, ambient" role="button">
-Beak> - Beak> (2009-10-19)
-</li>
 <li data-cover="https://img.discogs.com/PPeP2Vnh5RCArT15bMH0pPV_OcM=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199804-1269423816.jpeg.jpg" data-tags="krautrock, psychedelic, my favorite things" role="button">
 Dimlite - Prismic Tops (2010-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/6828d474-98e1-4cc9-aa02-d86af167a768/9561726024-500.jpg" data-tags="electronic" role="button">
-UNKLE - Where Did the Night Fall (2010-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/30aa96f5-ad33-4d93-91b2-055eb59d94f4/14356905603-500.jpg" data-tags="electronic, ambient, editions mego" role="button">
-Emeralds - Does It Look Like I'm Here? (2010-05-24)
 </li>
 <li data-cover="https://img.discogs.com/SGZbj4273RmyEdnzM36M9_oBbxE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384634-1437499694-9597.jpeg.jpg" data-tags="noise pop, shoegaze" role="button">
 Crocodiles - Sleep Forever (2010-09-13)
@@ -284,6 +281,9 @@ The Phantom Band - The Wants (2010-10-18)
 </li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/36d44935-c49d-4bdd-b8ea-b229a9a8ca4e/11546653248-500.jpg" data-tags="krautrock" role="button">
+Föllakzoid - Föllakzoid (2011-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d718f92e-7c26-4969-b748-03c5b11a891c/6757653822-500.jpg" data-tags="experimental, krautrock, psychedelic, space rock, psychedelic rock, essential albums for the aspiring wizard" role="button">
 Eternal Tapestry - Beyond the 4th Door (2011-03-15)

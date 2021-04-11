@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:15:01.568Z
+date: 2021-04-11T19:57:01.408Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -255,9 +255,6 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1439055-f1fa-4c4c-a8a3-71a074615911/4024431683-500.jpg" data-tags="synthpop" role="button">
-Charli XCX - True Romance (2013-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
 </li>
@@ -284,6 +281,9 @@ Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="https://img.discogs.com/S4Bsdm-EQUzeMrY0sO3Bh3ursag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5003623-1383253872-8828.jpeg.jpg" data-tags="indie, indietronica" role="button">
 Poliça - Shulamith (2013-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
+Cut Copy - Free Your Mind (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adeb0cd-f15c-447c-82a4-2d6fb5279436/6728311268-500.jpg" data-tags="indie pop, british" role="button">
 Metronomy - Love Letters (2013-12-06)

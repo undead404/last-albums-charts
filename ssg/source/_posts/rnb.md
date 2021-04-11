@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:41:07.014Z
+date: 2021-04-11T20:37:01.417Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -174,6 +174,9 @@ John Legend - Once Again (2006-10-21)
 <li data-cover="http://coverartarchive.org/release/0b0ca6cc-f793-3dd8-9329-611a9fb08ae2/6136527070-500.jpg" data-tags="soul" role="button">
 Amy Winehouse - Back to Black (2006-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/dc65ab7d-b5fb-4279-aa07-0bccf32bd074/22262894454-500.jpg" data-tags="rnb" role="button">
+Ciara - The Evolution (2006-12-05)
+</li>
 <li data-cover="https://img.discogs.com/5D7THlio2pk35P189KT_eQH-H7E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7356331-1588341170-9244.jpeg.jpg" data-tags="rnb" role="button">
 Lloyd - Street Love (2007-03-13)
 </li>
@@ -215,9 +218,6 @@ Chris Brown - Forever (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
-Jesse McCartney - Departure (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)

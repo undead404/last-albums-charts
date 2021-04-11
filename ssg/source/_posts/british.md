@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:26:01.415Z
+date: 2021-04-11T20:33:01.421Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -48,17 +48,11 @@ Radiohead - The Bends (1995-03-08)
 <li data-cover="http://coverartarchive.org/release/d6494c5a-a55a-45e3-a302-67bc721aadc7/10070793469-500.jpg" data-tags="britpop" role="button">
 Oasis - (What's the Story) Morning Glory? (1995-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
-Placebo - Without You I'm Nothing (1998-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
@@ -135,6 +129,9 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
+Patrick Wolf - Wind in the Wires (2005-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
@@ -146,9 +143,6 @@ Babyshambles - Down in Albion (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
-Placebo - Meds (2006-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
 Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
@@ -231,8 +225,14 @@ Coldplay - Viva la Vida (2008-06-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
+Snow Patrol - A Hundred Million Suns (2008-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">
+Kasabian - Fire (2009-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)

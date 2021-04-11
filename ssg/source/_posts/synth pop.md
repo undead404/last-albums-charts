@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:34:01.418Z
+date: 2021-04-11T20:42:01.419Z
 title: "synth pop: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -36,9 +36,6 @@ Devo - Freedom of Choice (1980-07-01)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, new wave" role="button">
 Duran Duran - Duran Duran (1981)
 </li>
-<li data-cover="https://img.discogs.com/aXTz_t6kfQrlt04iDyDJ5Qexh3g=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8555873-1537843848-3448.jpeg.jpg" data-tags="80s, synthpop" role="button">
-Heaven 17 - Penthouse And Pavement (1981)
-</li>
 <li data-cover="https://img.discogs.com/CFTaBhtZ5wm6-5TnAXz4kwJ7XE4=/fit-in/600x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15042924-1586277572-5066.jpeg.jpg" data-tags="80s" role="button">
 Orchestral Manoeuvres in the Dark - Architecture & Morality (1981-11-06)
 </li>
@@ -47,6 +44,9 @@ Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/25b760d8-4417-4626-b67a-c69c3461a5fa/4492916065-500.jpg" data-tags="80s, new wave" role="button">
+Men Without Hats - Rhythm of Youth (1982)
 </li>
 <li data-cover="https://img.discogs.com/xSXWAt5yTN34mzptdNfzstkELRE=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3024496-1312231658.jpeg.jpg" data-tags="new wave, 80s" role="button">
 Eurythmics - Sweet Dreams (Are Made Of This) (1982)
@@ -74,21 +74,6 @@ Frankie Goes to Hollywood - Relax (1983-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2048601-700f-3746-92bf-09489a6c2951/5901927171-500.jpg" data-tags="new wave, 80s" role="button">
 Eurythmics - Touch (1983-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
-Bronski Beat - The Age of Consent (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3c455c1-2117-47c6-a368-11670b63c9c9/13534091274-500.jpg" data-tags="80s" role="button">
-Ultravox - The Collection (1984)
-</li>
-<li data-cover="https://img.discogs.com/epAhMLbNQuzlE41v44lQ_rdlVkU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8867709-1470425312-2068.jpeg.jpg" data-tags="80s" role="button">
-Thompson Twins - Into the Gap (1984-01)
-</li>
-<li data-cover="https://img.discogs.com/LM8XDDJAl7zeJ_xrgMM4Kt7uMU8=/fit-in/372x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972448-1215538670.jpeg.jpg" data-tags="new wave" role="button">
-Talk Talk - It's My Life (1984-01-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cf857ac-f164-4a4b-b092-d89aee257d89/22280693312-500.jpg" data-tags="80s, new wave, synth pop" role="button">
-Ultravox - Lament (1984-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
@@ -123,9 +108,6 @@ The Beloved - Conscience (1993-02-05)
 <li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
 New Order - Republic (1993-04-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/4564cd79-adbe-41ef-82fd-0a7d40e68da7/11732673965-500.jpg" data-tags="90s" role="button">
 Liquido - Narcotic (1997-07)
 </li>
@@ -140,6 +122,9 @@ New Order - Get Ready (2001-06-18)
 </li>
 <li data-cover="https://img.discogs.com/OWq1Qz_SSWVCqDT5iZvBvqVKy0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96418-1194898382.jpeg.jpg" data-tags="trip-hop, electronic, synth pop" role="button">
 Jay-Jay Johanson - Antenna (2002-09-01)
+</li>
+<li data-cover="https://img.discogs.com/IbFE1f8WXTOLVv3qAcf8E6mrhTs=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1665126-1483912438-9569.jpeg.jpg" data-tags="electronic, electro, house" role="button">
+Cassius - Au Reve (2002-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
@@ -159,6 +144,12 @@ The Faint - Wet From Birth (2004-09-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
 Nine Inch Nails - The Hand That Feeds (2005-04-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/df73b5a8-04d2-499b-81c9-4dcf775e3934/10704142957-500.jpg" data-tags="manchester" role="button">
+New Order - Singles (disc 2) (2005-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbbc5d45-e1eb-490f-b869-bf6b0f150306/8372973415-500.jpg" data-tags="alternative, new wave, synth pop, polish, fave albums ever" role="button">
+Kasia Stankiewicz - Mimikra (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
 Röyksopp - Röyksopp's Night Out (2006-01-30)
 </li>
@@ -168,11 +159,11 @@ Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 <li data-cover="https://img.discogs.com/eArzhz6swATRsWd4n3ZKro2FjYo=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699157-1363743943-5976.jpeg.jpg" data-tags="dance, new wave, synth pop, remix" role="button">
 Dangerous Muse - The Rejection Remixes (2006-07-04)
 </li>
+<li data-cover="https://img.discogs.com/heAqMwwly4wiEe6ISakUV454MrY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-40958-1475396080-4040.jpeg.jpg" data-tags="electronic, pop, new wave, synth pop" role="button">
+Depeche Mode - The Best Of (DVD) (2006-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
-</li>
-<li data-cover="https://img.discogs.com/f1ZtFzXpOWkuJM7_t-ivbz8FCR4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047786-1389507683-6088.jpeg.jpg" data-tags="electronic" role="button">
-Midnight Juggernauts - Dystopia (2007-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f8ef00-9fc1-40bc-8458-dc2ac1e615a0/881779220-500.jpg" data-tags="indie" role="button">
 Two Door Cinema Club - Four Words to Stand On (2008-03-26)
@@ -192,6 +183,9 @@ Yelle - Ce Jeu (2008-10-13)
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2c1cb29-181d-443b-92f1-86b2afbc72ef/11616491663-500.jpg" data-tags="folk" role="button">
+Beirut - March of the Zapotec and Realpeople Holland (2009-02-13)
+</li>
 <li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
 Pet Shop Boys - Yes (2009-03-18)
 </li>
@@ -200,6 +194,9 @@ Miike Snow - Miike Snow (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d3950b6-048b-3d4f-8fa6-acab7ddc831d/9277382805-500.jpg" data-tags="indie rock" role="button">
+Bear in Heaven - Beast Rest Forth Mouth (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
@@ -212,6 +209,9 @@ Goldfrapp - Head First (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb32e961-9ecc-41cb-9cf0-0232dc976c7e/19633438603-500.jpg" data-tags="trip-hop, ambient, synth pop, indietronica" role="button">
 Blue Sky Black Death - Third Party (2010-09-07)
+</li>
+<li data-cover="https://img.discogs.com/iafkKuqr6ZwN-jB5H0NJGyoYapU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2516762-1290214737.jpeg.jpg" data-tags="chamber pop" role="button">
+Dënver - Música, Gramática, Gimnasia (2010-10-27)
 </li>
 <li data-cover="https://img.discogs.com/Sc6WL1ndDUeyWpxiTLHkonx78mA=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13802579-1561460893-1517.jpeg.jpg" data-tags="electronic, electropop, synth pop, 03-01" role="button">
 The Temper Trap - Conditions Remixed (2010-10-29)
@@ -276,9 +276,6 @@ Vondelpark - Seabed (2013-03-29)
 <li data-cover="http://coverartarchive.org/release/1ddc6293-6ce5-42ad-8936-976133784f5a/4051676455-500.jpg" data-tags="indie pop" role="button">
 La Femme - Psycho Tropical Berlin (2013-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1439055-f1fa-4c4c-a8a3-71a074615911/4024431683-500.jpg" data-tags="synthpop" role="button">
-Charli XCX - True Romance (2013-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
 </li>
@@ -287,6 +284,9 @@ Beacon - The Ways We Separate (2013-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/542f5e53-479f-4581-88b7-93cd05ab489d/4263718745-500.jpg" data-tags="electronic, electropop" role="button">
+Austra - Olympia (2013-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
 Icona Pop - This Is... Icona Pop (2013-08-27)

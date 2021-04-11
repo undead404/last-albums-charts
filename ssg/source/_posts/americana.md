@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:28:12.615Z
+date: 2021-04-11T20:39:01.440Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -96,6 +96,9 @@ Ryan Adams - Gold (2001-02-05)
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
+The National - The National (2001-07-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
@@ -150,6 +153,9 @@ Marc Broussard - Carencro (2004-08-03)
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/6903fcb9-4359-49d8-ad31-73a97296b710/8722040709-500.jpg" data-tags="country, americana, alt-country, 00s, purchased 09, desert island discs, m gauthier" role="button">
+Mary Gauthier - Mercy Now (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
@@ -173,9 +179,6 @@ Golden Smog - Another Fine Day (2006-07-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
 Ryan Bingham - Mescalito (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6c83654-eca9-44d9-9f5c-a77ae9de5f93/26393895109-500.jpg" data-tags="singer-songwriter, kurt, acoustic, abuse, virginia, ralph, harvey, miscellaneous, std, evan, curt, evans, peterson, dustin, mustard, marti, weinstein, partitioned, sandifur, rolph" role="button">
-Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
 <li data-cover="https://img.discogs.com/_iA2tgvmbkoCFvStlPM69jgiNUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309787-1208531852.jpeg.jpg" data-tags="indie folk, 00s" role="button">
 Bright Eyes - Four Winds (2007-02-26)
@@ -207,9 +210,6 @@ Heartless Bastards - The Mountain (2009-02-03)
 <li data-cover="https://img.discogs.com/zSpcKBEKldoaJrcwqt56A97j2xs=/fit-in/267x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1618745-1232547954.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Alela Diane - To Be Still (2009-02-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa7717be-600c-4473-b743-ea86acd9bb6a/16653916812-500.jpg" data-tags="americana, alt-country, these are deserted island possibilities" role="button">
 Justin Townes Earle - Midnight at the Movies (2009-03-03)
 </li>
@@ -228,8 +228,8 @@ Califone - All My Friends Are Funeral Singers (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
 Brown Bird - The Devil Dancing (2009-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
-Johnny Cash - American VI: Ain't No Grave (2010-02-22)
+<li data-cover="https://img.discogs.com/k7sFiw09d53EFOJaVj5xO-CkFgo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359640-1429811007-1404.jpeg.jpg" data-tags="rock, americana, alt-country, southern rock" role="button">
+Drive-By Truckers - The Big To-Do (2010-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:17:01.533Z
+date: 2021-04-11T19:59:12.584Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -57,14 +57,14 @@ Yes - Close to the Edge (1972-09-13)
 <li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">
 Roxy Music - For Your Pleasure (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/9636a80a-a835-31ae-835b-09fd8d327bee/16683989658-500.jpg" data-tags="progressive rock" role="button">
+King Crimson - Larks' Tongues in Aspic (1973-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e443dc7-20c5-4eb4-9b4d-da1c9990cf12/28324691679-500.jpg" data-tags="70s" role="button">
 Roxy Music - Stranded (1973-11-01)
-</li>
-<li data-cover="https://img.discogs.com/czqU1jrdapBl3Nyn8TpYMMikluc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894116-1341371157-1563.jpeg.jpg" data-tags="progressive rock" role="button">
-Robert Wyatt - Rock Bottom (1974-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f33a793-2ca8-47e4-8efe-daa5bd03ff8f/5183196329-500.jpg" data-tags="progressive rock, classic rock" role="button">
 Supertramp - Crime of the Century (1974-09)
@@ -101,9 +101,6 @@ Kansas - Point of Know Return (1977-10-11)
 </li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
-</li>
-<li data-cover="https://img.discogs.com/eKyD2-ZBycypcyQ0peEp-iOkslc=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1429831-1219019793.jpeg.jpg" data-tags="classic rock, uk, pop rock, england, art rock, manchester, reggae rock, mercury records, north west, property, good times records 98" role="button">
-10cc - Bloody Tourists (1978-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/534be3cd-3c61-3884-a163-7db874fb3245/17091003030-500.jpg" data-tags="70s, female vocalists, art rock" role="button">
 Kate Bush - Lionheart (1978-11-13)
@@ -177,6 +174,9 @@ Super Furry Animals - Rings Around the World (2001-07-23)
 <li data-cover="https://img.discogs.com/JYweVK-MP3wZ3FKa9znVYZ8HtjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-665319-1214141347.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Think Tank (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/a3c87dab-0cef-3b25-a319-ebaa32629aae/3426108512-500.jpg" data-tags="indie rock" role="button">
+...And You Will Know Us by the Trail of Dead - Source Tags & Codes (2002-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ea658ac-c9d0-45dc-8031-be49540841e7/2955563473-500.jpg" data-tags="alternative rock, rock" role="button">
 Silverchair - Diorama (2002-03-31)
 </li>
@@ -201,14 +201,14 @@ Blackfield - Blackfield (2004-08-23)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/207d66ce-3699-30b2-99c0-4fa60daaf01c/11044411925-500.jpg" data-tags="experimental" role="button">
+Liars - Drum's Not Dead (2006-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)

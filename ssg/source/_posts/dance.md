@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:36:07.009Z
+date: 2021-04-11T20:22:01.560Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -168,6 +168,9 @@ Kylie Minogue - X (2007-11-21)
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/a2a5c450-42ef-37f5-93c9-25f93e7750d6/4088647218-500.jpg" data-tags="pop" role="button">
+The Pussycat Dolls - Doll Domination (2008-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">
 Kelly Rowland - Work (2008-02-26)
 </li>
@@ -308,9 +311,6 @@ Avicii - Wake Me Up (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
-Rita Ora - I Will Never Let You Down (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f3d115c-ba1f-4e39-bb2f-bc44b24cbe77/28215387054-500.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - Summer (2014-04-27)

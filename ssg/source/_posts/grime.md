@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:26:01.408Z
+date: 2021-04-11T19:48:01.413Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -42,9 +42,6 @@ Shystie - Diamond In The Dirt (2004-07-12)
 <li data-cover="https://img.discogs.com/o010GUY6cAMdDeaBW41xmZT0apA=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866745-1167197361.jpeg.jpg" data-tags="grime, --britpop--, playlist m" role="button">
 The Streets - Blinded By The Lights (2004-09-27)
 </li>
-<li data-cover="https://img.discogs.com/9EuHOm8ezDgLAggzPtvPhcAkLmU=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-526381-1136455046.jpeg.jpg" data-tags="hip-hop" role="button">
-The Mitchell Brothers - A Breath of Fresh Attire (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
 </li>
@@ -84,9 +81,6 @@ Sway - This Is My Demo (2006-02-06)
 <li data-cover="https://img.discogs.com/DtxwXUEdQP2Kcssy9qdIt3TrNq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655496-1456702178-6610.jpeg.jpg" data-tags="electronica, grime, dubstep" role="button">
 Digital Mystikz - Ancient Memories (2006-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a690df6-1ee2-4023-99aa-4b3b7902f0fe/13786115983-500.jpg" data-tags="hip-hop" role="button">
-Roots Manuva - Alternately Deep (2006-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
 The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 </li>
@@ -107,6 +101,9 @@ Skream - Skream! (2006-10-30)
 </li>
 <li data-cover="https://img.discogs.com/rcMtDNkNabZR75YH5Wb353o5whA=/fit-in/170x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4097804-1355150757-7253.jpeg.jpg" data-tags="grime" role="button">
 Lady Sovereign - Public Warning (2006-10-31)
+</li>
+<li data-cover="https://img.discogs.com/Hb2HjRTyE3524otowe3OQUIv94c=/fit-in/485x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2096258-1263765473.jpeg.jpg" data-tags="hip-hop, electronic, grime, remix, example" role="button">
+Example - We Didn't Invent The Remix (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/adcf7b48-086e-48ee-b420-1001f88d672f/8094882507-500.jpg" data-tags="dubstep" role="button">
 Distance - My Demons (2007-01-29)
@@ -131,6 +128,9 @@ Kano - London Town (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b57914a-c30c-49d9-9453-76a325aff1fe/16155748642-500.jpg" data-tags="grime" role="button">
 Skepta - Greatest Hits (2007-09-24)
+</li>
+<li data-cover="https://img.discogs.com/PfSvfVKOCvXsMM-whaExGru5NgA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1598677-1377211823-4460.jpeg.jpg" data-tags="grime" role="button">
+Ghetto - Freedom Of Speech (2008-03-10)
 </li>
 <li data-cover="https://img.discogs.com/RT8njCQclfaBPz8y1F9pKEG_o7U=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9263027-1477992910-2819.jpeg.jpg" data-tags="hip hop, pop, dance, house" role="button">
 Wiley - Wearing My Rolex (2008-04-18)
@@ -161,9 +161,6 @@ Wiley - See Clear Now (2008-12-05)
 </li>
 <li data-cover="https://img.discogs.com/6V098JJ3HuTkWw3AVCUup4F-sm0=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2601963-1323991181.jpeg.jpg" data-tags="dubstep" role="button">
 Caspa - Everybody's Talking, Nobody's Listening! (2009-03-17)
-</li>
-<li data-cover="https://img.discogs.com/hr7mBEAV5REhgnJVgp1_iodL6mc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727158-1489626590-4704.jpeg.jpg" data-tags="grime" role="button">
-Lady Sovereign - Jigsaw (2009-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e256dde8-c55d-4e01-9351-1226aa99c046/23058852804-500.jpg" data-tags="hip hop, grime, dubstep, dancehall, raggacore, uk garage, ragga jungle, 1965 records" role="button">
 Toddla T - Skanky Skanky (2009-05-25)
@@ -197,9 +194,6 @@ Tinie Tempah - Pass Out (2010-02-28)
 </li>
 <li data-cover="https://img.discogs.com/IovNwfc4CGtsm-9jYvQ4Q8VS9k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2167401-1555269607-6014.jpeg.jpg" data-tags="electronic, dance" role="button">
 Crookers - Tons of Friends (2010-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/317e339d-27b0-4ab5-8ba8-e660272b24d8/24185793385-500.jpg" data-tags="hip-hop" role="button">
-Dan Le Sac vs Scroobius Pip - The Logic Of Chance (2010-03-14)
 </li>
 <li data-cover="https://img.discogs.com/-3KuZfYZ8jPOnqjSARFtlxsBl_U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2244362-1286153740.jpeg.jpg" data-tags="grime, electro, techno, house" role="button">
 Girl Unit - I.R.L EP (2010-04-26)
@@ -264,6 +258,9 @@ Loick Essien - Me Without You (2011-11-04)
 <li data-cover="https://img.discogs.com/UfGFO0JOi8gIW2CPvOUcBgwIvt4=/fit-in/453x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274793-1323464129.jpeg.jpg" data-tags="hip hop, grime, alternative hip-hop" role="button">
 Eligh & Amp Live - Therapy At 3 (2011-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/6196db9e-0128-4cf9-8eb2-651aa2539950/5181523745-500.jpg" data-tags="grime, dubstep" role="button">
+Machinedrum - Nastyfuckk EP (2012-02-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">
 Labrinth - Electronic Earth (2012-04-02)
 </li>
@@ -302,6 +299,9 @@ Dope D.O.D. - Da Roach (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/42464fa2-63bb-41d0-b11a-35f73e61b888/6384485068-500.jpg" data-tags="grime, drum and bass" role="button">
 Alix Perez - Chroma Chords (2013-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/266bd491-9320-44bc-8f17-561a1f6ef6ed/4852992618-500.jpg" data-tags="grime, dubstep" role="button">
+Swindle - Long Live The Jazz (2013-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/dedea8ba-f268-471c-a59c-01527640a603/21163578949-500.jpg" data-tags="grime, uk hip-hop" role="button">
 Dizzee Rascal - The Fifth (2013-09-27)

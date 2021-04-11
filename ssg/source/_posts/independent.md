@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T04:46:06.907Z
+date: 2021-04-11T20:09:07.003Z
 title: "independent: 100 albums you must listen to before you die"
 ---
-![Johnossi - Johnossi (2005-01-26)](http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg "Johnossi - Johnossi (2005-01-26)")
+![Horse Feathers - House With No Home (2008-09-09)](http://coverartarchive.org/release/4c13817e-a16c-47d6-85ab-aa6f6d826705/24225147925-500.jpg "Horse Feathers - House With No Home (2008-09-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b410dac5-6c06-4864-add3-5f317058f30f/24917496645-500.jpg" data-tags="rock, alternative rock" role="button">Hoobastank - Hoobastank (2001-11-20)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
-<li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">Johnossi - Johnossi (2005-01-26)</li>
+<li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/d3bcc9c4-179f-4810-92a8-99cb4e58a520/8765400755-500.jpg" data-tags="indie rock" role="button">The Cribs - Men's Needs, Women's Needs, Whatever (2007-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">Stateless - Stateless (2007-06-22)</li>
+<li data-cover="http://coverartarchive.org/release/d17bfe8d-b962-4fa5-bf71-efbe76a201ce/4817979360-500.jpg" data-tags="indie, deutsch, german, hamburger schule" role="button">Tocotronic - Kapitulation (2007-07-06)</li>
 <li data-cover="http://coverartarchive.org/release/a7cc45cd-0290-4178-8123-817ed02baca8/3470357156-500.jpg" data-tags="indie rock, rock, indie" role="button">The Fratellis - Here We Stand (2008-01-01)</li>
-<li data-cover="http://coverartarchive.org/release/819ef756-2c61-473a-907e-d9e75b3808b8/3366556888-500.jpg" data-tags="indie, alternative, indie rock" role="button">Johnossi - All They Ever Wanted (2008-03-26)</li>
 <li data-cover="https://img.discogs.com/qzlW8t5AFmKYH4gFc8H440mJfUo=/fit-in/456x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2054920-1261748799.jpeg.jpg" data-tags="indie" role="button">Fotos - Nach Dem Goldrausch (2008-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/4c13817e-a16c-47d6-85ab-aa6f6d826705/24225147925-500.jpg" data-tags="indie" role="button">Horse Feathers - House With No Home (2008-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/f7b8fff0-445f-48ad-9b66-4e48c4060b4f/5507996174-500.jpg" data-tags="rap" role="button">Hoodie Allen - All American (2012-04-10)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/7gDztmVRgut4B89yBgnrRVQWpIg=/fit-in/428x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4729781-1424187856-3633.jpeg.jpg" data-tags="experimental" role="button">
-Danielle Dax - Jesus Egg That Wept (1984)
-</li>
 <li data-cover="https://img.discogs.com/_HRhhmWjplKSBgdVEFJ_IXg4X6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-549629-1371665714-4574.jpeg.jpg" data-tags="intense, independent, throwing music" role="button">
 Throwing Muses - Chains Changed (1987-01)
 </li>
@@ -63,9 +60,6 @@ Feeder - Polythene (1997-10-20)
 <li data-cover="http://coverartarchive.org/release/0acd0176-2439-4f7e-8dff-90fe721c09d3/7782868668-500.jpg" data-tags="celtic" role="button">
 Clannad - Celtic Collection (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/30fa2fdf-76f8-3f81-a910-5e09083ce984/6374526773-500.jpg" data-tags="alternative rock" role="button">
-Liquido - Liquido (1999-01)
-</li>
 <li data-cover="https://img.discogs.com/C1yPzphGYKvGK2o9XDSgwn9Uleg=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1277187-1543532413-5368.jpeg.jpg" data-tags="indie" role="button">
 Tocotronic - K.O.O.K. (1999-07-26)
 </li>
@@ -80,9 +74,6 @@ Nina Hagen - Return of the Mother (2000-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bddcc35b-0c2a-400e-85f5-5ae247470852/5112221388-500.jpg" data-tags="ani difranco" role="button">
 Ani DiFranco - Swing Set (2000-07-25)
-</li>
-<li data-cover="https://img.discogs.com/NmDgct-0LisXaDG0qHAfCIuKfJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367448-1260021660.jpeg.jpg" data-tags="indie, pop, rock, 00s, english, independent, liquido, superspringsummer, cd-sammlung" role="button">
-Liquido - At The Rocks (2000-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/f63fb048-025e-4e6d-a84c-5ba1b3d2ce9c/17554691886-500.jpg" data-tags="indie, rock, alternative, independent, pennsylvania" role="button">
 Sinch - Project: Bluebird (2000-11)
@@ -135,14 +126,14 @@ Anajo - Nah Bei Mir (2004-10-11)
 <li data-cover="https://img.discogs.com/XbpUadGs_ILLFkx-J_H1RCWl7Y8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659541-1296783059.jpeg.jpg" data-tags="pop, alternative, indie rock, independent, leeds, lms artist, west yorkshire" role="button">
 The Research - Lonely Hearts Still Beat The Same (2005)
 </li>
+<li data-cover="https://img.discogs.com/1JPOLxE1bEp_SdS18ypabjco9pc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5807778-1556226525-1352.jpeg.jpg" data-tags="instrumental, post-rock, independent, sigur ros, mogwai, tortoise, slint, karate" role="button">
+Nice New Outfit - NNO (2005)
+</li>
 <li data-cover="https://img.discogs.com/WbN5VNoijev2HvV4y5QlTIOETaw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14604230-1578011730-9945.jpeg.jpg" data-tags="experimental, unsigned" role="button">
 Sevish - Sevish EP (2005)
 </li>
 <li data-cover="https://img.discogs.com/UJe3SUojhgwIAMLgjpY94okoDh8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166398-1537950001-3960.jpeg.jpg" data-tags="rock, soul, punk, hardcore, indie rock, ska, ska punk, boston, ska-punk, independent, neo soul, neo-soul, skacore, massachusetts, quincy" role="button">
 The Glow - The Ghosts Are Out (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
-Johnossi - Johnossi (2005-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
@@ -189,6 +180,9 @@ Tangaroa - Day (2006-08-07)
 <li data-cover="https://img.discogs.com/bX__werl5UulpJOjIWrbKPqDK6k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11812319-1522797050-7414.jpeg.jpg" data-tags="indie, rock, indy, independent, podsafe, discoverockult" role="button">
 Hotspur - Beta (2006-08-15)
 </li>
+<li data-cover="https://img.discogs.com/Tp5YgYAW0XTqrSv4l0uiDDH4GwY=/fit-in/331x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5091467-1417821588-3413.jpeg.jpg" data-tags="indie, indie rock, los angeles, insomnia radio, cognitive collective" role="button">
+Chance - Eleven through Fifteen (2006-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/34674812-212e-4ab6-bd87-6c9f370858da/4786446537-500.jpg" data-tags="alternative rock, remix" role="button">
 Falling Up - Exit Lights (2006-09-12)
 </li>
@@ -197,6 +191,9 @@ Fotos - Giganten (2006-09-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
 This Et Al - Baby Machine (2006-11-13)
+</li>
+<li data-cover="https://img.discogs.com/3kkGLsk-o9shqDJK-ZzHtxf2AXs=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7626109-1445428203-2688.jpeg.jpg" data-tags="classic rock, indie, progressive rock, independent, india, bangalore, karnataka" role="button">
+Phenom - Unbound (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64fb215-d1ff-4927-83e8-a1770c2ccf86/17158665020-500.jpg" data-tags="indie pop, twee pop, sigh and swoon in equal measure, independent, summer 2009, hongkong, twee twee twiddle-lee-dee" role="button">
 My Little Airport - Zoo Is Sad, People Are Cruel (2007)
@@ -237,9 +234,6 @@ Prinz Pi - Zeitlos (2007-08-10)
 <li data-cover="http://coverartarchive.org/release/0debf772-61e5-3443-b81f-3ff3ac5d1c0e/27312620895-500.jpg" data-tags="thrash metal" role="button">
 Lich King - Necromantic Maelstrom (2007-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e6302a7-65a8-4c77-a66f-e51584e4ed20/4785551575-500.jpg" data-tags="rock, indie rock, indie" role="button">
-Kilians - Kill The Kilians (2007-09-07)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
 The Hair - Indecisions (2007-12-05)
 </li>
@@ -249,11 +243,14 @@ MIT - CODA (2008)
 <li data-cover="http://coverartarchive.org/release/345906a5-ecba-4172-ad79-b894710317bf/13821519038-500.jpg" data-tags="metal, new zealand, death metal, compilation, independent, technical death metal, 2000s, brutal death metal, demo, enhanced, new zealand metal, self-released, demo cd, 2000s metal, new zealand death metal, 2000s death metal, reissued, multiple releases under same name, deep send records, deepsend records, jamie saint merat, michael hoggard, the flood records, james boid, 2004 metal, 2004 death metal, 2004 technical death metal, 2000s technical death metal" role="button">
 Ulcerate - The Coming of Genocide (2008)
 </li>
+<li data-cover="https://img.discogs.com/g0IwpXUuiBoCvHad2HsWLOPz8tE=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8374996-1460382612-5230.jpeg.jpg" data-tags="british, indie rock, independent, lms artist, west yorkshire" role="button">
+This Et Al - The Figure Eight EP (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7cc45cd-0290-4178-8123-817ed02baca8/3470357156-500.jpg" data-tags="indie rock, rock, indie" role="button">
 The Fratellis - Here We Stand (2008-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/819ef756-2c61-473a-907e-d9e75b3808b8/3366556888-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Johnossi - All They Ever Wanted (2008-03-26)
+<li data-cover="https://img.discogs.com/gJT3aQzQXH4mnG1dTifPMxP5tiA=/fit-in/527x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269162-1205162968.jpeg.jpg" data-tags="indie rock, independent, leeds, lms artist, west yorkshire" role="button">
+The Old Romantic Killer Band - You Don't Know How To Love (2008-03-10)
 </li>
 <li data-cover="https://img.discogs.com/qzlW8t5AFmKYH4gFc8H440mJfUo=/fit-in/456x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2054920-1261748799.jpeg.jpg" data-tags="indie" role="button">
 Fotos - Nach Dem Goldrausch (2008-03-28)
@@ -294,14 +291,14 @@ Sunn O))) - Live at Primavera Sound Festival 2009 on WFMU (2009-06-22)
 <li data-cover="https://img.discogs.com/1P7ObKIu4kbJLzYoCkaNUYmar8Q=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2487391-1286728423.jpeg.jpg" data-tags="melodic death metal" role="button">
 Obtenebris - Dust of Time (2009-08-02)
 </li>
-<li data-cover="https://img.discogs.com/EEGvZmGcZ9aQCsLEjTgCuLjikR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3078485-1314693230.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, indie, chill, alternative, experimental, female vocalists, post-rock, downtempo, australian, dark, new wave, indietronica, minimal, dreamy, lounge, trip hop, mellow, ethereal, folktronica, chilled, post rock, triphop, female vocals, australia, female vocalist, ballad, lesser known yet streamable artists, female singer, independent, female fronted electro, alternative female vocalists, artists who are lastfm users, elektro target, pixies palace, chez musinum, central point, vocal electronica, network, vocal electronic, alt-electro, 21stcentury, cybermusic, dementio13, melancholy lounge, pixieguts, aeo, preset, independent artists, free mp3 artist radio, dandelion radio, ide, alternative female vocalist" role="button">
-Cwtch - City To City (2009-08-24)
+<li data-cover="https://img.discogs.com/m_67GkTwEOLkNUFhTC7fj9aCMfI=/fit-in/500x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3836601-1346331192-7931.jpeg.jpg" data-tags="samavayo, one million things" role="button">
+Samavayo - One Million Things (2010)
 </li>
 <li data-cover="https://img.discogs.com/xIbEMDf_-k7HBbNYcIelWqt0WUY=/fit-in/466x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15556140-1593550031-4995.jpeg.jpg" data-tags="metal, brutal, unsigned, unhinged, swinging, chicago, independent, badass, incredible, empowering, groove metal, face melting, elite, power groove, lesson, junior, jason, sanctity, sepultura like, pantera like, slipknot like, bigtruck, push beyond, krankenstein, declaring war, my reign" role="button">
 Habit of Force - Submission Denied (2010)
 </li>
-<li data-cover="https://img.discogs.com/Nb9JqIJQBgHeP6UvOQosofmdoFQ=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8133211-1455758123-4607.jpeg.jpg" data-tags="vorgemerkt" role="button">
-Deep Sea Diver - Repatriate (2010-04-01)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, folk rock, irish, dark folk, independent, creative commons, tiger, tadhg cooke, tiger cooke, tadhg, full-length tracks, full length songs, alternative underground full tracks, folk underground full tracks" role="button">
+Tiger Cooke - Fingertips of the Silversmith (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec19256-0ba9-4405-a824-a1afd24ef6a4/2634085061-500.jpg" data-tags="doom metal, stoner metal, independent, april, cdr, april 2011, instrumental stoner metal, april 12,  2011,  ep, april 12th" role="button">
 Major Kong - Orogenesis (2011-04-12)
@@ -320,5 +317,8 @@ Substantial - Home Is Where The Art Is (2012-09-04)
 </li>
 <li data-cover="https://img.discogs.com/KVpsP9-6zOBwMJPQZtSdoPVMUkQ=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4646666-1370964984-9011.jpeg.jpg" data-tags="pop, soul, ethereal, rnb, independent, sublime, stunning, grammy worthy, goldenheart" role="button">
 Dawn Richard - Goldenheart (2013-01-15)
+</li>
+<li data-cover="https://img.discogs.com/4ZUJ-hW-S-6Cg_2CU2AmkR2EwiU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5934983-1406733301-5464.jpeg.jpg" data-tags="grindcore, tape, crust punk, independent, hardcore punk, march, crustgrind, pakistani metal, pakistani punk, black cassette, march 2014,  2014, march 23, girls cartel records, jeff fischer, salute records" role="button">
+Multinational Corporations - Jamat-al-Maut (2014-03-23)
 </li>
 </ol>

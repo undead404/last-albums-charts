@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:42:12.608Z
+date: 2021-04-11T20:38:01.411Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -71,9 +71,6 @@ BoySetsFire - After the Eulogy (2000-07-21)
 </li>
 <li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/52ac8260-43d1-49b2-8589-0827ad114894/10843717147-500.jpg" data-tags="nu metal" role="button">
-Lostprophets - The Fake Sound of Progress (2000-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/789e4855-63c7-4fe3-8148-c3dc9e1f6d47/17554289373-500.jpg" data-tags="metal, alternative metal, industrial metal" role="button">
 Mushroomhead - XX (2001-05-08)
@@ -162,9 +159,6 @@ Deftones - Hexagram (2003-09-22)
 <li data-cover="https://img.discogs.com/OuuO6BOG8tOB4Un0tj9ajpx76U8=/fit-in/370x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621734-1371247495-3696.jpeg.jpg" data-tags="rock" role="button">
 Limp Bizkit - Behind Blue Eyes (2003-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8dd3f57-4760-4127-a7fe-ee21b6ff2d04/14818545514-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Payable on Death (2003-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
 Mushroomhead - XIII (2003-10-14)
 </li>
@@ -219,11 +213,17 @@ Disturbed - Ten Thousand Fists (2005-09-19)
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
 </li>
+<li data-cover="https://img.discogs.com/DUVXwVMT8cYWLtohg9zJPOoxmvI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369586-1213869780.jpeg.jpg" data-tags="post-hardcore" role="button">
+Story of the Year - In the Wake of Determination (2005-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Greatest Hitz (2005-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal" role="button">
 Korn - See You on the Other Side (2005-12-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, post anal experience, modern metal, kircore" role="button">
+[AMATORY] - Книга мёртвых (2006)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
@@ -249,9 +249,6 @@ Korn - Untitled (2007-07-30)
 <li data-cover="http://coverartarchive.org/release/98e0a41e-232b-4ec0-a3da-4e678b88acab/9466078309-500.jpg" data-tags="nu metal" role="button">
 Ill Niño - Enigma (2008-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8313f2d7-58d0-46c4-96c3-a3486db44dde/10150601846-500.jpg" data-tags="nu metal, christian rock" role="button">
-P.O.D. - When Angels & Serpents Dance (2008-04-08)
-</li>
 <li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
 </li>
@@ -267,11 +264,11 @@ Linkin Park - New Divide (2009-05-18)
 <li data-cover="http://coverartarchive.org/release/48bedef0-9986-4fec-9e0d-ee5939a1e19a/2980542563-500.jpg" data-tags="metalcore, moshcore, hardcore" role="button">
 Emmure - Felony (2009-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/fad2af28-b836-4304-82aa-1cfdd3626588/8298746171-500.jpg" data-tags="alternative rock, rock" role="button">
 Dead By Sunrise - Out of Ashes (2009-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/18f1e8e4-9dc9-48c2-a90a-a66dc02afb8d/10610269786-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
+Mudvayne - Mudvayne (2009-12-21)
 </li>
 <li data-cover="https://img.discogs.com/HnBzDqnaRFSJpMC_RKGyYclw7Hc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841828-1346529880-6729.jpeg.jpg" data-tags="hard rock, nu metal, nu-metal" role="button">
 Nonpoint - Miracle (2010-05-04)
@@ -308,6 +305,9 @@ Limp Bizkit - Ready To Go (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd974a6-8fef-4a31-979b-fdd13efb5ee0/6708979968-500.jpg" data-tags="nu-metal, single, alternative metal  hard rock" role="button">
 Linkin Park - Guilty All The Same (2014-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/510d9e49-150c-424d-9439-19b731c7a7ab/9439609714-500.jpg" data-tags="nu-metal, alternative metal, industrial metal" role="button">
+Mushroomhead - The Righteous & The Butterfly (2014-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcd2d648-c588-46d6-bbe2-62736f63d994/15810643868-500.jpg" data-tags="alternative, nu-metal" role="button">
 Korn - Hater (2014-07-01)

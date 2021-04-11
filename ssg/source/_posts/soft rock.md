@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:15:01.511Z
+date: 2021-04-11T20:35:01.399Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -189,9 +189,6 @@ Reamonn - Wish (2006-04-15)
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/080a8940-dc1a-49f2-b295-d0c15de3b066/12716962971-500.jpg" data-tags="rock" role="button">
 Daughtry - Daughtry (2006-11-21)
 </li>
@@ -239,6 +236,9 @@ Rumer - Seasons of My Soul (2010-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd2c3931-6faa-47ca-8b09-8f4ffb3aa519/3194998568-500.jpg" data-tags="folk, soft rock, memories of an old friend, soft rock revival" role="button">
 Angus & Julia Stone - Memories Of An Old Friend (2010-12-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
+Iron & Wine - Kiss Each Other Clean (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)

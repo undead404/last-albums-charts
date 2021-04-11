@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:31:01.411Z
+date: 2021-04-11T20:14:18.198Z
 title: "modern metal: 100 albums you must listen to before you die"
 ---
 ![In Flames - Sounds of a Playground Fading (2011-06-15)](http://coverartarchive.org/release/6f38a9f9-6538-4745-9dde-d00cacbe2dff/8273688325-500.jpg "In Flames - Sounds of a Playground Fading (2011-06-15)")
@@ -81,6 +81,9 @@ Scar Symmetry - Symmetric in Design (2005-02-07)
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
 </li>
+<li data-cover="https://img.discogs.com/YNQNB_FVMviyVHgAEcD71S1BErs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2612088-1483879723-8300.jpeg.jpg" data-tags="melodic death metal" role="button">
+Raintime - Tales From Sadness (2005-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Majestic (2005-09-22)
 </li>
@@ -146,6 +149,9 @@ Sonic Syndicate - Love and Other Disasters (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/92115106-1170-3684-b196-20fd64420935/1086297251-500.jpg" data-tags="gothic metal" role="button">
 Unsun - The End Of Life (2008-09-22)
+</li>
+<li data-cover="https://img.discogs.com/j7_pvKdifC8arem-FGYvywamLos=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3870869-1494517686-4364.jpeg.jpg" data-tags="alternative, industrial metal" role="button">
+Digimortal - Клетка Крови (2008-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/96b7f9df-547d-4186-ab96-ced6bc30be7e/16113890866-500.jpg" data-tags="melodic death metal" role="button">
 Silent Descent - Duplicity (2008-11-02)
@@ -219,11 +225,11 @@ Cypecore - Take the Consequence (2010-12-03)
 <li data-cover="http://coverartarchive.org/release/1b3e43fd-2b9e-42bb-8eef-0caaa7e57971/15799813506-500.jpg" data-tags="alternative rock, modern metal" role="button">
 Dead by April - Stronger (2011-01-11)
 </li>
+<li data-cover="https://img.discogs.com/dbiUWB9w8gg3FzSl5KR6a4XGPAc=/fit-in/400x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2776302-1301496885.jpeg.jpg" data-tags="groove metal" role="button">
+The Haunted - Unseen (2011-03-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/caa313f2-4435-4a02-aed8-b832f72f8777/6692723926-500.jpg" data-tags="melodic death metal" role="button">
 Kill the Romance - For Rome and the Throne (2011-03-23)
-</li>
-<li data-cover="https://img.discogs.com/SB_gTo8jld7GkoafpO8W6VFGK7U=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2901474-1503927056-3998.jpeg.jpg" data-tags="melodic death metal" role="button">
-Imaginary Flying Machines - Princess Ghibli (2011-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f68876a-fa37-435f-9425-322b05d1fde0/15857064157-500.jpg" data-tags="metalcore, progressive metal, industrial metal, technical metal, groove metal, modern metal, modern death metal" role="button">
 The Interbeing - Edge of the Obscure (2011-05-02)
@@ -303,9 +309,6 @@ Destrage - Are You Kidding Me? No. (2014-03-04)
 <li data-cover="https://img.discogs.com/5kdvM01Law4YeL6YvAZVPb24N38=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6791820-1426712411-9027.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">
 Avatar - Hail the Apocalypse (2014-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f94edec-2059-4fe3-a41f-7ab70fee0d85/8471838075-500.jpg" data-tags="metalcore" role="button">
-Demon Hunter - Extremist (2014-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/f8da90f9-6db8-482d-aec7-ca9a12ca8c3d/7520503678-500.jpg" data-tags="industrial metal" role="button">
 Rave the Reqviem - Rave The Reqviem (2014-04-11)
 </li>
@@ -317,8 +320,5 @@ Sonic Syndicate - Sonic Syndicate (2014-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/083602f3-7ca3-40c3-8364-c61cce01355d/8102877910-500.jpg" data-tags="sid metal" role="button">
 Machinae Supremacy - Phantom Shadow (2014-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fc5a42c-aae3-4168-a0ca-919f4e672100/12259655635-500.jpg" data-tags="progressive metal, power metal" role="button">
-Angra - Secret Garden (2014-12-17)
 </li>
 </ol>

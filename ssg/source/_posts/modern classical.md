@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T10:08:01.397Z
+date: 2021-04-11T19:55:01.399Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
-![KASHIWA Daisuke - Program Music I (2007-08-24)](http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg "KASHIWA Daisuke - Program Music I (2007-08-24)")
+![Clint Mansell - The Fountain (2006-11-21)](http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg "Clint Mansell - The Fountain (2006-11-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">Saltillo - Ganglion (2006-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">Eluvium - Copia (2007-02-20)</li>
-<li data-cover="http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg" data-tags="electronic, glitch" role="button">KASHIWA Daisuke - Program Music I (2007-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">Antony and the Johnsons - The Crying Light (2009-01-06)</li>
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">坂本龍一 - Playing The Piano (2009-09-23)</li>
+<li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">Floex - Zorya (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">of Montreal - Paralytic Stalks (2012-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">Black Elk - Sparks (2012-07-27)</li>
 <li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">Ben Lukas Boysen - Gravity (2013-06-17)</li>
@@ -120,9 +120,6 @@ Helen Jane Long - Porcelain (2007-06-04)
 <li data-cover="http://coverartarchive.org/release/55ef0003-7b0a-435e-a49c-5c09fa6d3fe0/21137853085-500.jpg" data-tags="ambient" role="button">
 Swod - Sekunden (2007-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg" data-tags="electronic, glitch" role="button">
-KASHIWA Daisuke - Program Music I (2007-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/b52f4256-0d02-460e-b2bd-50aafdebe08c/22373580081-500.jpg" data-tags="ambient, drone, modern classical" role="button">
 Machinefabriek - Bijeen (2007-11)
 </li>
@@ -158,6 +155,9 @@ Mochipet - Bunnies & Muffins (2009-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/394bda06-b2e6-4c9d-97fb-cbfe25fa8d9c/21433342876-500.jpg" data-tags="classical, chamber pop, cover, green day, modern classical, modern string quartet" role="button">
 Vitamin String Quartet - Vitamin String Quartet Performs Green Day's American Idiot (2009-04-07)
+</li>
+<li data-cover="https://img.discogs.com/k-J0nndxZY1RqfXQ93OIMs_4JBs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735733-1270848999.jpeg.jpg" data-tags="experimental, downtempo, idm, glitch, ambient" role="button">
+Pleq - The Metamorphosis (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b33ed2f-b1e1-43d1-82ad-a1e9f9f9c6bf/12063130383-500.jpg" data-tags="world, mind-blowing" role="button">
 Kronos Quartet - Floodplain (2009-05-18)

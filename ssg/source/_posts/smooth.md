@@ -1,11 +1,11 @@
 ---
-date: 2021-04-11T00:33:01.412Z
+date: 2021-04-11T20:06:01.419Z
 title: "smooth: 100 albums you must listen to before you die"
 ---
 ![Mario - Let me love you (2005-03-08)](http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg "Mario - Let me love you (2005-03-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/090700a7-0ec5-41bb-b970-52e6aa47b755/16567307250-500.jpg" data-tags="80s" role="button">Roxy Music - Avalon (1982-06)</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">A Tribe Called Quest - Midnight Marauders (1993-11-09)</li>
+<li data-cover="http://coverartarchive.org/release/cd953368-5abc-4ce9-b83a-a43a7ad58a1a/10611625522-500.jpg" data-tags="hip hop, 90s, smooth, 1990s, ponyrape, the shit, late 90s, pony" role="button">Ginuwine - Pony (1996-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">Air - 10 000 Hz Legend (2001-05-23)</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="https://img.discogs.com/26HBMwoKo7cvLxxeYKSfmR_JVVM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799422-1501524692-4284.jpeg.jpg" data-tags="rnb" role="button">Ciara - Goodies (2004)</li>
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/5c80474c-59e1-4410-8b64-c8068623a4b1/6649438121-500.jpg" data-tags="soul" role="button">
+Donny Hathaway - Extension of a Man (1973-06-18)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 The Jacksons - Destiny (1978-12-17)
 </li>
@@ -36,12 +39,6 @@ Roxy Music - Avalon (1982-06)
 <li data-cover="http://coverartarchive.org/release/5f5dd965-111c-4402-9827-eba9f6ac7f02/7774190649-500.jpg" data-tags="funk, smooth, marvin gaye, gaye" role="button">
 Marvin Gaye - Greatest Hits (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
-Ray Parker Jr. - Ghostbusters (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/1f273d9d-9b02-33a6-94bf-92b4a3e0a94d/6600826888-500.jpg" data-tags="progressive rock" role="button">
-David Gilmour - About Face (1984-03-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, sade" role="button">
 Sade - Promise (1985-11-16)
 </li>
@@ -53,12 +50,6 @@ Vic Damone - 16 Most Requested Songs (1992)
 </li>
 <li data-cover="https://img.discogs.com/tBs5C13oRjSLgxd_69LWQ5QDV_w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1489911-1492279644-9702.jpeg.jpg" data-tags="90s, rnb" role="button">
 H-Town - Fever For Da Flavor (1993)
-</li>
-<li data-cover="https://img.discogs.com/SWZDcqxrhCpb02E9CnRLU4s6wUc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917970-1392717758-4138.jpeg.jpg" data-tags="hip hop" role="button">
-Digable Planets - Reachin' (A New Refutation Of Time And Space) (1993-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
 KRS-One - KRS-One (1995-10-10)
@@ -126,14 +117,14 @@ Beady Belle - Home (2001-05-28)
 <li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
 The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
-Sondre Lerche - Faces Down (2001-09-10)
-</li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
 Dilated Peoples - Expansion Team (2001-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d589a228-7528-3635-857e-229677645f59/10834361329-500.jpg" data-tags="soul, female vocalists" role="button">
+Sade - Lovers Live (2002-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdf241e0-4f62-34a7-a5f8-977d44402821/17460627965-500.jpg" data-tags="jazz, jazz vocal, vocal jazz, smooth, tony bennett, vocalistas femeninas, mastersinger, my jazz radio, vocalistas masculinos, master duets, two great artists, sunny approves" role="button">
 Tony Bennett & k.d. lang - A Wonderful World (2002-05-11)
@@ -159,11 +150,14 @@ Vivian Green - A Love Story (2002-11-12)
 <li data-cover="http://coverartarchive.org/release/851cc3b4-ee08-40ee-a54e-3e8047654c86/16771673893-500.jpg" data-tags="melodic, smooth, talented" role="button">
 Ben Lee - Hey You. Yes You. (2002-11-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, rnb" role="button">
-Nivea - Nivea (2002-12-10)
-</li>
 <li data-cover="https://img.discogs.com/1yw9jxaeiBBdK-9Zh7b69u9mhPk=/fit-in/600x923/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13339191-1552348094-2552.jpeg.jpg" data-tags="soul" role="button">
 Luther Vandross - Dance With My Father (2003)
+</li>
+<li data-cover="https://img.discogs.com/qOeMyvIfHC_T8TW_bv3aTlJP-0g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4070030-1354253535-6438.jpeg.jpg" data-tags="jazz, smooth jazz" role="button">
+Fattburger - Sizzlin' (2003)
+</li>
+<li data-cover="https://img.discogs.com/6hTfJ6Zm9KLQE0cDdlbUsvt40w0=/fit-in/361x362/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16344-1160852947.jpeg.jpg" data-tags="pop, white flag" role="button">
+Dido - White Flag (2003-09-01)
 </li>
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
@@ -194,6 +188,9 @@ Mario - Turning Point (2004-08-06)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/8c05b5b8-2c80-4ebf-a4da-ed182963cdae/17622807792-500.jpg" data-tags="jazz, guitar, lounge, smooth, 2 s34rch, r00ts, het luister waard" role="button">
+Ronny Jordan - After 8 (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg" data-tags="soul" role="button">
 Mario - Let me love you (2005-03-08)
@@ -246,9 +243,6 @@ Anthony David - The Red Clay Chronicles (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
 </li>
-<li data-cover="https://img.discogs.com/2oyuWHJxWHLxTs_7352y-444s8U=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-859037-1166200364.jpeg.jpg" data-tags="folk" role="button">
-Rosie Thomas - These Friends of Mine (2006-12-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/d42e3f7b-f486-4d2b-ba27-fcc5a2cf5e92/22111632107-500.jpg" data-tags="omarion" role="button">
 Omarion - 21 (2006-12-26)
 </li>
@@ -285,6 +279,9 @@ Ray J - All I Feel (2008-04-01)
 <li data-cover="http://coverartarchive.org/release/fce96d13-0ca8-4a78-ba86-86b27a27d11f/17347229278-500.jpg" data-tags="r'n'b, lyfe" role="button">
 Lyfe Jennings - Lyfe Change (2008-04-29)
 </li>
+<li data-cover="https://img.discogs.com/sq5FQNNQQ_APmhp59jSYDQ8x7ww=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040608-1260275159.jpeg.jpg" data-tags="cherish, rnb" role="button">
+Cherish - The Truth (2008-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
 </li>
@@ -308,6 +305,9 @@ Miguel - All I Want Is You (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
+</li>
+<li data-cover="https://img.discogs.com/ChA6YBUc5-DFwQzry0rLSYdREeg=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3488579-1332373916.jpeg.jpg" data-tags="pop, soul, female vocalists, r&b" role="button">
+Melanie Fiona - The MF Life (2012-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc4d5817-e999-4717-86a4-28f8123bc7f8/5223594038-500.jpg" data-tags="easy listening, vocal jazz, romantic, swing, big band, smooth jazz, robbie williams" role="button">
 Robbie Williams - Beyond The Sea (2012-01-27)

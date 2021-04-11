@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:59:01.523Z
+date: 2021-04-11T19:46:06.941Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -261,9 +261,6 @@ Epica - Design Your Universe (2009-10-16)
 <li data-cover="http://coverartarchive.org/release/49f428de-3c35-3e20-8141-03d67aa2db2a/4050463336-500.jpg" data-tags="metal, acoustic, symphonic metal" role="button">
 Within Temptation - An Acoustic Night at the Theatre (2009-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/57948363-574a-4bd7-bdda-05e8621ef4dc/24801393195-500.jpg" data-tags="power metal" role="button">
 Avantasia - Angel of Babylon (2010-03-31)
 </li>
@@ -282,11 +279,14 @@ Therion - Sitra Ahra (2010-09-17)
 <li data-cover="http://coverartarchive.org/release/83369e76-a177-475e-b193-f42e34026a95/4013802680-500.jpg" data-tags="symphonic black metal" role="button">
 Dimmu Borgir - Abrahadabra (2010-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7505693-5eaa-3783-8cb8-9c94868aef8c/6601163990-500.jpg" data-tags="gothic metal, symphonic metal, extreme metal" role="button">
-Cradle of Filth - Darkly, Darkly, Venus Aversa (2010-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
+</li>
+<li data-cover="https://img.discogs.com/7yL0HzCNROCJUQYVQgw1rRLhQ5A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3055673-1353963943-9420.jpeg.jpg" data-tags="progressive metal" role="button">
+Symphony X - Iconoclast (2011-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c0f0ece-6477-47f4-a158-4d21d809d007/11058813454-500.jpg" data-tags="power metal" role="button">
+Powerwolf - Blood of the Saints (2011-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16380dd-6dcd-43cb-9976-011323d4f33b/5922416898-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Storytime (2011-11-09)

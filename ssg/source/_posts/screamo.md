@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:03:01.421Z
+date: 2021-04-11T20:34:02.040Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -104,6 +104,9 @@ A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b50aed73-a47d-40df-a0a1-fe2eb91aa349/23361528042-500.jpg" data-tags="post-hardcore" role="button">
+As Cities Burn - Son, I Loved You at Your Darkest (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/de811c20-f2b1-395a-a377-6ea2f1aa0ba6/24647170363-500.jpg" data-tags="post-hardcore" role="button">
 Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
@@ -293,9 +296,6 @@ Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)

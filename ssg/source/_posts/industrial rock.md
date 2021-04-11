@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:22:01.539Z
+date: 2021-04-11T20:12:01.396Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -48,9 +48,6 @@ Nine Inch Nails - Broken (1992-09-21)
 <li data-cover="http://coverartarchive.org/release/93653b91-eba8-32a0-850f-ee955c43f989/8276054766-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Fixed (1992-12-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/1087eb4d-48cb-4237-9a2c-9bd7b0aad857/20232316762-500.jpg" data-tags="industrial metal, industrial" role="button">
-KMFDM - Angst (1993-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/4eb24f59-28cd-4bf6-ae4e-f3fec7f2f310/8005993546-500.jpg" data-tags="industrial rock, industrial" role="button">
 Stabbing Westward - Ungod (1994-02-15)
 </li>
@@ -87,8 +84,8 @@ Ministry - Filth Pig (1996-01-26)
 <li data-cover="https://img.discogs.com/R7t9qpHWYUg0-nxYGzO2APY2-VY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-143820-1462198306-3313.jpeg.jpg" data-tags="industrial rock" role="button">
 Gravity Kills - Gravity Kills (1996-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf5b8bd3-de6a-4262-80d7-5babc6e567ec/11163123796-500.jpg" data-tags="industrial" role="button">
-KMFDM - Xtort (1996-06-25)
+<li data-cover="https://img.discogs.com/nk9oiKGcOOAlNaxf4xmekHigXLU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-118606-1564378381-5599.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
+Skold - Skold (1996-07-30)
 </li>
 <li data-cover="https://img.discogs.com/tut10eiUcU_etcgQbO5G5AULgwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102221-1175890818.jpeg.jpg" data-tags="industrial rock" role="button">
 Chemlab - East Side Militia (1996-10-08)
@@ -99,9 +96,6 @@ David Bowie - Earthling (1997-02-01)
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Pitchshifter - www.pitchshifter.com (1998-03-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a760d12-0bde-485a-b927-1c961ce1f737/24090557767-500.jpg" data-tags="90s, industrial rock" role="button">
 God Lives Underwater - Life In The So-Called Space Age (1998-03-24)
 </li>
@@ -110,9 +104,6 @@ Stabbing Westward - Darkest Days (1998-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bc1026-306c-4c91-96af-3612c1319c74/17811086702-500.jpg" data-tags="christian rock, rock, industrial" role="button">
 Skillet - Hey You, I Love Your Soul (1998-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd7a8945-f7d9-40c3-91a3-35e68f82af13/11162402002-500.jpg" data-tags="industrial, industrial rock" role="button">
-KMFDM - Adios (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/da0ac25e-6e75-3e63-b8b4-e2ff206b60db/10150650258-500.jpg" data-tags="industrial, alternative" role="button">
 Nine Inch Nails - The Day the World Went Away (1999-07-20)
@@ -126,8 +117,8 @@ Nine Inch Nails - The Fragile (1999-09-20)
 <li data-cover="http://coverartarchive.org/release/647617b9-2792-34ed-8c1c-307dcc046fdf/24652265801-500.jpg" data-tags="industrial, live, industrial metal" role="button">
 Marilyn Manson - The Last Tour On Earth (1999-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/af482700-2875-4f53-a093-6b0d6e2fd81a/11998407874-500.jpg" data-tags="industrial, industrial rock" role="button">
-Zeromancer - Clone Your Lover (2000-03-13)
+<li data-cover="http://coverartarchive.org/release/cad0c679-909c-3cd6-932f-83da4ac991da/2245165957-500.jpg" data-tags="industrial" role="button">
+MDFMK - MDFMK (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d319b51e-30fc-4839-a736-3b45485c7021/19369524581-500.jpg" data-tags="industrial rock" role="button">
 Sunna - One Minute Science (2000-08-15)
@@ -168,9 +159,6 @@ Theatre of Tragedy - Assembly (2002-03-04)
 <li data-cover="http://coverartarchive.org/release/f2b647ba-f77b-43f0-996a-7a8fdeeceecc/6123779011-500.jpg" data-tags="alternative rock, industrial rock, post-hardcore" role="button">
 Vex Red - Start With a Strong and Persistent Desire (2002-03-04)
 </li>
-<li data-cover="https://img.discogs.com/4bdQNt7raqifkmL9wZWnA-pFJ0g=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5443063-1393487197-6647.jpeg.jpg" data-tags="industrial" role="button">
-KMFDM - Attak (2002-03-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
 </li>
@@ -195,11 +183,8 @@ Eisbrecher - Eisbrecher (2004-01-26)
 <li data-cover="http://coverartarchive.org/release/4f7e499c-f3fb-388e-bab2-c717355dcb33/27009614431-500.jpg" data-tags="industrial, industrial rock, synth-rock, orgy" role="button">
 Orgy - Punk Statik Paranoia (2004-02-24)
 </li>
-<li data-cover="https://img.discogs.com/3nNi10FEq5Isod7Slvw7MumBu4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123215-1150505583.jpeg.jpg" data-tags="industrial rock, industrial, cyberpunk" role="button">
-Zeromancer - Eurotrash (2004-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/151e49a5-e0ce-414b-9572-89ccf2026a47/15368539382-500.jpg" data-tags="industrial, industrial rock" role="button">
-Mortiis - The Grudge (2004-09-20)
+<li data-cover="http://coverartarchive.org/release/0f5e2a7d-b8d2-4ac7-b8fb-af8f9cd18559/15458787179-500.jpg" data-tags="industrial metal" role="button">
+Marilyn Manson - Lest We Forget: The Best Of (2004-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f55fcce-b536-3ec4-92f7-54f5f8fa1edf/21713078387-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Reise, Reise (2004-09-27)
@@ -228,6 +213,9 @@ Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 <li data-cover="http://coverartarchive.org/release/d9294662-5a24-37ab-9fd7-e04a2480ab52/1068174325-500.jpg" data-tags="metal, industrial metal" role="button">
 Rob Zombie - Educated Horses (2006-03-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="remix, nin" role="button">
+Halo33 - Year 33 (2007)
+</li>
 <li data-cover="https://img.discogs.com/uYsLQLV8Pr29KJhrRVoYNYAfNWk=/fit-in/412x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574375-1229498260.jpeg.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Survivalism (2007-02-21)
 </li>
@@ -255,8 +243,14 @@ Emigrate - Emigrate (2007-08-31)
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/6529af84-0761-4a81-85d4-b288bbc52478/5483316468-500.jpg" data-tags="debut" role="button">
+Puscifer - "V" Is for Vagina (2007-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/61638deb-6bce-3795-a26c-ac2a92b7e66c/3799679959-500.jpg" data-tags="industrial rock, electronic, industrial, remix" role="button">
 Nine Inch Nails - Y34RZ3r0r3mix3d (2007-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
+Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/81986e63-5d57-4a14-aad6-94862bce7d3a/16113305025-500.jpg" data-tags="industrial jungle pussy punk" role="button">
 Mindless Self Indulgence - If (2008-04-28)
@@ -285,8 +279,8 @@ KMFDM - Blitz (2009-03-23)
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">
 Marilyn Manson - The High End Of Low (2009-05-19)
 </li>
-<li data-cover="https://img.discogs.com/K9vvevOb3eEk8Uk1lUFU4K4jOR0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1799688-1244129233.jpeg.jpg" data-tags="industrial rock, cyber metal" role="button">
-Dope Stars Inc. - 21st Century Slave (2009-07-10)
+<li data-cover="http://coverartarchive.org/release/f1c777b5-712d-4134-a5fc-ce50181a2dbe/4226151140-500.jpg" data-tags="industrial, industrial rock, industrial metal, electronic rock" role="button">
+The Luna Sequence - They Follow You Home (2009-08-25)
 </li>
 <li data-cover="https://img.discogs.com/2juM1ZsU32l-m5L9XaWDg514H5E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048249-1264011671.jpeg.jpg" data-tags="industrial metal" role="button">
 Rammstein - Liebe ist für alle da (2009-10-16)
@@ -306,8 +300,14 @@ Killing Joke - MMXII (2012-01-01)
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/41a70ee1-c9fd-464b-be20-851633638d8d/3517089615-500.jpg" data-tags="alternative rock, industrial, industrial rock, music i tried but didnt like" role="button">
+Black Light Burns - The Moment You Realize You're Going to Fall (2012-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/5b23fdaf-d3b6-4550-b9e9-a615d0a96698/5769746782-500.jpg" data-tags="synth-rock" role="button">
 The Birthday Massacre - Hide and Seek (2012-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd3bfa1a-20c4-4747-9edd-0b37fbb23cbc/11163323618-500.jpg" data-tags="industrial rock" role="button">
+KMFDM - Kunst (2013-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 Nine Inch Nails - Hesitation Marks (2013-08-27)

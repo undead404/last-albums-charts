@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T11:27:01.611Z
+date: 2021-04-11T20:15:07.095Z
 title: "folktronica: 100 albums you must listen to before you die"
 ---
 ![alt-J - An Awesome Wave (2012-05-28)](http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg "alt-J - An Awesome Wave (2012-05-28)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">Patrick Wolf - Wind in the Wires (2005-06-13)</li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">Bat for Lashes - Fur and Gold (2006-09-11)</li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">Bat for Lashes - Two Suns (2009-04-03)</li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">Bibio - Ambivalence Avenue (2009-06-22)</li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">Ellie Goulding - Lights (2010-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">alt-J - An Awesome Wave (2012-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">Bat for Lashes - The Haunted Man (2012-10-12)</li>
@@ -93,6 +93,9 @@ Colleen - The Golden Morning Breaks (2005-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/12d1957b-bdd1-41a6-9fcb-bae466931de9/6442137176-500.jpg" data-tags="hip-hop, electronic, experimental, funk, avant-garde, folktronica, 00s, electronic music, sound collage, sampledelic, free albums, glitchtronica, 12rec, spapkatosh" role="button">
+Rob Steady - ask no lies (2005-06-28)
+</li>
 <li data-cover="https://img.discogs.com/ojBj8tNf2UXJPGb87gBHvZ3bWL0=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540512-1363821648-8738.jpeg.jpg" data-tags="guitar" role="button">
 Tape - Rideau (2005-10-24)
 </li>
@@ -165,9 +168,6 @@ Damiak - Micalavera (2007-05-08)
 <li data-cover="http://coverartarchive.org/release/6742744a-f1d1-445d-a08b-5241b7c7fce4/12867158495-500.jpg" data-tags="folktronica, chinese, tibetan, sanskrit" role="button">
 萨顶顶 - 万物生 (2007-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0454682-a083-453a-ad6f-61bc4d866345/3705099190-500.jpg" data-tags="japanese, ambient pop, new weird japan, chillout, electronica, ambient, experimental, easy listening, dream pop" role="button">
-cokiyu - Mirror Flake (2007-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
@@ -237,9 +237,6 @@ Patrick Wolf - The Bachelor (2009-06-01)
 <li data-cover="https://img.discogs.com/ktsyLPnCfdcak4jqgLKQf3NCoHc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5752320-1401673495-2268.jpeg.jpg" data-tags="folktronica" role="button">
 Emily Wells - Dirty (2009-06-09)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd1d3a84-3600-49cd-b1d7-ccd4d10c58af/3168123217-500.jpg" data-tags="ethereal, folktronica" role="button">
 Valravn - Koder på snor (2009-09-04)
 </li>
@@ -296,6 +293,9 @@ Ass - Ass (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb16fa21-7d1f-403b-9881-ebcc8296d19c/5700848143-500.jpg" data-tags="folk, singer-songwriter, soft rock, folktronica, alternative pop, pop/rock" role="button">
 Ásgeir - In the Silence (2013)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e4514d4-585f-460b-9412-b8f86e62dec8/3534173645-500.jpg" data-tags="electronic, alternative, new york, indie pop, acoustic, synth pop, experimental pop, folktronica, female vocals, female vocalist, avant indie, fh tag -album at 130325, rootsy pop, test add -see forum21713 2201752" role="button">
+swimming in speakers - guessing the others (2013-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/db156baa-231f-47ec-bad9-d8dbeed93597/14548046594-500.jpg" data-tags="chamber pop, folktronica, art pop" role="button">
 Chris Garneau - Winter Games (2013-04-11)

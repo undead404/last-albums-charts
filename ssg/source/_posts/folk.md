@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:16:06.918Z
+date: 2021-04-11T20:36:01.450Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -150,9 +150,6 @@ Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
 <li data-cover="https://img.discogs.com/1li0RtxWcxuVOXNCNgcLD-9xYP0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864987-1271282357.jpeg.jpg" data-tags="folk" role="button">
 Horse Feathers - Words Are Dead (2006-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
 </li>
@@ -221,6 +218,9 @@ Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/86999218-5d93-4590-80f6-e609ca6ed072/17331772069-500.jpg" data-tags="folk" role="button">
 Bowerbirds - Upper Air (2009-07-07)
+</li>
+<li data-cover="https://img.discogs.com/zBUSdmP4tQksNT5bsDmHkEW9U3w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1936394-1254022032.jpeg.jpg" data-tags="folk" role="button">
+Monsters of Folk - Monsters of Folk (2009-09-18)
 </li>
 <li data-cover="https://img.discogs.com/vwRgIQHNnlqj393afjcZVPhqPBo=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1940421-1609842441-1085.jpeg.jpg" data-tags="indie, folk" role="button">
 Volcano Choir - Unmap (2009-09-22)

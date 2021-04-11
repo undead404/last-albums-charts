@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:26:01.407Z
+date: 2021-04-11T20:32:01.423Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -225,9 +225,6 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2529d41-26b6-4751-979d-ae0b19ec91a9/3754509342-500.jpg" data-tags="shoegaze" role="button">
-Tamaryn - The Waves (2010-09-14)
-</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
@@ -278,6 +275,9 @@ Silversun Pickups - Neck Of The Woods (2012-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/24c99b7d-b243-450d-8477-46dfd4a8bfa3/948171837-500.jpg" data-tags="dream pop" role="button">
 Beach House - Bloom (2012-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0c7c9f4-7195-4e67-9128-f83edbd65cf7/3904773359-500.jpg" data-tags="shoegaze, noise rock" role="button">
+A Place to Bury Strangers - Worship (2012-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a108c85a-336e-4d7e-993b-e266e878b39d/5042708107-500.jpg" data-tags="shoegaze" role="button">
 Black Marble - A Different Arrangement (2012-10-09)

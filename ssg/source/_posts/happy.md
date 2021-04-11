@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T07:25:07.020Z
+date: 2021-04-11T19:51:01.427Z
 title: "happy: 100 albums you must listen to before you die"
 ---
 ![Little Joy - Little Joy (2008-11-03)](http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg "Little Joy - Little Joy (2008-11-03)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="https://img.discogs.com/Gl0JdmtBh4Bu5ENhknStJ6146Ig=/fit-in/600x645/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8577781-1464404138-7605.jpeg.jpg" data-tags="indie, indie rock" role="button">The Go! Team - Thunder, Lightning, Strike (2004-09-13)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
+<li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">Lily Allen - Alright, Still (2006-07-17)</li>
+<li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">Cut Copy - In Ghost Colours (2008-03-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">Jason Mraz - I'm Yours (2008-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">Mika - The Boy Who Knew Too Much (2009-09-16)</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,17 +33,11 @@ ABBA - Arrival (1976-10-11)
 <li data-cover="http://coverartarchive.org/release/6671f035-bb7f-48f3-98a3-99ca33202c67/14753977630-500.jpg" data-tags="80s, happy, 1981 albums, flashback alternatives, gespannt" role="button">
 Billy Idol - Don't Stop (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/d8ab5316-9fad-47c2-9e9f-ccb5350bdf2e/882344625-500.jpg" data-tags="new wave, happy" role="button">
-Altered Images - Pinky Blue (1982)
-</li>
 <li data-cover="https://img.discogs.com/PCgnxVCzzTl-HSsQaU4qnKhloN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600291-1175787502.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="happy, being a kid, p sisters" role="button">
 The Pointer Sisters - Fire! The Very Best of The Pointer Sisters (1982-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c7258c3-1d4a-4d86-a84c-962a633c386a/7467485718-500.jpg" data-tags="happy, ska, steveadams fm, steveadamsfm" role="button">
-Madness - Madness (1983)
 </li>
 <li data-cover="https://img.discogs.com/Feym80uVoAut1K5XZG7_l0q_F3M=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493201-1541766046-7285.jpeg.jpg" data-tags="happy, brit pop" role="button">
 The Smiths - This Charming Man (1983-10-28)
@@ -63,8 +57,8 @@ They Might Be Giants - Flood (1990-01-05)
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
-Digable Planets - Blowout Comb (1994-10-05)
+<li data-cover="http://coverartarchive.org/release/0153bae9-8095-4d10-8091-a51ffbad0c21/17883808483-500.jpg" data-tags="senegal, good music" role="button">
+Youssou N'Dour - The Guide (Wommat) (1994-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/40f239f7-248d-4bcf-aae0-894afcd46ea2/9526033999-500.jpg" data-tags="jazz, happy, tenor saxophone, intelligent, modern jazz, nice, blue note, san francisco, simply amazing, radio friendly, kick out the jams, jazszsz, greasy granny, smart songwriter, charlie hunter trio, dave ellis" role="button">
 Charlie Hunter Trio - Bing, bing, bing! (1995-06-20)
@@ -77,9 +71,6 @@ Cornershop - Brimful of Asha (1997-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a91e0362-3aaa-4d82-beee-e331a8fdfe72/10998135685-500.jpg" data-tags="ska" role="button">
 Save Ferris - It Means Everything (1997-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e48d986-ca1d-47f4-8694-7477aea0f159/24821791374-500.jpg" data-tags="electronic, dj mix, big beat" role="button">
-Fatboy Slim - On the Floor at the Boutique (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/51e264dd-6628-4007-a00c-3d067b72611f/5114498331-500.jpg" data-tags="indie, alternative rock, indie pop, happy, experimental rock, drums, lyrics, favorite drummers, sam coomes, sitrc: birds, dr small jukebox, janet weis, roxichord" role="button">
 Quasi - Featuring "Birds" (1998-04-07)
@@ -96,20 +87,11 @@ The Hippos - Heads Are Gonna Roll (1999-08-24)
 <li data-cover="http://coverartarchive.org/release/747a3c55-9561-427e-b703-7aacf43c249a/13619800579-500.jpg" data-tags="pop" role="button">
 S Club 7 - S Club (1999-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/17721db8-7694-4ab4-ac6a-9ebf9bb6e0f7/16291381884-500.jpg" data-tags="electronic" role="button">
-The Avalanches - Frontier Psychiatrist (2000-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1eb09f5-090f-4a15-8fa2-a8cf7c16d87d/11878814902-500.jpg" data-tags="eurodance" role="button">
 Baha Men - Who Let the Dogs Out (2000-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfc9ac28-7ec8-3052-8653-0b2eee239b58/9158817243-500.jpg" data-tags="electronic" role="button">
-Fatboy Slim - Halfway Between The Gutter and the Stars (2000-11-01)
-</li>
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
-Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
@@ -120,6 +102,12 @@ C-Mon & Kypski - Vinyl Voodoo (2002-11-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - Superhero (2002-12-10)
 </li>
+<li data-cover="https://img.discogs.com/A5nEZNzogO7mFKeI2ZGwiq4w3MA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2420126-1386682159-4769.jpeg.jpg" data-tags="rock, alternative, alternative rock, female vocalists, happy, summer, punk rock, uplifting, summer rock, merkliste" role="button">
+Dover - The Flame (2003)
+</li>
+<li data-cover="https://img.discogs.com/BAmVGDpBy4rQp_JFTj9Tu9DUB_8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13099791-1548725330-9010.jpeg.jpg" data-tags="christian, modern worship, worship" role="button">
+Newsboys - Adoration: The Worship Album (2003-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
 The New Pornographers - Electric Version (2003-04-25)
 </li>
@@ -129,14 +117,14 @@ Suburban Legends - Rump Shaker (2003-06-28)
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/91cc9b5b-9792-4857-ae05-f85ca157127b/16222036992-500.jpg" data-tags="indie, indie pop" role="button">
+Mates of State - Team Boo (2003-09-13)
+</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">
 Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/655ad7d5-f469-46f5-a818-c544ec2c5728/26402077613-500.jpg" data-tags="indie rock, indie folk, los angeles" role="button">
-The Elected - Me First (2004-02-03)
 </li>
 <li data-cover="https://img.discogs.com/Fcd_ngnmbfHMBVF1BuZQ5_7ndlI=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-356917-1155841615.jpeg.jpg" data-tags="indie, rock, alternative, happy, float on, stuff i own in vinyl" role="button">
 Modest Mouse - Float On (2004-03-09)
@@ -146,6 +134,12 @@ Phoenix - Alphabetical (2004-03-21)
 </li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8142c5d-3180-4f59-a9d3-880904621f73/7170268518-500.jpg" data-tags="deutschrock, sportfreunde stiller" role="button">
+Sportfreunde Stiller - Burli (2004-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/3dd9d35e-294e-4e22-9423-d95edcab15ac/4400833302-500.jpg" data-tags="electronic" role="button">
+C-Mon & Kypski - Static Traveller (2004-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/250bd2dc-a9e8-4c50-9b3d-7863a0efc6d2/3457679280-500.jpg" data-tags="indie" role="button">
 The Weepies - Happiness (2004-06-08)
@@ -159,8 +153,8 @@ The Go! Team - Thunder, Lightning, Strike (2004-09-13)
 <li data-cover="https://img.discogs.com/btRp2YznA7QF_9Z576LqzmNocSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442593-1448241064-5247.jpeg.jpg" data-tags="indie pop, twee, happy, boy-girl, pretty indiepop" role="button">
 Saturday Looks Good To Me - Every Night (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/FH5EyJ1vHROjni-DJam6i3vIffE=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1123385-1491730920-7201.jpeg.jpg" data-tags="rock, female vocalists, skye sweetnam, pop" role="button">
-Skye Sweetnam - Noise from the Basement (2004-09-21)
+<li data-cover="http://coverartarchive.org/release/f2b81710-c2ab-4232-9165-1ed7223a131a/1673089447-500.jpg" data-tags="happy, funky, humour, psychodiscofunkizpola, wesele kurwa" role="button">
+Łąki Łan - Łąki Łan (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd752d0-2b57-3395-8164-b75abc8e2e42/12608703957-500.jpg" data-tags="indie" role="button">
 The Boy Least Likely To - The Best Party Ever (2005-02-14)
@@ -189,6 +183,9 @@ Jim Noir - Tower Of Love (2005-12-05)
 <li data-cover="http://coverartarchive.org/release/76409081-4134-4264-9c44-43712f552cd7/21434002898-500.jpg" data-tags="happy, cute, acoustic, laid back, jack johnson, beachy, i can play this song" role="button">
 Jack Johnson - Upside Down (2006-02-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, a night out on the town, female popsingers, chill - girly" role="button">
+Marie Serneholt - Enjoy the Ride (2006-03-29)
+</li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
@@ -203,9 +200,6 @@ The Lovely Feathers - Hind Hind Legs (2006-04-18)
 </li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
 Mat Kearney - Nothing Left To Lose (2006-04-18)
-</li>
-<li data-cover="https://img.discogs.com/0g8A8Ic0qyE1JbqnSZo3mewZPl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707924-1198936469.gif.jpg" data-tags="singer-songwriter" role="button">
-Kimya Dawson - Remember That I Love You (2006-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Format - Dog Problems (2006-05-18)
@@ -245,6 +239,9 @@ Jason Mraz - I'm Yours (2008-06-06)
 </li>
 <li data-cover="https://img.discogs.com/-icbU4pwffzydFCvpNSUUul6LOQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3794254-1344691332-2901.jpeg.jpg" data-tags="happy, summer, sweet, makes me happy" role="button">
 My Favorite Highway - How To Call A Bluff (2008-07-13)
+</li>
+<li data-cover="https://img.discogs.com/7uw1dCIGEOtZ3-WH8kNZMELYEVU=/fit-in/450x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5642800-1398763523-1180.jpeg.jpg" data-tags="rock, 00s" role="button">
+The Living End - White Noise (2008-07-19)
 </li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
@@ -309,14 +306,17 @@ Sleigh Bells - Reign of Terror (2012-02-20)
 <li data-cover="http://coverartarchive.org/release/ccecd601-45e2-411c-bae2-650dd504bf03/13992225037-500.jpg" data-tags="indie, electronic" role="button">
 The Ting Tings - Sounds From Nowheresville (2012-02-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/a42c4336-c712-4df2-8cbe-c3a31977d91e/28138649646-500.jpg" data-tags="happy, jungle, summer, reggae dnb" role="button">
 Dub Pistols - Worshipping The Dollar (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3662da7-dd97-481e-bc61-3d046cccc51b/7638922855-500.jpg" data-tags="piano" role="button">
 The Piano Guys - The Piano Guys (2012-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/b470c11b-e4b6-46e1-bcc0-50cb558bb165/21020490745-500.jpg" data-tags="happy, cute" role="button">
+Tangerine Kitty - Dumb Ways to Die (2012-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a23bf85-a672-44c2-9fc1-5e479f7217d6/3064153162-500.jpg" data-tags="math rock" role="button">
+And So I Watch You From Afar - All Hail Bright Futures (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/061227cc-726d-4dbb-96e2-7e6da17c2dbb/7322842299-500.jpg" data-tags="pop" role="button">
 Cher Lloyd - Sorry I'm Late (2014-05-27)

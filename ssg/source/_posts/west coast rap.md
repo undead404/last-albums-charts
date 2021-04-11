@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T12:18:06.991Z
+date: 2021-04-11T20:45:01.926Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
@@ -11,7 +12,6 @@ title: "west coast rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">Ice Cube - Laugh Now, Cry Later (2006-06-06)</li>
-<li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">Kendrick Lamar - Overly Dedicated (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)</li>
 </ol>
@@ -26,9 +26,6 @@ N.W.A - N.W.A. and the Posse (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eecb9b4-ea73-4dbc-a220-887b585db5ba/14894010747-500.jpg" data-tags="golden age hip hop" role="button">
 The D.O.C. - No One Can Do It Better (1989-06-19)
-</li>
-<li data-cover="https://img.discogs.com/DWtMsiB5hSrBwZoiImfeTzbi6SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832089-1372026607-3318.jpeg.jpg" data-tags="gangsta rap" role="button">
-Above the Law - Livin' Like Hustlers (1989-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
@@ -50,9 +47,6 @@ DJ Quik - Quik Is The Name (1991-07-01)
 </li>
 <li data-cover="https://img.discogs.com/t3M8KbY6mgx5Cyt2iP6mmBUj_vc=/fit-in/250x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6680346-1428127536-9334.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
 Kid Frost - East Side Story (1992-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/60aca4ff-ef2d-481d-af88-0902412e9963/7052463164-500.jpg" data-tags="hip-hop, 90s, west coast rap, white rap, collected, lastfm needs this, a sick honky straight goin donkey" role="button">
-N2DEEP - Back to the Hotel (1992-06-01)
 </li>
 <li data-cover="https://img.discogs.com/XvX9_Kx__SrkTiWRGAMlhTOEE_0=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225151-1177019002.jpeg.jpg" data-tags="rap, gangsta rap, hardcore hip-hop, west coast rap" role="button">
 MC Ren - Kizz My Black Azz (1992-06-30)
@@ -132,9 +126,6 @@ Body Count - Body Count (1996)
 <li data-cover="http://coverartarchive.org/release/eae05f09-15ab-467f-a81e-53ecf2e7d825/4088802731-500.jpg" data-tags="gangsta rap" role="button">
 MC Ren - The Villain In Black (1996-04-09)
 </li>
-<li data-cover="https://img.discogs.com/I9KSM5KKO4wuY7RxxkAU9y8Oze0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179746-1319325662.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
-N.W.A - Greatest Hits (1996-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/9b0c9200-8eab-4457-9c82-690b9b4d69cb/5458690525-500.jpg" data-tags="west coast rap" role="button">
 Young Lay - Black 'n Dangerous (1996-07-04)
 </li>
@@ -146,9 +137,6 @@ Foesum - Perfection (1996-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">
 Xzibit - At The Speed Of Life (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/69ca64c2-776d-39b2-9a10-41418de7c965/27920404709-500.jpg" data-tags="hip-hop" role="button">
-House of Pain - Truth Crushed to Earth Shall Rise Again (1996-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a1d882-9a24-4c7b-afec-68c8abe8cfa7/15839004118-500.jpg" data-tags="west coast rap" role="button">
 E-40 - Tha Hall Of Game (1996-10-29)
@@ -216,6 +204,9 @@ Snoop Dogg - Tha Last Meal (2000-12-19)
 <li data-cover="http://coverartarchive.org/release/835a431b-81d8-4440-8157-d3efa65a8a39/955224994-500.jpg" data-tags="2pac, rap" role="button">
 2Pac - Until The End Of Time (2001-03-27)
 </li>
+<li data-cover="https://img.discogs.com/gR2kpxeO75XJxv2c6ugK3pfD-Bc=/fit-in/385x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425858-1169041129.jpeg.jpg" data-tags="west coast rap" role="button">
+Kurupt - Space Boogie: Smoke Oddessey (2001-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c9822ef-2188-4b78-93f2-67540352b45c/4402762632-500.jpg" data-tags="rap" role="button">
 Coolio - Fantastic Voyage: The Greatest Hits (2001-07-17)
 </li>
@@ -230,6 +221,9 @@ Mack 10 - Bang Or Ball (2001-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f68c4733-b716-4173-ad90-57bb48b34f5c/28502832824-500.jpg" data-tags="g-funk" role="button">
 Nate Dogg - Music & Me (2001-12-04)
+</li>
+<li data-cover="https://img.discogs.com/tcWXoxtaIlFnrMQZLrtNcR3OwYI=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-705620-1476209217-1353.jpeg.jpg" data-tags="west coast rap" role="button">
+Foesum - The FoeFathers (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b4272d8-133a-4f66-91d7-ad686c61a19a/27404836477-500.jpg" data-tags="west coast rap" role="button">
 Shade Sheist - Informal Introduction (2002-09-10)
@@ -251,6 +245,9 @@ Westside Connection - Terrorist Threats (2003-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7968320-e985-48b1-8424-64dccccf1503/5157859126-500.jpg" data-tags="hip hop" role="button">
 Cypress Hill - Till Death Do Us Part (2004-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/931319a0-e2fc-4782-9b44-57734e228c63/15033118098-500.jpg" data-tags="hip-hop, rap, west coast, west coast rap, 2pac, pac" role="button">
+2Pac - 2Pac Live (2004-08-10)
 </li>
 <li data-cover="https://img.discogs.com/Im1Ye32eFS2qowwRop4yXtIiLgI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314921-1544872096-6849.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
 213 - The Hard Way (2004-08-13)
@@ -276,6 +273,9 @@ E-40 - My Ghetto Report Card (2006-03-14)
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">
 Ice Cube - Laugh Now, Cry Later (2006-06-06)
 </li>
+<li data-cover="https://img.discogs.com/iZshO3IiTJ6dAlsBgq0m_Sevprc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1300066-1542690058-5495.jpeg.jpg" data-tags="west coast rap" role="button">
+Kokane - Back 2 Tha Clap (2006-07-18)
+</li>
 <li data-cover="https://img.discogs.com/GTciODd24X0IquM_2mJB03hmSlo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2087675-1402752794-7839.jpeg.jpg" data-tags="west coast rap" role="button">
 DJ Quik - Born And Raised In Compton: The Greatest Hits (2006-08-08)
 </li>
@@ -287,6 +287,9 @@ Brotha Lynch Hung - The Ripgut Collection (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
 Daz Dillinger - Only On The Left Side (2008-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d86a17d7-77c0-45e5-87cc-7a0ea351d260/14768323100-500.jpg" data-tags="west coast rap" role="button">
+Sen Dog - Diary Of A Mad Dog (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8eedec7-3b7f-4ea3-a479-5c136641b875/18892895465-500.jpg" data-tags="gangsta rap, texas, southern rap, west coast rap, rap-a-lot, houston rap" role="button">
 Scarface - Emeritus (2008-12-02)
@@ -302,9 +305,6 @@ Cypress Hill - Collections (2010-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c81790-c932-4ab0-b6e3-948c51758f7b/26997704779-500.jpg" data-tags="hip-hop, west coast rap, jbtv recommendation" role="button">
 Kero One - Kinetic World (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">
-Kendrick Lamar - Overly Dedicated (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)

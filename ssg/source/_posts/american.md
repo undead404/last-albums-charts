@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:58:01.433Z
+date: 2021-04-11T20:16:06.905Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -45,9 +45,6 @@ Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 <li data-cover="https://img.discogs.com/AOoYKT-Gk3RLqdjQJmWTzIWXuSM=/fit-in/580x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745597-1154516372.jpeg.jpg" data-tags="rock" role="button">
 Counting Crows - August And Everything After (1993-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
-Beck - Mellow Gold (1994-03-01)
-</li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
 </li>
@@ -89,9 +86,6 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
@@ -195,6 +189,9 @@ MGMT - Time To Pretend (2007-12-25)
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
 </li>
+<li data-cover="https://img.discogs.com/fi-H7ZPALPcsWhQEkhhSWu4v05k=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404081-1494614671-4937.jpeg.jpg" data-tags="indie pop" role="button">
+Black Kids - Partie Traumatic (2008-07-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/42716365-90b9-485e-a887-e5e120cb56da/15082708390-500.jpg" data-tags="indie" role="button">
 Okkervil River - The Stand Ins (2008-09-09)
 </li>
@@ -203,9 +200,6 @@ Kings of Leon - Only by the Night (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
 </li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
@@ -284,6 +278,12 @@ Passion Pit - Gossamer (2012-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Shields (2012-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
+Alicia Keys - Girl on Fire (2012-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
+Toro y Moi - Anything in Return (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/43bd1c61-c8a2-4877-a57f-93cdf262c761/3773290861-500.jpg" data-tags="indie rock" role="button">
 Local Natives - Hummingbird (2013-01-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:52:01.421Z
+date: 2021-04-11T19:58:06.991Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -125,6 +125,9 @@ Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/069e6afe-bbc0-4599-bb83-5bb63d40ced4/11111317856-500.jpg" data-tags="christian rock, christian" role="button">
 Jeremy Camp - Restored (2004-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a61bcdde-d296-41f9-bb43-3d59f58e582f/2105274701-500.jpg" data-tags="christian rock" role="button">
+Disciple - Disciple (2005)
 </li>
 <li data-cover="https://img.discogs.com/tR6WZ-fwpqRYhYTJ-LAealyIKJo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-554117-1486832102-2966.jpeg.jpg" data-tags="christian rock" role="button">
 Krystal Meyers - Krystal Meyers (2005)
@@ -305,9 +308,6 @@ Fireflight - Now (2012-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/270c1cab-5265-4dad-b7fc-e2678ea363db/2407023243-500.jpg" data-tags="alternative rock, hard rock" role="button">
-Flyleaf - New Horizons (2012-10-30)
 </li>
 <li data-cover="https://img.discogs.com/yxdSNJRUkQeuNCAS6VUcoSo1K8c=/fit-in/300x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412016-1124253791.jpg.jpg" data-tags="christian rock" role="button">
 Red - Release The Panic (2013-02-05)

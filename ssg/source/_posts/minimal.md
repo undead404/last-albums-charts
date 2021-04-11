@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T10:21:01.514Z
+date: 2021-04-11T20:08:01.416Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">Plastikman - Artifakts (BC) (1998-11-02)</li>
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">Nathan Fake - Drowning in a Sea of Love (2006-03-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">Apparat - Walls (2007-05)</li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">Mujuice - Cool Cool Death (2007-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">Four Tet - There Is Love in You (2010-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">Nicolas Jaar - Space Is Only Noise (2011-01-31)</li>
@@ -29,6 +29,9 @@ Gescom - Key Nell (1996-06-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Plastikman - Artifakts (BC) (1998-11-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
+Arovane - Icol Diston (1998-12-15)
 </li>
 <li data-cover="https://img.discogs.com/QSs9Sy-jMjcK_qt57Nl0s6D-dRY=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5678-1379643265-7806.jpeg.jpg" data-tags="minimal" role="button">
 Pole - 2 (1999-02-01)
@@ -192,14 +195,8 @@ Taylor Deupree - Landing (2007-04-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">
-Mujuice - Cool Cool Death (2007-06-22)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Marc Romboy - Sunburst (2007-06-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/041f224b-6030-4e55-b1df-32e168aef381/4514687809-500.jpg" data-tags="raster-noton, minimal, glitch" role="button">
-Frank Bretschneider - Rhythm (2007-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1165918c-a517-4418-855b-fae785adec6c/4542752130-500.jpg" data-tags="electronic, remix" role="button">
 Thom Yorke - The Eraser Rmxs (2007-12-19)
@@ -245,6 +242,9 @@ Four Tet - There Is Love in You (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5d18496-c4a1-46ad-8219-452798ed3f58/3972240476-500.jpg" data-tags="ambient" role="button">
 Loscil - Endless Falls (2010-03-01)
+</li>
+<li data-cover="https://img.discogs.com/uuY2WB5qZsvKSPT_1Y5m6c5tBa0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182805-1268485171.jpeg.jpg" data-tags="house, minimal" role="button">
+Pantha du Prince - Stick to my side (2010-03-08)
 </li>
 <li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
 Lena - Satellite (2010-03-13)

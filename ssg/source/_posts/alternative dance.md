@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:17:01.403Z
+date: 2021-04-11T20:44:01.393Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -57,8 +57,8 @@ New Order - Republic (1993-04-27)
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
+<li data-cover="http://coverartarchive.org/release/0a1c8de5-54bf-3efd-99af-e9757a9184a3/7941708576-500.jpg" data-tags="shoegaze" role="button">
+Chapterhouse - Blood Music (1993-11-09)
 </li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
@@ -69,11 +69,14 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/06cf1467-1631-423a-b680-072225a7cc4f/14766461634-500.jpg" data-tags="90s" role="button">
 White Town - Women In Technology (1997-02-25)
 </li>
+<li data-cover="https://img.discogs.com/ic_jJXf96xxh8MNzICynN_a62Lc=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3942-1503379972-5000.jpeg.jpg" data-tags="shibuya-kei" role="button">
+Fantastic Plastic Machine - The Fantastic Plastic Machine (1997-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/70ebcf2e-10dd-473f-9974-3978c0ae3ca5/10348184655-500.jpg" data-tags="chillout, downtempo" role="button">
+Groove Armada - Northern Star (1998-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/b92ca5de-c74c-36c1-9a0c-e5db91fdce8d/24147114073-500.jpg" data-tags="90s, electronic" role="button">
 Pet Shop Boys - Nightlife (1999-10-09)
-</li>
-<li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
-Beck - Midnite Vultures (1999-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7817254-dde6-474e-9972-1b3bdb58e32a/2657727181-500.jpg" data-tags="electronic" role="button">
 Depeche Mode - Dream On (2001-04-23)
@@ -86,6 +89,9 @@ Boxed In - Boxed In (2002)
 </li>
 <li data-cover="https://img.discogs.com/xNhbq7wdrCp41Cli9eWorBoOBUY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15694999-1596054295-8929.jpeg.jpg" data-tags="rock" role="button">
 The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
+</li>
+<li data-cover="https://img.discogs.com/e0A0KZBu56hqMNUETE93isqWAvY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1302028-1304181998.jpeg.jpg" data-tags="electronic" role="button">
+M.I.A. - Galang (2003)
 </li>
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)
@@ -161,9 +167,6 @@ Lюk - Мамина Юность (2009-03-08)
 </li>
 <li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
 Pet Shop Boys - Yes (2009-03-18)
-</li>
-<li data-cover="https://img.discogs.com/3hypGH88_Xpi5qapMCbuZ17MufU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554859-1244277004.jpeg.jpg" data-tags="electronic, remix" role="button">
-Bloc Party - Intimacy Remixed (2009-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
@@ -263,9 +266,6 @@ Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/acc2d46e-b73d-48bf-9a33-f8210432e210/3799836836-500.jpg" data-tags="electronic, alternative" role="button">
 New Order - Lost Sirens (2013-01-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f79cbeda-72f9-46ad-b130-b9bc8d1392f7/3698114894-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Delta Machine (2013-03-22)

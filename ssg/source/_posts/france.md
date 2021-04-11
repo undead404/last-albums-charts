@@ -1,11 +1,12 @@
 ---
-date: 2021-04-10T21:14:07.042Z
+date: 2021-04-11T19:47:07.081Z
 title: "france: 100 albums you must listen to before you die"
 ---
 ![Breakbot - By Your Side (2012-09-17)](https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg "Breakbot - By Your Side (2012-09-17)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">Air - 10 000 Hz Legend (2001-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">Sébastien Tellier - Politics (2004-01-05)</li>
+<li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">Justice - Justice (2005-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">Air - Pocket Symphony (2006-12)</li>
 <li data-cover="http://coverartarchive.org/release/e03c4b7c-8905-3a0f-88a0-39d3790d99ab/24223406985-500.jpg" data-tags="french" role="button">Sébastien Tellier - Sexuality (2008-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">Birdy Nam Nam - Manual for successful rioting (2009-01-01)</li>
@@ -13,7 +14,6 @@ title: "france: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">Yelle - Safari Disco Club (2011-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/d2a7d1ed-f61a-4738-85ea-4a7344687eff/6296001949-500.jpg" data-tags="indie, pop, british, alternative, indie rock, power pop, progressive rock, britpop, melodic, france, pop/rock, island records" role="button">Tribes - Baby (2012-01-13)</li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">Breakbot - By Your Side (2012-09-17)</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">Stromae - Racine Carrée (2013-08-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,29 +21,29 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/d9LDzY8N9l9Yl7efaiSRPFGza2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13193087-1549710330-3547.jpeg.jpg" data-tags="french, pop, rock, female vocalists, chanteuse, france, mistagged on spotify, hardy, ma rencontre, ifs and buts, f-hardy" role="button">
+Françoise Hardy - Et Si Je M'en Vais Avant Toi (1972)
+</li>
 <li data-cover="http://coverartarchive.org/release/5bec885b-616e-468e-92bb-73c466e5195c/10976688884-500.jpg" data-tags="progressive rock, france" role="button">
 Lard Free - Lard Free (1973)
 </li>
 <li data-cover="https://img.discogs.com/bWWiWkYlHPfMjKfhFE1t89tNdbk=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-320878-1459178315-1863.jpeg.jpg" data-tags="70s, experimental, soundscape, avant garde, avant-garde, drone, electroacoustic, france, early electronic, musique concrete, concrete, tape music, gammarec, the vitamin b12, unfolding, heard from a spaceship, freepurp1e, western classical music, b parmegiani" role="button">
 Bernard Parmegiani - De Natura Sonorum (1975)
 </li>
-<li data-cover="http://coverartarchive.org/release/58a41c33-64a0-4366-9c9f-e98c5c6833f1/1287002588-500.jpg" data-tags="coldwave, post-punk" role="button">
-Kas Product - Try Out (1981)
+<li data-cover="http://coverartarchive.org/release/b6a4a2bc-574b-4546-b66b-cfffdeb7d54a/18856591578-500.jpg" data-tags="zeuhl" role="button">
+Magma - Live (1975)
+</li>
+<li data-cover="https://img.discogs.com/PpekhYJZijVD8pSZQmEucR7pAmk=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988175-1260719637.jpeg.jpg" data-tags="french, rock, 70s, progressive rock, french rock, france, french progressive rock, awesome french progressive rock" role="button">
+Arachnoid - Arachnoid (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/26607860-6946-43c2-821d-c96a564ec9b8/5502705959-500.jpg" data-tags="new wave" role="button">
 Indochine - L'Aventurier (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/97861f0b-c89f-420e-ba30-537ebf0b25c3/1460709486-500.jpg" data-tags="electronic, 80s, experimental, new wave, darkwave, france, coldwave, minimal wave, synth wave" role="button">
-Martin Dupont - Just Because (1984)
+<li data-cover="https://via.placeholder.com/450" data-tags="absolutely brilliant" role="button">
+Indochine - Le péril jaune (1983)
 </li>
 <li data-cover="https://img.discogs.com/q5y8LgVpXKQ0e3GZBGDqOPRCQZg=/fit-in/400x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3310297-1326027349.jpeg.jpg" data-tags="male vocalist, france, food and drink, actrices, fruit and vegetables" role="button">
 Serge Gainsbourg - Lemon Incest (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/ba601da9-3a95-4e4e-8179-778230cbeefe/6849150475-500.jpg" data-tags="80s, new wave, darkwave, male vocalists, france, coldwave, divine, synth wave" role="button">
-End of Data - Sahrah (1984)
-</li>
-<li data-cover="https://img.discogs.com/v4UGajqzHWsZSyHZGbTqJ0wFlQo=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13876365-1563109546-8393.jpeg.jpg" data-tags="electronic" role="button">
-Jean Michel Jarre - Zoolook (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a3e8e67-fd9a-4f34-bd2f-706d1abc5cca/18002840744-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, male vocalists, pop-rock, france, irack" role="button">
 Indochine - 3 (1985)
@@ -51,26 +51,26 @@ Indochine - 3 (1985)
 <li data-cover="http://coverartarchive.org/release/4adc6436-806c-478d-9999-4575e04c8455/18590004622-500.jpg" data-tags="rock, france, johnny hallyday" role="button">
 Johnny Hallyday - Gang (1986-12-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4535308e-85e6-404a-a15e-12a727e4fe85/2466629463-500.jpg" data-tags="coldwave, post-punk" role="button">
-Asylum Party - Borderline (1989)
+<li data-cover="https://img.discogs.com/_N_kl23Ng-1659rIQq9nl7SSj1o=/fit-in/450x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4289687-1497543191-9706.jpeg.jpg" data-tags="rock" role="button">
+Indochine - 7000 danses (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4eb4fd-9097-4067-9f94-aa85f51bc7af/6204216929-500.jpg" data-tags="rock, dark, post-punk, melancholic, france, coldwave" role="button">
 Mary Goes Round - 70 Suns In The Sky (1989-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f1af790-ccf2-41ef-97e6-b1b6f19b5775/4942541737-500.jpg" data-tags="gypsy, klezmer" role="button">
-Bratsch - Sans Domicile Fixe (1990)
+<li data-cover="http://coverartarchive.org/release/5ac3a405-515d-49ec-8f82-960bdd0acaf8/5502730580-500.jpg" data-tags="pop, alternative" role="button">
+Indochine - Le Baiser (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccd1cbc9-5398-4e5d-8846-694fc3acab4f/1402677391-500.jpg" data-tags="french hip-hop, french" role="button">
 MC Solaar - Qui Sème le Vent Récolte le Tempo (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ae797bf-8661-4a7f-928e-a9d3408374a3/5292269292-500.jpg" data-tags="french, goth, dark, gothic, goth rock" role="button">
-Corpus Delicti - Obsessions (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/e8eb01f2-40aa-411f-a8d4-3e24ea43d43a/1390686496-500.jpg" data-tags="funk, 90s, funky" role="button">
-Alliance Ethnik - Simple & Funky (1995-05)
+<li data-cover="http://coverartarchive.org/release/c842b6c6-bd85-4384-a218-e18d28f0a405/9187934027-500.jpg" data-tags="black metal" role="button">
+Mütiilation - Vampires of Black Imperial Blood (1995)
 </li>
 <li data-cover="https://img.discogs.com/r8Sp9DdU-tgsCHfApf8HE373NMY=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105836-1408188687-7761.jpeg.jpg" data-tags="celtic" role="button">
 Alan Stivell - Brian Boru (1995-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/c449410e-9d1d-44c5-8617-e6079a91c847/2639299238-500.jpg" data-tags="black metal, industrial metal, symphonic black metal" role="button">
+Anorexia Nervosa - Exile (1997)
 </li>
 <li data-cover="https://img.discogs.com/w3qoCRe8erAZ_cXeY62tU0wxUzc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1806104-1446837113-7855.jpeg.jpg" data-tags="rock" role="button">
 Autour de Lucie - Immobile (1997-03)
@@ -81,9 +81,6 @@ Laurent Garnier - 30 (1997-04)
 <li data-cover="http://coverartarchive.org/release/58308d86-0933-45c3-bd95-51cac4d3839b/872516951-500.jpg" data-tags="electronic, electro, house, r&b, france, paris, tiesto, allure, lorris piasco" role="button">
 Allure - Allure (1997-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/de365ad0-cacb-4ac0-a942-83a2494c0b05/5473669689-500.jpg" data-tags="disco" role="button">
-Ottawan - D.I.S.C.O. (1998-01-19)
-</li>
 <li data-cover="https://img.discogs.com/YZZ6X1XM538dEKhmZTKS-Ehtg3E=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4525768-1486377543-4829.jpeg.jpg" data-tags="chanson française, france, language: french, my french tag, bachelet, pierre bachelet, pierre bachelet le meilleur de bachelet" role="button">
 Pierre Bachelet - Le Meilleur de Bachelet (1998-03-16)
 </li>
@@ -92,9 +89,6 @@ EZ3kiel - Equalize It (1998-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5108aa-d056-4884-b7d2-c75cbb303fa3/1528615623-500.jpg" data-tags="french" role="button">
 Mass Hysteria - Contraddiction (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/138bc4a4-5e20-4e7e-94cd-792d31279a55/4783605391-500.jpg" data-tags="hip-hop, rap" role="button">
-Saïan Supa Crew - KLR (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/3085b89e-98fd-4542-96ae-26d036198926/2639349290-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Anorexia Nervosa - Sodomizing the Archedangel (1999)
@@ -129,6 +123,9 @@ Blut aus Nord - The Mystical Beast of Rebellion (2001)
 <li data-cover="http://coverartarchive.org/release/c74682f8-661e-415f-b09f-706ebcc4765a/8467006864-500.jpg" data-tags="electronic, dub" role="button">
 EZ3kiel - Handle with Care (2001-03)
 </li>
+<li data-cover="https://img.discogs.com/lL-Jqkrpam3oO4FwHXfKu7WWW7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-779407-1263960887.jpeg.jpg" data-tags="world, gothic, ethnic, ethereal, dark ambient, world fusion, france, ethnic fusion, dark ethereal, gothic ethereal" role="button">
+Rajna - The Heady Wine of Praise (2001-04-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
@@ -162,6 +159,9 @@ Alizée - Mes courants électriques... (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/76df3695-a644-3b06-b36b-8e60494a04c2/3334255387-500.jpg" data-tags="ska" role="button">
 Ska-P - Incontrolable (2003-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/1d486816-4735-4392-9a73-0d94893e3721/1171956429-500.jpg" data-tags="remix" role="button">
+Mylène Farmer - Remixes (2003-12-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/637f0ba3-28ff-438f-86f2-16046ac959b8/1650086012-500.jpg" data-tags="french, nouvelle scene francaise, france, l o d barback" role="button">
 Les Ogres de Barback - Terrain vague (2004)
 </li>
@@ -192,6 +192,9 @@ Stereolab - Oscillons From The Anti-Sun (2005-04-25)
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+Grace Valhalla - PEAK~ (2006-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/a0a7630a-4149-46bf-8901-d6518e22813f/10926002805-500.jpg" data-tags="french, rock, instrumental, alternative, alternative rock, math rock, experimental, post-rock, lo-fi, post rock, jazz rock, alternative pop, alternative jazz, france, instrumental post-rock, duyster, post rock instrumental, post pop instrumental" role="button">
 fago.sepia - L'âme sûre ruse mal (2006-04)
 </li>
@@ -209,9 +212,6 @@ Numéro# - L'Idéologie Des Stars (2006-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/03c9158f-07ba-455e-a20a-d6a7af1f1338/2229455606-500.jpg" data-tags="jazz hop" role="button">
-Jazz Liberatorz - Clin d'oeil (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4eb146a-b25b-4745-ad95-66d955f18add/2461265563-500.jpg" data-tags="rock" role="button">
 Aaron - Artificial Animals Riding on Neverland (2007-01-29)
@@ -243,11 +243,11 @@ CALI - L'espoir (2008-02-04)
 <li data-cover="http://coverartarchive.org/release/e03c4b7c-8905-3a0f-88a0-39d3790d99ab/24223406985-500.jpg" data-tags="french" role="button">
 Sébastien Tellier - Sexuality (2008-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae56a904-e21f-4243-9262-ab45262bfc4d/945996864-500.jpg" data-tags="funeral doom metal" role="button">
+Ataraxie - Anhédonie (2008-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2643bef6-4d60-4d2f-89a9-ffe6c7bab7a1/2431344077-500.jpg" data-tags="electronic" role="button">
-Yuksek - Away From The Sea (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/237da257-e914-4cf7-8294-1c49b3d0d236/15794266436-500.jpg" data-tags="hip-hop, french, hip hop, rap, 00s, france, lyrical genius, loved album" role="button">
 Orelsan - Perdu d'Avance (2009-02-16)
@@ -294,6 +294,9 @@ Yodelice - Cardioid (2010-10-18)
 <li data-cover="http://coverartarchive.org/release/b5dcfc63-6c57-3ec1-8405-6e7a148e1cca/3825741259-500.jpg" data-tags="french" role="button">
 Cocoon - Where The Oceans End (2010-10-20)
 </li>
+<li data-cover="https://img.discogs.com/Yj3UxYvz6I84DNdbW-ebhuvDNgs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3293754-1324338464.jpeg.jpg" data-tags="french, francais, france" role="button">
+Baden Baden - 78 (2010-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
 </li>
@@ -311,9 +314,6 @@ Breakbot - By Your Side (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15879e3-fc96-46ea-b017-8fdfcff38871/2224618354-500.jpg" data-tags="metal, rock, electro, my, france, trip, alaska, minus, toulouse, naive, hop, private, music i tried but didnt like, le, agora, fidelio, mopa" role="button">
 NAÏVE - Illuminatis (2012-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
-Stromae - Racine Carrée (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/62841b29-08fa-46f0-bc83-26b1623abfe4/7546717875-500.jpg" data-tags="black metal, metal, dissonant metal" role="button">
 Plebeian Grandstand - Lowgazers (2014-03-31)

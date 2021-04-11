@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:10:01.447Z
+date: 2021-04-11T20:13:01.441Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -192,6 +192,9 @@ Metallica - Reload (1997-11-15)
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Virtual XI (1998-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5c27001-6dba-31a8-9f71-d50d89b0348b/7450806557-500.jpg" data-tags="power metal, heavy metal" role="button">
+Iced Earth - Something Wicked This Way Comes (1998-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/f149cf49-9364-365a-a9d5-b1ec5688075d/1068123055-500.jpg" data-tags="industrial metal" role="button">
 Rob Zombie - Hellbilly Deluxe (1998-08-25)
 </li>
@@ -248,9 +251,6 @@ Lamb of God - Ashes Of The Wake (2004-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/90eba311-3eee-4b46-8900-ad2e8fb7d8ba/14972006997-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Angel Of Retribution (2005-02-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e2f8c2f-b0d6-407f-a526-a6a1e85b7ec8/9271098267-500.jpg" data-tags="heavy metal" role="button">
-Black Label Society - Mafia (2005-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)

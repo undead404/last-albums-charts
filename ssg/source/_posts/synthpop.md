@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:42:12.672Z
+date: 2021-04-11T20:23:01.449Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -123,6 +123,9 @@ IAMX - Kingdom of Welcome Addiction (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
+<li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
+Miike Snow - Miike Snow (2009-06-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
 Desire - II (2009-06-29)
 </li>
@@ -161,9 +164,6 @@ Hurts - Happiness (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb993d0e-2746-3983-8f7a-b2d1b270f4a2/27493644550-500.jpg" data-tags="electronic, indie" role="button">
 Twin Shadow - Forget (2010-09-28)
-</li>
-<li data-cover="https://img.discogs.com/V-w5rL3u3C2DbLuqGxZy-IDxZ3Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559604-1341268022-7993.jpeg.jpg" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
-Tove Styrke - Tove Styrke (2010-11-17)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)

@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T07:33:07.642Z
+date: 2021-04-11T19:54:01.409Z
 title: "christian: 100 albums you must listen to before you die"
 ---
-![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
+![Emery - The Question (2005-08-02)](http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg "Emery - The Question (2005-08-02)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">P.O.D. - Satellite (2001-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">Switchfoot - The Beautiful Letdown (2003-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/5fa87c4d-8e2c-4a00-89ab-1ae980031264/9420368954-500.jpg" data-tags="christian" role="button">Casting Crowns - Casting Crowns (2003-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">Skillet - Collide (2003-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/1e336a49-093b-4328-85b9-dab7ebf2af41/8247802796-500.jpg" data-tags="christian" role="button">Chris Tomlin - Arriving (2004-09-21)</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">Flyleaf - Flyleaf (2004-10-26)</li>
+<li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">Anberlin - Never Take Friendship Personal (2005-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">Lifehouse - Lifehouse (2005-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
@@ -44,9 +44,6 @@ Lifehouse - No Name Face (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/97c7c9a2-c3c1-4aae-bed2-d2407a339a41/8288946939-500.jpg" data-tags="worship" role="button">
 Michael W. Smith - Worship (2000-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Satellite (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/4iVcdo_rEcq6zrSE5BjHjlyH1qQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593962-1586191495-6359.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 12 Stones - 12 Stones (2002-04-23)
@@ -86,6 +83,9 @@ Delirious? - World Service (2003-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
 Emery - The Weak's End (2004-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/5163d5e5-77fa-45f0-906a-60f82f0eecac/4786609440-500.jpg" data-tags="christian rock, kutless" role="button">
+Kutless - Sea of Faces (2004-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc487b0b-422e-4f96-ad3d-bbeca43f1d15/2105718546-500.jpg" data-tags="christian, worship" role="button">
 Hillsong United - More Than Life (2004-03-23)
@@ -150,6 +150,9 @@ Delirious? - The Mission Bell (2005-11-07)
 <li data-cover="https://img.discogs.com/ZTS1NcWfAAA0Ngx0JsC_ruNcmEA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5561208-1396643446-1134.jpeg.jpg" data-tags="christian, christian rock, my music, starfield" role="button">
 Starfield - Beauty In The Broken (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a3210c8-5c3e-48c8-8e8b-4e91d9610256/2220936532-500.jpg" data-tags="christian rock" role="button">
+Kutless - Hearts of the Innocent (2006-03-21)
+</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
 Mat Kearney - Nothing Left To Lose (2006-04-18)
 </li>
@@ -164,9 +167,6 @@ Skillet - Comatose (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e00b053-583a-4c48-a7ad-e88eb6805f5e/4786555443-500.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
 Jeremy Camp - Beyond Measure (2006-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec32c303-0afa-4205-be55-900803c954fe/25188888029-500.jpg" data-tags="alternative rock, hard rock, alternative metal, christian, christian rock, rapcore, nu metal, christian metal, christian nu metal, christian rapcore, pendientes, albums to own" role="button">
-P.O.D. - Greatest Hits: The Atlantic Years (2006-11-21)
 </li>
 <li data-cover="https://img.discogs.com/i_FP1qwi5QqE3znTGLOvOdB4_Gs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5488807-1529752537-6386.jpeg.jpg" data-tags="pop, christian, 00s" role="button">
 Matthew West - Something To Say (2007-01-15)
@@ -204,8 +204,8 @@ Project 86 - Rival Factions (2007-06-19)
 <li data-cover="http://coverartarchive.org/release/31edc597-2f6a-4466-8e79-2f7ad5eae2fb/9227459438-500.jpg" data-tags="rock, alternative rock" role="button">
 12 Stones - Anthem For The Underdog (2007-08-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
-As I Lay Dying - An Ocean Between Us (2007-08-21)
+<li data-cover="https://img.discogs.com/SHD0Wk_ObbWZNSXgkyEN8OX0ygA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7321066-1438828737-7553.jpeg.jpg" data-tags="rock, christian, contemporary christian, discoverockult" role="button">
+Robbie Seay Band - Give Yourself Away (2007-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf7799a4-f0ef-4f0d-8bb7-8c203b25ea87/2220921783-500.jpg" data-tags="christian rock" role="button">
 Thousand Foot Krutch - The Flame In All Of Us (2007-09-18)
@@ -243,17 +243,14 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Damien Jurado - Caught In The Trees (2008-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa052d1e-374f-4aff-ab7c-23d3a6982949/16523540617-500.jpg" data-tags="nu metal, alternative metal" role="button">
-Head - Save Me From Myself (2008-09-09)
-</li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1fee564-6b40-4e99-a79c-be1ef8780cae/4786588304-500.jpg" data-tags="christian, my fav" role="button">
 Jeremy Camp - Speaking Louder Than Before (2008-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c4e5b0bc-3e10-4245-a25c-10f5991bc930/10864980767-500.jpg" data-tags="alternative rock" role="button">
-Red - Innocence & Instinct (2009-02-05)
+<li data-cover="https://via.placeholder.com/450" data-tags="the civil wars" role="button">
+The Civil Wars - Live at Eddie's Attic (2009)
 </li>
 <li data-cover="https://img.discogs.com/XZFcpSk42RLr89-Xk3DjYAmsJYQ=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8033187-1453843225-2147.jpeg.jpg" data-tags="christian" role="button">
 The Honey Trees - Wake the Earth (2009-02-17)
@@ -261,14 +258,14 @@ The Honey Trees - Wake the Earth (2009-02-17)
 <li data-cover="https://img.discogs.com/WpcLlPnfaVQmpGjEeIBvw92-Du8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198889-1358372989-7472.jpeg.jpg" data-tags="fusion, modern rock" role="button">
 Mat Kearney - City Of Black & White (2009-05-19)
 </li>
+<li data-cover="https://img.discogs.com/Yi_XOAkQGi-qWdO0HPWH-690QQc=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748710-1503598896-8622.jpeg.jpg" data-tags="pop" role="button">
+Jonas Brothers - Lines, Vines and Trying Times (2009-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/a889c4bc-eb48-433e-a249-611ce2d8a5ea/15536962713-500.jpg" data-tags="metalcore" role="button">
 Confide - Shout The Truth (2009-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/68453bb1-969e-4960-8eaf-a2a1a35306eb/16546439880-500.jpg" data-tags="acoustic, christian, discoverockult, tyde moore radio" role="button">
 NEEDTOBREATHE - The Outsiders (2009-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/04c894d7-1b0c-46c4-86e4-82e444c7ce3c/15592315631-500.jpg" data-tags="indie, acoustic, christian, male vocalists, 2000s, 2009 albums, hairy chest, us-singer, after z" role="button">
-Sleeping at Last - Storyboards (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
@@ -281,6 +278,9 @@ The Letter Black - Breaking The Silence (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f7f8466-12ce-4f50-af91-347076e8ee13/935615917-500.jpg" data-tags="christian" role="button">
 Kutless - It Is Well (2009-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a0ce644-3390-403b-ac6e-9f094c5340d0/17544197691-500.jpg" data-tags="indie, folk, christian" role="button">
+The Lighthouse and the Whaler - The Lighthouse And The Whaler (2009-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef45c7f-fbc8-4cbc-af6e-c011c0efd28f/7587678218-500.jpg" data-tags="rock, christian rock, alternative, alternative rock" role="button">
 Switchfoot - Hello Hurricane (2009-11-10)
@@ -312,8 +312,8 @@ Demon Hunter - True Defiance (2012-04-10)
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
-<li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
-Om - Advaitic Songs (2012-07-24)
+<li data-cover="http://coverartarchive.org/release/6495f7ac-39ee-4ddc-8f40-03b3c11409fb/6023678970-500.jpg" data-tags="2012" role="button">
+Owl City - The Midsummer Station (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f59b30b-eccc-478e-93fb-cb2916f1902c/3561700047-500.jpg" data-tags="christian" role="button">
 Chris Tomlin - Burning Lights (2013-01-04)

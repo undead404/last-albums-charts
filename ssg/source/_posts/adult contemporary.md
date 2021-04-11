@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:25:01.416Z
+date: 2021-04-11T20:01:01.524Z
 title: "adult contemporary: 100 albums you must listen to before you die"
 ---
 ![Gregory Alan Isakov - This Empty Northern Hemisphere (2009)](http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg "Gregory Alan Isakov - This Empty Northern Hemisphere (2009)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="60s" role="button">
+The Spencer Davis Group - Keep On Running (1965-11-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/7a436130-f945-42b2-93d0-1a9b9e3d6797/4732084267-500.jpg" data-tags="70s, vocalistas masculinos" role="button">
 Neil Diamond - Sweet Caroline (1969)
 </li>
@@ -30,14 +33,20 @@ Barbra Streisand - The Way We Were (1974-01)
 <li data-cover="http://coverartarchive.org/release/2e3ad57d-da42-489f-8032-8b4b2b63478b/24154851314-500.jpg" data-tags="80s" role="button">
 Kim Carnes - Mistaken Identity (1981-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/2605b8f0-7270-4fe4-bf2c-d5bc3d9f5506/7263102188-500.jpg" data-tags="80s, funk" role="button">
+Level 42 - Level 42 (1981-07)
+</li>
 <li data-cover="https://img.discogs.com/XYc7LRuNKKYb1a9LAYBrPoQV-5Y=/fit-in/599x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5420332-1392910932-5689.jpeg.jpg" data-tags="pop, 80s, dance, new wave, female vocalist" role="button">
 Laura Branigan - Branigan (1982)
+</li>
+<li data-cover="https://img.discogs.com/VTumqXAhckiQtxEeUHu52RoZr_o=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2869740-1304873247.jpeg.jpg" data-tags="adult contemporary, soul pop" role="button">
+Jeffrey Osborne - Jeffrey Osborne (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/d67f9f62-a876-4af8-9c77-0940a6a06146/27392038245-500.jpg" data-tags="80s, female vocalists, adult contemporary, aor" role="button">
 Stevie Nicks - Stand Back (1983)
 </li>
-<li data-cover="https://img.discogs.com/es5kiLbjpBMJspxbK5N8fRWITvg=/fit-in/524x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536506-1299599107.jpeg.jpg" data-tags="female vocalists" role="button">
-Diana Ross - Swept Away (1984-08)
+<li data-cover="http://coverartarchive.org/release/da618218-73e6-46a7-99f5-a4825da0c088/10715658510-500.jpg" data-tags="80s" role="button">
+Corey Hart - First Offense (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
@@ -45,20 +54,20 @@ Whitney Houston - Whitney Houston (1985-02-14)
 <li data-cover="http://coverartarchive.org/release/c2fa8fd0-c101-39b6-8229-8270fb074126/6193085847-500.jpg" data-tags="soft rock, aor, adult contemporary, blues rock" role="button">
 Chris Rea - Shamrock Diaries (1985-07-21)
 </li>
-<li data-cover="https://img.discogs.com/es5kiLbjpBMJspxbK5N8fRWITvg=/fit-in/524x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536506-1299599107.jpeg.jpg" data-tags="80s, bee gees, bee gees cover, vanalles" role="button">
-Diana Ross - Eaten Alive (1985-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddca2d68-47e2-4235-9ecc-45f7348b20a3/13758489426-500.jpg" data-tags="80s, adult contemporary, songwriter, aor, composer, west coast, david foster, back in the day fav albums" role="button">
 David Foster - David Foster (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5df207c-87eb-383b-9e19-7db601e4a44c/3479880167-500.jpg" data-tags="soft rock, aor, adult contemporary, blues rock" role="button">
 Chris Rea - On the Beach (1986-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f284766-1ad2-46ab-8cd9-6b5a1f7d2f2a/1279641724-500.jpg" data-tags="female vocalists, jazz" role="button">
-Natalie Cole - The Natalie Cole Collection (1987)
+<li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="80s, pop rock, adult contemporary, aor, my favourite album" role="button">
+Chicago - Chicago 18 (1986-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f/16482357177-500.jpg" data-tags="80s, classic rock" role="button">
 Fleetwood Mac - Tango in the Night (1987-04-09)
+</li>
+<li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
+Deacon Blue - Raintown (1987-05-01)
 </li>
 <li data-cover="https://img.discogs.com/q-egR2p92mvjHZpRILKJqXJZkEU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12277460-1566069557-3133.jpeg.jpg" data-tags="soul, 80s, soft rock, adult contemporary, aor, 80s-90s pop, my fav songs, richard marx" role="button">
 Richard Marx - Richard Marx (1987-06-15)
@@ -72,9 +81,6 @@ Chris Rea - New Light Through Old Windows (1988)
 <li data-cover="https://img.discogs.com/Y9Q2t4U5jwPJRmfmVXG1WL_7s50=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830792-1193871077.jpeg.jpg" data-tags="80s" role="button">
 Richard Marx - Repeat Offender (1989-05-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbc74bd6-2a7a-4b34-a395-a20edd274c9b/7107782697-500.jpg" data-tags="80s" role="button">
-Cyndi Lauper - A Night to Remember (1989-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b22a882-6469-4cde-be12-47352a1ad8c8/11409302751-500.jpg" data-tags="michael bolton" role="button">
 Michael Bolton - Soul Provider (1989-06-19)
 </li>
@@ -84,14 +90,11 @@ Tina Turner - Foreign Affair (1989-09-12)
 <li data-cover="http://coverartarchive.org/release/4b0bcf5d-9d9e-3835-8f61-63464010b66e/3100610198-500.jpg" data-tags="soft rock, aor, rock, adult contemporary, blues rock, chris rea" role="button">
 Chris Rea - The Road to Hell (1989-10-30)
 </li>
-<li data-cover="https://img.discogs.com/70tdQwvfeU2pZ0IFUZl1avPmEsg=/fit-in/358x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399575-1394053755-6564.jpeg.jpg" data-tags="pop, soul, 90s, rnb, female vocalist" role="button">
-Whitney Houston - I'm Your Baby Tonight (1990)
+<li data-cover="http://coverartarchive.org/release/912427f2-6feb-4a9d-8458-34fffef73da1/9750664634-500.jpg" data-tags="80s" role="button">
+Level 42 - Level Best (1989-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/698fa1f0-6e8c-42a0-a1dd-9558d0d521ee/1637729272-500.jpg" data-tags="pop" role="button">
 Mariah Carey - Mariah Carey (1990-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a616f50-ae3e-3183-b377-35916776671c/5958343513-500.jpg" data-tags="pop, 90s" role="button">
-Céline Dion - Unison (1990-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cb504af-43bd-4316-9b66-cba81899e5bb/1887783064-500.jpg" data-tags="classic rock, pop, rock, british, singer-songwriter, pop rock, soft rock, adult contemporary, 90s, live, rock n roll, stonedbeat, lite rock, beatles cover song" role="button">
 Paul McCartney - Tripping The Live Fantastic (1990-10-29)
@@ -108,20 +111,17 @@ Chris Rea - God's Great Banana Skin (1992-11)
 <li data-cover="http://coverartarchive.org/release/e4d95059-df27-42bd-ac8f-7c5bf82e6aca/13886547423-500.jpg" data-tags="tina turner" role="button">
 Tina Turner - What's Love Got To Do With It (1993)
 </li>
+<li data-cover="http://coverartarchive.org/release/23851347-6ec0-49e2-acca-3c32cd43b9f0/6623551564-500.jpg" data-tags="adult contemporary, 90s, chilled vocal" role="button">
+Marc Cohn - The Rainy Season (1993-05-25)
+</li>
 <li data-cover="https://img.discogs.com/id7XfozWlsvLSVoXasd0F9FUYmQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13151930-1548959241-1212.jpeg.jpg" data-tags="pop" role="button">
 Mariah Carey - Music Box (1993-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce3fbc7a-7725-4235-8c92-1bbe856da295/8343736087-500.jpg" data-tags="pop, celine dion" role="button">
-Céline Dion - The Colour of My Love (1993-11-09)
+<li data-cover="https://img.discogs.com/ONnAPgCxtu_01yoTCF2aOqOWkYg=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1927329-1596240132-8499.jpeg.jpg" data-tags="rock, my whole damn collection" role="button">
+Stevie Nicks - Street Angel (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/d61cc3bc-678c-4a7e-b6bb-a7663971c1ad/15863460281-500.jpg" data-tags="seal" role="button">
 Seal - Seal II (1994-05-31)
-</li>
-<li data-cover="https://img.discogs.com/8TjvoPNbPlwQ3CyeM8i16u-Ec4k=/fit-in/600x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231195-1374046614-3279.jpeg.jpg" data-tags="pop, francophone, french 1995" role="button">
-Céline Dion - D'eux (1995-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4e7db8a-2622-47d3-80a5-91534d523ac5/16429545666-500.jpg" data-tags="pop, rock" role="button">
-Cher - It's a Man's World (1995-11-06)
 </li>
 <li data-cover="https://img.discogs.com/BtszspByQCZTXl0NJT69C_iwdr0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1916821-1252274130.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - Falling Into You (1996-03-07)
@@ -162,20 +162,26 @@ Amber - Amber (1999-09-21)
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/2afae914-a464-4d9f-9547-cbf70fd7ad73/3935194385-500.jpg" data-tags="robbie williams, british, rock, alternative" role="button">
+Robbie Williams - Rules of Life (2001)
+</li>
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
 </li>
+<li data-cover="https://img.discogs.com/dWwwp1ha9pwgto3N_oIrEq3C06w=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3839703-1359388295-1332.jpeg.jpg" data-tags="00s" role="button">
+Paul McCartney - Driving Rain (2001-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/a47c5bce-aef5-4c10-991f-9c588240e071/22069904711-500.jpg" data-tags="rod stewart, rock, soft rock" role="button">
 Rod Stewart - The Very Best Of Rod Stewart (2001-11-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+Barbra Streisand - The Essential Barbra Streisand (2002-01-29)
 </li>
 <li data-cover="https://img.discogs.com/_rd-VQ24XDQKDNOWoc9Y_TdShuI=/fit-in/450x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583660-1420114474-5047.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-Laura Pausini - From the Inside (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
@@ -186,14 +192,14 @@ Robbie Williams - Escapology (2002-11-18)
 <li data-cover="http://coverartarchive.org/release/ea0da652-0f59-43cf-83e4-a03034bcf90e/7777312097-500.jpg" data-tags="pop" role="button">
 Rachel Stevens - Funky Dory (2003)
 </li>
+<li data-cover="https://img.discogs.com/mJaKOPBI6S3SVKSNO0zW_JNjW3g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9515894-1557170965-5423.jpeg.jpg" data-tags="soul, michael mcdonald" role="button">
+Michael McDonald - Motown (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/51f33fb9-1569-49f7-9ca0-147fdc835ac5/12666898701-500.jpg" data-tags="pop" role="button">
 Delta Goodrem - Innocent Eyes (2003-03-21)
 </li>
 <li data-cover="https://img.discogs.com/on7vn4BaRhJvJuJAC_hFod-nHno=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14554335-1576955367-5851.png.jpg" data-tags="pop" role="button">
 Simply Red - Home (2003-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfccb3f6-45d0-4467-8ef6-c5d7ef24c3bb/12077368805-500.jpg" data-tags="pop" role="button">
-Céline Dion - One Heart (2003-06-19)
 </li>
 <li data-cover="https://img.discogs.com/LWJ-AKum2NOXPYjc0WBwPF-S9GM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966844-1330288157.jpeg.jpg" data-tags="rock" role="button">
 Liz Phair - Liz Phair (2003-06-24)
@@ -201,14 +207,8 @@ Liz Phair - Liz Phair (2003-06-24)
 <li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">
 G-Unit - Beg For Mercy (2003-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/524f982f-8870-4893-b4bc-878ff99577c7/11516428847-500.jpg" data-tags="pop, boy band, male vocalist, turnaround" role="button">
-Westlife - Turnaround (2003-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/daec735c-6a05-4174-a0e5-413dcec49335/22429537977-500.jpg" data-tags="pop, female vocalists" role="button">
 Lucie Silvas - Breathe In (2004-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d02d3d4-803a-44d5-8332-0a54ac9b818d/19088644117-500.jpg" data-tags="pop" role="button">
-Delta Goodrem - Mistaken Identity (2004-11-05)
 </li>
 <li data-cover="https://img.discogs.com/gWFyjWkLviBQ9l-TDlEN58Gw2hk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659818-1295384136.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natalie Imbruglia - Counting Down the Days (2005)
@@ -216,11 +216,11 @@ Natalie Imbruglia - Counting Down the Days (2005)
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
 Amos Lee - Amos Lee (2005-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/2be4f350-cddb-4a5e-91ee-4a2b012e6f25/20132670831-500.jpg" data-tags="latin pop, thalia" role="button">
-Thalía - El Sexto Sentido (2005-07-19)
-</li>
 <li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
 Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
+</li>
+<li data-cover="https://img.discogs.com/TzcEOQwv7kj_kHiIDJTsRWxLVA4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1451328-1439485536-2076.jpeg.jpg" data-tags="british" role="button">
+Rachel Stevens - Come and Get It (2005-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
@@ -242,9 +242,6 @@ Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="https://img.discogs.com/yN1TDls6ZCOnqUGsiJ48a5Yfk2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393131-1523761238-6659.jpeg.jpg" data-tags="opera, female vocalist, classical symphony, sarah brightman" role="button">
 Sarah Brightman - Symphony (2007)
-</li>
-<li data-cover="https://img.discogs.com/XYUEMGGOh9c_4P8lYcnK0POENaU=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1163735-1270405807.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Patty Griffin - Children Running Through (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/0UT5qmArbDWER2OTdO4hxKty5CM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777567-1545068952-9160.jpeg.jpg" data-tags="rock, alternative, female vocalists, singer-songwriter, new wave, adult contemporary, american, mellow, 00s, deborah harry" role="button">
 Deborah Harry - Necessary Evil (2007-08-01)
@@ -314,6 +311,9 @@ Kylie Minogue - The Abbey Road Sessions (2012-10-24)
 </li>
 <li data-cover="https://img.discogs.com/W1QKfBWhr4kybspIn6bwlGH6emE=/fit-in/564x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8447266-1461780402-7633.jpeg.jpg" data-tags="pop" role="button">
 Christina Aguilera - Lotus (2012-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/41cad720-705f-42ff-b590-a4fbcb46a777/7800414372-500.jpg" data-tags="pop, rock, pop rock, soft rock, adult contemporary" role="button">
+Sarah McLachlan - Shine On (2014-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcd44a2b-3e3f-4e7f-8af2-e553fa6a603f/7296590031-500.jpg" data-tags="alternative pop" role="button">
 Tori Amos - Unrepentant Geraldines (2014-05-09)
