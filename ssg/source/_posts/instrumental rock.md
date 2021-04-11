@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:21:07.008Z
+date: 2021-04-11T23:42:23.760Z
 title: "instrumental rock: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
@@ -29,9 +29,6 @@ Jeff Beck - Blow by Blow (1975-03)
 </li>
 <li data-cover="https://img.discogs.com/GKpyD5JfWOAgRHZfj5CGBu7q5x8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1397390-1478206633-9901.png.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Flex-Able Leftovers (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/dff1f058-7249-429a-8b44-25c215d8329f/1290813982-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
-Steve Vai - Flex-able (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Surfing With The Alien (1987-10-15)
@@ -68,6 +65,9 @@ Marty Friedman - True Obsessions (1996-04-17)
 </li>
 <li data-cover="https://img.discogs.com/oOx0rjsmKvMy2n-zxGt6EV-Dfqc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3357095-1383601658-5363.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Fire Garden (1996-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b59a1d0-6179-4ff2-91ee-3e05603bb997/17293232733-500.jpg" data-tags="heavy metal, indie rock, instrumental rock" role="button">
+The Fucking Champs - III (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c61fc3f-f5b2-4789-a208-a62965f4eecd/6968354340-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Crystal Planet (1998-03-03)
@@ -228,6 +228,9 @@ Marco Sfogli - There's Hope (2008)
 <li data-cover="http://coverartarchive.org/release/e9d56c23-b154-48e8-8522-80299000f850/12802285304-500.jpg" data-tags="instrumental" role="button">
 Paul Gilbert - Silence Followed By A Deafening Roar (2008-01-23)
 </li>
+<li data-cover="https://img.discogs.com/j4jMUMTepcx9XLRIl5Oox3EKKBE=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3272309-1485434004-8420.jpeg.jpg" data-tags="rock, allboutguitar, brc blues band karlsruhe, lautfm radio, lautfmwebradio, lautfm classic rock" role="button">
+Steve Stevens - Memory Crash (2008-03-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/55f96af9-1792-43c4-891b-1a93dc084c48/10929669563-500.jpg" data-tags="instrumental rock, rock" role="button">
 Joe Satriani - Professor Satchafunkilus and the Musterion of Rock (2008-03-28)
 </li>
@@ -240,14 +243,14 @@ Russian Circles - Station (2008-05-06)
 <li data-cover="http://coverartarchive.org/release/778892a0-5879-43e0-bb37-4a29a60e2f95/2820368658-500.jpg" data-tags="experimental" role="button">
 Buckethead - Albino Slug (2008-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/ad99f8cd-5798-40b8-be90-075d52d0e2ad/2828385535-500.jpg" data-tags="post-rock" role="button">
+Collapse Under the Empire - Systembreakdown (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/162892dc-49d4-4540-80f6-b7127a147ad4/3370180048-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
 </li>
 <li data-cover="https://img.discogs.com/daYIPpb4LESMbsJPE6BV2Ws96s8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11879823-1523995274-2391.jpeg.jpg" data-tags="rock, instrumental, instrumental rock, rock pop, j-rock, visual kei" role="button">
 GACKT - Flower (2009-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cf5ac6a-1186-4548-8e64-3c4bc4f0d4e8/11150538478-500.jpg" data-tags="doom metal, stoner metal" role="button">
-Shrinebuilder - Shrinebuilder (2009-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
@@ -266,9 +269,6 @@ nobody.one - Head Movies (2010-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bd6aacd-2e91-4ca1-8f9d-0dc49dcb02de/3829439616-500.jpg" data-tags="rock, guitar, satriani" role="button">
 Joe Satriani - The Essential Joe Satriani (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/46b682ff-3129-4115-8977-93aba7b91fac/4809480311-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
-The Re-Stoned - Analog (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/16595b47-d4ee-4d2c-8273-a5063813b35c/28751699519-500.jpg" data-tags="post-rock" role="button">
 Grails - Deep Politics (2011-03-08)

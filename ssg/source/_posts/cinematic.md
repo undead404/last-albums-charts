@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:34:01.414Z
+date: 2021-04-11T23:43:01.400Z
 title: "cinematic: 100 albums you must listen to before you die"
 ---
 ![Noah and the Whale - Heart Of Nowhere (2013-05-03)](http://coverartarchive.org/release/dbf53435-f8f0-43a8-97b0-c15b5e4b0508/4043016557-500.jpg "Noah and the Whale - Heart Of Nowhere (2013-05-03)")
@@ -66,9 +66,6 @@ Stars of the Lid - Music For Nitrous Oxide (1994)
 <li data-cover="http://coverartarchive.org/release/fb581132-a5ca-4ff1-bac4-cbc2df5dcb6a/28114159888-500.jpg" data-tags="jazz, ecm, jazz guitar" role="button">
 Terje Rypdal - If Mountains Could Sing (1995)
 </li>
-<li data-cover="https://img.discogs.com/zA8_MIlBgiFZ0TTeKoK5xuMNvA4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28004-1233824971.jpeg.jpg" data-tags="electronic" role="button">
-David Holmes - This Film's Crap, Let's Slash The Seats (1995-06-26)
-</li>
 <li data-cover="https://img.discogs.com/NYi9C2z_wT4LMFXsRvhOGtS0xGk=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10855091-1505414560-6395.jpeg.jpg" data-tags="soundtrack" role="button">
 James Horner - Apollo 13 (1995-06-27)
 </li>
@@ -96,9 +93,6 @@ Portishead - All Mine (1997-09-08)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ebfbc0a-2e54-4bc6-8660-13eb2515659c/3414141392-500.jpg" data-tags="ambient" role="button">
-Robert Rich - Seven Veils (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/74f1c4fd-8768-4862-8bbb-13ec7d92f8a6/18480943434-500.jpg" data-tags="cinematic, toytronica, dream jazz, trip in the pram" role="button">
 Pram - Telemetric Melodies (1999)
 </li>
@@ -114,6 +108,12 @@ The High Llamas - Buzzle Bee (2000-10-16)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/72531818-3b64-410c-9079-71af1fb76cce/2529729935-500.jpg" data-tags="jazz, instrumental, fusion, cinematic, creativity, guitar jazz" role="button">
+Pat Metheny - Parallel Universe (2001-11-13)
+</li>
+<li data-cover="https://img.discogs.com/L58SCip10DNd_QuVdFNbVz-bnRE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1118002-1296435890.jpeg.jpg" data-tags="cinematic, punk-funk, punk-jazz" role="button">
+Sand - Still Born Alive (2002-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa36d534-179e-4252-ab32-adb2d1f72b63/8613776753-500.jpg" data-tags="ambient" role="button">
 Craig Armstrong - As If To Nothing (2002-04-16)
 </li>
@@ -122,9 +122,6 @@ John Frizzell - Ghost Ship (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/09c08816-f537-445d-b7ef-b910f4069543/16464679334-500.jpg" data-tags="ambient, cinematic, lush, to explore, rock top, fmera album, mtltwd" role="button">
 Paddy McAloon - I Trawl The Megahertz (2003-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/735c3912-b9dd-42a2-af44-f4f6d25fe6f4/3489309570-500.jpg" data-tags="electronic" role="button">
-Hybrid - Morning Sci-Fi (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/ou1iOUdCVtVWF-EvAc_Acn8KUpo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4641740-1414015560-7431.jpeg.jpg" data-tags="electronic, folk, downtempo, acoustic, cinematic" role="button">
 Jeff Martin - SPOONS (2004)
@@ -186,6 +183,9 @@ David Torn - Lars and the Real Girl (2007)
 <li data-cover="http://coverartarchive.org/release/70a664bb-6056-4307-a3b4-a43697d79fdf/26436473231-500.jpg" data-tags="jazz, avantgarde, avant-garde, ecm" role="button">
 David Torn - Prezens (2007)
 </li>
+<li data-cover="https://img.discogs.com/-b7mu7adDh0g0mxpCCAlNOcwjso=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1638009-1509027400-5430.jpeg.jpg" data-tags="ecm" role="button">
+Sinikka Langeland - Starflowers (2007)
+</li>
 <li data-cover="https://img.discogs.com/oxbftdAjRWfa2QXnUetfcaLU8qI=/fit-in/600x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5732803-1401173171-7229.jpeg.jpg" data-tags="chamber pop" role="button">
 The High Llamas - Can Cladders (2007-02-19)
 </li>
@@ -198,8 +198,8 @@ The National Parcs - Timbervision (2007-06)
 <li data-cover="https://img.discogs.com/jawX9f6UPfDu_FIl_GhDyDKmERI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2491726-1286963959.jpeg.jpg" data-tags="soundtrack, classical, instrumental, epic, new age, cinematic, symphonic, fantasy, neoclassical, have to check, neoclassical fantasy music" role="button">
 Erdenstern - Into The Dark (2007-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a54e0149-b9a9-4d30-8965-bb73fece7358/5912355559-500.jpg" data-tags="electronic, electronica, downtempo, dance, cinematic, atmospheric, beats" role="button">
-Culprit 1 - Running In Order (2007-06-26)
+<li data-cover="https://img.discogs.com/sMdc895yhDpey4kGk4fx1AHl9DQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1036759-1186749298.jpeg.jpg" data-tags="soundtrack, chillout, electronic, electronica, ambient, experimental, downtempo, electro, idm, cinematic, film, glitch, film music, lush" role="button">
+Solipsism - Organicism Special Edition (2007-08-10)
 </li>
 <li data-cover="https://img.discogs.com/FKSmemFNRDYknIRFuX1ofbAG8DI=/fit-in/532x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060796-1364503394-4524.jpeg.jpg" data-tags="experimental, post-rock, experimental pop, cinematic, toytronica, avant-pop, dream jazz, she sings so sweetly, music trip, trip in the pram" role="button">
 Pram - The Moving Frontier (2007-10-01)
@@ -255,6 +255,9 @@ My Education - Sunrise (2010-04-27)
 <li data-cover="https://img.discogs.com/zwHoPny1_RAa6Ouu92B6nr0n8hs=/fit-in/597x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494447-1287099481.jpeg.jpg" data-tags="cinematic" role="button">
 Foetus - Hide (2010-09-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronic, indie, vocal, alternative, folk, ambient, london, cinematic, drum and bass, chill-out, asian underground, down-tempo, tabla, folktronic, independant, eastern electronic, fuzzy morning" role="button">
+Polaroid 85 - Fuzzy Mornings EP (2011-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)
 </li>
@@ -266,9 +269,6 @@ Field Rotation - Regenzeit (2011-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab4affc7-854a-41fa-8172-db1e7510c714/25548868284-500.jpg" data-tags="soundtrack, video game music, videogame score" role="button">
 桜庭統 - Dark Souls (2011-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/964ec492-5cf2-4635-a54a-0287007f956c/14928757307-500.jpg" data-tags="vaporwave" role="button">
-James Ferraro - Far Side Virtual (2011-10-25)
 </li>
 <li data-cover="https://img.discogs.com/PpmXzSORf2YZ-LY2fhJ4TVVy7uE=/fit-in/440x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3821989-1345763850-4315.jpeg.jpg" data-tags="danny elfman" role="button">
 Cirque Du Soleil - IRIS (2011-11-21)

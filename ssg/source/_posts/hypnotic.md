@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:15:01.499Z
+date: 2021-04-11T23:22:01.403Z
 title: "hypnotic: 100 albums you must listen to before you die"
 ---
 ![Slowdive - Pygmalion (1995-02-06)](https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg "Slowdive - Pygmalion (1995-02-06)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6e42137c-a0e9-4631-8951-03454112c03f/24120134646-500.jpg" data-tags="reflective, passionate, spiritual, meditation, reflection, hypnotic, elegant, raga, background music, indian classical, international, soothing, indian subcontinent traditions" role="button">
 Ravi Shankar - India's Master Musician (1958)
-</li>
-<li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
-Ravi Shankar - The Sounds of India (1958)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cde1707-4647-47bb-8982-e3d0ffe992ae/8041382784-500.jpg" data-tags="jazz, hard bop, drums, bebop, hypnotic, art blakey, lee morgan, wayne shorter, bobby timmons, blakey, divine chemical, magic sound, l3a1e5da4n15l1, jimmie merritt" role="button">
 Art Blakey & The Jazz Messengers - Like Someone in Love (1966)
@@ -69,6 +66,9 @@ Catherine Wheel - Ferment (1992-02-17)
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/baabb4d7-6005-4cb8-af6a-39a43e095e36/15248566750-500.jpg" data-tags="funk, soul" role="button">
+Tower of Power - T.O.P. (1993)
+</li>
 <li data-cover="https://img.discogs.com/DkbzpYdrQvByTrzZdu5Xs4CMjVA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070004-1474234656-2103.jpeg.jpg" data-tags="hypnotic" role="button">
 108 - Holyname (1993-01-25)
 </li>
@@ -81,14 +81,17 @@ Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 <li data-cover="https://img.discogs.com/TvMG19rxuanxza5V5PNmgM7WRDk=/fit-in/597x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-201698-1308772435.jpeg.jpg" data-tags="space rock" role="button">
 Ozric Tentacles - Arborescence (1994-06-28)
 </li>
+<li data-cover="https://img.discogs.com/PSTA45t3jxqWsMJNw2x9ivcFQ98=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3633-1265616238.jpeg.jpg" data-tags="idm" role="button">
+Mouse on Mars - Vulvaland (1994-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
 Stereolab - Mars Audiac Quintet (1994-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/62a9a8a4-f5fa-4d40-bcdd-25b243f133e7/2499675510-500.jpg" data-tags="idm" role="button">
 Autechre - Anti EP (1994-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
+<li data-cover="http://coverartarchive.org/release/14064b3b-6d31-3be9-8c06-c09c84aa6b77/11873667679-500.jpg" data-tags="post-rock, hypnotic, divine chemical, magic sound" role="button">
+Lanterna - Lanterna (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/32ebb16f-d11f-43cc-acb1-510d6a7703d9/18888048286-500.jpg" data-tags="ambient, dub, psychedelic, psychill, tribal, hypnotic, sitar, ambient dub, indian, world beat, hindustani, tantric, vajrayana, tribal dub, nataraja, i love all the songs, love kasia, japanesetripanesedubtrance, mahabharata, vedic tales, smooth dub bass, laswell bass, hindu female vocal, tibetan dakini, sacred female, zakir hussain tabla style" role="button">
 Makyo - Rasa Bhava (1995)
@@ -96,20 +99,20 @@ Makyo - Rasa Bhava (1995)
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
 Slowdive - Pygmalion (1995-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2162787-ac09-4d06-a3e3-584b3a16bca8/22647680333-500.jpg" data-tags="electronic" role="button">
-Bola - 1 (1995-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d869542-507d-3a9f-810e-2ff84af0891e/10744313145-500.jpg" data-tags="goa, psytrance, trance" role="button">
-Juno Reactor - Beyond The Infinite (1995-09-18)
-</li>
 <li data-cover="https://img.discogs.com/xbDnd1s1Cv1ovJzUYRIubS-Pvq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28692-1234359237.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Anvil Vapre (1995-10-02)
+</li>
+<li data-cover="https://img.discogs.com/_dZRWL7W1rjDy5lySi_rC6ZD-ds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10413-1491124142-1194.jpeg.jpg" data-tags="chillout, electronic, ambient, hypnotic, alternative dance, groovesalad" role="button">
+Babble - Ether (1996-02-27)
 </li>
 <li data-cover="https://img.discogs.com/UdTcKILbJpfq9oVVlbTF86KyJZQ=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13305862-1551753830-2637.jpeg.jpg" data-tags="lo-fi, alternative, 90s" role="button">
 Guided by Voices - Under the Bushes Under the Stars (1996-03-26)
 </li>
-<li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
-The Prodigy - Breathe (1996-11-11)
+<li data-cover="https://img.discogs.com/sxvzVXM0vKnCxXdhrKYcTIgUILs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406334-1491933048-7978.jpeg.jpg" data-tags="progressive metal" role="button">
+Fredrik Thordendal's Special Defects - Sol Niger Within (1997-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/119d704d-8e9a-4497-a2c2-6cea8a04458a/5589465268-500.jpg" data-tags="new age, arkenstone" role="button">
+David Arkenstone - Spirit Wind (1997-03-11)
 </li>
 <li data-cover="https://img.discogs.com/jPUc2rtkDyW3XqFxNnPM1G8biTg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14901659-1583749306-4670.jpeg.jpg" data-tags="electronica, male, ambient, experimental, hypnotic, kl times" role="button">
 Aphex Twin - Live in Denver (1997-09-17)
@@ -135,9 +138,6 @@ Porcupine Tree - Metanoia (1998-12)
 <li data-cover="https://img.discogs.com/r8Xbr7UliMqP8BPfn5Q9GgTuPIo=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18679-1224065663.jpeg.jpg" data-tags="electronic, ambient, experimental, abstract, drone, hypnotic" role="button">
 Penumbra - Anoraks (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/93f25c75-2e29-3a88-8c67-d8c99aaeb9e9/27880195725-500.jpg" data-tags="trip-hop" role="button">
-Bowery Electric - Lushlife (2000-02-25)
-</li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
@@ -150,8 +150,8 @@ Kinobe - Soundphiles (2000-07-17)
 <li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
-<li data-cover="https://img.discogs.com/oEjFB4Vzyh0H81eVKtOUysKLpvk=/fit-in/200x177/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15128-001.jpg.jpg" data-tags="ambient" role="button">
-Manual - until tomorrow (2001-05-07)
+<li data-cover="http://coverartarchive.org/release/6ac88b49-1775-4f82-9f3f-894c39f10225/8596366926-500.jpg" data-tags="experimental, female vocalist" role="button">
+Laurie Anderson - Life on a String (2001-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
 The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
@@ -183,9 +183,6 @@ Bill Frisell - The Intercontinentals (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/0a37bee7-e8bc-4902-bcd9-b99efd7b5d58/21530586130-500.jpg" data-tags="ambient" role="button">
 Eluvium - Lambent Material (2003-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
-Dead Meadow - Shivering King And Others (2003-06-03)
-</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -210,8 +207,14 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/3ea37f9b-0bf9-48ee-ac94-99a978063130/5225754560-500.jpg" data-tags="psychedelic trance, psytrance, psy trance" role="button">
 1200 Micrograms - The Time Machine (2004-12-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b32b20d-52d3-4bb4-86fb-00a95e6b25b3/6004741606-500.jpg" data-tags="jazz, bass, ecm, hypnotic, chris potter, dave holland, john taylor, kenny wheeler, divine chemical, magic sound, music for my trips to the sea, k wheeler" role="button">
+Kenny Wheeler - What Now? (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
 Lemon Jelly - '64-'95 (2005-01-31)
+</li>
+<li data-cover="https://img.discogs.com/9PoO6veD8kCKEBSrpFL_E2p4fdQ=/fit-in/346x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844367-1164648882.jpeg.jpg" data-tags="hypnotic, magical, droning, raga-inspired experimental" role="button">
+Henry Flynt - Purified By The Fire (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/154dc95d-80d6-4f16-a8f8-b84a576ee6eb/7999345275-500.jpg" data-tags="noise" role="button">
 Orthrelm - OV (2005-06-14)
@@ -236,6 +239,9 @@ Moljebka Pvlse - Sadalsuud (2007-03)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
+Marcus Miller - Free (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce606d75-49d7-49dd-a054-bbe6b413d7c6/11021681781-500.jpg" data-tags="space music" role="button">
 Deepspace - Another Empty Galaxy (2008)
@@ -270,9 +276,6 @@ Joe Satriani - Black Swans and Wormhole Wizards (2010-10-05)
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/fc311ce8-54e5-4566-a942-03125cacb8d5/4513896656-500.jpg" data-tags="dark ambient" role="button">
-Demdike Stare - Tryptych (2011-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
@@ -282,14 +285,8 @@ Saves the Day - Daybreak (2011-09-13)
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
-<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, pop" role="button">
-Madonna - Girl Gone Wild (2012-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
 Bvdub - Serenity (2012-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0eb2068a-673b-4e60-9dd7-3e95e8da60f7/3406080237-500.jpg" data-tags="indie pop" role="button">
-Fear of Men - Early Fragments (2013-02-12)
 </li>
 <li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
 The Flaming Lips - The Terror (2013-04-01)
@@ -305,6 +302,9 @@ Ciara - Ciara (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cf889af-9e7e-4423-a732-9dfa2059dbd5/5934338949-500.jpg" data-tags="noise rock, space rock" role="button">
+Yuri Gagarin - Yuri Gagarin (2013-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b68e9fa-bc5a-45e6-9f83-782b01413a71/7453340504-500.jpg" data-tags="psybient" role="button">
 Solar Fields - RED (2014-06-04)

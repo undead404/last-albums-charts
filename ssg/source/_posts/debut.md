@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:14:01.481Z
+date: 2021-04-11T22:56:12.603Z
 title: "debut: 100 albums you must listen to before you die"
 ---
 ![Young the Giant - Young the Giant (2010-10-25)](http://coverartarchive.org/release/358818df-ed4e-43b9-8f34-dcd513934d50/6626320723-500.jpg "Young the Giant - Young the Giant (2010-10-25)")
@@ -24,14 +24,20 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">
 Elvis Presley - Elvis Presley (1956-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c757416d-2633-3ef8-a7e7-f94a3e3e20df/13549300921-500.jpg" data-tags="experimental, baroque pop" role="button">
-Van Dyke Parks - Song Cycle (1968)
+<li data-cover="http://coverartarchive.org/release/688fe778-8e72-4d79-9c24-25a2a1cf6ce6/1853738994-500.jpg" data-tags="country, usa, country-pop, country-folk, debut, traditional country, 1960's" role="button">
+Dolly Parton - Hello, I'm Dolly (1967-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 </li>
+<li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
+Neil Young - Neil Young (1968-11-12)
+</li>
 <li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
 John Cale - Vintage Violence (1970)
+</li>
+<li data-cover="https://img.discogs.com/DeOctKBlTZ-6N_ij33SpL886ckI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2252250-1272800879.jpeg.jpg" data-tags="americana, forever cool" role="button">
+Little Feat - Little Feat (1971-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a95ef41-da98-4371-b014-1ac433f9d5f0/13914682359-500.jpg" data-tags="rock, 70s" role="button">
 Jackson Browne - Jackson Browne (1972-01)
@@ -45,8 +51,17 @@ Bruce Springsteen - Greetings from Asbury Park, N.J. (1973-01-05)
 <li data-cover="http://coverartarchive.org/release/ba7e873e-eb0c-4241-93a0-adda93769287/16221998364-500.jpg" data-tags="pub rock" role="button">
 Dr. Feelgood - Down By The Jetty (1975)
 </li>
+<li data-cover="https://img.discogs.com/LkU56dhFVorhZxfTQiDWSwYXZrE=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6516993-1421045537-2206.jpeg.jpg" data-tags="new wave, female vocalists" role="button">
+Blondie - Blondie (1976)
+</li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
+</li>
+<li data-cover="https://img.discogs.com/ihMy91BRBRswa1Wi9TdPR1C4Gq8=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1587983-1440359972-6749.jpeg.jpg" data-tags="rock" role="button">
+Nick Lowe - Jesus of Cool (1978-03)
+</li>
+<li data-cover="https://img.discogs.com/a3UQ9-x0vzWAZWsyFhLLKqbr8vI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533376-1334183708.jpeg.jpg" data-tags="punk rock, punk" role="button">
+Buzzcocks - Another Music In A Different Kitchen (1978-03-10)
 </li>
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
@@ -57,23 +72,17 @@ The Skids - Scared to Dance (1979-02-23)
 <li data-cover="http://coverartarchive.org/release/e3d6480b-e431-40e7-84c7-160923940b60/12764953075-500.jpg" data-tags="punk rock, punk" role="button">
 The Undertones - The Undertones (1979-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/3aba690c-d298-417d-8a19-44e2b766d9d6/5090555876-500.jpg" data-tags="new wave" role="button">
-The Pretenders - Pretenders (1980-01-04)
+<li data-cover="http://coverartarchive.org/release/6f0471c1-4c64-370c-b577-7a5ab22d084e/18464949915-500.jpg" data-tags="post-punk" role="button">
+The Associates - The Affectionate Punch (1980-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8e7cd01-5596-34ff-93e3-5ff5a2ca4f23/3736915452-500.jpg" data-tags="80s, post-punk" role="button">
+The Teardrop Explodes - Kilimanjaro (1980-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4938eac0-79c5-4c36-8bab-69e30a440df6/22207202273-500.jpg" data-tags="scotland, debut, 1980's" role="button">
 Sheena Easton - Take My Time (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
-Altered Images - HAPPY BIRTHDAY (1981-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/ebd75d6a-57a8-44bf-831f-6d433eab6d0e/1770750906-500.jpg" data-tags="alternative, usa, post punk, 1980s, rare, debut, records i own, dark 80s, dark indie, yes yes yes, favorite female singers, unheard, the eighties were not that bad, angst pop, should not even be on here, pop lament, she sings so sweetly, batcave coldwave new wave gothic, tdhassociation" role="button">
-10,000 Maniacs - Secrets of the I Ching (1983)
-</li>
-<li data-cover="https://img.discogs.com/_y82B3cOlJwBrix7kSIQD-9_o_A=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2189949-1482928999-3558.jpeg.jpg" data-tags="80s, new wave" role="button">
-Aztec Camera - High Land, Hard Rain (1983-04-19)
-</li>
-<li data-cover="https://img.discogs.com/bv32EHTLY6oWLsHs1P30l1lQl80=/fit-in/233x233/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-416776-1110548054.jpg.jpg" data-tags="rock" role="button">
-Titãs - Titãs (1984)
+<li data-cover="https://img.discogs.com/lNjxnMqCJVXLJCr0noZYnHxLKIM=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960287-1453680699-9633.jpeg.jpg" data-tags="80s, synthpop" role="button">
+Eurythmics - In The Garden (1981-01-21)
 </li>
 <li data-cover="https://img.discogs.com/SrQO7Q2d5uvxatZc0H0vIr0EdVA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498930-1469359019-2301.jpeg.jpg" data-tags="scotland, debut, 2000's, 10 out of 10, all-time favorite albums" role="button">
 The Proclaimers - This Is The Story (1987)
@@ -84,11 +93,11 @@ The Pastels - Up for a Bit With the Pastels (1987)
 <li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
 Deacon Blue - Raintown (1987-05-01)
 </li>
+<li data-cover="https://img.discogs.com/mWZnRhvi40K0WhvI7M8hEjz3bO0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-852393-1165449394.jpeg.jpg" data-tags="twee" role="button">
+Marine Girls - Lazy Ways/Beach Party (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/c739cba6-9dc7-4ef6-bcc0-47cf9d68cf08/13723459826-500.jpg" data-tags="hard rock" role="button">
 Winger - Winger (1988-08-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fc8e77b-310d-4245-9c80-3896bb83d4d7/5728592308-500.jpg" data-tags="pop, scottish" role="button">
-Texas - Southside (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
@@ -117,20 +126,11 @@ PJ Harvey - Dry (1992-02-11)
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f315e99-933f-4891-abb9-0b33757a3e08/28961245825-500.jpg" data-tags="techno" role="button">
-Moby - Moby (1992-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/5924abd1-2a38-383e-85c2-cc007b6336e3/2026496528-500.jpg" data-tags="indie, recommended" role="button">
-Bettie Serveert - Palomine (1992-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/3862f14f-ad72-4654-a3f9-883940666a5c/9102536359-500.jpg" data-tags="turkish pop, debut, 90s turkish pop, 90lar turkce pop, 90li yillar" role="button">
 Levent Yüksel - Med Cezir (1993-05-14)
 </li>
-<li data-cover="https://img.discogs.com/qt_TXxZUTX877UK-JxoURwW4as8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887422-1339251264-6500.jpeg.jpg" data-tags="relaxing calm and fresh" role="button">
-Lisa Ekdahl - Lisa Ekdahl (1994)
-</li>
-<li data-cover="https://img.discogs.com/VW0kU7-J1HCjCtK70in-gtxd2tg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-462649-1425399982-4089.jpeg.jpg" data-tags="punk, punk rock" role="button">
-Heavens to Betsy - Calculated (1994-03-01)
+<li data-cover="http://coverartarchive.org/release/5941dfb0-209a-4661-9301-ae665b30223d/16110823346-500.jpg" data-tags="pop, acoustic" role="button">
+The Murmurs - The Murmurs (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/10f6c3ad-5e56-445a-b9f4-429d4d3bf5dc/9969627031-500.jpg" data-tags="90s" role="button">
 Seven Mary Three - American Standard (1995-09-05)
@@ -174,6 +174,9 @@ T.I. - I'm Serious (2001-10-09)
 <li data-cover="http://coverartarchive.org/release/6abc2071-c938-4659-b000-aeef26a8433c/7448267217-500.jpg" data-tags="rnb, ashanti" role="button">
 Ashanti - Ashanti (2002-04-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b9a7c33-d006-46cf-88f0-3d6def35f2dc/26816811552-500.jpg" data-tags="post-hardcore" role="button">
+Circle Takes the Square - Circle Takes the Square (2002-08)
+</li>
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
 </li>
@@ -189,9 +192,6 @@ G-Unit - Beg For Mercy (2003-11-14)
 <li data-cover="http://coverartarchive.org/release/25b257bc-dd00-442f-9152-18f22b91b18c/13177956202-500.jpg" data-tags="funky blues" role="button">
 Marc Broussard - Carencro (2004-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="r and b, lyfe jenning" role="button">
-Lyfe Jennings - Lyfe 268-192 (2004-08-17)
-</li>
 <li data-cover="https://img.discogs.com/vAJQ3h62AUWHSg4o0gy7x6Twxms=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089457-1360501153-7073.jpeg.jpg" data-tags="soul, alternative, folk, singer-songwriter" role="button">
 Angela McCluskey - The Things We Do (2004-09)
 </li>
@@ -203,9 +203,6 @@ Ingrid Michaelson - Slow the Rain (2005-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a496dce8-80bb-4eb6-ac5b-2e29018e1f4a/26214525376-500.jpg" data-tags="hip-hop, rap, gangsta rap, debut, playlist1, lil boosie and webbie, media player library, savagelife" role="button">
 Webbie - Savage Life (2005-06-21)
-</li>
-<li data-cover="https://img.discogs.com/3P3SNseRIXEqICizBxHOtiO2T0c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605964-1567797258-2769.jpeg.jpg" data-tags="rnb, neo soul, soul" role="button">
-Raheem DeVaughn - The Love Experience (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -252,6 +249,9 @@ Emma Pollock - Watch The Fireworks (2007-09-11)
 <li data-cover="http://coverartarchive.org/release/6529af84-0761-4a81-85d4-b288bbc52478/5483316468-500.jpg" data-tags="debut" role="button">
 Puscifer - "V" Is for Vagina (2007-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/15eff7ff-7477-4aa5-b8ff-f2fe3342ac36/2884818671-500.jpg" data-tags="post-rock" role="button">
+it may never end - Such Is Life (2008-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8b0cf209-0f8f-45f9-9ab3-0826e31b64a9/26909254187-500.jpg" data-tags="soul, female vocalists, smooth, debut, good singer, my album collection" role="button">
 Cheri Dennis - In And Out Of Love (2008-02-26)
 </li>
@@ -264,14 +264,14 @@ Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/85b65ab2-b91d-4870-b3dc-15626cdd84b8/4436561866-500.jpg" data-tags="rap, detroit" role="button">
-Guilty Simpson - Ode To The Ghetto (2008-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/32a4245f-f57b-41e6-87f7-7b1067f57360/9375092249-500.jpg" data-tags="debut" role="button">
 2 Pistols - Death Before Dishonor (2008-06-17)
 </li>
 <li data-cover="https://img.discogs.com/fi-H7ZPALPcsWhQEkhhSWu4v05k=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404081-1494614671-4937.jpeg.jpg" data-tags="indie pop" role="button">
 Black Kids - Partie Traumatic (2008-07-07)
+</li>
+<li data-cover="https://img.discogs.com/K-T3YpbxLbgex_d5IZv3PjXpwi0=/fit-in/355x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1459427-1427755770-9863.jpeg.jpg" data-tags="debut, new guy" role="button">
+Noel Gourdin - After My Time (2008-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3aa106fa-be20-47cb-b579-17868828de16/28043691508-500.jpg" data-tags="k-pop" role="button">
 2PM - Hottest Time of The Day (2008-08-09)
@@ -284,9 +284,6 @@ Colby O'Donis - Colby O (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b07aadf2-7136-4c2d-8000-2746bf4b0087/18538568039-500.jpg" data-tags="k-pop" role="button">
-After School - New Schoolgirl (2009-01-29)
 </li>
 <li data-cover="https://img.discogs.com/S7IzHRW6YkZhuQbyETC5UnoBO3w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1850129-1306649220.jpeg.jpg" data-tags="americana, alt-country, debut, unheard" role="button">
 Those Darlins - Those Darlins (2009-07-07)
@@ -302,6 +299,9 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="https://img.discogs.com/9Rz_SdT9c_N8E3u2deyURQdinfE=/fit-in/468x415/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2741848-1298977730.jpeg.jpg" data-tags="folk" role="button">
 Mirel Wagner - Mirel Wagner (2011-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/3147b150-bfcf-4e9b-9356-196f58bd9c68/9359232282-500.jpg" data-tags="k-pop" role="button">
+EXID - Holla (2012-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3df57bd-5e5b-43fd-a25c-3ae0a44e12f9/10701614554-500.jpg" data-tags="pop, asian, k-pop, male vocalists, boyband, kpop, debut, jellyfish, boy band, korean pop, ken, ravi, asian music, n, asian pop, leo, vixx, hyuk, korean boyband, korean boy band, hongbin, jellyfish entertainment" role="button">
 VIXX - SUPER HERO (2012-05-24)

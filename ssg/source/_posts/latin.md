@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:50:01.442Z
+date: 2021-04-11T23:33:01.456Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -39,20 +39,26 @@ Silvio Rodríguez - Rabo de Nube (1979)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="latin, salsa, latinjazz" role="button">
 Ray Barretto - La Cuna (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/421e8c75-eda8-32d5-9fca-9956c15223c5/22047716263-500.jpg" data-tags="dance, latin" role="button">
-Miami Sound Machine - Primitive Love (1985)
-</li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/81551f1f-bc75-4bde-a10b-baf0a1d2c60b/15847482847-500.jpg" data-tags="latin, cabo verde" role="button">
+Cesária Évora - Cesaria (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5c9a710-e690-3c27-962c-eafca1f980d3/22419403524-500.jpg" data-tags="pop, pop rock, latin, latin rock, alles, wea, my albums spanish, debut recording, -1990-" role="button">
 Maná - Falta Amor (1990-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/35872832-d4cc-4eb3-a637-ffcc616f64bb/16625819830-500.jpg" data-tags="estefan" role="button">
+Gloria Estefan - Exitos de gloria estefan (1990-09-12)
 </li>
 <li data-cover="https://img.discogs.com/zIvtevA9FP8KzbGfE71GX8GYb2s=/fit-in/600x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6735984-1486318191-6142.jpeg.jpg" data-tags="cabo verde, latin" role="button">
 Cesária Évora - Miss Perfumado (1992-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0f9951-da70-4731-bf4d-50ffbd9baf49/10134225946-500.jpg" data-tags="latin, latin pop" role="button">
 Gloria Estefan - Greatest Hits (1992-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae9f317a-a627-4f97-a3b3-72ac73801344/24839057151-500.jpg" data-tags="pop, latin, vallenato" role="button">
+Carlos Vives - Clásicos de la Provincia (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
@@ -95,9 +101,6 @@ Enrique Iglesias - Cosas Del Amor (1998)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="latin, trombone, latin jazz, salsa, mambo, puerto rico, latinjazz, salsa dura, latino americain, jimmy bosch, trombon, coreos" role="button">
 Jimmy Bosch - Soneando Trombon (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/49c8febc-20e8-340b-a5c9-ebe368784ec7/3011285000-500.jpg" data-tags="latin, instrumental, acoustic" role="button">
-Gustavo Santaolalla - Ronroco (1998-01-13)
 </li>
 <li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
@@ -191,9 +194,6 @@ Sergent Garcia - La Semilla Escondida (2003-09-30)
 </li>
 <li data-cover="https://img.discogs.com/ScCarVGhuxxBq37x1HAqniVJ1og=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4917090-1537588079-4373.jpeg.jpg" data-tags="latin, latin pop" role="button">
 Enrique Iglesias - 7 (2003-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/52b924be-bf9c-44ab-bb1d-c2300db431cd/7851491988-500.jpg" data-tags="chillout, latin" role="button">
-Federico Aubele - Gran Hotel Buenos Aires (2004-02-27)
 </li>
 <li data-cover="https://img.discogs.com/I0SWT3S8uigi0AFlNC8acIVz4_U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304407-1099749564.jpg.jpg" data-tags="bossa nova, brazilian" role="button">
 Bebel Gilberto - Bebel Gilberto (2004-06-07)
@@ -297,9 +297,6 @@ Nelly Furtado - Mi Plan (2009-09-11)
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/1968256f-f367-4c80-a18a-5fe777c929c3/22851726160-500.jpg" data-tags="pop" role="button">
-Anahí - Mi Delirio (2009-11-24)
-</li>
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)
 </li>
@@ -314,6 +311,9 @@ Melody Gardot - The Absence (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a719c55-3336-42ff-9916-201f0e873035/17723051668-500.jpg" data-tags="latin" role="button">
 Los Amigos Invisibles - Repeat After Me (2013-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/28a16fdd-292d-4b89-a6ef-75375a07ed8e/10334011340-500.jpg" data-tags="black metal, mierda" role="button">
+J Balvin - La Familia (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)

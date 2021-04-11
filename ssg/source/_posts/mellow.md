@@ -1,10 +1,9 @@
 ---
-date: 2021-04-11T18:19:01.413Z
+date: 2021-04-11T23:38:01.402Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">Coldplay - Parachutes (2000-07-10)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
@@ -14,6 +13,7 @@ title: "mellow: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
 <li data-cover="https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg" data-tags="female vocalist, indie" role="button">A Fine Frenzy - One Cell in the Sea (2007-07-17)</li>
+<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">Minus the Bear - Planet of Ice (2007-08-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -42,14 +42,17 @@ Seal - Seal (1994-05-31)
 <li data-cover="http://coverartarchive.org/release/af4c39d7-2682-4190-ad19-0e53a2cbcde1/20982255789-500.jpg" data-tags="mellow, pop" role="button">
 Lighthouse Family - Ocean Drive (1996-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc41e65d-471e-37fb-a050-73393f0ba30a/1606468604-500.jpg" data-tags="90s, rock" role="button">
-Dave Matthews Band - Crash (1996-04-30)
-</li>
 <li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">
 Lighthouse Family - Postcards From Heaven (1997-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0c81325-1494-4afe-84be-3466f3858ccc/23449580297-500.jpg" data-tags="alternative" role="button">
+Cake - Prolonging the Magic (1998-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/a1cf9f15-c48b-41b3-8c85-fcd93aefc291/19673144586-500.jpg" data-tags="rock, mellow" role="button">
+Sean Lennon - Into The Sun (1998-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
@@ -66,9 +69,6 @@ Amel Larrieux - Infinite Possibilities (1999)
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b306a26-cb3a-346a-8394-ce5a4b9342e1/16542394141-500.jpg" data-tags="indie, rock" role="button">
 Richard Ashcroft - Alone With Everybody (2000-06-21)
 </li>
@@ -77,9 +77,6 @@ Coldplay - Parachutes (2000-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
-</li>
-<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
-I Am Kloot - Natural History (2001-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -95,9 +92,6 @@ Travis - The Invisible Band (2001-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
@@ -119,6 +113,9 @@ Evanescence - Bring Me to Life (2003-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
+Martina Topley-Bird - Quixotic (2003-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
 Gavin DeGraw - Chariot (2003-07-22)
@@ -150,14 +147,17 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
-Damien Rice - B-Sides (2004-08-03)
+<li data-cover="http://coverartarchive.org/release/2de859f9-b9d3-4512-ae9d-1bc8b70c60df/26658665691-500.jpg" data-tags="mellow, melancholy, my collection, diana picks, holy mountain, granka" role="button">
+Six Organs of Admittance - For Octavio Paz (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f83a5171-3acc-4234-a13f-df6b67ddefc5/3509077233-500.jpg" data-tags="post-rock" role="button">
 The Six Parts Seven - Everywhere and Right Here (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/798dea45-242d-3d3e-96b2-d90ad14cf47a/20816894147-500.jpg" data-tags="rock, 00s" role="button">
+R.E.M. - Around the Sun (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -210,9 +210,6 @@ The Album Leaf - Into The Blue Again (2006-09-08)
 <li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
 Sean Lennon - Friendly Fire (2006-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
 </li>
@@ -261,9 +258,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
-Jesse McCartney - Departure (2008-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
@@ -300,6 +294,9 @@ Corinne Bailey Rae - The Sea (2010-01-20)
 <li data-cover="http://coverartarchive.org/release/a54be848-c2a6-4282-8438-aa08fa6e648b/15941011609-500.jpg" data-tags="soul, easy listening, soft rock, mellow, pop soul, soft rock revival" role="button">
 Rumer - Seasons of My Soul (2010-08-23)
 </li>
+<li data-cover="https://img.discogs.com/rr26sxfe7gqQHH01qVYHndxpgOs=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2618033-1293524419.jpeg.jpg" data-tags="mellow" role="button">
+Sun Airway - Nocturne of Exploded Crystal Chandelier (2010-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
@@ -314,6 +311,9 @@ Best Coast - The Only Place (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/045b654b-18fa-480c-9b58-020c70128370/10745016787-500.jpg" data-tags="pop, female vocalists, mellow, 10s" role="button">
 Julia Stone - By the Horns (2012-05-25)
+</li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

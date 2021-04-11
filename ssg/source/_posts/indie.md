@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:32:01.454Z
+date: 2021-04-11T23:23:01.454Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
-The Stone Roses - The Stone Roses (1989-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
 Radiohead - The Bends (1995-03-08)
 </li>
@@ -65,6 +62,9 @@ The White Stripes - Elephant (2003-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/04049b63-b29c-330c-b758-fe671a60f420/26953889856-500.jpg" data-tags="indie" role="button">
+Metric - Old World Underground, Where Are You Now? (2003-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)

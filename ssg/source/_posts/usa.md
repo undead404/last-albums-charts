@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:03:01.612Z
+date: 2021-04-11T22:47:01.423Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Beck - Morning Phase (2014-02-21)](http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg "Beck - Morning Phase (2014-02-21)")
@@ -72,14 +72,14 @@ Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
-Train - Drops of Jupiter (2001-03-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
 The National - The National (2001-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/affb9073-3c21-3524-bc16-5497489ce059/1709609353-500.jpg" data-tags="pop" role="button">
 P!nk - M!ssundaztood (2001-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
+Regina Spektor - Songs (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6298a1f-c1c0-4984-acb5-fad7c760d5ed/17401757531-500.jpg" data-tags="folk, indie" role="button">
 Okkervil River - Don't Fall in Love With Everyone You See (2002-01-22)
@@ -123,6 +123,9 @@ Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 <li data-cover="http://coverartarchive.org/release/68b08bd5-ea1e-3942-abc1-3bb9ee1201fe/2824385245-500.jpg" data-tags="reggae, reggae roots" role="button">
 Groundation - We Free Again (2004-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/a0330032-fd3f-3acc-940b-00744605bc7c/7715501840-500.jpg" data-tags="indie" role="button">
+Adam Green - Gemstones (2005-01-10)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
@@ -146,9 +149,6 @@ The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
@@ -189,9 +189,6 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 <li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
-</li>
 <li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
 The Felice Brothers - Yonder is the Clock (2009-04-07)
 </li>
@@ -219,6 +216,9 @@ John Mayer - Battle Studies (2009-11-17)
 <li data-cover="https://img.discogs.com/dtb8lL6FrBIPNTQWrXQKDbt9bVg=/fit-in/412x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848281-1303821841.jpeg.jpg" data-tags="rockabilly, usa, rock and roll, rhythm and blues, 2010s, debut album, 2010 albums, my best of 2010, j mc pherson" role="button">
 JD McPherson - Signs & Signifiers (2010)
 </li>
+<li data-cover="https://img.discogs.com/Cch9xq_xdq47XQEUgMJ3X_476Ns=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616085-1337508814-3772.jpeg.jpg" data-tags="indie, rock" role="button">
+Eels - End Times (2010-01-18)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)
 </li>
@@ -234,14 +234,14 @@ Janelle Monáe - The ArchAndroid (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/4f6b6a4d-36d4-472d-bdf0-f912bb2c1cbd/9103084649-500.jpg" data-tags="alternative rock, usa, american, male vocalists, americain, jacob" role="button">
 Plain White T's - Rhythm Of Love (2010-08-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2c5627f5-f1b6-43ab-a2cd-14d9775fd9ad/23141070841-500.jpg" data-tags="soul" role="button">
+Aloe Blacc - Good Things (2010-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9035757-3972-404c-89d3-cea1f904b3a1/3357027039-500.jpg" data-tags="indie, rock, usa, 2010s, fucking lovely, mistico, cartoon album covers, muita barba, hippagem, fundamento, a vida como ela e" role="button">
-J Mascis - Several Shades of Why (2011-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
@@ -251,6 +251,9 @@ TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
 fun. - Some Nights (2011-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/54285f69-1041-4c65-b25e-e792e3f54456/4101201873-500.jpg" data-tags="usa, experimental pop, love this album, names of people" role="button">
+Nurses - Dracula (2011-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/95501339-d993-49d8-8bb0-54cb98464c29/13194367606-500.jpg" data-tags="alternative rock" role="button">
 Tom Waits - Bad as Me (2011-10-21)
@@ -287,9 +290,6 @@ Alicia Keys - Girl on Fire (2012-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2637eead-2d02-4608-8991-642dda755394/3800015679-500.jpg" data-tags="beach goth" role="button">
 The Growlers - Hung At Heart (2013-01-22)

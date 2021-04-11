@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:03:01.896Z
+date: 2021-04-11T23:41:01.434Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -89,6 +89,9 @@ The Ataris - So Long, Astoria (2003-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
+</li>
+<li data-cover="https://img.discogs.com/cyDizY5ucEG5WjqBINdaFgJXRQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692454-1296784825.jpeg.jpg" data-tags="ska punk, pop punk" role="button">
+Less Than Jake - Anthem (2003-05-19)
 </li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)
@@ -207,9 +210,6 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/de90424f-fcbb-34ff-9d2d-c32355fa05e0/6657134641-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - A Lesson in Romantics (2007-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/123a3fc0-7a4a-3e52-8a7a-f757d1d27175/14769024533-500.jpg" data-tags="pop punk, punk rock" role="button">
-Yellowcard - Paper Walls (2007-07-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
 </li>
@@ -239,9 +239,6 @@ Simple Plan - Simple Plan (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f8c7dad-a4bb-414f-8326-1439ae105fb3/5356569466-500.jpg" data-tags="pop punk" role="button">
 Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
-The Cab - Whisper War (2008-04-29)
 </li>
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">
 The Academy Is... - Fast Times At Barrington High (2008-08-18)
@@ -296,6 +293,9 @@ All Time Low - Dirty Work (2011-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c94d4857-b601-49e0-b579-86708030164e/5092099705-500.jpg" data-tags="pop punk, rock" role="button">
 Simple Plan - Get Your Heart On! (2011-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/46721ca0-b386-437a-a8ff-06e83e3e1cf1/6756951839-500.jpg" data-tags="pop punk" role="button">
+The Story So Far - Under Soil and Dirt (2011-06-21)
 </li>
 <li data-cover="https://img.discogs.com/6oQZJ5i4AkkH4mrUqTmXARCI4dc=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5477494-1433092206-4542.jpeg.jpg" data-tags="pop punk" role="button">
 New Found Glory - Radiosurgery (2011-08-02)

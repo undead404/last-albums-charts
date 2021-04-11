@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T12:48:01.413Z
+date: 2021-04-11T23:26:01.504Z
 title: "dance-pop: 100 albums you must listen to before you die"
 ---
 ![Robyn - Body Talk (2010-11-22)](https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg "Robyn - Body Talk (2010-11-22)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">Britney Spears - In the Zone (2003-11-13)</li>
+<li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">Shiny Toy Guns - We Are Pilots (2005-01-31)</li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">The Pussycat Dolls - PCD (2005-09-12)</li>
+<li data-cover="https://img.discogs.com/rrCrFXiGfLmEPXLXqO28S-UWhJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021016-1184898924.jpeg.jpg" data-tags="pop" role="button">Ashley Tisdale - Headstrong (2007-02-06)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">Sugababes - Change (2007-10-08)</li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">Ke$ha - Animal (2010-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/2614fa40-51f9-49a2-8307-1880160009da/22593745203-500.jpg" data-tags="pop, dance-pop" role="button">Rihanna - Only Girl (In the World) (2010-09-13)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
-<li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">Tiësto - A Town Called Paradise (2014-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/51f3f496-01b9-46f6-a3a3-54da87db0b71/9240189573-500.jpg" data-tags="dance-pop, electro house, deep house, nu-disco" role="button">The Avener - The Wanderings of the Avener (2015-01-19)</li>
 </ol>
 List of 100 - under the cut.
@@ -33,6 +33,9 @@ Prince - 1999 (1982-10-27)
 <li data-cover="http://coverartarchive.org/release/d7c41d38-f76e-4253-998c-763d664f39e4/10717078631-500.jpg" data-tags="pop" role="button">
 Gloria Gaynor - Gloria Gaynor (1983)
 </li>
+<li data-cover="http://coverartarchive.org/release/58f38213-6016-4664-bd23-77bd4f7aafaf/3039576624-500.jpg" data-tags="dance, screamin diva" role="button">
+Grace Jones - Living My Life (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
 </li>
@@ -45,6 +48,9 @@ Whitney Houston - Whitney (1987-06-01)
 <li data-cover="https://img.discogs.com/udOI4fyGJRtPE6tTrzBL1i7-zs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545367-1255250271.jpeg.jpg" data-tags="80s, pop" role="button">
 Pet Shop Boys - Actually (1987-09-07)
 </li>
+<li data-cover="https://img.discogs.com/zpqeoIliHjw8vF4OdTy6vHwkAfo=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719322-1239025055.jpeg.jpg" data-tags="80s" role="button">
+The Communards - Red (1987-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/537468aa-cc90-3f4c-966f-99dc05eaee12/10408227425-500.jpg" data-tags="80s, pop" role="button">
 Rick Astley - Whenever You Need Somebody (1987-10-01)
 </li>
@@ -54,8 +60,11 @@ George Michael - Faith (1987-11-01)
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s, pop" role="button">
 Madonna - Like a Prayer (1989-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2b04d6d-b900-49ee-aa2d-6e29c35a0c24/1978519255-500.jpg" data-tags="dance" role="button">
-Deee-Lite - World Clique (1990-08-06)
+<li data-cover="http://coverartarchive.org/release/f2f06c19-9a8d-3127-aa0b-68075cc3801b/15999434486-500.jpg" data-tags="pop, 80s" role="button">
+Milli Vanilli - Girl You Know It's True (1989-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/30a9bbd6-e456-3478-9a35-1cf958cf9637/15279604002-500.jpg" data-tags="synthpop, 90s" role="button">
+Pet Shop Boys - Behaviour (1990-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
@@ -84,14 +93,20 @@ M People - The Best of M People (1998)
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
 </li>
-<li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="pop, dance" role="button">
-Kylie Minogue - Light Years (2000-09-22)
+<li data-cover="https://img.discogs.com/_lgzgLZX-6Eus78dBrt0h-_g19w=/fit-in/600x659/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357250-1538833078-2334.jpeg.jpg" data-tags="pop, female vocalists, dance-pop, adult contemporary, house, eurodance, love songs, freestyle, classic freestyle" role="button">
+Amber - Amber (1999-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce51e568-6070-4d8c-b798-c5c25e4fc9e5/15820257420-500.jpg" data-tags="dance, house" role="button">
+Sonique - Hear My Cry (2000-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c70900d-2b45-4bc9-823d-312b12b08956/15955007405-500.jpg" data-tags="pop, soul, dance-pop, r&b" role="button">
 Sarah Connor - Green Eyed Soul (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/dce3ee08-32a7-4b42-85bc-269754e24d52/7439103052-500.jpg" data-tags="europop" role="button">
 A*Teens - Teen Spirit (2001-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd3b8fa4-4e40-441b-a8b9-3f7626b1450a/14508074217-500.jpg" data-tags="pop, teen pop" role="button">
+Willa Ford - Willa Was Here (2001-07-17)
 </li>
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
@@ -108,8 +123,14 @@ Enrique Iglesias - Escape (2001-10-24)
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4b8d89b-8585-4320-a8ac-f9e68f441a2d/7438889403-500.jpg" data-tags="dance, teen pop" role="button">
+A*Teens - Pop 'Til You Drop (2002-06-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0780eda-0c5e-46ef-b7cf-6f4d4eeca1a6/7107828358-500.jpg" data-tags="electronic, dance, disco" role="button">
+Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
 </li>
 <li data-cover="https://img.discogs.com/HOJBvC15uRXGDOTyH_kexdd1vuk=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8269814-1458408052-9599.jpeg.jpg" data-tags="pop" role="button">
 Kylie Minogue - Body Language (2003-11-10)
@@ -117,11 +138,8 @@ Kylie Minogue - Body Language (2003-11-10)
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
 </li>
-<li data-cover="https://img.discogs.com/o0gQ-ig7SkqDuCneLPQ35Y1wJNA=/fit-in/600x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406424-1109191706.jpg.jpg" data-tags="dance, pop" role="button">
-Infernal - From Paris To Berlin (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3557226-3870-42ea-b500-14932e4c152b/14745701399-500.jpg" data-tags="pop, dance, dance-pop, female vocalist, dance pop, i love it" role="button">
-September - September (2004-02-11)
+<li data-cover="http://coverartarchive.org/release/ba4609bc-6851-48f4-b39d-9e4f6847afdc/17924979991-500.jpg" data-tags="soul, dance-pop, like, celine dion, kuschelrock" role="button">
+Sarah Connor - Key to My Soul (2003-11-17)
 </li>
 <li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">
 Jesse McCartney - Beautiful Soul (2004-08-12)
@@ -135,12 +153,6 @@ Shiny Toy Guns - We Are Pilots (2005-01-31)
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/w1df9T9k5iLzfWii6po1HvJGH5o=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-636498-1354227204-4499.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
-September - In Orbit (2005-10-26)
-</li>
-<li data-cover="https://img.discogs.com/Jltf3c3YGW-zFgziHthD8spC-Ck=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14013633-1566080299-4780.jpeg.jpg" data-tags="dance, dance-pop, dance pop, trans, transgender, bitch, get up, transexual, black bitch pop, all worst things put together into one stupid bitch, areex" role="button">
-Ciara - Get Up (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
 </li>
@@ -152,9 +164,6 @@ Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">
 Sugababes - Change (2007-10-08)
-</li>
-<li data-cover="https://img.discogs.com/IT4KQY8052wLqswSizzbNa0ID78=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4070053-1457342705-5708.jpeg.jpg" data-tags="female vocalists, dance-pop, dance pop, musicspirit, my own albums" role="button">
-September - Dancing Shoes (2007-10-08)
 </li>
 <li data-cover="https://img.discogs.com/K3-FiQw9ClJl6OpfaRahc6UisAY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2158915-1267188271.jpeg.jpg" data-tags="pop" role="button">
 Spice Girls - Greatest Hits (2007-11-09)
@@ -168,6 +177,12 @@ Inna - Hot (2008)
 <li data-cover="http://coverartarchive.org/release/e2bed058-22f2-4c2e-a3f8-9e8f63a4ba11/25127575694-500.jpg" data-tags="pop" role="button">
 The Pussycat Dolls - Doll Domination 2.0 (2008-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/932370ad-1a1f-4f17-b41c-7f2a08d71393/14922062491-500.jpg" data-tags="dance-pop, r&b, urban pop, p dolls, pdollls" role="button">
+The Pussycat Dolls - Doll Domination 3.0 (2008-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ccfbc920-81d4-46a5-8370-355318e10ed3/17926116699-500.jpg" data-tags="rnb" role="button">
+Taio Cruz - Departure (2008-03-15)
+</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
@@ -176,9 +191,6 @@ Lady Gaga - Just Dance (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
-</li>
-<li data-cover="https://img.discogs.com/u5jtDTfJgyqKgFdMVwXL5Hzvi1Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973140-1255984820.jpeg.jpg" data-tags="pop" role="button">
-Agnes - Dance Love Pop (2008-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/34f92ab0-b354-41ab-a328-99a14c582e67/16609692119-500.jpg" data-tags="pop, female vocalists, dance, australian, dance-pop, to purchase" role="button">
 Natalie Bassingthwaighte - 1000 Stars (2009-02-21)
@@ -189,17 +201,14 @@ Pet Shop Boys - Yes (2009-03-18)
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/d44ea6d1-9ad9-4276-b7bb-3f1723c31cb7/13196782911-500.jpg" data-tags="dance pop" role="button">
-Alphabeat - The Beat Is... (2009-10-26)
+<li data-cover="http://coverartarchive.org/release/b3f7c6a2-bd5a-4aec-8fa5-1324d2df2ccc/26183911617-500.jpg" data-tags="noise pop" role="button">
+Sleigh Bells - Sleigh Bells (2009-12-06)
 </li>
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/136eebff-5327-484f-898c-667787fce226/5552935179-500.jpg" data-tags="electropop, pop" role="button">
 Florrie - Introduction (2010)
-</li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
-Ke$ha - Animal (2010-01-01)
 </li>
 <li data-cover="https://img.discogs.com/tBCq5lCQyTxeHRZFV_F-d9jsX50=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8548474-1463832720-3983.jpeg.jpg" data-tags="dance-pop, new album" role="button">
 Craig David - Signed Sealed Delivered (2010-03-26)
@@ -216,32 +225,26 @@ Inna - Sun Is Up (2011-02-08)
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/17c2d2e4-ec40-4651-8de8-803edc237fb9/2142978833-500.jpg" data-tags="indie, singer-songwriter, dance-pop, funk, baile funk, one eye sign" role="button">
-Nicola Roberts - Beat of My Drum (2011-06-03)
+<li data-cover="http://coverartarchive.org/release/1fad32a0-748a-499f-9773-995cec0a1bd1/2745245777-500.jpg" data-tags="pop, female vocalists, dance-pop, latin pop, gloria" role="button">
+Gloria Trevi - Gloria (2011-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee5ba864-4a7f-4d80-9128-16c5b74de440/5881939532-500.jpg" data-tags="dance-pop" role="button">
+Cash Cash - Love or Lust (2011-04-19)
 </li>
 <li data-cover="https://img.discogs.com/CP8BNO9jODwpSRvKNah6GSWsThc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2987633-1310594374.jpeg.jpg" data-tags="electropop, british, dance-pop, synthpop, library, 2010s, 2011 albums, albums i have on vinyl, nice spending time" role="button">
 Florrie - Experiments (2011-06-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/19d74ad6-606e-4bbb-b09f-a5ce18cd268e/5898507507-500.jpg" data-tags="pop, electronic" role="button">
+Nicola Roberts - Cinderella's Eyes (2011-06-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e17848a-33da-43c0-af72-afc730f8405f/11306508626-500.jpg" data-tags="enrique iglesias" role="button">
 Enrique Iglesias - I Like How It Feels (2011-09-10)
-</li>
-<li data-cover="https://img.discogs.com/bkmgT_tvFwBzksaJp0ZQVGKbabs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3208081-1320533538.jpeg.jpg" data-tags="pop" role="button">
-The Wanted - Battleground (2011-11-04)
 </li>
 <li data-cover="https://img.discogs.com/X-nDSvbEfq2_ZbAQeEYucpdpVJA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7063151-1436013719-8386.jpeg.jpg" data-tags="female vocalists, dance-pop, male vocalists, vocal house, funky house" role="button">
 Bob Sinclar - Disco Crash (2012-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5bff73a-47b5-4c9e-a75e-0ef6747e413b/1804110926-500.jpg" data-tags="pop" role="button">
-Rita Ora - How We Do (Party) (2012-03-20)
-</li>
 <li data-cover="https://img.discogs.com/S9gJRTIVG3X3iA9eTAXQLrx-RRk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3769514-1343671525-4804.jpeg.jpg" data-tags="electronic, pop, dance, dance-pop, club, edm" role="button">
 Eva Simons - I Don't Like You (2012-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ccc451d-72bf-411e-a6d8-d7aefa9b835b/1751785267-500.jpg" data-tags="pop, dance" role="button">
-Kylie Minogue - Timebomb (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/48924fb0-54fc-4dff-a242-e5bcbe4ceba9/8458484651-500.jpg" data-tags="pop, female vocalists" role="button">
 Kylie Minogue - The Best of Kylie Minogue (2012-05-30)
@@ -261,23 +264,26 @@ Bridgit Mendler - Hello My Name Is... (2012-10-22)
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
+<li data-cover="https://img.discogs.com/W1QKfBWhr4kybspIn6bwlGH6emE=/fit-in/564x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8447266-1461780402-7633.jpeg.jpg" data-tags="pop" role="button">
+Christina Aguilera - Lotus (2012-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/72d7984a-f923-4136-aa15-ab75499d1c70/2940296786-500.jpg" data-tags="die young" role="button">
 Ke$ha - Die Young (2012-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ff72d61-c72e-4a0f-ba53-9032e198fcd9/4101003069-500.jpg" data-tags="pop, female vocalists, dance" role="button">
 Inna - Party Never Ends (2013-03-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1439055-f1fa-4c4c-a8a3-71a074615911/4024431683-500.jpg" data-tags="synthpop" role="button">
-Charli XCX - True Romance (2013-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/4220331b-1236-405e-b36b-0dc7050f3ab2/18876982277-500.jpg" data-tags="synthpop" role="button">
 Little Boots - Nocturnes (2013-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c041912a-72e3-4c28-8a8a-db88b4c5ff43/18351627712-500.jpg" data-tags="pop" role="button">
 Studio Killers - Studio Killers (2013-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae93edb5-5d41-4380-9461-e1f892e8f9f4/7792155999-500.jpg" data-tags="pop, dance-pop, male vocalists" role="button">
+Ricky Martin - Come with Me (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/46de9faa-fa3d-4a0e-8889-9843653056ce/17933974711-500.jpg" data-tags="female vocalists, dance-pop" role="button">
+Kylie Minogue - Skirt (2013-06-24)
 </li>
 <li data-cover="https://img.discogs.com/X56TsAaQVcGJByBtuBvgWIlUTDc=/fit-in/392x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1565810-1228855541.jpeg.jpg" data-tags="synthpop" role="button">
 Pet Shop Boys - Electric (2013-07-12)
@@ -303,20 +309,14 @@ Betty Who - Heartbreak Dream (2014-02-18)
 <li data-cover="http://coverartarchive.org/release/dbaac149-d559-4234-b335-60d382040c94/15265609371-500.jpg" data-tags="k-pop" role="button">
 2NE1 - Crush (2014-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
-Rita Ora - I Will Never Let You Down (2014-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">
-Tiësto - A Town Called Paradise (2014-06-13)
+<li data-cover="https://img.discogs.com/5ML1CJp8Z_MMp6UUplVzZhjLyh8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594036-1136136960.jpeg.jpg" data-tags="pop" role="button">
+Kylie Minogue - Kiss Me Once (2014-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/92402a00-7be5-4c40-ac27-cf91622e2e5a/8509740795-500.jpg" data-tags="pop" role="button">
 Ariana Grande - My Everything (2014-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15d9a20-5fe8-4b35-ad58-bf686787d950/11412700531-500.jpg" data-tags="pop" role="button">
 Taylor Swift - 1989 (2014-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
-David Guetta - Listen (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/51f3f496-01b9-46f6-a3a3-54da87db0b71/9240189573-500.jpg" data-tags="dance-pop, electro house, deep house, nu-disco" role="button">
 The Avener - The Wanderings of the Avener (2015-01-19)

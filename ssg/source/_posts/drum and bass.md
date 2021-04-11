@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:25:01.410Z
+date: 2021-04-11T23:13:01.389Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -44,6 +44,9 @@ David Bowie - Earthling (1997-02-01)
 </li>
 <li data-cover="https://img.discogs.com/42yY8-728mQ_HeoZtb58netsqT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127733-1369690762-6030.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, downtempo" role="button">
 Mr. Scruff - Mrs Cruff (1997-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
+BT - ESCM (1997-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/53ff6c25-513e-40fc-9581-a5b965c9b948/10788598950-500.jpg" data-tags="ambient, drum and bass, atmospheric drum and bass, silver, omni trio, dr4mnk00l, drum 'n' bass, skeleton keys, barturismooth" role="button">
 Omni Trio - Skeleton Keys (1997-09-29)
@@ -200,9 +203,6 @@ The Qemists - Join The Q (2008-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3b475ad-95b6-4348-a660-996e2f993145/2486291366-500.jpg" data-tags="drum and bass" role="button">
 State Of Mind - Faster Than Light (2009-03-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
-High Contrast - Confidential (2009-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/17d7b6ef-2d7b-4a3f-a326-5a1b07c9253c/3550688307-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Live At Brixton Academy (2009-06-15)

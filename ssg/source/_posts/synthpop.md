@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:23:01.449Z
+date: 2021-04-11T23:05:01.454Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -11,9 +11,9 @@ title: "synthpop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">Editors - In This Light and on This Evening (2009-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg" data-tags="synthpop" role="button">Hurts - Happiness (2010-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
+<li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, dark pop, coramao, bete gouveia" role="button">M.I.A. - Bad Girls (2012-01-31)</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">Grimes - Visions (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">Purity Ring - Shrines (2012-07-23)</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">CHVRCHES - The Bones of What You Believe (2013-09-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,14 +33,14 @@ Eurythmics - Sweet Dreams (Are Made Of This) (1982)
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
 </li>
+<li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
+Visage - The Damned Don't Cry (1982-01-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e2648b1-d47d-4781-9452-a56c97af6130/6649087897-500.jpg" data-tags="80s, synthpop" role="button">
 Yazoo - Upstairs At Eric's (1982-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
 Tears for Fears - The Hurting (1983-03-07)
-</li>
-<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
-New Order - Power, Corruption & Lies (1983-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
@@ -54,8 +54,11 @@ Nine Inch Nails - Pretty Hate Machine (1989-11-20)
 <li data-cover="http://coverartarchive.org/release/96a4eade-ceda-396f-8bfb-424a7897c487/8261864473-500.jpg" data-tags="pet shop boys" role="button">
 Pet Shop Boys - Discography: The Complete Singles Collection (1991-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
-New Order - Republic (1993-04-27)
+<li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
+Paradise Lost - Host (1999-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">
+New Order - Get Ready (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
@@ -65,6 +68,9 @@ The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
+Röyksopp - The Understanding (2005-06-22)
 </li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
 CSS - Cansei De Ser Sexy (2005-10)
@@ -174,14 +180,17 @@ White Lies - Ritual (2011-01-17)
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
+Yelle - Safari Disco Club (2011-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
+Holy Ghost! - Holy Ghost! (2011-04-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">
 Grouplove - Never Trust A Happy Song (2011-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdd5d8c4-21c4-40cc-9dee-a32b96ccd672/27110182808-500.jpg" data-tags="new wave" role="button">
 Future Islands - On the Water (2011-10-11)
@@ -200,9 +209,6 @@ Trust - Trst (2012-02-28)
 </li>
 <li data-cover="https://img.discogs.com/TQxRdssI23pybl7QK_MqpifIBss=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457166-1331119671.jpeg.jpg" data-tags="synthpop, st lucia" role="button">
 St. Lucia - St. Lucia (2012-03-06)
-</li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
@@ -240,9 +246,6 @@ Toro y Moi - Anything in Return (2013-01-22)
 <li data-cover="http://coverartarchive.org/release/9d46e2cc-1ae9-44aa-81bc-89e90eef410e/10240022979-500.jpg" data-tags="pop" role="button">
 Tegan and Sara - Heartthrob (2013-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/48323fe4-d87e-4f5c-8d61-36b28868616e/5552578400-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - Recover (2013-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
 </li>
@@ -258,6 +261,9 @@ Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
+<li data-cover="https://img.discogs.com/X56TsAaQVcGJByBtuBvgWIlUTDc=/fit-in/392x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1565810-1228855541.jpeg.jpg" data-tags="synthpop" role="button">
+Pet Shop Boys - Electric (2013-07-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
@@ -266,9 +272,6 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8e257c-6c7e-4ab5-80fa-0037e14cc930/5122310454-500.jpg" data-tags="indie pop, indie rock, indie, synthpop" role="button">
 Grouplove - Spreading Rumours (2013-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
@@ -302,9 +305,6 @@ Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6540f0f1-6ee7-4bc7-808a-0b38398b9f64/7842080226-500.jpg" data-tags="synthpop" role="button">
 La Roux - Trouble in Paradise (2014-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b0432e3-53c6-4410-88af-e29fc863ed4a/7963468959-500.jpg" data-tags="synthpop, electronic" role="button">
-iamamiwhoami - BLUE (2014-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15d9a20-5fe8-4b35-ad58-bf686787d950/11412700531-500.jpg" data-tags="pop" role="button">
 Taylor Swift - 1989 (2014-10-27)

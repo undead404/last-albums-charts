@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:58:01.428Z
+date: 2021-04-11T22:54:01.418Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![M83 - Saturdays &#x3D; Youth (2008-04-14)](http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg "M83 - Saturdays = Youth (2008-04-14)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
-Linda Perhacs - Parallelograms (1970)
-</li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
 </li>
@@ -96,8 +93,14 @@ Susumu Yokota - Symbol (2004-10-27)
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
 The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/4186b65f-c36d-4dac-82d3-221d3f8c7925/17754966442-500.jpg" data-tags="indie pop" role="button">
+Eisley - Room Noises (2005-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
+</li>
+<li data-cover="https://img.discogs.com/Mhr0gD1lVTpLJ-vc2iGlm6hBNSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399791-1165617182.jpeg.jpg" data-tags="ambient pop, morr music" role="button">
+Masha Qrella - Unsolved Remained (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
@@ -117,14 +120,8 @@ Slow Dancing Society - The Sound of Lights When Dim (2006)
 <li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">
 Nathan Fake - Drowning in a Sea of Love (2006-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/7dde8415-7145-470f-9a3d-21382ef4bf2f/4786479859-500.jpg" data-tags="pop punk" role="button">
-Hawk Nelson - Smile, It's The End Of The World (2006-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
-Anoice - Remmings (2006-05-23)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
@@ -146,6 +143,9 @@ Mice Parade - Mice Parade (2007-05-08)
 </li>
 <li data-cover="https://img.discogs.com/3yB2xC4GGTiMVfqHL3kh89TSFPc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1000491-1182601151.jpeg.jpg" data-tags="post-rock" role="button">
 Epic45 - may your heart be the map (2007-05-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dreamy, environmentalism, ecorock" role="button">
+Ben Jelen - Ex-Sensitive (2007-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a149eedb-8c2e-4882-af2c-81d61a479045/15473383936-500.jpg" data-tags="indie, dreamy" role="button">
 Le Loup - The Throne Of The Third Heaven Of The Nations' Millennium General Assembly (2007-09-11)
@@ -228,6 +228,9 @@ The Jezabels - Prisoner (2011-09-16)
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
+<li data-cover="https://img.discogs.com/YGa7AreT0uFUN-nqae2MJ9TkZyQ=/fit-in/576x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3207172-1321104806.jpeg.jpg" data-tags="electropop" role="button">
+The Sound of Arrows - Voyage (2011-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
@@ -261,8 +264,8 @@ Saint Etienne - Words and Music by Saint Etienne (2012-05-21)
 <li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
 Mount Eerie - Clear Moon (2012-05-22)
 </li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
+<li data-cover="https://img.discogs.com/HLaa2XG_TvbqTX3gNbc06Pnlawg=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3676245-1339939610-8205.jpeg.jpg" data-tags="idm, dreamy, atmospheric, warm" role="button">
+Ametsub - All Is Silence (2012-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d99a7b7-edc7-4b75-914c-248e0b02c5ea/1371441962-500.jpg" data-tags="chill, dreamy, atmospheric, relaxing, sleepy, drifting, dreaming, ocean, enchanting, undersea, the antlers" role="button">
 The Antlers - Drift Dive (2012-06-26)
@@ -275,9 +278,6 @@ How to Dress Well - Total Loss (2012-09-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, dreamy, ethereal, soundscapes, tasting colors" role="button">
 Manual - Awash (2012-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="https://img.discogs.com/oPdkVK-vqlTllji4AJeFIWuofo8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275033-1360420938-2039.jpeg.jpg" data-tags="icelandic" role="button">
 Sin Fang - Flowers (2013-01-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:11:01.412Z
+date: 2021-04-11T22:51:01.409Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -159,6 +159,9 @@ The Decemberists - The Crane Wife (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
+Newton Faulkner - Hand Built By Robots (2007-07-30)
+</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
@@ -173,6 +176,9 @@ Two Gallants - Two Gallants (2007-09-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, folk rock" role="button">
 The Mountain Goats - Heretic Pride (2008-02-17)
+</li>
+<li data-cover="https://img.discogs.com/nNLW6oyibILj-etyre1Ws6Qf9HY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568374-1229053540.jpeg.jpg" data-tags="alternative, indie rock" role="button">
+Ra Ra Riot - The Rhumb Line (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
@@ -216,6 +222,9 @@ Devendra Banhart - What Will We Be (2009-10-26)
 <li data-cover="http://coverartarchive.org/release/3a876213-7833-40c1-ac4b-39cb9b767082/25696731134-500.jpg" data-tags="indie, alternative, folk, cosmic american music" role="button">
 Midlake - The Courage Of Others (2010-02-01)
 </li>
+<li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">
+Villagers - Becoming a Jackal (2010-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
 Bombay Bicycle Club - Flaws (2010-07-12)
 </li>
@@ -236,9 +245,6 @@ PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="https://img.discogs.com/fUMmOj-pT-cy_7thGTb2wHSJeBs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2733765-1298587559.jpeg.jpg" data-tags="indie, psychedelic, folk rock, jagjaguwar, my gang 11, 3rd album" role="button">
 The Cave Singers - No Witch (2011-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
-Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
@@ -267,14 +273,8 @@ Best Coast - The Only Place (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
-Train - California 37 (2012-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
 Jack White - Blunderbuss (2012-04-20)
-</li>
-<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
-Rodriguez - Searching for Sugar Man (2012-07-20)
 </li>
 <li data-cover="https://img.discogs.com/CgHc93ICQl2tOGG2guJYiHcNFUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074743-1542287980-8027.jpeg.jpg" data-tags="bob dylan, folk rock" role="button">
 Bob Dylan - Tempest (2012-09-07)

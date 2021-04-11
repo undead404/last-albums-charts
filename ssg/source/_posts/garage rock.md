@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:38:01.400Z
+date: 2021-04-11T22:50:01.412Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -59,6 +59,9 @@ The White Stripes - De Stijl (2000-06-20)
 </li>
 <li data-cover="https://img.discogs.com/I-WkdQhrdDjn9-BYnI4DRAdikb4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7259702-1437399236-9651.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Hellacopters - High Visibility (2000-10-16)
+</li>
+<li data-cover="https://img.discogs.com/GNgMr2uHMxTDQux5Re9_Pb-Ondg=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726425-1585268077-6312.jpeg.jpg" data-tags="garage rock" role="button">
+The Greenhornes - The Greenhornes (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
@@ -251,9 +254,6 @@ The Young Veins - Take A Vacation! (2010-06-08)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
-</li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)

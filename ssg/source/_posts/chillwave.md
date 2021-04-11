@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:31:07.064Z
+date: 2021-04-11T23:18:01.406Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -9,8 +9,8 @@ title: "chillwave: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">Toro y Moi - Underneath the Pine (2011-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">Washed Out - Within and Without (2011-07-06)</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">Neon Indian - Era Extraña (2011-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">Purity Ring - Shrines (2012-07-23)</li>
+<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">Odesza - Summer's Gone (2012-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">Toro y Moi - Anything in Return (2013-01-22)</li>
 <li data-cover="http://coverartarchive.org/release/55b6c7e0-a2f3-45d9-b4a1-e86f7292d17b/14492410043-500.jpg" data-tags="electronic, indie, indie pop, lo-fi, chillwave, jagjaguwar" role="button">Small Black - Limits Of Desire (2013-05-14)</li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">Washed Out - Paracosm (2013-08-12)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/686ef2fa-7866-4b42-8f79-1f60371e1a22/3944109166-500.jpg" data-tags="noise rock" role="button">
+Skullflower - Form Destroyer (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
 Joey Fehrenbach - Mellowdrama (2006-06-06)
 </li>
@@ -87,9 +90,6 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/20ceb8e9-7362-4c6b-a1cd-c6648eae629f/13018204281-500.jpg" data-tags="chillout, electronic, experimental, downtempo, shoegaze, surreal, chillwave, summer albums" role="button">
 Evenings - North Dorm Ep (2010-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/97c3ab39-fc2d-4596-a1d0-5690cc80c253/26018767908-500.jpg" data-tags="chillwave" role="button">
-Blackbird Blackbird - Summer Heart (2010-07-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a55d9db-b3a7-44aa-841c-0515140de018/4043847877-500.jpg" data-tags="chillwave" role="button">
 Okinawa Lifestyle - Lazy Friend You Move So Fast (2010-07-25)
 </li>
@@ -144,6 +144,9 @@ Purity Ring - Ungirthed (2011-04-12)
 <li data-cover="https://img.discogs.com/ut1GJKVFVD256JQ424WuONnxL7M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2921998-1307434209.jpeg.jpg" data-tags="chillwave" role="button">
 Ford & Lopatin - Channel Pressure (2011-05-12)
 </li>
+<li data-cover="https://img.discogs.com/s6VpzYJS0gsO2dIEMrsxMMpESCI=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3752451-1342959659-5484.jpeg.jpg" data-tags="hip-hop, electronic, experimental, usa, solo, mashup, american, mash-up, crossover, american underground, columbus, chillwave, 10s, free music, solo artist, america, sound collage, netaudio, plunderphonics, one-man-band, glo-fi, bandcamp, free albums, cut and paste, free album, solo project, webaudio, self-released, usa underground" role="button">
+Rimar - Higher Ground (2011-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
 </li>
@@ -155,9 +158,6 @@ Active Child - You Are All I See (2011-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/178a02ba-fe9a-4be1-a747-303faac35388/8156839578-500.jpg" data-tags="electronic" role="button">
 HTRK - Work (Work, Work) (2011-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
@@ -231,9 +231,6 @@ Errors - New Relics (2012-10-01)
 <li data-cover="http://coverartarchive.org/release/a03d6b49-77c1-4d92-a164-9153ade42d5d/2415026232-500.jpg" data-tags="electronica" role="button">
 Teen Daze - The Inner Mansions (2012-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ce5e8d5-5c37-4a42-b05e-3a41aeaed7ff/2673220004-500.jpg" data-tags="chillwave" role="button">
-Memory Tapes - Grace/Confusion (2012-12-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
 Toro y Moi - Anything in Return (2013-01-22)
 </li>
@@ -267,6 +264,9 @@ Thundercat - Apocalypse (2013-06-03)
 <li data-cover="https://img.discogs.com/hG4ex4oVyBiOpHS4XlNDSbkDQ18=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4680871-1372040994-1987.jpeg.jpg" data-tags="electronic, indie, lo-fi, dream pop, chillwave" role="button">
 Work Drugs - Mavericks (2013-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/407877a8-2e54-4fd5-b20b-5f776d6fc8ea/5579383158-500.jpg" data-tags="chillwave" role="button">
+Synthetic Epiphany - Rebirth (2013-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/eea3e6d7-eaf8-4d3c-b7e5-7b90844ec9af/4404251011-500.jpg" data-tags="witch house" role="button">
 oOoOO - Without Your Love (2013-06-24)
 </li>
@@ -278,9 +278,6 @@ Washed Out - Paracosm (2013-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4fe6f5d-bde5-485c-bb4a-5addaa880a4e/4862260304-500.jpg" data-tags="dream pop" role="button">
 Pure Bathing Culture - Moon Tides (2013-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdbb13cc-dd9b-42a4-828d-50b2dc434ee4/5199358578-500.jpg" data-tags="synthpop" role="button">
-Keep Shelly In Athens - At Home (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/692e27b8-1ca3-4c67-9408-de01e42bc905/5317359582-500.jpg" data-tags="electronica, chillwave, lefse records" role="button">
 Teen Daze - Glacier (2013-10-01)
@@ -305,6 +302,9 @@ Young Magic - Breathing Statues (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/36d2ab46-02b6-47dd-abaf-9d2139d74b68/9022847288-500.jpg" data-tags="ambient, dream pop, drone, chillwave, chillstep" role="button">
+llll - Paradice (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee51594f-d326-4489-8d37-92ff18ec511b/8740029795-500.jpg" data-tags="chillwave, witch house, weedwave, nightdrag" role="button">
 Summer of Haze - Jessica (2014-09-08)

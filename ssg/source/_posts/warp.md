@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:23:01.700Z
+date: 2021-04-11T23:28:01.405Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -114,14 +114,8 @@ Mira Calix - Pin Skeeling (1998-03-09)
 <li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
 Autechre - LP5 (1998-07-13)
 </li>
-<li data-cover="https://img.discogs.com/WhYUVNzACybFdsNK13LqX07UwKE=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-802659-1160311499.jpeg.jpg" data-tags="electronic" role="button">
-Two Lone Swordsmen - A Bag of Blue Sparks (1998-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/a19299f3-5fb0-3e29-a051-12ba087d30c3/5165806586-500.jpg" data-tags="electronic, electro, warp, idm, aquatic, love the cover art, railgun, album design, futins favourite, railgunall, amg album pick, andy weatherall rip" role="button">
 Two Lone Swordsmen - Stay Down (1998-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/07dcdd5f-3214-4c53-b985-633812424f0f/3773287828-500.jpg" data-tags="abstract, idm, peel sessions" role="button">
-Autechre - Peel Session (1999-01-11)
 </li>
 <li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
 Nightmares on Wax - Carboot Soul (1999-04-12)
@@ -135,14 +129,14 @@ Two Lone Swordsmen - A Virus With Shoes (1999-10-15)
 <li data-cover="http://coverartarchive.org/release/b805d5cf-4e1f-43b3-bf0d-045538fdeba4/9151581083-500.jpg" data-tags="warp" role="button">
 Plaid - Booc (2000-04-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/7462b16d-0396-40f1-afa3-5ab1de69ef5a/23873125153-500.jpg" data-tags="experimental" role="button">
+Jamie Lidell - Muddlin Gear (2000-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b40e6b9c-762f-4dab-948d-e9851562862e/7786774956-500.jpg" data-tags="idm" role="button">
 Autechre - Peel Session 2 (2000-12-11)
-</li>
-<li data-cover="https://img.discogs.com/iZggINNClc2Zcsocv_Pkgj8f-8U=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4242287-1470161770-6322.jpeg.jpg" data-tags="warp" role="button">
-JUDY AND MARY - WARP (2001-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c83d579-c302-30fa-93c5-1a2c7144bd3a/7890623689-500.jpg" data-tags="idm" role="button">
 Autechre - Confield (2001-04-14)
@@ -161,6 +155,9 @@ The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/53a9d075-d282-4f70-bda5-8c2590e011e9/8239557806-500.jpg" data-tags="warp, electro-house, adrien wayne, shopping-list, currently-addicted-to, currently-listening-to, gotta buy, -listen tech" role="button">
 Kiko - Midnight Magic (2001-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/47d7d12b-7dd4-47dc-adbc-1a7ddccf49cf/2554779373-500.jpg" data-tags="warp" role="button">
+Req - Sketchbook (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/477e5f2b-09f5-4d5d-b3cb-dd3b852f597e/15485751824-500.jpg" data-tags="lounge, post rock" role="button">
 Vincent Gallo - Recordings of Music for Film (2002-06-24)
@@ -317,6 +314,9 @@ Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 </li>
 <li data-cover="https://img.discogs.com/_17X3gO1kUCtordXcZf1SY67o1U=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4948955-1383656910-5443.jpeg.jpg" data-tags="vaporwave, electronic" role="button">
 Oneohtrix Point Never - R Plus Seven (2013-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e59d13f0-89dd-450e-9800-8da35d11aa5b/6128013900-500.jpg" data-tags="dark ambient" role="button">
+Halgrath - The Whole Path of War and Acceptance (2014-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Syro (2014-09-19)

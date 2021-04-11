@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:39:02.009Z
+date: 2021-04-11T23:34:01.438Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
 ![Father John Misty - Fear Fun (2012-04-30)](http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg "Father John Misty - Fear Fun (2012-04-30)")
@@ -36,6 +36,9 @@ Mudhoney - Mudhoney (1989)
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Soundgarden - Louder Than Love (1989-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/a4528140-9aad-4778-9320-8e089b7bcbb0/18774713071-500.jpg" data-tags="rock, grunge, alternative" role="button">
+Love Battery - Between the Eyes (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/215ca43e-982e-499d-852f-6898cc929410/12606679128-500.jpg" data-tags="grunge" role="button">
 Green River - Dry As A Bone/Rehab Doll (1990-09-13)
 </li>
@@ -50,6 +53,9 @@ Nirvana - Smells Like Teen Spirit (1991-09-10)
 </li>
 <li data-cover="https://img.discogs.com/pT_kB-IGymMlAZZ7PmxEHRbp41A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434125-1155723074.jpeg.jpg" data-tags="grunge" role="button">
 Soundgarden - Badmotorfinger (1991-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/47651943-21e5-4525-8d3e-c4c4b720c754/22460864394-500.jpg" data-tags="grunge" role="button">
+The Gits - Frenching the Bully (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/19a84e9b-6ad3-45ac-8bcc-6f5b12af8478/5941182137-500.jpg" data-tags="rock, grunge, seattle, 90s" role="button">
 Various Artists - Singles (1992-06-30)
@@ -78,9 +84,6 @@ Pearl Jam - Vs. (1993-10-08)
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">
 Soundgarden - Superunknown (1994-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/15d2007e-df26-4c04-9afd-caee905fb0b0/22460844670-500.jpg" data-tags="rock, grunge, alternative, seattle, riot grrrl, 90s rock, northwest, desert island discs, this album is exceptionally important" role="button">
-The Gits - Enter: The Conquering Chicken (1994-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/294e3f8b-e60b-4975-aa2c-618451d51705/8951028803-500.jpg" data-tags="grunge" role="button">
 Mad Season - Above (1995-03-14)
 </li>
@@ -89,9 +92,6 @@ Mudhoney - My Brother the Cow (1995-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
-</li>
-<li data-cover="https://img.discogs.com/njtwOeddTNZFiBTlVWRPLnAC9fE=/fit-in/200x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11377120-1515231392-6431.jpeg.jpg" data-tags="riot grrrl, alternative, indie rock" role="button">
-Sleater-Kinney - Call the Doctor (1996-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
@@ -132,6 +132,9 @@ Mudhoney - Tomorrow Hit Today (1998-09-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge, rock, live" role="button">
 Pearl Jam - Live On Two Legs (1998-11-20)
 </li>
+<li data-cover="https://img.discogs.com/TxH9pwFGDOmEHG3dHgqhVvHWsX0=/fit-in/280x253/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1055339-1203675985.jpeg.jpg" data-tags="rock, grunge" role="button">
+Three Fish - The Quiet Table (1999-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/33c3f176-d1f7-3e76-83ef-b03dc30e57d6/14086233637-500.jpg" data-tags="rock, alternative" role="button">
 Chris Cornell - Euphoria Morning (1999-09-21)
 </li>
@@ -143,6 +146,9 @@ Hem - Rabbit Songs (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb5ff209-9cef-45d7-97f9-00d68bae1cc7/12576486245-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Binaural (2000-05-16)
+</li>
+<li data-cover="https://img.discogs.com/6HSp5VcWh_JtDnDh7Wre5qKzagY=/fit-in/599x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2248560-1272240973.jpeg.jpg" data-tags="grunge, seattle, northwest" role="button">
+Truly - Twilight Curtains (2000-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/52a0b92f-2759-4973-babc-4e437ef2546d/14550837018-500.jpg" data-tags="rock, alternative, alternative rock, seattle, northwest, smeg, four dollar cds" role="button">
 The Presidents of the United States of America - Freaked Out And Small (2000-09-12)
@@ -159,9 +165,6 @@ Stone Gossard - Bayleaf (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/35032af8-19e3-49df-89b6-9cc0bd16565f/16257879896-500.jpg" data-tags="indie rock" role="button">
 Minus the Bear - This is What I Know About Being Gigantic (2001-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/61dfc0c1-9057-41c5-b788-a8cfe26c633a/17647597715-500.jpg" data-tags="indie, seattle, indie rock, bounce, euphoric, 2000s, blissful, barsuk, cathartic, clutter, plaintive, folksy, desert island discs, barsuk: generalized, the long winters, albums acquired in 2011" role="button">
-The Long Winters - The Worst You Can Do Is Harm (2002-02-19)
-</li>
 <li data-cover="https://img.discogs.com/s7QxEkk-FxRKyQzkll_UUS74nr4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345157-1597423214-3871.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Pretty Girls Make Graves - Good Health (2002-04-09)
 </li>
@@ -173,9 +176,6 @@ Minus the Bear - Highly Refined Pirates (2002-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/260e0a3b-d5dc-4337-a81a-5bdebd97f50c/24616720531-500.jpg" data-tags="folk" role="button">
 Damien Jurado - Where Shall You Take Me? (2003-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
-The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e79f5c24-97f7-4751-bc08-69887e624b49/21488197619-500.jpg" data-tags="rock, indie rock" role="button">
 The Fire Theft - The Fire Theft (2003-09-23)
@@ -252,14 +252,11 @@ Grand Archives - The Grand Archives (2008-02-19)
 <li data-cover="https://img.discogs.com/ApFR1O_HLzyiUWbXEy2wvCBIqow=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515193-1517702743-4731.jpeg.jpg" data-tags="rock, grunge" role="button">
 Mudhoney - The Lucky Ones (2008-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/8986894376-500.jpg" data-tags="grunge, stoner rock, sludge metal" role="button">
-Melvins - Nude With Boots (2008-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e9b710a-ffd1-4bb3-9368-23c394847a29/23813447148-500.jpg" data-tags="seattle, hiphop, jazz hop, underground hiphop, independent hip-hop, blue scholars, my favorite hip hop" role="button">
-Common Market - Tobacco Road (2008-09-09)
-</li>
 <li data-cover="https://img.discogs.com/FcysOCq2yWoFKtIaOrgXkcsYdcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3637551-1338351148-2306.jpeg.jpg" data-tags="rock, alternative, seattle, northwest, my gang 11, tinyogre entertainment" role="button">
 Motopony - Motopony (2009)
+</li>
+<li data-cover="https://img.discogs.com/DwImgXtHVb145X7u-cq-_pBv7IU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2736141-1615659004-9162.jpeg.jpg" data-tags="hip hop, seattle, northwest" role="button">
+Common Market - The Winter's End EP (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">
 Pearl Jam - Backspacer (2009-09-18)
@@ -281,6 +278,12 @@ Band of Horses - Infinite Arms (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/618465a4-40c6-4041-a8d4-90ead3a62515/1604002336-500.jpg" data-tags="stoner rock" role="button">
 Melvins - The Bride Screamed Murder (2010-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/be39f1dc-ec2e-4e61-a080-0ddd177f261e/21705385020-500.jpg" data-tags="rock, grunge" role="button">
+Screaming Trees - Last Words: The Final Recordings (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/54cde2f1-ab70-4cf8-b444-54afdb1ffc23/5103054721-500.jpg" data-tags="rock, alternative, seattle, female vocalists, singer-songwriter, psychedelic, northwest" role="button">
+Jesse Sykes & The Sweet Hereafter - Marble Son (2011-03)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="grunge, rock, live" role="button">
 Soundgarden - Live On I-5 (2011-03-21)
@@ -308,9 +311,6 @@ Sera Cahoone - Deer Creek Canyon (2012-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/66799d73-6439-44a2-a0c1-c044c1f0e6cc/3881792902-500.jpg" data-tags="indie" role="button">
 Telekinesis - Dormarion (2013-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/30faa2a7-5499-491a-8e5b-d7bec8f23d46/9637225176-500.jpg" data-tags="grunge" role="button">
-Mudhoney - Vanishing Point (2013-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c2d3f14-262e-4781-a484-d80ee82ef7a9/9363103757-500.jpg" data-tags="alternative rock, grunge" role="button">
 Pearl Jam - Lightning Bolt (2013-10-11)

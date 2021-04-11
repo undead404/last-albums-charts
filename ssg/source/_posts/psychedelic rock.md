@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:43:01.584Z
+date: 2021-04-11T23:37:01.403Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -114,6 +114,9 @@ Amon Düül II - Yeti (1970-04)
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/0bf93ec6-a96c-4d4d-9cc2-96f0f4306ff6/18627374936-500.jpg" data-tags="classic rock" role="button">
+Grateful Dead - American Beauty (1970-11-01)
+</li>
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
@@ -192,9 +195,6 @@ Radio Moscow - Radio Moscow (2007-02-27)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a311144-57b8-442b-b9d2-df4d3f7fe331/28276663213-500.jpg" data-tags="stoner rock, psychedelic rock, hard rock, psychedelic" role="button">
-Graveyard - Graveyard (2007-09-10)
-</li>
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
 </li>
@@ -222,11 +222,11 @@ Jimi Hendrix - Valleys of Neptune (2010-03-05)
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
 Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d2ed658-9a4b-4391-bfee-16e515ad9601/12338272827-500.jpg" data-tags="psychedelic rock, space rock" role="button">
-Samsara Blues Experiment - Long Distance Trip (2010-03-19)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)
+</li>
+<li data-cover="https://img.discogs.com/Fxe10Ie5xOAhZY5ej6krnBuvnRc=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2291813-1274843946.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Sleepy Sun - Fever (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
@@ -258,11 +258,11 @@ M83 - Hurry Up, We're Dreaming (2011-10-14)
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/66e40b28-7671-44ad-986c-9054406381a8/3972817706-500.jpg" data-tags="psychedelic rock" role="button">
+Pond - Beard, Wives, Denim (2012-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/93be2c5f-b9e2-46da-8bc8-04ab3e384682/8450685693-500.jpg" data-tags="indie, british, alternative rock, space rock, psychedelic rock, 10s, fat possum, 2012 releases, double six, summer jams" role="button">
 Spiritualized - Sweet Heart Sweet Light (2012-04-16)
-</li>
-<li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
-Om - Advaitic Songs (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
 Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)
@@ -309,11 +309,11 @@ Warpaint - Warpaint (2014-01-17)
 <li data-cover="https://img.discogs.com/YAS04OWsw-IG8OWuIXo_GLtbg58=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5339842-1392126266-8540.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Temples - Sun Structures (2014-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/adf038cd-b349-48fe-b451-e110cda9c3f4/6705401704-500.jpg" data-tags="psychedelic rock" role="button">
-King Gizzard & The Lizard Wizard - Oddments (2014-03-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/21e9d6b9-7297-4e5a-a285-cd2dee7cb118/7367242288-500.jpg" data-tags="neo-psychedelia" role="button">
+The Horrors - Luminous (2014-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:53:01.413Z
+date: 2021-04-11T22:53:01.411Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -87,6 +87,9 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
 Usher - Confessions (2004-03-19)
 </li>
+<li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
+John Legend - Get Lifted (2004-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">
 Rihanna - Music of the Sun (2005-08-29)
 </li>
@@ -123,9 +126,6 @@ Rihanna - Good Girl Gone Bad (2007-05-30)
 <li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
 Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8667f0a2-a7e4-4f02-873c-bef73a0a1c7f/4889426117-500.jpg" data-tags="rnb, r&b" role="button">
-Kelly Rowland - Ms. Kelly (2007-06-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, keyshia cole" role="button">
 Keyshia Cole - Just Like You (2007-09-25)
 </li>
@@ -144,8 +144,8 @@ The Pussycat Dolls - Doll Domination 2.0 (2008-01-01)
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
-Jesse McCartney - Departure (2008-05-20)
+<li data-cover="https://img.discogs.com/iCEWQF2PnDjvsJWGwAw8vH5R6ZE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057789-1261411597.jpeg.jpg" data-tags="soul" role="button">
+John Legend - Evolver (2008-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
@@ -179,9 +179,6 @@ Sade - Soldier of Love (2010-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb03333a-e805-44c2-85a3-0b77fa920871/1198344598-500.jpg" data-tags="hip hop" role="button">
-Kanye West - POWER (2010-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bc5fce5-2fbf-4ba1-818d-bc3996110dde/2103447209-500.jpg" data-tags="r&b" role="button">
 Trey Songz - Passion, Pain & Pleasure (2010-09-14)
@@ -311,6 +308,9 @@ The Weeknd - Often (2014-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/92402a00-7be5-4c40-ac27-cf91622e2e5a/8509740795-500.jpg" data-tags="pop" role="button">
 Ariana Grande - My Everything (2014-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e142982-7ad5-4bcb-8e7a-6377bcd6718f/8531469980-500.jpg" data-tags="electronic" role="button">
+TOKiMONSTA - Desiderium (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-500.jpg" data-tags="hip-hop, pop, norwegian, r&b, norway, norge" role="button">
 Nico & Vinz - Black Star Elephant (2014-10-03)

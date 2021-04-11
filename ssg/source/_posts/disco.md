@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:16:06.874Z
+date: 2021-04-11T22:49:01.405Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -246,9 +246,6 @@ The Whitest Boy Alive - Rules (2009-02-27)
 <li data-cover="https://img.discogs.com/jnGU0rPnUOyIqqugh4JtoaYDLOY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15537372-1593224889-6566.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
 </li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
@@ -260,6 +257,9 @@ Goldfrapp - Head First (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
+</li>
+<li data-cover="https://img.discogs.com/ljRrXMtIbIjo07zIgZR4rN5bcCE=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235095-1493873613-5059.jpeg.jpg" data-tags="rnb, pop" role="button">
+Usher - Versus (2010-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:11:01.432Z
+date: 2021-04-11T23:00:01.480Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -276,9 +276,6 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
 King Krule - King Krule (2011-11-08)
 </li>
@@ -308,6 +305,9 @@ Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
 </li>
 <li data-cover="https://img.discogs.com/pr4P-Lu0VVSTmWZVoBfCXU3P7Uk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4651028-1371094078-3852.jpeg.jpg" data-tags="indie, psychedelic pop" role="button">
 Jagwar Ma - Howlin (2013-06-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
+Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="https://img.discogs.com/YAS04OWsw-IG8OWuIXo_GLtbg58=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5339842-1392126266-8540.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Temples - Sun Structures (2014-02-10)

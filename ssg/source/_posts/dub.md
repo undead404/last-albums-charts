@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:45:01.592Z
+date: 2021-04-11T23:12:07.003Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Augustus Pablo - King Tubbys Meets Rockers Uptown (1976)
+</li>
+<li data-cover="http://coverartarchive.org/release/258b807c-f1dd-43b1-9777-478c0cf39cfb/4301423098-500.jpg" data-tags="dub" role="button">
+King Tubby - King Tubbys Meets Rockers Uptown (1976)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 The Upsetters - Super Ape (1976)
@@ -57,11 +60,11 @@ Sublime - Robbin' The Hood (1994-02-08)
 <li data-cover="http://coverartarchive.org/release/85c36433-f560-4b42-858a-f91bb1813adb/6960911717-500.jpg" data-tags="electronic, electronica" role="button">
 The Sabres of Paradise - Haunted Dancehall (1994-11-10)
 </li>
+<li data-cover="https://img.discogs.com/jtAgTh9Ntw_eLRs689BfRJnJ-bM=/fit-in/588x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129927-1417601324-2964.jpeg.jpg" data-tags="dub" role="button">
+Zion Train - Homegrown Fantasy (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/d7f10f30-50ae-402e-a50f-af7c3c6b6e57/4596446793-500.jpg" data-tags="dub" role="button">
 Massive Attack - No Protection (1995-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/536470f1-1f45-4033-aca8-a4c0bda277cc/4480718201-500.jpg" data-tags="dub" role="button">
-Massive Attack vs. Mad Professor - No Protection (1995-02-17)
 </li>
 <li data-cover="https://img.discogs.com/ZxOyV_5ITeXdUQrDn0IWjAIKljA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54444-1494833577-4517.jpeg.jpg" data-tags="dub" role="button">
 Rockers Hi-Fi - Mish Mash (1996)
@@ -168,6 +171,9 @@ Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/a4ba40f9-a0f5-4684-b0d1-c5be37a6ed0f/8355576251-500.jpg" data-tags="ambient, dub" role="button">
 Sounds from the Ground - Luminal (2004-10-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dub, kiwi" role="button">
+KORA - Ep Volume (2004-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
@@ -185,9 +191,6 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/87f822d6-602c-3e33-9e62-024eacfcf60c/28709837363-500.jpg" data-tags="reggae, matisyahu" role="button">
-Matisyahu - Live at Stubb's (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
@@ -213,6 +216,9 @@ Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
 <li data-cover="https://img.discogs.com/lguPJnH5Khsos0mzOgWcCCf7UKU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648501-1445894176-6010.jpeg.jpg" data-tags="chill, reggae, dub, drinking, summer music, good to smoke to" role="button">
 Rebelution - Rebelution (2006-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/86fdaaa0-09db-480c-ad77-7b2a58aed2be/14746157740-500.jpg" data-tags="rock, experimental, dub" role="button">
+Dub Trio - New Heavy (2006-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/a009ef70-3519-48b0-8be0-114500776954/5632979580-500.jpg" data-tags="reggae, dub, new zealand, newzealand" role="button">
 The Black Seeds - Into the Dojo (2006-07-13)
 </li>
@@ -221,6 +227,9 @@ Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/641d19c1-d601-4f84-a1a3-8fe9c4caa807/1094292025-500.jpg" data-tags="dubstep" role="button">
 Kode9 & The Spaceape - Memories of the Future (2006-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/f33e4eed-270b-3e51-8f04-d9c1eba4a8e6/7984535080-500.jpg" data-tags="punk rock, punk" role="button">
+The Clash - The Singles (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3361f7a7-1319-4b1f-8168-c1a358e7c65c/4511988555-500.jpg" data-tags="hip-hop, electronica, dub, left-field hip-hop, downbeat, hibbedi hop" role="button">
 DJ Vadim - The SoundCatcher (2007-04-02)
@@ -251,9 +260,6 @@ Ikonika - Please / Simulacrum (2008-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f68d456e-118a-4d6a-9df3-a48a327bfbd8/15764470897-500.jpg" data-tags="experimental, dub, psychedelic, psychedelia, 00s, tropical, neo-psychedelia, stoned, hazy, tropical drone, tropical break" role="button">
 Sun Araw - Beach Head (2008-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd6d719b-10ca-4092-bde1-0ba2b3428b45/23912438078-500.jpg" data-tags="electronic, soul, alternative, new wave, 00s" role="button">
-Grace Jones - Hurricane (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b2c662-c92d-4a98-98d3-bdd4527bfdc4/5372404333-500.jpg" data-tags="dub" role="button">
 Forfun - Polisenso (2008-11-15)
@@ -306,17 +312,11 @@ King Krule - King Krule (2011-11-08)
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfdfb309-1a97-4436-8029-4bce887447f7/1492502467-500.jpg" data-tags="experimental, abstract hip hop" role="button">
-Aesop Rock - Skelethon (2012-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/9908e1ef-2ec0-40c7-baeb-68c1754441db/22886156272-500.jpg" data-tags="dub, house, electro house" role="button">
 OVERWERK - After Hours (2012-11-28)
 </li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/d75eeba0-03d7-4d04-8913-6473464f3fa3/5242134093-500.jpg" data-tags="hip-hop, rap, dub, brazil, eletronic" role="button">
-Karol Conka - Batuk Freak (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62626e7f-a10e-409c-a4fc-36deaf4f5a13/5750409674-500.jpg" data-tags="dub" role="button">
 Fat Freddy's Drop - Blackbird (2013-06-24)

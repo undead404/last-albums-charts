@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:00:01.501Z
+date: 2021-04-11T23:09:01.410Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -32,9 +32,6 @@ The Cure - Seventeen Seconds (1980-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3acddd36-87e5-3564-a424-a79f6184ce3a/13485029013-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Kaleidoscope (1980-08-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
-New Order - Movement (1981-11-13)
 </li>
 <li data-cover="https://img.discogs.com/21L8upSOvyjopNZJBhNHyZ4plhM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-687536-1293969695.jpeg.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - A Kiss in the Dreamhouse (1982-11-05)
@@ -222,6 +219,9 @@ Evanescence - Anywhere but Home (2004-11-22)
 <li data-cover="http://coverartarchive.org/release/3435325a-c915-4028-a09c-a23b2f8556f2/2124103880-500.jpg" data-tags="folk metal, gothic metal" role="button">
 Midnattsol - Where Twilight Dwells (2005-01-31)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
+Nine Inch Nails - The Hand That Feeds (2005-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
 Gothminister - Empire of Dark Salvation (2005-04-04)
 </li>
@@ -261,6 +261,9 @@ Oomph! - Delikatessen (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/3fea24e2-1fa9-43e8-ac8c-e364040cd341/8710607480-500.jpg" data-tags="rock, gothic" role="button">
 Evanescence - Lithium (2006-12-15)
 </li>
+<li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
+Tristania - Illumination (2007-01-19)
+</li>
 <li data-cover="https://img.discogs.com/59ui5Dl6FzjJoeLk6e_EbyYmNWQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353221-1452775343-7648.jpeg.jpg" data-tags="symphonic metal" role="button">
 Xandria - Salomé - The Seventh Veil (2007-05-25)
 </li>
@@ -272,9 +275,6 @@ The Birthday Massacre - Walking With Strangers (2007-09-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, cello metal" role="button">
 Apocalyptica - Worlds Collide (2007-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Dark Passion Play (2007-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/93fadf79-9124-4d0c-8405-259659c68633/9389409640-500.jpg" data-tags="gothic, darkwave" role="button">
 Leandra - Metamorphine (2008-02-22)

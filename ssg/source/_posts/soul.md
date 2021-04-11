@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:39:01.422Z
+date: 2021-04-11T23:16:06.908Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -84,6 +84,9 @@ Whitney Houston - Whitney Houston (1985-02-14)
 <li data-cover="http://coverartarchive.org/release/ae5efacd-f75f-432a-9f22-b35d3169d21f/8121279988-500.jpg" data-tags="pop" role="button">
 Michael Jackson - Dangerous (1991-11-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/b9292155-fe7f-3a40-9673-b0fd0355b325/11536129575-500.jpg" data-tags="soul" role="button">
+Otis Redding - The Very Best of Otis Redding (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
 Sade - Love Deluxe (1992-10-23)
 </li>
@@ -137,9 +140,6 @@ Beyoncé - Dangerously in Love (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/187e5a40-e083-43d6-bdc3-d472a35622e5/5112992648-500.jpg" data-tags="jazz, soul" role="button">
-Amy Winehouse - Frank (2003-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)

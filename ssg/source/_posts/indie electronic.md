@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:16:01.416Z
+date: 2021-04-11T22:52:01.400Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -30,17 +30,23 @@ Stereolab - Mars Audiac Quintet (1994-08-09)
 <li data-cover="http://coverartarchive.org/release/2f68e937-aa99-4dbd-9058-7223174cc5cd/25949943921-500.jpg" data-tags="electronic, idm, electronica" role="button">
 Mouse on Mars - Iaora Tahiti (1995-10-03)
 </li>
+<li data-cover="https://img.discogs.com/JA4SdsJtLzfSlKivcoHCQW26578=/fit-in/250x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471979-1118547113.jpg.jpg" data-tags="indie pop" role="button">
+Club 8 - Nouvelle (1996)
+</li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2b638924-490b-48ec-959f-d3474b2ee506/23720075021-500.jpg" data-tags="electropop, indie electronic, male vocalists" role="button">
+Raz Ohara - Realtime Voyeur (1999-10-30)
+</li>
+<li data-cover="https://img.discogs.com/wji7bIBeIlJfkHQ9xrFzxMUwUBk=/fit-in/297x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38162-1160307199.jpeg.jpg" data-tags="electronica, indie electronic" role="button">
+Mouse on Mars - Distroia (1999-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cb184a4-5d5a-4c4b-8df9-ef9bb701bc54/5833889314-500.jpg" data-tags="ambient" role="button">
 Aarktica - No Solace in Sleep (2000)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
-</li>
-<li data-cover="https://img.discogs.com/YukToAJSBIE30InrvrBYQaB3zMU=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5463-1499104881-1939.jpeg.jpg" data-tags="chillout" role="button">
-Lemon Jelly - lemonjelly.ky (2000-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
@@ -66,17 +72,11 @@ The Postal Service - Give Up (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/b33525f8-6366-4154-9c69-e1b2dbacf318/8475529903-500.jpg" data-tags="electronic" role="button">
 Styrofoam - I'm What's There To Show That Something's Missing (2003-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5d8a71-ef7b-4115-a686-318638aec5c2/6848655594-500.jpg" data-tags="indie, rock, alternative, ween" role="button">
-Ween - Quebec (2003-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
 </li>
 <li data-cover="https://img.discogs.com/pWR5red6KiRm4n6SOdMh6mOySIM=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-252667-1597703699-7756.jpeg.jpg" data-tags="electronica, indietronica" role="button">
 Lali Puna - Faking The Books (2004-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/05bc47ec-eaa8-3e1b-b705-07070f86f1ca/12340474874-500.jpg" data-tags="00s" role="button">
-The Beta Band - Heroes To Zeros (2004-04-26)
 </li>
 <li data-cover="https://img.discogs.com/qYVNPT6InC9DjaEzmRpz5TZl2cM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-267028-1320696359.jpeg.jpg" data-tags="indie electronic" role="button">
 Broken Spindles - Fulfilled/Complete (2004-05-04)
@@ -95,6 +95,12 @@ Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f48e83a5-6bb5-41d2-9b24-a3235d096bb2/11296608988-500.jpg" data-tags="electronic, alternative, indie pop, indie electronic, new zealand, new zealander, mistletone, bachelorette, annabel alpers, aquariusrecords" role="button">
 Bachelorette - Isolation Loops (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/e040f3bb-5c0d-4533-8e1d-16ba5fb22547/16468189632-500.jpg" data-tags="canadian, electronic" role="button">
+Shout Out Out Out Out - Not Saying/Just Saying (2006-07-25)
+</li>
+<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
+Project Divinity - Divinity (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7653a-288a-48fd-a404-3f86cbaf67d7/28537486031-500.jpg" data-tags="indie electronic, svenskt, scandinavian, svenskprov, foreign rock, labrador:listened" role="button">
 [ingenting] - Mycket Väsen För Ingenting (2006-10-18)
@@ -134,6 +140,9 @@ Magic Man - Real Life Color (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9780c05d-7a75-45a5-9810-6c07f5f57609/18208181632-500.jpg" data-tags="electronica, soul, indie electronic, downtempo, 00s, neo soul, neo-soul, keepers of soul, damn this is art, alternative r and b, danish group" role="button">
 Quadron - Quadron (2010-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/31921c91-8fe7-4470-bce4-e1fb02f2e48d/3375554056-500.jpg" data-tags="electronic, indie, indie electronic, germany, german, electropunk, 2010s" role="button">
+Bratze - Korrektur Nach Unten & Die Notwendigkeit einer Übersetzung (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3be7f1d-883f-4296-a3fa-a8b07cb7d4ea/3942398482-500.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - This Is Happening (2010-05-12)
@@ -180,9 +189,6 @@ Nicola Roberts - Cinderella's Eyes (2011-06-26)
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
-</li>
 <li data-cover="https://img.discogs.com/GozW49NBtRGHP72sChmrFA69m7M=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309857-1170001126.jpeg.jpg" data-tags="electronic, ambient" role="button">
 Apparat - The Devil's Walk (2011-09-26)
 </li>
@@ -204,14 +210,14 @@ Kindness - World, You Need a Change of Mind (2012-03-19)
 <li data-cover="https://img.discogs.com/tzJlIpGVxhIcpGhV7ir0n0BXhh0=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578248-1335993570.jpeg.jpg" data-tags="indie pop" role="button">
 Electric Guest - Mondo (2012-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
-Laurel Halo - Quarantine (2012-05-21)
-</li>
 <li data-cover="https://img.discogs.com/ZPHFFLltwEgfXcWsdW2_6o6ThfU=/fit-in/500x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801441-1344973245-9440.jpeg.jpg" data-tags="indie electronic, new age, epic album covers" role="button">
 d'Eon - LP (2012-06-05)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/04286ab7-13fd-4369-a076-26ced7bba950/2520432669-500.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, indie electronic, post-rock, psychedelic, psychedelic rock, netlabel, creative commons, 23 seconds" role="button">
+Azoora - A Thousand Ways EP (2012-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/27c7b78d-d741-4a12-9abf-0843201cb316/5969821791-500.jpg" data-tags="instrumental, indie electronic, idm, french house, electro funk, indie electro, post-dubstep" role="button">
 Uppermost - Control (2012-12-17)
@@ -288,9 +294,6 @@ Glasser - Interiors (2013-09-07)
 <li data-cover="http://coverartarchive.org/release/4a9c0ff3-5456-4236-97cd-889854c4b873/6328805588-500.jpg" data-tags="electronic" role="button">
 Banks - London (2013-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/ccbd1b4f-c6bb-48a8-9574-e5989a29610b/14111686814-500.jpg" data-tags="noise pop" role="button">
 Sleigh Bells - Bitter Rivals (2013-10-08)
 </li>
@@ -308,9 +311,6 @@ How to Dress Well - "What Is This Heart?" (2014-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/533573b9-9f3c-400f-be2d-ac11a94fb02a/7919834586-500.jpg" data-tags="pop" role="button">
 Troye Sivan - TRXYE (2014-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b0432e3-53c6-4410-88af-e29fc863ed4a/7963468959-500.jpg" data-tags="synthpop, electronic" role="button">
-iamamiwhoami - BLUE (2014-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
 Foxes in Fiction - Ontario Gothic (2014-09-23)

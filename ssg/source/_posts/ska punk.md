@@ -1,10 +1,9 @@
 ---
-date: 2021-04-11T08:16:06.905Z
+date: 2021-04-11T22:59:01.394Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
-![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
+![Streetlight Manifesto - Everything Goes Numb (2003-08-26)](http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg "Streetlight Manifesto - Everything Goes Numb (2003-08-26)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/20b3efeb-255a-3fde-8275-401bcf506489/3947787054-500.jpg" data-tags="punk" role="button">Rancid - ...And Out Come the Wolves (1995-08-21)</li>
 <li data-cover="https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg" data-tags="90s, ska, rock" role="button">No Doubt - Tragic Kingdom (1995-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/c7c20200-53d7-49a0-9133-4259b442ff72/7695999165-500.jpg" data-tags="ska, ska punk" role="button">Reel Big Fish - Turn the Radio Off (1996-08-13)</li>
@@ -14,6 +13,7 @@ title: "ska punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">Streetlight Manifesto - Everything Goes Numb (2003-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/275b722f-d7f9-40ea-be38-286414febeb6/3942871458-500.jpg" data-tags="ska punk" role="button">Streetlight Manifesto - Keasbey Nights (2006-03-07)</li>
+<li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">Streetlight Manifesto - Somewhere In The Between (2007-11-13)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -50,9 +50,6 @@ Ska-P - SKA-P (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
-</li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
-Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64eb5cf-ec72-3cf7-b3a7-d663583f40b7/4867481081-500.jpg" data-tags="ska" role="button">
 No Doubt - The Beacon Street Collection (1995-03)
@@ -147,9 +144,6 @@ Smash Mouth - Astro Lounge (1999-06-08)
 <li data-cover="http://coverartarchive.org/release/069aa548-b883-462b-ab0e-4ebd0a3faede/8760204187-500.jpg" data-tags="punk, ska punk, ska" role="button">
 Big D And The Kids Table - Good Luck (2000-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/697a3456-745a-4286-b55e-1cfe2dc1f045/1759329939-500.jpg" data-tags="ska punk" role="button">
-Goldfinger - Stomping Ground (2000-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/babc0460-f5b0-47e9-abae-0b9df6b87deb/14791398017-500.jpg" data-tags="rock, ska" role="button">
 No Doubt - Return of Saturn (2000-04-05)
 </li>
@@ -162,14 +156,20 @@ Zebrahead - Playmate of the Year (2000-08-02)
 <li data-cover="http://coverartarchive.org/release/afd09c19-87f1-368e-8e9a-738186154f7f/25137146393-500.jpg" data-tags="ska punk, ska" role="button">
 Ska-P - Planeta Eskoria (2000-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae8739a0-209c-4ff9-bc8d-867b82b2ee34/7294941251-500.jpg" data-tags="ska punk" role="button">
-Catch 22 - Alone In a Crowd (2000-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d478195-58ba-3d18-a4db-61a7a84813e1/2279759228-500.jpg" data-tags="ska punk" role="button">
 Less Than Jake - Borders & Boundaries (2000-10-24)
 </li>
+<li data-cover="https://img.discogs.com/-B27AxUHFKt-Hi_gEB_EG164a60=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1693745-1350676528-8521.jpeg.jpg" data-tags="alternative, hardcore, ska punk, nerd rock, geek rock, dumb-pop-song" role="button">
+Lucky Boys Confusion - Throwing the Game (2001-05-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/a28c17e5-c040-4486-91dc-b3c5817186c5/1093160312-500.jpg" data-tags="ska punk" role="button">
+Suburban Legends - Suburban Legends (2001-06)
+</li>
 <li data-cover="https://img.discogs.com/WSwqNu9ppMi2xzXcuAgugV3sPKg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052646-1226812258.jpeg.jpg" data-tags="ska punk" role="button">
 Capdown - Pound For The Sound (2001-09-10)
+</li>
+<li data-cover="https://img.discogs.com/uKyNcE7mDJ5X0iFxjdzRy9u6jTY=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4093319-1355004419-8163.jpeg.jpg" data-tags="ska punk" role="button">
+Less Than Jake - Goodbye Blue & White (2002)
 </li>
 <li data-cover="https://img.discogs.com/yXqu2Oa8ZPJtoxM9QzB-3pZLh-g=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512436-1289033350.jpeg.jpg" data-tags="punk rock, pop punk, ska punk" role="button">
 Goldfinger - Open Your Eyes (2002)
@@ -255,9 +255,6 @@ Less Than Jake - In with the Out Crowd (2006-05-22)
 <li data-cover="http://coverartarchive.org/release/41493b9e-4e4d-45fc-a755-f3b8354608f5/4734814573-500.jpg" data-tags="ska punk" role="button">
 Bomb the Music Industry! - Goodbye Cool World (2006-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/47fc9d3a-c6f9-43d4-80ab-b3448fb5460b/15535168668-500.jpg" data-tags="rock, ska, ska punk" role="button">
-Catch 22 - Permanent Revolution (2006-06-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)
 </li>
@@ -269,6 +266,9 @@ Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc069691-57c9-4d37-9551-d044e8f1cddc/7732910983-500.jpg" data-tags="punk, ska, ska punk" role="button">
+Sonic Boom Six - Arcade Perfect (2007-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">
 Streetlight Manifesto - Somewhere In The Between (2007-11-13)

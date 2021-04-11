@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:57:01.584Z
+date: 2021-04-11T23:35:01.410Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -183,9 +183,6 @@ Escape the Fate - There's No Sympathy For The Dead (2006-05-23)
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/006eeb56-6f1d-4950-af5f-31d5428bd594/15423019229-500.jpg" data-tags="metal, metalcore, emo" role="button">
-Bullet for My Valentine - Tears Don't Fall (2006-06-23)
-</li>
 <li data-cover="https://img.discogs.com/9mNRDBfMxg-ccMi1IvZEIqyzFJs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709392-1566235854-9761.jpeg.jpg" data-tags="metalcore, hardcore, screamo, emocore" role="button">
 Across Five Aprils - Collapse (2006-07-11)
 </li>
@@ -239,6 +236,9 @@ Chiodos - Bone Palace Ballet (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4b4ed17-323e-4104-a850-d0fab83a6c6f/1631198569-500.jpg" data-tags="emocore" role="button">
 Taking Back Sunday - Notes From The Past (2007-10-30)
+</li>
+<li data-cover="https://img.discogs.com/cdxwuckJvWPMJFdQh9_JKFoWWzM=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6880459-1428621626-4630.jpeg.jpg" data-tags="post-hardcore" role="button">
+In Fear and Faith - Voyage (2007-12-18)
 </li>
 <li data-cover="https://img.discogs.com/1PvyKtZ-ooTwaD0TkN-cxj5VoGE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650727-1533415894-4992.jpeg.jpg" data-tags="post-hardcore, screamo" role="button">
 Eyes Set to Kill - Reach (2008-02-19)

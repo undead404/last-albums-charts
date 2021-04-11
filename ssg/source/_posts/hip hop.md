@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:29:01.425Z
+date: 2021-04-11T23:40:01.415Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -62,6 +62,9 @@ Fugees - The Score (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
+</li>
+<li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
+OutKast - ATLiens (1996-08-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip hop" role="button">
 The Roots - Illadelph Halflife (1996-09-24)
@@ -195,6 +198,9 @@ Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
 <li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
+Shwayze - Shwayze (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/62147d7a-6270-42a8-b92e-3580ff18685f/24502383678-500.jpg" data-tags="rap" role="button">
 T.I. - Paper Trail (2008-09-29)
 </li>
@@ -240,9 +246,6 @@ Drake - Thank Me Later (2010-06-14)
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb03333a-e805-44c2-85a3-0b77fa920871/1198344598-500.jpg" data-tags="hip hop" role="button">
-Kanye West - POWER (2010-07-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/ba4f9bef-af39-4627-ad5a-6452597781d4/14912913412-500.jpg" data-tags="hip hop, r&b, jeremih" role="button">
 Jeremih - All About You (2010-09-28)
 </li>
@@ -279,9 +282,6 @@ The Roots - Undun (2011-12-05)
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f13d918-249a-45d7-987e-8f15099d0432/3905116455-500.jpg" data-tags="hip hop, danny brown, cartoon album covers" role="button">
-Danny Brown - Grown Up (2012-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
 </li>
@@ -294,14 +294,14 @@ Drake - Nothing Was the Same (2013-01-01)
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
 Tyler, the Creator - Wolf (2013-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ddd2084-2f0a-432d-a5ed-f14ad151ea87/3912567094-500.jpg" data-tags="electronica, hip hop, dance pop, hip house, electronic dance" role="button">
-will.i.am - #willpower (2013-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
 Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/cce11ff7-7a5b-4a0b-b415-fa55e2cfca00/5976610444-500.jpg" data-tags="hip-hop" role="button">
+Earl Sweatshirt - Doris (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)

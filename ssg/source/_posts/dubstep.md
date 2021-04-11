@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:42:01.419Z
+date: 2021-04-11T22:58:01.403Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -32,6 +32,9 @@ Skream - Skream! (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/adcf7b48-086e-48ee-b420-1001f88d672f/8094882507-500.jpg" data-tags="dubstep" role="button">
 Distance - My Demons (2007-01-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+MRK1 - Copyright Laws (2007-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
@@ -188,9 +191,6 @@ Kreayshawn - Gucci Gucci (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0133c379-4f50-4285-83a2-bd8d712f18cc/18461172656-500.jpg" data-tags="dubstep" role="button">
 Zomboy - Game Time EP (2011-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e475853-f759-471f-a22c-1b26ec92742c/28278057526-500.jpg" data-tags="dubstep, breaks, one eye sign" role="button">
-Bassnectar - Divergent Spectrum (2011-08-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Nero - Promises (2011-08-05)

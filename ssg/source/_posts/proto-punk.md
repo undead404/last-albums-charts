@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:37:01.610Z
+date: 2021-04-11T23:27:01.409Z
 title: "proto-punk: 100 albums you must listen to before you die"
 ---
 ![The Velvet Underground - White Light&#x2F;White Heat (1968-01-30)](http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg "The Velvet Underground - White Light/White Heat (1968-01-30)")
@@ -54,6 +54,9 @@ The Yardbirds - Little Games (1967)
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
+<li data-cover="https://img.discogs.com/WzW1_tdy7BBOh1zYOUE_zGoIRFk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1252532-1473857165-5359.jpeg.jpg" data-tags="dutch, 60s, garage" role="button">
+The Outsiders - CQ (1968)
+</li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
 </li>
@@ -62,9 +65,6 @@ The Pretty Things - S.F. Sorrow (1968-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/22f5e15f-7214-4caf-a6ce-9f6e0188a817/17000877457-500.jpg" data-tags="garage rock" role="button">
 MC5 - Kick Out the Jams (1969)
-</li>
-<li data-cover="https://img.discogs.com/IQORfLRGbH2Nj1eP3iQGZ390c9M=/fit-in/349x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552715-1368171911-9252.jpeg.jpg" data-tags="classic rock, power pop, garage rock, fancy album covers, cartoon album covers" role="button">
-Flamin' Groovies - Supersnazz (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9a315a8-0195-3361-bdd4-897cda5fc1a6/9259341378-500.jpg" data-tags="psychedelic rock, hard rock, classic rock, rock" role="button">
 Alice Cooper - Pretties for You (1969-06)

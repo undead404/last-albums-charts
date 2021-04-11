@@ -1,11 +1,10 @@
 ---
-date: 2021-04-11T18:01:06.936Z
+date: 2021-04-11T23:45:01.677Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
@@ -14,6 +13,7 @@ title: "neo-psychedelia: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">Tame Impala - Innerspeaker (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">Tame Impala - Lonerism (2012-10-05)</li>
+<li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">Darkside - Psychic (2013-09-29)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -60,6 +60,9 @@ The Brian Jonestown Massacre - Take It From the Man! (1996-06-10)
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
+<li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
+Super Furry Animals - Radiator (1997-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
@@ -81,9 +84,6 @@ The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
-The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/bba2f329-e4c3-3410-bffd-5172f2aae8f8/23645786082-500.jpg" data-tags="indie" role="button">
 The Coral - The Coral (2002-07-29)
 </li>
@@ -101,9 +101,6 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
@@ -272,6 +269,9 @@ Beady Eye - BE (2013-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="https://img.discogs.com/RWsLe0S0gkJDpk2JpSNNvDhxjeQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4743022-1374496453-8092.jpeg.jpg" data-tags="electronic" role="button">
+Fuck Buttons - Slow Focus (2013-07-21)
 </li>
 <li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)

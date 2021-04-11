@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:20:01.489Z
+date: 2021-04-11T23:21:01.934Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -83,6 +83,9 @@ Jesse McCartney - Beautiful Soul (2004-08-12)
 </li>
 <li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Unwritten (2004-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/27d2ccc7-c263-498b-9f05-ad6c511829b9/21658064503-500.jpg" data-tags="pop" role="button">
+Britney Spears - Greatest Hits: My Prerogative (2004-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
@@ -195,6 +198,9 @@ Britney Spears - Circus (2008-11-28)
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
+<li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
+Kelly Clarkson - All I Ever Wanted (2009-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -231,17 +237,11 @@ John Mayer - Battle Studies (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
-Ke$ha - Animal (2010-01-01)
-</li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)
-</li>
-<li data-cover="https://img.discogs.com/4uqPV9kYgCYA3Uzp-9M3RoXIzM4=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747406-1311765286.jpeg.jpg" data-tags="pop, miley cyrus" role="button">
-Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">
 Katy Perry - Teenage Dream (2010-08-24)
@@ -270,9 +270,6 @@ Lady Gaga - Born This Way (2011-05-20)
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
-Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
@@ -287,6 +284,9 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
+Maroon 5 - Overexposed (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/743972ad-fd14-4588-9acc-d4660410c9b9/8033030587-500.jpg" data-tags="pop, pop rock" role="button">
 P!nk - The Truth About Love (2012-09-14)

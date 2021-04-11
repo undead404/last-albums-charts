@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:28:01.443Z
+date: 2021-04-11T22:57:12.580Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -27,14 +27,14 @@ Norma Tanega - Walkin' My Cat Named Dog (1966)
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/64607f8d-3cc8-4131-a748-528a1b9e28d1/23355709748-500.jpg" data-tags="female, jazz, jazz vocal, bossa nova, lovely, tag, marvelous, boobs, shady, sabrina, delightful, carl, grady, nipples, vaginal, jacked, i would like to spend an afternoon rubbing her breasts with warm mineral oil, shady grady, 1000 albums to hear before you die, beautiful land of tits, quiero su disco, sabrina-sabrina, vagina and breasts, feminine cavern of love, boneriffic, beneficial, carlos seramos, seramos, related tags, clsid not unique, 00c04fd7d062, 9e56be61-c50f-11cf-9a2c-00a0c90a90ce, 9e56be61, c50f, 11cf, 9a2c, 00a0c90a90ce, 888dca60-fc0a-11cf-8f0f-00c04fd7d062, 888dca60, fc0a, 8f0f" role="button">
+Sabrina Salerno - Sabrina (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/95091e40-8397-44af-9498-0ecd719c4c64/22503116196-500.jpg" data-tags="oldies" role="button">
 Dusty Springfield - The Silver Collection (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbab3550-2635-4f48-a459-8e29fcd48056/26741104951-500.jpg" data-tags="female vocalists, singer-songwriter, folk, acoustic" role="button">
 Tracy Chapman - Crossroads (1989-09-01)
-</li>
-<li data-cover="https://img.discogs.com/dIC2UuyCXY15a2G1ibfeO5akAq8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9475612-1495531003-9009.jpeg.jpg" data-tags="easy to listen to" role="button">
-Vera Lynn - Vera Lynn (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc3092e3-d095-4fcb-85a9-89cbef7c3c74/15352415252-500.jpg" data-tags="country" role="button">
 Mary Chapin Carpenter - Come On Come On (1992-06-30)
@@ -47,6 +47,9 @@ Jewel - Pieces of You (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/865c700d-e728-4860-b005-a88b0228ebee/20286989310-500.jpg" data-tags="folk" role="button">
+Ani DiFranco - Not a Pretty Girl (1995-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2c63797-efe3-46a0-b916-cebc93169eb1/6357010540-500.jpg" data-tags="female vocalists, blues, jazz" role="button">
 Eva Cassidy - Live at Blues Alley (1996)
@@ -87,9 +90,6 @@ Trina - Da Baddest Bitch (2000-03-21)
 <li data-cover="http://coverartarchive.org/release/da042f7f-f022-45de-9fba-70afa470ecde/10415106772-500.jpg" data-tags="female vocalists" role="button">
 Eva Cassidy - Time After Time (2000-06-20)
 </li>
-<li data-cover="https://img.discogs.com/4ht0rxs_jw_ar-d4kpid3x4IRjs=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1022385-1185056875.jpeg.jpg" data-tags="female vocalists" role="button">
-Nerina Pallot - Dear Frustrated Superstar (2001-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d78f9d84-713b-3eda-9b17-182f8f996a41/17189059909-500.jpg" data-tags="pop, folk, singer-songwriter, jewel" role="button">
 Jewel - This Way (2001-10-31)
 </li>
@@ -101,6 +101,9 @@ Azure Ray - Burn and Shiver (2002-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e57ad832-ba32-433e-ad5d-5e4d1023e9c5/21776156498-500.jpg" data-tags="heavy metal, metal, finnish, gothic metal" role="button">
 Entwine - Time of Despair (2002-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
+Aimee Mann - Lost in Space (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
 Rilo Kiley - The Execution of All Things (2002-10-01)
@@ -134,6 +137,9 @@ Lene Marlin - Another Day (2003-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/271bb7d6-533f-437b-abd9-12089c503a8d/13490355838-500.jpg" data-tags="female vocalists" role="button">
 Rachael Yamagata - EP (2003-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/11a0f328-f066-4fb2-89a5-4126ea97f951/6460014035-500.jpg" data-tags="french, female, female vocalists, french pop" role="button">
+Céline Dion - 1 fille & 4 types (2003-10-14)
 </li>
 <li data-cover="https://img.discogs.com/O5LxXdNho2lXDt3ioVMXVKH9aD8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2598767-1476194806-3076.jpeg.jpg" data-tags="female, pop, soul, american, male vocalist, 00s, beat, bubblegum, boy" role="button">
 Nick Lachey - Soulo (2003-11-11)
@@ -183,17 +189,17 @@ Eisley - Room Noises (2005-02-08)
 <li data-cover="http://coverartarchive.org/release/ad7247da-24c2-4bd3-b17f-31077f50f693/2596514590-500.jpg" data-tags="alternative, female vocalists, singer-songwriter, piano" role="button">
 Tori Amos - The Beekeeper (2005-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
-Anna Nalick - Wreck of the Day (2005-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/caef1012-f6e2-42e4-9841-4e58ede860d9/1995269799-500.jpg" data-tags="jazz" role="button">
-Julie London - The Very Best Of Julie London (2005-07-01)
-</li>
 <li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
 Hilary Duff - Most Wanted (2005-08-10)
 </li>
 <li data-cover="https://img.discogs.com/zmvB4AIt9xAyyf0aizmrnIn0zvE=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520207-1288515935.jpeg.jpg" data-tags="pop" role="button">
 Sugababes - Taller in More Ways (2005-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8def818-9c85-3cf8-b0d8-2508538be228/7222599765-500.jpg" data-tags="pop" role="button">
+Anastacia - Pieces of a Dream (2005-11-07)
+</li>
+<li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
+Girls Aloud - Chemistry (2005-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
@@ -255,9 +261,6 @@ Sia - Some People Have Real Problems (2008-01-08)
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
-Lizz Wright - The Orchard (2008-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
@@ -317,8 +320,5 @@ HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e8a7b0-c5db-4c69-9414-382ffd198cf3/11258587448-500.jpg" data-tags="indie, british, folk" role="button">
 Birdy - Fire Within (2013-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, visual, sweet, lost, woman, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">
-Kina Grannis - Elements (2014-05-06)
 </li>
 </ol>
