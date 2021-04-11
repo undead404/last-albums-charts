@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:43:01.413Z
+date: 2021-04-11T12:51:01.421Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -47,6 +47,9 @@ Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
+Digable Planets - Blowout Comb (1994-10-05)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
@@ -105,9 +108,6 @@ Common - Like Water for Chocolate (2000-03-28)
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4a951a6-27a1-4e4e-8a1b-ce96ae351586/8353395863-500.jpg" data-tags="hip hop" role="button">
-Quasimoto - The Unseen (2000-06-13)
-</li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
@@ -134,6 +134,9 @@ Black Eyed Peas - Elephunk (2003-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+Beastie Boys - To the 5 Boroughs (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Roots - The Tipping Point (2004-07-12)
@@ -224,9 +227,6 @@ Timbaland - Shock Value II (2009-12-04)
 </li>
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
-</li>
-<li data-cover="https://img.discogs.com/kjpz35exKVtaa_Luhqkdro-Cxic=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4060434-1515117342-2615.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
-Sam Adams - Boston's Boy (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)

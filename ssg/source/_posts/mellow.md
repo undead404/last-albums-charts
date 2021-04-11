@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:59:01.421Z
+date: 2021-04-11T13:03:01.414Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -36,6 +36,9 @@ Mariah Carey - Music Box (1993-08-31)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
+<li data-cover="https://img.discogs.com/J9PaS66DH_mf4VEHW4OG-d55ijQ=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1368472-1213497399.jpeg.jpg" data-tags="pop, soul, 90s" role="button">
+Seal - Seal (1994-05-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/af4c39d7-2682-4190-ad19-0e53a2cbcde1/20982255789-500.jpg" data-tags="mellow, pop" role="button">
 Lighthouse Family - Ocean Drive (1996-02)
 </li>
@@ -50,6 +53,9 @@ Modest Mouse - The Lonesome Crowded West (1997-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
+The Cardigans - Gran Turismo (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">
 Beck - Mutations (1998-11-02)
@@ -93,9 +99,6 @@ Travis - The Invisible Band (2001-06-10)
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
-Sondre Lerche - Faces Down (2001-09-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
@@ -138,6 +141,9 @@ Rocky Votolato - Suicide Medicine (2003-09-16)
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
+Howie Day - Stop All The World Now (2003-10-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
 </li>
@@ -149,9 +155,6 @@ Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">
-Pedro the Lion - Achilles Heel (2004-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
@@ -263,9 +266,6 @@ Jesse McCartney - Departure (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e7f1846-7df8-3268-a5cd-d8b85e3c38a2/19782779310-500.jpg" data-tags="indie, alternative" role="button">
-Chad VanGaalen - Soft Airplane (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)

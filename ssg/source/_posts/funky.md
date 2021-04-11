@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:02:01.411Z
+date: 2021-04-11T13:11:01.426Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Gossip - Heavy Cross (2009-06-05)](http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg "Gossip - Heavy Cross (2009-06-05)")
@@ -54,6 +54,9 @@ Red Hot Chili Peppers - What Hits!? (1992-09-29)
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
 Incubus - Fungus Amongus (1995-11-01)
 </li>
@@ -72,8 +75,14 @@ Incubus - S.C.I.E.N.C.E. (1997-09-09)
 <li data-cover="https://img.discogs.com/M8dBJZvAEjgiN5w1IXdlph-3r0Y=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3334536-1326229632.jpeg.jpg" data-tags="jazz" role="button">
 John Scofield - A Go Go (1998-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/2326205e-b0fb-4378-9370-d98b1ee974cd/8647106408-500.jpg" data-tags="female vocalists, r00ts, t4lk1n l0ud" role="button">
+Urban Species - Blanket (1998-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
+</li>
+<li data-cover="https://img.discogs.com/JnsXDOGjQMxGMtrrZ92e094AK3c=/fit-in/320x213/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611146-1413216205-4588.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jamiroquai, jecks, r00ts, nice2have" role="button">
+Jamiroquai - Canned Heat (1999-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
 Blackalicious - A2G EP (1999-10-26)
@@ -92,9 +101,6 @@ Dilated Peoples - Expansion Team (2001-10-11)
 </li>
 <li data-cover="https://img.discogs.com/8cmTU-QuN5GMSuDjNX65BCwMSgM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9638095-1484019100-8094.jpeg.jpg" data-tags="jazz, rock, funk, funky, groovy, rhythm and blues, jecks, louis armstrong, larmstrong, l armstrong" role="button">
 Louis Armstrong - C'est Si Bon (2001-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
-Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
@@ -143,9 +149,6 @@ Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e127853e-861e-4e16-a952-807d6e47833f/1743532111-500.jpg" data-tags="electronic, dance" role="button">
 Basement Jaxx - The Singles (2005-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/2dee8131-bc71-4174-a57a-4a4292b8dfa3/15473808709-500.jpg" data-tags="00s" role="button">
-Better Than Ezra - Before The Robots (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
@@ -203,9 +206,6 @@ Trey Songz - Trey Day (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
 Mario - Go (2007-12-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e883ea3-d5f7-4854-80a2-8b6811e594cd/22248133603-500.jpg" data-tags="rock, funk, noise pop, funky, groovy, trip, jecks, noise-fi, in queue no tracks" role="button">
-Wavves - Wavves (2007-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">
 Kelly Rowland - Work (2008-02-26)

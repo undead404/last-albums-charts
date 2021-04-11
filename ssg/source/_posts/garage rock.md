@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:15:01.684Z
+date: 2021-04-11T13:20:01.536Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -186,6 +186,9 @@ Foxboro Hot Tubs - Stop Drop and Roll!!! (2007)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
 </li>
+<li data-cover="https://img.discogs.com/m5jmkIZjnXJT3UiUlppFR-MLl1w=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1507483-1224860210.jpeg.jpg" data-tags="pop punk, alternative rock, emo" role="button">
+The Academy Is... - Santi (2007-04-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
@@ -290,9 +293,6 @@ Black Rebel Motorcycle Club - Specter At The Feast (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/90331d52-7f39-4987-a76e-48c920c20aa1/3783288411-500.jpg" data-tags="rock, garage rock" role="button">
 Wavves - Afraid Of Heights (2013-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/877221c2-a4fe-4c34-b89f-8d43adb31d80/3707477205-500.jpg" data-tags="indie, rock, indie rock, lo-fi, garage rock, psychedelic rock, san francisco, 10s, 2013 releases, castle face, rel-mnth:2013:april, got this one on vinyl, wfmu heavily played records" role="button">
-Thee Oh Sees - Floating Coffin (2013-04-16)
 </li>
 <li data-cover="https://img.discogs.com/jk1sYLoZ6SO8vcZa0Z4g_nkZ79I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4831499-1388054309-1654.jpeg.jpg" data-tags="garage rock" role="button">
 Drenge - drenge (2013-08-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:09:01.610Z
+date: 2021-04-11T13:40:01.485Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -75,9 +75,6 @@ Marvin Gaye - Midnight Love (1982)
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
-<li data-cover="https://img.discogs.com/15xkxLP4S1_usdxlx6ccsFE_DTc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1499888-1464972288-2969.jpeg.jpg" data-tags="soul, 80s" role="button">
-Sade - Diamond Life (1984-07-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
 </li>
@@ -128,6 +125,9 @@ Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
 </li>
 <li data-cover="https://img.discogs.com/BVQSqwGvZqrlONoIw9PsAxZYP78=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963273-1280519042.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)

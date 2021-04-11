@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:06:01.418Z
+date: 2021-04-11T12:55:01.411Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -27,6 +27,9 @@ Little Feat - Dixie Chicken (1973-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, funk, 70s, disco" role="button">
 Earth, Wind & Fire - I Am (1979-07-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul, sade" role="button">
+Sade - Promise (1985-11-16)
+</li>
 <li data-cover="https://img.discogs.com/7zuSQ9RF-UsNVO54eTfTabWpEnw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843108-1436420228-2593.jpeg.jpg" data-tags="new jack swing, r&b" role="button">
 Boyz II Men - Cooleyhighharmony (1991-04-30)
 </li>
@@ -48,9 +51,6 @@ Brownstone - From The Bottom Up (1994)
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">
 Montell Jordan - This Is How We Do It (1995-04-04)
 </li>
-<li data-cover="https://img.discogs.com/gvM41THChf168V9hyPfTyMNDPIY=/fit-in/221x228/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-790364-1349877866-6908.jpeg.jpg" data-tags="r&b, rnb, girl group, 90s female rnb" role="button">
-Xscape - Off The Hook (1995-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/50989c66-32db-4e87-b368-15a712783c6f/22017969148-500.jpg" data-tags="hip hop, 90s, rnb" role="button">
 Mark Morrison - Return Of The Mack (1996-03-01)
 </li>
@@ -59,9 +59,6 @@ Mariah Carey - Butterfly (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4b409e6-f5d0-48ca-bd29-1ec560b0e918/4839196885-500.jpg" data-tags="soul" role="button">
-Dru Hill - Enter The Dru (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9de19dd-bf35-4ef6-bbcd-fd9240693658/5669916745-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - The Writing's on the Wall (1999-07-26)
@@ -218,6 +215,9 @@ Beyoncé - 4 (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc5bf983-8d0f-4d3f-81de-0bed1010e6ec/4893083093-500.jpg" data-tags="rnb" role="button">
 The Weeknd - Thursday (2011-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
+Demi Lovato - Unbroken (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Take Care (2011-11-14)

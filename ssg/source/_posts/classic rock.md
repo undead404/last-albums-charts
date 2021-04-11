@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:14:01.443Z
+date: 2021-04-11T13:33:01.443Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -59,6 +59,9 @@ Cream - Disraeli Gears (1967-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2662ae2-f06b-3cdd-892f-596646c03558/4119591705-500.jpg" data-tags="psychedelic, rock, psychedelic rock, classic rock" role="button">
+The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffaf406-bc87-4633-9d99-cea7d6106bf6/2987749144-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Waiting for the Sun (1968-07)
@@ -177,6 +180,9 @@ Eagles - Hotel California (1976)
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b305835-4b56-434d-9913-df94a72b2b8f/9111517208-500.jpg" data-tags="classic rock, rock" role="button">
+Queen - A Day at the Races (1976-12-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
@@ -230,12 +236,6 @@ Dire Straits - Love Over Gold (1982-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
-</li>
-<li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">
-Queen - The Works (1984-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/88263b6a-1785-48a7-9397-851edcaed134/17787327511-500.jpg" data-tags="rock" role="button">
-Bruce Springsteen - Born in the U.S.A. (1984-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">
 Dire Straits - Brothers in Arms (1985-05-14)

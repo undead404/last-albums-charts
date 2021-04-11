@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:51:01.416Z
+date: 2021-04-11T13:45:01.689Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f4875bbd-b7f8-4df0-837c-89263f1c63e5/1150026001-500.jpg" data-tags="french" role="button">
-Édith Piaf - La vie en rose (1956)
-</li>
 <li data-cover="http://coverartarchive.org/release/ccd1cbc9-5398-4e5d-8846-694fc3acab4f/1402677391-500.jpg" data-tags="french hip-hop, french" role="button">
 MC Solaar - Qui Sème le Vent Récolte le Tempo (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/daba6a93-94d1-460a-accd-39689aa3e446/14823884549-500.jpg" data-tags="hip hop, french hip-hop, french" role="button">
+MC Solaar - Prose Combat (1994-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/138e37ff-da80-450e-9844-5a6ac0f967af/1171636325-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Anamorphosée (1995-11-01)
@@ -66,6 +66,9 @@ Tété - L'air de rien (2001)
 <li data-cover="http://coverartarchive.org/release/ef7832c2-369c-40c3-a148-527e2b59c5b6/3496279385-500.jpg" data-tags="french" role="button">
 Georges Brassens - La Mauvaise Réputation (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/f4ccbe48-b636-4b59-8fd2-06a305181e77/1171132877-500.jpg" data-tags="french, rap" role="button">
+MC Solaar - Cinquième as (2001-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
 </li>
@@ -89,6 +92,9 @@ Daft Punk - Alive 1997 (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d496e5b-3ab0-4fcb-9b79-2167342b3964/11049768874-500.jpg" data-tags="french" role="button">
 La Rue Kétanou - Y'A Des Cigales Dans La Fourmilière (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f99cd42-e202-4d50-a0d8-6cd413041b0d/12524638394-500.jpg" data-tags="french, reggae, roots reggae" role="button">
+Tiken Jah Fakoly - Françafrique (2002-02)
 </li>
 <li data-cover="https://img.discogs.com/k1jLdWdrhpUrV6LSIfwfLZOdpzU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2980471-1600858402-1449.jpeg.jpg" data-tags="french, rock" role="button">
 Dionysos - Western Sous La Neige (2002-03-05)
@@ -116,9 +122,6 @@ Sébastien Tellier - Politics (2004-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
 Air - Talkie Walkie (2004-01-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e994e100-450a-4cfe-a25f-1e3301c4f1f7/19972460839-500.jpg" data-tags="indie, indie rock" role="button">
-Electrelane - The Power Out (2004-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
@@ -230,9 +233,6 @@ Yelle - Ce Jeu (2008-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2643bef6-4d60-4d2f-89a9-ffe6c7bab7a1/2431344077-500.jpg" data-tags="electronic" role="button">
-Yuksek - Away From The Sea (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/237da257-e914-4cf7-8294-1c49b3d0d236/15794266436-500.jpg" data-tags="hip-hop, french, hip hop, rap, 00s, france, lyrical genius, loved album" role="button">
 Orelsan - Perdu d'Avance (2009-02-16)

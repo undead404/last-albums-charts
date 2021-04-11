@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:24:01.414Z
+date: 2021-04-11T13:41:01.438Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -50,9 +50,6 @@ Every Time I Die - Last Night in Town (2001-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
-</li>
-<li data-cover="https://img.discogs.com/06n6YI01Ufw9ImX6vBpAlelKLr8=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816924-1401052388-6764.jpeg.jpg" data-tags="hardcore, metalcore" role="button">
-Norma Jean - Bless the Martyr and Kiss the Child (2002-01-01)
 </li>
 <li data-cover="https://img.discogs.com/qyDf468PMSC_vBITyVfMcIVSINQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1031857-1588470996-4412.jpeg.jpg" data-tags="death metal, deathcore" role="button">
 The Red Chord - Fused Together in Revolving Doors (2002-03-19)
@@ -146,6 +143,9 @@ Ion Dissonance - Solace (2005-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2a7c5ec-9bf8-45c8-ab10-7fd6a04f90f0/21192167958-500.jpg" data-tags="metalcore, chaotic hardcore, mathcore" role="button">
 The Chariot - Unsung EP (2005-12-05)
+</li>
+<li data-cover="https://img.discogs.com/ZeRp5mTnz1FTfaXCEARMbo2tkd8=/fit-in/398x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547187-1289971364.jpeg.jpg" data-tags="mathcore" role="button">
+Me and Him Call It Us - Loss (2006-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/69ea0616-e19f-4c92-bb80-405a1c1df445/27189691829-500.jpg" data-tags="deathcore, progressive metalcore, melodic metalcore, technical metalcore" role="button">
 After the Burial - Forging A Future Self (2006-05-11)

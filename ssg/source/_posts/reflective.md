@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:42:06.994Z
+date: 2021-04-11T13:26:01.421Z
 title: "reflective: 100 albums you must listen to before you die"
 ---
 ![Dirty Projectors - Bitte Orca (2009-06-08)](http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg "Dirty Projectors - Bitte Orca (2009-06-08)")
@@ -42,9 +42,6 @@ Alice Coltrane - Ptah, the El Daoud (1970-07)
 <li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
 B.B. King - To Know You Is To Love You (1973)
 </li>
-<li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">
-Steely Dan - Countdown To Ecstasy (1973-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e15d8b8-bd80-3c0b-be2f-b66c68620435/19202703809-500.jpg" data-tags="soul" role="button">
 Gil Scott-Heron - The Revolution Will Not Be Televised (1974)
 </li>
@@ -63,6 +60,9 @@ The Jam - Setting Sons (1979-11-17)
 <li data-cover="https://img.discogs.com/0FBMxbk9PXfoiT3vkZpJZeuM6_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2636006-1390760256-1416.jpeg.jpg" data-tags="ska" role="button">
 Madness - Absolutely (1980)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c24a398-4847-30b4-a508-9c8e9350bdc5/18749214672-500.jpg" data-tags="jazz, jazz fusion" role="button">
+Weather Report - Night Passage (1980)
+</li>
 <li data-cover="https://img.discogs.com/rJcaqObehxcJXyQV0X9VeNjN6EQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8826545-1515050576-7792.jpeg.jpg" data-tags="new wave, 80s, mod" role="button">
 The Jam - Sound Affects (1980-11-28)
 </li>
@@ -72,11 +72,11 @@ Black Uhuru - Red (1981-06)
 <li data-cover="http://coverartarchive.org/release/3daaa225-b92c-340e-8a1e-2f78380e82a9/16360171548-500.jpg" data-tags="80s, rock" role="button">
 Lou Reed - The Blue Mask (1982-02)
 </li>
-<li data-cover="https://img.discogs.com/yZRTN66awEwbm3Yv9JxwCAflmZU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6801823-1426937793-2648.jpeg.jpg" data-tags="80s, druggy, college rock, new wave, dreamy, searching, reflective, passionate, literate, smooth, confident, earnest, bittersweet, complex, yearning, sophisticated, elvis costello, eccentric, mtv, refined, stylish, insular, ambitious, squeeze, steveadams fm, steveadamsfm, sweets from a stranger, the elephant ride" role="button">
-Squeeze - Sweets From A Stranger (1982-05)
-</li>
 <li data-cover="https://img.discogs.com/zXwE8GSP9kMFhwdtmJIs6BD8QMw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4724839-1457495653-1967.jpeg.jpg" data-tags="80s, rock, pop" role="button">
 Joe Jackson - Night And Day (1982-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8e5a71d-ee98-3ecf-8c54-c3a62219e157/28235817144-500.jpg" data-tags="country" role="button">
+George Strait - Does Fort Worth Ever Cross Your Mind (1984)
 </li>
 <li data-cover="https://img.discogs.com/m8orecc8erkk0IZ8cm0s5oCeW-s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136523-001.jpg.jpg" data-tags="80s, baroque pop, reflective, dream pop, mellow, hypnotic, pastoral, david sylvian, literary, flashback alternatives" role="button">
 Virginia Astley - Hope In A Darkened Heart (1986)
@@ -87,11 +87,11 @@ Lenny Kravitz - Let Love Rule (1989-07-23)
 <li data-cover="http://coverartarchive.org/release/0e272d73-ed9d-48b0-809c-8c562be52bd7/4416968015-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Gang Starr - Step In The Arena (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/8333311f-1c9a-4385-9e7a-361f72213865/4670410841-500.jpg" data-tags="jazz" role="button">
+Abbey Lincoln - The World Is Falling Down (1990)
+</li>
 <li data-cover="https://img.discogs.com/jVoHPCbHCYHJWOaJikQFuC4DHB8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11444126-1516452601-3137.jpeg.jpg" data-tags="indie" role="button">
 Teenage Fanclub - A Catholic Education (1990-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a2cf986-369c-4d12-a628-451f127f2903/24752952576-500.jpg" data-tags="indie pop" role="button">
-The Chills - Submarine Bells (1990-09-01)
 </li>
 <li data-cover="https://img.discogs.com/-3mFS6brCur3657bA_V_atyy1MQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12642908-1539190599-3671.jpeg.jpg" data-tags="vocal, traditional pop, romantic, reflective, smooth, earnest, dramatic, elegant, showtunes, crooners, sophisticated, warm, poignant, relaxation, lush, sentimental, soothing, joyous, cast recordings, show tunes, refined, theatrical, gutsy, in love, reserved, romantic evening, vocal pop, dinner ambiance, american popular song, vic damone, vic soothest veteran sings the great love song, vic veteran smooth romantic sings great love songs, vic damone sings the great love songs" role="button">
 Vic Damone - 16 Most Requested Songs (1992)

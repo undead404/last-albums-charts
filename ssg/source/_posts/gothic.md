@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:50:01.432Z
+date: 2021-04-11T12:47:01.416Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -38,9 +38,6 @@ New Order - Movement (1981-11-13)
 </li>
 <li data-cover="https://img.discogs.com/21L8upSOvyjopNZJBhNHyZ4plhM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-687536-1293969695.jpeg.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - A Kiss in the Dreamhouse (1982-11-05)
-</li>
-<li data-cover="https://img.discogs.com/FsdZUaTCserRvqdCu7vRiTgz9gQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65432-1330367361.jpeg.jpg" data-tags="classic rock, new wave, gothic, art rock" role="button">
-Nico - Camera Obscura (1985)
 </li>
 <li data-cover="https://img.discogs.com/xdXOSbOn1BsO5GqS82UohghV5M4=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2371772-1280158614.jpeg.jpg" data-tags="80s, rock" role="button">
 The Cult - Love (1985-08)
@@ -89,9 +86,6 @@ Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Angels Fall First (1997-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a49cfd9-f25c-4632-aecb-39da46da1766/10743085500-500.jpg" data-tags="gothic" role="button">
 The Crüxshadows - Telemetry of a Fallen Angel (1998)
@@ -195,6 +189,9 @@ Unheilig - Zelluloid (2004-02-16)
 <li data-cover="http://coverartarchive.org/release/3e6c226a-581f-45dc-a0c1-ef7d05cf2c07/1069072620-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - An Elixir for Existence (2004-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4611307-b518-4052-8575-5c8955a0d6dc/7361374387-500.jpg" data-tags="ambient, gothic, dark ambient, neoclassical" role="button">
+Dark Sanctuary - Les Mémoires Blessées (2004-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Lovelorn (2004-05-24)
 </li>
@@ -251,6 +248,9 @@ Poisonblack - Lust Stained Despair (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/446531b3-47a1-4caf-8815-dab5b6734dde/9819885655-500.jpg" data-tags="industrial metal" role="button">
+Oomph! - Delikatessen (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fea24e2-1fa9-43e8-ac8c-e364040cd341/8710607480-500.jpg" data-tags="rock, gothic" role="button">
 Evanescence - Lithium (2006-12-15)

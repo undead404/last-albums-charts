@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:51:01.404Z
+date: 2021-04-11T13:22:01.413Z
 title: "remix: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Reanimation (2002-07-29)](https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg "Linkin Park - Reanimation (2002-07-29)")
@@ -26,6 +26,9 @@ Phil Collins - 12"ers (1985-11-28)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s" role="button">
 Madonna - You Can Dance (1987-11-13)
+</li>
+<li data-cover="https://img.discogs.com/iLdCQkZG5vwzpyPqtY65ryDyEtY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6639405-1423664004-4584.jpeg.jpg" data-tags="electronic, remix" role="button">
+The Orb - Aubrey Mixes: The Ultraworld Excursions (1991-02-01)
 </li>
 <li data-cover="https://img.discogs.com/Vuo_o8baUuG--KeS6uau8SnBOVk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242519-1474928995-6789.jpeg.jpg" data-tags="electronic, kraftwerk" role="button">
 Kraftwerk - The Mix (1991-06-10)
@@ -83,9 +86,6 @@ Limp Bizkit - New Old Songs (2001-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b520e7a7-a8a8-468f-ae88-745cc1f62d5f/5594611081-500.jpg" data-tags="pop" role="button">
 Sophie Ellis-Bextor - Murder on the Dancefloor (2001-12-03)
-</li>
-<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="remix" role="button">
-Ian Brown - Remixes Of The Spheres (2002)
 </li>
 <li data-cover="https://img.discogs.com/PSYIyR6-V2tIoOeLuht0XeWmW44=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892451-1390417232-5195.jpeg.jpg" data-tags="trance, dance, techno, remix" role="button">
 Groove Coverage - Moonlight Shadow (2002-06-17)
@@ -210,9 +210,6 @@ Marina & the Diamonds - I Am Not A Robot (2009)
 <li data-cover="https://img.discogs.com/3C7HeuVRRlSIsN_EH5K4wyvt97o=/fit-in/500x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537433-1128951122.jpeg.jpg" data-tags="british, indie rock, alternative dance" role="button">
 Franz Ferdinand - No You Girls (2009-02)
 </li>
-<li data-cover="https://img.discogs.com/--Waz9y-p3BIi5g9nZG1egGA1iM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407281-1440370129-6345.jpeg.jpg" data-tags="electronic" role="button">
-Yeah Yeah Yeahs - Zero (2009-02-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/4d7a9a46-837d-4edb-80a5-06457ca98190/18117356933-500.jpg" data-tags="electronic, remix" role="button">
 The xx - Crystalised (2009-04-27)
 </li>
@@ -221,9 +218,6 @@ Bloc Party - Intimacy Remixed (2009-05-11)
 </li>
 <li data-cover="https://img.discogs.com/QonmnXx4ZIMp6Dty9WEIvOiVFtU=/fit-in/600x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13675524-1558796380-1877.jpeg.jpg" data-tags="00s" role="button">
 Animal Collective - Summertime Clothes (2009-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="remix" role="button">
-Fever Ray - Triangle Walks (2009-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb255c42-b7da-4829-957b-83536a955ca9/22773473185-500.jpg" data-tags="electronic, indie, alternative, remix" role="button">
 The xx - Basic Space (2009-08-02)
@@ -243,14 +237,14 @@ The xx - Islands (2009-10-26)
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="pop, female vocalists, dance, remix" role="button">
 Madonna - Revolver (2009-12-13)
 </li>
-<li data-cover="https://img.discogs.com/cKlvYNG1MhdAaIIHG5w3Gp4cHNM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2422736-1507476200-6958.jpeg.jpg" data-tags="electropop, lady gaga, gaga" role="button">
-Lady Gaga - The Remix (2010-01-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/fbf3ab79-2a43-421f-b390-44c0b591b95f/22773483593-500.jpg" data-tags="electronic, remix" role="button">
 The xx - VCR (2010-01-24)
 </li>
 <li data-cover="https://img.discogs.com/MsEixK9efXhjpH9nW98oo6V6H0s=/fit-in/505x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2130151-1265661804.jpeg.jpg" data-tags="female vocalists, remix" role="button">
 Marina & the Diamonds - Hollywood (2010-01-29)
+</li>
+<li data-cover="https://img.discogs.com/Wf-anQO2B0kfhfAHeTbG6UH8P-c=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523528-1492850697-1827.png.jpg" data-tags="pop, female vocalists, dance, remix, rnb, hot, cheryl cole, aver, c cole, cheryl cole 1" role="button">
+Cheryl Cole - Parachute (2010-03-09)
 </li>
 <li data-cover="https://img.discogs.com/TmquD8Hjhiylu6tMr8Lc-QumIHc=/fit-in/492x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2203088-1269605017.jpeg.jpg" data-tags="remix" role="button">
 Glasser - Tremel (2010-03-23)
@@ -276,11 +270,17 @@ Emancipator - Remixes (2011-06-21)
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
 </li>
+<li data-cover="https://img.discogs.com/oATjJlYbD4sj6t7To0LQ9ONgQOg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3017166-1311887055.jpeg.jpg" data-tags="remix" role="button">
+Austra - Sparkle (2011-07-26)
+</li>
 <li data-cover="https://img.discogs.com/CVq97nrgve7nZUVw1Xpz6Ljv78Q=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6461807-1556014992-2280.jpeg.jpg" data-tags="remix" role="button">
 Marina & the Diamonds - RadioActive (2011-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9123be88-f047-4156-b439-71f2e50c662e/3944851215-500.jpg" data-tags="pop, michael jackson, remix" role="button">
 Michael Jackson - Immortal (2011-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcc5c6eb-f0db-4de3-9358-e8aee17aec5b/2512832267-500.jpg" data-tags="electronic, club, remix, hollywood undead" role="button">
+Hollywood Undead - American Tragedy Redux (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/442bcd86-ef1e-49bc-8f70-79cbcbe6562d/10592439251-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Blue Jeans Remixes (2012-01-27)

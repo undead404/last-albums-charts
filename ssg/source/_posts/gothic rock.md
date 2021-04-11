@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:42:01.519Z
+date: 2021-04-11T13:32:01.420Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -77,9 +77,6 @@ Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc28a1e5-3497-4b59-9163-7bf78651a0e6/3856745463-500.jpg" data-tags="gothic rock, darkwave, dark electro" role="button">
 Агата Кристи - Чудеса (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1d33de4-4c0d-453f-a13c-b7cb26de6e59/3596831408-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Discouraged Ones (1998-04-27)
 </li>
 <li data-cover="https://img.discogs.com/k0jZTlvf2cXLRUHH9SrPiwBGokE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075260-1325031345.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
@@ -179,6 +176,9 @@ Faith and the Muse - The Burning Season (2003-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/42672f8d-4385-4780-b205-eb3c12271a62/14835663159-500.jpg" data-tags="gothic rock" role="button">
 Zeraphine - Traumaworld (2003-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8cbb769-f683-446e-8ad8-77fc2eba132b/5102448170-500.jpg" data-tags="gothic metal" role="button">
+Tiamat - Prey (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/de3bd933-36b8-49aa-8d2d-55d0a86e64a9/27340748738-500.jpg" data-tags="doom metal, gothic metal, gothic rock, love metal, entwine" role="button">
 Entwine - Dieversity (2004-03-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:40:01.407Z
+date: 2021-04-11T13:04:01.407Z
 title: "symphonic rock: 100 albums you must listen to before you die"
 ---
 ![Muse - The Resistance (2009-09-10)](http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg "Muse - The Resistance (2009-09-10)")
@@ -126,6 +126,9 @@ Manfred Mann's Earth Band - Chance (1980-10-10)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
+<li data-cover="https://img.discogs.com/_PZwGiZVmtke4cxTQw92lXJq9Ig=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538167-1294596731.jpeg.jpg" data-tags="progressive rock" role="button">
+Camel - Nude (1981-01)
+</li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
@@ -156,9 +159,6 @@ The Moody Blues - Greatest Hits (1989-11-21)
 <li data-cover="https://img.discogs.com/_HwFI-XY7QxEVZnyjrVH7Y9ybVY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1396786-1216302897.jpeg.jpg" data-tags="symphonic rock, theatrical, gothic" role="button">
 Devil Doll - Eliogabalus (1990-05)
 </li>
-<li data-cover="https://img.discogs.com/xe0XeYLBiwfHDm6WD9fBATLQnwA=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1384755-1333663929.jpeg.jpg" data-tags="symphonic punk" role="button">
-Armia - LEGENDA (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/d102e972-ca99-41db-83da-75d187f27082/14136085128-500.jpg" data-tags="avant-garde, art rock, progressive rock, symphonic rock" role="button">
 Devil Doll - Sacrilegium (1992-05)
 </li>
@@ -186,9 +186,6 @@ Mansun - Attack Of The Grey Lantern (1997-02-08)
 <li data-cover="http://coverartarchive.org/release/5c831784-fc31-3fab-a916-223cf3fcbcc7/27550646637-500.jpg" data-tags="progressive rock, rock" role="button">
 The Alan Parsons Project - The Definitive Collection (1997-07-15)
 </li>
-<li data-cover="https://img.discogs.com/gofzg8WWrEfHC3XGOdjWFnmXbh0=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5276007-1592068264-7558.jpeg.jpg" data-tags="j-rock" role="button">
-X Japan - BALLAD COLLECTION (1997-12-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/924423fe-4f58-4496-a09f-dae4da55531e/5842286791-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - The Christmas Attic (1998-10-13)
 </li>
@@ -210,8 +207,8 @@ Within Temptation - Ice Queen (2001-06)
 <li data-cover="https://img.discogs.com/fXBt_rw92I3XVDe5adY6P5yIszk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951839-1176753674.jpeg.jpg" data-tags="progressive rock" role="button">
 Yes - Magnification (2001-09-11)
 </li>
-<li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
-Spiritualized - Let It Come Down (2001-09-16)
+<li data-cover="https://img.discogs.com/CZP9hZzn-vR5vTA1oSyr7wMvmI4=/fit-in/585x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822243-1237306871.jpeg.jpg" data-tags="progressive rock, classic rock, rock, prog, epic, symphonic rock, psychedelic, art rock, progressive, psychedelic rock, symphonic prog" role="button">
+The Alan Parsons Project - Platinum & Gold Collection (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
@@ -305,6 +302,9 @@ The Rasmus - The Rasmus (2012-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3321ccf-c714-495b-8fdf-38d983db5b1c/6493623620-500.jpg" data-tags="symphonic rock, symphonic pop" role="button">
 Within Temptation - The Q-Music Sessions (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/93eda5ae-ce09-4d85-90bf-b1ce182e4bbc/15257604463-500.jpg" data-tags="symphonic metal" role="button">
+Tarja - Colours in the Dark (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd0d970d-7cd2-47f7-8839-ce02142b3c5d/5276135888-500.jpg" data-tags="metal" role="button">
 Within Temptation - Paradise (What About Us?) (2013-09-27)

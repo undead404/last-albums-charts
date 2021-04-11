@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:55:07.001Z
+date: 2021-04-11T13:16:01.416Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -33,14 +33,8 @@ Mouse on Mars - Iaora Tahiti (1995-10-03)
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/e78857c9-0115-35a7-b33f-adced588b22c/24788348542-500.jpg" data-tags="electronica" role="button">
-Fridge - Eph (1999-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/2cb184a4-5d5a-4c4b-8df9-ef9bb701bc54/5833889314-500.jpg" data-tags="ambient" role="button">
 Aarktica - No Solace in Sleep (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/93f25c75-2e29-3a88-8c67-d8c99aaeb9e9/27880195725-500.jpg" data-tags="trip-hop" role="button">
-Bowery Electric - Lushlife (2000-02-25)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
@@ -98,6 +92,9 @@ Husky Rescue - Country Falls (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
 Róisín Murphy - Ruby Blue (2005-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/f48e83a5-6bb5-41d2-9b24-a3235d096bb2/11296608988-500.jpg" data-tags="electronic, alternative, indie pop, indie electronic, new zealand, new zealander, mistletone, bachelorette, annabel alpers, aquariusrecords" role="button">
+Bachelorette - Isolation Loops (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7653a-288a-48fd-a404-3f86cbaf67d7/28537486031-500.jpg" data-tags="indie electronic, svenskt, scandinavian, svenskprov, foreign rock, labrador:listened" role="button">
 [ingenting] - Mycket Väsen För Ingenting (2006-10-18)
@@ -239,6 +236,9 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/57f801a0-d7f0-4c01-ac13-b5a469b0cfbd/3839349778-500.jpg" data-tags="indie pop, indie electronic, glitch pop, boudoircore" role="button">
 Jai Paul - Jai Paul (2013-04-13)
+</li>
+<li data-cover="https://img.discogs.com/cGAnHSJ-Ywp3BrGQAfY6RTgavFA=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4032884-1353059908-5167.jpeg.jpg" data-tags="indie electronic, chillwave" role="button">
+Hola a todo el mundo - Ultraviolet Catastrophe (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)

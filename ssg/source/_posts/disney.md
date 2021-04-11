@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:27:01.406Z
+date: 2021-04-11T13:29:01.412Z
 title: "disney: 100 albums you must listen to before you die"
 ---
 ![Selena Gomez &amp; the Scene - Kiss &amp; Tell (2009-09-29)](http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg "Selena Gomez & the Scene - Kiss & Tell (2009-09-29)")
@@ -42,9 +42,6 @@ Alan Menken - The Little Mermaid (1989-10-13)
 <li data-cover="http://coverartarchive.org/release/8a55526c-cf05-4581-af93-894d292b2ab3/8862102900-500.jpg" data-tags="soundtrack, disney" role="button">
 Bruce Broughton - The Rescuers Down Under (1991)
 </li>
-<li data-cover="https://img.discogs.com/q7n-Bqmk6WRP7YR5o3APnpivo-w=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5526732-1395717028-7715.jpeg.jpg" data-tags="lea salonga" role="button">
-Lea Salonga - Lea Salonga (1993-10-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/dee2a2cd-e43c-4959-9c72-4ec9916d2372/5383744929-500.jpg" data-tags="soundtrack, disney" role="button">
 Alan Menken - Aladdin (1993-10-27)
 </li>
@@ -54,8 +51,8 @@ Lebo M - Rhythm of the Pride Lands (1995-02-28)
 <li data-cover="http://coverartarchive.org/release/88f22aa9-1317-45a3-a5ee-d70b32b2c9a9/8862549874-500.jpg" data-tags="soundtrack" role="button">
 Randy Newman - Toy Story (1995-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/df462c89-c08d-4ba9-9009-8ea8d1a55e9d/7446935488-500.jpg" data-tags="soundtrack, disney" role="button">
-Alan Menken - The Hunchback of Notre Dame (1996-06-21)
+<li data-cover="https://img.discogs.com/CQy4fGsTtROE43CxJfZoZtRF5C8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15578701-1593950818-1430.jpeg.jpg" data-tags="kids" role="button">
+Sesame Street - Monster Melodies (1996-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/08ee4545-08f1-4b95-9e0d-df9266387b51/8832412513-500.jpg" data-tags="disney" role="button">
 Various Artists - Disney Princess: Fairy Tale Songs (1997)
@@ -270,6 +267,9 @@ Jonas Brothers - Jonas L.A. (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/f28172b2-d287-4c95-8ec8-54c05e9f95a5/8839637473-500.jpg" data-tags="jpop, disney, boa, disney japan" role="button">
 Boa - WOO WEEKEND (2010-07-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas" role="button">
+Jonas Brothers - L.A. Baby (Where Dreams Are Made Of) (2010-08-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/253e6c06-1a6d-40b8-a97b-854fb5da7704/20018459604-500.jpg" data-tags="pop" role="button">
 Selena Gomez & the Scene - A Year Without Rain (2010-09-21)
 </li>
@@ -287,6 +287,9 @@ Demi Lovato - Unbroken (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6680941-30dd-4ab2-a3d8-b0eaa07781f4/8718186734-500.jpg" data-tags="pop rock, traditional pop, cover, disney, brian wilson, fuck yep, wondermints" role="button">
 Brian Wilson - In the Key of Disney (2011-10-24)
+</li>
+<li data-cover="https://img.discogs.com/2lO5NC40-x61Y15XqlY11RRykQg=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6861571-1428204353-3273.jpeg.jpg" data-tags="soundtrack, pop, ambient, composer, disney" role="button">
+Debby Ryan - We Got the Beat (2012-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/416d8beb-30cd-413a-a7f1-44cfadafab97/4590809608-500.jpg" data-tags="ska, disney, third wave ska, reel big fish, lion king, the little mermaid, lyrics born, the aquabats, day job, under the sea, suburban legends, open up your eyes, just be happy, punk ska unity, going on tour" role="button">
 Suburban Legends - Day Job (2012-04-03)
@@ -314,9 +317,6 @@ Mindless Behavior - All Around The World (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbb18663-128c-4d80-aa6d-65cb43ceb84e/14359720327-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Demi (2013-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2ed1165-2342-46d0-9479-4f7e8f3e7834/6392951974-500.jpg" data-tags="loud, disney, one last dance, forget about you, pass me by, cali girls, i want u bad, here comed forever, if i cant be with you, love like that" role="button">
-R5 - Louder (2013-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea866a8d-d190-46db-80d5-84703c22bbb3/6190333473-500.jpg" data-tags="pop, dance-pop, 00s, disney, eletronic, divas, miley cyrus, eletronic pop, miley, 7things, parceiras" role="button">
 Fifth Harmony - Better Together (2013-10-18)

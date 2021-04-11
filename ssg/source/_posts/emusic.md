@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:52:01.415Z
+date: 2021-04-11T13:06:01.431Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
@@ -21,20 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/d3bca172-fa17-4f55-8011-0a2851e59d19/17353601806-500.jpg" data-tags="female vocalists, indie rock, rock, punk, alternative rock, 90s, riot grrrl" role="button">
-Sleater-Kinney - Dig Me Out (1997-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/6aca9251-e534-3c3c-b146-35996ff4abdd/1224066898-500.jpg" data-tags="indie, indie rock" role="button">
 Modest Mouse - The Fruit That Ate Itself (1997-05-13)
 </li>
 <li data-cover="https://img.discogs.com/IKLQX9qx0jwFaw5BbQ_n-vn28II=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7181281-1437509290-7833.jpeg.jpg" data-tags="folk, colin hay" role="button">
 Colin Hay - Transcendental Highway (1998-10-13)
 </li>
+<li data-cover="https://img.discogs.com/uDjm3wnXgyW_31-o6OmvYHNNXI4=/fit-in/576x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1144997-1195738575.jpeg.jpg" data-tags="rock, folk, 90s, emusic, joe strummer, lark" role="button">
+Joe Strummer and the Mescaleros - Rock Art and the X-Ray Style (1999-10-18)
+</li>
 <li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
-</li>
-<li data-cover="https://img.discogs.com/cWfCD7gEkow118wcDzNNMIEkSPY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417166-1287409663.jpeg.jpg" data-tags="indie rock" role="button">
-Sleater-Kinney - All Hands on the Bad One (2000-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
@@ -80,6 +77,9 @@ Elbow - Cast of Thousands (2003-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fd10e64-ae53-31d9-adf0-df4566c50edd/20732430956-500.jpg" data-tags="electronic, alternative, idm, avant-garde, live, emusic, females, art pop, noteworthy, krojb" role="button">
 Björk - Post Live (2003-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/abffdf17-17be-484d-9227-364a383c43da/4265632543-500.jpg" data-tags="indie rock" role="button">
+The Decemberists - Her Majesty the Decemberists (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
@@ -174,6 +174,9 @@ Alkaline Trio - Crimson (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a506957-1a1c-4e0d-9b35-c6a3400d6741/12087677481-500.jpg" data-tags="chillout" role="button">
+Tina Dico - In the Red (2005-07-25)
+</li>
 <li data-cover="https://img.discogs.com/Z6jRKcM6S6ljssMF2ouhKbY6HT8=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646888-1297934930.jpeg.jpg" data-tags="indie, rock, british, indie rock, 00s, emusic, oh my, memphis industries, seen and heard, emusic saved for later, 3style, abstract album covers, colorful album covers, minimalist album covers" role="button">
 Field Music - Field Music (2005-08-08)
 </li>
@@ -240,9 +243,6 @@ Copeland - Eat, Sleep, Repeat (2006-08-31)
 <li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
 Ben Kweller - Ben Kweller (2006-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/8417c017-6f07-3ebb-b9d8-64bbbdaee4d9/15782550452-500.jpg" data-tags="rock" role="button">
-The Hold Steady - Boys And Girls In America (2006-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/5b111c48-d743-49b3-83a1-0e81e6ce421d/11923336693-500.jpg" data-tags="electronic, fun, emusic, hurrah, electronic popular favourite, andrew weatherall rip" role="button">
 Andrew Weatherall - The Bullet Catcher's Apprentice (2006-10-23)
 </li>
@@ -273,9 +273,6 @@ William Fitzsimmons - The Sparrow and the Crow (2008)
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/bbd7d814-3ec1-3a38-af77-9c99176fcd2c/11024800644-500.jpg" data-tags="indie, rock, indie pop, indie rock, emusic, 2008 albums, albums i need, i own, albums 2008, jaarlijstje 2008" role="button">
-Los Campesinos! - Hold On Now, Youngster (2008-02-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/e19accd9-a4de-4b27-b2fe-9dfb313b3cdb/18814987284-500.jpg" data-tags="emusic" role="button">
 Colour Revolt - Plunder, Beg, and Curse (2008-04-01)
 </li>
@@ -287,6 +284,9 @@ Dr. Dog - Fate (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)
+</li>
+<li data-cover="https://img.discogs.com/eL8t1uAl8VlyI6litclitMgPEdA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1678734-1355689535-9539.jpeg.jpg" data-tags="indie, indie rock" role="button">
+The Thermals - Now We Can See (2009-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)

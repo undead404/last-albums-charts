@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:54:12.636Z
+date: 2021-04-11T13:30:18.255Z
 title: "british rock: 100 albums you must listen to before you die"
 ---
 ![Arctic Monkeys - AM (2013-08-01)](http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg "Arctic Monkeys - AM (2013-08-01)")
@@ -27,9 +27,6 @@ The Pretty Things - The Pretty Things (1965-03)
 <li data-cover="http://coverartarchive.org/release/e53265c1-7e75-4c3b-908a-6c684cc4f338/6701550123-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Rolling Stones - Flowers (1967-06-26)
 </li>
-<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="rock, comedy, the bonzo dog band" role="button">
-The Bonzo Dog Band - Gorilla (1967-10)
-</li>
 <li data-cover="https://img.discogs.com/SyFM0FDJH3d_HlVrk35uJbwm8rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6750810-1425855376-2224.jpeg.jpg" data-tags="classic rock, blues rock, rock, 60s" role="button">
 Ten Years After - Ten Years After (1967-10-27)
 </li>
@@ -54,11 +51,23 @@ Kevin Ayers - Joy Of A Toy (1969-11)
 <li data-cover="https://img.discogs.com/MoQsSuTpAIXwDzXwalT2fI0oEHg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15931032-1600423777-8490.jpeg.jpg" data-tags="rock" role="button">
 Faces - First Step (1970-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a554950-8bfb-4283-be2c-b3abeafe8b9b/10708956082-500.jpg" data-tags="classic rock, rock" role="button">
+Supertramp - Supertramp (1970-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f19a26d-5535-417d-8b37-8e1eadda365a/8768587121-500.jpg" data-tags="progressive rock" role="button">
 Demon Fuzz - Afreaka! (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dba7eb5d-6990-4b2e-8184-96da42fda50d/912704314-500.jpg" data-tags="rod stewart, classic rock" role="button">
 Rod Stewart - Every Picture Tells A Story (1971)
+</li>
+<li data-cover="https://img.discogs.com/vAxSF07doJZImELVxMsTijXpntg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6741293-1519999539-4121.jpeg.jpg" data-tags="british blues, blues, guitar, brc blues band - juke and the blue joint" role="button">
+Fleetwood Mac - The Original Fleetwood Mac (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/80ad2c2a-a16a-4ee7-97fe-9ecfce031aa9/18660563912-500.jpg" data-tags="progressive rock" role="button">
+Curved Air - Second Album (1971-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/b782a7b3-cec8-4640-99e2-e2cc545137cd/7116274708-500.jpg" data-tags="classic rock, 70s, hard rock" role="button">
+Nazareth - Exercises (1972)
 </li>
 <li data-cover="https://img.discogs.com/IkuVyF5le_aG2neyEscSuSPmMXI=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520895-1225746667.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
@@ -75,11 +84,8 @@ Wishbone Ash - Live Dates (1973-12)
 <li data-cover="http://coverartarchive.org/release/491f61db-06c7-48da-a0e7-1da8e3d12fe9/22893719452-500.jpg" data-tags="rock, 70s" role="button">
 The Rolling Stones - Metamorphosis (1975-06-06)
 </li>
-<li data-cover="https://img.discogs.com/1VDGSqXlqjkUN04mY0vNFa5g8iA=/fit-in/435x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2974859-1309953889.jpeg.jpg" data-tags="hard rock" role="button">
-Whitesnake - Snakebite (1977)
-</li>
-<li data-cover="https://img.discogs.com/VVv6K3tCDDFcALl0MEIg-NkjMUI=/fit-in/234x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4536145-1485639324-1684.jpeg.jpg" data-tags="hard rock" role="button">
-Whitesnake - Trouble (1978)
+<li data-cover="http://coverartarchive.org/release/a94b0d40-6451-4f01-9a7a-a0fa237cb45a/19441077255-500.jpg" data-tags="classic rock, hard rock, blues rock, classic british hard rock" role="button">
+David Coverdale - Whitesnake (1977-05)
 </li>
 <li data-cover="https://img.discogs.com/qGKMN-yFbqO37G1jBNCe-qfblp4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15887392-1604770889-3313.jpeg.jpg" data-tags="hard rock" role="button">
 Whitesnake - Lovehunter (1979)
@@ -105,6 +111,9 @@ Whitesnake - The Definitive Collection (1981-12-00)
 <li data-cover="http://coverartarchive.org/release/4cc5c04c-3051-400a-bca7-09c8dbac0020/12220437049-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Iron Fist (1982-04-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/8c108a51-6959-49eb-8b2f-edaebb4a63de/18926830102-500.jpg" data-tags="classic rock" role="button">
+Robert Plant - Pictures at Eleven (1982-06-28)
+</li>
 <li data-cover="https://img.discogs.com/21xR7CRutjALMZS8sqMuJN9ZzUM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10550506-1499718550-3501.jpeg.jpg" data-tags="rock" role="button">
 The Who - It's Hard (1982-09-04)
 </li>
@@ -114,29 +123,17 @@ Rainbow - Bent Out of Shape (1983)
 <li data-cover="https://img.discogs.com/CX5fhvDs9YC91rs7_bxOhD58SII=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138840-1494490725-9095.jpeg.jpg" data-tags="classic rock, heavy metal, hard rock, glam metal, british rock, british metal, british heavy metal, new wave of british heavy metal, british hard rock" role="button">
 Fastway - Fastway (1983)
 </li>
-<li data-cover="https://img.discogs.com/tecjsc5LhzvHJAyq6enRDCzY03I=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10997740-1507921116-4317.jpeg.jpg" data-tags="classic rock, rock, british, hard rock, scottish, california, aleister crowley, british rock, christopher lee, aleyster crowley, scottish rock, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Nazareth - Sound Elixir (1983)
-</li>
 <li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
-</li>
-<li data-cover="https://img.discogs.com/srXILINsZfkXKpD6is1wXKmXeTI=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458632-1116365000.jpg.jpg" data-tags="hard rock, classic rock, rainbow" role="button">
-Rainbow - Finyl Vinyl (1986-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2049b55c-0714-4ca2-8352-ba0d7041e5fd/6322117461-500.jpg" data-tags="hard rock" role="button">
 Whitesnake - 1987 (1987-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f1cf394-b4d5-460b-add2-ca696984243a/3367036616-500.jpg" data-tags="jangle pop" role="button">
+The Wedding Present - George Best (1987-10)
+</li>
 <li data-cover="https://img.discogs.com/n1zQKA7w3Sx_BNBwResU86nrwc0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130935-1194608897.jpeg.jpg" data-tags="80s, post-punk, jangle pop" role="button">
 The Wedding Present - Bizarro (1989-10)
-</li>
-<li data-cover="https://img.discogs.com/Guc6YdVIkfL8fdt6Slzgvvv7KNo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4304458-1436317961-7677.jpeg.jpg" data-tags="rock" role="button">
-John Lennon - The John Lennon Collection (1989-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e03f232-6c10-490e-9a95-7fd72cc52bfb/24592123891-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Spacemen 3 - Taking Drugs To Make Music To Take Drugs To (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/64df0ed7-ef90-4295-a613-c1d8f8942e0a/2138878586-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Just Say Ozzy (1990-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/68bbde0b-1514-4be3-ac47-7e43ec0bf0e1/17009584376-500.jpg" data-tags="classic rock, rock" role="button">
 Robert Plant - Manic Nirvana (1990-03-19)
@@ -162,14 +159,8 @@ The Who - Thirty Years of Maximum R&B (1994-07-05)
 <li data-cover="https://img.discogs.com/5ViJu5Eb5764WyM2S-vOC_3jo8k=/fit-in/593x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1216361-1205578753.jpeg.jpg" data-tags="classic rock, rock, 70s, british, art rock, proto prog, 70s rock, british rock, 70s progressive rock, british progressive rock" role="button">
 Czar - Czar (1995)
 </li>
-<li data-cover="https://img.discogs.com/FMnUmmbHGbRy61LkVDPpqwpzGz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3659325-1430926101-6224.jpeg.jpg" data-tags="britpop" role="button">
-The Bluetones - Expecting To Fly (1996-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/9b4db6a4-56e6-47de-8440-074247b2ed52/9707871898-500.jpg" data-tags="alternative rock, indie pop, indie rock, britpop, baroque pop" role="button">
 The Auteurs - After Murder Park (1996-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
-Super Furry Animals - Fuzzy Logic (1996-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
@@ -216,14 +207,17 @@ Tom Jones - Green, Green Grass Of Home (2001)
 <li data-cover="http://coverartarchive.org/release/788950cd-90e5-4fdd-9c16-8dd8afd49a51/25738391277-500.jpg" data-tags="britpop" role="button">
 Ocean Colour Scene - Mechanical Wonder (2001-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/9dcbf010-ff4a-4107-ba6d-0c9e7bf955c9/5826703351-500.jpg" data-tags="hard rock" role="button">
+The Cult - Beyond Good and Evil (2001-06-01)
+</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="00s, welsh, indie" role="button">
 Super Furry Animals - Rings Around the World (2001-07-23)
 </li>
-<li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
-Spiritualized - Let It Come Down (2001-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5e11918-511f-46a2-a1a5-0dffc96d6dd9/12120507979-500.jpg" data-tags="blues, fleetwood mac, christine mcvie" role="button">
 Fleetwood Mac - The Best Of Peter Green's Fleetwood Mac (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a33228e-b75d-4396-bb4d-4735babbbfc8/20354697610-500.jpg" data-tags="rock, british, hard rock, 00s, english, british rock, english rock, shrapnel, mike varney produced, steve fontano produced" role="button">
+UFO - Sharks (2002-02-06)
 </li>
 <li data-cover="https://img.discogs.com/CO2mE5fCPFWTeK2vRFMJDEJ6R50=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435283-1497469487-8296.jpeg.jpg" data-tags="heavy metal, ozzy osbourne" role="button">
 Ozzy Osbourne - Live At Budokan (2002-02-15)
@@ -237,6 +231,9 @@ Ten Years After - The Anthology (1967-1971) (2002-04-09)
 <li data-cover="https://img.discogs.com/iYnqTKhZT2VwBoIViTrZtGLCG4E=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2253918-1347194973-2528.jpeg.jpg" data-tags="rock, british, alternative, alternative rock, garage rock revival, garage rock, garage, british rock" role="button">
 The Buff Medways - Steady the Buffs (2002-05-13)
 </li>
+<li data-cover="https://img.discogs.com/h-yEdvYFBL0aGJisLHfrk1Qf2so=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1375376-1302093174.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
+Orange Goblin - Coup De Grace (2002-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/06c87d8e-6244-4c50-b38c-f1e3d8f5cbe0/5555177468-500.jpg" data-tags="rock, indie, 00s" role="button">
 Supergrass - Life on Other Planets (2002-09-11)
 </li>
@@ -246,14 +243,14 @@ Ozzy Osbourne - The Essential Ozzy Osbourne (2003-02-11)
 <li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/7dc22351-a8db-4b70-baf4-45ecf144087f/19809703359-500.jpg" data-tags="stoner rock, stoner metal" role="button">
+Orange Goblin - Thieving From The House Of God (2004-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0a89c21-9b6f-4561-a45a-296c5272c507/21079916286-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Judas Priest - Metalogy (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/79e61808-662a-48cb-94c0-19441b3a496b/10253810559-500.jpg" data-tags="classic rock" role="button">
 The Rolling Stones - Singles 1965-1967 (2004-07-12)
-</li>
-<li data-cover="https://img.discogs.com/OrT-dFZDHqbt_rHkVWVILV8F3l4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823850-1576410882-9972.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
-Def Leppard - Best Of (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/01e8456e-3aa3-4037-937e-cc7f12fcdc7a/18839216643-500.jpg" data-tags="british rock" role="button">
 Franz Ferdinand - This Fffire (2004-11-12)
@@ -272,6 +269,9 @@ Pure Reason Revolution - The Intention Craft (2005-10-24)
 </li>
 <li data-cover="https://img.discogs.com/OeffbU3k0EHapeFltex85a0DQ1U=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-690731-1148163558.jpeg.jpg" data-tags="indie rock" role="button">
 Morning Runner - Wilderness Is Paradise Now (2006-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f0f62f6-f610-4004-8075-d3fb801957b2/10536915982-500.jpg" data-tags="indie" role="button">
+Babyshambles - Whitechapel Demonstrations (2006-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/747f5ed3-350f-487e-8253-10318c205e6d/20615014643-500.jpg" data-tags="alternative" role="button">
 ¡Forward, Russia! - Give Me a Wall (2006-05-15)

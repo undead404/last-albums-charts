@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:37:01.422Z
+date: 2021-04-11T13:28:12.615Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -147,9 +147,6 @@ The Avett Brothers - Mignonette (2004-07-27)
 <li data-cover="http://coverartarchive.org/release/25b257bc-dd00-442f-9152-18f22b91b18c/13177956202-500.jpg" data-tags="funky blues" role="button">
 Marc Broussard - Carencro (2004-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
-Antony and the Johnsons - The Lake (2004-11-02)
-</li>
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
@@ -182,6 +179,9 @@ Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
 <li data-cover="https://img.discogs.com/_iA2tgvmbkoCFvStlPM69jgiNUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309787-1208531852.jpeg.jpg" data-tags="indie folk, 00s" role="button">
 Bright Eyes - Four Winds (2007-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/e37ae5f2-fea2-48c4-9c18-05130b9bfac5/15456399294-500.jpg" data-tags="alt-country" role="button">
+Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
@@ -234,9 +234,6 @@ Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
-<li data-cover="https://img.discogs.com/Eqn3dfO3zcU4Je4SPpmaVIVXTfM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4121815-1501255791-6847.jpeg.jpg" data-tags="punk rock, folk punk" role="button">
-The Gaslight Anthem - American Slang (2010-04-27)
-</li>
 <li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">
 Phosphorescent - Here's To Taking It Easy (2010-05-10)
 </li>
@@ -257,6 +254,9 @@ Justin Townes Earle - Harlem River Blues (2010-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
+</li>
+<li data-cover="https://img.discogs.com/NpW9silkKP07cjorrUrWH2NJPGE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661453-1295464538.jpeg.jpg" data-tags="singer-songwriter, amos lee" role="button">
+Amos Lee - Mission Bell (2011-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb304cf8-4ae2-4f0f-9114-58e2f63711ad/16252328129-500.jpg" data-tags="americana, southern rock" role="button">
 Drive-By Truckers - Go-Go Boots (2011-02-14)

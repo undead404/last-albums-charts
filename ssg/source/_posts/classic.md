@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:01:07.606Z
+date: 2021-04-11T13:21:01.440Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -84,6 +84,9 @@ Prefab Sprout - Steve McQueen (1985-06)
 <li data-cover="http://coverartarchive.org/release/65b5c48f-89c9-4be9-b7a0-2e18692db80e/19147437194-500.jpg" data-tags="classical, beethoven" role="button">
 Ludwig van Beethoven - The Best of Beethoven (1987)
 </li>
+<li data-cover="http://coverartarchive.org/release/45c43601-4c62-40ab-b4a0-c45bd999d68c/20612880657-500.jpg" data-tags="hip-hop, classic, 80s, real life rhymes, classic era rap, lyrics to learn from, mr toxic" role="button">
+Too $hort - Born To Mack (1987-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
@@ -113,6 +116,9 @@ Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
+</li>
+<li data-cover="https://img.discogs.com/xZwC2Jkr_FDnLqb4L--AHlRNpQw=/fit-in/450x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4595417-1436162339-8307.jpeg.jpg" data-tags="60s, donovan" role="button">
+Donovan - Catch the Wind (1993)
 </li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
@@ -170,9 +176,6 @@ Dean Martin - The Very Best of Dean Martin (1998-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca729161-a44c-4c95-b6d1-599c8d244f1f/17456959732-500.jpg" data-tags="oldies" role="button">
-Andy Williams - The Very Best of Andy Williams (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
@@ -255,9 +258,6 @@ Cam'ron - Purple Haze (2004-12-07)
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
-Sleater-Kinney - The Woods (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
 Eric B. & Rakim - Gold (2005-06-14)
 </li>
@@ -279,6 +279,9 @@ Paul Potts - One Chance (2007-07-13)
 <li data-cover="http://coverartarchive.org/release/2d69c11b-b82e-4c5f-af4b-4a34e9b16d00/15536303099-500.jpg" data-tags="classic, piano, relax" role="button">
 Isaac Shepard - Deep Joy (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/91d9360f-5613-4707-8799-a779dd2f66ac/7955706682-500.jpg" data-tags="electronica, classic, freeloader dave darell" role="button">
+Dave Darell - Freeloader (2008-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">
 Brandy - Human (2008-12-05)
 </li>
@@ -290,9 +293,6 @@ Bruce Springsteen - Nebraska (2010-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">
 Kendrick Lamar - Overly Dedicated (2010-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a99972e-cfb9-478d-b9c9-6edf5192368a/2100225437-500.jpg" data-tags="classic, fun to skateboard to, i love singing along, pop lament, drunk tank singalong tune, tugs at me heart strings, panic thursdays" role="button">
-The Smiths - Complete (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)

@@ -1,13 +1,13 @@
 ---
-date: 2021-04-10T20:55:01.409Z
+date: 2021-04-11T13:27:01.403Z
 title: "neo soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)</li>
+<li data-cover="http://coverartarchive.org/release/28964621-13f1-48eb-8546-e3bf84db2f14/15238553018-500.jpg" data-tags="soul, maxwell, rnb" role="button">Maxwell - Now (2001-08-21)</li>
 <li data-cover="https://img.discogs.com/FGn8MyRKwLPjXf1MyJZDS_NJ3z4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-150572-1454525554-4783.jpeg.jpg" data-tags="neo soul" role="button">Dwele - Subject (2003-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)</li>
-<li data-cover="https://img.discogs.com/3P3SNseRIXEqICizBxHOtiO2T0c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605964-1567797258-2769.jpeg.jpg" data-tags="rnb, neo soul, soul" role="button">Raheem DeVaughn - The Love Experience (2005-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">Miguel - All I Want Is You (2010-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">Frank Ocean - channel ORANGE (2012-07-10)</li>
@@ -29,6 +29,12 @@ Johnnie Taylor - Eargasm (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/50ed8242-0de9-4543-ab39-84d12849ac3c/28984219490-500.jpg" data-tags="70s" role="button">
 Earth, Wind & Fire - Spirit (1976)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1bae116-2121-420a-9673-3ded74028336/10013218835-500.jpg" data-tags="soul, jazz-funk" role="button">
+Ramp - Come Into Knowledge (1977)
+</li>
+<li data-cover="http://coverartarchive.org/release/10124d42-a53f-4f1a-a3b2-ef92482ba940/17628859248-500.jpg" data-tags="soul, funk" role="button">
+Roy Ayers - Evolution: The Polydor Anthology (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/d072d167-28e5-4e81-a904-1c85f7fada02/25413603758-500.jpg" data-tags="soul, rnb" role="button">
 Groove Theory - Groove Theory (1995-10-24)
@@ -84,6 +90,9 @@ Bilal - 1st Born Second (2001-07-31)
 <li data-cover="http://coverartarchive.org/release/28964621-13f1-48eb-8546-e3bf84db2f14/15238553018-500.jpg" data-tags="soul, maxwell, rnb" role="button">
 Maxwell - Now (2001-08-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d155ec2-c9e4-403d-9887-f23ab121fea2/16567166200-500.jpg" data-tags="silky sexy smooth" role="button">
+Angela Johnson - They Don't Know (2002)
+</li>
 <li data-cover="https://img.discogs.com/f2rNispmTrKN9WukLKqKWG327h8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330894-1582129404-3446.jpeg.jpg" data-tags="rnb, glenn lewis" role="button">
 Glenn Lewis - World Outside My Window (2002-03-19)
 </li>
@@ -95,6 +104,9 @@ Darius Rucker - Back To Then (2002-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/87a983fb-b30b-44d8-9457-54b398473f7e/5894750926-500.jpg" data-tags="soul" role="button">
 India.Arie - Voyage To India (2002-07-30)
+</li>
+<li data-cover="https://img.discogs.com/tESyv5Zw1DCIIeW6Fa9Ae7TFNLk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-390344-1513860297-6707.jpeg.jpg" data-tags="rnb, neo soul, jazzy soul" role="button">
+Jazzyfatnastees - The Tortoise & The Hare (2002-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3033e752-f69e-4675-b59e-c15d9d1962be/3800922998-500.jpg" data-tags="soul, mellow" role="button">
 Heather Headley - This Is Who I Am (2003)
@@ -134,9 +146,6 @@ Conya Doss - Just Because (2004-11-09)
 </li>
 <li data-cover="https://img.discogs.com/5g61htznL770S1GbBJAVDcjuoKU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3672712-1339783557-1967.jpeg.jpg" data-tags="neo-soul" role="button">
 Angela Johnson - Got To Let It Go (2005-06-06)
-</li>
-<li data-cover="https://img.discogs.com/3P3SNseRIXEqICizBxHOtiO2T0c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605964-1567797258-2769.jpeg.jpg" data-tags="rnb, neo soul, soul" role="button">
-Raheem DeVaughn - The Love Experience (2005-06-28)
 </li>
 <li data-cover="https://img.discogs.com/J4gEin7krNry25Khi9DMcX47J9c=/fit-in/392x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524522-1129911755.jpeg.jpg" data-tags="neo soul" role="button">
 Dwele - Some Kinda (2005-09)
@@ -213,12 +222,6 @@ Mr. Scruff - Ninja Tuna (2008-09-22)
 <li data-cover="https://img.discogs.com/iCEWQF2PnDjvsJWGwAw8vH5R6ZE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057789-1261411597.jpeg.jpg" data-tags="soul" role="button">
 John Legend - Evolver (2008-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/3a95c09e-dd91-412e-b21f-ddfe6fe82fec/4214196482-500.jpg" data-tags="jazz, pop, soul, r&b, smooth jazz, italian, compilation, neo soul" role="button">
-Giorgia - Spirito Libero (2008-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c9ffbec-66a7-434d-8dd1-5ace83cd798d/24891706913-500.jpg" data-tags="anthony hamilton" role="button">
-Anthony Hamilton - The Point Of It All (2008-12-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/f8c1fe45-66b1-44f2-a32c-c04fa0645289/28404679797-500.jpg" data-tags="soul" role="button">
 Erykah Badu - Live (2009)
 </li>
@@ -230,9 +233,6 @@ K'naan - Troubadour (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5262a5c-9b26-45bd-a1b2-5cd89d671a58/15209954879-500.jpg" data-tags="rnb, neo-soul, soul" role="button">
 Maxwell - BLACKsummers'night (2009-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7b785869-0155-4977-b0b6-af733acdc008/2140091250-500.jpg" data-tags="soul" role="button">
-Mayer Hawthorne - A Strange Arrangement (2009-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
@@ -294,11 +294,11 @@ Miguel - Kaleidoscope Dream (2012-09-24)
 <li data-cover="http://coverartarchive.org/release/d3d975db-2eb8-4f4d-b465-ac915a9b4f79/9114957897-500.jpg" data-tags="nu jazz, chillout, broken beat, neo soul" role="button">
 Joomanji - Manj (2013-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/75334040-2f60-45f9-a174-f8c04e993f1a/3599565665-500.jpg" data-tags="soul" role="button">
-Laura Mvula - Sing to the Moon (2013-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - The 20/20 Experience (2013-03-15)
+</li>
+<li data-cover="https://img.discogs.com/vyPGW5ft8RT7ieM4FO0yp7euD6Y=/fit-in/600x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3246326-1477158092-1012.jpeg.jpg" data-tags="soul" role="button">
+India.Arie - Cocoa Butter (2013-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3c457b-cabb-4f22-9f60-56384f17dd83/5738839329-500.jpg" data-tags="indie pop" role="button">
 Fitz and the Tantrums - More Than Just a Dream (2013-05-07)

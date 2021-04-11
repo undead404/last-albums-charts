@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:02:01.418Z
+date: 2021-04-11T13:34:01.420Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -30,17 +30,14 @@ Kate Bush - Never for Ever (1980-09-08)
 <li data-cover="http://coverartarchive.org/release/1da98992-f955-4de8-9efc-ac4d9a9cf047/5565481684-500.jpg" data-tags="new wave, 80s" role="button">
 Talking Heads - Speaking in Tongues (1983-05-31)
 </li>
-<li data-cover="https://img.discogs.com/LM8XDDJAl7zeJ_xrgMM4Kt7uMU8=/fit-in/372x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972448-1215538670.jpeg.jpg" data-tags="new wave" role="button">
-Talk Talk - It's My Life (1984-01-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4fa8534-a5a7-330a-b61a-d72a40ba694b/26028960700-500.jpg" data-tags="sophisti-pop" role="button">
-The Blue Nile - A Walk Across The Rooftops (1984-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
+Stereolab - Mars Audiac Quintet (1994-08-09)
 </li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
@@ -93,6 +90,9 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab7ebe88-c495-4a44-808b-61f89e7ad3f7/9100597320-500.jpg" data-tags="cardiowave" role="button">
+Flëur - Всё вышло из-под контроля (2006-04)
+</li>
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
 </li>
@@ -119,9 +119,6 @@ Marina & the Diamonds - The Family Jewels (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
-</li>
-<li data-cover="https://img.discogs.com/nMUq5r_7Cx55c3hDjKfzXSV9Zp0=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717943-1238941814.jpeg.jpg" data-tags="2009 albums" role="button">
-Bat for Lashes - Daniel (2009-02)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
@@ -234,9 +231,6 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e9b20e8-1ace-4181-af04-6d2fc04e279c/10108027334-500.jpg" data-tags="experimental, singer-songwriter, psychedelic, art rock, art pop, 2013 releases, sweet tender vibes" role="button">
-Jenny Hval - Innocence Is Kinky (2013-04-19)
-</li>
 <li data-cover="https://img.discogs.com/0ql8b3dLFazffFJrBCRFnqpVm_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566013-1368554865-9702.jpeg.jpg" data-tags="indie, alternative, indie pop, dream pop" role="button">
 MS MR - Secondhand Rapture (2013-05-10)
 </li>
@@ -282,6 +276,9 @@ Metronomy - Love Letters (2013-12-06)
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/22ed8895-2e99-4551-b694-3d1d9bbe64ea/6296177239-500.jpg" data-tags="electronic, synthpop" role="button">
+iamamiwhoami - fountain (2014-01-22)
+</li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Digital Witness (2014-02-24)
 </li>
@@ -320,5 +317,8 @@ Blonde Redhead - Barragán (2014-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d72cb62-da0c-4706-a59f-7209ff571f6b/8989466671-500.jpg" data-tags="jazz, soul, piano" role="button">
+Benjamin Clementine - At Least For Now (2015-01-12)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:16:06.918Z
+date: 2021-04-11T13:39:01.420Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -62,9 +62,6 @@ Cheryl Lynn - Cheryl Lynn (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e4e53f2-29ef-4ccb-87cc-d5e0ea9c42d1/13873358959-500.jpg" data-tags="soul" role="button">
-Chaka Khan - Chaka (1978-10-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 The Jacksons - Destiny (1978-12-17)
@@ -137,6 +134,9 @@ Haddaway - Haddaway (1993-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e628ebd-769e-4848-9aa5-5b1bcbe1cc26/28882040167-500.jpg" data-tags="dance" role="button">
 Haddaway - The Album (1993-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec0a25fe-0106-4f80-880c-9be18224742a/1799679527-500.jpg" data-tags="70s, disco" role="button">
+Village People - The Best of Village People (1993-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/89abe191-9dd6-4883-b10f-56922baf88e3/15081522104-500.jpg" data-tags="disco" role="button">
 Donna Summer - Endless Summer (1994)

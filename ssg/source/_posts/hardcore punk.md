@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:38:01.409Z
+date: 2021-04-11T13:31:01.528Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -33,6 +33,9 @@ Circle Jerks - Group Sex (1980-11)
 <li data-cover="http://coverartarchive.org/release/67b74b51-16e8-38f7-ba61-3ce62d9adea2/24579374409-500.jpg" data-tags="hardcore punk" role="button">
 Adolescents - Adolescents (1981-05)
 </li>
+<li data-cover="https://img.discogs.com/OQ0q4ODNVp1OWBlE2bOX7KJUTAM=/fit-in/517x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6443148-1419424235-8401.jpeg.jpg" data-tags="punk, punk rock, street punk" role="button">
+The Exploited - Punks Not Dead (1981-05-04)
+</li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
@@ -62,9 +65,6 @@ Social Distortion - Mommy's Little Monster (1983-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
-</li>
-<li data-cover="https://img.discogs.com/l0-AacC6-Fl5TXdI2HgKClXz0UU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490066-1542426226-2864.jpeg.jpg" data-tags="hardcore punk, hardcore" role="button">
-Agnostic Front - Victim In Pain (1984)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
@@ -237,9 +237,6 @@ Comeback Kid - Wake The Dead (2005-02-28)
 <li data-cover="https://img.discogs.com/slJpt5xpPcn6XgD-TLcUhWieYZg=/fit-in/495x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768340-1300979914.jpeg.jpg" data-tags="punk, street punk, hardcore punk" role="button">
 The Unseen - State of Discontent (2005-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
-Dropkick Murphys - The Warrior's Code (2005-06-15)
-</li>
 <li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
 Gallows - Orchestra of Wolves (2006)
 </li>
@@ -281,6 +278,9 @@ NOFX - Coaster (2009-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46fff009-54a2-3951-aee0-82950f6a97ce/4781804499-500.jpg" data-tags="hardcore punk" role="button">
 Gallows - Grey Britain (2009-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d0292dc-c95d-4d41-93a2-4ef1ec9f7478/4812723925-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
+The Ghost of a Thousand - New Hopes, New Demonstrations (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93f04b8-35b8-4256-8ed9-2f38095c02d0/7722807008-500.jpg" data-tags="hardcore" role="button">
 Raised Fist - Veil of Ignorance (2009-09-07)

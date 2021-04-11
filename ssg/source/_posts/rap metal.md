@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:03:06.988Z
+date: 2021-04-11T13:24:01.419Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -13,7 +13,7 @@ title: "rap metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Hybrid Theory (2000-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">P.O.D. - Satellite (2001-09-11)</li>
+<li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">Limp Bizkit - Ready To Go (2013-04-12)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -39,8 +39,8 @@ Rage Against the Machine - Rage Against the Machine (1992-06-11)
 <li data-cover="https://img.discogs.com/DJMNsVbbAmqpb2pyttl8st3xo70=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369994-1362438913-5417.jpeg.jpg" data-tags="crossover, rap metal" role="button">
 Clawfinger - Deaf Dumb Blind (1993-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
-P.O.D. - Snuff the Punk (1994-01-25)
+<li data-cover="http://coverartarchive.org/release/16e433c3-1afe-43a8-be20-5441529c8d48/4864202701-500.jpg" data-tags="soundtrack" role="button">
+Various Artists - Judgment Night (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/125b1731-f5b0-4542-96a3-c05c025f877c/23724829556-500.jpg" data-tags="alternative metal" role="button">
 Megaherz - Herzwerk (1995)
@@ -54,8 +54,11 @@ Clawfinger - Use Your Brain (1995-03-23)
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
 Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1b96e5e-41d4-302a-903e-ed8d87b2ee96/20102454104-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Brown (1996)
+<li data-cover="https://img.discogs.com/mfwqPIQKEMwzKlu30bdNhKy50J8=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348197-1290451278.jpeg.jpg" data-tags="alternative metal, rapcore, nu metal, rap metal" role="button">
+Cradle of Thorns - Download This! (1996)
+</li>
+<li data-cover="https://img.discogs.com/leYdT1bRsPV-wahrTj3Wo9jP1_E=/fit-in/600x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12165416-1529611151-9094.jpeg.jpg" data-tags="rap metal" role="button">
+Zebrahead - One More Hit (1996)
 </li>
 <li data-cover="https://img.discogs.com/aVZevwp2axHZDWkCKzHcMSIcnwI=/fit-in/428x418/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711681-1297618336.jpeg.jpg" data-tags="metal, rock, espanol, rap metal, def con dos, defcondos, originales" role="button">
 Def con Dos - Ultramemia (1996)
@@ -186,6 +189,9 @@ Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/8af0b50b-3faa-42e9-9d5e-8ec4fb75c55a/6094688934-500.jpg" data-tags="nu metal" role="button">
+Miocene - Refining the Theory (2000-12-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/d10320a4-2469-4ae5-9157-a7f2c950cf5d/5052431361-500.jpg" data-tags="hip hop, live, alternative hip-hop" role="button">
 Cypress Hill - Live At The Fillmore (2000-12-12)
 </li>
@@ -209,9 +215,6 @@ Sick Puppies - Welcome to the Real World (2001-09-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 40 Below Summer - Invitation to the Dance (2001-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Satellite (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a5c6f9-00f0-4bf8-8e65-dcc85a6dd8d6/28000220985-500.jpg" data-tags="hardcore" role="button">
 Biohazard - Uncivilization (2001-09-11)
@@ -246,9 +249,6 @@ Thousand Foot Krutch - Phenomenon (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/89169ae4-2f74-462b-be32-f0375e936da0/7479087109-500.jpg" data-tags="punk rock, rapcore" role="button">
 Zebrahead - MFZB (2003-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8dd3f57-4760-4127-a7fe-ee21b6ff2d04/14818545514-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Payable on Death (2003-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
 </li>
@@ -267,9 +267,6 @@ Full Scale - Full Scale (2005-03-08)
 <li data-cover="https://img.discogs.com/F6aOVv8C-vDYnIl_4GVgzevGdus=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588605-1435672439-3852.jpeg.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/da8feb92-7d12-4bab-8c40-6f770cd2fdde/2220731409-500.jpg" data-tags="alternative rock" role="button">
-Thousand Foot Krutch - The Art of Breaking (2005-07-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc2397a9-bec8-3cb7-8f43-e529c0682d61/10201989296-500.jpg" data-tags="industrial metal, rapcore" role="button">
 Clawfinger - Hate yourself with style (2005-11-18)
 </li>
@@ -281,6 +278,9 @@ Necro - Death Rap (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/855ddbf1-f8f8-4801-b3ec-486768aba72f/10496597840-500.jpg" data-tags="rock, alternative rock, punk rock, nu metal, melodic hardcore, skate punk, hardcore punk, rap metal, oi, charlie brown" role="button">
 Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
+</li>
+<li data-cover="https://img.discogs.com/4G-H-6DDVZjFzSip1Pv2moUbqKY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5926625-1406511760-9448.jpeg.jpg" data-tags="alternative metal, rapcore, nu metal, rap metal" role="button">
+Dead Poetic - Invasion EP (2007-11-20)
 </li>
 <li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
 The Lonely Island - Jizz In My Pants (2008)
@@ -300,8 +300,8 @@ Manafest - The Chase (2010-03-30)
 <li data-cover="http://coverartarchive.org/release/6bd6e65f-2584-4a20-a88d-695d32ed429d/7687347287-500.jpg" data-tags="rapcore, nu metal" role="button">
 Limp Bizkit - Gold Cobra (2011-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/545d64b7-ea63-4de4-a36b-1cfae8a04c1c/1438400323-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Murdered Love (2012-07-10)
+<li data-cover="https://img.discogs.com/pqWWbvEQPQyANncWCPljVE_yYMk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8700207-1466879312-6175.jpeg.jpg" data-tags="alternative metal, rap metal" role="button">
+Maggie's Bookshop - Excuses & Half Truths (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)
@@ -309,14 +309,14 @@ Limp Bizkit - Ready To Go (2013-04-12)
 <li data-cover="http://coverartarchive.org/release/68595a05-804f-4895-bdb0-ff56369dad8b/5327569529-500.jpg" data-tags="chaotic hardcore" role="button">
 Stray from the Path - Anonymous (2013-09-17)
 </li>
+<li data-cover="https://img.discogs.com/0QkGI95bPLoZPaGHE-40muWXd-M=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7251790-1437206596-8343.jpeg.jpg" data-tags="rap metal, nu-metal" role="button">
+Linkin Park - Street Team Sampler (2014)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce3142b-f5ff-4e50-afd3-ca745303c3e4/7793838406-500.jpg" data-tags="metal, hardcore, nu metal, rap metal" role="button">
 Islander - Violence & Destruction (2014-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/17f234f1-4c3e-45fb-98b8-b24fc14b8022/8894736173-500.jpg" data-tags="hardcore, metalcore, beatdown, beatdown hardcore" role="button">
-Rise Of The Northstar - Welcame (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8eecb80-98fd-4dfe-9193-d708f233771d/8757779647-500.jpg" data-tags="alternative metal, rock, alternative rock" role="button">
 Papa Roach - F.E.A.R. (2015-01-23)

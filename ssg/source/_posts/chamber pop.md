@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:46:12.471Z
+date: 2021-04-11T13:42:01.420Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -47,6 +47,9 @@ Destroyer - Thief (2000-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
+Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
 </li>
 <li data-cover="https://img.discogs.com/s8iZgcvR9NwhB90U0C2tsRNllf0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10666243-1586957390-2202.png.jpg" data-tags="singer-songwriter" role="button">
 Rufus Wainwright - Poses (2001-06-04)
@@ -171,9 +174,6 @@ Dead Man's Bones - Dead Man's Bones (2009-10-02)
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bdd7916-56d6-4fd6-82ce-0c5f1ad6a533/16005683641-500.jpg" data-tags="cabaret, chamber pop" role="button">
-The Irrepressibles - Mirror Mirror (2010-01-11)
-</li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
 </li>
@@ -221,9 +221,6 @@ Julia Holter - Ekstasis (2012-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)
-</li>
-<li data-cover="https://img.discogs.com/hSJkc5MRBgjsNYDGhSN5M7qifnE=/fit-in/440x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3545772-1611054445-9887.jpeg.jpg" data-tags="indie pop" role="button">
-Patrick Watson - Adventures in Your Own Backyard (2012-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
@@ -287,6 +284,9 @@ Foxing - The Albatross (2013-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b543cfef-c8d1-4ba3-a8b2-742af1d56cd3/15500392136-500.jpg" data-tags="indie, pop, female vocalists" role="button">
 Sophie Ellis-Bextor - Wanderlust (2014-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/2757c8ba-97d6-4858-b5c2-615204145943/6581974823-500.jpg" data-tags="soundtrack, chamber pop, orchestral pop" role="button">
+Lana Del Rey - Once Upon a Dream (2014-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)

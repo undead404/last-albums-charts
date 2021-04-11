@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:50:01.541Z
+date: 2021-04-11T13:08:01.407Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -36,6 +36,9 @@ Alice in Chains - Facelift (1990-08-28)
 <li data-cover="http://coverartarchive.org/release/215ca43e-982e-499d-852f-6898cc929410/12606679128-500.jpg" data-tags="grunge" role="button">
 Green River - Dry As A Bone/Rehab Doll (1990-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
+Melvins - Bullhead (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/aed59883-6069-4921-b569-d463ac58547f/3076600303-500.jpg" data-tags="rock, 90s" role="button">
 Pearl Jam - Jeremy (1991)
 </li>
@@ -44,9 +47,6 @@ Temple of the Dog - Temple of the Dog (1991-03)
 </li>
 <li data-cover="https://img.discogs.com/Pisgxym1i0Bo6Iq2fEvmxFrCdk8=/fit-in/593x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13082802-1547744709-5084.jpeg.jpg" data-tags="alternative rock, grunge, 90s" role="button">
 The Smashing Pumpkins - Gish (1991-05-28)
-</li>
-<li data-cover="https://img.discogs.com/f4P72BJdO1TNMPqS_VwPszoUmi8=/fit-in/346x343/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7279651-1437892064-9420.jpeg.jpg" data-tags="grunge" role="button">
-Hole - Pretty On The Inside (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
@@ -65,9 +65,6 @@ Alice in Chains - Sap (1992-02-04)
 </li>
 <li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9c52cf2-9f23-4986-8ce2-5e0015cdef27/8559192703-500.jpg" data-tags="grunge" role="button">
-L7 - Bricks Are Heavy (1992-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
@@ -161,6 +158,9 @@ Alice in Chains - Alice in Chains (1995-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2c5c7c4-1d76-3172-9ca7-21a164b3dd11/15464992021-500.jpg" data-tags="grunge" role="button">
 Silverchair - Freak Show (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/56c89902-b579-4fb6-8fa5-e2fef546b051/15667496184-500.jpg" data-tags="rock" role="button">
+Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop (1996-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
