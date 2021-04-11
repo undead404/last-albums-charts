@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:02:01.440Z
+date: 2021-04-11T00:55:01.424Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -114,6 +114,9 @@ Cascada - Everytime We Touch (2006-02-21)
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
+Fergie - The Dutchess (2006-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
@@ -216,9 +219,6 @@ David Guetta - One Love (2009-08-21)
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">
 Madonna - Celebration (2009-09-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
-deadmau5 - For Lack of a Better Name (2009-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
@@ -255,6 +255,9 @@ Katy Perry - Teenage Dream (2010-08-24)
 <li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">
 Duck Sauce - Barbra Streisand (2010-09-13)
 </li>
+<li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
+Shakira - Sale el Sol (2010-10-14)
+</li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Cannibal (2010-11-19)
 </li>
@@ -287,9 +290,6 @@ Neon Trees - Everybody Talks (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b16a2ad-44b4-4e6d-8529-076ef93acd77/1967160750-500.jpg" data-tags="dance, avicii" role="button">
 Avicii - Silhouettes (2012-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
-Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)

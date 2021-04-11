@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:54:01.475Z
+date: 2021-04-11T01:08:01.422Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -126,9 +126,6 @@ Yiruma - First Love (2001-12-01)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
-<li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
-Vanessa Carlton - Be Not Nobody (2002-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d089bd9-3344-4de7-bf3f-678d3cf70a76/9205163692-500.jpg" data-tags="piano" role="button">
 Vienna Teng - Waking Hour (2002-11-05)
 </li>
@@ -201,9 +198,6 @@ Kevin Kern - Imagination's Light (2005-07-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Jamie Cullum - Catching Tales (2005-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5518064-7269-3e9a-9fd9-3cd4be58d23e/8078538085-500.jpg" data-tags="rock" role="button">
-Train - For Me, It's You (2006-01-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
 </li>
@@ -246,6 +240,9 @@ Balmorhea - Rivers Arms (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/466e6aaf-b8da-484a-a772-c0702f91ffa1/3366571520-500.jpg" data-tags="polish, piano, alternative" role="button">
 Julia Marcell - It Might Like You (2008-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/a743f422-a794-4e46-8f48-959b15ca932a/27885926278-500.jpg" data-tags="piano" role="button">
+Ben Woods - A Collection of Thoughts (2008-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/5048b8c6-1214-4836-a48f-c2df38eaf099/7240585489-500.jpg" data-tags="alternative, cabaret" role="button">
 Amanda Palmer - Who Killed Amanda Palmer (2008-09-13)
 </li>
@@ -269,6 +266,9 @@ Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/b361668a-2c27-49d1-9d76-d5ad374c789b/6674977315-500.jpg" data-tags="piano" role="button">
+Akira Kosemura - Polaroid Piano (2009-08-20)
 </li>
 <li data-cover="https://img.discogs.com/3Vr534L95-Y9u9gnP-aCv6gUaX4=/fit-in/600x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981264-1256500365.jpeg.jpg" data-tags="pop, marit larsen" role="button">
 Marit Larsen - If A Song Could Get Me You (2009-08-21)

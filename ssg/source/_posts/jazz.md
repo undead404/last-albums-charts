@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:24:01.470Z
+date: 2021-04-11T01:13:01.463Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/881f621c-618c-48da-80a8-50380996fe15/18485861293-500.jpg" data-tags="jazz, vocal jazz, 50s" role="button">
+Frank Sinatra - In the Wee Small Hours (1955-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/e4b6bef8-ce3b-4d62-99f6-e583c4a25eef/11743292141-500.jpg" data-tags="jazz" role="button">
 Thelonious Monk - Brilliant Corners (1957)
 </li>
@@ -114,6 +117,9 @@ Billie Holiday - Billie Holiday (1980)
 <li data-cover="http://coverartarchive.org/release/dfc0a733-c158-4eb7-9e4b-2a98492857af/8671054041-500.jpg" data-tags="jazz, piano" role="button">
 Bill Evans - You Must Believe in Spring (1981)
 </li>
+<li data-cover="https://img.discogs.com/15xkxLP4S1_usdxlx6ccsFE_DTc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1499888-1464972288-2969.jpeg.jpg" data-tags="soul, 80s" role="button">
+Sade - Diamond Life (1984-07-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - What A Wonderful World (1988)
 </li>
@@ -159,9 +165,6 @@ Nat King Cole - The Ultimate Collection (1999-11-08)
 <li data-cover="http://coverartarchive.org/release/08263e20-f4dc-464a-99d4-ea0a3380694a/8619198393-500.jpg" data-tags="jazz" role="button">
 Joni Mitchell - Both Sides Now (2000-02-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Sunset Mission (2000-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
 </li>
@@ -179,9 +182,6 @@ Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/863d6f97-4c29-46ad-ac35-03c6aaf8a6cd/17753189978-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Live In Paris (2002-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7bdac5f-438f-4b37-95df-2f008a408d9a/6642596762-500.jpg" data-tags="jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Black Earth (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
 Gabin - Gabin (2002-11-05)

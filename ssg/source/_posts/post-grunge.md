@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:43:06.994Z
+date: 2021-04-11T01:27:01.435Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -44,9 +44,6 @@ The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d8254a-d86e-4927-9cf3-1bd564c0a832/16379396858-500.jpg" data-tags="alternative, 90s, post-grunge" role="button">
 Dishwalla - Counting Blue Cars (1996-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/dd51cabe-c150-38cf-b0cd-ebc9e5c9994f/27541946371-500.jpg" data-tags="alternative rock, rock" role="button">
-Tonic - Lemon Parade (1996-07-16)
 </li>
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
@@ -101,6 +98,9 @@ Creed - Human Clay (1999-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/977b1d11-0420-43cd-9e65-a42a1e381411/15657150236-500.jpg" data-tags="industrial, alternative rock, hard rock" role="button">
 Filter - Title of Record (1999-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
+Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, grunge" role="button">
 Bush - The Science of Things (1999-10-26)

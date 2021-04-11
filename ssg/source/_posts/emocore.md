@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:17:01.406Z
+date: 2021-04-11T01:11:01.406Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -99,11 +99,17 @@ Taking Back Sunday - Where You Want to Be (2004-07-27)
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
 </li>
+<li data-cover="https://img.discogs.com/ojJinsXLqVidfTZ6XzTNU1f69Ck=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420674-1551653142-3081.jpeg.jpg" data-tags="emo" role="button">
+A Thorn For Every Heart - Things Aren't So Beautiful Now (2004-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/47fb2bb6-11dc-4153-b85c-51897c068351/8145109222-500.jpg" data-tags="emocore" role="button">
 Hopesfall - A Types (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/def35f73-abc3-4296-b41e-fc51ef0e177b/6677597463-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
+</li>
+<li data-cover="https://img.discogs.com/92GqRxhHkdiVJYLSw5pM5f3lEys=/fit-in/468x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231485-1202405620.jpeg.jpg" data-tags="emo, post-hardcore, emocore" role="button">
+Saosin - Capitol Demos (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4a0e8d0-ed76-4033-8ec3-8347cecdb860/15536848106-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Dear Whoever - Sound the Trumpet (2005)
@@ -167,9 +173,6 @@ Hawthorne Heights - If Only You Were Lonely (2006-02-28)
 </li>
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
-</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
 </li>
 <li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
@@ -317,8 +320,5 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
-Tove Lo - Queen of the Clouds (2014-09-24)
 </li>
 </ol>

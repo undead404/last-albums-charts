@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:23:06.992Z
+date: 2021-04-11T01:01:07.357Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -54,6 +54,9 @@ Eddie Hazel - Game, Dames And Guitar Thangs (1977)
 <li data-cover="http://coverartarchive.org/release/d4b01ae1-7a87-41e6-ad21-fd5dc95d3c10/12222390608-500.jpg" data-tags="70s, krautrock" role="button">
 Can - Saw Delight (1977)
 </li>
+<li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
+Japan - Adolescent Sex (1978-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
 </li>
@@ -62,6 +65,9 @@ Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
+</li>
+<li data-cover="https://img.discogs.com/eFRu1fKhwJU8dzsFzJD4UmbQDjM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14504765-1575900847-3364.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, funk, latin, funk rock" role="button">
+Kobranocka - Sztuka jest skarpetką kulawego (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
@@ -99,20 +105,8 @@ Living Colour - Biscuits (1991-09-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
-<li data-cover="https://img.discogs.com/u-J4mk2CvMjx2P9Lfjh9vCj62nA=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8817451-1469396738-5088.jpeg.jpg" data-tags="rock, alternative, alternative rock, funk, american, funk rock, rhcp" role="button">
-Red Hot Chili Peppers - Give It Away (1991-12-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
-Extreme - III Sides To Every Story (1992-08-20)
-</li>
-<li data-cover="https://img.discogs.com/WQZj-xfAaLTCC-eMXu8IxwYAaz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373112-1261422063.jpeg.jpg" data-tags="funk, metal" role="button">
-Praxis - Transmutation (Mutatis Mutandis) (1992-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/f0490e00-bf5f-45ce-b977-8e89dbb5d6b2/8120138180-500.jpg" data-tags="fusion" role="button">
-Allan Holdsworth - Wardenclyffe Tower (1992-10-20)
 </li>
 <li data-cover="https://img.discogs.com/raOClX5o2JTdJW58CjwDsrzNTww=/fit-in/600x428/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300616-1450088648-3728.jpeg.jpg" data-tags="alternative, modern rock, live, funk rock, s doctors" role="button">
 Spin Doctors - HOMEBELLY GROOVE (1992-11-24)
@@ -171,9 +165,6 @@ Snot - Get Some (1997)
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
-<li data-cover="https://img.discogs.com/jUetX0-_JnUicToH9lhH2wrpSI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10893303-1506082233-5282.png.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
-Incubus - Enjoy Incubus (1997-01-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
@@ -189,14 +180,14 @@ Red Hot Chili Peppers - Californication (1999-06-07)
 <li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
 O Rappa - Lado B Lado A (1999-09-15)
 </li>
-<li data-cover="https://img.discogs.com/BOVm2LL9AWwaxhS-ebRuyVisVcY=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602393-1137205374.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
-311 - Soundsystem (1999-10-12)
-</li>
 <li data-cover="https://img.discogs.com/fzRgl1_qWan58EQ2sode-Shk5DQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742573-1521612866-9802.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Antipop (1999-10-18)
 </li>
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ca0f1c9-d5f1-4001-ab83-e00a253133c3/5233810351-500.jpg" data-tags="hardcore" role="button">
+Suicidal Tendencies - Free Your Soul... and Save My Mind (2000-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2ce7197-a25c-4679-86b7-0e938cf2aebd/27852527490-500.jpg" data-tags="rapcore" role="button">
 Thousand Foot Krutch - Set It Off (2000-11-14)
@@ -210,8 +201,14 @@ Oysterhead - The Grand Pecking Order (2001-10)
 <li data-cover="http://coverartarchive.org/release/00372afe-dfa1-4ddd-b1dd-087c1c47acae/2411324448-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Lenny (2001-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7329d56-ec72-4cbb-a097-7eaf1ca35b77/11446651074-500.jpg" data-tags="black metal" role="button">
+Satanic Warmaster - Strength & Honour (2001-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf2f5de6-1eee-4c86-8362-3785643b9176/1853017669-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks" role="button">
 O'Funk'illo - En El Planeta Aseituna (2002)
+</li>
+<li data-cover="https://img.discogs.com/15qO8RiFk7jKlkL-2dRmmUfY_lI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904223-1435770635-5079.jpeg.jpg" data-tags="alternative rock, funk rock" role="button">
+Mother Tongue - Streetlight (2002)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
@@ -224,6 +221,9 @@ Freak Kitchen - Move (2002-10-23)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/350108bf-f2aa-4204-b327-42e5baf3f8e2/27074545882-500.jpg" data-tags="nu jazz, funk rock, single, film soundtrack" role="button">
+菅野よう子 - GET9 (2004-01-21)
 </li>
 <li data-cover="https://img.discogs.com/uvwRSOdqN8oOhhPa6Pon_JBFoqw=/fit-in/350x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040200-1260235214.jpeg.jpg" data-tags="guitar, instrumental guitar" role="button">
 Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)

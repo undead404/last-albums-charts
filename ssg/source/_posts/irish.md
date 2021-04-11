@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:28:01.434Z
+date: 2021-04-11T01:38:01.435Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -32,6 +32,9 @@ Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
+</li>
+<li data-cover="https://img.discogs.com/Ow-Gaovoa219SVHQbCTq-VoIkbA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-868401-1514550929-4213.jpeg.jpg" data-tags="punk" role="button">
+Stiff Little Fingers - Inflammable Material (1979-02-02)
 </li>
 <li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
@@ -69,6 +72,9 @@ Enya - Shepherd Moons (1991-11-04)
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
 </li>
+<li data-cover="https://img.discogs.com/vXJgBJdXPiM5T2pxQTW4w7gIVGM=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14233630-1570386536-6094.jpeg.jpg" data-tags="irish, celtic" role="button">
+The Chieftains - The Best of the Chieftains (1992-01-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 </li>
@@ -89,9 +95,6 @@ Ronan Hardiman - Michael Flatley's Lord Of The Dance (1996)
 </li>
 <li data-cover="https://img.discogs.com/uqL-t2fouX_2r9RfBc_E5eq5pKk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829486-1455603083-9695.jpeg.jpg" data-tags="irish" role="button">
 The Dubliners - The Best Of The Dubliners (1996)
-</li>
-<li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
-The Corrs - Forgiven, Not Forgotten (1996-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3139e3a4-a7e7-40ee-a124-2d2830971c4e/14483468542-500.jpg" data-tags="indie, rock, alternative, irish, irish music" role="button">
 The Frames - Fitzcarraldo (1996-11-29)
@@ -114,9 +117,6 @@ The Dubliners - The Dubliners (1998)
 <li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
 Gaelic Storm - Gaelic Storm (1998-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d09adeed-3e9c-4b53-90c6-51a95c0466e6/5213019127-500.jpg" data-tags="pop" role="button">
-B*Witched - B*Witched (1998-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
 </li>
@@ -128,9 +128,6 @@ Westlife - Westlife (1999-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc1f2430-bdd5-4070-95a1-58fe9067811b/3600810436-500.jpg" data-tags="folk, pop, irish" role="button">
 The Corrs - Unplugged (1999-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/f297b8c5-2107-42c8-8a86-f70003f2c394/21687041041-500.jpg" data-tags="irish, celtic" role="button">
-Altan - Another Sky (2000-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Swagger (2000-03-07)
@@ -194,6 +191,9 @@ Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Within a Mile of Home (2004-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7672ca3-e0f4-4701-94ad-9dc4c0043b8f/25419446052-500.jpg" data-tags="alternative rock" role="button">
+The Frames - Burn the Maps (2004-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1eccc76d-a24a-3066-ab4f-85e2efffb251/7947210173-500.jpg" data-tags="rock, u2" role="button">
 U2 - How to Dismantle an Atomic Bomb (2004-11-17)

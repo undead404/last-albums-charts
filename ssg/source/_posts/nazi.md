@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:14:01.458Z
+date: 2021-04-11T00:58:01.529Z
 title: "nazi: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -7,7 +7,7 @@ title: "nazi: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
+<li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Attila - About That Life (2013-06-25)</li>
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/FO1suXIUx2_mrDxsWntFEqKgU0I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994380-1536934443-5526.jpeg.jpg" data-tags="rac" role="button">
-No Remorse - This Time the World (1988)
+<li data-cover="https://img.discogs.com/vbdAfPtK7nhUiVHIYZkE7BuJeGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3666825-1339529034-2160.jpeg.jpg" data-tags="british, england, english, rac, wpww, britain, oi, nazi, racist, ns, rock against communism, white music for white people, hitler, aryan, anti-communism, white power, national socialist, wp, adolf hitler, anti-semitic, antisemite, sieg heil, white pride, wp rock, anti-communist, white power rock, white pride world wide, national socialism, aryan pride, heil hitler, british rac, anti jewish, anti-jewish, anti semitic, anti communism, run when you hear this you halfbreed filth, sieg heil hakenkreuz, anti communist, aryan power, hakenkreuz oi, fuck equality, racism in music rules, real oi is rac, hitler was right, martial oi" role="button">
+Vengeance - Demo (1978)
 </li>
 <li data-cover="https://img.discogs.com/bAR6sOsGkLJ4WDnGLQ7px52XPFk=/fit-in/282x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281711-1282078781.jpeg.jpg" data-tags="oi, nazi" role="button">
 Close Shave - Hard As Nails (1990)
@@ -51,6 +51,9 @@ Hard Skin - Hard Nuts and Hard Cunts (1996)
 <li data-cover="http://coverartarchive.org/release/78835764-5e63-4dc1-993a-a864c1ea57b8/16083964350-500.jpg" data-tags="neofolk, experimental" role="button">
 Scorpion Wind - Heaven Sent (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/b2851e29-88b7-4239-8ddd-e218fa72e84f/17864857446-500.jpg" data-tags="germany, rac" role="button">
+A.D.F. - Nur für Euch (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/5dd601a1-c415-4077-8719-dcf499ce231e/15096332649-500.jpg" data-tags="anti-communist" role="button">
 Midtown Bootboys - Unfinished Business (1996)
 </li>
@@ -69,11 +72,17 @@ Anal Cunt - I Like It When You Die (1997-02-11)
 <li data-cover="http://coverartarchive.org/release/4f3216f3-b537-4901-9493-d10b229bbe49/15586456660-500.jpg" data-tags="metropolis" role="button">
 Funker Vogt - We Came To Kill (1997-08-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/e22acae9-c54e-42ae-9f02-852b25041d6c/15094664179-500.jpg" data-tags="british, hard rock, rac, wpww, britain, oi, nazi, racist, ns, rock against communism, white music for white people, hitler, aryan, anti-communism, white power, national socialist, wp, adolf hitler, anti-semitic, antisemite, sieg heil, white pride, anti-communist, white power rock, white pride world wide, national socialism, aryan pride, heil hitler, british rac, anti jewish, anti-jewish, anti semitic, anti communism, run when you hear this you halfbreed filth, sieg heil hakenkreuz, anti communist, aryan power, fuck equality, racism in music rules, real oi is rac, celtic warrior, hitler was right" role="button">
+No Quarter - Fields of Glory (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/4b985536-684f-4c60-92be-338d722cbbf6/26140981665-500.jpg" data-tags="rock, punk, 90s, germany, deutsch, skinhead, punk rock, german, deutschland, street punk, rac, nationalist, wpww, oi, street rock, nazi, racist, ns, impossible for liberals to deal with, working class, rock against communism, white music for white people, rechtsrock, white power, national socialist, wp, skinhead rock, luni, white pride, nazi punk, white power rock, white pride world wide, heil hitler, german rac, rock gegen zog, doitsch, nationale rockmusik, nationalsozialismus, run when you hear this you halfbreed filth, sieg heil hakenkreuz, punks not red, fuck equality, racism in music rules, reich n roll, real oi is rac, hitler was right" role="button">
 Landser - Guess who's coming to Dinner? (1998)
 </li>
 <li data-cover="https://img.discogs.com/No34-PdGGQlsvs80DCqiisZncFg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3223938-1368351691-7267.jpeg.jpg" data-tags="rac" role="button">
 Whitelaw - Take The Salute (1998)
+</li>
+<li data-cover="https://img.discogs.com/zLY0rQL3tKwDZLNea38RqdcVm4g=/fit-in/535x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10394142-1538601849-3896.jpeg.jpg" data-tags="metal, death metal, rac, czech, rock against communism, czech metal, ns metal, czech rac" role="button">
+Excalibur - Thurisaz (1999)
 </li>
 <li data-cover="https://img.discogs.com/VADWMHKKqYt6FKHoEerC8AaiiR8=/fit-in/588x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-306530-1337115294-4875.jpeg.jpg" data-tags="martial industrial, industrial, martial" role="button">
 Kreuzweg Ost - Iron Avantgarde (2000)
@@ -92,6 +101,9 @@ Warhammer - Valhalla's Warriors (2000)
 </li>
 <li data-cover="https://img.discogs.com/ilurPbl_C6qUiE19lNb-skCjzSA=/fit-in/200x201/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4320289-1361649697-1689.jpeg.jpg" data-tags="skinhead, rac, nazi, anti-islam, white power" role="button">
 Spirit of 88 - White Power Skinheads (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c8fe992-ce03-4d88-af4a-fb6c8ab9f48d/15094686820-500.jpg" data-tags="british, hard rock, rac, wpww, britain, oi, nazi, racist, ns, rock against communism, white music for white people, hitler, aryan, anti-communism, white power, national socialist, wp, adolf hitler, anti-semitic, antisemite, sieg heil, white pride, anti-communist, white power rock, white pride world wide, national socialism, aryan pride, heil hitler, british rac, anti jewish, anti-jewish, anti semitic, anti communism, run when you hear this you halfbreed filth, sieg heil hakenkreuz, anti communist, aryan power, fuck equality, racism in music rules, real oi is rac, celtic warrior, hitler was right" role="button">
+No Quarter - Who Dares Wins (2000)
 </li>
 <li data-cover="https://img.discogs.com/X8jKiR3F3zJnVoYriLfJa2iqkXE=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999522-1431363747-2181.jpeg.jpg" data-tags="rock, punk, 90s, germany, deutsch, skinhead, punk rock, german, deutschland, street punk, rac, nationalist, wpww, street rock, nazi, racist, impossible for liberals to deal with, working class, rock against communism, white music for white people, rechtsrock, white power, national socialist, skinhead rock, luni, white pride, nazi punk, white power rock, white pride world wide, heil hitler, german rac, rock gegen zog, doitsch, nationale rockmusik, nationalsozialismus, run when you hear this you halfbreed filth, sieg heil hakenkreuz, punks not red, fuck equality, racism in music rules, reich n roll, real oi is rac, hitler was right" role="button">
 Landser - Zigeunerfahrt (2000)
@@ -125,6 +137,9 @@ Death in June - All Pigs Must Die (2001-11-23)
 </li>
 <li data-cover="https://img.discogs.com/8k2luoTLzU67axrUF7VDaUSZCvg=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5270460-1482314550-5872.jpeg.jpg" data-tags="anti-communist" role="button">
 Jew Slaughter - Alcoholocaust (2002)
+</li>
+<li data-cover="https://img.discogs.com/ndX_T-VQMU3-PIjF7v_PVcrokCA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382856-1291385805.jpeg.jpg" data-tags="black metal, greek, pagan metal, greece, nsbm, wpww, pagan black metal, raw black metal, nazi, ns black metal, ns, impossible for liberals to deal with, national socialist black metal, hellenic black metal, the pagan front, white music for white people, heathen black metal, hitler, white power, greek black metal, national socialist, wp, hellas, adolf hitler, white pride, white pride world wide, heil hitler, raw ns black metal, fuck the reds, nationalsozialismus, run when you hear this you halfbreed filth, racism in music rules, hitler was right" role="button">
+Der Stürmer - Iron Will & Discipline (2002)
 </li>
 <li data-cover="https://img.discogs.com/PUeY7L6LQuuZlpHl75oYrQ46BMo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442573-1389441720-8054.jpeg.jpg" data-tags="rac" role="button">
 Skullhead - Victory or Valhalla! (2002)
@@ -171,9 +186,6 @@ Warhammer - We Are the Law (2005)
 <li data-cover="https://img.discogs.com/1oSndP_Pwm3Xo0eqVUnBWOCYg4w=/fit-in/600x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680611-1384521889-1044.jpeg.jpg" data-tags="ss, nazi" role="button">
 Gestapo 666 - Black Gestapo Metal (2005-06-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c6bc54b-0654-4593-bf15-64293d4a97b9/17611920818-500.jpg" data-tags="industrial, metropolis" role="button">
-Funker Vogt - Navigator (2005-09-05)
-</li>
 <li data-cover="https://img.discogs.com/3ObE5qWNT0X7a72A61kBy06ATJo=/fit-in/581x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2244234-1302119682.jpeg.jpg" data-tags="black metal, skinhead, ukraine, pagan metal, rac, ukrainian, nsbm, wpww, hatecore, ukrainian metal, nazi, racist, ns black metal, ns, national socialist black metal, rock against communism, white music for white people, hitler, aryan, anti-communism, white power, national socialist, wp, adolf hitler, anti-semitic, ns metal, antisemite, sieg heil, white pride, h8core, anti-communist, white power rock, white pride world wide, national socialism, aryan pride, heil hitler, anti jewish, anti-jewish, fuck the reds, anti semitic, anti communism, nationalsozialismus, run when you hear this you halfbreed filth, sieg heil hakenkreuz, ukrainian rac, anti communist, aryan power, fuck equality, racism in music rules, moskalyaku na gillyaku, hitler was right" role="button">
 Лють - The Day Of The Rope (2006)
 </li>
@@ -210,9 +222,6 @@ Attila - Soundtrack to a Party (2008-12-09)
 <li data-cover="http://coverartarchive.org/release/d7e411b1-ab96-4384-9a39-98d9f9e53825/1130172133-500.jpg" data-tags="emo, russian pop, not industrial, nazi, national socialist black metal, not gothic, gothic kircore, post-kircore, copro" role="button">
 Deform - Дети телевизора (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/37592a76-6878-331b-a8c8-5d3bcad37b6e/15565825641-500.jpg" data-tags="electronic, synthrock" role="button">
-Apoptygma Berzerk - Rocket Science (2009-01-23)
-</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
@@ -228,9 +237,6 @@ skinfull - Drinking Class Heroes (2010-03-23)
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
@@ -245,12 +251,6 @@ DJ Himmler - Unreleased (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/baab743e-172b-4eb3-9b42-0dc71d06128a/26275550507-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
 Deafheaven - Libertine Dissolves (2011-01-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
 Attila - Outlawed (2011-08-16)

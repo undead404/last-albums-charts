@@ -1,13 +1,13 @@
 ---
-date: 2021-04-09T22:22:01.420Z
+date: 2021-04-11T00:56:01.395Z
 title: "chicago: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Graduation (2007-09-05)](http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg "Kanye West - Graduation (2007-09-05)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/874cb9b2-f63e-4b58-83bd-3b45a2fd4c28/20426393023-500.jpg" data-tags="classic rock, chicago" role="button">Chicago - Chicago X (1976-06-14)</li>
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">Chicago - If You Leave Me Now (1989)</li>
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">Chicago - The Chicago Story (1989)</li>
-<li data-cover="http://coverartarchive.org/release/41da6a82-5aec-4fbb-93a7-afbd08bd7728/25484422878-500.jpg" data-tags="chicago, singer-songwriter" role="button">Jim O'Rourke - Insignificance (2001-11-19)</li>
+<li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">Jim O'Rourke - Bad Timing (1997-08-25)</li>
+<li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">Jim O'Rourke - Eureka (1999-02-10)</li>
 <li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">The Sea and Cake - One Bedroom (2003-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">Kanye West - Graduation (2007-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/044a26ca-91ad-4db2-96b1-17356bcb2b0d/10805655860-500.jpg" data-tags="live, chicago, panic at the disco, pretty odd" role="button">Panic! at the Disco - Live In Chicago (2008-12-02)</li>
@@ -27,9 +27,6 @@ Aorta - Aorta (1968)
 <li data-cover="http://coverartarchive.org/release/7dc4d2ac-9f3e-4be5-9f12-133003a87763/1879022100-500.jpg" data-tags="classic rock, 70s, chicago, stuff i need" role="button">
 Chicago - 25 or 6 to 4 (1970-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f50be88-b6c4-38d2-b37f-347492891e98/7165703631-500.jpg" data-tags="blues" role="button">
-Howlin' Wolf - The London Howlin' Wolf Sessions (1971-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
 Gil Scott-Heron - Free Will (1972)
 </li>
@@ -39,14 +36,8 @@ Earth, Wind & Fire - Last Days And Time (1972)
 <li data-cover="https://img.discogs.com/-U5D1RrA9LmeBJM5PG8QyBY2h1M=/fit-in/592x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4730339-1373665302-7215.jpeg.jpg" data-tags="folk" role="button">
 Steve Goodman - Somebody Else's Troubles (1972)
 </li>
-<li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="classic rock, 70s" role="button">
-Chicago - Chicago V (1972-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/874cb9b2-f63e-4b58-83bd-3b45a2fd4c28/20426393023-500.jpg" data-tags="classic rock, chicago" role="button">
-Chicago - Chicago X (1976-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/e56a2159-29fe-471a-845b-96c3d7e4a4bb/19634722739-500.jpg" data-tags="chicago" role="button">
-Chicago - Chicago 17 (1984-05-14)
+<li data-cover="http://coverartarchive.org/release/3f55257d-18b4-4b0b-806a-8389a7fe520b/9991266060-500.jpg" data-tags="chicago" role="button">
+Chicago - Live in Japan (1975)
 </li>
 <li data-cover="https://img.discogs.com/JRiL8GQUVk6x_naHUjG-wZVtwAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-456123-1419622068-4230.jpeg.jpg" data-tags="indie, 80s, hardcore, punk rock, chicago, quarterstick, the really loved,  alternative rock,  punk,  post-hardcore" role="button">
 Naked Raygun - All Rise (1985)
@@ -66,26 +57,20 @@ Chicago - The Heart of Chicago (1989)
 <li data-cover="http://coverartarchive.org/release/d54d5224-3b72-4047-a343-b7fa1819e571/13022249903-500.jpg" data-tags="jazz, blues, swing, chicago, lou rawls - at last, meuitunesradio" role="button">
 Lou Rawls - At Last (1989-06)
 </li>
-<li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="80s, rock" role="button">
-Chicago - Greatest Hits 1982-1989 (1989-11-21)
-</li>
 <li data-cover="https://img.discogs.com/8Q2MyEyygKokpcWqLKQTn9b3BpI=/fit-in/450x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393110-1216743138.jpeg.jpg" data-tags="hip-hop, hip hop, rap, chicago, west coast rap, 50 cent" role="button">
 2nd II None - 2nd II None (1991-09-06)
 </li>
 <li data-cover="https://img.discogs.com/PsimioOuGAIjlH2mNQeUg-BFrDo=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891045-1507296067-5288.jpeg.jpg" data-tags="grunge, indie rock, chicago, radio friendly stylings, brian deck" role="button">
 Red Red Meat - Jimmywine Majestic (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a22e40e-6c36-40c3-91fb-ea3186ae50a6/6637786971-500.jpg" data-tags="rnb, r.kelly" role="button">
-R. Kelly - 12 Play (1993-11-09)
-</li>
 <li data-cover="https://img.discogs.com/aUjbOLW13snEbHz97kHMPfEZsmk=/fit-in/379x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-97896-1244824512.jpeg.jpg" data-tags="post-rock" role="button">
 Tortoise - Tortoise (1994-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c6ea3f7-00de-42f7-97d9-b907dc827d9f/18905274576-500.jpg" data-tags="indie, punk, hardcore, indie rock, punk rock, chicago, melodic punk" role="button">
+Pegboy - Earwig (1994-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/f82b132c-ec40-4d92-85e5-f06e89073dac/12379445315-500.jpg" data-tags="instrumental, post rock" role="button">
 Tortoise - Gamera (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1857ee6-93b1-4533-a064-acc4ca539272/5311936509-500.jpg" data-tags="rnb, soul" role="button">
-R. Kelly - R. Kelly (1995-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcad4908-5c7e-4ce6-b35c-07af5e510f6e/2820247452-500.jpg" data-tags="classic rock, chicago" role="button">
 Chicago - The Very Best of Chicago (1996-02-12)
@@ -96,14 +81,8 @@ The Spinanes - Strand (1996-02-27)
 <li data-cover="https://img.discogs.com/ymkDO5r1K6X8BdkI0bwISdAZGT8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-932744-1546043774-2762.jpeg.jpg" data-tags="rock, grunge, alternative, 90s, chicago" role="button">
 Catherine - Hot Saki & Bedtime Stories (1996-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9c0fd86-f1b9-4929-ae4c-e2559cd30f6d/9165380154-500.jpg" data-tags="classic rock" role="button">
-Chicago - The Heart of Chicago 1967-1997 (1997-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
-</li>
-<li data-cover="https://img.discogs.com/qM9G6ebeE5j65uldQXIspxQappQ=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50293-1308899532.jpeg.jpg" data-tags="minimal, perfection, grapefruits and limes" role="button">
-Gastr Del Sol - Camoufleur (1998-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a82df7f4-ee60-4258-abec-a44af8bdeab3/15736316159-500.jpg" data-tags="chicago" role="button">
 Do Or Die - Headz Or Tailz (1998-04-07)
@@ -123,8 +102,8 @@ Isotope 217 - Utonian Automatic (1999-08-10)
 <li data-cover="http://coverartarchive.org/release/3742b473-5099-4e27-8c4e-2eec5844c0e2/8791287911-500.jpg" data-tags="punk rock, punk" role="button">
 Alkaline Trio - Alkaline Trio (2000-04-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/94393267-bb0d-4f0e-b0b9-9d2568a5311d/5831989734-500.jpg" data-tags="deep house, house" role="button">
-Glenn Underground - Lounge Excursions (2000-06-20)
+<li data-cover="http://coverartarchive.org/release/26f560c2-1fca-4a01-b250-0282c09a5e51/25619832749-500.jpg" data-tags="indie" role="button">
+L'Altra - Music of a Sinking Occasion (2000-07-18)
 </li>
 <li data-cover="https://img.discogs.com/pXZ4Sq_vwMwWhMj2m213w5Amo44=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820130-1162129166.jpeg.jpg" data-tags="avantgarde, chicago" role="button">
 David Grubbs - The Spectrum Between (2000-07-31)
@@ -132,20 +111,32 @@ David Grubbs - The Spectrum Between (2000-07-31)
 <li data-cover="http://coverartarchive.org/release/d4121281-c4ff-3381-b151-61d009bf14e5/28326516752-500.jpg" data-tags="indie, indie rock" role="button">
 The Sea and Cake - Oui (2000-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ec225a7-0d80-4680-a907-06028e19b4fc/6669676173-500.jpg" data-tags="hip-hop, underground rap, chicago, midwest, underground hiphop, galapagos4, hop-funky n jazzy, takin a train" role="button">
-Typical Cats - Typical Cats (2001-02-06)
-</li>
 <li data-cover="https://img.discogs.com/wEVmjB8r-QkhQT7UxI0AxtuVvbU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653853-1221365374.jpeg.jpg" data-tags="instrumental, post rock, chicago, silence, thrill jockey" role="button">
 Pullman - Viewfinder (2001-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/41da6a82-5aec-4fbb-93a7-afbd08bd7728/25484422878-500.jpg" data-tags="chicago, singer-songwriter" role="button">
-Jim O'Rourke - Insignificance (2001-11-19)
+<li data-cover="https://img.discogs.com/vIQdOItd_w0Y9XYXntBAuEBw6IA=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50990-001.jpg.jpg" data-tags="minimal" role="button">
+Greg Davis - Arbor (2002-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/43930ed7-0918-4ec0-8be6-9f3944ac58ce/4759157962-500.jpg" data-tags="electronic, indie, 00s, chicago, invisible, jeas-reinhoer-ok" role="button">
+TRS-80 - Mr. Kickass (2002-03-05)
 </li>
 <li data-cover="https://img.discogs.com/MsSJOGBzz2q8ebCyDG_h-Vatrrc=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-75610-001.jpg.jpg" data-tags="indie rock, post rock, chicago, fat cat, roch in my head" role="button">
 David Grubbs - Rickets & Scurvy (2002-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/1f36819f-2d11-4142-9a84-bfd98cd80f26/21319431838-500.jpg" data-tags="indie rock, singer-songwriter, thrill jockey" role="button">
+Archer Prewitt - Three (2002-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a9b47bb-db55-45b0-b463-b629f02fa2b8/22629272226-500.jpg" data-tags="chicago" role="button">
+Chicago - The Chicago Story: The Complete Greatest Hits (2002-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7df34c0-7cbf-472e-b9d5-300d8d271614/19877564974-500.jpg" data-tags="indie, indie rock, chicago, fashion brigade, to purchase" role="button">
+The Scotland Yard Gospel Choir - I Bet You Say That To All The Boys (2003)
+</li>
 <li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">
 The Sea and Cake - One Bedroom (2003-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4537dea1-a32a-4e85-81f0-8794e1815798/27792329820-500.jpg" data-tags="skin graft" role="button">
+Cheer-Accident - Introducing Lemon (2003-09-16)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="alternative rock" role="button">
 Billy Corgan - 2005-06-28: Webster Hall, New York City, NY, USA (2003-09-17)
@@ -153,20 +144,17 @@ Billy Corgan - 2005-06-28: Webster Hall, New York City, NY, USA (2003-09-17)
 <li data-cover="https://img.discogs.com/CqqXHNYauLxL4WTzJCmpTfcLEHM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828339-1398882519-5399.jpeg.jpg" data-tags="punk rock" role="button">
 The Lawrence Arms - The Greatest Story Ever Told (2003-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4685c4c2-89cd-4d39-a791-f244f047811f/3207561367-500.jpg" data-tags="underground rap, underground hip-hop, chicago, midwest, underground hiphop" role="button">
-Diverse - One A.M. (2003-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/70349941-f83b-46f6-9f1c-24fa0058d291/16194738716-500.jpg" data-tags="indie, usa, unclassifiable, scifi, eclectic, novelty, chicago, sci-fi, checkout, star wars, 2000s, dr. demento, science fiction, favourite artists, debut album, stuff, star trek, william shatner, current favourites, leonard nimoy" role="button">
 Aaron Ackerson - The Sexiest Man on Earth (2004-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
 </li>
-<li data-cover="https://img.discogs.com/9vBatjJ3XCHg_1rHSUPhTzPIKms=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642968-1587148176-9049.jpeg.jpg" data-tags="underground rap, chicago, jazz hop, midwest, conscious, underground hiphop, galapagos4" role="button">
-Typical Cats - Civil Service (2004-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c0d0b8d-f9b0-4a27-bf26-ed4939da6625/8164817096-500.jpg" data-tags="indie rock" role="button">
 Chin Up Chin Up - We Should Have Never Lived Like We Were Skyscrapers (2004-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d49f880d-cf55-4da8-a6dd-2b1a072bb22c/25193321987-500.jpg" data-tags="rock, alternative, garage, band, chicago, minty fresh, indies" role="button">
+The Living Blue - Fire, Blood, Water (2005)
 </li>
 <li data-cover="https://img.discogs.com/gzq6yBNOkJYkHsKL4-nGtGLO0U0=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-481567-1411213137-8865.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
 Archer Prewitt - Wilderness (2005-01-24)
@@ -204,17 +192,17 @@ Bounte - One (2007-03-27)
 <li data-cover="https://img.discogs.com/28g2QoyaRtR80HR99AjYi1niUR8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-983618-1180641044.jpeg.jpg" data-tags="00s, thrill jockey" role="button">
 The Sea and Cake - Everybody (2007-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/19d70c9d-e34b-4fe7-a165-6f878c2849bf/4402698733-500.jpg" data-tags="common, hip-hop" role="button">
-Common - Finding Forever (2007-07-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
+</li>
+<li data-cover="https://img.discogs.com/kfbeRe8scUn9VKWqOXB-3tET-sc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4388267-1363548506-6671.jpeg.jpg" data-tags="indie, indie rock, 00s, chicago, greyday" role="button">
+Head of Femur - Great Plains (2008)
 </li>
 <li data-cover="https://img.discogs.com/33sU7Oi8EjM0Z-qZPCsV-zgzaW8=/fit-in/530x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332401-1411585595-3520.jpeg.jpg" data-tags="indie rock" role="button">
 Mahjongg - Kontpab (2008-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="80s, pop rock, soft rock" role="button">
-Toto - Fahrenheit (2008-03-17)
+<li data-cover="http://coverartarchive.org/release/58c68a1a-4b68-440a-9bcd-eeb77fc10f2c/21486998738-500.jpg" data-tags="indie rock" role="button">
+Sybris - Into the Trees (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07976c0f-884c-48bf-bcb9-b13a32095f84/19860467026-500.jpg" data-tags="indie, indie rock, 00s, chicago, flameshovel" role="button">
 Bound Stems - The Family Afloat (2008-09-09)
@@ -224,9 +212,6 @@ Panic! at the Disco - Live In Chicago (2008-12-02)
 </li>
 <li data-cover="https://img.discogs.com/47-Wv0VplMLpEfhHNkRHYK2fYLg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2379892-1280619421.jpeg.jpg" data-tags="indie, pop, powerpop, chicago, relax, tasty" role="button">
 Office - Mecca (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/644c1004-2252-4be3-912f-e5bfd067fb24/23766556441-500.jpg" data-tags="indie, folk, 00s, chicago, carrot top" role="button">
-Speck Mountain - Some Sweet Relief (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/2fGPP7QlQXF4vZICZNHvNBdUkZY=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2363552-1281494844.jpeg.jpg" data-tags="indie rock, kranky" role="button">
 Disappears - Lux (2009-04-12)
@@ -258,20 +243,26 @@ Light Pollution - Apparitions (2010-06-08)
 <li data-cover="http://coverartarchive.org/release/10fe0510-449a-4407-9b85-548fd223708c/16174633123-500.jpg" data-tags="indie" role="button">
 Maps & Atlases - Perch Patchwork (2010-06-29)
 </li>
+<li data-cover="https://img.discogs.com/jY0faLn0aDKfw69KbQInFoNIkf4=/fit-in/460x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2433891-1288495850.jpeg.jpg" data-tags="indie, chicago, 10s" role="button">
+Mahjongg - The Long Shadow of the Paper Tiger (2010-07-20)
+</li>
 <li data-cover="https://img.discogs.com/v04drdL_TpH6WTSAwp2vmrxYomo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469104-1286484509.jpeg.jpg" data-tags="planet mu, chicago, footwork, juke, hella good, footwurk" role="button">
 DJ Nate - Da Trak Genious (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
 How to Dress Well - Love Remains (2010-09-21)
 </li>
+<li data-cover="https://img.discogs.com/6tFIY57eNTI0us3DNpegJzE7-jM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3011629-1311629849.png.jpg" data-tags="indie rock, garage rock, chicago, white mystery, francis white, miss alex white" role="button">
+White Mystery - Blood & Venom (2011)
+</li>
 <li data-cover="https://img.discogs.com/VW6S4ITmQoz624MGkaZTtuRTSIc=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2617096-1382935053-9190.jpeg.jpg" data-tags="indie, rock, indie rock, psychedelia, kranky, chicago, 10s" role="button">
 Disappears - Guider (2011-01-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/cebbfef2-9498-4e0a-a8aa-2b0be444cb62/21913345233-500.jpg" data-tags="punk, emo, chicago, hanging, midwest emo" role="button">
+CSTVT - CSTVT (2011-02-15)
+</li>
 <li data-cover="https://img.discogs.com/d6Gvm3rArD3uLl5RJgsTmClpwb4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2998067-1343189893-7049.jpeg.jpg" data-tags="indie, chicago, 10s, thrill jockey, thrill jockey records" role="button">
 The Sea and Cake - The Moonlight Butterfly (2011-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5f851d6-3426-4f49-b28b-b28cc0b19d2a/3951039915-500.jpg" data-tags="post-punk" role="button">
-Disappears - Pre Language (2012-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d95e2f4-96fa-4d42-a88a-61a013e4b1c5/11724559730-500.jpg" data-tags="indie" role="button">
 Andrew Bird - Break It Yourself (2012-03-02)
@@ -282,6 +273,9 @@ Chance the Rapper - 10 Day (2012-04-15)
 <li data-cover="http://coverartarchive.org/release/4e2b83db-ffc6-4bd9-a8e3-1df7d0c77afd/14970700300-500.jpg" data-tags="indie, indie rock" role="button">
 Maps & Atlases - Beware and Be Grateful (2012-04-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/fee23346-257a-4810-959e-614782a9282f/6532093891-500.jpg" data-tags="hip-hop, chicago, drill, lil durk" role="button">
+Lil Durk - I'm Still A Hitta (2012-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7936604-d5c7-4ce3-88e9-729b5ad2132a/3038654710-500.jpg" data-tags="indie, rock, indie pop, indie rock, post-rock, chicago, 10s, thrill jockey, thrill jockey records" role="button">
 The Sea and Cake - Runner (2012-09-18)
 </li>
@@ -290,6 +284,9 @@ Sonic Youth - Smart Bar Chicago 1985 (2012-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/094d0e6b-6ebc-4885-b55f-4bd1fc4aee40/2773600365-500.jpg" data-tags="post-metal" role="button">
 Neurosis - Honor Found in Decay (2012-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ff3b847-bca0-4d2c-8bd8-b2b249f1833f/6251011985-500.jpg" data-tags="heavy, alone, chicago, times, hozac, fix" role="button">
+Heavy Times - Fix It Alone (2013)
 </li>
 <li data-cover="https://img.discogs.com/7mtp6mw_RWzXuR8JenjyVlxwVCI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4176035-1381666495-6600.jpeg.jpg" data-tags="indie, chicago, 10s, thrill jockey" role="button">
 Brokeback - Brokeback and the Black Rock (2013-01)
@@ -317,6 +314,9 @@ Pelican - Forever Becoming (2013-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/14e2923f-2344-4d4c-9d24-02d18245412d/5929733555-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Memorial (2013-10-29)
+</li>
+<li data-cover="https://img.discogs.com/cDpUkBM5-bKWNLV5q4GfmUODnoE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11232132-1512369729-5442.jpeg.jpg" data-tags="indie, pop, rock, indie rock, garage, chicago, fuzz, garage pop" role="button">
+Varsity - Thanks For Nothing (2014-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1121f190-b9dc-4228-94b3-338be8e2cae5/8776134956-500.jpg" data-tags="indie, rock, dream pop, chicago, new release, self-released, american wolf" role="button">
 American Wolf - My Main Sport (2014-09-26)

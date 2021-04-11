@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:37:01.500Z
+date: 2021-04-11T00:50:01.396Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -102,6 +102,9 @@ Marilyn Manson - Antichrist Superstar (1996-10-08)
 <li data-cover="https://img.discogs.com/tut10eiUcU_etcgQbO5G5AULgwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102221-1175890818.jpeg.jpg" data-tags="industrial rock" role="button">
 Chemlab - East Side Militia (1996-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
+Econoline Crush - The Devil You Know (1997-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Pitchshifter - www.pitchshifter.com (1998-03-09)
 </li>
@@ -110,6 +113,9 @@ God Lives Underwater - Life In The So-Called Space Age (1998-03-24)
 </li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/32bc1026-306c-4c91-96af-3612c1319c74/17811086702-500.jpg" data-tags="christian rock, rock, industrial" role="button">
+Skillet - Hey You, I Love Your Soul (1998-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd7a8945-f7d9-40c3-91a3-35e68f82af13/11162402002-500.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Adios (1999-04-20)
@@ -189,9 +195,6 @@ Eisbrecher - Eisbrecher (2004-01-26)
 <li data-cover="http://coverartarchive.org/release/4f7e499c-f3fb-388e-bab2-c717355dcb33/27009614431-500.jpg" data-tags="industrial, industrial rock, synth-rock, orgy" role="button">
 Orgy - Punk Statik Paranoia (2004-02-24)
 </li>
-<li data-cover="https://img.discogs.com/x04cOsOQGC3eOFn4KonrrZn7Vro=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496615-1569765754-6021.jpeg.jpg" data-tags="industrial" role="button">
-The Birthday Massacre - Violet (2004-07)
-</li>
 <li data-cover="https://img.discogs.com/3nNi10FEq5Isod7Slvw7MumBu4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123215-1150505583.jpeg.jpg" data-tags="industrial rock, industrial, cyberpunk" role="button">
 Zeromancer - Eurotrash (2004-08-03)
 </li>
@@ -210,20 +213,17 @@ Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 <li data-cover="https://img.discogs.com/2UzYQlYbLgX8hEbK9PI_dbBtgz4=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545285-1441756329-4856.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - With Teeth (2005-04-27)
 </li>
-<li data-cover="https://img.discogs.com/rZR1gJ6bW3QUVPXILWNN7u1vWfc=/fit-in/371x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738875-1153754748.jpeg.jpg" data-tags="cyberpunk" role="button">
-Dope Stars Inc. - Neuromance (2005-08-22)
-</li>
 <li data-cover="https://img.discogs.com/_rhWtCaaRWl4b45YL1jr9oAQt_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15806625-1598148122-3966.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Hau Ruck (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0872bd24-f6ff-3387-9a10-582e6f0b5e35/15855961415-500.jpg" data-tags="industrial metal" role="button">
+Deathstars - Termination Bliss (2006-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9140307c-3fd4-4aef-9cc4-1a70608ab086/2547081348-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9294662-5a24-37ab-9fd7-e04a2480ab52/1068174325-500.jpg" data-tags="metal, industrial metal" role="button">
 Rob Zombie - Educated Horses (2006-03-27)
-</li>
-<li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
@@ -248,9 +248,6 @@ Emigrate - Emigrate (2007-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ffca1f5-0767-4f13-aa2d-a427edc33ab7/6282048450-500.jpg" data-tags="rock, alternative rock, progressive rock, maynard james keenan, maynard" role="button">
-Puscifer - Don't Shoot The Messenger (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/61638deb-6bce-3795-a26c-ac2a92b7e66c/3799679959-500.jpg" data-tags="industrial rock, electronic, industrial, remix" role="button">
 Nine Inch Nails - Y34RZ3r0r3mix3d (2007-11-20)
@@ -302,6 +299,9 @@ Killing Joke - MMXII (2012-01-01)
 </li>
 <li data-cover="https://img.discogs.com/ZIr-HPpfwmrAuKzHKqbiIt_EY6A=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3682585-1340200709-3247.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Born Villain (2012-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
+Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b23fdaf-d3b6-4550-b9e9-a615d0a96698/5769746782-500.jpg" data-tags="synth-rock" role="button">
 The Birthday Massacre - Hide and Seek (2012-10-09)

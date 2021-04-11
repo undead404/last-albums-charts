@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:17:06.954Z
+date: 2021-04-11T01:16:01.408Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -129,9 +129,6 @@ Miike Snow - Miike Snow (2009-06-09)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
-Memory Tapes - Seek Magic (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
@@ -174,6 +171,9 @@ Austra - Feel It Break (2011-05-13)
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
 </li>
+<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, chic" role="button">
+Crazy P - When We On (2011-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
@@ -194,6 +194,9 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
+</li>
+<li data-cover="https://img.discogs.com/CKYwnnaX5Vz0CMfc4RXqxVPc0xY=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3431855-1524164703-2890.jpeg.jpg" data-tags="experimental, experimental rock, indietronica, electro-rock, electronic rock, fatcat records, 010s, my gang 12" role="button">
+Breton - Other People's Problems (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
@@ -311,9 +314,6 @@ Bleachers - Strange Desire (2014-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e3920ad-3e0d-4948-8f17-fd44e7b36fcc/7819675340-500.jpg" data-tags="indietronica" role="button">
 The Griswolds - Be Impressive (2014-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
-Tove Lo - Queen of the Clouds (2014-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/27a438ce-dc97-446c-9855-fd1543807ce3/8637388968-500.jpg" data-tags="alternative, indietronica" role="button">
 Andrew McMahon in the Wilderness - Andrew McMahon In The Wilderness (2014-10-14)

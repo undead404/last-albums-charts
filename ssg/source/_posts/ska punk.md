@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:59:01.405Z
+date: 2021-04-11T00:47:12.637Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -29,9 +29,6 @@ Operation Ivy - Energy (1989-03-15)
 </li>
 <li data-cover="https://img.discogs.com/m8gMkP7Mn1jSXfEwT_KIW6ZwFqI=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230764-1432802058-7063.jpeg.jpg" data-tags="punk rock, hardcore punk" role="button">
 NOFX - S&M Airlines (1989-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a59d723c-fc7e-4e5a-9853-6b832e4675fd/3331655987-500.jpg" data-tags="punk rock" role="button">
-NOFX - Ribbed (1991-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a5c73ca-9819-49dc-baec-bb99573720c8/23134904254-500.jpg" data-tags="punk" role="button">
 Operation Ivy - Operation Ivy (1991-07-01)
@@ -141,6 +138,9 @@ Reel Big Fish - Why Do They Rock So Hard? (1998-10-20)
 <li data-cover="http://coverartarchive.org/release/c749b99e-5b95-4f15-8ede-c4e651dfddba/26642486330-500.jpg" data-tags="ska" role="button">
 Mustard Plug - Pray For Mojo (1999-03-16)
 </li>
+<li data-cover="https://img.discogs.com/26iUoLhV5IGa_TWTvpJF9b41G8E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146792-1603951387-6197.jpeg.jpg" data-tags="ska" role="button">
+Common Rider - Last Wave Rockers (1999-05)
+</li>
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
 </li>
@@ -179,6 +179,9 @@ Reel Big Fish - Favorite Noise (2002-03-04)
 </li>
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
+</li>
+<li data-cover="https://img.discogs.com/lX6GHwxBtezjfhTSEiNGyEbXsEQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395769-1392922372-3821.jpeg.jpg" data-tags="ska punk" role="button">
+Mustard Plug - Yellow #5 (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
 NOFX - The War on Errorism (2003-05-06)
@@ -272,9 +275,6 @@ Streetlight Manifesto - Somewhere In The Between (2007-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2527a0d-9d08-4afc-b995-a991433b73fc/6270370193-500.jpg" data-tags="pop punk, ska punk" role="button">
 Goldfinger - Hello Destiny (2008-04-22)
-</li>
-<li data-cover="https://img.discogs.com/g9CTWEDE4ecrjmviM71UTKqhuwU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2662453-1372420296-9961.jpeg.jpg" data-tags="ska punk" role="button">
-Less Than Jake - GNV FLA (2008-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/195b1120-6f49-48d5-af0b-9753aad7be4b/10142577578-500.jpg" data-tags="ska-punk" role="button">
 Ska-P - Lagrimas Y Gozos (2008-10-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:39:01.425Z
+date: 2021-04-11T01:31:18.087Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -222,6 +222,9 @@ Enslaved - Ruun (2006-05-02)
 <li data-cover="http://coverartarchive.org/release/cfa18638-8c64-4367-8fe0-9722c401f659/2692077559-500.jpg" data-tags="black metal, pagan metal" role="button">
 Kampfar - Kvass (2006-05-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ff4f9bf-b953-406c-99f5-329dd6920ace/18246291289-500.jpg" data-tags="viking metal" role="button">
+TrollfesT - Brakebein (2006-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">
 Eluveitie - Spirit (2006-06-01)
 </li>
@@ -233,9 +236,6 @@ Týr - Ragnarok (2006-09-22)
 </li>
 <li data-cover="https://img.discogs.com/TuNHQteGbYQl1AFFMRTQI_eS8rI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1869484-1520878173-2683.png.jpg" data-tags="viking metal" role="button">
 Myrkgrav - Trollskau, Skrømt og Kølabrenning (2006-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/be330949-0a9d-481e-88a1-a5dc9e882589/21777987081-500.jpg" data-tags="folk metal" role="button">
-Moonsorrow - V: Hävitetty (2007-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c2eec03-07b6-4ba8-80f0-da865591e029/2997012520-500.jpg" data-tags="viking metal" role="button">
 Ensiferum - One More Magic Potion (2007-02-07)

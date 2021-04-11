@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:01:06.870Z
+date: 2021-04-11T01:14:01.402Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -111,17 +111,20 @@ Underoath - They're Only Chasing Safety (2004-06-15)
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Siren Song of the Counter Culture (2004-08-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8ba136f-ecab-4a5a-8f3f-d43c31133d34/9767283611-500.jpg" data-tags="alternative, alternative rock, emo, power pop, pop punk, melodic hardcore" role="button">
+Saves the Day - Ups & Downs: Early Recordings and B-sides (2004-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/931a0ad7-8770-47ba-8e41-028310c91921/1091413978-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Chuck (2004-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/be2a16d3-c2e2-43be-99c8-1cfa37739130/7705738567-500.jpg" data-tags="hardcore" role="button">
-Have Heart - What Counts (2004-10-15)
 </li>
 <li data-cover="https://img.discogs.com/lHgIf8qkkgfvpEYMx1B7b0Tkc14=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146361-1195852068.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Strung Out - Exile In Oblivion (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
 He Is Legend - I Am Hollywood (2004-11-02)
+</li>
+<li data-cover="https://img.discogs.com/TCqUIMXeGooGzBjsEK6YDO3MbZI=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3453623-1330972438.jpeg.jpg" data-tags="melodic hardcore" role="button">
+No Trigger - Extinction In Stereo (2004-12-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/144b4ae6-5393-4351-8513-ec3b551f8ab8/15528192454-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Strike Anywhere - To Live In Discontent (2005-01-25)
@@ -141,9 +144,6 @@ Gallows - Orchestra of Wolves (2006)
 <li data-cover="https://img.discogs.com/erk1ntVaChPyHzzVSC8bH32s2jY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3444812-1330819299.jpeg.jpg" data-tags="hardcore, straight edge, melodic hardcore" role="button">
 Casey Jones - The Messenger (2006)
 </li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
-</li>
 <li data-cover="https://img.discogs.com/T53Mx8G9FkKxmfiifHlIAGTAYc0=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973535-1179570684.jpeg.jpg" data-tags="hardcore, melodic hardcore" role="button">
 Crime In Stereo - The Troubled Stateside (2006-04-18)
 </li>
@@ -161,9 +161,6 @@ Good Riddance - My Republic (2006-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -216,9 +213,6 @@ Rise Against - Appeal to Reason (2008-10-02)
 <li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
 As Cities Burn - Hell Or High Water (2009-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
-</li>
 <li data-cover="https://img.discogs.com/xK2Vjtlu9FFiVQaIFctHEYf396k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2710888-1344803766-1908.jpeg.jpg" data-tags="pop punk" role="button">
 Set Your Goals - This Will Be The Death of Us (2009-07-20)
 </li>
@@ -252,6 +246,9 @@ Basement - Songs About The Weather (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/c306736b-3be0-4c28-b14a-95a8929b9f17/15103144601-500.jpg" data-tags="metalcore, hardcore" role="button">
 The Ghost Inside - Returners (2010-06-08)
 </li>
+<li data-cover="https://img.discogs.com/7l--RrHRsRckHODoo81PzOrQVX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3149766-1536557176-4766.jpeg.jpg" data-tags="post-hardcore" role="button">
+The Amity Affliction - Youngbloods (2010-06-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
@@ -276,11 +273,11 @@ For the Fallen Dreams - Back Burner (2011-05-24)
 <li data-cover="http://coverartarchive.org/release/c040773a-9768-4328-8095-e5c08bec91d2/12077625512-500.jpg" data-tags="emo, post-hardcore, melodic hardcore" role="button">
 Basement - I Wish I Could Stay Here (2011-06-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/46721ca0-b386-437a-a8ff-06e83e3e1cf1/6756951839-500.jpg" data-tags="pop punk" role="button">
+The Story So Far - Under Soil and Dirt (2011-06-21)
+</li>
 <li data-cover="https://img.discogs.com/puJY5j6wEnfdKN3LgM_tarrNVko=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3223064-1321147837.jpeg.jpg" data-tags="melodic hardcore" role="button">
 Polar Bear Club - Clash Battle Guilt Pride (2011-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4a28d16-1cd3-4ee3-884b-0fb040ef8ef4/1209189340-500.jpg" data-tags="hardcore, melodic hardcore" role="button">
-Hundredth - Let Go (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa5a52d4-bd05-4f74-8ead-7c60928b9ad4/17980212370-500.jpg" data-tags="melodic hardcore, pop punk, post-hardcore" role="button">
 Close Your Eyes - Empty Hands and Heavy Hearts (2011-10-24)
@@ -290,6 +287,9 @@ Counterparts - The Current Will Carry Us (2011-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e745ab9a-0ba8-48a1-84b9-f3d809b14bca/11691646996-500.jpg" data-tags="hardcore, pop punk, melodic hardcore" role="button">
 Your Demise - The Golden Age (2012-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/75a9013b-c9e0-4299-8fdb-8c609e326a2c/6521215009-500.jpg" data-tags="metalcore" role="button">
+While She Sleeps - This Is The Six (2012-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e8bf44f-35bf-4b5d-8d26-fdbf128bedeb/3185047343-500.jpg" data-tags="post-hardcore" role="button">
 The Amity Affliction - Chasing Ghosts (2012-09-07)

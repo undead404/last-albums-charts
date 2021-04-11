@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T20:05:01.514Z
+date: 2021-04-11T01:24:01.454Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Exodus (1977)</li>
+<li data-cover="http://coverartarchive.org/release/5930d9d3-a056-44eb-b90c-83692b58dbad/16612832348-500.jpg" data-tags="reggae" role="button">Bob Marley & The Wailers - Uprising (1980-06-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Legend (1984-05-08)</li>
 <li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
-<li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">Manu Chao - Clandestino (1998-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">Seeed - New Dubby Conquerors (2001-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">Rihanna - Music of the Sun (2005-08-29)</li>
 <li data-cover="http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg" data-tags="reggae" role="button">Damian Marley - Welcome to Jamrock (2005-09-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Matisyahu - Youth (2006)</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">Rihanna - A Girl Like Me (2006-04-19)</li>
-<li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Light (2009-08-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -81,6 +81,9 @@ Bob Marley & The Wailers - Uprising (1980-06-10)
 <li data-cover="http://coverartarchive.org/release/743d2865-bf5f-45bb-a190-a3e2db9eca42/11950132586-500.jpg" data-tags="reggae" role="button">
 Eek-a-Mouse - Wa-Do-Dem (1981)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d8ca766-068d-45df-80bf-fa57932d1694/18235029110-500.jpg" data-tags="reggae, roots reggae" role="button">
+Black Uhuru - Red (1981-06)
+</li>
 <li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
 Gregory Isaacs - Night Nurse (1982)
 </li>
@@ -131,9 +134,6 @@ Fugees - The Score (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/89c6f2d6-756f-4095-a94f-b261e8dccd23/5341994523-500.jpg" data-tags="reggae" role="button">
 Damian Marley - Mr. Marley (1996-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
-Manu Chao - Clandestino (1998-04-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley - Natural Mystic (1999)
@@ -198,8 +198,8 @@ Ziggy Marley - Dragonfly (2003-04-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Seeed - Music Monks (2003-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/c272f6bd-6689-4e63-86d5-c37d8fc878d2/1769935932-500.jpg" data-tags="reggae" role="button">
-Dub Incorporation - Diversité (2003-09)
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/MSdFRkrA_XBkw_dEiS5f9MTrT4k=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1546079-1301302877.jpeg.jpg" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
@@ -264,6 +264,9 @@ Rihanna - A Girl Like Me (2006-04-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Ziggy Marley - Love Is My Religion (2006-07-10)
 </li>
+<li data-cover="https://img.discogs.com/tCOn4wAL3rvCewYqfO4cLnE2nz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-762503-1539810241-4437.jpeg.jpg" data-tags="reggae, german, funk" role="button">
+Jan Delay - Mercedes Dance (2006-08-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
@@ -293,9 +296,6 @@ Shontelle - Shontelligence (2008-11-17)
 </li>
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">
-Matisyahu - Light (2009-08-25)
 </li>
 <li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
 Rebelution - Bright Side Of Life (2009-09-04)

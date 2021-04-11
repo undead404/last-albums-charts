@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:49:01.473Z
+date: 2021-04-11T01:15:07.100Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d84c56e7-2bd7-4547-a62b-0cffce02e02e/8707714870-500.jpg" data-tags="nu metal, alternative metal" role="button">
+Deftones - Adrenaline (1995-10-02)
 </li>
 <li data-cover="https://img.discogs.com/4F4KwZq_NSCdIZB9Y2eO0Oh60Dw=/fit-in/483x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1265549-1204880173.jpeg.jpg" data-tags="nu metal" role="button">
 Coal Chamber - Coal Chamber (1997-02-11)
@@ -71,9 +74,6 @@ Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/52ac8260-43d1-49b2-8589-0827ad114894/10843717147-500.jpg" data-tags="nu metal" role="button">
 Lostprophets - The Fake Sound of Progress (2000-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
-Nonpoint - Development (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/789e4855-63c7-4fe3-8148-c3dc9e1f6d47/17554289373-500.jpg" data-tags="metal, alternative metal, industrial metal" role="button">
 Mushroomhead - XX (2001-05-08)

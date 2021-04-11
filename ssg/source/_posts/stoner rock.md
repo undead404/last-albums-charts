@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:08:12.593Z
+date: 2021-04-11T01:02:01.409Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -26,6 +26,9 @@ Blue Cheer - Vincebus Eruptum (1968-01-16)
 </li>
 <li data-cover="https://img.discogs.com/ufnpzsAn_QpNXewfMCVhseGe29Y=/fit-in/600x975/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15842342-1598801261-2743.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Master of Reality (1971-07-21)
+</li>
+<li data-cover="https://img.discogs.com/Z6bHRL2vt_5nlmVKwZR1gj3a4B0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867567-1363886815-3787.jpeg.jpg" data-tags="stoner rock" role="button">
+Masters of Reality - Masters of Reality (1988)
 </li>
 <li data-cover="https://img.discogs.com/kOsQtwg93cIn5cQLz0MIvDpUssg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1674075-1474044330-8654.jpeg.jpg" data-tags="stoner rock" role="button">
 Kyuss - Wretch (1991-09-23)
@@ -129,9 +132,6 @@ Queens of the Stone Age - Rated R (2000-06-05)
 <li data-cover="https://img.discogs.com/ejUY4Xklt1sCK6kSJRMsvZPqJNA=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1301027-1219880756.jpeg.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Dopethrone (2000-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ff64a41-490f-4657-bf68-258a1eb96e87/28945562011-500.jpg" data-tags="heavy metal, stoner rock, hard rock" role="button">
-Corrosion of Conformity - America's Volume Dealer (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7c92eab-c53d-47d0-8ae4-92f22d5e3dd8/9285528262-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Pure Rock Fury (2001-03-13)
 </li>
@@ -213,6 +213,9 @@ Earthless - Rhythms From a Cosmic Sky (2007-05-16)
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Era Vulgaris (2007-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd9889cf-b1b3-45f3-b6f7-c4655ac6aa17/19914484622-500.jpg" data-tags="stoner rock" role="button">
+Greenleaf - Agents Of Ahriman (2007-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a311144-57b8-442b-b9d2-df4d3f7fe331/28276663213-500.jpg" data-tags="stoner rock, psychedelic rock, hard rock, psychedelic" role="button">
 Graveyard - Graveyard (2007-09-10)
 </li>
@@ -254,9 +257,6 @@ Om - God Is Good (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
 Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3abd0fa-7480-4507-979d-4f2834175718/19110171752-500.jpg" data-tags="instrumental, stoner rock, psychedelic rock" role="button">
-My Sleeping Karma - Tri (2010-03-20)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)

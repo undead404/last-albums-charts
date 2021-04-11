@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:50:01.401Z
+date: 2021-04-11T01:25:01.434Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -99,9 +99,6 @@ Extol - Undeceived (2000-06-20)
 <li data-cover="http://coverartarchive.org/release/36e75fe8-97d9-4628-99e0-2401ba2aaf0e/13536425693-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Lykathea Aflame - Elvenefris (2000-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/e38de8fa-9039-49e1-b265-2af5dab4fa33/2631080405-500.jpg" data-tags="melodic death metal" role="button">
-Disarmonia Mundi - Nebularium (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/33e46b81-b597-4436-bca4-0d34957765bf/19303333985-500.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Rare Trax (2001)
 </li>
@@ -147,6 +144,9 @@ Gojira - The Link Alive (2005-04-26)
 <li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/5b299829-5286-41ca-bde0-315f612cee96/7574001108-500.jpg" data-tags="metalcore" role="button">
+Becoming the Archetype - Terminate Damnation (2005-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Alaska (2005-09-06)
 </li>
@@ -155,6 +155,9 @@ Gojira - From Mars to Sirius (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db7c2d5-0532-4471-a6b0-d13bfd683ce4/10420306473-500.jpg" data-tags="technical death metal, death metal" role="button">
 Cryptopsy - Once Was Not (2005-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/6df87a44-4c0d-4823-91c7-3ff08fc22581/10478821251-500.jpg" data-tags="death metal, technical death metal, progressive death metal, brutal death metal" role="button">
+Pitbulls in the Nursery - Lunatic (2006-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ab50207-be9d-4a21-a1bc-0b23e0984acd/16972065596-500.jpg" data-tags="progressive metal" role="button">
 Textures - Drawing Circles (2006-04-17)
@@ -170,9 +173,6 @@ The Faceless - Akeldama (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/27a20bb8-4905-4599-bf6a-3c3e6d3d6f6f/8878190763-500.jpg" data-tags="melodic death metal" role="button">
 Be'lakor - The Frail Tide (2007-04-21)
-</li>
-<li data-cover="https://img.discogs.com/bMAhUNP3ite30A6Y3EnfSSpB49c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1142470-1499195765-4915.jpeg.jpg" data-tags="melodic death metal, progressive death metal" role="button">
-Becoming the Archetype - The Physics Of Fire (2007-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ecf488-9cdb-391a-9f51-d0c34254d045/19974817755-500.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Minus The Herd (2007-06-05)
@@ -203,9 +203,6 @@ Cynic - Traced in Air (2008-10-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, progressive death metal" role="button">
 The Faceless - Planetary Duality (2008-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/95a4f340-e792-42a2-b13f-95c7270c7174/15431927045-500.jpg" data-tags="progressive death metal" role="button">
-Becoming the Archetype - Dichotomy (2008-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/21cd1fc3-61d6-362a-9c96-d98e23ea7262/28289912027-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Burden (2008-12-09)
@@ -260,6 +257,9 @@ Obscura - Omnivium (2011-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ded68b3-fe23-43dc-8d84-2fb25c343c47/7574751526-500.jpg" data-tags="progressive death metal" role="button">
 Becoming the Archetype - Celestial Completion (2011-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/689f0722-8ff4-436d-a7c1-4d7cf216bad6/4678137373-500.jpg" data-tags="progressive death metal, technical death metal" role="button">
+Archspire - All Shall Align (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/rYU-6dj5pAiZDqP8E5_lczfZlaA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3214919-1320792509.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Beyond Creation - The Aura (2011-04-12)

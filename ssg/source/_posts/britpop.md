@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:21:01.411Z
+date: 2021-04-11T00:53:01.404Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -65,9 +65,6 @@ Oasis - (What's the Story) Morning Glory? (1995-10-02)
 </li>
 <li data-cover="https://img.discogs.com/s2kgVe2UXnlqReVdt-lMk-bM1Kg=/fit-in/600x940/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7339432-1581917018-6968.jpeg.jpg" data-tags="britpop" role="button">
 Pulp - Different Class (1995-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea7092af-c2f7-4a52-bf3a-48b94d122bd4/14896150532-500.jpg" data-tags="britpop, rock" role="button">
-Ocean Colour Scene - Moseley Shoals (1996-04-08)
 </li>
 <li data-cover="https://img.discogs.com/BcS5KvjsQrcJcmIU_fGCojexqU0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101905-1411118419-6315.jpeg.jpg" data-tags="indie rock, britpop, 90s, rock" role="button">
 Ash - 1977 (1996-04-29)
@@ -251,6 +248,9 @@ Kasabian - Empire (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
 Oasis - Stop the Clocks (2006-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ef9a428-b8cf-4efe-96c7-c37082726f12/5146015137-500.jpg" data-tags="pop" role="button">
+Take That - Beautiful World (2006-11-27)
 </li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)

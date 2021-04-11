@@ -1,17 +1,17 @@
 ---
-date: 2021-04-10T18:32:01.430Z
+date: 2021-04-11T00:52:07.004Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
+<li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">Sirenia - At Sixes and Sevens (2002-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Century Child (2002-06-24)</li>
 <li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Comalies (2002-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Once (2004-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
-<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">Evanescence - The Open Door (2006-09-25)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 </ol>
@@ -32,6 +32,9 @@ Paradise Lost - Icon (1993-09-23)
 </li>
 <li data-cover="https://img.discogs.com/SqSRvdU8Kh4fcRIL4UA4-99M2SQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326827-1417759630-8193.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Tiamat - Wildhoney (1994-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/67f8a8be-8314-449e-8f7e-992a60b99aed/9039558893-500.jpg" data-tags="gothic metal" role="button">
+Lacrimosa - Inferno (1995)
 </li>
 <li data-cover="https://img.discogs.com/mdOxokszRESCVA-ORinn_2KmvG0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044179-1313107554.jpeg.jpg" data-tags="gothic metal" role="button">
 Moonspell - Wolfheart (1995-04-01)
@@ -57,8 +60,14 @@ Theatre of Tragedy - Velvet Darkness They Fear (1996-09-25)
 <li data-cover="https://img.discogs.com/fftbzZNbE6CVLZ23o6n919Aaab4=/fit-in/507x246/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-780114-1157988368.jpeg.jpg" data-tags="black metal, symphonic black metal, gothic metal" role="button">
 Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/919914e8-20cc-427d-9779-7850f84ef5d6/21611675365-500.jpg" data-tags="gothic metal" role="button">
+Sentenced - Down (1996-11-11)
+</li>
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
+</li>
+<li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
+Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
@@ -68,9 +77,6 @@ Nightwish - Angels Fall First (1997-11-01)
 </li>
 <li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="gothic metal" role="button">
 Within Temptation - The Dance (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
 <li data-cover="https://img.discogs.com/S-sF-R4Gr14k9UmhSz2Ow5a3sqI=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5037376-1382797457-1575.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Widow's Weeds (1998-03-02)
@@ -122,9 +128,6 @@ Within Temptation - Mother Earth (2000-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb3e1b7-f897-4085-8a4b-1ed0454b4ddb/12542866193-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 After Forever - Decipher (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/806f4fd4-46c1-47ab-ace0-6e9a8918b1f8/17661057834-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Unleashed Memories (2001-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2cfca8-1cdf-4a98-8bd5-0769b97769dc/3597667276-500.jpg" data-tags="doom metal" role="button">
 Katatonia - Last Fair Deal Gone Down (2001-05-08)
@@ -248,9 +251,6 @@ Katatonia - The Great Cold Distance (2006-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71fb132-49e8-46ee-8d07-5f746c40b3fa/14866844751-500.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Storm (2006-03-23)
-</li>
-<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Karmacode (2006-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a50ab2b-8c1f-3cf0-9cda-26940a95e65f/22598604909-500.jpg" data-tags="gothic metal" role="button">
 Moonspell - Memorial (2006-04-21)

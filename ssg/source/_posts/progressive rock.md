@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:39:01.461Z
+date: 2021-04-11T00:57:01.442Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")

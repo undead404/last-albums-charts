@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T21:12:01.423Z
+date: 2021-04-11T01:05:01.440Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">Neil Young - Harvest (1972-02-14)</li>
-<li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">Bob Dylan - Blood on the Tracks (1975-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">Bob Dylan - Desire (1976-01-05)</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">Neil Young - Harvest Moon (1992-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">Ray LaMontagne - Gossip In The Grain (2008-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
+<li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">City and Colour - Little Hell (2011-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">Mumford & Sons - Babel (2012-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">The War on Drugs - Lost in the Dream (2014-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
@@ -32,6 +32,9 @@ Crosby, Stills & Nash - Crosby, Stills & Nash (1969-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
+</li>
+<li data-cover="https://img.discogs.com/lBoZBxwEhUdHIy0AVxhUhR0Kz_4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9284153-1477932849-6111.jpeg.jpg" data-tags="folk" role="button">
+James Taylor - Sweet Baby James (1970-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
@@ -71,9 +74,6 @@ Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
 Crosby, Stills, Nash & Young - So Far (1974-08-19)
-</li>
-<li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">
-Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
 The Band - The Best of the Band (1976)

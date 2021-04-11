@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:43:01.422Z
+date: 2021-04-11T01:39:07.110Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Lena Horne - Mad About the Boy (1953)
 </li>
-<li data-cover="http://coverartarchive.org/release/61ff3a88-47b6-40a0-bb21-13e6e5dec1ee/6121488674-500.jpg" data-tags="swing, vocal jazz, sinatra" role="button">
-Frank Sinatra - Songs for Young Lovers (1954)
-</li>
 <li data-cover="https://img.discogs.com/G-I_pYEKHwx_D_xj6UbJR5VLj-M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-885829-1169223198.jpeg.jpg" data-tags="jazz, jazz piano, piano, cool jazz, red garland" role="button">
 Red Garland - Red Garland's Piano (1957)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="vocal, jazz, easy listening, traditional pop, vocal jazz, 50s, traditional, sinatra, classic pop, classic jazz, old favorites, capitol records, 50s albums, franck sinatra" role="button">
+Frank Sinatra - Where Are You? (1957)
 </li>
 <li data-cover="http://coverartarchive.org/release/31a43a78-47a5-40d5-838d-23b96acabfdc/27625500207-500.jpg" data-tags="easy listening" role="button">
 Dean Martin - This Is Dean Martin (1958)
@@ -50,6 +50,9 @@ Don McLean - American Pie (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59591d8-f3fd-4d64-94b2-c5e17e187d1c/17314503667-500.jpg" data-tags="70s, soft rock" role="button">
 Albert Hammond - It Never Rains in Southern California (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/f968420f-65f8-4d2d-8844-10cf5c3872fc/24984492510-500.jpg" data-tags="easy listening, burt bacharach" role="button">
+Burt Bacharach - The Best Of Burt Bacharach (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg" data-tags="jazz, 70s, easy listening" role="button">
 Barbra Streisand - The Way We Were (1974-01)
@@ -87,6 +90,9 @@ Lionel Richie - Lionel Richie (1982-10-06)
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
+<li data-cover="http://coverartarchive.org/release/d9f79335-c1b6-421c-8b17-0efdb3b506f3/3076648829-500.jpg" data-tags="pop rock" role="button">
+RPM - Revoluções Por Minuto (1985-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa4d9b84-11d2-4222-ba57-0c3819e69939/10799475070-500.jpg" data-tags="johnny mathis" role="button">
 Johnny Mathis - 16 Most Requested Songs (1986)
 </li>
@@ -98,9 +104,6 @@ Art Garfunkel - Garfunkel (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9e6605b-de1d-4bb7-9021-62beee06e09f/5355706918-500.jpg" data-tags="oldies, the beach boys, the beach boys - summer dreams" role="button">
 The Beach Boys - Summer Dreams (1990-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/4be1e068-3152-3ce6-87ec-93c88429de43/24042392576-500.jpg" data-tags="80s, rock" role="button">
-Chris Isaak - Wicked Game (1991-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dc1cb85-0dab-4993-8fee-93973079f2ae/4423135804-500.jpg" data-tags="frank sinatra" role="button">
 Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
@@ -128,9 +131,6 @@ OMC - How Bizarre (1996-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c8e7898-ea4e-42e8-bba6-6decf4813f94/9535744051-500.jpg" data-tags="pop, 80s, easy listening" role="button">
 Eric Carmen - The Definitive Collection (1997)
-</li>
-<li data-cover="https://img.discogs.com/8_zs1rwhyuZmunrNHaMa5Ex_fLY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3551863-1334978409.jpeg.jpg" data-tags="easy listening" role="button">
-Bic Runga - Drive (1997-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
@@ -161,9 +161,6 @@ Lee Ann Womack - I Hope You Dance (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/183c692b-0431-4997-8a60-0b8970fcab11/4450882465-500.jpg" data-tags="pop, acoustic, female vocalist" role="button">
 Michelle Branch - Broken Bracelet (2000-06-01)
-</li>
-<li data-cover="https://img.discogs.com/3B1x2eMdyzozBWx9Cl5O0ZhL7Fw=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6040275-1409521282-8025.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Five for Fighting - America Town (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c5a0ce8-8442-41f6-bf38-254368abbac2/6773807384-500.jpg" data-tags="pop, male vocalists, spiderman theme" role="button">
 Michael Bublé - BaBalu (2001)
@@ -207,6 +204,9 @@ Chris Botti - When I Fall In Love (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
+Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
@@ -216,14 +216,11 @@ The Beach Boys - The Platinum Collection (2005-05-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, easy listening, dl" role="button">
 Barefoot Truth - Changes in the Weather (2005-06)
 </li>
-<li data-cover="https://img.discogs.com/Ea8FbKi9AUBh-cEGJXfLVl3YewY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591248-1184317356.jpeg.jpg" data-tags="pop, daniel powter" role="button">
-Daniel Powter - dp (2005-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a927bd04-5be9-4f27-b780-57b1278aa94f/15755910553-500.jpg" data-tags="real rnb" role="button">
-Charlie Wilson - Charlie, Last Name Wilson (2005-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
+</li>
+<li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
+Jim Noir - Tower Of Love (2005-12-05)
 </li>
 <li data-cover="https://img.discogs.com/6nuwcGMaAmQDKLnqV-m5Vi0QVpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748314-1452143673-5932.jpeg.jpg" data-tags="indie, experimental, indie rock" role="button">
 Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
@@ -269,6 +266,9 @@ Jamie Cullum - The Pursuit (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a84b882c-f7ba-442f-96b0-57ccc2721dce/4081360239-500.jpg" data-tags="electronic, pop, alternative, female vocalists, downtempo, singer-songwriter, piano, easy listening, adult contemporary, guitar, lounge, mellow, melancholy, merge records, love and its opposite, strange feeling" role="button">
+Tracey Thorn - Love and Its Opposite (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
 Morcheeba - Blood Like Lemonade (2010-06-07)
