@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:33:01.438Z
+date: 2021-04-11T14:03:01.612Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Beck - Morning Phase (2014-02-21)](http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg "Beck - Morning Phase (2014-02-21)")
@@ -45,6 +45,9 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/df661f80-08f8-41b3-9025-af22297dbd15/11244597832-500.jpg" data-tags="soul, usa, 90s, rnb, compilation, commodores, soul funk, soul tag, soul peppermint" role="button">
+Commodores - The Very Best Of The Commodores (1995-11-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
@@ -72,6 +75,9 @@ Azure Ray - Azure Ray (2001-01-16)
 <li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
 Train - Drops of Jupiter (2001-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
+The National - The National (2001-07-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/affb9073-3c21-3524-bc16-5497489ce059/1709609353-500.jpg" data-tags="pop" role="button">
 P!nk - M!ssundaztood (2001-11-20)
 </li>
@@ -84,6 +90,9 @@ The Kills - Keep On Your Mean Side (2003-03-10)
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
+The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
+</li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)
 </li>
@@ -95,6 +104,9 @@ Dave Matthews - Some Devil (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d91e5ce-6678-4108-bbb2-c037b0c588ae/22574686040-500.jpg" data-tags="chillout" role="button">
 Animal Liberation Orchestra - Fly Between Falls (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
+Xiu Xiu - Fabulous Muscles (2004-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
@@ -114,14 +126,11 @@ Groundation - We Free Again (2004-11-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Stand Up (2005-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
-Sleater-Kinney - The Woods (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
+</li>
+<li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
+Eagles of Death Metal - Death By Sexy (2006-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a76b16c-be39-3175-a4e8-8ed2ac969a6d/27142945723-500.jpg" data-tags="indie rock, indie" role="button">
 Built to Spill - You in Reverse (2006-04-11)
@@ -177,12 +186,6 @@ TV on the Radio - Dear Science (2008-09-22)
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
 <li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
 </li>
@@ -191,9 +194,6 @@ Neko Case - Middle Cyclone (2009-02-28)
 </li>
 <li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
 The Felice Brothers - Yonder is the Clock (2009-04-07)
-</li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)

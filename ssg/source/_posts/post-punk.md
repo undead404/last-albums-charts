@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:50:01.421Z
+date: 2021-04-11T14:09:01.586Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -7,7 +7,7 @@ title: "post-punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">Television - Marquee Moon (1977-02-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/97d8bb43-f46f-3460-92dc-d6acdb3f1279/14969806130-500.jpg" data-tags="post-punk" role="button">Joy Division - Closer (1980-07-18)</li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">Violent Femmes - Violent Femmes (1983-04)</li>
+<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">New Order - Power, Corruption & Lies (1983-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Interpol - Turn on the Bright Lights (2002-08-19)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">Interpol - Antics (2004-09-27)</li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
@@ -26,6 +26,9 @@ Television - Marquee Moon (1977-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/31881496-3666-3b76-bdda-b24db24178ae/23464146422-500.jpg" data-tags="post-punk" role="button">
 Iggy Pop - The Idiot (1977-03-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+Talking Heads - Talking Heads: 77 (1977-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fa9a051-daaa-337b-bce3-f26ed7058990/7863989144-500.jpg" data-tags="post-punk, punk" role="button">
 Wire - Pink Flag (1977-11)
@@ -66,6 +69,9 @@ Talking Heads - Fear of Music (1979-08-03)
 <li data-cover="https://img.discogs.com/NB6MT1rB6twKTfgyBiQMRJKAd6I=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-222956-1598288698-9582.jpeg.jpg" data-tags="post-punk" role="button">
 The Slits - Cut (1979-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+Wire - 154 (1979-09-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c6edb25-3614-4f2c-ae90-54a8d0b39c8c/9635980660-500.jpg" data-tags="post-punk" role="button">
 Gang of Four - Entertainment! (1979-09-25)
 </li>
@@ -105,9 +111,6 @@ Echo & the Bunnymen - Porcupine (1983-02-04)
 <li data-cover="https://img.discogs.com/HV3PkcnCqXxcN3RtBp1JG39rK5M=/fit-in/443x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3019834-1407571984-2110.jpeg.jpg" data-tags="rock, 80s" role="button">
 U2 - War (1983-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
-Violent Femmes - Violent Femmes (1983-04)
-</li>
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
@@ -116,18 +119,6 @@ The Chameleons - Script of the Bridge (1983-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/186edf0e-9c33-4233-8472-772c766d0f23/9667861123-500.jpg" data-tags="new wave, 80s" role="button">
 The Cure - Japanese Whispers (1983-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/0299e566-f951-440f-bb63-8d6608aff482/6126735758-500.jpg" data-tags="80s" role="button">
-The Smiths - The Smiths (1984-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e897b539-ce48-475c-8c72-b6f0b0d0bb7d/16611425916-500.jpg" data-tags="post-punk, 80s" role="button">
-Echo & the Bunnymen - Ocean Rain (1984-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/4aadb3cb-1935-38be-a824-798fc9e3c090/7905004727-500.jpg" data-tags="post-punk, new wave" role="button">
-The Cure - The Top (1984-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">
-The Smiths - Hatful of Hollow (1984-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/133d0c34-4d0f-40a1-80e3-3683e9f346f1/7179212194-500.jpg" data-tags="post-punk" role="button">
 Killing Joke - Night Time (1985-02)
@@ -276,6 +267,9 @@ Warpaint - The Fool (2010-10-25)
 <li data-cover="http://coverartarchive.org/release/8d275dbe-4cac-312a-9f8b-8fa3fcb60b37/13962747723-500.jpg" data-tags="post-punk, indie" role="button">
 White Lies - Ritual (2011-01-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
+The Joy Formidable - The Big Roar (2011-01-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
@@ -300,6 +294,9 @@ The xx - Coexist (2012-09-05)
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/279fa00b-6cf5-44e6-931f-3cf45abab706/3459059698-500.jpg" data-tags="post-punk, experimental" role="button">
+Suuns - Images du Futur (2013-03-05)
+</li>
 <li data-cover="https://img.discogs.com/7ISozBOAiZWD-F-JBh-ap4_t3sE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4517397-1367337213-6054.jpeg.jpg" data-tags="post-punk" role="button">
 Savages - Silence Yourself (2013-05-06)
 </li>
@@ -311,6 +308,9 @@ King Krule - 6 Feet Beneath The Moon (2013-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">
 Have a Nice Life - The Unnatural World (2014-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/3142baf1-e562-4759-9510-be1983e79e8e/7349660598-500.jpg" data-tags="indie rock, post-punk" role="button">
+Parquet Courts - Sunbathing Animal (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/abea24af-aad8-4596-80ce-2b367c2d88be/7446433453-500.jpg" data-tags="indie rock" role="button">
 Interpol - El Pintor (2014-09-08)

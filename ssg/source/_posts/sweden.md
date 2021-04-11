@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:57:01.528Z
+date: 2021-04-11T13:49:01.421Z
 title: "sweden: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -7,12 +7,12 @@ title: "sweden: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4138236f-05c6-3494-b6d8-5d460024ed21/12551767179-500.jpg" data-tags="pop, 70s" role="button">ABBA - Voulez-Vous (1979-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">The Cardigans - Gran Turismo (1998-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
-<li data-cover="http://coverartarchive.org/release/d8b76cb7-43db-4b7d-9eac-af54fd564b31/12289706070-500.jpg" data-tags="electronica, electro, dance, chiptune, bitpop, sweden, synth-pop, blip blop, mmmmm, bit, svenskprov, najjs" role="button">Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)</li>
 <li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">The Hives - The Black and White Album (2007-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/65e879cd-d819-4675-ad98-28cc3c11bcfc/23841213869-500.jpg" data-tags="swedish, scandinavian, 90s, sweden, zweden, noord-europa, zweeds, geraldine" role="button">Ace of Base - Greatest Hits (2008)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
 <li data-cover="https://img.discogs.com/Xd89B7vAbeXdJFsEnBio3wCG__I=/fit-in/492x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3954491-1369233082-6418.jpeg.jpg" data-tags="psychedelic rock, psychedelic, sweden, afro-beat" role="button">Goat - World Music (2012-08-20)</li>
+<li data-cover="http://coverartarchive.org/release/46296e6d-03d0-4304-b592-7d77490a8b48/5340095734-500.jpg" data-tags="instrumental, post-rock, shoegaze, atmospheric, sweden" role="button">EF - Ceremonies (2013-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/36b69931-add2-4409-8d7a-939f277223f2/7183720847-500.jpg" data-tags="folk" role="button">First Aid Kit - Stay Gold (2014-06-06)</li>
 </ol>
 List of 100 - under the cut.
@@ -54,6 +54,9 @@ Yaki-Da - Pride (1994)
 <li data-cover="http://coverartarchive.org/release/6a61d8ff-b26c-39e9-a173-34fd885fd7b4/6866747811-500.jpg" data-tags="pop, rock, alternative, 90s" role="button">
 The Cardigans - Emmerdale (1994-02-18)
 </li>
+<li data-cover="https://img.discogs.com/cnq-8t9BX6DN4eOINfEr1qyJS3I=/fit-in/283x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2951063-1336864794-9978.jpeg.jpg" data-tags="swedish, punk rock, political, sweden, trallpunk" role="button">
+Charta 77 - Tecken i tiden (1995)
+</li>
 <li data-cover="https://img.discogs.com/3Ip2WpTvqgKioWh8kLgmTkD-11w=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202129-1358508446-4720.jpeg.jpg" data-tags="pop" role="button">
 The Cardigans - Life (1995-03-01)
 </li>
@@ -81,6 +84,9 @@ The Wannadies - Bagsy Me (1996-11-30)
 <li data-cover="https://img.discogs.com/z2LDdrcrJCZrsCEHspi5LC0Ww_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418547-1274954407.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Isola (1997-11-12)
 </li>
+<li data-cover="https://img.discogs.com/9nibMnWyjSZmhYoT76KDJhs2qUE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381461-1393490734-5016.jpeg.jpg" data-tags="folk metal, viking metal" role="button">
+Otyg - Älvefärd (1998-03-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
@@ -98,6 +104,9 @@ Da Buzz - Da Sound (2000-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c35f3d0-01fa-472d-a123-a89ac3d3c878/7394881559-500.jpg" data-tags="swedish, indiepop, glam rock" role="button">
 The Ark - We Are The Ark (2000-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/35e56c2b-ec70-4dd2-80ab-e78591b82256/21841992268-500.jpg" data-tags="8-bit, 00s, sweden, mein quitschiger leiherkasten" role="button">
+Puss - We Are Puss (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e3dc42e-4332-4d75-8b80-42c675954fc5/997909583-500.jpg" data-tags="bob hund" role="button">
 bob hund - Stenåldern kan börja (2001-03-18)
@@ -135,9 +144,6 @@ HammerFall - One Crimson Night (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/53de8ceb-d30e-4d07-b34d-64c469b74a27/25185452356-500.jpg" data-tags="pop, swedish, power pop, scandinavian, sweden, transport, suede, scandinavia, suecia, songs they never play on the radio, suedois, scandinave, scandinavie, streaming na full, left-cheek kisses" role="button">
 Billie the Vision & the Dancers - I Was So Unpopular in School and Now They're Giving Me This Beautiful Bicycle (2004-02-05)
 </li>
-<li data-cover="https://img.discogs.com/wknkX9Fqq3V8GLSE0W94-ei6fNo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060736-1385800712-8915.jpeg.jpg" data-tags="hip-hop" role="button">
-Promoe - The Long Distance Runner (2004-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/62b85bd3-1c32-40e9-b9c5-983e8921792f/1558519587-500.jpg" data-tags="rock, alternative" role="button">
 The Hives - Walk Idiot Walk (2004-07-05)
 </li>
@@ -147,8 +153,14 @@ Alcazar - Dancefloor Deluxe (2004-08-25)
 <li data-cover="https://img.discogs.com/CJ861fOtI0Gng33HQE_sqE5PSSA=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3566995-1521526336-9419.jpeg.jpg" data-tags="rock, indie rock" role="button">
 Mando Diao - Hurricane Bar (2004-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/d8b76cb7-43db-4b7d-9eac-af54fd564b31/12289706070-500.jpg" data-tags="electronica, electro, dance, chiptune, bitpop, sweden, synth-pop, blip blop, mmmmm, bit, svenskprov, najjs" role="button">
-Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)
+<li data-cover="https://img.discogs.com/itugKwX4sje_PzUG3ht_UAlv-38=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422932-1428872820-2877.jpeg.jpg" data-tags="doom metal, melodic doom metal, melodic death metal, death doom metal" role="button">
+Slumber - Fallout (2004-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
+The Ark - State of The Ark (2004-12-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="feel good" role="button">
+Navid Modiri & Gudarna - Dags För Slagsmål! (2005)
 </li>
 <li data-cover="https://img.discogs.com/1bUNDVAhyWN9S6EV43_MSuE817E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485745-1403521165-4537.jpeg.jpg" data-tags="swedish, swedish pop, 00s, sweden, the knife" role="button">
 The Knife - Pass This On (2005-05)
@@ -207,9 +219,6 @@ Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 <li data-cover="https://img.discogs.com/czlMcX1e1o7KrMtiH81rPSGzR7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130253-1430698935-5682.jpeg.jpg" data-tags="sweden, jonna lee" role="button">
 Jonna Lee - 10 Pieces, 10 Bruises (2007-10-10)
 </li>
-<li data-cover="https://img.discogs.com/tJGMqIxNxnhloum4lYPfINf0Psg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709880-1457801507-2650.jpeg.jpg" data-tags="indie rock, swedish" role="button">
-Mando Diao - Never Seen The Light Of Day (2007-10-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/65e879cd-d819-4675-ad98-28cc3c11bcfc/23841213869-500.jpg" data-tags="swedish, scandinavian, 90s, sweden, zweden, noord-europa, zweeds, geraldine" role="button">
 Ace of Base - Greatest Hits (2008)
 </li>
@@ -224,9 +233,6 @@ Caesars - Strawberry Weed (2008-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b4dbe06-b206-40e3-97d2-0cb6c30d7590/19686116075-500.jpg" data-tags="rock, hard rock, psychedelic, nordic, psychedelic rock, sweden, magnolia, sun and moon and stars and outer space, progressive psychedelic rock, storslagent" role="button">
 Siena Root - Far from the Sun (2008-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/819ef756-2c61-473a-907e-d9e75b3808b8/3366556888-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Johnossi - All They Ever Wanted (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e86d07-864b-4da7-ad26-0db964061e52/27167335261-500.jpg" data-tags="swedish" role="button">
 Veronica Maggio - Och vinnaren är... (2008-03-26)
@@ -267,9 +273,6 @@ Kent - En plats i solen (2010-06-30)
 <li data-cover="https://img.discogs.com/tJhApeU1ofIAXMlltdnSRcuYqGU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414955-1283559353.jpeg.jpg" data-tags="rock, alternative rock, swedish, progressive rock, jazz fusion, retro, psychedelic rock, sweden, neo-psychedelia, jazz-rock, mexican summer, dungen, subliminal sounds" role="button">
 Dungen - Skit i allt (2010-08-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, instrumental, swedish, contemporary jazz, piano trio, sweden, piano jazz, robertitus global, est, esbjörn svensson trio, instrumental ram, jazz favorites ram" role="button">
-Esbjörn Svensson Trio - 301 (2012-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/59e3a2c8-c634-4944-adfd-1c7abf3cd85d/1209613363-500.jpg" data-tags="dark ambient, ritual ambient" role="button">
 Desiderii Marginis - Procession (2012-05-28)
 </li>
@@ -293,9 +296,6 @@ Ulrik Munther - Tell the World I'm Here (2013-02-24)
 </li>
 <li data-cover="https://img.discogs.com/bemT6mxPhH12wZBivgJr32Spbsc=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16919085-1610608705-1233.jpeg.jpg" data-tags="swedish, swedish pop, sweden, 10s" role="button">
 The Knife - A Tooth For An Eye (2013-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a503672-a8d1-4fc4-84ae-c235b2a3f901/4335605291-500.jpg" data-tags="futurepop, sweden, dependent records" role="button">
-Covenant - Last Dance (2013-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/46296e6d-03d0-4304-b592-7d77490a8b48/5340095734-500.jpg" data-tags="instrumental, post-rock, shoegaze, atmospheric, sweden" role="button">
 EF - Ceremonies (2013-09-01)

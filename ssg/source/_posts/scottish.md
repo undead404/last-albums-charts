@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T02:19:07.095Z
+date: 2021-04-11T14:34:01.431Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
-![Primal Scream - Screamadelica (1991-09-23)](https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg "Primal Scream - Screamadelica (1991-09-23)")
+![Biffy Clyro - Only Revolutions (2009-11-09)](http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg "Biffy Clyro - Only Revolutions (2009-11-09)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">Travis - The Man Who (1999-05-24)</li>
 <li data-cover="https://img.discogs.com/3cJprwd-XZTGvFCOSiAflbEBewQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-728468-1394138699-6330.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">The Proclaimers - Finest (2003-09-01)</li>
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">KT Tunstall - Eye to the Telescope (2004-12-13)</li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">Franz Ferdinand - You Could Have It So Much Better (2005-09-28)</li>
+<li data-cover="http://coverartarchive.org/release/9a4c61ca-5da2-4496-8d61-8760e46d3e25/13202971411-500.jpg" data-tags="indie, scottish, scotland, 2000s, the truth, depressingly beautiful, magic 108, jaarlijstje 2007, worn-out from overplay, ailenrocsmostlovedalbums" role="button">Malcolm Middleton - A Brighter Beat (2007-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">Frightened Rabbit - The Midnight Organ Fight (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/08c90c15-a83f-3e50-9ad2-105d7dd1312a/3175878701-500.jpg" data-tags="indie rock" role="button">We Were Promised Jetpacks - These Four Walls (2009-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg" data-tags="rock, alternative rock, alternative, indie rock" role="button">Biffy Clyro - Only Revolutions (2009-11-09)</li>
@@ -30,23 +30,20 @@ Silly Wizard - Caledonia's Hardy Sons (1978)
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d5c8f9a-016e-35ca-aa9c-8f5ef239d416/15948199646-500.jpg" data-tags="80s" role="button">
-Simple Minds - Sparkle in the Rain (1983)
-</li>
 <li data-cover="http://coverartarchive.org/release/e07504a6-258f-4bb3-b444-e872e5d9d829/2133522084-500.jpg" data-tags="scottish, folk, scottish folk" role="button">
 Silly Wizard - The Best of Silly Wizard (1985)
 </li>
 <li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
 Deacon Blue - Raintown (1987-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e868701-4eb9-40ad-96f8-bd923f577405/16023560386-500.jpg" data-tags="scottish" role="button">
+Runrig - Searchlight (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba8a0e2e-3254-41e2-9b1a-deae14456d02/11825155352-500.jpg" data-tags="scottish" role="button">
 Deacon Blue - When The World Knows Your Name (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4f89722-92fb-48a2-9518-9e23e5cbfa08/3288708576-500.jpg" data-tags="progressive rock" role="button">
 Fish - Vigil in a Wilderness of Mirrors (1990-01-29)
-</li>
-<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
-Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/96964bbe-81f0-3d3a-8ec9-9e10362e089a/3130537879-500.jpg" data-tags="pop" role="button">
 Annie Lennox - Diva (1992-04-24)
@@ -57,8 +54,14 @@ The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 <li data-cover="http://coverartarchive.org/release/7bade8ee-88a9-4669-9de7-b9c0d6e87b55/25150632111-500.jpg" data-tags="pop" role="button">
 Texas - Ricks Road (1993-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1752f3be-7ff6-406b-a480-33e649896f08/13092390750-500.jpg" data-tags="celtic, scottish" role="button">
+The Tannahill Weavers - Capernaum (1994)
+</li>
 <li data-cover="https://img.discogs.com/bnUms84qPNnR6H83cq0sQwEyRm4=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4167351-1357487994-7829.jpeg.jpg" data-tags="folk, female vocalists, scottish, quality pop" role="button">
 Eddi Reader - Eddi Reader (1994-06-20)
+</li>
+<li data-cover="https://img.discogs.com/f6zdSuNrqwsB3CyxWfdMroh4AfQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4056728-1353788111-8408.jpeg.jpg" data-tags="scottish, celtic, fiddle" role="button">
+Alasdair Fraser - Dawn Dance (1995)
 </li>
 <li data-cover="https://img.discogs.com/8jqX15kVcalfEJ96BBUT_F3bsDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494595-1287379756.jpeg.jpg" data-tags="celtic" role="button">
 Capercaillie - To The Moon (1995)
@@ -75,9 +78,6 @@ Mark Knopfler - Golden Heart (1996-03-22)
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/300da8a4-ae20-4c2e-9043-d2e467089e2f/27400793904-500.jpg" data-tags="electronic, alternative, 90s" role="button">
-Primal Scream - Vanishing Point (1997-06-25)
-</li>
 <li data-cover="https://img.discogs.com/I-oViWD7yaPbPfp-56ogVSe6K8o=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10404061-1538314922-5725.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
@@ -89,6 +89,9 @@ Arab Strap - Philophobia (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/362739f6-0103-445f-840f-a1186a9ffb82/21264323878-500.jpg" data-tags="indie pop, indie rock, scottish, glasgow" role="button">
 The Delgados - Peloton (1998-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/e972c6be-4042-4511-8a26-753e8b9f24d3/16023640151-500.jpg" data-tags="scottish" role="button">
+Runrig - In Search Of Angels (1999)
 </li>
 <li data-cover="https://img.discogs.com/bc_M_0j8qZTn3PmsrElDR7WhnIo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5931337-1468593009-7013.jpeg.jpg" data-tags="indie rock, scottish" role="button">
 Arab Strap - Mad For Sadness (1999-05-03)
@@ -125,9 +128,6 @@ The Irish Rovers - Another Round (2002)
 </li>
 <li data-cover="https://img.discogs.com/zXGFWmIxUXnoWCRqDkI12dd30fI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079407-1314728850.jpeg.jpg" data-tags="scottish" role="button">
 Capercaillie - Live In Concert (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
-Boards of Canada - Geogaddi (2002-02-13)
 </li>
 <li data-cover="https://img.discogs.com/-eRNr7XcurwMV-6Q_bzV4zGxWhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11253944-1512816777-2637.jpeg.jpg" data-tags="soundtrack" role="button">
 Christopher Young - The Shipping News (2002-02-19)
@@ -174,8 +174,8 @@ The Beta Band - Heroes To Zeros (2004-04-26)
 <li data-cover="https://img.discogs.com/vAJQ3h62AUWHSg4o0gy7x6Twxms=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089457-1360501153-7073.jpeg.jpg" data-tags="soul, alternative, folk, singer-songwriter" role="button">
 Angela McCluskey - The Things We Do (2004-09)
 </li>
-<li data-cover="https://img.discogs.com/W5nsbrJsLD42qPoRFuvmKdSgBv0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806065-1294691668.jpeg.jpg" data-tags="indie, scottish" role="button">
-The Delgados - Universal Audio (2004-09-20)
+<li data-cover="https://img.discogs.com/BZhwv7ylkNQNqk7dxu_q_AXAgzk=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1232487-1517221894-9482.jpeg.jpg" data-tags="scottish, 00s, b2004, good james yorkston" role="button">
+James Yorkston and The Athletes - Just Beyond the River (2004-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcaeef84-bddf-4370-83c8-d5f0cfb7569d/4713203915-500.jpg" data-tags="post-hardcore, rawk n roll" role="button">
 Biffy Clyro - Infinity Land (2004-10-04)
@@ -204,11 +204,11 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/2027f714-cf03-3b6a-bc32-137105892b35/24181119924-500.jpg" data-tags="folk" role="button">
-My Latest Novel - Wolves (2006-03-06)
-</li>
 <li data-cover="https://img.discogs.com/pzbwd1k-g7t4w1C7aNIP1tHOe7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005869-1183928970.jpeg.jpg" data-tags="scottish" role="button">
 The Aliens - Alienoid Starmonica (2006-05-08)
+</li>
+<li data-cover="https://img.discogs.com/gsLJ7gy7gNK5FlD8oDsqEVBM4_c=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-779535-1159054549.jpeg.jpg" data-tags="scottish" role="button">
+King Biscuit Time - Black Gold (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
@@ -258,6 +258,9 @@ Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/e17b5763-708e-4428-9f20-aeaee4a6b232/9551828343-500.jpg" data-tags="chiptune" role="button">
+Unicorn Kid - Lion Hat (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/82cbe67a-c4db-4f5b-834a-9224e2ced208/9461785430-500.jpg" data-tags="pop, female vocalists, rock, 90s, 00s" role="button">
 Annie Lennox - The Annie Lennox Collection (2009-02-17)
 </li>
@@ -305,9 +308,6 @@ Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0509dfec-c332-4a3c-8f41-ac0155b96476/25458040014-500.jpg" data-tags="rock" role="button">
 Biffy Clyro - Opposites (2013-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/79dc788a-c9ee-4b7c-9a4a-cdf6553b7857/7329298995-500.jpg" data-tags="power metal" role="button">
-Gloryhammer - Tales from the Kingdom of Fife (2013-03-22)
 </li>
 <li data-cover="https://img.discogs.com/3ybdq9KcxwhzaklE5AnXvcMlc6M=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4622528-1507041760-6348.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Camera Obscura - Desire Lines (2013-06-03)

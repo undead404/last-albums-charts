@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:44:07.152Z
+date: 2021-04-11T14:36:01.466Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -186,9 +186,6 @@ Amon Tobin - Foley Room (2007-02-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">
-Mujuice - Cool Cool Death (2007-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1d2128c-436a-4584-95f5-07da18f3fba0/2573352078-500.jpg" data-tags="electronic, acid" role="button">
 The Tuss - Rushup Edge (2007-06-25)
 </li>
@@ -209,6 +206,9 @@ Helios - Caesura (2008-08-12)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/83a4fc0b-252e-4f81-9be5-cef614eec381/2247984246-500.jpg" data-tags="idm, mustget, labels - aleph zero records, aleph-zero, sonic fetish, cosmicwax, ambientimin" role="button">
+Bluetech - The Divine Invasion (2009-04-20)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)

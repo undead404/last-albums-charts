@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:40:01.909Z
+date: 2021-04-11T13:56:01.452Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -90,9 +90,6 @@ Alexi Murdoch - Four Songs (2002-11-06)
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
-José González - Veneer (2003-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
@@ -117,8 +114,8 @@ Grizzly Bear - Horn Of Plenty (2004-11-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
-Iron & Wine - Woman King (2005-02-22)
+<li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
+Amos Lee - Amos Lee (2005-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
@@ -185,6 +182,9 @@ Beirut - The Flying Club Cup (2007-10-08)
 </li>
 <li data-cover="https://img.discogs.com/UBd7YqXMjTGwZKEQrXE1EotW9co=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944687-1546335869-8526.jpeg.jpg" data-tags="indie, folk, post-rock, indie folk" role="button">
 The Middle East - The Recordings Of The Middle East (2008)
+</li>
+<li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
+William Fitzsimmons - The Sparrow and the Crow (2008)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)

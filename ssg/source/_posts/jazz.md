@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:33:07.049Z
+date: 2021-04-11T14:25:01.615Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -54,6 +54,9 @@ Etta James - At Last (1960-11-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Thelonious Monk - Monk's Dream (1963)
 </li>
+<li data-cover="http://coverartarchive.org/release/61ffc81b-5ff8-492e-bec2-1efc8de357c6/14455314213-500.jpg" data-tags="jazz" role="button">
+The Oscar Peterson Trio - Night Train (1963)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz" role="button">
 Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
 </li>
@@ -102,9 +105,6 @@ Keith Jarrett - The Köln Concert (1975-11-30)
 <li data-cover="https://img.discogs.com/Lqi0FlOkjCdBSpOBQlXqURgU1oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4939913-1380041719-7816.jpeg.jpg" data-tags="jazz, fusion" role="button">
 Weather Report - Black Market (1976-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
-Tom Waits - Small Change (1976-10)
-</li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
 </li>
@@ -117,9 +117,6 @@ Billie Holiday - Billie Holiday (1980)
 <li data-cover="http://coverartarchive.org/release/dfc0a733-c158-4eb7-9e4b-2a98492857af/8671054041-500.jpg" data-tags="jazz, piano" role="button">
 Bill Evans - You Must Believe in Spring (1981)
 </li>
-<li data-cover="https://img.discogs.com/15xkxLP4S1_usdxlx6ccsFE_DTc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1499888-1464972288-2969.jpeg.jpg" data-tags="soul, 80s" role="button">
-Sade - Diamond Life (1984-07-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - What A Wonderful World (1988)
 </li>
@@ -131,6 +128,9 @@ Chet Baker - The Best of Chet Baker Sings (1989-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dc1cb85-0dab-4993-8fee-93973079f2ae/4423135804-500.jpg" data-tags="frank sinatra" role="button">
 Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
+Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, bass, fusion" role="button">
 Jaco Pastorius - Jaco Pastorius (1997)

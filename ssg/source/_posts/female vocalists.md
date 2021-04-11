@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:49:01.802Z
+date: 2021-04-11T14:26:01.481Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -237,6 +237,9 @@ Duffy - Rockferry (2008-03-03)
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
+Madonna - Hard Candy (2008-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
 Lady Gaga - The Fame (2008-08-19)
 </li>
@@ -266,9 +269,6 @@ Metric - Fantasies (2009-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
-</li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)

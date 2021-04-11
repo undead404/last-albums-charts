@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:08:01.457Z
+date: 2021-04-11T13:46:06.942Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -137,6 +137,9 @@ Audioslave - Audioslave (2002-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">
+The White Stripes - Elephant (2003-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
@@ -278,9 +281,6 @@ Incubus - Monuments And Melodies (2009-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
 Arctic Monkeys - Humbug (2009-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">
 Muse - The Resistance (2009-09-10)

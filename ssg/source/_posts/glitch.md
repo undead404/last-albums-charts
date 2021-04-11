@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T03:48:12.601Z
+date: 2021-04-11T14:41:01.445Z
 title: "glitch: 100 albums you must listen to before you die"
 ---
 ![The Glitch Mob - Drink the Sea (2010-05-25)](http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg "The Glitch Mob - Drink the Sea (2010-05-25)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)</li>
+<li data-cover="http://coverartarchive.org/release/36427a64-ec18-4742-9356-c2e74ade62c4/21148358115-500.jpg" data-tags="ambient, experimental, glitch" role="button">Fennesz - Endless Summer (2001-06-26)</li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">Metronomy - Nights Out (2007)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">Apparat - Walls (2007-05)</li>
-<li data-cover="http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg" data-tags="electronic, glitch" role="button">KASHIWA Daisuke - Program Music I (2007-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">Trifonic - Emergence (2008-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg" data-tags="glitch, electronic" role="button">The Glitch Mob - Drink the Sea (2010-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">Baths - Cerulean (2010-06-22)</li>
@@ -21,11 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/sK9h1adOTnPeoHrXq6lYf-F9k-8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51735-1144213857.jpeg.jpg" data-tags="idm, ambient" role="button">
-Autechre - Amber (1994-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0197c94-5f06-39fa-a69a-470c5101c186/16747762348-500.jpg" data-tags="electronic, electronica, experimental, minimal, idm, 90s, glitch, ambient techno, skam, n01s3 n k00l" role="button">
-Gescom - Gescom EP (1994-12)
+<li data-cover="http://coverartarchive.org/release/62a9a8a4-f5fa-4d40-bcdd-25b243f133e7/2499675510-500.jpg" data-tags="idm" role="button">
+Autechre - Anti EP (1994-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e16c41e-9608-4921-a0f2-03838ac87d83/2513940088-500.jpg" data-tags="idm" role="button">
 Gescom - Key Nell (1996-06-06)
@@ -69,8 +66,8 @@ Telefon Tel Aviv - Fahrenheit Fair Enough (2001-09-18)
 <li data-cover="https://img.discogs.com/pz3MKb3v7arxcp2liOAPxihu670=/fit-in/250x252/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71087-001.jpg.jpg" data-tags="idm" role="button">
 Apparat - Tttrial and Eror (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/33c88024-d17c-3c4d-b025-4d1d23ca56a6/7029834099-500.jpg" data-tags="electronic, idm, warp" role="button">
-Squarepusher - Do You Know Squarepusher (2002-09-30)
+<li data-cover="https://img.discogs.com/oZqeXLny9lgjoJTfz1n20ZjFRQE=/fit-in/382x382/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34192-1322113511.jpeg.jpg" data-tags="hip-hop, idm, glitch" role="button">
+Nautilis - Are You An Axolotl (2002-04-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, minimal, glitch" role="button">
 Taylor Deupree - Stil. (2002-10-01)
@@ -80,9 +77,6 @@ Telefon Tel Aviv - Immediate Action #8 (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8435025-4b43-4da9-bd8d-ad37748e0acf/13114830432-500.jpg" data-tags="minimal" role="button">
 Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
-</li>
-<li data-cover="https://img.discogs.com/Re_vK0Y1JKoHs58TsP-e8MG5KlI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10835797-1505080162-4561.jpeg.jpg" data-tags="idm" role="button">
-Autechre - Draft 7.30 (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3763ff11-de2c-4795-97a9-651dbf3f343c/27342355537-500.jpg" data-tags="idm, glitch" role="button">
 Gescom - ISS:SA (2003-04-14)
@@ -99,14 +93,14 @@ toe - Re:designed (2003-09-03)
 <li data-cover="https://img.discogs.com/ptW03HsRop3z0N4OQyqwNtVme-M=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-154879-1255725731.jpeg.jpg" data-tags="ambient" role="button">
 Yasume - Where We're From the Birds Sing a Pretty Song (2003-09-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch" role="button">
-Fennesz - Venice (2004-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/65b49750-f298-4167-a5d0-68cdb6a043d8/2580368338-500.jpg" data-tags="glitch" role="button">
 Venetian Snares - Huge Chrome Cylinder Box Unfolding (2004-06-11)
 </li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/d262bda0-17ea-4d67-ba03-4f87565a958e/9391276237-500.jpg" data-tags="post rock, post-rock" role="button">
+65daysofstatic - Retreat! Retreat! (2004-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ebe5dbf-c5c8-4a3b-b064-c4aa9bd73cbb/1892845713-500.jpg" data-tags="electronic, ambient, experimental, usa, minimal, glitch" role="button">
 Shuttle358 - Chessa (2004-12-07)
@@ -138,11 +132,23 @@ Justice - Waters of Nazareth (2005-09-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 Metronomy - Pip Paine (Pay The £5000 You Owe) (2006)
 </li>
+<li data-cover="https://img.discogs.com/hMXGybA_dqZU6XJfJCYJLTgRePk=/fit-in/548x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2047617-1260714350.jpeg.jpg" data-tags="experimental, glitch" role="button">
+Maps and Diagrams - Antennas And Signals (2006-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/78b8aeea-812d-46e8-8711-0df46f60623e/14116192207-500.jpg" data-tags="ambient" role="button">
+Loscil - Plume (2006-05-22)
+</li>
 <li data-cover="https://img.discogs.com/ZeKwUYG5UX_tgAbGaMdhbQ1oiDI=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710743-1150582219.jpeg.jpg" data-tags="electronica, japanese, downtempo, idm, glitch, j-pop, duyster, cod et s" role="button">
 Aus - Sonorapid (2006-06-20)
 </li>
+<li data-cover="https://img.discogs.com/JVD5ziBwO-0303vYJ67vjYma3_Q=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738756-1373045448-6038.jpeg.jpg" data-tags="idm, glitch" role="button">
+Ametsub - Linear Cryptics (2006-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/adff4c98-9914-4715-a675-9b61de4bd294/11700606085-500.jpg" data-tags="ambient" role="button">
 BT - This Binary Universe (2006-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/4588356c-a352-4fba-936f-b1fe27631d0b/6484345813-500.jpg" data-tags="idm" role="button">
+The Flashbulb - Flexing Habitual (2006-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/be3ee5d2-98ff-46af-bf7f-b5aafc2dbcee/5303829713-500.jpg" data-tags="idm, electronic" role="button">
 Clark - Body Riddle (2006-10-02)
@@ -156,17 +162,11 @@ Metronomy - Nights Out (2007)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">
-Mujuice - Cool Cool Death (2007-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/041f224b-6030-4e55-b1df-32e168aef381/4514687809-500.jpg" data-tags="raster-noton, minimal, glitch" role="button">
-Frank Bretschneider - Rhythm (2007-07-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg" data-tags="electronic, glitch" role="button">
-KASHIWA Daisuke - Program Music I (2007-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e967a90d-e397-42f7-92ee-7df4bda4d2d3/829539032-500.jpg" data-tags="electronic" role="button">
+Kangding Ray - Automne Fold (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
 Autechre - Quaristice (2008-01-29)
@@ -191,9 +191,6 @@ Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f864349-bfa5-424c-8c54-cfda1988ae0e/5516348643-500.jpg" data-tags="breakcore" role="button">
 Nero's Day at Disneyland - From Rotting Fantasylands (2009)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, glitch, experimental" role="button">
-Ametsub - The Nothings of The North (2009-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f5b2341-22e2-41f1-943c-fd5ec913b021/6709656786-500.jpg" data-tags="electronic" role="button">
 She - Orion (2009-09-14)
@@ -242,6 +239,9 @@ OPIUO - Slurp And Giggle (2010-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
+</li>
+<li data-cover="https://img.discogs.com/JdVATuvm8o-f5a9juwI3XeKVJzY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2410958-1282552277.jpeg.jpg" data-tags="breakcore" role="button">
+Venetian Snares - My So-Called Life (2010-08-23)
 </li>
 <li data-cover="https://img.discogs.com/egaaPeRB9-npRc_5YD_ZhkGIp0E=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455773-1388689574-3577.jpeg.jpg" data-tags="dubstep" role="button">
 Beats Antique - Blind Threshold (2010-09-14)
@@ -312,8 +312,8 @@ The Glitch Mob - Love Death Immortality (2014-02-11)
 <li data-cover="http://coverartarchive.org/release/49da37ee-065a-4d7f-a204-9dda8047aad4/6658777371-500.jpg" data-tags="indie pop, synthpop, electropop, indietronica" role="button">
 MØ - No Mythologies to Follow (2014-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b98ce05-db97-4a5c-b3db-586c6f2b458a/21582207534-500.jpg" data-tags="glitch" role="button">
-Fennesz - Bécs (2014-04-28)
+<li data-cover="http://coverartarchive.org/release/4560f63e-9cce-43c2-bb63-6989bf61c224/26263146105-500.jpg" data-tags="idm" role="button">
+Tipper - Forward Escape (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/56ce8556-c0f9-4d8d-85a6-d873e9d4cec1/13225929306-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Ocean Death (2014-05-05)

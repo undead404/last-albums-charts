@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:53:01.419Z
+date: 2021-04-11T14:31:07.064Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
-Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
 Joey Fehrenbach - Mellowdrama (2006-06-06)
 </li>
@@ -47,9 +44,6 @@ The Retuses - Echo (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
@@ -102,6 +96,9 @@ Okinawa Lifestyle - Lazy Friend You Move So Fast (2010-07-25)
 <li data-cover="http://coverartarchive.org/release/d977c2f2-dfe6-45a5-91bb-f180a9249587/27112054568-500.jpg" data-tags="chillwave" role="button">
 Teen Daze - Four More Years (2010-07-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae0c0b79-3f4d-42fc-89b8-86be9fd9c2a2/13671586532-500.jpg" data-tags="dream pop" role="button">
+Sleep ∞ Over - Outer Limits (2010-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
 How to Dress Well - Love Remains (2010-09-21)
 </li>
@@ -123,6 +120,9 @@ Ssaliva - Thought Has Wings (2011-02)
 <li data-cover="http://coverartarchive.org/release/b1329a36-0ad1-4bb9-8024-b579c15c4d17/1266208666-500.jpg" data-tags="dub" role="button">
 Peaking Lights - 936 (2011-02-08)
 </li>
+<li data-cover="https://img.discogs.com/8_fbUwSZvjhoM5f9NEpnBmiQKMI=/fit-in/504x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538395-1262504450.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
+Walls - Walls (2011-02-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
@@ -143,9 +143,6 @@ Purity Ring - Ungirthed (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/ut1GJKVFVD256JQ424WuONnxL7M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2921998-1307434209.jpeg.jpg" data-tags="chillwave" role="button">
 Ford & Lopatin - Channel Pressure (2011-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
-Dye - Taki 183 (2011-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
@@ -179,6 +176,9 @@ Mitch Murder - Current Events (2011-11-15)
 </li>
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a863742-0d33-4117-bb7c-816a67e44372/11093690951-500.jpg" data-tags="chillwave, academia music" role="button">
+Air Tycoon - Fuck Everything I'm God (2011-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9ab4abd-cbe9-436d-b451-7c10db9ecada/3197833552-500.jpg" data-tags="instrumental, synthpop, emotional, chillwave, emotive" role="button">
 Beat Culture - Tokyo Dreamer (2012-01-15)
@@ -245,6 +245,9 @@ Autre Ne Veut - Anxiety (2013-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/61b929d6-d00d-44b2-8939-8b654ee32820/7292319734-500.jpg" data-tags="chillwave, jiaolong" role="button">
 Les Sins - Grind / Prelims (2013-03-18)
+</li>
+<li data-cover="https://img.discogs.com/cGAnHSJ-Ywp3BrGQAfY6RTgavFA=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4032884-1353059908-5167.jpeg.jpg" data-tags="indie electronic, chillwave" role="button">
+Hola a todo el mundo - Ultraviolet Catastrophe (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e25d9d7b-6660-486f-b30a-c7fe0e4d77cd/5742536528-500.jpg" data-tags="electronic, ambient, experimental, idm, chillwave" role="button">
 Evenings - Yore (2013-04-16)
@@ -314,9 +317,6 @@ Haerts - HAERTS (2014-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/54471c6f-f3be-4c52-9868-6a253afc0185/11060604035-500.jpg" data-tags="experimental, idm, glitch" role="button">
 Arca - Xen (2014-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a1a1bad-2b26-4a77-afda-db20997eb58a/13298046260-500.jpg" data-tags="electronica, glitch-hop, beats, chillwave, intellegent hip-hop" role="button">
-Giraffage - NO REASON (2014-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/35e125c3-e78e-4a4f-b638-527a57ebbefb/21981341896-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Flashlight EP (2014-12-01)

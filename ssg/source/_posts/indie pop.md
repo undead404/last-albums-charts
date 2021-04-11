@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:50:01.513Z
+date: 2021-04-11T14:04:01.439Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0299e566-f951-440f-bb63-8d6608aff482/6126735758-500.jpg" data-tags="80s" role="button">
-The Smiths - The Smiths (1984-02-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
@@ -245,6 +242,9 @@ The xx - Coexist (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1ee5f60-0e3b-4a0d-8705-2113f12baf64/9115800193-500.jpg" data-tags="synthpop, indie pop" role="button">
 Ellie Goulding - Halcyon (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
+Ellie Goulding - Halcyon Days (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)

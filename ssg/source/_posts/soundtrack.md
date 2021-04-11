@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:03:01.438Z
+date: 2021-04-11T14:22:01.592Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -54,9 +54,6 @@ Queen - Flash Gordon (1980-12-08)
 <li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
 Basil Poledouris - Conan the Barbarian (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
-Ray Parker Jr. - Ghostbusters (1984)
-</li>
 <li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
 Clannad - Legend (1984)
 </li>
@@ -110,9 +107,6 @@ Various Artists - The Lion King (1997-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb3b8e6a-5f24-4381-ab16-117624b4612b/11633872587-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - City of Angels (1998-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/96d4e197-0451-36ea-bc71-3692b0bc16ab/5228985911-500.jpg" data-tags="soundtrack, female vocalists" role="button">
-Vonda Shepard - Songs From Ally McBeal (1998-05-05)
 </li>
 <li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
@@ -234,8 +228,14 @@ Javier Navarrete - Pan's Labyrinth (2006-10-30)
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
 </li>
+<li data-cover="https://img.discogs.com/Ou6nX6nIXNWMEzAp3nWybpEE5pw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16199810-1605146727-1040.jpeg.jpg" data-tags="soundtrack" role="button">
+Dario Marianelli - Atonement (2007-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9bf9f1bb-d1b1-44c3-9ba3-d8a9a2aba4c2/8195897318-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - Pirates of the Caribbean: At World's End (2007-05-21)
+</li>
+<li data-cover="https://img.discogs.com/oQmpYRfQIJwO8OKs7sot2jxn_ms=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3746306-1357904796-7378.jpeg.jpg" data-tags="soundtrack" role="button">
+Glen Hansard & Markéta Irglová - Once (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/38102be2-fb5d-4dca-bae3-e9586c5bb8a9/9163744995-500.jpg" data-tags="soundtrack" role="button">
 John Powell - The Bourne Ultimatum (2007-07-31)

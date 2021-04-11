@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:48:01.406Z
+date: 2021-04-11T14:45:01.743Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
-Enigma - MCMXC a.D. (1990-12-03)
-</li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
@@ -137,6 +134,9 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
 Nightmares on Wax - Mind Elevation (2002-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
+Conjure One - Conjure One (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)

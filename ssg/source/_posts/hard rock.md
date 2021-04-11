@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:32:01.433Z
+date: 2021-04-11T14:39:01.647Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -63,6 +63,9 @@ Led Zeppelin - Presence (1976-03-31)
 <li data-cover="http://coverartarchive.org/release/9cb006e6-aa89-4938-b2b2-a14dcca08e59/13356578915-500.jpg" data-tags="hard rock" role="button">
 AC/DC - High Voltage (1976-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/4e498ca7-a8f3-342a-b782-8194eefb6da1/20961140989-500.jpg" data-tags="hard rock" role="button">
+Blue Öyster Cult - Agents of Fortune (1976-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
 </li>
@@ -74,12 +77,6 @@ AC/DC - Back in Black (1980-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Ace of Spades (1980-11-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb0a5483-5a09-4f0f-90f1-417135985e0f/28871095408-500.jpg" data-tags="hard rock" role="button">
-Van Halen - 1984 (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/24335da0-8587-3d50-931e-082b7cf42cd7/20733595394-500.jpg" data-tags="hard rock" role="button">
-Scorpions - Love at First Sting (1984)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
@@ -180,6 +177,9 @@ Trapt - Trapt (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
+Linkin Park - Meteora (2003-03-24)
+</li>
 <li data-cover="https://img.discogs.com/KRMTwE7qWAZAHT2B0pdhwNqZyXc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297711-1207470861.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
@@ -191,6 +191,9 @@ The Darkness - Permission to Land (2003-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
 Three Days Grace - Three Days Grace (2003-07-22)
+</li>
+<li data-cover="https://img.discogs.com/jsfuBqIQ9Tl25n0Dd8juDTzDnYc=/fit-in/350x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059559-1306253341.jpeg.jpg" data-tags="rock" role="button">
+Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0618d2be-4b47-383c-b1f4-eca2dd88f866/5870438747-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Greatest Hits (2004-02-13)
@@ -231,9 +234,6 @@ Wolfmother - Wolfmother (2005-10-31)
 <li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Hypnotize (2005-11-18)
 </li>
-<li data-cover="https://img.discogs.com/ebPU9RWHmh53VwUrHRTV_TpGxbU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6790253-1426685131-5495.jpeg.jpg" data-tags="christian rock, alternative rock" role="button">
-Red - End Of Silence (2006-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Three Days Grace - One-X (2006-06-13)
 </li>
@@ -254,6 +254,9 @@ Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Era Vulgaris (2007-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/54f48d91-12e8-48c1-9f84-292e07b9faaa/4216579078-500.jpg" data-tags="hard rock" role="button">
+Airbourne - Runnin' Wild (2007-06-25)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
@@ -290,9 +293,6 @@ Wolfmother - Cosmic Egg (2009-01-01)
 </li>
 <li data-cover="https://img.discogs.com/eHjqePMXJt9CAC02XTYPOgRuOM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2754782-1385772773-8148.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
 Three Days Grace - Life Starts Now (2009-09-22)

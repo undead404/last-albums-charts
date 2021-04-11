@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:07:06.990Z
+date: 2021-04-11T14:11:01.454Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -45,6 +45,9 @@ The Cardigans - Gran Turismo (1998-10-19)
 <li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
 Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
+The Cinematic Orchestra - Motion (1999-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
 </li>
@@ -74,9 +77,6 @@ Zero 7 - Simple Things (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/f58e4f08-9204-4898-b0d2-69fe5367e602/16928251797-500.jpg" data-tags="chillout, trip-hop" role="button">
-Waldeck - The Night Garden (2001-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6018533d-2cc6-42e4-9a10-fab945f8c5fe/4412087433-500.jpg" data-tags="ukulele, iz" role="button">
 Israel Kamakawiwo'ole - Alone In IZ World (2001-07-25)
@@ -110,9 +110,6 @@ Alexi Murdoch - Four Songs (2002-11-06)
 </li>
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
-</li>
-<li data-cover="https://img.discogs.com/-Ghh-DxfY-YQVhDsE6_B06GuOuM=/fit-in/510x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138610-1333875595.jpeg.jpg" data-tags="chill, downtempo, chillout, ninja tune" role="button">
-Hint - Portakabin Fever (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
@@ -221,6 +218,9 @@ Colbie Caillat - Coco (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
+Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)

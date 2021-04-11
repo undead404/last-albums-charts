@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:00:01.484Z
+date: 2021-04-11T14:14:01.460Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -105,11 +105,17 @@ Dr. Dre - 2001 (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/0eaf3a43-f00e-4416-8ea3-759d1841e3c9/4402657853-500.jpg" data-tags="hip-hop" role="button">
 Common - Like Water for Chocolate (2000-03-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/24a64ce9-3aa5-4be9-a98f-deaf501a0690/6677248625-500.jpg" data-tags="hip-hop, luda" role="button">
+Ludacris - Incognegro (2000-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/63d2c002-3b39-4e6a-9cad-50bb5f86a701/20658908646-500.jpg" data-tags="hip-hop" role="button">
 Nelly - Country Grammar (2000-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
+Big L - The Big Picture (2000-07-11)
 </li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
@@ -237,9 +243,6 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
-B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
@@ -275,9 +278,6 @@ J. Cole - Cole World: The Sideline Story (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">
 Plan B - Ill Manors (2012-07-20)

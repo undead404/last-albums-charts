@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:49:02.730Z
+date: 2021-04-11T14:17:01.413Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -11,8 +11,8 @@ title: "metalcore: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Bullet for My Valentine - The Poison (2005-09-30)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Killswitch Engage - As Daylight Dies (2006-01-21)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, thrash metal" role="button">Lamb of God - Sacrament (2006-08-22)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">As I Lay Dying - An Ocean Between Us (2007-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
+<li data-cover="http://coverartarchive.org/release/d5ffda16-7059-3e0c-91a9-ba39399d004b/13472063593-500.jpg" data-tags="metalcore" role="button">Bullet for My Valentine - Scream Aim Fire (2008-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
 </ol>
 List of 100 - under the cut.
@@ -29,9 +29,6 @@ Avenged Sevenfold - Sounding the Seventh Trumpet (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="https://img.discogs.com/Yy1rDZsNh4_sGKrRhFku6lb-RaU=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1455372-1225279390.jpeg.jpg" data-tags="metalcore" role="button">
 All That Remains - Behind Silence and Solitude (2002-03-26)
@@ -123,6 +120,9 @@ Chimaira - Chimaira (2005-08-09)
 <li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Gutter Phenomenon (2005-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
+Protest the Hero - Kezia (2005-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Alaska (2005-09-06)
 </li>
@@ -186,9 +186,6 @@ Chimaira - Resurrection (2007-03-02)
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/818aa8f1-d844-48e4-bc21-1c3c9589d488/26249216838-500.jpg" data-tags="metalcore" role="button">
-Haste the Day - Pressure The Hinges (2007-03-20)
-</li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
@@ -203,9 +200,6 @@ Darkest Hour - Deliver Us (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
-As I Lay Dying - An Ocean Between Us (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
@@ -261,6 +255,9 @@ Architects - Hollow Crown (2009-01-26)
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/108c1946-8472-47fd-8b32-914ec78d1e7b/7717001959-500.jpg" data-tags="metalcore" role="button">
+Miss May I - Apologies Are For The Weak (2009-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -299,6 +296,9 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/27f2d3c5-50b6-4a97-a2d1-2da283881fe3/20002674834-500.jpg" data-tags="metalcore" role="button">
 Architects - The Here And Now (2011-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9646d5f9-08c9-43a2-bebf-c80a3b86368f/7273863258-500.jpg" data-tags="post-hardcore" role="button">
+Asking Alexandria - Reckless & Relentless (2011-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - The Flood (2011-06-14)

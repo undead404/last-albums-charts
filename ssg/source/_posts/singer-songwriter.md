@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T11:34:01.500Z
+date: 2021-04-11T14:38:01.599Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">Jeff Buckley - Grace (1994-08-15)</li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">Elliott Smith - Either/Or (1997-02-25)</li>
+<li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">Elliott Smith - XO (1998-08-24)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">José González - Veneer (2003-10)</li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">James Blunt - Back to Bedlam (2004-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
@@ -54,9 +54,6 @@ Nick Drake - Pink Moon (1972-02-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
-</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
 </li>
@@ -74,6 +71,9 @@ Bruce Springsteen - Greatest Hits (1995-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
+Cat Power - Myra Lee (1996-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
@@ -137,9 +137,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6418bf2b-0cc9-4084-9155-b9dbb3ea49c0/23662073899-500.jpg" data-tags="singer-songwriter" role="button">
 Rufus Wainwright - Want One (2003-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
-José González - Veneer (2003-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
@@ -308,6 +305,9 @@ Ed Sheeran - + (2011-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
+</li>
+<li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
+Feist - Metals (2011-09-30)
 </li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)

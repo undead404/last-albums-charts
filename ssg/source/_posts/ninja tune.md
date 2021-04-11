@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:54:01.403Z
+date: 2021-04-11T14:12:01.631Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/b42abeda-e8bc-4fb8-8fc6-f206ae4010e8/25961120368-500.jpg" data-tags="ninja tune" role="button">
+DJ Food - Jazz Brakes, Volume 1 (1990-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/5dc61cde-afe3-4b8b-ba30-d799226aff6e/4072706550-500.jpg" data-tags="chillout, electronic, downtempo, ninja tune" role="button">
 Coldcut - Philosophy (1993)
 </li>
@@ -47,6 +50,9 @@ Amon Tobin - Creatures (1996-11)
 </li>
 <li data-cover="https://img.discogs.com/CYHf9bWN-3TIW8yAvH2GCWSWl_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1779833-1591447901-1812.jpeg.jpg" data-tags="indie, alternative rock" role="button">
 The Wannadies - Bagsy Me (1996-11-30)
+</li>
+<li data-cover="https://img.discogs.com/HnP7DjknA16I11LB4zVbly39aI8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30944-1159358576.jpeg.jpg" data-tags="ninja tune" role="button">
+The Herbaliser - New + Improved (1997-02)
 </li>
 <li data-cover="https://img.discogs.com/KO3Hb5KPZe0KhgUq00CKQgTo6B8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1408100-1373923314-6008.jpeg.jpg" data-tags="ninja tune, hip-hop" role="button">
 The Herbaliser - Blow Your Headphones (1997-03-23)
@@ -111,9 +117,6 @@ Bonobo - Scuba EP (2000-06-11)
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ada18528-82a9-43dd-8a03-7dc56821674a/6696264532-500.jpg" data-tags="ninja tune" role="button">
-Hexstatic - Rewind (2000-08-21)
-</li>
 <li data-cover="https://img.discogs.com/dW_Wzcb8oAu5sbFhJVRQAT2NS_Q=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2320295-1276702795.jpeg.jpg" data-tags="electronic" role="button">
 Amon Tobin - 4 Ton Mantis (2000-09-04)
 </li>
@@ -147,6 +150,9 @@ Mr. Scruff - Trouser Jazz (2002-09-09)
 <li data-cover="http://coverartarchive.org/release/8fd2bc17-cd42-4347-9b61-68d62f6566df/4637421071-500.jpg" data-tags="alternative rock, hard rock, nu metal, metal, rock" role="button">
 Adema - Insomniac's Dream (2002-11-05)
 </li>
+<li data-cover="https://img.discogs.com/4DyWXYvYX8P0X8XTmpDBnvb63ys=/fit-in/500x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1258143-1204319587.jpeg.jpg" data-tags="downtempo, acid jazz, ninja tune, breakbeat" role="button">
+Blockhead - Insomniac Olympics EP (2003)
+</li>
 <li data-cover="https://img.discogs.com/d1kCm5rdQEv76vZgGqWj1gHnf9w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-110694-1133104891.jpeg.jpg" data-tags="experimental, ninja tune" role="button">
 Super Numeri - Great Aviaries (2003-02)
 </li>
@@ -155,9 +161,6 @@ Amon Tobin - The Bridge (2003-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0778f7-4eb3-4784-8f31-88e4fa3f6a3f/4397236528-500.jpg" data-tags="hip hop, ninja tune" role="button">
 Sixtoo - Antagonist Survival Kit (2003-04)
-</li>
-<li data-cover="https://img.discogs.com/-Ghh-DxfY-YQVhDsE6_B06GuOuM=/fit-in/510x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138610-1333875595.jpeg.jpg" data-tags="chill, downtempo, chillout, ninja tune" role="button">
-Hint - Portakabin Fever (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f762f5a8-df9b-4f68-909e-7bd8d3a9d660/24248998962-500.jpg" data-tags="ninja tune, folktronica, 00s, excellent albums, pro sun and no fear, dork folk" role="button">
 FOG - Ether Teeth (2003-05-12)
@@ -224,9 +227,6 @@ The Cinematic Orchestra - To Build a Home (2007-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/531fd8e4-1fb0-49bf-a8b2-bd33196ffbb6/4515192849-500.jpg" data-tags="electronic, ninja tune" role="button">
-Hexstatic - When Robots Go Bad (2007-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/211a02ff-4ec8-4d0d-83f9-a9b480aefbcb/23905287715-500.jpg" data-tags="reggae" role="button">
 Jah Cure - True Reflections...A New Beginning (2007-07-31)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:21:01.406Z
+date: 2021-04-11T14:30:07.248Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -54,6 +54,9 @@ X-Ray Spex - Germfree Adolescents (1978-11-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Tom Petty and The Heartbreakers - Damn the Torpedoes (1979-10-19)
 </li>
+<li data-cover="https://img.discogs.com/mu-47_U08MhdFNypDu80hKOIIVI=/fit-in/600x921/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9468810-1481115981-5573.jpeg.jpg" data-tags="1980s" role="button">
+Warren Zevon - Bad Luck Streak in Dancing School (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/3f18237e-a18e-4aa5-857b-5a9bc3e4b648/7827739089-500.jpg" data-tags="rock" role="button">
 Pete Townshend - Empty Glass (1980-04-21)
 </li>
@@ -93,6 +96,9 @@ Beck - One Foot In The Grave (1994-06-27)
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
 </li>
+<li data-cover="https://img.discogs.com/MLQnd8XMK--cptY4SsLN_4nch4o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15947338-1600715074-5097.jpeg.jpg" data-tags="country" role="button">
+Willie Nelson - The Essential Willie Nelson (1995-08-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
 Lou Reed - Set The Twilight Reeling (1996-02-20)
 </li>
@@ -126,8 +132,8 @@ Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Hawksley Workman - (Last Night We Were) The Delicious Wolves (2001-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
-Sondre Lerche - Faces Down (2001-09-10)
+<li data-cover="http://coverartarchive.org/release/d6b18095-95df-4cb5-8ae5-5871b4ac32bb/18538663971-500.jpg" data-tags="boz scaggs" role="button">
+Boz Scaggs - Dig (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
@@ -186,14 +192,14 @@ Milow - The Bigger Picture (2006-01-19)
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="indie rock, rock, british, alternative rock, brit pop, indie, alternative, britpop, manchester, english, pop rock, unsigned, brit-pop, uk indie, british indie, manchester music" role="button">
 Colours Run - Doghouse Demo (2006-02-11)
 </li>
+<li data-cover="https://img.discogs.com/UWSP4g7ZoDRv8oHrao9IirRXews=/fit-in/335x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159429-1197015364.jpeg.jpg" data-tags="rock, canadian, mellow" role="button">
+Hawksley Workman - Treeful Of Starling (2006-02-28)
+</li>
 <li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
 Steve Adey - All Things Real (2006-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c81d1401-0cdf-4fed-9978-def03b67e6ee/21213491147-500.jpg" data-tags="rock, alternative rock, progressive rock, guitar, singer songwriter, song noir, the devil and the deep blue sea, just another folk singer, the merch grrls" role="button">
 Tim Easton - Ammunition (2006-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
-Vienna Teng - Dreaming Through The Noise (2006-07-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
@@ -224,9 +230,6 @@ Kurt Vile - Constant Hitmaker (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5048b8c6-1214-4836-a48f-c2df38eaf099/7240585489-500.jpg" data-tags="alternative, cabaret" role="button">
-Amanda Palmer - Who Killed Amanda Palmer (2008-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a09646bb-fb30-4058-b5ec-507494bd9210/18755410308-500.jpg" data-tags="folk" role="button">
 Ben Kweller - Changing Horses (2009-02-03)
@@ -290,9 +293,6 @@ Phosphorescent - Muchacho (2013-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/024abf44-0f50-4369-bcd6-ea7017d40474/14533802813-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Same Trailer Different Park (2013-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ada60215-dcf5-46b2-bf65-b27fda5424b0/13276770308-500.jpg" data-tags="folk" role="button">
-Bill Callahan - Dream River (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

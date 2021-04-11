@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:36:01.427Z
+date: 2021-04-11T14:29:01.412Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -132,9 +132,6 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/f58e4f08-9204-4898-b0d2-69fe5367e602/16928251797-500.jpg" data-tags="chillout, trip-hop" role="button">
-Waldeck - The Night Garden (2001-05-22)
-</li>
 <li data-cover="https://img.discogs.com/WDs8Q0vywnEkdS2hN_r65odzScc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1919315-1305435824.jpeg.jpg" data-tags="soul" role="button">
 Angie Stone - Mahogany Soul (2001-06)
 </li>
@@ -176,6 +173,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/48e26976-4a13-4f4b-83e5-a4ce4b6954ed/2324041614-500.jpg" data-tags="deep house, house, lounge" role="button">
 Miguel Migs - Colorful You (2002-09-30)
+</li>
+<li data-cover="https://img.discogs.com/1hAMKBj0GpScDbDgbwAdCeAaFv8=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330996-1118257022.jpg.jpg" data-tags="jazz" role="button">
+Ive Mendes - Ive Mendes (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
 Gabin - Gabin (2002-11-05)

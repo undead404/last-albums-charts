@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:45:01.610Z
+date: 2021-04-11T13:54:01.422Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -26,9 +26,6 @@ Above the Law - Livin' Like Hustlers (1989-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae103b0a-b932-4009-acb6-388db1cf890b/17852073991-500.jpg" data-tags="rap, hip-hop" role="button">
-Vanilla Ice - To The Extreme (1990-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
@@ -152,6 +149,9 @@ Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/aeb86f07-384f-4afb-a67c-2df7d064b2e6/1629888917-500.jpg" data-tags="hip-hop, gangsta rap, black music" role="button">
 50 Cent - Power of the Dollar (2000-07-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
+Big L - The Big Picture (2000-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b64325-70f0-4290-a51a-05a63bf44330/13919672240-500.jpg" data-tags="hip-hop, rap, american, gangsta rap, crunk, 00s, southern hip-hop" role="button">
 Lil Jon & The East Side Boyz - We Still Crunk (2000-08-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:03:07.110Z
+date: 2021-04-11T14:43:01.584Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -138,6 +138,9 @@ Pink Floyd - Obscured by Clouds (1972-06-03)
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4e498ca7-a8f3-342a-b782-8194eefb6da1/20961140989-500.jpg" data-tags="hard rock" role="button">
+Blue Öyster Cult - Agents of Fortune (1976-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
@@ -201,9 +204,6 @@ MGMT - Metanoia (2008-08-12)
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
 </li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
-</li>
 <li data-cover="https://img.discogs.com/eHjqePMXJt9CAC02XTYPOgRuOM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2754782-1385772773-8148.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
 </li>
@@ -264,6 +264,9 @@ Spiritualized - Sweet Heart Sweet Light (2012-04-16)
 <li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
 Om - Advaitic Songs (2012-07-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
+Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)
+</li>
 <li data-cover="https://img.discogs.com/Xd89B7vAbeXdJFsEnBio3wCG__I=/fit-in/492x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3954491-1369233082-6418.jpeg.jpg" data-tags="psychedelic rock, psychedelic, sweden, afro-beat" role="button">
 Goat - World Music (2012-08-20)
 </li>
@@ -281,9 +284,6 @@ Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Infestissumam (2013-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/877221c2-a4fe-4c34-b89f-8d43adb31d80/3707477205-500.jpg" data-tags="indie, rock, indie rock, lo-fi, garage rock, psychedelic rock, san francisco, 10s, 2013 releases, castle face, rel-mnth:2013:april, got this one on vinyl, wfmu heavily played records" role="button">
-Thee Oh Sees - Floating Coffin (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)
