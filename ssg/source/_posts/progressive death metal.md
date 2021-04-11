@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:59:01.710Z
+date: 2021-04-11T20:53:01.414Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -168,6 +168,9 @@ Disarmonia Mundi - Mind Tricks (2006-06-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, industrial metal, metal" role="button">
 Strapping Young Lad - The New Black (2006-07-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive black metal" role="button">
+Ikuinen Kaamos - The Forlorn (2006-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
 </li>
@@ -254,9 +257,6 @@ Atheist - Jupiter (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/dnQ8QdfQTs7pw05T-zB6DXIZ8Lk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811868-1526357355-6120.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Obscura - Omnivium (2011-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ded68b3-fe23-43dc-8d84-2fb25c343c47/7574751526-500.jpg" data-tags="progressive death metal" role="button">
-Becoming the Archetype - Celestial Completion (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/689f0722-8ff4-436d-a7c1-4d7cf216bad6/4678137373-500.jpg" data-tags="progressive death metal, technical death metal" role="button">
 Archspire - All Shall Align (2011-04-12)

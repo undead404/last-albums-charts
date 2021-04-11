@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:38:01.392Z
+date: 2021-04-11T21:17:07.444Z
 title: "garage punk: 100 albums you must listen to before you die"
 ---
 ![The Hives - Veni Vidi Vicious (2000-04-10)](http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg "The Hives - Veni Vidi Vicious (2000-04-10)")
@@ -35,9 +35,6 @@ Radio Birdman - Living Eyes (1981-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf35360c-9bfb-4459-926f-e686bbde68da/10191233331-500.jpg" data-tags="punk rock, hardcore punk, alternative rock" role="button">
 Social Distortion - Mommy's Little Monster (1983-02-01)
-</li>
-<li data-cover="https://img.discogs.com/LXPJGygAiVX5KORWO1I0bIAlslg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894436-1344881489-1549.jpeg.jpg" data-tags="psychedelic" role="button">
-The Fuzztones - Lysergic Emanations (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
@@ -117,6 +114,9 @@ The (International) Noise Conspiracy - Survival Sickness (2000-04-10)
 <li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">
 The Hives - Veni Vidi Vicious (2000-04-10)
 </li>
+<li data-cover="https://img.discogs.com/0FvqjMRxibsGKA_KwkQxFWJUFzE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-155086-1546982176-2710.jpeg.jpg" data-tags="digital hardcore" role="button">
+Lolita Storm - Girls Fucking Shit Up (2000-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee70adc5-ad51-4974-b272-bf6282719875/25101692738-500.jpg" data-tags="punk rock, rock and roll, garage punk, desert island discs, where is my bong, headbangers ball, drunk tank singalong tune" role="button">
 The Murder City Devils - In Name And Blood (2000-06-06)
 </li>
@@ -147,6 +147,9 @@ Hot Snakes - Suicide Invoice (2002-06-11)
 <li data-cover="http://coverartarchive.org/release/5e6a4731-2f21-4d7b-aa4d-2518511fbc79/2097071587-500.jpg" data-tags="rock" role="button">
 The Vines - Highly Evolved (2002-06-15)
 </li>
+<li data-cover="https://img.discogs.com/jzFzLYn5Mk3ot3UNJlqss3Pb46s=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930266-1253261668.jpeg.jpg" data-tags="rock, punk" role="button">
+New Bomb Turks - The Night Before The Day The Earth Stood Still (2002-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/938cf7ac-7c63-391b-9e55-0d3d09e5294d/1883381895-500.jpg" data-tags="rock, indie, alternative" role="button">
 Kings of Leon - Holy Roller Novocaine (2003-02-24)
 </li>
@@ -155,6 +158,9 @@ Black Lips - Black Lips! (2003-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
+</li>
+<li data-cover="https://img.discogs.com/0cqdQCHzF4R-EhHWQsjwUsBucik=/fit-in/280x273/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10169379-1492807294-7700.jpeg.jpg" data-tags="punk" role="button">
+New Bomb Turks - Switchblade Tongues, Butterknife Brains (2003-10-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, garage rock revival, garage rock, garage punk" role="button">
 The Go - The GO (2003-10-21)
@@ -237,9 +243,6 @@ The Ettes - Look At Life Again Soon (2008-08-12)
 <li data-cover="https://img.discogs.com/xPz6KQk6ripMjIq4En2BjG6hYDU=/fit-in/479x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1806114-1244517800.jpeg.jpg" data-tags="garage rock, garage punk, my punk rock vinyl collection" role="button">
 Nobunny - Love Visions (2008-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
 <li data-cover="https://img.discogs.com/1inhYZvQXrnLY5lZvVu7FlYTHsM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199673-1282003472.jpeg.jpg" data-tags="punk garage blues" role="button">
 Black Lips - 200 Million Thousand (2009-02-24)
 </li>
@@ -264,11 +267,11 @@ Nice Face - Immer Etwas (2010-02)
 <li data-cover="http://coverartarchive.org/release/df72e46a-8de2-4364-8e30-1650e05bda6e/4816822656-500.jpg" data-tags="indie, rock, indie rock, garage punk, 10s, tic tac totally" role="button">
 Moonhearts - Moonhearts (2010-07-13)
 </li>
+<li data-cover="https://img.discogs.com/ezi3cP9EGd3bRCHfFLXaXSyeO5U=/fit-in/260x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533415-1289176446.jpeg.jpg" data-tags="garage rock" role="button">
+Demon's Claws - The Defrosting of (2010-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/e549dc61-17a5-4d06-9f61-2e4158d6bb62/17988718814-500.jpg" data-tags="punk, noise rock, lo-fi, shitgaze, punk rock, garage rock, garage, no wave, garage punk" role="button">
 Tyvek - Nothing Fits (2010-11-09)
-</li>
-<li data-cover="https://img.discogs.com/wWmmkD7CKyVgtKTiGx78Rpyrbjk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2974052-1309900811.jpeg.jpg" data-tags="energetic, irreverent, aggressive, sardonic, raucous, drinking, sleazy, garage punk, silly, partying, rowdy, swaggering, messy, punk revival, tgif, boisterous, brash, guys night out, greasy, reckless, pool party" role="button">
-The Spits - Kill The Kool (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/56b749ab-070c-49bb-b7f4-1198ef28d585/15883380437-500.jpg" data-tags="lo-fi" role="button">
 Bass Drum of Death - GB City (2011-03-01)
@@ -299,9 +302,6 @@ Drunk Mums - Drunk Mums (2012-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f2d4585-c9c1-464d-99ec-95bf0c0b21fa/3783198494-500.jpg" data-tags="noise rock, post-punk, garage rock, garage punk, california x" role="button">
 California X - California X (2013-02)
-</li>
-<li data-cover="https://img.discogs.com/uiNmbyo14MoF5G-n-S2YNA4PmJI=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4341151-1362252403-2192.jpeg.jpg" data-tags="indie, rock, alternative, indie rock" role="button">
-Kate Nash - Girl Talk (2013-03-01)
 </li>
 <li data-cover="https://img.discogs.com/jk1sYLoZ6SO8vcZa0Z4g_nkZ79I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4831499-1388054309-1654.jpeg.jpg" data-tags="garage rock" role="button">
 Drenge - drenge (2013-08-19)

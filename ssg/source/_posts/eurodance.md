@@ -1,12 +1,12 @@
 ---
-date: 2021-04-11T04:58:07.023Z
+date: 2021-04-11T21:10:07.025Z
 title: "eurodance: 100 albums you must listen to before you die"
 ---
 ![Aqua - Aquarium (1997-05-21)](http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg "Aqua - Aquarium (1997-05-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/d28tpqQucwJ9drJ-Ad8JCNBVpoI=/fit-in/371x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1737046-1333832985.jpeg.jpg" data-tags="90s, pop, dance" role="button">Real McCoy - Another Night (1993)</li>
-<li data-cover="https://img.discogs.com/iSFCUQpS0bq14_pXSQHE8wAWPsI=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-199092-1160064313.jpeg.jpg" data-tags="eurodance" role="button">Robin S - Show Me Love (1993)</li>
 <li data-cover="http://coverartarchive.org/release/0fc72651-d79f-4dd4-91d2-7828c57ebdc9/1000576572-500.jpg" data-tags="eurodance" role="button">Corona - The Rhythm of the Night (1993)</li>
+<li data-cover="https://img.discogs.com/PV1iQieh0p53FdHTOg-hZWcVsgc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314595-1428162523-2583.jpeg.jpg" data-tags="eurodance, 90s" role="button">La Bouche - Sweet Dreams (1994-06)</li>
 <li data-cover="http://coverartarchive.org/release/191efea3-5ed8-4faf-8f79-bdac547ebaa1/11144299719-500.jpg" data-tags="eurodance" role="button">Scatman John - Scatman's World (1995-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg" data-tags="dance, pop, eurodance, 90s" role="button">Aqua - Aquarium (1997-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/e1eb09f5-090f-4a15-8fa2-a8cf7c16d87d/11878814902-500.jpg" data-tags="eurodance" role="button">Baha Men - Who Let the Dogs Out (2000-10-02)</li>
@@ -30,6 +30,12 @@ Technotronic - Pump Up the Jam: The Album (1989-11-07)
 <li data-cover="https://img.discogs.com/6FsQzhhz2A4-hQBp89F65E5piC4=/fit-in/300x261/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4745813-1374175184-2110.jpeg.jpg" data-tags="eurodance" role="button">
 Nick Kamen - Move Until We Fly (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/75f38e9a-879b-4788-910a-4b6f651d0d3c/11883910747-500.jpg" data-tags="dance" role="button">
+Guru Josh - Infinity (1990-07-14)
+</li>
+<li data-cover="https://img.discogs.com/dV8G781JahYkmAgFDQ3hPDsmVQg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8664775-1518517470-6829.jpeg.jpg" data-tags="eurodance" role="button">
+Culture Beat - Horizon (1991-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1938507-11d0-46ff-8aa6-8c5d7568ec73/9699337506-500.jpg" data-tags="dance, house" role="button">
 Rozalla - Everybody's Free (1991-09)
 </li>
@@ -47,9 +53,6 @@ Real McCoy - Another Night (1993)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="eurodance" role="button">
 Reel 2 Real - I Like To Move It (1993)
-</li>
-<li data-cover="https://img.discogs.com/iSFCUQpS0bq14_pXSQHE8wAWPsI=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-199092-1160064313.jpeg.jpg" data-tags="eurodance" role="button">
-Robin S - Show Me Love (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fc72651-d79f-4dd4-91d2-7828c57ebdc9/1000576572-500.jpg" data-tags="eurodance" role="button">
 Corona - The Rhythm of the Night (1993)
@@ -219,9 +222,6 @@ Eiffel 65 - Contact! (2001-01-01)
 <li data-cover="http://coverartarchive.org/release/39766a40-8133-4139-82ec-d64c161ece58/14519487295-500.jpg" data-tags="dance" role="button">
 Me & My - Fly High (2001-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd5f83f2-fd01-4fc8-9fc6-e8620bc6cd53/8844514503-500.jpg" data-tags="dance, trance" role="button">
-Sylver - Chances (2001-05-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/20ca4a82-abb1-48c4-8c7a-170e7511ff92/2748922226-500.jpg" data-tags="dance, trance" role="button">
 Lasgo - Some Things (2001-12-12)
 </li>
@@ -242,9 +242,6 @@ Lasgo - Pray (2002-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cf3cff7-c967-49c3-a200-2c27c60cca16/12748504052-500.jpg" data-tags="trance, dance" role="button">
 Novaspace - Supernova (2003-01-06)
-</li>
-<li data-cover="https://img.discogs.com/ZNYuPJHh4HctkxSkoq-WqPFPmWo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-173512-1453023603-5171.jpeg.jpg" data-tags="techno" role="button">
-4 Strings - Let It Rain (2003-02-27)
 </li>
 <li data-cover="https://img.discogs.com/dYA8iHe_Huc5awOwYkgCtQ5aN1g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136949-1515841853-9853.jpeg.jpg" data-tags="techno" role="button">
 Scooter - The Stadium Techno Experience (2003-03-31)
@@ -272,6 +269,9 @@ Sugababes - Push The Button (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/945acc19-8cb9-4556-852b-4acaef9e7520/16078775946-500.jpg" data-tags="techno" role="button">
+Scooter - Excess All Areas (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db99a93-9326-4caf-8793-6464418fe114/15206166626-500.jpg" data-tags="dance" role="button">
 Basshunter - LOL <(^^,)> (2006-08-30)
@@ -315,8 +315,8 @@ ATB - Distant Earth (2011-04-29)
 <li data-cover="https://img.discogs.com/eYIX7NgPApXv1XcMCmrJJP6jm7I=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7362515-1439830986-3810.jpeg.jpg" data-tags="trance, electronic, pop, hardcore, dubstep, dance, techno, house, rave, eurodance, scooter, edm, hardstyle" role="button">
 Scooter - The Big Mash Up (2011-10-14)
 </li>
-<li data-cover="https://img.discogs.com/m-hJdN0j0ENG44NF64-XOwF4rDE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7688748-1446770663-9600.jpeg.jpg" data-tags="synthpop, eurodance, 10s, outtakes, 21st century, 010s" role="button">
-Marsheaux - E-Bay Queen Is Dead (2012)
+<li data-cover="http://coverartarchive.org/release/100ecb9a-bb5d-4fce-b9e6-a38c95585a1d/12847232978-500.jpg" data-tags="white music for white people, hitler, adolf hitler, brown music for pink people, racism in music sucks, reincarnation of hitler, bonehead, heil hitler, white powder, anticommunist, brutal nazi scumcore with fascist influence and guest vocalist adolf hitler, white powercore, nazi kircore, anal music for anal people, nazi scumcore, my brother became nazi fucking scum after listening to this, nazi fucking scum, only cocksuckers can listen to this shit" role="button">
+Tokio Hotel - Kings Of Suburbia (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:44:01.468Z
+date: 2021-04-11T21:04:01.415Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -264,14 +264,14 @@ Jason Aldean - Wide Open (2009-04-07)
 <li data-cover="http://coverartarchive.org/release/c8b7e81c-cf6c-4cf5-bfed-71cece74d463/14961784503-500.jpg" data-tags="country" role="button">
 Justin Moore - Justin Moore (2009-08-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/9895bdb8-c953-4fe7-9002-061890ef2fa1/26645239845-500.jpg" data-tags="chris young" role="button">
+Chris Young - The Man I Want To Be (2009-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1bd5b2f-5194-4699-829d-f85233dce530/10144258124-500.jpg" data-tags="country" role="button">
 Tim McGraw - Southern Voice (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b7b7553-1492-49f4-b8bc-3fb482fe4ab2/7911228592-500.jpg" data-tags="country" role="button">
 Carrie Underwood - Play On (2009-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
-Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b041e25-e0e9-480d-8f65-b7ac56ecf3d4/14666618913-500.jpg" data-tags="country" role="button">
 Lee Brice - Love Like Crazy (2010-06-08)

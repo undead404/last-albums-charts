@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:25:01.488Z
+date: 2021-04-11T21:06:01.405Z
 title: "classical: 100 albums you must listen to before you die"
 ---
 ![Wolfgang Amadeus Mozart - Requiem (1995-10-02)](https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg "Wolfgang Amadeus Mozart - Requiem (1995-10-02)")
@@ -93,6 +93,9 @@ Hector Berlioz - Symphonie Fantastique (1993)
 <li data-cover="http://coverartarchive.org/release/f835ced9-a60a-4ebb-ad2a-6be11ccf7dfb/2634582164-500.jpg" data-tags="classical" role="button">
 Johann Sebastian Bach - The Very Best of Bach (1993-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/cbe8785b-60e5-4c4b-acde-b72dbd67d3e8/9709595677-500.jpg" data-tags="female vocalists, sarah" role="button">
+Sarah Brightman - Dive (1993-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
 </li>
@@ -104,9 +107,6 @@ Wolfgang Amadeus Mozart - Mozart (1994-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">
 Frédéric Chopin - Chopin (1995)
-</li>
-<li data-cover="https://img.discogs.com/AEcPN3xbgGP-QuO_q4A_u64fiM0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393240-1328652413.jpeg.jpg" data-tags="classical, sarah brightman, female vocalists" role="button">
-Sarah Brightman - Fly (1995)
 </li>
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
@@ -158,9 +158,6 @@ Richard Wagner - The Royal Philharmonic Collection (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">
 Thomas Newman - American Beauty (2000-01-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb41d085-f38b-48cc-919f-377ee0fb2fe9/16112159503-500.jpg" data-tags="gregoriano" role="button">
-Magna Canta - Enchanted Spirits (2000-11-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="opera, tosca" role="button">
 Giacomo Puccini - Tosca (2001)
@@ -216,6 +213,9 @@ Frédéric Chopin - CHOPIN: Piano Favourites (2005)
 <li data-cover="http://coverartarchive.org/release/6faf3908-a49a-43f2-8799-1d701d404fcb/10496452285-500.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - The Very Best of Mozart (2005-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1253c24-e19a-49f6-9b16-f78901359eda/5794044462-500.jpg" data-tags="christmas" role="button">
+Il Divo - The Christmas Collection (2005-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/95c0ced5-be9d-4558-b607-78e23d499ac8/5794008928-500.jpg" data-tags="il divo, classical" role="button">
 Il Divo - Ancora (2005-11-07)
 </li>
@@ -249,9 +249,6 @@ Michael Cashmore - The Snow Abides (2007)
 <li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/d8e5feb6-861b-44a0-a875-79851c40126a/6356680570-500.jpg" data-tags="hayley westenra" role="button">
-Hayley Westenra - Treasure (2007-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
 Paul Potts - One Chance (2007-07-13)
 </li>
@@ -267,8 +264,8 @@ Black Violin - Black Violin (2007-12-04)
 <li data-cover="http://coverartarchive.org/release/8b8bf29c-73d8-4067-8255-cd8d2b9492ff/14920083393-500.jpg" data-tags="classical, orchestral, bandcamp, flac, mam" role="button">
 植松伸夫 - Distant Worlds: Music From Final Fantasy (2007-12-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, richard, bananas, bats, miscellaneous, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
-Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
+<li data-cover="http://coverartarchive.org/release/301bb5fb-31e9-47d0-acb8-9b89396531ec/1283152106-500.jpg" data-tags="classical, ambient, phantom channel" role="button">
+Chaz Knapp - Vie comme un Parasite Faisant la fête (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/29aa8ea1-2a36-46da-8443-29dfd363a754/2124955046-500.jpg" data-tags="classical, instrumental" role="button">
 Mike Oldfield - Music Of The Spheres (2008-03-17)
@@ -305,6 +302,9 @@ Inon Barnatan - Darknesse Visible (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b08a32c-b1b1-41af-80aa-b278ee3b2cbd/4241397444-500.jpg" data-tags="breakcore" role="button">
 Igorrr - Hallelujah (2012-12-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/367d21e3-28f6-4661-aea0-464dd97b8c7d/4952414381-500.jpg" data-tags="classical, symphonic metal, lorraine39lam" role="button">
+Two Steps from Hell - Classics, Vol. 1 (2013-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a0f5c51-0ee6-412a-9b42-a8268eb52f00/4719617453-500.jpg" data-tags="ambient, choral" role="button">
 Julianna Barwick - Nepenthe (2013-07-20)

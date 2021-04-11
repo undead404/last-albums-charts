@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:11:01.454Z
+date: 2021-04-11T21:30:01.465Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -69,9 +69,6 @@ Citizen Cope - Citizen Cope (2001)
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
-Broken Social Scene - Feel Good Lost (2001-03-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
 </li>
@@ -93,6 +90,9 @@ Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
+Doves - The Last Broadcast (2002-04-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/a840e69a-3a92-4bf9-843c-e2b1fec44e3c/9715897767-500.jpg" data-tags="rock" role="button">
 Counting Crows - Hard Candy (2002-07-09)
 </li>
@@ -101,9 +101,6 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
@@ -171,6 +168,9 @@ Slightly Stoopid - Closer To The Sun (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
+<li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
+The Cat Empire - Two Shoes (2005-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/123b84c6-d6da-3975-96ec-65ab937ee16a/19801864754-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
@@ -209,9 +209,6 @@ John Mayer - Continuum (2006-08-01)
 </li>
 <li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
 Ben Kweller - Ben Kweller (2006-09-19)
-</li>
-<li data-cover="https://img.discogs.com/cBeIDW7xK6KxSb-P0zJpViuKFyM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4853247-1597669352-9918.jpeg.jpg" data-tags="chillout, electronic, electronica, dance, faithless" role="button">
-Faithless - To All New Arrivals (2006-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
@@ -281,6 +278,9 @@ Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/41c7c22a-a8ea-420e-b712-ef86a51c3a81/5564637848-500.jpg" data-tags="electronic, chill, instrumental, experimental, electro, techno, bass, electronic superhighway" role="button">
+Birdy Nam Nam - Defiant Order (2011-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Balmorhea - Stranger (2012-02-10)

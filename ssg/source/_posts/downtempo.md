@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:39:01.421Z
+date: 2021-04-11T21:25:01.422Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -135,6 +135,9 @@ Bonobo - Sweetness (2002)
 <li data-cover="http://coverartarchive.org/release/5bc4c6d4-63c4-405c-ae08-df41577dd0e3/7851578939-500.jpg" data-tags="downtempo" role="button">
 Flunk - For Sleepyheads Only (2002-04-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/4cc03111-c186-4be3-bccf-24eeee95b9ee/7160372166-500.jpg" data-tags="electronic, downtempo" role="button">
+Dirty Vegas - Dirty Vegas (2002-06-04)
+</li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
 </li>
@@ -239,9 +242,6 @@ Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
 <li data-cover="https://img.discogs.com/jnGU0rPnUOyIqqugh4JtoaYDLOY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15537372-1593224889-6566.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
-</li>
-<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)

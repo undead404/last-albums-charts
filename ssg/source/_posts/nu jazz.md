@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:40:01.420Z
+date: 2021-04-11T21:08:01.406Z
 title: "nu jazz: 100 albums you must listen to before you die"
 ---
 ![The Cinematic Orchestra - Motion (1999-09-01)](http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg "The Cinematic Orchestra - Motion (1999-09-01)")
@@ -26,6 +26,9 @@ Mother Earth - The People Tree (1993)
 </li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
+</li>
+<li data-cover="https://img.discogs.com/ff_asNjwbK3bM96fQXYhOPoEdr8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29668-1326623736.jpeg.jpg" data-tags="downtempo, ninja tune, acid jazz" role="button">
+9 Lazy 9 - Electric Lazyland (1994-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d339f10-ad00-43b1-a113-579481e9c33f/863426134-500.jpg" data-tags="trip-hop, acid jazz" role="button">
 Red Snapper - Reeled and Skinned (1995-06-26)
@@ -69,9 +72,6 @@ Jazzanova - Jazzanova EP (1998)
 <li data-cover="http://coverartarchive.org/release/479088c8-153e-42d9-872c-8eb71502a4a4/19945760434-500.jpg" data-tags="house" role="button">
 Big Muff - Music from the Aural Exciter (1998-02-24)
 </li>
-<li data-cover="https://img.discogs.com/R0sIwzv3ChatxseyQfHwZzOmbSU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2670-1232473336.jpeg.jpg" data-tags="downtempo, electronic" role="button">
-Rae & Christian - Northern Sulphuric Soul (1998-10-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/d73e4ff8-99ad-44bd-b9bf-b0a2a17160ca/19323060499-500.jpg" data-tags="jazz" role="button">
 Gilles Peterson - INCredible Sound Of Gilles Peterson (1999)
 </li>
@@ -95,6 +95,12 @@ Karate - Unsolved (2000-10-24)
 </li>
 <li data-cover="https://img.discogs.com/S_u5hgxqd-TiZ8wwhrdvx880yOc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8871-1236606603.jpeg.jpg" data-tags="nu jazz, jazz, lounge, brisk sound, nathan, labaisssss baby vokaals, a joy forever" role="button">
 Nathan Haines - Sound Travels (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/42c26aad-ed70-4160-86d5-556eb530b04a/27432802707-500.jpg" data-tags="breaks, breakbeat" role="button">
+Xploding Plastix - Amateur Girlfriends (2001-03-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c338cdd-88f4-4b68-a1b4-f87dafff3bf6/26935459919-500.jpg" data-tags="electronic" role="button">
+The Underwolves - Under Your Sky (2001-05-22)
 </li>
 <li data-cover="https://img.discogs.com/vbsNIzubdmchTuQeokO_aVRF0l8=/fit-in/300x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16537-001.jpg.jpg" data-tags="jazz, vocal jazz, smooth, downtempo" role="button">
 Beady Belle - Home (2001-05-28)
@@ -198,6 +204,9 @@ Nils Petter Molvær - er (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/268776f6-7a42-4977-9580-50bf71891d2c/4395546858-500.jpg" data-tags="lounge, downtempo" role="button">
 Parov Stelar - Seven and Storm (2005-11-18)
 </li>
+<li data-cover="https://img.discogs.com/hIZWBXwHNLQS6LkaUoGAfBj2ETE=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1406358-1236565953.jpeg.jpg" data-tags="lounge" role="button">
+Club Des Belugas - Apricoo Soul (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d05abd8-a988-4e76-b6d0-6baf7570a0df/3067000893-500.jpg" data-tags="nu jazz, chillout, jazz, arabic, jazz fusion, nujazz, ecm, world fusion, tunisia, dhafer youssef, hazagusa, qlencja world selection" role="button">
 Dhafer Youssef - Divine Shadows (2006-03-28)
 </li>
@@ -219,9 +228,6 @@ Kanka - Alert (2006-11-06)
 <li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4c47dce-9005-4e16-8aba-e29ef083741f/1560137109-500.jpg" data-tags="hip-hop, jazz hop" role="button">
-Arts The Beatdoctor - Transitions (2007-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
 Free the Robots - Free The Robots EP (2007-10-16)
 </li>
@@ -233,9 +239,6 @@ Rodney Hunter - Hunterville (2007-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a61e5733-d1a1-4f61-a01a-e3e8853f2d71/13666594191-500.jpg" data-tags="nu jazz, jazz, robertitus global, intrumental ram, instrumental ram, jazz favorites ram" role="button">
 Mouse on the Keys - Sezession (2007-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7d4ea5ee-025d-4827-9c45-acb91a9c6123/10676566608-500.jpg" data-tags="nu jazz, electro, house, broken beat, nujazz, electrojazz, big beat, labels - etage noir recordings, p stelar" role="button">
-Parov Stelar - The Flame of Fame (2008-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/862e0da1-1197-4487-87b0-32b126d2d822/10701110865-500.jpg" data-tags="nu jazz, downtempo, electro-swing, electro swing" role="button">
 Parov Stelar - Single Collection 2 (2008-05)
@@ -260,9 +263,6 @@ Nola Grey - Starlight (2009-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2834da38-0288-4f94-91e4-8250ebc62da6/12393843588-500.jpg" data-tags="jazz" role="button">
 Mouse on the Keys - An Anxious Object (2009-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d8b3d27e-0550-4d2a-8841-003b6f18ff73/4759349579-500.jpg" data-tags="electronic" role="button">
-Ronald Jenkees - Disorganized Fun (2009-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccdc4bce-779b-4df0-8419-b69cc9a19ba7/8663323607-500.jpg" data-tags="nu jazz, electronic" role="button">
 Parov Stelar - Coco (2009-08-28)

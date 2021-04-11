@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:11:01.419Z
+date: 2021-04-11T21:31:06.888Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -36,6 +36,9 @@ Pink Floyd - Atom Heart Mother (1970-10-10)
 <li data-cover="http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg" data-tags="krautrock" role="button">
 Can - Tago Mago (1971)
 </li>
+<li data-cover="https://img.discogs.com/40seZoe7982TiFPmA7C__89JEZE=/fit-in/227x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220546-1311101202.jpeg.jpg" data-tags="krautrock" role="button">
+Can - Ege Bamyasi (1972-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/8397e602-0d10-4f6e-a6c3-2db7cd97f7e8/10060657210-500.jpg" data-tags="krautrock" role="button">
 Faust - Faust IV (1973)
 </li>
@@ -71,9 +74,6 @@ Sonic Youth - Dirty (1992-07-20)
 </li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
-Beck - Mellow Gold (1994-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
@@ -156,9 +156,6 @@ John Frusciante - The Will to Death (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
-<li data-cover="https://img.discogs.com/WapkDvx93QsCQqFLEOW9Ymn-h7k=/fit-in/600x804/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428290-1460769577-1567.jpeg.jpg" data-tags="alternative, beck" role="button">
-Beck - Guero (2005-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
 </li>
@@ -185,6 +182,9 @@ mewithoutYou - Brother, Sister (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
+Jesu - Conqueror (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)

@@ -1,10 +1,10 @@
 ---
-date: 2021-04-11T16:10:01.438Z
+date: 2021-04-11T21:34:01.412Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
+<li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">Panda Bear - Person Pitch (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
@@ -26,9 +26,6 @@ The Hollies - Hollies (1965-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
-Procol Harum - A Whiter Shade of Pale (1967)
 </li>
 <li data-cover="https://img.discogs.com/H5H7_yprMFKbNMGpBDCGlwXrqgw=/fit-in/600x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16096274-1603610708-4609.png.jpg" data-tags="psychedelic pop, rca records, albums i listened to" role="button">
 Harry Nilsson - Pandemonium Shadow Show (1967)
@@ -53,6 +50,9 @@ The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="60s, psychedelic pop" role="button">
 Bee Gees - Odessa (1969-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9aeac98-fc50-4362-b3f7-a8ff9957de9a/20017383221-500.jpg" data-tags="60s" role="button">
+The Kinks - Arthur (Or the Decline and Fall of the British Empire) (1969-10-10)
 </li>
 <li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
 Kevin Ayers - Joy Of A Toy (1969-11)
@@ -110,9 +110,6 @@ Serge Gainsbourg - Initials SG (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/7df9285c-a82d-4583-a7d9-98d83e22e09f/23645615845-500.jpg" data-tags="british i like, gdchills00s" role="button">
 The Bees - Sunshine Hit Me (2002-03-25)
-</li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
-The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
@@ -245,6 +242,9 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0915ed5d-5cfe-4b43-a7d1-1c4ee6fa4a86/3439424827-500.jpg" data-tags="electronic, blue album covers" role="button">
+Sébastien Tellier - My God is Blue (2012-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
 Laurel Halo - Quarantine (2012-05-21)

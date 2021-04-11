@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T14:30:07.248Z
+date: 2021-04-11T21:44:07.070Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">Deer Tick - War Elephant (2007)</li>
-<li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">Kurt Vile - Childish Prodigy (2009-10-05)</li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">Passenger - All the Little Lights (2012-02-24)</li>
+<li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">Jake Bugg - Jake Bugg (2012-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">Phosphorescent - Muchacho (2013-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
@@ -24,8 +24,14 @@ _________________
 <li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
 Stephen Stills - Stephen Stills (1970-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter" role="button">
+Joni Mitchell - 1972-02-23: New York, NY, USA (1972)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a9a59d6-6490-4735-bd48-19d7fb38ff06/1239649144-500.jpg" data-tags="rock" role="button">
 Elton John - Honky Château (1972-05-19)
+</li>
+<li data-cover="https://img.discogs.com/bcD_aod8YjifqA8PU5Uz0T-Temk=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1578931-1405199934-3417.jpeg.jpg" data-tags="classic rock, rock, glam rock" role="button">
+David Essex - Rock On (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
@@ -35,6 +41,9 @@ Boz Scaggs - Slow Dancer (1974)
 </li>
 <li data-cover="https://img.discogs.com/pwYkgjsZh6pen0l0vTbJbx-SGkI=/fit-in/299x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067643-1334765613.jpeg.jpg" data-tags="singer songwriter" role="button">
 Todd Rundgren - Todd (1974)
+</li>
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="progressive rock, blues, psychedelic" role="button">
+Captain Beefheart & His Magic Band - Unconditionally Guaranteed (1974-04)
 </li>
 <li data-cover="https://img.discogs.com/ZkqBhbgY0jNz1NTx8p3vUDEtIOg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8749376-1476118070-7272.jpeg.jpg" data-tags="rock, rock opera" role="button">
 The Kinks - Soap Opera (1975-04-25)
@@ -47,6 +56,9 @@ Todd Rundgren - Faithful (1976-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
 Warren Zevon - Excitable Boy (1978)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ff9102f-ffc1-4947-946f-a646482c9ead/11483590500-500.jpg" data-tags="hard rock, rock" role="button">
+Alice Cooper - From the Inside (1978-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1ceccb6-4485-404c-a0cc-6835bebea67f/6615312225-500.jpg" data-tags="punk, punk rock" role="button">
 X-Ray Spex - Germfree Adolescents (1978-11-10)
@@ -90,11 +102,11 @@ Warren Zevon - Learning to Flinch (1993-04-13)
 <li data-cover="https://img.discogs.com/ztcGI_mFtjOQnTZRSdWh8ePS5Cc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254926-1540227517-9759.jpeg.jpg" data-tags="pop, rock, singer songwriter" role="button">
 Francis Dunnery - Fearless (1994)
 </li>
-<li data-cover="https://img.discogs.com/YH1jSYY601Ma377_-lDh2UDCKzs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8558232-1464017108-5824.jpeg.jpg" data-tags="lo-fi" role="button">
-Beck - One Foot In The Grave (1994-06-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
+</li>
+<li data-cover="https://img.discogs.com/0tRKUnIw0qMx7NpfOF1ojJJXw0A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13167710-1549217617-2702.jpeg.jpg" data-tags="blues, swamp blues" role="button">
+Jimmy Reed - The Very Best of Jimmy Reed (1995)
 </li>
 <li data-cover="https://img.discogs.com/MLQnd8XMK--cptY4SsLN_4nch4o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15947338-1600715074-5097.jpeg.jpg" data-tags="country" role="button">
 Willie Nelson - The Essential Willie Nelson (1995-08-01)
@@ -122,6 +134,9 @@ Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
+</li>
+<li data-cover="https://img.discogs.com/bc_M_0j8qZTn3PmsrElDR7WhnIo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5931337-1468593009-7013.jpeg.jpg" data-tags="indie rock, scottish" role="button">
+Arab Strap - Mad For Sadness (1999-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd7859da-63b8-46d0-b811-e05e11a2c1c2/24875604394-500.jpg" data-tags="rock, 2000s" role="button">
 Warren Zevon - Life'll Kill Ya (2000-01-25)
@@ -153,12 +168,6 @@ Warren Zevon - The Wind (2003-08-26)
 <li data-cover="http://coverartarchive.org/release/62010681-0670-4261-9149-d2d86a83d28b/15850637628-500.jpg" data-tags="alternative rock" role="button">
 Hawksley Workman - Lover/Fighter (2003-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf2f95e0-9915-4346-8c9c-2a386784ce1b/10349051636-500.jpg" data-tags="indie rock, singer songwriter" role="button">
-Carina Round - The Disconnection (2004-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e91d0c85-9f43-4d52-8e3d-0dda25eea639/15458549203-500.jpg" data-tags="lou reed" role="button">
-Lou Reed - Animal Serenade (2004-03-23)
-</li>
 <li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
@@ -177,9 +186,6 @@ David Gray - Life In Slow Motion (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
 Eurythmics - Ultimate Collection (2005-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/085be9f9-3f12-417c-94fc-5e54df599cd2/6848970403-500.jpg" data-tags="singer songwriter" role="button">
-Rose Kemp - A Hand Full Of Hurricanes (2006)
-</li>
 <li data-cover="https://img.discogs.com/gwOosbBAT7GcnMthcUfmi7Levik=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1210906-1593454279-6325.jpeg.jpg" data-tags="indie" role="button">
 Get Well Soon - Rest Now, Weary Head! You Will Get Well Soon (2006)
 </li>
@@ -188,9 +194,6 @@ Johnny Cash - The Essential Johnny Cash (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
-</li>
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="indie rock, rock, british, alternative rock, brit pop, indie, alternative, britpop, manchester, english, pop rock, unsigned, brit-pop, uk indie, british indie, manchester music" role="button">
-Colours Run - Doghouse Demo (2006-02-11)
 </li>
 <li data-cover="https://img.discogs.com/UWSP4g7ZoDRv8oHrao9IirRXews=/fit-in/335x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159429-1197015364.jpeg.jpg" data-tags="rock, canadian, mellow" role="button">
 Hawksley Workman - Treeful Of Starling (2006-02-28)
@@ -219,9 +222,6 @@ Dungen - Tio Bitar (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/ce581068-c886-3ca7-b273-c1ea553eb45d/3779573244-500.jpg" data-tags="indie" role="button">
 Emily Haines & The Soft Skeleton - What Is Free to a Good Home? (2007-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/afa1edbc-0ef2-4866-bac5-cd07741f1146/27110101287-500.jpg" data-tags="folk, guitar, martin simpson - prodigal son" role="button">
-Martin Simpson - Prodigal Son (2007-07-30)
-</li>
 <li data-cover="https://img.discogs.com/UIkhOw5uXUhHu3T3_enAaw4-J68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4515619-1367083131-2150.jpeg.jpg" data-tags="singer songwriter" role="button">
 Milow - Coming Of Age (2008-02-01)
 </li>
@@ -231,6 +231,9 @@ Kurt Vile - Constant Hitmaker (2008-03-11)
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/0cd6673e-04b5-4e38-a136-398d03eaa2df/11936023871-500.jpg" data-tags="female vocalist, ambient, new age, lounge music" role="button">
+Marcomé - River Of Soul (2008-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/a09646bb-fb30-4058-b5ec-507494bd9210/18755410308-500.jpg" data-tags="folk" role="button">
 Ben Kweller - Changing Horses (2009-02-03)
 </li>
@@ -239,9 +242,6 @@ Julie Peel - Near the Sun (2009-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d8d5a1-b2c4-4a68-8325-3279c6c11f65/17653240314-500.jpg" data-tags="jace everett" role="button">
 Jace Everett - Red Revelations (2009-06-23)
-</li>
-<li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
-Kurt Vile - Childish Prodigy (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
@@ -257,9 +257,6 @@ Smoke Fairies - Through Low Light And Trees (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dddb06c-9763-488f-bb3d-c89a72bcedf8/6531947728-500.jpg" data-tags="folk, indie" role="button">
 Passenger - Flight of the Crow (2010-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
-Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">
 Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
@@ -305,6 +302,9 @@ Sun Kil Moon - Benji (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
 Angel Olsen - Burn Your Fire for No Witness (2014-02-18)
+</li>
+<li data-cover="https://img.discogs.com/n17Y_yGJbAoJjBbP3BTu4xC7CGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4040444-1510758013-6127.jpeg.jpg" data-tags="americana, folk rock, singer songwriter" role="button">
+Micah P. Hinson - Micah P. Hinson and the Nothing (2014-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)

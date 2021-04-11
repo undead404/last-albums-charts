@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:45:01.689Z
+date: 2021-04-11T20:54:01.425Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -29,6 +29,9 @@ MC Solaar - Prose Combat (1994-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/138e37ff-da80-450e-9844-5a6ac0f967af/1171636325-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Anamorphosée (1995-11-01)
+</li>
+<li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
+Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
@@ -117,6 +120,9 @@ Keren Ann - Not Going Anywhere (2003-11-25)
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/25a12bd5-d4e8-442c-9500-5e0020b8e1c3/10860404768-500.jpg" data-tags="french, ruiz, emilie, selection france, la femme chocolat" role="button">
+Olivia Ruiz - J'Aime Pas L'Amour (2003-12-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">
 Sébastien Tellier - Politics (2004-01-05)
 </li>
@@ -158,9 +164,6 @@ Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 </li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
-</li>
-<li data-cover="https://img.discogs.com/ctbz_htsFL-C7r7UCuMygawEWXo=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453354-1354883362-9807.jpeg.jpg" data-tags="french, indie, female vocalists, 00s, k records, bordeaux, shortlist for next trip to record store, horstaxe" role="button">
-Tender Forever - The Soft and the Hardcore (2005-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd/2734388850-500.jpg" data-tags="french, pop, indie pop, singer-songwriter, jazz-pop, nouvelle scène française, streamable album wants, je devrais avoir mon enfer de la caresse, francophonie, for a sleepy sunday morning" role="button">
 Emily Loizeau - L'Autre Bout Du Monde (2006-02-28)
@@ -218,9 +221,6 @@ Camille - Music Hole (2008-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/df1412da-a353-4319-ba90-49c08c216a08/2941982804-500.jpg" data-tags="french, electro, new wave, valerie, 80s groove, electro synth rock, analog synth fetish, horstaxe, minitel rose french machine" role="button">
-Minitel Rose - The French Machine (2008-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4c36ad0-9f4c-4c60-9d64-11bbf1aa32c9/17149340004-500.jpg" data-tags="french" role="button">
 Carla Bruni - Comme Si de Rien N'Etait (2008-06-11)

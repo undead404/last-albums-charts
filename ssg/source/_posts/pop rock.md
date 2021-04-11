@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:14:01.407Z
+date: 2021-04-11T21:43:01.407Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -177,6 +177,9 @@ The Cab - Whisper War (2008-04-29)
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop rock, neon pop, less than 40 minutes" role="button">
+Cute Is What We Aim For - Rotation (2008-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/6ec46b5f-5b21-41f5-8200-aaf3b0f8c637/22455634056-500.jpg" data-tags="pop, miley cyrus" role="button">
 Miley Cyrus - Breakout (2008-07-22)
 </li>
@@ -254,9 +257,6 @@ Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 </li>
 <li data-cover="https://img.discogs.com/_ji_ALDRRrKt7YKTYs2Es0CBj9Q=/fit-in/520x264/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784599-1344284990-4609.jpeg.jpg" data-tags="pop rock, pop" role="button">
 The All-American Rejects - Kids in the Street (2012-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
-Train - California 37 (2012-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
 Maroon 5 - Overexposed (2012-06-20)

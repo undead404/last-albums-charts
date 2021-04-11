@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T15:58:01.598Z
+date: 2021-04-11T20:59:01.412Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Exodus (1977)</li>
+<li data-cover="http://coverartarchive.org/release/3ed43286-195b-4e8c-a90d-add220e8c966/3336058240-500.jpg" data-tags="reggae" role="button">Bob Marley & The Wailers - Kaya (1978-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/5930d9d3-a056-44eb-b90c-83692b58dbad/16612832348-500.jpg" data-tags="reggae" role="button">Bob Marley & The Wailers - Uprising (1980-06-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Legend (1984-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">311 - From Chaos (2001-06-19)</li>
 <li data-cover="http://coverartarchive.org/release/470a6f6b-d9ef-4d0f-9908-3448b1ae5c3a/3727458951-500.jpg" data-tags="reggae" role="button">Ziggy Marley - Dragonfly (2003-04-15)</li>
-<li data-cover="http://coverartarchive.org/release/87f822d6-602c-3e33-9e62-024eacfcf60c/28709837363-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Live at Stubb's (2005-04-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">Rihanna - Music of the Sun (2005-08-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Matisyahu - Youth (2006)</li>
@@ -222,9 +222,6 @@ Groundation - We Free Again (2004-11-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/87f822d6-602c-3e33-9e62-024eacfcf60c/28709837363-500.jpg" data-tags="reggae, matisyahu" role="button">
-Matisyahu - Live at Stubb's (2005-04-19)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Patrice - Nile (2005-04-25)
 </li>
@@ -281,6 +278,9 @@ Passafire - Submersible (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
+</li>
+<li data-cover="https://img.discogs.com/domWqmXWqrFth-Ihy-bpE3O2yjI=/fit-in/358x324/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107155-1287502326.jpeg.jpg" data-tags="soul" role="button">
+Nneka - Heartbeat (2008-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d68e86c-ca8e-403b-a208-5f440fcc6aa5/8684760406-500.jpg" data-tags="reggae, 00s, rap rock, opelmelange" role="button">
 The Dirty Heads - Any Port In A Storm (2008-09-23)

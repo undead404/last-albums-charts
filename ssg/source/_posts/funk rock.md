@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:41:01.403Z
+date: 2021-04-11T20:47:07.004Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -30,8 +30,8 @@ Jimi Hendrix - The Cry of Love (1971-03-05)
 <li data-cover="http://coverartarchive.org/release/e0424f4b-0be7-4bae-b163-3f6b63723c41/22562008725-500.jpg" data-tags="funk" role="button">
 Funkadelic - Maggot Brain (1971-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/df7fd1e6-822d-46de-aff0-2cef99d6bf5f/27924372464-500.jpg" data-tags="jazz, funk, stoner, jazz rock, war, funk rock, acid rock, united artists records, deliver the word" role="button">
-War - Deliver The Word (1973)
+<li data-cover="http://coverartarchive.org/release/18519193-9e7c-4515-baab-bed88265a51d/4983267135-500.jpg" data-tags="rock" role="button">
+Jimi Hendrix - War Heroes (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a4637e9-8bfd-4654-b05f-466c528d1cab/2440931306-500.jpg" data-tags="progressive rock, rock" role="button">
 Frank Zappa - Over-Nite Sensation (1973-01)
@@ -57,11 +57,11 @@ Can - Saw Delight (1977)
 <li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
 Japan - Adolescent Sex (1978-03)
 </li>
+<li data-cover="https://img.discogs.com/IH8q1jw4mqop3Lpn7sNDvyGGEhk=/fit-in/368x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500781-1270158550.jpeg.jpg" data-tags="art rock, 70s, new wave, post-punk" role="button">
+Japan - Obscure Alternatives (1978-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
-</li>
-<li data-cover="https://img.discogs.com/vXkEoXsQV1UElskxuI9qUErajOc=/fit-in/468x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13023556-1546656092-1004.jpeg.jpg" data-tags="funk rock" role="button">
-Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
@@ -141,6 +141,12 @@ Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 <li data-cover="https://img.discogs.com/kLwwdL7g-KtySuIYVlNHiBCNU-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6094760-1411874073-9376.jpeg.jpg" data-tags="chile, rock chileno, rock en castellano" role="button">
 Los Tres - La Espada & la Pared (1995-03-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/b79433d4-68de-461b-acc3-bcd8d28ce476/19052137951-500.jpg" data-tags="funk, 90s" role="button">
+Prince - The Gold Experience (1995-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/5787f08d-874f-47bf-ab39-f4fe06c707a7/8345890830-500.jpg" data-tags="hard rock, rock" role="button">
+O.N.A. - Modlishka (1995-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/28e7a3e1-b4ba-4f58-a9e5-fa6d5936d5bc/2038812187-500.jpg" data-tags="alternative rock, rock" role="button">
 311 - 311 (1995-07-25)
 </li>
@@ -152,9 +158,6 @@ Incubus - Fungus Amongus (1995-11-01)
 </li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
-Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/981dbbfc-0b08-372b-a0b9-a8e15232d484/15456224654-500.jpg" data-tags="rock, alternative, alternative rock, progressive rock, acoustic, funk metal, funk, latin, blues, progressive, blues rock, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, good album" role="button">
 I Mother Earth - Scenery and Fish (1996-07-09)
@@ -180,9 +183,6 @@ I Mother Earth - Blue Green Orange (1999)
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
-O Rappa - Lado B Lado A (1999-09-15)
-</li>
 <li data-cover="https://img.discogs.com/fzRgl1_qWan58EQ2sode-Shk5DQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742573-1521612866-9802.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Antipop (1999-10-18)
 </li>
@@ -192,11 +192,11 @@ O'Funk'illo - O'Funk'Illo (2000)
 <li data-cover="http://coverartarchive.org/release/4ca0f1c9-d5f1-4001-ab83-e00a253133c3/5233810351-500.jpg" data-tags="hardcore" role="button">
 Suicidal Tendencies - Free Your Soul... and Save My Mind (2000-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/22639092-349e-408c-be95-4624337e7bd3/4851208910-500.jpg" data-tags="funk metal" role="button">
+Infectious Grooves - Mas Borracho (2000-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2ce7197-a25c-4679-86b7-0e938cf2aebd/27852527490-500.jpg" data-tags="rapcore" role="button">
 Thousand Foot Krutch - Set It Off (2000-11-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/11412523-2923-40fe-be4d-837c8c91ea65/5948810300-500.jpg" data-tags="progressive rock" role="button">
-Cire - Pleasure Is Our Enemy (2001-08-06)
 </li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)
@@ -222,6 +222,9 @@ Freak Kitchen - Move (2002-10-23)
 <li data-cover="http://coverartarchive.org/release/51075cbf-fda0-45a0-bdfc-c063587d7b8f/7747401431-500.jpg" data-tags="metal, rock, alternative, alternative rock, hardcore, funk metal, funk, alternative metal, 00s, nu metal, funk rock, hardcore punk, maximum the hormone, nao, daisuke-han, maximum the ryo-kun, ue-chang" role="button">
 マキシマム ザ ホルモン - 耳噛じる (2002-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5ea06df-9371-43f9-b50f-e10fdbb7b5fc/15456226876-500.jpg" data-tags="soundtrack, rock, alternative, alternative rock, progressive metal, progressive rock, acoustic, funk metal, funk, progressive, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal" role="button">
+I Mother Earth - The Quicksilver Meat Dream (2003)
+</li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
@@ -233,9 +236,6 @@ Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
 Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/cea4b7d5-835f-47d4-af46-e5d507bd5d11/26430724808-500.jpg" data-tags="funk, experimental" role="button">
-Colonel Claypool's Bucket of Bernie Brains - The Big Eyeball In The Sky (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
 Mortifera - Vastiia Tenebrd Mortifera (2004-12)
@@ -260,9 +260,6 @@ Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/81be5600-1864-4dcb-b440-bc4f26a14249/13833257228-500.jpg" data-tags="funk, jazz" role="button">
-Galactic - From the Corner To the Block (2007-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5aa39bf0-3140-4141-be2c-8529c15e77a8/26667694769-500.jpg" data-tags="instrumental, experimental" role="button">
 Incubus - Look Alive (2007-11-26)
@@ -300,6 +297,9 @@ Maroon 5 - Hands All Over (2010-09-15)
 <li data-cover="https://img.discogs.com/iOklclwTdd8t9vJD4WD5nnIUENg=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2525350-1288754600.jpeg.jpg" data-tags="funk rock" role="button">
 N*E*R*D - Nothing (2010-10-10)
 </li>
+<li data-cover="https://img.discogs.com/VUzMraZzaIjytwqIyFN9NZ__reU=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3099962-1322204236.jpeg.jpg" data-tags="black metal, swedish, funk metal, funk, funky, funk rock, dsbm, swedish black metal, true funk metal, trve funk metal" role="button">
+Woods of Infinity - Förlåt (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/37c1104c-1594-409b-ab67-a2171d1de8dd/1517727304-500.jpg" data-tags="hip-hop, electronic, rock, alternative, alternative rock, experimental, lo-fi, fusion, avant-garde, rock and roll, funk rock, 10s, rock'n'roll, alternative funk rock, albums i should get, progressive electro pop" role="button">
 John Frusciante - Letur-Lefr (2012-07-13)
 </li>
@@ -315,10 +315,10 @@ letlive. - The Blackest Beautiful (2013-07-08)
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f4813fc-2f64-4d76-9c47-cb5037ac018f/6331304462-500.jpg" data-tags="rock, alternative rock, ska, funk rock, 2010s, reggae rock, rap rock" role="button">
-311 - Stereolithic (2014-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/06445131-1fd9-4f25-bbee-5f1c5fb00c1d/11499404716-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Strut (2014-09-19)
+</li>
+<li data-cover="https://img.discogs.com/710z-R6zk9NeO9Fh2vKAe74kwuI=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7265897-1437559810-6146.jpeg.jpg" data-tags="rock, prince, 2014 releases" role="button">
+Prince & 3rdEyeGirl - PLECTRUMELECTRUM (2014-09-26)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:42:01.420Z
+date: 2021-04-11T20:51:01.421Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -144,9 +144,6 @@ The Mountain Goats - Heretic Pride (2008-02-17)
 <li data-cover="http://coverartarchive.org/release/56b5fa9e-a0e1-4ce3-b94e-c87b74a836c2/27639731930-500.jpg" data-tags="indie" role="button">
 The Hush Sound - Goodbye Blues (2008-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
-Priscilla Ahn - A Good Day (2008-06-10)
-</li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
@@ -173,6 +170,9 @@ Dead Man's Bones - Dead Man's Bones (2009-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)
+</li>
+<li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">
+Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
@@ -201,6 +201,9 @@ Princess Chelsea - Lil' Golden Book (2011-05-01)
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
 The Antlers - Burst Apart (2011-05-10)
 </li>
+<li data-cover="https://img.discogs.com/Ceuamf6hVxQfVR0XWGp18Hckcls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916395-1455291507-5311.jpeg.jpg" data-tags="post-rock, chamber, chamber pop, modern classical, neoclassical, art pop" role="button">
+Esmerine - La Lechuza (2011-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
@@ -212,9 +215,6 @@ of Montreal - Paralytic Stalks (2012-02-07)
 </li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/17ba88b7-a665-4400-84b0-0f404eb8114f/5136359266-500.jpg" data-tags="indie" role="button">
-Tindersticks - The Something Rain (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:49:01.425Z
+date: 2021-04-11T21:00:01.489Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -8,7 +8,7 @@ title: "math rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">Drive Like Jehu - Yank Crime (1994-04-26)</li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">American Football - American Football (1999-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">Minus the Bear - Highly Refined Pirates (2002-11-19)</li>
-<li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">toe - the book about my idle plot on a vague anxiety (2005-08-31)</li>
+<li data-cover="http://coverartarchive.org/release/e0e6f524-90b3-400a-aa4c-ab89e9c172f0/13891715369-500.jpg" data-tags="post-rock" role="button">65daysofstatic - The Fall of Math (2004-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">Battles - Mirrored (2007-04-25)</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">Foals - Antidotes (2008-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">Foals - Total Life Forever (2010-05-07)</li>
@@ -96,9 +96,6 @@ Sleeping People - Sleeping People (2005)
 <li data-cover="http://coverartarchive.org/release/8ec4547a-f513-4908-90e4-93faf84471d2/11123419461-500.jpg" data-tags="math rock, post-rock" role="button">
 Piglet - Lava Land (2005-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">
-toe - the book about my idle plot on a vague anxiety (2005-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/33e04fab-1890-4472-aa2c-0aa61f723fa4/4601677125-500.jpg" data-tags="math rock" role="button">
 Battles - EP C/B EP (2005-09-11)
 </li>
@@ -158,6 +155,9 @@ Giraffes? Giraffes! - More Skin With Milk-Mouth (2007-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c82460-d0d1-4461-b5b8-0e5eb817ce9d/26604104752-500.jpg" data-tags="math rock, transgressive records" role="button">
 Foals - Balloons (2007-12-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d44af90-4aa5-45ad-885e-03dbe3db0af4/21912498985-500.jpg" data-tags="post-rock" role="button">
+Castevet - Summer Fences (2008)
 </li>
 <li data-cover="https://img.discogs.com/H-3PQpDxXToHlq7dTOF2zGBeUtY=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1271778-1205359906.jpeg.jpg" data-tags="math rock" role="button">
 Foals - Cassius (2008-02-15)
@@ -276,6 +276,9 @@ This Town Needs Guns - Adventure, Stamina & Anger (2011-10-11)
 <li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
 A Lot Like Birds - Conversation Piece (2011-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/053d3ad8-efa0-4ee5-80c5-9b9fea267882/6318728447-500.jpg" data-tags="math rock" role="button">
+You Slut! - Medium Bastard (2012-04-16)
+</li>
 <li data-cover="https://img.discogs.com/1aqLeEDV3DWCQ3furE0AxSrpE64=/fit-in/498x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4118470-1356163849-4613.jpeg.jpg" data-tags="math rock, title is a full sentence, must check" role="button">
 toe - The Future Is Now EP (2012-06-20)
 </li>
@@ -308,9 +311,6 @@ God Is An Astronaut - Origins (2013-09-16)
 </li>
 <li data-cover="https://img.discogs.com/2-0GytdyDovrVy3ndWC1mfui2nw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9300814-1513304907-2287.jpeg.jpg" data-tags="indie, rock, japanese, alternative, math rock, experimental, female vocalists, ss, these vocals are killing me with joy" role="button">
 tricot - T H E (2013-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3e31012-c9cd-4c30-b415-3e76609d4078/8536436332-500.jpg" data-tags="math rock" role="button">
-tricot - THE (2013-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c08b72b-19dd-45cd-96e3-141eb6993911/27197506984-500.jpg" data-tags="emo" role="button">
 Marietta - Summer Death (2013-10-21)

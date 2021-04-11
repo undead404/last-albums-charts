@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T08:36:06.982Z
+date: 2021-04-11T21:11:06.986Z
 title: "mpb: 100 albums you must listen to before you die"
 ---
-![Los Hermanos - Ventura (2003)](http://coverartarchive.org/release/0949cf8b-b528-4d84-9354-7d53e0c49b95/8630198470-500.jpg "Los Hermanos - Ventura (2003)")
+![Mallu Magalhães - Pitanga (2011-09-30)](http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg "Mallu Magalhães - Pitanga (2011-09-30)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">Arthur Verocai - Arthur Verocai (1972)</li>
 <li data-cover="http://coverartarchive.org/release/b4cbc72d-fddf-4d97-9025-77fed9a567b5/5080906300-500.jpg" data-tags="mpb, favorite brazilian albums" role="button">Belchior - Alucinação (1976)</li>
+<li data-cover="https://img.discogs.com/vmgctIvBsSdY1Bu5hglA7gg5498=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4995514-1381656178-3777.jpeg.jpg" data-tags="rock, mpb, bresil, cds perfeitos, e regina" role="button">Elis Regina - Falso Brilhante (1976)</li>
 <li data-cover="https://img.discogs.com/LD1fqi2GP-k_SNRCkGWxNuawpqo=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9650757-1484222465-3586.jpeg.jpg" data-tags="mpb" role="button">Adriana Calcanhotto - Senhas (1992)</li>
 <li data-cover="http://coverartarchive.org/release/f70805ee-f3f5-4453-a344-eef3ad5f7e85/11449802748-500.jpg" data-tags="los hermanos" role="button">Los Hermanos - Bloco do Eu Sozinho (2001)</li>
-<li data-cover="http://coverartarchive.org/release/0949cf8b-b528-4d84-9354-7d53e0c49b95/8630198470-500.jpg" data-tags="los hermanos" role="button">Los Hermanos - Ventura (2003)</li>
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">Vanessa da Mata - Vanessa da Mata (2003-01-11)</li>
-<li data-cover="https://img.discogs.com/_hL4hsnawMzzoUF_I1vH8viJRKM=/fit-in/594x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618114-1366618337-2891.jpeg.jpg" data-tags="mpb" role="button">Seu Jorge - Cru (2004-09-21)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">宇多田ヒカル - Passion (2005-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg" data-tags="indie, folk, 10s, mpb" role="button">Mallu Magalhães - Pitanga (2011-09-30)</li>
+<li data-cover="http://coverartarchive.org/release/a1ddb9bf-0501-4327-bb6b-b49771cf7c65/1856221349-500.jpg" data-tags="pop, folk, indie pop, pop rock, mpb, mpb pop, discos 2012" role="button">Tulipa Ruiz - Tudo Tanto (2012)</li>
 <li data-cover="http://coverartarchive.org/release/82309c98-bdda-428b-b309-94fa9b060a97/6655564810-500.jpg" data-tags="indie, alternative, mpb, synthpop" role="button">Silva - Vista Pro Mar (2014-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/77fd947a-cbda-4d09-93b4-6753ab5e7a3c/8201873863-500.jpg" data-tags="indie, folk, mallu magalhaes" role="button">Banda do Mar - Banda do Mar (2014-08-05)</li>
 </ol>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f244c760-f055-4099-9b80-70cef5ef1f74/1276068220-500.jpg" data-tags="brazilian, samba, mpb" role="button">
-Jorge Ben - Samba Esquema Novo (1963)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb, bresil, samba soul" role="button">
 Jorge Ben - Ben é samba bom (1964)
 </li>
@@ -48,14 +45,14 @@ Arthur Verocai - Arthur Verocai (1972)
 <li data-cover="http://coverartarchive.org/release/53c31a17-289a-4544-a3f9-5c53e06f3e05/11382963942-500.jpg" data-tags="70s, mpb" role="button">
 Milton Nascimento & Lô Borges - Clube Da Esquina (1972)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
+Milton Nascimento - Milagre Dos Peixes (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/1b70d270-c6d2-4e65-98eb-7e175a264cfd/11949303909-500.jpg" data-tags="mpb, vocalistas femeninas, cds perfeitos, brasileirinhos, g costa" role="button">
 Gal Costa - Índia (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbc1d4ed-8bbf-4d3b-889c-1bfaf6bcf14b/4822809513-500.jpg" data-tags="mpb" role="button">
 Secos & Molhados - Secos & Molhados (1974)
-</li>
-<li data-cover="http://coverartarchive.org/release/267ea3f8-eb4e-4ba3-9b7c-2f774ca673aa/26080270080-500.jpg" data-tags="milton nascimento" role="button">
-Milton Nascimento - Minas (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4cbc72d-fddf-4d97-9025-77fed9a567b5/5080906300-500.jpg" data-tags="mpb, favorite brazilian albums" role="button">
 Belchior - Alucinação (1976)
@@ -63,17 +60,32 @@ Belchior - Alucinação (1976)
 <li data-cover="https://img.discogs.com/vmgctIvBsSdY1Bu5hglA7gg5498=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4995514-1381656178-3777.jpeg.jpg" data-tags="rock, mpb, bresil, cds perfeitos, e regina" role="button">
 Elis Regina - Falso Brilhante (1976)
 </li>
-<li data-cover="https://img.discogs.com/GufQsbL3LMfUSfEhyzEzQbfgRa8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11005590-1601651518-1047.jpeg.jpg" data-tags="clube da esquina, legends, minas gerais" role="button">
-Milton Nascimento - Clube Da Esquina 2 (1978)
+<li data-cover="http://coverartarchive.org/release/310dab3b-051b-44fe-8adf-c4ae0f4ae405/4930226230-500.jpg" data-tags="milton nascimento" role="button">
+Milton Nascimento - Geraes (1976)
+</li>
+<li data-cover="http://coverartarchive.org/release/d12c95d1-5e96-45fd-95b2-f60f7c0a23a1/3326864685-500.jpg" data-tags="mpb, chico buarque, preferidas" role="button">
+Chico Buarque - Gota D'água (1977)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8221f9e-08df-4a76-a032-618f131a7c4f/2591950454-500.jpg" data-tags="70s, female vocalists, oldies, mpb, brazilian, cds perfeitos" role="button">
+Elis Regina - Transversal Do Tempo (1978)
+</li>
+<li data-cover="http://coverartarchive.org/release/afb3dd37-8593-440c-81e2-d7c3fc6c0045/16485045326-500.jpg" data-tags="mpb" role="button">
+Elis Regina - Elis Especial (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/20caffc7-6330-412d-91bd-34940564d3e8/9985362852-500.jpg" data-tags="mpb, samba, frevo, robertinho de recife" role="button">
 Gal Costa - Gal Tropical (1979)
+</li>
+<li data-cover="http://coverartarchive.org/release/877ed01b-2629-46b3-921b-bc70bfe7e29d/4610452285-500.jpg" data-tags="mpb" role="button">
+Guilherme Arantes - Guilherme Arantes (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/3418183c-d712-4e53-a9f4-0554a416d164/3780563924-500.jpg" data-tags="brazilian" role="button">
 João Bosco - Linha De Passe (1979)
 </li>
 <li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
 Elis Regina - Elis (1980)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac51341b-79ca-4e3f-a184-a73655e3dc22/18741825148-500.jpg" data-tags="pop, mpb, samba, frevo" role="button">
+Gal Costa - Fantasia (1981)
 </li>
 <li data-cover="https://img.discogs.com/fAOdFoEPgsUNgKJlanP_v-ZCuFk=/fit-in/595x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2425305-1394036525-2128.jpeg.jpg" data-tags="mpb, caetano, brazilian" role="button">
 Caetano Veloso - Outras Palavras (1981)
@@ -87,20 +99,11 @@ Alceu Valença - Cavalo De Pau (1982)
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="mpb, bresil" role="button">
 João Bosco - Comissão De Frente (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/acb32976-869f-374b-9985-1962678a3bc0/3446888597-500.jpg" data-tags="mpb, brazilian" role="button">
-Djavan - Luz (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/2dc807ce-7418-4b3c-9022-467e5feb2472/13808968899-500.jpg" data-tags="pop, mpb, frevo, g costa" role="button">
 Gal Costa - Minha voz (1982)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, favourite artists" role="button">
 Caetano Veloso - Velô (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
-Cazuza - Exagerado (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/25f58f18-c40d-469a-b3b3-3b5cc926e33e/6532278942-500.jpg" data-tags="mpb" role="button">
-Tim Maia - O Melhor de Tim Maia (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/415c3471-cd05-484d-bebd-ea64c48bab1c/12731411441-500.jpg" data-tags="mpb, brazilian, favourite artists" role="button">
 Caetano Veloso - Caetano (1987)
@@ -147,9 +150,6 @@ Cazuza - Millennium (1996)
 <li data-cover="http://coverartarchive.org/release/567dda38-cf51-4ba1-bc51-ce6e396b315d/2972247305-500.jpg" data-tags="mpb" role="button">
 Nenhum de Nós - Mundo Diablo (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/00450c48-3735-475b-89f4-dfbad3a74f34/4968977370-500.jpg" data-tags="brazil, mpb" role="button">
-Gal Costa - Acústico MTV (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/534e1d8e-0241-477b-a17d-8307b97a0104/11872288766-500.jpg" data-tags="mpb" role="button">
 Gal Costa - Aquele frevo axé (1998)
 </li>
@@ -159,20 +159,11 @@ Adriana Calcanhotto - Maritmo (1998)
 <li data-cover="https://img.discogs.com/MMPDPVhwk08src4Ik72Fi0-63gY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5862012-1452290654-5267.jpeg.jpg" data-tags="mpb, um som" role="button">
 Arnaldo Antunes - Um Som (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1fcade6-0224-41b7-b2c1-7a85ae7d008d/8870805349-500.jpg" data-tags="mpb" role="button">
-Cássia Eller - Com você... Meu mundo ficaria completo (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/d325a894-2df2-4ed9-9230-dfdf0c54ae24/11450087455-500.jpg" data-tags="rock" role="button">
-Los Hermanos - Los Hermanos (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/16abbcad-a354-36be-9de5-c4b934c6470b/16750560270-500.jpg" data-tags="mpb, synthpop, genis" role="button">
 Astrud - Mi Fracaso Personal (1999)
 </li>
 <li data-cover="https://img.discogs.com/0GE4CGCQ5Ow83CTb0bNJ8QA31gA=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-945924-1259256005.jpeg.jpg" data-tags="mpb, ney, brasilera" role="button">
 Ney Matogrosso - Olhos De Farol (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
-O Rappa - Lado B Lado A (1999-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/879ba693-7115-4a34-af70-9dbd5748899a/14537919303-500.jpg" data-tags="mpb, samba" role="button">
 Toquinho E Paulinho Da Viola - Sinal Aberto (1999-09-15)
@@ -180,11 +171,20 @@ Toquinho E Paulinho Da Viola - Sinal Aberto (1999-09-15)
 <li data-cover="http://coverartarchive.org/release/7b01a1ad-e1ea-3454-9d44-551251be037f/8995123470-500.jpg" data-tags="mpb, cantoras brasileiras" role="button">
 Luciana Mello - Assim Que Se Faz (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/59764657-11dd-49f9-8876-ec644e28ad01/14404776793-500.jpg" data-tags="mpb" role="button">
+Daniela Mercury - Sol Da Liberdade (2000-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/496b682d-88d2-4dc5-af48-3e92c358fe36/12746609142-500.jpg" data-tags="hip hop, mpb, all time favourites, brazilian popular music, mpb - 2000" role="button">
+Chico César - Chico César (2000-06-27)
+</li>
 <li data-cover="https://img.discogs.com/aWwkOGgqLiprrpKePRv_gZbdkE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073494-1478103358-6750.jpeg.jpg" data-tags="mpb" role="button">
 Ana Carolina - Ana Rita Joana Iracema e Carolina (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f70805ee-f3f5-4453-a344-eef3ad5f7e85/11449802748-500.jpg" data-tags="los hermanos" role="button">
 Los Hermanos - Bloco do Eu Sozinho (2001)
+</li>
+<li data-cover="https://img.discogs.com/QogEqz9bVEKfP_9J4_RUjlpklCM=/fit-in/485x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058189-1353845449-4377.jpeg.jpg" data-tags="bossa nova, mpb, samba, melodico, vocalistas femeninas, zizi, brasileirinhos, zizi possi, bom sambinha, z possi" role="button">
+Zizi Possi - Bossa (2001)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
 Arnaldo Antunes - Paradeiro (2001)
@@ -210,12 +210,6 @@ Jota Quest - Discotecagem Pop Variada (2002-11-30)
 <li data-cover="http://coverartarchive.org/release/c34fb6b6-8ec0-4a03-af26-cebdab79f896/8256648938-500.jpg" data-tags="disco, pop, pop rock, mpb, brazilian pop, novelas, minhas musicas" role="button">
 Lulu Santos - Bugalu (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/b768b342-2dc5-4187-aa2f-855dde5542f2/13148169632-500.jpg" data-tags="mpb, elis" role="button">
-Elis Regina - Perfil (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/0949cf8b-b528-4d84-9354-7d53e0c49b95/8630198470-500.jpg" data-tags="los hermanos" role="button">
-Los Hermanos - Ventura (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">
 Vanessa da Mata - Vanessa da Mata (2003-01-11)
 </li>
@@ -231,26 +225,17 @@ Nando Reis - Acustico MTV (2004)
 <li data-cover="https://via.placeholder.com/450" data-tags="romantica, roupa nova, pop, pop rock, mpb, daniel" role="button">
 Roupa Nova - Acústico (2004-04-24)
 </li>
-<li data-cover="https://img.discogs.com/_hL4hsnawMzzoUF_I1vH8viJRKM=/fit-in/594x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618114-1366618337-2891.jpeg.jpg" data-tags="mpb" role="button">
-Seu Jorge - Cru (2004-09-21)
-</li>
 <li data-cover="https://img.discogs.com/aeza0CMqIGI12AsLySp2zFGydk0=/fit-in/489x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15871568-1599330283-3671.png.jpg" data-tags="mpb, samba, current infatuations" role="button">
 Curumin - Achados e Perdidos (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/93c003c3-7676-4cc0-a78e-8f21ed3b480f/5669279751-500.jpg" data-tags="mpb" role="button">
 Roberta Sá - Braseiro (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/390442f6-1835-4c49-93d5-87727b024603/4524253331-500.jpg" data-tags="mpb, djavan" role="button">
-Djavan - Na pista, etc (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd1e4da4-b6df-4e92-8575-96b23489bcc7/22358937579-500.jpg" data-tags="bossa nova, mpb, bandas que amo, saudade, vocalistas femeninas, brasileirinhos, zelia duncan, zelia, bom sambinha, z duncan" role="button">
 Zélia Duncan - Pré-Pós-Tudo-Bossa-Band (2005)
 </li>
 <li data-cover="https://img.discogs.com/Htcbn6lfwg5UMSg4AICdbK_gtog=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4352786-1362873307-8276.jpeg.jpg" data-tags="pop rock" role="button">
 Kid Abelha - Pega Vida (2005-05-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
-宇多田ヒカル - Passion (2005-12-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, samba, bossa nova" role="button">
 Jorge Ben Jor - Football & Samba Groove Association (2006)
@@ -276,8 +261,14 @@ Arnaldo Antunes - Qualquer (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/3abad84e-b963-47bb-93b1-2f8e1f546cf9/2894802106-500.jpg" data-tags="bossa nova, mpb, cuban, brazilian, samba, female singer, a decouvrir, arbeitsmusik, mpb - 2000, mpb classica, discos 2009" role="button">
 Marina De La Riva - Marina de La Riva (2007-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/44c5a979-0725-4079-a4b3-29b0fc898ba7/28424014388-500.jpg" data-tags="70s, mpb, bra, clube da esquina, mg, me gusta, compositor, cantor" role="button">
+Toninho Horta - Terra dos pássaros (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd82e25c-e10f-4598-b8cd-aeda7139d689/3485565050-500.jpg" data-tags="mpb" role="button">
 Sonantes - Sonantes (2008-05-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
+Luiza Possi - Bons Ventos Sempre Chegam (2009-05-29)
 </li>
 <li data-cover="https://img.discogs.com/rmp43WAz1IryL1a_IhGlFJCnovw=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345331-1278449920.jpeg.jpg" data-tags="mpb, brasil new" role="button">
 Luísa Maita - Lero-Lero (2010-07-27)
@@ -294,6 +285,12 @@ Mallu Magalhães - Pitanga (2011-09-30)
 <li data-cover="https://img.discogs.com/-O4Y1rgfZrer1D5IrLjks8G37g8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8223392-1457446282-7619.jpeg.jpg" data-tags="mpb" role="button">
 Maria Rita - Elo (2011-11-29)
 </li>
+<li data-cover="https://img.discogs.com/ZM-3Z78Eyk0OEVmyY4wMInKDghA=/fit-in/302x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254915-1340974587-7644.jpeg.jpg" data-tags="electronic, experimental" role="button">
+Gal Costa - Recanto (2011-12-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2008eab3-23ca-4f1f-90ab-84ba022bdc9d/4524658125-500.jpg" data-tags="mpb, djavan, rua dos amores" role="button">
+Djavan - Rua Dos Amores (2012)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1ddb9bf-0501-4327-bb6b-b49771cf7c65/1856221349-500.jpg" data-tags="pop, folk, indie pop, pop rock, mpb, mpb pop, discos 2012" role="button">
 Tulipa Ruiz - Tudo Tanto (2012)
 </li>
@@ -305,6 +302,9 @@ Silva - Claridão (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/989153c0-eff2-4d9a-9386-55edd1961def/7545665377-500.jpg" data-tags="acoustic, mpb, brazilian" role="button">
 Marcelo Camelo - Ao Vivo no Theatro São Pedro (2013-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a9a9e2b-8c3c-4c24-9bf7-2bac7b0e3d18/6996246011-500.jpg" data-tags="mpb, debut album, debut single, primeiro single" role="button">
+Toni Ferreira - Toni Ferreira (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea8aed92-46cd-4671-a924-f5c5072a6901/7064313848-500.jpg" data-tags="acoustic, mpb, jesse harris, brazilian, caetano veloso, gilberto gil, eagle-eye cherry, milton nascimento, 5 a seco, ana carolina, jota quest, chitaozinho e xororo, ivan lins, moska, kevin johansen, jay vaquer, tiago iorc, daniel chaudon, leandro leo, banda inventario, camila wittmann, totonho villeroy, gravadora slap, 18 faixas" role="button">
 Maria Gadú - Nós (2013-08-05)

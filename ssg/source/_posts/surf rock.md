@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T05:21:01.413Z
+date: 2021-04-11T21:36:12.587Z
 title: "surf rock: 100 albums you must listen to before you die"
 ---
 ![Beach Fossils - Beach Fossils (2010-05-25)](http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg "Beach Fossils - Beach Fossils (2010-05-25)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">Smash Mouth - All Star Smash Hits (2005-08-23)</li>
 <li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">Beach Fossils - Beach Fossils (2010-05-25)</li>
-<li data-cover="https://img.discogs.com/xbnj54pJl7QKz1MCL_KaOsKO6vU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306596-1592741615-3680.jpeg.jpg" data-tags="indie pop" role="button">The Drums - The Drums (2010-06-04)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
+<li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">The Walkmen - Lisbon (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">Best Coast - The Only Place (2012-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
 <li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">Beach Fossils - Clash The Truth (2013-02-19)</li>
@@ -162,6 +162,9 @@ Mr. Bungle - California (1999-07-13)
 <li data-cover="http://coverartarchive.org/release/03f08510-e44b-48cb-a98a-c09551648c61/7867219841-500.jpg" data-tags="classic rock, metal, rock, punk, sad, acoustic, psychedelic, mellow, garage rock, glam rock, surf rock, chameleon, proto punk, essential, rock-protopunk, the black crowes" role="button">
 The Black Crowes - Greatest Hits 1990-1999: A Tribute To A Work In Progress (2000-06-20)
 </li>
+<li data-cover="https://img.discogs.com/GrndEONbsRSx3Xp9_Orly7-jtIo=/fit-in/528x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147147-1403911262-8868.jpeg.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, pop punk, garage rock, glam rock, powerpop, surf rock, chameleon, proto punk, rock-protopunk, honest dons" role="button">
+Teen Idols - Full Leather Jacket (2000-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/74c846aa-01da-46a8-a873-3abe02986a18/8795071097-500.jpg" data-tags="surf rock" role="button">
 The Bambi Molesters - Sonic Bullets: 13 From the Hip (2001)
 </li>
@@ -192,6 +195,9 @@ Tommy Tutone - 867-5309 Jenny (2003)
 <li data-cover="http://coverartarchive.org/release/0e015447-fcb7-4120-af78-93c214369507/15563346773-500.jpg" data-tags="japanese, punk rock, japan, surf rock, j-rock, goat, b1tchs, tategami" role="button">
 GO!GO!7188 - 鬣 (2003-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
+Drive-By Truckers - Decoration Day (2003-06-17)
+</li>
 <li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
 Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
@@ -206,9 +212,6 @@ Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-0
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
-Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9def2489-d952-4325-88df-d3b09667e9f0/22134783207-500.jpg" data-tags="surf, surf rock" role="button">
 Lost Acapulco - Acapulco Golden (2004-05)
@@ -248,9 +251,6 @@ L.Stadt - EL.P (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">
 Beach Fossils - Beach Fossils (2010-05-25)
-</li>
-<li data-cover="https://img.discogs.com/xbnj54pJl7QKz1MCL_KaOsKO6vU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306596-1592741615-3680.jpeg.jpg" data-tags="indie pop" role="button">
-The Drums - The Drums (2010-06-04)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)

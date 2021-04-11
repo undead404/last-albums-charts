@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:42:01.405Z
+date: 2021-04-11T21:28:01.420Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -54,9 +54,6 @@ Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/81776221-c3ae-4662-8f2f-7a239cbb24af/27974433834-500.jpg" data-tags="indie rock, britpop" role="button">
 Doves - Lost Souls (2000-04-03)
 </li>
@@ -68,9 +65,6 @@ Mercury Rev - All Is Dream (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
 Doves - The Last Broadcast (2002-04-29)
-</li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
-The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
@@ -107,6 +101,9 @@ Beach House - Devotion (2007-12)
 </li>
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
+Lykke Li - Youth Novels (2008-01-30)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -176,6 +173,9 @@ Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
+Washed Out - Within and Without (2011-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)

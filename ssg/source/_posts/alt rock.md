@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:44:06.998Z
+date: 2021-04-11T21:26:01.408Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
 ![Imagine Dragons - Night Visions (2012-09-04)](http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg "Imagine Dragons - Night Visions (2012-09-04)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="https://img.discogs.com/gxfhqodPNQWmmG7h3OO-jy4nEkU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102568-1466634765-6819.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
 Wipers - Is This Real? (1979)
 </li>
+<li data-cover="https://img.discogs.com/_6-OnH00Y_rIkirsp0N1DVEXkcY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620724-1530972965-7025.jpeg.jpg" data-tags="progressive rock" role="button">
+Tony Banks - A Curious Feeling (1979-10-08)
+</li>
 <li data-cover="https://img.discogs.com/qfYH70G4jNFQGQpUvtFx9_DMgi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717457-1282523495.jpeg.jpg" data-tags="punk rock, post-punk" role="button">
 Wipers - Over The Edge (1983)
-</li>
-<li data-cover="https://img.discogs.com/d6jhHQZObjme618RaXt_xguYGFY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13137409-1610737238-1794.png.jpg" data-tags="alternative rock, cowpunk" role="button">
-Meat Puppets - Meat Puppets II (1984-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
 Prefab Sprout - Steve McQueen (1985-06)
@@ -45,9 +45,6 @@ Living Colour - Time's Up (1990-08)
 <li data-cover="http://coverartarchive.org/release/ee6bfa3c-6673-44ee-878e-cb6805765b58/12608688689-500.jpg" data-tags="grunge" role="button">
 Tad - 8-Way Santa (1991-01-30)
 </li>
-<li data-cover="https://img.discogs.com/wiwc5F-Izgh-VQGPdgJ8Q5aLcLA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065347-1189482578.jpeg.jpg" data-tags="punk, riot grrrl" role="button">
-Daisy Chainsaw - Eleventeen (1992-10-06)
-</li>
 <li data-cover="https://img.discogs.com/kK5Ubyj7x-a73N0R9cHY4GS1GSc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-876717-1168190553.jpeg.jpg" data-tags="90s, rock, americana" role="button">
 Grant Lee Buffalo - Fuzzy (1993)
 </li>
@@ -62,9 +59,6 @@ The Verve - A Northern Soul (1995-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a68998d-ee0e-4c43-8d1a-1ef3dbad7365/8147477255-500.jpg" data-tags="noise rock" role="button">
 Six Finger Satellite - Severe Exposure (1995-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
-Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/47dff9f0-d1f3-47d3-a860-da762ea68f99/1651049249-500.jpg" data-tags="90s" role="button">
 The Verve Pipe - Villains (1996-03-26)
@@ -132,6 +126,9 @@ Super Furry Animals - Rings Around the World (2001-07-23)
 <li data-cover="http://coverartarchive.org/release/b410dac5-6c06-4864-add3-5f317058f30f/24917496645-500.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - Hoobastank (2001-11-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/ffc37b3e-1be0-4ee3-a087-4d9b7a27bfaa/27577456302-500.jpg" data-tags="hard rock, alternative metal, post-grunge, alt rock, nu metal, hard nurock" role="button">
+OneSideZero - Is This Room Getting Smaller? (2001-11-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/20d00514-e1c6-4b09-a7cd-b824a80ab047/5896975081-500.jpg" data-tags="indie rock" role="button">
 Denali - Denali (2002-04-16)
 </li>
@@ -180,14 +177,14 @@ Anberlin - Never Take Friendship Personal (2005-01-17)
 <li data-cover="http://coverartarchive.org/release/2ba9d443-ecb0-4807-b2ac-48f107bc97b4/27575795953-500.jpg" data-tags="alternative rock" role="button">
 Jimmy Chamberlin Complex - Life Begins Again (2005-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/26d85786-0a22-4e97-8e08-ef0bf70c32c3/3213251999-500.jpg" data-tags="punk, indie rock, post, pop punk, alt rock, flawless" role="button">
+Japanther - Master Of Pigeons (2005-01-24)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 TRUSTcompany - True Parallels (2005-03-22)
 </li>
 <li data-cover="https://img.discogs.com/aEnJ04MUDNSOAUQJakuVsDe9A98=/fit-in/344x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492004-1286975812.jpeg.jpg" data-tags="rock, alternative, female vocalists, singer-songwriter, alt rock, toll, albums in my cd rack" role="button">
 Lisa Marie Presley - Now What (2005-04-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, female vocalists, radio radio radio" role="button">
-Queen Adreena - The Butcher And The Butterfly (2005-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a78cdd84-d0e4-4287-9919-de8d3c0ff18d/15051661677-500.jpg" data-tags="alt rock, cottage, the trews" role="button">
 The Trews - Den of Thieves (2005-08-16)
@@ -204,6 +201,9 @@ Delirious? - The Mission Bell (2005-11-07)
 <li data-cover="https://img.discogs.com/1yng1UOjmv874tQZgZg-hDhHiw0=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644309-1588500878-9605.jpeg.jpg" data-tags="rock, alternative" role="button">
 Fuel - The Best of Fuel (2005-12-13)
 </li>
+<li data-cover="https://img.discogs.com/M9MTbA9iUrMUxWj3Tqf8f0txZJg=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13138429-1565414324-2015.jpeg.jpg" data-tags="indie rock" role="button">
+The Strokes - 2002-03-18: Paris, France (2006)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, post anal experience, modern metal, kircore" role="button">
 [AMATORY] - Книга мёртвых (2006)
 </li>
@@ -215,6 +215,9 @@ Hoobastank - Every Man For Himself (2006-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ab606f-f9a0-4e13-85b4-48fcd5914899/26393765187-500.jpg" data-tags="indie rock" role="button">
 Cursive - Happy Hollow (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3be301ab-c93a-426a-bc53-b906b5c38d23/9460777849-500.jpg" data-tags="alternative rock, cover, alt rock, 2000s, skids cover, the skids cover" role="button">
+U2 and Green Day - The Saints Are Coming (2006-11-06)
 </li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
@@ -251,9 +254,6 @@ Dave Matthews Band - Big Whiskey And The Groogrux King (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/993dd992-cc0b-36a6-b9b9-a2a582c141fe/13700643173-500.jpg" data-tags="00s" role="button">
 Wilco - Wilco (The Album) (2009-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/851dc621-7b40-32d7-8fa3-9cd10718cfb7/2029543954-500.jpg" data-tags="indie, alternative, 00s" role="button">
-Charlotte Gainsbourg - IRM (2009-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)

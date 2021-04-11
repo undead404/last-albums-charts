@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T17:05:01.587Z
+date: 2021-04-11T21:40:01.424Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur (1997-01-29)</li>
+<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">Elliott Smith - Either/Or (1997-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">Grizzly Bear - Horn Of Plenty (2004-11-09)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">Kurt Vile - Smoke Ring for My Halo (2011-03-07)</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">Cage the Elephant - Melophobia (2013-10-08)</li>
@@ -69,8 +69,8 @@ Built to Spill - Keep It Like a Secret (1998)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
+<li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
+Eels - Electro-Shock Blues (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
@@ -92,6 +92,9 @@ The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/38554573-5d32-4d79-932f-22be38acb089/21232438954-500.jpg" data-tags="rock, alternative rock, indie rock, lo-fi, punk rock, garage rock, 00s, mainstream-indie, lieblingsalben, cds i should buy, mmmusic" role="button">
+The Thermals - More Parts Per Million (2003-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
@@ -141,6 +144,9 @@ The Kills - Midnight Boom (2008-03-10)
 <li data-cover="http://coverartarchive.org/release/824311b1-51f1-408c-a0c2-74da59e15e57/15054738548-500.jpg" data-tags="lo-fi" role="button">
 Kurt Vile - Constant Hitmaker (2008-03-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
+TV on the Radio - Dear Science (2008-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
@@ -150,20 +156,17 @@ Wavves - Wavvves (2009-03-17)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/6101e790-d5e2-4fc1-b2ad-d33685467295/6575683875-500.jpg" data-tags="lo-fi" role="button">
+Zola Jesus - The Spoils (2009-07-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/8651ca46-7a65-4056-87cb-350df491b217/14603571724-500.jpg" data-tags="alternative, indie rock, 00s" role="button">
-Yo La Tengo - Popular Songs (2009-09-04)
 </li>
 <li data-cover="https://img.discogs.com/YadrSrOocjG2eyjUph4KPHdJjhg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1914193-1467852029-4954.jpeg.jpg" data-tags="lo-fi" role="button">
 Vivian Girls - Everything Goes Wrong (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
-</li>
-<li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
-Kurt Vile - Childish Prodigy (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0872afa-87f9-4272-a5c2-2f839b6b0793/6289001231-500.jpg" data-tags="lo-fi" role="button">
 Small Black - Small Black EP (2009-10-13)
@@ -209,9 +212,6 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/56b749ab-070c-49bb-b7f4-1198ef28d585/15883380437-500.jpg" data-tags="lo-fi" role="button">
 Bass Drum of Death - GB City (2011-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
-Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
 Dirty Beaches - Badlands (2011-03-29)

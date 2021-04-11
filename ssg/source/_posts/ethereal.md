@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:56:01.431Z
+date: 2021-04-11T21:37:01.414Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Mazzy Star - So Tonight That I Might See (1993-09-27)](http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg "Mazzy Star - So Tonight That I Might See (1993-09-27)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
-Linda Perhacs - Parallelograms (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ee4b8d0-5e13-44e1-81cb-3865e1cb59a3/5957425092-500.jpg" data-tags="dream pop, electronic" role="button">
-Bel Canto - Birds of Passage (1989)
+<li data-cover="http://coverartarchive.org/release/3da95428-3f4b-471b-8aea-ed40bcf04179/7108599389-500.jpg" data-tags="classic rock" role="button">
+Electric Light Orchestra - Face the Music (1975-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
@@ -36,8 +33,8 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9258621-6572-4de0-aa11-0af53821263b/1782106395-500.jpg" data-tags="ethereal" role="button">
-Love Spirals Downwards - Idylls (1992)
+<li data-cover="https://img.discogs.com/1HBW6zvyauirjRWawLzeIROBh5k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140088-1154032651.jpeg.jpg" data-tags="shoegaze, dreamy" role="button">
+lovesliescrushing - Bloweyelashwish (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
@@ -117,6 +114,9 @@ Amethystium - Aphelion (2003-01-28)
 <li data-cover="http://coverartarchive.org/release/2f627353-447e-33b9-aca5-9c3faa4586aa/3245210755-500.jpg" data-tags="new age, era" role="button">
 Era - The Mass (2003-03-18)
 </li>
+<li data-cover="https://img.discogs.com/XRNMoTkID3Igd_KNFYhMxOhV0ZE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6246860-1414683603-8850.jpeg.jpg" data-tags="ambient" role="button">
+Delerium - Chimera (2003-06-13)
+</li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
 </li>
@@ -143,6 +143,9 @@ Autolux - Future Perfect (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
 The Verve - This Is Music: The Singles 92-98 (2004-11-01)
+</li>
+<li data-cover="https://img.discogs.com/W_H0_HJJIh_uTOBF9lP9M5SI-zk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-913381-1172231675.jpeg.jpg" data-tags="ambient, ethereal" role="button">
+Amon Tobin - Bloodstone (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7ebe88-c495-4a44-808b-61f89e7ad3f7/9100597320-500.jpg" data-tags="cardiowave" role="button">
 Flëur - Всё вышло из-под контроля (2006-04)
@@ -207,6 +210,9 @@ Julianna Barwick - Florine (2009-04-27)
 <li data-cover="http://coverartarchive.org/release/fd1d3a84-3600-49cd-b1d7-ccd4d10c58af/3168123217-500.jpg" data-tags="ethereal, folktronica" role="button">
 Valravn - Koder på snor (2009-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/e44a9d06-d71f-3b2d-821d-8cdade611a12/7603461698-500.jpg" data-tags="female vocalists" role="button">
+Lisa Gerrard - The Black Opal (2010-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)
 </li>
@@ -216,9 +222,6 @@ Brendan Perry - Ark (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/1b765373-348b-48f0-8ff7-d38b2946ff30/3682371353-500.jpg" data-tags="chillout, pop, dance, house, lounge, ethereal, euphoric, deep house, vocal house, hypnotizing" role="button">
 Samantha James - Subconscious (2010-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2529d41-26b6-4751-979d-ae0b19ec91a9/3754509342-500.jpg" data-tags="shoegaze" role="button">
-Tamaryn - The Waves (2010-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
 How to Dress Well - Love Remains (2010-09-21)
 </li>
@@ -227,9 +230,6 @@ Salem - King Night (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
-</li>
-<li data-cover="https://img.discogs.com/gaz7LHYkMGoIRXacf1Ca88ZK8jc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2640403-1408907284-4682.jpeg.jpg" data-tags="experimental" role="button">
-Esben and the Witch - Violet Cries (2011-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/018e2e84-f12f-40a0-b9c3-083a7684347a/3178531758-500.jpg" data-tags="alternative, indie rock, female vocalists, ethereal, lungs, florence welch" role="button">
 Florence + the Machine - Lungs: The B-Sides (2011-02-27)

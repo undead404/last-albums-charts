@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:19:01.469Z
+date: 2021-04-11T20:49:06.988Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
@@ -147,9 +147,6 @@ Common Rider - Last Wave Rockers (1999-05)
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/80637d8b-5372-4185-9324-665312d1607e/7357477241-500.jpg" data-tags="ska" role="button">
-Sublime - Greatest Hits (1999-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/069aa548-b883-462b-ab0e-4ebd0a3faede/8760204187-500.jpg" data-tags="punk, ska punk, ska" role="button">
 Big D And The Kids Table - Good Luck (2000-02-12)
 </li>
@@ -179,6 +176,9 @@ Pepper - Kona Town (2002-03-26)
 </li>
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
+</li>
+<li data-cover="https://img.discogs.com/32nNJHdvpqM8nT87kulBE4-zn8A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3396054-1328775984.jpeg.jpg" data-tags="ska" role="button">
+The Toasters - In Retrospect (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/7adf8b40-8622-43ba-8eb2-c5fec39fb263/7984430965-500.jpg" data-tags="punk rock" role="button">
 The Clash - The Essential Clash (2003-03-10)

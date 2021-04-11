@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:31:01.528Z
+date: 2021-04-11T20:46:06.942Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -32,9 +32,6 @@ Circle Jerks - Group Sex (1980-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/67b74b51-16e8-38f7-ba61-3ce62d9adea2/24579374409-500.jpg" data-tags="hardcore punk" role="button">
 Adolescents - Adolescents (1981-05)
-</li>
-<li data-cover="https://img.discogs.com/OQ0q4ODNVp1OWBlE2bOX7KJUTAM=/fit-in/517x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6443148-1419424235-8401.jpeg.jpg" data-tags="punk, punk rock, street punk" role="button">
-The Exploited - Punks Not Dead (1981-05-04)
 </li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
@@ -78,9 +75,6 @@ Suicidal Tendencies - Join The Army (1987-06-21)
 <li data-cover="http://coverartarchive.org/release/65d5b49f-cf1b-3651-9fdd-ed54ce1a9a85/3837064934-500.jpg" data-tags="hardcore punk, punk" role="button">
 Minor Threat - Complete Discography (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/2af14d71-4333-494a-a981-7701897e3f1c/3035143260-500.jpg" data-tags="punk rock, punk" role="button">
-The Offspring - The Offspring (1989-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
 </li>
@@ -116,6 +110,9 @@ NOFX - Punk in Drublic (1994-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/077899a9-72d7-4865-b9c6-ad5632fd7532/6168593814-500.jpg" data-tags="hardcore, hardcore punk, punk" role="button">
 Reagan Youth - A Collection of Pop Classics (1994-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b50728a7-adf1-42ba-bd3b-7644e7a22d38/26601482357-500.jpg" data-tags="hardcore" role="button">
+Sick of It All - Scratch the Surface (1994-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4e6f2b7-f503-4318-b2c1-70e9912d8e9d/5174404780-500.jpg" data-tags="punk, hardcore punk" role="button">
 AFI - Answer That and Stay Fashionable (1995-08-01)
@@ -162,9 +159,6 @@ AFI - Shut Your Mouth and Open Your Eyes (1997-11-11)
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/ef244c63-70ac-4097-8a83-65bc94d45aed/8735304430-500.jpg" data-tags="rock, alternative, alternative rock, hardcore, 90s, punk rock, raimundos, metal, punk, brazil, brazilian" role="button">
-Raimundos - Só No Forevis (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/5492c6d0-f588-4d9a-b759-bc373e861ee2/2146337925-500.jpg" data-tags="skate punk, hardcore punk, charlie brown" role="button">
 Charlie Brown JR. - Preço Curto, Prazo Longo (1999-03-09)
 </li>
@@ -210,8 +204,8 @@ The Unseen - Explode (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Hot Damn! (2003-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
-Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
+<li data-cover="https://img.discogs.com/fuKrCguQ2tGt0h1TQ6bKTl_RHaw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1170253-1350676172-2239.jpeg.jpg" data-tags="punk, pop punk, hardcore punk, geek rock, elektra" role="button">
+Lucky Boys Confusion - Commitment (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb80433-5a7e-4293-91a8-091255c5e305/10095596295-500.jpg" data-tags="hardcore punk" role="button">
 Король и Шут - Бунт на корабле (2004)
@@ -285,6 +279,9 @@ The Ghost of a Thousand - New Hopes, New Demonstrations (2009-05-29)
 <li data-cover="http://coverartarchive.org/release/c93f04b8-35b8-4256-8ed9-2f38095c02d0/7722807008-500.jpg" data-tags="hardcore" role="button">
 Raised Fist - Veil of Ignorance (2009-09-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/d15f1f1c-4bba-4078-b586-88af765fd576/8879942542-500.jpg" data-tags="hardcore, metalcore" role="button">
+Hatebreed - Hatebreed (2009-09-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
@@ -302,6 +299,9 @@ Kvelertak - Kvelertak (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdcee761-d794-45ee-90bb-a21f51b66bf6/11691630679-500.jpg" data-tags="hardcore" role="button">
 Your Demise - The Kids We Used To Be... (2010-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/9459556b-8fa5-47a2-b78c-4588d42486f7/3325028050-500.jpg" data-tags="post-hardcore" role="button">
+Alexisonfire - Dog's Blood EP (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
 Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)

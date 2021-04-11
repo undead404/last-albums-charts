@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T15:42:01.592Z
+date: 2021-04-11T21:15:01.509Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Ecliptica (1999-08-29)</li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Silence (2001-01)</li>
+<li data-cover="https://img.discogs.com/1-vKmbyVlW9TN7B4y9NS6WEd-zs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8359429-1460066424-8916.jpeg.jpg" data-tags="power metal, heavy metal" role="button">HammerFall - Crimson Thunder (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">DragonForce - Sonic Firestorm (2004-03-24)</li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Reckoning Night (2004-10-06)</li>
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">Kamelot - The Black Halo (2005-02-16)</li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">DragonForce - Inhuman Rampage (2005-12-28)</li>
-<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">Sabaton - The Art of War (2008-05-30)</li>
 <li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">Sabaton - Coat of Arms (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">Sabaton - Carolus Rex (2012-05-22)</li>
@@ -246,9 +246,6 @@ Sonata Arctica - Unia (2007-05-23)
 <li data-cover="https://img.discogs.com/5vy2hHgKoje6nFvIPSpCvY2jMoA=/fit-in/600x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16490664-1608061264-7713.jpeg.jpg" data-tags="progressive metal" role="button">
 Symphony X - Paradise Lost (2007-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Dark Passion Play (2007-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3212ee8-b50d-3511-b830-19bad4070c3d/20719326770-500.jpg" data-tags="power metal" role="button">
 Helloween - Gambling with the Devil (2007-10-23)
 </li>
@@ -263,6 +260,9 @@ Firewind - The Premonition (2008-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
 Sabaton - The Art of War (2008-05-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, power metal" role="button">
+Versailles -Philharmonic Quintet- - NOBLE (2008-07-16)
 </li>
 <li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Ultra Beatdown (2008-08-20)

@@ -1,11 +1,11 @@
 ---
-date: 2021-04-11T05:13:01.408Z
+date: 2021-04-11T21:35:01.414Z
 title: "pop-rock: 100 albums you must listen to before you die"
 ---
 ![Shawn Mendes - Shawn Mendes (2014-07-28)](http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg "Shawn Mendes - Shawn Mendes (2014-07-28)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">La Unión - Mil Siluetas (1984-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">Republica - Republica (1996-07-29)</li>
+<li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">Chumbawamba - Tubthumper (1997-08-25)</li>
 <li data-cover="https://img.discogs.com/zonqhzeLNgC07fqdcsZ5OrZ7h8k=/fit-in/565x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7768449-1448613040-9659.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">The Cranberries - Bury The Hatchet (1999-04-19)</li>
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">Aqualung - Still Life (2003-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/c5ce43f8-80d8-40c4-906a-b5d88bf731f3/7462265532-500.jpg" data-tags="pop" role="button">Natalie Imbruglia - Glorious: The Singles 97-07 (2007-09-05)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7a9017e4-cd8a-4375-803c-52edb9c173ce/23446264259-500.jpg" data-tags="female vocalists, 80s" role="button">
 Bonnie Tyler - Faster Than the Speed of Night (1983)
-</li>
-<li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">
-La Unión - Mil Siluetas (1984-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a3e8e67-fd9a-4f34-bd2f-706d1abc5cca/18002840744-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, male vocalists, pop-rock, france, irack" role="button">
 Indochine - 3 (1985)
@@ -50,6 +47,9 @@ Shakira - Pies Descalzos (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
+</li>
+<li data-cover="https://img.discogs.com/dxsHVHRo_Sghkw02qqK1PrYCJ9w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1432349-1308421199.jpeg.jpg" data-tags="pop, memories, pop-rock, voices, 90s pop" role="button">
+Espen Lind - Red (1997)
 </li>
 <li data-cover="https://img.discogs.com/Z3k4WScRca3dg26gDogwYFL1N3k=/fit-in/556x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5197595-1387193447-1676.jpeg.jpg" data-tags="russian rock, rock, pop-rock, russian" role="button">
 Мумий Тролль - Морская (1997-04-24)
@@ -90,9 +90,6 @@ Matt Redman - Where Angels Fear to Tread (2002)
 <li data-cover="https://img.discogs.com/FtddetwW9ud361NHaEUCEb-Tae8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2184930-1290789309.jpeg.jpg" data-tags="undervud, pop-rock" role="button">
 ундервуд - Всё Пройдёт, Милая (2002-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3b6ee6a-1bb5-46e9-9718-78e676cd8fdd/2001384850-500.jpg" data-tags="roxette" role="button">
-Roxette - The Ballad Hits (2002-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d722359-15e0-4691-8223-9e10a77265df/4672052519-500.jpg" data-tags="brazilian, pop-rock" role="button">
 Nando Reis - A Letra A (2003)
 </li>
@@ -111,14 +108,14 @@ Goldfrapp - Twist (2003-10)
 <li data-cover="http://coverartarchive.org/release/1afe7e41-7c77-4e13-90e5-f170404ad3df/13703071855-500.jpg" data-tags="alternative, brit-pop, alternative britpop, alternative rock, 90s" role="button">
 Suede - Singles (2003-10-20)
 </li>
+<li data-cover="https://img.discogs.com/IlgiVp_n_8wjKnaMA7X5hpFPa_Q=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2769793-1474890938-8871.jpeg.jpg" data-tags="spanish, pop-rock, spanish-pop, chenoa" role="button">
+Chenoa - Soy Mujer (2003-10-20)
+</li>
 <li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d91e5ce-6678-4108-bbb2-c037b0c588ae/22574686040-500.jpg" data-tags="chillout" role="button">
 Animal Liberation Orchestra - Fly Between Falls (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdcf0864-76b7-40df-a6e4-ef14490d4a69/11424942573-500.jpg" data-tags="pop, rock, deutsch, deutschrock, german, pop-rock, deutschpop, staubkind" role="button">
-Staubkind - Traumfänger (2004-04-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop-rock, latin pop" role="button">
 La Quinta Estación - Flores De Alquiler (2004-05-22)
@@ -165,6 +162,9 @@ U2 - U218 Singles (2006-01-01)
 <li data-cover="https://img.discogs.com/av4vKOyCWa60QXni1p8bqrEe6HM=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10227973-1493743125-3281.jpeg.jpg" data-tags="rock, classic rock, swedish, unsigned, pop" role="button">
 The Milestone Corporation - Big Night Out (2006-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e4871f6-a3eb-363d-b268-5ab6553e6722/10141618573-500.jpg" data-tags="rock" role="button">
+Live - Songs from Black Mountain (2006-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/3ce38111-2a30-4a7d-b83f-ab643c7816ca/4254481907-500.jpg" data-tags="pop punk" role="button">
 The Summer Obsession - This Is Where You Belong (2006-08-29)
 </li>
@@ -180,17 +180,11 @@ Rod Stewart - Still The Same... Great Rock Classics Of Our Time (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/785febd6-84e4-4cca-b7ef-f95f9f598b17/15638856505-500.jpg" data-tags="spanish" role="button">
 Melendi - Mientras No Cueste Trabajo (2006-11-13)
 </li>
-<li data-cover="https://img.discogs.com/fKgjYyvMw0-0AAdfeGhDzx4Zybs=/fit-in/450x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343325-1468082959-4205.jpeg.jpg" data-tags="celestial, rbd, pop" role="button">
-RBD - Celestial (2006-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/c0c3e343-4ad3-4551-8dc7-9bee366d537b/10194948769-500.jpg" data-tags="spanish, folk, celtic, pop-rock, conchi" role="button">
 El Sueño de Morfeo - Nos vemos en el camino (2007-04-17)
 </li>
 <li data-cover="https://img.discogs.com/d3ASlPbUB-4Mz0OMN5xy-q8QVOg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8408730-1476926306-1006.jpeg.jpg" data-tags="chillout, pop, rock, 00s, pop-rock, 00s pop, cheer up, 00s rock, just love it, happy times music, 00s pop-rock" role="button">
 Animal Liberation Orchestra - Roses & Clover (2007-05-01)
-</li>
-<li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="tokio hotel" role="button">
-Tokio Hotel - Scream (2007-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
 Kelly Clarkson - My December (2007-06-25)
@@ -237,9 +231,6 @@ Nena Daconte - Retales De Carnaval (2008-09-30)
 <li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
 Razorlight - Slipway Fires (2008-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/b191012a-a793-40b7-9bb1-f0adc12b9362/10429296898-500.jpg" data-tags="pop-rock" role="button">
-The Fireman - Electric Arguments (2008-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/a086fab1-2ee2-35de-875f-79dc9a9ec73a/16167571305-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - My Life Would Suck Without You (2009-01-16)
 </li>
@@ -267,8 +258,14 @@ The Summer Set - Love Like This (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/c246865b-cc2a-4cea-8da1-9e70f0e84971/4507827521-500.jpg" data-tags="spanish, compilation, pop-rock" role="button">
 La Oreja de Van Gogh - Nuestra casa a la izquierda del tiempo (2009-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/7837982e-4693-469b-b056-b1cacc9c1120/1386595373-500.jpg" data-tags="rock, alternative, folk, live, celtic, pop-rock" role="button">
+The Cranberries - Bualadh Bos: The Cranberries Live (2009-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)
+</li>
+<li data-cover="https://img.discogs.com/zttio9M_6x8Cjvrk9JRpqKiKgss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5658405-1502040951-5998.jpeg.jpg" data-tags="chillout, pop, rock, usa, american, pop-rock, 10s, cheer up, just love it, happy times music, 10s pop, 10s rock, 10s pop-rock" role="button">
+Animal Liberation Orchestra - Man Of The World (2010-02-09)
 </li>
 <li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">
 Peter Gabriel - Scratch My Back (2010-02-12)
@@ -302,6 +299,9 @@ Cate le Bon - CYRK (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1dc23a8-9e22-4383-b984-c82c90aab22a/6798237645-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Imagine Dragons - It's Time (2012-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3df1247-7729-4ad3-9dcc-f6ae47194c8c/5961254760-500.jpg" data-tags="ukrainian" role="button">
+Океан Ельзи - Земля (2013-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7922d605-4700-4f7f-a4cb-4329a14a852c/6602596088-500.jpg" data-tags="electropop, pop, christian, pop-rock, praise" role="button">
 Hillsong Young & Free - We Are Young & Free (2013-09-30)
