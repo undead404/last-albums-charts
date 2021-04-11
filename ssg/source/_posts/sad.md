@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:54:01.417Z
+date: 2021-04-11T16:14:01.416Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![SoKo - I Thought I Was an Alien (2012-02-20)](http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg "SoKo - I Thought I Was an Alien (2012-02-20)")
@@ -27,14 +27,14 @@ Frank Sinatra - In the Wee Small Hours (1955-04-25)
 <li data-cover="http://coverartarchive.org/release/c4392206-1f58-48a5-b665-c1515b2ec147/6454049795-500.jpg" data-tags="jazz, sad" role="button">
 Frank Sinatra - No One Cares (1959)
 </li>
-<li data-cover="https://img.discogs.com/xmaTn7QH-hpL_gk_Nnv7tj0WhII=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4291353-1424917886-6456.jpeg.jpg" data-tags="country, sad, searching, reflective, melancholy, bittersweet, yearning, honky tonk, bakersfield sound, poignant, comfort, autumnal, feeling blue, wistful, lively, plaintive, traditional country, m haggard" role="button">
-Merle Haggard - Mama Tried (1968)
-</li>
 <li data-cover="https://img.discogs.com/GiVYt5duQ6pkKpz7b3KpnE8I7C0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8256525-1458094649-7843.jpeg.jpg" data-tags="folk" role="button">
 John Fahey - America (1971)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
+</li>
+<li data-cover="https://img.discogs.com/Lz0kq17EnvPDzdlN-UJtuB3lxqs=/fit-in/255x255/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3055148-1343214860-9733.jpeg.jpg" data-tags="southern rock" role="button">
+The Marshall Tucker Band - Carolina Dreams (1977)
 </li>
 <li data-cover="https://img.discogs.com/EcRUNGWUxB9uHh6KB-VkTQ_vElM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5850151-1489343940-8609.jpeg.jpg" data-tags="pop" role="button">
 John Lennon & Yoko Ono - Double Fantasy (1980)
@@ -71,9 +71,6 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
-</li>
-<li data-cover="https://img.discogs.com/gofzg8WWrEfHC3XGOdjWFnmXbh0=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5276007-1592068264-7558.jpeg.jpg" data-tags="j-rock" role="button">
-X Japan - BALLAD COLLECTION (1997-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/57a5da39-729b-3352-9c95-e9b390e22e08/16155956543-500.jpg" data-tags="sad, canadian, 90s" role="button">
 Destroyer - City of Daughters (1998)
@@ -120,6 +117,12 @@ DIR EN GREY - ain't afraid to die (2001-04-18)
 <li data-cover="http://coverartarchive.org/release/51b02443-0363-4840-b1f4-b6e81fc2ae07/8013711579-500.jpg" data-tags="rock, alternative rock" role="button">
 Stabbing Westward - Stabbing Westward (2001-05-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="sad, romance" role="button">
+David Gray - Sail Away (2001-08-14)
+</li>
+<li data-cover="https://img.discogs.com/njHKzUqqYafGPbvzLZDJYkuEjYg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3278722-1381240201-2848.jpeg.jpg" data-tags="sad, mellow, christian, square peg alliance, caedmons call, the normals, andrew osenga" role="button">
+Andrew Osenga - Photographs (2002)
+</li>
 <li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
 Azure Ray - November (2002-01-22)
 </li>
@@ -132,6 +135,9 @@ Azure Ray - Burn and Shiver (2002-04-09)
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
+<li data-cover="https://img.discogs.com/kmkc7Q8hoO4RbhCA6eSzJJuIJJU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3852147-1346902071-4146.jpeg.jpg" data-tags="instrumental" role="button">
+Jordan Rudess - 4NYC (2002-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
 The Early November - For All Of This (2002-11-05)
 </li>
@@ -140,9 +146,6 @@ Lilium - Short Stories (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
-The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
 <li data-cover="https://img.discogs.com/mGkUaVwkEPSyW92Ls_yp1mWo2IQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764161-1379971553-7990.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
@@ -165,9 +168,6 @@ Archive - Unplugged (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6d0569a7-1bf9-4d71-843b-9e0d624036e5/10309709950-500.jpg" data-tags="soundtrack" role="button">
-Hans Zimmer & James Newton Howard - Batman Begins (2005-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
@@ -188,9 +188,6 @@ Kate Havnevik - Melankton (2006-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/173df3bb-9a98-41ac-a329-f8121f7fef5a/3039660821-500.jpg" data-tags="pop, hurt" role="button">
-Christina Aguilera - Hurt (2006-11-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
@@ -219,6 +216,9 @@ White Lies - Unfinished Business (2008)
 <li data-cover="http://coverartarchive.org/release/38e8460a-efc3-4d42-8011-e80205284699/21551757575-500.jpg" data-tags="sad, 2008 favorites, my short list, 2008 fave albums, mtce not really, favourite albums 2008, 2008ott" role="button">
 Evangelicals - The Evening Descends (2008-01-22)
 </li>
+<li data-cover="https://img.discogs.com/GQ0Booep1WsOYVOfFMll_rTVBW4=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1999140-1257702355.jpeg.jpg" data-tags="sad, nostalgic, spring 2009" role="button">
+John & Jehn - John & Jehn (2008-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/4976a28e-bd80-4170-9f06-3507e432095e/10536753505-500.jpg" data-tags="punk, sad, ankara, mutsuz, y mori, bazi albumler cidden album" role="button">
 Yasemin Mori - Hayvanlar (2008-07-14)
 </li>
@@ -227,9 +227,6 @@ Anathema - Hindsight (2008-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
 Frozen Silence - Impressions (2008-12-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/638b8b03-2b7a-407c-bd76-54b925c4fe6c/14283405150-500.jpg" data-tags="folk punk" role="button">
-Andrew Jackson Jihad - Can't Maintain (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
 Noisettes - Wild Young Hearts (2009-04-19)
@@ -243,9 +240,6 @@ Moby - Wait for Me (2009-06-26)
 <li data-cover="https://img.discogs.com/Cch9xq_xdq47XQEUgMJ3X_476Ns=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616085-1337508814-3772.jpeg.jpg" data-tags="indie, rock" role="button">
 Eels - End Times (2010-01-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c2be459-b2f6-4e03-9b97-e89b044ff176/7531028055-500.jpg" data-tags="sad" role="button">
-Christina Aguilera - You Lost Me (2010-07-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
@@ -257,6 +251,9 @@ Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
 The Antlers - Burst Apart (2011-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/54730fb7-316d-4b69-9e0c-3865496539af/5541467270-500.jpg" data-tags="ambient" role="button">
+The Caretaker - An empty bliss beyond this World (2011-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg" data-tags="pop, sad, female vocalists, goth pop, z serii: jest dokladnie tak jak w tej piosence, got vinyl" role="button">
 SoKo - I Thought I Was an Alien (2012-02-20)
@@ -297,14 +294,17 @@ Natalia Kills - Trouble (2013-09-03)
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/e18b4d96-b288-490f-b087-973ec227a60f/24950248516-500.jpg" data-tags="acoustic" role="button">
+Katatonia - Dethroned & Uncrowned (2013-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
+<li data-cover="https://img.discogs.com/WYtFHEojp0lsFjizQv2d6UxmkXI=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5045864-1383029442-7787.jpeg.jpg" data-tags="metal, sad, thrash metal, depressing, denmark, death-thrash metal, danish metal, most disappointing album since a sense of purpose, shit production, makes the great bludgeoning seem like a masterpiece, massacre records" role="button">
+Hatesphere - Murderlust (2013-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
 Glee Cast - The Quarterback (2013-10-07)
-</li>
-<li data-cover="https://img.discogs.com/wrKx2pQ-5-B7CzdUDum9u-RpVEQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5295180-1390175471-7549.jpeg.jpg" data-tags="electronic, indie, ambient, sad, dreamy, ethereal, melancholic, ambient techno, 10s, brooding, darla, dream vocal, changes lives" role="button">
-Bvdub - I'll Only Break Your Heart (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)

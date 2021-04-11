@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:06:01.709Z
+date: 2021-04-11T16:09:01.584Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
-Enigma - The Cross of Changes (1993-12-06)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
 </li>
@@ -35,6 +32,9 @@ Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
+Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)

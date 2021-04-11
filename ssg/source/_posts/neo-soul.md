@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:17:06.996Z
+date: 2021-04-11T15:54:01.410Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -36,8 +36,8 @@ Erykah Badu - Baduizm (1997-02-11)
 <li data-cover="http://coverartarchive.org/release/7ffc0e66-78ba-4efc-9a73-55ce13354a32/5194284962-500.jpg" data-tags="rnb, neo soul" role="button">
 Maxwell - MTV Unplugged (1997-07-15)
 </li>
-<li data-cover="https://img.discogs.com/v9xi8uvYPtIXNRBABfaWbnLDjRg=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4848877-1437524577-3099.jpeg.jpg" data-tags="rnb" role="button">
-Joe - All That I Am (1997-07-29)
+<li data-cover="http://coverartarchive.org/release/5c0f94d0-6e7c-4547-bf52-eba96b14e3d3/8121259237-500.jpg" data-tags="rnb, pop, 90s" role="button">
+Janet Jackson - The Velvet Rope (1997-10-04)
 </li>
 <li data-cover="https://img.discogs.com/bNU9Z2OH65I8W0Ttb8NgfVWt1G0=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764240-1156380307.jpeg.jpg" data-tags="neo-soul, rnb" role="button">
 Maxwell - Embrya (1998-06-30)
@@ -89,9 +89,6 @@ India.Arie - Voyage To India (2002-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a9976be-9d1d-4ba6-a6da-d99b578dea83/17257561540-500.jpg" data-tags="neo-soul, rap" role="button">
 Slum Village - Trinity (Past, Present And Future) (2002-08-13)
-</li>
-<li data-cover="https://img.discogs.com/0BVoc-6I0Qa1pbC9NzYoEGvFRkQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-560909-1494584702-2188.jpeg.jpg" data-tags="pop, rnb, 00s, craig david" role="button">
-Craig David - Slicker Than Your Average (2002-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/248c44c9-280a-4bc1-8030-2d06bedf6d4c/22261900325-500.jpg" data-tags="soul, neo-soul" role="button">
 Vivian Green - A Love Story (2002-11-12)
@@ -171,6 +168,9 @@ Van Hunt - On The Jungle Floor (2006-04-04)
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/815acae6-1f04-34cd-9967-72ec69a50666/25651903474-500.jpg" data-tags="neo-soul" role="button">
+Amel Larrieux - Morning (2006-04-25)
+</li>
 <li data-cover="https://img.discogs.com/pim_nk2JT4Nf9U7Zvx-AuPq2wec=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-883100-1235633436.jpeg.jpg" data-tags="neo-soul" role="button">
 Choklate - Choklate (2006-05)
 </li>
@@ -197,6 +197,9 @@ Rahsaan Patterson - Wines & Spirits (2007-09-24)
 </li>
 <li data-cover="https://img.discogs.com/PAtSiVSaJEDADUEa_fBPHH277Vw=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1282262-1329584816.jpeg.jpg" data-tags="soul, smooth, relaxing" role="button">
 Raheem DeVaughn - Love Behind The Melody (2008-01-15)
+</li>
+<li data-cover="https://img.discogs.com/s2jr_K_DluiprzPRavDYilat0pQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930294-1295108047.jpeg.jpg" data-tags="jazz, soul, rnb, neo-soul, british soul, alternative rnb, post-hardcore" role="button">
+Celeste - Nihiliste(s) (2008-02-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, neo-soul" role="button">
 Erykah Badu - New Amerykah Part One (4th World War) (2008-02-26)
@@ -263,9 +266,6 @@ Miguel - All I Want Is You (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4bef32f-aab1-4b98-a85c-2b122ca93134/4150263402-500.jpg" data-tags="soul" role="button">
 Emeli Sandé - Our Version of Events (2012-02-10)

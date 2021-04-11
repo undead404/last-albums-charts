@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:33:01.424Z
+date: 2021-04-11T15:48:07.021Z
 title: "acoustic rock: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -27,17 +27,11 @@ Blues Saraceno - Never Look Back (1989)
 <li data-cover="http://coverartarchive.org/release/00430071-491d-4ca3-a61e-634cbc483021/13220151098-500.jpg" data-tags="rock, grunge, pearl jam" role="button">
 Pearl Jam - MTV Unplugged (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/acde8b39-0d0d-335c-bae9-a80cb9139c1b/22468419675-500.jpg" data-tags="classic rock, hard rock, scorpions, heavy metal" role="button">
-Scorpions - Still Loving You (1992)
-</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, alternative, alternative rock, male vocalists, acoustic rock, pop-rock, wisconsin" role="button">
 BoDeans - Go Slow Down (1993-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5a4cd5-43d1-3b78-a535-272f97c015c9/14327361700-500.jpg" data-tags="rock, 90s" role="button">
 Dave Matthews Band - Under The Table And Dreaming (1994-04)
-</li>
-<li data-cover="https://img.discogs.com/YH1jSYY601Ma377_-lDh2UDCKzs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8558232-1464017108-5824.jpeg.jpg" data-tags="lo-fi" role="button">
-Beck - One Foot In The Grave (1994-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f88fc890-37ac-32bd-94b8-161ea3ba7a84/3300054555-500.jpg" data-tags="90s" role="button">
 The Jesus and Mary Chain - Stoned & Dethroned (1994-08-15)
@@ -53,9 +47,6 @@ Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7533b1fc-d328-4ee5-8b50-bbf4c3edb6ed/9020709713-500.jpg" data-tags="southern rock, rock" role="button">
 Zakk Wylde - Book of Shadows (1996-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
-Firehouse - Good Acoustics (1996-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8843d2b4-f584-46a4-9c3c-f082b7eb39c4/9233096986-500.jpg" data-tags="grunge, 90s, rock, alternative" role="button">
 Days of the New - Days Of The New (1997-06-03)
@@ -135,9 +126,6 @@ Miossec - 1964 (2004-03-01)
 <li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
 Godsmack - The Other Side (2004-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/7731b748-297a-4956-b093-b74dc13aa61e/7029581439-500.jpg" data-tags="rock" role="button">
-Ira! - Acústico MTV (2004-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/29accc2d-1e6e-44b3-8c64-af314bb160ba/14041678210-500.jpg" data-tags="singer-songwriter, acoustic, swedish" role="button">
 Nikola Sarcevic - Lock-Sport-Krock (2004-03-29)
 </li>
@@ -147,6 +135,9 @@ Nikola Sarcevic - Lock-Sport-Krock (2004-03-29)
 <li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
 The Calling - Two (2004-05-24)
 </li>
+<li data-cover="https://img.discogs.com/uvwRSOdqN8oOhhPa6Pon_JBFoqw=/fit-in/350x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040200-1260235214.jpeg.jpg" data-tags="guitar, instrumental guitar" role="button">
+Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/0982a80d-b63b-339c-9bb3-16799e5efb50/1724551044-500.jpg" data-tags="maroon 5, rock" role="button">
 Maroon 5 - 1.22.03.Acoustic (2004-06-29)
 </li>
@@ -155,9 +146,6 @@ Corey Crowder - Learning To Let Go (Special Edition) (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">
 Foo Fighters - In Your Honor (2005-05-13)
@@ -240,11 +228,17 @@ Walls of Jericho - Redemption (2008-04-25)
 <li data-cover="https://img.discogs.com/5U7qAvvGlmw2litqZ-jg55aRuTY=/fit-in/555x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1317860-1224905563.jpeg.jpg" data-tags="songwriter" role="button">
 Scott Kelly - The Wake (2008-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/53f38bee-03ce-40b0-bfad-e349415c88dd/1149232883-500.jpg" data-tags="acoustic rock" role="button">
+Amity in Fame - Dinner for One (2008-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/40deb0a4-3db1-4b30-9810-1af66cfb6804/6415586221-500.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, acoustic, acoustic rock" role="button">
 O.A.R. - All Sides (2008-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f3f627c-bee0-4b0b-a06f-76ffb13999a6/1075906105-500.jpg" data-tags="alternative rock" role="button">
 Staind - The Illusion Of Progress (2008-08-19)
+</li>
+<li data-cover="https://img.discogs.com/99ihvPAoOHKRp-DkxsvB-ziD_vE=/fit-in/198x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12945849-1545074999-8479.jpeg.jpg" data-tags="indie rock, pop rock, acoustic rock" role="button">
+Ellington - More Like A Movie, Less Like Real Life (2008-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a74176c-d4e4-4dc0-b3a5-3b35ceaa7a61/5388309953-500.jpg" data-tags="rock, singer-songwriter, acoustic, german, acoustic rock, game music, gamer music" role="button">
 Jan Hegenberg - Schlachtenlärm (2008-11-14)
@@ -267,11 +261,11 @@ Graham Coxon - The Spinning Top (2009-05-11)
 <li data-cover="http://coverartarchive.org/release/757bb2fe-3ecf-4e33-808f-516672d8e1bf/24020587934-500.jpg" data-tags="acoustic rock" role="button">
 Portugal. The Man - The Majestic Majesty (2009-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/42b43659-fcec-4297-a63c-eead1bd52668/15197220293-500.jpg" data-tags="acoustic" role="button">
-Jonny Craig - A Dream Is A Question You Don't Know How To Answer (2009-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/9dec4253-17fc-36d9-b1ff-850ac5ba6baf/10497426209-500.jpg" data-tags="progressive rock" role="button">
 Marillion - Less Is More (2009-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/694bee0d-ad65-4e31-a40e-6ecd60d9e2b9/1202785410-500.jpg" data-tags="pop, rock, experimental, hard rock, pop rock, acoustic, 00s, acoustic rock, josh woodward" role="button">
+Josh Woodward - Breadcrumbs (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/49f428de-3c35-3e20-8141-03d67aa2db2a/4050463336-500.jpg" data-tags="metal, acoustic, symphonic metal" role="button">
 Within Temptation - An Acoustic Night at the Theatre (2009-10-30)
@@ -290,6 +284,9 @@ The Black Crowes - Croweology (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
+</li>
+<li data-cover="https://img.discogs.com/XzbVs5C13ciRPh7px1-ICDHvVYw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5186801-1394404407-8695.jpeg.jpg" data-tags="rock" role="button">
+Matthew Mayfield - Now You're Free (2011-04-05)
 </li>
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
@@ -314,6 +311,9 @@ KT Tunstall - Invisible Empire // Crescent Moon (2013-06-07)
 </li>
 <li data-cover="https://img.discogs.com/wb5pZgEuJLCdByvDcDqX4tZaTtg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4863218-1377813849-7093.jpeg.jpg" data-tags="pop rock, acoustic rock" role="button">
 Yellowcard - Ocean Avenue Acoustic (2013-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/285a28a8-0365-4a72-984e-21eb63917173/6804862595-500.jpg" data-tags="acoustic rock" role="button">
+Jon Gomm - Secrets Nobody Keeps (2013-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a66eeee9-f6bf-4b21-af50-40e93064decb/18376863262-500.jpg" data-tags="progressive rock" role="button">
 Pain of Salvation - Falling Home (2014-11-10)

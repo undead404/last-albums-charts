@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T19:15:01.568Z
+date: 2021-04-11T15:45:12.773Z
 title: "ebm: 100 albums you must listen to before you die"
 ---
 ![Combichrist - Everybody Hates You (2005-02-21)](http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg "Combichrist - Everybody Hates You (2005-02-21)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/5a32f2d3-7bf4-314d-9ddb-4e2f62b46221/19760017691-500.jpg" data-tags="ebm" role="button">Nitzer Ebb - That Total Age (1987-05-11)</li>
+<li data-cover="http://coverartarchive.org/release/e1ed1b26-35d7-3f95-9344-8722e2707fc8/10110496358-500.jpg" data-tags="industrial, ebm" role="button">Velvet Acid Christ - Fun With Knives (1999-04-26)</li>
+<li data-cover="http://coverartarchive.org/release/2b18f9eb-b171-4fd6-ab1f-9801c4adc992/11392866472-500.jpg" data-tags="electrogoth, industrial, ebm, darkwave" role="button">Blutengel - Seelenschmerz (2001-03-19)</li>
 <li data-cover="https://img.discogs.com/SzLw8Kdw5wQSy6aFcThC8EZh55o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240746-1463420871-7364.jpeg.jpg" data-tags="ebm" role="button">Front Line Assembly - Civilization (2004-01-19)</li>
 <li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial" role="button">Combichrist - Everybody Hates You (2005-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/b36ae268-7613-484a-861e-742a6abc2b54/7991788886-500.jpg" data-tags="ebm" role="button">Unter Null - The Failure Epiphany (2005-11-28)</li>
-<li data-cover="https://img.discogs.com/MK3kejTyRY1kKfGV5igAQF0kOzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430114-1219059796.jpeg.jpg" data-tags="ebm, industrial, harsh ebm" role="button">Suicide Commando - Bind, Torture, Kill (2006-03-24)</li>
 <li data-cover="http://coverartarchive.org/release/dfa61791-e35a-31c6-9c6d-c6fee31f4e88/8961128077-500.jpg" data-tags="ebm, aggrotech, industrial, dark electro" role="button">Tactical Sekt - Syncope (2006-04-28)</li>
 <li data-cover="http://coverartarchive.org/release/b4e9cde8-78d8-4390-a5bb-8025feb93807/6069833114-500.jpg" data-tags="ebm, industrial" role="button">Front Line Assembly - Artificial Soldier (2006-06-20)</li>
 <li data-cover="http://coverartarchive.org/release/cbad8c1c-500c-3a8e-83ff-7a67e54db5c3/8482057958-500.jpg" data-tags="industrial, dark electro, ebm" role="button">Psyclon Nine - Crwn Thy Frnicatr (2006-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/a94eefe2-6066-4fe7-b48e-d80b919e3c2a/5702151150-500.jpg" data-tags="ebm, harsh ebm, aggrotech" role="button">Grendel - Harsh Generation (2007-05-04)</li>
-<li data-cover="http://coverartarchive.org/release/68a29d1b-d232-46ab-8def-71072d7ffb3d/9055869577-500.jpg" data-tags="aggrotech" role="button">Combichrist - Today We Are All Demons (2009-01-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,14 +27,17 @@ Liaisons Dangereuses - Liaisons Dangereuses (1981)
 <li data-cover="http://coverartarchive.org/release/cc22ec44-bd0f-341e-8366-bd852f2284b1/15833399379-500.jpg" data-tags="electronic, industrial, ebm, neue deutsche welle" role="button">
 Deutsch Amerikanische Freundschaft - Alles Ist Gut (1981-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/fc8f6a9f-d2fb-31b3-b857-e47958a377a0/2039992852-500.jpg" data-tags="ebm" role="button">
-Front 242 - No Comment (1984-09)
+<li data-cover="https://img.discogs.com/iJot0_xEMnoS6v1voTcqRYxoBGY=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-685439-1159648044.jpeg.jpg" data-tags="ebm" role="button">
+Deutsch Amerikanische Freundschaft - Gold Und Liebe (1981-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
 Skinny Puppy - Bites (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a32f2d3-7bf4-314d-9ddb-4e2f62b46221/19760017691-500.jpg" data-tags="ebm" role="button">
 Nitzer Ebb - That Total Age (1987-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c7a551d-172f-41cc-8c45-001fe4c2a8df/1191160835-500.jpg" data-tags="ebm, industrial" role="button">
+Front Line Assembly - State of Mind (1988-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8634c228-80f7-358e-b9bd-f7e6e558ad81/24652540760-500.jpg" data-tags="ebm" role="button">
 Nitzer Ebb - Belief (1989-01-09)
@@ -54,6 +57,9 @@ Front 242 - TYRANNY >FOR YOU< (1991-01-21)
 <li data-cover="http://coverartarchive.org/release/a5b84cb4-683e-4257-b073-2fb674062d55/14371888518-500.jpg" data-tags="ebm, industrial" role="button">
 Oomph! - OOMPH! (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/78491919-c124-486b-a705-d3ab323251a5/28315812844-500.jpg" data-tags="industrial" role="button">
+Skinny Puppy - Last Rights (1992-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/dca56b61-66f1-34d9-8184-1010cf5bb8c9/24465532686-500.jpg" data-tags="electronic, ebm" role="button">
 And One - Flop! (1992-03-30)
 </li>
@@ -68,6 +74,9 @@ Front 242 - 06:21:03:11 UP EVIL (1993-05-10)
 </li>
 <li data-cover="https://img.discogs.com/SX_W3lJcTxgLx3XqWSG54HaB5Ng=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1160084-1258692474.jpeg.jpg" data-tags="ebm" role="button">
 Apoptygma Berzerk - Soli Deo Gloria (1993-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8cf4df8-f067-4e67-820c-55f224f8358b/2305960796-500.jpg" data-tags="industrial metal, industrial" role="button">
+Front Line Assembly - Millennium (1994-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8261962b-3305-4b07-928b-9405ff67d262/14323730269-500.jpg" data-tags="ebm" role="button">
 Covenant - Dreams Of A Cryotank (1994-11)
@@ -93,11 +102,14 @@ Front Line Assembly - Flavour Of The Weak (1997-11-05)
 <li data-cover="https://img.discogs.com/9JHGtxS5Rw4TomEnoABguqfuzOQ=/fit-in/491x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374019-1303324520.jpeg.jpg" data-tags="ebm, industrial" role="button">
 Das Ich - Egodram (1998-01-30)
 </li>
+<li data-cover="https://img.discogs.com/cL9w8BLy4ihGCULvcIIkSJjapb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13991990-1565635135-6857.jpeg.jpg" data-tags="ebm, electro" role="button">
+Apoptygma Berzerk - The Apopcalyptic Manifesto (1998-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/1b935f14-e3a7-36bf-98ce-e883110151d5/9802431521-500.jpg" data-tags="industrial, ebm, electronic" role="button">
 Project Pitchfork - Eon:Eon (1998-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b300725-35bf-4f41-b6fd-cec5d48f077b/8769345080-500.jpg" data-tags="darkwave, gothic, ebm" role="button">
-Blutengel - Child of Glass (1999-02-22)
+<li data-cover="http://coverartarchive.org/release/643e6eef-1af6-4180-8196-47fc445b033f/17373138769-500.jpg" data-tags="ebm" role="button">
+Funker Vogt - Execution Tracks (1998-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff3da163-66f1-41f6-8b59-2a90b7840865/4824617654-500.jpg" data-tags="dark electro, ebm" role="button">
 :Wumpscut: - Boeses Junges Fleisch (1999-04-05)
@@ -107,6 +119,9 @@ Velvet Acid Christ - Fun With Knives (1999-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e08454f-b9a6-483c-847c-72f4da4369cf/3240829039-500.jpg" data-tags="ebm" role="button">
 Assemblage 23 - Contempt (1999-10-26)
+</li>
+<li data-cover="https://img.discogs.com/Y2oLXgdd8RLY9jEmUgBqhskicG0=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-159456-1367679730-4175.jpeg.jpg" data-tags="ebm" role="button">
+God Module - Artificial (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6c4671b-0fdc-3037-8cf4-a235a2962cb4/17408643804-500.jpg" data-tags="industrial, ebm, aggrotech, techno" role="button">
 Funker Vogt - Maschine Zeit (2000-05-02)
@@ -156,6 +171,9 @@ Grendel - Prescription: Medicide (2003)
 <li data-cover="http://coverartarchive.org/release/9c5e78aa-f00f-3ba3-ae98-01144c61a0f2/8961157360-500.jpg" data-tags="industrial" role="button">
 Tactical Sekt - Geneticide (2003-03-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/6cc3b50b-77f1-351c-9393-6a30a7b83715/3470290651-500.jpg" data-tags="ebm" role="button">
+Front 242 - Pulse (2003-04-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/34de4124-76fd-4596-a891-82a9041612f9/6485727185-500.jpg" data-tags="radio radio radio" role="button">
 Ohgr - SunnyPsyOp (2003-07-01)
 </li>
@@ -165,11 +183,14 @@ Bruderschaft - Forever (2003-07-25)
 <li data-cover="http://coverartarchive.org/release/8a9f88ee-4b69-445a-8eb1-0f83345faf3f/9065922207-500.jpg" data-tags="industrial, aggrotech, powernoise, electro-industrial" role="button">
 Combichrist - The Joy of Gunz (2003-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/8bb67a32-ae41-4390-905d-5b1345d017e3/7973285676-500.jpg" data-tags="industrial" role="button">
+Suicide Commando - Axis of Evil (2003-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/fc92749b-12ca-4ab0-b7ba-0c6c275485a7/3903807399-500.jpg" data-tags="industrial, gothic, ebm, darkwave, tbm, aggrotech" role="button">
 Combichrist - Kiss the Blade (2003-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/c0050af9-b69b-4094-ae4a-cd084725fc4f/8964814165-500.jpg" data-tags="electronic, industrial" role="button">
-Tactical Sekt - Burn Process (2003-11-03)
+<li data-cover="http://coverartarchive.org/release/03b3b964-084b-445f-8eb1-8c49b51881bd/13328934251-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
+Amduscia - Melodies for the Devil (2003-11-03)
 </li>
 <li data-cover="https://img.discogs.com/mxY3UDQC1EtTbRuE-do2hsnH3wk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465895-1117587788.jpg.jpg" data-tags="ebm" role="button">
 In Strict Confidence - Holy (2004-01-12)
@@ -177,20 +198,14 @@ In Strict Confidence - Holy (2004-01-12)
 <li data-cover="https://img.discogs.com/SzLw8Kdw5wQSy6aFcThC8EZh55o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240746-1463420871-7364.jpeg.jpg" data-tags="ebm" role="button">
 Front Line Assembly - Civilization (2004-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ed343a0-2ea4-419a-bb1d-692f2c249767/12312885496-500.jpg" data-tags="ebm, german" role="button">
-Pzychobitch - The Day After (2004-02-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d611bc5-ce7d-4c77-9eeb-84d7f7c2fb22/23454588286-500.jpg" data-tags="metal, sid metal" role="button">
 Machinae Supremacy - Deus Ex Machinae (2004-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/85d7b32d-7b3f-4c61-b51e-bbf61c9267e8/15619141380-500.jpg" data-tags="industrial" role="button">
 Panzer AG - This Is My Battlefield (2004-06-14)
 </li>
-<li data-cover="https://img.discogs.com/x04cOsOQGC3eOFn4KonrrZn7Vro=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496615-1569765754-6021.jpeg.jpg" data-tags="industrial" role="button">
-The Birthday Massacre - Violet (2004-07)
-</li>
-<li data-cover="https://img.discogs.com/J94iFtQ-S_W_aq2FuUrefhHfjGg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385313-1277151264.jpeg.jpg" data-tags="dark electro, industrial, ebm, metropolis" role="button">
-Hocico - Wrack and Ruin (2004-10-10)
+<li data-cover="https://img.discogs.com/S7-6jQbw3OZLlxJG8MgkAEZ7I1U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-363922-1228135426.jpeg.jpg" data-tags="ebm" role="button">
+Spetsnaz - Perfect Body (2004-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ad75fa-44b2-3f90-8c5f-4b3fb9708678/10743288348-500.jpg" data-tags="industrial" role="button">
 Flesh Field - Strain (2004-11-08)
@@ -201,20 +216,14 @@ Icon of Coil - Uploaded and Remixed (2004-11-08)
 <li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial" role="button">
 Combichrist - Everybody Hates You (2005-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c22e34a1-ef58-30b6-9ee7-988775a4fe4d/10237052669-500.jpg" data-tags="industrial, ebm, dark electro" role="button">
-Grendel - Soilbleed Redux (2005-04-25)
+<li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
+Gothminister - Empire of Dark Salvation (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2115e652-02b4-4916-b26f-517aa2eee039/9061551085-500.jpg" data-tags="industrial" role="button">
 Psyclon Nine - INRI (2005-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/790e2247-c402-48bb-a58f-97c158695406/7827977178-500.jpg" data-tags="ebm, ayria" role="button">
-Ayria - My Revenge On The World (2005-06-06)
-</li>
-<li data-cover="https://img.discogs.com/HQkL9UB2mhjc9vVX_EbC6K4D7j4=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-544661-1590431253-9618.jpeg.jpg" data-tags="ebm, dark electro" role="button">
-God Module - Viscera (2005-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/59651cd9-510f-4b08-972e-a52bcdfddd0d/22005737764-500.jpg" data-tags="darkwave" role="button">
-Blutengel - The Oxidising Angel (2005-10-28)
+<li data-cover="http://coverartarchive.org/release/579e6a13-c081-419e-af65-b8181d56be83/15622737422-500.jpg" data-tags="ebm" role="button">
+Stromkern - Light it Up (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b36ae268-7613-484a-861e-742a6abc2b54/7991788886-500.jpg" data-tags="ebm" role="button">
 Unter Null - The Failure Epiphany (2005-11-28)
@@ -225,11 +234,11 @@ Spetsnaz - Totalitär (2006-02-06)
 <li data-cover="https://img.discogs.com/K9fWFCbuShoeeTlEtPtcTP9qSaM=/fit-in/600x862/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635343-1570355098-3014.jpeg.jpg" data-tags="industrial, techno, dark electro, ebm, metropolis" role="button">
 Amduscia - From Abuse To Apostasy (2006-03-03)
 </li>
-<li data-cover="https://img.discogs.com/MK3kejTyRY1kKfGV5igAQF0kOzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430114-1219059796.jpeg.jpg" data-tags="ebm, industrial, harsh ebm" role="button">
-Suicide Commando - Bind, Torture, Kill (2006-03-24)
+<li data-cover="http://coverartarchive.org/release/b804f1d7-1465-4070-b73d-975ab8fa7391/27283065120-500.jpg" data-tags="ebm" role="button">
+Faderhead - FH1 (2006-03-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
-theNoLifeKing - Forgotten Landscape (2006-04-12)
+<li data-cover="http://coverartarchive.org/release/68181ffa-720e-3a4d-bd8b-d1e15f337fbb/4215467985-500.jpg" data-tags="electro-industrial" role="button">
+:Wumpscut: - Cannibal Anthem (2006-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d58505d6-8dea-4875-9edc-ee9f48bc0ba4/9067544706-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
 Dioxyde - Social Phobia (2006-04-28)
@@ -237,11 +246,8 @@ Dioxyde - Social Phobia (2006-04-28)
 <li data-cover="http://coverartarchive.org/release/dfa61791-e35a-31c6-9c6d-c6fee31f4e88/8961128077-500.jpg" data-tags="ebm, aggrotech, industrial, dark electro" role="button">
 Tactical Sekt - Syncope (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/6c9b2c65-c976-4f86-84a8-b5774609b362/15848864452-500.jpg" data-tags="dark electro, ebm, industrial" role="button">
-Zombie Girl - Back From the Dead (2006-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c6e82f4-865d-3657-9d65-86737b208aff/2850609992-500.jpg" data-tags="dark electro, ebm, industrial and ebm" role="button">
-Tamtrum - Elektronic Blakc Mess (2006-06-06)
+<li data-cover="http://coverartarchive.org/release/0338b90b-3987-4648-937f-da3353ff8f3a/7024661156-500.jpg" data-tags="ebm, electronic" role="button">
+Nitzer Ebb - Body of Work (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e9cde8-78d8-4390-a5bb-8025feb93807/6069833114-500.jpg" data-tags="ebm, industrial" role="button">
 Front Line Assembly - Artificial Soldier (2006-06-20)
@@ -255,11 +261,11 @@ And One - Bodypop (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/cbad8c1c-500c-3a8e-83ff-7a67e54db5c3/8482057958-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
 Psyclon Nine - Crwn Thy Frnicatr (2006-10-23)
 </li>
-<li data-cover="https://img.discogs.com/ACErB_ZKOLVpb0-ltZfDNNt1Rl4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860156-1166309941.jpeg.jpg" data-tags="dark electro, ebm" role="button">
-FGFC820 - Urban Audio Warfare (2006-11-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/2dd9923d-9e53-3872-8bdf-5dbc1c338df4/23316236628-500.jpg" data-tags="ebm" role="button">
 And One - Frontfeuer (2006-12-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="darklight" role="button">
+Syrian - Alien Nation (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, ebm" role="button">
 Reaper - Hell Starts With An H (2007-02-23)
@@ -279,9 +285,6 @@ Grendel - Harsh Generation (2007-05-04)
 <li data-cover="http://coverartarchive.org/release/12c863f7-1d8f-44ed-b2d9-8a2eb3f1d666/2850124511-500.jpg" data-tags="ebm" role="button">
 Nachtmahr - Kunst ist Krieg (2007-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/94e31574-d3e5-4243-b6f3-b4368a40b160/3729075309-500.jpg" data-tags="industrial, ebm" role="button">
-Alien Vampires - No One Here Gets Out Alive (2007-12-04)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, ebm, fear section" role="button">
 Miss Construction - Kunstprodukt (2008-04-25)
 </li>
@@ -300,25 +303,22 @@ FGFC820 - Law & Ordnance (2008-10-24)
 <li data-cover="http://coverartarchive.org/release/4d682af2-0043-42ab-9560-912eb01dece0/9033319030-500.jpg" data-tags="ebm, industrial" role="button">
 Nitzer Ebb - Industrial Complex (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/68a29d1b-d232-46ab-8def-71072d7ffb3d/9055869577-500.jpg" data-tags="aggrotech" role="button">
-Combichrist - Today We Are All Demons (2009-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc9af258-2d09-41ce-a9ac-b8ce6cc6626c/3728003674-500.jpg" data-tags="electro-industrial, dark electro" role="button">
-Alien Vampires - Fuck Off and Die (2009-01-27)
+<li data-cover="http://coverartarchive.org/release/1504294d-a09b-4efb-b558-96909864f018/12851943809-500.jpg" data-tags="industrial, ebm, rhythmic noise, electro-industrial, techno-industrial" role="button">
+Noisuf-X - Voodoo Ritual (2009-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d866b8b0-6631-4abd-ba23-5613b3de6cc7/2850118768-500.jpg" data-tags="industrial, ebm" role="button">
 Nachtmahr - Alle Lust will Ewigkeit (2009-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/f32f060b-69b4-4420-afc7-f055d94c24c3/4285139417-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
-Unter Null - Moving On (2010-02-18)
-</li>
-<li data-cover="https://img.discogs.com/S8SC0gUDwhU661p27iTCEyN1cS0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2314644-1285127368.jpeg.jpg" data-tags="ebm" role="button">
-Eisenfunk - 8-Bit (2010-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0bec08c-9007-430c-a0a2-7db4af00be50/3227180721-500.jpg" data-tags="electronic, dark electro, ebm" role="button">
 Alien Vampires - Harshlizer (2010-10-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/479c7574-a462-45e2-9349-05de2727a5dd/2850082189-500.jpg" data-tags="industrial, ebm" role="button">
+Nachtmahr - Semper Fidelis (2010-11-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/d07ec8c0-6014-4477-842b-5951db5000d7/13198885335-500.jpg" data-tags="ebm, hard techno, cold wave, 10s, industrial techno, 2012 releases, tribal industrial, drone techno, hospital productions" role="button">
 Silent Servant - Negative Fascination (2012-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e404876-c1d9-4f6c-aafb-3bc8f347c57d/4350742993-500.jpg" data-tags="industrial" role="button">
+Front Line Assembly - Echogenetic (2013-07-09)
 </li>
 </ol>

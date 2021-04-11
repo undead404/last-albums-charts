@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:02:01.475Z
+date: 2021-04-11T15:50:12.617Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -27,14 +27,14 @@ The Velvet Underground - The Velvet Underground & Nico (1967-03)
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/48655cae-cc25-3f11-8b73-a57f3a4d10c1/28351979290-500.jpg" data-tags="no wave, post-punk" role="button">
+Sonic Youth - Sonic Youth (1982-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/da11e4d0-97a2-3365-b510-3a3f05dbd34d/28361039757-500.jpg" data-tags="noise rock, no wave" role="button">
 Sonic Youth - Confusion Is Sex (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/96083093-8407-4c06-81c4-2852a67d8f2e/28131924716-500.jpg" data-tags="noise rock, no wave" role="button">
 Swans - Filth (1983-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/1af7f2cc-2c27-407f-b0a4-28de2ba0512b/27701035373-500.jpg" data-tags="noise rock" role="button">
-Swans - Cop (1984)
 </li>
 <li data-cover="https://img.discogs.com/EWJD-VeCM5bj-nw9YQaElt6Tccs=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11627074-1519812156-1649.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
@@ -54,14 +54,14 @@ Sonic Youth - Sister (1987-06)
 <li data-cover="http://coverartarchive.org/release/661fe0c5-e8e4-47f5-9b51-9558b1e79c8a/14360892612-500.jpg" data-tags="punk, noise rock, post-punk, russian rock" role="button">
 Гражданская оборона - Здорово и вечно (1989-09)
 </li>
+<li data-cover="https://img.discogs.com/riHWUJIlq98Y8rU07tHw_JKTtZk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401088-1308981356.jpeg.jpg" data-tags="post-hardcore, noise rock" role="button">
+Helmet - Strap It On (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/39768213-ed10-4cdb-a516-d8194f3ac3aa/22607601704-500.jpg" data-tags="noise rock, post-hardcore" role="button">
 The Jesus Lizard - Goat (1991-02-21)
-</li>
-<li data-cover="https://img.discogs.com/f4P72BJdO1TNMPqS_VwPszoUmi8=/fit-in/346x343/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7279651-1437892064-9420.jpeg.jpg" data-tags="grunge" role="button">
-Hole - Pretty On The Inside (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)

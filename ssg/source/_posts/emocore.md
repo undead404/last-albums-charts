@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:39:12.564Z
+date: 2021-04-11T15:57:01.584Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
-</li>
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
@@ -56,6 +50,9 @@ A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/00c8baba-8e40-487f-8930-388b80d6d598/15093244820-500.jpg" data-tags="post-hardcore, emocore" role="button">
+From First to Last - Aesthetic (2003-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Artist In The Ambulance (2003-07-22)
@@ -272,6 +269,9 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - This War Is Ours (2008-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/c4d17ca3-4f85-45c0-a13e-471bc88e4ab0/15138359187-500.jpg" data-tags="emocore" role="button">
+Before Their Eyes - The Dawn of My Death (2008-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3d673e-8409-4514-9a89-5b81fd62dbeb/15138422971-500.jpg" data-tags="hardcore" role="button">
 In Fear and Faith - Your World on Fire (2009-01-06)

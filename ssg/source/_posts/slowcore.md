@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:08:01.417Z
+date: 2021-04-11T16:29:01.577Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Low - I Could Live in Hope (1994-02-18)](http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg "Low - I Could Live in Hope (1994-02-18)")
@@ -44,6 +44,9 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/538f4111-b51a-4591-8946-0c54d0acfc68/21727332188-500.jpg" data-tags="slowcore" role="button">
 Idaho - Year After Year (1993-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e1565955-0379-4500-a8b1-b66f14989516/6270023704-500.jpg" data-tags="mpb" role="button">
+Adriana Calcanhotto - A Fábrica Do Poema (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">
 Low - I Could Live in Hope (1994-02-18)
@@ -99,6 +102,9 @@ Lowercase - Kill The Lights (1997-07-08)
 <li data-cover="https://img.discogs.com/SjwUD1XNHukw7e5EOdnD-NHkGrg=/fit-in/292x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567121-1160252283.jpeg.jpg" data-tags="post-rock, ambient pop, slowcore, for rainy days, days and nights, fart psyche" role="button">
 Movietone - Day and night (1997-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/5c421cdd-a264-42cc-9c2d-20ce641ce5f2/16544562812-500.jpg" data-tags="slowcore, ida, indie fava, dr small jukebox, arbeitsmusik, dormindo na praia" role="button">
+Ida - Ten Small Paces (1997-09-30)
+</li>
 <li data-cover="https://img.discogs.com/Qj2Bp4Sls87tqDQiXJQouKbpuGo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433188-1476186558-6219.jpeg.jpg" data-tags="slowcore, drag city, essential" role="button">
 Aerial M - Aerial M (1997-10-14)
 </li>
@@ -131,9 +137,6 @@ Idaho - Hearts of Palm (2000-10-10)
 </li>
 <li data-cover="https://img.discogs.com/9pxgBdip5Ya3hoGyU-pk-B6Nnew=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653402-1545699178-4973.jpeg.jpg" data-tags="post-rock" role="button">
 Karate - Unsolved (2000-10-24)
-</li>
-<li data-cover="https://img.discogs.com/HjBSZWw3w_ElPG3imF7C_uecgN4=/fit-in/300x309/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391372-1107152953.jpg.jpg" data-tags="dream pop" role="button">
-Elysian Fields - Queen Of The Meadow (2000-11-14)
 </li>
 <li data-cover="https://img.discogs.com/pK3aHtmOdKc6UqaOhSZZstRzRWc=/fit-in/242x242/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-267412-1095602715.jpg.jpg" data-tags="alternative rock, post-rock, art rock, slowcore, 00s, awful tags" role="button">
 Giardini di Mirò - Rise and Fall of Academic Drifting (2001)
@@ -183,6 +186,9 @@ The White Birch - Star Is Just A Sun (2002-11-04)
 <li data-cover="https://img.discogs.com/E5_hooWVbZtRFHjLevOh4QK5K9Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493485-1598683609-9129.jpeg.jpg" data-tags="folk, sad, slowcore, kal cahoone, allmusicl, motdmusic, motdsadsongs" role="button">
 Lilium - Short Stories (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c4d2fcd-2578-4b19-875b-8836ecf1f179/2704214622-500.jpg" data-tags="drone" role="button">
+Nadja - Touched (2003-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/6db2ddfe-9035-4df9-ab31-840fcca5e95a/23549258760-500.jpg" data-tags="post-rock" role="button">
 The Appleseed Cast - Two Conversations (2003-07-22)
 </li>
@@ -203,9 +209,6 @@ Savoy Grand - People and What They Want (2005)
 </li>
 <li data-cover="https://img.discogs.com/0GThur_g6hM74IEVlXiLbcwYQsg=/fit-in/598x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392353-1189081930.jpeg.jpg" data-tags="indie" role="button">
 Hood - Outside Closer (2005-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
-Great Lake Swimmers - Bodies And Minds (2005-04-02)
 </li>
 <li data-cover="https://img.discogs.com/rhuLhWEKj-SJ3s-jkPXHpIfRyA4=/fit-in/225x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-684939-1147697356.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
 The White Birch - Come Up for Air (2005-10-31)
@@ -308,9 +311,6 @@ Grouper - The Man Who Died in His Boat (2013-02-04)
 </li>
 <li data-cover="https://img.discogs.com/RhJhV8119ZWepaiJnJEOYRMiau8=/fit-in/600x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4398270-1363816893-3619.jpeg.jpg" data-tags="rock, 10s" role="button">
 Low - The Invisible Way (2013-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ada60215-dcf5-46b2-bf65-b27fda5424b0/13276770308-500.jpg" data-tags="folk" role="button">
-Bill Callahan - Dream River (2013-09-17)
 </li>
 <li data-cover="https://img.discogs.com/XPGZkOo0dCbmKng_cY6_jsb1Cm0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4963579-1396460313-3423.jpeg.jpg" data-tags="dream pop" role="button">
 Mazzy Star - Seasons of Your Day (2013-09-23)

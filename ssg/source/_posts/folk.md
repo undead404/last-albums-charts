@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:56:01.452Z
+date: 2021-04-11T16:35:01.470Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -74,9 +74,6 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
@@ -221,6 +218,9 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/86999218-5d93-4590-80f6-e609ca6ed072/17331772069-500.jpg" data-tags="folk" role="button">
+Bowerbirds - Upper Air (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/vwRgIQHNnlqj393afjcZVPhqPBo=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1940421-1609842441-1085.jpeg.jpg" data-tags="indie, folk" role="button">
 Volcano Choir - Unmap (2009-09-22)

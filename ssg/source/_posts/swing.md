@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:53:01.415Z
+date: 2021-04-11T16:13:01.562Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -168,6 +168,9 @@ Count Basie - April In Paris (2000)
 <li data-cover="https://img.discogs.com/jmafbg0Zr_ed7B7iSaKXOM0NN3g=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15112540-1586835437-3756.jpeg.jpg" data-tags="jazz, swing, big band" role="button">
 Gene Krupa - Drum Boogie (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/66f24de0-86d2-4bc8-b511-a2f8a4a39307/14238650619-500.jpg" data-tags="swing" role="button">
+Lavay Smith & Her Red Hot Skillet Lickers - Everybody's Talkin' 'Bout Miss Thing! (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9796589-5a7b-4ffb-8210-83f1bbb4dcb2/6144898009-500.jpg" data-tags="jazz, louis armstrong" role="button">
 Louis Armstrong - The Ultimate Collection (2000)
 </li>
@@ -206,9 +209,6 @@ Frank Sinatra - That's Life (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/7565f1b4-897b-4f24-a957-55ff8510b842/9711827786-500.jpg" data-tags="jazz, swing, oldies, male vocalists" role="button">
 Dean Martin - Dino: The Essential Dean Martin (2004-01-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz vocal, jazz, swing, only you" role="button">
-Harry Connick, Jr. - Only You (2004-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/207372c6-3348-4245-a8c7-f0900a005996/4358723661-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Come Fly With Me (2004-03-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:05:01.529Z
+date: 2021-04-11T16:28:01.443Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -33,6 +33,9 @@ Dusty Springfield - The Silver Collection (1988)
 <li data-cover="http://coverartarchive.org/release/dbab3550-2635-4f48-a459-8e29fcd48056/26741104951-500.jpg" data-tags="female vocalists, singer-songwriter, folk, acoustic" role="button">
 Tracy Chapman - Crossroads (1989-09-01)
 </li>
+<li data-cover="https://img.discogs.com/dIC2UuyCXY15a2G1ibfeO5akAq8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9475612-1495531003-9009.jpeg.jpg" data-tags="easy to listen to" role="button">
+Vera Lynn - Vera Lynn (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc3092e3-d095-4fcb-85a9-89cbef7c3c74/15352415252-500.jpg" data-tags="country" role="button">
 Mary Chapin Carpenter - Come On Come On (1992-06-30)
 </li>
@@ -44,6 +47,9 @@ Jewel - Pieces of You (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/f2c63797-efe3-46a0-b916-cebc93169eb1/6357010540-500.jpg" data-tags="female vocalists, blues, jazz" role="button">
+Eva Cassidy - Live at Blues Alley (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
@@ -77,9 +83,6 @@ Melanie C - Northern Star (1999-11-22)
 </li>
 <li data-cover="https://img.discogs.com/TzUQGsUxe81laWKs3E86gBGLu2Y=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-311604-1521574096-1758.jpeg.jpg" data-tags="female, hip hop, rap, female artists, debut, 50 cent, female rapper, florida hip-hop" role="button">
 Trina - Da Baddest Bitch (2000-03-21)
-</li>
-<li data-cover="https://img.discogs.com/cWfCD7gEkow118wcDzNNMIEkSPY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417166-1287409663.jpeg.jpg" data-tags="indie rock" role="button">
-Sleater-Kinney - All Hands on the Bad One (2000-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/da042f7f-f022-45de-9fba-70afa470ecde/10415106772-500.jpg" data-tags="female vocalists" role="button">
 Eva Cassidy - Time After Time (2000-06-20)
@@ -128,6 +131,9 @@ Motorcycle - As The Rush Comes (2003-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c293557-1a20-4cf6-80e8-5bb7d7ab4e55/16378712431-500.jpg" data-tags="pop, another day" role="button">
 Lene Marlin - Another Day (2003-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/271bb7d6-533f-437b-abd9-12089c503a8d/13490355838-500.jpg" data-tags="female vocalists" role="button">
+Rachael Yamagata - EP (2003-10-07)
 </li>
 <li data-cover="https://img.discogs.com/O5LxXdNho2lXDt3ioVMXVKH9aD8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2598767-1476194806-3076.jpeg.jpg" data-tags="female, pop, soul, american, male vocalist, 00s, beat, bubblegum, boy" role="button">
 Nick Lachey - Soulo (2003-11-11)
@@ -185,9 +191,6 @@ Julie London - The Very Best Of Julie London (2005-07-01)
 </li>
 <li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
 Hilary Duff - Most Wanted (2005-08-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
-Aly & AJ - Into the Rush (2005-08-16)
 </li>
 <li data-cover="https://img.discogs.com/zmvB4AIt9xAyyf0aizmrnIn0zvE=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520207-1288515935.jpeg.jpg" data-tags="pop" role="button">
 Sugababes - Taller in More Ways (2005-10-10)
@@ -275,9 +278,6 @@ Jessica Mauboy - Been Waiting (2009-03-06)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/851dc621-7b40-32d7-8fa3-9cd10718cfb7/2029543954-500.jpg" data-tags="indie, alternative, 00s" role="button">
-Charlotte Gainsbourg - IRM (2009-12-03)
 </li>
 <li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
 Dum Dum Girls - I Will Be (2010-03-29)

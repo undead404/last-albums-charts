@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:26:12.704Z
+date: 2021-04-11T15:47:01.584Z
 title: "acid rock: 100 albums you must listen to before you die"
 ---
 ![The Jimi Hendrix Experience - Are You Experienced (1967-05-12)](https://img.discogs.com/Vu4jQjQNYVfIU-IOManIkLcna3U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018049-1510345968-8926.jpeg.jpg "The Jimi Hendrix Experience - Are You Experienced (1967-05-12)")
@@ -105,6 +105,9 @@ Bang - Bang (1971)
 <li data-cover="https://img.discogs.com/PT_V4G94blyI8vEwBNdDpWDmzSo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826977-1345967310-7270.jpeg.jpg" data-tags="rock, 70s, progressive rock" role="button">
 Edgar Broughton Band - Edgar Broughton Band (1971)
 </li>
+<li data-cover="http://coverartarchive.org/release/3523e9f3-2fae-42a5-ac04-0453a65d7418/10814617750-500.jpg" data-tags="progressive rock" role="button">
+Fuzzy Duck - Fuzzy Duck (1971)
+</li>
 <li data-cover="https://img.discogs.com/86eQW801nhdY_SGwSBWK1dUSfyM=/fit-in/393x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125568-1305464738.jpeg.jpg" data-tags="classic rock, heavy metal, rock, hard rock, blues-rock, acid rock" role="button">
 Blue Cheer - Oh! Pleasant Hope (1971)
 </li>
@@ -155,6 +158,9 @@ Meat Puppets - Meat Puppets (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8a4a309-f4a6-3674-918b-0470074ffe1e/28124450662-500.jpg" data-tags="psychedelic, classic rock, 60s, hard rock" role="button">
 Vanilla Fudge - The Best of Vanilla Fudge (1982)
+</li>
+<li data-cover="https://img.discogs.com/NgisEsBo7RmUkbA4O2U_jZh_OJA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3465193-1331509991.jpeg.jpg" data-tags="compilation" role="button">
+Cream - Strange Brew: The Very Best of Cream (1983)
 </li>
 <li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
@@ -234,9 +240,6 @@ Colour Haze - Los Sounds De Krauts (2003)
 <li data-cover="http://coverartarchive.org/release/7dc22351-a8db-4b70-baf4-45ecf144087f/19809703359-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - Thieving From The House Of God (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/JA1ZqvlZ47PoCT1YEbt-tKTg9n4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454096-1232889842.jpeg.jpg" data-tags="psychedelic rock, stoner rock" role="button">
-Comets On Fire - Blue Cathedral (2004-07-27)
-</li>
 <li data-cover="https://img.discogs.com/wQuhKafYNuC-F6XvabSNFyQBKmM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-861595-1166471147.gif.jpg" data-tags="stoner rock, space rock, checkitout, acid rock, heavy psych, le fol esquif en vogue" role="button">
 The Psychic Paramount - Gamelan into the Mink Supernatural (2005-07)
 </li>
@@ -269,12 +272,6 @@ Earthless - Rhythms From a Cosmic Sky (2007-05-16)
 </li>
 <li data-cover="https://img.discogs.com/bM_hPrXXYNVYpKdvkCeibnZmmk0=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1142758-1513971160-1348.jpeg.jpg" data-tags="rock, alternative rock, blues, psychedelic, acid rock, acid blues, heroin rock, dulukk, drunk alone, dulukkcore, total spambo, spambo, jpoptrasher loves tags, jpoptrasher likes tagging chelsea wolfe, jpoptrasher, jpoptrasher loves this artist so much, jpoptrasher loves sevdaliza, jpoptrasher loves this, jpoptrasher favorite tag target, jpoptrasher jpoptrasher, jpoptrasher jpoptrasher jpoptrasher, jpoptrasher jpoptrasher jpoptrasher jpoptrasher, jpoptrasher jpoptrasher jpoptrasher jpoptrasher jpoptrasher, jpoptrasher jpoptrasher jpoptrasher jpoptrasher jpoptrasher jpoptrasher jpoptrasher, jpoptrasher loves this artist, jpoptrasher loves tagging this artist over and over again, jpoptrasher loves some tags, jpoptrasher tagged this, jpoptrasher loves king dude, jpoptrasher loves carmen de mairena, jpoptrasher loves diamanda galas, jpoptrasher loves diamanda, jpoptrasher loves tagging diamanda, jpoptrasher loves tagging king dude, jpoptrasher loves tagging sevdaliza, jpoptrashercore, jpoptrasher-core, dulukk loves this artist, dulukk loves tags, dulukk likes tagging chelsea wolfe, dulukk loves this, dulukk favorite tag target, dulukk dulukk, dulukk dulukk dulukk, dulukk dulukk dulukk dulukk, dulukk dulukk dulukk dulukk dulukk, dulukk dulukk dulukk dulukk dulukk dulukk dulukk, dulukk loves tagging this artist over and over again, dulukk loves some tags, dulukk tagged this, dulukk loves king dude, dulukk loves carmen de mairena, dulukk loves diamanda galas, dulukk loves diamanda, dulukk loves tagging diamanda, dulukk loves tagging king dude, dulukk loves sevdaliza, dulukk loves tagging sevdaliza, dulukk loves this artist so much, dulukk-core, lenushiromiya loves this artist, lenushiromiya loves tags, lenushiromiya likes tagging chelsea wolfe, lenushiromiya, lenushiromiya loves this, lenushiromiya favorite tag target, lenushiromiya lenushiromiya, lenushiromiya lenushiromiya lenushiromiya, lenushiromiya lenushiromiya lenushiromiya lenushiromiya, lenushiromiya lenushiromiya lenushiromiya lenushiromiya lenushiromiya, lenushiromiya lenushiromiya lenushiromiya lenushiromiya lenushiromiya lenushiromiya lenushiromiya, lenushiromiya loves tagging this artist over and over again, lenushiromiya loves some tags, lenushiromiya tagged this, lenushiromiya loves king dude, lenushiromiya loves carmen de mairena, lenushiromiya loves diamanda galas, lenushiromiya loves diamanda, lenushiromiya loves tagging diamanda, lenushiromiya loves tagging king dude, lenushiromiya loves sevdaliza, lenushiromiya loves tagging sevdaliza, lenushiromiya loves this artist so much, lenushiromiyacore, lenushiromiya-core, dulukk jpoptrasher lenushiromiya, dulukk and jpoptrasher and lenushiromiya make sweet tag love, contemporary muslim, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, animegirl77 loves this artist, total dulukk and jpoptrasher and animegirl77 spam the fuck out of everything, dulukk and jpoptrasher and animegirl77 spam the fuck out of everything, animegirl77 loves tags, animegirl77 likes tagging chelsea wolfe, animegirl77, animegirl77 loves this" role="button">
 Dax Riggs - We Sing of Only Blood or Love (2007-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d6de74d-49e2-423a-bc8e-3fe44f29be44/2020884313-500.jpg" data-tags="belgium, acid rock, belgica, malachi, pshyco prog" role="button">
-Malachi - Malachi (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/91453d65-9e8f-4d69-acb9-bbcb219615ab/19352007666-500.jpg" data-tags="psychedelic rock" role="button">
-Dead Meadow - Old Growth (2008-02-04)
 </li>
 <li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="space rock, psychedelic rock, acid rock, three lobed" role="button">
 Bardo Pond - Batholith (2008-03)
@@ -317,6 +314,9 @@ Blues Pills - Devil Man (2013-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0483b086-3bc1-4009-98e5-865dce13a213/12338311332-500.jpg" data-tags="hard rock, stoner rock, psychedelic rock" role="button">
 Samsara Blues Experiment - Waiting For The Flood (2013-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2600552-3f6b-497a-b452-18d65c3574cc/11546725708-500.jpg" data-tags="psychedelic rock" role="button">
+Harsh Toke - Light Up And Live (2013-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea3f0a42-68be-49c6-a5fe-81caee0d0080/7659046168-500.jpg" data-tags="psychedelic, ghost box" role="button">
 The Soundcarriers - Entropicalia (2014-05-20)

@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T09:30:01.676Z
+date: 2021-04-11T15:46:01.450Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)</li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">Ryan Adams - Heartbreaker (2000-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">Ryan Adams - Gold (2001-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
@@ -12,7 +13,6 @@ title: "alt-country: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">Wilco - A Ghost is Born (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">Band of Horses - Everything All the Time (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">Band of Horses - Cease to Begin (2007-10-09)</li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">Neko Case - Middle Cyclone (2009-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">Band of Horses - Infinite Arms (2010-05-17)</li>
 </ol>
 List of 100 - under the cut.
@@ -54,6 +54,9 @@ Son Volt - Trace (1995-09-19)
 <li data-cover="http://coverartarchive.org/release/75d92172-7a2f-4a9e-89da-8eca082c25e0/2186095398-500.jpg" data-tags="alt-country" role="button">
 16 Horsepower - Sackcloth 'N' Ashes (1996-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/bf07084c-339b-4ab2-9290-d55410d2cd6e/2686473275-500.jpg" data-tags="alt-country" role="button">
+Cowboy Junkies - Lay It Down (1996-02-27)
+</li>
 <li data-cover="https://img.discogs.com/cMK3nWewwhq4rsy67g2jbnJf8SI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736313-1153473870.jpeg.jpg" data-tags="americana, alt-country" role="button">
 Gillian Welch - Revival (1996-04-09)
 </li>
@@ -83,9 +86,6 @@ Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">
-Beck - Mutations (1998-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
@@ -128,9 +128,6 @@ Neko Case - Blacklisted (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Home (2002-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
 Ryan Adams - Demolition (2002-09-23)
@@ -180,6 +177,9 @@ Marc Broussard - Carencro (2004-08-03)
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/6903fcb9-4359-49d8-ad31-73a97296b710/8722040709-500.jpg" data-tags="country, americana, alt-country, 00s, purchased 09, desert island discs, m gauthier" role="button">
+Mary Gauthier - Mercy Now (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
@@ -198,9 +198,6 @@ Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
-<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
-Sun Kil Moon - Tiny Cities (2005-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ff8d6c1-3d3d-45ca-9912-85374dac43a8/5929512227-500.jpg" data-tags="folk, alt-country, discovered gems, bhplay, and finally the world is okay okay okay and all the burdens fade away" role="button">
 DeYarmond Edison - Silent Signs (2006-02-02)
 </li>
@@ -209,6 +206,9 @@ Rhett Miller - The Believer (2006-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
+</li>
+<li data-cover="https://img.discogs.com/4QzVpu_GvEwZgSwY_OS5phfkCTk=/fit-in/167x167/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3362092-1327361300.jpeg.jpg" data-tags="country" role="button">
+Dixie Chicks - Taking The Long Way (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
@@ -255,9 +255,6 @@ The Rural Alberta Advantage - Hometowns (2008-11-11)
 <li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa7717be-600c-4473-b743-ea86acd9bb6a/16653916812-500.jpg" data-tags="americana, alt-country, these are deserted island possibilities" role="button">
 Justin Townes Earle - Midnight at the Movies (2009-03-03)
 </li>
@@ -275,6 +272,9 @@ Califone - All My Friends Are Funeral Singers (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
 Brown Bird - The Devil Dancing (2009-11-10)
+</li>
+<li data-cover="https://img.discogs.com/k7sFiw09d53EFOJaVj5xO-CkFgo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359640-1429811007-1404.jpeg.jpg" data-tags="rock, americana, alt-country, southern rock" role="button">
+Drive-By Truckers - The Big To-Do (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">
 Phosphorescent - Here's To Taking It Easy (2010-05-10)

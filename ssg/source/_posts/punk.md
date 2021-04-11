@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:37:01.444Z
+date: 2021-04-11T16:03:01.609Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -90,9 +90,6 @@ The Offspring - Smash (1994-03-22)
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
 </li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
-Sublime - Sublime (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/20b3efeb-255a-3fde-8275-401bcf506489/3947787054-500.jpg" data-tags="punk" role="button">
 Rancid - ...And Out Come the Wolves (1995-08-21)
 </li>
@@ -134,6 +131,9 @@ The Offspring - Conspiracy of One (2000-11-01)
 </li>
 <li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
+</li>
+<li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
+Weezer - Weezer (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)

@@ -1,11 +1,10 @@
 ---
-date: 2021-04-11T11:53:01.392Z
+date: 2021-04-11T16:19:01.469Z
 title: "ska: 100 albums you must listen to before you die"
 ---
-![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
+![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">Sublime - 40 Oz. to Freedom (1992)</li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg" data-tags="90s, ska, rock" role="button">No Doubt - Tragic Kingdom (1995-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/c7c20200-53d7-49a0-9133-4259b442ff72/7695999165-500.jpg" data-tags="ska, ska punk" role="button">Reel Big Fish - Turn the Radio Off (1996-08-13)</li>
 <li data-cover="http://coverartarchive.org/release/e58d27fb-e833-4bdf-a742-65c5fc45648a/3374874042-500.jpg" data-tags="ska, ska punk" role="button">The Mighty Mighty Bosstones - Let's Face It (1997-03-11)</li>
@@ -13,6 +12,7 @@ title: "ska: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">No Doubt - Rock Steady (2001-12-11)</li>
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">Streetlight Manifesto - Everything Goes Numb (2003-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
+<li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">The Cat Empire - Two Shoes (2005-09)</li>
 <li data-cover="http://coverartarchive.org/release/f45d8414-31e4-4289-ba5b-12f2ea7bf40a/2233785241-500.jpg" data-tags="ska" role="button">Streetlight Manifesto - Somewhere In The Between (2007-11-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -29,6 +29,9 @@ The Specials - The Specials (1979-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
 The Clash - London Calling (1979-12-14)
+</li>
+<li data-cover="https://img.discogs.com/0FBMxbk9PXfoiT3vkZpJZeuM6_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2636006-1390760256-1416.jpeg.jpg" data-tags="ska" role="button">
+Madness - Absolutely (1980)
 </li>
 <li data-cover="https://img.discogs.com/GZTNxEFdR7Y4ZR0JiuMiR_FvYp0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17882959-1615988212-9837.jpeg.jpg" data-tags="ska, two-tone" role="button">
 The English Beat - I Just Can't Stop It (1980-05-01)
@@ -51,6 +54,9 @@ Sublime - Jah Won't Pay the Bills (1991)
 <li data-cover="http://coverartarchive.org/release/d4a285a0-80ec-489d-86b2-d1666d2d99b0/6124024513-500.jpg" data-tags="ska" role="button">
 The Specials - The Singles Collection (1991-01-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a5c73ca-9819-49dc-baec-bb99573720c8/23134904254-500.jpg" data-tags="punk" role="button">
+Operation Ivy - Operation Ivy (1991-07-01)
+</li>
 <li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
 Sublime - 40 Oz. to Freedom (1992)
 </li>
@@ -68,9 +74,6 @@ Sublime - Robbin' The Hood (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
-</li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
-Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64eb5cf-ec72-3cf7-b3a7-d663583f40b7/4867481081-500.jpg" data-tags="ska" role="button">
 No Doubt - The Beacon Street Collection (1995-03)
@@ -131,9 +134,6 @@ Ska-P - Eurosis (1998-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/65fedf02-2d09-3791-9f05-1f5ef71b3da5/2214272590-500.jpg" data-tags="ska, ska punk" role="button">
 Less Than Jake - Hello Rockview (1998-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/d325a894-2df2-4ed9-9230-dfdf0c54ae24/11450087455-500.jpg" data-tags="rock" role="button">
-Los Hermanos - Los Hermanos (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a42ee49-9dbc-496b-9e2b-3afb10e6f765/11572913083-500.jpg" data-tags="ska" role="button">
 The Selecter - Too Much Pressure (1999)

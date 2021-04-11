@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T06:16:01.554Z
+date: 2021-04-11T15:58:01.598Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
-![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
+![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Exodus (1977)</li>
 <li data-cover="http://coverartarchive.org/release/5930d9d3-a056-44eb-b90c-83692b58dbad/16612832348-500.jpg" data-tags="reggae" role="button">Bob Marley & The Wailers - Uprising (1980-06-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Bob Marley & The Wailers - Legend (1984-05-08)</li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">311 - From Chaos (2001-06-19)</li>
+<li data-cover="http://coverartarchive.org/release/470a6f6b-d9ef-4d0f-9908-3448b1ae5c3a/3727458951-500.jpg" data-tags="reggae" role="button">Ziggy Marley - Dragonfly (2003-04-15)</li>
+<li data-cover="http://coverartarchive.org/release/87f822d6-602c-3e33-9e62-024eacfcf60c/28709837363-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Live at Stubb's (2005-04-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">Rihanna - Music of the Sun (2005-08-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">Matisyahu - Youth (2006)</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">Rihanna - A Girl Like Me (2006-04-19)</li>
-<li data-cover="http://coverartarchive.org/release/d33ebeca-a13c-4974-bcad-85c7211b5455/7515734901-500.jpg" data-tags="pop, reggae, 10s, reggae fusion, albumsiown, reggae beat, nasri, alex tanas, ben spivak, mark pellizzer" role="button">Magic! - Don't Kill the Magic (2014-07-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -129,9 +129,6 @@ Sublime - Robbin' The Hood (1994-02-08)
 <li data-cover="http://coverartarchive.org/release/081410c0-39f9-4c47-bd43-046483200a08/15276429272-500.jpg" data-tags="reggae" role="button">
 Bob Marley - Chant Down Babylon (1995)
 </li>
-<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
-Sublime - Sublime (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
@@ -200,6 +197,9 @@ Seeed - Music Monks (2003-05-12)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Barrington Levy - Here I Come (2004)
 </li>
 <li data-cover="https://img.discogs.com/MSdFRkrA_XBkw_dEiS5f9MTrT4k=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1546079-1301302877.jpeg.jpg" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
@@ -303,6 +303,9 @@ Rebelution - Bright Side Of Life (2009-09-04)
 <li data-cover="https://img.discogs.com/o8A0rfW_oUdwmIi36ut6xctSpg0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040927-1260293089.jpeg.jpg" data-tags="reggae, rnb" role="button">
 Sean Kingston - Tomorrow (2009-09-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef16ebda-54a1-4baf-9965-76834ea5c617/9788761839-500.jpg" data-tags="reggae, time bomb" role="button">
+Iration - Time Bomb (2010-03-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/afb1c604-79da-4470-90b1-940cc2caeee3/15634565229-500.jpg" data-tags="reggae" role="button">
 Nas & Damian Marley - Distant Relatives (2010-05-14)
 </li>
@@ -317,8 +320,5 @@ Sticky Fingers - Caress Your Soul (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbfa5713-c9ce-4077-b826-a1c913b0ca04/12750739359-500.jpg" data-tags="electronic" role="button">
 Empire of the Sun - Alive (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/d33ebeca-a13c-4974-bcad-85c7211b5455/7515734901-500.jpg" data-tags="pop, reggae, 10s, reggae fusion, albumsiown, reggae beat, nasri, alex tanas, ben spivak, mark pellizzer" role="button">
-Magic! - Don't Kill the Magic (2014-07-01)
 </li>
 </ol>

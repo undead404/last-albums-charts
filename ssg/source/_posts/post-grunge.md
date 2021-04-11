@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:29:01.410Z
+date: 2021-04-11T16:07:01.597Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -240,6 +240,9 @@ Papa Roach - The Paramour Sessions (2006-09-08)
 <li data-cover="http://coverartarchive.org/release/4190a5c2-244c-4eb5-908a-7e7df52c0229/7117492217-500.jpg" data-tags="hard rock, post-grunge" role="button">
 Art of Dying - Art of Dying (2006-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/080a8940-dc1a-49f2-b295-d0c15de3b066/12716962971-500.jpg" data-tags="rock" role="button">
+Daughtry - Daughtry (2006-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/1138469b-30b2-4400-acdc-b84340d1b8ad/26393913064-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Switchfoot - Oh! Gravity. (2006-12-26)
 </li>
@@ -272,9 +275,6 @@ Nickelback - Dark Horse (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/667cebee-434f-4c28-8ec6-acd8445174ca/20822579961-500.jpg" data-tags="alternative rock" role="button">
 Sick Puppies - Tri-Polar (2009-07-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
 Three Days Grace - Life Starts Now (2009-09-22)

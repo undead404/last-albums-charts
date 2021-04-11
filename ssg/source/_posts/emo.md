@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:06:01.436Z
+date: 2021-04-11T16:42:01.546Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -126,9 +126,6 @@ Matchbook Romance - Stories and Alibis (2003-09-22)
 <li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
-</li>
 <li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
@@ -158,9 +155,6 @@ Circa Survive - Juturna (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
@@ -249,6 +243,9 @@ Saosin - Saosin (2006-09-26)
 <li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
 Senses Fail - Still Searching (2006-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/53fcfff0-d654-4807-bbf6-1b6411d4e0d6/7900674334-500.jpg" data-tags="indie" role="button">
+Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
@@ -302,6 +299,9 @@ Panic! at the Disco - Vices & Virtues (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/4fe23667-003a-4973-90c3-f267b37f1df3/12797222710-500.jpg" data-tags="emo, indie rock, pop punk, indie punk, less than 40 minutes" role="button">
+Modern Baseball - Sports (2012-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)

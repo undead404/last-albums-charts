@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:10:03.003Z
+date: 2021-04-11T15:52:01.461Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -96,6 +96,9 @@ Earth, Wind & Fire - I Am (1979-07-16)
 <li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">
 Michael Jackson - Off the Wall (1979-08-10)
 </li>
+<li data-cover="https://img.discogs.com/g5NiQI_ScwITNe_KxdnHWxVPNTg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971744-1304973211.jpeg.jpg" data-tags="disco, funk" role="button">
+Kool & The Gang - Celebrate! (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/281e42d6-389e-4224-9bc6-84220a62d50f/13390957803-500.jpg" data-tags="funk" role="button">
 Prince - Dirty Mind (1980)
 </li>
@@ -107,9 +110,6 @@ Prince - 1999 (1982-10-27)
 </li>
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
-</li>
-<li data-cover="https://img.discogs.com/zXSwQGG7BZaDYqJp4Iz2ZTB_AQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14660088-1579104041-8146.jpeg.jpg" data-tags="80s, pop" role="button">
-Prince & The Revolution - Purple Rain (1984-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
@@ -180,9 +180,6 @@ Red Hot Chili Peppers - Californication (1999-06-07)
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
-Beck - Midnite Vultures (1999-11-20)
-</li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
@@ -206,6 +203,9 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
+Supergrass - Road to Rouen (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)

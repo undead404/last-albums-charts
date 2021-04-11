@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:40:01.723Z
+date: 2021-04-11T15:56:01.571Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -96,9 +96,6 @@ The Beatles - Rock and Roll Music (1976-06-07)
 <li data-cover="https://img.discogs.com/iIKo5OW8lNAUNYIVv-bA_8-3p0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490562-1286894295.jpeg.jpg" data-tags="classic rock, 70s, rock" role="button">
 George Harrison - The Best of George Harrison (1976-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/b502effe-ef3d-4503-b858-59825cdf9f8d/18232281453-500.jpg" data-tags="love songs, the beatles" role="button">
-The Beatles - Love Songs (1977-11-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5ef6cd9-d078-4435-b005-2f4ee6d44d61/1507872034-500.jpg" data-tags="rock" role="button">
 The Beatles - The Beatles (1978)
 </li>
@@ -116,9 +113,6 @@ The Beau Brummels - Best of 1964 - 1968 (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a55b15a-4a17-42f8-a1a7-3abc039fd33e/1335927511-500.jpg" data-tags="pop, rock, 80s" role="button">
 The Beatles - 20 Greatest Hits (1982-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/684b7379-d402-4443-ac13-ab951d3382dc/15397114402-500.jpg" data-tags="classic rock, rock" role="button">
-John Lennon & Yoko Ono - Milk and Honey (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/9554aba4-85fd-42eb-a4df-fe9ebc71ebfb/4682090790-500.jpg" data-tags="beatles, the beatles" role="button">
 Julian Lennon - Valotte (1984)
@@ -161,6 +155,9 @@ The Beatles - No. 3 Abbey Road NW8 (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/79d8e517-2f2f-42f9-a52f-f7538a8654ae/20231494615-500.jpg" data-tags="classic rock, beatles, the beatles, stonedbeat, work it, essehof, fridabeatles" role="button">
 The Beatles - Golden Beatles (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/7058361b-d47d-4807-af8b-d29c13d49c16/1517513624-500.jpg" data-tags="the beatles, bootleg" role="button">
+The Beatles - The Lost Pepperland Reel: And Other Rarities (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/68444a87-8728-4d15-83a9-ba381829681b/4760159562-500.jpg" data-tags="rock, 60s, classic rock, british, beatles" role="button">
 The Beatles - Live at the BBC (1994-11-30)
@@ -231,6 +228,9 @@ David Poe - The Late Album (2002-07-30)
 <li data-cover="https://img.discogs.com/swRhBbRUEtCyCX0pNSPw07Xe3v4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-544680-1574204290-9076.jpeg.jpg" data-tags="dungen" role="button">
 Dungen - Stadsvandringar (2002-10-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - Deleted Scenes (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6393124-1304-44f8-8883-dbc351c4d050/28138817016-500.jpg" data-tags="beatles cover song" role="button">
 Peter Lipa - Beatles in Blue(s) (2003-03-07)
 </li>
@@ -285,9 +285,6 @@ Ringo Starr - Liverpool 8 (2008-01-14)
 <li data-cover="http://coverartarchive.org/release/da7a76a3-331d-4447-ab2f-4d686ae6a8f0/5165829371-500.jpg" data-tags="arctic monkeys, radiohead, the beatles, neil young, tom waits, will oldham, snow patrol, nick drake, jefferson airplane, the bees, joanna newsom, the doors, bon iver, fleet foxes, deus, calexico, the, ron sexsmith, yo la tengo, andrew bird, spirit, howe gelb, zita swoon, the stones, moke, de staat, alamo race track, daryll-ann" role="button">
 PAULUSMA - iRECORD (2008-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/75047fd6-d3a3-4fca-9fbe-42072cff4286/7567861972-500.jpg" data-tags="the beatles, the shins, beck, foo fighters, nirvana, elliott smith, belle and sebastian, white stripes, supergrass, iron and wine, the hidden cameras, johnossi, artic monkeys:, pavement:" role="button">
-Jens Wennberg - Welcome to 1984 (2008-12-09)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
 worrywort - The Orphanage (2009)
 </li>
@@ -303,11 +300,11 @@ DeepSeaGreen - DeepSeaGreen (2010-02-01)
 <li data-cover="http://coverartarchive.org/release/fa147128-b07d-45d9-8e04-533b82c8b32c/3610794026-500.jpg" data-tags="hip-hop, rap, american, remix, wonderwall, mash-up, the beatles, bloc party, oasis, silver, mercy, brit pop, duffy, cruise control, adele, crazy chick, lonely people, hometown glory, bk cyph, elanor rigby, incomparable shakespeare" role="button">
 The Incomparable Shakespeare - The British Invasion (2010-02-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - Suburban Dream (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/37901497-832a-4031-9398-26baf6c80ed9/24223358402-500.jpg" data-tags="60s, british invasion" role="button">
 The Red Button - As Far As Yesterday Goes (2011-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6449ec2-b1ef-4f3a-b4d6-b375e5341911/24792682411-500.jpg" data-tags="rock" role="button">
-Zé Ramalho - Zé Ramalho canta Beatles (2011-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0b20aa8-206f-4ebd-8553-329b37848ab2/8320859136-500.jpg" data-tags="70s, george harrison, classic rock" role="button">
 George Harrison - Living in the Material World (2011-10-10)
@@ -317,6 +314,9 @@ Ringo Starr - Ringo 2012 (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a5e62ca-df58-472f-9cd9-5c6f6492ee7a/11401418543-500.jpg" data-tags="the beatles, demo, previously unreleased, posthumous" role="button">
 The Beatles - The Beatles Bootleg Recordings 1963 (2013-12-17)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
+The Beatles - Beatlesmania (2015-11-06)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - The Best Of The Beatles (2015-11-06)

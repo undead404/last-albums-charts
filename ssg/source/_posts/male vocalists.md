@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:04:01.422Z
+date: 2021-04-11T16:21:01.447Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -30,9 +30,6 @@ Steely Dan - Can't Buy A Thrill (1972-10)
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
-Beck - Mellow Gold (1994-03-01)
-</li>
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
@@ -48,9 +45,6 @@ Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
-Beck - Midnite Vultures (1999-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c5a0ce8-8442-41f6-bf38-254368abbac2/6773807384-500.jpg" data-tags="pop, male vocalists, spiderman theme" role="button">
 Michael Bublé - BaBalu (2001)
 </li>
@@ -59,9 +53,6 @@ Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
@@ -96,9 +87,6 @@ Brian McFadden - Irish Son (2004-11-22)
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
-Dave Matthews Band - Stand Up (2005-05-09)
-</li>
 <li data-cover="https://img.discogs.com/Dx5rsoFOygBx8nPxKW8Sq5ev6N0=/fit-in/392x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1777368-1242662992.jpeg.jpg" data-tags="rock, japanese, industrial, asian, male vocalists, 00s, industrial metal, j-rock, spookycore" role="button">
 D'espairsRay - [Coll:set] (2005-06-15)
 </li>
@@ -132,11 +120,11 @@ Five for Fighting - Two Lights (2006-08-01)
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
+John Legend - Once Again (2006-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/b77ca237-741f-4880-92c4-1cef1613281a/20738445332-500.jpg" data-tags="george michael, pop, soul" role="button">
-George Michael - Twenty Five (2006-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
 Incubus - Light Grenades (2006-11-22)
@@ -156,6 +144,9 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/630689d2-51b1-4ec3-adf8-55dd9fc2acd3/2584750789-500.jpg" data-tags="hip-hop, chill out" role="button">
+Asher Roth - I Love College (2008)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
 </li>
@@ -168,8 +159,14 @@ City and Colour - Bring Me Your Love (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
+<li data-cover="https://img.discogs.com/2ekcBuMG8g0xgx_m-NVExDI31-w=/fit-in/491x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2575678-1386862288-2838.jpeg.jpg" data-tags="the script" role="button">
+The Script - The Man Who Can't Be Moved (2008-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/25d512f0-ecd2-3392-9eb5-aa58f3e0a5d1/20119494601-500.jpg" data-tags="rock, britpop" role="button">
+The Verve - Forth (2008-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
@@ -219,8 +216,8 @@ Wakey!Wakey! - Almost Everything I Wish I'd Said The Last Time I Saw You... (201
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
-B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
+<li data-cover="http://coverartarchive.org/release/4f6b6a4d-36d4-472d-bdf0-f912bb2c1cbd/9103084649-500.jpg" data-tags="alternative rock, usa, american, male vocalists, americain, jacob" role="button">
+Plain White T's - Rhythm Of Love (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg" data-tags="indie, male vocalists" role="button">
 Brandon Flowers - Flamingo (2010-09-03)
@@ -281,6 +278,9 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e341286-7e77-435b-9b45-c7dc2d598286/12778056525-500.jpg" data-tags="electronic, indie, pop, alternative, singer-songwriter, mpb, synthpop, brazilian, male vocalists, hairy chest, otter, discos 2013" role="button">
+Silva - Claridão (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">
 Olly Murs - Right Place Right Time (2012-11-26)

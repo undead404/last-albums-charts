@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:16:06.887Z
+date: 2021-04-11T16:12:01.589Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -192,9 +192,6 @@ Flanger - Midnight Sound (2000-10-06)
 <li data-cover="https://img.discogs.com/z7rCCW7t85DLtI8TRJl71SFhm7c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8792422-1468866017-4258.jpeg.jpg" data-tags="funk, house, acid jazz, jamiroquai" role="button">
 Jamiroquai - Love Foolosophy (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a2c2771-4dad-422c-b117-df172c72a61b/8125856782-500.jpg" data-tags="acid jazz" role="button">
-Marc Moulin - Top Secret (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
 </li>
@@ -213,6 +210,9 @@ Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/b0e6393b-af67-3767-9f48-4284e5728d04/23417424437-500.jpg" data-tags="tango" role="button">
 Gotan Project - La Revancha Del Tango (2001-10-22)
 </li>
+<li data-cover="https://img.discogs.com/gPtnQFxTOGFAZbC8df4rOsy1Pno=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57004-1283470108.jpeg.jpg" data-tags="acid jazz, check it out later, awesome chillout" role="button">
+Deadly Avenger - Deep Red (2002)
+</li>
 <li data-cover="https://img.discogs.com/QwgcaRR6rmAIuW7HlkcwBxFOJBk=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257316-1105728768.jpg.jpg" data-tags="acid jazz, uutta jazzia, acid lounge, lounge groove, smooth lounge, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, downtempo lounge, acoustic groove, chillout downtempo, electrocool, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, electropcool, ouahhhhh, tropcool, lounge vibe, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, served chilled, sexy sounding, 1st vine acid, acid jazz vibe, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, down-tempo vibe, downtempo vibe, future jazz vibe, jazzy down tempo vibe, jazzy down-tempo vibe, jazzy downtempo vibe, lounge jazz vibe" role="button">
 Loopless - Loopless (2002)
 </li>
@@ -230,9 +230,6 @@ Gabin - Gabin (2002-11-05)
 </li>
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/9905699f-1b5b-4252-9b88-337b0c75b34b/27129224684-500.jpg" data-tags="jazz, acid jazz, lounge, j-jazz, cosy, chillout, jazzy, jazz pop, japanese jazz, easy listening, jazz fusion, japanese city pop, city pop" role="button">
-Round Table featuring Nino - April (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab3fefde-9617-4d57-9a8e-9e17fa8ede97/8468315713-500.jpg" data-tags="acid jazz" role="button">
 Praful - One day deep (2003-07-15)
@@ -308,6 +305,9 @@ Los Amigos Invisibles - Commercial (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e311d8e-876e-4b3d-a8cb-a5af3447842d/7392995216-500.jpg" data-tags="jazz-funk, acid jazz, neo-soul, french hip hop, jazz rap, conscious hip hop, french hip-hop" role="button">
 Hocus Pocus - 16 pièces (2010-03-15)
+</li>
+<li data-cover="https://img.discogs.com/gGj42qXYmtUu2KfQF7l6vL5tTLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768244-1327121549.jpeg.jpg" data-tags="funky, ninja tune" role="button">
+Wagon Christ - Toomorrow (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:51:01.442Z
+date: 2021-04-11T16:10:01.438Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -96,9 +96,6 @@ Ween - The Mollusk (1997-06-24)
 <li data-cover="http://coverartarchive.org/release/fbbf15dd-6faf-4ef4-ae10-a0ae7c4acf23/5720775144-500.jpg" data-tags="rock" role="button">
 Smash Mouth - Fush Yu Mang (1997-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/62def2bf-bb1c-4164-9b45-a08084845fcb/28727936263-500.jpg" data-tags="indie pop, twee pop, lo-fi, neo-psychedelia" role="button">
-of Montreal - Cherry Peel (1997-08-19)
-</li>
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
 </li>
@@ -107,6 +104,9 @@ Stereolab - Dots and Loops (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1676b3b-6430-4aeb-b818-f5c971dc5d3d/1782561221-500.jpg" data-tags="french, chanson française, serge gainsbourg" role="button">
+Serge Gainsbourg - Initials SG (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/7df9285c-a82d-4583-a7d9-98d83e22e09f/23645615845-500.jpg" data-tags="british i like, gdchills00s" role="button">
 The Bees - Sunshine Hit Me (2002-03-25)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:38:12.584Z
+date: 2021-04-11T15:53:01.401Z
 title: "technical death metal: 100 albums you must listen to before you die"
 ---
 ![Death - Symbolic (1995-03-21)](http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg "Death - Symbolic (1995-03-21)")

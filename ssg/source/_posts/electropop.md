@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:09:01.430Z
+date: 2021-04-11T16:33:01.638Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -35,9 +35,6 @@ Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
-The Presets - Beams (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/PjmlRvRhOludN9TU2ttaSQLg104=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656724-1148757680.jpeg.jpg" data-tags="electronic" role="button">
 Hot Chip - The Warning (2006-05-22)
@@ -89,9 +86,6 @@ Kleerup - Kleerup (2008-05-21)
 </li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/584f51e9-9042-4913-8496-22af8a613d69/1119760639-500.jpg" data-tags="electronic" role="button">
-3OH!3 - Want (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
 Lady Gaga - The Fame (2008-08-19)
@@ -198,6 +192,9 @@ Sky Ferreira - One (2010-08-23)
 <li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
 Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
+<li data-cover="https://img.discogs.com/ylFMbCSfzCE06ALM-NIdCBBndBQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2674841-1299796440.jpeg.jpg" data-tags="electropop" role="button">
+Austra - Beat And The Pulse (2010-11-16)
+</li>
 <li data-cover="https://img.discogs.com/V-w5rL3u3C2DbLuqGxZy-IDxZ3Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559604-1341268022-7993.jpeg.jpg" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
 Tove Styrke - Tove Styrke (2010-11-17)
 </li>
@@ -281,6 +278,9 @@ BROODS - BROODS (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
 NONONO - Pumpin Blood (2013-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/90ca45b3-8665-4b03-823b-1b58681545f8/22019815370-500.jpg" data-tags="electropop" role="button">
+Lorde - Tennis Court EP (2013-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/542f5e53-479f-4581-88b7-93cd05ab489d/4263718745-500.jpg" data-tags="electronic, electropop" role="button">
 Austra - Olympia (2013-06-17)
