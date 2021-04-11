@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:27:01.435Z
+date: 2021-04-11T05:06:01.403Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -47,9 +47,6 @@ Dishwalla - Counting Blue Cars (1996-02-27)
 </li>
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
-Failure - Fantastic Planet (1996-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/26374035-ce6e-4eb9-a78e-69f313319f04/2192507364-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Nickelback - Curb (1996-09)
@@ -113,6 +110,9 @@ Third Eye Blind - Blue (1999-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
 3 Doors Down - The Better Life (2000-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
+Vertical Horizon - Everything You Want (2000-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)

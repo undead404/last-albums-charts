@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:32:01.408Z
+date: 2021-04-11T04:53:01.415Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -24,14 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/6852857f-c2d6-426c-8910-912a9e956da2/3098412625-500.jpg" data-tags="christmas" role="button">
 Frank Sinatra - Christmas Songs By Sinatra (1948)
 </li>
-<li data-cover="http://coverartarchive.org/release/61ff3a88-47b6-40a0-bb21-13e6e5dec1ee/6121488674-500.jpg" data-tags="swing, vocal jazz, sinatra" role="button">
-Frank Sinatra - Songs for Young Lovers (1954)
-</li>
 <li data-cover="http://coverartarchive.org/release/881f621c-618c-48da-80a8-50380996fe15/18485861293-500.jpg" data-tags="jazz, vocal jazz, 50s" role="button">
 Frank Sinatra - In the Wee Small Hours (1955-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad745ba9-c885-44d4-ab4f-07e77ac316b1/28699341657-500.jpg" data-tags="swing, jazz" role="button">
-Frank Sinatra - Songs for Swingin' Lovers (1956-03)
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, 50s" role="button">
+Louis Prima - The Wildest! (1956-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bdbcc97-2eb5-434b-b948-91948980fc7f/28699328455-500.jpg" data-tags="jazz" role="button">
 Frank Sinatra - A Swingin' Affair! (1957)
@@ -48,14 +45,14 @@ Dean Martin - A Winter Romance (1959-11-16)
 <li data-cover="https://img.discogs.com/mW96bYRDAyNjKpt3v9SPCOxZIIk=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5200375-1387277094-4316.jpeg.jpg" data-tags="swing, big band" role="button">
 Benny Goodman - Sing, Sing, Sing (1960)
 </li>
-<li data-cover="http://coverartarchive.org/release/39d33fdb-d710-33e6-ac98-5d401828cee6/16705596421-500.jpg" data-tags="jazz" role="button">
-Oliver Nelson - The Blues and the Abstract Truth (1961)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4cbf677-b64b-3b86-aa81-503ab08aee9a/28795990063-500.jpg" data-tags="bing crosby" role="button">
 Bing Crosby - Swinging On A Star (1962)
 </li>
 <li data-cover="http://coverartarchive.org/release/61ffc81b-5ff8-492e-bec2-1efc8de357c6/14455314213-500.jpg" data-tags="jazz" role="button">
 The Oscar Peterson Trio - Night Train (1963)
+</li>
+<li data-cover="https://img.discogs.com/bMvJmpLTFAYXWeYBGPfDNvFUNQ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420885-1330120174.jpeg.jpg" data-tags="jazz, sinatra" role="button">
+Frank Sinatra - Classic Sinatra (1964)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1a2bea2-6215-400c-925b-ddf54cb5bb5f/24108224365-500.jpg" data-tags="vocal jazz, swing" role="button">
 Frank Sinatra & Count Basie - It Might as Well Be Swing (1964-06-09)
@@ -78,9 +75,6 @@ The Andrews Sisters - Boogie Woogie Bugle Boy (1973)
 <li data-cover="https://img.discogs.com/s3x16GsK41wxy2uK0LrVoeA7-ok=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6872316-1488770804-6852.jpeg.jpg" data-tags="jazz, easy listening, blues, lounge, swing" role="button">
 Frank Sinatra - Ol' Blue Eyes Is Back (1973-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Joe Jackson - Jumpin' Jive (1981)
-</li>
 <li data-cover="https://img.discogs.com/xhxL8u62seqjFwGMhQO-IAA9xDU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14918229-1584108958-8915.jpeg.jpg" data-tags="jazz, 60s, swing, 50s, weallgetold, bobs fav" role="button">
 Bobby Darin - The Ultimate Bobby Darin (1986-10-09)
 </li>
@@ -92,6 +86,9 @@ Louis Armstrong - What A Wonderful World (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd7ae83b-2bca-4d50-9698-0a74922a8464/22519462677-500.jpg" data-tags="jazz" role="button">
 Ella Fitzgerald & Louis Armstrong - Ella & Louis (1989)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rosemary clooney, good girls" role="button">
+Rosemary Clooney - 16 Most Requested Songs (1989-07-26)
 </li>
 <li data-cover="https://img.discogs.com/yWtLu-GTGSWVSSv9CkT7MlckLH4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3617460-1337680938-9367.jpeg.jpg" data-tags="swing, jazz" role="button">
 Benny Goodman - Sometimes I'm Happy (1990)
@@ -147,20 +144,14 @@ Jack Jones - New Jack Swing (1997)
 <li data-cover="https://img.discogs.com/s3x16GsK41wxy2uK0LrVoeA7-ok=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6872316-1488770804-6852.jpeg.jpg" data-tags="jazz, swing, big band" role="button">
 Frank Sinatra - New York, New York (1997-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a22441aa-e534-4c96-ae97-06e4a5a97c48/18272869082-500.jpg" data-tags="swing" role="button">
-Cherry Poppin' Daddies - Zoot Suit Riot (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b8fc2e6-14da-40b9-a408-bbc81bc2f5b2/6393758818-500.jpg" data-tags="swing, big band, rockabilly" role="button">
-The Brian Setzer Orchestra - The Dirty Boogie (1998-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e890d096-262f-434b-a4ab-78d673b9cc53/5090250013-500.jpg" data-tags="swing" role="button">
-Squirrel Nut Zippers - Perennial Favorites (1998-08-04)
-</li>
 <li data-cover="https://img.discogs.com/8IVyiYTc8HAKo-ip6awpjg1zk68=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9315924-1478458143-7728.jpeg.jpg" data-tags="romantic, swing" role="button">
 Dean Martin - That's Amore (1998-09-17)
 </li>
 <li data-cover="https://img.discogs.com/RYGJjW5aog_holMW4SBruATzOMc=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10060842-1490945249-2173.jpeg.jpg" data-tags="dean martin" role="button">
 Dean Martin - The Very Best of Dean Martin (1998-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e1700de-dccc-487d-a92c-c882dcfed7f1/12607464487-500.jpg" data-tags="swing" role="button">
+Big Bad Voodoo Daddy - Americana Deluxe (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/_L2QY4tS_hwFjRS8mVxSJGTngi0=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509451-1419137610-9522.jpeg.jpg" data-tags="jazz" role="button">
 Harry Connick, Jr. - Come By Me (1999-06-01)
@@ -170,6 +161,9 @@ Big Bad Voodoo Daddy - This Beautiful Life (1999-10-19)
 </li>
 <li data-cover="https://img.discogs.com/z_0RHE1L0DvIniK-za1Rm_9O9IY=/fit-in/232x231/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538556-1226937484.jpeg.jpg" data-tags="jazz, nat king cole sings the ultimate love songs" role="button">
 Nat King Cole - The Ultimate Collection (1999-11-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, big band" role="button">
+Count Basie - April In Paris (2000)
 </li>
 <li data-cover="https://img.discogs.com/jmafbg0Zr_ed7B7iSaKXOM0NN3g=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15112540-1586835437-3756.jpeg.jpg" data-tags="jazz, swing, big band" role="button">
 Gene Krupa - Drum Boogie (2000)
@@ -219,6 +213,9 @@ Harry Connick, Jr. - Only You (2004-02-03)
 <li data-cover="http://coverartarchive.org/release/207372c6-3348-4245-a8c7-f0900a005996/4358723661-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Come Fly With Me (2004-03-30)
 </li>
+<li data-cover="https://img.discogs.com/zIXSjbx4R_VyAo8P2brTk9k5SM4=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5917260-1406280944-8395.jpeg.jpg" data-tags="jazz" role="button">
+Wes Montgomery - The Incredible Jazz Guitar of Wes Montgomery (2004-04-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, jazz guitar" role="button">
 Django Reinhardt - The Best Of Django Reinhardt (2005)
 </li>
@@ -230,6 +227,9 @@ Nat King Cole - The World of Nat King Cole (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6b02e4f-6081-486a-a47d-b2e58a1821e6/9545106519-500.jpg" data-tags="jazz, latin, swing, female vocals" role="button">
+Chiara Civello - Last Quarter Moon (2005-02-15)
 </li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:22:07.045Z
+date: 2021-04-11T05:21:01.413Z
 title: "surf rock: 100 albums you must listen to before you die"
 ---
 ![Beach Fossils - Beach Fossils (2010-05-25)](http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg "Beach Fossils - Beach Fossils (2010-05-25)")
@@ -30,6 +30,9 @@ The Tornadoes - Bustin' Surfboards (1963)
 <li data-cover="https://img.discogs.com/2-Aoh7K4FE2nUMFef7fcU5a6oIs=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6487567-1514485074-1970.jpeg.jpg" data-tags="surf rock" role="button">
 The Chantays - Pipeline (1963)
 </li>
+<li data-cover="http://coverartarchive.org/release/fbb80136-8973-4f2b-b3c5-eada009e9c06/24528744592-500.jpg" data-tags="surf, rock n roll, surf rock, guitar virtuoso, rock'n'roll, bl00d7 m4r7" role="button">
+The Chantays - Two Sides Of The Chantays (1963)
+</li>
 <li data-cover="http://coverartarchive.org/release/5daacb44-12e5-42ea-9308-76fcb9a78312/7032503725-500.jpg" data-tags="surf rock" role="button">
 The Beach Boys - Surfin' USA (1963-03-25)
 </li>
@@ -56,9 +59,6 @@ Warren Zevon - Excitable Boy (1978)
 </li>
 <li data-cover="https://img.discogs.com/R-nD4hx9hRNSIPhu0VdsnStH4OQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521427-1366984642-3770.jpeg.jpg" data-tags="powerpop, loved album" role="button">
 The Boomtown Rats - A Tonic For The Troops (1978-06)
-</li>
-<li data-cover="https://img.discogs.com/tRFv_eMjwKjsj_P2t3t_hMjVMWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3745788-1464558373-3751.jpeg.jpg" data-tags="rock, classic rock" role="button">
-George Harrison - George Harrison (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
@@ -96,11 +96,8 @@ Mark Lanegan - The Winding Sheet (1990-05-01)
 <li data-cover="https://img.discogs.com/Y0mSAUFYU1DUgnAyW_Le_XvAiAs=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817686-1476844565-1240.jpeg.jpg" data-tags="rock, 90s, rock-protopunk, albums 2008" role="button">
 Bob Mould - Black Sheets Of Rain (1990-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f10a7d7-2dd9-380d-b13a-60e2ae0eef9c/21311200020-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Bossanova (1990-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/856a9660-eeb3-4088-837d-79f8ad094463/3128706063-500.jpg" data-tags="classic rock, rock" role="button">
-Thin Lizzy - Dedication (1991)
+<li data-cover="https://img.discogs.com/iHrNXK7cOmqDixniq2A2LcagNXQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646449-1247598711.jpeg.jpg" data-tags="classic rock, metal, rock, punk, new wave, psychedelic, garage rock, glam rock, powerpop, surf rock, chameleon, proto punk, rock-protopunk, mojo 1000, rx, iveldie albums, bilititas, mojo 1000 rock, objectum-sexualis, pottery wordz, nichopoulooza, os group, rousse" role="button">
+The Only Ones - The Immortal Story (1992)
 </li>
 <li data-cover="https://img.discogs.com/IOFAQTXKK5AoWdLu2z80i8-K6xI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1570527-1466954533-9862.jpeg.jpg" data-tags="rock" role="button">
 Mark Lanegan - Whiskey for the Holy Ghost (1993)
@@ -110,6 +107,9 @@ Matthew Sweet - Altered Beast (1993-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1933de01-235c-4252-8acc-20bafbee6f23/16217895857-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Destroy all Astromen! (1994)
+</li>
+<li data-cover="https://img.discogs.com/QTlSnmyBt5DarOZE1Es0Tn_JJZw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557639-1290345389.jpeg.jpg" data-tags="japanese" role="button">
+The 5.6.7.8's - The 5.6.7.8's (1994)
 </li>
 <li data-cover="https://img.discogs.com/0lt0VPynj-LOuYonLu-nUk0mr3Y=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1190936-1342893999-8971.jpeg.jpg" data-tags="surf, surf rock, merkliste" role="button">
 Man or Astro-Man? - Your Weight On The Moon (1994-08-15)
@@ -126,8 +126,8 @@ Guided by Voices - Alien Lanes (1995-04-04)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ee6b6b1-fe79-4935-b229-50f64b87cb17/7786670567-500.jpg" data-tags="4ad" role="button">
-The Amps - Pacer (1995-10-31)
+<li data-cover="https://img.discogs.com/RcjewPXbgl6Dp7p7xmODjHS8RiQ=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11052324-1508954921-5731.jpeg.jpg" data-tags="80s, post-punk, gothic, darkwave, surf rock, gothic rock, music i tried but didnt like" role="button">
+And Also The Trees - Angelfish (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4875569-4a90-4e84-92a4-fe588c2e7af4/10047599054-500.jpg" data-tags="instrumental rock, surf rock, jazz-pop" role="button">
 The Marketts - Out of Limits! (1996)
@@ -135,17 +135,14 @@ The Marketts - Out of Limits! (1996)
 <li data-cover="http://coverartarchive.org/release/20532932-c1f1-4c78-9127-4d8cdc5ad7b4/10425417412-500.jpg" data-tags="instrumental, surf, surf rock" role="button">
 Man or Astro-Man? - Experiment Zero (1996-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/14992fdd-b7c2-321f-a6eb-492776e765e7/20895447487-500.jpg" data-tags="rock, power pop" role="button">
-Fountains of Wayne - Fountains of Wayne (1996-10-01)
+<li data-cover="http://coverartarchive.org/release/9d5af185-00b2-4c2a-8b6b-334bd098b910/28890692101-500.jpg" data-tags="surf, surf rock" role="button">
+Laika & The Cosmonauts - Absurdistan (1997)
 </li>
 <li data-cover="https://img.discogs.com/CDmrFOv2u2wj_rw_DHJiP9ZsPWs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14653847-1579014090-4769.jpeg.jpg" data-tags="surf" role="button">
 Dick Dale - The Best of Dick Dale & His Del-tones (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40182fc-6a84-42bd-8957-49a170ef29f7/9635208921-500.jpg" data-tags="classic rock, metal, rock, punk, power pop, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, proto punk, zoo, rock-protopunk" role="button">
 Matthew Sweet - Blue Sky On Mars (1997-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Death to the Pixies (1997-10-06)
 </li>
 <li data-cover="https://img.discogs.com/Dbynx4lWCcOI8sdVFzhDgTNzGx0=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503660-1583953406-6793.jpeg.jpg" data-tags="surf rock, surf" role="button">
 The Surfaris - Surfers Rule (1998)
@@ -281,6 +278,9 @@ Girls Names - Dead To Me (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
+</li>
+<li data-cover="https://img.discogs.com/HmgLLpLkygTl-oHjG_R6LwXE2zI=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3400276-1329066356.jpeg.jpg" data-tags="surf, noise rock, shoegaze, surf rock, surfgaze" role="button">
+Odonis Odonis - Hollandaze (2011-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)

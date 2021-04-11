@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:50:01.396Z
+date: 2021-04-11T05:45:01.638Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -66,9 +66,6 @@ Killing Joke - Pandemonium (1994-04-21)
 <li data-cover="http://coverartarchive.org/release/6f4e2d84-d4af-3930-adb8-ea906db4e0e0/10149859243-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Closer to God (1994-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/81fb8d37-226c-4126-b6b3-1f73b611dd72/11196962512-500.jpg" data-tags="industrial metal, alternative metal" role="button">
-Marilyn Manson - Portrait Of An American Family (1994-07-19)
-</li>
 <li data-cover="https://img.discogs.com/OBBZWF2KC7E-M6Xy5f3ZJJnTIvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1456561-1221091527.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Nihil (1995-04-03)
 </li>
@@ -77,9 +74,6 @@ Filter - Short Bus (1995-04-25)
 </li>
 <li data-cover="https://img.discogs.com/dT23prXyJnG9NFzw5drDnHxkO7o=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2517479-1288432107.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Further Down the Spiral (1995-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/caede476-52c5-45f8-923b-5991f20984af/5910861121-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Smells Like Children (1995-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2349c8c-4986-4d4e-b2a0-285825f686c3/2192586485-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Herzeleid (1995-09-24)
@@ -96,11 +90,11 @@ Gravity Kills - Gravity Kills (1996-03-05)
 <li data-cover="http://coverartarchive.org/release/bf5b8bd3-de6a-4262-80d7-5babc6e567ec/11163123796-500.jpg" data-tags="industrial" role="button">
 KMFDM - Xtort (1996-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Antichrist Superstar (1996-10-08)
-</li>
 <li data-cover="https://img.discogs.com/tut10eiUcU_etcgQbO5G5AULgwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102221-1175890818.jpeg.jpg" data-tags="industrial rock" role="button">
 Chemlab - East Side Militia (1996-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0bf2459-477c-309d-b597-9130106f4a02/28915832286-500.jpg" data-tags="90s" role="button">
+David Bowie - Earthling (1997-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
@@ -135,17 +129,20 @@ Marilyn Manson - The Last Tour On Earth (1999-11-15)
 <li data-cover="http://coverartarchive.org/release/af482700-2875-4f53-a093-6b0d6e2fd81a/11998407874-500.jpg" data-tags="industrial, industrial rock" role="button">
 Zeromancer - Clone Your Lover (2000-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/96ad74f5-8a85-4566-9cac-99493d438176/2285895546-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - Holy Wood (In The Shadow Of The Valley Of Death) (2000-11-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Things Falling Apart (2000-11-20)
+</li>
+<li data-cover="https://img.discogs.com/Dt1qi-G8_M97hViuAQnOC3hzw2k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10754018-1503707910-8545.jpeg.jpg" data-tags="christian rock" role="button">
+Skillet - Alien Youth (2001)
 </li>
 <li data-cover="https://img.discogs.com/ClqCnAqgcr32bxyLf8wML1Etp0Q=/fit-in/597x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3527-1158197889.jpeg.jpg" data-tags="industrial rock, deep - nine inch nails" role="button">
 Nine Inch Nails - Deep (2001)
 </li>
 <li data-cover="https://img.discogs.com/jPqhYX7_aJkfM5Y1UBLVthsiAaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106407-1461438721-2074.jpeg.jpg" data-tags="industrial" role="button">
 Ohgr - Welt (2001-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/51b02443-0363-4840-b1f4-b6e81fc2ae07/8013711579-500.jpg" data-tags="rock, alternative rock" role="button">
+Stabbing Westward - Stabbing Westward (2001-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/357a8898-7083-42ea-829d-727267ad75ba/21104278563-500.jpg" data-tags="industrial metal" role="button">
 Ministry - Greatest Fits (2001-06-19)
@@ -156,6 +153,9 @@ Rob Zombie - The Sinister Urge (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/d8074dc5-64d2-42ed-9c38-42094aaddea5/8074640857-500.jpg" data-tags="industrial rock" role="button">
 Deadstar Assembly - Deadstar Assembly (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/5785aa5d-4d61-4d21-afc7-5408f611fbc7/7359380452-500.jpg" data-tags="alternative rock, industrial rock" role="button">
+Tapping the Vein - The Damage (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/3d039a02-231c-3c6c-a9ac-f89e60bf0329/1154225975-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - And All That Could Have Been (2002-01-22)
 </li>
@@ -165,14 +165,14 @@ Pain - Nothing Remains The Same (2002-01-23)
 <li data-cover="http://coverartarchive.org/release/8fdad867-5926-4aa1-9606-dd05c7ca388f/2854819852-500.jpg" data-tags="electronic, industrial metal" role="button">
 Theatre of Tragedy - Assembly (2002-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f2b647ba-f77b-43f0-996a-7a8fdeeceecc/6123779011-500.jpg" data-tags="alternative rock, industrial rock, post-hardcore" role="button">
+Vex Red - Start With a Strong and Persistent Desire (2002-03-04)
+</li>
 <li data-cover="https://img.discogs.com/4bdQNt7raqifkmL9wZWnA-pFJ0g=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5443063-1393487197-6647.jpeg.jpg" data-tags="industrial" role="button">
 KMFDM - Attak (2002-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e22cde7-18cd-4114-90e6-234136f8bd71/5561315287-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - The Golden Age of Grotesque (2003-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eec5776-2554-4e95-952d-dd4b582e0cfa/6635258245-500.jpg" data-tags="hard rock, metal, nu metal" role="button">
 Powerman 5000 - Transform (2003-05-20)
@@ -218,6 +218,9 @@ KMFDM - Hau Ruck (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0872bd24-f6ff-3387-9a10-582e6f0b5e35/15855961415-500.jpg" data-tags="industrial metal" role="button">
 Deathstars - Termination Bliss (2006-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddc860ff-f293-4091-a799-a1b9fc0a446d/28325243602-500.jpg" data-tags="industrial rock, creeping chaos" role="button">
+Revolting Cocks - Cocked and Loaded (2006-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9140307c-3fd4-4aef-9cc4-1a70608ab086/2547081348-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
@@ -296,9 +299,6 @@ Puscifer - Conditions of My Parole (2011-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2c73acc-730a-4a41-9b9d-ed37021b82d2/6478274400-500.jpg" data-tags="industrial rock" role="button">
 Killing Joke - MMXII (2012-01-01)
-</li>
-<li data-cover="https://img.discogs.com/ZIr-HPpfwmrAuKzHKqbiIt_EY6A=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3682585-1340200709-3247.jpeg.jpg" data-tags="industrial rock" role="button">
-Marilyn Manson - Born Villain (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)

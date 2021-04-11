@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:28:12.592Z
+date: 2021-04-11T05:03:06.988Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -122,6 +122,9 @@ Vanilla Ice - Hard To Swallow (1998-10-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, rap metal, njhc" role="button">
 E.Town Concrete - Fuck the World (1999)
+</li>
+<li data-cover="https://img.discogs.com/LW7K1cD4XSQNCS9554QKX7cmnjk=/fit-in/600x943/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3559797-1335273636.jpeg.jpg" data-tags="rap metal" role="button">
+Implant pentru refuz - Culori (1999-03)
 </li>
 <li data-cover="https://img.discogs.com/BfJJnLsJ4rxNi0Ue8RtTQ5pRAGY=/fit-in/594x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1405689-1269161750.jpeg.jpg" data-tags="alternative metal, rapcore, nu metal, rap metal" role="button">
 The Ernies - Meson Ray (1999-04-20)
@@ -317,8 +320,5 @@ Rise Of The Northstar - Welcame (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8eecb80-98fd-4dfe-9193-d708f233771d/8757779647-500.jpg" data-tags="alternative metal, rock, alternative rock" role="button">
 Papa Roach - F.E.A.R. (2015-01-23)
-</li>
-<li data-cover="https://img.discogs.com/_TF3oXTRsOEzGqy3vtLO2YqTY90=/fit-in/600x824/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8496793-1462819650-7657.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-System of a Down - Greatest Hits (2016)
 </li>
 </ol>

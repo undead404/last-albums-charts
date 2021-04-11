@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:41:01.416Z
+date: 2021-04-11T04:48:01.415Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![Sleep - Dopesmoker (2003-04-22)](http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg "Sleep - Dopesmoker (2003-04-22)")
@@ -57,9 +57,6 @@ Kyuss - ...And the Circus Leaves Town (1995-07-07)
 <li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
 Down - NOLA (1995-09-15)
 </li>
-<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
-Sleep - Jerusalem (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c342114-869e-404c-a43d-34a3a6247a8f/1587703828-500.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Come My Fanatics... (1997-01)
 </li>
@@ -102,9 +99,6 @@ Electric Wizard - Let Us Prey (2002)
 <li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Label Society - 1919 Eternal (2002-03-04)
 </li>
-<li data-cover="https://img.discogs.com/afHmL57RoKb4O9Mnz1qsED8lDh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554377-1310507886.jpeg.jpg" data-tags="sludge metal, metal, stoner metal" role="button">
-Superjoint Ritual - Use Once And Destroy (2002-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7914f47-2771-47ed-bc6b-332d8ef066b7/17479109345-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Surrounded By Thieves (2002-05-28)
 </li>
@@ -137,9 +131,6 @@ Orange Goblin - Thieving From The House Of God (2004-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/84229083-dcf9-45e3-921c-37fbd156acd2/24613696838-500.jpg" data-tags="doom metal, stoner rock" role="button">
 Witchcraft - Witchcraft (2004-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ccab260-1fb0-333d-a520-fb0fd3e007e7/1588517786-500.jpg" data-tags="doom metal" role="button">
-Ufomammut - Snailking (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c5fe4ad-f3a2-4b2e-b781-df50f524887b/25736837933-500.jpg" data-tags="doom, sludge, stoner metal" role="button">
 YOB - The Illusion Of Motion (2004-11-29)
@@ -192,6 +183,9 @@ High on Fire - Death Is This Communion (2007-09-18)
 <li data-cover="http://coverartarchive.org/release/1e5f042a-3b41-4370-872a-99b329757c16/18298565543-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Electric Wizard - Witchcult Today (2007-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/b17e6b10-ae72-4f39-8484-8053401ff764/1452613792-500.jpg" data-tags="progressive metal, stoner rock, doom metal, psychedelic rock, stoner metal, fucking awesome, big, psychedelic doom, new world fair, headbangers ball, soundweave, when we were older and our hair was longer" role="button">
+Ancestors - Neptune With Fire (2008-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/c70dd03b-6166-44c5-8615-3e54b154ea70/3081389429-500.jpg" data-tags="stoner metal" role="button">
 The Sword - Gods of the Earth (2008-03-31)
 </li>
@@ -233,6 +227,9 @@ Ufomammut - Eve (2010-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab6ed3dc-9e9c-49f6-b07f-5779e2b8833d/8770829070-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Snakes for the Divine (2010-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/2309ca39-a1e4-4808-a9f5-7275a1301634/21631408610-500.jpg" data-tags="stoner metal" role="button">
+Bison B.C. - Dark Ages (2010-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
@@ -320,5 +317,8 @@ Earth - Primitive and Deadly (2014-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbb4f669-03d8-4190-8897-00040e95a6c5/9071688298-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Electric Wizard - Time to Die (2014-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc4d11a1-282c-4334-b5f1-f2c17e7aa7b2/8517348427-500.jpg" data-tags="stoner metal" role="button">
+Orange Goblin - Back from the Abyss (2014-10-06)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:19:01.432Z
+date: 2021-04-11T05:13:01.408Z
 title: "pop-rock: 100 albums you must listen to before you die"
 ---
 ![Shawn Mendes - Shawn Mendes (2014-07-28)](http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg "Shawn Mendes - Shawn Mendes (2014-07-28)")
@@ -21,23 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-XTC - Drums And Wires (1979-08-17)
-</li>
-<li data-cover="https://img.discogs.com/LNIJeVHZOTdUuJ2X_N5C0mZYFWE=/fit-in/549x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5333220-1390773150-7639.jpeg.jpg" data-tags="80s" role="button">
-The J. Geils Band - Freeze Frame (1981-10-26)
+<li data-cover="http://coverartarchive.org/release/7a9017e4-cd8a-4375-803c-52edb9c173ce/23446264259-500.jpg" data-tags="female vocalists, 80s" role="button">
+Bonnie Tyler - Faster Than the Speed of Night (1983)
 </li>
 <li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">
 La Unión - Mil Siluetas (1984-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a3e8e67-fd9a-4f34-bd2f-706d1abc5cca/18002840744-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, male vocalists, pop-rock, france, irack" role="button">
 Indochine - 3 (1985)
-</li>
-<li data-cover="https://img.discogs.com/2SgB42_HSgvVJGTAZ8GIEp1rE7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1509509-1265976464.jpeg.jpg" data-tags="80s" role="button">
-Cutting Crew - Broadcast (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/6de1a93b-259d-346b-b2e9-6e9be91f2557/21934953077-500.jpg" data-tags="80s, rock" role="button">
-Huey Lewis & The News - Fore! (1986-08-20)
 </li>
 <li data-cover="https://img.discogs.com/li6_jIDYQpWodxZn8rkHyInht7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239136-1356563111-3834.jpeg.jpg" data-tags="80s, nothings gonna stop us now, beat patrol, set the night to music, babylon" role="button">
 Starship - No Protection (1987)
@@ -48,14 +39,14 @@ Roxette - Joyride (1991-03-28)
 <li data-cover="http://coverartarchive.org/release/6b8010bb-37c8-3ffc-9e2c-b446d177b24a/23522526719-500.jpg" data-tags="rock" role="button">
 Paul Weller - Wild Wood (1993-09-06)
 </li>
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, alternative, alternative rock, male vocalists, acoustic rock, pop-rock, wisconsin" role="button">
+BoDeans - Go Slow Down (1993-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/13c58395-5df0-4db3-8513-5c2d87bfbd7c/10359692033-500.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - My Iron Lung (1994-09-26)
 </li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/9cd9686a-b953-4c9c-818e-03256cb96dd3/9505339640-500.jpg" data-tags="rock, 80s, soft rock" role="button">
-Don Henley - Actual Miles: Henley's Greatest Hits (1995-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
@@ -81,8 +72,14 @@ The Cranberries - Bury The Hatchet (1999-04-19)
 <li data-cover="http://coverartarchive.org/release/babc0460-f5b0-47e9-abae-0b9df6b87deb/14791398017-500.jpg" data-tags="rock, ska" role="button">
 No Doubt - Return of Saturn (2000-04-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">
+La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/0adf4299-fc93-327f-8bc1-2c6d65bdc507/3113582104-500.jpg" data-tags="alternative, 00s, rock" role="button">
 R.E.M. - Reveal (2001-05-01)
+</li>
+<li data-cover="https://img.discogs.com/IvudjRdbKp2_bMX2FzuQNVp_pno=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588131-1413502184-7420.jpeg.jpg" data-tags="rock, alternative, 00s" role="button">
+They Might Be Giants - Mink Car (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
@@ -132,17 +129,29 @@ The Calling - Two (2004-05-24)
 <li data-cover="http://coverartarchive.org/release/c0f52241-5551-4afa-8249-fd2734eb51c8/27793502182-500.jpg" data-tags="pop-rock, russian rock" role="button">
 Мара - 220V (2005)
 </li>
+<li data-cover="https://img.discogs.com/gWFyjWkLviBQ9l-TDlEN58Gw2hk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659818-1295384136.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+Natalie Imbruglia - Counting Down the Days (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/94ac09cb-b36d-46fe-9434-4b11b097db06/18394460007-500.jpg" data-tags="alternative, pop-rock, russian rock" role="button">
 ундервуд - Бабло побеждает зло (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/466db66a-76be-4409-8429-c4bf29dfbf09/24219190810-500.jpg" data-tags="christian rock" role="button">
 The Afters - I Wish We All Could Win (2005-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c6156f9-38a0-3183-85e8-df6432517dca/4207186910-500.jpg" data-tags="alternative, indie pop, alternative rock" role="button">
+Eels - Blinking Lights And Other Revelations (2005-04-25)
+</li>
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Weezer - Make Believe (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="teen pop" role="button">
+Brie Larson - Finally Out of P.E. (2005-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8def818-9c85-3cf8-b0d8-2508538be228/7222599765-500.jpg" data-tags="pop" role="button">
+Anastacia - Pieces of a Dream (2005-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfb29cba-e5dc-4869-9e3a-e9133e7dc09b/5146171419-500.jpg" data-tags="indie, indie rock, alternative rock, britpop" role="button">
 Thirteen Senses - Contact (2006)
@@ -153,8 +162,8 @@ Nena Daconte - He Perdido Los Zapatos (2006)
 <li data-cover="http://coverartarchive.org/release/50960a67-c4cc-4845-b722-cf2372d7e5f9/7165424755-500.jpg" data-tags="rock, u2" role="button">
 U2 - U218 Singles (2006-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5518064-7269-3e9a-9fd9-3cd4be58d23e/8078538085-500.jpg" data-tags="rock" role="button">
-Train - For Me, It's You (2006-01-31)
+<li data-cover="https://img.discogs.com/av4vKOyCWa60QXni1p8bqrEe6HM=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10227973-1493743125-3281.jpeg.jpg" data-tags="rock, classic rock, swedish, unsigned, pop" role="button">
+The Milestone Corporation - Big Night Out (2006-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ce38111-2a30-4a7d-b83f-ab643c7816ca/4254481907-500.jpg" data-tags="pop punk" role="button">
 The Summer Obsession - This Is Where You Belong (2006-08-29)
@@ -174,9 +183,6 @@ Melendi - Mientras No Cueste Trabajo (2006-11-13)
 <li data-cover="https://img.discogs.com/fKgjYyvMw0-0AAdfeGhDzx4Zybs=/fit-in/450x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343325-1468082959-4205.jpeg.jpg" data-tags="celestial, rbd, pop" role="button">
 RBD - Celestial (2006-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
-The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c0c3e343-4ad3-4551-8dc7-9bee366d537b/10194948769-500.jpg" data-tags="spanish, folk, celtic, pop-rock, conchi" role="button">
 El Sueño de Morfeo - Nos vemos en el camino (2007-04-17)
 </li>
@@ -185,9 +191,6 @@ Animal Liberation Orchestra - Roses & Clover (2007-05-01)
 </li>
 <li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="tokio hotel" role="button">
 Tokio Hotel - Scream (2007-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/48160058-d239-4b0b-9969-47f73e6cf86f/21477044180-500.jpg" data-tags="rock, 80s" role="button">
-The Police - The Police (2007-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
 Kelly Clarkson - My December (2007-06-25)
@@ -201,26 +204,26 @@ Chenoa - Absurda Cenicienta (2007-10-07)
 <li data-cover="http://coverartarchive.org/release/1511dd98-36f7-42d8-93d3-f2ffcd2d2850/26544747762-500.jpg" data-tags="indie rock" role="button">
 The Killers - Don't Shoot Me Santa (2007-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f369d44-77ec-4b13-a183-6998b5496058/7344283221-500.jpg" data-tags="rock" role="button">
+The Cranberries - Gold (2008-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b56a21bc-85b7-4dd4-aea7-4898dcc28ad0/4847801754-500.jpg" data-tags="jazz, electro, piano, soft rock, pop-rock, gonzales, zarbi, soft rock revival" role="button">
 Gonzales - Soft Power (2008-03-31)
 </li>
-<li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
-Tokyo Police Club - Elephant Shell (2008-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/643d5214-7ca4-4419-8465-f67c86eaef5b/10070958476-500.jpg" data-tags="pop-rock" role="button">
 Мумий Тролль - Контрабанда (2008-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/93563577-c07b-416a-acb5-e90235af18f1/24692507668-500.jpg" data-tags="rock, russian" role="button">
+Мумий Тролль - 8 (2008-08-08)
 </li>
 <li data-cover="https://img.discogs.com/Y-Yi_ggmQSrqk6fzQ8ZlIHcG2IA=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813412-1333386623.jpeg.jpg" data-tags="uk, pop-rock, tom1, coolwench" role="button">
 Franz Ferdinand - Lucid Dreams (2008-08-19)
 </li>
 <li data-cover="https://img.discogs.com/rmPNjIDW0HMABn_H6aEqd5CVZlw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513679-1225289551.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 School of Seven Bells - Alpinisms (2008-09)
-</li>
-<li data-cover="https://img.discogs.com/Thol1tISH8KWYoi53yNg9p0KgnY=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1457167-1223908682.jpeg.jpg" data-tags="electro" role="button">
-Anoraak - Nightdrive With You (2008-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
@@ -237,20 +240,17 @@ Razorlight - Slipway Fires (2008-11-03)
 <li data-cover="http://coverartarchive.org/release/b191012a-a793-40b7-9bb1-f0adc12b9362/10429296898-500.jpg" data-tags="pop-rock" role="button">
 The Fireman - Electric Arguments (2008-11-24)
 </li>
-<li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
-Erin McCarley - Love, Save The Empty (2009-01-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/a086fab1-2ee2-35de-875f-79dc9a9ec73a/16167571305-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - My Life Would Suck Without You (2009-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b898976-f6a4-486c-a603-f22bdef901f4/10167948796-500.jpg" data-tags="pop-rock, latin pop, grammy nominated" role="button">
 La Quinta Estación - Sin frenos (2009-03-03)
 </li>
-<li data-cover="https://img.discogs.com/ZgZLbGkGqrQGRuYinT2A0hCv8js=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3572382-1502046421-7512.jpeg.jpg" data-tags="post-hardcore" role="button">
-Isles & Glaciers - The Hearts of Lonely People (2009-03-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/fbaaf441-95b0-45f8-b3f9-4083ce337370/2501803806-500.jpg" data-tags="indietronica" role="button">
 Flunk - This Is What You Get (2009-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/6aa055b1-051e-42e2-8782-65d25013e48d/12504569177-500.jpg" data-tags="pop, rock, british, happy, summer" role="button">
+Gary Go - Gary Go (2009-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef01324-dd9e-4608-9726-781d68fc26fb/8041117572-500.jpg" data-tags="pop rock, pop punk" role="button">
 There for Tomorrow - A Little Faster (2009-06-09)
@@ -261,11 +261,11 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="hannah montana, pop" role="button">
 Hannah Montana - Hannah Montana 3 (2009-07-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/a623132b-c433-46a9-817a-7c0d88fd8d7f/2835071589-500.jpg" data-tags="rock argentino, rock en español" role="button">
-Gustavo Cerati - Fuerza Natural (2009-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c246865b-cc2a-4cea-8da1-9e70f0e84971/4507827521-500.jpg" data-tags="spanish, compilation, pop-rock" role="button">
+La Oreja de Van Gogh - Nuestra casa a la izquierda del tiempo (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)
@@ -273,11 +273,11 @@ Him - Screamworks: Love In Theory And Practice (2010-02-05)
 <li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">
 Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/247b99d1-fad8-4720-a206-f967e94a8670/6252082859-500.jpg" data-tags="pop, indie, female vocalists" role="button">
+Amy Macdonald - A Curious Thing (2010-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/6dff58c1-a8e7-4955-838b-3ad5e5c5994f/6920259357-500.jpg" data-tags="ukrainian" role="button">
 Океан Ельзи - Dolce Vita (2010-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
-Sara Bareilles - Kaleidoscope Heart (2010-09-06)
 </li>
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)

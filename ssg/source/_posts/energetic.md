@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:55:01.450Z
+date: 2021-04-11T05:32:01.419Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, 50s" role="button">
+Louis Prima - The Wildest! (1956-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3091591-a9b8-4be6-885f-76e15d630d73/8017634615-500.jpg" data-tags="energetic, cheerful, playful, rollicking, rambunctious" role="button">
 Chuck Berry - New Juke Box Hits (1961)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fa5c438-5611-4cae-8523-057572f0f23b/24779251123-500.jpg" data-tags="jazz" role="button">
+Lee Morgan - Cornbread (1965)
 </li>
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
@@ -45,11 +51,11 @@ Sister Sledge - We Are Family (1979)
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2a809dc-748c-4736-a09c-65ce2c48518d/11986651197-500.jpg" data-tags="post-punk" role="button">
+The Pop Group - Y (1979-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/1fbb654a-e585-4f9c-acc6-97675008c6e7/19879260317-500.jpg" data-tags="disco" role="button">
 Donna Summer - Bad Girls (1979-04-25)
-</li>
-<li data-cover="https://img.discogs.com/RMYzpYyIA6AOBZdbg7xWl2gJlIM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379639-1419989010-9809.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
-The Feelies - Crazy Rhythms (1980)
 </li>
 <li data-cover="https://img.discogs.com/zXwE8GSP9kMFhwdtmJIs6BD8QMw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4724839-1457495653-1967.jpeg.jpg" data-tags="80s, rock, pop" role="button">
 Joe Jackson - Night And Day (1982-06)
@@ -60,23 +66,20 @@ The Who - It's Hard (1982-09-04)
 <li data-cover="http://coverartarchive.org/release/320e59a4-d93a-48f6-ae66-3f64eec59a71/11946420305-500.jpg" data-tags="80s" role="button">
 Oingo Boingo - Dead Man's Party (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
-R.E.M. - Lifes Rich Pageant (1986-07-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="flamenco" role="button">
-Gipsy Kings - Gipsy Kings (1988-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b04d6d-b900-49ee-aa2d-6e29c35a0c24/1978519255-500.jpg" data-tags="dance" role="button">
 Deee-Lite - World Clique (1990-08-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/4482a6d1-327d-384f-a96e-60f6633161cc/4760790400-500.jpg" data-tags="italy" role="button">
+Fabrizio De André - Il viaggio (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/886168ed-9fd3-430e-8129-93539907fbaa/4199078719-500.jpg" data-tags="classic rock, the rolling stones" role="button">
 The Rolling Stones - Flashpoint (1991-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ce98bda-1db0-3915-bcd1-f0ffc63997d6/17058903036-500.jpg" data-tags="90s, alternative rock, rock" role="button">
-Live - Mental Jewelry (1991-12-31)
+<li data-cover="https://img.discogs.com/5oPxLLkt4GQseu-r7YxV1bDiLD4=/fit-in/558x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888434-1355651670-2534.jpeg.jpg" data-tags="hardcore" role="button">
+Biohazard - Urban Discipline (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
@@ -84,23 +87,17 @@ Jimi Hendrix - First Rays of the New Rising Sun (1993)
 <li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Midnight Marauders (1993-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
-Ramones - Acid Eaters (1993-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
-dEUS - Worst Case Scenario (1994-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/4613c1ad-f235-4306-a48b-78f28f24fd81/25846790445-500.jpg" data-tags="reggae" role="button">
-Shaggy - Boombastic (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/4cb87276-17b3-4e85-aeff-8c24b5a73e30/9518451981-500.jpg" data-tags="rock, alternative" role="button">
+Boss Hog - Boss Hog (1995-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
 La Renga - Despedazado Por Mil Partes (1996-11)
@@ -129,8 +126,8 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 <li data-cover="http://coverartarchive.org/release/433caf55-ee9d-4ee4-a33d-fce4ba3355c6/27070609639-500.jpg" data-tags="indie" role="button">
 The Dismemberment Plan - Emergency & I (1999-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/80624b5e-cf5e-4149-81bf-dba16e72fb91/26255633855-500.jpg" data-tags="contemporary christian" role="button">
-Jars of Clay - If I Left the Zoo (1999-11-09)
+<li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
+Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/71789b50-3b8b-4601-a027-75b8c15bc2b7/12942561796-500.jpg" data-tags="alternative rock" role="button">
 Switchfoot - Learning to Breathe (2000-09-26)
@@ -156,6 +153,12 @@ The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
 </li>
+<li data-cover="https://img.discogs.com/X-wu7fJkxoAC26BLAEAC8MPhHcY=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379196-1185620837.jpeg.jpg" data-tags="energetic, smile and dance-song" role="button">
+Bergman Rock - Bergman Rock (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/02e71dd7-abd5-31ba-a6c3-b85c9210af90/5695108897-500.jpg" data-tags="alternative rock" role="button">
+Live - Birds Of Pray (2003-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/7af6881e-8249-4824-b352-b38f642b6c85/1580458507-500.jpg" data-tags="rock" role="button">
 Mor ve Ötesi - Dünya Yalan Söylüyor (2004)
 </li>
@@ -167,6 +170,9 @@ Infected Mushroom - IM the Supervisor (2004-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a601b1a-8e91-47b4-8a26-fe3aa08fb824/2036785255-500.jpg" data-tags="rap" role="button">
 Fabolous - Real Talk (2004-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
+The Ark - State of The Ark (2004-12-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/87e263c4-6edf-4df6-928d-ab3174a53072/5959630733-500.jpg" data-tags="alternative rock, energetic, dansa i en virvel av lycka, svenskprov, big smile-song, smile and dance-song" role="button">
 Mattias Alkberg BD - Jag ska bli en bättre vän (2005)
@@ -195,17 +201,11 @@ Switchfoot - Nothing Is Sound (2005-09-13)
 <li data-cover="http://coverartarchive.org/release/f3a7a8de-ff69-4af3-83e6-a457ea03f1a3/24875564928-500.jpg" data-tags="energetic, homesick, the mint chicks, troublegum pop, 2006 releases" role="button">
 The Mint Chicks - Crazy? Yes! Dumb? No! (2006)
 </li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/73e6f496-ab10-4303-ad53-ad074c012723/25627284679-500.jpg" data-tags="ska, energetic, aggressive, soad, bobs stuff" role="button">
 Guttermouth - Shave The Planet (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/21b03748-3bb5-4b24-8e7d-14e47eee80ca/13921216200-500.jpg" data-tags="rap, rapcore, alternative hip-hop" role="button">
 Tech N9ne - Everready (2006-11-07)
-</li>
-<li data-cover="https://img.discogs.com/_5gq4yfLva5ANSdponrD5c18aCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1862295-1538229572-5521.jpeg.jpg" data-tags="indie, indie rock, progressive" role="button">
-Kiss Kiss - Reality vs. the Optimist (2007-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
@@ -225,6 +225,9 @@ Air Traffic - Fractured Life (2007-07-02)
 <li data-cover="http://coverartarchive.org/release/71789dd2-83ee-4fb2-9322-2de62eed46d9/9961780926-500.jpg" data-tags="alternative rock, energetic, brutal death metal, mario popping out of the green well in slow motion, the most frostbitten and grim music from the very very very very very very inverted mountains of kxziiiimfghhhblaghl, vypsana fixa" role="button">
 Vypsaná Fixa - Fenomén (2007-09-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+Killing The Dream - Fractures (2008)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Guillemots - Red (2008-03-24)
 </li>
@@ -242,9 +245,6 @@ Indochine - La république des meteors (2009-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/efb52d7a-bbba-41d4-ba8c-0f18aba282ac/15777426357-500.jpg" data-tags="energetic" role="button">
 We Were Promised Jetpacks - Quiet Little Voices (2009-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/1f59e8c0-860b-45c0-a332-c2fba39e972b/28149027777-500.jpg" data-tags="rap" role="button">
-Busta Rhymes - Back On My B.S. (2009-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)

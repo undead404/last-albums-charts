@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:52:01.432Z
+date: 2021-04-11T05:33:01.438Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Beck - Morning Phase (2014-02-21)](http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg "Beck - Morning Phase (2014-02-21)")
@@ -123,9 +123,6 @@ Sleater-Kinney - The Woods (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5518064-7269-3e9a-9fd9-3cd4be58d23e/8078538085-500.jpg" data-tags="rock" role="button">
-Train - For Me, It's You (2006-01-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a76b16c-be39-3175-a4e8-8ed2ac969a6d/27142945723-500.jpg" data-tags="indie rock, indie" role="button">
 Built to Spill - You in Reverse (2006-04-11)
 </li>
@@ -218,6 +215,9 @@ Devendra Banhart - What Will We Be (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
+</li>
+<li data-cover="https://img.discogs.com/dtb8lL6FrBIPNTQWrXQKDbt9bVg=/fit-in/412x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848281-1303821841.jpeg.jpg" data-tags="rockabilly, usa, rock and roll, rhythm and blues, 2010s, debut album, 2010 albums, my best of 2010, j mc pherson" role="button">
+JD McPherson - Signs & Signifiers (2010)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)

@@ -1,14 +1,14 @@
 ---
-date: 2021-04-10T17:40:01.406Z
+date: 2021-04-11T05:08:01.417Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Low - I Could Live in Hope (1994-02-18)](http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg "Low - I Could Live in Hope (1994-02-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">Low - I Could Live in Hope (1994-02-18)</li>
-<li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">Duster - Stratosphere (1998-02-24)</li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)</li>
+<li data-cover="http://coverartarchive.org/release/03790f03-7d42-4924-b2a0-020e97c7963e/27389666099-500.jpg" data-tags="slowcore, s: shoegaze" role="button">True Widow - True Widow (2008-11-11)</li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">The Antlers - Hospice (2009-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">Giles Corey - Giles Corey (2011-04-30)</li>
 <li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">The Antlers - Undersea (2012-07-24)</li>
@@ -29,6 +29,9 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
+</li>
+<li data-cover="https://img.discogs.com/3dniuhKj-72Y-TgSKavATDtv5Gg=/fit-in/584x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489487-1252591040.jpeg.jpg" data-tags="indie, 90s, dream pop, slowcore, repeat, zpf top albums, slow alternative, tugs at me heart strings" role="button">
+Damon & Naomi - More Sad Hits (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/01054b6a-c2e1-404d-a922-32444e391586/18235036396-500.jpg" data-tags="grunge, slowcore, sludge metal, grunge rock, sehr gut, you know her life was saved by last fm free music player" role="button">
 Melvins - Dale Crover (1992-07-31)
@@ -72,6 +75,9 @@ The American Analog Set - The Fun of Watching Fireworks (1996-08-20)
 <li data-cover="http://coverartarchive.org/release/82e0e71d-d8f6-3706-b8cb-362198addb7f/15960032349-500.jpg" data-tags="folk" role="button">
 Smog - The Doctor Came At Dawn (1996-09-10)
 </li>
+<li data-cover="https://img.discogs.com/Au0D-GbkkFHHGS4eZDAKNqFw4HE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433447-1327746246.jpeg.jpg" data-tags="indie rock" role="button">
+Chokebore - A Taste for Bitters (1996-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/77cfc202-af01-4354-91c0-f45243bf4596/20928362919-500.jpg" data-tags="rock, alternative rock" role="button">
 Heatmiser - Mic City Sons (1996-10-15)
 </li>
@@ -93,14 +99,8 @@ Lowercase - Kill The Lights (1997-07-08)
 <li data-cover="https://img.discogs.com/SjwUD1XNHukw7e5EOdnD-NHkGrg=/fit-in/292x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567121-1160252283.jpeg.jpg" data-tags="post-rock, ambient pop, slowcore, for rainy days, days and nights, fart psyche" role="button">
 Movietone - Day and night (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/XNjdkPXc8aXZhKonkSZcVmpj1sg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18225-1244836978.jpeg.jpg" data-tags="ambient, post-rock" role="button">
-Labradford - Mi media naranja (1997-10-13)
-</li>
 <li data-cover="https://img.discogs.com/Qj2Bp4Sls87tqDQiXJQouKbpuGo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433188-1476186558-6219.jpeg.jpg" data-tags="slowcore, drag city, essential" role="button">
 Aerial M - Aerial M (1997-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">
-Duster - Stratosphere (1998-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f473eb10-fffa-416b-8697-7ac7190ec9e5/2044334193-500.jpg" data-tags="shoegaze, slowcore" role="button">
 Jessica Bailiff - Even In Silence (1998-06-14)
@@ -123,9 +123,6 @@ Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
 <li data-cover="http://coverartarchive.org/release/0de2346f-2ce7-4d5d-86bd-461e9ae49444/26419916309-500.jpg" data-tags="post-rock, slowcore" role="button">
 The For Carnation - The For Carnation (2000-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/662c6d90-7244-4cba-9841-f11704995e6b/2579434865-500.jpg" data-tags="emo" role="button">
-Sunny Day Real Estate - The Rising Tide (2000-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/9b602e61-0324-4808-af0b-7fc62a400712/25052177915-500.jpg" data-tags="slowcore" role="button">
 Duster - Contemporary Movement (2000-08-22)
 </li>
@@ -144,6 +141,9 @@ Giardini di Mirò - Rise and Fall of Academic Drifting (2001)
 <li data-cover="http://coverartarchive.org/release/ed2a8c94-5c76-43aa-ad15-7bddb39a671b/2867665745-500.jpg" data-tags="indie pop" role="button">
 Carissa's Wierd - You Should Be at Home Here (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/2518392a-f94f-43d7-856a-b450c876274b/15547143779-500.jpg" data-tags="indie rock, slowcore, midwest emo, post-britpop, albums to dl, dvd1" role="button">
+Lowgold - Just Backward of Square (2001-02-12)
+</li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
@@ -159,9 +159,6 @@ Smog - Rain on Lens (2001-09-17)
 <li data-cover="https://img.discogs.com/l6cyrXRdVJ8A_AX1rvN1rqQY2XE=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-916580-1463687448-1242.jpeg.jpg" data-tags="polish" role="button">
 Lenny Valentino - Uwaga! Jedzie tramwaj (2001-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd3d3a01-a527-4559-b36c-b1fd11fcd0ae/24719629599-500.jpg" data-tags="sophie zelmani, female vocalists" role="button">
-Sophie Zelmani - Sing And Dance (2002-01-02)
-</li>
 <li data-cover="https://img.discogs.com/39jKLeEQEZt8Dbe4303tnzC3q1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385571-1245095998.jpeg.jpg" data-tags="indie rock" role="button">
 Logh - Every Time a Bell Rings an Angel Gets His Wings (2002-01-21)
 </li>
@@ -174,8 +171,11 @@ Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
 <li data-cover="https://img.discogs.com/fcBMa94kdPJ0-4yo4WIk7Xc4xl8=/fit-in/551x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-936931-1174845702.jpeg.jpg" data-tags="slowcore" role="button">
 Migala - Restos de un incendio (2002-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7bdac5f-438f-4b37-95df-2f008a408d9a/6642596762-500.jpg" data-tags="jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Black Earth (2002-10-28)
+<li data-cover="https://img.discogs.com/HfSe9HKBIvRfYfGI2kOaX8lQKjw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653374-1149680703.jpeg.jpg" data-tags="jazz" role="button">
+Karate - Some Boots (2002-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ce47cf2-9ea5-4e23-8e53-558085b73892/2044324578-500.jpg" data-tags="slowcore, 00s" role="button">
+Jessica Bailiff - Jessica Bailiff (2002-10-21)
 </li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
@@ -198,14 +198,14 @@ Coastal - Halfway To You (2004-08-09)
 <li data-cover="https://img.discogs.com/Bmmzl0DXSlEHMkdIZxbyb1OFzBU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-630807-1152809288.jpeg.jpg" data-tags="acoustic, slowcore, timeless" role="button">
 Carissa's Wierd - I Before E (2004-11-09)
 </li>
+<li data-cover="https://img.discogs.com/DW9pfuozfwYV19kllb5gETZL11Q=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439604-1602136290-3327.jpeg.jpg" data-tags="slowcore, slow alternative" role="button">
+Savoy Grand - People and What They Want (2005)
+</li>
 <li data-cover="https://img.discogs.com/0GThur_g6hM74IEVlXiLbcwYQsg=/fit-in/598x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392353-1189081930.jpeg.jpg" data-tags="indie" role="button">
 Hood - Outside Closer (2005-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
 Great Lake Swimmers - Bodies And Minds (2005-04-02)
-</li>
-<li data-cover="https://img.discogs.com/uxAmDmLeGzRu0zUc3oytck0GGyw=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-512261-1125939359.jpeg.jpg" data-tags="indie" role="button">
-The American Analog Set - Set Free (2005-09-05)
 </li>
 <li data-cover="https://img.discogs.com/rhuLhWEKj-SJ3s-jkPXHpIfRyA4=/fit-in/225x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-684939-1147697356.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
 The White Birch - Come Up for Air (2005-10-31)
@@ -267,9 +267,6 @@ S - I'm Not As Good At It As You (2010-04-08)
 <li data-cover="https://img.discogs.com/jAgZ3df1hsrvaOadfGY4yghbn64=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2737333-1298767912.jpeg.jpg" data-tags="emo, midwest emo" role="button">
 Joie De Vivre - The North End (2010-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a50be67-15c9-43c4-ae87-9cac28fffe39/5660502401-500.jpg" data-tags="shoegaze" role="button">
-True Widow - As High as the Highest Heavens and From the Center to the Circumference of the Earth (2011-03-26)
-</li>
 <li data-cover="https://img.discogs.com/hfSC07ANwCTIDyPYe7APVJXFB-U=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2761992-1458450774-5115.jpeg.jpg" data-tags="indie rock" role="button">
 Low - C'mon (2011-04-11)
 </li>
@@ -299,6 +296,9 @@ Zelienople - The World Is A House On Fire (2012-05)
 </li>
 <li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">
 The Antlers - Undersea (2012-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/83d211cf-c4be-4c41-b265-e718afb8746c/4862428851-500.jpg" data-tags="dream pop, slowcore" role="button">
+Jessica Bailiff - At The Down-Turned Jagged Rim of the Sky (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3640479c-7dfa-46f2-b56a-160de2912ee9/3429010691-500.jpg" data-tags="indie" role="button">
 Torres - Torres (2013-01-22)

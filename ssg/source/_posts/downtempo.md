@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:29:01.414Z
+date: 2021-04-11T05:09:01.429Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")

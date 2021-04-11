@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:33:01.414Z
+date: 2021-04-11T04:54:01.417Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![SoKo - I Thought I Was an Alien (2012-02-20)](http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg "SoKo - I Thought I Was an Alien (2012-02-20)")
@@ -27,6 +27,9 @@ Frank Sinatra - In the Wee Small Hours (1955-04-25)
 <li data-cover="http://coverartarchive.org/release/c4392206-1f58-48a5-b665-c1515b2ec147/6454049795-500.jpg" data-tags="jazz, sad" role="button">
 Frank Sinatra - No One Cares (1959)
 </li>
+<li data-cover="https://img.discogs.com/xmaTn7QH-hpL_gk_Nnv7tj0WhII=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4291353-1424917886-6456.jpeg.jpg" data-tags="country, sad, searching, reflective, melancholy, bittersweet, yearning, honky tonk, bakersfield sound, poignant, comfort, autumnal, feeling blue, wistful, lively, plaintive, traditional country, m haggard" role="button">
+Merle Haggard - Mama Tried (1968)
+</li>
 <li data-cover="https://img.discogs.com/GiVYt5duQ6pkKpz7b3KpnE8I7C0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8256525-1458094649-7843.jpeg.jpg" data-tags="folk" role="button">
 John Fahey - America (1971)
 </li>
@@ -39,9 +42,6 @@ John Lennon & Yoko Ono - Double Fantasy (1980)
 <li data-cover="http://coverartarchive.org/release/c91f3331-2413-3ad7-b8a0-7bf2eb4d4998/18288386494-500.jpg" data-tags="pop" role="button">
 ABBA - Super Trouper (1980-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/003c99ba-0909-4961-9726-92f4e8c0dc0d/26090688634-500.jpg" data-tags="new wave" role="button">
-Elvis Costello & The Attractions - Almost Blue (1981-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
 George Winston - December (1982)
 </li>
@@ -51,8 +51,17 @@ Pink Floyd - The Final Cut (1983-03-21)
 <li data-cover="http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg" data-tags="sad, new wave, english club" role="button">
 The Police - Every Breath You Take (1983-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/01c518f7-7c3f-4679-9e0d-67252a737314/15606984492-500.jpg" data-tags="slowcore" role="button">
+Codeine - Frigid Stars (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/196dd723-dd48-310f-8c10-f29cdef30fe9/10130576918-500.jpg" data-tags="trance, ambient, space ambient" role="button">
+Delerium - Spheres II (1994-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/af5975e1-32f2-4f88-bd8e-f6b181762514/9635313264-500.jpg" data-tags="rock" role="button">
 Matthew Sweet - 100% Fun (1995-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/888bc005-3878-4054-b548-75ca8bdfe801/3774205017-500.jpg" data-tags="90s, rock, patti smith" role="button">
+Patti Smith - Gone Again (1996-06-18)
 </li>
 <li data-cover="https://img.discogs.com/Au0D-GbkkFHHGS4eZDAKNqFw4HE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433447-1327746246.jpeg.jpg" data-tags="indie rock" role="button">
 Chokebore - A Taste for Bitters (1996-10-08)
@@ -63,11 +72,11 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
+<li data-cover="https://img.discogs.com/gofzg8WWrEfHC3XGOdjWFnmXbh0=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5276007-1592068264-7558.jpeg.jpg" data-tags="j-rock" role="button">
+X Japan - BALLAD COLLECTION (1997-12-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/57a5da39-729b-3352-9c95-e9b390e22e08/16155956543-500.jpg" data-tags="sad, canadian, 90s" role="button">
 Destroyer - City of Daughters (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c8f10cc-c39d-44bd-a6c7-3de06a4d8745/28068755551-500.jpg" data-tags="scottish, indie rock, 90s" role="button">
 Arab Strap - Philophobia (1998-04-20)
@@ -81,17 +90,11 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="98 degrees" role="button">
-98 Degrees - 98 Degrees and Rising (1998-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/0e34d781-acbe-4ef5-bea3-43ffbf897d52/15802538479-500.jpg" data-tags="indie rock" role="button">
 Cursive - The Storms of Early Summer: Semantics of Song (1998-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a4569a0-63c2-49e5-ab64-2eb87157e8c8/2948168281-500.jpg" data-tags="plotters albums" role="button">
-Mark Lanegan - I'll Take Care of You (1999-09-21)
-</li>
-<li data-cover="https://img.discogs.com/5SFQRNhydZV1l1GMkdanFX7z2eA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1439976-1417816672-8157.jpeg.jpg" data-tags="icelandic" role="button">
-Sigur Rós - Svefn-G-Englar (1999-09-27)
+<li data-cover="http://coverartarchive.org/release/21cf4908-2307-4918-95ed-01367b10c150/22036461151-500.jpg" data-tags="sad, female vocalists, 90s, colors, sarah slean, physical cds i actually own" role="button">
+Sarah Slean - Blue Parade (1999)
 </li>
 <li data-cover="https://img.discogs.com/dOTKJwkOBVBqPq4Ls3BGIW5mzKE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-532005-1258815236.jpeg.jpg" data-tags="jazz, sad, downtempo, 90s, melancholic, beautiful voices, adult alternative pop-rock, music for rainy days, night radio, 2 check out, music to wake up to" role="button">
 Perry Blake - Still Life (1999-12-07)
@@ -107,9 +110,6 @@ Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/03f08510-e44b-48cb-a98a-c09551648c61/7867219841-500.jpg" data-tags="classic rock, metal, rock, punk, sad, acoustic, psychedelic, mellow, garage rock, glam rock, surf rock, chameleon, proto punk, essential, rock-protopunk, the black crowes" role="button">
 The Black Crowes - Greatest Hits 1990-1999: A Tribute To A Work In Progress (2000-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/aee056e2-4712-4daf-83e9-1ca56ae1413b/14997361365-500.jpg" data-tags="hard rock" role="button">
-Finger Eleven - The Greyest of Blue Skies (2000-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
@@ -150,6 +150,9 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/697776ac-f4ca-4de4-b3ec-0dff13fed33a/26485028742-500.jpg" data-tags="british hip hop" role="button">
 The Streets - Dry Your Eyes (2004-07-19)
 </li>
+<li data-cover="https://img.discogs.com/ioKU5EXrEvAtBBv0g3Ue7Peyg1A=/fit-in/589x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1062870-1254017392.jpeg.jpg" data-tags="chillout, electronic, minimal" role="button">
+Sarah Fimm - Nexus (2004-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/a6c55722-88da-4b4e-a6a2-f95b1d2014ba/5719264364-500.jpg" data-tags="sensitive" role="button">
 Saybia - These Are The Days (2004-09-20)
 </li>
@@ -161,9 +164,6 @@ Archive - Unplugged (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e06698bb-93fc-4b0f-a524-c39db5fe17fc/24652636848-500.jpg" data-tags="rock, alternative" role="button">
-Mike Doughty - Haughty Melodic (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d0569a7-1bf9-4d71-843b-9e0d624036e5/10309709950-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - Batman Begins (2005-06-14)
@@ -189,14 +189,14 @@ Kate Havnevik - Melankton (2006-04-02)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
-Ben Frost - Theory of Machines (2006-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/173df3bb-9a98-41ac-a329-f8121f7fef5a/3039660821-500.jpg" data-tags="pop, hurt" role="button">
 Christina Aguilera - Hurt (2006-11-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/288803b8-4752-432a-91aa-3aac466fc27b/7572177650-500.jpg" data-tags="relaxing, indonesia" role="button">
+Bunga Citra Lestari - Cinta Pertama (2006-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d592bd7-78aa-4106-b356-fbaf2a4d12bd/13083227080-500.jpg" data-tags="sad, post-rock, d2007" role="button">
 Aerial - The Sentinel (2007-01-31)

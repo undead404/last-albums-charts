@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:16:06.919Z
+date: 2021-04-11T05:42:01.423Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/v87id1CYaQrZjZbqgRuaglDZzHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5468752-1394647187-4014.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
 The Hollies - Hollies (1965-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
+Love - Da Capo (1966-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
 Procol Harum - A Whiter Shade of Pale (1967)
@@ -200,9 +203,6 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
-</li>
-<li data-cover="https://img.discogs.com/wLUsWMORrOXxUaAekYkwFc3_tu4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219468-1414012241-6652.jpeg.jpg" data-tags="indie, indie pop, psychedelic" role="button">
-of Montreal - False Priest (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)

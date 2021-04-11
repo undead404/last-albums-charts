@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:38:01.417Z
+date: 2021-04-11T05:30:01.465Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -9,11 +9,11 @@ title: "techno: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">The Prodigy - The Fat Of The Land (1997-06-30)</li>
 <li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">The Chemical Brothers - Surrender (1999-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
+<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">Underworld - A Hundred Days Off (2002-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">Kanye West - Stronger (2007-07-31)</li>
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Invaders Must Die (2009-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">David Guetta - Nothing But The Beat (2011-08-24)</li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
-<li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">Jon Hopkins - Immunity (2013-06-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,9 +26,6 @@ The Future Sound of London - Accelerator (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fd615b6-00bb-41c5-a151-5ed4bd350d31/16373960355-500.jpg" data-tags="electronic, techno" role="button">
 Orbital - Orbital (1991-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f315e99-933f-4891-abb9-0b33757a3e08/28961245825-500.jpg" data-tags="techno" role="button">
-Moby - Moby (1992-06)
 </li>
 <li data-cover="https://img.discogs.com/bSMt1idCUjPnH0eq3gle4B5GpHQ=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-76156-1231368734.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">
 The Prodigy - Experience (1992-09-21)
@@ -74,6 +71,9 @@ The Prodigy - Firestarter (1996-03-15)
 </li>
 <li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
+</li>
+<li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
+The Prodigy - Breathe (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
@@ -198,14 +198,14 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">
 Vitalic - OK Cowboy (2005-04-04)
 </li>
+<li data-cover="https://img.discogs.com/DVYKGAvZWHXQo7h6UUhTZ6MJSaE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4281470-1362074526-3207.jpeg.jpg" data-tags="techno" role="button">
+Gregor Tresher - Still EP (2005-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/588c6bc0-7428-4753-8f6d-8e7a9320077a/2226497555-500.jpg" data-tags="idm, electronic" role="button">
 AFX - Chosen Lords (2006-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b237601f-60f8-4046-80a5-9814b87350d1/1693082325-500.jpg" data-tags="techno" role="button">
-Agoria - The Green Armchair (2006-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
@@ -270,9 +270,6 @@ Tinchy Stryder - Catch 22 (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
-Marek Hemmann - In Between (2009-10-26)
-</li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
 </li>
@@ -294,6 +291,9 @@ Matthew Dear - Black City (2010-08-03)
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/1fbfbe77-f5d0-404a-bce0-cb1bd891f92c/4515825059-500.jpg" data-tags="techno, house" role="button">
+John Roberts - Glass Eights (2010-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
 </li>
@@ -312,11 +312,11 @@ DJ Koze - Amygdala (2013-03-22)
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">
-Jon Hopkins - Immunity (2013-06-03)
-</li>
 <li data-cover="https://img.discogs.com/pr4P-Lu0VVSTmWZVoBfCXU3P7Uk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4651028-1371094078-3852.jpeg.jpg" data-tags="indie, psychedelic pop" role="button">
 Jagwar Ma - Howlin (2013-06-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
+Aphex Twin - Syro (2014-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

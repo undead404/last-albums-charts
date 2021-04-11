@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:22:01.539Z
+date: 2021-04-11T05:16:06.902Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -135,6 +135,9 @@ Destiny's Child - Destiny Fulfilled (2004-11-15)
 <li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - Rebirth (2005-02-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg" data-tags="soul" role="button">
+Mario - Let me love you (2005-03-08)
+</li>
 <li data-cover="https://img.discogs.com/oyRngyjgMwkL6hHEdmCtApgJFzY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610570-1294344945.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Touch (2005-04-26)
 </li>
@@ -260,9 +263,6 @@ Jason Derülo - Jason Derülo (2010-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
-Rihanna - Loud (2010-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)

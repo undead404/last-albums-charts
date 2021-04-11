@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:19:07.043Z
+date: 2021-04-11T04:55:01.461Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -147,6 +147,9 @@ Imogen Heap - Speak for Yourself (2005-07-18)
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
+<li data-cover="https://img.discogs.com/JER9pOjFx79mxEsIr3hc7I6zIRQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515010-1465559157-3487.jpeg.jpg" data-tags="indie" role="button">
+CocoRosie - Noah's Ark (2005-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
 </li>
@@ -284,9 +287,6 @@ Rihanna - Rated R (2009-11-16)
 </li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
-Rihanna - Loud (2010-08-18)
 </li>
 <li data-cover="https://img.discogs.com/rszIWLAItrXcGoXSeyZLZDKLqew=/fit-in/500x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3143569-1373113252-1702.jpeg.jpg" data-tags="female vocalists, adele" role="button">
 Adele - Rolling in the Deep (2010-11-29)

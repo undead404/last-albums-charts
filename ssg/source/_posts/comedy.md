@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T23:50:01.403Z
+date: 2021-04-11T05:36:01.414Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -267,9 +267,6 @@ Jon Lajoie - You Want Some of This? (2009-01-30)
 <li data-cover="http://coverartarchive.org/release/e74d81e5-7e35-4566-9722-aeb9a796beae/9813552225-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - Incredibad (2009-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/a12d12cc-c5a6-3a9c-b86a-3cf26909c31e/3020519925-500.jpg" data-tags="folk, ethereal, mainstream shit, hino, haters gonna hate, more talented than miley cyrus" role="button">
-Marissa Nadler - Little Hells (2009-03-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - 3 Balloons (2009-03-24)
 </li>
@@ -305,6 +302,9 @@ Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
 Tenacious D - Rize of the Fenix (2012-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/7ed41e0c-b744-44fe-b60f-45bc0b03f883/4844139638-500.jpg" data-tags="spoken word, comedy" role="button">
+Jim Gaffigan - Mr. Universe (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/99090280-a977-470e-8a7b-f94d98346dbd/4294738755-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - The Wack Album (2013-06-07)

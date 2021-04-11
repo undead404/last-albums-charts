@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:47:01.422Z
+date: 2021-04-11T05:37:01.423Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -110,6 +110,9 @@ Sneaker Pimps - Splinter (1999-10-25)
 </li>
 <li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
+</li>
+<li data-cover="https://img.discogs.com/NiFbO-hHjl2mmKr0Fa_Pl3sVLkY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3083-1167766285.jpeg.jpg" data-tags="trip-hop, downtempo, electronic" role="button">
+Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb2f7805-4bed-329f-ac6a-f997548b64c8/16909148808-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Things to Make and Do (2000-03-29)
@@ -308,9 +311,6 @@ Bonobo - The North Borders (2013-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
-FKA twigs - EP2 (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

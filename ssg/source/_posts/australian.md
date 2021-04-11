@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:59:01.407Z
+date: 2021-04-11T04:47:01.400Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -171,9 +171,6 @@ Silverchair - Young Modern (2007-03-31)
 <li data-cover="http://coverartarchive.org/release/17fd9c64-1dbc-3d5c-ba53-4086991c81cd/4921652324-500.jpg" data-tags="australian" role="button">
 Powderfinger - Dream Days At The Hotel Existence (2007-06-02)
 </li>
-<li data-cover="https://img.discogs.com/lwkGNhHJvvJVL1mkDqV5DD_js8g=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065389-1189602288.jpeg.jpg" data-tags="surf, australian" role="button">
-Xavier Rudd - White Moth (2007-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/54f48d91-12e8-48c1-9f84-292e07b9faaa/4216579078-500.jpg" data-tags="hard rock" role="button">
 Airbourne - Runnin' Wild (2007-06-25)
 </li>
@@ -206,6 +203,9 @@ Cut Copy - In Ghost Colours (2008-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
+</li>
+<li data-cover="https://img.discogs.com/7uw1dCIGEOtZ3-WH8kNZMELYEVU=/fit-in/450x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5642800-1398763523-1180.jpeg.jpg" data-tags="rock, 00s" role="button">
+The Living End - White Noise (2008-07-19)
 </li>
 <li data-cover="https://img.discogs.com/FEQN95Zhrj2P1AbzV-25QcLbtig=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6129122-1445205253-2692.jpeg.jpg" data-tags="indie, singer-songwriter, australian" role="button">
 Josh Pyke - Chimney's Afire (2008-10-03)

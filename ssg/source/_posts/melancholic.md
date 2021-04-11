@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:48:12.635Z
+date: 2021-04-11T05:34:01.417Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -9,9 +9,9 @@ title: "melancholic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">Eels - Beautiful Freak (1996-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">Opeth - Damnation (2003-04-07)</li>
+<li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">Angus & Julia Stone - Down the Way (2010-03-12)</li>
 <li data-cover="http://coverartarchive.org/release/8bd613e5-a2c5-4852-80c1-b45a0ea9232e/10917447319-500.jpg" data-tags="chillout, female vocalists, melancholic, celtic, native americans" role="button">First Aid Kit - Wolf (2012-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">Damien Rice - My Favourite Faded Fantasy (2014-10-31)</li>
 </ol>
@@ -21,17 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
+Linda Perhacs - Parallelograms (1970)
+</li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
-The Cure - Pornography (1982-05-03)
 </li>
 <li data-cover="https://img.discogs.com/ixHEMNqFvofVjMAVVI6OV-z3zvg=/fit-in/410x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-920331-1521923537-6695.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Myslovitz (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/26ed17a4-e022-4abc-a11f-23437715f4f8/15399938306-500.jpg" data-tags="doom metal" role="button">
 My Dying Bride - The Angel and the Dark River (1995-05-22)
+</li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
@@ -45,8 +48,14 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="http://coverartarchive.org/release/92170779-0baf-31f4-930d-8213c7462eac/3435477482-500.jpg" data-tags="trip-hop" role="button">
 Archive - Londinium (1996-05-20)
 </li>
+<li data-cover="https://img.discogs.com/qI9SLlbFVgYmnsapkiiLXKanA8g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559499-1298780594.jpeg.jpg" data-tags="indie rock, slowcore" role="button">
+Bedhead - Beheaded (1996-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5188c17-b8a6-32ed-9c2c-32f0404f20a8/13522514205-500.jpg" data-tags="gothic metal" role="button">
+Moonspell - Sin / Pecado (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
@@ -56,9 +65,6 @@ Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce037097-b68d-4bbb-8d17-476fc82ebde3/3613013207-500.jpg" data-tags="piano, melancholic" role="button">
 Current 93 - Soft Black Stars (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">
-Duster - Stratosphere (1998-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1d33de4-4c0d-453f-a13c-b7cb26de6e59/3596831408-500.jpg" data-tags="doom metal" role="button">
 Katatonia - Discouraged Ones (1998-04-27)
@@ -78,9 +84,6 @@ Katatonia - Tonight's Decision (1999-08-31)
 <li data-cover="https://img.discogs.com/O6kMQiGCpQQW-BPjZvJsMsNmKiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612679-1138414798.jpeg.jpg" data-tags="neofolk, folk" role="button">
 Tenhi - Kauan (1999-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
-Bohren & der Club of Gore - Sunset Mission (2000-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
 </li>
@@ -89,6 +92,9 @@ Madrugada - The Nightly Disease (2001-03-01)
 </li>
 <li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
 I Am Kloot - Natural History (2001-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d45df9d7-7f2d-49bb-9a5c-543f44112f6d/8188829362-500.jpg" data-tags="lounge, electronic, downtempo" role="button">
+Thunderball - Scorpio Rising (2001-07-10)
 </li>
 <li data-cover="https://img.discogs.com/zE1g7EfR92bN-uRdWuFEdTw8lvQ=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3695431-1552089588-2064.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
@@ -126,6 +132,9 @@ Anita Lipnicka & John Porter - Nieprzyzwoite piosenki (2003)
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
 </li>
+<li data-cover="https://img.discogs.com/wXWlv5OPTINy4uKy4SFJ2odC_No=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043165-1187395720.jpeg.jpg" data-tags="folk" role="button">
+The Be Good Tanyas - Chinatown (2003-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
 </li>
@@ -141,11 +150,11 @@ My Morning Jacket - It Still Moves (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/68c7d49e-060e-3a47-88b4-8a1722859358/11078589852-500.jpg" data-tags="icelandic, electronic" role="button">
-múm - Summer Make Good (2004-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f63a705-2e3d-451c-a8e9-0ae7025f9055/12844808386-500.jpg" data-tags="hard rock" role="button">
 3 Doors Down - Here Without You (2004-05-31)
+</li>
+<li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
+John Frusciante - The Will to Death (2004-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
@@ -177,8 +186,8 @@ Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
 <li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
 Katatonia - The Great Cold Distance (2006-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3f6d58c-ef31-4f45-8ad2-33f1947290fe/2026078238-500.jpg" data-tags="melancholic, neoclassical" role="button">
-Ashram - Shining Silver Skies (2006-05)
+<li data-cover="http://coverartarchive.org/release/ab7ebe88-c495-4a44-808b-61f89e7ad3f7/9100597320-500.jpg" data-tags="cardiowave" role="button">
+Flëur - Всё вышло из-под контроля (2006-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c59bf53-49ca-3920-a021-779dd2ce1c71/1463498207-500.jpg" data-tags="doom metal" role="button">
 Saturnus - Veronika Decides to Die (2006-05-03)
@@ -195,26 +204,23 @@ Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
 Sean Lennon - Friendly Fire (2006-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/1159bfa6-1240-3e8f-84e7-e06085d88b7c/1122226386-500.jpg" data-tags="doom metal" role="button">
+My Dying Bride - A Line of Deathless Kings (2006-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
 </li>
-<li data-cover="https://img.discogs.com/2oyuWHJxWHLxTs_7352y-444s8U=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-859037-1166200364.jpeg.jpg" data-tags="folk" role="button">
-Rosie Thomas - These Friends of Mine (2006-12-12)
+<li data-cover="http://coverartarchive.org/release/2706bfa3-5f2b-44c8-ae98-1fff4f2e079a/3605823968-500.jpg" data-tags="doom metal" role="button">
+Katatonia - July (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/3412f681-acd0-414f-8435-45a995deb318/2331822335-500.jpg" data-tags="progressive rock" role="button">
 Blackfield - Blackfield II (2007-02-09)
-</li>
-<li data-cover="https://img.discogs.com/ELv5YSUUhr236Fzcw1gjHK5YiT8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-976306-1182091235.jpeg.jpg" data-tags="ambient" role="button">
-Stafrænn Hákon - Gummi (2007-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5a18cca-3f4d-4bd4-adb4-e487716a0d2c/1696124266-500.jpg" data-tags="melancholic" role="button">
 Porn Sword Tobacco - New Exclusive Olympic Heights (2007-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
-Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
@@ -230,9 +236,6 @@ Sea Wolf - Leaves In The River (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/27726944-0886-3373-b692-0e9324637870/4083569167-500.jpg" data-tags="soundtrack" role="button">
-Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert Ford (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6b1f327-e013-4386-9e0b-ea78b8adb6d9/11664700714-500.jpg" data-tags="cover, fucking awesome" role="button">
 The Fray - Heartless (2008)
@@ -260,9 +263,6 @@ Eels - End Times (2010-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/593a917a-9f7e-46ea-bf2f-10a6f34fadb4/13513416639-500.jpg" data-tags="indie rock" role="button">
 Fang Island - Fang Island (2010-02-23)
-</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="https://img.discogs.com/gaz7LHYkMGoIRXacf1Ca88ZK8jc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2640403-1408907284-4682.jpeg.jpg" data-tags="experimental" role="button">
 Esben and the Witch - Violet Cries (2011-01-28)

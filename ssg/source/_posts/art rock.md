@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:38:01.458Z
+date: 2021-04-11T05:31:06.871Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -135,6 +135,9 @@ David Sylvian - Secrets Of The Beehive (1987)
 <li data-cover="http://coverartarchive.org/release/7cf2a8c6-f2fb-4f99-a316-d9fbb8044667/9283951283-500.jpg" data-tags="psychedelic" role="button">
 Аукцыон - Птица (1993)
 </li>
+<li data-cover="https://img.discogs.com/P0DzPhdfZ95KP8ESoJ0PJt99yXc=/fit-in/498x794/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11854047-1523523939-1617.jpeg.jpg" data-tags="progressive rock, instrumental" role="button">
+Mike Oldfield - Tubular Bells (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
@@ -152,9 +155,6 @@ Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/39727bac-11f4-4394-8f61-9f5a97b950fe/11824714012-500.jpg" data-tags="western" role="button">
-Blondie - Atomic: The Very Best of Blondie (1998-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)

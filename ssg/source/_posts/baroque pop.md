@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:16:06.882Z
+date: 2021-04-11T04:59:01.409Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")

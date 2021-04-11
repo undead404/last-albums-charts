@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:11:07.044Z
+date: 2021-04-11T04:57:07.050Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -60,9 +60,6 @@ Boards of Canada - Boc Maxima (1996)
 <li data-cover="https://img.discogs.com/PjY9A5PEtruXS07O5ljwPzWlFb8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-236-1198510051.jpeg.jpg" data-tags="ambient" role="button">
 Boards of Canada - Hi Scores (1996-12-09)
 </li>
-<li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
-Sigur Rós - Von (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
 </li>
@@ -99,6 +96,9 @@ múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
+Enya - A Day Without Rain (2000-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
@@ -128,9 +128,6 @@ Boards of Canada - Geogaddi (2002-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/de88c422-1cf3-49cc-9095-3cda552b8727/4262680116-500.jpg" data-tags="electronic" role="button">
 Moby - 18 (2002-05-02)
-</li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
@@ -174,6 +171,9 @@ The Album Leaf - In A Safe Place (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/fd01efd0-91ef-4a6a-832b-a4945c233cbf/11348812197-500.jpg" data-tags="electronic, ambient" role="button">
 Tycho - Past Is Prologue (2004-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1bd3de6-058d-4a12-bd7b-0060eb4b2d0d/2153976454-500.jpg" data-tags="ambient" role="button">
+The Dead Texan - The Dead Texan (2004-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
@@ -213,9 +213,6 @@ Carbon Based Lifeforms - World of Sleepers (2006-12-02)
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
 </li>
-<li data-cover="https://img.discogs.com/p8ekxYH2ZEiI6ylivtCAFCEb-lA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937597-1180461208.jpeg.jpg" data-tags="ambient" role="button">
-Amiina - Kurr (2007-03-21)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
@@ -237,8 +234,8 @@ M83 - Saturdays = Youth (2008-04-14)
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
-Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
+<li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
+Helios - Caesura (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1423e4-7651-4fc3-a23a-c75ff6dd323e/6273197886-500.jpg" data-tags="electronic" role="button">
 Fever Ray - Fever Ray (2009-01-12)
@@ -257,9 +254,6 @@ The xx - xx (2009-08-14)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
-Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
@@ -282,11 +276,17 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
+<li data-cover="https://img.discogs.com/0n3LA0qeaCcokxZCVAahUUMJGQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402294-1282013018.jpeg.jpg" data-tags="folk, ambient, chamber pop, indie folk, jagjaguwar" role="button">
+S. Carey - All We Grow (2010-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
 </li>
 <li data-cover="https://img.discogs.com/bmbZJ8aWExCVwnl0YhjisV14knI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705982-1297366221.jpeg.jpg" data-tags="ambient, drone" role="button">
 Tim Hecker - Ravedeath, 1972 (2011-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
+Nicolas Jaar - Space Is Only Noise (2011-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)

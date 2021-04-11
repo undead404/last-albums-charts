@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:51:01.417Z
+date: 2021-04-11T05:38:01.419Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
+The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
@@ -191,9 +194,6 @@ Christina Aguilera - Bionic (2010-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
 Matthew Dear - Black City (2010-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
-Rihanna - Loud (2010-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:34:01.418Z
+date: 2021-04-11T05:17:01.411Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -102,9 +102,6 @@ Bat for Lashes - Fur and Gold (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/58d3ecc6-f4ef-4455-bbe7-7d733e83d5aa/2073304739-500.jpg" data-tags="dream pop" role="button">
 Beach House - Beach House (2006-10-03)
 </li>
-<li data-cover="https://img.discogs.com/KPtMAxcRzcSZLh4Mzg75OQMqB28=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1100270-1288636926.jpeg.jpg" data-tags="electronic, trip-hop, alternative, singer-songwriter, dream pop" role="button">
-Siobhán Donaghy - Ghosts (2007-06-25)
-</li>
 <li data-cover="https://img.discogs.com/8iYEQcyrAHvZjq1FcLRGn2y7urc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1575143-1249316875.jpeg.jpg" data-tags="dream pop" role="button">
 Beach House - Devotion (2007-12)
 </li>
@@ -194,6 +191,9 @@ Blouse - Blouse (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
+</li>
+<li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
+Chairlift - Something (2012-01-23)
 </li>
 <li data-cover="https://img.discogs.com/mii48hGjdnOdDjj2of4dPr3aXes=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3371913-1327779135.jpeg.jpg" data-tags="dream pop" role="button">
 Porcelain Raft - Strange Weekend (2012-01-23)

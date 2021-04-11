@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:42:01.429Z
+date: 2021-04-11T05:04:01.422Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
 Roy Orbison - In Dreams (1963)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
+Steely Dan - Can't Buy A Thrill (1972-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
@@ -47,6 +50,9 @@ Bryan Adams - The Best of Me (1999-11-17)
 </li>
 <li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c5a0ce8-8442-41f6-bf38-254368abbac2/6773807384-500.jpg" data-tags="pop, male vocalists, spiderman theme" role="button">
+Michael Bublé - BaBalu (2001)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
@@ -87,8 +93,8 @@ Robbie Williams - Greatest Hits (2004-10-15)
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
-Omarion - O (2005-02-22)
+<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
+Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Stand Up (2005-05-09)
@@ -108,9 +114,6 @@ Robbie Williams - Intensive Care (2005-10-20)
 <li data-cover="http://coverartarchive.org/release/261d9f29-1c1f-47c1-a631-6e213b74a084/28025741649-500.jpg" data-tags="rock, pop rock, mcfly" role="button">
 McFly - Just My Luck (2006-05-09)
 </li>
-<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -122,9 +125,6 @@ James Morrison - Undiscovered (2006-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/34a322de-e4ef-4861-a7ad-640644606d92/2503909808-500.jpg" data-tags="alternative rock" role="button">
 Five for Fighting - Two Lights (2006-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
-Plain White T's - Every Second Counts (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
@@ -144,9 +144,6 @@ Incubus - Light Grenades (2006-11-22)
 <li data-cover="http://coverartarchive.org/release/1138469b-30b2-4400-acdc-b84340d1b8ad/26393913064-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Switchfoot - Oh! Gravity. (2006-12-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/7dc3d8cb-900a-4816-9985-14be12cf989a/4421812716-500.jpg" data-tags="acoustic" role="button">
-Justin Nozuka - Holly (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
@@ -161,6 +158,9 @@ Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
+</li>
+<li data-cover="https://img.discogs.com/BisewGkz6lUUabqA2Ipz_CCQ10w=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3164699-1318696918.jpeg.jpg" data-tags="indie, rock, indie rock" role="button">
+The Hoosiers - The Hoosiers (2008-01-15)
 </li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
@@ -207,6 +207,9 @@ Robbie Williams - Reality Killed the Video Star (2009-11-06)
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
+<li data-cover="https://img.discogs.com/nh3OZHgRgjaM1PHyNelh-x8gl4s=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2023069-1580651857-5952.jpeg.jpg" data-tags="pop, kris allen" role="button">
+Kris Allen - Kris Allen (2009-11-17)
+</li>
 <li data-cover="https://img.discogs.com/BkGqM6GnrMT2cJ6M4VWH74p5ZAM=/fit-in/462x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135595-1266229554.jpeg.jpg" data-tags="indie, electronic, electropop" role="button">
 Hot Chip - One Life Stand (2010-01-29)
 </li>
@@ -218,12 +221,6 @@ Jónsi - Go (2010-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
 B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ae4c1d-28db-4232-94a8-2094ca8c3083/8155989697-500.jpg" data-tags="electronic" role="button">
-Stromae - Cheese (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/689f26cd-b624-4bd2-a1bf-fd327f65f07b/9361302288-500.jpg" data-tags="electro hop" role="button">
-Mike Posner - 31 Minutes to Takeoff (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg" data-tags="indie, male vocalists" role="button">
 Brandon Flowers - Flamingo (2010-09-03)
@@ -240,20 +237,23 @@ Twin Shadow - Forget (2010-09-28)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a92ffb6-5332-4890-91e5-ee80a9e47465/9915356798-500.jpg" data-tags="just a dream" role="button">
+Nelly - Just A Dream (2010-10-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce858ae3-c1df-4394-a1d6-dd93d82dee34/8940167530-500.jpg" data-tags="pop, male vocalists" role="button">
 Olly Murs - Olly Murs (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3f04af-dc51-4e19-8a8f-655da163d8b6/12602343869-500.jpg" data-tags="disco, electronic, male vocalists, hairy chest, mpm, hunks, nice fur, heavy pelt, discos 2011" role="button">
 Marcelo Jeneci - Feito Pra Acabar (2010-12-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
+The Decemberists - The King Is Dead (2011-01-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
 </li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
 Justice - Civilization (2011-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/134d9dae-6935-46e3-b8fa-e057f9ca543b/6375116090-500.jpg" data-tags="alternative, indie rock, mat kearney" role="button">
-Mat Kearney - Young Love (2011-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)

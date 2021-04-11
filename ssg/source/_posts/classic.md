@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T20:30:01.607Z
+date: 2021-04-11T05:01:07.606Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -39,6 +39,9 @@ Lou Reed - Transformer (1972)
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/19ec67fa-ba98-4d3d-90a3-52f63a1a9af2/23367226103-500.jpg" data-tags="rock, 70s" role="button">
+Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -57,6 +60,9 @@ Tom Waits - Heartattack and Vine (1980-09)
 <li data-cover="https://img.discogs.com/ALWL6pUKpDjvVBD_87s_Ul9i73s=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3802835-1345029926-3937.jpeg.jpg" data-tags="classic, compilation, southern rock, c c r" role="button">
 Creedence Clearwater Revival - Creedence Country (1981)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a881cc4-3553-4d01-a4d0-aff431bf05f0/22056730148-500.jpg" data-tags="classical, classic, instrumental, orchestra, avant-garde, female vocalist, faves, revisit, classical music, landscape, wanttobuy, gammarec, granka, worldmusik, je devrais avoir mon enfer de la caresse, quixotic sounds, freepurp1e, fabulous live act, fabulous orchestra, great cinema, music for the car, ssdsds" role="button">
+Philip Glass - The Photographer (1983)
+</li>
 <li data-cover="https://img.discogs.com/XU-E-eOHgwSQq_r1r81Oo2N0XGM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10343421-1495673645-4449.jpeg.jpg" data-tags="classic rock, rock, slgdmbestof" role="button">
 The Who - Who's Greatest Hits (1983-05-08)
 </li>
@@ -68,9 +74,6 @@ Prince & The Revolution - Purple Rain (1984-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
 The Replacements - Let It Be (1984-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcbce6d9-6ec0-34c2-bf1f-503078ee2b1b/3253218339-500.jpg" data-tags="classic, 80s, punk, alternative, straight edge, punk rock, hardcore punk, yellow, total shit, non-visual, fun to skateboard to, i love singing along, 7seconds, ear, finely tailored, deek, planet kolob, grumpy still skin, muhammad had a penis, expected, deek deek, deek deek deek, mime of charisma, excreted from a bloody rectum" role="button">
-7Seconds - Walk Together, Rock Together (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ede5854-8fd5-4370-9880-7581976408c2/17256685078-500.jpg" data-tags="classic, fun to skateboard to, i love singing along, hardcore old" role="button">
 Minor Threat - Salad Days (1985-04)
@@ -95,9 +98,6 @@ Gang Starr - Step In The Arena (1990)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
-Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
 <li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
 Main Source - Breaking Atoms (1991-07-23)
@@ -129,6 +129,9 @@ Method Man - Tical (1994-11-15)
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
+Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
 </li>
@@ -153,9 +156,6 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
 Mobb Deep - Hell on Earth (1996-11-01)
 </li>
-<li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
-Whiskeytown - Strangers Almanac (1997-07-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c32f859-d4e0-4ee5-a7cd-326465de2df2/25761719374-500.jpg" data-tags="classic rock" role="button">
 The Kinks - The Singles Collection (1997-09-29)
 </li>
@@ -170,6 +170,9 @@ Dean Martin - The Very Best of Dean Martin (1998-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/ca729161-a44c-4c95-b6d1-599c8d244f1f/17456959732-500.jpg" data-tags="oldies" role="button">
+Andy Williams - The Very Best of Andy Williams (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
@@ -197,9 +200,6 @@ The Beatles - 1 (2000-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">
 Billy Joel - The Essential Billy Joel (2001-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6b33758-0c8f-315c-a145-60745f8de96d/2079967270-500.jpg" data-tags="classic, andrea bocelli, romantic" role="button">
-Andrea Bocelli - Cieli Di Toscana (2001-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4398f892-0bbd-4ccb-ba58-822026bc0580/4699250670-500.jpg" data-tags="hip-hop, hiphop, classic, east coast" role="button">
 Masta Ace - Disposable Arts (2001-10-30)

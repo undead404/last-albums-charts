@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:30:01.451Z
+date: 2021-04-11T05:19:01.414Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
@@ -72,14 +72,14 @@ Shakira - Laundry Service (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
+<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
+Azure Ray - November (2002-01-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="https://img.discogs.com/_rd-VQ24XDQKDNOWoc9Y_TdShuI=/fit-in/450x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583660-1420114474-5047.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
-</li>
-<li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
-Vanessa Carlton - Be Not Nobody (2002-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
@@ -104,6 +104,9 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
+</li>
+<li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
+Katie Melua - Call Off the Search (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d382c28a-b0eb-4b96-af83-a43c22708964/15534816604-500.jpg" data-tags="rock" role="button">
 Auf Der Maur - Auf Der Maur (2004-01-30)
@@ -134,9 +137,6 @@ Kelly Clarkson - Breakaway (2004-11-30)
 </li>
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b1afcc4-5b3f-4462-b40a-419a51d9f339/10222782880-500.jpg" data-tags="indie, singer-songwriter, acoustic" role="button">
-Brandi Carlile - Brandi Carlile (2005-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -303,14 +303,14 @@ A$AP Rocky - Goldie (2012-04-27)
 <li data-cover="http://coverartarchive.org/release/8b484d1b-65ce-4f84-b0c9-d022f1125ce2/6559339900-500.jpg" data-tags="electronica, electropop, pop, indie pop, upbeat, female vocalist" role="button">
 Betty Who - The Movement (2012-09-17)
 </li>
+<li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
+FKA twigs - EP1 (2012-12-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
-FKA twigs - EP2 (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
