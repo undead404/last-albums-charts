@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:30:12.628Z
+date: 2021-04-11T10:08:01.397Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
 ![KASHIWA Daisuke - Program Music I (2007-08-24)](http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg "KASHIWA Daisuke - Program Music I (2007-08-24)")
@@ -21,14 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/a6c9d3b8-05da-4996-a3b5-93aab10f02d3/28855108015-500.jpg" data-tags="jazz" role="button">
-Sun Ra - The Futuristic Sounds Of Sun Ra (1962)
-</li>
 <li data-cover="http://coverartarchive.org/release/5af6d025-940e-392c-95e9-e79cc6b774c1/24646040139-500.jpg" data-tags="soundtrack" role="button">
 Ennio Morricone - Il buono, il brutto, il cattivo (1966)
-</li>
-<li data-cover="http://coverartarchive.org/release/9747d54b-1c5b-347e-b244-59c419cf900a/27094892626-500.jpg" data-tags="spaghetti western, western, film score" role="button">
-Ennio Morricone - The Good, The Bad & The Ugly (1966)
 </li>
 <li data-cover="http://coverartarchive.org/release/deb43c81-3021-4795-a2d8-20cbe3a6ce11/4317227862-500.jpg" data-tags="instrumental, progressive rock" role="button">
 Mike Oldfield - Incantations (1978-11-24)
@@ -36,14 +30,11 @@ Mike Oldfield - Incantations (1978-11-24)
 <li data-cover="http://coverartarchive.org/release/711c455e-832f-3f72-80c0-19f8d561d778/18299122757-500.jpg" data-tags="no wave" role="button">
 Glenn Branca - The Ascension (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd2f5b66-2bd8-36c1-bfdd-993dea167599/26254885464-500.jpg" data-tags="mixup" role="button">
-Malcolm McLaren - Fans (1984)
+<li data-cover="https://img.discogs.com/OM-oZTpG9mwM9Q1u2163eblC-vE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3321591-1516671866-5134.jpeg.jpg" data-tags="classical, instrumental, minimalism, modern classical, tavener, alt-classical" role="button">
+John Tavener - Innocence (1995)
 </li>
 <li data-cover="https://img.discogs.com/5tFWK1dJpY2ZIcNgu-cSgIDSaas=/fit-in/599x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612914-1338297842-6035.jpeg.jpg" data-tags="ambient, industrial, modern classical, porn soundtrack" role="button">
 Psychic TV - Themes (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/a15e0831-cdf6-4e2a-a51b-034c6e98972b/2575192108-500.jpg" data-tags="idm" role="button">
-Aphex Twin - Donkey Rhubarb (1995-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
@@ -87,8 +78,14 @@ The Flashbulb - Kirlian Selections (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/22a23fb5-dad5-42d3-b90f-98a7834c0fae/8147320447-500.jpg" data-tags="soundtrack, experimental" role="button">
 Björk - Drawing Restraint 9 (2005-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/d7ed9897-e9ba-4beb-aa83-9cee455e7271/4629224312-500.jpg" data-tags="breakcore, experimental" role="button">
+Igorrr - Poisson Soluble (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/334c808e-4511-4f8f-87a9-6aa317bbb228/1703273677-500.jpg" data-tags="ambient, dark ambient" role="button">
 Hecq - Night Falls (2006-04-18)
+</li>
+<li data-cover="https://img.discogs.com/vxBYPVWASWKoRLxh0vAp1hM2vMU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618510-1139171325.jpeg.jpg" data-tags="downtempo, idm" role="button">
+Tstewart - Living Exponentially (2006-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f45b308-e7ae-4c50-83a1-6816f72b3753/21243800624-500.jpg" data-tags="raster-noton, experimental, piano" role="button">
 Alva Noto + Ryuichi Sakamoto - Revep (2006-05)
@@ -101,9 +98,6 @@ Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/72a39b1b-d97f-425d-8c2c-8a4d894cb804/4467708993-500.jpg" data-tags="idm" role="button">
 Ochre - Lemodie (2006-07-10)
-</li>
-<li data-cover="https://img.discogs.com/xAMW7Kqd4VQfqsa466PIYsKC2l8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-802792-1173776485.jpeg.jpg" data-tags="ambient, idm" role="button">
-Kattoo - Hang On To A Dream (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
@@ -129,9 +123,6 @@ Swod - Sekunden (2007-08-07)
 <li data-cover="http://coverartarchive.org/release/ead00f57-fba2-43f7-acba-99491acac9b6/11036616878-500.jpg" data-tags="electronic, glitch" role="button">
 KASHIWA Daisuke - Program Music I (2007-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d345799a-c328-4532-a14a-e82d8729aa9f/13277464961-500.jpg" data-tags="ambient, electronic" role="button">
-Murcof - Cosmos (2007-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/b52f4256-0d02-460e-b2bd-50aafdebe08c/22373580081-500.jpg" data-tags="ambient, drone, modern classical" role="button">
 Machinefabriek - Bijeen (2007-11)
 </li>
@@ -149,9 +140,6 @@ Arcana - Raspail (2008-02-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/05c9c1aa-9b47-434c-9536-74fe56283bbc/25665078834-500.jpg" data-tags="electronic" role="button">
 UNKLE - End Titles . . . Stories For Film (2008-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb077503-d181-4a11-9ad4-740a04bc2670/5163613204-500.jpg" data-tags="electronic" role="button">
-Björk - The Dull Flame Of Desire (2008-08)
 </li>
 <li data-cover="https://img.discogs.com/-A8ZPivO_kiAlmrH-dtt7dvVv7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540961-1239982667.jpeg.jpg" data-tags="martial industrial" role="button">
 Triarii - Muse in Arms (2008-12-01)
@@ -197,6 +185,9 @@ Leyland Kirby - Sadly, the Future Is No Longer What It Was (2009-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c128ffe8-5808-3af9-af74-5bcda1c96b16/1827905959-500.jpg" data-tags="neofolk" role="button">
 TriORE - Three Hours (2009-10)
+</li>
+<li data-cover="https://img.discogs.com/zz1tk6J1tJ7KXCuM12ulFcL40U4=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1983102-1256720385.jpeg.jpg" data-tags="modern classical" role="button">
+Sven Weisemann - Xine (2009-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/551c341c-1591-47c7-a9fa-599a27adb298/11408843592-500.jpg" data-tags="post-rock" role="button">
 Flica - Telepathy Dreams (2009-10-01)
@@ -258,6 +249,9 @@ Riding Alone for Thousands of Miles - Brick City Ghosts (2011-06-20)
 <li data-cover="https://img.discogs.com/ICvHtNNtHkB2aVSveCs-s2zXKLM=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977372-1310070273.jpeg.jpg" data-tags="ambient" role="button">
 Field Rotation - Regenzeit (2011-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1c60936-41ef-4354-892f-b3d21f0d479f/13421658089-500.jpg" data-tags="jazz, ambient, experimental, electro acoustic, modern classical, patriciancore" role="button">
+Fjordne - charles rendition (2011-07-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
 Floex - Zorya (2011-09-26)
 </li>
@@ -267,11 +261,17 @@ Tim Hecker - Dropped Pianos (2011-10-10)
 <li data-cover="http://coverartarchive.org/release/c9d7d3a5-8a1c-4dca-ae90-b0cb2233a1ac/4800580340-500.jpg" data-tags="ambient" role="button">
 Christina Vantzou - No. 1 (2011-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/75b51048-d194-401c-8473-c8cc8b6fce4f/27953164430-500.jpg" data-tags="modern classical, martial industrial" role="button">
+Triarii - W.A.R. (2011-12-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/56598935-3cce-4e24-b442-4c9aab2ac63b/18347773642-500.jpg" data-tags="trip-hop, experimental" role="button">
 Saltillo - Monocyte (2012-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Motorpsycho and Ståle Storløkken - The Death Defying Unicorn (2012-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)

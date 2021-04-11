@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:34:01.424Z
+date: 2021-04-11T09:53:01.430Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -71,9 +71,6 @@ Alexisonfire - Alexisonfire (2002-10-29)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
-Silverstein - When Broken Is Easily Fixed (2003-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3d0ebf2-5300-40d1-899d-80b2b8bee172/6128242245-500.jpg" data-tags="post-hardcore" role="button">
 Saosin - Translating the Name (2003-06-17)
@@ -233,6 +230,9 @@ From First to Last - From First To Last (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
+Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)

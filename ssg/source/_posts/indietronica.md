@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:00:01.476Z
+date: 2021-04-11T10:31:06.900Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -84,9 +84,6 @@ MGMT - Oracular Spectacular (2007-10-02)
 <li data-cover="https://img.discogs.com/AYHG1vcH9CnCJjbb4-JnKv8fkFg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059944-1194659955.jpeg.jpg" data-tags="electronic, indietronica, awesome album art" role="button">
 The Octopus Project - Hello, Avalanche (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">
-Pnau - Pnau (2007-11-10)
-</li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
@@ -149,6 +146,9 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c1d0fe-95d7-4d72-b807-c69a2e99400f/24223192647-500.jpg" data-tags="swedish, indietronica" role="button">
 Ceo - White Magic (2010-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/02e6e710-840a-4da0-8970-42acab685aa0/4145235523-500.jpg" data-tags="indietronica, shoegaze, dream pop, newgaze, bewilderment, shoegaze 2010" role="button">
+A Sunny Day In Glasgow - Autumn, Again (2010-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)

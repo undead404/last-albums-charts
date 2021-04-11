@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:20:07.012Z
+date: 2021-04-11T10:14:12.732Z
 title: "monochrome album covers: 100 albums you must listen to before you die"
 ---
 ![Rhye - Woman (2013-01)](http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg "Rhye - Woman (2013-01)")
@@ -8,12 +8,12 @@ title: "monochrome album covers: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">Destroyer - Kaputt (2011-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">Holy Ghost! - Holy Ghost! (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">King Krule - King Krule (2011-11-08)</li>
+<li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">Frankie Rose - Interstellar (2012-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">Japandroids - Celebration Rock (2012-06-05)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
 <li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)</li>
 <li data-cover="http://coverartarchive.org/release/4d4241d2-cd7e-46b2-a26e-e401cf0b9f61/17602906872-500.jpg" data-tags="vinyl" role="button">Timber Timbre - Hot Dreams (2014)</li>
 <li data-cover="http://coverartarchive.org/release/a3072125-3563-46ac-a9bd-12698457ccfc/18715080996-500.jpg" data-tags="monochrome album covers" role="button">Son Lux - Alternate Worlds (2014-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">Andy Stott - Faith In Strangers (2014-11-17)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7339313e-ad15-4719-9f2f-c68eb1a5e762/9704651284-500.jpg" data-tags="jazz, female vocalists" role="button">
 Blossom Dearie - Blossom Dearie (1957-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/49ff821b-71ae-450e-9935-635f66c52589/11377261421-500.jpg" data-tags="jazz, brasil" role="button">
-Quarteto Novo - Quarteto novo (1967)
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Bill Evans & Jim Hall - Undercurrent (1962)
 </li>
 <li data-cover="https://img.discogs.com/4hsJ9bOHdky1Zlwc7Vizrq_0i4A=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923417-1482697240-6883.png.jpg" data-tags="60s, psychedelic" role="button">
 The Millennium - Begin (1968)
@@ -36,6 +36,9 @@ Syl Johnson - Is It Because I'm Black (1970)
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
+<li data-cover="https://img.discogs.com/iHt-DHxOq-LVvaHmzTcxMJxBLok=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9382094-1563549399-1910.jpeg.jpg" data-tags="bossa nova" role="button">
+Nara Leão - Dez anos depois (1971)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a7e1389-8244-4e7f-88a5-0b3f64da7f70/6225567495-500.jpg" data-tags="classic rock, rock, progressive rock" role="button">
 Traffic - When The Eagle Flies (1974)
 </li>
@@ -45,8 +48,8 @@ The Walker Brothers - Nite Flights (1978)
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/89117817-892c-40a0-9a7d-5bae5d70db4c/2907897798-500.jpg" data-tags="psychobilly, garage rock, punk" role="button">
-The Cramps - Off The Bone (1983)
+<li data-cover="https://img.discogs.com/wVF-UnvDlaaDRGD5bbCF-gsyfwI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9713789-1485196112-2619.jpeg.jpg" data-tags="iveldie best of 1983, monochrome album covers" role="button">
+Peter Hammill - Patience (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac920f2b-1ae5-4078-8c7d-17e807b69578/14554475857-500.jpg" data-tags="jam bands" role="button">
 Phish - Junta (1989-05-08)
@@ -62,9 +65,6 @@ Songs: Ohia - Didn't it rain (2002-03-05)
 </li>
 <li data-cover="https://img.discogs.com/BvrVUeCb_-XFi05Txzq5Qf4OyXA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-245154-1187732475.jpeg.jpg" data-tags="electronic, electronica, indie, idm, sonig, cartoon album covers, monochrome album covers" role="button">
 Jason Forrest - The Unrelenting Songs of the 1979 Post Disco Crash (2004-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/976e3127-085e-4063-b0d4-a0b06346760c/14693250461-500.jpg" data-tags="female vocalists, indie" role="button">
-Laura Veirs - Carbon Glacier (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbf10588-76f4-4948-b94c-f2db2f600da3/15332328536-500.jpg" data-tags="progressive metal, progressive rock, sludge metal" role="button">
 Baroness - First (2004-08-04)
@@ -84,9 +84,6 @@ Bonobo - Nightlite (2006-06)
 <li data-cover="http://coverartarchive.org/release/ff87ca3d-a8e0-4e14-b35d-404a119b3941/5345493471-500.jpg" data-tags="pop, soul, folk, breakfast, art for arts sake, fancy album covers, monochrome album covers, before lunch, bus pass and tings, beauty room, soft rock revival" role="button">
 The Beauty Room - The Beauty Room (2006-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d6f9dbc-882f-4300-a985-88525483968b/1331176075-500.jpg" data-tags="singer-songwriter, piano" role="button">
-Sébastien Tellier - Universe (2006-09-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/257bfe28-26f1-4760-bd36-1dd5064f6c61/17569623444-500.jpg" data-tags="instrumental, alternative, folk, male vocalists, nostalgia, crying, neo folk, songwriting, sennik, ulubione, intimista, the saddest music in the world, nostalghia, emocje, smuteczki, tremblation interieur, monochrome album covers, from beginning to end, favorite albums 2006, vintage album covers, beige album covers, european beat,  dark folk" role="button">
 Matt Elliott - Failing songs (2006-10)
 </li>
@@ -105,14 +102,17 @@ Antony and the Johnsons - Another World (2008-10-06)
 <li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
 Matt Elliott - Howling songs (2008-10-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ec79cb0-09ae-475a-a130-53d692df3a16/17226210385-500.jpg" data-tags="00s, neo folk, monochrome album covers,  dark folk" role="button">
+Matt Elliott - Failed Songs (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/db71565d-11ad-3d2b-af48-ebb94f737e2b/7825355353-500.jpg" data-tags="indie rock" role="button">
 ...And You Will Know Us by the Trail of Dead - The Century Of Self (2009-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/63290a5c-e219-4f29-86c7-3e4bd532d1db/4515459881-500.jpg" data-tags="japanese, acid jazz, jazz fusion, jpop, asian, j-pop, asian jazz, asian music, asian pop, monochrome album covers, vintage album covers" role="button">
+JABBERLOOP - CHECK THIS OUT!! (2009-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/757bb2fe-3ecf-4e33-808f-516672d8e1bf/24020587934-500.jpg" data-tags="acoustic rock" role="button">
 Portugal. The Man - The Majestic Majesty (2009-07-21)
-</li>
-<li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
-The Big Pink - A Brief History of Love (2009-09-14)
 </li>
 <li data-cover="https://img.discogs.com/zBUSdmP4tQksNT5bsDmHkEW9U3w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1936394-1254022032.jpeg.jpg" data-tags="folk" role="button">
 Monsters of Folk - Monsters of Folk (2009-09-18)
@@ -143,9 +143,6 @@ Holy Ghost! - Holy Ghost! (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
 The Raveonettes - Raven in the Grave (2011-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7d17dabe-9909-42ac-ac1b-1f05bf07e500/7299643178-500.jpg" data-tags="indie" role="button">
-Crystal Stilts - In Love With Oblivion (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/05192594-fc20-47a1-a4ed-d691154642ec/8649020533-500.jpg" data-tags="drone" role="button">
 Noveller - Glacial Glow (2011-05-30)
@@ -246,6 +243,9 @@ Holden - The Inheritors (2013-06-16)
 <li data-cover="http://coverartarchive.org/release/9e3753ef-c5c9-4b65-852c-467014373dee/4798947049-500.jpg" data-tags="americana, buddy guy, allboutguitar, gramusels favourites, gramusels bluesrock, brc blues band, brc blues band karlsruhe, monochrome album covers, blues rock club radio karlsruhe, blues rock radio deutschland, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany, blues rock radio germany deutschland" role="button">
 Buddy Guy - Rhythm & Blues (2013-07-26)
 </li>
+<li data-cover="https://img.discogs.com/FyOuDtSWW_HXihbsY2aVXywlafI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5334334-1391716708-9387.jpeg.jpg" data-tags="monochrome album covers" role="button">
+Ghost Wave - Ages (2013-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/55e609d6-d44b-4d16-9180-91d3e0e3acc2/5780115958-500.jpg" data-tags="10s" role="button">
 John Wizards - John Wizards (2013-09-02)
 </li>
@@ -282,9 +282,6 @@ Against Me! - Transgender Dysphoria Blues (2014-01-21)
 <li data-cover="http://coverartarchive.org/release/23b46f57-8f10-4338-9dcb-a6cbf7713709/6417591031-500.jpg" data-tags="self-released, monochrome album covers" role="button">
 The National - I Need My Girl (2014-02-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
-Marissa Nadler - July (2014-02-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/3ac4f97c-321f-4b65-9c71-ebe6cff307c6/6623393374-500.jpg" data-tags="monochrome album covers" role="button">
 Woman's Hour - Her Ghost (2014-02-17)
 </li>
@@ -296,6 +293,12 @@ Posse - Soft Opening (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/49da37ee-065a-4d7f-a204-9dda8047aad4/6658777371-500.jpg" data-tags="indie pop, synthpop, electropop, indietronica" role="button">
 MØ - No Mythologies to Follow (2014-03-07)
+</li>
+<li data-cover="https://img.discogs.com/Bmn_51ZZeoLfij-0vqfRCZ5bTwU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5618220-1512856796-4917.jpeg.jpg" data-tags="alternative rock, brian eno, mark lanegan, monochrome album covers" role="button">
+The Afghan Whigs - Do to the Beast (2014-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e136e843-d1e4-448b-9dfe-fb7d85be9057/8152218307-500.jpg" data-tags="crust" role="button">
+Black Monolith - Passenger (2014-04-29)
 </li>
 <li data-cover="https://img.discogs.com/7Uvufqx6Sfklig-5SHdPsxIjDJs=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5696143-1525470477-8925.jpeg.jpg" data-tags="mellow, songs about time, monochrome album covers" role="button">
 Mimicking Birds - EONS (2014-05-13)
@@ -311,9 +314,6 @@ Arca - Xen (2014-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fa944c2-3273-4ceb-b015-aa577d0183d6/8906936264-500.jpg" data-tags="monochrome album covers" role="button">
 The New Basement Tapes - Lost On The River (2014-11-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
-Andy Stott - Faith In Strangers (2014-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/29870511-2c03-49fb-ab9f-521a5587032c/8959503090-500.jpg" data-tags="indie pop, indie, 10s" role="button">
 Belle and Sebastian - Girls in Peacetime Want To Dance (2015-01-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:52:01.412Z
+date: 2021-04-11T10:23:06.993Z
 title: "j-rock: 100 albums you must listen to before you die"
 ---
 ![DIR EN GREY - Vulgar (2003-09-10)](http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg "DIR EN GREY - Vulgar (2003-09-10)")
@@ -35,9 +35,6 @@ X Japan - DAHLIA (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea37767c-a8fa-4b63-b2b3-878fbfc288d3/7461388127-500.jpg" data-tags="j-rock" role="button">
 DIR EN GREY - Missa (1997-07-25)
-</li>
-<li data-cover="https://img.discogs.com/gofzg8WWrEfHC3XGOdjWFnmXbh0=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5276007-1592068264-7558.jpeg.jpg" data-tags="j-rock" role="button">
-X Japan - BALLAD COLLECTION (1997-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d3b9817-b46c-46e7-a94a-3675134fbcf9/21937152600-500.jpg" data-tags="visual kei, j-rock" role="button">
 Malice Mizer - merveilles (1998-03-18)
@@ -155,6 +152,9 @@ the GazettE - NIL (2006-02-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, male vocalists, j-rock, j-pop-rock" role="button">
 雅-MIYAVI- - MYV☆POPS (2006-02-18)
+</li>
+<li data-cover="https://img.discogs.com/_ReOz2Eg5OLNoovgXmZfvgchvfs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13986322-1565521811-3863.webp.jpg" data-tags="japanese" role="button">
+GACKT - Love Letter (2006-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a73f09e4-0136-44c4-a3ee-9dff4617d7f9/3462461101-500.jpg" data-tags="jpop, j-rock, j-pop, jrock" role="button">
 ASIAN KUNG-FU GENERATION - ファンクラブ (2006-03-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:45:01.638Z
+date: 2021-04-11T10:27:01.760Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -129,11 +129,11 @@ Marilyn Manson - The Last Tour On Earth (1999-11-15)
 <li data-cover="http://coverartarchive.org/release/af482700-2875-4f53-a093-6b0d6e2fd81a/11998407874-500.jpg" data-tags="industrial, industrial rock" role="button">
 Zeromancer - Clone Your Lover (2000-03-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/d319b51e-30fc-4839-a736-3b45485c7021/19369524581-500.jpg" data-tags="industrial rock" role="button">
+Sunna - One Minute Science (2000-08-15)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Things Falling Apart (2000-11-20)
-</li>
-<li data-cover="https://img.discogs.com/Dt1qi-G8_M97hViuAQnOC3hzw2k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10754018-1503707910-8545.jpeg.jpg" data-tags="christian rock" role="button">
-Skillet - Alien Youth (2001)
 </li>
 <li data-cover="https://img.discogs.com/ClqCnAqgcr32bxyLf8wML1Etp0Q=/fit-in/597x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3527-1158197889.jpeg.jpg" data-tags="industrial rock, deep - nine inch nails" role="button">
 Nine Inch Nails - Deep (2001)
@@ -228,6 +228,9 @@ Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 <li data-cover="http://coverartarchive.org/release/d9294662-5a24-37ab-9fd7-e04a2480ab52/1068174325-500.jpg" data-tags="metal, industrial metal" role="button">
 Rob Zombie - Educated Horses (2006-03-27)
 </li>
+<li data-cover="https://img.discogs.com/uYsLQLV8Pr29KJhrRVoYNYAfNWk=/fit-in/412x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574375-1229498260.jpeg.jpg" data-tags="industrial rock" role="button">
+Nine Inch Nails - Survivalism (2007-02-21)
+</li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
 </li>
@@ -254,9 +257,6 @@ The Birthday Massacre - Walking With Strangers (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/61638deb-6bce-3795-a26c-ac2a92b7e66c/3799679959-500.jpg" data-tags="industrial rock, electronic, industrial, remix" role="button">
 Nine Inch Nails - Y34RZ3r0r3mix3d (2007-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
-Blue Stahli - Antisleep Vol. 01 (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/81986e63-5d57-4a14-aad6-94862bce7d3a/16113305025-500.jpg" data-tags="industrial jungle pussy punk" role="button">
 Mindless Self Indulgence - If (2008-04-28)

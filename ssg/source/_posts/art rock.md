@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:31:06.871Z
+date: 2021-04-11T10:17:01.533Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -56,9 +56,6 @@ Yes - Close to the Edge (1972-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">
 Roxy Music - For Your Pleasure (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/89355b1f-40af-339d-b873-bfff6c53a3e8/10012036324-500.jpg" data-tags="70s" role="button">
-John Cale - Paris 1919 (1973-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
@@ -245,6 +242,9 @@ maudlin of the Well - Part the Second (2009-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdf30a42-404a-46ec-aa4e-6bc0f3ca519c/4766492813-500.jpg" data-tags="progressive rock" role="button">
 dredg - The Pariah, The Parrot, The Delusion (2009-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f742e01-1a66-4592-bf8f-269e2b34f356/4485185997-500.jpg" data-tags="alternative rock" role="button">
+Radiohead - In Rainbows Disk 2 (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3256f5bb-0bb1-4ac4-b581-43803afd0573/18799589016-500.jpg" data-tags="indie rock, rock" role="button">
 Sunset Rubdown - Dragonslayer (2009-06-23)

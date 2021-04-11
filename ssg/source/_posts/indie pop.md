@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:04:01.442Z
+date: 2021-04-11T10:19:01.410Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -132,9 +132,6 @@ Florence + the Machine - Between Two Lungs (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
 <li data-cover="https://img.discogs.com/o8_V-hTUs1ECCKn6hzsWwStkPAs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7314256-1438690931-2167.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
@@ -257,6 +254,9 @@ Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
+NONONO - Pumpin Blood (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
 The Neighbourhood - I Love You. (2013-04-19)

@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T03:10:01.488Z
+date: 2021-04-11T10:45:01.581Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/305a3d69-e0f6-44eb-a941-8471ee6c642d/9120061238-500.jpg" data-tags="soul" role="button">Gil Scott-Heron - Pieces of a Man (1971)</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">Rage Against the Machine - The Battle of Los Angeles (1999-09)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
-<li data-cover="http://coverartarchive.org/release/56db4963-266b-4c39-8515-57ee7a11f0d1/14154529310-500.jpg" data-tags="punk, folk punk" role="button">Against Me! - Reinventing Axl Rose (2002-02-02)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/4308166d-aa0d-470e-adc9-b62caab2ef68/3202117662-500.jpg" data-tags="alternative metal" role="button">Serj Tankian - Elect the Dead (2007-08-20)</li>
@@ -59,6 +59,9 @@ Steel Pulse - Tribute To The Martyrs (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/1280555a-4ab5-4c72-ab51-bd883b9865f6/8094406633-500.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Plastic Surgery Disasters (1982-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+Time Zone - World Destruction (1984)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
@@ -144,6 +147,9 @@ Refused - The Shape of Punk to Come (1998-10-27)
 <li data-cover="http://coverartarchive.org/release/ba62578d-6e37-462c-99a9-561fb60b14ca/24754125331-500.jpg" data-tags="singer-songwriter, acoustic, americana" role="button">
 Mary Gauthier - Drag Queens in Limousines (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b1620bb-b358-419a-8641-ae29c05f8d80/11006068559-500.jpg" data-tags="spanish, political, workers songs" role="button">
+Non Servium - Orgullo Obrero (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
@@ -171,9 +177,6 @@ Good Riddance - Symptoms Of A Leveling Spirit (2001-07-10)
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/56db4963-266b-4c39-8515-57ee7a11f0d1/14154529310-500.jpg" data-tags="punk, folk punk" role="button">
-Against Me! - Reinventing Axl Rose (2002-02-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/51ce4f62-5b11-41c5-847e-a2799bfb1153/15445563588-500.jpg" data-tags="acoustic, folk rock, ani difranco" role="button">
 Ani DiFranco - So Much Shouting, So Much Laughter (2002-09-10)
 </li>
@@ -198,14 +201,14 @@ Immortal Technique - Revolutionary, Volume 2 (2003-11-18)
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
 </li>
-<li data-cover="https://img.discogs.com/wknkX9Fqq3V8GLSE0W94-ei6fNo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060736-1385800712-8915.jpeg.jpg" data-tags="hip-hop" role="button">
-Promoe - The Long Distance Runner (2004-03-22)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
 Bad Religion - The Empire Strikes First (2004-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Beastie Boys - To the 5 Boroughs (2004-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/54a0b510-701a-4a8a-88ba-6336fed6520b/4395548610-500.jpg" data-tags="impossible for liberals to deal with" role="button">
+KRS-One - Keep Right (2004-07-13)
 </li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Siren Song of the Counter Culture (2004-08-10)
@@ -242,9 +245,6 @@ Laibach - Volk (2006-10-23)
 </li>
 <li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
 The John Butler Trio - Grand National (2007-03-23)
-</li>
-<li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="pop, singer-songwriter, usa, slow, contralto, political, live, 00s, ballad, protest song, pink, english lyrics, p!nk, bush, critical, open letter, coolwench, george w, arcoustic" role="button">
-P!nk - Dear Mr. President (2007-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - Year Zero (2007-04-14)

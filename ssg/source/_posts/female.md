@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:42:07.008Z
+date: 2021-04-11T10:05:01.529Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -38,9 +38,6 @@ Mary Chapin Carpenter - Come On Come On (1992-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
 Liz Phair - Exile in Guyville (1993-06-22)
-</li>
-<li data-cover="https://img.discogs.com/qt_TXxZUTX877UK-JxoURwW4as8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887422-1339251264-6500.jpeg.jpg" data-tags="relaxing calm and fresh" role="button">
-Lisa Ekdahl - Lisa Ekdahl (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
@@ -110,6 +107,9 @@ Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/emXVclxpITLsojrHsGQjsxh9T2E=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-903949-1574984478-5378.jpeg.jpg" data-tags="female, crazy, 00s, kirsty, soundtrack of my life, strong solo woman, naked covers, my mp3 albums" role="button">
 Martha Wainwright - Bloody Mother Fucking Asshole (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/4250b00b-e298-46f4-b718-bd85dfa1932f/10369077725-500.jpg" data-tags="indie" role="button">
+Devics - The Stars At Saint Andrea (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)

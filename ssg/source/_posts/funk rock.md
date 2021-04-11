@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:01:07.357Z
+date: 2021-04-11T10:41:01.403Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -77,6 +77,9 @@ Red Hot Chili Peppers - B-Sides (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/b231929d-60f7-4768-b60b-2130b23447ce/9166547195-500.jpg" data-tags="instrumental, acoustic, acoustic rock, funk rock, progressive funk rock, acoustic funk rock" role="button">
 Blues Saraceno - Never Look Back (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/31b2522c-041b-44b7-9daa-17ecea4faf6f/28725503103-500.jpg" data-tags="hard rock, hair metal" role="button">
+Extreme - Extreme (1989-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
@@ -159,14 +162,14 @@ I Mother Earth - Scenery and Fish (1996-07-09)
 <li data-cover="http://coverartarchive.org/release/5bb9015d-6d4b-4226-b4d8-196397e59554/20311788316-500.jpg" data-tags="heavy metal, metal, jazz, rock, alternative, alternative rock, experimental, progressive metal, hard rock, progressive rock, fusion, funk metal, funk, progressive, funk rock, wants, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, spanking hour" role="button">
 Freak Kitchen - Spanking Hour (1996-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
-Snot - Get Some (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/ba4dc6f2-d13f-3dad-86f2-3b1479754741/24944191320-500.jpg" data-tags="hard rock" role="button">
+Van Halen - Van Halen III (1998-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b3f8613-c204-4401-b16a-b503efd939d1/7081013392-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - 5 (1998-04-30)
@@ -248,9 +251,6 @@ Faith No More - The Platinum Collection (2005-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
-</li>
-<li data-cover="https://img.discogs.com/Xojl4yyVbda7B-_xAFBH8sj49pI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2634029-1590398049-8768.jpeg.jpg" data-tags="funk, soul" role="button">
-Robert Randolph & The Family Band - Colorblind (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/95a25406-ba49-41a5-8405-bdfc9db7842c/18755296964-500.jpg" data-tags="pop, alternative, psychedelic" role="button">
 Satellite Party - Ultra Payloaded (2007-05-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:16:12.487Z
+date: 2021-04-11T10:37:01.408Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -45,9 +45,6 @@ Motion City Soundtrack - I Am the Movie (2002)
 <li data-cover="http://coverartarchive.org/release/3b99e882-bce7-4d9e-a607-0ba2cd132b5f/15055745410-500.jpg" data-tags="pop, rock, alternative pop, benchmark production, my cds" role="button">
 Lisa Miskovsky - Fallingwater (2003)
 </li>
-<li data-cover="https://img.discogs.com/IZiCXRPKqjIpX_CPAqRz_2HJ7yU=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006598-1599280156-2301.jpeg.jpg" data-tags="electronic, electronica, electropop, pop, female vocalists, synth pop, synth, synthpop, alternative pop, ballad, 2010s, ballads, leona lewis, disappointing, underrated album, albumsiown, 2012 albums, leona, alternative electropop, favorite covers ever" role="button">
-Leona Lewis - Glassheart (2003-01-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/1afe7e41-7c77-4e13-90e5-f170404ad3df/13703071855-500.jpg" data-tags="alternative, brit-pop, alternative britpop, alternative rock, 90s" role="button">
 Suede - Singles (2003-10-20)
 </li>
@@ -81,6 +78,9 @@ Glen Hansard & Markéta Irglová - The Swell Season (2006-04-21)
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
 </li>
+<li data-cover="https://img.discogs.com/-q9Muwpgi1C91mbsxr7LqTI8uLY=/fit-in/582x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-805181-1302985678.jpeg.jpg" data-tags="pop, alternative pop" role="button">
+Lisa Miskovsky - Changes (2006-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/ced38f22-8389-3700-997e-1f8eeceda725/26869342430-500.jpg" data-tags="canada, alternative pop, 2000s" role="button">
 Barenaked Ladies - Barenaked Ladies Are Me (2006-09-08)
 </li>
@@ -90,11 +90,14 @@ Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d66a821-481a-4abd-b56b-de6f123f6b64/17263278835-500.jpg" data-tags="spanish, folk, compilation, alternative pop, latin pop, mexican, accordion" role="button">
+Julieta Venegas - Realmente Lo Mejor (2007-12-18)
+</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
-<li data-cover="https://img.discogs.com/CxaxQTRdkefB4S8wlARoysjmuTo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1403054-1216677090.jpeg.jpg" data-tags="00s, alternative pop" role="button">
-Little Jackie - The Stoop (2008-07-08)
+<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
+Jem - Down to Earth (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
 Razorlight - Slipway Fires (2008-11-03)
@@ -107,12 +110,6 @@ Florence + the Machine - Between Two Lungs (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">
 Antony and the Johnsons - The Crying Light (2009-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
-<li data-cover="https://img.discogs.com/nMUq5r_7Cx55c3hDjKfzXSV9Zp0=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717943-1238941814.jpeg.jpg" data-tags="2009 albums" role="button">
-Bat for Lashes - Daniel (2009-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
@@ -135,11 +132,11 @@ Travie McCoy - Lazarus (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c836c0e6-e93c-49cf-8ec4-b411c9f86287/10324450475-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Sidewalks (2010-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6bab9cf-a6bd-400f-9846-f93775f1475b/3420628199-500.jpg" data-tags="indie, pop, rock, synthpop, alternative pop, universal, lagom" role="button">
 Daniel Adams-Ray - Svart, vitt och allt däremellan (2010-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/593b010f-3419-4369-ade2-5d64518b974d/8736969679-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
+Lana Del Rey - Kinda Outta Luck (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
@@ -152,9 +149,6 @@ Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
 <li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
 Owl City - All Things Bright and Beautiful (2011-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
-Dye - Taki 183 (2011-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
@@ -228,9 +222,6 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/1ddc6293-6ce5-42ad-8936-976133784f5a/4051676455-500.jpg" data-tags="indie pop" role="button">
 La Femme - Psycho Tropical Berlin (2013-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Junip - Junip (2013-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/691523f5-40e2-41af-815c-6acdfbf13c29/4160451322-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 New Politics - A Bad Girl In Harlem (2013-05-17)
 </li>
@@ -242,6 +233,9 @@ White Lies - Big TV (2013-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)
+</li>
+<li data-cover="https://img.discogs.com/i170_FtE9UJVOulIkjmVSw3pASI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4911323-1379266102-8380.jpeg.jpg" data-tags="country, alternative rock, folk, indie rock, americana, alternative country, alternative pop, alternative country rock" role="button">
+Neko Case - The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You (Deluxe Edition) (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
@@ -261,6 +255,9 @@ Warpaint - Warpaint (2014-01-17)
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
 Broken Bells - After the Disco (2014-01-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/45768da7-5e15-48a2-a9ca-1f644816b295/10270257907-500.jpg" data-tags="twee, alternative pop, new world records, blue horizon ventures, 2014 favourite albums" role="button">
+Fanfarlo - Let's Go Extinct (2014-02-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
 </li>
@@ -275,6 +272,9 @@ Foster the People - Supermodel (2014-03-14)
 </li>
 <li data-cover="https://img.discogs.com/1kbO307E3pv2qctbKUNAotmD8do=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5532669-1395807776-7865.jpeg.jpg" data-tags="indie pop, synthpop, alternative pop" role="button">
 Mr. Little Jeans - Pocketknife (2014-03-25)
+</li>
+<li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
+Damon Albarn - Everyday Robots (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)

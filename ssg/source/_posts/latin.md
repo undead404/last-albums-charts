@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:52:01.417Z
+date: 2021-04-11T10:16:12.542Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -75,9 +75,6 @@ Cypress Hill - III - Temples Of Boom (1995-10-30)
 <li data-cover="http://coverartarchive.org/release/da9bd129-a9ac-4d9d-b915-5940d0a4f451/10021627605-500.jpg" data-tags="spanish" role="button">
 Jarabe de Palo - La Flaca (1996)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="latin, lucerito" role="button">
-Lucero - Lucero (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/321e7965-876b-404b-a1ab-c0f8395fe320/14938667115-500.jpg" data-tags="latin, alternative latin" role="button">
 Café Tacvba - Avalancha de éxitos (1996-11-05)
 </li>
@@ -98,6 +95,9 @@ Thalía - Amor a la Mexicana (1997-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0dfa263-a615-4a3a-a913-9529aec7014d/10841943216-500.jpg" data-tags="latin, spanish, pop" role="button">
 Enrique Iglesias - Cosas Del Amor (1998)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="latin, trombone, latin jazz, salsa, mambo, puerto rico, latinjazz, salsa dura, latino americain, jimmy bosch, trombon, coreos" role="button">
+Jimmy Bosch - Soneando Trombon (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/49c8febc-20e8-340b-a5c9-ebe368784ec7/3011285000-500.jpg" data-tags="latin, instrumental, acoustic" role="button">
 Gustavo Santaolalla - Ronroco (1998-01-13)
@@ -174,6 +174,9 @@ Aventura - We Broke The Rules (2002-07-02)
 <li data-cover="http://coverartarchive.org/release/2e557f9b-9954-477d-a4c2-5dd7bd945fda/4672249676-500.jpg" data-tags="rock, latin rock" role="button">
 Santana - Shaman (2002-10-22)
 </li>
+<li data-cover="https://img.discogs.com/1hAMKBj0GpScDbDgbwAdCeAaFv8=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330996-1118257022.jpg.jpg" data-tags="jazz" role="button">
+Ive Mendes - Ive Mendes (2002-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
 </li>
@@ -231,14 +234,14 @@ The Cat Empire - Two Shoes (2005-09)
 <li data-cover="http://coverartarchive.org/release/b04d255e-d2bd-48b9-800e-243e79c81d55/17642227829-500.jpg" data-tags="rbd" role="button">
 RBD - Nuestro Amor (2005-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/125c9366-4f4f-3166-a31e-6855d9199b28/7547146717-500.jpg" data-tags="latin rock, classic rock, guitar" role="button">
+Santana - All That I Am (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a95f8b2-10f5-4244-9d03-9278cf849a73/9221638230-500.jpg" data-tags="latin, bachata" role="button">
 Toby Love - Toby Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/80b8d76a-36f2-477d-84b8-afac2918445c/8266537911-500.jpg" data-tags="dance, latin" role="button">
 Shakira - Hips Don't Lie (2006-04-17)
-</li>
-<li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
-Kudai - Sobrevive (2006-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, latin, salsa" role="button">
 Chelo - Cha Cha (2006-06-14)
@@ -248,9 +251,6 @@ Pitbull - El Mariel (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5096080f-1ea5-46f9-88ce-d717164e1890/23129263297-500.jpg" data-tags="latin, luis fonsi" role="button">
 Luis Fonsi - Exitos: 98:06 (2006-11-21)
-</li>
-<li data-cover="https://img.discogs.com/fKgjYyvMw0-0AAdfeGhDzx4Zybs=/fit-in/450x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343325-1468082959-4205.jpeg.jpg" data-tags="celestial, rbd, pop" role="button">
-RBD - Celestial (2006-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a16735f-7523-4453-b0ad-4c90a7ed10f9/11580385120-500.jpg" data-tags="latin, chayanne" role="button">
 Chayanne - Mi Tiempo (2006-12-31)

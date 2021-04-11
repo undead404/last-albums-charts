@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:40:01.411Z
+date: 2021-04-11T10:21:01.514Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 The Necks - Sex (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0197c94-5f06-39fa-a69a-470c5101c186/16747762348-500.jpg" data-tags="electronic, electronica, experimental, minimal, idm, 90s, glitch, ambient techno, skam, n01s3 n k00l" role="button">
-Gescom - Gescom EP (1994-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e16c41e-9608-4921-a0f2-03838ac87d83/2513940088-500.jpg" data-tags="idm" role="button">
 Gescom - Key Nell (1996-06-06)
 </li>
@@ -41,6 +38,9 @@ Stars of the Lid - Avec Laudenum (1999-12-07)
 </li>
 <li data-cover="https://img.discogs.com/z5rTtWuqysDNQVfcqLtrPNt05mg=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6439-1563439630-1030.jpeg.jpg" data-tags="minimal" role="button">
 Isolée - Rest (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/4d03ebe7-5232-45d7-9959-cf7e29376e2a/3226483176-500.jpg" data-tags="idm" role="button">
+Arovane - Atol Scrap (2000-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/83989bd9-e1bb-4d46-a23f-db62e29ffae1/8216806379-500.jpg" data-tags="microhouse, minimal" role="button">
 Luomo - Vocalcity (2000-05-23)
@@ -126,9 +126,6 @@ Shuttle358 - Chessa (2004-12-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Marc Houle - Restore (2004-12-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/addb5e0a-8889-49fd-a615-b734425f6e27/15210128710-500.jpg" data-tags="electronic, ambient, dub, minimal" role="button">
-Deadbeat - New World Observer (2005-03-29)
-</li>
 <li data-cover="https://img.discogs.com/J_RiETF5tMis2K7nhFBac1oS_xA=/fit-in/501x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435128-1163417283.jpeg.jpg" data-tags="chillout, ambient, psychill" role="button">
 Tripswitch - Circuit Breaker (2005-04-04)
 </li>
@@ -150,8 +147,8 @@ Vladislav Delay - The Four Quarters (2005-09)
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dd60a6b-fd78-495c-897a-2c7d73f184d4/28512578098-500.jpg" data-tags="minimal" role="button">
-Ricardo Villalobos - AchSo (2005-12-12)
+<li data-cover="http://coverartarchive.org/release/3a8d1884-5e04-4994-a7bf-8bf8ec0e2cef/8204465030-500.jpg" data-tags="techno, minimal, electronic, electro" role="button">
+Paul Kalkbrenner - Maximalive (2005-11-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Oliver Koletzki - Mückenschwarm Remixes (2005-12-26)
@@ -174,6 +171,9 @@ Paul Kalkbrenner - Keule (2006-07-03)
 <li data-cover="http://coverartarchive.org/release/8fdccabf-6e59-49ee-b9b7-6d2da001910a/3800337145-500.jpg" data-tags="electronic" role="button">
 James Figurine - Mistake Mistake Mistake Mistake (2006-07-10)
 </li>
+<li data-cover="https://img.discogs.com/LiBLEXXbu4RaadKzfGtBRBy8PeA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-842568-1536010524-6050.jpeg.jpg" data-tags="instrumental, ambient, drone" role="button">
+Eluvium - When I Live by the Garden and the Sea (2006-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ea84aa32-ab9c-4824-9db5-a505d086b68f/8152589613-500.jpg" data-tags="minimal" role="button">
 Audion - Mouth to Mouth (2006-09-19)
 </li>
@@ -186,6 +186,9 @@ Anders Ilar - Nightwidth (2006-10-31)
 <li data-cover="http://coverartarchive.org/release/100350f3-0b40-452c-9779-ba79fe670575/11513393658-500.jpg" data-tags="minimal" role="button">
 Minilogue - The Leopard Rmx (2007-01)
 </li>
+<li data-cover="https://img.discogs.com/o4HxenxjjzRaOvL57Qs8kJbA4U8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958820-1226868065.jpeg.jpg" data-tags="ambient, minimal" role="button">
+Taylor Deupree - Landing (2007-04-30)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
@@ -195,17 +198,20 @@ Mujuice - Cool Cool Death (2007-06-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Marc Romboy - Sunburst (2007-06-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/041f224b-6030-4e55-b1df-32e168aef381/4514687809-500.jpg" data-tags="raster-noton, minimal, glitch" role="button">
+Frank Bretschneider - Rhythm (2007-07-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/1165918c-a517-4418-855b-fae785adec6c/4542752130-500.jpg" data-tags="electronic, remix" role="button">
 Thom Yorke - The Eraser Rmxs (2007-12-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
+Balmorhea - Rivers Arms (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb378a3-124f-4213-be5d-eebda83d05d4/15635845028-500.jpg" data-tags="electronic, minimal, get physical, my virtual music shelf, nasmy" role="button">
 Nôze - Songs On The Rocks (2008-04-25)
 </li>
 <li data-cover="https://img.discogs.com/0AldCjIIBVcDo1X0pFzXwcodc_Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1368947-1299646176.jpeg.jpg" data-tags="electronic" role="button">
 Bodi Bill - Next Time (2008-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/efe990f7-a86f-48bb-8a10-cd490c755479/27006317741-500.jpg" data-tags="electro, techno, minimal, abstract, bpitch control" role="button">
-Ellen Allien - Sool (2008-05-27)
 </li>
 <li data-cover="https://img.discogs.com/rwh2t1w291EEefqEg6jhb2aJjew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1391839-1281009886.jpeg.jpg" data-tags="minimal" role="button">
 Marek Hemmann - Junoka EP (2008-08-04)
@@ -227,9 +233,6 @@ The xx - Basic Space (2009-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="electronic, electronica, techno, house, minimal, moby, electro-pop, 21st century" role="button">
-Röyksopp - This Must Be It (2009-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/847fae92-9f97-484b-b4d1-769c42077263/17800648002-500.jpg" data-tags="electronic, indie" role="button">
 The xx - Islands (2009-10-26)
@@ -299,9 +302,6 @@ DJ Koze - Amygdala (2013-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3746e7a0-b546-4a67-8e72-6ab9761069e4/28676581407-500.jpg" data-tags="trip-hop" role="button">
 Emika - Dva (2013-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/666aed5e-09d0-4825-b932-c77461627cfe/18006497469-500.jpg" data-tags="house" role="button">
-Maya Jane Coles - Comfort (2013-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/910f52ac-6f28-4ea3-9946-c10526357f18/24086155537-500.jpg" data-tags="electronic, indie, alternative, indie pop, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">
 The xx - Fiction (2013-07-12)

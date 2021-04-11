@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:10:01.428Z
+date: 2021-04-11T10:32:01.415Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -105,14 +105,8 @@ Wings - London Town (1978)
 <li data-cover="http://coverartarchive.org/release/e5ef6cd9-d078-4435-b005-2f4ee6d44d61/1507872034-500.jpg" data-tags="rock" role="button">
 The Beatles - The Beatles (1978)
 </li>
-<li data-cover="https://img.discogs.com/_Y-d56JUMvZJgxDuftfr0y4SsMU=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450570-1172752373.jpeg.jpg" data-tags="british" role="button">
-The Rutles - The Rutles (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fde009c-c33b-3379-91ba-67dcfe6f8f68/6674918603-500.jpg" data-tags="classic rock, 60s" role="button">
 The Beatles - Rarities (1978-11-02)
-</li>
-<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
-Wings - Wings Greatest (1978-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
 Wings - Back To The Egg (1979-05-24)
@@ -132,6 +126,9 @@ The Beatles - The Decca Tapes (1986-03-01)
 <li data-cover="http://coverartarchive.org/release/94a55bb4-abb2-4d8c-8646-a06c56cd5a2c/9460984577-500.jpg" data-tags="classic rock, rock" role="button">
 George Harrison - Cloud Nine (1987-11-02)
 </li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles, stonedbeat" role="button">
+The Beatles - LIVE IN PARIS 1965 (1988)
+</li>
 <li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
 </li>
@@ -140,6 +137,9 @@ Sarah Vaughan - Songs of the Beatles (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a766e00-e9a7-4a83-85cd-5376b24525fd/5045275406-500.jpg" data-tags="beatles, 60na" role="button">
 The Byrds - The Byrds (1990-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/a3445a93-7585-49d1-b86a-ec1fa72a27ab/1395758810-500.jpg" data-tags="beatles, stonedbeat, work it" role="button">
+The Beatles - From Yesterday Forever (1991)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - No. 3 Abbey Road NW8 (1991)
@@ -170,9 +170,6 @@ The Beatles - Free as a Bird (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93920277-bb3f-4944-a33a-b4a48ee3f7e6/12052993672-500.jpg" data-tags="classic rock, 60s, beatles" role="button">
 The Beatles - Anthology 1 (1995-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9ebf61a-db25-45ea-ac98-98b53895acad/13888678204-500.jpg" data-tags="classic rock, comedy, parody, a bit of fun" role="button">
-The Rutles - Archaeology (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f0e91cc-04a0-4750-a68d-86dd64860939/24162795176-500.jpg" data-tags="beatles, randomly awesome, full tracks, rivers all time favorite albums, 60na, psychedelic peppermint, carnival radio" role="button">
 The Idle Race - Back To The Story (1996)
@@ -263,6 +260,9 @@ Rolla - La La Land (2005-09-28)
 </li>
 <li data-cover="https://img.discogs.com/tj2zU3V9AcrbiArentE5xunkYYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16577373-1608584361-6211.jpeg.jpg" data-tags="indie, rock, hamburg, zurich, beatles, jet, oasis, who, rolling stones, lennon, basel, roll, libertines, mccartney, biel, bienne, basle" role="button">
 Carnation - Waxy's Little Sister (2005-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/95895727-1c50-47ed-80a1-3885ea9490b7/13790095054-500.jpg" data-tags="beatles cover song" role="button">
+Lisa Lauren - Lisa Lauren Loves The Beatles (2006)
 </li>
 <li data-cover="https://img.discogs.com/tzidkIWH3rpqJSjHR1I2zmYOVTs=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6080742-1410559264-7482.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, indie pop, shoegaze, shoegazer, beatles, newgazer, my bloody valentine, engineers, sigur ros, the early years, newgaze, nugaze, ride, swervedriver, the wedding present, catherine wheel, fully streamable albums which i have streamed fully, nugazer, filmschool, soundpool, albuns completos ou quase completos, dream pop noise" role="button">
 Wry - Flames in the head (2006-04-03)

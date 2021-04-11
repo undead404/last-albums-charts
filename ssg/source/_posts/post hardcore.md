@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:53:01.399Z
+date: 2021-04-11T10:26:12.569Z
 title: "post hardcore: 100 albums you must listen to before you die"
 ---
 ![Chiodos - All&#39;s Well That Ends Well (2005-07-26)](http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg "Chiodos - All's Well That Ends Well (2005-07-26)")
@@ -51,11 +51,17 @@ Refused - The Shape of Punk to Come (1998-10-27)
 <li data-cover="https://img.discogs.com/ifHXDIv3kRCViLBL_BnMSYjcRRc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880651-1301137759.jpeg.jpg" data-tags="post-hardcore" role="button">
 At the Drive-In - Vaya (1999-07-13)
 </li>
+<li data-cover="https://img.discogs.com/zTITWyu4HLQARZfKbYy8vitcQU8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3195794-1610802198-5098.jpeg.jpg" data-tags="punk, post-hardcore" role="button">
+Hot Water Music - No Division (1999-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">
 Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)
 </li>
 <li data-cover="https://img.discogs.com/mWWmYqukf--04XnvgYW-RZqajk4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381186-1573438446-4282.jpeg.jpg" data-tags="post-hardcore" role="button">
 At the Drive-In - Relationship of Command (2000-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/afe99ff8-5fec-4c48-82d0-bd0797752b64/4703766981-500.jpg" data-tags="punk rock, post hardcore, hopeless, emopop" role="button">
+Moneen - The Theory of Harmonial Value (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/713deda0-0a2e-41c9-b303-d2ddac59bc5c/25421405055-500.jpg" data-tags="post hardcore, tooth and nail records" role="button">
 mewithoutYou - I Never Said That I Was Brave (2001-03-17)
@@ -75,9 +81,6 @@ Motion City Soundtrack - I Am the Movie (2002)
 <li data-cover="https://img.discogs.com/DuZxiqzLd09K9H3hMhebldCqm9M=/fit-in/300x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464307-1117349454.jpg.jpg" data-tags="post-hardcore" role="button">
 Glassjaw - Worship and Tribute (2002-07-09)
 </li>
-<li data-cover="https://img.discogs.com/dEQah6C7HfFT_jzEHA1fS4FnW6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547728-1457059020-1993.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
-Senses Fail - From The Depths Of Dreams (2002-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e56d2ad-b3e8-3fe3-87c8-5ae3a2c71c09/10844781822-500.jpg" data-tags="live, post hardcore" role="button">
 Thursday - Five Stories Falling (2002-10-22)
 </li>
@@ -90,11 +93,11 @@ The Blood Brothers - Burn, Piano Island, Burn (2003-03-18)
 <li data-cover="https://img.discogs.com/kRhGE1p4CAb52fJpgyfezYZq1rw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371783-1530777030-9373.png.jpg" data-tags="screamo, post hardcore" role="button">
 Envy - A Dead Sinking Story (2003-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
-Silverstein - When Broken Is Easily Fixed (2003-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/f646e4b6-8aa4-4d0b-84f8-db0cf5bb995c/22029913217-500.jpg" data-tags="post-hardcore" role="button">
 Beloved - Failure On (2003-06-12)
+</li>
+<li data-cover="https://img.discogs.com/lWHmK9kuimivwnEarRIGWx8megQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955515-1556813739-3408.jpeg.jpg" data-tags="post hardcore" role="button">
+These Arms Are Snakes - This Is Meant To Hurt You (2003-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/af6212bb-3139-3251-9a89-0e510de3ed11/2341635674-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - War All The Time (2003-09-15)
@@ -170,9 +173,6 @@ Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post hardcore, raw rock" role="button">
 Showbread - Age Of Reptiles (2006-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ce948fc-a995-4c62-8f00-3f5db5700341/4889935052-500.jpg" data-tags="indie rock" role="button">
 mewithoutYou - Brother, Sister (2006-09-26)
@@ -267,11 +267,11 @@ La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-
 <li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
 The Fall of Troy - Phantom on the Horizon (2008-11-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/dddf0c43-c13e-4369-9639-b8dd6fcd9670/10875440689-500.jpg" data-tags="math rock, post punk, post hardcore, progressive post hardcore, mathpop mathrock indie, weas que planeo escuchar" role="button">
+Bats - Red In Tooth & Claw (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0872256a-1e32-457c-877f-18c9d8d28af7/17951540112-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Burden of a Day - OneOneThousand (2009-05-12)
@@ -297,9 +297,6 @@ Pierce The Veil - Selfish Machines (2010-06-21)
 <li data-cover="https://img.discogs.com/h8mSdwLyHnh0wIZRLtg5I05DwcM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296987-1415845055-8582.jpeg.jpg" data-tags="rock, alternative, pop punk, post-hardcore, emocore, post hardcore, emopop" role="button">
 Conditions - Fluorescent Youth (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/6d5bc5dc-bcbc-4e96-9b68-7b4033cc8da4/6515413633-500.jpg" data-tags="experimental, post-hardcore" role="button">
-Dance Gavin Dance - Downtown Battle Mountain II (2011-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/f03fc5b3-2ef7-4191-9386-7eed09d76090/3429279743-500.jpg" data-tags="emo, post-hardcore, j-rock, post hardcore" role="button">
 ONE OK ROCK - 残響リファレンス (2011-05-10)
 </li>
@@ -320,5 +317,8 @@ HRVRD - From the Bird's Cage (2013-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/19c37c03-f88c-42f2-9465-263c227bc5bf/8360571008-500.jpg" data-tags="post-hardcore" role="button">
 Tiny Moving Parts - Pleasant Living (2014-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6bdb2f8-4a41-4d2b-96ab-ead862853b91/8508805859-500.jpg" data-tags="post-hardcore" role="button">
+Hail the Sun - Wake (2014-09-23)
 </li>
 </ol>

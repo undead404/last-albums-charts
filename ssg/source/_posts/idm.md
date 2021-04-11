@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:01:06.900Z
+date: 2021-04-11T10:44:07.152Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -42,6 +42,9 @@ Aphex Twin - Classics (1994-12)
 <li data-cover="http://coverartarchive.org/release/49e04615-eb8d-3a81-af8e-402496a33d19/4819179308-500.jpg" data-tags="idm, electronic, ambient" role="button">
 Autechre - Garbage (1995-02-27)
 </li>
+<li data-cover="https://img.discogs.com/xbDnd1s1Cv1ovJzUYRIubS-Pvq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28692-1234359237.jpeg.jpg" data-tags="idm" role="button">
+Autechre - Anvil Vapre (1995-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8c015c8-2418-3e11-b71f-f9e391d94f6e/16619973353-500.jpg" data-tags="idm" role="button">
 Autechre - Tri Repetae (1995-11-06)
 </li>
@@ -74,9 +77,6 @@ Boards of Canada - Peel Session (1998-06-16)
 </li>
 <li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
 Autechre - LP5 (1998-07-13)
-</li>
-<li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
-Leftfield - Rhythm and Stealth (1999-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d03ebe7-5232-45d7-9959-cf7e29376e2a/3226483176-500.jpg" data-tags="idm" role="button">
 Arovane - Atol Scrap (2000-01)

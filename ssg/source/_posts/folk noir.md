@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T15:42:06.995Z
+date: 2021-04-11T09:51:01.418Z
 title: "folk noir: 100 albums you must listen to before you die"
 ---
-![Angus &amp; Julia Stone - Down the Way (2010-03-12)](https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg "Angus & Julia Stone - Down the Way (2010-03-12)")
+![Patrick Wolf - The Bachelor (2009-06-01)](http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg "Patrick Wolf - The Bachelor (2009-06-01)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/e9e0bf3e-9a94-3585-93ef-e6c1f5e0e5de/23505005206-500.jpg" data-tags="martial industrial, neofolk" role="button">Blood Axis - The Gospel of Inhumanity (1995-08)</li>
+<li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">Garmarna - Vedergällningen (1999-04-06)</li>
+<li data-cover="http://coverartarchive.org/release/07b341fc-9fad-41ee-9b4c-8ffa86c395b5/2044678583-500.jpg" data-tags="folk noir, neofolk, neoclassical, celtic folk, wyrd folk, experimental folk, funeral folk, ethereal folk, darkfolk, ogham the ogham, je dirai quelque jour vos naissances latentes, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">Sieben - Ogham Inside the Night (2005)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alt-country, brilliant album" role="button">William Elliott Whitmore - Ashes to Dust (2005-02-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, post-punk, folk noir, retroschool, r parasol" role="button">Rykarda Parasol - Our Hearts First Meet (2006)</li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">Angus & Julia Stone - A Book Like This (2007-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">Patrick Wolf - The Bachelor (2009-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/b037ecc8-45fa-43c1-bf9a-30c4934b3aed/3104789300-500.jpg" data-tags="neofolk, neo folk" role="button">Neun Welten - Destrunken (2009-11-27)</li>
-<li data-cover="http://coverartarchive.org/release/74ac9bd6-77c8-43d5-b12d-cdc2cffd98fb/19384001502-500.jpg" data-tags="post-rock" role="button">Clogs - The Creatures in the Garden of Lady Walton (2010-03-02)</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">Angus & Julia Stone - Down the Way (2010-03-12)</li>
 <li data-cover="http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg" data-tags="psychedelic folk, psychedelic neofolk" role="button">Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/7d744184-34a0-415a-b89e-6f8c7ed2d305/11633838088-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">Blood Axis - Ultimacy (2011-08-26)</li>
-<li data-cover="https://img.discogs.com/6K6vayQ-5-CYTP1eqZtL3_szf9c=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3608524-1337203906-8071.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">Marissa Nadler - The Sister (2012-05-29)</li>
+<li data-cover="http://coverartarchive.org/release/749b013d-fd81-4ca1-9acd-4c5de34ba331/5904656404-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, music i tried but didnt like, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus, eurasian artists european association" role="button">Dernière Volonté - Mon Meilleur Ennemi (2012-05-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,9 +36,6 @@ Księżyc - Nów (1993)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise, post-rock" role="button">
 Gastr Del Sol - Crookt, Crackt, Or Fly (1994-04-18)
 </li>
-<li data-cover="https://img.discogs.com/aBABgt0RqUB5Mon82P7vNIXAONs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522688-1338988459-2631.jpeg.jpg" data-tags="folk, swedish" role="button">
-Garmarna - Vittrad (1994-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/e9e0bf3e-9a94-3585-93ef-e6c1f5e0e5de/23505005206-500.jpg" data-tags="martial industrial, neofolk" role="button">
 Blood Axis - The Gospel of Inhumanity (1995-08)
 </li>
@@ -48,20 +45,14 @@ Scorpion Wind - Heaven Sent (1996)
 <li data-cover="https://img.discogs.com/gfgoiSb_V7doW_t_D_s1JhEU-HE=/fit-in/590x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309080-1361405898-3934.jpeg.jpg" data-tags="neofolk" role="button">
 Backworld - Holy Fire (1996)
 </li>
-<li data-cover="https://img.discogs.com/iIR8P2o1UNaTJoE9QD487UOK7Mw=/fit-in/580x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816769-1232209294.jpeg.jpg" data-tags="folk" role="button">
-Garmarna - Guds Spelemän (1996-09-17)
+<li data-cover="http://coverartarchive.org/release/aaecbd4c-1c5e-448e-9528-ca42d9423963/14841497956-500.jpg" data-tags="dark folk" role="button">
+Fire + Ice - Rûna (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/677349c5-8978-43eb-bd7a-5d5ad1528126/23770251563-500.jpg" data-tags="folk, nordic ethno grooves, scandinavian folk" role="button">
 Garmarna - Garmarna (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
 Stellamara - Star of the Sea (1997)
-</li>
-<li data-cover="https://img.discogs.com/jFMO_L3ke59XTkR7Rr1_L9gI3Ik=/fit-in/330x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-804716-1160517186.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, free folk, apocalyptic folk" role="button">
-In Gowan Ring - The Twin Trees (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f0064c7-ceb2-4abe-a2d7-67985e1a741c/5525235632-500.jpg" data-tags="gothic, neoclassical" role="button">
-Elend - Weeping Nights (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/79eca596-f325-4617-8529-e2230eed0b1d/14488180752-500.jpg" data-tags="neofolk" role="button">
 Sol Invictus - In A Garden Green (1999)
@@ -72,11 +63,11 @@ Turbund Sturmwerk - Weltbrand (1999)
 <li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">
 Garmarna - Vedergällningen (1999-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e3a9217-0982-4b77-89ed-1e15487bb21a/19464887690-500.jpg" data-tags="folk, swedish underground" role="button">
-Garmarna - Vengeance (1999-04-06)
-</li>
 <li data-cover="https://img.discogs.com/5fCiiKZISmm0lvVhiawFbhzbtWU=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611582-1293132173.jpeg.jpg" data-tags="martial industrial" role="button">
 Von Thronstahl - Imperium Internum (2000)
+</li>
+<li data-cover="https://img.discogs.com/jzbLPpERU9rdlzPBHolzDJdRkyE=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393353-1107428310.jpg.jpg" data-tags="epic, neofolk" role="button">
+Leger Des Heils - Precatio (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5e4351e-fafd-3066-81a3-71e1cffd2133/3617687903-500.jpg" data-tags="neofolk, apocalyptic folk" role="button">
 Current 93 - Sleep Has His House (2000)
@@ -84,8 +75,8 @@ Current 93 - Sleep Has His House (2000)
 <li data-cover="https://img.discogs.com/odN_mixBOw_bWndp9Tfn1RaOuIg=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385078-1248849142.jpeg.jpg" data-tags="singer-songwriter, avantgarde, melancholic" role="button">
 Steve Von Till - As the Crow Flies (2000-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdf8d600-0893-4fe5-ba70-7065281e818d/17379814232-500.jpg" data-tags="tanzwut" role="button">
-Tanzwut - Labyrinth Der Sinne (2000-07-14)
+<li data-cover="http://coverartarchive.org/release/cf80170b-484c-44c3-8d40-65622582dc11/1740404925-500.jpg" data-tags="industrial" role="button">
+Deutsch Nepal - A Silent Siege (2002)
 </li>
 <li data-cover="https://img.discogs.com/3q3Rssrn_WEJBoTcmPzKAjm5W3Y=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392749-1107342097.jpg.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Leger Des Heils - Aryana (2002)
@@ -93,11 +84,17 @@ Leger Des Heils - Aryana (2002)
 <li data-cover="https://img.discogs.com/CRe3eF1up8sgihiNJOjdBeFgeWE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385023-1248848442.jpeg.jpg" data-tags="acoustic, folk" role="button">
 Steve Von Till - If I Should Fall To The Field (2002-10-01)
 </li>
+<li data-cover="https://img.discogs.com/R1lBbBZz4OC24dQE0LJ5h3RZcvU=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-303179-1430050013-2005.jpeg.jpg" data-tags="neofolk, apocalyptic folk" role="button">
+Cawatana - Struggle for wisdom (2003)
+</li>
 <li data-cover="https://img.discogs.com/_jICrP1JQsbgIN5jFEYrbYN5AzI=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750095-1154974913.jpeg.jpg" data-tags="neofolk" role="button">
 Ainulindalë - The Lay of Leithian (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4011aae-0c1e-3384-b44b-da8f62328f77/12568080600-500.jpg" data-tags="metal, industrial" role="button">
-Tanzwut - Ihr wolltet Spaß (2003-04-07)
+<li data-cover="http://coverartarchive.org/release/0b31e8cc-e8cd-4eb9-b7af-83774257a335/3456082639-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, cold spring, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
+Turbund Sturmwerk - Turbund Sturmwerk (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e693a55-e555-419a-8b46-bc0175d6969b/5525339515-500.jpg" data-tags="neoclassical" role="button">
+Elend - Winds Devouring Men (2003-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9e8879-d11b-450d-925b-b4845a39fdd4/1952249442-500.jpg" data-tags="martial industrial, neofolk" role="button">
 Dernière Volonté - Les Blessures de L'ombre (2003-05)
@@ -105,23 +102,14 @@ Dernière Volonté - Les Blessures de L'ombre (2003-05)
 <li data-cover="https://img.discogs.com/cnphNYFcaOzoqJ1qUCqIE78uQqc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506591-1397153284-1182.jpeg.jpg" data-tags="indie, folk, indie rock, atmospheric, alt-country, folk noir, 2000s, treeks favourites" role="button">
 Califone - Deceleration Two (2003-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c6f9b00-d6f1-48f1-913f-e331cca58e79/25743960778-500.jpg" data-tags="folk, acoustic, neofolk, dark folk" role="button">
-Carved in Stone - Hear the Voice (2004)
-</li>
 <li data-cover="https://img.discogs.com/pGW3JCXuM8HloqW3CXrc8Dcs2DE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295804-1188855521.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, apocalyptic folk, military pop, radio foe, military noir pop" role="button">
 Novo Homo - Private Hell (2004)
 </li>
 <li data-cover="https://img.discogs.com/bQKXi5r6CoYSeEOnTPG2tY9uGY0=/fit-in/391x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-264594-1122716850.jpg.jpg" data-tags="neofolk" role="button">
 Werkraum - Unsere Feuer Brennen! (2004-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/727b7e85-75b1-4aec-8e55-069d1d13acf0/7887577823-500.jpg" data-tags="alt-country" role="button">
-Woven Hand - Consider the Birds (2004-09-20)
-</li>
-<li data-cover="https://img.discogs.com/02KGDmQXoHOiDbOJgVGY3TKq3Bc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796835-1318983028.jpeg.jpg" data-tags="etheral" role="button">
-Stellamara - The Seven Valleys (2004-10-22)
-</li>
-<li data-cover="https://img.discogs.com/h755aup4vPrO0tBSWmYsUPI5sLs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737225-1153573735.jpeg.jpg" data-tags="ethereal, medieval" role="button">
-Elane - The Fire of Glenvore (2004-11-08)
+<li data-cover="http://coverartarchive.org/release/eef84711-da0a-41b4-b2e9-a6e5fae95155/21078918413-500.jpg" data-tags="neofolk" role="button">
+Death in June & Boyd Rice - Alarm Agents (2004-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9755e6bf-c439-4e09-bd7f-1300a770ce87/23650141567-500.jpg" data-tags="martial industrial, industrial" role="button">
 Kreuzweg Ost - Edelrost (2005)
@@ -147,8 +135,17 @@ William Elliott Whitmore - Ashes to Dust (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/87b3cb1c-554c-43e9-a4d0-936e1c581eb0/3259790727-500.jpg" data-tags="folk, canadian, folk noir, nancykitten all-time favourite albums, e a vajagic" role="button">
 Elizabeth Anka Vajagic - Nostalgia/Pain (2005-05-16)
 </li>
+<li data-cover="https://img.discogs.com/ljh_X5w1Ce5DG3PLy6SmrvRfuI4=/fit-in/441x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-561225-1131714320.jpeg.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
+Rukkanor - Deora (2005-11-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/241e4bee-a9ff-4cb2-87a2-259758a67dbf/3418037796-500.jpg" data-tags="alt-country" role="button">
 Tarantella - Esqueletos (2005-11-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="celtic" role="button">
+Elane - Love can't wait (2005-12-02)
+</li>
+<li data-cover="https://img.discogs.com/a6DDZA910TrXZ57PlbiUsj2odEc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670091-1146472430.jpeg.jpg" data-tags="neofolk" role="button">
+Graumahd - Cheru (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, post-punk, folk noir, retroschool, r parasol" role="button">
 Rykarda Parasol - Our Hearts First Meet (2006)
@@ -156,17 +153,20 @@ Rykarda Parasol - Our Hearts First Meet (2006)
 <li data-cover="https://img.discogs.com/7uDp6rOwqSLkJ9YEkEt7rW-Hvnw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-706912-1150120842.jpeg.jpg" data-tags="ambient, neofolk, dark folk, apocalyptic folk" role="button">
 Nebelung - Reigen (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3f6d58c-ef31-4f45-8ad2-33f1947290fe/2026078238-500.jpg" data-tags="melancholic, neoclassical" role="button">
-Ashram - Shining Silver Skies (2006-05)
-</li>
 <li data-cover="https://img.discogs.com/0DtbNoiwZL96dkTt9soXCuBz52w=/fit-in/555x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-712641-1152637704.jpeg.jpg" data-tags="je devrais avoir mon enfer de la caresse" role="button">
 Michael Cashmore - Sleep England (2006-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc0d07b7-d1dd-4ba4-9e3d-d3809385f870/19410773764-500.jpg" data-tags="ambient, dark, ghost, ghost ambient" role="button">
+Tor Lundvall - Yule (2006-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c026b5c-643e-421c-b4c8-e1c67c5b60b2/14841095858-500.jpg" data-tags="neofolk" role="button">
 Darkwood - Notwendfeuer (2006-12-14)
 </li>
-<li data-cover="https://img.discogs.com/ekdJCcLf1VfCOl-_YAZPJ3w4JXE=/fit-in/394x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963764-1178329206.gif.jpg" data-tags="italian, neofolk, hau ruck" role="button">
-Varunna - Cantos (2007)
+<li data-cover="https://img.discogs.com/mtmK5qB1HYr3zpWeTuYy4CsXzuo=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1062123-1189164472.jpeg.jpg" data-tags="folk noir, british folk, neofolk, dark folk, neoclassical, post-apocalyptic, funeral folk, british folk rock, nox-aeternus, ambient folk noir, apocalyptic folk noir" role="button">
+The Owl Service - A Garland of Song (2007)
+</li>
+<li data-cover="https://img.discogs.com/03UutTaDm-qQPnpcwhDQmrsEGJ4=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-996182-1452428700-9781.jpeg.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
+Leger Des Heils - Gloria (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
 Michael Cashmore - The Snow Abides (2007)
@@ -179,6 +179,9 @@ Rome - Confessions D'Un Voleur D'Ames (2007-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/246e7498-17dc-484d-94d1-28bb6b59b7e6/5525285126-500.jpg" data-tags="avant-garde, neoclassical, impossible for liberals to deal with, soundtrack to the apocalypse, neo-classical wave" role="button">
 Elend - A World in Their Screams (2007-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7682c1f-4b8d-4bbd-b2fc-a906da1cfb0c/2965698098-500.jpg" data-tags="folk, neofolk, dark folk, neoclassical, apocalyptic folk" role="button">
+Lux Interna - God is not dead for the birds (2007-05-25)
 </li>
 <li data-cover="https://img.discogs.com/2ViiaiyJFFZUb9A1qEc6y7xE9kI=/fit-in/467x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1055628-1188574818.jpeg.jpg" data-tags="neofolk" role="button">
 Naevus - Silent Life (2007-07)
@@ -195,23 +198,17 @@ Kiss the Anus of a Black Cat - Turn Hegel on his Head (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/8d22919d-84fd-49b1-a1a3-d76286ebd0c4/2234281903-500.jpg" data-tags="neofolk, dark folk, folk, ethereal" role="button">
 Corde Oblique - Volontà D'arte (2007-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/f50c0025-855e-499d-b618-f36b7ececb62/28045262448-500.jpg" data-tags="neofolk, dark folk, apocalyptic folk" role="button">
-IANVA - L'Occidente (2007-10-15)
-</li>
 <li data-cover="https://img.discogs.com/zh8tcbs3crypKIqc9VqmPgoc5KQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4274893-1474127695-9797.jpeg.jpg" data-tags="hardcore, folk noir, neofolk, neoclassical, post-apocalyptic, dark ambient neoclassical, nox-aeternus, ambient folk noir, apocalyptic folk noir" role="button">
 Changes - Вспомни о чём думал, вспомни о чём мечтал (2007-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6290cf3-bd11-4e6a-82d2-ad9902095196/15095028687-500.jpg" data-tags="acoustic, german, neofolk" role="button">
 Jännerwein - Abendläuten (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/d5649bff-1803-49b0-8c2f-cad638f95591/3295168321-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
+Pantheon Legio Musica - Per Aspera ad Astra (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/42482ba5-7f65-41d8-b110-01b5dddcb98d/3415131007-500.jpg" data-tags="folk noir, neofolk, cabaret noir" role="button">
 Roma Amor - Roma Amor (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dbd7f00-e950-4229-9622-bb7c4081e505/2114489033-500.jpg" data-tags="neofolk" role="button">
-Rome - Masse Mensch Material (2008-04-02)
 </li>
 <li data-cover="https://img.discogs.com/ltiSDI5YYkKEXKhfUUZwJrZ9naQ=/fit-in/497x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329947-1210166155.jpeg.jpg" data-tags="folk noir, dark folk, neoclassical, apocalyptic folk, martial neofolk, je devrais avoir mon enfer de la caresse, ahnstern, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Werkraum - Early Love Music (2008-05)
@@ -219,14 +216,17 @@ Werkraum - Early Love Music (2008-05)
 <li data-cover="https://img.discogs.com/Px-g7EqKop11ylx-A573RXEx8i8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331546-1248849561.jpeg.jpg" data-tags="folk" role="button">
 Steve Von Till - A Grave Is a Grim Horse (2008-05-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk rock" role="button">
-Blackmore's Night - Secret voyage (2008-06-27)
+<li data-cover="https://img.discogs.com/usen2733Pfa5n8eiA3hz4mH8v7U=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1521495-1225880752.jpeg.jpg" data-tags="industrial, folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, dark ambient neofolk, dark ambient neoclassical, nox-aeternus" role="button">
+Medusa's Spell - Last X Hours (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b7e0d89-ceff-444a-9963-34fac90ba3b5/16422860334-500.jpg" data-tags="ethereal, folk, darkwave, dark folk" role="button">
 Elane - The Silver Falls (2008-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d112d0d9-a47d-4012-abaf-360d82dd6fea/10962547181-500.jpg" data-tags="folk noir, neofolk, dark cabaret, cabaret noir, chanson noir" role="button">
 Oniric - Cabaret Syndrome (2009)
+</li>
+<li data-cover="https://img.discogs.com/EgsTSc7Yg2r3dT2I7YZFhGpix90=/fit-in/288x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8337905-1459639440-2129.jpeg.jpg" data-tags="acoustic, dark folk" role="button">
+Musk Ox - Musk Ox (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/05b5c0d2-fa1a-4369-a6cd-7391942efe65/2044692390-500.jpg" data-tags="neofolk, dark folk, neoclassical" role="button">
 Sieben - As They Should Sound (2009-03-30)
@@ -249,17 +249,17 @@ Stellamara - The Golden Thread (2009-08-15)
 <li data-cover="http://coverartarchive.org/release/f85f3266-2eba-42e7-9952-4dc106fc9bba/7599538562-500.jpg" data-tags="atmospheric, dark ambient, neoclassical, tribal ambient, neoclassical darkwave" role="button">
 Peter Bjärgö - A Wave of Bitterness (2009-08-28)
 </li>
+<li data-cover="https://img.discogs.com/pQb3nTLsLOgSCQsUBqyeKRDZcHs=/fit-in/396x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2534276-1289235956.jpeg.jpg" data-tags="folk noir, dark ambient, neofolk, dark folk, polish, neoclassical, apocalyptic folk, dungeon synth, nox-aeternus" role="button">
+Wojnar - Epos O Woju Z Krainy Mrozem Spowitej (2009-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/b037ecc8-45fa-43c1-bf9a-30c4934b3aed/3104789300-500.jpg" data-tags="neofolk, neo folk" role="button">
 Neun Welten - Destrunken (2009-11-27)
 </li>
+<li data-cover="https://img.discogs.com/HyFUjoxuV_CROICRff0lzm2tm9I=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2791340-1441710381-6611.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, nox-aeternus" role="button">
+Neun Welten - Dämmerung - Die Destrunken Demos (2009-11-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/78a9b7dd-eae3-47e8-95c6-001aa2273a1f/8585041214-500.jpg" data-tags="folk, industrial, folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, martial neofolk, medieval dark ambient, dark ambient neoclassical, nox-aeternus, dark folk noir" role="button">
 Sturmpercht - Schattenlieder (2009-12-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/74ac9bd6-77c8-43d5-b12d-cdc2cffd98fb/19384001502-500.jpg" data-tags="post-rock" role="button">
-Clogs - The Creatures in the Garden of Lady Walton (2010-03-02)
-</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b027000b-4b45-447a-a301-543ef5d555fa/2044670141-500.jpg" data-tags="folk, folk noir, neofolk, neoclassical, wyrd folk, funeral folk, nox-aeternus, runes folk, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">
 Sieben - Star Wood Brick Firmament (2010-05)
@@ -278,6 +278,9 @@ Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e21d5e2-5264-493d-a966-3f89c4249dc2/24449908212-500.jpg" data-tags="folk, folk noir, neofolk, celtic, neoclassical, celtic folk, apocalyptic folk, pagan folk, funeral folk, nox-aeternus" role="button">
 Sangre de Muerdago - Sangre de muerdago (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/96b2ebe9-4d43-468f-8e63-3a81955e96c5/26549537492-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, nox-aeternus" role="button">
+Art Abscons - Der Verborgene Gott (2011-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d744184-34a0-415a-b89e-6f8c7ed2d305/11633838088-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Blood Axis - Ultimacy (2011-08-26)
@@ -299,9 +302,6 @@ Soan - Sous les yeux de Sophie (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/749b013d-fd81-4ca1-9acd-4c5de34ba331/5904656404-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, music i tried but didnt like, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus, eurasian artists european association" role="button">
 Dernière Volonté - Mon Meilleur Ennemi (2012-05-24)
-</li>
-<li data-cover="https://img.discogs.com/6K6vayQ-5-CYTP1eqZtL3_szf9c=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3608524-1337203906-8071.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
-Marissa Nadler - The Sister (2012-05-29)
 </li>
 <li data-cover="https://img.discogs.com/BtksdYjEJrtS4qmwLUI5ULGGCqU=/fit-in/250x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3683481-1340267218-8384.jpeg.jpg" data-tags="progressive rock, folk noir, military pop, martial pop, y2k prog" role="button">
 IANVA - La Mano di Gloria (2012-06-02)

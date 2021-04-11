@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:59:01.451Z
+date: 2021-04-11T09:57:01.447Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -54,9 +54,6 @@ My Bloody Valentine - Loveless (1991-11-04)
 <li data-cover="https://img.discogs.com/yC7cMBlJDQqE28yvR-4e8loOk-s=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-554596-1259364363.jpeg.jpg" data-tags="shoegaze" role="button">
 Swirlies - Blonder Tongue Audio Baton (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/982d838e-2753-3964-8730-2219cb347560/11491218525-500.jpg" data-tags="shoegaze" role="button">
-Drop Nineteens - Delaware (1992)
-</li>
 <li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
 The Jesus and Mary Chain - Honey's Dead (1992)
 </li>
@@ -92,9 +89,6 @@ The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
-Failure - Fantastic Planet (1996-08-13)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
@@ -132,6 +126,9 @@ Mercury Rev - All Is Dream (2001-08-27)
 <li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
 Deerhoof - Reveille (2002-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
+Animal Collective - Here Comes the Indian (2003-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/01087dd6-0289-4616-bd8b-4be17cf76526/3374955413-500.jpg" data-tags="noise, noise pop, garage rock, 00s" role="button">
 The Raveonettes - Chain Gang of Love (2003-07-24)
 </li>
@@ -161,9 +158,6 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e883ea3-d5f7-4854-80a2-8b6811e594cd/22248133603-500.jpg" data-tags="rock, funk, noise pop, funky, groovy, trip, jecks, noise-fi, in queue no tracks" role="button">
-Wavves - Wavves (2007-12-31)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie rock" role="button">
 Be Your Own Pet - Get Awkward (2008-03-17)
@@ -203,6 +197,9 @@ Vivian Girls - Everything Goes Wrong (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg" data-tags="noise rock" role="button">
 Health - GET COLOR (2009-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/23a44f09-a57b-433c-8cda-489939232238/2633863660-500.jpg" data-tags="shoegaze" role="button">
+A Place to Bury Strangers - Exploding Head (2009-10-05)
 </li>
 <li data-cover="https://img.discogs.com/WJJaa67H8k15qkvbZwJav9hCKI8=/fit-in/499x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981851-1256551273.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Raveonettes - In and Out of Control (2009-10-06)
@@ -299,6 +296,9 @@ Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/g_5r7oDFs8JaxW6_ODn7U3ASafo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4781559-1375326286-5445.jpeg.jpg" data-tags="electronic, noise pop, owsla" role="button">
 Heartsrevolution - Ride or Die (2013-07-23)
+</li>
+<li data-cover="https://img.discogs.com/JMhgDP9ZhYAjZ9gGJLtJ2fbSNMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4882092-1378361278-2192.jpeg.jpg" data-tags="indie, indie pop" role="button">
+Joanna Gruesome - Weird Sister (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/510bfd27-b585-4523-aee0-2c60f54b493f/5166508856-500.jpg" data-tags="electronic, indie" role="button">
 The Naked and Famous - In Rolling Waves (2013-09-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:57:01.205Z
+date: 2021-04-11T10:12:18.642Z
 title: "norwegian black metal: 100 albums you must listen to before you die"
 ---
 ![Mayhem - De Mysteriis Dom Sathanas (1994-05-24)](http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg "Mayhem - De Mysteriis Dom Sathanas (1994-05-24)")
@@ -114,9 +114,6 @@ Satyricon - Nemesis Divina (1996-04-22)
 <li data-cover="https://img.discogs.com/0XRhE6LjOkn7KUZ8_zKFaOG93ks=/fit-in/400x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4271651-1360324030-4900.jpeg.jpg" data-tags="black metal" role="button">
 Gorgoroth - Antichrist (1996-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7cbf1644-b287-33a1-8ba3-43bc73690df1/26042318035-500.jpg" data-tags="black metal, atmospheric black metal, melodic black metal" role="button">
-Ancient - The Cainian Chronicle (1996-06-17)
-</li>
 <li data-cover="https://img.discogs.com/iCJdiCc-ZJT1MxEg29hneD-R8NY=/fit-in/400x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7075003-1433110398-8378.jpeg.jpg" data-tags="black metal" role="button">
 Immortal - Blizzard Beasts (1997-03-20)
 </li>
@@ -135,7 +132,7 @@ Mayhem - Wolf's Lair Abyss (1997-11-03)
 <li data-cover="https://img.discogs.com/OUGA7mFfzWYZ2Va5oNhLBQVJvcs=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1131542-1257381311.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Urgehal - Massive Terrestrial Strike (1998)
 </li>
-<li data-cover="https://img.discogs.com/M-pFRuNirZcVM7Pn5OHuLqa6C8M=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6668617-1481961616-5739.jpeg.jpg" data-tags="symphonic black metal" role="button">
+<li data-cover="https://img.discogs.com/KQeaUe-2o6pypWSvyMn5wKEd0vA=/fit-in/600x878/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8143365-1455966045-5476.jpeg.jpg" data-tags="symphonic black metal" role="button">
 Dimmu Borgir - Godless Savage Garden (1998-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/186a1cc2-1b6a-382a-933d-ee6eca46423b/3193080078-500.jpg" data-tags="black metal" role="button">
@@ -146,6 +143,9 @@ Immortal - At the Heart of Winter (1999-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32ebc0bd-4573-3a9b-9d6d-3a9e0556c166/3479063559-500.jpg" data-tags="symphonic black metal, black metal" role="button">
 Dimmu Borgir - Spiritual Black Dimensions (1999-03-01)
+</li>
+<li data-cover="https://img.discogs.com/ZH2SRuBmKcM4Y-RMRNYY3FyLsHY=/fit-in/600x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9215752-1476810540-3072.jpeg.jpg" data-tags="black metal" role="button">
+Satyricon - Intermezzo II (1999-05-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Satyricon - Rebel Extravaganza (1999-09-06)

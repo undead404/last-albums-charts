@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:14:01.399Z
+date: 2021-04-11T09:52:01.410Z
 title: "garage: 100 albums you must listen to before you die"
 ---
 ![The Strokes - Room on Fire (2003-10-16)](http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg "The Strokes - Room on Fire (2003-10-16)")
@@ -69,12 +69,6 @@ The Gun Club - The Las Vegas Story (1984)
 <li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
 The Remains - The Remains (1985)
 </li>
-<li data-cover="https://img.discogs.com/uviTSxmBrF74fQML05YIIWK52Q0=/fit-in/463x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188518-1440099871-7310.jpeg.jpg" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
-Spacemen 3 - Sound of Confusion (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
-Dead Moon - In the Graveyard (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/ccba159a-e193-45b3-b3e1-25bdf73ebb07/4513008360-500.jpg" data-tags="keith richards" role="button">
 Keith Richards - Talk Is Cheap (1988)
 </li>
@@ -95,6 +89,9 @@ The Gories - Outta Here (1992)
 </li>
 <li data-cover="https://img.discogs.com/TzaKEEp8AzrRSuQAEmINxI6rujk=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083695-1466018250-4025.jpeg.jpg" data-tags="garage rock, garage, pogge" role="button">
 Dead Moon - Strange Pray Tell (1992-10-01)
+</li>
+<li data-cover="https://img.discogs.com/5sd-ann7Ge6QoN6Hupq1pRjr0rs=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290952-1402517988-9298.jpeg.jpg" data-tags="psychedelic rock, post-punk" role="button">
+Егор И Опизденевшие - Сто лет одиночества (1993)
 </li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
@@ -135,14 +132,14 @@ AC/DC - The Very Best (2001)
 <li data-cover="http://coverartarchive.org/release/b821473e-4959-40e4-9b40-48b95ecaf36b/6976453613-500.jpg" data-tags="house, electronic, dance" role="button">
 Basement Jaxx - Rooty (2001-06-25)
 </li>
+<li data-cover="https://img.discogs.com/zGo4NolQmfc06msn220B0hVCsIA=/fit-in/600x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-852323-1478053257-8086.jpeg.jpg" data-tags="soul, dance, album med hot covers" role="button">
+Mis-Teeq - Lickin' On Both Sides (2001-10-29)
+</li>
 <li data-cover="https://img.discogs.com/QyJ0OwaSmTH13Y2dumeE6EM8OE0=/fit-in/300x212/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66646-001.jpg.jpg" data-tags="british, grime" role="button">
 So Solid Crew - They Don't Know (2001-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/70a0f66f-f56b-439a-9e62-dce178e0565d/3330517596-500.jpg" data-tags="hard rock, garage, rock and roll, scandinavian rock" role="button">
 Gluecifer - Basement Apes (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
-The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 The Mooney Suzuki - Electric Sweat (2002-04)
@@ -213,6 +210,9 @@ Black Lips - Let It Bloom (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
 The Strokes - First Impressions of Earth (2005-12-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/02aaefe4-3a8e-49fa-95f8-adea559a8519/15902639037-500.jpg" data-tags="garage" role="button">
+The Staggers - Teenage Trash Insanity (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d61abca-5c04-4eba-937b-f575cf001b4e/15756798206-500.jpg" data-tags="indie rock" role="button">
 Be Your Own Pet - Be Your Own Pet (2006-03-27)
 </li>
@@ -227,9 +227,6 @@ Bromheads Jacket - Dits From the Commuter Belt (2006-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/39ff3267-382e-45b8-bb75-e1e8588403c8/16256223840-500.jpg" data-tags="blues rock" role="button">
 Radio Moscow - Radio Moscow (2007-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
-The Horrors - Strange House (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0aa0306-3bbf-3c9c-b8a1-f9ccc0dc2851/4785563518-500.jpg" data-tags="garage" role="button">
 King Khan & The Shrines - what is?! (2007-05-11)
@@ -263,6 +260,9 @@ Blood Red Shoes - Fire Like This (2010-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e549dc61-17a5-4d06-9f61-2e4158d6bb62/17988718814-500.jpg" data-tags="punk, noise rock, lo-fi, shitgaze, punk rock, garage rock, garage, no wave, garage punk" role="button">
+Tyvek - Nothing Fits (2010-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)

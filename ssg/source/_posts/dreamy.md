@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:23:01.419Z
+date: 2021-04-11T09:58:01.428Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![M83 - Saturdays &#x3D; Youth (2008-04-14)](http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg "M83 - Saturdays = Youth (2008-04-14)")
@@ -69,9 +69,6 @@ Doves - The Last Broadcast (2002-04-29)
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/40170c08-13a6-4c5b-8fed-f272338a3265/25471452169-500.jpg" data-tags="folk, experimental, ambient" role="button">
-Animal Collective - Campfire Songs (2003-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/561ef915-9383-40ec-9baf-f9c55d1ddf72/24765160123-500.jpg" data-tags="electronic" role="button">
 I Monster - Neveroddoreven (2003-07-21)
 </li>
@@ -126,6 +123,9 @@ Hawk Nelson - Smile, It's The End Of The World (2006-04-04)
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
+Anoice - Remmings (2006-05-23)
+</li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
 </li>
@@ -140,9 +140,6 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="https://img.discogs.com/p8ekxYH2ZEiI6ylivtCAFCEb-lA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937597-1180461208.jpeg.jpg" data-tags="ambient" role="button">
-Amiina - Kurr (2007-03-21)
 </li>
 <li data-cover="https://img.discogs.com/IOUe7XPlCVHIhTDBkQkrUo5KZw8=/fit-in/530x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982945-1417117053-7681.jpeg.jpg" data-tags="electronic, indie, folk, experimental, indietronica, dreamy, post rock, 00s, fatcat, de:bug album reviews 2007, mice parade, jaarlijstje 2007, worn-out from overplay, i n d i e, hoeralbum" role="button">
 Mice Parade - Mice Parade (2007-05-08)
@@ -167,6 +164,9 @@ Glasvegas - Glasvegas (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ead1e021-702f-48be-8770-fcdc1043c591/12275065741-500.jpg" data-tags="post-rock, dreamy, music for studying" role="button">
 Sigur Rós - We Play Endlessly (2009-01-31)
+</li>
+<li data-cover="https://img.discogs.com/AQHx18Dzue4JUc_wJaMXO-VsPD8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1691931-1237249077.jpeg.jpg" data-tags="dream pop" role="button">
+Lotus Plaza - The Floodlight Collective (2009-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
@@ -219,6 +219,9 @@ Washed Out - Within and Without (2011-07-06)
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/245eebec-4344-426e-9039-bb7ddfd1286b/3116867787-500.jpg" data-tags="icelandic, indie rock" role="button">
+Sóley - We Sink (2011-09-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff112f7c-8ee8-4071-a07e-e4ab240caa3b/6560200968-500.jpg" data-tags="indie pop" role="button">
 The Jezabels - Prisoner (2011-09-16)
 </li>
@@ -227,9 +230,6 @@ M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f82bdc4-d08a-4776-ae28-950d5fbd6fd1/4048297645-500.jpg" data-tags="electronic, shoegaze, dreamy, female vocals, records i own, redhot, village green, i love all the songs" role="button">
-Mint Julep - Save Your Season (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)

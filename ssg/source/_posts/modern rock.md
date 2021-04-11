@@ -1,16 +1,16 @@
 ---
-date: 2021-04-10T09:22:01.399Z
+date: 2021-04-11T10:22:01.403Z
 title: "modern rock: 100 albums you must listen to before you die"
 ---
 ![Mat Kearney - City Of Black &amp; White (2009-05-19)](https://img.discogs.com/WpcLlPnfaVQmpGjEeIBvw92-Du8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198889-1358372989-7472.jpeg.jpg "Mat Kearney - City Of Black & White (2009-05-19)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
+<li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">A Static Lullaby - A Static Lullaby (2001)</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">Bright Eyes - Motion Sickness (2001-01-26)</li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">Sahara Hotnights - Jennie Bomb (2001-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/53fcfff0-d654-4807-bbf6-1b6411d4e0d6/7900674334-500.jpg" data-tags="indie" role="button">Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/060e7fec-7984-313d-a76d-493354106e7d/14523195786-500.jpg" data-tags="punk rock, punk" role="button">Sum 41 - Underclass Hero (2007-07-18)</li>
 <li data-cover="https://img.discogs.com/NZ2pXkxyt8_CtltUg0TO0FIvg10=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105456-1446997404-9704.jpeg.jpg" data-tags="pop punk" role="button">The Audition - Champion (2008-01-22)</li>
-<li data-cover="http://coverartarchive.org/release/97e515dc-a4b9-4b73-bdb3-f3682efc3447/23329439406-500.jpg" data-tags="modern rock, local, ludo, amazing albums" role="button">Ludo - You're Awful, I Love You (2008-02-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">Nickelback - Dark Horse (2008-11-17)</li>
 <li data-cover="https://img.discogs.com/WpcLlPnfaVQmpGjEeIBvw92-Du8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198889-1358372989-7472.jpeg.jpg" data-tags="fusion, modern rock" role="button">Mat Kearney - City Of Black & White (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">Marianas Trench - Ever After (2011-11-21)</li>
@@ -21,17 +21,23 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/3VBq9ZgVdSI_QuufPlOB8TWoQ8k=/fit-in/591x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318243-1212712353.jpeg.jpg" data-tags="industrial rock" role="button">
+Nine Inch Nails - Down in It (1989-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/8efff778-8da9-441c-b2a7-1374da31426b/10149276948-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Head Like a Hole (1990-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/91f744a9-83ff-4136-a570-956284fe0453/26961386827-500.jpg" data-tags="britpop" role="button">
+The Charlatans - Some Friendly (1990-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf8461-c80d-4172-9fb4-0da88ecea44e/10149325893-500.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Sin (1990-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/25eb2735-82dc-4503-bd33-82fbe8c4722f/3167361145-500.jpg" data-tags="ska, ska punk" role="button">
+No Doubt - No Doubt (1992-03-17)
+</li>
 <li data-cover="https://img.discogs.com/kEM4w-q5ZI5j_NB4Ibtu4hLE-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3150823-1318106448.jpeg.jpg" data-tags="rock, canadian" role="button">
 Barenaked Ladies - Gordon (1992-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e2faae7-d27b-4226-81c9-e658ac4f37b5/24702434323-500.jpg" data-tags="rock" role="button">
-Goo Goo Dolls - Superstar Car Wash (1993-02-23)
 </li>
 <li data-cover="https://img.discogs.com/7BmlNkHg2dFDeCePok0e1l5f8Io=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12695881-1598381782-6573.jpeg.jpg" data-tags="rock, alternative" role="button">
 Goo Goo Dolls - A Boy Named Goo (1994-03-15)
@@ -42,20 +48,11 @@ Primal Scream - Give Out But Don't Give Up (1994-03-28)
 <li data-cover="http://coverartarchive.org/release/53d2dfe8-9ecd-411a-aff4-237b6fb5f15c/25254922544-500.jpg" data-tags="indie, indie rock" role="button">
 Snow Patrol - Songs for Polarbears (1994-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/c0905835-0bde-3f87-bfae-50bac19440ed/6223552957-500.jpg" data-tags="rock" role="button">
-Deep Blue Something - Home (1995-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
-The Cure - Wild Mood Swings (1996-05-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f3e2d4a-6fcc-473e-b6a0-7be7bac78944/19752449156-500.jpg" data-tags="rock, canadian" role="button">
 Our Lady Peace - Clumsy (1997-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b572ec0-9b8f-3b54-af1b-5d3c680a20a6/21433211070-500.jpg" data-tags="punk, emo, punk rock, post-hardcore" role="button">
 Hot Water Music - Fuel for the Hate Game (1997-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/300da8a4-ae20-4c2e-9043-d2e467089e2f/27400793904-500.jpg" data-tags="electronic, alternative, 90s" role="button">
-Primal Scream - Vanishing Point (1997-06-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Travis - Good Feeling (1997-09-08)
@@ -93,14 +90,23 @@ Big D And The Kids Table - Good Luck (2000-02-12)
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
+<li data-cover="https://img.discogs.com/G71-NxBiP6BuZSKWDr0vy2EBFJM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3609018-1337235656-1414.jpeg.jpg" data-tags="punk" role="button">
+Hot Water Music - Never Ender (2000-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
-Nonpoint - Development (2001)
+<li data-cover="http://coverartarchive.org/release/1dfe6e36-2852-4a13-8688-a3a6acec79a7/20752714600-500.jpg" data-tags="punk rock" role="button">
+Unwritten Law - Elva (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c4bc874-9c6d-4220-a65e-d80b5b5e89df/20478219434-500.jpg" data-tags="indie rock" role="button">
+Snow Patrol - When It's All Over We Still Have to Clear Up (2001-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/42bdebb1-281d-4124-880f-67da014a7b01/3331018734-500.jpg" data-tags="punk" role="button">
+Hot Water Music - A Flight and a Crash (2001-05-22)
 </li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
@@ -117,11 +123,20 @@ Dead Meadow - Howls From the Hills (2001-10-23)
 <li data-cover="http://coverartarchive.org/release/26743b0c-c5b5-47b4-9bf0-6ec85a783524/7802240512-500.jpg" data-tags="alternative rock" role="button">
 Audiovent - Dirty Sexy Knights in Paris (2002-06-04)
 </li>
+<li data-cover="https://img.discogs.com/_OWH1BvANDxQeyNfFtPd4NrKk9k=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4006587-1589141269-4003.jpeg.jpg" data-tags="metalcore, metal" role="button">
+It Dies Today - Forever Scorned (2002-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/78cc5193-6c12-4289-ae89-c0269c482b6a/3784011325-500.jpg" data-tags="emocore, post-hardcore" role="button">
 A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/938cf7ac-7c63-391b-9e55-0d3d09e5294d/1883381895-500.jpg" data-tags="rock, indie, alternative" role="button">
 Kings of Leon - Holy Roller Novocaine (2003-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b5c07ee-7f9d-34ed-8bf7-fecaedc3de6c/1608167979-500.jpg" data-tags="rock" role="button">
+Everclear - Slow Motion Daydream (2003-03-11)
+</li>
+<li data-cover="https://img.discogs.com/sGynbsmk6XE4XNtG3tLO-2jHWnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4079146-1465313674-6247.jpeg.jpg" data-tags="christian" role="button">
+DC Talk - 8 Great Hits (2003-11-03)
 </li>
 <li data-cover="https://img.discogs.com/aFf32ryDPnq0y7-sBmofnBdARvY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6396573-1424410735-6142.jpeg.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Lost Dogs (2003-11-10)
@@ -141,14 +156,14 @@ The Ordinary Boys - Over the Counter Culture (2004-08-05)
 <li data-cover="http://coverartarchive.org/release/9fd474ce-6d53-4f69-9ce1-bbf8be24abbc/10636351508-500.jpg" data-tags="rock" role="button">
 12 Stones - Potter's Field (2004-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae9c005c-8d68-496a-a5d2-c6ff11be40bf/4783929874-500.jpg" data-tags="punk, epitaph" role="button">
-Hot Water Music - The New What Next (2004-09-20)
-</li>
 <li data-cover="https://img.discogs.com/3jQGTHOVnuzbnTtRUiDM_xcyJb4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1127711-1475425546-6925.jpeg.jpg" data-tags="female vocalists, rock, alternative rock" role="button">
 Ana Johnsson - The Way I Am (2004-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f19fa4e-f574-4c86-bc56-9362fb4f995a/4713235154-500.jpg" data-tags="ska" role="button">
 Big D And The Kids Table - How It Goes (2004-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c0d0b8d-f9b0-4a27-bf26-ed4939da6625/8164817096-500.jpg" data-tags="indie rock" role="button">
+Chin Up Chin Up - We Should Have Never Lived Like We Were Skyscrapers (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/19e69e3a-8de6-436f-9338-256b69a162f7/24273528277-500.jpg" data-tags="rock, live, the rolling stones" role="button">
 The Rolling Stones - Live Licks (2004-11-01)
@@ -156,14 +171,8 @@ The Rolling Stones - Live Licks (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/644f21fe-5f82-4bf1-9733-eb818ee3ead1/22395582378-500.jpg" data-tags="the strokes" role="button">
 The Strokes - The End Has No End (2004-11-01)
 </li>
-<li data-cover="https://img.discogs.com/Cl6anNAgWUogP8m7OxTrVHdurmw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5859740-1436330068-4946.jpeg.jpg" data-tags="modern rock, lyrics, local, ludo, amazing albums" role="button">
-Ludo - Broken Bride (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a261dd6-af10-44d0-a176-6ba9b74a18cb/9245870625-500.jpg" data-tags="rock, alternative rock" role="button">
 Unwritten Law - Here's to the Mourning (2005-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
-MAE - The Everglow (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee3acac4-1fdb-4d0a-9dc7-070251fd51ad/21114625374-500.jpg" data-tags="screamo, emocore, rock, post-hardcore" role="button">
 A Static Lullaby - Faso Latido (2005-04-05)
@@ -180,14 +189,11 @@ Arctic Monkeys - Five Minutes With Arctic Monkeys (2005-05-30)
 <li data-cover="https://img.discogs.com/1xz_ufQ67xvtT8B50jawxS4N2cI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643002-1142376404.jpeg.jpg" data-tags="00s" role="button">
 The Ordinary Boys - Brassbound (2005-06-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f977712-f3b4-4a9a-ade3-24a071e4a1fc/6625176890-500.jpg" data-tags="indie, 80s, punk, alternative" role="button">
-Violent Femmes - Permanent Record: The Very Best of Violent Femmes (2005-07-12)
-</li>
-<li data-cover="https://img.discogs.com/c-wEH0ivMDHiUc2PaVH3nReZvrc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512833-1288988151.jpeg.jpg" data-tags="indie, emo, indie rock, modern rock, four dollar cds" role="button">
-Zox - The Wait (2005-08-23)
-</li>
 <li data-cover="https://img.discogs.com/RS-5L0LyUEnhxEqlcuQ46RrV_fY=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7972129-1452706453-5341.jpeg.jpg" data-tags="alternative rock, modern rock, tag, podsafe music network, discoverockult" role="button">
 Black Lab - See The Sun (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7121708-0878-4616-87ce-3a35accaaf49/18890470014-500.jpg" data-tags="heavy metal, nwobhm" role="button">
+Diamond Head - All Will Be Revealed (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/IINX3NV1Ykjbuo3uEFjeI7l7tXY=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4330758-1391006107-6486.jpeg.jpg" data-tags="rock" role="button">
 Gomez - How We Operate (2006)
@@ -219,9 +225,6 @@ Jet Lag Gemini - Fire The Cannons (2007)
 <li data-cover="http://coverartarchive.org/release/d01e8648-c19e-4337-8ecf-a7ba8484d668/14348132710-500.jpg" data-tags="indie, indie rock" role="button">
 The View - Hats Off To The Buskers (2007-01-22)
 </li>
-<li data-cover="https://img.discogs.com/y1pYVw6lZ04_XZutemNiYkglQEI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9587631-1483307473-8708.jpeg.jpg" data-tags="canadian" role="button">
-Apostle of Hustle - National Anthem of Nowhere (2007-02-06)
-</li>
 <li data-cover="https://img.discogs.com/XPsbawT3IWXNIRV9KN9T36PI3wE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824053-1310066569.jpeg.jpg" data-tags="rock" role="button">
 The Higher - On Fire (2007-03-06)
 </li>
@@ -249,6 +252,9 @@ Anberlin - Lost Songs (2007-11-20)
 <li data-cover="http://coverartarchive.org/release/b93d88c0-0953-422a-8e8c-d0831cb8fe9c/26551890096-500.jpg" data-tags="alternative rock" role="button">
 ASHES dIVIDE - Keep Telling Myself It's Alright (2008-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4e1d887-e105-4a70-ab4c-3c1e96b2d972/19837437719-500.jpg" data-tags="rock" role="button">
+The Smashing Pumpkins - American Gothic (2008-01-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/aea43fa2-76c2-41e9-bde1-8256bf1b129b/18530402919-500.jpg" data-tags="pop punk" role="button">
 Teenage Bottlerocket - Warning Device (2008-01-08)
 </li>
@@ -260,9 +266,6 @@ The Audition - Champion (2008-01-22)
 </li>
 <li data-cover="https://img.discogs.com/vLbQEqdzO6ROyMNTFCrWCj5pqVE=/fit-in/300x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1441569-1219964483.jpeg.jpg" data-tags="electronic, electropop, indie, australian, synthpop, modern rock, electrohouse, australian electronic" role="button">
 The Presets - My People (2008-01-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/97e515dc-a4b9-4b73-bdb3-f3682efc3447/23329439406-500.jpg" data-tags="modern rock, local, ludo, amazing albums" role="button">
-Ludo - You're Awful, I Love You (2008-02-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
 Nickelback - Dark Horse (2008-11-17)
@@ -287,9 +290,6 @@ The Afters - Light Up the Sky (2010-09-14)
 </li>
 <li data-cover="https://img.discogs.com/hdxXT1xrY255OUTasU8R7fI-CNg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938999-1471866096-2433.jpeg.jpg" data-tags="alternative rock, alternative metal, modern rock" role="button">
 Our Waking Hour - Seconds To Save Her (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/179f2dc7-3948-4f2b-b138-50cc398c2ff8/1397581393-500.jpg" data-tags="christian, religious" role="button">
-Ashes Remain - What I've Become (2011-08-23)
 </li>
 <li data-cover="https://img.discogs.com/dkt4Q2RsUmlJLE-jGKFB-S_F96E=/fit-in/385x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6348328-1417039893-4024.jpeg.jpg" data-tags="progressive metal, alternative metal, modern rock" role="button">
 Memory of a Melody - Things That Make You Scream (2011-09-26)

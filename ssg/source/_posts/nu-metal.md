@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:15:07.100Z
+date: 2021-04-11T10:42:12.608Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -105,9 +105,6 @@ Limp Bizkit - New Old Songs (2001-11-30)
 <li data-cover="http://coverartarchive.org/release/bd419d6f-c509-4558-a2dd-660facad5877/2922393105-500.jpg" data-tags="nu metal" role="button">
 Coal Chamber - Dark Days (2002-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/714d1b4a-6739-4f38-a8c4-197379780bbd/28115360386-500.jpg" data-tags="metal, reggae metal" role="button">
-Skindred - Babylon (2002-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
 </li>
@@ -137,9 +134,6 @@ Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
 <li data-cover="https://img.discogs.com/pm-60Tvy_j9gK6y5tjizOkt2Jm4=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121453-1401953708-5066.jpeg.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - A Snow Capped Romance (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/c02fb0de-e35e-4c7d-916f-fff2637e87d8/15545331220-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Ünloco - Becoming I (2003-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
@@ -195,8 +189,14 @@ Flaw - Endangered Species (2004-05-04)
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e2b5730-22e4-4731-9b36-07f3ea04769e/12918785727-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
+Nonpoint - Recoil (2004-08-03)
+</li>
 <li data-cover="https://img.discogs.com/PWBj5q3PulNBrvHYms2IN19jTuY=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5563883-1396656929-5666.jpeg.jpg" data-tags="alternative rock, nu-metal" role="button">
 Modern Day Zero - Coming Up For Air (2004-11)
+</li>
+<li data-cover="https://img.discogs.com/KLuI2Xe6RSM7f2HM_AJpidqj_Wk=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8516878-1464544682-5123.jpeg.jpg" data-tags="metal" role="button">
+Korn - Coming Undone (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)

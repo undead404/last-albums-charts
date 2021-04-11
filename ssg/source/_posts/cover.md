@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:21:07.004Z
+date: 2021-04-11T09:47:07.260Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
-Ramones - Acid Eaters (1993-12-01)
-</li>
 <li data-cover="https://img.discogs.com/gZ_DOHt60uCl_n8gvRs3qOKXbBg=/fit-in/507x792/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3804042-1596044076-1564.jpeg.jpg" data-tags="heavy metal, hard rock, cover, thrash metal" role="button">
 Acid Drinkers - Fishdick (1994-06-01)
 </li>
@@ -41,6 +38,9 @@ Save Ferris - It Means Everything (1997-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
 Metallica - Garage, Inc. (1998-11-24)
+</li>
+<li data-cover="https://img.discogs.com/EbK255yEL3LCFlsP9QOtE3kpYIA=/fit-in/595x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3173387-1378828304-6469.jpeg.jpg" data-tags="pop, 90s, covers" role="button">
+A*Teens - The ABBA Generation (1999-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
@@ -78,6 +78,9 @@ Robbie Williams - Swing When You're Winning (2001-11-19)
 <li data-cover="https://img.discogs.com/ITP7gH9tn2Nh1MkEiiqyn-eHuOg=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10522368-1499173104-3124.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Tribute to the Gods (2001-11-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
+Jimmy Eat World - Last Christmas (2001-12-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/e959d32c-15fe-4871-8aa8-ef4a74eae065/24917088500-500.jpg" data-tags="cover, psychedelic rock" role="button">
 Гражданская оборона - Звездопад (2002-03-20)
 </li>
@@ -96,17 +99,20 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
 Misfits - Project 1950 (2003-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4321855e-8e8e-4786-8506-28e6d69633b9/13966110015-500.jpg" data-tags="country" role="button">
-Johnny Cash - Unearthed (2003-11-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/04cd3c24-5622-4470-a77a-a338b7998b34/4255241495-500.jpg" data-tags="rock, cover, punk rock, pop punk, green day, lyrical, cover song, green, albums i like, albums i have downloaded" role="button">
 Green Day - I Fought the Law (2004-02-01)
+</li>
+<li data-cover="https://img.discogs.com/x8n7V3j_GIKYWXDuj5pmzKe7jCg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673291-1485801110-2037.jpeg.jpg" data-tags="folk, cover" role="button">
+Kathryn Williams - Relations (2004-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
 <li data-cover="https://img.discogs.com/My1b03HhHcNV7OMiY2f-zwpQkPc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698292-1554136772-7063.jpeg.jpg" data-tags="alternative, rock, alternative rock, cover, greg dulli" role="button">
 The Twilight Singers - She Loves You (2004-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ea7fd37-063a-41bc-9906-5529a371b77d/11246499482-500.jpg" data-tags="spoken word" role="button">
+William Shatner - Has Been (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
@@ -125,9 +131,6 @@ Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
-Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
 </li>
 <li data-cover="https://img.discogs.com/0XxcJs-SQFccsPcgqwF21-1sD_A=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602995-1141754942.jpeg.jpg" data-tags="acoustic, cover, soft, accoustic, my record collection, josegonzales" role="button">
 José González - Heartbeats (2006-01-09)
@@ -153,8 +156,8 @@ Easy Star All-Stars - Radiodread (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
-<li data-cover="https://img.discogs.com/v43z72x70mwmbYZkVxGZWHST-6c=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683980-1342639891-4559.jpeg.jpg" data-tags="pop" role="button">
-Westlife - The Love Album (2006-11-20)
+<li data-cover="http://coverartarchive.org/release/39318741-c571-4252-b0df-5ba4c09fdd37/5815952825-500.jpg" data-tags="cover" role="button">
+Scott D. Davis - Pianotarium: piano tribute to metallica (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c9c48a2-6740-4d47-9533-d59bb6f27a0e/25000799686-500.jpg" data-tags="bob dylan cover, bryan ferry" role="button">
 Bryan Ferry - Dylanesque (2007-03-05)
@@ -179,9 +182,6 @@ Gotye - Mixed Blood (2007-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/938a4f90-c248-4794-8ceb-e8e48b396cb0/8778440610-500.jpg" data-tags="cover" role="button">
 Jeffrey Lewis - 12 Crass Songs (2007-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
-Northern Kings - Reborn (2007-10-29)
 </li>
 <li data-cover="https://img.discogs.com/cfZubMxXa-kMYSbL_pr1XWD-YJI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369273-1220479145.jpeg.jpg" data-tags="cover, late night, 00s, cover songs, after hours, beyondwithin, winter 2012, get later, aural fixation - best of 2007, wmbr, february 2012, music for cloudy days" role="button">
 Japancakes - Loveless (2007-11-13)
@@ -215,9 +215,6 @@ Kotiteollisuus - Sotakoira (2008-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfa25c32-4c3d-4fef-a670-ddf3ab682cd4/6654965791-500.jpg" data-tags="cover, symphonic metal, power metal" role="button">
 Northern Kings - Rethroned (2008-11-17)
-</li>
-<li data-cover="https://img.discogs.com/fAOSaDB8luFMEDphu4__gfiZVac=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7404038-1478448944-9212.jpeg.jpg" data-tags="cover" role="button">
-Leona Lewis - Run (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4268e9d4-adc0-4b80-84a2-eb70a145f543/8182896442-500.jpg" data-tags="heavy metal, alternative rock, hard rock, cover, alternative metal, rock n roll" role="button">
 In This Moment - Call Me (2009)
@@ -266,6 +263,9 @@ Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magi
 </li>
 <li data-cover="http://coverartarchive.org/release/9ef4e801-2e92-4689-8f8d-e17642d52423/23553460199-500.jpg" data-tags="feverray" role="button">
 Fever Ray - Mercy Street (2010-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf8cf4b6-9300-4778-9820-1253b8e03102/2176160466-500.jpg" data-tags="rock" role="button">
+Santana - Guitar Heaven: The Greatest Guitar Classics Of All Time (2010-09-17)
 </li>
 <li data-cover="https://img.discogs.com/7HQ42g8c1uZ39AudB3-Cw51xGmA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631982-1351175466-2472.jpeg.jpg" data-tags="christmas" role="button">
 Glee Cast - Glee: The Music, The Christmas Album (2010-11-16)
