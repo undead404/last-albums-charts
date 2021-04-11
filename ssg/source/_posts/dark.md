@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:22:01.415Z
+date: 2021-04-11T17:14:01.610Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -66,9 +66,6 @@ Robbie Williams - Life Thru a Lens (1997-09-10)
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1d33de4-4c0d-453f-a13c-b7cb26de6e59/3596831408-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Discouraged Ones (1998-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/2996ae5b-d50c-4278-bf43-9205d1d5f6b0/25001847121-500.jpg" data-tags="alternative, female vocalists, 90s" role="button">
 Tori Amos - From the Choirgirl Hotel (1998-05-04)
 </li>
@@ -105,8 +102,8 @@ Sunday Munich - Vinculum (2000)
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a5455bd-8ce7-40ef-be1f-79bd771018fb/26214109741-500.jpg" data-tags="acid house" role="button">
-Alabama 3 - La Peste (2000-10-16)
+<li data-cover="http://coverartarchive.org/release/8c46ca4e-010b-4d9a-aee3-cc814ac07568/15344268208-500.jpg" data-tags="ambient, experimental, clinically romantic, achingly intelligent" role="button">
+Coil - Musick to Play in the Dark, Volume 2 (2000-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
@@ -129,9 +126,6 @@ Jay Munly - Jimmy Carter Syndrome (2002)
 <li data-cover="http://coverartarchive.org/release/cacbd6c9-7136-4ed8-9695-24243064d47d/3166622070-500.jpg" data-tags="darkwave" role="button">
 Deine Lakaien - White Lies (2002)
 </li>
-<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
-múm - Finally We are No One (2002-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/49a9d443-4e2f-42de-80d6-77a04ab552f4/9607172240-500.jpg" data-tags="metal, ambient, experimental, dark, quality, has hidden track, albums owned by me, change my live forever" role="button">
 Martin Grech - Open Heart Zoo (2002-07-22)
 </li>
@@ -141,11 +135,17 @@ Robbie Williams - Escapology (2002-11-18)
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
 </li>
+<li data-cover="https://img.discogs.com/Oq8wffUTLSmll6jZMx4cd-_wKGA=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440709-1284210852.jpeg.jpg" data-tags="trip-hop" role="button">
+Lost Balance - Alone In Multitudes (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/58f47cac-c702-4018-ba4a-7cf3a40941a2/2610903396-500.jpg" data-tags="ambient, ethereal, darkwave, female vocalists" role="button">
 Angelzoom - Angelzoom (2004-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
 Xiu Xiu - Fabulous Muscles (2004-02-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb36ae6a-88dd-45d7-8e3f-46706708d220/1644198280-500.jpg" data-tags="black metal" role="button">
+Xasthur - Telepathic With the Deceased (2004-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
@@ -155,6 +155,9 @@ Ataxia - Automatic Writing (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ea7556-cd72-4097-abaa-4a838c8aa204/8940387621-500.jpg" data-tags="ambient, 00s, arcana" role="button">
 Arcana - The New Light (2004-08-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/97af86a2-0d59-45b1-895d-b477eba05369/17633867348-500.jpg" data-tags="electronic, trip-hop" role="button">
+Ugress - Cinematronics (2004-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
@@ -189,17 +192,14 @@ From First to Last - Heroine (2006-03-20)
 <li data-cover="http://coverartarchive.org/release/65cfba88-743b-4466-a3ed-d18e44ad99e0/8784418216-500.jpg" data-tags="avant-garde, experimental" role="button">
 Scott Walker - The Drift (2006-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1e9ae9f-1c48-4ea7-9098-344442548807/2850451984-500.jpg" data-tags="neofolk" role="button">
-Spiritual Front - Armageddon Gigolo (2006-06-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
 Amon Tobin - Foley Room (2007-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
-Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
+<li data-cover="https://img.discogs.com/mpwlZahjDIScb7Mt4W2PN-FK4dI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-976185-1179856291.jpeg.jpg" data-tags="dark, lost, passing, to check, darklight, angstwave, dark dark, dark dark dark, playlist2873" role="button">
+Seelenzorn - Gnadenloser Zorn (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/19ea9185-cfce-4577-8f7d-56065d4181da/6362215975-500.jpg" data-tags="post-rock" role="button">
 Grails - Burning Off Impurities (2007-04-24)
@@ -288,6 +288,9 @@ Salem - King Night (2010-09-28)
 <li data-cover="http://coverartarchive.org/release/6fe6179a-6ae4-4436-950e-aaea4b2653c5/14003687395-500.jpg" data-tags="electro, dark, industrial, synth, synthpop, gothic rock, electro rock, aggro, electronic rock, belarus, synthrock, everything i need, lacrimaindarkness, angstwave, lacrima in darkness, synth gothic, 4 me, shadowplay release, aggro synthpop" role="button">
 Cold in May - Gone Away With the Memories (2011)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
+Amon Tobin - ISAM (2011-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
@@ -308,9 +311,6 @@ The Weeknd - Trilogy (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/92f12c90-b11d-47f6-b94e-1c1f6b2ba393/15714276117-500.jpg" data-tags="japanese, female vocalists, dark, girls, jpop, asian, j-pop, girl band, girl groups, gloomy, asian pop, i love this fucking album" role="button">
 Kalafina - Consolation (2013-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e12b14b3-49a0-49cf-9a26-6a3adf658257/4125929133-500.jpg" data-tags="noise, experimental" role="button">
-Pharmakon - Abandon (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3132f48-0254-4df0-91b6-92387a64a949/10701698463-500.jpg" data-tags="pop, dark, korean, k-pop, dance pop, kpop, korea, korean pop, korean music" role="button">
 VIXX - hyde (2013-05-20)

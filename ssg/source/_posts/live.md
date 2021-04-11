@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:44:01.707Z
+date: 2021-04-11T16:52:01.579Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -54,9 +54,6 @@ Simon & Garfunkel - The Concert in Central Park (1982)
 <li data-cover="https://img.discogs.com/FYpf5FjntvV0MdIIdy2ogrAVNrc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298151-1362259173-8211.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
 Talking Heads - The Name of This Band Is Talking Heads (1982)
 </li>
-<li data-cover="https://img.discogs.com/mEROh5D5nn0FvcZrEKopwnQYZS8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644792-1365379808-5746.jpeg.jpg" data-tags="80s, new wave" role="button">
-Talking Heads - Stop Making Sense (1984)
-</li>
 <li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Live After Death (1985-10-14)
 </li>
@@ -75,6 +72,9 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d38b44d-255f-4aec-a54a-105e4627a4dd/4184153545-500.jpg" data-tags="heavy metal" role="button">
+Iron Maiden - A Real Dead One (1993-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c94535f-a010-332f-bfe7-bafe559a5aa8/15723258334-500.jpg" data-tags="thrash metal, live" role="button">
 Metallica - Live Shit: Binge & Purge (1993-11-09)
 </li>
@@ -92,9 +92,6 @@ Scorpions - Live Bites (1995-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Pulse (1995-05-29)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
-Dire Straits - Live At The BBC (1995-06-26)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -177,6 +174,9 @@ John Mayer - Any Given Thursday (2003-02-11)
 <li data-cover="https://img.discogs.com/V6AYvgjzBGbHxkxdiNi5qQVyuhg=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3421516-1515275738-5492.jpeg.jpg" data-tags="live, indie" role="button">
 The Frames - Set List (2003-05-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/ecd8e938-73a4-4809-8fc6-f43555f93a37/14774111813-500.jpg" data-tags="screamo, live" role="button">
+The Used - Maybe Memories (2003-07-15)
+</li>
 <li data-cover="https://img.discogs.com/aiGtfbrmX10NazhTRVrB3Y0fvOo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813694-1161458280.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
 </li>
@@ -206,6 +206,9 @@ Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8449379-f663-40da-8c7b-70fa63712dc9/7479661976-500.jpg" data-tags="live, mraz" role="button">
+Jason Mraz - Tonight, Not Again: Jason Mraz Live At The Eagles Ballroom (2004-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/415d1dea-4107-49e0-8fbe-cba8cf607d86/9469978707-500.jpg" data-tags="rock, evanescence, live" role="button">
 Evanescence - Anywhere but Home (2004-11-22)
@@ -248,9 +251,6 @@ Sonata Arctica - For The Sake Of Revenge (2006-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">
 Stereophonics - Live From Dakota (2006-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5c95644-75bc-3bd9-83dc-b540de205850/12567333679-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - End of an Era (2006-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
 Seether - One Cold Night (2006-06-11)

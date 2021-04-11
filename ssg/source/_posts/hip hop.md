@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:59:07.027Z
+date: 2021-04-11T17:06:01.979Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -27,29 +27,17 @@ Eric B. & Rakim - Paid in Full (1987-07-07)
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - The Low End Theory (1991-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
 </li>
-<li data-cover="https://img.discogs.com/SWZDcqxrhCpb02E9CnRLU4s6wUc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917970-1392717758-4138.jpeg.jpg" data-tags="hip hop" role="button">
-Digable Planets - Reachin' (A New Refutation Of Time And Space) (1993-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
-</li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
-Digable Planets - Blowout Comb (1994-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
 Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
@@ -123,8 +111,14 @@ Gorillaz - Gorillaz (2001-03-24)
 <li data-cover="http://coverartarchive.org/release/904e0d41-d49c-429e-8568-235bedbec612/1585589963-500.jpg" data-tags="hip-hop, hip hop, jay-z" role="button">
 Jay-Z - UnPlugged (2001-12-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
+Clipse - Lord Willin' (2002-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6d7be9e-8fc9-44c7-8066-caa658d05ef9/994878502-500.jpg" data-tags="rap, eminem" role="button">
+Eminem - Lose Yourself (2002-10-22)
 </li>
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
@@ -137,6 +131,9 @@ Nas - God's Son (2002-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7968320-e985-48b1-8424-64dccccf1503/5157859126-500.jpg" data-tags="hip hop" role="button">
+Cypress Hill - Till Death Do Us Part (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
@@ -308,6 +305,9 @@ J. Cole - Born Sinner (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/28bc6997-cbd6-4cfb-ac31-ed40acfa9c93/8163003772-500.jpg" data-tags="hip hop" role="button">
+Jason Derülo - Talk Dirty (2014-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg" data-tags="hip-hop, electronic, hip hop" role="button">
 Die Antwoord - Donker Mag (2014-05-30)

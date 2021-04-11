@@ -1,10 +1,10 @@
 ---
-date: 2021-04-11T12:33:18.287Z
+date: 2021-04-11T17:05:01.587Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">Beck - Mellow Gold (1994-03-01)</li>
+<li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur (1997-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">Grizzly Bear - Horn Of Plenty (2004-11-09)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
@@ -33,14 +33,8 @@ John Frusciante - Niandra LaDes And Usually Just A T-Shirt (1994)
 <li data-cover="http://coverartarchive.org/release/cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/3882539681-500.jpg" data-tags="indie rock" role="button">
 Pavement - Crooked Rain, Crooked Rain (1994-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
-Beck - Mellow Gold (1994-03-01)
-</li>
 <li data-cover="https://img.discogs.com/H_s2q2tKfcYXZS8iRD6LVNbAiag=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058347-1353849248-4687.jpeg.jpg" data-tags="lo-fi" role="button">
 Guided by Voices - Bee Thousand (1994-06-21)
-</li>
-<li data-cover="https://img.discogs.com/YH1jSYY601Ma377_-lDh2UDCKzs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8558232-1464017108-5824.jpeg.jpg" data-tags="lo-fi" role="button">
-Beck - One Foot In The Grave (1994-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
@@ -63,9 +57,6 @@ Cat Power - Myra Lee (1996-03-04)
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/7edae664-8e14-3ca1-8c74-71b1d4413c1b/19949390521-500.jpg" data-tags="alternative" role="button">
-Beck - Odelay (1996-06-17)
-</li>
 <li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
 </li>
@@ -77,9 +68,6 @@ Built to Spill - Keep It Like a Secret (1998)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/295d2001-f034-447d-9545-56c8c63f6455/4507106452-500.jpg" data-tags="alternative, 90s, beck" role="button">
-Beck - Mutations (1998-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
 Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
@@ -132,6 +120,9 @@ Grizzly Bear - Yellow House (2006-09-04)
 <li data-cover="http://coverartarchive.org/release/06c1defa-eb6b-48d0-8284-b2a891af46f6/21234669416-500.jpg" data-tags="lo-fi" role="button">
 Matt & Kim - Matt & Kim (2006-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">
+The Antlers - In The Attic of The Universe (2007-03-31)
+</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
@@ -165,6 +156,9 @@ Washed Out - High Times (2009-08-31)
 <li data-cover="http://coverartarchive.org/release/8651ca46-7a65-4056-87cb-350df491b217/14603571724-500.jpg" data-tags="alternative, indie rock, 00s" role="button">
 Yo La Tengo - Popular Songs (2009-09-04)
 </li>
+<li data-cover="https://img.discogs.com/YadrSrOocjG2eyjUph4KPHdJjhg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1914193-1467852029-4954.jpeg.jpg" data-tags="lo-fi" role="button">
+Vivian Girls - Everything Goes Wrong (2009-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
@@ -176,6 +170,9 @@ Small Black - Small Black EP (2009-10-13)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/654ce88a-d446-49e4-9717-4bf756dfa018/7781130461-500.jpg" data-tags="lo-fi, garage rock, flawless" role="button">
+The King Khan & BBQ Show - Invisible Girl (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b088db4d-6aee-4991-b888-b283b77f7ad0/15835480698-500.jpg" data-tags="indie rock, indie" role="button">
 Real Estate - Real Estate (2009-11-17)
@@ -269,6 +266,9 @@ The Antlers - Undersea (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2559fbc2-0b36-48aa-a2fd-1b36eb71e966/8293463939-500.jpg" data-tags="lo-fi" role="button">
 Teen Suicide - i will be my own hell because there is a devil inside my body (2012-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
+How to Dress Well - Total Loss (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
 Alex G - TRICK (2012-11-06)

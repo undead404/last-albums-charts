@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:43:12.684Z
+date: 2021-04-11T17:36:01.434Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -32,9 +32,6 @@ Toyah - The Changeling (1982-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f38213-6016-4664-bd23-77bd4f7aafaf/3039576624-500.jpg" data-tags="dance, screamin diva" role="button">
 Grace Jones - Living My Life (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/784732dd-29b9-43dd-8848-14081026cafb/16758854343-500.jpg" data-tags="downtempo" role="button">
-Everything But the Girl - Eden (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/476d15b4-b7bd-4e19-b3a2-34f105918550/9183809403-500.jpg" data-tags="80s, swedish, female vocal, gold, abba, steve lillywhite, female faves, frida, proto-vaporwave, fabba" role="button">
 Frida - Shine (1984-09-11)
@@ -290,6 +287,9 @@ Alai Oli - Satta Massagana (2011-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1125dbce-e2e8-4ad8-ab7e-2ac8381d7173/1189323113-500.jpg" data-tags="alternative metal, female vocal, swiss, female singer" role="button">
 69 Chambers - Torque (2012-04-27)
+</li>
+<li data-cover="https://img.discogs.com/h5YRjw2YWUqdM2IYo2rUP_Zn3OA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7460889-1441935104-4306.jpeg.jpg" data-tags="gothic metal, female vocal" role="button">
+September Mourning - Melancholia (2012-05-18)
 </li>
 <li data-cover="https://img.discogs.com/aJ8j4NK4CcqSW53Z_69a27EctbY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3760065-1343272838-7914.jpeg.jpg" data-tags="dance, female vocal, non" role="button">
 Lolita Jolie - Non non non (2012-06-29)

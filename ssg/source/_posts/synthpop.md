@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:01:01.423Z
+date: 2021-04-11T17:42:12.672Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -36,6 +36,9 @@ Men Without Hats - The Safety Dance (1982)
 <li data-cover="http://coverartarchive.org/release/5e2648b1-d47d-4781-9452-a56c97af6130/6649087897-500.jpg" data-tags="80s, synthpop" role="button">
 Yazoo - Upstairs At Eric's (1982-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
+Tears for Fears - The Hurting (1983-03-07)
+</li>
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
@@ -53,9 +56,6 @@ Pet Shop Boys - Discography: The Complete Singles Collection (1991-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
 New Order - Republic (1993-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
@@ -249,14 +249,14 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/f79cbeda-72f9-46ad-b130-b9bc8d1392f7/3698114894-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Delta Machine (2013-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1439055-f1fa-4c4c-a8a3-71a074615911/4024431683-500.jpg" data-tags="synthpop" role="button">
-Charli XCX - True Romance (2013-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
+Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)

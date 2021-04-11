@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:26:01.403Z
+date: 2021-04-11T17:31:06.904Z
 title: "pop-punk: 100 albums you must listen to before you die"
 ---
 ![Yellowcard - Lights and Sounds (2006-01-18)](http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg "Yellowcard - Lights and Sounds (2006-01-18)")
@@ -23,12 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/LMu1krdjUd--ZiOtVA3cl6zvohc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385676-1382123519-7295.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Buzzcocks - A Different Kind of Tension (1979-09)
-</li>
-<li data-cover="https://img.discogs.com/ugjbjNW1wYlQhPOPT5E0LCbJg64=/fit-in/338x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1240135-1203029997.jpeg.jpg" data-tags="punk, punk rock" role="button">
-The Adicts - Songs of Praise (1981)
-</li>
-<li data-cover="https://img.discogs.com/PziGijtyAyOIXLbKUXOLSyGmcTk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867842-1377450263-4494.jpeg.jpg" data-tags="punk" role="button">
-The Adicts - Sound of Music (1982)
 </li>
 <li data-cover="https://img.discogs.com/X6fiSwFs8qQ2G7qgID3MOmzZsQ8=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627925-1243439477.jpeg.jpg" data-tags="punk" role="button">
 The Adicts - Smart Alex (1985)
@@ -57,14 +51,14 @@ AFI - Black Sails in the Sunset (1999-05-18)
 <li data-cover="http://coverartarchive.org/release/cd80d624-8172-4612-97ad-fa3b86e41751/7432264240-500.jpg" data-tags="indie, punk, alternative, hardcore, emo, punk rock, pop-punk, melodic hardcore" role="button">
 The Movielife - It's Go Time (1999-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/6595d8fd-939b-4794-bbce-816feeefd59d/7730044471-500.jpg" data-tags="melodic hardcore" role="button">
+Thrice - First Impressions (1999-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/7dc0297b-7d91-415c-9eb2-acf23800cefd/2506338240-500.jpg" data-tags="teenage, funny songs" role="button">
 Wheatus - Teenage Dirtbag (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/46bdc3ea-e017-4e6c-8560-b68961dd5aeb/26299827268-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - Identity Crisis (2000-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/beeea995-94fb-408d-aa46-c0607bf93420/25464193273-500.jpg" data-tags="rock" role="button">
-EVE 6 - Horrorscope (2000-07-19)
 </li>
 <li data-cover="https://img.discogs.com/37rX_KJ-pUEs4rqsURx6BUXy_g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3074593-1314510477.jpeg.jpg" data-tags="pop-punk, nettwerk" role="button">
 Treble Charger - Wide Awake Bored (2000-07-25)
@@ -98,9 +92,6 @@ The Apex Theory - Topsy-Turvy (2002-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
-</li>
-<li data-cover="https://img.discogs.com/dEQah6C7HfFT_jzEHA1fS4FnW6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547728-1457059020-1993.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
-Senses Fail - From The Depths Of Dreams (2002-08-13)
 </li>
 <li data-cover="https://img.discogs.com/5C_aOeOH1LzUDlkcydPm5fqB8Eg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-757826-1169995318.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
 Allister - Last Stop Suburbia (2002-10-01)
@@ -156,9 +147,6 @@ Spitalfield - Stop Doing Bad Things (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4e182d3-cbd8-4c21-84f1-4b3cad1e79c0/10226753401-500.jpg" data-tags="pop punk" role="button">
 All Time Low - The Party Scene (2005-07-19)
 </li>
@@ -186,8 +174,14 @@ Less Than Jake - In with the Out Crowd (2006-05-22)
 <li data-cover="http://coverartarchive.org/release/b8237d33-ad0a-41ae-96e6-99d0671700ec/1961550131-500.jpg" data-tags="alternative rock, pop punk" role="button">
 Paramore - The Summer Tic EP (2006-06)
 </li>
+<li data-cover="https://img.discogs.com/9mH7Q8wjM44FYVwGwOzDn4J15aA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692323-1237291733.jpeg.jpg" data-tags="punk, pop punk, pop-punk, punk-pop, melodic punk, buzz pop, ramones-core, three chord punk, albums that i fucking love" role="button">
+The Steinways - Missed The Boat (2006-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/34674812-212e-4ab6-bd87-6c9f370858da/4786446537-500.jpg" data-tags="alternative rock, remix" role="button">
+Falling Up - Exit Lights (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
@@ -296,6 +290,12 @@ I Am The Avalanche - Avalanche United (2011-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bceaf973-4866-48e3-a1ee-0fb0f25fb533/8364577160-500.jpg" data-tags="pop punk" role="button">
 Real Friends - Everyone That Dragged You Here (2012-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/3492afd5-6087-4a72-a124-34d57bffef67/13477309950-500.jpg" data-tags="melodic hardcore, hardcore punk" role="button">
+No Trigger - Tycoon (2012-02-21)
+</li>
+<li data-cover="https://img.discogs.com/dRabRbdEsT-QJkMtjA0C1wnQRg4=/fit-in/355x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7582925-1444518875-5319.jpeg.jpg" data-tags="christian rock, pop-punk, power-pop" role="button">
+Capital Lights - Rhythm 'N' Moves (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/22bee7ab-ad20-42d3-8660-65b226f8b870/14793746975-500.jpg" data-tags="indie, emo, pop-punk, rarities" role="button">
 Say Anything - All My Friends Are Enemies: Early Rarities (2013-01-22)

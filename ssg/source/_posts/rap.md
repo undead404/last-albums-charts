@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:35:01.578Z
+date: 2021-04-11T17:21:01.434Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - The Low End Theory (1991-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
 Ice Cube - The Predator (1992-11-17)
 </li>
@@ -35,9 +32,6 @@ Dr. Dre - The Chronic (1992-12-15)
 </li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
 </li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
@@ -228,6 +222,9 @@ T.I. - Paper Trail (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
+Akon - Freedom (2008-11-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
 </li>
@@ -254,6 +251,9 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/c851b848-f9a1-482e-b9bd-41abbc40b281/2870109708-500.jpg" data-tags="rap" role="button">
+Mac Miller - K.I.D.S. (2010-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

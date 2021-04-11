@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:31:06.870Z
+date: 2021-04-11T17:30:01.482Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -53,9 +53,6 @@ In The Woods... - Omnio (1997-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/641293ff-c29e-483c-8f79-b07eab011344/6167514371-500.jpg" data-tags="avant-garde metal" role="button">
 Arcturus - La Masquerade Infernale (1997-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/50b9a8dc-fb9b-4872-839d-44ce9ec5a978/25640443565-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
-Sigh - Hail Horror Hail (1997-12)
 </li>
 <li data-cover="https://img.discogs.com/LjUpIiBmj8BKLqkVG0d8aTgslyM=/fit-in/307x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533596-1334196145.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
@@ -141,9 +138,6 @@ Crotchduster - Big Fat Box of Shit (2004-10-05)
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/41a71be2-4c3d-43f5-a7f7-f7ea91541bc8/12638055306-500.jpg" data-tags="avant-garde, avant-prog" role="button">
-Sleepytime Gorilla Museum - Of Natural History (2004-11-02)
-</li>
 <li data-cover="https://img.discogs.com/qmCEsimWuh64NR3AZekdg_NUR2I=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432947-1605958383-6757.jpeg.jpg" data-tags="experimental" role="button">
 Fantômas - Suspended Animation (2005-04-05)
 </li>
@@ -161,9 +155,6 @@ Arcturus - Sideshow Symphonies (2005-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal" role="button">
 Buckethead & Friends - Enter The Chicken (2005-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b4389ad-d198-4272-b9da-cf01666be10e/19427644119-500.jpg" data-tags="experimental, jazz metal, progressive metal, mathcore, avant-garde metal" role="button">
-Ephel Duath - Pain Necessary To Know (2005-11-07)
 </li>
 <li data-cover="https://img.discogs.com/-T41HKNeGmw-rRzDbdygtb8DnvA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4039351-1353304842-8152.jpeg.jpg" data-tags="doom metal" role="button">
 Celtic Frost - Monotheist (2006)
@@ -183,6 +174,9 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/e6d3600e-c847-3ffb-b2a2-dec1f3c2b172/2691122178-500.jpg" data-tags="doom metal, sludge, post-metal" role="button">
+Minsk - The Ritual Fires of Abandonment (2007)
+</li>
 <li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
@@ -198,6 +192,9 @@ Oxbow - The Narcotic Story (2007-06-19)
 <li data-cover="http://coverartarchive.org/release/98ed235a-2f5c-44e9-8f94-1373fcd7dc4e/1981275082-500.jpg" data-tags="black metal" role="button">
 Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/49f6af34-d643-385d-95c3-d7fba082fff8/3073081136-500.jpg" data-tags="death metal" role="button">
+Portal - Outre (2007-09-11)
+</li>
 <li data-cover="https://img.discogs.com/OI2GKVx3u6mj7ALCbaEKcKa3VLk=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652820-1295088827.jpeg.jpg" data-tags="rock, avant-garde metal, jeas-reinhoer-planned" role="button">
 Pin-Up Went Down - 2 Unlimited (2008-03-31)
 </li>
@@ -209,9 +206,6 @@ DIR EN GREY - Uroboros (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f51ee89-3604-4e7a-84bd-4c14ff5f9e32/24380429134-500.jpg" data-tags="progressive metal" role="button">
 Leprous - Tall Poppy Syndrome (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2f48af0-f0a6-4368-9a11-4282d0a30dc3/10081496959-500.jpg" data-tags="avant-garde metal, black metal" role="button">
-Thy Catafalque - Róka Hasa Rádió (2009-05-12)
 </li>
 <li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
 iwrestledabearonce - It's All Happening (2009-06-02)
@@ -236,6 +230,9 @@ The Ocean - Heliocentric (2010-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e30c7618-5569-46ea-8eb4-b2128a6ec1ab/7712117702-500.jpg" data-tags="chamber music, gothic, gothic rock, animals, avant-garde metal, avant-prog, goth fusion" role="button">
 Kayo Dot - Coyote (2010-04-20)
+</li>
+<li data-cover="https://img.discogs.com/9McicWCbFh3lbRaVZzTMGb4VvEQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652823-1295089056.jpeg.jpg" data-tags="avant-garde metal" role="button">
+Pin-Up Went Down - 342 (2010-07-23)
 </li>
 <li data-cover="https://img.discogs.com/bbw_DnHBQIvRHNH3HYAOk6970yo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12077670-1527851486-9159.jpeg.jpg" data-tags="dimmu borgir, female backed metal" role="button">
 Dimmu Borgir - Gateways (2010-08-20)
@@ -314,6 +311,9 @@ Avatar - Hail the Apocalypse (2014-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/480677f9-2bf2-4301-ab51-0226c3766110/13196207561-500.jpg" data-tags="doom metal" role="button">
 Triptykon - Melana Chasmata (2014-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/99a6bd17-d2fa-4d4f-829e-86222ce1bfdd/27389187016-500.jpg" data-tags="avant-garde metal, groove metal" role="button">
+Trepalium - Voodoo Moonshine (2014-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/deaa5185-8ac6-4887-a571-225e993c7673/8725571440-500.jpg" data-tags="alternative metal, progressive metal" role="button">
 DIR EN GREY - Arche (2014-12-10)

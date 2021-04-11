@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:41:01.436Z
+date: 2021-04-11T17:20:01.457Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -116,9 +116,6 @@ Billie Holiday - Billie Holiday (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3dc583d-dafd-386d-9fe3-6a324bb7fa28/23327712610-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
-</li>
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/072d8ed1-464f-48d1-a136-9de871c365c9/9495317046-500.jpg" data-tags="rock, blues, classic rock, 60s" role="button">
 Canned Heat - The Best of Canned Heat (1987)
@@ -296,6 +293,9 @@ Alabama Shakes - Boys & Girls (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
 Jack White - Blunderbuss (2012-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/870224d9-4213-4a71-b745-ec5ea8a6501e/9028766356-500.jpg" data-tags="indie, funk" role="button">
+The Heavy - The Glorious Dead (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2410cedd-3a9e-4822-8acf-158542f367ea/2745548084-500.jpg" data-tags="blues, blues rock, warner music, hotwire unlimited" role="button">
 Gary Clark Jr. - Blak and Blu (2012-10-19)

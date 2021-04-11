@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:13:07.036Z
+date: 2021-04-11T17:26:01.859Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -26,12 +26,6 @@ Bachman-Turner Overdrive - Not Fragile (1974)
 </li>
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/c54a5b4e-c8c9-4e4f-bcf9-487a349d2a29/8933970594-500.jpg" data-tags="rock, 80s" role="button">
-Bryan Adams - Reckless (1984-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
-Leonard Cohen - Various Positions (1984-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccd94fae-b441-34d7-a3cd-b0e9785033ec/6919771664-500.jpg" data-tags="rock, 80s, singer-songwriter" role="button">
 Neil Young - Freedom (1989-10-02)
@@ -63,11 +57,17 @@ Sarah McLachlan - Surfacing (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Come on Over (1997-11-04)
 </li>
+<li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
+Esthero - Breath From Another (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/003e4113-6dac-445a-889c-62668ec9f675/10660252617-500.jpg" data-tags="rock, 90s, alternative" role="button">
 Barenaked Ladies - Stunt (1998-07-07)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/745cec89-d876-4e34-9b26-281d6a8d7cac/1667179400-500.jpg" data-tags="post-rock" role="button">
+Godspeed You! Black Emperor - Slow Riot for New Zero Kanada (1999-03-08)
 </li>
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
@@ -228,6 +228,9 @@ K'naan - Troubadour (2009-02-24)
 <li data-cover="https://img.discogs.com/6vNWvebpOi0t-kaUCyMGPv5P_wU=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692447-1237299375.jpeg.jpg" data-tags="indie rock, canadian" role="button">
 Handsome Furs - Face Control (2009-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6ed8eee-be8d-4cc8-9603-d30adcb963cf/18794582819-500.jpg" data-tags="canadian, keep an eye on, flawless, kick asz, candidates, rayuela" role="button">
+Swan Lake - Enemy Mine (2009-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
 Metric - Fantasies (2009-03-31)
 </li>
@@ -276,23 +279,20 @@ The Weeknd - House of Balloons (2011-03-21)
 <li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
 Dirty Beaches - Badlands (2011-03-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
+City and Colour - Little Hell (2011-06-07)
+</li>
 <li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
 Michael Bublé - Christmas (2011-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
-</li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
 Marianas Trench - Ever After (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
-</li>
-<li data-cover="https://img.discogs.com/hSJkc5MRBgjsNYDGhSN5M7qifnE=/fit-in/440x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3545772-1611054445-9887.jpeg.jpg" data-tags="indie pop" role="button">
-Patrick Watson - Adventures in Your Own Backyard (2012-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">
 Japandroids - Celebration Rock (2012-06-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:04:06.993Z
+date: 2021-04-11T17:39:12.821Z
 title: "singer/songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -78,9 +78,6 @@ Kathryn Williams - Leave To Remain (2006-08-02)
 <li data-cover="http://coverartarchive.org/release/101ea40b-2647-476f-96b9-711fdbbf610a/1262133327-500.jpg" data-tags="indie, christian, singer songwriter, singer/songwriter" role="button">
 Kendall Payne - Paper Skin (2007)
 </li>
-<li data-cover="https://img.discogs.com/hLBq-Nmm040vEWoyAIKOidats1o=/fit-in/454x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608369-1231930638.jpeg.jpg" data-tags="folktronica, electronica" role="button">
-James Yuill - Turning Down Water For Air (2007-02-26)
-</li>
 <li data-cover="https://img.discogs.com/aaRYFPV2pd91HYaTWoNGXjO84rY=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2605099-1292786722.jpeg.jpg" data-tags="female vocalists" role="button">
 Paula Cole - Courage (2007-06-12)
 </li>
@@ -102,9 +99,6 @@ William Fitzsimmons - The Sparrow and the Crow (2008)
 <li data-cover="https://img.discogs.com/8798gMynPFlxjiHZ3pjWqN41ql8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287918-1207379612.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Sera Cahoone - Only As The Day Is Long (2008-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
-Priscilla Ahn - A Good Day (2008-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/332b04a6-1a19-4d44-94c6-3c03e14f374b/15577515732-500.jpg" data-tags="pop, country, pop rock, americana, singer/songwriter, purchased 09, albums checked" role="button">
 Peter Bradley Adams - Leavetaking (2008-08-05)
 </li>
@@ -125,9 +119,6 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
 <li data-cover="https://img.discogs.com/6V_FyQBaT6RPKcw4_kbWcTeKJUA=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1945137-1384273315-9746.jpeg.jpg" data-tags="folk, indie, singer-songwriter" role="button">
 J. Tillman - Vacilando Territory Blues (2009-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
 </li>
 <li data-cover="https://img.discogs.com/26uE42hTSzfN0zgSahfUfjaeevw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773739-1402266022-5004.jpeg.jpg" data-tags="indie, rock, singer-songwriter, singer/songwriter, southern songwriter" role="button">
 Joe Purdy - Last Clock On the Wall (2009-03-17)
@@ -159,9 +150,6 @@ Aunt Martha - Candymaker (2009-10-15)
 <li data-cover="http://coverartarchive.org/release/52b09877-7cbb-4238-b12e-a3481d081602/7761759003-500.jpg" data-tags="folk" role="button">
 Peter Bradley Adams - Traces (2009-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b7dccac-3336-4fe8-9cca-b573cbf509a1/25242897640-500.jpg" data-tags="acoustic, adult alternative, folk rock, singer/songwriter, 2009 albums" role="button">
-Passenger - Wide Eyes Blind Love (2009-11-20)
-</li>
 <li data-cover="https://img.discogs.com/IIa8MRqLOboH7-hv_VVUiMFMHKM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10028023-1490377324-4364.jpeg.jpg" data-tags="rock, country, americana, adult alternative, singer/songwriter, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
 Jarrod Gorbel - Devil's Made A New Friend (2010)
 </li>
@@ -188,6 +176,9 @@ Philipp Poisel - Bis nach Toulouse (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f47659a4-4a7c-4995-95f7-42cd9419ba7b/11616480516-500.jpg" data-tags="pop, rock, folk, pop rock, singer/songwriter, 10s, 2010 releases" role="button">
 Julia Stone - The Memory Machine (2010-09-01)
+</li>
+<li data-cover="https://img.discogs.com/8cDj8INOIN-SWlcSaZ7-3JBvdJs=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11776971-1522191403-1243.jpeg.jpg" data-tags="pop, rock, singer/songwriter" role="button">
+Bess Rogers - Bess Rogers Presents Bess Rogers (2010-09-07)
 </li>
 <li data-cover="https://img.discogs.com/KLorm1yyUJbaSpsHn15HuyTKqMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10881531-1505867459-9205.jpeg.jpg" data-tags="indie, singer/songwriter, joe brooks" role="button">
 Joe Brooks - Constellation Me (2010-09-07)
@@ -216,11 +207,20 @@ Jessica Lea Mayfield - Tell Me (2011-02-08)
 <li data-cover="http://coverartarchive.org/release/551d729c-f624-4c45-9198-3882e6b51ea9/1386321608-500.jpg" data-tags="rock, singer/songwriter" role="button">
 Trent Dabbs - Southerner (2011-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/fdd345f0-b2ac-4f90-879e-401364812f74/4899071991-500.jpg" data-tags="folk rock, singer/songwriter, 2010s, bruce cockburn, canadians, 2011 albums" role="button">
+Bruce Cockburn - Small Source Of Comfort (2011-03-08)
+</li>
 <li data-cover="https://img.discogs.com/D85OUNqlEKZWA3DIhUdglvkl0xI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4814796-1377312480-9842.jpeg.jpg" data-tags="pop, rock, pop rock, acoustic, adult alternative, singer/songwriter, relevant magazine" role="button">
 Matt Wertz - Weights & Wings (2011-03-15)
 </li>
 <li data-cover="https://img.discogs.com/XzbVs5C13ciRPh7px1-ICDHvVYw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5186801-1394404407-8695.jpeg.jpg" data-tags="rock" role="button">
 Matthew Mayfield - Now You're Free (2011-04-05)
+</li>
+<li data-cover="https://img.discogs.com/1CSUWdrvzOBfb2t7oiK1tMvil7c=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4828782-1376778633-6813.jpeg.jpg" data-tags="jazz, pop, rock, adult alternative, singer/songwriter" role="button">
+Gabe Dixon - One Spark (2011-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/17e3b56b-0689-4116-9151-496097f0dfaf/5635600650-500.jpg" data-tags="pop, rock, singer/songwriter" role="button">
+Greg Holden - I don't believe you (2011-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2c4b353-d004-4226-9bde-c5dd07cb1f0f/25831858893-500.jpg" data-tags="pop" role="button">
 Anna Nalick - Broken Doll & Odds & Ends (2011-06-05)
@@ -245,9 +245,6 @@ Ben Rector - Something Like This (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/93e4343c-0551-4e0c-b581-e6e6bf7e8799/2516153143-500.jpg" data-tags="rock" role="button">
 Katie Herzig - The Waking Sleep (2011-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/40ad926e-0aa5-476d-9640-fed5f95d8ede/3990865020-500.jpg" data-tags="maria mena" role="button">
-Maria Mena - Viktoria (2011-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8eee5b4-e902-46fa-986d-0df69d360a58/2479688238-500.jpg" data-tags="indie, rock, alternative, folk, singer/songwriter, 2010s, 2011 albums, nettwerk records, canela fina, part i" role="button">
 Radical Face - The Family Tree: The Roots (2011-10-04)
@@ -278,6 +275,9 @@ Matthew Mayfield - A Banquet for Ghosts (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/26d8a64f-a315-4a53-a6a0-5ddc6c3b0a6d/2456209840-500.jpg" data-tags="rock, alternative, singer/songwriter" role="button">
 Matthew Perryman Jones - Land Of The Living (2012-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6787f35-8f78-42e5-91de-1b2a5ed6ffc2/2107041107-500.jpg" data-tags="pop, rock, pop rock, adult alternative, blues rock, singer/songwriter, rock & roll" role="button">
+Melissa Etheridge - 4th Street Feeling (2012-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/fdf96f46-d713-4a5b-9e8c-8903b4eef5da/2961251065-500.jpg" data-tags="rock, soul" role="button">
 ZZ Ward - Til the Casket Drops (2012-10-16)

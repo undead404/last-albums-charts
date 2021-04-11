@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:49:01.471Z
+date: 2021-04-11T16:56:12.689Z
 title: "contemporary: 100 albums you must listen to before you die"
 ---
 ![Emancipator - safe in the steep cliffs (2010-01-19)](http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg "Emancipator - safe in the steep cliffs (2010-01-19)")
@@ -36,11 +36,11 @@ Hubert Laws - The Rite of Spring (1971-08-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Jon Anderson - Olias of Sunhillow (1976-07)
 </li>
+<li data-cover="https://img.discogs.com/Y9fbXheYaXAfM3GUpymRVI70BVQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3158688-1394730275-2683.jpeg.jpg" data-tags="soundtrack" role="button">
+John Barry - The Black Hole (1979)
+</li>
 <li data-cover="https://img.discogs.com/Rhkxr3Wfo5DtkPTrLbnibriBsJM=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712819-1436445212-3363.jpeg.jpg" data-tags="jazz, bass" role="button">
 Jaco Pastorius - The Birthday Concert (1981)
-</li>
-<li data-cover="https://img.discogs.com/i2MqHv7SSgnYArmpe8az2nvClU4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6122443-1589921572-7735.jpeg.jpg" data-tags="jazz, bass" role="button">
-Jaco Pastorius - The Florida Concert (1982)
 </li>
 <li data-cover="https://img.discogs.com/TfLotYMad-QYCFMNsZsMllMGtJc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7323227-1438883622-2007.jpeg.jpg" data-tags="pop, 80s, new wave, contemporary, funk, bass, jazz rock, slap" role="button">
 Level 42 - The Pursuit Of Accidents (1982)
@@ -56,6 +56,9 @@ Level 42 - A Physical Presence (1985-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9fa37d2-9ab7-4903-8289-c77f2c884d02/5843608003-500.jpg" data-tags="clinically romantic, soundtrack, ambient" role="button">
 Coil - Hellraiser Themes (1987)
+</li>
+<li data-cover="https://img.discogs.com/CxK3OZbbiA91b1-tYliSnC1OG80=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1503229-1347309828-3858.jpeg.jpg" data-tags="fusion, contemporary, funk, bass, smooth jazz, jazz rock, brian bromberg, now available on last-fm radio 07q3" role="button">
+Brian Bromberg - Basses Loaded (1988)
 </li>
 <li data-cover="https://img.discogs.com/sh7udceKcjCnx2nf0QYPwwjkKr8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993874-1257353554.jpeg.jpg" data-tags="fusion, contemporary, funk, bass, jazz rock, not available on last-fm radio yet" role="button">
 John Patitucci - John Patitucci (1988)
@@ -98,6 +101,9 @@ Brian Bromberg - Brian Bromberg (1993)
 </li>
 <li data-cover="https://img.discogs.com/f229aRtZ3ljBJFDgFObpbBUcAy8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14709844-1580076953-3911.jpeg.jpg" data-tags="fusion, jazz" role="button">
 Jaco Pastorius - Holiday for Pans (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/06eeb411-267c-4406-9322-4b48f2bc1ae2/19860265102-500.jpg" data-tags="contemporary, german, gammarec, freepurp1e, juma, ecm globalmusic, music-theater, radio-play" role="button">
+Heiner Goebbels - Shadow / Landscape With Argonauts (1993-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/31337948-da32-4b0f-bd5e-da30ec7be81d/28172940554-500.jpg" data-tags="funk, bass, jazz" role="button">
 Marcus Miller - The Sun Don't Lie (1993-05-21)
@@ -162,6 +168,12 @@ Mark King - One Man (1999-05-18)
 <li data-cover="https://img.discogs.com/T7DcSu1H9M5_FEjC2iisr8RwPKI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603896-1294211474.jpeg.jpg" data-tags="fusion, jazz rock" role="button">
 Steps Ahead - Smokin' in the Pit (1999-08-10)
 </li>
+<li data-cover="https://img.discogs.com/FHwGY4SyDRTZflPLAJ7GJ7vCw5c=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-898459-1599389787-1775.jpeg.jpg" data-tags="german" role="button">
+Ich schwitze nie - Billige Flaggen (2000)
+</li>
+<li data-cover="https://img.discogs.com/PxBfDo6wB1AZUpxrZGYZWw0eDuU=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18147808-1617536171-2832.jpeg.jpg" data-tags="classic, experimental, contemporary, techno, minimal, found voices, popular electronica, melancholic live" role="button">
+Scanner - Diary (2000)
+</li>
 <li data-cover="https://img.discogs.com/ZyM6OAPZXGOJTn4sOq7knTBfiFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6027095-1409167473-4567.jpeg.jpg" data-tags="bass" role="button">
 John Patitucci - Imprint (2000-02-01)
 </li>
@@ -182,9 +194,6 @@ Marcus Miller - The Ozell Tapes: The Official Bootleg (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a299cf1-8967-4f48-9047-e496af628b78/28258184422-500.jpg" data-tags="bass, jazz" role="button">
 Brian Bromberg - Wood (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/ebc0b06d-d47d-4a7b-967a-e845bd1db3f9/19109365037-500.jpg" data-tags="praise and worship" role="button">
-The Katinas - Lifestyle (2002-06-18)
 </li>
 <li data-cover="https://img.discogs.com/Xd1nLlKjNmOqT6wSFQkU0BLn85U=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8132738-1455748305-3638.jpeg.jpg" data-tags="jazz" role="button">
 John Patitucci - Songs, Stories & Spirituals (2003-01-01)
@@ -209,9 +218,6 @@ Brian Bromberg - Choices (2004-01-13)
 </li>
 <li data-cover="https://img.discogs.com/4FODhGFoS6WKsQGfkATi9B96LFs=/fit-in/343x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698714-1149071666.jpeg.jpg" data-tags="electronic, electronica, jazz, pop, downtempo, dance, contemporary, funk, ska, lounge, funky, breaks, breakbeat, brass, cover versions, freshly squeezed, sampladelic, mondiovision, labels - freshly squeezed music, uk artist, funky trippy tapes" role="button">
 The Voodoo Trombone Quartet - The Voodoo Trombone Quartet (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/f461a381-c662-4e28-8ffd-a22ca187fcd9/19930709484-500.jpg" data-tags="lounge" role="button">
-Lemon - With a Twist (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
@@ -249,9 +255,6 @@ hwyl nofio - Hounded By Fury (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/ad5f4d26-9e11-49a1-82e5-6c6cec2339fe/5829497019-500.jpg" data-tags="instrumental, ambient, piano, contemporary, new age, relaxing" role="button">
 Ralph Zurmühle - Our Mother (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/6fd864a8-8f45-4394-88fc-6c805acd1c28/5805133937-500.jpg" data-tags="electronica, ambient, idm, electronic, downtempo" role="button">
-Northcape - Detach (2007-01-31)
-</li>
 <li data-cover="https://img.discogs.com/dcYJqnZA7_pTzzdV0OI2l78epE0=/fit-in/594x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1068120-1189718657.jpeg.jpg" data-tags="rock, alternative, female vocalists, contemporary, all popular" role="button">
 Luscious Jackson - Greatest Hits (2007-02-20)
 </li>
@@ -276,8 +279,8 @@ TRS-80 - The New You (2008-01-29)
 <li data-cover="https://img.discogs.com/31iPqOv0_0DhRYywW23khbYLhGM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2518831-1288433669.jpeg.jpg" data-tags="contemporary, avant, tzadik, parts of the body" role="button">
 Paola Prestini - Body Maps (2008-09-16)
 </li>
-<li data-cover="https://img.discogs.com/KG43Xo19ndsqxfCvkn3KDOzztFA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5265834-1389095172-5428.jpeg.jpg" data-tags="spanish, indie, rock, punk, alternative, reggae, folk, rap, experimental, acoustic, fusion, world, contemporary, latin, ska, psychedelic, london, singer, guitar, ethnic, gypsy, energetic, español, barcelona, funky, progressive, political, brazilian, world music, band, latino, activist, 00s, world fusion, espanol, latin alternative, latin america, flamenco, mestizo, europe, gipsy, lyrics, socially conscious, rumba, lowlands, sound, manu chao, international, festival, latina, lively, diverse, mediterranean, avante garde, gogol bordello, cultural, rodrigo y gabriela, nuevo, ozomatli, rhythms, musica, mestizaje, la pegatina, macaco, peyote, fermin muguruza, ojos de brujo, che sudaka, amparanoia, academy, przystanek woodstock, cargo, manu negra, amadou & mariam, sergent garcia, blue king brown, los de abajo, la kinky beat, canteca de macao, flamenkillo, headliners, calle13, dusminguet, la troba kung-fu, anglo italian, anti globalista, conquistadors, pietro dimascio, real democracy, sfinks, rockwave, dingwalls, anti globalization, glastonbury bestival, global troubadours, peyote for president, peyoti for president, rumba live, spanish revolucion" role="button">
-Peyoti for President - Rising Tide Of Conformity (2009)
+<li data-cover="http://coverartarchive.org/release/d00e59bf-3ad6-49e6-ac65-866ccb88be15/5948702703-500.jpg" data-tags="classical, piano, easy listening, contemporary, new age, peaceful, relaxing, coming home, new age piano, embers, skipping stones, new age classical, open mind, james cahall, the day before tomorrow, as daylight fades, midnight dancer, shades of autumn, starlit crossroads, the passing storm, the rising sun, tides of the heart" role="button">
+James Cahall - Coming Home (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/13b1ae38-14a7-4e01-be47-3bc35b8862d5/4487578112-500.jpg" data-tags="jazz" role="button">
 Jeff Berlin - In Harmony's Way (2009-03)
@@ -290,9 +293,6 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb5c5d48-cb07-42c7-9178-ab873e2f8bf3/6409472268-500.jpg" data-tags="instrumental, piano" role="button">
 Wim Mertens - Zee Versus Zed (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ca93f20-4b0f-4cde-a30a-aa9d06cc692e/6610216316-500.jpg" data-tags="jazz rock" role="button">
-Figurines - Figurines (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/q0VNFGS23p5DVJ23W0vDoiwefjw=/fit-in/270x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880055-1305397326.jpeg.jpg" data-tags="electronic, instrumental, ambient, contemporary, cinematic, soundscape, melancholy, melancholic, sound sculpture" role="button">
 Field Rotation - And tomorrow I will sleep (2011-05-09)

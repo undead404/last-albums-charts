@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:57:01.447Z
+date: 2021-04-11T17:00:01.472Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -41,6 +41,9 @@ The Wedding Present - Bizarro (1989-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3cbadb4-f6b2-41f7-a5b2-9928de267a41/7894193488-500.jpg" data-tags="alternative rock, alternative" role="button">
 The Jesus and Mary Chain - Automatic (1989-10-09)
+</li>
+<li data-cover="https://img.discogs.com/Ru1Wx6pVagAy8UHzXg-ktbcYyRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84680-1523164126-2096.jpeg.jpg" data-tags="shoegaze" role="button">
+My Bloody Valentine - Glider (1990-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
 Mercury Rev - Yerself Is Steam (1991)
@@ -108,9 +111,6 @@ Black Tambourine - Complete Recordings (1999-04-27)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f00c29a-d93d-4233-a16c-987bde6c89b1/16162147832-500.jpg" data-tags="experimental" role="button">
-The Microphones - Don't Wake Me Up (1999-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/95586553-68a7-4d51-9e3b-ea75019cb33c/7066058886-500.jpg" data-tags="twee pop, jangle pop, garage rock revival, melodic, noise pop, 00s, sing-along, tuneful, truckload of trouble, dr small jukebox, actually cool, evening city, thelastmatch, savonlinna" role="button">
 The Aislers Set - The Last Match (2000-05)
 </li>
@@ -141,8 +141,8 @@ The Raveonettes - Pretty in Black (2005-05-03)
 <li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
 deadmau5 - Get Scraped (2005-07-26)
 </li>
-<li data-cover="https://img.discogs.com/qc4oRu1Tl0MLXyV8IwWDZ7riIyY=/fit-in/599x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477532-1363987980-7174.jpeg.jpg" data-tags="experimental" role="button">
-Xiu Xiu - The Air Force (2006-09-11)
+<li data-cover="http://coverartarchive.org/release/4d61abca-5c04-4eba-937b-f575cf001b4e/15756798206-500.jpg" data-tags="indie rock" role="button">
+Be Your Own Pet - Be Your Own Pet (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/eecea632-0a7a-4c60-90ce-aafb63dfbf6a/25155649526-500.jpg" data-tags="shoegaze" role="button">
 LSD and the Search for God - LSD and the Search For God (2007-01-16)
@@ -249,9 +249,6 @@ The Raveonettes - Raven in the Grave (2011-04-04)
 <li data-cover="http://coverartarchive.org/release/abe3ba47-e9e2-406a-9ee0-5a9c7d06640d/11278649860-500.jpg" data-tags="noise pop" role="button">
 Boris - Attention Please (2011-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
-Dye - Taki 183 (2011-06-27)
-</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
 </li>
@@ -287,6 +284,9 @@ Car Seat Headrest - Monomania (2012-08-01)
 </li>
 <li data-cover="https://img.discogs.com/0eLPCxHo0284lfurJDojORH-WyQ=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841994-1346544165-6991.jpeg.jpg" data-tags="noise pop" role="button">
 Deerhoof - Breakup Song (2012-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/2559fbc2-0b36-48aa-a2fd-1b36eb71e966/8293463939-500.jpg" data-tags="lo-fi" role="button">
+Teen Suicide - i will be my own hell because there is a devil inside my body (2012-09-15)
 </li>
 <li data-cover="https://img.discogs.com/zwZWNjsLirMCcYaAqdVOeA3fyoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7384933-1440352188-3317.jpeg.jpg" data-tags="shoegaze" role="button">
 No Joy - Wait To Pleasure (2013-04-23)

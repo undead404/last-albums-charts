@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:57:01.421Z
+date: 2021-04-11T17:40:01.430Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -29,9 +29,6 @@ Wilson Pickett - Hey Jude (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb224bc4-27f8-4b46-9c46-75d13873454e/11052080256-500.jpg" data-tags="singer-songwriter, 70s" role="button">
 Cat Stevens - Teaser and the Firecat (1971-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c418b20d-3d73-4796-8511-c0f77eb900c5/3626149179-500.jpg" data-tags="folk" role="button">
-Rodriguez - Coming From Reality (1971-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
@@ -69,9 +66,6 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="http://coverartarchive.org/release/5f52d3ff-74dd-460d-a627-4d54f0f7eff6/1611443813-500.jpg" data-tags="indie, rock, alternative, indie rock, 90s" role="button">
 Modest Mouse - Interstate 8 (1996-08-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2a328cda-d19e-4bb8-84b1-9181b16780c8/5813185714-500.jpg" data-tags="rock, rock pop, rod stewart" role="button">
-Rod Stewart - If We Fall in Love Tonight (1996-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/a03e7e4b-45ab-390e-9439-4253efa57967/6316878222-500.jpg" data-tags="rock, 90s" role="button">
 U2 - Pop (1997-02-26)
 </li>
@@ -105,6 +99,9 @@ Ricky Martin - Ricky Martin (1999-05-04)
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/7255adac-2879-4d65-99ca-33b12687d614/13567831705-500.jpg" data-tags="slowjam, keath" role="button">
+Keith Sweat - Didn't See Me Coming (2000-11-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
@@ -131,6 +128,9 @@ Ronan Keating - Destination (2002)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/39c639e7-2a8b-4d1b-97f9-1951124bd724/4739706218-500.jpg" data-tags="pop rock, christian, christian rock, male vocalist, worship, christian pop, pop-rock, praise, praise & worship, modern worship, hillsong, adoration, christian worship, worship praise, matt redman, voci maschili, maschi, maschio, occhi a cuoricino, praise worship, voce maschile, clan gathering 07, worship rock pop, worship praise acoustic, christian male vocals, christian worship acoustic" role="button">
+Matt Redman - Where Angels Fear to Tread (2002)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
@@ -161,9 +161,6 @@ Gareth Gates - Go Your Own Way (2003-09-22)
 </li>
 <li data-cover="https://img.discogs.com/O5LxXdNho2lXDt3ioVMXVKH9aD8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2598767-1476194806-3076.jpeg.jpg" data-tags="female, pop, soul, american, male vocalist, 00s, beat, bubblegum, boy" role="button">
 Nick Lachey - Soulo (2003-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/524f982f-8870-4893-b4bc-878ff99577c7/11516428847-500.jpg" data-tags="pop, boy band, male vocalist, turnaround" role="button">
-Westlife - Turnaround (2003-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
@@ -228,11 +225,11 @@ a-ha - Analogue (2005-10-31)
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 </li>
-<li data-cover="https://img.discogs.com/ufb38_kbj772fQ-hSCZ9BGG1S7Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790033-1344603975-8232.jpeg.jpg" data-tags="pop rock, nam" role="button">
-Jesse McCartney - Right Where You Want Me (2006-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
 Amos Lee - Supply And Demand (2006-10-03)
+</li>
+<li data-cover="https://img.discogs.com/8hIpTe1SbU7w973r5w69GZ7N1bM=/fit-in/400x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504562-1225460490.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
+Math and Physics Club - Math and Physics Club (2006-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
@@ -272,6 +269,9 @@ Daniel Merriweather - Love & War (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Mos Def - The Ecstatic (2009-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfe8ba20-6a93-494f-a115-f1d4f950c56f/10161907343-500.jpg" data-tags="usa, easy listening, male vocalist, 00s, purchased 09, grammy nominated, jazzy standard" role="button">
+Willie Nelson - American Classic (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)

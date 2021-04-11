@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T02:12:01.423Z
+date: 2021-04-11T17:37:07.083Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">Tool - Undertow (1993-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">The Mars Volta - Frances the Mute (2005-03-01)</li>
 <li data-cover="https://img.discogs.com/zg3cDss-LUQ4HxAnxEOLUfcVF0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206885-1590518555-8967.jpeg.jpg" data-tags="progressive rock" role="button">Porcupine Tree - Deadwing (2005-03-28)</li>
@@ -13,7 +14,6 @@ title: "progressive: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">The Mars Volta - Amputechture (2006-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">Opeth - Watershed (2008-05-28)</li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">John Frusciante - The Empyrean (2009-01-14)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -44,6 +44,9 @@ The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, 70s, progressive rock" role="button">
+Supertramp - The Very Best of Supertramp (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
@@ -263,9 +266,6 @@ DIR EN GREY - Uroboros (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
 The Fall of Troy - Phantom on the Horizon (2008-11-28)
-</li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)

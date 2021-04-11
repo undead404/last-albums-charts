@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:56:01.403Z
+date: 2021-04-11T17:33:01.410Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Music of the Sun (2005-08-29)](http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg "Rihanna - Music of the Sun (2005-08-29)")
@@ -33,12 +33,6 @@ Eek-a-Mouse - Wa-Do-Dem (1981)
 <li data-cover="https://via.placeholder.com/450" data-tags="roots reggae, cocaine, dancehall reggae" role="button">
 Dillinger - Cocaine (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/47cfb0e2-7c35-44ad-b88e-74ff41dc0529/9252081320-500.jpg" data-tags="reggae" role="button">
-Ini Kamoze - Ini Kamoze (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/f45242b4-6759-43a6-bb47-f66df63a1527/9667451553-500.jpg" data-tags="soul, 80s, chillout, male vocalists" role="button">
-Luther Vandross - The Night I Fell In Love (1985)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4891095-1d89-43fd-85f8-375cfb6d28d1/12104385741-500.jpg" data-tags="reggae, roots reggae" role="button">
 Bunny Wailer - Rootsman Skanking (1987)
 </li>
@@ -59,6 +53,9 @@ Cocoa Tea - Reggae Legends, Volume 3 (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/1dcded4d-ce9d-4e11-bf7e-e265d145199a/21311493320-500.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
+Luciano - Messenger (1996)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae" role="button">
 Gregory Isaacs - One Man Against The World - Best Of (1996-11-26)
@@ -248,6 +245,9 @@ M.I.A. - Kala (2007-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b70cabc4-2b99-427b-8a0f-bfcd99f3f71c/8093642744-500.jpg" data-tags="reggae, dancehall" role="button">
 Damian Marley - Rare Joints - the Album (2008)
+</li>
+<li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
+The Qemists - Dem Na Like Me (2008-01-19)
 </li>
 <li data-cover="https://img.discogs.com/pz4h8bc9rTxeuLTBN1OoT4Z8SQc=/fit-in/594x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661743-1295556039.jpeg.jpg" data-tags="reggae, roots reggae" role="button">
 Richie Spice - Gideon Boot (2008-05-13)

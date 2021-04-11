@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:14:02.129Z
+date: 2021-04-11T17:44:01.468Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -219,6 +219,9 @@ Luke Bryan - I'll Stay Me (2007-08-14)
 <li data-cover="http://coverartarchive.org/release/9e7e6650-c2fb-421d-8b91-d6265f4faad6/15048760653-500.jpg" data-tags="country, kenny chesney" role="button">
 Kenny Chesney - Just Who I Am: Poets & Pirates (2007-09-11)
 </li>
+<li data-cover="https://img.discogs.com/pOWJ9y4vvwOtb3Bd_IAxl4LOLyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151980-1322079135.jpeg.jpg" data-tags="rock, rock country" role="button">
+Kid Rock - Rock N Roll Jesus (2007-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ae35324-42a2-4cd8-880e-9d810ef964b2/6121102106-500.jpg" data-tags="country" role="button">
 Carrie Underwood - Carnival Ride (2007-10-23)
 </li>
@@ -287,9 +290,6 @@ Jason Aldean - My Kinda Party (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfeefd88-295a-40b5-8d98-f1c120baffa8/13276903097-500.jpg" data-tags="country, folk, and the punk in me, and the monk in me, blue covers, music meant to be heard, pitchfork top 50 albums of 2011" role="button">
 Bill Callahan - Apocalypse (2011-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/114dc1d5-a25d-4893-abaa-a405282128c2/4155273043-500.jpg" data-tags="country" role="button">
-Eric Church - Chief (2011-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1647ae7-993c-4b98-83bd-36b1003342b1/3499102791-500.jpg" data-tags="country" role="button">
 Luke Bryan - Tailgates & Tanlines (2011-08-09)

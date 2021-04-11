@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:37:01.581Z
+date: 2021-04-11T17:13:01.568Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -26,6 +26,9 @@ Green Day - Dookie (1994-01-28)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
+Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
@@ -66,6 +69,12 @@ The All-American Rejects - The All-American Rejects (2002)
 <li data-cover="http://coverartarchive.org/release/5bfcd3b1-223b-4220-a787-a0aa7f37567e/7942919709-500.jpg" data-tags="pop punk" role="button">
 Simple Plan - No Pads, No Helmets... Just Balls (2002-03-19)
 </li>
+<li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
+Taking Back Sunday - Tell All Your Friends (2002-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - Let Go (2002-06-04)
+</li>
 <li data-cover="https://img.discogs.com/EEctr5TwNHN6kK0zJTkPBdmzFPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4098241-1590334404-2830.jpeg.jpg" data-tags="pop punk" role="button">
 New Found Glory - Sticks and Stones (2002-06-11)
 </li>
@@ -86,9 +95,6 @@ Fall Out Boy - Take This to Your Grave (2003-05-06)
 </li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
@@ -237,9 +243,6 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
-<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
-The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
-</li>
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">
 The Academy Is... - Fast Times At Barrington High (2008-08-18)
 </li>
@@ -272,9 +275,6 @@ Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">
-Say Anything - Say Anything (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa345686-b9cf-47d4-9862-e37e9199c4e5/8250454850-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Believers Never Die - Greatest Hits (2009-11-17)

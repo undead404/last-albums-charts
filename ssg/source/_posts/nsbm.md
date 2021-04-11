@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T19:34:01.466Z
+date: 2021-04-11T16:59:12.703Z
 title: "nsbm: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -7,10 +7,10 @@ title: "nsbm: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">Paris Hilton - Paris (2006-08-14)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop" role="button">Jonas Brothers - Jonas Brothers (2007-08-07)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">Jonas Brothers - A Little Bit Longer (2008-01-01)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
+<li data-cover="http://coverartarchive.org/release/39dcebcd-425c-4fa5-b6c9-32d14f896230/3036084307-500.jpg" data-tags="hard rock, glam metal" role="button">Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
@@ -27,14 +27,8 @@ Forest - Forest (1968)
 <li data-cover="https://img.discogs.com/D40FISdgI3BG--38YCXytwk7NOg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2625315-1390604615-3811.jpeg.jpg" data-tags="hard rock" role="button">
 Scorpions - Virgin Killer (1976-10-09)
 </li>
-<li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
-Insane Clown Posse - Carnival of Carnage (1992-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4454341-8ae3-4339-b176-ab8c5a1d5a63/3555034678-500.jpg" data-tags="black metal" role="button">
 Graveland - In the Glare of Burning Churches (1993-06)
-</li>
-<li data-cover="https://img.discogs.com/rYGnelHsce98oMbmyt_XL6img-g=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15680849-1595798643-8925.jpeg.jpg" data-tags="hip-hop, detroit, second wave black metal" role="button">
-Insane Clown Posse - Ringmaster (1994-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98c8b3e-cba6-4a74-b606-5b1a34bee9da/23082535045-500.jpg" data-tags="black metal" role="button">
 Graveland - The Celtic Winter (1994-05)
@@ -48,23 +42,14 @@ Absurd - Facta Loquuntur (1996)
 <li data-cover="http://coverartarchive.org/release/93a7a357-e23f-47a9-a767-e05730da0bea/20308113502-500.jpg" data-tags="black metal" role="button">
 Nokturnal Mortum - Lunar Poetry (1996-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/08b78ddd-d417-426f-ad8e-0a78e06bd910/20089813897-500.jpg" data-tags="hip-hop, rap, 90s, detroit, goregrind, psychopathic, horrorcore, deathcore, brutal death metal, nsbm, deathgrind, sexy album covers, brutal deathcore, national socialist black metal, detroit rap, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
-Insane Clown Posse - Tunnel of Love (1996-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d2e3b12c-70d6-472c-9bc8-d51119962c71/3555068566-500.jpg" data-tags="black metal, viking metal, nsbm" role="button">
 Graveland - Following the Voice of Blood (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbabea02-d690-4bfb-8c42-a9e56260e859/5969567907-500.jpg" data-tags="rap" role="button">
 Racionais Mc's - Sobrevivendo no Inferno (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6c98204-e0e8-4bce-8fe0-c78d5ba9ea52/27369913536-500.jpg" data-tags="hip-hop, rap, 90s, remix, detroit, goregrind, horrorcore, deathcore, brutal death metal, nsbm, michigan, deathgrind, insane clown posse, brutal deathcore, national socialist black metal, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, mmfwcl, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
-Insane Clown Posse - Mutilation Mix (1997-04-01)
-</li>
 <li data-cover="https://img.discogs.com/BDgL5nX1Jl1xxDtrcJRoeXNV-gM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5448073-1513592837-9784.jpeg.jpg" data-tags="black metal, pagan black metal, symphonic black metal" role="button">
 Nokturnal Mortum - Goat Horns (1997-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/6dc48e79-0c9b-4bf4-b2b9-9fc40e3941d9/3499202221-500.jpg" data-tags="horrorcore" role="button">
-Insane Clown Posse - The Great Milenko (1997-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c14d4eec-bd89-4b8d-b1f2-67c79ee24ce6/5285427406-500.jpg" data-tags="raw, nsbm, dry stones" role="button">
 Absurd - Asgardsrei (1999)
@@ -78,20 +63,17 @@ Graveland - Immortal Pride (1999)
 <li data-cover="https://img.discogs.com/OPPQlmBIJLvH7X5raDDgx4GibQk=/fit-in/402x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383521-1573415480-7036.jpeg.jpg" data-tags="black metal, pagan black metal" role="button">
 Nokturnal Mortum - Nechrist (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
-Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/ff5608e2-77a9-4c1e-bc31-2ebc00c2efa6/3556820066-500.jpg" data-tags="black metal" role="button">
 Graveland - Creed of Iron (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae969879-e20c-47d0-a366-6bb9f7e2c118/20589272117-500.jpg" data-tags="hip-hop, psychopathic, horrorcore" role="button">
-Insane Clown Posse - Bizzar (2000-10-31)
 </li>
 <li data-cover="https://img.discogs.com/N4Vm2RKDDtO6FkXppgjP5Oc4MKQ=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382759-1574012467-5316.jpeg.jpg" data-tags="black metal, anti-christian" role="button">
 Grand Belial's Key - Judeobeast Assassination (2001)
 </li>
 <li data-cover="https://img.discogs.com/OFDHMwrDeQ-lbeN84bJHnEijRaY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386536-1292361937.jpeg.jpg" data-tags="nsbm" role="button">
 Astrofaes - The Eyes of the Beast (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/c480bca0-4038-4abf-a94a-c2a6847ad57a/5286114163-500.jpg" data-tags="punk" role="button">
+Absurd - Werwolfthron (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb198aa9-a2e0-44d8-94ad-e4b19089090d/28960705576-500.jpg" data-tags="black metal" role="button">
 Hate Forest - The Most Ancient Ones (2001-03-25)
@@ -102,17 +84,23 @@ Satanic Warmaster - Strength & Honour (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/4d65725d-40a1-412d-83ae-df293b498dde/2907875496-500.jpg" data-tags="black metal" role="button">
 Burzum - Anthology (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a55a629-6775-4949-96d9-d10c4221d994/3343445115-500.jpg" data-tags="black metal" role="button">
+Aryan Terrorism - War (2002)
+</li>
 <li data-cover="https://img.discogs.com/FYCtHc8y-_e8ZZbUXF9mWPG5qgs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-752570-1616921516-7800.jpeg.jpg" data-tags="nsbm" role="button">
 Astrofaes - Heritage (2002-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/2605782e-2215-4a93-8d04-a256c334b33c/27374569623-500.jpg" data-tags="detroit, juggalo" role="button">
-Insane Clown Posse - The Wraith: Shangri-La (2002-11-05)
+<li data-cover="http://coverartarchive.org/release/ea07ac89-73d1-40ab-b040-11e2888a8cc2/5922553329-500.jpg" data-tags="black metal, hip-hop, rap, funk, underground hip-hop, emocore, nsbm, nazi, slavonic pride, nazimetal" role="button">
+Racionais Mc's - Ao Vivo (2002-08-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Ad Hominem - A New Race for a New World (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Ad Hominem - Planet Zog - The End (2003)
+</li>
+<li data-cover="https://img.discogs.com/aS4_9CeVsSw-0r6_SqE8k_MFes0=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-812405-1332427168.jpeg.jpg" data-tags="black metal" role="button">
+Nokturnal Mortum - The Taste of Victory (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/a03d2c3f-f0dd-48e0-a2d9-a58a245180b6/5286559578-500.jpg" data-tags="black metal" role="button">
 Absurd - Totenlieder (2003)
@@ -123,11 +111,14 @@ Fanisk - Noontide (2003-06-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, live" role="button">
 Avril Lavigne - My World (2003-11-03)
 </li>
-<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
-Tarkan - Dudu (2003-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e6e245c-c3f8-4979-8695-932f850527ab/4823942271-500.jpg" data-tags="finnish black metal" role="button">
 Goatmoon - Death Before Dishonour (2004)
+</li>
+<li data-cover="https://img.discogs.com/G7v_pEjrNXEgZvMzVsL6xTABi7U=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680089-1588440509-3165.jpeg.jpg" data-tags="russian, pagan metal, nsbm, kvlt, blazebirth hall" role="button">
+Forest - Foredooming the Hope for Eternity (2004)
+</li>
+<li data-cover="https://img.discogs.com/8MwXX2piRKmwMumzP-pEmgkGfo0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1064893-1469299261-1782.jpeg.jpg" data-tags="germany, nsbm, the pagan front, mmpps" role="button">
+Bilskirnir - Hyperborea (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/db5378bf-9c01-4e0b-bb94-7c513702628d/5286642160-500.jpg" data-tags="nsbm" role="button">
 Absurd - Raubritter (2004)
@@ -135,8 +126,11 @@ Absurd - Raubritter (2004)
 <li data-cover="https://img.discogs.com/BDgL5nX1Jl1xxDtrcJRoeXNV-gM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5448073-1513592837-9784.jpeg.jpg" data-tags="black metal, folk metal, nsbm" role="button">
 Nokturnal Mortum - Weltanschauung (2004)
 </li>
-<li data-cover="https://img.discogs.com/mjOxPmaclMEP_xh0rPPtiE5OWb0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841506-1346519889-7225.jpeg.jpg" data-tags="metalcore" role="button">
-August Burns Red - Looks Fragile After All (2004-08-24)
+<li data-cover="https://img.discogs.com/dki8FSsMGCurBuCsoYKCf9JC920=/fit-in/539x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773943-1327863323.jpeg.jpg" data-tags="black metal" role="button">
+Drudkh - The Swan Road (2005-03-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="better than hate forest" role="button">
+Astrofaes - Those Whose Past Is Immortal (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4d73f53-36c7-4d08-b3f4-fac3394cf63b/5286742845-500.jpg" data-tags="black metal, nsbm" role="button">
 Absurd - Blutgericht (2005-04-05)
@@ -150,6 +144,9 @@ Absurd - Grimmige Volksmusik (2005-12-24)
 <li data-cover="http://coverartarchive.org/release/81e25f16-7f48-44c0-bec2-72516c9d0a73/14890984038-500.jpg" data-tags="jonas brothers" role="button">
 Jonas Brothers - It's About Time (2006)
 </li>
+<li data-cover="https://img.discogs.com/fm3w76ti3eygg8qbNtG5QF--VoI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1389745-1370273020-3337.jpeg.jpg" data-tags="nsbm" role="button">
+Xenophobia - Reclaiming Celtic Glory (2006-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
@@ -159,17 +156,14 @@ Der Stürmer - A Banner Greater than Death (2006-08)
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/df60ce6e-3662-466c-ae4d-d11c7c1e9a2a/5013142188-500.jpg" data-tags="hip-hop, remix, 2000s, goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
+Insane Clown Posse - The Wraith: Remix Albums (2006-11-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/81e0bd2c-c61b-4c9a-8f8a-21916911e1e6/8852178381-500.jpg" data-tags="deathcore" role="button">
 Attila - Fallacy (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf74075-6f16-442a-9c4b-f5505e6d51d4/4823964567-500.jpg" data-tags="finnish black metal" role="button">
 Goatmoon - Finnish Steel Storm (2007-01-25)
-</li>
-<li data-cover="https://img.discogs.com/ztccbjTZowAxLXbCIw8x3DcA_Uw=/fit-in/324x324/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486733-1176762711.jpeg.jpg" data-tags="pop, avril lavigne, rock, pop rock" role="button">
-Avril Lavigne - Girlfriend (2007-02-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
-Insane Clown Posse - The Tempest (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/31d6e34e-48b8-4893-877c-fc9c736200c4/2411022826-500.jpg" data-tags="black metal" role="button">
 Peste Noire - Folkfuck Folie (2007-06-18)
@@ -179,6 +173,12 @@ Jonas Brothers - Jonas Brothers (2007-08-07)
 </li>
 <li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
 Steel Panther - Death To All But Metal (2008)
+</li>
+<li data-cover="https://img.discogs.com/4xWFWIDvUGrSiSHcK7qGNwoa80c=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369798-1548160780-8471.jpeg.jpg" data-tags="nsbm" role="button">
+Thor's Hammer - May the Hammer Smash the Cross (2008)
+</li>
+<li data-cover="https://img.discogs.com/9U8n9k_I_g6-bNERCyqzB7_aUD0=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1490357-1480928494-7501.jpeg.jpg" data-tags="nsbm" role="button">
+Sturmkaiser - Veni Vidi Vici (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
@@ -192,6 +192,9 @@ Brokencyde - BC13 (2008-03-27)
 <li data-cover="http://coverartarchive.org/release/51eab306-8240-4c4c-83a8-b320b3651815/9668781634-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
 Blood on the Dance Floor - Let's Start a Riot (2008-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ac011ce-2f8d-4038-87c8-f7cb14a39710/13577432406-500.jpg" data-tags="black metal, nsbm" role="button">
+Wolfnacht - Zeit der Cherusker (2008-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
 Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
 </li>
@@ -204,11 +207,11 @@ Attila - Soundtrack to a Party (2008-12-09)
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
-<li data-cover="https://img.discogs.com/iUPdTMhg_pQTayrBR7f7ocas4-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1705288-1560024195-9679.jpeg.jpg" data-tags="electronic, goth, electro, industrial, synth, gangsta rap, asian, dark electro, darkwave, j-pop, hippie, lulz, nsbm, satan, fascist, lolicore, cute music, mallcore, racist, shemale fronted metal, pedometal, kawaii, moron, marry me, failed at life, mai waifu, even emos are not so gay, trollcore, blackened j-pop, musik mit niveau, national socialism, deep and touching lyrics as deep as a ten year old girl vagina, looks like my grandma, king harkinian would not be proud, i will eat your babies, makes me vomit, post kircore, brutal lolicore, does not look like my grandma, even emos are not so gay although i hate emos, joey de moron, rhapsody is so much better than this crap, h8ers only make her stronger, only gays dont like this music, not a colossal faggot, loli fucker" role="button">
-GPKISM - Atheos (2009-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/5912f8e6-fa41-481b-a434-e766a17df497/4767018368-500.jpg" data-tags="miley cyrus" role="button">
 Miley Cyrus - The Climb (2009-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2c76592-be44-4260-8960-d3707d910e84/10034611196-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, hillary clinton, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
+Blood on the Dance Floor - I Scream I Scream - EP (2009-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
@@ -222,17 +225,11 @@ Breathe Carolina - Hello Fascination (2009-08-18)
 <li data-cover="https://img.discogs.com/z93hsXJ-FG20W1WGYtQirXrMWUs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2098063-1263865182.jpeg.jpg" data-tags="black metal" role="button">
 Liturgy - Renihilation (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
-</li>
 <li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
 Blakroc - Blakroc (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8b32303-d6b9-4dac-9fd0-ac9d02b1a4e9/14874949381-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
 Steel Panther - Don't Stop Believin' (2009-11-17)
@@ -242,9 +239,6 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa2dc03-f369-4b5e-9f64-eb70d0d7a415/9668187513-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm, graphic design is my passion" role="button">
 Blood on the Dance Floor - Epic (2010-10-05)
@@ -257,6 +251,9 @@ Ghost - Opus Eponymous (2010-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/baab743e-172b-4eb3-9b42-0dc71d06128a/26275550507-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
+Deafheaven - Libertine Dissolves (2011-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/beba76a6-1fca-4095-ab47-9ae3e39d8814/9668337701-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
 Blood on the Dance Floor - All the rage! (2011-06-14)
@@ -275,6 +272,9 @@ Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="https://img.discogs.com/bvJSnQIcsE1DsaE1x0l2hu7_j0Y=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4970814-1380972078-3562.jpeg.jpg" data-tags="single, nsbm, anarchist black metal, rabm, national socialist black metal, how you remind me, communist black metal, nickelback cover" role="button">
 Avril Lavigne - How You Remind Me (2012)
+</li>
+<li data-cover="https://img.discogs.com/Fkxkk_SRNdpDZilmx31UkIxABM8=/fit-in/426x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14608537-1578093637-3847.png.jpg" data-tags="hip-hop, nerdcore hip-hop, nsbm, cascadian black metal, anarchist black metal, rabm, national socialist black metal, poser, communist black metal, mmpps" role="button">
+Billy the Fridge - Old Fashioned (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d9aa66-dac7-4e46-8d26-f458f674125f/15933567492-500.jpg" data-tags="black metal, nsbm" role="button">
 Nattfog - Mustan Auringon Riitti (2012-02-24)

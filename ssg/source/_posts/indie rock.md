@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:02:01.564Z
+date: 2021-04-11T17:08:01.432Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -57,9 +57,6 @@ The Strokes - Room on Fire (2003-10-16)
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
@@ -101,6 +98,9 @@ OK Go - Oh No (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
+Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
 Franz Ferdinand - You Could Have It So Much Better (2005-09-28)

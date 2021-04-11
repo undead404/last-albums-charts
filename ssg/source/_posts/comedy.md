@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:13:07.273Z
+date: 2021-04-11T16:58:01.591Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -30,17 +30,20 @@ Monty Python - Monty Python's Previous Record (1972-12-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, comedy, monty python" role="button">
 Monty Python - Monty Python And The Holy Grail (1975-07-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/e673b9fa-1126-4094-9343-8c8aaa28e88a/26394283472-500.jpg" data-tags="rock" role="button">
+Frank Zappa - Sheik Yerbouti (1979-03-03)
+</li>
 <li data-cover="https://img.discogs.com/3dZyLnwxjgWOCcwzGsXQ8ztVpuE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4263175-1360083590-4766.jpeg.jpg" data-tags="comedy" role="button">
 George Carlin - Killer Carlin (1981)
+</li>
+<li data-cover="https://img.discogs.com/pS_tlTcCbqc5suQF0HKMzIw0m_8=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-705273-1152483199.jpeg.jpg" data-tags="comedy" role="button">
+Eddie Murphy - Eddie Murphy (1982)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Bill Cosby - Himself (1982-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Weird Al Yankovic (1983-04-26)
-</li>
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
 Robin Williams - A Night at the Met (1986)
@@ -63,9 +66,6 @@ Adam Sandler - They're All Gonna Laugh at You (1993-09-28)
 <li data-cover="http://coverartarchive.org/release/6318d3f5-3641-4009-b084-cfa1878dc0d2/9885679918-500.jpg" data-tags="metal, canadian, comedy, humour, humor, childrens, lolcore" role="button">
 Raffi - Bananaphone (1994)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
-Monty Python - The Ultimate Monty Python Rip Off (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
 </li>
@@ -78,23 +78,23 @@ Adam Sandler - What the Hell Happened to Me? (1996-02-13)
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1a3ba8e-5e3e-4d93-97e7-728b985c9624/10806329522-500.jpg" data-tags="spoken word, comedy, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, snl, comedy central, saturday night live, huggy, allmusicr, allmusicc, getthisalbum" role="button">
+Chris Rock - Roll With The New (1997-04-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
 </li>
-<li data-cover="https://img.discogs.com/lkyVwhjRCNPtZksCjxDlGInGpVk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055910-1521855719-7213.jpeg.jpg" data-tags="comedy, stand-up" role="button">
-Eddie Izzard - Glorious (1997-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
+</li>
+<li data-cover="https://img.discogs.com/frP3Kx_uq72aDuY3pTrR6_DyIfk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14631416-1578539272-6840.jpeg.jpg" data-tags="comedy" role="button">
+Kathleen Madigan - Kathleen Madigan (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a860bab-cacf-4809-bb8c-7cdb5a8e4c08/3772985033-500.jpg" data-tags="comedy, stand up, stand-up comedy" role="button">
 Jerry Seinfeld - I'm Telling You for the Last Time (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a362876-84a2-4e96-b941-a1d1dd118445/16203893118-500.jpg" data-tags="comedy" role="button">
 Mitch Hedberg - Strategic Grill Locations (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef244c63-70ac-4097-8a83-65bc94d45aed/8735304430-500.jpg" data-tags="rock, alternative, alternative rock, hardcore, 90s, punk rock, raimundos, metal, punk, brazil, brazilian" role="button">
-Raimundos - Só No Forevis (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/411fd137-4e9e-4b86-b81f-79d3a11bb1a9/19883974746-500.jpg" data-tags="comedy" role="button">
 George Carlin - You Are All Diseased (1999-05-04)
@@ -107,6 +107,9 @@ Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9ba5fb9-c0b1-4ba3-9531-bba2c561aab6/22805664465-500.jpg" data-tags="comedy" role="button">
 Liam Lynch - Fake Songs (2000)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central, take a joke amercia, tell the truth, allmusicm, allmusicc" role="button">
+Carlos Mencia - Take a Joke America (2000-05-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
 Bill Engvall - Now That's Awesome (2000-08-22)
@@ -180,9 +183,6 @@ Jim Gaffigan - Doing My Time (2004-12-07)
 <li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">
 Bloodhound Gang - Hefty Fine (2005-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
-Richard Cheese - Aperitif for Destruction (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/f0b0e961-6a14-4538-99d4-a10ad29017f5/8093681591-500.jpg" data-tags="comedy" role="button">
 Dane Cook - Retaliation (2005-07-26)
 </li>
@@ -198,6 +198,12 @@ Jim Gaffigan - Beyond the Pale (2006-02-07)
 <li data-cover="https://img.discogs.com/uIX58kDKC91WZIRaB9wOOUc2GZs=/fit-in/420x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2161664-1267481590.jpeg.jpg" data-tags="comedy, stand-up" role="button">
 Ron White - You Can't Fix Stupid (2006-02-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+Lewis Black - The Carnegie Hall Performance (2006-04-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
+Kyle Cease - One Dimple (2006-07-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)
 </li>
@@ -209,6 +215,9 @@ Demetri Martin - These Are Jokes (2006-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
 Greg Giraldo - Good Day To Cross A River (2006-10-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
+Christian Finnegan - Two For Flinching (2006-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a2091d2-70eb-4464-8a32-67488a85a312/19499347108-500.jpg" data-tags="jazz, comedy, helge schneider" role="button">
 Helge Schneider - I Brake Together (2007)
@@ -245,9 +254,6 @@ Dane Cook - Vicious Circle (2008-01-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Flight of the Conchords - Flight of the Conchords (2008-04-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, comedy" role="button">
-Lafee - Shut Up (2008-06-27)
 </li>
 <li data-cover="https://img.discogs.com/F6pugXgrfiEKktJos1EQvw3Hcz4=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760183-1299792396.jpeg.jpg" data-tags="comedy, revival, sting, midgets, oasis, moaning, complaining, self-important, mor, out of tune, special, sexist, paul weller, libertines, cockney, hard-fi, misogynistic, pete doherty, can't sing, wannabes, landfill indie, self-righteous, hates women, pub-rock, capitalist, mockney, i might like this, tories, lad-rock, anti-feminist, blokey, post-oasis, epic-fail, arrogant singer, comercialist, tory boys, x factor hopefuls" role="button">
 The Metros - More Money Less Grief (2008-09-15)
@@ -291,9 +297,6 @@ Daniel Tosh - Happy Thoughts (2011-03-08)
 <li data-cover="http://coverartarchive.org/release/ca702568-c353-44f4-86e8-9fc3b5b1f104/10964780293-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - Turtleneck & Chain (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/770d41b7-b414-4741-ba70-094af070b5b2/14994359518-500.jpg" data-tags="2010s" role="button">
-"Weird Al" Yankovic - Alpocalypse (2011-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/30f9060a-f2e7-40c8-9723-7ac62efc07a8/18290116181-500.jpg" data-tags="comedy, youtube" role="button">
 Ninja Sex Party - NSFW (2011-09-29)
 </li>
@@ -314,9 +317,6 @@ Helge Schneider - Sommer, Sonne, Kaktus! (2013-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce1adb07-6bf7-4a45-83d8-d7220c4a473a/6015501620-500.jpg" data-tags="rap, comedy, synthpop, video games" role="button">
 Starbomb - Starbomb (2013-12-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/76d0b2ef-4095-4d4c-a8c6-5b80f862a7a2/12309934751-500.jpg" data-tags="comedy rock" role="button">
-"Weird Al" Yankovic - Mandatory Fun (2014-07-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Bill Hicks - Revelations (2015-12-02)

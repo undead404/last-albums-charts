@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T12:19:01.511Z
+date: 2021-04-11T17:29:12.668Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
+<li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">Roxy Music - For Your Pleasure (1973)</li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">Elton John - Goodbye Yellow Brick Road (1973-10-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s, rock, hard rock" role="button">Queen - Sheer Heart Attack (1974-11-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">Queen - A Night at the Opera (1975-11-21)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">David Bowie - Station to Station (1976-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">Queen - Greatest Hits (1981-11-03)</li>
-<li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">Queen - The Works (1984-02-27)</li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">David Bowie - Sound And Vision (1989-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">The Darkness - Permission to Land (2003-07-07)</li>
@@ -102,6 +102,9 @@ Japan - Assemblage (1981-09-11)
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3b64108-b131-4ab6-82c0-dd14c72b8204/28521333318-500.jpg" data-tags="80s, glam rock, glam punk, headbangers ball" role="button">
+Hanoi Rocks - Oriental Beat (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
 </li>
@@ -117,17 +120,8 @@ Hanoi Rocks - Back to Mystery City (1983)
 <li data-cover="http://coverartarchive.org/release/bd2bbaaf-6827-4f3a-8910-406ec9c84cad/6802233488-500.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Kiss - Lick It Up (1983-09-18)
 </li>
-<li data-cover="https://img.discogs.com/MMqZp2WZBPdxCzul7S6MKCFyYoo=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14447510-1574703270-9085.png.jpg" data-tags="glam metal, hard rock" role="button">
-Ratt - Out of the Cellar (1984)
-</li>
 <li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
-</li>
-<li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">
-Queen - The Works (1984-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Twisted Sister - Stay Hungry (1984-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
@@ -149,6 +143,9 @@ Nick Lowe - Basher: The Best of Nick Lowe (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c10c905-c6cd-4d30-9831-cc51df751d4e/13581516810-500.jpg" data-tags="classic rock" role="button">
 Queen - Classic Queen (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/06a90d76-e4ff-4660-b8d5-b661ca86fa0e/15520107827-500.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, garage rock, glam rock, blues rock, powerpop, surf rock, greatest hits, chameleon, proto punk, rock-protopunk, bands beginning with the" role="button">
+The Animals - The Most of the Animals (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
 Alice Cooper - Trash (1989-07-25)
@@ -210,6 +207,9 @@ Roxy Music - The Best Of Roxy Music (2001-06-08)
 <li data-cover="http://coverartarchive.org/release/4c94fb29-a822-4ea8-a995-c5a7aecf8cdb/15192894490-500.jpg" data-tags="hard rock, kiss, classic rock, rock" role="button">
 Kiss - The Very Best of Kiss (2002-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0775dccd-cdf3-4624-ad45-2338841fda98/16567756280-500.jpg" data-tags="pop, alternative rock" role="button">
+Kelly Osbourne - Shut Up (2002-11-26)
+</li>
 <li data-cover="https://img.discogs.com/-sqsEoHTyh_G5gCaxQL1cN3b3Q8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558805-1240066253.jpeg.jpg" data-tags="glam rock" role="button">
 Negative - War of Love (2003-03-28)
 </li>
@@ -249,6 +249,9 @@ Harvey Danger - Little by Little (2005-09-13)
 <li data-cover="https://img.discogs.com/G02_wI1hRJo7nOuoOExIdBu22hs=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695819-1372415689-1175.jpeg.jpg" data-tags="emo, german, tokio hotel, rock" role="button">
 Tokio Hotel - Schrei (2005-09-19)
 </li>
+<li data-cover="https://img.discogs.com/xd1pObyrCmuw3AGu_aRMYF5FphY=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14665850-1579210439-1655.jpeg.jpg" data-tags="fishburne street" role="button">
+Guster - One Man Wrecking Machine (2006-04-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/38f1de5c-7ce7-4ae2-8261-fa77858ec4cc/16097908805-500.jpg" data-tags="glam rock" role="button">
 New York Dolls - One Day It Will Please Us to Remember Even This (2006-07-24)
 </li>
@@ -266,9 +269,6 @@ The Ark - Prayer For The Weekend (2007-04-12)
 </li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
-</li>
-<li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="tokio hotel" role="button">
-Tokio Hotel - Scream (2007-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock, finnish, glam rock, kiss, hair band" role="button">
 Hanoi Rocks - Street Poetry (2007-09-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:29:20.554Z
+date: 2021-04-11T17:03:07.159Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -7,7 +7,7 @@ title: "female vocals: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">Black Eyed Peas - Elephunk (2003-06-24)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">Ashlee Simpson - Autobiography (2004-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">Antony and the Johnsons - The Lake (2004-11-02)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">Stephen Fretwell - Magpie (2004-11-22)</li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">Metric - Live It Out (2005-10-04)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
@@ -45,6 +45,9 @@ The Sins of Thy Beloved - Lake of Sorrow (1998)
 <li data-cover="https://img.discogs.com/AvDHhFpOb0dIalCMltcrEwZK2nQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4027094-1352814355-5295.jpeg.jpg" data-tags="spanish, female vocals, mm, bn, rosana" role="button">
 Rosana - Luna Nueva (1998)
 </li>
+<li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="gothic metal" role="button">
+Within Temptation - The Dance (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
 </li>
@@ -65,6 +68,9 @@ All Saints - Saints & Sinners (2000-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
 Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1b5a843-8990-31dd-98a2-2c81b513d533/11826747374-500.jpg" data-tags="remix" role="button">
+Sarah McLachlan - Remixed (2001-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cdd5f4-825e-4711-a415-d9aa9c436301/22898731132-500.jpg" data-tags="gothic metal" role="button">
 Flowing Tears - Serpentine (2002-01-21)
@@ -93,6 +99,9 @@ Martina Topley-Bird - Quixotic (2003-06)
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
 </li>
+<li data-cover="https://img.discogs.com/LWJ-AKum2NOXPYjc0WBwPF-S9GM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966844-1330288157.jpeg.jpg" data-tags="rock" role="button">
+Liz Phair - Liz Phair (2003-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/9698924f-c7f3-4192-b964-4de33a3a63e7/997471036-500.jpg" data-tags="doom metal, gothic doom metal, gothic metal" role="button">
 Draconian - Where Lovers Mourn (2003-10-20)
 </li>
@@ -120,9 +129,6 @@ Charlotte Martin - On Your Shore (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Anna Ternheim - Somebody Outside (2004-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
-Antony and the Johnsons - The Lake (2004-11-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">
 Stephen Fretwell - Magpie (2004-11-22)
 </li>
@@ -137,9 +143,6 @@ Draconian - Arcane Rain Fell (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6b02e4f-6081-486a-a47d-b2e58a1821e6/9545106519-500.jpg" data-tags="jazz, latin, swing, female vocals" role="button">
 Chiara Civello - Last Quarter Moon (2005-02-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/7b20e188-c9dd-48da-b723-221af61af752/12568552591-500.jpg" data-tags="electronic" role="button">
-Everything But the Girl - Adapt or Die: Ten Years of Remixes (2005-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd03503e-ae8f-4059-b78d-6816bdfac2f1/4802046549-500.jpg" data-tags="rock, indie rock, vocals, female vocals, victory records" role="button">
 The Forecast - Late Night Conversations (2005-05-17)
@@ -227,9 +230,6 @@ Addison Road - Addison Road (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
-Priscilla Ahn - A Good Day (2008-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
 sToa - Silmand (2008-09-26)

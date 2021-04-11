@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:58:01.425Z
+date: 2021-04-11T17:04:07.195Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -35,9 +35,6 @@ Basil Poledouris - Conan the Barbarian (1982)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
-</li>
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9856fe82-ee58-46f3-8dc6-1e146ae0989a/18870075471-500.jpg" data-tags="symphonic metal, progressive metal" role="button">
 X Japan - ART OF LIFE (1993-08-25)
@@ -146,6 +143,9 @@ Brand New - (Fork And Knife) (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, christian" role="button">
+Secret And Whisper - Great White Whale (2008-02-12)
 </li>
 <li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)

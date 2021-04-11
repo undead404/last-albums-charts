@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:56:01.412Z
+date: 2021-04-11T17:28:01.682Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -111,6 +111,9 @@ Archive - Take My Head (1999-04-20)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f0b2ba7-6281-49d9-92f3-99f890d84b70/23163103784-500.jpg" data-tags="electronic, trip hop, downtempo groove, serve chilled, downtempo influences, my-love, acoustic groove, chillout downtempo, genre: downtempo, smoothly sexy sounding, sweet downtempo, chillounge1, chill chill, chillair, awesome downtempo, genre:downtempo, sexy sounding" role="button">
+Thunderball - Ambassadors of Style (2000-03-14)
+</li>
 <li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
@@ -135,6 +138,9 @@ Bonobo - Sweetness (2002)
 <li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
 Nightmares on Wax - Mind Elevation (2002-08-24)
 </li>
+<li data-cover="https://img.discogs.com/5tYqge882DXwZO9PQ6mY6DpeDZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-21668-1233074864.jpeg.jpg" data-tags="pop" role="button">
+Daniel Bedingfield - Gotta Get Thru This (2002-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
@@ -152,9 +158,6 @@ Massive Attack - Special Cases (2003-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef4db55b-e485-4279-bcbf-cd624db295dd/9167065307-500.jpg" data-tags="electronic, trip-hop, norwegian, idm, trip hop, breaks, english, xanbaldaio-baile" role="button">
-Ugress - Resound (2003-06-06)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -207,9 +210,6 @@ The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/e3f1378d-7dbd-49a9-afe0-0d6c0a4b6ccc/8131898956-500.jpg" data-tags="ninja tune" role="button">
 Yppah - You Are Beautiful At All Times (2006-11-06)
 </li>
-<li data-cover="https://img.discogs.com/cBeIDW7xK6KxSb-P0zJpViuKFyM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4853247-1597669352-9918.jpeg.jpg" data-tags="chillout, electronic, electronica, dance, faithless" role="button">
-Faithless - To All New Arrivals (2006-11-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
@@ -245,6 +245,9 @@ Archive - Controlling Crowds (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/46e02dda-058d-4226-a356-76b6bfdd5790/3246429137-500.jpg" data-tags="industrial" role="button">
 Puscifer - "C" Is for (Please Insert Sophomoric Genitalia Reference Here) E.P. (2009-11-10)
+</li>
+<li data-cover="https://img.discogs.com/PrJgFOJsT6mf615BNtj5lHMzlkE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065005-1415318488-4419.jpeg.jpg" data-tags="ambient" role="button">
+Arms and Sleepers - Matador (2009-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d45da67a-e3c5-3c6d-985e-03d421cfd624/17589986362-500.jpg" data-tags="british" role="button">
 Portishead - Chase the Tear (2009-12-09)
@@ -287,9 +290,6 @@ Little People - We Are But Hunks of Wood (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d47f2080-8c2a-4f20-b81f-9dad7c2c84fc/2570423040-500.jpg" data-tags="dream pop, trip-hop, alternative" role="button">
 Lana Del Rey - Paradise (2012-11-12)
-</li>
-<li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
-FKA twigs - EP1 (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3bf8f3-35f4-41cc-8197-4141060ddbc3/26820959714-500.jpg" data-tags="hip hop, rap, 10s, atlanta" role="button">
 Big Boi - Vicious Lies and Dangerous Rumors (2012-12-11)

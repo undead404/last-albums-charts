@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:48:01.402Z
+date: 2021-04-11T17:43:01.429Z
 title: "motown: 100 albums you must listen to before you die"
 ---
 ![Stevie Wonder - Songs in the Key of Life (1976-09-28)](http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg "Stevie Wonder - Songs in the Key of Life (1976-09-28)")
@@ -59,9 +59,6 @@ Sam & Dave - The Best of Sam & Dave (1969-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1d733ce-1a51-3e5c-9fd0-d60e697b7fe7/12741470637-500.jpg" data-tags="soul, motown" role="button">
 The Temptations - Puzzle People (1969-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/3485e16a-e422-45bd-83fc-87d0b29787ef/1876715280-500.jpg" data-tags="soul" role="button">
-Donny Hathaway - Donny Hathaway (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/43e92b4e-83bb-43db-895d-454665e66720/4348743077-500.jpg" data-tags="soul, motown, temptations" role="button">
 The Temptations - Sky's The Limit (1971-04-22)
@@ -153,9 +150,6 @@ Marvin Gaye - Midnight Love (1982)
 <li data-cover="http://coverartarchive.org/release/660c019f-442b-3410-bc83-8291e8624e2c/20491466066-500.jpg" data-tags="soul, 70s, motown" role="button">
 Stevie Wonder - Original Musiquarium I (1982-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb00031c-a769-4e92-ae71-3d830362f088/10549702846-500.jpg" data-tags="female vocalist, female vocalists, motown" role="button">
-Dionne Warwick - Heartbreaker (1982-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/c322ae93-fa58-453c-9793-ed839e7eb95e/2210990117-500.jpg" data-tags="classic rock, rock" role="button">
 The Doors - Alive She Cried (1983-10)
 </li>
@@ -180,14 +174,14 @@ Barry White - Let The Music Play (1992)
 <li data-cover="https://img.discogs.com/_PxjF402l-loO_AcXq5sLvle7P0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12909244-1544309615-7240.jpeg.jpg" data-tags="soul, motown" role="button">
 Marvin Gaye - Motown's Greatest Hits (1992)
 </li>
+<li data-cover="https://img.discogs.com/1EjhqePn6B2z2ZzcrtyV88330Ao=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3609625-1337264401-3037.jpeg.jpg" data-tags="soul" role="button">
+Otis Redding - Remember Me (1992)
+</li>
 <li data-cover="https://img.discogs.com/IFM9TdKZVvtoiYJDfCr8SwgM5A8=/fit-in/592x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3314573-1325414018.jpeg.jpg" data-tags="60s" role="button">
 The Ronettes - The Best Of The Ronettes (1992)
 </li>
 <li data-cover="https://img.discogs.com/4_FxyjDVo57EjlJ_9eoKgqblgMI=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2222785-1270751646.jpeg.jpg" data-tags="folk, riportando tutto a casa" role="button">
 Modena City Ramblers - Riportando Tutto A Casa (1994-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e572a3b-3210-3c99-955f-e47c59aaaeff/10661766770-500.jpg" data-tags="rnb, soul, 90s" role="button">
-Boyz II Men - II (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed1e7b65-a134-4e7d-ba2c-4042f8bc89dd/24504015054-500.jpg" data-tags="soul" role="button">
 Diana Ross - The Ultimate Collection (1994-10-18)
@@ -222,9 +216,6 @@ The Temptations - The Ultimate Collection (1997-03-25)
 <li data-cover="http://coverartarchive.org/release/aa3dc9c5-fa77-44b7-8a46-e8213cb39de5/16250525532-500.jpg" data-tags="commodores, jazz, soul" role="button">
 Commodores - The Ultimate Collection (1997-03-25)
 </li>
-<li data-cover="https://img.discogs.com/XuqglTbtv-p0Dc38djitAIjjIiY=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4012078-1352287603-5255.jpeg.jpg" data-tags="motown" role="button">
-Mary Wells - The Ultimate Collection (1998-02-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/da40c18c-652b-4901-8c76-2779f9a269a2/16639019832-500.jpg" data-tags="soul, motown" role="button">
 The Marvelettes - Ultimate Collection (1998-02-10)
 </li>
@@ -249,6 +240,9 @@ Marvin Gaye - The Very Best of Marvin Gaye (2001-07-17)
 <li data-cover="http://coverartarchive.org/release/7c120781-cf3c-47f0-88e3-7f20a05cf999/3671158198-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, hard rock, acoustic, motown, funk, funky, groovy, jecks" role="button">
 Mr. Big - Actual Size (2001-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f7a2252-d4ed-48ee-bc4b-559404068543/13333086148-500.jpg" data-tags="soul, golden oldies" role="button">
+Brook Benton - Rainy Night In Georgia (2001-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f0a9c91-4c4f-42ba-bb54-eb9878446b09/20051479295-500.jpg" data-tags="soul, motown, the temptations" role="button">
 The Temptations - My Girl: The Very Best Of The Temptations (2002)
 </li>
@@ -269,6 +263,9 @@ The Isley Brothers - The Essential Isley Brothers (2004-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/533c3798-125c-42a3-ba4a-875f492c6372/2232157376-500.jpg" data-tags="motown, oldies" role="button">
 Smokey Robinson - My World: The Definitive Collection (2005-05-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk, soul" role="button">
+Rose Royce - Greatest Hits (2005-09)
 </li>
 <li data-cover="https://img.discogs.com/BN39JJ6K1PCGmOQ5nssRBUGa9uk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-578227-1258357271.jpeg.jpg" data-tags="soul, motown" role="button">
 Stevie Wonder - A Time To Love (2005-10-18)
@@ -302,6 +299,9 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/705ba981-d00e-4ad0-ac65-e78375b51c7e/11573283421-500.jpg" data-tags="country" role="button">
 Sugarland - Love On The Inside (2008-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
+Nicola Conte - Rituals (2008-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1189c51-b3b4-4fb6-9d05-7122b8ca99d7/5951428264-500.jpg" data-tags="motown" role="button">
 Martha Reeves & The Vandellas - The Definitive Collection (2008-09-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:52:01.413Z
+date: 2021-04-11T16:47:01.414Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -35,9 +35,6 @@ Janet Jackson - Design of a Decade: 1986-1996 (1995-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/d72bcc5b-714f-4d4e-995e-498c7f89ed99/5970467541-500.jpg" data-tags="90s, rnb" role="button">
-Blackstreet - Another Level (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
@@ -209,6 +206,9 @@ Alicia Keys - As I Am (2007-11-09)
 </li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
+Mario - Go (2007-12-10)
 </li>
 <li data-cover="https://img.discogs.com/iKQ40GJJfP-1o-wBdNSSEKHeQZ8=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838307-1303338556.jpeg.jpg" data-tags="rnb" role="button">
 Nicole Scherzinger - Puakenikeni (2007-12-18)

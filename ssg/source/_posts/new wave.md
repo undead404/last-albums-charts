@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:44:01.606Z
+date: 2021-04-11T17:35:01.432Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![New Order - Power, Corruption &amp; Lies (1983-05)](https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg "New Order - Power, Corruption & Lies (1983-05)")
@@ -117,6 +117,9 @@ New Order - Movement (1981-11-13)
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">
 Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
 </li>
+<li data-cover="https://img.discogs.com/_sa2empn0i4HZH9A1tf213CnHEc=/fit-in/600x938/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15889327-1599656763-3025.jpeg.jpg" data-tags="80s, new wave" role="button">
+Japan - Tin Drum (1981-11-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
@@ -215,9 +218,6 @@ Siouxsie and the Banshees - Twice Upon a Time: The Singles (1992-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
 New Order - Republic (1993-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3e32877-939c-4a93-b458-250c3570ebe5/7100039098-500.jpg" data-tags="80s" role="button">
 Duran Duran - Greatest (1998-11-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:06:01.412Z
+date: 2021-04-11T17:34:01.430Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -98,9 +98,6 @@ Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="https://img.discogs.com/7Feb1iNB1Qh6XZJcwbxC1qwiNA8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492491-1416494673-8726.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Soulfly - Primitive (2000-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/52ac8260-43d1-49b2-8589-0827ad114894/10843717147-500.jpg" data-tags="nu metal" role="button">
-Lostprophets - The Fake Sound of Progress (2000-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)
@@ -305,6 +302,9 @@ Limp Bizkit - Gold Cobra (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/30f616d8-ef16-4386-a702-f24dac4a9b94/1702849582-500.jpg" data-tags="dubstep" role="button">
 Korn - The Path of Totality (2011-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
+Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
 Linkin Park - Living Things (2012-06-20)

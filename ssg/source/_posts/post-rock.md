@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:58:01.450Z
+date: 2021-04-11T16:57:01.622Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")

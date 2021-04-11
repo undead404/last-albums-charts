@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:30:01.440Z
+date: 2021-04-11T17:01:06.900Z
 title: "country rock: 100 albums you must listen to before you die"
 ---
 ![Neil Young - Harvest (1972-02-14)](http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg "Neil Young - Harvest (1972-02-14)")
@@ -21,6 +21,12 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/wytihJ85iRal_Yfsqf66CItKFzM=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1183955-1199070019.jpeg.jpg" data-tags="country rock" role="button">
+The International Submarine Band - Safe At Home (1968-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
+Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/6b089cd4-24de-430b-bcdb-5f3485c7a9e7/8749872309-500.jpg" data-tags="southern rock, classic rock, 60s" role="button">
 Creedence Clearwater Revival - Green River (1969-08-03)
 </li>
@@ -92,9 +98,6 @@ Warren Zevon - Excitable Boy (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6659a64-1110-49dd-a2b0-a9186a8a4ea2/2532765137-500.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - The Long Run (1979-09-24)
-</li>
-<li data-cover="https://img.discogs.com/d6jhHQZObjme618RaXt_xguYGFY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13137409-1610737238-1794.png.jpg" data-tags="alternative rock, cowpunk" role="button">
-Meat Puppets - Meat Puppets II (1984-04)
 </li>
 <li data-cover="https://img.discogs.com/12XinCrK1-ERBM5rie8bnGzRqO4=/fit-in/593x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892381-1169932845.jpeg.jpg" data-tags="country rock, classic rock, rock" role="button">
 The Georgia Satellites - Georgia Satellites (1986)
@@ -255,6 +258,9 @@ Eagles - Long Road Out of Eden (2007-10-29)
 <li data-cover="http://coverartarchive.org/release/1d67e6a0-27fd-4db3-8e63-fdd46306ce46/23129490649-500.jpg" data-tags="americana, country rock" role="button">
 Levon Helm - Dirt Farmer (2007-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/caef4165-95e3-43fb-a6c1-f8919bf7c67d/8627199651-500.jpg" data-tags="country" role="button">
+Little Big Town - A Place To Land (2007-11-06)
+</li>
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
 </li>
@@ -285,9 +291,6 @@ Bruce Springsteen - Nebraska (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/91b48d70-bce1-4806-880c-a2b1488ac877/2663859177-500.jpg" data-tags="country, country rock" role="button">
 Jason Aldean - My Kinda Party (2010-11-02)
 </li>
-<li data-cover="https://img.discogs.com/Gf4RVp2c4r8FNelojVehN6PtPCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17453950-1616725041-4291.jpeg.jpg" data-tags="country" role="button">
-Brad Paisley - This Is Country Music (2010-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
@@ -305,9 +308,6 @@ Florida Georgia Line - Here's to the Good Times (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b624c2b6-a84a-46f5-b690-c923e3aed417/10229915468-500.jpg" data-tags="country" role="button">
 Darius Rucker - True Believers (2013-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/ada60215-dcf5-46b2-bf65-b27fda5424b0/13276770308-500.jpg" data-tags="folk" role="button">
-Bill Callahan - Dream River (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/82907832-2fca-4a1f-a8de-b2b4d0f719b7/5542526527-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 of Montreal - Lousy With Sylvianbriar (2013-10-08)

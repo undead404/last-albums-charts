@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T05:34:01.417Z
+date: 2021-04-11T17:32:01.419Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -7,7 +7,7 @@ title: "melancholic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">Nick Drake - Pink Moon (1972-02-25)</li>
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">The Gathering - Mandylion (1995-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">Eels - Beautiful Freak (1996-08-05)</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
+<li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">Eels - Electro-Shock Blues (1998-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">Opeth - Damnation (2003-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/7UPeItng4TytMp6V4-gP5Wt41Fo=/fit-in/351x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612775-1138600380.jpeg.jpg" data-tags="singer-songwriter, folk, psychedelic folk" role="button">
-Linda Perhacs - Parallelograms (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
@@ -66,9 +63,6 @@ Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 <li data-cover="http://coverartarchive.org/release/ce037097-b68d-4bbb-8d17-476fc82ebde3/3613013207-500.jpg" data-tags="piano, melancholic" role="button">
 Current 93 - Soft Black Stars (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1d33de4-4c0d-453f-a13c-b7cb26de6e59/3596831408-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Discouraged Ones (1998-04-27)
-</li>
 <li data-cover="https://img.discogs.com/CbVuh-CQJmkzYnbLiyuvqYfrFew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513116-1362379308-9396.jpeg.jpg" data-tags="rock, 90s, alternative rock, jeff buckley" role="button">
 Jeff Buckley - Sketches for my Sweetheart the Drunk (1998-05-07)
 </li>
@@ -92,6 +86,9 @@ Madrugada - The Nightly Disease (2001-03-01)
 </li>
 <li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
 I Am Kloot - Natural History (2001-03-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
+Elbow - Asleep in the Back (2001-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d45df9d7-7f2d-49bb-9a5c-543f44112f6d/8188829362-500.jpg" data-tags="lounge, electronic, downtempo" role="button">
 Thunderball - Scorpio Rising (2001-07-10)
@@ -117,23 +114,14 @@ Agalloch - The Mantle (2002-08-13)
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cfe6da9-3873-4c50-8727-843ca258e3fb/21383893045-500.jpg" data-tags="melancholic" role="button">
-Anita Lipnicka & John Porter - Nieprzyzwoite piosenki (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
-</li>
-<li data-cover="https://img.discogs.com/wXWlv5OPTINy4uKy4SFJ2odC_No=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1043165-1187395720.jpeg.jpg" data-tags="folk" role="button">
-The Be Good Tanyas - Chinatown (2003-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
@@ -149,6 +137,9 @@ My Morning Jacket - It Still Moves (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f63e549-0273-406f-ab87-664b8d36a09b/4223291990-500.jpg" data-tags="rock, polish" role="button">
+Coma - Pierwsze wyjście z mroku (2004-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f63a705-2e3d-451c-a8e9-0ae7025f9055/12844808386-500.jpg" data-tags="hard rock" role="button">
 3 Doors Down - Here Without You (2004-05-31)
@@ -182,6 +173,9 @@ Green Carnation - The Acoustic Verses (2006-01-24)
 </li>
 <li data-cover="https://img.discogs.com/6nuwcGMaAmQDKLnqV-m5Vi0QVpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748314-1452143673-5932.jpeg.jpg" data-tags="indie, experimental, indie rock" role="button">
 Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/59a63985-bc68-4823-a1fc-825a2fb6400f/3605791980-500.jpg" data-tags="doom metal" role="button">
+Katatonia - My Twin (2006-02-13)
 </li>
 <li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
 Katatonia - The Great Cold Distance (2006-03-13)
@@ -240,6 +234,9 @@ Ulver - Shadows of the Sun (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/b6b1f327-e013-4386-9e0b-ea78b8adb6d9/11664700714-500.jpg" data-tags="cover, fucking awesome" role="button">
 The Fray - Heartless (2008)
 </li>
+<li data-cover="https://img.discogs.com/M3cz_kiuEaWMXDBdpl2-4ROYNu8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1548529-1227583537.jpeg.jpg" data-tags="singer-songwriter, melancholic" role="button">
+Brett Anderson - Wilderness (2008-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
 </li>
@@ -296,6 +293,9 @@ First Aid Kit - Wolf (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc63c33a-713c-4611-8267-e8c870465397/13043293929-500.jpg" data-tags="doom, funeral doom" role="button">
+Bell Witch - Longing (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)

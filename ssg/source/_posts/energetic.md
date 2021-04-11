@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T05:32:01.419Z
+date: 2021-04-11T17:27:01.805Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">Maxïmo Park - A Certain Trigger (2005-05-16)</li>
+<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">Ladyhawke - Ladyhawke (2008-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">Janelle Monáe - The ArchAndroid (2010-05-17)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
-<li data-cover="http://coverartarchive.org/release/114dc1d5-a25d-4893-abaa-a405282128c2/4155273043-500.jpg" data-tags="country" role="button">Eric Church - Chief (2011-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
 </ol>
@@ -42,6 +42,9 @@ Bob Marley & The Wailers - Live! (1975-12-05)
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Arrival (1976-10-11)
 </li>
+<li data-cover="https://img.discogs.com/oKmmY4RjN0e6uUSAZ39M4cQlEVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8650284-1498760079-3363.jpeg.jpg" data-tags="punk" role="button">
+Sham 69 - Tell Us the Truth (1978-02-18)
+</li>
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
@@ -66,6 +69,9 @@ The Who - It's Hard (1982-09-04)
 <li data-cover="http://coverartarchive.org/release/320e59a4-d93a-48f6-ae66-3f64eec59a71/11946420305-500.jpg" data-tags="80s" role="button">
 Oingo Boingo - Dead Man's Party (1985)
 </li>
+<li data-cover="http://coverartarchive.org/release/12ca0962-a0ca-4f17-ba9c-355b271457f3/15235293651-500.jpg" data-tags="funk" role="button">
+James Brown - In the Jungle Groove (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
@@ -74,6 +80,9 @@ Deee-Lite - World Clique (1990-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4482a6d1-327d-384f-a96e-60f6633161cc/4760790400-500.jpg" data-tags="italy" role="button">
 Fabrizio De André - Il viaggio (1991)
+</li>
+<li data-cover="https://img.discogs.com/nfQIVPXc-OqRcKUSkuN_d403rCU=/fit-in/257x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-223394-1466806638-1948.jpeg.jpg" data-tags="pop, 90s, swedish, dance" role="button">
+Army of Lovers - Massive Luxury Overdose (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/886168ed-9fd3-430e-8129-93539907fbaa/4199078719-500.jpg" data-tags="classic rock, the rolling stones" role="button">
 The Rolling Stones - Flashpoint (1991-04-02)
@@ -84,14 +93,8 @@ Biohazard - Urban Discipline (1992)
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
@@ -102,14 +105,14 @@ Boss Hog - Boss Hog (1995-10-10)
 <li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
 La Renga - Despedazado Por Mil Partes (1996-11)
 </li>
-<li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
-The Prodigy - Breathe (1996-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/f59e164a-ca57-4d80-8f4e-1a10a9757354/15320405430-500.jpg" data-tags="electronic, electronica, druggy, energetic, clinical, breakbeat, big beat, playful, sensual, celebratory" role="button">
 Cirrus - Drop The Break (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1797161d-28d1-430a-bd7c-0a6f268cab6e/17160061727-500.jpg" data-tags="alternative rock" role="button">
 Switchfoot - The Legend Of Chin (1997-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/ba4dc6f2-d13f-3dad-86f2-3b1479754741/24944191320-500.jpg" data-tags="hard rock" role="button">
+Van Halen - Van Halen III (1998-03-10)
 </li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
@@ -156,6 +159,9 @@ Shakira - Grandes Exitos (2002-11-05)
 <li data-cover="https://img.discogs.com/X-wu7fJkxoAC26BLAEAC8MPhHcY=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379196-1185620837.jpeg.jpg" data-tags="energetic, smile and dance-song" role="button">
 Bergman Rock - Bergman Rock (2003)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
+BUCK-TICK - Mona Lisa OVERDRIVE (2003-02-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/02e71dd7-abd5-31ba-a6c3-b85c9210af90/5695108897-500.jpg" data-tags="alternative rock" role="button">
 Live - Birds Of Pray (2003-05-20)
 </li>
@@ -186,14 +192,8 @@ Amerie - Touch (2005-04-26)
 <li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">
 Maxïmo Park - A Certain Trigger (2005-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
-Sleater-Kinney - The Woods (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
 The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
-The Presets - Beams (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Switchfoot - Nothing Is Sound (2005-09-13)
@@ -222,6 +222,9 @@ Immaculate Machine - Fables (2007-06-12)
 <li data-cover="http://coverartarchive.org/release/1d69d2d6-9957-4da5-9e2f-d04b8b1c9a30/20543455487-500.jpg" data-tags="indie rock" role="button">
 Air Traffic - Fractured Life (2007-07-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a430c80-4fd0-448f-bac8-b42fae9ad6ac/14574211194-500.jpg" data-tags="alt-country" role="button">
+Lori McKenna - Unglamorous (2007-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/71789dd2-83ee-4fb2-9322-2de62eed46d9/9961780926-500.jpg" data-tags="alternative rock, energetic, brutal death metal, mario popping out of the green well in slow motion, the most frostbitten and grim music from the very very very very very very inverted mountains of kxziiiimfghhhblaghl, vypsana fixa" role="button">
 Vypsaná Fixa - Fenomén (2007-09-24)
 </li>
@@ -230,6 +233,9 @@ Killing The Dream - Fractures (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Guillemots - Red (2008-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ff8b2c5-2c41-4ea9-b368-2886cf9f49eb/8837803331-500.jpg" data-tags="noise rock, boobs on cover" role="button">
+ミドリ - あらためまして、はじめまして、ミドリです。 (2008-05-14)
 </li>
 <li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
@@ -279,14 +285,8 @@ No Age - Everything in Between (2010-09-15)
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/f092b7dc-f36f-4431-8e38-0a411450bb31/21799062857-500.jpg" data-tags="country" role="button">
-Alan Jackson - 34 Number Ones (2010-11-23)
-</li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
 Justice - Civilization (2011-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/114dc1d5-a25d-4893-abaa-a405282128c2/4155273043-500.jpg" data-tags="country" role="button">
-Eric Church - Chief (2011-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/67de74dc-8259-4549-9704-a854eef793c0/25203283020-500.jpg" data-tags="rock" role="button">
 WZRD - WZRD (2012-01-01)

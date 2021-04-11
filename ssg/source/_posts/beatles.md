@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:32:01.415Z
+date: 2021-04-11T17:11:01.408Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -96,9 +96,6 @@ Wings - Wings at the Speed of Sound (1976-03-25)
 <li data-cover="https://img.discogs.com/iIKo5OW8lNAUNYIVv-bA_8-3p0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490562-1286894295.jpeg.jpg" data-tags="classic rock, 70s, rock" role="button">
 George Harrison - The Best of George Harrison (1976-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/b502effe-ef3d-4503-b858-59825cdf9f8d/18232281453-500.jpg" data-tags="love songs, the beatles" role="button">
-The Beatles - Love Songs (1977-11-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/62cdd1da-11bc-464b-bac9-0019c0cf976c/3161457616-500.jpg" data-tags="classic rock, 70s" role="button">
 Wings - London Town (1978)
 </li>
@@ -122,6 +119,9 @@ The Beatles - The Early Tapes of the Beatles (1984-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca0d25-cce8-4366-93af-14262426054f/9053370792-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Decca Tapes (1986-03-01)
+</li>
+<li data-cover="https://img.discogs.com/1VC6ZDjLrlY6SspXPc7PtqLic30=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11155735-1531057392-7320.jpeg.jpg" data-tags="early tapes" role="button">
+The Beatles - The Original Decca Tapes & Cavern Club Rehearsals (1986-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a55bb4-abb2-4d8c-8646-a06c56cd5a2c/9460984577-500.jpg" data-tags="classic rock, rock" role="button">
 George Harrison - Cloud Nine (1987-11-02)
@@ -291,6 +291,9 @@ Stereo Skyline - Stuck On Repeat (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/e0b20aa8-206f-4ebd-8553-329b37848ab2/8320859136-500.jpg" data-tags="70s, george harrison, classic rock" role="button">
 George Harrison - Living in the Material World (2011-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b21d08ff-5f9d-4fd8-96a2-68f56b6712ff/27873994721-500.jpg" data-tags="beatles, ringo, starr" role="button">
+Ringo Starr - Wings (2012-01-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/fd7c7e60-6976-4799-a143-1acdabc7701e/15419145178-500.jpg" data-tags="rock, singer-songwriter, acoustic, beatles, george harrison, 70's, gomorrans, ryan beebe, mike garlington" role="button">
 George Harrison - Early Takes: Volume 1 (2012-05-01)
 </li>
@@ -308,9 +311,6 @@ The Beatles - 1962-1970 (2015-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7194480d-d3d1-4b14-8b1e-602514f70d29/1403982090-500.jpg" data-tags="beatles, stonedbeat, work it" role="button">
 The Beatles - Get Back 2nd Mix (2015-11-06)
-</li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="rock, classic rock, 60s" role="button">
-The Beatles - The Beatles (disc 1) (2015-11-06)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="beatles" role="button">
 The Beatles - The Beatles 1967-70 (2015-11-06)

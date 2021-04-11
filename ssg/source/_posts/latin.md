@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:16:12.542Z
+date: 2021-04-11T16:50:01.442Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -33,9 +33,6 @@ Arthur Verocai - Arthur Verocai (1972)
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="brazil" role="button">
-Caetano Veloso - Cinema Transcendental (1979)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, latin" role="button">
 Silvio Rodríguez - Rabo de Nube (1979)
 </li>
@@ -60,20 +57,20 @@ Gloria Estefan - Greatest Hits (1992-10-30)
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/5698f022-f4f3-4bdf-985e-5009ead89abb/7975494732-500.jpg" data-tags="ricardo arjona, historias" role="button">
+Ricardo Arjona - Historias (1994-04-21)
+</li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69d1cdc-e903-40f8-ab38-c1e968d26f60/9857346505-500.jpg" data-tags="latin, spanish" role="button">
 Enrique Iglesias - Enrique Iglesias (1995-05-21)
 </li>
-<li data-cover="https://img.discogs.com/agIVmxuf05EzCdwusuUhqjvAmIE=/fit-in/469x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611391-1293119185.jpeg.jpg" data-tags="pop, latin" role="button">
-Ricky Martin - A Medio Vivir (1995-07-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="spanish, memories, latin, fey, l-pop, my first album ever" role="button">
+Fey - Fey (1995-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/399bae8e-7413-4cf7-a70c-36e8514fa9b9/9439590397-500.jpg" data-tags="hip hop, rap, latin, psychedelic, 90s, rapcore, free palestine, rap concret, originales, 90s in music" role="button">
 Cypress Hill - III - Temples Of Boom (1995-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/da9bd129-a9ac-4d9d-b915-5940d0a4f451/10021627605-500.jpg" data-tags="spanish" role="button">
-Jarabe de Palo - La Flaca (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/321e7965-876b-404b-a1ab-c0f8395fe320/14938667115-500.jpg" data-tags="latin, alternative latin" role="button">
 Café Tacvba - Avalancha de éxitos (1996-11-05)
@@ -117,6 +114,9 @@ Aterciopelados - Caribe Atómico (1998-07-28)
 <li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">
 Shakira - Dónde Están los Ladrones? (1998-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d255979-2c83-4e1f-91d2-7d7b3faf0a9f/11408081526-500.jpg" data-tags="80s, world, latin, 90s, african, female vocalist, compilation, cape verdean, coladeira, moma" role="button">
+Cesária Évora - Best Of (1998-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5613066-35eb-4633-80f7-b26838ebbd96/26694861033-500.jpg" data-tags="latin" role="button">
 Jorge Drexler - Frontera (1999)
 </li>
@@ -152,12 +152,6 @@ La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/56c57eda-b255-3626-9962-8cf341f4b50d/8669620484-500.jpg" data-tags="pop, spanish, latin" role="button">
 Christina Aguilera - Mi Reflejo (2000-09-12)
-</li>
-<li data-cover="https://img.discogs.com/TNbTicqr0_J0-aEMYJhH-NA7F5E=/fit-in/583x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1388691-1301646667.jpeg.jpg" data-tags="latin, 00s" role="button">
-Ricky Martin - Sound Loaded (2000-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/6bd68a20-ab77-4af2-a938-66ff74eb2ddb/26365957826-500.jpg" data-tags="pop, ricky martin" role="button">
-Ricky Martin - La Historia (2001-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)
@@ -246,6 +240,9 @@ Shakira - Hips Don't Lie (2006-04-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, latin, salsa" role="button">
 Chelo - Cha Cha (2006-06-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/d73b9575-a126-48b2-bed0-e4736c88f5c8/10167956151-500.jpg" data-tags="pop-rock, latin pop" role="button">
+La Quinta Estación - El Mundo Se Equivoca (2006-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c912595-f439-4703-834d-630039081b24/2009506363-500.jpg" data-tags="crunk, reggeaton" role="button">
 Pitbull - El Mariel (2006-10-31)
 </li>
@@ -314,6 +311,9 @@ La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3866c16-e8e8-4cd4-80f8-ec49d1ee73e9/964499089-500.jpg" data-tags="vocal jazz" role="button">
 Melody Gardot - The Absence (2012-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a719c55-3336-42ff-9916-201f0e873035/17723051668-500.jpg" data-tags="latin" role="button">
+Los Amigos Invisibles - Repeat After Me (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)
