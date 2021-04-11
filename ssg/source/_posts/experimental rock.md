@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:55:01.464Z
+date: 2021-04-11T15:11:01.419Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -41,9 +41,6 @@ Faust - Faust IV (1973)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
-</li>
-<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
@@ -119,6 +116,9 @@ Radiohead - Kid A (2000-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/f41aae5a-e03c-4a96-9744-5ab424eb8a9f/8126983412-500.jpg" data-tags="mike patton, experimental" role="button">
+Tomahawk - Tomahawk (2001-10-30)
 </li>
 <li data-cover="https://img.discogs.com/_OtoSqYCltIa6c55GSK0SNGDCCM=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339496-1326052398.jpeg.jpg" data-tags="00s" role="button">
 Xiu Xiu - Knife Play (2002-02-19)

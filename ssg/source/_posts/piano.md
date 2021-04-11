@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:08:01.422Z
+date: 2021-04-11T15:40:01.428Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -38,6 +38,9 @@ Dave Brubeck - Dave Brubeck's Greatest Hits (1966)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Chick Corea - Now He Sings, Now He Sobs (1968)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, piano" role="button">
+Art Tatum - Piano Starts Here (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
@@ -80,6 +83,9 @@ Herbie Hancock - Cantaloupe Island (1994-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/311dfa35-0d6f-462b-b3b6-7b7f1dc3b4d1/11507971335-500.jpg" data-tags="yanni" role="button">
 Yanni - Live at the Acropolis (1994-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e2cf0d4-7b00-4061-8c37-91faa22e5f7f/9553330244-500.jpg" data-tags="piano" role="button">
+George Winston - Forest (1994-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">
 Frédéric Chopin - Chopin (1995)
@@ -207,9 +213,6 @@ Aaron Goldberg - Worlds (2006-05-09)
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
-Vienna Teng - Dreaming Through The Noise (2006-07-25)
-</li>
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
@@ -242,9 +245,6 @@ Julia Marcell - It Might Like You (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a743f422-a794-4e46-8f48-959b15ca932a/27885926278-500.jpg" data-tags="piano" role="button">
 Ben Woods - A Collection of Thoughts (2008-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/5048b8c6-1214-4836-a48f-c2df38eaf099/7240585489-500.jpg" data-tags="alternative, cabaret" role="button">
-Amanda Palmer - Who Killed Amanda Palmer (2008-09-13)
 </li>
 <li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
 Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)

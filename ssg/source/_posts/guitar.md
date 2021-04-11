@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:26:01.424Z
+date: 2021-04-11T15:20:01.449Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Heavier Things (2003-09-09)](http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg "John Mayer - Heavier Things (2003-09-09)")
@@ -38,6 +38,9 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4946f82c-2cc1-3bbd-8ae3-5b89a79d7c39/21758063798-500.jpg" data-tags="classic rock, blues rock" role="button">
 Blind Faith - Blind Faith (1969-08)
+</li>
+<li data-cover="https://img.discogs.com/94WmIhDZkpmBhdsoi0M-uIqGKzA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788144-1262858017.jpeg.jpg" data-tags="blues, classic rock, british blues, british rock" role="button">
+Fleetwood Mac - The Pious Bird Of Good Omen (1969-08-15)
 </li>
 <li data-cover="https://img.discogs.com/TeuB0YgylQEFx6QexoX7I_xCLoA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5908490-1406034554-1635.jpeg.jpg" data-tags="rock, guitar" role="button">
 Jimi Hendrix - Rainbow Bridge (1971-10)
@@ -135,6 +138,9 @@ Jack Johnson - Brushfire Fairytales (2000)
 <li data-cover="http://coverartarchive.org/release/6ad8db0a-fc92-4668-90bf-b4e46a4a7dba/14683694177-500.jpg" data-tags="mark knopfler" role="button">
 Mark Knopfler - Sailing to Philadelphia (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
+Built to Spill - Live (2000-04-18)
+</li>
 <li data-cover="https://img.discogs.com/h8E77VPub3W_ckBglx9y_HUt2VU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8254566-1458042076-9050.jpeg.jpg" data-tags="guitar virtuoso, jeff beck, rock, guitar" role="button">
 Jeff Beck - You Had It Coming (2000-11-15)
 </li>
@@ -161,6 +167,9 @@ Pat Metheny - One Quiet Night (2003-05-13)
 </li>
 <li data-cover="https://img.discogs.com/4bOGAW1fpPLYOHj8KJhCxrfadI0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513137-1442331042-2541.jpeg.jpg" data-tags="guitar" role="button">
 Jeff Beck - Jeff (2003-08-06)
+</li>
+<li data-cover="https://img.discogs.com/MjzMDHbXVom57VN0y1T5FdqxLEI=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4612040-1369923028-1886.jpeg.jpg" data-tags="blues, blues rock" role="button">
+Joe Bonamassa - Blues Deluxe (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
@@ -201,9 +210,6 @@ Tocotronic - Pure Vernunft darf niemals siegen (2005-01-17)
 <li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
 Goldfinger - The Best Of Goldfinger (2005-02-19)
 </li>
-<li data-cover="https://img.discogs.com/HvUWjmSOc1F95WZzqrTFHKfgqy4=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784361-1330358908.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
-Laura Veirs - Year of Meteors (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/125c9366-4f4f-3166-a31e-6855d9199b28/7547146717-500.jpg" data-tags="latin rock, classic rock, guitar" role="button">
 Santana - All That I Am (2005-10-28)
 </li>
@@ -218,9 +224,6 @@ Andy McKee - Art of Motion (2006-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
-</li>
-<li data-cover="https://img.discogs.com/0g8A8Ic0qyE1JbqnSZo3mewZPl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707924-1198936469.gif.jpg" data-tags="singer-songwriter" role="button">
-Kimya Dawson - Remember That I Love You (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
@@ -276,14 +279,8 @@ Santana - Ultimate Santana (2007-10-16)
 <li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
 William Fitzsimmons - The Sparrow and the Crow (2008)
 </li>
-<li data-cover="https://img.discogs.com/MAOx3uzyY4Z-cxtWLdwOlBkt5oU=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332470-1481475141-5235.jpeg.jpg" data-tags="acoustic" role="button">
-Kaki King - Dreaming Of Revenge (2008-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
 David Cook - David Cook (2008-11-18)
-</li>
-<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
 </li>
 <li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
@@ -320,5 +317,8 @@ Matt Corby - Resolution (2013-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/29456596-9161-443d-8702-f8bd555b8ca8/24814615209-500.jpg" data-tags="alternative, progressive rock, fiction records" role="button">
 Elbow - The Take Off and Landing of Everything (2014-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/a133b718-bc25-436e-8c4d-05f37af9aee1/6951684582-500.jpg" data-tags="pop, reggae, dance, guitar, male vocalists" role="button">
+Cris Cab - Where I Belong (2014-04-04)
 </li>
 </ol>

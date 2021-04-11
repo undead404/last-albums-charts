@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:20:01.433Z
+date: 2021-04-11T15:01:01.423Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -39,12 +39,6 @@ Yazoo - Upstairs At Eric's (1982-08-23)
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
-Bronski Beat - The Age of Consent (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/07e8b1d1-6fa7-3baa-8658-026060ae06c5/14454641304-500.jpg" data-tags="80s" role="button">
-Alphaville - Forever Young (1984-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
 </li>
@@ -77,6 +71,9 @@ CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
+Paris Hilton - Paris (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/025e433e-757a-34a9-b349-c1ef3e084f07/5220361427-500.jpg" data-tags="synthpop" role="button">
 And One - Bodypop (2006-09-01)
@@ -156,6 +153,9 @@ Goldfrapp - Head First (2010-03-19)
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2074cb6-a185-4bfd-86de-decf013117d3/3194850526-500.jpg" data-tags="synthpop, electronic rock" role="button">
+Linkin Park - The Catalyst (2010-08-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg" data-tags="synthpop" role="button">
 Hurts - Happiness (2010-08-27)
 </li>
@@ -201,6 +201,9 @@ Trust - Trst (2012-02-28)
 <li data-cover="https://img.discogs.com/TQxRdssI23pybl7QK_MqpifIBss=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457166-1331119671.jpeg.jpg" data-tags="synthpop, st lucia" role="button">
 St. Lucia - St. Lucia (2012-03-06)
 </li>
+<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
+iamamiwhoami - kin (2012-06-06)
+</li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
 </li>
@@ -239,9 +242,6 @@ Tegan and Sara - Heartthrob (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/48323fe4-d87e-4f5c-8d61-36b28868616e/5552578400-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - Recover (2013-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T12:51:01.421Z
+date: 2021-04-11T14:59:07.027Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
+<li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">Gorillaz - Demon Days (2005-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">Kanye West - Graduation (2007-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">Kanye West - 808s & Heartbreak (2008-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">Drake - So Far Gone (2009-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">Drake - Take Care (2011-11-14)</li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/bbd931f0-f3ad-4550-b1cd-862e4b70cc03/9082731243-500.jpg" data-tags="hip hop" role="button">J. Cole - 2014 Forest Hills Drive (2014-09-14)</li>
 </ol>
@@ -50,6 +50,12 @@ Beastie Boys - Ill Communication (1994-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/acdf71be-2eae-4031-a893-c286dc2a669d/4411318082-500.jpg" data-tags="jazz hop, hip hop" role="button">
 Digable Planets - Blowout Comb (1994-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
+Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
+Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
@@ -141,6 +147,9 @@ Beastie Boys - To the 5 Boroughs (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Roots - The Tipping Point (2004-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
+Mos Def - The New Danger (2004-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
 CunninLynguists - A Piece of Strange (2005)
 </li>
@@ -207,9 +216,6 @@ Drake - So Far Gone (2009-02-13)
 <li data-cover="http://coverartarchive.org/release/9123d325-bf8e-4423-be98-98478dccee20/3602906301-500.jpg" data-tags="electronic, hip hop, pop, rap, flo rida right round" role="button">
 Flo Rida - Right Round (2009-03-23)
 </li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Mos Def - The Ecstatic (2009-06-09)
 </li>
@@ -270,9 +276,6 @@ Kendrick Lamar - Section.80 (2011-07-02)
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
@@ -281,9 +284,6 @@ Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f13d918-249a-45d7-987e-8f15099d0432/3905116455-500.jpg" data-tags="hip hop, danny brown, cartoon album covers" role="button">
 Danny Brown - Grown Up (2012-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/cadae5f0-925a-4f1e-9ead-488a08598918/1884595027-500.jpg" data-tags="hip hop, alternative hip hop" role="button">
-B.o.B - Strange Clouds (2012-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)

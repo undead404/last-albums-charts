@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:31:07.089Z
+date: 2021-04-11T14:58:01.433Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -29,6 +29,9 @@ The Doors - L.A. Woman (1971-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - What A Wonderful World (1988)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
+Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
@@ -102,11 +105,11 @@ Kings of Leon - Youth & Young Manhood (2003-07-23)
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
 </li>
+<li data-cover="https://img.discogs.com/Q2NHqtdLjFnjifVuEuy1aFg-jLU=/fit-in/510x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914208-1307035961.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+Breaking Benjamin - We Are Not Alone (2004-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Alter Bridge - One Day Remains (2004-08-10)
@@ -218,9 +221,6 @@ Incubus - Monuments And Melodies (2009-06-12)
 </li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">
 Generationals - Con Law (2009-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)

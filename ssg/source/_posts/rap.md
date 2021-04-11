@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:10:01.463Z
+date: 2021-04-11T15:35:01.578Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -122,6 +122,9 @@ DMX - ...And Then There Was X (1999-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/63d2c002-3b39-4e6a-9cad-50bb5f86a701/20658908646-500.jpg" data-tags="hip-hop" role="button">
+Nelly - Country Grammar (2000-06-27)
 </li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
@@ -246,9 +249,6 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="http://coverartarchive.org/release/37ec8148-b90d-4c07-8a5f-590f321eb5cf/1941023802-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Your Love (2010-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
-B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
@@ -282,9 +282,6 @@ J. Cole - Cole World: The Sideline Story (2011-09-26)
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
 </li>
@@ -302,6 +299,9 @@ Kid Cudi - Indicud (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
 Chance the Rapper - Acid Rap (2013-04-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
+J. Cole - Born Sinner (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
 Pusha T - My Name Is My Name (2013-10-08)

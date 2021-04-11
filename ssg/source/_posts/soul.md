@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:40:01.485Z
+date: 2021-04-11T15:18:01.614Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -68,6 +68,9 @@ Stevie Wonder - Songs in the Key of Life (1976-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">
 Michael Jackson - Off the Wall (1979-08-10)
+</li>
+<li data-cover="https://img.discogs.com/l3pHsob4QXA0qrMV7AYigfjPCBQ=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135038-1249251301.jpeg.jpg" data-tags="80s, soul" role="button">
+Diana Ross - Diana (1980-05-22)
 </li>
 <li data-cover="https://img.discogs.com/EVhqRV8PU2HLwFBGXSmNu_JWWaQ=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6186742-1413218734-2806.jpeg.jpg" data-tags="soul" role="button">
 Marvin Gaye - Midnight Love (1982)
@@ -140,9 +143,6 @@ Amy Winehouse - Frank (2003-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)

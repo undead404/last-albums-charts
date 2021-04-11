@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:35:02.399Z
+date: 2021-04-11T15:05:01.984Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -83,6 +83,12 @@ Black Eyed Peas - Elephunk (2003-06-24)
 </li>
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
+Cut Copy - Bright Like Neon Love (2004-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/bae60ee9-2a48-3504-97e8-b2d7a722282a/4394074765-500.jpg" data-tags="electronic, house" role="button">
+Mylo - Destroy Rock & Roll (2004-05-24)
 </li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
@@ -201,9 +207,6 @@ Britney Spears - Circus (2008-11-28)
 <li data-cover="http://coverartarchive.org/release/593de430-1ce9-4934-a46c-d168bf9d1653/25512976161-500.jpg" data-tags="dance, cascada, pop" role="button">
 Cascada - Evacuate the Dancefloor (2009-05)
 </li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -311,9 +314,6 @@ Rita Ora - I Will Never Let You Down (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f3d115c-ba1f-4e39-bb2f-bc44b24cbe77/28215387054-500.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - Summer (2014-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">
-Tiësto - A Town Called Paradise (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

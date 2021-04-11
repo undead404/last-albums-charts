@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:29:01.407Z
+date: 2021-04-11T15:41:01.420Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Phantogram - Nightlife (2011-11-01)](http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg "Phantogram - Nightlife (2011-11-01)")
@@ -21,29 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/XKru-VvZXln7gRjIe-inRByFQFE=/fit-in/592x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-323992-1204317778.jpeg.jpg" data-tags="electronic, ambient, experimental, krautrock" role="button">
+Tangerine Dream - Atem (1973-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/3eed1de9-3977-44cc-8e76-f442676698c9/19003555871-500.jpg" data-tags="electronic" role="button">
 Klaus Schulze - Moondawn (1976-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e279fc4-0c80-332c-aae0-941d114b0fed/1270665099-500.jpg" data-tags="electronic" role="button">
 Jean Michel Jarre - Equinoxe (1978-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
-Bronski Beat - The Age of Consent (1984)
-</li>
-<li data-cover="https://img.discogs.com/v4UGajqzHWsZSyHZGbTqJ0wFlQo=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13876365-1563109546-8393.jpeg.jpg" data-tags="electronic" role="button">
-Jean Michel Jarre - Zoolook (1984)
-</li>
 <li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
 Depeche Mode - Personal Jesus (1989-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/d81eed84-88b5-4a32-95ca-4d858c38b16a/4665702075-500.jpg" data-tags="electronic" role="button">
-Apollo 440 - Millennium Fever (1994-11-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
-Apollo 440 - Electro Glide In Blue (1997-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Pitchshifter - www.pitchshifter.com (1998-03-09)
@@ -53,6 +44,9 @@ Garbage - Version 2.0 (1998-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
+</li>
+<li data-cover="https://img.discogs.com/ibMAfiLArBOVU-faP4LftnwZ_fE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2956612-1441393650-3407.jpeg.jpg" data-tags="britpop, 90s" role="button">
+Suede - Head Music (1999-04-28)
 </li>
 <li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
@@ -66,8 +60,8 @@ Teddybears STHLM - Rock 'n' Roll Highschool (2000-06-07)
 <li data-cover="https://img.discogs.com/lU8JOpVOHgwTfqSW8uc0IhKzrUM=/fit-in/553x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290388-1206828056.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Bloodsport (2002-01-22)
 </li>
-<li data-cover="https://img.discogs.com/uFSSM5NNiwabWvmXZimpTwyjLkg=/fit-in/488x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-80637-1363860266-6734.jpeg.jpg" data-tags="electronic, electronic rock" role="button">
-Apollo 440 - Dude Descending a Staircase (2003)
+<li data-cover="http://coverartarchive.org/release/8f3da71d-2873-4310-8fe7-32fdd28f0928/16156165622-500.jpg" data-tags="electronic, alternative, experimental rock, no wave, electro-industrial, electronic rock, paved wiener, rewind 2002, comeback albums, albumirakkautta" role="button">
+Suicide - American Supreme (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
@@ -111,11 +105,14 @@ Black Strobe - Burn Your Own Church (2007-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Klaxons - It's Not Over Yet (2007-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">
+the GazettE - STACKED RUBBISH (2007-07-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
-Blue Stahli - Antisleep Vol. 01 (2008)
+<li data-cover="http://coverartarchive.org/release/d800a9e2-c11a-4d35-98e8-6b8cdb4ac631/7263437184-500.jpg" data-tags="experimental" role="button">
+Battles - Tonto+ (2007-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
@@ -131,9 +128,6 @@ Kevin Rudolf - In The City (2008-11-24)
 </li>
 <li data-cover="https://img.discogs.com/eBjlrPWpv-NLJ4p89IdNXafbUJ8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193238-1272728551.jpeg.jpg" data-tags="indie rock, chiptune, electronic rock, nes-rock" role="button">
 I Fight Dragons - Cool Is Just A Number (2009-02-06)
-</li>
-<li data-cover="https://img.discogs.com/--Waz9y-p3BIi5g9nZG1egGA1iM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407281-1440370129-6345.jpeg.jpg" data-tags="electronic" role="button">
-Yeah Yeah Yeahs - Zero (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2a17662-ed52-436f-81f3-358c289104fa/15021205186-500.jpg" data-tags="funk rock, electronic rock" role="button">
 Shaka Ponk - Bad Porn Movie Trax (2009-05-25)
@@ -264,17 +258,20 @@ Imagine Dragons - Night Visions (2012-09-04)
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/169c8107-5e7e-42f9-b96c-e33217c3d654/2268780673-500.jpg" data-tags="alternative rock" role="button">
+Anberlin - Vital (2012-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b2426c4-bf0b-48bc-9a73-160f42c1003f/2859176153-500.jpg" data-tags="electronic, dubstep, industrial, industrial rock, electronic rock" role="button">
 Blue Stahli - Antisleep Vol. 03 (2012-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
 Modestep - Evolution Theory (2013-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/efb5dd61-f5ea-4b24-b5d9-2db78ff449b7/4400428039-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - Love Lust Faith + Dreams (2013-05-16)
+</li>
+<li data-cover="https://img.discogs.com/4AmCBsxV3yLgQZZ532MaLaPnjbo=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5428123-1393264696-7276.jpeg.jpg" data-tags="rock, alternative rock, christian rock" role="button">
+Skillet - Rise (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 Nine Inch Nails - Hesitation Marks (2013-08-27)
@@ -299,6 +296,9 @@ Coldplay - Magic (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7b014a4-d675-48b3-97f0-3c4e8a7f43a4/7335467040-500.jpg" data-tags="industrial rock" role="button">
+Powerman 5000 - Builders Of The Future (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/09e58ce4-a2b6-4214-b7ab-e822960d2a33/7637224037-500.jpg" data-tags="pop, alternative rock, indie rock, electronic rock, cooking vinyl, bmg" role="button">
 James - La Petite Mort (2014-06-02)

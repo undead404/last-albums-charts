@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:43:01.406Z
+date: 2021-04-11T15:30:01.432Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Overly Dedicated (2010-09-14)](http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg "Kendrick Lamar - Overly Dedicated (2010-09-14)")
@@ -86,9 +86,6 @@ RJD2 - Your Face or Your Kneecaps (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a0e4370-d483-497d-9220-342f5b7a2df7/5695215886-500.jpg" data-tags="hip-hop, indie, rap, underground hip-hop, rhymesayers, atmosphere" role="button">
 Atmosphere - Lucy Ford: The Atmosphere EP's (2001-02-01)
-</li>
-<li data-cover="https://img.discogs.com/4pkmu5MaE9cjJMAnkH3lWXhxAFs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-107360-1411090269-7211.jpeg.jpg" data-tags="hip hop, rap, turntablism, underground hip-hop, hiphop, east coast, jazz hop, independent hip-hop, black star, in queue no tracks, del bronx" role="button">
-Hi-Tek - Hi-Teknology (2001-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd171e0b-4cb1-4bef-ab60-ccab0729cd73/1672858721-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - Labor Days (2001-09-18)
@@ -299,6 +296,9 @@ Jedi Mind Tricks - Violence Begets Violence (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbb952f0-cb95-427e-8189-50f29ae2c34f/5259694807-500.jpg" data-tags="rap" role="button">
 Yelawolf - Radioactive (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8e673c3-000b-4a94-bd52-55ae8b956970/894783668-500.jpg" data-tags="10s" role="button">
+Gonjasufi - MU.ZZ.LE (2012-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d45c22-dced-46eb-a191-334976f1ffdc/8991381268-500.jpg" data-tags="underground hip-hop, hardcore rap" role="button">
 La Coka Nostra - Masters Of The Dark Arts (2012-07-31)

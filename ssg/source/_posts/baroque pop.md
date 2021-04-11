@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:31:07.093Z
+date: 2021-04-11T14:46:06.951Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -39,8 +39,8 @@ Harumi - Harumi (1968)
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
-<li data-cover="http://coverartarchive.org/release/c757416d-2633-3ef8-a7e7-f94a3e3e20df/13549300921-500.jpg" data-tags="experimental, baroque pop" role="button">
-Van Dyke Parks - Song Cycle (1968)
+<li data-cover="https://img.discogs.com/Fl1Ff9O_ESOOU8G6Xqa6VpHQ_wo=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14311131-1571998296-8145.jpeg.jpg" data-tags="british, folk, baroque pop, psychedelic, debut album, one and only album, excelso" role="button">
+Nick Garrie - The Nightmare of J.B. Stanislas (1968)
 </li>
 <li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
 The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)

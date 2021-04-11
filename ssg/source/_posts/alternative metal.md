@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:12:01.494Z
+date: 2021-04-11T14:49:01.407Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -132,9 +132,6 @@ Slipknot - Iowa (2001-08-21)
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Satellite (2001-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/6501d73a-ed76-4a7f-b8c0-2dcc255509ce/6163003116-500.jpg" data-tags="alternative metal" role="button">
 Soil - Scars (2001-09-11)
 </li>
@@ -233,6 +230,9 @@ System of a Down - Mezmerize (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
+Deftones - B-Sides & Rarities (2005-10-04)
 </li>
 <li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Hypnotize (2005-11-18)

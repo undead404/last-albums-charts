@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:18:01.560Z
+date: 2021-04-11T15:25:12.617Z
 title: "blackened death metal: 100 albums you must listen to before you die"
 ---
 ![Behemoth - The Satanist (2014-02-03)](https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg "Behemoth - The Satanist (2014-02-03)")
@@ -48,6 +48,9 @@ Darkthrone - Goatlord (1996-10-24)
 <li data-cover="http://coverartarchive.org/release/8d2466e3-2206-4a0b-960d-38d20a347e42/19793757315-500.jpg" data-tags="black metal" role="button">
 Belphegor - Blutsabbath (1997)
 </li>
+<li data-cover="https://img.discogs.com/bKLLWKW_dmz9Nez63bzrFLVBSxQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2794911-1394312288-6197.jpeg.jpg" data-tags="black metal, death metal" role="button">
+Necrophobic - Darkside (1997)
+</li>
 <li data-cover="https://img.discogs.com/sHMtGaaupRhHzc0bQcN3dNInyJQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-761638-1270715846.jpeg.jpg" data-tags="blackened death metal, melodic black metal" role="button">
 Sacramentum - The Coming Of Chaos (1997)
 </li>
@@ -66,17 +69,14 @@ Sepultura - Against (1998-10-05)
 <li data-cover="https://img.discogs.com/updqDDeOl9ZPg_msom6pOFfCnCg=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559329-1294277850.jpeg.jpg" data-tags="death metal" role="button">
 Vader - Live in Japan (1998-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
-Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/29354f69-64e1-4c5a-8afe-062ddf853bf5/26055634719-500.jpg" data-tags="metalcore" role="button">
-Underoath - Act of Depression (1999-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae633162-211e-4f5e-8474-6803c2c21480/1959804975-500.jpg" data-tags="black metal" role="button">
 Anaal Nathrakh - Total Fucking Necro (1999-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7b052a1-8633-4a5a-a5f8-75af3911f12a/6984487955-500.jpg" data-tags="death metal" role="button">
 Behemoth - Antichristian Phenomenon (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcea89c8-7f18-43d1-9719-f915883bd182/13632357572-500.jpg" data-tags="black metal, blackened death metal" role="button">
+Goatwhore - The Eclipse of Ages Into Black (2000-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/182df017-12a5-4836-9780-0f1f4b971f87/3573388202-500.jpg" data-tags="metalcore, death metal" role="button">
 Underoath - Cries of the Past (2000-07-04)
@@ -120,23 +120,20 @@ Portal - Seepia (2003-11-12)
 <li data-cover="https://img.discogs.com/dn2AraqoMNXLtLD5wlYOPhTFLaI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9604804-1483543288-5702.jpeg.jpg" data-tags="blackened death metal, black metal" role="button">
 Belphegor - Lucifer Incestus (2003-11-24)
 </li>
-<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
-Tarkan - Dudu (2003-12)
-</li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
 </li>
 <li data-cover="https://img.discogs.com/q9eBlfxZl1-CjI-MN3evLsWlF_w=/fit-in/320x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233231-1237729191.jpeg.jpg" data-tags="death metal" role="button">
 Behemoth - Slaves Shall Serve (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/82d03e9a-c800-434b-9915-c0cb52f647b5/4878350488-500.jpg" data-tags="black metal, melodic black metal, symphonic black metal" role="button">
-Graveworm - (N)utopia (2005-01-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/146dccdb-9b4f-4f6a-8f4f-815e3a05e8c2/19798876684-500.jpg" data-tags="blackened death metal, black metal" role="button">
 Belphegor - Goatreich - Fleshcult (2005-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/67a3ce0d-075e-395e-a3e9-f46f09e27877/2889524675-500.jpg" data-tags="extreme metal, blackened death metal, brutal black metal" role="button">
 Black Witchery - Upheaval Of Satanic Might (2005-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b9e3214-bbc3-4ffd-a5ff-56a10c8b4dff/13216008391-500.jpg" data-tags="black metal" role="button">
+Infernal War - Terrorfront (2005-05-18)
 </li>
 <li data-cover="https://img.discogs.com/Dy-5QMO9NnC5BYj1y5UJGe0fIxE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351876-1330511835.jpeg.jpg" data-tags="melodic black metal, black metal" role="button">
 Naglfar - Pariah (2005-06-20)
@@ -174,11 +171,17 @@ Graveworm - Collateral Defect (2007-04-10)
 <li data-cover="http://coverartarchive.org/release/49f6af34-d643-385d-95c3-d7fba082fff8/3073081136-500.jpg" data-tags="death metal" role="button">
 Portal - Outre (2007-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c3cf820-1d8e-34a7-b080-ba0a1a6d9f3b/22462438951-500.jpg" data-tags="death metal" role="button">
+Hate - Morphosis (2008-02-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/2adc426e-bf17-4ddd-ba04-47470c3045d8/6761584111-500.jpg" data-tags="black metal, symphonic black metal, dark metal" role="button">
 Shade Empire - Zero Nexus (2008-03-12)
 </li>
 <li data-cover="https://img.discogs.com/WB_xmmaubiBTqqITwzObxUMWvhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16230449-1605655724-1287.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">
 Belphegor - Bondage Goat Zombie (2008-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/574c0a96-0ac5-4922-916c-8e6bf1b1b258/12912357300-500.jpg" data-tags="black metal, psychedelic black metal" role="button">
+Nachtmystium - Assassins: Black Meddle Pt. 1 (2008-06-10)
 </li>
 <li data-cover="https://img.discogs.com/Ion6IP8yCi0ejRgYihepYh5teNY=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633429-1294235009.jpeg.jpg" data-tags="metalcore" role="button">
 Bleeding Through - Declaration (2008-09-26)
@@ -215,9 +218,6 @@ Graveworm - Diabolical Figures (2009-06-26)
 </li>
 <li data-cover="https://img.discogs.com/K20rSftvVzZehMnMB2Y9L-xRBOs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464875-1331417514.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Evangelion (2009-08-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
 </li>
 <li data-cover="https://img.discogs.com/V-nRozPqVAqzJU7GfhpWnjFlk8Y=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1945225-1432399990-8604.jpeg.jpg" data-tags="atmospheric black metal, van" role="button">
 The Ruins of Beverast - Foulest Semen of a Sheltered Elite (2009-09-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:11:01.435Z
+date: 2021-04-11T15:42:01.592Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -78,6 +78,9 @@ HammerFall - Glory to the Brave (1997-10-20)
 <li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
 Edguy - Vain Glory Opera (1998-01-15)
 </li>
+<li data-cover="https://img.discogs.com/aBvKEmTJVHuAUJwPP97OzhHzYeE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3524203-1411202068-9110.jpeg.jpg" data-tags="power metal" role="button">
+Angra - Fireworks (1998-02-09)
+</li>
 <li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
 Helloween - Better Than Raw (1998-03-04)
 </li>
@@ -137,9 +140,6 @@ Gamma Ray - No World Order (2001-09-10)
 </li>
 <li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
 Edguy - Mandrake (2001-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ba73082-04fe-3bf4-a601-ec0b26e083e9/1555934640-500.jpg" data-tags="power metal" role="button">
-Angra - Rebirth (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - A Night at the Opera (2002-03-05)

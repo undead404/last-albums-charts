@@ -1,8 +1,8 @@
 ---
-date: 2021-04-11T06:25:01.406Z
+date: 2021-04-11T14:54:01.957Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
-![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
+![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
@@ -11,7 +11,7 @@ title: "rapcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/98a07793-52b7-42d3-8801-2cfdca0663c3/11769582808-500.jpg" data-tags="nu metal" role="button">Papa Roach - Infest (2000-04-25)</li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Hybrid Theory (2000-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">P.O.D. - Satellite (2001-09-11)</li>
+<li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">Limp Bizkit - Results May Vary (2003-05-28)</li>
 </ol>
@@ -39,11 +39,11 @@ Body Count - Born Dead (1994)
 <li data-cover="http://coverartarchive.org/release/06c8f48c-caa0-4282-b7fe-264c4b673085/2192549116-500.jpg" data-tags="rapcore, nu metal, funk rock" role="button">
 Papa Roach - Potatoes For Christmas (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
-P.O.D. - Snuff the Punk (1994-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/4592d54c-c3d4-4128-81b3-9acc1377d35a/10430050533-500.jpg" data-tags="rapcore" role="button">
 Dog Eat Dog - All Boro Kings (1994-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/67b94fca-8bfc-4e52-8d3a-26a2f0f72049/6144038448-500.jpg" data-tags="hardcore" role="button">
+Biohazard - State of the World Address (1994-05-24)
 </li>
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
 Clawfinger - Use Your Brain (1995-03-23)
@@ -144,17 +144,20 @@ Saliva - Every Six Seconds (2001-03-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 40 Below Summer - Invitation to the Dance (2001-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Satellite (2001-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
 Limp Bizkit - New Old Songs (2001-11-30)
+</li>
+<li data-cover="https://img.discogs.com/FI5HBHQ2lDZKlI88QEYLzfhiHms=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3429400-1584229219-6923.mpo.jpg" data-tags="rap, rapcore, nu metal, rap rock, peborit album, blindspott, albums in my cd rack" role="button">
+Blindspott - Blindspott (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a64d85a-ae57-41f7-ac17-13228ff0eaea/20928284068-500.jpg" data-tags="rapcore, nu metal" role="button">
 Jane Air - Pull Ya? Let it doll go (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
 3rd Strike - Lost Angel (2002-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/26b922bd-a931-4938-93f5-b9a09d227c10/9831908947-500.jpg" data-tags="metal, nu metal" role="button">
+Otep - Sevas Tra (2002-06-18)
 </li>
 <li data-cover="https://img.discogs.com/1YbCa_LUFfTJlv-EsKzNe_4WaF0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1325572-1429907599-1947.jpeg.jpg" data-tags="punk" role="button">
 Transplants - Transplants (2002-10-22)
@@ -185,9 +188,6 @@ Limp Bizkit - Eat You Alive (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d744d66-1fdb-4dff-9392-e0e2bbf3f702/17652420521-500.jpg" data-tags="alternative" role="button">
 Hot Action Cop - Hot Action Cop (2003-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8dd3f57-4760-4127-a7fe-ee21b6ff2d04/14818545514-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Payable on Death (2003-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0edb5cf7-aaff-4376-8a6b-373a0f08ce39/15089945297-500.jpg" data-tags="nu metal" role="button">
 Linkin Park - Live in Texas (2003-11-18)
@@ -222,17 +222,11 @@ Clawfinger - Hate yourself with style (2005-11-18)
 <li data-cover="http://coverartarchive.org/release/10265a9b-1610-44ca-9283-6868348444dd/11562953643-500.jpg" data-tags="hip-hop, alternative, rapcore" role="button">
 Кирпичи - Царский альбомъ (2005-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/86720349-4e06-40a3-8c07-f6cd49f8cd01/2106182279-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Testify (2006-01-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6cd5fc3-53b3-475c-90e1-a967e999ad4a/15586885193-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Broadcast To The World (2006-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/21b03748-3bb5-4b24-8e7d-14e47eee80ca/13921216200-500.jpg" data-tags="rap, rapcore, alternative hip-hop" role="button">
 Tech N9ne - Everready (2006-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec32c303-0afa-4205-be55-900803c954fe/25188888029-500.jpg" data-tags="alternative rock, hard rock, alternative metal, christian, christian rock, rapcore, nu metal, christian metal, christian nu metal, christian rapcore, pendientes, albums to own" role="button">
-P.O.D. - Greatest Hits: The Atlantic Years (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a5fb6df-5842-48de-8451-6696a2a280ca/8568379188-500.jpg" data-tags="hard rock, alternative rock, alternative metal" role="button">
 Saliva - Blood Stained Love Story (2007-01-03)
@@ -264,6 +258,9 @@ La Coka Nostra - A Brand You Can Trust (2009-07-14)
 <li data-cover="https://img.discogs.com/tXkKA1LKqgg1Z3chelWxJaAgwBQ=/fit-in/600x660/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479846-1575376462-6127.jpeg.jpg" data-tags="german, crossover, rapcore" role="button">
 Panik - Panik (2009-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/c602be74-31d1-47c3-a533-44d252c3868e/19902540315-500.jpg" data-tags="rapcore" role="button">
+A Broken Silence - All For What... (2009-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
@@ -281,6 +278,9 @@ Noize MC - Последний Альбом (2010-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/92b9a826-e376-4ca7-99f4-6b91fb5fc741/8147662070-500.jpg" data-tags="rock, alternative rock" role="button">
 Bloodhound Gang - Show Us Your Hits (2010-12-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/a785ab9b-88a8-43d8-90d0-6ae82c63728f/24837880451-500.jpg" data-tags="hip-hop, rock, alternative" role="button">
+Travis Barker - Give The Drummer Some (2011-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - American Tragedy (2011-04-04)
@@ -306,11 +306,11 @@ Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 <li data-cover="http://coverartarchive.org/release/c42909b1-9750-4a9c-9431-170a2583d794/28722232870-500.jpg" data-tags="rapcore" role="button">
 Deuce - Nine Lives (2012-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/545d64b7-ea63-4de4-a36b-1cfae8a04c1c/1438400323-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Murdered Love (2012-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/57ff5b47-5c85-4b2d-9c48-99feeec9ec3d/4370931232-500.jpg" data-tags="rapcore" role="button">
+Zack Hemsey - RONIN (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c80f4d23-4fe8-4b6c-816c-3ec3924ba18a/12620927677-500.jpg" data-tags="pop punk, rapcore" role="button">
 Zebrahead - Call Your Friends (2013-08-07)

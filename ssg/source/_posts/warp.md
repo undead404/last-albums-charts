@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:24:01.476Z
+date: 2021-04-11T15:23:01.700Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -36,6 +36,9 @@ Skinny Puppy - Last Rights (1992-01)
 <li data-cover="http://coverartarchive.org/release/d65733a5-2fed-4443-beab-4440f0ef28ab/2227196642-500.jpg" data-tags="techno" role="button">
 F.U.S.E. - Dimension Intrusion (1993-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/455b4a46-06e1-4bd8-85d6-35bd11644f74/1353826524-500.jpg" data-tags="idm" role="button">
+Speedy J - Ginger (1993-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/e33730ce-6791-4e2e-aa4d-9b190ec39fdb/2575518065-500.jpg" data-tags="idm" role="button">
 Aphex Twin - On (1993-11-15)
 </li>
@@ -59,6 +62,9 @@ The Black Dog - Spanners (1995-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/49e04615-eb8d-3a81-af8e-402496a33d19/4819179308-500.jpg" data-tags="idm, electronic, ambient" role="button">
 Autechre - Garbage (1995-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ee1d08f-4e0b-4f1a-b418-7dd053fb03f1/25107182040-500.jpg" data-tags="electronic, idm" role="button">
+Aphex Twin - Ventolin EP (The Remixes) (1995-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/51f07041-3d9a-4458-880e-70326cdb3182/26321076591-500.jpg" data-tags="electro" role="button">
 Elecktroids - Elektroworld (1995-08-29)
@@ -192,9 +198,6 @@ AFX - Analord 01 (2005-01-24)
 <li data-cover="http://coverartarchive.org/release/c5af15a6-a463-455d-9308-910b1f5b99f1/1990842142-500.jpg" data-tags="idm" role="button">
 Autechre - Untilted (2005-04-09)
 </li>
-<li data-cover="https://img.discogs.com/lsyG4vw3UWpE6UV-XCwqUiBGi70=/fit-in/500x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6620592-1423251240-6188.jpeg.jpg" data-tags="rephlex" role="button">
-AFX - Analord 11 (2005-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/33e04fab-1890-4472-aa2c-0aa61f723fa4/4601677125-500.jpg" data-tags="math rock" role="button">
 Battles - EP C/B EP (2005-09-11)
 </li>
@@ -212,9 +215,6 @@ Nightmares on Wax - In A Space Outta Sound (2006-01)
 </li>
 <li data-cover="https://img.discogs.com/RyAZN977Z5JxP-rFncQRYr8fzyc=/fit-in/300x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584943-1134760944.jpeg.jpg" data-tags="warp" role="button">
 Prefuse 73 - Security Screenings (2006-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fbf07ce-608b-44cd-a393-59dc730a1284/10989112137-500.jpg" data-tags="warp, electro" role="button">
-Jimmy Edgar - Color Strip (2006-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
 Boards of Canada - Trans Canada Highway (2006-05-19)
@@ -288,6 +288,9 @@ Seefeel - Faults (2010-09-20)
 <li data-cover="http://coverartarchive.org/release/b1c45015-91f7-4020-bc54-3f843ed4c11a/6962384439-500.jpg" data-tags="shoegaze, warp, great groove, experimental downtempo, comeback albums, top-67" role="button">
 Seefeel - Seefeel (2011-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef335cce-5b0e-4636-b4f1-17af1a043956/26299636754-500.jpg" data-tags="warp" role="button">
+Babe Rainbow - Endless Path EP (2011-06-20)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronica, ambient, warp, avantgarde, brian eno, a distant fire burning, drums between the bells 2011, rick holland" role="button">
 Brian Eno And The Words Of Rick Holland - Drums Between The Bells (2011-06-22)
 </li>
@@ -314,9 +317,6 @@ Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 </li>
 <li data-cover="https://img.discogs.com/_17X3gO1kUCtordXcZf1SY67o1U=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4948955-1383656910-5443.jpeg.jpg" data-tags="vaporwave, electronic" role="button">
 Oneohtrix Point Never - R Plus Seven (2013-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8b795e4-1e4e-480e-907d-abbc226ec10f/14098141621-500.jpg" data-tags="warp, 10s, 2013 releases, 2013: favourite albums" role="button">
-Autechre - L-Event (2013-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Syro (2014-09-19)

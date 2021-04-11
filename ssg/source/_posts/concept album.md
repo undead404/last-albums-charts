@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:01:29.240Z
+date: 2021-04-11T14:47:01.413Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -63,6 +63,9 @@ Buggles - The Age of Plastic (1980)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
+<li data-cover="https://img.discogs.com/_PZwGiZVmtke4cxTQw92lXJq9Ig=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538167-1294596731.jpeg.jpg" data-tags="progressive rock" role="button">
+Camel - Nude (1981-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
@@ -92,6 +95,9 @@ Ayreon - The Final Experiment (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
+</li>
+<li data-cover="https://img.discogs.com/sf62bcij06CCSXC5ZM2Tmjl47hA=/fit-in/400x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3714260-1341424417-2262.jpeg.jpg" data-tags="progressive metal" role="button">
+Savatage - Dead Winter Dead (1995-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f71cf282-76dc-45ef-a25f-edd5d65152af/15074067392-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Scenes From a Memory (1996-04-30)
@@ -170,9 +176,6 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
-Kamelot - Epica (2003-01-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
@@ -281,9 +284,6 @@ The Decemberists - The Hazards of Love (2009-03-16)
 </li>
 <li data-cover="https://img.discogs.com/U9Jn2NXxOsUmCAoL4u1P3zTb9w8=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1877212-1399495634-5871.jpeg.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act III: Life and Death (2009-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/729871ea-4ac9-3140-953c-b8861c47c9e3/13189984972-500.jpg" data-tags="cabaret, 2010s" role="button">
-Evelyn Evelyn - Evelyn Evelyn (2010-03-30)
 </li>
 <li data-cover="https://img.discogs.com/qcIKjGB-FH-3K7RIwl7Ik8UsLbE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604977-1549321734-9052.jpeg.jpg" data-tags="soul" role="button">
 Plan B - The Defamation of Strickland Banks (2010-04-12)

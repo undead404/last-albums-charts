@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:27:01.760Z
+date: 2021-04-11T15:22:01.539Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -267,6 +267,9 @@ The Birthday Massacre - Looking Glass (2008-05-02)
 <li data-cover="https://img.discogs.com/e44-Cpih6j4SWQr6_lkbMYyEq58=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2913558-1507813314-3617.png.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - The Slip (2008-05-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
+Kerli - Love Is Dead (2008-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/1547e7ce-387d-4434-982c-1e17f610b187/3270267783-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Chinese Democracy (2008-11-06)
 </li>
@@ -305,9 +308,6 @@ Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b23fdaf-d3b6-4550-b9e9-a615d0a96698/5769746782-500.jpg" data-tags="synth-rock" role="button">
 The Birthday Massacre - Hide and Seek (2012-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/41462c1c-e976-4ea7-b245-18092f023115/4299893287-500.jpg" data-tags="industrial rock" role="button">
-Nine Inch Nails - Came Back Haunted (2013-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 Nine Inch Nails - Hesitation Marks (2013-08-27)

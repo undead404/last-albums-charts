@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:17:07.016Z
+date: 2021-04-11T15:34:01.518Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -7,7 +7,7 @@ title: "acoustic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">Jack Johnson - Brushfire Fairytales (2000)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">José González - Veneer (2003-10)</li>
+<li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/bc7e4abe-5672-40d4-bb39-a72ba0293476/3375657581-500.jpg" data-tags="acoustic" role="button">City and Colour - Sometimes (2005-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
@@ -90,11 +90,11 @@ John Mayer - Room for Squares (2001-06-05)
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
+The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
@@ -107,9 +107,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
-José González - Veneer (2003-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
@@ -137,9 +134,6 @@ Matt Costa - Songs We Sing (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
 William Fitzsimmons - Until When We Are Ghosts (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
-Iron & Wine - Woman King (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
@@ -210,6 +204,9 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
+Eddie Vedder - Into the Wild (2007-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
@@ -275,6 +272,9 @@ Bruce Springsteen - Nebraska (2010-08-13)
 </li>
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/70cb6351-8a76-49a7-b38a-4bc4d976a9c0/7409706658-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
+Colbie Caillat - Brighter Than the Sun (2011-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)

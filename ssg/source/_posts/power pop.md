@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:51:07.020Z
+date: 2021-04-11T15:10:01.465Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -36,12 +36,6 @@ The Cars - The Cars (1978-06-06)
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
-The Replacements - Let It Be (1984-10-02)
-</li>
-<li data-cover="https://img.discogs.com/l0goLm4j5SulBWdRULTaltZc2F4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2497568-1604288768-3259.jpeg.jpg" data-tags="power pop" role="button">
-Jellyfish - Bellybutton (1990-08-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
 </li>
@@ -56,9 +50,6 @@ Cartel - Cartel (1995)
 </li>
 <li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Grand Prix (1995-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
-Super Furry Animals - Fuzzy Logic (1996-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
@@ -77,9 +68,6 @@ Hole - Celebrity Skin (1998-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
 Fountains of Wayne - Utopia Parkway (1999-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/306bf653-67fb-3788-9775-f44e4dc066be/26271448429-500.jpg" data-tags="power pop" role="button">
-Super Furry Animals - Guerrilla (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
@@ -162,6 +150,9 @@ Girls Aloud - Chemistry (2005-12-05)
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, power pop, dream pop, ambitious, bibibi" role="button">
+The Car Is On Fire - Lake & Flames (2006)
+</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
@@ -179,6 +170,9 @@ Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/67db7446-023c-482c-881d-90501a6637a1/28025724057-500.jpg" data-tags="mcfly, pop rock, rock" role="button">
+McFly - Motion in the Ocean (2006-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
@@ -222,17 +216,14 @@ Girls Aloud - Out of Control (2008-10-31)
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a773460a-e896-4883-83fb-3ec44b8dce36/12726549225-500.jpg" data-tags="pop, rock, power pop, pop rock, symphonic rock, 2010s" role="button">
 Marianas Trench - Masterpiece Theatre (2009-02-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1fdf8940-79eb-4488-8acf-f870f9bf459f/15178543772-500.jpg" data-tags="pop" role="button">
+Jay Reatard - Watch Me Fall (2009-08-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f2032d8-a08b-417b-94e8-ec7081197ff2/23137566621-500.jpg" data-tags="pop punk" role="button">
-Every Avenue - Picture Perfect (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d56ee8b4-3010-3476-a68a-ec649e37a8d0/20896509704-500.jpg" data-tags="alternative rock, indie rock, indie" role="button">
 Snow Patrol - Up to Now (2009-11-05)
@@ -245,6 +236,12 @@ OK Go - Of the Blue Colour of the Sky (2010-01-12)
 </li>
 <li data-cover="https://img.discogs.com/fQHNOqpx7Y7c0YHE4skjYWlMq9I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259635-1280745146.jpeg.jpg" data-tags="rock, lifehouse" role="button">
 Lifehouse - Smoke & Mirrors (2010-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a4808eb-6252-4807-a400-0cbd85d22948/10156282842-500.jpg" data-tags="power pop, indietronica" role="button">
+Casiokids - Topp stemning på lokal bar (2010-02-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
+Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d6c4da4-5eb3-4de9-b528-0613dea5d9a1/2477638318-500.jpg" data-tags="power pop, omg, feel good, less than 40 minutes" role="button">
 The Maine - Black & White (2010-07-12)
@@ -264,6 +261,9 @@ The Joy Formidable - The Big Roar (2011-01-24)
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/c171039b-592b-4c0f-97df-00ddbaac2a1a/2453598306-500.jpg" data-tags="pop punk, all time low" role="button">
+All Time Low - Dirty Work (2011-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
 fun. - Some Nights (2011-07-12)
 </li>
@@ -282,6 +282,9 @@ Sleigh Bells - Reign of Terror (2012-02-20)
 <li data-cover="https://img.discogs.com/IUn7BMzBTxC4pD7-VLW_KeZA1VA=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999518-1453213735-9537.jpeg.jpg" data-tags="rock, alternative rock, power pop, pop rock, neo-psychedelia" role="button">
 The Dandy Warhols - This Machine (2012-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1db3ba5c-d568-45db-b0c9-4ceccb16d780/1093276486-500.jpg" data-tags="new wave" role="button">
+Ladyhawke - Anxiety (2012-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b769cd79-ba04-47b8-a015-9ded8e327e98/3905312015-500.jpg" data-tags="indie rock, post-punk" role="button">
 Friends - Manifest! (2012-06-04)
 </li>
@@ -296,9 +299,6 @@ Matt & Kim - Lightning (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, collection" role="button">
 Girls Aloud - Ten (2012-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)

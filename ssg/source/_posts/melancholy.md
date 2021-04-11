@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:40:02.498Z
+date: 2021-04-11T14:57:01.442Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -186,9 +186,6 @@ Bright Eyes - Lua (2004-10-08)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
-Antony and the Johnsons - The Lake (2004-11-02)
-</li>
 <li data-cover="https://img.discogs.com/3waKR4XxTJ5AsOA8BWGWHiUUw9k=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11072812-1520800595-4024.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
 Rufus Wainwright - Want Two (2004-11-16)
 </li>
@@ -197,6 +194,9 @@ Bright Eyes - Digital Ash in a Digital Urn (2005-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3897e8aa-3aef-4d54-beaf-5527488fd90f/10298808727-500.jpg" data-tags="folk" role="button">
+M. Ward - Transistor Radio (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
 Great Lake Swimmers - Bodies And Minds (2005-04-02)
@@ -240,14 +240,14 @@ Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5048b8c6-1214-4836-a48f-c2df38eaf099/7240585489-500.jpg" data-tags="alternative, cabaret" role="button">
-Amanda Palmer - Who Killed Amanda Palmer (2008-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/ayOUGQj9BvzmMXDCF9ZX4CHi91c=/fit-in/300x269/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318750-1438776698-9497.jpeg.jpg" data-tags="electronic, progressive rock, melancholy" role="button">
 Tiger Lou - A Partial Print (2008-10-22)
+</li>
+<li data-cover="https://img.discogs.com/oSZSAYcfuPgNH85uQH8DAZwczao=/fit-in/261x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1582598-1230080028.jpeg.jpg" data-tags="instrumental, ambient, melancholy, modern classical, autumn, boomkat, music for a sad road movie" role="button">
+Dakota Suite - The End of Trying (2009-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)

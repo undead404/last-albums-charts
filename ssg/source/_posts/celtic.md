@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:08:07.008Z
+date: 2021-04-11T15:00:29.309Z
 title: "celtic: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3864b74-493f-4028-aa0a-05380c457cb7/6030956084-500.jpg" data-tags="irish, celtic" role="button">
+Planxty - Cold Blow and the Rainy Night (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/7546163d-238d-38e3-97bb-26c464dabbeb/3195155586-500.jpg" data-tags="celtic, irish" role="button">
 Clannad - Magical Ring (1983)
 </li>
@@ -35,9 +38,6 @@ Loreena McKennitt - Elemental (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb533884-3d66-4945-955e-3c57e629b316/3722741186-500.jpg" data-tags="celtic, new age" role="button">
 Clannad - Macalla (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf48d517-6671-4715-bf69-1f3a96769a3a/5115726658-500.jpg" data-tags="folk, celtic" role="button">
-The Pogues - Rum Sodomy & the Lash (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
 Enya - Enya (1986)
@@ -51,14 +51,14 @@ Clannad - Sirius (1987)
 <li data-cover="http://coverartarchive.org/release/b104242b-563b-4fc8-907f-c0ec83313c46/3342241188-500.jpg" data-tags="christmas, celtic" role="button">
 Loreena McKennitt - To Drive the Cold Winter Away (1987)
 </li>
+<li data-cover="http://coverartarchive.org/release/7462b509-da71-4d79-9337-93989543bd25/17949419382-500.jpg" data-tags="celtic" role="button">
+Hothouse Flowers - People (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ce9f52a-64a8-3261-935e-e09fd6ad5f6a/13719981914-500.jpg" data-tags="psychedelic, art rock, celtic" role="button">
 Аквариум - Равноденствие (1988-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0845543a-07a2-4947-9be1-19bf4c39666f/6620340483-500.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - Parallel Dreams (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
-The Pogues - The Best of The Pogues (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
@@ -126,9 +126,6 @@ The Corrs - Talk On Corners (1997-10-20)
 <li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
 Yanni - Tribute (1997-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
-Enya - Paint The Sky With Stars (1997-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/0ef2d01b-02bf-35b6-949a-0666edbdc839/6637250207-500.jpg" data-tags="enya" role="button">
 Enya - Paint the Sky With Stars: The Best of Enya (1997-11-10)
 </li>
@@ -146,6 +143,9 @@ Celtic Spirit - Lyra (1998-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
 Gaelic Storm - Gaelic Storm (1998-07-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+The Corrs - What Can I Do (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/88334fc0-fe21-44ee-affa-67d361c2bf11/3169241029-500.jpg" data-tags="celtic" role="button">
 Celtic Spirit - Lyra II (1999)
@@ -165,8 +165,11 @@ Gaelic Storm - Herding Cats (1999-09-20)
 <li data-cover="http://coverartarchive.org/release/dc1f2430-bdd5-4070-95a1-58fe9067811b/3600810436-500.jpg" data-tags="folk, pop, irish" role="button">
 The Corrs - Unplugged (1999-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/387f7c8c-3c49-4601-af97-c7db2ba52593/20872496494-500.jpg" data-tags="new age, folk, celtic" role="button">
-Clannad - Greatest Hits (2000)
+<li data-cover="http://coverartarchive.org/release/bcae055e-83c0-42d9-99d9-8e52d1bdef51/9486841144-500.jpg" data-tags="folk, irish, celtic" role="button">
+The Chieftains - Water From The Well (2000)
+</li>
+<li data-cover="https://img.discogs.com/tDAVpTy4jhy7tCDMl01fHqEXFGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707976-1443275861-6558.jpeg.jpg" data-tags="new age" role="button">
+Kate Price - The Isle of Dreaming (2000-04-25)
 </li>
 <li data-cover="https://img.discogs.com/BdzR3scS9jHuF_K10jNEDW7rzGg=/fit-in/600x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875431-1378491568-8294.jpeg.jpg" data-tags="celtic" role="button">
 Bill Whelan - Riverdance on Broadway (2000-05-02)
@@ -176,9 +179,6 @@ Era - Era 2 (2000-05-15)
 </li>
 <li data-cover="https://img.discogs.com/SFPzHAzX4ah4IFjPf-JRPl37kXU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951267-1428563434-2020.jpeg.jpg" data-tags="pop" role="button">
 The Corrs - In Blue (2000-07-10)
-</li>
-<li data-cover="https://img.discogs.com/LRCUynNtEbF0PC2GPzF7MvUudj4=/fit-in/231x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1907622-1251652780.jpeg.jpg" data-tags="celtic, new age" role="button">
-Enya - Only Time (2000-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
 Enya - A Day Without Rain (2000-11-11)
@@ -191,6 +191,9 @@ Afro Celt Sound System - Volume 3: Further In Time (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/99335960-be55-49ad-bd12-4b31b96195eb/8915627487-500.jpg" data-tags="celtic, folk, gaelic storm" role="button">
 Gaelic Storm - Tree (2001-06-19)
+</li>
+<li data-cover="https://img.discogs.com/g6t5N4ILPVI2B07csafXHd3iToM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4435835-1364820182-2422.jpeg.jpg" data-tags="celtic" role="button">
+Old Blind Dogs - Close To The Bone (2001-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5119f27-ef7f-392f-8d93-790a7b62ef59/19311203167-500.jpg" data-tags="rock" role="button">
 The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
@@ -237,8 +240,8 @@ The Corrs - Borrowed Heaven (2004-05-04)
 <li data-cover="http://coverartarchive.org/release/feaa48b5-f4b7-458e-9074-303fd1e998c3/1821640363-500.jpg" data-tags="celtic" role="button">
 Beltaine - Rockhill (2004-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1285d08e-17ee-4688-b26b-9a2e043d4e8c/5956860175-500.jpg" data-tags="irish, celtic, celtic rock" role="button">
-Blaggards - Standards (2005)
+<li data-cover="http://coverartarchive.org/release/2e3d697f-bd7e-425c-8038-62acb798dacc/25358241319-500.jpg" data-tags="folk, world, pagan, celtic" role="button">
+Omnia - Live Religion (2004-12)
 </li>
 <li data-cover="https://img.discogs.com/gUlWssRjbizsZtwnf1HEx3jM_pI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920572-1586619977-3036.jpeg.jpg" data-tags="celtic" role="button">
 Cherish The Ladies - Woman Of The House (2005)
@@ -279,23 +282,17 @@ Julie Fowlis - Cuilidh (2007-03-26)
 <li data-cover="http://coverartarchive.org/release/c0c3e343-4ad3-4551-8dc7-9bee366d537b/10194948769-500.jpg" data-tags="spanish, folk, celtic, pop-rock, conchi" role="button">
 El Sueño de Morfeo - Nos vemos en el camino (2007-04-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/1646cd63-703d-3225-b1af-387f6307917b/19315812743-500.jpg" data-tags="folk punk, celtic punk" role="button">
-Flatfoot 56 - Jungle of the Midwest Sea (2007-05-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bb83f74-1345-47ba-af3b-b9c1dbfdf7f6/2125124116-500.jpg" data-tags="folk" role="button">
 Omnia - Alive! (2007-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d368cd8d-f91c-4ffc-b4d4-5fb47213c8ac/17254341663-500.jpg" data-tags="celtic punk, folk punk" role="button">
-Dropkick Murphys - The Meanest of Times (2007-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/14e876b0-4997-478d-956a-33f2703de8a3/15696428646-500.jpg" data-tags="irish folk" role="button">
 The High Kings - The High Kings (2008-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f369d44-77ec-4b13-a183-6998b5496058/7344283221-500.jpg" data-tags="rock" role="button">
+The Cranberries - Gold (2008-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/16d139e2-e940-36e4-b865-99f4dd667573/14012130666-500.jpg" data-tags="christmas" role="button">
 Enya - And Winter Came (2008-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b918ce6-dce5-4312-af28-5bd7daffc5cb/9144163700-500.jpg" data-tags="punk, folk, punk rock, irish, folk punk, celtic, celtic punk, woof, p a t rats" role="button">
-Paddy and the Rats - Rats on Board (2009-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e37687-8814-3c42-8d07-2e47a5b4a43a/28856566940-500.jpg" data-tags="folk, new age, celtic" role="button">
 Peggy Sue - Fossils And Other Phantoms (2010-04-05)
@@ -308,6 +305,9 @@ The Irish Rovers - Drunken Sailor (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/b94ce417-dff5-44df-a83b-8f996ee8ae97/1554212344-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 Eluveitie - Helvetios (2012-02-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/d47a2fb8-2a3b-49aa-8cfa-5a5256200b1b/1296509713-500.jpg" data-tags="soundtrack, celtic, disney" role="button">
+Patrick Doyle - Brave (2012-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bd613e5-a2c5-4852-80c1-b45a0ea9232e/10917447319-500.jpg" data-tags="chillout, female vocalists, melancholic, celtic, native americans" role="button">
 First Aid Kit - Wolf (2012-09-07)

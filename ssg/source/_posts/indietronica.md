@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:31:06.900Z
+date: 2021-04-11T15:15:01.568Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -216,6 +216,9 @@ Purity Ring - Shrines (2012-07-23)
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1e75e7b-fe4a-4cd6-b0d9-8ccf04a62406/5445765670-500.jpg" data-tags="indie pop" role="button">
+Alpine - A Is For Alpine (2012-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/f9ebdd4c-77a4-4cfa-acef-3920ebb64054/4692587706-500.jpg" data-tags="indie rock" role="button">
 Yeasayer - Fragrant World (2012-08-21)
 </li>
@@ -245,9 +248,6 @@ Blue Hawaii - Untogether (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
 Toro y Moi - Anything in Return (2013-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
-Bastille - All This Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)

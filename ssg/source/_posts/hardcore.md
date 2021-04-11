@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T02:27:12.604Z
+date: 2021-04-11T15:04:07.037Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -26,6 +26,9 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
+Gorilla Biscuits - Start Today (1989-06-24)
 </li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
@@ -57,12 +60,6 @@ From Autumn To Ashes - Too Bad You're Beautiful (2001-08-14)
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
 </li>
-<li data-cover="https://img.discogs.com/06n6YI01Ufw9ImX6vBpAlelKLr8=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816924-1401052388-6764.jpeg.jpg" data-tags="hardcore, metalcore" role="button">
-Norma Jean - Bless the Martyr and Kiss the Child (2002-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
-</li>
 <li data-cover="https://img.discogs.com/aVnsDxh4RubSM_6eoKxO4jjSLKo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642107-1554908978-1846.jpeg.jpg" data-tags="hardcore" role="button">
 Hatebreed - Perseverance (2002-03-26)
 </li>
@@ -71,6 +68,9 @@ Killswitch Engage - Alive or Just Breathing (2002-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
+Alexisonfire - Alexisonfire (2002-10-29)
 </li>
 <li data-cover="https://img.discogs.com/vZJp_NsfZ9gWVgB1b02nWTLnKMk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1170925-1478395739-2078.jpeg.jpg" data-tags="screamo" role="button">
 Circle Takes the Square - As the Roots Undo (2003)
@@ -228,9 +228,6 @@ Evergreen Terrace - Wolfbiker (2007-07-20)
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
-As I Lay Dying - An Ocean Between Us (2007-08-21)
-</li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
@@ -239,6 +236,9 @@ Chiodos - Bone Palace Ballet (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Horizons (2007-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d30fc218-4362-49f0-9a2e-598591fd4849/15102934284-500.jpg" data-tags="metalcore, melodic hardcore" role="button">
+For the Fallen Dreams - Changes (2008-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
 The Ghost Inside - Fury And The Fallen Ones (2008-04-15)

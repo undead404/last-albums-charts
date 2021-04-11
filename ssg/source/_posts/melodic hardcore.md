@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T01:14:01.402Z
+date: 2021-04-11T15:43:07.289Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -65,9 +65,6 @@ Pennywise - Land of the Free? (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da1c0df9-9771-47e5-9b7c-38cfe876e077/20636697554-500.jpg" data-tags="melodic hardcore" role="button">
 CPM 22 - Chegou A Hora De Recomeçar (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a523bcb6-4d68-3854-b159-82fd53f9655d/24573949978-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Strung Out - An American Paradox (2002-04-12)
@@ -266,6 +263,9 @@ Defeater - Empty Days & Sleepless Nights (2011-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b4383f9-d5eb-4cfa-9f89-9eff909c5008/2100804508-500.jpg" data-tags="punk rock" role="button">
 Rise Against - Endgame (2011-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/054a24af-9f49-4103-8497-2991d7d469ba/10160107695-500.jpg" data-tags="punk rock" role="button">
+Sum 41 - Screaming Bloody Murder (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9dc2170e-ad37-48a2-b8df-6885f93ceab0/1915634384-500.jpg" data-tags="metalcore, melodic hardcore" role="button">
 For the Fallen Dreams - Back Burner (2011-05-24)

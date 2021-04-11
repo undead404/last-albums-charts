@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:35:01.582Z
+date: 2021-04-11T15:03:01.421Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -29,9 +29,6 @@ Saetia - A Retrospective (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5d9e386-ce4e-4b97-bf28-4ef0b74d6776/27217476164-500.jpg" data-tags="screamo" role="button">
 City of Caterpillar - City of Caterpillar (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
@@ -80,6 +77,9 @@ The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
 Emery - The Weak's End (2004-01-27)
+</li>
+<li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
+Dead Poetic - New Medicines (2004-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Underoath - They're Only Chasing Safety (2004-06-15)

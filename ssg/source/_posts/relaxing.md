@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:38:02.007Z
+date: 2021-04-11T14:55:01.435Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -54,8 +54,17 @@ Vangelis - Oceanic (1996-10-25)
 <li data-cover="http://coverartarchive.org/release/db18ce9e-4bd5-43b7-869f-35e4e83423ab/3460033404-500.jpg" data-tags="world, ethnic, ethereal" role="button">
 Vas - Sunyata (1997-04-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb8c0aca-2571-4cc0-b65b-59b063c4cde8/7588285721-500.jpg" data-tags="india, meditation, sitar" role="button">
+Ravi Shankar - Chants Of India (1997-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
+Alpha - Come From Heaven (1997-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/a948de2b-b7fb-4826-ad61-53b0dc20d708/15270866152-500.jpg" data-tags="celtic" role="button">
 David Arkenstone - The Celtic Book Of Days (1998-02-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="60s" role="button">
+The Youngbloods - Darkness Darkeness (1998-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a56a49c4-2da9-41f1-a719-3d45b796b3e6/15413881867-500.jpg" data-tags="relaxing, reiki" role="button">
 Deuter - Reiki: Hands of Light (1998-10-25)
@@ -72,9 +81,6 @@ Modest Mouse - Night on the Sun (1999)
 <li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
 Nas - I Am... (1999-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
-Yanni - Love Songs (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
 Thievery Corporation - Abductions and Reconstructions (1999-04-20)
 </li>
@@ -90,11 +96,11 @@ Anugama - Healing (2000)
 <li data-cover="https://img.discogs.com/aR_DAnxf1_Q3nsm6cGttuLUqLjI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920300-1561466655-8429.jpeg.jpg" data-tags="new age, relaxing" role="button">
 Anugama - Shamanic Dream II (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d6ec1c9-3608-4349-a075-a3255af004b0/2591314075-500.jpg" data-tags="chillout, electronica, house" role="button">
+Groove Armada - The Remixes (2000-04-24)
+</li>
 <li data-cover="https://img.discogs.com/W9YLJuU4_Y7niQq492J8nW3BUPc=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277628-1544687511-9345.png.jpg" data-tags="electronic, trip-hop, downtempo, downbeat, relaxing, thievery corporation, ladytronica" role="button">
 Thievery Corporation - Shadows of Ourselves (2000-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb41d085-f38b-48cc-919f-377ee0fb2fe9/16112159503-500.jpg" data-tags="gregoriano" role="button">
-Magna Canta - Enchanted Spirits (2000-11-20)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
@@ -102,8 +108,8 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/2a4d245c-f596-4ea5-91ef-0c5761b0f826/2308134752-500.jpg" data-tags="new age, ambient" role="button">
 Amethystium - Odonata (2001-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
-Balligomingo - Beneath The Surface (2002-06-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="meditation, relaxing, sanctuary, dean evenson, 2012andbeyond, tea house" role="button">
+Dean Evenson - Healing Sanctuary (2002-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8562bbcb-8d19-4c2e-a24b-24a3e50fe0d6/3671487812-500.jpg" data-tags="vocal trance, trance" role="button">
 Andain - Summer Calling (2002-06-15)
@@ -125,9 +131,6 @@ Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="piano, piano solo" role="button">
 Greg Maroney - Harmony Grove (2003)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dj trance" role="button">
-System F - Together (2003-01-29)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
 Gregor Samsa - 27:36 (2003-03-18)
@@ -189,17 +192,11 @@ Saltillo - Ganglion (2006-06-01)
 <li data-cover="http://coverartarchive.org/release/c10d1d4e-b5fd-421f-b3d7-425bce705b49/11124033595-500.jpg" data-tags="ambient, easy listening, new age, mellow, psychill, relaxing, goa, u2, magic male voice, newage, progressive psytrance, magic female voice, new age and ambient, new age rythm, nice new age, rich new age and chill, torquemada, -new-age-and-ambient-, -favorites-, new age influences, new age aesthetics, new age favorites, collective sonance, new age collection, ethereal new age, chill new age, new age electronic, getmegetme, genre: new age, etheogenic, 15oooo, new age ambiant, 9p" role="button">
 Entheogenic - Golden Cap (2006-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
-Vienna Teng - Dreaming Through The Noise (2006-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7ef7ad3-b581-4e7a-a550-3e9b966caa93/9609859246-500.jpg" data-tags="rnb" role="button">
 Cherish - Unappreciated (2006-08-15)
 </li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
-</li>
-<li data-cover="https://img.discogs.com/ufb38_kbj772fQ-hSCZ9BGG1S7Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790033-1344603975-8232.jpeg.jpg" data-tags="pop rock, nam" role="button">
-Jesse McCartney - Right Where You Want Me (2006-09-09)
 </li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
@@ -215,9 +212,6 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
-</li>
-<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
-Nic Chagall - What You Need (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
@@ -255,6 +249,9 @@ Shwayze - Shwayze (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/c6d4826a-6976-453e-a3a7-177bd5833763/8263011923-500.jpg" data-tags="christian, relaxing" role="button">
 Downhere - Ending Is Beginning (2008-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/57171b42-8a0a-4d49-9f7c-f5f7a873723e/20604882616-500.jpg" data-tags="instrumental, ambient, progressive rock, piano, new age, relaxing, space music, hearts of space, spotted peccary, rudy adrian" role="button">
+Rudy Adrian - Desert Realms (2008-10-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/889d431e-64ce-4153-82c0-74382574b4e6/27686187712-500.jpg" data-tags="relaxing, acoustic guitar" role="button">
 Erik Mongrain - Equilibrium (2008-10-28)
 </li>
@@ -287,6 +284,9 @@ She & Him - Volume Two (2010-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5d1fce6-e9e1-4565-976d-f046c3d5d252/4500932243-500.jpg" data-tags="ambient, chillout" role="button">
 Carbon Based Lifeforms - Interloper (2010-05-03)
+</li>
+<li data-cover="https://img.discogs.com/0hwO0EmjU138xVyo-3L4T5Wqfvc=/fit-in/589x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633652-1294243587.jpeg.jpg" data-tags="swedish" role="button">
+Eric Saade - Masquerade (2010-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
 Morcheeba - Blood Like Lemonade (2010-06-07)

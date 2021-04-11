@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:55:07.134Z
+date: 2021-04-11T15:33:01.558Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -120,9 +120,6 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Arcade Fire (2003-06-15)
 </li>
@@ -194,6 +191,9 @@ Iron & Wine - Around the Well (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
+Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:53:01.430Z
+date: 2021-04-11T15:13:01.601Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -50,9 +50,6 @@ Fugazi - The Argument (2001-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c92025f-9c3b-44ba-94d9-085f045bcb40/14794011639-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Illusion Of Safety (2002-02-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
-Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
@@ -119,6 +116,9 @@ Circa Survive - Juturna (2005-04-19)
 </li>
 <li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
+</li>
+<li data-cover="https://img.discogs.com/MI2oAl7q5Ttmn7G4Yejrv7o-Hzw=/fit-in/489x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1802683-1422876109-1198.jpeg.jpg" data-tags="post-hardcore" role="button">
+Finch - Say Hello to Sunshine (2005-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)

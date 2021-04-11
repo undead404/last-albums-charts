@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:54:01.430Z
+date: 2021-04-11T14:52:01.413Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac6d1863-ae96-4dd4-8080-ff0a6c63f5d1/872371060-500.jpg" data-tags="90s, rnb" role="button">
+Aaliyah - Age Ain't Nothing but a Number (1994-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Bedtime Stories (1994-10-24)
@@ -84,6 +87,9 @@ Usher - 8701 (2001-07-09)
 <li data-cover="http://coverartarchive.org/release/055b91e9-9d5f-4cf6-a6f1-75d9956a1f50/17315382405-500.jpg" data-tags="rnb" role="button">
 Aaliyah - Aaliyah (2001-07-16)
 </li>
+<li data-cover="https://img.discogs.com/2Q7yBavtKprmJuGM2-2N9VSLyow=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4010103-1372561683-8385.jpeg.jpg" data-tags="rnb, female vocalists" role="button">
+Mary J. Blige - No More Drama (2001-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)
 </li>
@@ -110,9 +116,6 @@ Ciara - Goodies (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
 Usher - Confessions (2004-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Mario - Turning Point (2004-08-06)
@@ -234,9 +237,6 @@ Akon - Freedom (2008-11-25)
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
 </li>
-<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
-Ciara - Fantasy Ride (2009-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/52006c31-6a66-3612-9213-57378b487a81/25477813995-500.jpg" data-tags="electronic, indie pop" role="button">
 Discovery - LP (2009-06-07)
 </li>
@@ -270,6 +270,9 @@ Nicki Minaj - Pink Friday (2010-11-21)
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
 Miguel - All I Want Is You (2010-11-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/d77efbac-b4cf-415d-bc15-93edbce0d81a/17867209059-500.jpg" data-tags="rnb" role="button">
+Ciara - Basic Instinct (2010-12-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
@@ -281,9 +284,6 @@ The Weeknd - Thursday (2011-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Unbroken (2011-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
-Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
 Rihanna - Talk That Talk (2011-11-18)

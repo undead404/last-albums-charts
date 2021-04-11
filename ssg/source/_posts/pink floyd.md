@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:41:01.406Z
+date: 2021-04-11T15:36:01.551Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -89,9 +89,6 @@ Pink Floyd - Works (1983)
 </li>
 <li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/1f273d9d-9b02-33a6-94bf-92b4a3e0a94d/6600826888-500.jpg" data-tags="progressive rock" role="button">
-David Gilmour - About Face (1984-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6511241e-4e87-4bed-ac22-a012523c58b8/2978187379-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - The Pros and Cons of Hitch Hiking (1984-04-30)
@@ -194,6 +191,9 @@ Pink Floyd - The Division Bell (1994-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08d8f5b-5489-428e-961c-ec7cc553eea1/9435059423-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Take It Back (1994-04)
+</li>
+<li data-cover="https://img.discogs.com/y2OasXXRniX6TG_Awj_xHPxwwvw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2466411-1455885631-3300.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Re-Actor (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0411191-e6d2-487e-b90b-f19bd2030bae/9587789382-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Stranger Than Fiction (1995)
