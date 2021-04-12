@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T19:39:01.897Z
+date: 2021-04-12T22:51:01.441Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Fleet Foxes (2006)</li>
+<li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">Bat for Lashes - Fur and Gold (2006-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">Lana Del Rey - Born to Die (2012-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
@@ -26,6 +26,9 @@ The Beach Boys - The Beach Boys Today! (1965-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
+</li>
+<li data-cover="https://img.discogs.com/Uji0tGkIM9DcviqrKaRwMQzbMSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2529709-1292237948.jpeg.jpg" data-tags="sunshine pop" role="button">
+Harpers Bizarre - Feelin' Groovy (1967)
 </li>
 <li data-cover="https://img.discogs.com/YChqSltUDLq-7pTQ8eXyVA6jc40=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608549-1306193587.jpeg.jpg" data-tags="sunshine pop, 60s" role="button">
 The Free Design - Kites Are Fun (1967)
@@ -165,6 +168,9 @@ McFly - Wonderland (2005-08-29)
 <li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
 Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/1e556771-78e7-48b8-a3dc-3ae048f20844/18246370223-500.jpg" data-tags="baroque pop" role="button">
+Scott Walker - Classics & Collectibles (2005-10-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
 </li>
@@ -225,9 +231,6 @@ Bat for Lashes - Two Suns (2009-04-03)
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="https://img.discogs.com/mt5ILZYiFxT_mxXKhEYlkMOy_W0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2130657-1265697691.jpeg.jpg" data-tags="baroque pop" role="button">
 Theoretical Girl - Divided (2009-08-17)
 </li>
@@ -275,9 +278,6 @@ Julia Holter - Ekstasis (2012-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
-Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a27244a-0855-4cb3-9d61-986ba0ed7038/22170054774-500.jpg" data-tags="baroque pop, art pop" role="button">
 Anna von Hausswolff - Mountains Crave (2012-06-28)

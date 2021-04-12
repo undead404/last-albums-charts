@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:05:01.690Z
+date: 2021-04-12T23:31:06.955Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -33,9 +33,6 @@ Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 <li data-cover="https://img.discogs.com/gZ_DOHt60uCl_n8gvRs3qOKXbBg=/fit-in/507x792/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3804042-1596044076-1564.jpeg.jpg" data-tags="heavy metal, hard rock, cover, thrash metal" role="button">
 Acid Drinkers - Fishdick (1994-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - The Forgotten Tales (1996-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/a91e0362-3aaa-4d82-beee-e331a8fdfe72/10998135685-500.jpg" data-tags="ska" role="button">
 Save Ferris - It Means Everything (1997-09-07)
 </li>
@@ -47,9 +44,6 @@ Metallica - Garage, Inc. (1998-11-24)
 </li>
 <li data-cover="https://img.discogs.com/EbK255yEL3LCFlsP9QOtE3kpYIA=/fit-in/595x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3173387-1378828304-6469.jpeg.jpg" data-tags="pop, 90s, covers" role="button">
 A*Teens - The ABBA Generation (1999-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
-Helloween - Metal Jukebox (1999-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
@@ -264,6 +258,9 @@ Fever Ray - Mercy Street (2010-08-18)
 <li data-cover="http://coverartarchive.org/release/cf8cf4b6-9300-4778-9820-1253b8e03102/2176160466-500.jpg" data-tags="rock" role="button">
 Santana - Guitar Heaven: The Greatest Guitar Classics Of All Time (2010-09-17)
 </li>
+<li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - Don't Go Breaking My Heart (Glee Cast Version) (2010-10-12)
+</li>
 <li data-cover="https://img.discogs.com/7HQ42g8c1uZ39AudB3-Cw51xGmA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631982-1351175466-2472.jpeg.jpg" data-tags="christmas" role="button">
 Glee Cast - Glee: The Music, The Christmas Album (2010-11-16)
 </li>
@@ -284,6 +281,9 @@ Glee Cast - Glee: The Music Presents The Warblers (2011-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3861647-3749-4382-bff6-481e8e4b4184/3017793995-500.jpg" data-tags="cover, sachen die ich gerne hoeren mag, karmin covers" role="button">
 Karmin - Karmin Covers Volume 1 (2011-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d9e1c01-894f-40e0-a7cb-86497723472f/25522377581-500.jpg" data-tags="cover" role="button">
+Powerman 5000 - Copies, Clones & Replicants (2011-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:47:01.423Z
+date: 2021-04-12T23:26:12.655Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -10,7 +10,7 @@ title: "spanish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">Enrique Iglesias - Escape (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/61c1fb8a-4a35-417e-ac44-be5dd6f20357/6262805461-500.jpg" data-tags="bebe" role="button">Bebe - Pafuera Telarañas (2004-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">Juanes - Mi Sangre (2004-09-28)</li>
-<li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">Pereza - Animales (2005)</li>
+<li data-cover="http://coverartarchive.org/release/cac4eec8-1534-4fd1-9167-56cfeb2c5be4/10004845334-500.jpg" data-tags="latin pop" role="button">Jennifer Lopez - Como Ama Una Mujer (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/3c4b4019-e51b-4334-811f-ca2621f32187/20956673504-500.jpg" data-tags="singer-songwriter, female vocalist, can you hear the rain" role="button">Russian Red - I Love Your Glasses (2008)</li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">Shakira - Sale el Sol (2010-10-14)</li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">Russian Red - Fuerteventura (2011-05-10)</li>
@@ -26,6 +26,9 @@ Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccf687e1-d013-426b-b5d3-aa3c50a93929/6801915337-500.jpg" data-tags="rock" role="button">
 Héroes del Silencio - Senderos De Traición (1990-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/bdc8c51e-8055-4ec3-8fd2-8ae0f8da38f3/16705260502-500.jpg" data-tags="luismiguel" role="button">
+Luis Miguel - Romance (1991-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc410ea3-7abd-41b9-b4b2-7c44f8d8b108/15631270579-500.jpg" data-tags="spanish, mikel erentxun, lo mejor de mikel" role="button">
 Mikel Erentxun - Naufragios (1992-10-19)
@@ -63,17 +66,11 @@ Ismael Serrano - Atrapados En Azul (1997)
 <li data-cover="http://coverartarchive.org/release/6025a2f5-91b2-4a23-b314-9ef6c75daffe/25855299022-500.jpg" data-tags="lhasa, spanish, female vocalists, latin" role="button">
 Lhasa - La Llorona (1997-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/71002510-5601-4650-b2e5-974c106dfaf6/7454247107-500.jpg" data-tags="alejandro sanz" role="button">
-Alejandro Sanz - Más (1997-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/2b6796a5-5b27-454f-9e49-7e590c154ac0/7137489097-500.jpg" data-tags="rock español, fito, rock" role="button">
 Fito & Fitipaldis - A Puerta Cerrada (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0dfa263-a615-4a3a-a913-9529aec7014d/10841943216-500.jpg" data-tags="latin, spanish, pop" role="button">
 Enrique Iglesias - Cosas Del Amor (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
-Big Punisher - Capital Punishment (1998-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
 La Oreja de Van Gogh - Dile al sol (1998-05-18)
@@ -150,6 +147,9 @@ Deluxe - If Things Were to Go Wrong (2003-03-04)
 <li data-cover="http://coverartarchive.org/release/07a7dcb9-402f-45b2-ac17-28321b407163/15594205278-500.jpg" data-tags="folk metal" role="button">
 Mägo de Oz - gaia (2003-09-08)
 </li>
+<li data-cover="https://img.discogs.com/IlgiVp_n_8wjKnaMA7X5hpFPa_Q=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2769793-1474890938-8871.jpeg.jpg" data-tags="spanish, pop-rock, spanish-pop, chenoa" role="button">
+Chenoa - Soy Mujer (2003-10-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/76df3695-a644-3b06-b36b-8e60494a04c2/3334255387-500.jpg" data-tags="ska" role="button">
 Ska-P - Incontrolable (2003-10-30)
 </li>
@@ -177,14 +177,14 @@ Los Planetas - Los planetas contra la ley de la gravedad (2004-07-26)
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">
 Juanes - Mi Sangre (2004-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">
-Pereza - Animales (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/b51a29ee-0533-43cd-b726-0b3ae916c868/1425150305-500.jpg" data-tags="spanish" role="button">
 Efecto Mariposa - Complejidad (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0af3a120-3332-464c-a79e-722793484d3f/14271056811-500.jpg" data-tags="españa" role="button">
 Los Delinqüentes - El Verde Rebelde Vuelve (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/286771dd-6ef1-47a8-a0f6-dfa6809f1838/10158574142-500.jpg" data-tags="spanish, indie, 00s" role="button">
+Sidonie - Fascinado (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/fade4392-4b7c-4e21-861c-16bb795253ca/8895468005-500.jpg" data-tags="spanish indie pop" role="button">
 Love of Lesbian - Maniobras de escapismo (2005)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:55:01.505Z
+date: 2021-04-12T22:58:23.821Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -7,11 +7,11 @@ title: "alt-country: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)</li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">Ryan Adams - Heartbreaker (2000-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">Ryan Adams - Gold (2001-02-05)</li>
+<li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">My Morning Jacket - At Dawn (2001-04-05)</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
 <li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">Neko Case - Blacklisted (2002-08-20)</li>
 <li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">Ryan Adams - Love Is Hell (2003)</li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">Wilco - A Ghost is Born (2004-06-21)</li>
-<li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">Band of Horses - Everything All the Time (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">Band of Horses - Cease to Begin (2007-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">Band of Horses - Infinite Arms (2010-05-17)</li>
 </ol>
@@ -102,6 +102,9 @@ Ryan Adams - Heartbreaker (2000-09-05)
 <li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
 Johnny Cash - American III: Solitary Man (2000-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/f461d17b-6144-4eb4-877a-f5e0921e9225/7941633935-500.jpg" data-tags="alt-country" role="button">
+Neko Case - Canadian Amp (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
@@ -110,9 +113,6 @@ Ryan Adams - Gold (2001-02-05)
 </li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
-</li>
-<li data-cover="https://img.discogs.com/fd8s0bGop6cSW6gtMG9KtK1O0EU=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497106-1260966944.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
-M. Ward - End of Amnesia (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
 The National - The National (2001-07-03)
@@ -168,6 +168,9 @@ Willard Grant Conspiracy - Regard the End (2004)
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/5cb847e2-d768-3644-a892-e56fd9d9de61/21381901373-500.jpg" data-tags="country" role="button">
+Loretta Lynn - Van Lear Rose (2004-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
 </li>
@@ -207,14 +210,14 @@ DeYarmond Edison - Silent Signs (2006-02-02)
 <li data-cover="http://coverartarchive.org/release/fc234d9b-4934-4e47-b58c-4c73c6dd7aa3/1065192461-500.jpg" data-tags="alternative, singer-songwriter, alt-country, rhett" role="button">
 Rhett Miller - The Believer (2006-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
-Band of Horses - Everything All the Time (2006-03-21)
-</li>
 <li data-cover="https://img.discogs.com/4QzVpu_GvEwZgSwY_OS5phfkCTk=/fit-in/167x167/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3362092-1327361300.jpeg.jpg" data-tags="country" role="button">
 Dixie Chicks - Taking The Long Way (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/a75a94ec-4318-4cd8-be23-14c4efe916d6/6212400455-500.jpg" data-tags="folk" role="button">
+Great Lake Swimmers - Ongiara (2007-04-16)
 </li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
@@ -237,9 +240,6 @@ Steve Earle - Washington Square Serenade (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
-<li data-cover="https://img.discogs.com/wvDQ99wpF9w7yZlWSUriAnajL0s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256926-1204232683.jpeg.jpg" data-tags="allmusicm" role="button">
-Murder By Death - Red Of Tooth And Claw (2008-03-04)
-</li>
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
 </li>
@@ -248,6 +248,9 @@ Calexico - Carried To Dust (2008-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae64c05-0393-4356-9a91-9509cefea635/24619048157-500.jpg" data-tags="rock, alt-country" role="button">
 Woven Hand - Ten Stones (2008-09-09)
+</li>
+<li data-cover="https://img.discogs.com/TUfQkERJ6yvV0v9O8vvnzpufOoI=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9215263-1476804459-3464.jpeg.jpg" data-tags="folk, alt-country, 00s" role="button">
+Frontier Ruckus - The Orion Songbook (2008-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b535058a-8f04-4815-b2a2-0749d21bb7e1/12715197370-500.jpg" data-tags="canadian" role="button">
 The Rural Alberta Advantage - Hometowns (2008-11-11)
@@ -266,9 +269,6 @@ Magnolia Electric Co. - Josephine (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
 Lucero - 1372 Overton Park (2009-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
-Califone - All My Friends Are Funeral Singers (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
 Brown Bird - The Devil Dancing (2009-11-10)

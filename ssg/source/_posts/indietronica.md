@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:06:01.456Z
+date: 2021-04-12T23:38:01.463Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -29,9 +29,6 @@ Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
-The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
@@ -168,6 +165,9 @@ Foster the People - Torches (2011-05-23)
 <li data-cover="http://coverartarchive.org/release/913ff272-5878-4c36-983e-cef912531209/7039610643-500.jpg" data-tags="electronica, indie, indietronica" role="button">
 Death Cab for Cutie - Keys And Codes Remix EP (2011-05-27)
 </li>
+<li data-cover="https://img.discogs.com/GozW49NBtRGHP72sChmrFA69m7M=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309857-1170001126.jpeg.jpg" data-tags="electronic, ambient" role="button">
+Apparat - The Devil's Walk (2011-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
@@ -237,9 +237,6 @@ Calvin Harris - 18 Months (2012-10-26)
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
-</li>
 <li data-cover="http://coverartarchive.org/release/d34a9b58-41c8-4906-865f-2b32f6ae5cb3/3625811134-500.jpg" data-tags="experimental, indie electronic, ambient pop, indietronica, art pop, arbutus records, alternative-indie rock" role="button">
 Blue Hawaii - Untogether (2013)
 </li>
@@ -257,6 +254,9 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/07290fdc-2274-4c01-a4cf-819a96b7b853/4965823690-500.jpg" data-tags="experimental, witch house" role="button">
+Crim3s - Stay Ugly EP (2013-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
@@ -318,7 +318,7 @@ The Griswolds - Be Impressive (2014-08-25)
 <li data-cover="http://coverartarchive.org/release/27a438ce-dc97-446c-9855-fd1543807ce3/8637388968-500.jpg" data-tags="alternative, indietronica" role="button">
 Andrew McMahon in the Wilderness - Andrew McMahon In The Wilderness (2014-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
-Car Seat Headrest - How To Leave Town (2014-10-31)
+<li data-cover="http://coverartarchive.org/release/539c942b-4eb8-40b7-bd05-f6d927fcb147/8947007068-500.jpg" data-tags="indie rock" role="button">
+TV on the Radio - Seeds (2014-11-17)
 </li>
 </ol>

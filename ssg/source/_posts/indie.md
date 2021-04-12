@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:05:01.561Z
+date: 2021-04-12T23:16:06.991Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -98,9 +98,6 @@ The Libertines - The Libertines (2004-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
-</li>
-<li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
-Stars - Set Yourself on Fire (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
@@ -308,6 +305,9 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">
+Vampire Weekend - Modern Vampires of the City (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)

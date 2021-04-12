@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:19:06.981Z
+date: 2021-04-12T23:14:01.451Z
 title: "disney: 100 albums you must listen to before you die"
 ---
 ![Selena Gomez &amp; the Scene - Kiss &amp; Tell (2009-09-29)](http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg "Selena Gomez & the Scene - Kiss & Tell (2009-09-29)")
@@ -21,14 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/qmiHr31eMrhpt5mhhFZmzIKW7R0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588533-1292164491.jpeg.jpg" data-tags="jazz, dave brubeck" role="button">
-The Dave Brubeck Quartet - Dave Digs Disney (1957)
-</li>
 <li data-cover="http://coverartarchive.org/release/cbb931ef-b82a-4acd-a057-2c4193af520f/25606221896-500.jpg" data-tags="soundtrack" role="button">
 Henry Mancini - The return of the Pink panther (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/ffd6954e-5fec-41e1-b158-84e236644f33/14723064041-500.jpg" data-tags="cartoon, disney, cat, cartoons, cats, pink panther, gammarec, merrie melodies, xmiyx, weeziemix, freepurp1e, juma" role="button">
-Henry Mancini - The Pink Panther Strikes Again (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/285ea534-57b3-43aa-8feb-fe64534a1ca7/3205192812-500.jpg" data-tags="jazz, theme, cartoon, disney, cat, cartoons, cats, pink panther, merrie melodies, xmiyx" role="button">
 Henry Mancini - Revenge of the Pink Panther (1978)
@@ -186,6 +180,9 @@ Miley Cyrus - Meet Miley Cyrus (2007-06-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop" role="button">
 Jonas Brothers - Jonas Brothers (2007-08-07)
 </li>
+<li data-cover="https://img.discogs.com/B6KYtuTNwcNcFVTjeg4tieMp-_I=/fit-in/176x176/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8859807-1478085186-5141.jpeg.jpg" data-tags="pop, disney" role="button">
+Keke Palmer - Keep it Movin' (2007-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/c4f65635-e375-412a-a5ab-ebd99b9d73b4/8908802859-500.jpg" data-tags="pop, female vocalists, disney, cheetah girls" role="button">
 The Cheetah Girls - TCG (2007-09-25)
 </li>
@@ -320,5 +317,8 @@ Fifth Harmony - Better Together (2013-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc9f6c2b-523b-4260-9e63-fe6685736398/8727689552-500.jpg" data-tags="disney, remixes, 2010s, technodance" role="button">
 Various Artists - DCONSTRUCTED (2014-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/39cd1349-eb2a-4e5a-a0be-e60827a4c763/8708634069-500.jpg" data-tags="soundtrack" role="button">
+Henry Jackman - Big Hero 6 (2014-11-24)
 </li>
 </ol>

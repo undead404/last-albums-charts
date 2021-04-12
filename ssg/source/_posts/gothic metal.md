@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:45:01.776Z
+date: 2021-04-12T23:32:01.464Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -69,9 +69,6 @@ Sentenced - Down (1996-11-11)
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5188c17-b8a6-32ed-9c2c-32f0404f20a8/13522514205-500.jpg" data-tags="gothic metal" role="button">
-Moonspell - Sin / Pecado (1997)
-</li>
 <li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
 </li>
@@ -116,6 +113,9 @@ Paradise Lost - Believe in Nothing (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccb999e5-78df-4580-8e60-a997add577f7/21611705986-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Crimson (2000-01-17)
+</li>
+<li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
+The 69 Eyes - Blessed Be (2000-09-20)
 </li>
 <li data-cover="https://img.discogs.com/ofYN9Mevd43PbFYaA7_ENztBwh8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3244650-1322111788.jpeg.jpg" data-tags="black metal, symphonic black metal, gothic metal" role="button">
 Cradle of Filth - Midian (2000-10-30)

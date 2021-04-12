@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:45:01.862Z
+date: 2021-04-12T23:21:01.474Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -27,9 +27,6 @@ Faith No More - The Real Thing (1989-06-20)
 <li data-cover="http://coverartarchive.org/release/c63ad92b-19d7-41d9-83e6-607202ceba07/1623379853-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Facelift (1990-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
-Primus - Sailing The Seas Of Cheese (1991-05-14)
-</li>
 <li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
@@ -41,9 +38,6 @@ Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
-Primus - Pork Soda (1993-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
@@ -162,6 +156,9 @@ Taproot - Welcome (2002-09-30)
 <li data-cover="https://img.discogs.com/IfPm7VK8tPIDbGmQi_6sIAm_UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4789395-1616295980-4798.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Steal This Album! (2002-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
+Trapt - Trapt (2002-11-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
@@ -206,6 +203,9 @@ Drowning Pool - Desensitized (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
+</li>
+<li data-cover="https://img.discogs.com/Q2NHqtdLjFnjifVuEuy1aFg-jLU=/fit-in/510x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914208-1307035961.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+Breaking Benjamin - We Are Not Alone (2004-06-08)
 </li>
 <li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
 Papa Roach - Getting Away With Murder (2004-07)

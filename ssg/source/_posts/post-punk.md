@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:32:01.462Z
+date: 2021-04-12T23:41:01.457Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -39,9 +39,6 @@ Magazine - Real Life (1978-07)
 <li data-cover="http://coverartarchive.org/release/a580e5c6-fb3a-4b62-8170-daa13fa1c046/28316388522-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - The Scream (1978-11-13)
 </li>
-<li data-cover="https://img.discogs.com/gxfhqodPNQWmmG7h3OO-jy4nEkU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102568-1466634765-6819.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
-Wipers - Is This Real? (1979)
-</li>
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
@@ -59,6 +56,9 @@ Gang of Four - Entertainment! (1979-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/199e9877-d3b6-4eb4-9ba7-60124b2c3f99/6366122426-500.jpg" data-tags="post-punk" role="button">
 Public Image Ltd. - Metal Box (1979-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/94e18c2c-5aa8-44dc-ad69-5f905831f4fe/12349380353-500.jpg" data-tags="alternative, post-punk, post punk" role="button">
+Blondie - Call Me (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/d43ec088-ce52-44a9-b58a-a34bd5fe7df6/16629301425-500.jpg" data-tags="post-punk" role="button">
 Young Marble Giants - Colossal Youth (1980)

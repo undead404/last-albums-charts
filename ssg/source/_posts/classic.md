@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:35:07.404Z
+date: 2021-04-12T22:54:01.453Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -10,10 +10,10 @@ title: "classic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
-<li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">Billy Joel - The Essential Billy Joel (2001-10-02)</li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">Cam'ron - Come Home With Me (2002-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">The Weeknd - Trilogy (2012-11-13)</li>
+<li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">Beady Eye - BE (2013-06-05)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,9 +26,6 @@ The Kinks - You Really Got Me (1964-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/f566f8ce-c855-4339-beb6-94cc5ea2c253/20534504487-500.jpg" data-tags="rock, classic, fuzzy guitar goodness, have on vinyl, i love singing along, where is my bong, s faces" role="button">
-Small Faces - The Autumn Stone (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
@@ -66,11 +63,11 @@ Tom Waits - Heartattack and Vine (1980-09)
 <li data-cover="https://img.discogs.com/ALWL6pUKpDjvVBD_87s_Ul9i73s=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3802835-1345029926-3937.jpeg.jpg" data-tags="classic, compilation, southern rock, c c r" role="button">
 Creedence Clearwater Revival - Creedence Country (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a881cc4-3553-4d01-a4d0-aff431bf05f0/22056730148-500.jpg" data-tags="classical, classic, instrumental, orchestra, avant-garde, female vocalist, faves, revisit, classical music, landscape, wanttobuy, gammarec, granka, worldmusik, je devrais avoir mon enfer de la caresse, quixotic sounds, freepurp1e, fabulous live act, fabulous orchestra, great cinema, music for the car, ssdsds" role="button">
-Philip Glass - The Photographer (1983)
-</li>
 <li data-cover="https://img.discogs.com/XU-E-eOHgwSQq_r1r81Oo2N0XGM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10343421-1495673645-4449.jpeg.jpg" data-tags="classic rock, rock, slgdmbestof" role="button">
 The Who - Who's Greatest Hits (1983-05-08)
+</li>
+<li data-cover="https://img.discogs.com/8_uqUTvFHrFEwDqSpyNw5LCuv7E=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6584747-1422535203-7593.jpeg.jpg" data-tags="classic, mod, heavy bottom end, i love singing along, angular guitar playing, my lps, tugs at me heart strings, eating fish outside in munich 2017" role="button">
+The Jam - Snap! (1983-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/88c30d58-617f-4092-98ba-49f10c243552/6323306000-500.jpg" data-tags="new wave" role="button">
 Frankie Goes to Hollywood - Relax (1983-10-24)
@@ -108,14 +105,14 @@ Gang Starr - Step In The Arena (1990)
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
+MC 900 Ft Jesus - Welcome to My Dream (1991)
+</li>
 <li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
 Main Source - Breaking Atoms (1991-07-23)
 </li>
 <li data-cover="https://img.discogs.com/dSHHQw7HsvatcIMDhjSAuuRjFI0=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726664-1433286162-6985.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
 Morrissey - Your Arsenal (1992-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
-Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
@@ -143,6 +140,9 @@ Shakira - Pies Descalzos (1995)
 </li>
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d40c2a5-dff3-376e-b255-2d6bc7df6cd2/17549832584-500.jpg" data-tags="alternative" role="button">
+Hum - You'd Prefer an Astronaut (1995-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -174,9 +174,6 @@ Mobb Deep - Hell on Earth (1996-11-01)
 <li data-cover="http://coverartarchive.org/release/2c32f859-d4e0-4ee5-a7cd-326465de2df2/25761719374-500.jpg" data-tags="classic rock" role="button">
 The Kinks - The Singles Collection (1997-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
-Big Punisher - Capital Punishment (1998-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
@@ -206,9 +203,6 @@ OutKast - Stankonia (2000-10-23)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">
-Billy Joel - The Essential Billy Joel (2001-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4398f892-0bbd-4ccb-ba58-822026bc0580/4699250670-500.jpg" data-tags="hip-hop, hiphop, classic, east coast" role="button">
 Masta Ace - Disposable Arts (2001-10-30)
@@ -258,11 +252,17 @@ Trae - Same Thing Different Day (2004)
 <li data-cover="https://img.discogs.com/Cg0XR_4W3vAKWxFD_9ByGzO9EnA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4425372-1543274379-4790.jpeg.jpg" data-tags="rnb" role="button">
 Brandy - Afrodisiac (2004-06-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc3b53b7-1127-4c27-a975-6ebd5acc1b37/2573371062-500.jpg" data-tags="rap" role="button">
+Young Buck - Straight Outta Ca$hville (2004-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/34b6fdf8-d1be-416f-a676-f1656291dd8c/5271373354-500.jpg" data-tags="hip hop, underground hip-hop, east coast hip hop, jedi mind tricks" role="button">
 Jedi Mind Tricks - Legacy of Blood (2004-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0425b577-443a-4ad8-9d9a-a1e060860c8e/21055879662-500.jpg" data-tags="pitchfork top albums 2005" role="button">
 Cam'ron - Purple Haze (2004-12-07)
+</li>
+<li data-cover="https://img.discogs.com/uKtmNQ6fx9K2W90T2e_AGmmob4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383109-1466835134-7529.png.jpg" data-tags="black metal" role="button">
+Strid - Strid (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)

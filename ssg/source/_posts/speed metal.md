@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:04:01.486Z
+date: 2021-04-12T23:29:01.457Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -66,6 +66,9 @@ Exodus - Bonded by Blood (1985)
 <li data-cover="http://coverartarchive.org/release/dc5be9af-f2c6-4822-bbf0-599f70663a01/4675915267-500.jpg" data-tags="speed metal" role="button">
 Helloween - Helloween (1985-03)
 </li>
+<li data-cover="https://img.discogs.com/zqTFiJyjdGblecz9wJxzwCOSO2s=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6625914-1423356295-3300.jpeg.jpg" data-tags="thrash metal" role="button">
+Overkill - Feel the Fire (1985-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/21a5ca18-6257-4d58-8fdf-cba42fe3835f/23855180218-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Killing Is My Business...And Business Is Good! (1985-05)
 </li>
@@ -77,6 +80,9 @@ Slayer - Hell Awaits (1985-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3d2534-3eab-37f3-9893-bda3d7fbac48/6984395769-500.jpg" data-tags="thrash metal" role="button">
 Anthrax - Spreading the Disease (1985-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/d36d9f26-314a-4008-ae64-1aace7897d9f/16250396331-500.jpg" data-tags="heavy metal" role="button">
+Running Wild - Under Jolly Roger (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/84d2ae46-a510-45a4-bee0-8100488144ba/19499708685-500.jpg" data-tags="thrash metal" role="button">
 Anthrax - Among the Living (1987-03-22)
@@ -117,9 +123,6 @@ Judas Priest - Painkiller (1990-09-03)
 <li data-cover="http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Rust In Peace (1990-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae908c04-9df5-4f10-8036-95c6733e2aa5/1280872808-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Tales From The Twilight World (1990-09-21)
-</li>
 <li data-cover="https://img.discogs.com/PMxJFkPg4vN2dICtZvExGHBEN-U=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668938-1426441628-1401.jpeg.jpg" data-tags="thrash metal" role="button">
 Annihilator - Never, Neverland (1991)
 </li>
@@ -129,17 +132,11 @@ Motörhead - 1916 (1991-01-18)
 <li data-cover="https://img.discogs.com/oA0fRRGHqYwLEPTYGs3f7apMdXU=/fit-in/415x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-475493-1362068945-1555.jpeg.jpg" data-tags="heavy metal, metal, speed metal, compilation, power metal, pifou station, helloween" role="button">
 Helloween - The Best, the Rest, the Rare (1991-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ea0a72-1d34-4172-95d9-36c8f305ab12/27527815932-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Somewhere Far Beyond (1992-06-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a77f8a7-54ab-4568-8003-42240cd29ab0/5571782400-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Countdown To Extinction (1992-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b7d9927-fd36-4e31-af5b-4834032cbcca/15341509674-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Motörhead - March or Die (1992-08-14)
-</li>
-<li data-cover="https://img.discogs.com/ja7oxs5yNkLOp7FxDjXK5B5fQDQ=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2585602-1432662179-3391.jpeg.jpg" data-tags="progressive rock" role="button">
-Helloween - Chameleon (1993-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c620324e-579e-4c24-9acc-fb89651624bc/6600147183-500.jpg" data-tags="thrash metal" role="button">
 Anthrax - Sound of White Noise (1993-05-17)
@@ -162,17 +159,11 @@ Annihilator - King of the Kill (1994-10-10)
 <li data-cover="http://coverartarchive.org/release/0b0195b1-4e7d-49a7-9866-73b566fbf1dc/1288516582-500.jpg" data-tags="heavy metal, thrash metal" role="button">
 Megadeth - Youthanasia (1994-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/de0d36bc-fce4-4e93-afd1-08f9ebbdd775/6867304773-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Imaginations From The Other Side (1995-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/b77474b9-d4a5-4e54-9376-376be8f91e37/10070900174-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Land of the Free (1995-05-29)
 </li>
 <li data-cover="https://img.discogs.com/vbdrkLzTvR2_GgbnxsKrDAbI91U=/fit-in/476x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4913814-1391351829-7493.jpeg.jpg" data-tags="power metal" role="button">
 Helloween - The Time Of The Oath (1996-02-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - The Forgotten Tales (1996-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff322ef-5dac-4129-b67a-b101c30efaca/4259294119-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Something Wild (1997-02-16)
@@ -183,14 +174,11 @@ Megadeth - Cryptic Writings (1997-05-28)
 <li data-cover="http://coverartarchive.org/release/61155339-901c-34d6-8f2c-4a869d1e1095/23213416242-500.jpg" data-tags="heavy metal, speed metal" role="button">
 Running Wild - The Rivalry (1998-02-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
+<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
+Helloween - Better Than Raw (1998-03-04)
 </li>
 <li data-cover="https://img.discogs.com/C7UPeU2G6nPelT2DkaCYEy0rl7o=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4032739-1520405178-8822.jpeg.jpg" data-tags="thrash metal" role="button">
 Slayer - Diabolus In Musica (1998-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
-Helloween - Metal Jukebox (1999-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c294f7c-920b-39a6-96ef-19d7336e5a34/1316730229-500.jpg" data-tags="melodic death metal, live" role="button">
 Children of Bodom - Tokyo Warhearts (1999-10-11)
@@ -222,8 +210,8 @@ DragonForce - Valley of the Damned (2003-01-27)
 <li data-cover="https://img.discogs.com/QTttsNxHvqu8GxP2q31_blNPRJI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3789374-1611442156-5958.jpeg.jpg" data-tags="thrash metal" role="button">
 Anthrax - We've Come For You All (2003-02-14)
 </li>
-<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
-Helloween - Rabbit Don't Come Easy (2003-05-12)
+<li data-cover="https://img.discogs.com/B2SVNGyBXpwgJ0bJHbK6s5yU1OY=/fit-in/505x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7891793-1451070767-4182.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+Gamma Ray - Skeletons In The Closet (2003-08-21)
 </li>
 <li data-cover="https://img.discogs.com/eVkO78Dy3S7FXk9TbjutFrZV_yI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382592-1609595396-4571.jpeg.jpg" data-tags="metal, speed metal, melodic death metal, death metal, live, melodic death, my favorite bands, death metal melodico, ilovekud" role="button">
 Children of Bodom - Bestbreeder From 1997 to 2000 (2003-08-25)
@@ -255,11 +243,17 @@ Savage Circus - Dreamland Manor (2005-09-05)
 <li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Majestic (2005-09-22)
 </li>
+<li data-cover="https://img.discogs.com/kDAwhUH8ilkDmbBYzVGCB-JoxzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4119755-1460963141-2662.jpeg.jpg" data-tags="guitar virtuoso" role="button">
+Michael Angelo Batio - Hands Without Shadows (2005-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/3ac6669a-d12f-306d-9be2-67f2ac9c544c/14209741844-500.jpg" data-tags="power metal" role="button">
 Helloween - Keeper of the Seven Keys: The Legacy (2005-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/839992f6-7d99-4387-8696-17cb02204170/4215916941-500.jpg" data-tags="viking metal, speed metal, melodic death metal, death metal, fucking awesome, battle metal" role="button">
+Ensiferum - 10th Anniversary Live (2006-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f2602ad-224e-42d1-ad43-186883766a95/22298558263-500.jpg" data-tags="power metal" role="button">
 HammerFall - Threshold (2006-08)
@@ -284,6 +278,9 @@ Black Tide - Light From Above (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Ultra Beatdown (2008-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/39715ff6-38e9-453b-98d2-f9338c2bd5dd/27006322670-500.jpg" data-tags="speed metal, heavy metal" role="button">
+Enforcer - Into the Night (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7763a77-deaa-4fa0-b644-48821a2c0a6d/22917069905-500.jpg" data-tags="heavy metal, speed metal, melodic death metal, death metal" role="button">
 Renegade Five - Undergrounded Universe (2009-02-04)
@@ -317,6 +314,9 @@ Sabaton - Carolus Rex (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ac622ae-34f1-45c7-9adf-462ccf3bda47/1509288822-500.jpg" data-tags="hard rock, alternative metal, speed metal" role="button">
 Tremonti - All I Was (2012-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd69f863-e75a-4de2-bc38-de7424882581/27836333635-500.jpg" data-tags="power metal" role="button">
+Galneryus - Angel of Salvation (2012-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/06762490-130b-4505-9257-0a03631a9834/13224839959-500.jpg" data-tags="black metal, heavy metal" role="button">
 Darkthrone - The Underground Resistance (2013-02-25)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:49:01.453Z
+date: 2021-04-12T23:10:12.713Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -57,6 +57,9 @@ Within Temptation - The Dance (1998)
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
 </li>
+<li data-cover="https://img.discogs.com/s4m95FOuORiQxm4FwcIzHreL84I=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9591069-1573305772-6225.jpeg.jpg" data-tags="country" role="button">
+Faith Hill - Faith (1998-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba62578d-6e37-462c-99a9-561fb60b14ca/24754125331-500.jpg" data-tags="singer-songwriter, acoustic, americana" role="button">
 Mary Gauthier - Drag Queens in Limousines (1999)
 </li>
@@ -72,8 +75,14 @@ Dreams of Sanity - The Game (2000)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
+<li data-cover="https://img.discogs.com/wddCc3na7Huqgbz_ryB7H7mZih8=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5731392-1401141960-1059.jpeg.jpg" data-tags="female, female vocalists, singer-songwriter, christian, christian rock, female vocals, female vocalist, worship, christian pop, female artists, female vocal, soft-rock, praise & worship, kenan, wonderful women, godly girls" role="button">
+Watermark - All Things New (2000-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e6656e2-26f5-42f9-ba42-89a72ff30859/17580232132-500.jpg" data-tags="pop" role="button">
 All Saints - Saints & Sinners (2000-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fb49c25-2c96-487f-86dd-c61107dd7b80/2552329269-500.jpg" data-tags="progressive metal" role="button">
+Ambeon - Fate of a Dreamer (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdeea919-4101-4e00-832d-db0c7cf01cb7/9873657770-500.jpg" data-tags="covers, assault genre" role="button">
 Rasputina - The Lost & Found (2001)
@@ -83,6 +92,9 @@ Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1b5a843-8990-31dd-98a2-2c81b513d533/11826747374-500.jpg" data-tags="remix" role="button">
 Sarah McLachlan - Remixed (2001-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d39e878-2fd1-4988-bd2b-5ee275e451a0/2152582190-500.jpg" data-tags="black metal, progressive metal, gothic metal, avant-garde metal" role="button">
+Ram-Zet - Escape (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cdd5f4-825e-4711-a415-d9aa9c436301/22898731132-500.jpg" data-tags="gothic metal" role="button">
 Flowing Tears - Serpentine (2002-01-21)
@@ -96,14 +108,8 @@ The Cranberries - Stars (2002-10)
 <li data-cover="https://img.discogs.com/1hAMKBj0GpScDbDgbwAdCeAaFv8=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330996-1118257022.jpg.jpg" data-tags="jazz" role="button">
 Ive Mendes - Ive Mendes (2002-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
-</li>
-<li data-cover="https://img.discogs.com/-jHRX-eJPGTA2oR-7Q3kBIJfRvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929781-1179521048.jpeg.jpg" data-tags="female, pop, rock, female vocalists, female vocals, female vocalist, female artists, female voices, gotanygoodmusic, rex ferric faves, girly power, 00s albums, albums in my cd rack" role="button">
-Lisa Marie Presley - To Whom It May Concern (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
@@ -120,6 +126,9 @@ Celtic Woman - Celtic Woman (2004)
 <li data-cover="http://coverartarchive.org/release/cba4f81e-86f7-4959-9f8d-ff15aefa2afd/28099162231-500.jpg" data-tags="singer-songwriter, female vocals, kendall  payne" role="button">
 Kendall Payne - Grown (2004)
 </li>
+<li data-cover="https://img.discogs.com/TSg_wmpwkiDM5vUtSzEVnFp5YYU=/fit-in/507x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2168906-1267733219.jpeg.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Keri Noble - Fearless (2004-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/8568a76b-6b83-36e8-a6d2-a0d0d6fcdff7/4106992170-500.jpg" data-tags="country" role="button">
 Gretchen Wilson - Here for the Party (2004-05-11)
 </li>
@@ -135,14 +144,8 @@ Ashlee Simpson - Autobiography (2004-07-20)
 <li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
 Charlotte Martin - On Your Shore (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Anna Ternheim - Somebody Outside (2004-10-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">
 Stephen Fretwell - Magpie (2004-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
-Kari Jobe - Kari Jobe (2005)
 </li>
 <li data-cover="https://img.discogs.com/_KZauFt_ErZqzHZAJurWb4CXlMo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2132366-1265783666.jpeg.jpg" data-tags="indie, female vocals" role="button">
 Thao Nguyen - Like the Linen (2005)
@@ -255,11 +258,8 @@ Madeleine Peyroux - Bare Bones (2009-01-01)
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
-Noisettes - Wild Young Hearts (2009-04-19)
-</li>
-<li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
-iwrestledabearonce - It's All Happening (2009-06-02)
+<li data-cover="https://img.discogs.com/VYFaaQbtG-7EhTgZ9sOpUrNlNfM=/fit-in/600x953/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6869189-1428356010-6904.jpeg.jpg" data-tags="progressive metal, progressive, gothic metal, female vocals" role="button">
+Ram-Zet - Neutralized (2009-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
 Sugarland - Stuck Like Glue (2010-07-23)

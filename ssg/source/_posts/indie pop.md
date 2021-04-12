@@ -1,18 +1,18 @@
 ---
-date: 2021-04-12T21:32:01.508Z
+date: 2021-04-12T22:46:06.972Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">Death Cab for Cutie - Transatlanticism (2003-09-01)</li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">Kate Nash - Made of Bricks (2007-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">Miike Snow - Miike Snow (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">Foster the People - Torches (2011-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">fun. - Some Nights (2011-07-12)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
+<li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">Bastille - Bad Blood (2013-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -69,9 +69,6 @@ Sufjan Stevens - Illinois (2005-07-04)
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Dreams (2006-04-27)
 </li>
@@ -104,9 +101,6 @@ St. Vincent - Marry Me (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04c81c50-a42a-48bf-adbc-0503769e6e23/4809542255-500.jpg" data-tags="indie pop" role="button">
 Tegan and Sara - The Con (2007-07-24)
-</li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
-Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
@@ -144,9 +138,6 @@ Passion Pit - Manners (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/52006c31-6a66-3612-9213-57378b487a81/25477813995-500.jpg" data-tags="electronic, indie pop" role="button">
 Discovery - LP (2009-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)
 </li>
@@ -168,11 +159,17 @@ Yeasayer - Odd Blood (2010-02-08)
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ae68835-1488-4f76-a239-5aeeacf8be80/4199706569-500.jpg" data-tags="indie" role="button">
+Broken Bells - Broken Bells (2010-03-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc6f7a05-e1c4-4039-9eb3-8c8ccd37e6b1/13919864002-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Radio Dept. - Clinging to a Scheme (2010-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/50b1784e-fe17-4944-80af-604a7f27f892/22157262431-500.jpg" data-tags="indie pop" role="button">
+Stars - The Five Ghosts (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)
@@ -227,6 +224,9 @@ Beach House - Bloom (2012-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c42aa1fb-a930-4d93-9b8f-1ee6a6b03f73/26941915089-500.jpg" data-tags="indie" role="button">
+Walk the Moon - Walk the Moon (2012-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)

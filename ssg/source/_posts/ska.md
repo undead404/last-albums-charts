@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:20:01.674Z
+date: 2021-04-12T23:08:01.467Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
@@ -38,9 +38,6 @@ Madness - Absolutely (1980)
 </li>
 <li data-cover="https://img.discogs.com/GZTNxEFdR7Y4ZR0JiuMiR_FvYp0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17882959-1615988212-9837.jpeg.jpg" data-tags="ska, two-tone" role="button">
 The English Beat - I Just Can't Stop It (1980-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9604a153-5a40-35c0-ba5c-72019a5df380/22902123804-500.jpg" data-tags="ska" role="button">
-The Specials - More Specials (1980-10-04)
 </li>
 <li data-cover="https://img.discogs.com/QrUfqBdPRG_lJnavue4rHldfAJc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625555-1600930074-5109.jpeg.jpg" data-tags="ska, 80s" role="button">
 Madness - Complete Madness (1982-04-23)
@@ -162,6 +159,9 @@ Akurat - Pomarańcza (2001)
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
+<li data-cover="https://img.discogs.com/yXqu2Oa8ZPJtoxM9QzB-3pZLh-g=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512436-1289033350.jpeg.jpg" data-tags="punk rock, pop punk, ska punk" role="button">
+Goldfinger - Open Your Eyes (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a07f1b1-5772-4a82-8f5c-5d4ac9532022/16120195921-500.jpg" data-tags="ska" role="button">
 Reel Big Fish - Favorite Noise (2002-03-04)
 </li>
@@ -273,8 +273,8 @@ Akurat - Fantasmagorie (2006-05-31)
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
 Lily Allen - Alright, Still (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
-RX Bandits - ...And the Battle Begun (2006-08-08)
+<li data-cover="http://coverartarchive.org/release/ecf5d9f7-8143-48c7-99d6-66fbf58aad72/16156053247-500.jpg" data-tags="ska, live" role="button">
+Reel Big Fish - Our Live Album is Better Than Your Live Album (2006-07-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rocksteady, ska, third wave ska" role="button">
 Big D And The Kids Table - Strictly Rude (2007-03-20)

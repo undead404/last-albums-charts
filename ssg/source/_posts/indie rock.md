@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:59:01.501Z
+date: 2021-04-12T23:00:01.547Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -96,6 +96,9 @@ Kaiser Chiefs - Employment (2005-03-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">
+Maxïmo Park - A Certain Trigger (2005-05-16)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
 OK Go - Oh No (2005-08-16)
 </li>
@@ -119,9 +122,6 @@ The Strokes - First Impressions of Earth (2005-12-30)
 </li>
 <li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
-Band of Horses - Everything All the Time (2006-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/238e03d1-2a43-4d87-8608-6f2e8a5a66a6/5835269563-500.jpg" data-tags="indie rock, rock" role="button">
 Yeah Yeah Yeahs - Show Your Bones (2006-03-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:21:01.405Z
+date: 2021-04-12T23:33:07.063Z
 title: "synth-pop: 100 albums you must listen to before you die"
 ---
 ![Youth Lagoon - The Year of Hibernation (2011-09-26)](https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg "Youth Lagoon - The Year of Hibernation (2011-09-26)")
@@ -66,9 +66,6 @@ Living in a Box - Living In A Box (1987)
 <li data-cover="https://img.discogs.com/lZmVtXDuD3IoQmGimX_XxKSd8tk=/fit-in/444x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-254154-1108224589.jpg.jpg" data-tags="new wave, synth-pop" role="button">
 Parade Ground - Cut Up (1988)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
-The Lightning Seeds - Sense (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/573c3e8d-b166-4c6e-9250-219af848e07d/9215164581-500.jpg" data-tags="new wave, devo" role="button">
 Devo - Oh No It's Devo / Freedom of Choice (1993-05-10)
 </li>
@@ -102,11 +99,11 @@ Yazoo - Only Yazoo: The Best Of (1999-09-06)
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
-<li data-cover="https://img.discogs.com/85gJEnsxJ9jCUZCZivwFTQ87Zq0=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49625-1245181968.jpeg.jpg" data-tags="delicious" role="button">
-Barbara Morgenstern - Fjorden (2000-10-02)
-</li>
 <li data-cover="https://img.discogs.com/w4kT0F7g6pvVXq5JgSbT45FnIx0=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5322294-1434983817-7716.jpeg.jpg" data-tags="rai, algeria" role="button">
 Rachid Taha - Made In Medina (2000-11-07)
+</li>
+<li data-cover="https://img.discogs.com/1Ht2HWW2d1lxAhYOPZzd_Rw85tY=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13783-001.jpg.jpg" data-tags="electronica" role="button">
+I Am Robot and Proud - The Catch (2001-10)
 </li>
 <li data-cover="https://img.discogs.com/peoBjbfraqsHjHzvaC8dI47Q9GE=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572521-1190480851.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
@@ -125,12 +122,6 @@ Ohgr - SunnyPsyOp (2003-07-01)
 </li>
 <li data-cover="https://img.discogs.com/tgL6sOPQ-Ek4_7WMVLaZ807LaQY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-162090-1501974468-4921.jpeg.jpg" data-tags="morr music" role="button">
 Guther - I Know You Know (2003-08-18)
-</li>
-<li data-cover="https://img.discogs.com/ga5kJ2dtGz6Vdr0QR1u4P8fXC7w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257997-1130717845.jpeg.jpg" data-tags="electronic, electronica, trip-hop, 80s, electro, synth pop, england, trip hop, synthpop, triphop, pop-rock, bath, synth-pop, west country, primary, south west, groove-y" role="button">
-Goldfrapp - Twist (2003-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">
-Sébastien Tellier - Politics (2004-01-05)
 </li>
 <li data-cover="https://img.discogs.com/5Fl7GZQUbfII5-ZwlNgqIdqQDaY=/fit-in/600x905/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14000797-1565816586-3959.jpeg.jpg" data-tags="synth-pop, finnish and streamable, indie-electronica, fully streamable ep" role="button">
 Husky Rescue - Summertime Cowboy (2004-10-25)
@@ -158,6 +149,9 @@ Stereolab - Serene Velocity - A Stereolab Anthology (2006-09-04)
 </li>
 <li data-cover="https://img.discogs.com/yGFB9KNp46gTs9iW7mS3hfnZjqE=/fit-in/300x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51818-001.jpg.jpg" data-tags="ambient" role="button">
 Delerium - Nuages Du Monde (2006-10-02)
+</li>
+<li data-cover="https://img.discogs.com/eKant0jAqQtP7E3jbyTm2YjRwJg=/fit-in/270x273/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206310-1076075231.jpg.jpg" data-tags="trance, synth-pop, fav mcd" role="button">
+Apoptygma Berzerk - Cambodia (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f561b9d-a2e7-4a40-800c-7c07ddd5d2d4/4708516154-500.jpg" data-tags="electronic, new last fm design sucks" role="button">
 Binder & Krieglstein - Alles Verloren (2007-02-28)
@@ -188,6 +182,9 @@ Mux Mool - Drum EP (2008-04)
 </li>
 <li data-cover="https://img.discogs.com/fLYALiWdomL4p5sz-96HHjqQus0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1443085-1220102691.jpeg.jpg" data-tags="electronic" role="button">
 Rex the Dog - The Rex The Dog Show (2008-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5b33e93-1ab2-4471-a3df-e1d1fea98575/25956785049-500.jpg" data-tags="indie rock, shoegaze, art rock, ethereal, psychedelic rock, synth-pop, recommendations and such" role="button">
+Fight Bite - Emerald Eyes (2008-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/600899a8-b28c-42d0-8ee2-7d140cd401b9/13665735915-500.jpg" data-tags="indie, pop" role="button">
 The Bird and the Bee - Ray Guns Are Not Just the Future (2009-01-27)
@@ -254,6 +251,9 @@ Blouse - Blouse (2011-11-01)
 </li>
 <li data-cover="https://img.discogs.com/PFcEvUvkurmKHlujGHBLA7_NabQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3223771-1321189971.jpeg.jpg" data-tags="electronic" role="button">
 Keep Shelly In Athens - Our Own Dream (2011-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/45849e89-86f8-4cc5-ba5a-d66e8f5be79b/980684795-500.jpg" data-tags="idm, synth-pop, recommendations and such, recommended by jwz" role="button">
+Zambri - Glossolalia (2011-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/54b44373-31a4-4ca1-a53e-e31385a76e97/13479223989-500.jpg" data-tags="downtempo, synth-pop" role="button">
 Beacon - No Body EP (2011-11-15)

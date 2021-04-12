@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:59:18.419Z
+date: 2021-04-12T23:12:01.516Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -72,14 +72,11 @@ DJ Vadim - U.S.S.R. Reconstruction (1998-01-26)
 <li data-cover="http://coverartarchive.org/release/a898bb94-de8e-4213-ba7a-e92ade634729/26465477531-500.jpg" data-tags="ninja tune" role="button">
 Chocolate Weasel - Music For Body Lockers (1998-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/2fa6b882-632d-41e9-b0c8-6d0a927c41d7/1877249856-500.jpg" data-tags="downtempo, ninja tune" role="button">
+The Irresistible Force - Nepalese Bliss (1998-08)
+</li>
 <li data-cover="https://img.discogs.com/CQg59_WNFY1WZOpvvSyaR38_fSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17371129-1613081510-7356.jpeg.jpg" data-tags="ninja tune, trip-hop" role="button">
 Coldcut - Let Us Replay (1998-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4825def-264f-4f3c-a245-c51b9465f046/7047267142-500.jpg" data-tags="hip-hop" role="button">
-DJ Shadow & Cut Chemist - Brainfreeze (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
-Roots Manuva - Brand New Second Hand (1999-03-01)
 </li>
 <li data-cover="https://img.discogs.com/mzHl0tSdH1s-RRy_TO3WbLqEJ28=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30484-1617622704-2839.jpeg.jpg" data-tags="ninja tune" role="button">
 The Herbaliser - Very Mercenary (1999-04-19)
@@ -189,9 +186,6 @@ Roots Manuva - Awfully Deep (2005-01-31)
 <li data-cover="https://img.discogs.com/KtWMmmJf7iYXewMdGRVX-rcCNRo=/fit-in/300x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402855-1108684436.jpg.jpg" data-tags="ninja tune, polyshufflez" role="button">
 Airborn Audio - Good Fortune (2005-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c46177e5-1616-4605-b37a-5f0af0f93b40/16611798122-500.jpg" data-tags="live" role="button">
-Bonobo - Live Sessions EP (2005-05-31)
-</li>
 <li data-cover="https://img.discogs.com/BsWAC-S3slj4JcVFKwxRQxZuWRU=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-466434-1504733497-2081.jpeg.jpg" data-tags="ninja tune" role="button">
 The Herbaliser - Take London (2005-05-31)
 </li>
@@ -261,6 +255,9 @@ The Slew - 100% (2009-09-02)
 <li data-cover="http://coverartarchive.org/release/800922c3-5778-46a0-90dd-caee9fcf2a26/18691292014-500.jpg" data-tags="dubstep" role="button">
 King Cannibal - Let The Night Roar (2009-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/59ce13c9-1dec-4e6d-bfb4-4b21f4d59822/28024808508-500.jpg" data-tags="ninja tune" role="button">
+DJ Food - The Shape Of Things That Hum (2009-11-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8276d8f-336c-4e9b-9eea-b25f47cfde14/9348674402-500.jpg" data-tags="nu jazz, jazz, ninja tune" role="button">
 Jaga Jazzist - One-Armed Bandit (2010-01-20)
 </li>
@@ -290,6 +287,9 @@ Amon Tobin - ISAM (2011-04-19)
 </li>
 <li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
+</li>
+<li data-cover="https://img.discogs.com/LeuLxTDHvUMZVMzbebjeq-LUQZQ=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3075604-1314551483.jpeg.jpg" data-tags="ninja tune" role="button">
+Raffertie - Visual Acuity (2011-08-10)
 </li>
 <li data-cover="https://img.discogs.com/KSnYgTWsrH16Ss79e1CER5M5-5M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994118-1310859620.jpeg.jpg" data-tags="dancehall" role="button">
 Toddla T - Watch Me Dance (2011-08-22)

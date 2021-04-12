@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:58:01.724Z
+date: 2021-04-12T23:13:23.865Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -54,11 +54,20 @@ Simon Finn - Pass The Distance (1970)
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
+<li data-cover="https://img.discogs.com/jl8F3Fs0jMgyzM5rCzu7IOMKwio=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1525665-1568281483-3801.jpeg.jpg" data-tags="folk rock" role="button">
+Spirogyra - St. Radigunds (1971)
+</li>
 <li data-cover="https://img.discogs.com/8SqJqMK11klJUOlUOAL4xXUheto=/fit-in/438x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1986618-1430920517-3749.jpeg.jpg" data-tags="folk" role="button">
 The Incredible String Band - Nebulous Nearnesses (1973)
 </li>
+<li data-cover="https://img.discogs.com/-iDmMBh7e3G8HGxXiYW9Fh7ZGM4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8537697-1463599673-7976.jpeg.jpg" data-tags="psychedelic folk, avant-folk, hindustani classical music" role="button">
+Robbie Basho - Zarthus (1974)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a6f8fec-de7b-40dc-b915-5036e65b3caf/16215852886-500.jpg" data-tags="progressive rock, krautrock, psychedelic rock" role="button">
+Popol Vuh - Letzte Tage - Letzte Nächte (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f82447b-1813-4a0d-a4dc-6b645b72bb43/17277846044-500.jpg" data-tags="80s, singer-songwriter, art rock, folk rock, psychedelic folk, rock en español, progressive latin" role="button">
 Luis Alberto Spinetta - Kamikaze (1982)
@@ -87,9 +96,6 @@ Super Furry Animals - Radiator (1997-08-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk, valtcountry, vguitar" role="button">
 Keller Williams - Spun (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
-The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, experimental, psychedelic folk, musiikkia autiolle saarelle" role="button">
 Kuusumun Profeetta - Kukin kaappiaan selässään kantaa (2001)
 </li>
@@ -117,9 +123,6 @@ Midlake - Bamnan and Slivercork (2004-06-08)
 <li data-cover="https://img.discogs.com/10up6GV01uuNOl-gjG5fdrQXKVk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1238857-1298713492.jpeg.jpg" data-tags="singer-songwriter, psychedelic folk, ellias, george ellias" role="button">
 Devendra Banhart - Little Yellow Spider (2004-09)
 </li>
-<li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
-Devendra Banhart - Nino Rojo (2004-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
@@ -137,9 +140,6 @@ Islaja - Palaa aurinkoon (2005-01-20)
 </li>
 <li data-cover="https://img.discogs.com/6ESkMY01TPtEJe85R1SO4ASarK0=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1414876-1246457144.jpeg.jpg" data-tags="jagjaguwar" role="button">
 Oneida - The Wedding (2005-05-03)
-</li>
-<li data-cover="https://img.discogs.com/ZWdFOHOi3TOZR9TymAtE86pb22A=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329578-1341599154-1632.jpeg.jpg" data-tags="freak folk" role="button">
-Animal Collective - Prospect Hummer (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/79b6435c-ac43-3b7c-a601-60f409895e4d/6833210892-500.jpg" data-tags="electro-folk" role="button">
 Shugo Tokumaru - L.S.T. (2005-08-25)
@@ -171,17 +171,14 @@ Grizzly Bear - Yellow House (2006-09-04)
 <li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
 Animal Collective - People (2006-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/1e4c7a39-17a1-4863-9bcb-d857bb83104e/20464011817-500.jpg" data-tags="experimental, psychedelic folk, b12, gammarec, big in 2007, freepurp1e, juma" role="button">
-Vibracathedral Orchestra - Wisdom Thunderbolt (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/73295f07-5e1d-4923-9821-05e4aed55838/27574041654-500.jpg" data-tags="folk, ambient, experimental, psychedelic, avant-garde, psychedelic folk, dark folk, dark acoustic, interesting, american primitive, art pop, avant-folk, experimental folk, drone folk, radio bav, atmospheric folk, gammarec, fursaxa, nancykitten all-time favourite albums" role="button">
-Fursaxa - Alone In The Dark Wood (2007-01)
-</li>
 <li data-cover="https://img.discogs.com/AmSUIlWlBwms-IZYvX-nmoh788o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934801-1340950615-3272.jpeg.jpg" data-tags="folk" role="button">
 Rio En Medio - The Bride of Dynamite (2007-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/67e6fd04-0ffc-4f0f-8ef8-1403abaa5d57/11848217197-500.jpg" data-tags="electronic, psychedelic rock, psychedelic folk, four tet, abstract album covers, psychedelic album covers, colorful album covers" role="button">
 Sunburned Hand of the Man - Fire Escape (2007-10-02)
+</li>
+<li data-cover="https://img.discogs.com/VxHwO9yrWOalQHWoh8d1qavApQc=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1162615-1197240679.jpeg.jpg" data-tags="folk, experimental, morning, psychedelic folk, autumn, sunday times best of 2007" role="button">
+Richard Youngs - Autumn Response (2007-11-06)
 </li>
 <li data-cover="https://img.discogs.com/5g3kwSDWrE91c1S6pYxoj3Rt70A=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2327074-1461917090-4947.jpeg.jpg" data-tags="folk" role="button">
 Six Organs of Admittance - Shelter From The Ash (2007-11-20)
@@ -194,6 +191,9 @@ Religious Knives - It's After Dark (2008)
 </li>
 <li data-cover="https://img.discogs.com/Zv9Y2r-1Tnk4UBKmrphLqJIU4RA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256704-1204218099.jpeg.jpg" data-tags="folk, drone, psychedelic folk" role="button">
 Natural Snow Buildings - Laurie Bird (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/8933a812-d754-41be-b559-46fc5d3c5d02/2264183331-500.jpg" data-tags="psychedelic folk, neofolk, dark neofolk" role="button">
+Bain Wolfkind - The Swamp Angel (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
@@ -212,6 +212,9 @@ Megapuss - Surfing (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/38033ac2-d347-4d2b-8764-348b59fce5ef/2605583811-500.jpg" data-tags="psychedelic folk" role="button">
 Kiss the Anus of a Black Cat - The Nebulous Dreams (2008-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/d29d2dcc-2d47-430d-b3e9-8044dbd65cd1/9664023297-500.jpg" data-tags="experimental" role="button">
+Kría Brekkan - Apotropaíosong Armor (2008-11)
 </li>
 <li data-cover="https://img.discogs.com/SGfmuoVn7BXIMRcQKKLtnLsK4q8=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2021415-1259014343.jpeg.jpg" data-tags="psychedelic folk, 00s, not not fun, time for a clearout" role="button">
 Topaz Rags - Capricorn Born Again (2009)
@@ -239,9 +242,6 @@ Mount Eerie - Wind's Poem (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/73132ab7-a8ab-48ca-a75f-e1272053c29f/19423625948-500.jpg" data-tags="folk, psychedelic folk" role="button">
 Natural Snow Buildings - Shadow Kingdom (2009-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
-Dead Man's Bones - Dead Man's Bones (2009-10-02)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)

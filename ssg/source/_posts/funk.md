@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:20:07.106Z
+date: 2021-04-12T23:09:01.473Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -68,6 +68,9 @@ Funkadelic - Standing on the Verge of Getting It On (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f8468cf-f8a4-4c2b-bded-a66c5a83041c/22712479663-500.jpg" data-tags="funk" role="button">
 Parliament - Mothership Connection (1975)
+</li>
+<li data-cover="http://coverartarchive.org/release/62fe1216-38fc-455f-9be7-c343b95c274f/15851661383-500.jpg" data-tags="70s, funk" role="button">
+Earth, Wind & Fire - That's The Way Of The World (1975-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 War - Why Can't We Be Friends? (1975-06)
@@ -168,9 +171,6 @@ OutKast - Aquemini (1998-09-28)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4825def-264f-4f3c-a245-c51b9465f046/7047267142-500.jpg" data-tags="hip-hop" role="button">
-DJ Shadow & Cut Chemist - Brainfreeze (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
@@ -242,6 +242,9 @@ Red Hot Chili Peppers - Greatest Hits (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Lenny Kravitz - Greatest Hits (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/46a01402-c284-4141-bbfe-1d8a5896dce2/17640822148-500.jpg" data-tags="rock" role="button">
+Lenny Kravitz - It Is Time for a Love Revolution (2008-02-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, neo-soul" role="button">
 Erykah Badu - New Amerykah Part One (4th World War) (2008-02-26)
@@ -317,8 +320,5 @@ Mark Ronson - Uptown Funk (2014-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/539c942b-4eb8-40b7-bd05-f6d927fcb147/8947007068-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Seeds (2014-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
-Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

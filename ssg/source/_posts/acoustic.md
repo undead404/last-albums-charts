@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:36:01.482Z
+date: 2021-04-12T22:49:01.466Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -41,9 +41,6 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
-</li>
-<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
@@ -237,11 +234,11 @@ She & Him - Volume One (2008-03-18)
 <li data-cover="http://coverartarchive.org/release/16d325ef-b41b-44d0-beba-616c5880f62f/3323563945-500.jpg" data-tags="folk" role="button">
 Frank Turner - Love Ire & Song (2008-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
-Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/180a76e8-efe0-4d2d-9bdf-3f5e51223460/18171634835-500.jpg" data-tags="indie, rock, folk, acoustic, music to start the day to" role="button">
+Good Old War - Only Way To Be Alone (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
@@ -281,6 +278,9 @@ City and Colour - Little Hell (2011-06-07)
 </li>
 <li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/098d397a-6528-4a84-b282-14d19c02e647/5129304980-500.jpg" data-tags="pop, folk, acoustic" role="button">
+Colbie Caillat - All of You (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)

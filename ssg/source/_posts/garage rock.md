@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:32:18.254Z
+date: 2021-04-12T23:36:01.473Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -26,9 +26,6 @@ The Sonics - Here Are The Sonics (1965)
 </li>
 <li data-cover="http://coverartarchive.org/release/7663b84e-2337-4f60-9842-10f6a9daed5d/11261431522-500.jpg" data-tags="garage rock, proto-punk, 60s" role="button">
 The Monks - Black Monk Time (1966)
-</li>
-<li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
-The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
@@ -290,6 +287,9 @@ Black Rebel Motorcycle Club - Specter At The Feast (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/90331d52-7f39-4987-a76e-48c920c20aa1/3783288411-500.jpg" data-tags="rock, garage rock" role="button">
 Wavves - Afraid Of Heights (2013-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">
+Beady Eye - BE (2013-06-05)
 </li>
 <li data-cover="https://img.discogs.com/jk1sYLoZ6SO8vcZa0Z4g_nkZ79I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4831499-1388054309-1654.jpeg.jpg" data-tags="garage rock" role="button">
 Drenge - drenge (2013-08-19)

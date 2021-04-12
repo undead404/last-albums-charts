@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:08:01.512Z
+date: 2021-04-12T23:42:01.491Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -26,6 +26,9 @@ Carole King - Tapestry (1971-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
+Björk - Debut (1993-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
 Sheryl Crow - Tuesday Night Music Club (1993-08-03)
@@ -86,9 +89,6 @@ Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)

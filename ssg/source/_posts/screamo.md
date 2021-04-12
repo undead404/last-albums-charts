@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:03:06.967Z
+date: 2021-04-12T23:17:01.467Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -291,6 +291,9 @@ Alesana - The Emptiness (2010-01-26)
 <li data-cover="http://coverartarchive.org/release/66a5602d-7a2e-41c3-8798-6d693cefa920/18151339242-500.jpg" data-tags="metalcore, electronic, hardcore, emo, screamo, post-hardcore, trancecore, russian roulette, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
 Casino Madrid - For Kings & Queens (2010-02-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
+Of Mice & Men - Of Mice & Men (2010-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/220f4989-ecd6-4d2b-a551-f7f56f8f5673/3429259291-500.jpg" data-tags="rock, japanese, alternative, emo, screamo, j-rock" role="button">
 ONE OK ROCK - Nicheシンドローム (2010-06-09)
 </li>
@@ -299,9 +302,6 @@ Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cc68dcf-9bce-4c79-9450-6cea4fdaefab/3950021661-500.jpg" data-tags="electronica, screamo" role="button">
-Abandon All Ships - Geeving (2010-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9646d5f9-08c9-43a2-bebf-c80a3b86368f/7273863258-500.jpg" data-tags="post-hardcore" role="button">
 Asking Alexandria - Reckless & Relentless (2011-04-05)

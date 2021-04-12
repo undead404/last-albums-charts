@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:48:07.097Z
+date: 2021-04-12T22:47:01.520Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -50,6 +50,9 @@ Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
+Shakira - Laundry Service (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
@@ -173,9 +176,6 @@ Duffy - Rockferry (2008-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
 Madonna - Hard Candy (2008-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
-Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)

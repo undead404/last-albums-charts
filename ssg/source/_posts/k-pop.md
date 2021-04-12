@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:56:12.573Z
+date: 2021-04-12T23:35:07.057Z
 title: "k-pop: 100 albums you must listen to before you die"
 ---
 ![BTS - O!Rul8,2? (2013-09-11)](http://coverartarchive.org/release/bea6cd7e-e76d-4888-854b-ab2e0eb91eac/7845831956-500.jpg "BTS - O!Rul8,2? (2013-09-11)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1f19e50-3141-4a56-bf73-5a16f74e0ebc/11490874758-500.jpg" data-tags="k-pop, tvxq" role="button">
-동방신기 - TRI-ANGLE (2004-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/caa1004a-8caf-41e3-85c3-255f81d90c03/955180797-500.jpg" data-tags="k-pop, dbsg, chevere, the cover" role="button">
 동방신기 - Rising Sun (2005-09-12)
 </li>
@@ -45,11 +42,8 @@ Girls' Generation - Girls' Generation (2007-11-01)
 <li data-cover="http://coverartarchive.org/release/9e6c60c6-8c4d-447d-b700-c709d0458737/1401794822-500.jpg" data-tags="k-pop, debut album, replay era, debut era" role="button">
 SHINee - 누난 너무 예뻐 (Replay) (2008-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/3aa106fa-be20-47cb-b579-17868828de16/28043691508-500.jpg" data-tags="k-pop" role="button">
-2PM - Hottest Time of The Day (2008-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
+<li data-cover="http://coverartarchive.org/release/e0e48282-ee08-41b2-8eee-7ab041702379/11561948345-500.jpg" data-tags="electronic" role="button">
+Beast - Beast (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba6f82d5-0a8f-4dc7-815a-a7dc1064fb3b/6412668377-500.jpg" data-tags="shinee" role="button">
 SHINee - ROMEO (2009-05-18)
@@ -87,9 +81,6 @@ F.CUZ - Jiggy (2010-01-08)
 <li data-cover="http://coverartarchive.org/release/b791299f-4144-4804-9f13-fbfd51c1d1ae/5268222712-500.jpg" data-tags="k-pop" role="button">
 Beast - Shock Of The New Era (2010-03-01)
 </li>
-<li data-cover="https://img.discogs.com/w2hfvF10OFTOPEuubn_Rt3Tukpo=/fit-in/226x223/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18013204-1616739237-1911.jpeg.jpg" data-tags="nice, k-pop, kpop" role="button">
-F.CUZ - No One (2010-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/a864a0d8-255c-4d8e-adcc-62bff0f5f54f/11739495807-500.jpg" data-tags="k-pop" role="button">
 f(x) - NU ABO (2010-05-03)
 </li>
@@ -123,8 +114,11 @@ miss A - Step Up (2010-09-27)
 <li data-cover="http://coverartarchive.org/release/b2c857ab-3288-4644-876d-4ef7a0b2b6dc/7934765272-500.jpg" data-tags="k-pop" role="button">
 Beast - Mastermind (2010-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/78ed17b0-60f7-4a2b-a689-157a535e414f/28043678034-500.jpg" data-tags="2pm, k-pop, kpop" role="button">
-2PM - Still 2:00PM (2010-10-11)
+<li data-cover="http://coverartarchive.org/release/36dbd819-82eb-4ae4-9ac9-a917cb51e8a2/7844244739-500.jpg" data-tags="k-pop" role="button">
+Beast - Lights Go On Again (2010-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4c69393-6023-4dc1-9ae0-e2ac3a15dab3/12065103246-500.jpg" data-tags="k-pop, kara" role="button">
+Kara - Jumping (2010-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/832b300e-9dd6-4866-9046-cbc28743e2a7/8048318940-500.jpg" data-tags="k-pop, jonghyun, shinee" role="button">
 S.M. THE BALLAD - 너무 그리워 (2010-11-29)
@@ -144,6 +138,9 @@ U-KISS - Bran New KISS (2011-03-30)
 <li data-cover="http://coverartarchive.org/release/316697d0-f32f-4d80-9bc5-6dc61a10b3b9/4734959745-500.jpg" data-tags="k-pop" role="button">
 f(x) - PINOCCHIO (2011-04-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/d94e1e27-66f6-4e87-9e1d-7e47e0d75ee0/14687195241-500.jpg" data-tags="k-pop" role="button">
+miss A - Love Alone (2011-05-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/2f50da69-5a86-4b1f-8cf1-0978f2ff3c38/14487945047-500.jpg" data-tags="dance, k-pop, kpop subunit" role="button">
 SISTAR19 - Ma Boy (2011-05-03)
 </li>
@@ -162,8 +159,14 @@ SHINee - Replay -君は僕のeverything- (2011-06-22)
 <li data-cover="https://img.discogs.com/Ep17g5zseyJlxuCZtF9ive5xz8E=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17866285-1615890918-9345.jpeg.jpg" data-tags="dance, retro, k-pop" role="button">
 T-ARA - John Travolta Wanna be (2011-06-29)
 </li>
+<li data-cover="https://img.discogs.com/szdHQRDvz828XSqtd245Xi5ObOA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17301733-1612702543-7970.jpeg.jpg" data-tags="k-pop, sunny hill" role="button">
+Sunny Hill - 기도 (2011-08-05)
+</li>
 <li data-cover="https://img.discogs.com/Pbb5efIw5W_059P9cgrM0mHb6fA=/fit-in/459x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12022687-1526741589-4976.jpeg.jpg" data-tags="k-pop" role="button">
 G.NA - Top Girl (2011-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/114eb9f2-e5e7-4db9-b1ba-1e49ed1d0193/8171946863-500.jpg" data-tags="k-pop, super show - super junior the 2nd asia tour concert album" role="button">
+Super Junior M - 太完美 (Perfection) (2011-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf96d4cb-39b2-4dd3-98d8-3cd5e13770cb/829939629-500.jpg" data-tags="k-pop, kara" role="button">
 Kara - STEP (2011-09-05)
@@ -207,12 +210,6 @@ EXO-M - MAMA (2012-04-09)
 <li data-cover="http://coverartarchive.org/release/f5662b4b-af33-41a4-a767-01b3c922b8a5/11749315775-500.jpg" data-tags="k-pop" role="button">
 SHINee - Sherlock (2012-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3df57bd-5e5b-43fd-a25c-3ae0a44e12f9/10701614554-500.jpg" data-tags="pop, asian, k-pop, male vocalists, boyband, kpop, debut, jellyfish, boy band, korean pop, ken, ravi, asian music, n, asian pop, leo, vixx, hyuk, korean boyband, korean boy band, hongbin, jellyfish entertainment" role="button">
-VIXX - SUPER HERO (2012-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/60804280-5a00-4698-a7f2-9bb288016c54/8487129113-500.jpg" data-tags="k-pop" role="button">
-After School - Flashback (2012-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c84e20a7-dcc1-417d-849c-496882bc8e48/1669139769-500.jpg" data-tags="k-pop, super junior" role="button">
 Super Junior - SPY (2012-07-01)
 </li>
@@ -222,8 +219,14 @@ Beast - Midnight Sun (2012-07-19)
 <li data-cover="http://coverartarchive.org/release/4f281925-bc37-4551-9207-d08275da09c9/9413537291-500.jpg" data-tags="k-pop" role="button">
 FIESTAR - VISTA (2012-08-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/4de6e05f-9648-46f3-9c3d-34688fd6a955/2188003373-500.jpg" data-tags="epic, k-pop, gorgeous, kpop, repeat repeat must repeat, as culpadas" role="button">
+동방신기 - Catch Me (2012-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/8feeba1b-098c-41a9-9d12-e39755ad2675/6836946685-500.jpg" data-tags="k-pop" role="button">
 EXID - 매일밤 (2012-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/7cf618ce-1f00-42ea-a84c-d2ceccaf4ff2/2747446811-500.jpg" data-tags="japan, k-pop, shinee, dazzling girl" role="button">
+SHINee - Dazzling Girl (2012-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdbc980-bfb1-4b56-9393-10d5a150f95f/7842211194-500.jpg" data-tags="k-pop" role="button">
 B.A.P - 하지마 (2012-10-23)
@@ -261,23 +264,20 @@ Infinite - DESTINY (2013-07-16)
 <li data-cover="http://coverartarchive.org/release/e2142111-c197-4c53-abda-636d4956d213/10701508141-500.jpg" data-tags="k-pop" role="button">
 B.A.P - Hurricane (2013-07-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/72cdc31b-0027-4ca9-9cd6-f80047aa4868/6610426295-500.jpg" data-tags="k-pop" role="button">
+Beast - Hard To Love, How To Love (2013-07-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e6df6a2-0d43-4557-820c-a56a9c0a9951/6819144350-500.jpg" data-tags="k-pop" role="button">
 TEEN TOP - Teen Top Class (2013-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea6cd7e-e76d-4888-854b-ab2e0eb91eac/7845831956-500.jpg" data-tags="k-pop, k-hiphop, pop rap, contemporary rnb" role="button">
 BTS - O!Rul8,2? (2013-09-11)
 </li>
-<li data-cover="https://img.discogs.com/twPeIPdxmTcmXOAV1_wkQpjmioI=/fit-in/446x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5325272-1390590764-6980.jpeg.jpg" data-tags="k-pop" role="button">
-Crayon Pop - The Streets Go Disco (2013-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae705147-9128-4fa7-875c-3082f42f5bb4/18001869832-500.jpg" data-tags="k-pop" role="button">
 T-ARA - AGAIN (2013-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/39e1a603-d8ac-4957-99fa-8c115fd1e40a/13662332602-500.jpg" data-tags="k-pop" role="button">
 T-ARA - AGAIN 1977 (2013-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9065b00-e35d-4ab7-be3c-14ef3c7cc861/6707608374-500.jpg" data-tags="k-pop, vixx" role="button">
-VIXX - Voodoo (2013-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8b8176c-0212-4a0c-9a7e-560a95cd7f0f/18411474527-500.jpg" data-tags="pop, k-pop, questions, south korea, don't like, got7" role="button">
 GOT7 - Got It? (2014-01-20)
@@ -306,6 +306,9 @@ SISTAR - TOUCH N MOVE (2014-07-21)
 <li data-cover="http://coverartarchive.org/release/b587f284-ef80-4807-a1b3-2469047b3e15/28528922665-500.jpg" data-tags="k-pop" role="button">
 HyunA - A Talk (2014-07-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/f67e1045-81a5-461a-9fa0-783648689783/7930608085-500.jpg" data-tags="k-pop" role="button">
+JYJ - JUST US (2014-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/b6d2ccbb-224c-4f5a-9c90-12f02a51a336/8567105296-500.jpg" data-tags="pop, female vocalists, k-pop, male vocalists, kpop, korea, korean pop, girlsband" role="button">
 Red Velvet - Be Natural (2014-10-09)
 </li>
@@ -317,8 +320,5 @@ ZICO - Tough Cookie (2014-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/add14695-680c-49ad-a47f-5c0151d60432/8902296954-500.jpg" data-tags="k-pop" role="button">
 GD X TAEYANG - Good Boy (2014-11-21)
-</li>
-<li data-cover="https://img.discogs.com/ZhU8PIJETX4Rs2oiszhbMTfqBEA=/fit-in/539x746/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10055579-1490838718-2552.jpeg.jpg" data-tags="k-pop" role="button">
-VIXX - ERROR (2014-12-10)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:35:01.451Z
+date: 2021-04-12T23:11:01.456Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -165,9 +165,6 @@ Funki Porcini - Fast Asleep (2002-07-29)
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
 </li>
@@ -314,6 +311,9 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
+</li>
+<li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
+Damon Albarn - Everyday Robots (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
 Glass Animals - ZABA (2014-06-03)

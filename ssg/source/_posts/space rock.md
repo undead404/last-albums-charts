@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:03:01.461Z
+date: 2021-04-12T23:15:01.634Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -10,9 +10,9 @@ title: "space rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)</li>
+<li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">Mew - and the Glass Handed Kites (2005-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">Angels & Airwaves - We Don't Need to Whisper (2006-05-22)</li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">The Flaming Lips - Embryonic (2009-10-09)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/93be2c5f-b9e2-46da-8bc8-04ab3e384682/8450685693-500.jpg" data-tags="indie, british, alternative rock, space rock, psychedelic rock, 10s, fat possum, 2012 releases, double six, summer jams" role="button">Spiritualized - Sweet Heart Sweet Light (2012-04-16)</li>
 </ol>
 List of 100 - under the cut.
@@ -39,6 +39,9 @@ Hawkwind - Hawkwind (1970-08)
 <li data-cover="http://coverartarchive.org/release/7e964b19-62ce-4ab4-a67c-e183586560a9/9916032528-500.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Ash Ra Tempel (1971)
 </li>
+<li data-cover="https://img.discogs.com/LKc5J2hWiYSrLrm4-w8Q_zMeF-g=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450890-1118557014.jpg.jpg" data-tags="krautrock" role="button">
+Amon Düül II - Tanz Der Lemminge (1971-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/24dd5402-4f63-3648-bcd2-edcb91896d6c/14265700473-500.jpg" data-tags="psychedelic rock, psychedelic, pink floyd" role="button">
 Pink Floyd - Relics (1971-05-14)
 </li>
@@ -50,6 +53,9 @@ Nektar - A Tab in the Ocean (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/4996990d-5082-3c38-9c97-e5347d2005d1/20450810893-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Hawkwind - Doremi Fasol Latido (1972-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/dabffad6-2b97-4838-b899-558d050b9024/27508222851-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Inside (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed46c870-7db3-3550-ad13-734770570b10/3519010189-500.jpg" data-tags="electronic" role="button">
 Tangerine Dream - Phaedra (1974-02-20)
@@ -69,14 +75,11 @@ Eloy - Ocean (1977)
 <li data-cover="http://coverartarchive.org/release/b532302c-ab4a-4917-85e0-cf600fb743ba/12442242530-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Colours (1980)
 </li>
-<li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
-Spacemen 3 - The Perfect Prescription (1987)
+<li data-cover="http://coverartarchive.org/release/a9421c66-9c42-4c43-a3d6-f0ff63f3fdf1/10341054110-500.jpg" data-tags="space rock, progressive rock" role="button">
+Hawkwind - Choose Your Masques (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/aabb5643-fb55-35a2-8dd6-7609c6d4fbb6/6543105927-500.jpg" data-tags="psychedelic rock, psychedelic, space rock" role="button">
 Ozric Tentacles - Pungent Effulgent (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7bbea81-3362-4d7b-9ad0-290aaf497f2e/27761341433-500.jpg" data-tags="shoegaze" role="button">
-Spacemen 3 - Recurring (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
@@ -117,6 +120,9 @@ Hum - You'd Prefer an Astronaut (1995-04-11)
 <li data-cover="http://coverartarchive.org/release/1ec3f8dc-27fe-31b1-ac45-f957da4e3773/28476982084-500.jpg" data-tags="90s, britpop, indie" role="button">
 The Verve - A Northern Soul (1995-07-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/ccd39d15-3625-4df2-bca9-684814cb9ae8/2325100968-500.jpg" data-tags="psychedelic rock" role="button">
+Porcupine Tree - Staircase Infinities (1995-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
 The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
@@ -137,6 +143,9 @@ Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fb2d228-8380-3406-a434-171b6a5a3a34/16183861232-500.jpg" data-tags="indie rock, britpop, 90s, space rock, neo-psychedelia, post-britpop" role="button">
+Gay Dad - Leisure Noise (1999-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2493ff32-ae4b-4491-82ef-7ffed7a1fb0b/5950868258-500.jpg" data-tags="psychedelic" role="button">
 Ozric Tentacles - Waterfall Cities (1999-07-06)
@@ -180,17 +189,11 @@ Kombajn Do Zbierania Kur Po Wioskach - ósme piętro (2004)
 <li data-cover="https://img.discogs.com/7yCDIG4pZBEcvNv8dzzeUAYUF_I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15516892-1592852882-9807.jpeg.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Warszawa (2004-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/94879be1-bbe5-4a96-a9b4-e874f9e54e20/18850275911-500.jpg" data-tags="psychedelic, progressive rock, space rock" role="button">
-Ozric Tentacles - Spirals in Hyperspace (2004-03-16)
-</li>
 <li data-cover="https://img.discogs.com/WizXcjZB7bvDO3JSO8XWBmuY18w=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528621-1240352999.jpeg.jpg" data-tags="progressive rock" role="button">
 Amplifier - Amplifier (2004-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
-The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
@@ -237,17 +240,11 @@ My Sleeping Karma - Satya (2008)
 <li data-cover="https://img.discogs.com/LU3-gs1JtwQ_WWgq5Cac_-nwwEc=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435966-1223858516.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 Ufomammut - Idolum (2008-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c4287b6f-d8a9-4312-bb8d-f11882f79ccc/18853270697-500.jpg" data-tags="space rock, psychedelic rock" role="button">
-Ozric Tentacles - The Yumyum Tree (2009-05-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
 <li data-cover="https://img.discogs.com/nm60ZSy0RSuTi0Pd9CLXzFAYazo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1846535-1436105410-4304.jpeg.jpg" data-tags="dub, psychedelic, drone, space rock, tropical, neo-psychedelia, acid rock, prda, dub rock, not not fun records, sun ark records" role="button">
 Sun Araw - Heavy Deeds (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/f48ed54e-8a15-4f1c-9846-9b72a2c9acd7/15530605251-500.jpg" data-tags="downtempo, space rock, psychedelic rock" role="button">
-We Fell to Earth - We Fell To Earth (2009-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b7453da-f435-4e22-9e33-15c78727fd90/1984961533-500.jpg" data-tags="alternative rock" role="button">
 Radiohead - These Are My Twisted Words (2009-08-17)
@@ -261,6 +258,9 @@ The Flaming Lips - Embryonic (2009-10-09)
 <li data-cover="http://coverartarchive.org/release/2dee5650-21f6-331c-b945-a103180073c7/3361370191-500.jpg" data-tags="alternative rock, psychedelic rock" role="button">
 Motorpsycho - Heavy Metal Fruit (2010-01-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/e8c752d3-5c58-43d1-b258-6641cefbf9cd/16144170516-500.jpg" data-tags="rock, psychedelic" role="button">
+Moon Duo - Escape (2010-02-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/a36ab113-612d-4e2d-92f0-47ffda893f6a/4793906460-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
 </li>
@@ -269,9 +269,6 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic, psychedelic" role="button">
 Moon Duo - Mazes (2011-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee4093b1-28e1-4482-875b-266ffc458b60/1118766922-500.jpg" data-tags="post-rock, post-metal" role="button">
 Exxasens - Eleven Miles (2011-09-11)
@@ -299,6 +296,9 @@ Earthless - From the Ages (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2469a6a4-d9fb-468b-9389-68fcd0f80a06/5440308357-500.jpg" data-tags="space rock, psychedelic black metal" role="button">
 Oranssi Pazuzu - Valonielu (2013-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/f8bd11a6-c190-40f0-86a5-a7623a0018ce/5414892324-500.jpg" data-tags="instrumental, post-rock, progressive rock, instrumental rock, space rock, space-rock, post rock, vessels, progressive-rock, post metal, mogwai, justin bieber, explosions in the sky, instrumental space rock, giaa, maybeshewill, kokomo, sleepmakeswaves, toundra, esiinmarssi" role="button">
+Exxasens - Satellites (2013-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/089ca863-f9e8-40bc-93e3-4d91e5054edb/5836716649-500.jpg" data-tags="alternative rock" role="button">
 Muse - Live At Rome Olympic Stadium (2013-11-25)

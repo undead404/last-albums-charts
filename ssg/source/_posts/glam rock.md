@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:27:01.458Z
+date: 2021-04-12T23:25:01.601Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -147,6 +147,9 @@ Alice Cooper - Trash (1989-07-25)
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">
 David Bowie - Sound And Vision (1989-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/fe89bda7-4736-4ff9-8a71-8f441b8168f6/9439997044-500.jpg" data-tags="rock, classic rock, hard rock, 80s" role="button">
+Queen - The Miracle (1989-11-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="glam rock" role="button">
 T. Rex - The Essential Collection (1991)
 </li>
@@ -194,9 +197,6 @@ The 69 Eyes - Wasting the Dawn (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b878a6cb-2cbb-4c51-8356-8e8d89d04e77/13895458368-500.jpg" data-tags="industrial metal, nu metal" role="button">
 Dope - Felons and Revolutionaries (1999-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/6488f5e5-2b50-37a8-a2c9-014b002ddfbf/10562319960-500.jpg" data-tags="bryan ferry, jazz" role="button">
-Bryan Ferry - As Time Goes By (1999-10-08)
 </li>
 <li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Blessed Be (2000-09-20)

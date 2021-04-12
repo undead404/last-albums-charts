@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:08:01.474Z
+date: 2021-04-12T23:40:01.457Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -98,6 +98,9 @@ Neil Young - Harvest Moon (1992-10-27)
 </li>
 <li data-cover="https://img.discogs.com/w2LOcV1wDq5tnLESs2BaGqyYZiA=/fit-in/472x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592174-1135847165.jpeg.jpg" data-tags="folk, ben harper" role="button">
 Ben Harper - Welcome To The Cruel World (1994-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
+The Mountain Goats - Zopilote Machine (1994-07)
 </li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
@@ -200,9 +203,6 @@ The Decemberists - The Hazards of Love (2009-03-16)
 </li>
 <li data-cover="https://img.discogs.com/0p4IeHnrBKzwZbaUP2XNQnSMdbY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328080-1361870851-6165.jpeg.jpg" data-tags="rock, folk, folk rock, 00s" role="button">
 Bob Dylan - Together Through Life (2009-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)

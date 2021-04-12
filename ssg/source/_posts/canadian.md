@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T18:25:01.480Z
+date: 2021-04-12T23:19:01.469Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/04049b63-b29c-330c-b758-fe671a60f420/26953889856-500.jpg" data-tags="indie" role="button">Metric - Old World Underground, Where Are You Now? (2003-07-29)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
-<li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">Stars - Set Yourself on Fire (2004-09-14)</li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
+<li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">Hot Hot Heat - Elevator (2005-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">Stars - In Our Bedroom After the War (2007-07-10)</li>
+<li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">Simple Plan - Simple Plan (2008-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">Metric - Fantasies (2009-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">Caribou - Swim (2010-04-16)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
+</li>
 <li data-cover="https://img.discogs.com/4_Y4SwWGLArxbykf0Ua5d8xunvc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4835146-1385318746-3153.jpeg.jpg" data-tags="hard rock, classic rock" role="button">
 Bachman-Turner Overdrive - Not Fragile (1974)
 </li>
@@ -65,6 +68,9 @@ Barenaked Ladies - Stunt (1998-07-07)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
+</li>
+<li data-cover="https://img.discogs.com/xTbyFnZTjmT3bDJyLdockgqEjBc=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3411281-1329587586.jpeg.jpg" data-tags="indie" role="button">
+Tegan and Sara - Under Feet Like Ours (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/745cec89-d876-4e34-9b26-281d6a8d7cac/1667179400-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - Slow Riot for New Zero Kanada (1999-03-08)
@@ -129,9 +135,6 @@ Feist - Let It Die (2004-05-18)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
-<li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
-Stars - Set Yourself on Fire (2004-09-14)
-</li>
 <li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
@@ -146,12 +149,6 @@ Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 </li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
-</li>
-<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
-Destroyer - Destroyer's Rubies (2006-02-21)
-</li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
 </li>
 <li data-cover="https://img.discogs.com/98YfgBnog4TiDJJ0579YrUyM2oY=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075961-1491997081-3544.jpeg.jpg" data-tags="indie, canadian, indierock" role="button">
 Land of Talk - Applause Cheer Boo Hiss (2006-04-04)
@@ -188,9 +185,6 @@ Avril Lavigne - The Best Damn Thing (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
-Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04c81c50-a42a-48bf-adbc-0503769e6e23/4809542255-500.jpg" data-tags="indie pop" role="button">
 Tegan and Sara - The Con (2007-07-24)
@@ -261,6 +255,9 @@ Arcade Fire - The Suburbs (2010-05-27)
 <li data-cover="http://coverartarchive.org/release/50b1784e-fe17-4944-80af-604a7f27f892/22157262431-500.jpg" data-tags="indie pop" role="button">
 Stars - The Five Ghosts (2010-06-21)
 </li>
+<li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
+Women - Public Strain (2010-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
 Black Mountain - Wilderness Heart (2010-09-10)
 </li>
@@ -287,6 +284,9 @@ Michael Bublé - Christmas (2011-10-14)
 </li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
 Marianas Trench - Ever After (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/b02dd44e-2b35-44f1-8001-768fc94f5d14/4083920556-500.jpg" data-tags="singer-songwriter" role="button">
+Leonard Cohen - Old Ideas (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)

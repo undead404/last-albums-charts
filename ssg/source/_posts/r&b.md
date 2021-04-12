@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:17:07.056Z
+date: 2021-04-12T23:06:01.460Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -50,9 +50,6 @@ Brownstone - From The Bottom Up (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">
 Montell Jordan - This Is How We Do It (1995-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/50989c66-32db-4e87-b368-15a712783c6f/22017969148-500.jpg" data-tags="hip hop, 90s, rnb" role="button">
-Mark Morrison - Return Of The Mack (1996-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
@@ -119,6 +116,9 @@ Cassie - Cassie (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg" data-tags="akon" role="button">
+Akon - Konvicted (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d42e3f7b-f486-4d2b-ba27-fcc5a2cf5e92/22111632107-500.jpg" data-tags="omarion" role="button">
 Omarion - 21 (2006-12-26)

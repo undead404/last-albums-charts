@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:18:01.517Z
+date: 2021-04-12T22:48:01.476Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -13,7 +13,7 @@ title: "singer-songwriter: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)</li>
+<li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -60,11 +60,11 @@ Bob Dylan - Desire (1976-01-05)
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc2e9369-ea9b-34a8-8a3e-65e3fc7a51bf/24917923237-500.jpg" data-tags="cat stevens, singer-songwriter, folk" role="button">
+Cat Stevens - The Very Best Of Cat Stevens (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
-</li>
-<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
@@ -111,9 +111,6 @@ John Mayer - Room for Squares (2001-06-05)
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
 Shakira - Laundry Service (2001-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
-Regina Spektor - Songs (2002)
-</li>
 <li data-cover="https://img.discogs.com/uSf1RqEKVDbzCuNgE-UlquIouP8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382597-1300627514.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
 Ben Kweller - Sha Sha (2002-03-05)
 </li>
@@ -128,6 +125,12 @@ Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">
 Johnny Cash - American IV: The Man Comes Around (2002-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
+Robbie Williams - Escapology (2002-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
+Jack Johnson - On and On (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
@@ -152,9 +155,6 @@ Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
 Rachael Yamagata - Happenstance (2004-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
-Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -234,9 +234,6 @@ Sara Bareilles - Little Voice (2007-07-03)
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
-Kate Nash - Made of Bricks (2007-08-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
@@ -248,6 +245,9 @@ Sea Wolf - Leaves In The River (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
+</li>
+<li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
+William Fitzsimmons - The Sparrow and the Crow (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
 Sia - Some People Have Real Problems (2008-01-08)
@@ -263,9 +263,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, singer-songwriter, mystery jets, 2008 best albums" role="button">
 Mystery Jets - Twenty One (2008-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
-Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">
 Jason Mraz - I'm Yours (2008-06-06)
@@ -320,5 +317,8 @@ Hozier - Hozier (2014-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg" data-tags="pop" role="button">
 Shawn Mendes - Shawn Mendes (2014-07-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
+Father John Misty - I Love You, Honeybear (2015-02-09)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:32:01.745Z
+date: 2021-04-12T22:56:18.361Z
 title: "deutsch: 100 albums you must listen to before you die"
 ---
 ![Clueso - So sehr dabei (2008-05-30)](http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg "Clueso - So sehr dabei (2008-05-30)")
@@ -42,12 +42,6 @@ Die Fantastischen Vier - Lauschgift (1995-11-11)
 <li data-cover="http://coverartarchive.org/release/dcfe8092-607d-43dd-88e5-4d4429f049c9/2107276861-500.jpg" data-tags="90s, pop, german, rock" role="button">
 Fool's Garden - Dish Of The Day (1995-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/43adeda4-2b9b-3611-a94e-651ca659f010/4766415069-500.jpg" data-tags="hamburger schule, deutsch" role="button">
-Die Sterne - Posen (1996-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b2b08ad-acf9-4e59-8947-6cdfbc987296/7749414669-500.jpg" data-tags="goa, psytrance, goa trance, goa classic" role="button">
-Pleiadians - I.F.O. (Identified Flying Object) (1997-07-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/8377002d-790b-41f4-a152-d2f6ba6ea736/3349699606-500.jpg" data-tags="german hip hop, german hip-hop" role="button">
 Absolute Beginner - Bambule (1998-11-10)
 </li>
@@ -59,6 +53,9 @@ Beatsteaks - Launched (1999)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="deutsch" role="button">
 Joachim Deutschland - Musik wegen Frauen (2000)
+</li>
+<li data-cover="https://img.discogs.com/nQiSKzvhcSxAOpxx89dnrHe34_4=/fit-in/579x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-131771-1401272047-4328.jpeg.jpg" data-tags="hip hop" role="button">
+Thomas D - Liebesbrief (2000-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/517fbdd4-250a-4002-8a70-a97e9e1b2290/6194967817-500.jpg" data-tags="german hip hop" role="button">
 Deichkind - Bitte ziehen Sie durch (2000-05-29)
@@ -74,6 +71,9 @@ Samy Deluxe - Samy Deluxe (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2748414e-5f9d-470b-b748-9f98e6f51581/22141635600-500.jpg" data-tags="deutsch, comedy, german, a capella" role="button">
 Wise Guys - Ganz weit vorne (2001-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/55fa23fd-01ab-4b5f-8e78-38d67bf8bdf6/15886684272-500.jpg" data-tags="deutsch, german" role="button">
+Die Prinzen - D (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/81032d7f-3915-4016-b1f5-606926329bb0/3323486482-500.jpg" data-tags="deutsch, german, punk" role="button">
 Farin Urlaub - Endlich Urlaub! (2001-10-22)
@@ -131,9 +131,6 @@ Kettcar - Von Spatzen und Tauben, Dächern und Händen (2005-03-07)
 </li>
 <li data-cover="https://img.discogs.com/0ukn5yhxMWjT7YQCIZaTB77bkXg=/fit-in/452x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3227637-1321355813.jpeg.jpg" data-tags="deutsch, german" role="button">
 Madsen - Immer mehr (2005-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/613aa14f-592b-4ab9-bfca-093902c3674c/2538327449-500.jpg" data-tags="deutsch" role="button">
-2raumwohnung - Melancholisch schön (2005-06-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, deutsch, grand hotel van cleef, colours, sophomore album, pinossa soittimen vieressa" role="button">
 Olli Schulz & der Hund Marie - Das beige Album (2005-06-27)
@@ -228,6 +225,9 @@ Tocotronic - Kapitulation (2007-07-06)
 <li data-cover="https://img.discogs.com/suszDkAspQfZiKQlPi0XTLyjdJQ=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1058825-1188845963.jpeg.jpg" data-tags="hip hop, menschenverachtende untergrundmusik" role="button">
 K.I.Z. - Hahnenkampf (2007-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/f8e0e4d8-9928-4bb6-b5ab-c5532c74f7a8/10061109216-500.jpg" data-tags="weeed" role="button">
+Marteria - Base Ventura (2007-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/9659da9f-f99c-45a2-a6bc-74b9a0793ac9/2704123117-500.jpg" data-tags="hip hop" role="button">
 Dynamite Deluxe - TNT (2008-01-25)
 </li>
@@ -240,8 +240,8 @@ Jennifer Rostock - Ins offene Messer (2008-02-15)
 <li data-cover="http://coverartarchive.org/release/b3d81e5c-a8ed-4af5-aa28-a08ae1511f5d/27360063060-500.jpg" data-tags="deutsch" role="button">
 Niels Frevert - Du kannst mich an der Ecke rauslassen (2008-02-29)
 </li>
-<li data-cover="https://img.discogs.com/KfA7hlbeewCSiDC-W5lilxHtOkw=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1370676-1213822857.jpeg.jpg" data-tags="electro, deutsch, indietronic" role="button">
-Bratze - Waffe (2008-05-09)
+<li data-cover="http://coverartarchive.org/release/5a6147aa-d22f-43a8-af64-d8633885ef80/15083594758-500.jpg" data-tags="deutsch" role="button">
+Ina Müller - Liebe macht taub (2008-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg" data-tags="deutsch" role="button">
 Clueso - So sehr dabei (2008-05-30)

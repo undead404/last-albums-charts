@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:50:01.502Z
+date: 2021-04-12T23:30:01.579Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -56,9 +56,6 @@ Smoke City - Flying Away (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6173c409-e099-46e8-b823-677bb08b255a/14928692380-500.jpg" data-tags="instrumental, ambient, guitar virtuoso" role="button">
 Buckethead - Colma (1998-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">
-Shpongle - Are You Shpongled? (1998-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
@@ -299,6 +296,9 @@ M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
 <li data-cover="https://img.discogs.com/7CPxqgkCA0eZOCZfF4xgaPdRx6I=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229000-1321447664.jpeg.jpg" data-tags="ambient" role="button">
 Oneohtrix Point Never - Replica (2011-11-07)
+</li>
+<li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
+Perfume Genius - Put Your Back N 2 It (2012-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)

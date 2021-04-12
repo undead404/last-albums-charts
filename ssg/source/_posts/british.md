@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T21:06:01.485Z
+date: 2021-04-12T23:07:01.481Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">Coldplay - X&Y (2005-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)</li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">Kate Nash - Made of Bricks (2007-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
+<li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">Adele - 21 (2011-01-19)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
@@ -105,6 +105,9 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/6206d126-6938-3efd-b0a0-63877cd0a237/25696770339-500.jpg" data-tags="alternative, morrissey" role="button">
+Morrissey - You Are The Quarry (2004-05-03)
+</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
@@ -191,9 +194,6 @@ Editors - An End Has A Start (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
-</li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
-Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
