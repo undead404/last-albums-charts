@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:24:12.622Z
+date: 2021-04-12T12:47:07.119Z
 title: "fusion: 100 albums you must listen to before you die"
 ---
 ![Herbie Hancock - Head Hunters (2010-06-28)](http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg "Herbie Hancock - Head Hunters (2010-06-28)")
@@ -36,9 +36,6 @@ Frank Zappa - Hot Rats (1969-10-15)
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion" role="button">
 Miles Davis - Bitches Brew (1970)
 </li>
-<li data-cover="http://coverartarchive.org/release/901a3877-a0ed-44bb-a3d4-87fcded5cf9e/14741915528-500.jpg" data-tags="jazz, instrumental, 70s, fusion, jazz-funk, jazz fusion" role="button">
-Herbie Hancock - Mwandishi (1971)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Freddie Hubbard - Straight Life (1971)
 </li>
@@ -63,23 +60,14 @@ Herbie Hancock - Sextant (1973)
 <li data-cover="https://img.discogs.com/Qb7Yy2NFaTqIwqDxfCV2o-Z-zVc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6602833-1422894843-6069.jpeg.jpg" data-tags="fusion, jazz fusion, jazz rock" role="button">
 Billy Cobham - Spectrum (1973-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1ea9df2-d718-462b-bd9b-0f701e83dc81/5014697668-500.jpg" data-tags="jazz fusion, jazz" role="button">
-Mahavishnu Orchestra - Apocalypse (1974)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8a32bb4-9858-3dfb-b0a2-0a67e05ee80a/15015714324-500.jpg" data-tags="jazz" role="button">
 Miles Davis - Get Up With It (1974)
-</li>
-<li data-cover="http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-500.jpg" data-tags="jazz funk, instrumental, funk, jazz fusion" role="button">
-Herbie Hancock - Thrust (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/5022e9d0-a1b2-4188-aea7-f19e1fe997a4/4105911297-500.jpg" data-tags="jazz fusion" role="button">
 Return to Forever - Where Have I Known You Before (1974)
 </li>
 <li data-cover="https://img.discogs.com/vBuq0MClyik2arZCD_eUHLLWGjQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057386-1250967544.jpeg.jpg" data-tags="fusion" role="button">
 Billy Cobham - Crosswinds (1974-04)
-</li>
-<li data-cover="https://img.discogs.com/SpookmWADj1V2SK34mhWrRptNjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2053284-1261124529.jpeg.jpg" data-tags="jazz rock, jazz, fusion" role="button">
-Stanley Clarke - Journey To Love (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/89daddd1-15aa-373e-8998-03ddb16092b4/8714236235-500.jpg" data-tags="funk, jazz fusion" role="button">
 Herbie Hancock - Man-Child (1975)
@@ -114,9 +102,6 @@ Weather Report - Black Market (1976-04)
 <li data-cover="http://coverartarchive.org/release/2f023bc1-1835-4199-8652-fe775dfa51d2/17372973548-500.jpg" data-tags="progressive rock, fusion, jazz fusion" role="button">
 Brand X - Unorthodox Behaviour (1976-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bcc031b-18eb-4055-b510-361060800261/4527165066-500.jpg" data-tags="folk, 70s" role="button">
-Joni Mitchell - Hejira (1976-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/31dd702a-eb02-4000-96fc-c4e34d45a16c/11796737231-500.jpg" data-tags="jazz, fusion, trumpet" role="button">
 Miles Davis - Water Babies (1976-11-02)
 </li>
@@ -138,8 +123,8 @@ John McLaughlin - Electric Guitarist (1978)
 <li data-cover="http://coverartarchive.org/release/3e33c47d-9922-4585-9929-bb937d1e6a4e/4312538227-500.jpg" data-tags="funk, jazz" role="button">
 Herbie Hancock - Sunlight (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/26e1b6fc-06b5-32f8-b37c-ad079356be2a/3568001331-500.jpg" data-tags="progressive rock, fusion" role="button">
-Gong - Expresso II (1978-03-03)
+<li data-cover="http://coverartarchive.org/release/f5f70053-3e67-409a-ba92-36d4a2236157/13328512735-500.jpg" data-tags="jazz, soul" role="button">
+Gino Vannelli - Brother To Brother (1978-09)
 </li>
 <li data-cover="https://img.discogs.com/h8gW4tYpNQaANz3LqLyAL4dD2Mc=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5564394-1501846523-6639.jpeg.jpg" data-tags="jazz, fusion, jazz-funk, basically bass" role="button">
 Herbie Hancock - MR. HANDS (1980)
@@ -150,11 +135,11 @@ Al Di Meola - Splendido Hotel (1980)
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
 </li>
-<li data-cover="http://coverartarchive.org/release/5309debd-3ab8-43af-bad1-3e087a77a3b3/3924520199-500.jpg" data-tags="fusion" role="button">
-Al Di Meola - Electric Rendezvous (1982)
-</li>
 <li data-cover="https://img.discogs.com/l11eJQX-Qbi88KDHpfGcME4wWUg=/fit-in/439x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3667906-1339584107-1206.jpeg.jpg" data-tags="fusion" role="button">
 Allan Holdsworth - Metal Fatigue (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfe7a02f-fd29-38cc-8bfb-3fa9ead9828c/4523303197-500.jpg" data-tags="hard bop, world fusion" role="button">
+Joe Zawinul - Dialects (1986)
 </li>
 <li data-cover="https://img.discogs.com/NBfGbGN7Iq5EcQszE9-mO8FWDfQ=/fit-in/600x635/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662128-1422472655-7757.jpeg.jpg" data-tags="jazz, jazz fusion" role="button">
 John Scofield - Blue Matter (1986-09)
@@ -162,8 +147,8 @@ John Scofield - Blue Matter (1986-09)
 <li data-cover="https://img.discogs.com/cWwipT6ReR0fE4KACwmnL5G0a6E=/fit-in/600x834/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9492176-1481507030-2276.jpeg.jpg" data-tags="jazz fusion" role="button">
 Billy Cobham - The Best Of (1988-10-25)
 </li>
-<li data-cover="https://img.discogs.com/mMyb5NzdtxLw_lSRMe4C5SRQ-yo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9725389-1485399125-6304.jpeg.jpg" data-tags="jazz, fusion" role="button">
-Pat Metheny Group - Letter From Home (1989-06-29)
+<li data-cover="https://img.discogs.com/2J6Kb-if68R_SIMuHikvcJGKcB0=/fit-in/400x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5195407-1387124799-9373.jpeg.jpg" data-tags="fusion, jazz fusion" role="button">
+Allan Holdsworth - Secrets (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/c144e25d-1384-4fda-9816-27f42a32ff35/3563075875-500.jpg" data-tags="fusion, drums" role="button">
 Dave Weckl - Master Plan (1990-08-21)
@@ -171,14 +156,17 @@ Dave Weckl - Master Plan (1990-08-21)
 <li data-cover="http://coverartarchive.org/release/45a9d481-f636-46a1-bd15-3ae88282db7c/6606156122-500.jpg" data-tags="smooth jazz, instrumental, fusion" role="button">
 Fourplay - Fourplay (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/dc311d36-6df0-4efc-8568-a50b727a281c/3186694129-500.jpg" data-tags="jazz, acid jazz" role="button">
+Miles Davis - Doo-Bop (1992-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/87f2086f-9344-4cf5-aceb-85a4b17c67a8/15836194690-500.jpg" data-tags="80s" role="button">
+A Flock of Seagulls - The Best of a Flock of Seagulls (1993)
+</li>
 <li data-cover="https://img.discogs.com/ztqkg4pUcJ_V6J_bdE48DL-IdK0=/fit-in/588x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418023-1396547872-2533.jpeg.jpg" data-tags="crossover" role="button">
 Body Count - Born Dead (1994)
 </li>
 <li data-cover="https://img.discogs.com/ugb89qcUrAC5YRowmNMxe-ELmTg=/fit-in/600x900/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14119239-1568202041-7060.jpeg.jpg" data-tags="jazz, fusion" role="button">
 Pat Metheny Group - We Live Here (1995-01-17)
-</li>
-<li data-cover="https://img.discogs.com/rSUAHyUXGHLDXtjcYbP4uuWBAMY=/fit-in/596x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335168-1359306028-9333.jpeg.jpg" data-tags="funk, jazz" role="button">
-Galactic - Coolin' Off (1996-07-30)
 </li>
 <li data-cover="https://img.discogs.com/kLU6cOOB3mFNsdPkbD-u7Kl0qAI=/fit-in/223x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4056988-1353794862-4079.jpeg.jpg" data-tags="fusion, misc, string cheese" role="button">
 The String Cheese Incident - Born on the Wrong Planet (1996-10-23)
@@ -228,11 +216,11 @@ Umphrey's McGee - Local Band Does O.K. (2002)
 <li data-cover="https://img.discogs.com/atNPJQE8YDqOjQSUSGKXAX58m3w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1888876-1324824836.jpeg.jpg" data-tags="rock, fusion, progressive alternative metal, fk move" role="button">
 Freak Kitchen - Move (2002-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/cdec96a7-8e7e-4a93-8415-fa607b0d0e25/19497152695-500.jpg" data-tags="instrumental, progressive metal, progressive rock" role="button">
-Gordian Knot - Emergent (2002-12-18)
-</li>
 <li data-cover="https://img.discogs.com/K_wFkVYGXXX23vuBQJ7vDfE4sdY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3649068-1338825965-9999.jpeg.jpg" data-tags="jazz, pat metheny" role="button">
 Pat Metheny - One Quiet Night (2003-05-13)
+</li>
+<li data-cover="https://img.discogs.com/4bOGAW1fpPLYOHj8KJhCxrfadI0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513137-1442331042-2541.jpeg.jpg" data-tags="guitar" role="button">
+Jeff Beck - Jeff (2003-08-06)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -245,6 +233,12 @@ Richard Bona - Tiki (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b0c0780-d551-4378-9a60-1ede2a9ded6d/14269202127-500.jpg" data-tags="spanish, fusion" role="button">
 Muchachito Bombo Infierno - Vamos que nos vamos (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/8838c4da-0dea-48f8-b877-f4f9740bc42a/11754032294-500.jpg" data-tags="bass, basically bass, funk, jazz" role="button">
+Marcus Miller - Silver Rain (2005-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dddc39a-1b0f-43d6-8392-46b10988e8aa/8333400987-500.jpg" data-tags="chillout, electronic, ambient, downtempo, fusion" role="button">
+Midival Punditz - Midival Times (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a861b312-a217-4751-a8d0-e487b665919d/19898820021-500.jpg" data-tags="smooth jazz guitar, jazz, smooth jazz, lee ritenour" role="button">
 Lee Ritenour - Overtime (2005-06-07)
@@ -264,9 +258,6 @@ The RH Factor - Distractions (2006-02-05)
 <li data-cover="https://img.discogs.com/7hBvtSGXXfpx63GGx4RykOdukKI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819892-1428613859-2436.jpeg.jpg" data-tags="dub, fusion" role="button">
 Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
 </li>
-<li data-cover="https://img.discogs.com/5_R8PSnEtAenqpSIUMLsTpfil_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479480-1131929193.jpeg.jpg" data-tags="downtempo, ninja tune" role="button">
-Loka - Fire Shepherds (2006-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/f80f6efb-d0e3-37b0-bc77-d8c8e2178680/5650397237-500.jpg" data-tags="progressive rock, fusion, 00s, misc, jam bands, my music, special, mcgee" role="button">
 Umphrey's McGee - Safety in Numbers (2006-03-31)
 </li>
@@ -279,8 +270,14 @@ toe - New Sentimentality (2006-12-06)
 <li data-cover="https://img.discogs.com/m3kMiPx6qtSRLbzV7R-A_IYXaVw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176508-1268133555.jpeg.jpg" data-tags="fusion, jazz" role="button">
 Tal Wilkenfeld - Transformation (2007)
 </li>
+<li data-cover="https://img.discogs.com/PKon_wRB-dDwVCspiKGbHj4Yy4M=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3007473-1311443219.jpeg.jpg" data-tags="dance, fusion, latin, latin chill" role="button">
+Pacha Massive - All Good Things (2007-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">
 Scouting for Girls - Scouting for Girls (2007-09-16)
+</li>
+<li data-cover="https://img.discogs.com/EpycoJC4FhrrALXckPBn4vj8FNA=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700259-1570652084-6516.jpeg.jpg" data-tags="progressive rock" role="button">
+Liquid Trio Experiment - Spontaneous Combustion (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
@@ -302,6 +299,9 @@ Shakira - Sale el Sol (2010-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/a43c6a7b-ae02-477c-8d8a-bac113e2388d/1249390098-500.jpg" data-tags="ambient, experimental, downtempo, acoustic, fusion, gimme summa dis" role="button">
+Hidden Orchestra - Flight EP (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccefcaba-20f0-46d7-a121-11298d151a9a/2018804933-500.jpg" data-tags="electronic, fusion, c2c, down the road" role="button">
 C2C - Down The Road (2012-01-23)

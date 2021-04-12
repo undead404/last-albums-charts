@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:03:01.619Z
+date: 2021-04-12T13:12:01.508Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -51,11 +51,17 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="https://img.discogs.com/Fl1Ff9O_ESOOU8G6Xqa6VpHQ_wo=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14311131-1571998296-8145.jpeg.jpg" data-tags="british, folk, baroque pop, psychedelic, debut album, one and only album, excelso" role="button">
 Nick Garrie - The Nightmare of J.B. Stanislas (1968)
 </li>
+<li data-cover="http://coverartarchive.org/release/c356512d-a989-4c39-9b6d-c8ddebd05ba4/7060783160-500.jpg" data-tags="jazz rock" role="button">
+Blood, Sweat & Tears - Child Is Father to the Man (1968-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/7bcfed4f-d583-4607-9a14-6da0a60350c0/10325742178-500.jpg" data-tags="60s" role="button">
 Bee Gees - Idea (1968-09)
 </li>
 <li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
 The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
+</li>
+<li data-cover="https://img.discogs.com/mWLjsa_J7NUScdhD-qdTwEUgAdQ=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119295-1225464393.jpeg.jpg" data-tags="60s, british, pop rock, baroque pop" role="button">
+The Iveys - Maybe Tomorrow (1969)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="60s, psychedelic pop" role="button">
 Bee Gees - Odessa (1969-02)
@@ -90,6 +96,9 @@ Virginia Astley - Hope In A Darkened Heart (1986)
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/599faed6-44b9-4d30-875d-0b73a20ee4ed/10512090601-500.jpg" data-tags="indie pop, baroque pop, dream pop, my vinyl, eighties favorite albums, favorite albums 1987" role="button">
+Shelleyan Orphan - Helleborine (1987)
+</li>
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
 </li>
@@ -101,9 +110,6 @@ Gorky's Zygotic Mynci - Bwyd Time (1995-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b4db6a4-56e6-47de-8440-074247b2ed52/9707871898-500.jpg" data-tags="alternative rock, indie pop, indie rock, britpop, baroque pop" role="button">
-The Auteurs - After Murder Park (1996-03-01)
 </li>
 <li data-cover="https://img.discogs.com/mNXWnxU6AigruWA4NqM5Yj2B2dk=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806104-1504454664-2413.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Jason Becker - Perspective (1996-05-21)
@@ -117,6 +123,9 @@ Travis - Good Feeling (1997-09-08)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
+<li data-cover="https://img.discogs.com/8aDwZ8a2x_IBQu2qvk6mZdKNDV8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1601755-1327650322.jpeg.jpg" data-tags="singer-songwriter, baroque pop, experimental pop, psychedelic, cinematic, 00s, soft pop, avant-pop, art pop, lounge pop, open, organcore" role="button">
+The High Llamas - Buzzle Bee (2000-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/e26ba6ac-55c5-3179-be0c-10a5bb782f38/15873607126-500.jpg" data-tags="indie rock, baroque pop, noise pop" role="button">
 Preston School of Industry - All This Sounds Gas (2001-08-22)
 </li>
@@ -125,9 +134,6 @@ Belle and Sebastian - Storytelling (2002-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7918cb8d-87d1-40d3-b0c8-ed4f18da30c5/18837280447-500.jpg" data-tags="indie" role="button">
-Okkervil River - Down the River of Golden Dreams (2003-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea9811df-915b-4d1b-8172-673b5cc4ce7d/4397578495-500.jpg" data-tags="ethereal" role="button">
 Flëur - Волшебство (2004-01-27)
@@ -149,9 +155,6 @@ Efterklang - Tripper (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff2fc2e-99fb-413f-bc4e-0b22de2c95f2/23181586607-500.jpg" data-tags="chamber pop, canadian, 00s" role="button">
 Destroyer - Notorious Lightning and Other Works (2005-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
-Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
@@ -185,9 +188,6 @@ Arcade Fire - Neon Bible (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/91760b90-6914-343c-99b7-3e673fc08c37/26142599602-500.jpg" data-tags="experimental, alternative, freak folk" role="button">
-CocoRosie - The Adventures of Ghosthorse and Stillborn (2007-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8e2a5eb-dd78-428f-bce9-78ce600dc171/15437695010-500.jpg" data-tags="indie rock, indie pop" role="button">
 Cloud Cult - The Meaning of 8 (2007-04-10)

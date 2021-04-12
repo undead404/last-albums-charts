@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:18:01.448Z
+date: 2021-04-12T12:51:01.484Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -26,6 +26,9 @@ The Beatles - Rubber Soul (1965-12-03)
 </li>
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
 Jefferson Airplane - Surrealistic Pillow (1967-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd5c9667-6dbd-485f-8c7a-8403d6866ef8/16556104876-500.jpg" data-tags="60s" role="button">
+Donovan - Hurdy Gurdy Man (1968-10)
 </li>
 <li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
 Neil Young - Neil Young (1968-11-12)
@@ -120,8 +123,8 @@ David Gray - White Ladder (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
 Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
+<li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
+Jack Johnson - Brushfire Fairytales (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
@@ -162,9 +165,6 @@ Ray LaMontagne - Trouble (2006-07-17)
 <li data-cover="https://img.discogs.com/NAsJeiPF2ifIvV4ihcFCzf5IByQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148661-1291561010.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
 The Mountain Goats - Get Lonely (2006-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
-M. Ward - Post-War (2006-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/32bc0869-4cae-444a-8792-c17dd5d314fb/21233023204-500.jpg" data-tags="indie" role="button">
 The Decemberists - The Crane Wife (2006-10-03)
 </li>
@@ -186,6 +186,9 @@ Iron & Wine - The Shepherd's Dog (2007-09-23)
 <li data-cover="http://coverartarchive.org/release/1173ad8c-8689-321a-824f-4fe67e103979/14494214977-500.jpg" data-tags="folk rock" role="button">
 Two Gallants - Two Gallants (2007-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
+Sea Wolf - Leaves In The River (2007-09-25)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, folk rock" role="button">
 The Mountain Goats - Heretic Pride (2008-02-17)
 </li>
@@ -204,9 +207,6 @@ The Decemberists - The Hazards of Love (2009-03-16)
 <li data-cover="https://img.discogs.com/0p4IeHnrBKzwZbaUP2XNQnSMdbY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328080-1361870851-6165.jpeg.jpg" data-tags="rock, folk, folk rock, 00s" role="button">
 Bob Dylan - Together Through Life (2009-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
-Iron & Wine - Around the Well (2009-05-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
@@ -221,9 +221,6 @@ Kings of Convenience - Declaration of Dependence (2009-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">
 Mumford & Sons - Sigh No More (2009-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/65fabf97-67bf-4f88-84a0-b8ef0a4de144/19588262528-500.jpg" data-tags="folk rock" role="button">
-Isbells - Isbells (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a876213-7833-40c1-ac4b-39cb9b767082/25696731134-500.jpg" data-tags="indie, alternative, folk, cosmic american music" role="button">
 Midlake - The Courage Of Others (2010-02-01)
@@ -284,6 +281,9 @@ Bob Dylan - Tempest (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
+Lucy Rose - Like I Used To (2012-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)

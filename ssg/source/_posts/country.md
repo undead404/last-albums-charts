@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:41:01.810Z
+date: 2021-04-12T12:53:01.503Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -234,9 +234,6 @@ Lady Antebellum - Lady Antebellum (2008-04-14)
 <li data-cover="http://coverartarchive.org/release/705ba981-d00e-4ad0-ac65-e78375b51c7e/11573283421-500.jpg" data-tags="country" role="button">
 Sugarland - Love On The Inside (2008-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/332b04a6-1a19-4d44-94c6-3c03e14f374b/15577515732-500.jpg" data-tags="pop, country, pop rock, americana, singer/songwriter, purchased 09, albums checked" role="button">
-Peter Bradley Adams - Leavetaking (2008-08-05)
-</li>
 <li data-cover="https://img.discogs.com/V3obrzp3VfPEZP_MT6_dqQj4qs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1584667-1587659164-1860.jpeg.jpg" data-tags="country" role="button">
 Darius Rucker - Learn To Live (2008-09-16)
 </li>
@@ -290,6 +287,9 @@ Jason Aldean - My Kinda Party (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfeefd88-295a-40b5-8d98-f1c120baffa8/13276903097-500.jpg" data-tags="country, folk, and the punk in me, and the monk in me, blue covers, music meant to be heard, pitchfork top 50 albums of 2011" role="button">
 Bill Callahan - Apocalypse (2011-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/441491cc-8518-45e9-b277-b8b77aed144e/26645241287-500.jpg" data-tags="country" role="button">
+Chris Young - Neon (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1647ae7-993c-4b98-83bd-36b1003342b1/3499102791-500.jpg" data-tags="country" role="button">
 Luke Bryan - Tailgates & Tanlines (2011-08-09)

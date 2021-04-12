@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:45:01.926Z
+date: 2021-04-12T12:48:01.471Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -273,6 +273,9 @@ E-40 - My Ghetto Report Card (2006-03-14)
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">
 Ice Cube - Laugh Now, Cry Later (2006-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/bed68de2-1e9d-4617-845c-355843d54989/22349860110-500.jpg" data-tags="hip hop, rap, gangsta rap" role="button">
+Tha Dogg Pound - Cali Iz Active (2006-06-27)
+</li>
 <li data-cover="https://img.discogs.com/iZshO3IiTJ6dAlsBgq0m_Sevprc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1300066-1542690058-5495.jpeg.jpg" data-tags="west coast rap" role="button">
 Kokane - Back 2 Tha Clap (2006-07-18)
 </li>
@@ -290,9 +293,6 @@ Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d86a17d7-77c0-45e5-87cc-7a0ea351d260/14768323100-500.jpg" data-tags="west coast rap" role="button">
 Sen Dog - Diary Of A Mad Dog (2008-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8eedec7-3b7f-4ea3-a479-5c136641b875/18892895465-500.jpg" data-tags="gangsta rap, texas, southern rap, west coast rap, rap-a-lot, houston rap" role="button">
-Scarface - Emeritus (2008-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f24bf1-b934-4037-9430-75c498b25abb/20376297689-500.jpg" data-tags="hip-hop, west coast rap, pf09, pitchfork top 50 albums of 2009" role="button">
 DJ Quik & Kurupt - BlaQKout (2009-06-09)

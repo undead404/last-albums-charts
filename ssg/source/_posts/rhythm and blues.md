@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:23:07.089Z
+date: 2021-04-12T13:03:12.752Z
 title: "rhythm and blues: 100 albums you must listen to before you die"
 ---
 ![The Weeknd - Kiss Land (2013-09-09)](http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg "The Weeknd - Kiss Land (2013-09-09)")
@@ -48,6 +48,9 @@ Aretha Franklin - I Never Loved a Man the Way I Love You (1967-03-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Aretha Franklin - Respect (1968)
 </li>
+<li data-cover="https://img.discogs.com/XfefB8BsGIzPj7U7nYa7p2BNVnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7429601-1442514730-3439.jpeg.jpg" data-tags="soul" role="button">
+Aretha Franklin - Lady Soul (1968-01-22)
+</li>
 <li data-cover="https://img.discogs.com/Dhp36agUeeoYw6M8NAWln714sJA=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4740878-1473527519-9520.jpeg.jpg" data-tags="soul" role="button">
 Otis Redding - The Dock of the Bay (1968-02-23)
 </li>
@@ -68,9 +71,6 @@ Bill Withers - Just As I Am (1971-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1535079b-be0c-4c09-977e-b6b72fec2550/6268306789-500.jpg" data-tags="soul" role="button">
 Al Green - Let's Stay Together (1972-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c9a52ee-ee0a-3362-a563-d9d28b02a53e/19198598644-500.jpg" data-tags="soul" role="button">
 Al Green - I'm Still in Love With You (1972-10-23)
@@ -93,8 +93,8 @@ The Blues Brothers - Briefcase Full of Blues (1978-11-28)
 <li data-cover="http://coverartarchive.org/release/1812aa3d-bc63-40f1-a869-37f9fbb147f2/15571937860-500.jpg" data-tags="classic rock, rock, 80s, rhythm and blues, 1980s, xtph early" role="button">
 The J. Geils Band - Love Stinks (1980)
 </li>
-<li data-cover="https://img.discogs.com/ZWuV9n2dLrebi9DAJG42Vmzrjeg=/fit-in/458x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15303833-1589463157-7094.jpeg.jpg" data-tags="soul, 80s, usa, female vocalist, rhythm and blues, jazzy soul, vinyl collection, soul rnb, randy crawford, american musician" role="button">
-Randy Crawford - Now We May Begin (1980)
+<li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
+Tom Waits - Heartattack and Vine (1980-09)
 </li>
 <li data-cover="https://img.discogs.com/8SMZMGfaZc8C9-vLhHRZGz6DfFU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8217355-1472718265-6517.jpeg.jpg" data-tags="classic rock, rock, 80s" role="button">
 The Rolling Stones - Tattoo You (1981-08-18)
@@ -110,6 +110,9 @@ Nina Simone - Let It Be Me (1987-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/514a45df-d1b5-49f9-b898-4cac64f33876/6229792928-500.jpg" data-tags="blues" role="button">
 The Blues Brothers - Everybody Needs Blues Brothers (1988)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce605976-f241-49f2-9d63-e7872c7c0e4b/22329578582-500.jpg" data-tags="stax, soul, rhythm and blues" role="button">
+The Bar-Kays - The Best Of The Bar-Kays (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/df45b161-37fc-436a-8dec-eb4dd0bb3eb5/10238572937-500.jpg" data-tags="soul" role="button">
 Sam & Dave - 25 Greatest Hits (1989)
@@ -129,14 +132,14 @@ Bo Diddley - Bo Diddley (1990)
 <li data-cover="https://img.discogs.com/_PxjF402l-loO_AcXq5sLvle7P0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12909244-1544309615-7240.jpeg.jpg" data-tags="soul, motown" role="button">
 Marvin Gaye - Motown's Greatest Hits (1992)
 </li>
+<li data-cover="https://img.discogs.com/X8Z6Jz1VsC7pcOIgMCT_cl_J358=/fit-in/397x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9152297-1475690769-3497.jpeg.jpg" data-tags="rock" role="button">
+The Animals - The Animals (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7ae62ee-4da0-4662-89f6-a47264077b88/28717483363-500.jpg" data-tags="80s" role="button">
 The J. Geils Band - Showtime! (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5e7900-bd9a-461e-9768-a83fffe282be/17888190426-500.jpg" data-tags="soul" role="button">
 Curtis Mayfield - The Very Best of Curtis Mayfield (1996-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
-London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8be7ee65-a17c-4832-b433-7dbf91afbfc4/15020928202-500.jpg" data-tags="bo diddley" role="button">
 Bo Diddley - His Best (1997-01-01)
@@ -156,26 +159,26 @@ Solomon Burke - The Very Best of Solomon Burke (1998-02-03)
 <li data-cover="http://coverartarchive.org/release/da40c18c-652b-4901-8c76-2779f9a269a2/16639019832-500.jpg" data-tags="soul, motown" role="button">
 The Marvelettes - Ultimate Collection (1998-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/0bf2dbc4-600b-4eb6-b0c8-1be7aea3bc5c/18033156707-500.jpg" data-tags="rnb" role="button">
+Ginuwine - 100% Ginuwine (1999-03-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
 </li>
 <li data-cover="https://img.discogs.com/UUHPDgUwZ5YOwsaZB4vKntH-h-4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908954-1306772708.jpeg.jpg" data-tags="soul, rhythm and blues" role="button">
 Joe - Stutter (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/8466b6ac-fd2f-415b-818d-3e56b5a3d1da/4839004740-500.jpg" data-tags="rnb, carl thomas" role="button">
-Carl Thomas - Emotional (2000-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/da5b40b8-e078-48e0-be57-20d9d8cfd027/4160199500-500.jpg" data-tags="00s, soul, dance" role="button">
 Toni Braxton - The Heat (2000-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/00d69515-3bbd-4b31-9adb-87e9dd15320e/22621697165-500.jpg" data-tags="funk, rhythm and blues" role="button">
+The J.B.'s - Pass The Peas: The Best Of The J.B.'s (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c5052f7-d080-408d-a2de-baf772600a2e/24472897818-500.jpg" data-tags="blues rock, rhythm and blues, sympathy68, mick jagger, numckeith" role="button">
 Mick Jagger - God Gave Me Everything (2001)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="00s, welsh, indie" role="button">
 Super Furry Animals - Rings Around the World (2001-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/30183fbe-f7aa-487e-8462-5d1a8974a1ad/3924500102-500.jpg" data-tags="soul" role="button">
-Macy Gray - the id (2001-09-18)
 </li>
 <li data-cover="https://img.discogs.com/8cmTU-QuN5GMSuDjNX65BCwMSgM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9638095-1484019100-8094.jpeg.jpg" data-tags="jazz, rock, funk, funky, groovy, rhythm and blues, jecks, louis armstrong, larmstrong, l armstrong" role="button">
 Louis Armstrong - C'est Si Bon (2001-11-13)
@@ -185,6 +188,9 @@ Vivian Green - A Love Story (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f883bcc3-206d-4788-9674-0bfe09735888/19263212495-500.jpg" data-tags="soul, blues" role="button">
 Ray Charles - The Very Best of Ray Charles (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/693138d1-2d89-4cc4-bcb7-b6d84f37dd11/8001250502-500.jpg" data-tags="rockabilly, rock and roll, rhythm and blues, bluezzz, rockin party, c berry" role="button">
+Chuck Berry - Blues (2003-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)
@@ -212,6 +218,9 @@ John Legend - Once Again (2006-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f6744e0-893a-300c-a091-89cd68a795f9/4191054363-500.jpg" data-tags="soul" role="button">
 Joss Stone - Introducing Joss Stone (2007-03-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/4abaaa38-adf5-36f7-ba06-2cf6018d87d8/28348441753-500.jpg" data-tags="pop, female vocalists" role="button">
+Tina Dico - Count To Ten (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d09f941a-8e19-4ece-999e-639e9a52d63b/11525865607-500.jpg" data-tags="rnb" role="button">
 Nicole Scherzinger - Her Name Is Nicole (2007-10-22)
@@ -267,9 +276,6 @@ Pablo Alborán - Solamente Tú (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/1e4e1f85-897d-4f0b-9024-97a68b590c68/5918492377-500.jpg" data-tags="soul" role="button">
 Charles Bradley - No Time for Dreaming (2011)
 </li>
-<li data-cover="http://coverartarchive.org/release/9436b881-afc0-434f-b5d8-d33ddc48a25e/3110558549-500.jpg" data-tags="hip hop" role="button">
-Chris Brown - F.A.M.E. (2011-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
@@ -296,12 +302,6 @@ Frank Ocean - channel ORANGE (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Kiss Land (2013-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/9156e65e-fbef-4b62-8267-c1e1a463eb44/11201436281-500.jpg" data-tags="soul" role="button">
-Aloe Blacc - Lift Your Spirit (2013-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbaac149-d559-4234-b335-60d382040c94/15265609371-500.jpg" data-tags="k-pop" role="button">
-2NE1 - Crush (2014-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)

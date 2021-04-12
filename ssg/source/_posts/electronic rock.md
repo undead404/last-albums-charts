@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:43:01.410Z
+date: 2021-04-12T13:44:01.567Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Phantogram - Nightlife (2011-11-01)](http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg "Phantogram - Nightlife (2011-11-01)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/XKru-VvZXln7gRjIe-inRByFQFE=/fit-in/592x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-323992-1204317778.jpeg.jpg" data-tags="electronic, ambient, experimental, krautrock" role="button">
-Tangerine Dream - Atem (1973-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/3eed1de9-3977-44cc-8e76-f442676698c9/19003555871-500.jpg" data-tags="electronic" role="button">
 Klaus Schulze - Moondawn (1976-04-16)
 </li>
@@ -32,6 +29,9 @@ Jean Michel Jarre - Equinoxe (1978-12)
 </li>
 <li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
 Depeche Mode - Personal Jesus (1989-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/111dfb5c-831d-4e2a-9820-ec68828959b8/15069894361-500.jpg" data-tags="electronic, indie, experimental, experimental rock, electronic rock" role="button">
+Cerati / Melero - Colores Santos (1992-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
@@ -159,9 +159,6 @@ Hands Like Glass - With Unveiled Faces (2010-05-18)
 <li data-cover="http://coverartarchive.org/release/c2074cb6-a185-4bfd-86de-decf013117d3/3194850526-500.jpg" data-tags="synthpop, electronic rock" role="button">
 Linkin Park - The Catalyst (2010-08-02)
 </li>
-<li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
-Klaxons - Surfing the Void (2010-08-20)
-</li>
 <li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
@@ -266,6 +263,9 @@ Blue Stahli - Antisleep Vol. 03 (2012-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
 Modestep - Evolution Theory (2013-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/6de8b7d4-3b37-44b0-b8ea-96b7980421fd/4424234043-500.jpg" data-tags="industrial metal, alternative metal" role="button">
+Device - Device (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/efb5dd61-f5ea-4b24-b5d9-2db78ff449b7/4400428039-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - Love Lust Faith + Dreams (2013-05-16)

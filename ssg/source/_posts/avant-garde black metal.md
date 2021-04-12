@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T03:49:01.446Z
+date: 2021-04-12T13:06:12.639Z
 title: "avant-garde black metal: 100 albums you must listen to before you die"
 ---
 ![Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)](http://coverartarchive.org/release/98ed235a-2f5c-44e9-8f94-1373fcd7dc4e/1981275082-500.jpg "Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)")
@@ -12,8 +12,8 @@ title: "avant-garde black metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1eb43f46-8361-48cd-a4d2-bc4b47430e2c/2198762268-500.jpg" data-tags="black metal" role="button">Peste Noire - Ballade cuntre lo Anemi Francor (2009-03-27)</li>
 <li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">Altar of Plagues - White Tomb (2009-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/38fc41d1-a027-42f5-9422-73efd50612de/1969541959-500.jpg" data-tags="black metal" role="button">Deathspell Omega - Paracletus (2010-11-08)</li>
-<li data-cover="http://coverartarchive.org/release/5a8e9053-a923-4adf-8866-576270a6ccb7/1223508809-500.jpg" data-tags="black metal, avant-garde black metal, post-black metal, experimental" role="button">Peste Noire - L'Ordure à l'état Pur (2011-05-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">Deathspell Omega - Drought (2012-06-22)</li>
+<li data-cover="http://coverartarchive.org/release/84a7012e-4859-4577-8db7-b227d83a8f70/4647797966-500.jpg" data-tags="black metal, avant-garde black metal" role="button">Peste Noire - Peste Noire (2013-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,11 +33,11 @@ Anubi - Kai pilnaties akis užmerks mirtis (1997)
 <li data-cover="http://coverartarchive.org/release/74020eb9-4860-4c6c-8126-af55689a9b22/14993934735-500.jpg" data-tags="black metal, avant-garde metal" role="button">
 Solefald - The Linear Scaffold (1997)
 </li>
+<li data-cover="https://img.discogs.com/7YtykWDqwy_yD9kCySR46iTsGzo=/fit-in/598x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378428-1275233708.jpeg.jpg" data-tags="black metal" role="button">
+Diabolical Masquerade - The Phantom Lodge (1997-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/641293ff-c29e-483c-8f79-b07eab011344/6167514371-500.jpg" data-tags="avant-garde metal" role="button">
 Arcturus - La Masquerade Infernale (1997-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/50b9a8dc-fb9b-4872-839d-44ce9ec5a978/25640443565-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
-Sigh - Hail Horror Hail (1997-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="atmospheric black metal, avant-garde black metal, true black metal, orthodox black metal, russian chanson, black shanson" role="button">
 Михаил Круг - Мадам (1998)
@@ -47,6 +47,9 @@ Diabolical Masquerade - Nightwork (1998-09-21)
 </li>
 <li data-cover="https://img.discogs.com/Nnpzs1vfIx83Hf7bz1QAPCULnA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398523-1167870757.jpeg.jpg" data-tags="black metal" role="button">
 Emperor - Emperor / Wrath of the Tyrant (1998-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/a3aac110-ff7a-4150-a365-f9c05941d0da/8675891124-500.jpg" data-tags="black metal" role="button">
+Arcturus - Constellation (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e3f6d0d-ab30-4585-a05e-d7fb0f1bdfa5/17889690021-500.jpg" data-tags="black metal, gothic, gothic metal" role="button">
 Samsas Traum - Die Liebe Gottes (1999)
@@ -63,7 +66,7 @@ Sigh - Scenario IV: Dread Dreams (1999)
 <li data-cover="https://img.discogs.com/oMPr7Mnfsi8Ty-3Xd8oqxBS3grE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490911-1193773722.jpeg.jpg" data-tags="black metal" role="button">
 Dornenreich - Bitter ist's dem Tod zu dienen (1999-06-25)
 </li>
-<li data-cover="https://img.discogs.com/uHJHUN9TOlxPQTZ6LVBCkeBS1zw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2728844-1299949695.jpeg.jpg" data-tags="avant-garde metal" role="button">
+<li data-cover="https://img.discogs.com/wRwiULChg_1QL-fTJCE_vrqYHDo=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-446420-1232424855.jpeg.jpg" data-tags="avant-garde metal" role="button">
 Solefald - Neonism (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff0ff83-0b85-4f18-9de0-9daac8cc0711/4861600829-500.jpg" data-tags="avant-garde metal, symphonic black metal, black metal" role="button">
@@ -75,14 +78,17 @@ Enochian Crescent - Omega Telocvovim (2000)
 <li data-cover="https://img.discogs.com/JtvIpkBpQdVFzyJhTe3Q0GyP7RE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-947722-1309533301.jpeg.jpg" data-tags="black metal, gothic metal" role="button">
 Ram-Zet - Pure Therapy (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1ecd0fb-9d3a-4810-bf4c-361abb5be6a1/24568897415-500.jpg" data-tags="noise, experimental, noise rock, post-rock, progressive rock, doom metal, experimental rock, psychedelic, sludge, psychedelic rock, avant-garde metal, symphonic black metal, post-metal, experimental metal, avant-garde black metal, post metal, psychedelic black metal" role="button">
+Tarantula Hawk - Tarantula Hawk (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/12e3767d-d674-4150-bc52-9d197c7778c1/13866484117-500.jpg" data-tags="black metal" role="button">
 Mayhem - Grand Declaration of War (2000-04-29)
 </li>
 <li data-cover="https://img.discogs.com/oDdMrmdYoTd4N8ivudi27yXSLpE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2343012-1560775367-3547.jpeg.jpg" data-tags="black metal, symphonic black metal" role="button">
 Morgul - Sketch Of Supposed Murderer (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/19d833ea-54b2-4ac0-822b-37d5a2839999/18639976578-500.jpg" data-tags="industrial black metal, industrial metal" role="button">
-...and Oceans - A.m.g.o.d. (2001-02-14)
+<li data-cover="http://coverartarchive.org/release/317cb4c1-4a8a-4808-8d73-72841f8667e3/27836538854-500.jpg" data-tags="black metal, symphonic black metal, progressive black metal, progressive metal, avant-garde metal" role="button">
+Diabolical Masquerade - Death's Design (2001-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/586892ba-92bb-4f69-b06b-edd71a48cd97/12966542161-500.jpg" data-tags="avant-garde metal, progressive metal, psychedelic" role="button">
 Sigh - Imaginary Sonicscape (2001-07-18)
@@ -117,6 +123,9 @@ Shining - IV: The Eerie Cold (2005-03-16)
 <li data-cover="http://coverartarchive.org/release/afc535b1-7cb7-4cb6-88c7-7390876cc41f/1981370319-500.jpg" data-tags="black metal" role="button">
 Deathspell Omega - Kénôse (2005-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b73f32f7-bb46-419d-96ab-15b91ec6584f/6773460285-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
+Sigh - Gallows Gallery (2005-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3c03147-9b30-4fda-88ea-44fe6718d288/15541386321-500.jpg" data-tags="avant-garde metal, progressive metal" role="button">
 Arcturus - Sideshow Symphonies (2005-09-19)
 </li>
@@ -129,20 +138,17 @@ Ajattara - Joulu-single 2005 (2005-11-23)
 <li data-cover="http://coverartarchive.org/release/cccebdc4-11d7-4650-8bbc-d39c3be45e9b/6115422720-500.jpg" data-tags="post-black metal, progressive metal" role="button">
 Sólstafir - Masterpiece of Bitterness (2005-12-30)
 </li>
+<li data-cover="https://img.discogs.com/zisLvphKiadnnPg3pl64pTBMUZg=/fit-in/600x841/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774330-1386185667-5986.jpeg.jpg" data-tags="progressive metal" role="button">
+Arcturus - Shipwrecked In Oslo (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/17a846de-17d7-4bba-b628-ffecf724d5e1/6237246119-500.jpg" data-tags="black metal" role="button">
 Peste Noire - La Sanie des siècles - Panégyrique de la dégénérescence (2006-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/aaa514a1-c420-4558-9a0d-c20799269c45/5255983221-500.jpg" data-tags="black metal, ambient black metal, dark ambient, atmospheric black metal" role="button">
-Blut aus Nord - MoRT (2006-10-23)
-</li>
-<li data-cover="https://img.discogs.com/BveOFWh0KLdZdaRA9Lvk36kMte0=/fit-in/600x665/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856704-1604065531-1893.jpeg.jpg" data-tags="black metal" role="button">
-Dornenreich - Durch den Traum (2006-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/eddac426-6a41-4f99-9388-57f5f95d7e1d/1061800706-500.jpg" data-tags="depressive rock, depressive black metal, black metal" role="button">
-Lifelover - Erotik (2007-02-24)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Mayhem - Ordo Ad Chao (2007-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/2cbde0c1-4bc5-4370-a6f7-9996506ed4af/21616934420-500.jpg" data-tags="black metal, industrial black metal" role="button">
+Abigor - Fractal Possession (2007-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/98ed235a-2f5c-44e9-8f94-1373fcd7dc4e/1981275082-500.jpg" data-tags="black metal" role="button">
 Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)
@@ -174,6 +180,9 @@ Deathspell Omega - Veritas Diaboli Manet in Aeternum: Chaining the Katechon (200
 <li data-cover="http://coverartarchive.org/release/98bc556d-1e43-4759-8f3a-95debe32e5c6/1969367104-500.jpg" data-tags="black metal" role="button">
 Deathspell Omega - Mass Grave Aesthetics (2008-12-15)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="avant-garde black metal, shit to check out" role="button">
+Decrepit Spectre - Coal Black Hearses (2008-12-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/1eb43f46-8361-48cd-a4d2-bc4b47430e2c/2198762268-500.jpg" data-tags="black metal" role="button">
 Peste Noire - Ballade cuntre lo Anemi Francor (2009-03-27)
 </li>
@@ -183,14 +192,8 @@ Damned Spirits' Dance - Weird Constellations (2009-04)
 <li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Altar of Plagues - White Tomb (2009-04-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2f48af0-f0a6-4368-9a11-4282d0a30dc3/10081496959-500.jpg" data-tags="avant-garde metal, black metal" role="button">
-Thy Catafalque - Róka Hasa Rádió (2009-05-12)
-</li>
 <li data-cover="https://img.discogs.com/CkBSsvg2C8X1iWgsZLpkqZEGXq0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6141682-1412114317-4162.jpeg.jpg" data-tags="black metal" role="button">
 1349 - Revelations of the Black Flame (2009-05-25)
-</li>
-<li data-cover="https://img.discogs.com/z93hsXJ-FG20W1WGYtQirXrMWUs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2098063-1263865182.jpeg.jpg" data-tags="black metal" role="button">
-Liturgy - Renihilation (2009-08-25)
 </li>
 <li data-cover="https://img.discogs.com/V-nRozPqVAqzJU7GfhpWnjFlk8Y=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1945225-1432399990-8604.jpeg.jpg" data-tags="atmospheric black metal, van" role="button">
 The Ruins of Beverast - Foulest Semen of a Sheltered Elite (2009-09-11)
@@ -201,14 +204,17 @@ Slagmaur - Von rov shelter (2009-09-28)
 <li data-cover="http://coverartarchive.org/release/39fec153-c55a-4b18-88b3-885260374ffc/11356273648-500.jpg" data-tags="black metal" role="button">
 Krallice - Dimensional Bleedthrough (2009-11-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/af2b58ce-66c3-48ee-ab16-659706711b5d/28819853007-500.jpg" data-tags="black metal, avant-garde metal" role="button">
+Sigh - Scenes from Hell (2010-01-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/49b07c4d-f30a-418f-8959-bad1d10b4f31/3489902727-500.jpg" data-tags="black metal, ambient" role="button">
 Murmuüre - Murmuüre (2010-03)
 </li>
 <li data-cover="https://img.discogs.com/rKf6Z_8TpbThg6XiunREEWjRTBE=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3218058-1396524863-8801.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
 Pensées Nocturnes - Grotesque (2010-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
+<li data-cover="https://img.discogs.com/SGiyQBMz0KL3b7nz4UhC2eOVtbc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2780815-1300730217.jpeg.jpg" data-tags="melodic black metal" role="button">
+Daniel Lioneye - Vol. II (2010-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/328bdefc-496a-4671-b87a-e6918c75a5dd/8809240156-500.jpg" data-tags="progressive metal, black metal, avant-garde black metal" role="button">
 Vulture Industries - The Malefactor's Bloody Register (2010-09-13)
@@ -219,23 +225,14 @@ Deathspell Omega - Paracletus (2010-11-08)
 <li data-cover="http://coverartarchive.org/release/13525aaa-3c23-47a2-8d8d-be1f61a716f5/7626249180-500.jpg" data-tags="black metal, metal, progressive metal, industrial metal, avant-garde black metal, industrial black metal" role="button">
 Aborym - Psychogrotesque (2010-11-08)
 </li>
-<li data-cover="https://img.discogs.com/MNjpvM12TcXNaBdZ713VcJxbTRA=/fit-in/582x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716646-1329991758.jpeg.jpg" data-tags="black metal" role="button">
-Dornenreich - Flammentriebe (2011-02-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb33f4ad-af8d-4515-b4ba-57241a47333f/3828317945-500.jpg" data-tags="black metal, atmospheric black metal, industrial black metal" role="button">
 Blut aus Nord - 777 - Sect(s) (2011-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee632194-3255-485b-936c-dc3654066cf8/11356172981-500.jpg" data-tags="black metal, progressive black metal" role="button">
 Krallice - Diotima (2011-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b08665f-e562-4659-b345-9316d9f9eb83/1969337611-500.jpg" data-tags="black metal, progressive black metal" role="button">
 Deathspell Omega - Diabolus Absconditus (2011-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a8e9053-a923-4adf-8866-576270a6ccb7/1223508809-500.jpg" data-tags="black metal, avant-garde black metal, post-black metal, experimental" role="button">
-Peste Noire - L'Ordure à l'état Pur (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a06684e3-f175-42cf-a4cf-44c77530b18d/4803942518-500.jpg" data-tags="avant-garde metal" role="button">
 Unexpect - Fables of the Sleepless Empire (2011-05-31)
@@ -270,9 +267,6 @@ A Forest of Stars - A Shadowplay for Yesterdays (2012-07-20)
 <li data-cover="https://img.discogs.com/tzVxK6N7xgQFhn84zuJgwzXLQKA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3824531-1345873124-4176.jpeg.jpg" data-tags="atmospheric black metal, progressive black metal, space black metal" role="button">
 Krallice - Years Past Matter (2012-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg" data-tags="atmospheric black metal, post-black metal" role="button">
-Blut aus Nord - 777 - Cosmosophy (2012-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/2b495082-0495-4ce3-afcb-00ca1696efdb/7979037188-500.jpg" data-tags="2012" role="button">
 Cult of Fire - Triumvirát (2012-11-26)
 </li>
@@ -290,6 +284,9 @@ Peste Noire - Peste Noire (2013-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6e9931a-ff74-4bdd-9011-a7ac10edac18/12057122680-500.jpg" data-tags="avant-garde black metal" role="button">
 Wormlust - The Feral Wisdom (2013-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5fde5dd-7b0a-4d2d-bc74-db07223272c8/6839377797-500.jpg" data-tags="black metal" role="button">
+Carpe Noctem - In Terra Profugus (2013-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
 Vulture Industries - The Tower (2013-09-27)
@@ -314,6 +311,9 @@ Botanist - VI: Flora (2014-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8b3c6b5-41ee-4d40-843f-4f12f8f56c69/8674935013-500.jpg" data-tags="black metal, polish, polish black metal" role="button">
 Furia - Nocel (2014-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/87ef5bcf-57f2-4e0f-982f-0e8e723002e0/15394057048-500.jpg" data-tags="black metal, avant-garde black metal, american black metal" role="button">
+Imperial Triumphant - Shrine to the Trident Throne (2014-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f64fab3-8b5d-4e63-9ea4-e5161dfc5f3f/8904895966-500.jpg" data-tags="black metal, orthodox black metal" role="button">
 Thy Darkened Shade - Liber Lvcifer I: Khem Sedjet (2014-10-31)

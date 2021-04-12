@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:28:07.064Z
+date: 2021-04-12T13:17:07.238Z
 title: "west coast: 100 albums you must listen to before you die"
 ---
 ![2Pac - All Eyez on Me (1996-02-13)](http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg "2Pac - All Eyez on Me (1996-02-13)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="https://img.discogs.com/eKmVQ3jawWL8Kor54UtX-7XS69o=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3377981-1328028506.jpeg.jpg" data-tags="jazz, minimal, california, west coast, cool jazz, 50s, west coast jazz, penguin, j giuffre" role="button">
 Jimmy Giuffre - The Jimmy Giuffre 3 (1957)
 </li>
+<li data-cover="https://img.discogs.com/RhUJ18GXbRzzcek0C2MFWZXj6HQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3151523-1318201619.jpeg.jpg" data-tags="jazz" role="button">
+Jimmy Giuffre - Free Fall (1963)
+</li>
 <li data-cover="http://coverartarchive.org/release/1cb9e01f-6a76-42bd-9225-e9a8353e73c1/17242143800-500.jpg" data-tags="soul" role="button">
 Marlena Shaw - The Spice Of Life (1969)
 </li>
@@ -39,6 +42,9 @@ Paul Davis - Singer of Songs, Teller of Tales (1977)
 <li data-cover="http://coverartarchive.org/release/60f408de-4b72-4d20-8649-a0b9e61e4aa1/25895719276-500.jpg" data-tags="singer-songwriter" role="button">
 Karla Bonoff - Karla Bonoff (1977-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
+Stephen Bishop - Bish (1978)
+</li>
 <li data-cover="http://coverartarchive.org/release/d8a494a6-de6c-41d4-9557-8076b7164423/18393544502-500.jpg" data-tags="classic rock, soft rock, west coast, westcoast" role="button">
 England Dan & John Ford Coley - Dr. Heckle & Mr. Jive (1979)
 </li>
@@ -48,11 +54,11 @@ Ned Doheny - Prone (1979)
 <li data-cover="https://img.discogs.com/4EGYGC-mhd9EA7IFfn6GJCOZT3I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3564007-1335446357.jpeg.jpg" data-tags="pop, soft rock, adult contemporary, rnb, west coast, westcoast, k bonoff" role="button">
 Karla Bonoff - Restless Nights (1979-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/69ed83e9-d9eb-4b28-b920-4695030347c3/27061115894-500.jpg" data-tags="soul" role="button">
-Al Jarreau - This Time (1980)
-</li>
 <li data-cover="https://img.discogs.com/uTWfPWRUP9V5KnGRf_Bl7ZnBPrA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2719038-1411053708-4303.jpeg.jpg" data-tags="aor, west coast, yacht rock, westcoast, high tech, high tech aor" role="button">
 Maxus - Maxus (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c0fe911-4609-472b-a80c-4ff17bd87af1/28309296904-500.jpg" data-tags="soft rock, west coast" role="button">
+Alessi Brothers - Long Time Friends (1982)
 </li>
 <li data-cover="https://img.discogs.com/eqxZ3J5FsTHH6Q4sHZUyxJNJd2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818509-1539710800-3226.jpeg.jpg" data-tags="soft rock, adult contemporary, west coast, westcoast, karla bonoff, k bonoff" role="button">
 Karla Bonoff - Wild Heart Of The Young (1982-03)
@@ -102,6 +108,9 @@ E-40 - Federal (1993-11-10)
 <li data-cover="https://img.discogs.com/71BVgzlkkTwSUkE7yxsiUmslzg4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494721-1287126542.jpeg.jpg" data-tags="g-funk" role="button">
 Warren G - Regulate... G Funk Era (1994-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b49a58b-c288-4186-a739-c88c2c7de52a/7093011238-500.jpg" data-tags="west coast, g-funk" role="button">
+Tweedy Bird Loc - No Holds Barred (1994-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/bf7b929f-df6e-4d4f-916a-815ee7ff2fd7/28055664145-500.jpg" data-tags="gangsta rap, west coast, g-funk" role="button">
 Lil 1/2 Dead - The Dead Has Arisen (1994-10-25)
 </li>
@@ -111,14 +120,14 @@ Ice Cube - Bootlegs & B-Sides (1994-11-22)
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/3cf43202-0610-468c-90c8-04c4cbcb1159/15007385971-500.jpg" data-tags="hip-hop, west coast, g-funk, political hip-hop" role="button">
+Kam - Made in America (1995-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">
 Montell Jordan - This Is How We Do It (1995-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c555c621-eaa9-40b0-969e-a5a465c14a45/6564068866-500.jpg" data-tags="gangsta rap" role="button">
 Jayo Felony - Take A Ride (1995-05-30)
-</li>
-<li data-cover="https://img.discogs.com/mN4NMNVGkF3FyOxB363EKuQIsIs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129899-1496425761-4859.jpeg.jpg" data-tags="electronic, electronica, ambient, downtempo, usa, american, california, west coast, los angeles, american artist, united states, from: usa, american bands, american brilliance, california indie, california artists, usa artists, us independent, california local, california dreaming, west coast underground, los angeles ca, west-coast, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, amercian band, los angeles underground" role="button">
-Electric Skychurch - Knowoneness (1995-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0a66d1a-83e4-4e58-99cb-3cb0d2ee6fa0/28055676073-500.jpg" data-tags="gangsta rap, west coast, g-funk" role="button">
 Lil 1/2 Dead - Steel On A Mission (1996)
@@ -134,6 +143,12 @@ Xzibit - Paparazzi (1996-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac092222-68e8-41eb-a3a4-36814ce2b8ae/7933624830-500.jpg" data-tags="rnb, soul" role="button">
 Tony Toni Toné - Hits (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8f4dbd1-fe82-40b2-a3ef-0050fb39a81e/27247494929-500.jpg" data-tags="2pac" role="button">
+2Pac - In His Own Words (1998-07-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, jazz piano" role="button">
+Tommy Flanagan - Sunset And The Mockingbird (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34d3b22-9b21-44a1-bbef-6ebc05bed361/5131421085-500.jpg" data-tags="hip-hop" role="button">
 Cypress Hill - IV (1998-10-06)
@@ -156,11 +171,11 @@ Dr. Dre - 2001 (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/48d6c571-78f4-4dfc-b146-c2f780ab67d2/13721847012-500.jpg" data-tags="gangsta rap, west coast rap" role="button">
 Kurupt - Tha Streetz Iz A Mutha (1999-11-16)
 </li>
-<li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
-Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/05a01d85-ea57-4b35-a7cd-f1ae18437328/3420809133-500.jpg" data-tags="ice cube, gangsta rap" role="button">
 Ice Cube - War & Peace, Volume 2 (The Peace disc) (2000-03-21)
+</li>
+<li data-cover="https://img.discogs.com/FTEtJbfFiB249E-f1r1OFwfM-ng=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14527167-1576369061-4622.jpeg.jpg" data-tags="2pac" role="button">
+2Pac - The Lost Tapes (2000-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/053fd662-153c-4156-b04b-b8b6c11d425f/10331224996-500.jpg" data-tags="g-funk" role="button">
 Snoop Dogg - Dead Man Walkin (2000-10-31)
@@ -168,17 +183,8 @@ Snoop Dogg - Dead Man Walkin (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
 </li>
-<li data-cover="https://img.discogs.com/lFcJU9I-61iiyOCNDXGeZr-Pm0w=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129756-1205909343.jpeg.jpg" data-tags="hip-hop" role="button">
-Waterjuice - Hydrophonics (2001)
-</li>
-<li data-cover="https://img.discogs.com/0BMHQvDhsMbK24jC_JDbAD79qGY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135827-1306150689.jpeg.jpg" data-tags="ambient, usa, cafe del mar, american, california, west coast, psytrance, los angeles, elektronic beats, american artist, united states, from: usa, american brilliance, american indie, california artists, usa artists, california local, american dream, california dreaming, west coast underground, los angeles ca, west-coast, west coast chill, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, los angeles underground" role="button">
-Electric Skychurch - Sonic Diary (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/835a431b-81d8-4440-8157-d3efa65a8a39/955224994-500.jpg" data-tags="2pac, rap" role="button">
 2Pac - Until The End Of Time (2001-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4aa0d3c-275f-48f3-872c-2ea08fd43ec8/3403917566-500.jpg" data-tags="trip-hop" role="button">
-Saru - Downtempo Dojo (2001-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c9822ef-2188-4b78-93f2-67540352b45c/4402762632-500.jpg" data-tags="rap" role="button">
 Coolio - Fantastic Voyage: The Greatest Hits (2001-07-17)
@@ -222,6 +228,9 @@ Westside Connection - Terrorist Threats (2003-12-09)
 <li data-cover="http://coverartarchive.org/release/667eea77-301e-422c-a4a4-d3233ce05ea7/4705573700-500.jpg" data-tags="hip-hop" role="button">
 Sage Francis - Dead Poet Live Album (2004)
 </li>
+<li data-cover="https://img.discogs.com/nXIpe5mHDqlijRProJx0ze66nhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749580-1155485702.jpeg.jpg" data-tags="rap" role="button">
+KNOC-TURN'AL - The Way I Am (2004-03-23)
+</li>
 <li data-cover="https://img.discogs.com/RUvqDaLBWFlTy_4hceFmZ5iZUyo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480225-1193188108.jpeg.jpg" data-tags="hip-hop" role="button">
 The Pharcyde - Humboldt Beginnings (2004-07-13)
 </li>
@@ -231,17 +240,11 @@ The Pharcyde - Humboldt Beginnings (2004-07-13)
 <li data-cover="https://img.discogs.com/Im1Ye32eFS2qowwRop4yXtIiLgI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314921-1544872096-6849.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
 213 - The Hard Way (2004-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec815da1-1eb9-4f7a-836b-cd07db690436/28399282774-500.jpg" data-tags="electronica, ambient, dub, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, neu, bay-area, bay area underground, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, american dream, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, investig, san francisco band, bay area best, vaporvent, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Melbaphonics (2004-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62ec46e-29f0-4e73-8396-06ce24808e8a/6771100467-500.jpg" data-tags="hip-hop, rap, west coast, west coast rap, 2pac" role="button">
 2Pac - The Prophet Returns (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ac57a84-96f7-495e-b402-d873e0087a47/4765449580-500.jpg" data-tags="hip hop" role="button">
-Opio - Triangulation Station (2005-02-22)
 </li>
 <li data-cover="https://img.discogs.com/vnR_afNLAQubKb5Yg8NWi4bwnyA=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12251481-1588875243-9742.jpeg.jpg" data-tags="chillout, electronica, ambient, cafe del mar, world, romantic, new age, dreamy, lounge, west coast, nighttime is the righttime, relax, smooth sounds" role="button">
 Tiffany Evans - Thinkin' About (2005-09-06)
@@ -266,12 +269,6 @@ Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9868d4d6-bbb8-41e6-aa5a-14198be0b3db/24048310119-500.jpg" data-tags="hip-hop, rap, american, crunk, west coast, 00s, explicit, real life rhymes, lyrics to learn from" role="button">
 Too $hort - Get Off The Stage (2007-12-04)
-</li>
-<li data-cover="https://img.discogs.com/58m6T0daIM0TzKcigGlGi8KR15Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3832444-1370809627-1386.jpeg.jpg" data-tags="electronica, psychedelic, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, bay-area, american bands, bay area underground, mesmerize, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, myfavo, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, amercian band, san francisco band, bay area best, vaporvent, faval bm, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Liquid Journeys (2008)
-</li>
-<li data-cover="https://img.discogs.com/wz4cdUmqyQAs-pbpYXmiLYJ5v-U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1219589-1201575517.gif.jpg" data-tags="uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz, alternative lounge, electrocool, electropcool" role="button">
-Supreme Beings of Leisure - 11i (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/tO9IJ3ZHJWnM9yLlUa39YpmIFe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343555-1326631988.jpeg.jpg" data-tags="rap, hip-hop, hip hop, snoop dogg" role="button">
 Snoop Dogg - Ego Trippin' (2008-03-11)
@@ -314,6 +311,9 @@ Andreas Aleman - It's The Journey (2012-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/32fb8872-a514-494e-90e7-3a0aa705073c/18055165177-500.jpg" data-tags="jazz, soul, soft rock, funk, west coast, yacht rock, westcoast, yacht rock revival, brazilian yacht rock" role="button">
 Ed Motta - AOR (2013)
+</li>
+<li data-cover="http://coverartarchive.org/release/b15d90a1-895c-4821-b98d-fb2b392d42ea/6414457132-500.jpg" data-tags="country, california, west coast, juggalo, mmfwcl" role="button">
+Moonshine Bandits - Calicountry (2014-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5171e699-9128-4770-808b-2602187013d3/8189295650-500.jpg" data-tags="west coast" role="button">
 Vince Staples - Shyne Coldchain Vol. 2 (2014-03-13)

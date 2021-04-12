@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:00:01.634Z
+date: 2021-04-12T13:10:01.583Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -62,9 +62,6 @@ The Kinks - Arthur (Or the Decline and Fall of the British Empire) (1969-10-10)
 </li>
 <li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
 Kevin Ayers - Joy Of A Toy (1969-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a970ef-4747-4699-8436-80552447aef4/12189406246-500.jpg" data-tags="rock, psychedelic" role="button">
-The Move - Shazam (1970)
 </li>
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
@@ -161,6 +158,9 @@ Caribou - Andorra (2007-08-17)
 </li>
 <li data-cover="https://img.discogs.com/OFRqzacWmweSCg3sCk6YKWpSMn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13765085-1560626477-5838.jpeg.jpg" data-tags="progressive rock" role="button">
 Motorpsycho - Little Lucid Moments (2008-03-28)
+</li>
+<li data-cover="https://img.discogs.com/McaWN8RBrxBIXT_679Q746ThUHI=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3738953-1342411186-5665.jpeg.jpg" data-tags="alternative rock, neo-psychedelia" role="button">
+The Dandy Warhols - ...Earth to the Dandy Warhols... (2008-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)

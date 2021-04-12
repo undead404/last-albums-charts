@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:31:12.688Z
+date: 2021-04-12T13:19:01.479Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -74,6 +74,9 @@ Joe - My Name Is Joe (2000-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/96c789d8-5e4f-4fee-b4a6-5c3e43ac81e2/8188798739-500.jpg" data-tags="hip-hop, chillout, soul, r&b, rnb, slow jams, unlisted releases, soul train award best rnb soul album - female" role="button">
 Mýa - Fear of Flying (2000-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
+Alicia Keys - Songs in A Minor (2001-06-05)
 </li>
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
@@ -206,9 +209,6 @@ Selah Sue - Selah Sue (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fe337a7-2e91-4475-be84-af9cf8ad2e3c/4805128775-500.jpg" data-tags="r&b" role="button">
-Frank Ocean - nostalgia, ULTRA (2011-03-24)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)

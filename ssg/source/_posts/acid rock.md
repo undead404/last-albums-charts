@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:47:01.584Z
+date: 2021-04-12T13:00:07.235Z
 title: "acid rock: 100 albums you must listen to before you die"
 ---
 ![The Jimi Hendrix Experience - Are You Experienced (1967-05-12)](https://img.discogs.com/Vu4jQjQNYVfIU-IOManIkLcna3U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018049-1510345968-8926.jpeg.jpg "The Jimi Hendrix Experience - Are You Experienced (1967-05-12)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/22862a47-2b63-4364-a00d-d38aa7cef4cd/4087870823-500.jpg" data-tags="garage rock, psychedelic" role="button">
-The Seeds - The Seeds (1966)
-</li>
 <li data-cover="http://coverartarchive.org/release/dac32141-814d-3f11-817b-5ca3be10fe4f/22681733219-500.jpg" data-tags="folk rock, psychedelic rock" role="button">
 Jefferson Airplane - Jefferson Airplane Takes Off (1966-08-15)
 </li>
@@ -66,6 +63,9 @@ Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/75cb8a43-a505-48fb-b65f-5d1aa447c391/15818410857-500.jpg" data-tags="60s rock-blues" role="button">
+Quicksilver Messenger Service - Shady Grove (1969)
+</li>
 <li data-cover="https://img.discogs.com/sEqu7m8V2M8DySXp2VBC9MRuxpM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3898081-1589187732-6072.jpeg.jpg" data-tags="60s, psychedelic rock, psychedelic" role="button">
 Quicksilver Messenger Service - Happy Trails (1969-03)
 </li>
@@ -77,9 +77,6 @@ Alice Cooper - Pretties for You (1969-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
-</li>
-<li data-cover="https://img.discogs.com/Fm-5djCOVH9EsHw9jEFKN6u-vic=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1659006-1371205739-3367.jpeg.jpg" data-tags="progressive, acid rock" role="button">
-Edgar Broughton Band - Wasa Wasa (1969-07)
 </li>
 <li data-cover="https://img.discogs.com/Hh14whL1PQxQRxK1d0k1Ipxmets=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1586134-1313541166.jpeg.jpg" data-tags="60s, psychedelic rock" role="button">
 Jefferson Airplane - Volunteers (1969-11)
@@ -120,6 +117,9 @@ Jimi Hendrix - The Cry of Love (1971-03-05)
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
 The Doors - L.A. Woman (1971-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/db2a5d3b-a6a6-4458-aa93-f17f9e880d23/17393555792-500.jpg" data-tags="blues rock" role="button">
+Blues Creation - Demon & Eleven Children (1971-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/28c3d885-46c9-3961-b27d-2a29b14195ea/3645128466-500.jpg" data-tags="classic rock, psychedelic rock, blues rock, rhythm and blues, guitar hero, acid rock, hendrix, gammarec, freepurp1e" role="button">
 Jimi Hendrix - Isle of Wight (1971-11)
 </li>
@@ -135,9 +135,6 @@ The Doors - Full Circle (1972-07)
 <li data-cover="http://coverartarchive.org/release/30a83ec2-5dba-426b-8205-0865eb635667/22669459419-500.jpg" data-tags="rock, grand funk railroad" role="button">
 Grand Funk Railroad - Phoenix (1972-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/df7fd1e6-822d-46de-aff0-2cef99d6bf5f/27924372464-500.jpg" data-tags="jazz, funk, stoner, jazz rock, war, funk rock, acid rock, united artists records, deliver the word" role="button">
-War - Deliver The Word (1973)
-</li>
 <li data-cover="http://coverartarchive.org/release/8b9c772e-9b26-41d0-bfe1-469b9eea2b32/8999875635-500.jpg" data-tags="hard rock, progressive rock, psychedelic rock" role="button">
 Flower Travellin' Band - Make Up (1973)
 </li>
@@ -150,6 +147,12 @@ Buffalo - Volcanic Rock (1973)
 <li data-cover="http://coverartarchive.org/release/b0516101-aa8f-43ea-8e91-991fa258ae51/9070807732-500.jpg" data-tags="classic rock, hard rock" role="button">
 Grand Funk Railroad - We're an American Band (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd5ab08a-7354-37f6-a703-1463388dd5d1/18494237412-500.jpg" data-tags="hard rock" role="button">
+Armageddon - Armageddon (1975)
+</li>
+<li data-cover="https://img.discogs.com/D3RdTRVvEUxomo8A1bvYaP2iFYo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8307028-1468906961-7669.jpeg.jpg" data-tags="classic rock" role="button">
+Grand Funk Railroad - Caught In The Act (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/df0b92e9-9302-4694-a054-f8d0811d1043/12688412253-500.jpg" data-tags="psychedelic rock" role="button">
 Jimi Hendrix - Midnight Lightning (1975-11)
 </li>
@@ -158,9 +161,6 @@ Meat Puppets - Meat Puppets (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8a4a309-f4a6-3674-918b-0470074ffe1e/28124450662-500.jpg" data-tags="psychedelic, classic rock, 60s, hard rock" role="button">
 Vanilla Fudge - The Best of Vanilla Fudge (1982)
-</li>
-<li data-cover="https://img.discogs.com/NgisEsBo7RmUkbA4O2U_jZh_OJA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3465193-1331509991.jpeg.jpg" data-tags="compilation" role="button">
-Cream - Strange Brew: The Very Best of Cream (1983)
 </li>
 <li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
@@ -219,14 +219,14 @@ Acid Mothers Temple & The Melting Paraiso U.F.O. - La Nòvia (2000)
 <li data-cover="https://img.discogs.com/heisxwTrcrF-2WkBJUQCTynQI9Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454076-1449432846-9971.jpeg.jpg" data-tags="stoner rock" role="button">
 Comets On Fire - Comets on Fire (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/999eebce-fcff-4514-b805-3eec722b77fb/27680159830-500.jpg" data-tags="psychedelic rock" role="button">
+JPT Scare Band - Sleeping Sickness (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/b31c4dcd-4074-4e29-ab09-e8321d57f086/19351966139-500.jpg" data-tags="psychedelic" role="button">
 Dead Meadow - Howls From the Hills (2001-10-23)
 </li>
 <li data-cover="https://img.discogs.com/n_7r2apNvGWk-oE9ROoOutZgNfk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3317297-1350022655-8382.jpeg.jpg" data-tags="indie rock, psychedelic rock, acid rock, heavy psychedelia" role="button">
 Liquid Sound Company - Inside the Acid Temple (2002)
-</li>
-<li data-cover="https://img.discogs.com/h-yEdvYFBL0aGJisLHfrk1Qf2so=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1375376-1302093174.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
-Orange Goblin - Coup De Grace (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a5b6dee-4d9c-4653-b16c-56035b4f3650/20424944292-500.jpg" data-tags="classic rock, grand funk railroad" role="button">
 Grand Funk Railroad - Live: The 1971 Tour (2002-07-02)
@@ -236,9 +236,6 @@ Comets On Fire - Field Recordings from the Sun (2002-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e987749-bbc4-4e34-bad8-058991f4f696/4558387608-500.jpg" data-tags="stoner rock" role="button">
 Colour Haze - Los Sounds De Krauts (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dc22351-a8db-4b70-baf4-45ecf144087f/19809703359-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Orange Goblin - Thieving From The House Of God (2004-03-08)
 </li>
 <li data-cover="https://img.discogs.com/wQuhKafYNuC-F6XvabSNFyQBKmM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-861595-1166471147.gif.jpg" data-tags="stoner rock, space rock, checkitout, acid rock, heavy psych, le fol esquif en vogue" role="button">
 The Psychic Paramount - Gamelan into the Mink Supernatural (2005-07)
@@ -287,6 +284,9 @@ Lotus - Hammerstrike (2008-10-14)
 </li>
 <li data-cover="https://img.discogs.com/UI8smHweqRNsbJklJKDCxfvzBD4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574308-1230055980.jpeg.jpg" data-tags="post-rock, 10s, neo-psychedelia, acid rock, not not fun, psychedelic noise, drone noise" role="button">
 Raccoo-oo-oon - Raccoo-oo-oon (2008-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/57a85649-206a-4724-8df7-072fdc4dc404/18908913243-500.jpg" data-tags="space rock, psychedelic rock, acid rock" role="button">
+Bardo Pond - Peri (2009-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3167de2-e1f2-4fdb-bc72-9610c837be6a/14303013313-500.jpg" data-tags="french, experimental, noise rock, psychedelic, late night, space rock, intense, psychedelic rock, drone doom, black, drone rock, acid rock, heavy psych, experimental black metal, doomgaze, noise metal, norma evangelium diaboli, noisegaze, black noise, ritual musick, creeping chaos, pscychedelic rock, the ajna offensive" role="button">
 Aluk Todolo - Finsternis (2009-05-30)

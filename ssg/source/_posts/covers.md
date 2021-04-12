@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:01:23.636Z
+date: 2021-04-12T13:11:01.495Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -57,6 +57,9 @@ Shawn Colvin - Cover Girl (1994-08-23)
 <li data-cover="http://coverartarchive.org/release/4508124e-d2bb-4375-a5c5-e61d2c3d9f04/14486664847-500.jpg" data-tags="punk covers" role="button">
 MxPx - On The Cover (1995-11-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/35df125c-af0b-4ce3-9e0b-e87aaa141a75/8034922966-500.jpg" data-tags="covers" role="button">
+The Moog Cookbook - The Moog Cookbook (1996-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unchained (1996-11-05)
 </li>
@@ -84,9 +87,6 @@ A*Teens - The ABBA Generation (1999-07-01)
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - From The Screen To Your Stereo (2000-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
 Johnny Cash - American III: Solitary Man (2000-10-17)
 </li>
@@ -113,9 +113,6 @@ Tori Amos - Strange Little Girls (2001-09-17)
 </li>
 <li data-cover="https://img.discogs.com/ITP7gH9tn2Nh1MkEiiqyn-eHuOg=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10522368-1499173104-3124.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Tribute to the Gods (2001-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e1c338f-5943-4841-9277-e7fa46f4b8b4/27059900433-500.jpg" data-tags="rock" role="button">
-Smash Mouth - Smash Mouth (2001-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
 Jimmy Eat World - Last Christmas (2001-12-10)
@@ -180,9 +177,6 @@ Paul Anka - Rock Swings (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Under Cover (2005-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b2fcbdd-6fb5-40bd-ae9e-0698cce97d8f/2044947282-500.jpg" data-tags="covers, ana torroja" role="button">
 Ana Torroja - Me Cuesta Tanto Olvidarte (2006)
 </li>
@@ -209,6 +203,9 @@ Stars - Do You Trust Your Friends? (2007-05-15)
 </li>
 <li data-cover="https://img.discogs.com/9Zmwat6J-bSlyq_U41G7S8MsLos=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700781-1237851517.jpeg.jpg" data-tags="deutsch, covers" role="button">
 Erdmöbel - No. 1 Hits (2007-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f963991-d59d-40a4-a7a9-d65cbb9aba30/15370774339-500.jpg" data-tags="rock, female vocalists, covers" role="button">
+Ann Wilson - Hope & Glory (2007-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d03c6f9d-a5f3-43ae-860a-5a92ad2a690e/8468336880-500.jpg" data-tags="jazz, female vocalists, smooth jazz, soul, covers" role="button">
 Queen Latifah - Trav'lin' Light (2007-09-25)
@@ -275,6 +272,9 @@ Glee Cast - Baby One More Time (Glee Cast Version) (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - I'm A Slave 4 U (Glee Cast Version) (2010-09-28)
+</li>
+<li data-cover="https://img.discogs.com/WK1gsKSmS5X133KZp4aK_QT1wD8=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2589830-1291999111.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - Me Against The Music (Glee Cast Version) (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/WK1gsKSmS5X133KZp4aK_QT1wD8=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2589830-1291999111.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - I Want To Hold Your Hand (Glee Cast Version) (2010-10-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:23:01.409Z
+date: 2021-04-12T13:24:01.487Z
 title: "scandinavian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Rhino Hi-Five: A-Ha (2005-07-19)](http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg "a-ha - Rhino Hi-Five: A-Ha (2005-07-19)")
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7c061fac-6cf1-3ce3-ba5f-75ebb60105f3/4939089157-500.jpg" data-tags="progressive rock, rio" role="button">
+Samla Mammas Manna - Måltid (1973)
+</li>
 <li data-cover="https://img.discogs.com/Pnle-zMfemt_Fd_806BmjmY9j7Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8352412-1459969116-7100.jpeg.jpg" data-tags="pop, swedish, scandinavian, 90s, ballads" role="button">
 Eva Dahlgren - En blekt blondins hjärta (1991)
+</li>
+<li data-cover="https://img.discogs.com/nfQIVPXc-OqRcKUSkuN_d403rCU=/fit-in/257x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-223394-1466806638-1948.jpeg.jpg" data-tags="pop, 90s, swedish, dance" role="button">
+Army of Lovers - Massive Luxury Overdose (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2abc486-cb39-4f9d-b649-27dec8e95608/13837286446-500.jpg" data-tags="viking metal" role="button">
 Bathory - Twilight of the Gods (1991-06-29)
@@ -35,6 +41,9 @@ Isengard - Høstmørke (1995-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/034446d2-7f75-4c51-8cde-dcef3c9afafa/3471383481-500.jpg" data-tags="scandinavian, finnish, omat aarteet" role="button">
 Rinneradio - Rok (1996-02)
+</li>
+<li data-cover="https://img.discogs.com/mOA-FdeOQ3y3UDOxhZuhafeOs-s=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1406635-1489410156-3080.png.jpg" data-tags="folk, norwegian, scandinavian, nordic ethno grooves, mycds, because i was brainwashed by folk musicians" role="button">
+Annbjørg Lien - Prisme (1996-10-25)
 </li>
 <li data-cover="https://img.discogs.com/CYHf9bWN-3TIW8yAvH2GCWSWl_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1779833-1591447901-1812.jpeg.jpg" data-tags="indie, alternative rock" role="button">
 The Wannadies - Bagsy Me (1996-11-30)
@@ -54,9 +63,6 @@ Sentenced - Frozen (1998-07-15)
 <li data-cover="https://img.discogs.com/VtNIF05IylryawW9rNVCqqqHI8s=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1248781-1437338993-8173.jpeg.jpg" data-tags="scandinavian" role="button">
 Hedningarna - Karelia Visa (1999)
 </li>
-<li data-cover="https://img.discogs.com/HhRcv7z_74n4mmYMYc_DUGK917Q=/fit-in/205x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1795274-1243843750.jpeg.jpg" data-tags="rock" role="button">
-Kashmir - The Good Life (1999)
-</li>
 <li data-cover="https://img.discogs.com/5xXuawPSRQmSLUwJxuju3Pb57cs=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346813-1464004165-1595.jpeg.jpg" data-tags="favoriter" role="button">
 Under Byen - Kyst (1999-11-03)
 </li>
@@ -65,6 +71,9 @@ Kent - Hagnesta Hill (1999-12-06)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/25df2916-30f1-4628-b826-79a739fe2c47/7035523946-500.jpg" data-tags="alternative rock, scandinavian, finnish, pligaa" role="button">
+LAB - Porn Beautiful (2000-03-13)
 </li>
 <li data-cover="https://img.discogs.com/beEtVq2-cXWep_N6fIa036E6IzU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1080266-1321385476.jpeg.jpg" data-tags="indie rock, punk" role="button">
 The (International) Noise Conspiracy - Survival Sickness (2000-04-10)
@@ -81,6 +90,9 @@ The Ark - We Are The Ark (2000-09-25)
 <li data-cover="http://coverartarchive.org/release/4698283c-0301-4cb5-a430-7a7624f9b427/5323340489-500.jpg" data-tags="pop, finnish, the crash" role="button">
 The Crash - Wildlife (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/38037715-bd5c-4db3-b3e8-596bf454fc0f/20432704631-500.jpg" data-tags="progressive metal" role="button">
+Madder Mortem - All Flesh Is Grass (2001-02-19)
+</li>
 <li data-cover="https://img.discogs.com/UDZrNF9Ghkhkytjr6J7tausOntY=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2231152-1271200353.jpeg.jpg" data-tags="norwegian" role="button">
 Madrugada - The Nightly Disease (2001-03-01)
 </li>
@@ -92,6 +104,9 @@ Soul Captain Band - Jokaiselle tulta (2001-10-05)
 </li>
 <li data-cover="https://img.discogs.com/MJAPTEh03tkQpEYfUAet7IjbdiE=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-153118-1125943589.jpeg.jpg" data-tags="scandinavian, finnish, suomi" role="button">
 Kapteeni Ä-Ni - Parhaat (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c093cfb-e40a-3821-804b-e4e95cd03fb4/22532177668-500.jpg" data-tags="progressive rock" role="button">
+Paatos - Timeloss (2002)
 </li>
 <li data-cover="https://img.discogs.com/39jKLeEQEZt8Dbe4303tnzC3q1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385571-1245095998.jpeg.jpg" data-tags="indie rock" role="button">
 Logh - Every Time a Bell Rings an Angel Gets His Wings (2002-01-21)
@@ -129,15 +144,6 @@ Mew - Frengers (2003-04-07)
 <li data-cover="http://coverartarchive.org/release/2c12cad5-bfca-4738-a06d-16b0b7b2679d/20294604785-500.jpg" data-tags="folk, singer-songwriter, female vocalists" role="button">
 Ane Brun - Spending Time With Morgan (2003-05-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3986eca7-b1a2-400e-ab90-8714de7eea7b/14972037146-500.jpg" data-tags="heavy metal" role="button">
-Tarot - Suffer Our Pleasures (2003-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/3994089f-f8b0-4649-b7dc-25a62cadf55b/15553360969-500.jpg" data-tags="chillout, electronic" role="button">
-Pepe Deluxé - Beatitude (2003-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f68589b-e5d5-46f8-bcab-81cc08b48ce7/26952080937-500.jpg" data-tags="jazz vocal, female vocalists, jazz" role="button">
-Silje Nergaard - Nightwatch (2003-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/7699cadb-b69e-4f39-a8a3-3f72487a35db/8018314646-500.jpg" data-tags="danish, denmark, copenhagen, europe, european, skandinavian music, skandinavian" role="button">
 Sepiamusic - Prototype (2003-12-16)
 </li>
@@ -147,14 +153,8 @@ Eivind Aarset - Connected (2004)
 <li data-cover="http://coverartarchive.org/release/1074b26c-29d1-4302-a0d7-6bd36b1acef8/15098382900-500.jpg" data-tags="indie, pop, rock, scandinavian, glam rock, 00s" role="button">
 Melody Club - Face The Music (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
-Hanne Hukkelberg - Little Things (2004)
-</li>
 <li data-cover="https://img.discogs.com/0IPDUMMiPZM-CG66FFIMymqqS1Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221523-1510414789-6366.jpeg.jpg" data-tags="jazz, instrumental, scandinavian, 00s, iveldie bar, lovely electronica, newstuff, 2000-luvun elektroniset klassikot" role="button">
 Lars Horntveth - Pooka (2004-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/53de8ceb-d30e-4d07-b34d-64c469b74a27/25185452356-500.jpg" data-tags="pop, swedish, power pop, scandinavian, sweden, transport, suede, scandinavia, suecia, songs they never play on the radio, suedois, scandinave, scandinavie, streaming na full, left-cheek kisses" role="button">
-Billie the Vision & the Dancers - I Was So Unpopular in School and Now They're Giving Me This Beautiful Bicycle (2004-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/99a48c5d-3f6f-4d55-9b95-dabd2f892e11/4050060630-500.jpg" data-tags="finnish" role="button">
 Scandinavian Music Group - Nimikirjaimet (2004-03-18)
@@ -171,9 +171,6 @@ Arve Henriksen - Chiaroscuro (2004-06-01)
 <li data-cover="https://img.discogs.com/5UPIS6UVJaT0u5THv2GamNOfv38=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5496730-1394898093-2058.jpeg.jpg" data-tags="rock, danish, denmark" role="button">
 Nephew - USADSB (2004-06-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
-Husky Rescue - Country Falls (2004-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Anna Ternheim - Somebody Outside (2004-10-13)
 </li>
@@ -186,6 +183,9 @@ Silverbullit - Arclight (2004-11-24)
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/9196dbdb-6585-44b1-93a2-3b2c3171348d/7825092056-500.jpg" data-tags="electronic, instrumental, experimental, scandinavian, posteverything, recommended by silev, nancykitten all-time favourite albums" role="button">
+Alog - Miniatures (2005-01-17)
+</li>
 <li data-cover="https://img.discogs.com/WTOCvV96aZxTqiRd-EVOBc_Ie94=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1759693-1461666178-1732.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Disco Ensemble - First Aid Kit (2005-02)
 </li>
@@ -197,6 +197,9 @@ Green Carnation - The Quiet Offspring (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/BjUspvOAhrciQQgsd-FV8OLY464=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420836-1501439721-1181.jpeg.jpg" data-tags="electronic" role="button">
 Jori Hulkkonen - Dualizm (2005-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b2e9c85-5b67-4004-b80d-52cc208887ba/2162284353-500.jpg" data-tags="downtempo" role="button">
+21 Hertz - Ocean of time (2005-04-12)
 </li>
 <li data-cover="https://img.discogs.com/SzsYS2vgUHTWmXrjhqUWUHEryRQ=/fit-in/600x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-989107-1423857263-3777.jpeg.jpg" data-tags="indie, rock" role="button">
 Caesars - Paper Tigers (2005-04-25)
@@ -216,11 +219,8 @@ Vladislav Delay - The Four Quarters (2005-09)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
-<li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">
-Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/58f5a5c5-64f8-417e-be12-b50dc322bc23/3357093889-500.jpg" data-tags="post-rock" role="button">
-Jeniferever - Choose a Bright Morning (2006-03-13)
+<li data-cover="http://coverartarchive.org/release/97d9c99b-b1e5-45d7-b061-e22e7c6eaab7/3891902626-500.jpg" data-tags="finnish, jazz" role="button">
+Emma Salokoski Ensemble - Kaksi Mannerta (2005-12-20)
 </li>
 <li data-cover="https://img.discogs.com/Eb8_yLOQyOGhlsuLDjmxgVZotFI=/fit-in/600x874/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16143094-1604165788-6495.jpeg.jpg" data-tags="mellow" role="button">
 Mew - The Zookeeper's Boy (2006-04-17)
@@ -267,9 +267,6 @@ Nina Kinert - Pets & Friends (2008-04-09)
 <li data-cover="https://img.discogs.com/PEX6Bc0-lk0RupwrX6cCebRjxdA=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339354-1210962480.jpeg.jpg" data-tags="new weird finland" role="button">
 Lau Nau - Nukkuu (2008-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d79c2a69-bf69-40d7-b0b4-207597c16aa0/11150466624-500.jpg" data-tags="indie, pop, indie pop, twee, scandinavian, nordic, female vocals, swedish indie, swedish twee, plastilina records, indie female vocals" role="button">
-Hari and Aino - Hari and Aino (2008-05-19)
-</li>
 <li data-cover="https://img.discogs.com/KjE_cyDb_Pf6TAXx5H166AzqUGs=/fit-in/497x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2185265-1268597411.jpeg.jpg" data-tags="swedish, scandinavian, indie folk, sweden, suede, scandinavia, suedois, scandinave, scandinavie" role="button">
 Melpo Mene - Bring the Lions Out (2008-07-01)
 </li>
@@ -291,14 +288,17 @@ El Perro del Mar - Love Is Not Pop (2009-04-01)
 <li data-cover="https://img.discogs.com/zQrT1N3Xqql4as1eFIEWKi8-xXg=/fit-in/599x756/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1846029-1247429989.jpeg.jpg" data-tags="indie pop" role="button">
 Mew - No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away (2009-08-13)
 </li>
+<li data-cover="https://img.discogs.com/-9bl6ZmpkMuRhYNgpEcr3E25HeQ=/fit-in/328x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2761215-1299850346.jpeg.jpg" data-tags="norwegian, scandinavian" role="button">
+Thomas Dybdahl - Thomas Dybdahl (2009-09-14)
+</li>
 <li data-cover="https://img.discogs.com/L9gcIyf8d0AUO_9BuTdPptksT5I=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148037-1515459878-2438.jpeg.jpg" data-tags="electronic, scandinavian, danish, danmark, deens, noord-europa, denemarken" role="button">
 Ginger Ninja - Wicked Map (2010-01-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ad68842-3f2b-4f4c-b179-358db3960b5e/16102549958-500.jpg" data-tags="ambient, 12k" role="button">
+Pjusk - Sval (2010-03-16)
+</li>
 <li data-cover="https://img.discogs.com/iBtbv7FTp_kdU4IlYsCCUY-8vac=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2498942-1461682724-9478.jpeg.jpg" data-tags="rock, punk" role="button">
 Disco Ensemble - The Island Of Disco Ensemble (2010-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/110e2d56-75a4-43be-ab0a-074019f4ab0a/25642122464-500.jpg" data-tags="heavy metal" role="button">
-Grand Magus - Hammer Of The North (2010-06-13)
 </li>
 <li data-cover="https://img.discogs.com/DubFPCJwQPM2OIEUu84L2PIA2-Y=/fit-in/492x752/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927742-1350604184-6658.jpeg.jpg" data-tags="swedish, rock" role="button">
 Kent - En plats i solen (2010-06-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:14:01.531Z
+date: 2021-04-12T13:40:01.542Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -90,6 +90,9 @@ Moloko - Statues (2003-01-06)
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
 </li>
+<li data-cover="https://img.discogs.com/ao8trswytlnbZgZr3dagbE2_lQQ=/fit-in/366x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538745-1129068276.jpeg.jpg" data-tags="electronic, dance" role="button">
+Basement Jaxx - Kish Kash (2003-10-20)
+</li>
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
 </li>
@@ -122,9 +125,6 @@ Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
-</li>
-<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
-CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:50:02.095Z
+date: 2021-04-12T13:45:01.880Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -87,6 +87,9 @@ Pavement - Crooked Rain, Crooked Rain (1994-02-14)
 <li data-cover="https://img.discogs.com/rTTc1Z0kW32khwFCA1OeKQXTXss=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16001330-1601663553-5614.jpeg.jpg" data-tags="math rock, noise rock, noise pop, post-hardcore, fucking genius, shady, real post-hardcore, albums to get, no core" role="button">
 Polvo - Celebrate the New Dark Age (1994-05-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d40c2a5-dff3-376e-b255-2d6bc7df6cd2/17549832584-500.jpg" data-tags="alternative" role="button">
+Hum - You'd Prefer an Astronaut (1995-04-11)
+</li>
 <li data-cover="https://img.discogs.com/VACsS8J_F8Mbqk_ExGSZ_fns2vo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986924-1181048050.jpeg.jpg" data-tags="indie rock" role="button">
 Luna - Penthouse (1995-08-08)
 </li>
@@ -131,9 +134,6 @@ Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
-deadmau5 - Get Scraped (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d61abca-5c04-4eba-937b-f575cf001b4e/15756798206-500.jpg" data-tags="indie rock" role="button">
 Be Your Own Pet - Be Your Own Pet (2006-03-27)

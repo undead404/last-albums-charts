@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:12:01.531Z
+date: 2021-04-12T12:58:01.504Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -204,6 +204,9 @@ Eurythmics - Greatest Hits (1991-02-28)
 <li data-cover="https://img.discogs.com/ivCBfo__6eYzRKG2nAmera5e6Vs=/fit-in/600x942/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-632962-1464451929-7538.jpeg.jpg" data-tags="80s, new wave" role="button">
 Billy Idol - Rebel Yell (1991-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/96a4eade-ceda-396f-8bfb-424a7897c487/8261864473-500.jpg" data-tags="pet shop boys" role="button">
+Pet Shop Boys - Discography: The Complete Singles Collection (1991-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
@@ -236,9 +239,6 @@ Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The Bravery - The Bravery (2005-03-14)
-</li>
-<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
-CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
 Eurythmics - Ultimate Collection (2005-11-04)

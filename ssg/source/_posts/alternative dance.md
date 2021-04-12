@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:39:01.420Z
+date: 2021-04-12T12:46:06.972Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -27,8 +27,14 @@ New Order - Low-Life (1985-05-01)
 <li data-cover="https://img.discogs.com/zpqeoIliHjw8vF4OdTy6vHwkAfo=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719322-1239025055.jpeg.jpg" data-tags="80s" role="button">
 The Communards - Red (1987-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metal" role="button">
+Jesus Jones - Liquidizer (1989)
+</li>
 <li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
 Depeche Mode - Personal Jesus (1989-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/eaf85f05-4899-47bf-a0f4-faec0b5ddfbd/5699767644-500.jpg" data-tags="alternative, post-punk" role="button">
+Wire - Manscape (1990-05-01)
 </li>
 <li data-cover="https://img.discogs.com/3efiRk10AkNMe1HVcHk81t9RD1M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059231-1401982169-5779.jpeg.jpg" data-tags="techno, industrial rock, alternative dance" role="button">
 Pop Will Eat Itself - Cure For Sanity (1990-08-01)
@@ -38,9 +44,6 @@ My Life with the Thrill Kill Kult - Sexplosion! (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/e411a740-84af-3f7c-8776-78c81fdc128d/21799937559-500.jpg" data-tags="electronic, pop, techno, house, 90s, male vocalists, alternative dance" role="button">
 Thompson Twins - Queer (1991-09-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
-The Lightning Seeds - Sense (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/a43d038f-32ba-449d-84dd-6dec49940aa8/25926755072-500.jpg" data-tags="alternative dance" role="button">
 The Farm - Love See No Colour (1992-10-27)
@@ -54,11 +57,11 @@ Chapterhouse - Blood Music (1993-11-09)
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
+<li data-cover="https://img.discogs.com/_dZRWL7W1rjDy5lySi_rC6ZD-ds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10413-1491124142-1194.jpeg.jpg" data-tags="chillout, electronic, ambient, hypnotic, alternative dance, groovesalad" role="button">
+Babble - Ether (1996-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
 Everything But the Girl - Walking Wounded (1996-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/06cf1467-1631-423a-b680-072225a7cc4f/14766461634-500.jpg" data-tags="90s" role="button">
-White Town - Women In Technology (1997-02-25)
 </li>
 <li data-cover="https://img.discogs.com/ic_jJXf96xxh8MNzICynN_a62Lc=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3942-1503379972-5000.jpeg.jpg" data-tags="shibuya-kei" role="button">
 Fantastic Plastic Machine - The Fantastic Plastic Machine (1997-10-10)
@@ -90,6 +93,9 @@ M.I.A. - Galang (2003)
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/9335a659-f3d0-46f9-aafa-3428888b565b/8041277058-500.jpg" data-tags="industrial metal" role="button">
+The Kovenant - SETI (2003-03-31)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Hilary Duff - Come Clean (2004-01-13)
 </li>
@@ -99,23 +105,14 @@ Cut Copy - Bright Like Neon Love (2004-04-05)
 <li data-cover="http://coverartarchive.org/release/470e4202-1975-4184-b30b-5fc2c8107daf/13920988207-500.jpg" data-tags="electronica, dance-rock" role="button">
 Curve - The Way of Curve (2004-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/9142e654-74a2-49ea-aa62-e48b012b8296/20933789973-500.jpg" data-tags="alternative, indie" role="button">
-Ian Brown - Solarized (2004-09-13)
-</li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
 </li>
-<li data-cover="https://img.discogs.com/wGy0Vo4cEFfdxgqVyvGTipm-SM0=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1671496-1242219123.jpeg.jpg" data-tags="gothic metal" role="button">
-End of You - Unreal (2005-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
-The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3eee593-df3f-46cb-9994-8a3c8917fe6d/1916382012-500.jpg" data-tags="electronic, male vocalists, alternative dance, 2000s, flashback alternatives" role="button">
 Depeche Mode - Martyr (2006-09)
@@ -125,6 +122,9 @@ Dope Stars Inc. - Gigahearts (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/31c43149-fd3a-4930-aca0-94461324105e/25424358311-500.jpg" data-tags="electronic, electropop" role="button">
+Capsule - Sugarless GiRL (2007-02-21)
 </li>
 <li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)
@@ -155,9 +155,6 @@ Franz Ferdinand - No You Girls (2009-02)
 </li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/426be902-b2fa-4c5a-b354-3fbd5a678758/1283637457-500.jpg" data-tags="electro-rock" role="button">
-Lюk - Мамина Юность (2009-03-08)
 </li>
 <li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
 Pet Shop Boys - Yes (2009-03-18)
@@ -227,6 +224,9 @@ Charli XCX - Nuclear Seasons (2011-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/50520c33-49a9-409e-88a1-ae3e10867748/3194910998-500.jpg" data-tags="disco, downtempo, funk, synthpop, alternative dance, space disco, italo disco, neo-psychedelia, nu-disco, jf1" role="button">
 Thieves Like Us - Bleed Bleed Bleed (2012)
+</li>
+<li data-cover="https://img.discogs.com/ReX412HOuNKxTEaP8eG-CwxtB7Y=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727148-1485641601-7302.jpeg.jpg" data-tags="electronic, electronica, indie, soul, alternative, alternative rock, indie pop, downtempo, new wave, dance-pop, britpop, psychedelic pop, indietronica, trip hop, synthpop, psychedelic rock, alternative pop, alternative dance, electronic rock, dance-rock" role="button">
+Gary Go - Now Was Once The Future (2012-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, dark pop, coramao, bete gouveia" role="button">
 M.I.A. - Bad Girls (2012-01-31)

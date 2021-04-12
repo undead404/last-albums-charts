@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:23:01.405Z
+date: 2021-04-12T13:15:29.616Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
 Melvins - Bullhead (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/e169868b-48e1-4fc8-831a-63c53799508a/14243483305-500.jpg" data-tags="sludge, sludge metal" role="button">
+Crowbar - Obedience Thru Suffering (1991-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/64bb2d1b-e4ab-4808-be16-5466264c2e65/20845677913-500.jpg" data-tags="sludge, sludge metal, post-metal" role="button">
 Neurosis - Souls at Zero (1992-12-01)
 </li>
@@ -38,9 +41,6 @@ Crowbar - Crowbar (1993-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/81002df9-0d6f-445d-be03-f2db24e7bfc0/4419920000-500.jpg" data-tags="sludge metal" role="button">
 Grief - Come To Grief (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a30465a-eebe-4da1-849f-8db80b963b6c/17989289600-500.jpg" data-tags="crust, sludge metal, punk" role="button">
-Dystopia - Human = Garbage (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/14e8adef-dc7e-4f7b-9c79-80af627ea817/7846949504-500.jpg" data-tags="sludge, doom metal" role="button">
 Acid Bath - When the Kite String Pops (1994-08-08)
@@ -75,14 +75,8 @@ Iron Monkey - Iron Monkey (1997)
 <li data-cover="https://img.discogs.com/xnZ-9Y15iKua33IO_bQd8_cEyAc=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-712732-1150771107.jpeg.jpg" data-tags="sludge metal, sludge" role="button">
 Iron Monkey - Our Problem (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
-Crowbar - Odd Fellows Rest (1998-07-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/b9b732b4-a67c-46b8-b1b0-e212b6ba3a00/17989181061-500.jpg" data-tags="crust, sludge, crust punk, sludge metal, mincecore, crust metal, albums to get" role="button">
 Dystopia - The Aftermath... (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/fa44d7bd-289a-4a19-845d-64e5e7b534d0/16131894017-500.jpg" data-tags="thrash metal, metal, death metal, groove metal" role="button">
-Lamb of God - Burn the Priest (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d56380fe-d00e-42c3-841a-654254ef264a/7697244807-500.jpg" data-tags="post-metal, sludge" role="button">
 Neurosis - Times of Grace (1999-04-26)
@@ -150,6 +144,9 @@ The Ocean - Aeolian (2005-11-25)
 <li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">
 Cult of Luna - Somewhere Along The Highway (2006-04-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="crust, post-metal, neocrust" role="button">
+Fall of Efrafa - Owsla (2006-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Blood Mountain (2006-09-08)
 </li>
@@ -158,9 +155,6 @@ Battle of Mice - A Day of Nights (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
 Rwake - Voices of Omens (2007-02-20)
@@ -264,6 +258,9 @@ SubRosa - No Help For The Mighty Ones (2011-02-11)
 <li data-cover="http://coverartarchive.org/release/7e331663-97ff-48bb-a849-a9bf374fc4e8/15324908900-500.jpg" data-tags="sludge metal, southern metal, brass balls, albums owned on cd, mis albumes favoritos" role="button">
 Black Label Society - The Song Remains Not The Same (2011-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/956d8145-90db-4fad-bc29-af7b55035abd/7505125133-500.jpg" data-tags="sludge metal" role="button">
+The Atlas Moth - An Ache for the Distance (2011-09-20)
+</li>
 <li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">
 Mastodon - The Hunter (2011-09-27)
 </li>
@@ -290,6 +287,9 @@ Inter Arma - Sky Burial (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b41d70a-4b9f-4523-9853-41c56b9585b5/3877523427-500.jpg" data-tags="rock, grunge, stoner metal, sludge metal, alice in chains, dr, herzschmerz, baamhakke, lieblingssongs, nice cover-art" role="button">
 Alice in Chains - Stone (2013-03-26)
+</li>
+<li data-cover="https://img.discogs.com/fgYdbxA8SDQEd8xdBXFp5QB86ew=/fit-in/388x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4655747-1371398329-7222.jpeg.jpg" data-tags="progressive metal, post-metal" role="button">
+The Ocean - Pelagial (2013-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)

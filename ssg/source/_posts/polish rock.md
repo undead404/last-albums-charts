@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:44:13.041Z
+date: 2021-04-12T12:55:23.898Z
 title: "polish rock: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -81,6 +81,9 @@ Czerwone Gitary - The Best of Czerwone Gitary (1991)
 <li data-cover="http://coverartarchive.org/release/f790d15f-93b7-47af-83df-416595c75724/5266100053-500.jpg" data-tags="kult, albums that i own and are great, kazik, kult your eyes" role="button">
 Kult - Your eyes (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/4cf9cdfb-8480-4f2e-9c82-7318431a554e/7231842796-500.jpg" data-tags="kto kupuje plyty od zlodzieja jest kutasem i niech spierdala" role="button">
+Kult - The Best Of 1986-1999 (1991-02-00)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3570fba-ba9f-4c04-a4e1-86d3ae4a15ba/8380075866-500.jpg" data-tags="rock, 90s, punk rock, polish, polish rock, grew up with" role="button">
 Big Cyc - Miłość, muzyka, mordobicie (1992)
 </li>
@@ -111,8 +114,8 @@ Szwagierkolaska - Luksus (1995)
 <li data-cover="http://coverartarchive.org/release/2273368e-0594-470c-8d08-4d27ada917bc/7231735893-500.jpg" data-tags="polish rock" role="button">
 Kazik - Oddalenie (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6c63fbb-b6cf-45bb-bb8a-19d82d8cdc75/10608237866-500.jpg" data-tags="gothic metal" role="button">
-Moonlight - Kalpa Taru (1996-10-14)
+<li data-cover="http://coverartarchive.org/release/597e7f4d-84db-4db0-a573-61439b264953/12612640054-500.jpg" data-tags="niemen" role="button">
+Czesław Niemen - Sen o Warszawie (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb0364f8-010f-4a42-91d8-7a1edb8063b9/3087772878-500.jpg" data-tags="rock, polish, polish rock" role="button">
 Robert Gawliński - Kwiaty jak relikwie (1997)
@@ -240,9 +243,6 @@ happysad - Podróże z i pod prąd (2005-10-12)
 <li data-cover="http://coverartarchive.org/release/251c2702-7b04-4ace-8975-390bc78358e9/5058132429-500.jpg" data-tags="rock, polish" role="button">
 Hey - Echosystem (2005-11-25)
 </li>
-<li data-cover="https://img.discogs.com/gRQUS0p1O34yUvJntj2yX0YiqzU=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1428343-1218912232.jpeg.jpg" data-tags="alternative, indie rock, post-rock, soft, slowcore, polish rock, tantra, bujamsie, gentle voice, george dorn screams, my music pillow" role="button">
-George Dorn Screams - Snow Lovers Are Dancing (2006)
-</li>
 <li data-cover="https://img.discogs.com/4gleMgBVBrDJZvK-vNOhF2xdcSk=/fit-in/500x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-998180-1182532104.jpeg.jpg" data-tags="lodz" role="button">
 Cool Kids Of Death - 2006 (2006-03-13)
 </li>
@@ -257,9 +257,6 @@ Wilki - Obrazki (2006-11-25)
 </li>
 <li data-cover="https://img.discogs.com/HWk2PBstX8VZXI8JSgo9mhhUSVA=/fit-in/457x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952089-1350317718-6888.jpeg.jpg" data-tags="rock, punk, post-punk, polish" role="button">
 Radio Bagdad - Słodkie Koktajle Mołotowa (2007)
-</li>
-<li data-cover="https://img.discogs.com/x3KJghFuRDm93srz0JZXf9ECz1U=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6544584-1476606872-7866.jpeg.jpg" data-tags="polish, rock, alternative" role="button">
-Muchy - Galanteria (2007-01-01)
 </li>
 <li data-cover="https://img.discogs.com/zmZmghxdlEOOW0xvOuwC3qMgai4=/fit-in/545x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3077739-1589202981-8470.jpeg.jpg" data-tags="punk rock" role="button">
 Pidżama Porno - Złodzieje zapalniczek (2007-03-26)
@@ -299,6 +296,9 @@ Hey - Miłość! Uwaga! Ratunku! Pomocy! (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bc95f76-7e20-4033-83db-b0a5c1e0c836/15707378346-500.jpg" data-tags="rock, polish, tina, polish rock, albums that i own" role="button">
 Muniek - Muniek (2010-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/d28e3260-ad82-4eb2-bcf9-b0afe788f003/23967639761-500.jpg" data-tags="rock, polish rock" role="button">
+Anna Jantar - Złota kolekcja (2010-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/356ac133-c3a5-469b-9612-3380abf8ea1c/4740015481-500.jpg" data-tags="polish rock, elektryczne gitary" role="button">
 Elektryczne Gitary - Historia (2010-11-05)

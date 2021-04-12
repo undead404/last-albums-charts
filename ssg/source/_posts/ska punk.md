@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:59:01.394Z
+date: 2021-04-12T13:07:01.437Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Streetlight Manifesto - Everything Goes Numb (2003-08-26)](http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg "Streetlight Manifesto - Everything Goes Numb (2003-08-26)")
@@ -222,9 +222,6 @@ Less Than Jake - B Is for B-Sides (2005)
 <li data-cover="http://coverartarchive.org/release/cece828f-b3e0-4b6f-a9ad-b6fa219c47c8/4723772725-500.jpg" data-tags="ska punk" role="button">
 Bomb the Music Industry! - Album Minus Band (2005-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
-Goldfinger - The Best Of Goldfinger (2005-02-19)
-</li>
 <li data-cover="https://img.discogs.com/COI79GHYa5Q31EB4PZlT6ucMbeU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6463974-1419874590-8128.jpeg.jpg" data-tags="ska punk" role="button">
 Reel Big Fish - We're Not Happy 'til You're Not Happy (2005-04-05)
 </li>
@@ -293,6 +290,9 @@ RX Bandits - Mandala (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d35cd68-6160-404c-8b9f-7d03ea8152d7/3263311252-500.jpg" data-tags="ska punk" role="button">
 Bomb the Music Industry! - Adults!!!... Smart!!! Shithammered!!! And Excited By Nothing!!!!!!! (2010-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/00d20c6f-821b-4a3a-8c24-c0af7b0b8df7/10988769115-500.jpg" data-tags="belarusian" role="button">
+Ляпис Трубецкой - Весёлые Картинки (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/25a97fae-0cf7-4363-8fae-74b35ea88b14/4673555729-500.jpg" data-tags="rock, punk, reggae, ska punk" role="button">
 Sublime with Rome - Yours Truly (2011-07-08)

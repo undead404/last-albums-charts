@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:29:01.487Z
+date: 2021-04-12T13:22:13.419Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -84,6 +84,9 @@ Sum 41 - All Killer No Filler (2001-05-08)
 <li data-cover="https://img.discogs.com/eZiWyLJS1IbceZYpIBcNMbGV0Rk=/fit-in/512x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955949-1309284671.jpeg.jpg" data-tags="rock" role="button">
 Default - The Fallout (2001-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/5bfcd3b1-223b-4220-a787-a0aa7f37567e/7942919709-500.jpg" data-tags="pop punk" role="button">
+Simple Plan - No Pads, No Helmets... Just Balls (2002-03-19)
+</li>
 <li data-cover="https://img.discogs.com/_rd-VQ24XDQKDNOWoc9Y_TdShuI=/fit-in/450x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583660-1420114474-5047.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
@@ -131,9 +134,6 @@ Tegan and Sara - So Jealous (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
 Hot Hot Heat - Elevator (2005-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e53c7839-9e1e-4952-b8bc-df22253b4b62/16062788098-500.jpg" data-tags="canadian" role="button">
-Wolf Parade - Wolf Parade (2005-07-12)
 </li>
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)

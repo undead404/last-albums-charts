@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:35:01.414Z
+date: 2021-04-12T13:13:01.723Z
 title: "pop-rock: 100 albums you must listen to before you die"
 ---
 ![Shawn Mendes - Shawn Mendes (2014-07-28)](http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg "Shawn Mendes - Shawn Mendes (2014-07-28)")
@@ -62,6 +62,9 @@ Chumbawamba - Tubthumper (1997-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0c81325-1494-4afe-84be-3466f3858ccc/23449580297-500.jpg" data-tags="alternative" role="button">
 Cake - Prolonging the Magic (1998-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
+La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/15e1eb52-208e-4f7f-9112-5efbf5d8db25/1665622673-500.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Skunk Anansie - Post Orgasmic Chill (1999-03-19)
@@ -140,9 +143,6 @@ Eels - Blinking Lights And Other Revelations (2005-04-25)
 </li>
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Weezer - Make Believe (2005-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
-The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="teen pop" role="button">
 Brie Larson - Finally Out of P.E. (2005-10-16)

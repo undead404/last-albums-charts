@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:12:01.404Z
+date: 2021-04-12T13:01:18.255Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![Trust - Trst (2012-02-28)](http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg "Trust - Trst (2012-02-28)")
@@ -36,6 +36,9 @@ Morrissey - Bona Drag (1990-10-08)
 <li data-cover="https://img.discogs.com/YXJHpQW8y46vG7hRWW_9ANNY1LI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008477-1258239023.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Lacrimosa - Angst (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/0eeec535-48c2-4cca-bf7f-7b8d4371bd8e/12525338901-500.jpg" data-tags="gothic" role="button">
+Umbra Et Imago - Träume, Sex und Tod (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
@@ -54,14 +57,17 @@ Lacrimosa - Stille (1997-03-17)
 <li data-cover="http://coverartarchive.org/release/1cb36a21-ad82-3ad1-8153-7f2a351b05b7/15577503825-500.jpg" data-tags="darkwave" role="button">
 Diary of Dreams - Bird Without Wings (1997-04-10)
 </li>
-<li data-cover="https://img.discogs.com/-fSLehijsmulEhaSsuDk9hVRm5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164232-1243812758.jpeg.jpg" data-tags="gothic, 90s, soft, ethereal, emotional, darkwave, lycia, nihilism, dream, us, night time, to explore, existentialism, music and poetry, excruciatingly beautiful, autumn and winter, lauraann163" role="button">
-Lycia - Estrella (1998)
+<li data-cover="http://coverartarchive.org/release/5a10bb6c-a45a-3a7c-8b3e-db564afae2f3/14512497121-500.jpg" data-tags="ambient" role="button">
+Delerium - Karma (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc28a1e5-3497-4b59-9163-7bf78651a0e6/3856745463-500.jpg" data-tags="gothic rock, darkwave, dark electro" role="button">
 Агата Кристи - Чудеса (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/f466d197-2b3f-41b3-beba-03d5a6a82b2e/15577523780-500.jpg" data-tags="darkwave, blaue stunden" role="button">
 Diary of Dreams - Psychoma? (1998-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff3da163-66f1-41f6-8b59-2a90b7840865/4824617654-500.jpg" data-tags="dark electro, ebm" role="button">
+:Wumpscut: - Boeses Junges Fleisch (1999-04-05)
 </li>
 <li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
@@ -105,8 +111,8 @@ Diorama - The Art of Creating Confusing Spirits (2002-10-18)
 <li data-cover="http://coverartarchive.org/release/6cce3b5f-797c-4fd2-a0b7-1f062ff2994d/2106784314-500.jpg" data-tags="darkwave" role="button">
 Diary of Dreams - Panik Manifesto (2002-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab22b50a-b4cf-4d67-9ca9-37c96a620ce6/21269332881-500.jpg" data-tags="deutschrock, darkwave, synthrock" role="button">
-Terminal Choice - Menschenbrecher (2003-03-03)
+<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
+In Strict Confidence - Engelsstaub (2003-01-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
 God Module - Empath (2003-04-01)
@@ -147,14 +153,14 @@ The Crüxshadows - Fortress In Flames (2004-07-06)
 <li data-cover="https://img.discogs.com/Agonj2gHUipo1rRZCV8OfNLZI9k=/fit-in/594x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-835855-1348710501-7794.jpeg.jpg" data-tags="darkwave, gothic rock, sleepless, gothcore, nice and dark, e likeness, coming summer melancholy" role="button">
 Ego Likeness - Water to the Dead (2004-07-20)
 </li>
+<li data-cover="https://img.discogs.com/JWo8EoKgYs1-ImxDg81EczE9YCQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14795332-1581761641-1361.jpeg.jpg" data-tags="gothic metal, darkwave, c xymox" role="button">
+Clan of Xymox - The Best Of Clan Of Xymox (2004-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/a15b234a-7564-36a1-ada8-ba3f1a3c3138/7000808882-500.jpg" data-tags="darkwave" role="button">
 Diary of Dreams - Nigredo (2004-10-25)
 </li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/74af6545-d26b-405b-8ac1-73ccafd2506e/12567452484-500.jpg" data-tags="folk, darkwave" role="button">
-Qntal - Illuminate (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ad75fa-44b2-3f90-8c5f-4b3fb9708678/10743288348-500.jpg" data-tags="industrial" role="button">
 Flesh Field - Strain (2004-11-08)
@@ -171,11 +177,11 @@ Adversus - Einer Nacht Gewesenes (2005-11-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
 Das Ich - Cabaret (2006-02-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/de9269fa-b966-44f5-879b-99e92f64c390/16291521839-500.jpg" data-tags="gothic metal" role="button">
+Lacrimas Profundere - Again It's Over (2006-06-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical, darkwave, dark ambient" role="button">
 Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/a281a42a-706a-463a-a53c-c33f8cf44675/27044528186-500.jpg" data-tags="darkwave, industrial metal" role="button">
-Mankind Is Obsolete - Trapped Inside (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6fd5cbd-7107-4c00-b994-d45356554b1e/7404384976-500.jpg" data-tags="darkwave, gothic kircore" role="button">
 Otto Dix - Город (2007)
@@ -189,23 +195,20 @@ Professor Fate - The Inferno (2007-03)
 <li data-cover="http://coverartarchive.org/release/5e3594ba-57a4-4d38-8dba-c5def657096c/15463644260-500.jpg" data-tags="darkwave" role="button">
 Diorama - A Different Life (2007-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f9162d9-69ad-4291-9907-bd188fcadb62/2025425093-500.jpg" data-tags="atmospheric, darkwave, neoclassical darkwave" role="button">
-Artesia - Chants d'automne (2007-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/93fadf79-9124-4d0c-8405-259659c68633/9389409640-500.jpg" data-tags="gothic, darkwave" role="button">
 Leandra - Metamorphine (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/ccc11250-3f2a-4c76-a71a-022874b95074/5303165909-500.jpg" data-tags="industrial rock" role="button">
+The Birthday Massacre - Looking Glass (2008-05-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a44d18f-180b-4677-b72b-13fa2b58a7e0/9291230911-500.jpg" data-tags="new wave, darkwave" role="button">
 She Wants Revenge - Save Your Soul (2008-05-13)
 </li>
 <li data-cover="https://img.discogs.com/oCJTMdf7S6aout2vXwG8KyX_GLg=/fit-in/361x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10554815-1499799953-3353.jpeg.jpg" data-tags="shoegaze, darkwave, witch house" role="button">
 Salem - YES I SMOKE CRACK (2008-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
 </li>
 <li data-cover="https://img.discogs.com/KfX7XjDVx8RmodW4lfTLmlfvfMo=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1794325-1613993413-5883.jpeg.jpg" data-tags="electronic, darkwave, blast first petite" role="button">
 HTRK - Ha / Panties (2008-11-06)
@@ -219,8 +222,8 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="https://img.discogs.com/Kdq4zcpvdewpG93Br_lK51L0EQs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1767606-1242061109.jpeg.jpg" data-tags="darkwave" role="button">
 Lacrimosa - Sehnsucht (2009-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
+<li data-cover="https://img.discogs.com/uGMQNs9K1GsAFPOuYino3zZpC8Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10795983-1504455740-5125.jpeg.jpg" data-tags="industrial, psychedelic, ebm, darkwave" role="button">
+Mechanical Moth - Rebirth (2009-06-05)
 </li>
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
@@ -311,9 +314,6 @@ Trust - Joyland (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/56ce8556-c0f9-4d8d-85a6-d873e9d4cec1/13225929306-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Ocean Death (2014-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/32f18e91-92ac-4ca8-9b92-a9f2142f7519/9440420310-500.jpg" data-tags="post-punk, synthpop, darkwave, temperature, sun and moon and stars and outer space, heartworm press" role="button">
-Cold Cave - Full Cold Moon (2014-05-13)
 </li>
 <li data-cover="https://img.discogs.com/aNaU17z_kgJr1ATCVe4dsyedENw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6334097-1416722384-6607.jpeg.jpg" data-tags="indie pop, american, darkwave, the voice, dead to me, dollhouse, gothic pop, carousel, bittersweet tragedy, melanie martinez" role="button">
 Melanie Martinez - Dollhouse (2014-07-24)

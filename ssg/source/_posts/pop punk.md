@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:29:01.548Z
+date: 2021-04-12T13:34:01.531Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -149,9 +149,6 @@ The Starting Line - Based on a True Story (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
-The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
@@ -305,6 +302,9 @@ The Story So Far - Under Soil and Dirt (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)
+</li>
+<li data-cover="https://img.discogs.com/s2oiyhmZCeQoSlC9rL3msXJ3VIM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5030788-1402302529-4348.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
+Green Day - ¡Uno! (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)

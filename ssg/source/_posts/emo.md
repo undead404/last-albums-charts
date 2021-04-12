@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:19:01.562Z
+date: 2021-04-12T13:25:01.527Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -95,6 +95,9 @@ Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2
 </li>
 <li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
 The Early November - For All Of This (2002-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
+The Ataris - So Long, Astoria (2003-02-03)
 </li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
@@ -192,6 +195,9 @@ The Audition - Controversy Loves Company (2005-09-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+Bullet for My Valentine - The Poison (2005-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
 </li>
@@ -252,9 +258,6 @@ Senses Fail - Still Searching (2006-10-09)
 <li data-cover="http://coverartarchive.org/release/53fcfff0-d654-4807-bbf6-1b6411d4e0d6/7900674334-500.jpg" data-tags="indie" role="button">
 Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
 </li>
@@ -290,9 +293,6 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
 Panic! at the Disco - Vices & Virtues (2011-03-18)

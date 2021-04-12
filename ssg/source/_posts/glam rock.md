@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:30:12.757Z
+date: 2021-04-12T13:23:18.412Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -225,6 +225,9 @@ The Darkness - I Believe in a Thing Called Love (2003-09-22)
 <li data-cover="http://coverartarchive.org/release/1074b26c-29d1-4302-a0d7-6bd36b1acef8/15098382900-500.jpg" data-tags="indie, pop, rock, scandinavian, glam rock, 00s" role="button">
 Melody Club - Face The Music (2004)
 </li>
+<li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+The Vines - Winning Days (2004-03-17)
+</li>
 <li data-cover="https://img.discogs.com/w3bLQY-v5wEbRPz1JBFbGZnRYh8=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-901656-1475778643-8496.jpeg.jpg" data-tags="rock, hard rock, glam rock" role="button">
 Private Line - 21st Century Pirates (2004-04)
 </li>
@@ -242,9 +245,6 @@ Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-Hardcore Superstar - Hardcore Superstar (2005-11-23)
 </li>
 <li data-cover="https://img.discogs.com/xd1pObyrCmuw3AGu_aRMYF5FphY=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14665850-1579210439-1655.jpeg.jpg" data-tags="fishburne street" role="button">
 Guster - One Man Wrecking Machine (2006-04-18)
@@ -276,8 +276,8 @@ Sohodolls - Ribbed Music for the Numb Generation (2007-09-24)
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">
 Marilyn Manson - The High End Of Low (2009-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
+<li data-cover="https://img.discogs.com/UsIoohLu7frF0ud2ko26k4rZIfk=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071538-1262365899.jpeg.jpg" data-tags="visual kei, all time favourite" role="button">
+Cinema Bizarre - Toyz (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71b28a2-d8fb-4900-a5fd-81573fde7872/10315463887-500.jpg" data-tags="hard rock" role="button">
 Kiss - Sonic Boom (2009-09-09)

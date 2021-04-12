@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:44:01.633Z
+date: 2021-04-12T12:50:01.509Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
 The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
+The Beatles - Magical Mystery Tour (1967-11-27)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
@@ -176,9 +179,6 @@ Amy Winehouse - Back to Black (2006-10-30)
 </li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
-</li>
-<li data-cover="https://img.discogs.com/swhvMXzxFWhVCisSb0vI8ljApwI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-914722-1313695743.jpeg.jpg" data-tags="new rave, indie" role="button">
-Klaxons - Myths of the Near Future (2007-01-29)
 </li>
 <li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)

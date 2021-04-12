@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:10:07.025Z
+date: 2021-04-12T12:56:01.418Z
 title: "eurodance: 100 albums you must listen to before you die"
 ---
 ![Aqua - Aquarium (1997-05-21)](http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg "Aqua - Aquarium (1997-05-21)")
@@ -53,6 +53,9 @@ Real McCoy - Another Night (1993)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="eurodance" role="button">
 Reel 2 Real - I Like To Move It (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6580fce-52c8-4459-9970-962330fb0169/27601591049-500.jpg" data-tags="90s, eurodance" role="button">
+Pandora - One of a Kind (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fc72651-d79f-4dd4-91d2-7828c57ebdc9/1000576572-500.jpg" data-tags="eurodance" role="button">
 Corona - The Rhythm of the Night (1993)
@@ -111,9 +114,6 @@ Me & My - Me & My (1995)
 <li data-cover="http://coverartarchive.org/release/1abf1e7e-3d9c-42cf-940e-11b05f57a739/1573772968-500.jpg" data-tags="eurodance" role="button">
 Mo-Do - Was Ist Das? (1995)
 </li>
-<li data-cover="https://img.discogs.com/hw6MVcnl78RqszSL4uLctwx_JxE=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50930-1414879430-9515.jpeg.jpg" data-tags="eurodance" role="button">
-Culture Beat - Inside Out (1995-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4cb89bdd-5d91-49b8-ab2d-abc643329f30/1966562832-500.jpg" data-tags="eurodance" role="button">
 E-Rotic - Sex Affairs (1995-05-29)
 </li>
@@ -131,6 +131,9 @@ N-Trance - Electronic Pleasure (1996-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/20c919be-40a7-4f86-849c-c0ddb924e26e/26887441553-500.jpg" data-tags="eurodance" role="button">
 Mr. President - We See The Same Sun (1996-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c686af46-32ef-4553-9b41-8efcb8633bbf/15923960253-500.jpg" data-tags="eurodance" role="button">
+E-Rotic - The Power of Sex (1996-06-27)
 </li>
 <li data-cover="https://img.discogs.com/rO27RHRs-NhKOyJwI7V7dXKv_eM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673385-1330735055.jpeg.jpg" data-tags="eurodance" role="button">
 Magic Affair - Phenomenia (1996-08-08)
@@ -234,9 +237,6 @@ Firevision - The Game You Play (2002)
 <li data-cover="https://img.discogs.com/NtjBFZKRAcrn6Y2iiut2yxGIIhY=/fit-in/400x335/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435438-1314018100.jpeg.jpg" data-tags="eurodance, go brooklyn" role="button">
 Brooklyn Bounce - Loud & Proud (2002-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
-</li>
 <li data-cover="https://img.discogs.com/eEStnMkoTa4WzoaKQfSe0agLRPI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96571-1604109777-6962.jpeg.jpg" data-tags="eurodance" role="button">
 Lasgo - Pray (2002-11-18)
 </li>
@@ -273,11 +273,11 @@ Cascada - Everytime We Touch (2006-02-21)
 <li data-cover="http://coverartarchive.org/release/945acc19-8cb9-4556-852b-4acaef9e7520/16078775946-500.jpg" data-tags="techno" role="button">
 Scooter - Excess All Areas (2006-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/9db99a93-9326-4caf-8793-6464418fe114/15206166626-500.jpg" data-tags="dance" role="button">
-Basshunter - LOL <(^^,)> (2006-08-30)
-</li>
 <li data-cover="https://img.discogs.com/vXogQiJ0-l3McOqRTp4p5WCBvNI=/fit-in/368x367/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138077-1266076816.jpeg.jpg" data-tags="eurodance, eurotrance, my own albums" role="button">
 Milk Inc. - Supersized (2006-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a99f923-cc4e-4868-806d-42b1353120c9/7403755300-500.jpg" data-tags="pop, greek pop" role="button">
+Helena Paparizou - The Game Of Love (2006-10-23)
 </li>
 <li data-cover="https://img.discogs.com/xI_dtY9BuYAtrzYjgL_1KmIO2nQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1633790-1251665496.jpeg.jpg" data-tags="disco, pop, british, dance, eurodance, 00s, europop" role="button">
 Lisa Scott-Lee - Never Or Now (2007)

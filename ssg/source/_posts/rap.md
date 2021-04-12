@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:00:01.455Z
+date: 2021-04-12T13:41:01.495Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -114,6 +114,9 @@ Eminem - The Marshall Mathers LP (2000-05-22)
 <li data-cover="http://coverartarchive.org/release/63d2c002-3b39-4e6a-9cad-50bb5f86a701/20658908646-500.jpg" data-tags="hip-hop" role="button">
 Nelly - Country Grammar (2000-06-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
+Big L - The Big Picture (2000-07-11)
+</li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
@@ -200,9 +203,6 @@ The Notorious B.I.G. - Greatest Hits (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">
-50 Cent - Curtis (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a758b20-d65d-4319-b7c9-62ff8489d4ad/10643982696-500.jpg" data-tags="chamillionaire, rap, hip-hop, dirty south" role="button">
 Chamillionaire - Ultimate Victory (2007-09-18)

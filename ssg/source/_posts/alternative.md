@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:21:01.469Z
+date: 2021-04-12T13:08:01.549Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -68,6 +68,9 @@ Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
+Garbage - Version 2.0 (1998-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
@@ -221,9 +224,6 @@ Thom Yorke - The Eraser (2006-07-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
 Incubus - Light Grenades (2006-11-22)

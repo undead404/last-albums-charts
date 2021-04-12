@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:56:12.689Z
+date: 2021-04-12T13:16:18.861Z
 title: "contemporary: 100 albums you must listen to before you die"
 ---
 ![Emancipator - safe in the steep cliffs (2010-01-19)](http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg "Emancipator - safe in the steep cliffs (2010-01-19)")
@@ -33,6 +33,9 @@ George Benson - White Rabbit (1971)
 <li data-cover="https://img.discogs.com/UZK11EhcNW6dEKua0Sq_DcZgqx4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831080-1612888054-9331.jpeg.jpg" data-tags="jazz, contemporary, flute, cd i own, mac jazz 100, jazz-winds, h laws" role="button">
 Hubert Laws - The Rite of Spring (1971-08-06)
 </li>
+<li data-cover="https://img.discogs.com/tfnns_R6h4dN3XH62pKls-r2Y1s=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1907121-1276958785.jpeg.jpg" data-tags="blues, gammarec" role="button">
+CCS - The Best Band in the Land (1973)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Jon Anderson - Olias of Sunhillow (1976-07)
 </li>
@@ -63,9 +66,6 @@ Brian Bromberg - Basses Loaded (1988)
 <li data-cover="https://img.discogs.com/sh7udceKcjCnx2nf0QYPwwjkKr8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993874-1257353554.jpeg.jpg" data-tags="fusion, contemporary, funk, bass, jazz rock, not available on last-fm radio yet" role="button">
 John Patitucci - John Patitucci (1988)
 </li>
-<li data-cover="http://coverartarchive.org/release/3a04d61e-788e-4313-91e5-dc278f5f53c1/1877796895-500.jpg" data-tags="british, contemporary, jamaica, roots reggae" role="button">
-Steel Pulse - State Of Emergency (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/acac87a2-2c0f-4ba7-975b-61940242501a/7900648919-500.jpg" data-tags="jazz fusion" role="button">
 Steps Ahead - N.Y.C. (1989)
 </li>
@@ -78,14 +78,14 @@ Brian Bromberg - BASSically Speaking (1990)
 <li data-cover="http://coverartarchive.org/release/5b1d9e7a-6e5e-403f-8076-06deb1b334a0/26165614461-500.jpg" data-tags="jazz, fusion" role="button">
 John Patitucci - Sketchbook (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/d0afb410-684f-445d-a6c2-71d8fe4a7e07/12655658899-500.jpg" data-tags="contemporary" role="button">
+Karl Biscuit - Aktualismus (1991)
+</li>
 <li data-cover="https://img.discogs.com/6LTEck3UvabnY-klD0k6GEuuMkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3234455-1379266216-3651.jpeg.jpg" data-tags="pop, rock, 80s, british, new wave, contemporary, funk, bass, jazz rock, slap, lasso the moon, rca recording" role="button">
 Level 42 - Guaranteed (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b9c3472-d5d7-45d3-979c-457d1e63fc1f/6398987390-500.jpg" data-tags="jazz" role="button">
 Michael Manring - Drastic Measures (1991-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/dce67341-a59f-4757-a3ab-b224713b1ee3/4620750435-500.jpg" data-tags="jazz, bass, brian bromberg" role="button">
-Brian Bromberg - It's About Time: The Acoustic Project (1991-05-21)
 </li>
 <li data-cover="https://img.discogs.com/XVnn4MqnAFLDDV7NDAvxK6uYc10=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4751769-1374368121-2566.jpeg.jpg" data-tags="basically bass" role="button">
 John Patitucci - Heart Of The Bass (1992)
@@ -132,6 +132,9 @@ Gary Willis - No Sweat (1996)
 <li data-cover="https://img.discogs.com/lzc8n6y2RJo_cXsR3uW4OBtKuCQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-181779-1205567296.jpeg.jpg" data-tags="pop, 80s, british, new wave, contemporary, funk, adult contemporary, bass, jazz rock, slap" role="button">
 Level 42 - Turn It On (1996-03-18)
 </li>
+<li data-cover="https://img.discogs.com/fHuID5vYwIkj8fiBHGQpTQuoyOE=/fit-in/204x205/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2780538-1300722654.gif.jpg" data-tags="instrumental, contemporary, free, gammarec, cuneiform records, cuneiform, freepurp1e, juma" role="button">
+Mujician - Birdman (1996-05-14)
+</li>
 <li data-cover="https://img.discogs.com/l5myufUizXhBgxlkKy3tbjgBapA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8611182-1465104843-1754.jpeg.jpg" data-tags="bass" role="button">
 John Patitucci - One More Angel (1997)
 </li>
@@ -140,9 +143,6 @@ Jaco Pastorius - Live in Italy (1997-02-00)
 </li>
 <li data-cover="http://coverartarchive.org/release/0caf4493-98af-4501-a49c-efec9de0f100/18924179996-500.jpg" data-tags="experimental" role="button">
 Scanner - Delivery (1997-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/6ebfbc0a-2e54-4bc6-8660-13eb2515659c/3414141392-500.jpg" data-tags="ambient" role="button">
-Robert Rich - Seven Veils (1998)
 </li>
 <li data-cover="https://img.discogs.com/rXf1Zu-0b-fcX6n0Gm8EmJYqwaw=/fit-in/600x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1208563-1508537451-5758.jpeg.jpg" data-tags="jazz, bass, smooth jazz" role="button">
 Brian Bromberg - You Know That Feeling (1998-02-17)
@@ -180,6 +180,9 @@ John Patitucci - Imprint (2000-02-01)
 <li data-cover="https://img.discogs.com/ijzaRn2YdIvY5CZtnqBaEo018To=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11222793-1512196322-2184.jpeg.jpg" data-tags="jazz, fusion, contemporary, funk, bass, jazz rock, fretless bass, j pastorius" role="button">
 Jaco Pastorius - Rare Collection (2000-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="martial industrial, industrial" role="button">
+Skrol - Insomnia Dei (2001)
+</li>
 <li data-cover="https://img.discogs.com/xVsuBhJKFG6_VYWXDpHoqKbgtNI=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1422755-1461798643-6782.jpeg.jpg" data-tags="jazz" role="button">
 Victor Bailey - That's Right! (2001)
 </li>
@@ -191,9 +194,6 @@ triPhaze - Scotland Tapes (2002)
 </li>
 <li data-cover="https://img.discogs.com/m2FG0JYf4YVdASOqVswSprMLXAk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3154057-1318247022.jpeg.jpg" data-tags="jazz" role="button">
 Marcus Miller - The Ozell Tapes: The Official Bootleg (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a299cf1-8967-4f48-9047-e496af628b78/28258184422-500.jpg" data-tags="bass, jazz" role="button">
-Brian Bromberg - Wood (2002)
 </li>
 <li data-cover="https://img.discogs.com/Xd1nLlKjNmOqT6wSFQkU0BLn85U=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8132738-1455748305-3638.jpeg.jpg" data-tags="jazz" role="button">
 John Patitucci - Songs, Stories & Spirituals (2003-01-01)
@@ -213,11 +213,14 @@ Encre - Flux (2004)
 <li data-cover="https://img.discogs.com/BARTtHwzOoGkcZw-xZMhUzmV1tw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1255186-1204117622.jpeg.jpg" data-tags="jazz, bass, basically bass" role="button">
 Jeff Berlin - Lumpy Jazz (2004)
 </li>
-<li data-cover="https://img.discogs.com/MVxqePt3tzc8liNYWZQmUN-iPos=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760493-1241616126.jpeg.jpg" data-tags="smooth jazz, jazz, basically bass" role="button">
-Brian Bromberg - Choices (2004-01-13)
+<li data-cover="http://coverartarchive.org/release/99d5a145-dbda-4c9d-a80d-8ca1f59ab52c/1554936945-500.jpg" data-tags="martial industrial, neoclassical, integrated music" role="button">
+Skrol - Dances & Marches For The Orphan Age (2005)
 </li>
 <li data-cover="https://img.discogs.com/4FODhGFoS6WKsQGfkATi9B96LFs=/fit-in/343x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698714-1149071666.jpeg.jpg" data-tags="electronic, electronica, jazz, pop, downtempo, dance, contemporary, funk, ska, lounge, funky, breaks, breakbeat, brass, cover versions, freshly squeezed, sampladelic, mondiovision, labels - freshly squeezed music, uk artist, funky trippy tapes" role="button">
 The Voodoo Trombone Quartet - The Voodoo Trombone Quartet (2005)
+</li>
+<li data-cover="https://img.discogs.com/y0HjGrWo4yWbw0IPePr2kyNiEhU=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1821728-1577743806-6809.jpeg.jpg" data-tags="jazz, fusion, contemporary, funk, jazz rock, steps ahead" role="button">
+Steps Ahead - Holding Together (2005-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
@@ -228,14 +231,8 @@ Sympozion - Kundabuffer (2006)
 <li data-cover="https://img.discogs.com/OV3egeS4TiFvSRlJN7k2sD8dTuo=/fit-in/150x146/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-714781-1151062271.jpeg.jpg" data-tags="instrumental" role="button">
 David Antony Clark - Shaman Dancing (2006)
 </li>
-<li data-cover="https://img.discogs.com/0KjDZTfMiYyaSNJh6qYmAd7aPag=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7068704-1432984955-7469.jpeg.jpg" data-tags="jazz, fusion, bass" role="button">
-John Patitucci - Line By Line (2006-01-01)
-</li>
 <li data-cover="https://img.discogs.com/5vQC6yC7fPlEzzeZzpRW2RbGty4=/fit-in/200x201/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643695-1142472422.jpeg.jpg" data-tags="fieldrecordings, privatelektro, electronic, ambient, experimental, dark ambient" role="button">
 triPhaze - standing on a hill (2006-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/b21a34ed-67fa-4e37-ad14-5493424b3bef/1541749195-500.jpg" data-tags="bass" role="button">
-Brian Bromberg - Wood II (2006-03-14)
 </li>
 <li data-cover="https://img.discogs.com/x_TntUqLKw2bIVH4JqU6aAoCCOg=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6360885-1522480716-6982.jpeg.jpg" data-tags="jazz, smooth jazz" role="button">
 Brian Bromberg - Downright Upright (2006-03-24)
@@ -245,9 +242,6 @@ Gultskra Artikler - Pofigistka (2006-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/dae93b48-1250-49b0-a801-92d9d51047bf/6374491615-500.jpg" data-tags="80s" role="button">
 Level 42 - The Definitive Collection (2006-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c149f1a-9fb8-454d-b4ae-e9f72d4251b4/5042414016-500.jpg" data-tags="experimental, unsigned, electronica, indie, alternative, chillout" role="button">
-Macadamia - The EP (2006-08-08)
 </li>
 <li data-cover="https://img.discogs.com/ZG-rizSkLV6hXkkzFYeVrs0WDZo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270148-1205237865.jpeg.jpg" data-tags="noise, experimental, contemporary, improvisation, avant-garde, improvisational, industrial ambient" role="button">
 hwyl nofio - Hounded By Fury (2006-09-01)
@@ -264,9 +258,6 @@ Marcus Miller - Free (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">
 St. Vincent - Marry Me (2007-07-10)
 </li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="arab" role="button">
-k-shan - memory and dust (2007-08-01)
-</li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="classical, chill, instrumental, solo, contemporary, modern, romantic, new age, melodic, cinematic, debussy, haunting, composer, emotional, relaxing, calming, soulful, erik satie, piano music, john williams, film music, dynamic, emotive, powerful, enya, classical piano, rapture, samson, ludwig van beethoven, mozart, beethoven, pianist, michael, piano solo, serene, chopin, jerry goldsmith, impressionism, classical music, movie music, contemporary instrumental, ennio morricone, yann tiersen, keith jarrett, solo piano, captivating, contemporary piano, instrumentalist, classical pop, new age piano, new age music, modern piano, contemporary music, soloist, claude debussy, impressionistic, ralph vaughan williams, yanni, wolfgang amadeus mozart, solo instrumental, instrumental music, instrumental piano, contemporary instrumental music, provoking, james horner, jim brickman, frederick chopin, michael nyman, david nevue, sheet music, nicholas gunn, david lanz, suzanne ciani, piano sheet music, william joseph, stephan moccio, modern piano solo, solo piano music, solo piano sheet music, a still motion, clara ponty, michael samson, still motion productions, until tomorrow comes" role="button">
 Michael Samson - A Still Motion (2008)
 </li>
@@ -279,11 +270,17 @@ TRS-80 - The New You (2008-01-29)
 <li data-cover="https://img.discogs.com/31iPqOv0_0DhRYywW23khbYLhGM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2518831-1288433669.jpeg.jpg" data-tags="contemporary, avant, tzadik, parts of the body" role="button">
 Paola Prestini - Body Maps (2008-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/445bbc1c-2948-4f1c-9409-4dc538fb96f5/1545797565-500.jpg" data-tags="integrated music, experimental, martial industrial" role="button">
+Vladimír Hirsch - Nonterra (2008-12-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/d00e59bf-3ad6-49e6-ac65-866ccb88be15/5948702703-500.jpg" data-tags="classical, piano, easy listening, contemporary, new age, peaceful, relaxing, coming home, new age piano, embers, skipping stones, new age classical, open mind, james cahall, the day before tomorrow, as daylight fades, midnight dancer, shades of autumn, starlit crossroads, the passing storm, the rising sun, tides of the heart" role="button">
 James Cahall - Coming Home (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/13b1ae38-14a7-4e01-be47-3bc35b8862d5/4487578112-500.jpg" data-tags="jazz" role="button">
 Jeff Berlin - In Harmony's Way (2009-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/aed26450-5e77-4a0c-86aa-90ec3fa2fc79/921619544-500.jpg" data-tags="classical crossover" role="button">
+Diana Yukawa - The Butterfly Effect (2009-10-21)
 </li>
 <li data-cover="https://img.discogs.com/zjvkc6dKy_Ppbz4HEq04coFKfso=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990760-1415519382-1435.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Field Rotation - Licht und Schatten (2009-10-26)
@@ -300,6 +297,9 @@ Field Rotation - And tomorrow I will sleep (2011-05-09)
 <li data-cover="https://img.discogs.com/vjiLsZHrSDDPXeyrG-7ute8m5Rw=/fit-in/454x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3447642-1330765455.jpeg.jpg" data-tags="classical, piano, contemporary, relaxing" role="button">
 Jean-Philippe Collard-Neven - Between the Lines (2011-05-18)
 </li>
+<li data-cover="https://img.discogs.com/RslNjb1yWTNWyUTFvcI4kOTH3ro=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2858662-1304291375.jpeg.jpg" data-tags="electronic, indie, pop, punk, alternative, post-rock, contemporary, avantgarde, synthpop, experimental spain, psyquedelic" role="button">
+Fur Voice - ONTO ENDO (2011-06)
+</li>
 <li data-cover="https://img.discogs.com/ICvHtNNtHkB2aVSveCs-s2zXKLM=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977372-1310070273.jpeg.jpg" data-tags="ambient" role="button">
 Field Rotation - Regenzeit (2011-07)
 </li>
@@ -309,11 +309,11 @@ Vieo Abiungo - And The World Is Still Yawning (2011-08-30)
 <li data-cover="http://coverartarchive.org/release/945d2051-9f02-45dc-ac03-ce195b9975c4/2172423786-500.jpg" data-tags="atmospheric" role="button">
 Sophie Kazandjian - Glass Slopes (2012-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/c97508ca-a99c-4526-965d-94986b09471f/11049347676-500.jpg" data-tags="classical, downtempo, contemporary, future jazz" role="button">
-The Cinematic Orchestra - In Motion #1 (2012-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d6803fd-df1a-441f-a9b4-e8c26f7eed53/28364205635-500.jpg" data-tags="clinically romantic, achingly intelligent, homosexual intifada" role="button">
 Matmos - The Ganzfeld EP (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b58ba706-4327-4cfa-8586-66132a532cc3/21631870004-500.jpg" data-tags="electronic, instrumental, ambient, piano, contemporary" role="button">
+Glacis - 22.16.04 (2012-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/96b61bf7-9843-425e-9905-c13e8be194c7/8498105804-500.jpg" data-tags="pop, soul, contemporary, adult contemporary, neo soul, 10s, mark evans, contemporary r&b, robin gibb, peter john vettese" role="button">
 Robin Gibb - 50 St. Catherine's Drive (2014-09-26)
