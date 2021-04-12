@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:51:01.506Z
+date: 2021-04-12T20:01:06.959Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![Emery - The Question (2005-08-02)](http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg "Emery - The Question (2005-08-02)")
@@ -63,9 +63,6 @@ Switchfoot - The Beautiful Letdown (2003-02-25)
 <li data-cover="https://img.discogs.com/BAmVGDpBy4rQp_JFTj9Tu9DUB_8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13099791-1548725330-9010.jpeg.jpg" data-tags="christian, modern worship, worship" role="button">
 Newsboys - Adoration: The Worship Album (2003-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/f254e73d-4a6d-406a-823e-642afce798e8/15858226331-500.jpg" data-tags="blues-rock, christian, 00s, awesome guitar jams, 2000s, punchy, the good stuff, mycds, rolling stone top 50 albums 2003, monksatyr music" role="button">
-Robert Randolph & The Family Band - Unclassified (2003-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/08902a42-9afa-3337-8267-b333a89dd5da/24702019693-500.jpg" data-tags="alternative rock" role="button">
 Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
@@ -80,9 +77,6 @@ Skillet - Collide (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb1853ee-65ca-3bd9-8d9e-790fac70dc28/11401878573-500.jpg" data-tags="christian" role="button">
 Delirious? - World Service (2003-12-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5163d5e5-77fa-45f0-906a-60f82f0eecac/4786609440-500.jpg" data-tags="christian rock, kutless" role="button">
 Kutless - Sea of Faces (2004-02-24)
@@ -117,9 +111,6 @@ Flyleaf - Flyleaf (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/069e6afe-bbc0-4599-bb83-5bb63d40ced4/11111317856-500.jpg" data-tags="christian rock, christian" role="button">
 Jeremy Camp - Restored (2004-11-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
-Kari Jobe - Kari Jobe (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/a0b40968-f389-48b1-a4e3-4ec6df5ec8d3/24383110980-500.jpg" data-tags="rock, christian" role="button">
 Spoken - Last Chance To Breathe (2005)
 </li>
@@ -131,9 +122,6 @@ Kutless - Strong Tower (2005-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - Lifehouse (2005-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b50aed73-a47d-40df-a0a1-fe2eb91aa349/23361528042-500.jpg" data-tags="post-hardcore" role="button">
-As Cities Burn - Son, I Loved You at Your Darkest (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
@@ -162,11 +150,17 @@ Sleeping at Last - Keep No Score (2006-06-21)
 <li data-cover="http://coverartarchive.org/release/ffceb083-1387-4762-8bcf-52554115aaa7/10539979573-500.jpg" data-tags="hillsong, worship" role="button">
 Hillsong - Mighty To Save (2006-07-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e79547c-41ca-48c8-a19d-d542beb4e0bc/2229177940-500.jpg" data-tags="christian" role="button">
+Brandon Heath - Don't Get Comfortable (2006-09-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Skillet - Comatose (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e00b053-583a-4c48-a7ad-e88eb6805f5e/4786555443-500.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
 Jeremy Camp - Beyond Measure (2006-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dec8f6e-9826-4cb9-9c24-5e87645f810f/9989527145-500.jpg" data-tags="christian" role="button">
+Newsboys - Go (2006-10-31)
 </li>
 <li data-cover="https://img.discogs.com/i_FP1qwi5QqE3znTGLOvOdB4_Gs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5488807-1529752537-6386.jpeg.jpg" data-tags="pop, christian, 00s" role="button">
 Matthew West - Something To Say (2007-01-15)
@@ -225,6 +219,9 @@ Secret And Whisper - Great White Whale (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1eba007-b4fe-44a4-9eaa-f9e27be40cfa/23547816398-500.jpg" data-tags="singer-songwriter, inspriational" role="button">
+Jon Foreman - Spring (2008-03-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b1fa01c6-84d4-4406-9318-ea42d9644ba2/2516129631-500.jpg" data-tags="rock, alternative, singer-songwriter, christian" role="button">
 Katie Herzig - Apple Tree (2008-04-08)
 </li>
@@ -236,9 +233,6 @@ Brandon Heath - What If We (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
-Damien Jurado - Caught In The Trees (2008-09-09)
 </li>
 <li data-cover="https://img.discogs.com/XV7TUIT67UahYV_2TRyP4KAxdtk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5610216-1397922565-2842.jpeg.jpg" data-tags="folk, christian" role="button">
 Josh Garrels - Jacaranda (2008-09-23)
@@ -294,14 +288,17 @@ Ben Rector - Into the Morning (2010-02-16)
 <li data-cover="http://coverartarchive.org/release/c72a398e-6cc9-4b27-ae48-c83e9c1d2e13/6986721749-500.jpg" data-tags="alternative rock, hard rock, christian, christian rock, rock, female vocalists, gothic metal" role="button">
 The Letter Black - Hanging On By A Thread (2010-04-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1db751f-c409-4ca1-a0ad-f555dda1c04b/9420158033-500.jpg" data-tags="christian, christian rock" role="button">
+MercyMe - The Generous Mr. Lovewell (2010-05-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee3188af-eaae-4c38-b9ec-19d857cc1320/9243450165-500.jpg" data-tags="christian, worship, praise" role="button">
 Hillsong United - Aftermath (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/df2fe470-b0a0-4f23-80d8-7bf987d38913/7840225389-500.jpg" data-tags="christian" role="button">
 The Lonely Forest - Arrows (2011-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1e34aa8-3e15-437d-838f-f8f5bbe4e045/15300860171-500.jpg" data-tags="folk, christian" role="button">
-Josh Garrels - Love & War & The Sea In Between (2011-06-15)
+<li data-cover="http://coverartarchive.org/release/16ce459c-bda7-49f4-b8e8-65a033886fe6/18790060721-500.jpg" data-tags="christian, christian folk" role="button">
+The Apache Relay - American Nomad (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f69cfa-149e-46b5-8cb5-0a38c8b1fd7d/6955810527-500.jpg" data-tags="pop, christian, worship, praise" role="button">
 Chris Tomlin - How Great Is Our God: The Essential Collection (2011-11-11)
@@ -320,5 +317,8 @@ Chris Tomlin - Burning Lights (2013-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba4912d1-89f5-44bb-96c7-541814c79641/3429573413-500.jpg" data-tags="rock, christian, contemporary christian" role="button">
 Hillsong United - Zion (2013-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/baa88735-3574-4aba-ac32-d29b406bb68c/8283236994-500.jpg" data-tags="hip hop, christian, holy hip hop, lacrae" role="button">
+Lecrae - Anomaly (2014-09-09)
 </li>
 </ol>

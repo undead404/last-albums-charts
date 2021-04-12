@@ -1,14 +1,14 @@
 ---
-date: 2021-04-12T07:04:01.586Z
+date: 2021-04-12T20:19:01.445Z
 title: "hiphop: 100 albums you must listen to before you die"
 ---
 ![Akon - Konvicted (2006-11-14)](http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg "Akon - Konvicted (2006-11-14)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
+<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/b79edcef-bc1a-471f-9468-d050459c4d3a/15273239285-500.jpg" data-tags="hip hop" role="button">Lord Finesse - The Awakening (1996-02-20)</li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">Big Punisher - Capital Punishment (1998-04-28)</li>
 <li data-cover="http://coverartarchive.org/release/1e4d0890-9ee0-4020-a9dc-8528208fd3ab/1675399328-500.jpg" data-tags="albums by:everlast, rock" role="button">Everlast - Whitey Ford Sings the Blues (1998-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/325b57cb-aa85-4232-b6e3-c24240fc1e32/4437166118-500.jpg" data-tags="hip-hop, hip hop, rap, hiphop, east coast, 1990s, real hip-hop, boom bap, gang starr, hiphop classic albums, estados unidos, ok track, a good 1, radiourbaine, rap estadounidense, 1995-1999" role="button">Gang Starr - Full Clip: A Decade Of Gang Starr (1999-07-13)</li>
-<li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">Mos Def - Black On Both Sides (1999-10-12)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">Clipse - Lord Willin' (2002-04-01)</li>
 <li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">Fort Minor - The Rising Tied (2005-11-21)</li>
@@ -32,6 +32,9 @@ MC Solaar - Qui Sème le Vent Récolte le Tempo (1991)
 </li>
 <li data-cover="https://img.discogs.com/yHfAagQxkLUKSbPunOauh4xD12c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5408733-1392627713-8707.jpeg.jpg" data-tags="hip hop, hiphop" role="button">
 A Tribe Called Quest - Revised Quest for the Seasoned Traveller (1992-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f4467a2-e9b4-4c41-8167-4ccfe574334f/15927440354-500.jpg" data-tags="rap, hip-hop" role="button">
+Onyx - Bacdafucup (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/99fbeb85-6c72-4180-a914-27525f29578a/9213261062-500.jpg" data-tags="hip-hop, hiphop, my collection great 150 albumz of rap, pudlo z kasetami-dobre albumy, hip hop flashback" role="button">
 Queen Latifah - Black Reign (1993-11-16)
@@ -60,9 +63,6 @@ Xzibit - At The Speed Of Life (1996-10-01)
 <li data-cover="http://coverartarchive.org/release/4952c8bc-4ffb-315b-a6c6-26d23c4df873/14289722113-500.jpg" data-tags="hip hop" role="button">
 Rakim - The 18th Letter (1997-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
-Big Punisher - Capital Punishment (1998-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/17208836-5136-466d-bc2c-c258f4b9108d/2114063577-500.jpg" data-tags="hiphop" role="button">
 Fischmob - Power (1998-04-30)
 </li>
@@ -74,6 +74,9 @@ Everlast - Whitey Ford Sings the Blues (1998-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8801f036-6ee9-4e72-908b-6d1b2f131d63/6942685916-500.jpg" data-tags="hip hop, old school hip hop, hiphop classic albums" role="button">
 Brand Nubian - Foundation (1998-09-29)
+</li>
+<li data-cover="https://img.discogs.com/CQg59_WNFY1WZOpvvSyaR38_fSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17371129-1613081510-7356.jpeg.jpg" data-tags="ninja tune, trip-hop" role="button">
+Coldcut - Let Us Replay (1998-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a5ce787-6585-4c01-ba0c-81e70d750035/4421422361-500.jpg" data-tags="hip hop" role="button">
 Rakim - The Master (1999)
@@ -89,9 +92,6 @@ Gang Starr - Full Clip: A Decade Of Gang Starr (1999-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae98347e-2452-408b-997f-1ea428ad0915/3263273318-500.jpg" data-tags="hiphop, german hip hop, deutscher hip hop, full streamable albums" role="button">
 Blumentopf - Großes Kino (1999-08-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
-Mos Def - Black On Both Sides (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
@@ -119,9 +119,6 @@ Xzibit - Restless (2000-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b07c61eb-ec65-46f5-be66-c744486c36b7/14907416395-500.jpg" data-tags="rap, hiphop, 90s rap, endangered species" role="button">
 Big Punisher - Endangered Species (2001-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
-Dilated Peoples - Expansion Team (2001-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4398f892-0bbd-4ccb-ba58-822026bc0580/4699250670-500.jpg" data-tags="hip-hop, hiphop, classic, east coast" role="button">
 Masta Ace - Disposable Arts (2001-10-30)
@@ -180,17 +177,14 @@ Method Man - Tical 0: The Prequel (2004-03-18)
 <li data-cover="http://coverartarchive.org/release/1453bafd-09a5-43e6-aa52-5ab2867c7218/2090793464-500.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Fly Or Die (2004-03-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+Kanye West - Through The Wire (2004-05-04)
+</li>
 <li data-cover="https://img.discogs.com/dq2geKGmTdI736QrpaEMXRFUB7c=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9163033-1488053223-3996.jpeg.jpg" data-tags="rap, hiphop, beats for days" role="button">
 The Alchemist - 1st Infantry (2004-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a6defdd-8f7d-4cbe-a4f2-8badf551021f/5634093224-500.jpg" data-tags="hip hop" role="button">
 Jean Grae - This Week (2004-09-21)
-</li>
-<li data-cover="https://img.discogs.com/4py4xiK0UiIC3_z0rrt5exFOY2I=/fit-in/352x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378450-1173002498.jpeg.jpg" data-tags="hip-hop" role="button">
-Talib Kweli - The Beautiful Struggle (2004-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Mos Def - The New Danger (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0fef30c-753e-4468-9e90-fe94ca046d64/18633416035-500.jpg" data-tags="hiphop" role="button">
 Q-Unique - Vengeance is mine (2004-10-19)
@@ -198,11 +192,14 @@ Q-Unique - Vengeance is mine (2004-10-19)
 <li data-cover="http://coverartarchive.org/release/d4bb9e32-c5f3-41d8-b734-175987b8996e/15200089926-500.jpg" data-tags="hip-hop" role="button">
 Sage Francis - A Healthy Distrust (2005-02-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/240fd4f6-217a-47f3-a81a-90a08d4cc360/3877095716-500.jpg" data-tags="hip hop, hiphop, indie hip hop, independent hip-hop" role="button">
+Classified - Boy-Cott-In The Industry (2005-03-08)
+</li>
+<li data-cover="https://img.discogs.com/Gz8fgdb8aRzaW9DvlXvOiCCn2Es=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955499-1380750118-1937.jpeg.jpg" data-tags="rap, hiphop, gangsta rap, west coast rap, bone thugs, silentangel" role="button">
+Layzie Bone - It's Not a Game (2005-05-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1c0ef14-a5d0-44fc-b8fb-6698d0c8133e/15330126310-500.jpg" data-tags="hiphop, hip hop, grime" role="button">
 Kano - Home Sweet Home (2005-06-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5a43378-bd1f-40fe-bf5e-8a3496ab073b/5738018864-500.jpg" data-tags="hip-hop" role="button">
-Atmosphere - You Can't Imagine How Much Fun We're Having (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c338df2-3294-4b90-88fd-8567d11293b1/22346044809-500.jpg" data-tags="rap, hiphop, sido" role="button">
 Deine Lieblingsrapper - Dein Lieblingsalbum (2005-10-07)
@@ -269,6 +266,9 @@ Kool Savas - Tot oder lebendig (2007-11-02)
 </li>
 <li data-cover="https://img.discogs.com/HLaC7oMWARF7BWVvg-uPdqFWQxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1186600-1229617974.jpeg.jpg" data-tags="hip-hop" role="button">
 Madcon - So Dark The Con Of Man (2007-12-03)
+</li>
+<li data-cover="https://img.discogs.com/ScFyOdGfmRmVSAgJoBe_SmWjGFk=/fit-in/411x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364695-1230545783.jpeg.jpg" data-tags="hip-hop, hiphop, 00s, av2008, good in 2008" role="button">
+Kidz in the Hall - The in Crowd (2008-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf12164c-0153-42ab-8b62-df5ab03ddb31/21814774546-500.jpg" data-tags="hip hop, hiphop" role="button">
 Sido - Ich Und Meine Maske (2008-05-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:51:01.503Z
+date: 2021-04-12T19:54:01.455Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -80,6 +80,9 @@ Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fa87c4d-8e2c-4a00-89ab-1ae980031264/9420368954-500.jpg" data-tags="christian" role="button">
 Casting Crowns - Casting Crowns (2003-09-30)
+</li>
+<li data-cover="https://img.discogs.com/sGynbsmk6XE4XNtG3tLO-2jHWnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4079146-1465313674-6247.jpeg.jpg" data-tags="christian" role="button">
+DC Talk - 8 Great Hits (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">
 Skillet - Collide (2003-11-18)
@@ -264,12 +267,6 @@ Leeland - Love Is On The Move (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
 </li>
-<li data-cover="https://img.discogs.com/gDHZFWXneIQAYGT0torKq2LbqMI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494522-1287104812.jpeg.jpg" data-tags="christian rock" role="button">
-Pillar - Confessions (2009-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1d2cb2e-6ed3-4ce2-9fc1-ebc99c9d9d47/8510946592-500.jpg" data-tags="alternative rock, christian rock" role="button">
-Relient K - Forget and Not Slow Down (2009-10-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/bef45c7f-fbc8-4cbc-af6e-c011c0efd28f/7587678218-500.jpg" data-tags="rock, christian rock, alternative, alternative rock" role="button">
 Switchfoot - Hello Hurricane (2009-11-10)
 </li>
@@ -296,6 +293,9 @@ The Afters - Light Up the Sky (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9026ff79-d23d-4585-95cf-d8e275790f8b/19390111211-500.jpg" data-tags="christian rock" role="button">
 Disciple - Horseshoes & Handgrenades (2010-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a29abf7a-419d-4b2b-9216-06474b65b61b/9025244457-500.jpg" data-tags="alternative, singer-songwriter, christian, christian rock, christian worship, favorite bands and artists" role="button">
+Brandon Heath - Leaving Eden (2011-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b24c4533-f252-4824-9f7e-3a671323148b/25109611893-500.jpg" data-tags="electronic, rock, punk, punk rock, crunk, christian rock, crunk rock" role="button">
 Family Force 5 - III (2011-10-18)

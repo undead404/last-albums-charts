@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:08:01.578Z
+date: 2021-04-12T20:15:12.780Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
@@ -29,6 +29,9 @@ Colin Hay - Transcendental Highway (1998-10-13)
 </li>
 <li data-cover="https://img.discogs.com/uDjm3wnXgyW_31-o6OmvYHNNXI4=/fit-in/576x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1144997-1195738575.jpeg.jpg" data-tags="rock, folk, 90s, emusic, joe strummer, lark" role="button">
 Joe Strummer and the Mescaleros - Rock Art and the X-Ray Style (1999-10-18)
+</li>
+<li data-cover="https://img.discogs.com/ufQW2esbVsNviEZ95wgE_kZaGhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1361881-1531613780-6101.jpeg.jpg" data-tags="indie" role="button">
+Mates of State - My Solo Project (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
@@ -69,9 +72,6 @@ Spoon - Kill the Moonlight (2002-08-20)
 <li data-cover="http://coverartarchive.org/release/a9371710-4a3d-44f8-b864-262902dc73dd/1785190880-500.jpg" data-tags="post-rock, emusic, progarchives100" role="button">
 Dirty Three - She Has No Strings Apollo (2003-02-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
-Copeland - Beneath Medicine Tree (2003-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e506c2-e6d6-4d06-8490-160ed6fdd337/26004122565-500.jpg" data-tags="indie" role="button">
 Elbow - Cast of Thousands (2003-08-13)
 </li>
@@ -80,9 +80,6 @@ Björk - Post Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
-Hanne Hukkelberg - Little Things (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
@@ -153,9 +150,6 @@ Someone Still Loves You Boris Yeltsin - Broom (2005)
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
-Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
-</li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - The Sunlandic Twins (2005-02-23)
 </li>
@@ -189,6 +183,9 @@ The New Pornographers - Twin Cinema (2005-08-23)
 <li data-cover="http://coverartarchive.org/release/871f0f8d-6009-42b4-bf7e-f85f3ddddae4/22530906121-500.jpg" data-tags="emusic" role="button">
 The Rosebuds - Birds Make Good Neighbors (2005-09-13)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, canadian" role="button">
+You Say Party! We Say Die! - Hit the Floor! (2005-09-13)
+</li>
 <li data-cover="https://img.discogs.com/OW89G1guM7yGgIevQ1wIl-kk1ow=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-564096-1249054551.jpeg.jpg" data-tags="indie rock" role="button">
 Bloc Party - Two More Years (2005-10-03)
 </li>
@@ -206,9 +203,6 @@ Destroyer - Destroyer's Rubies (2006-02-21)
 </li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
-The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/def6ae89-8b21-4f00-8417-c2b48e40cf76/2546152084-500.jpg" data-tags="emusic" role="button">
 Camera Obscura - Lloyd, I'm Ready To Be Heartbroken (2006-05-08)
@@ -285,8 +279,8 @@ Mother Mother - O My Heart (2008-09-16)
 <li data-cover="https://img.discogs.com/ORPOfJqAHrFUhi0trn_bi5lPFn8=/fit-in/450x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750779-1241013358.gif.jpg" data-tags="rock, emusic" role="button">
 The Soundtrack of Our Lives - Communion (2008-11-26)
 </li>
-<li data-cover="https://img.discogs.com/eL8t1uAl8VlyI6litclitMgPEdA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1678734-1355689535-9539.jpeg.jpg" data-tags="indie, indie rock" role="button">
-The Thermals - Now We Can See (2009-03)
+<li data-cover="https://img.discogs.com/1inhYZvQXrnLY5lZvVu7FlYTHsM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199673-1282003472.jpeg.jpg" data-tags="punk garage blues" role="button">
+Black Lips - 200 Million Thousand (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
@@ -303,11 +297,17 @@ The Twilight Sad - Forget the Night Ahead (2009-09-22)
 <li data-cover="https://img.discogs.com/WJJaa67H8k15qkvbZwJav9hCKI8=/fit-in/499x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981851-1256551273.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Raveonettes - In and Out of Control (2009-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d3950b6-048b-3d4f-8fa6-acab7ddc831d/9277382805-500.jpg" data-tags="indie rock" role="button">
+Bear in Heaven - Beast Rest Forth Mouth (2009-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a18bba8-5c52-36cc-8dbf-67b24bea7732/19444479909-500.jpg" data-tags="post-rock" role="button">
 Do Make Say Think - Other Truths (2009-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
+</li>
+<li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
+Dum Dum Girls - I Will Be (2010-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)

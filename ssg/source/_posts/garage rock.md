@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:29:01.468Z
+date: 2021-04-12T20:32:18.254Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -74,9 +74,6 @@ The Black Keys - The Big Come Up (2002-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e6a4731-2f21-4d7b-aa4d-2518511fbc79/2097071587-500.jpg" data-tags="rock" role="button">
 The Vines - Highly Evolved (2002-06-15)
-</li>
-<li data-cover="https://img.discogs.com/b7YbITe-6tjcIf0KTV4oObOiFXo=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335362-1602036565-4961.jpeg.jpg" data-tags="rock, garage rock" role="button">
-The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock" role="button">
 Mando Diao - Bring 'Em In (2002-09-23)
@@ -224,6 +221,9 @@ Sonic Youth - The Eternal (2009-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9573274-4d43-481b-bec6-17730a43cc7d/15491383944-500.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Horehound (2009-07-09)
+</li>
+<li data-cover="https://img.discogs.com/v350uryxOhyWgdRbL1JYCLv4mRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6588227-1515430047-6152.jpeg.jpg" data-tags="rock, hard rock" role="button">
+Jet - Shaka Rock (2009-08-19)
 </li>
 <li data-cover="https://img.discogs.com/WJJaa67H8k15qkvbZwJav9hCKI8=/fit-in/499x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981851-1256551273.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Raveonettes - In and Out of Control (2009-10-06)

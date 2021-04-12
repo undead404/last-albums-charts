@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:32:01.452Z
+date: 2021-04-12T20:08:01.474Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -168,9 +168,6 @@ The Decemberists - The Crane Wife (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
-Newton Faulkner - Hand Built By Robots (2007-07-30)
-</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
@@ -260,6 +257,9 @@ The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="https://img.discogs.com/gGvo29mIV8rtAGgFsDiglFiSqGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181009-1487336547-2725.jpeg.jpg" data-tags="singer-songwriter, rock, folk, folk rock" role="button">
 Lisa Hannigan - Passenger (2011-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b02dd44e-2b35-44f1-8001-768fc94f5d14/4083920556-500.jpg" data-tags="singer-songwriter" role="button">
+Leonard Cohen - Old Ideas (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:38:01.400Z
+date: 2021-04-12T20:42:01.456Z
 title: "melodic metalcore: 100 albums you must listen to before you die"
 ---
 ![In This Moment - Beautiful Tragedy (2007-03-20)](http://coverartarchive.org/release/d11a059c-31ac-3d54-bea8-a0dcf700cb53/1039510828-500.jpg "In This Moment - Beautiful Tragedy (2007-03-20)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
-A Static Lullaby - A Static Lullaby (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/8206ed48-c76e-3537-a0dd-eeb965fc15a0/6514111175-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Warmness on the Soul (2001-04-10)
 </li>
@@ -144,6 +141,9 @@ Misery Speaks - Catalogue Of Carnage (2008-01-25)
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c23e0a0-d155-4737-b9ec-e319fa9edfd3/15196884797-500.jpg" data-tags="hardcore, post-hardcore, melodic metalcore" role="button">
+Dead And Divine - The Fanciful (2008-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
 The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
 </li>
@@ -194,9 +194,6 @@ Dead And Divine - The Machines We Are (2009-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ca2ac2d-b534-4efb-971a-3bf9017a3357/8461706961-500.jpg" data-tags="metalcore" role="button">
 Caliban - Say Hello To Tragedy (2009-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1637018-651d-4291-84b6-f2e1f4fbf1aa/14109931445-500.jpg" data-tags="post-hardcore" role="button">
-The Color Morale - We All Have Demons (2009-09-01)
 </li>
 <li data-cover="https://img.discogs.com/AEC5o2rmgIvblBGywhXAGSALcGQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2673542-1413039488-7563.jpeg.jpg" data-tags="metalcore, melodic death metal" role="button">
 Threat Signal - Vigilance (2009-09-08)
@@ -311,6 +308,9 @@ Glamour of the Kill - Savages (2013-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/da714bba-e7a9-4051-88ba-6186c449f399/5372279436-500.jpg" data-tags="metalcore, thrash metal" role="button">
 Trivium - Vengeance Falls (2013-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6afc741b-9e0b-4f82-9851-8491452bb882/7211902188-500.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
+Being As An Ocean - How We Both Wondrously Perish (2014-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/323b9b58-958e-4b37-a70d-f6d8696b7f1b/13955038898-500.jpg" data-tags="melodic hardcore, metalcore" role="button">
 Heart in Hand - Only Memories (2014-05-27)

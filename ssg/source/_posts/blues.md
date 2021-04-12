@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:14:07.040Z
+date: 2021-04-12T20:11:07.094Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -195,6 +195,9 @@ Joss Stone - The Soul Sessions (2003-09-16)
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/25b257bc-dd00-442f-9152-18f22b91b18c/13177956202-500.jpg" data-tags="funky blues" role="button">
+Marc Broussard - Carencro (2004-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">
 Ray Charles - Genius Loves Company (2004-08-27)
 </li>
@@ -215,9 +218,6 @@ Norah Jones - Not Too Late (2006)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/8aae5c08-f0aa-4568-b240-a43b4c1fa4ee/19223128466-500.jpg" data-tags="ben harper, blues" role="button">
-Ben Harper - Both Sides Of The Gun (2006-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)

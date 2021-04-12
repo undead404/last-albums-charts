@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:09:01.451Z
+date: 2021-04-12T20:43:01.452Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -138,9 +138,6 @@ Architecture in Helsinki - In Case We Die (2005-04-04)
 <li data-cover="https://img.discogs.com/5ZkhvkjfpMuxoJixDG17lobiaBg=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4299046-1361096926-5564.jpeg.jpg" data-tags="reggae" role="button">
 The Beautiful Girls - We're Already Gone (2005-07-04)
 </li>
-<li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
-Karnivool - Themata (2005-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef2b7550-bb44-4289-9088-4daa37593f10/20024492143-500.jpg" data-tags="rock, australian" role="button">
 End of Fashion - End of Fashion (2005-08-20)
 </li>
@@ -158,6 +155,9 @@ Wolfmother - Wolfmother (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/Zn_PVNM_FO56rUVzHRW83Nx3z_c=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067853-1327919452.jpeg.jpg" data-tags="australian" role="button">
 Josh Pyke - Feeding the Wolves (2005-11-14)
+</li>
+<li data-cover="https://img.discogs.com/UR8FuR-qEblKRHnzo1SGtLd64L8=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-724938-1437798887-9425.jpeg.jpg" data-tags="hard rock, wolfmother" role="button">
+Wolfmother - Woman (2006-06-17)
 </li>
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)

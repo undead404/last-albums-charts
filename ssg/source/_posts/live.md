@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:01:12.503Z
+date: 2021-04-12T20:03:07.063Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -39,9 +39,6 @@ Deep Purple - Made In Japan (1972-12)
 <li data-cover="https://img.discogs.com/swjQP0NRI3WM4nR0gjmRDXm3bsc=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141213-1327063773.jpeg.jpg" data-tags="classic rock, blues" role="button">
 Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Live! (1975-12-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/d83c92b5-7022-3e12-870d-84ed59ad2da9/11749802149-500.jpg" data-tags="live, classic rock, hard rock" role="button">
 Led Zeppelin - The Song Remains The Same (1976-09-28)
 </li>
@@ -75,9 +72,6 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d38b44d-255f-4aec-a54a-105e4627a4dd/4184153545-500.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - A Real Dead One (1993-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c94535f-a010-332f-bfe7-bafe559a5aa8/15723258334-500.jpg" data-tags="thrash metal, live" role="button">
 Metallica - Live Shit: Binge & Purge (1993-11-09)
 </li>
@@ -104,9 +98,6 @@ Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
 <li data-cover="https://img.discogs.com/DTVywRLw2VqudN74PW58-C0FVXs=/fit-in/280x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673187-1236001260.jpeg.jpg" data-tags="grunge" role="button">
 Nirvana - From the Muddy Banks of the Wishkah (1996-09-30)
-</li>
-<li data-cover="https://img.discogs.com/sJUQk-EeuUkGnJxjKDo6yyYpHkg=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038234-1379279375-2976.jpeg.jpg" data-tags="classic rock, live, slgdmtopalbums, wheel in the sky live, after the fall live, stone in love live" role="button">
-Journey - Greatest Hits Live (1998-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/24a00f09-7f28-4445-91bc-86e5994b51e1/4283257280-500.jpg" data-tags="alternative metal, live" role="button">
 Deftones - Live (1998-04-10)
@@ -147,14 +138,14 @@ Jeff Buckley - Mystery White Boy (2000-05-08)
 <li data-cover="http://coverartarchive.org/release/ec9fb22c-04f8-4a8d-abc9-93ef814606f3/5236613445-500.jpg" data-tags="alternative, alternative rock, 90s, live, sessions, need it" role="button">
 Incubus - When Incubus Attacks, Vol. 1 (2000-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ee0bd00-32cb-4c69-ac16-d92d8512c8c9/1623318823-500.jpg" data-tags="grunge" role="button">
+Alice in Chains - Live (2000-12-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/a252cb14-9f22-4464-bc93-75d8a71c11af/17150769741-500.jpg" data-tags="progressive metal" role="button">
 Tool - Salival (2000-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
-</li>
-<li data-cover="https://img.discogs.com/B5pmuFgY3MtL88e1nH3kOXo_0-k=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-505696-1371179473-1118.jpeg.jpg" data-tags="indie, acoustic, live" role="button">
-Jeff Mangum - Live at Jittery Joe's (2001-08-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Dream Theater - Live Scenes From New York (2001-08-29)
@@ -165,8 +156,14 @@ Daft Punk - Alive 1997 (2001-10-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b0674a3-d725-45d6-9d97-eb62b637efde/3009459032-500.jpg" data-tags="alternative, coldplay, brit pop" role="button">
+Coldplay - Without Parachutes (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/3d039a02-231c-3c6c-a9ac-f89e60bf0329/1154225975-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - And All That Could Have Been (2002-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e56d2ad-b3e8-3fe3-87c8-5ae3a2c71c09/10844781822-500.jpg" data-tags="live, post hardcore" role="button">
+Thursday - Five Stories Falling (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd5e5015-c000-408a-9d74-d9c39fb67e9d/20479650176-500.jpg" data-tags="indie" role="button">
 Dashboard Confessional - MTV Unplugged v2.0 (2002-12-03)
@@ -233,6 +230,9 @@ Wilco - Kicking Television: Live in Chicago (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16704e7-6827-4eb7-a81b-35b1dc868de4/15472469630-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - (Set This) World Ablaze (2005-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/68f5fb52-d329-4ed0-a5f1-09c11bb52095/10159973120-500.jpg" data-tags="punk, punk rock, pop punk, live, punk metal, pseud shit" role="button">
+Sum 41 - Go Chuck Yourself (2005-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8beeaf1d-dc8f-4a93-8f7e-2eb8e15bb671/27919718997-500.jpg" data-tags="live" role="button">
 My Chemical Romance - Life on the Murder Scene (2006-03-21)

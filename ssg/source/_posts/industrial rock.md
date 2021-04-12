@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:35:01.531Z
+date: 2021-04-12T20:18:01.454Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -180,6 +180,9 @@ KMFDM - WWIII (2003-09-22)
 <li data-cover="http://coverartarchive.org/release/a988c89f-dd48-331e-b945-68d31cac5733/12560262939-500.jpg" data-tags="industrial metal, neue deutsche haerte, industrial rock" role="button">
 Eisbrecher - Eisbrecher (2004-01-26)
 </li>
+<li data-cover="https://img.discogs.com/Z8fZAd0RvvrRuyWLNR8nblD_efY=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13364776-1559511721-3658.jpeg.jpg" data-tags="industrial metal" role="button">
+Oomph! - Wahrheit Oder Pflicht (2004-02-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f7e499c-f3fb-388e-bab2-c717355dcb33/27009614431-500.jpg" data-tags="industrial, industrial rock, synth-rock, orgy" role="button">
 Orgy - Punk Statik Paranoia (2004-02-24)
 </li>
@@ -218,9 +221,6 @@ Halo33 - Year 33 (2007)
 </li>
 <li data-cover="https://img.discogs.com/uYsLQLV8Pr29KJhrRVoYNYAfNWk=/fit-in/412x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574375-1229498260.jpeg.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Survivalism (2007-02-21)
-</li>
-<li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
-D'espairsRay - MIRROR (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - Year Zero (2007-04-14)

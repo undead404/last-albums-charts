@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:38:02.320Z
+date: 2021-04-12T19:56:01.498Z
 title: "dance-pop: 100 albums you must listen to before you die"
 ---
 ![Robyn - Body Talk (2010-11-22)](https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg "Robyn - Body Talk (2010-11-22)")
@@ -69,6 +69,9 @@ Madonna - Erotica (1992-10-19)
 <li data-cover="http://coverartarchive.org/release/d61cc3bc-678c-4a7e-b6bb-a7663971c1ad/15863460281-500.jpg" data-tags="seal" role="button">
 Seal - Seal II (1994-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3cd39e6-9f2b-49fa-83d1-52a1a306d63a/13495002329-500.jpg" data-tags="soul" role="button">
+Jody Watley - Greatest Hits (1996-02-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spice (1996-09-19)
 </li>
@@ -119,6 +122,9 @@ Enrique Iglesias - Escape (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
+</li>
+<li data-cover="https://img.discogs.com/v1UZ15WuJH7R1sv1QkNBzZfLIA4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5228307-1604306734-2965.jpeg.jpg" data-tags="spanish, dance-pop, r&b, pop-rock, fado" role="button">
+Chenoa - Chenoa (2002-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4b8d89b-8585-4320-a8ac-f9e68f441a2d/7438889403-500.jpg" data-tags="dance, teen pop" role="button">
 A*Teens - Pop 'Til You Drop (2002-06-18)
@@ -207,6 +213,9 @@ Chris Brown - Graffiti (2009-12-07)
 <li data-cover="http://coverartarchive.org/release/136eebff-5327-484f-898c-667787fce226/5552935179-500.jpg" data-tags="electropop, pop" role="button">
 Florrie - Introduction (2010)
 </li>
+<li data-cover="https://img.discogs.com/uf_8dGCJEZVRXMoLl1M71H8hdGA=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442722-1154202624.jpeg.jpg" data-tags="pop, dance, dance-pop, synthpop, male vocalists, hi-nrg" role="button">
+RuPaul - Drag Race (2010-03-23)
+</li>
 <li data-cover="https://img.discogs.com/tBCq5lCQyTxeHRZFV_F-d9jsX50=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8548474-1463832720-3983.jpeg.jpg" data-tags="dance-pop, new album" role="button">
 Craig David - Signed Sealed Delivered (2010-03-26)
 </li>
@@ -228,12 +237,6 @@ Gloria Trevi - Gloria (2011-03-22)
 <li data-cover="http://coverartarchive.org/release/ee5ba864-4a7f-4d80-9128-16c5b74de440/5881939532-500.jpg" data-tags="dance-pop" role="button">
 Cash Cash - Love or Lust (2011-04-19)
 </li>
-<li data-cover="https://img.discogs.com/CP8BNO9jODwpSRvKNah6GSWsThc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2987633-1310594374.jpeg.jpg" data-tags="electropop, british, dance-pop, synthpop, library, 2010s, 2011 albums, albums i have on vinyl, nice spending time" role="button">
-Florrie - Experiments (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/19d74ad6-606e-4bbb-b09f-a5ce18cd268e/5898507507-500.jpg" data-tags="pop, electronic" role="button">
-Nicola Roberts - Cinderella's Eyes (2011-06-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e17848a-33da-43c0-af72-afc730f8405f/11306508626-500.jpg" data-tags="enrique iglesias" role="button">
 Enrique Iglesias - I Like How It Feels (2011-09-10)
 </li>
@@ -251,9 +254,6 @@ Maroon 5 - Overexposed (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3bb9be2-fc20-4dd2-9931-8da768e3411b/2157808480-500.jpg" data-tags="pop" role="button">
 Carly Rae Jepsen - Kiss (2012-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a066b065-cd76-4dd4-a975-f3812fcd3229/18848001906-500.jpg" data-tags="trance, dance, eurovision" role="button">
-Loreen - Heal (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/af90d73c-3764-4e06-8174-8d4cb4af6818/6634987107-500.jpg" data-tags="pop" role="button">
 Bridgit Mendler - Hello My Name Is... (2012-10-22)

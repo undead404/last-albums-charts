@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:48:01.450Z
+date: 2021-04-12T20:00:01.555Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -9,9 +9,9 @@ title: "grime: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">M.I.A. - Arular (2005-02-22)</li>
 <li data-cover="https://img.discogs.com/rcMtDNkNabZR75YH5Wb353o5whA=/fit-in/170x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4097804-1355150757-7253.jpeg.jpg" data-tags="grime" role="button">Lady Sovereign - Public Warning (2006-10-31)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">M.I.A. - Kala (2007-08-08)</li>
-<li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">Hadouken! - For the Masses (2010-01-25)</li>
+<li data-cover="http://coverartarchive.org/release/19787847-8a70-42f4-bd4c-ff6f751fe49b/23462599955-500.jpg" data-tags="pass out" role="button">Tinie Tempah - Pass Out (2010-02-28)</li>
 <li data-cover="https://img.discogs.com/hCbKVGRZdsh5F7JWhTSmsm6HXMw=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384588-1280918362.jpeg.jpg" data-tags="grime" role="button">Professor Green - Alive Till I'm Dead (2010-07-16)</li>
-<li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">Professor Green - At Your Inconvenience (2011-10-31)</li>
+<li data-cover="http://coverartarchive.org/release/373ad88b-3eb7-42dc-ae11-77dd3b6dcb54/2267680912-500.jpg" data-tags="grime, vagabund, miron,  album,  digipak, nmdc" role="button">Oxxxymiron - Вечный жид (2011-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">Labrinth - Electronic Earth (2012-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">Plan B - Ill Manors (2012-07-20)</li>
 </ol>
@@ -81,9 +81,6 @@ Sway - This Is My Demo (2006-02-06)
 <li data-cover="https://img.discogs.com/DtxwXUEdQP2Kcssy9qdIt3TrNq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655496-1456702178-6610.jpeg.jpg" data-tags="electronica, grime, dubstep" role="button">
 Digital Mystikz - Ancient Memories (2006-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
-The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/07faab6b-5555-4372-8b0f-b2d36e9d08ff/15463158371-500.jpg" data-tags="dubstep" role="button">
 Boxcutter - Oneiric (2006-04-17)
 </li>
@@ -98,6 +95,9 @@ Skream - Skream! (2006-10-30)
 </li>
 <li data-cover="https://img.discogs.com/rcMtDNkNabZR75YH5Wb353o5whA=/fit-in/170x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4097804-1355150757-7253.jpeg.jpg" data-tags="grime" role="button">
 Lady Sovereign - Public Warning (2006-10-31)
+</li>
+<li data-cover="https://img.discogs.com/6i1pDCsN0bQJj8Po_zDpwChllQg=/fit-in/600x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17414800-1613323696-8485.jpeg.jpg" data-tags="electronica, grime, dubstep, massive dubstep" role="button">
+Caspa - Cockney Violin / Dub Warz (2006-11)
 </li>
 <li data-cover="https://img.discogs.com/Hb2HjRTyE3524otowe3OQUIv94c=/fit-in/485x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2096258-1263765473.jpeg.jpg" data-tags="hip-hop, electronic, grime, remix, example" role="button">
 Example - We Didn't Invent The Remix (2007)
@@ -120,6 +120,9 @@ Kano - London Town (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/8b57914a-c30c-49d9-9453-76a325aff1fe/16155748642-500.jpg" data-tags="grime" role="button">
 Skepta - Greatest Hits (2007-09-24)
 </li>
+<li data-cover="https://img.discogs.com/oO_o0SZ_TxrsXQ0rWIQWRlb8VAM=/fit-in/427x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897731-1378808931-4274.jpeg.jpg" data-tags="hip-hop, hip hop, grime, where are my headphones, where is my bong, weightlifting music, beats for days" role="button">
+Dizzee Rascal - Flex (2007-11-19)
+</li>
 <li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
 The Qemists - Dem Na Like Me (2008-01-19)
 </li>
@@ -128,9 +131,6 @@ Ghetto - Freedom Of Speech (2008-03-10)
 </li>
 <li data-cover="https://img.discogs.com/RT8njCQclfaBPz8y1F9pKEG_o7U=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9263027-1477992910-2819.jpeg.jpg" data-tags="hip hop, pop, dance, house" role="button">
 Wiley - Wearing My Rolex (2008-04-18)
-</li>
-<li data-cover="https://img.discogs.com/Okdmgf9xSUO6bkQs55LlEhKflxs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13611821-1557501177-3733.jpeg.jpg" data-tags="new rave, electronic" role="button">
-Hadouken! - Music for an Accelerated Culture (2008-05-05)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="grime" role="button">
 Chipmunk - LEAGUE OF MY OWN (2008-05-12)
@@ -183,9 +183,6 @@ Foreign Beggars - United Colours Of Beggattron (2009-10-19)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="dubstep" role="button">
 NiT GRiT - NiT GriT (2009-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
-Hadouken! - For the Masses (2010-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/19787847-8a70-42f4-bd4c-ff6f751fe49b/23462599955-500.jpg" data-tags="pass out" role="button">
 Tinie Tempah - Pass Out (2010-02-28)
 </li>
@@ -204,14 +201,14 @@ Professor Green - Alive Till I'm Dead (2010-07-16)
 <li data-cover="http://coverartarchive.org/release/7e3e1ef3-66bb-4b51-895c-369e8040f34c/18392492549-500.jpg" data-tags="grime, dubstep" role="button">
 Cookie Monsta - Ginger Pubes / Blurgh! (2010-07-19)
 </li>
-<li data-cover="https://img.discogs.com/tK9Dp-wPpngCsGiwP_51F2h3apM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6290784-1415834515-1744.jpeg.jpg" data-tags="dubstep" role="button">
-Magnetic Man - I Need Air (2010-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/0ff3c020-7240-463b-875e-9565e15980bd/1291725158-500.jpg" data-tags="dubstep" role="button">
 Magnetic Man - Magnetic Man (2010-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a898fc95-ac78-4aef-87d7-d77960f58676/6410178559-500.jpg" data-tags="hip hop, grime" role="button">
 Dope D.O.D. - Branded (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/ed743925-9002-43c2-b0ef-69bc436f5b44/20405254180-500.jpg" data-tags="alternative, dub, grime, groovy" role="button">
+Flower Fairy - Nursery Gryme (2011)
 </li>
 <li data-cover="https://img.discogs.com/Px1MVMuIFbsULUpQh2rhX_5bFLk=/fit-in/499x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4408666-1364111675-1332.jpeg.jpg" data-tags="grime, dubstep" role="button">
 Knight Riderz - Mind Riddims (2011-01-01)
@@ -249,14 +246,14 @@ Oxxxymiron - Вечный жид (2011-09-03)
 <li data-cover="https://img.discogs.com/DjNfKGcZkTWvM2QMysixfCnunQQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3426067-1329927822.jpeg.jpg" data-tags="downtempo, grime, dubstep, techno, glitch" role="button">
 MartyParty - Sub ON (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
-Professor Green - At Your Inconvenience (2011-10-31)
-</li>
 <li data-cover="https://img.discogs.com/JWiFchXv0Hzr8RWugluhNau24Dg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10750666-1503646950-6202.jpeg.jpg" data-tags="hip-hop, pop, british, rap, grime, rnb" role="button">
 Loick Essien - Me Without You (2011-11-04)
 </li>
 <li data-cover="https://img.discogs.com/UfGFO0JOi8gIW2CPvOUcBgwIvt4=/fit-in/453x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274793-1323464129.jpeg.jpg" data-tags="hip hop, grime, alternative hip-hop" role="button">
 Eligh & Amp Live - Therapy At 3 (2011-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/33a5330d-4b3d-4a3d-a061-749a3183a95c/5779231307-500.jpg" data-tags="downtempo, grime, dubstep, glitch" role="button">
+MartyParty - Six Shots Of Jameson (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6196db9e-0128-4cf9-8eb2-651aa2539950/5181523745-500.jpg" data-tags="grime, dubstep" role="button">
 Machinedrum - Nastyfuckk EP (2012-02-23)
@@ -291,9 +288,6 @@ Devlin - A Moving Picture (2013-02-01)
 <li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
 Modestep - Evolution Theory (2013-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5faa285-8ca0-4d2e-bb1f-471dcef00db5/3790506518-500.jpg" data-tags="new rave, dubstep" role="button">
-Hadouken! - Every Weekend (2013-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4c9a16e-cadf-44b1-9943-b67e518ebb0d/6410195934-500.jpg" data-tags="hip hop, grime, dubstep" role="button">
 Dope D.O.D. - Da Roach (2013-04-19)
 </li>
@@ -306,11 +300,17 @@ Swindle - Long Live The Jazz (2013-06-24)
 <li data-cover="http://coverartarchive.org/release/dedea8ba-f268-471c-a59c-01527640a603/21163578949-500.jpg" data-tags="grime, uk hip-hop" role="button">
 Dizzee Rascal - The Fifth (2013-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/384479e3-bf88-40c8-acc6-466140600908/22105703695-500.jpg" data-tags="hip-hop, grime, nerdcore" role="button">
+Oxxxymiron - miXXXtape II. Долгий Путь Домой (2013-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/bda704e4-9a05-4c2a-b055-e70b31e0d9ac/5766166401-500.jpg" data-tags="experimental, grime, dubstep, bass, 10s, 2013 wowish" role="button">
 Logos - Cold Mission (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c6efe3a-5799-4845-aed6-4b1ae06658c2/6224713786-500.jpg" data-tags="hip hop, grime, dubstep, drum and bass, uk bass, dub fx, dubfx, pledge, s: drum and bass" role="button">
 Dub Fx - Theory of Harmony (2013-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab8626d7-c702-446a-9c29-713772ecb3eb/6804432608-500.jpg" data-tags="grime, uk bass, uk garage, 2-step, keysound recordings, ghosts of grime" role="button">
+Wen - Signals (2014-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd8bbddd-7b5a-477d-8b65-b490f2cb6558/6937036392-500.jpg" data-tags="grime, 2014: eps" role="button">
 Evian Christ - Waterfall (2014-03-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:15:01.664Z
+date: 2021-04-12T20:26:12.666Z
 title: "psytrance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -36,9 +36,6 @@ Hallucinogen - Twisted (1995-09-14)
 <li data-cover="http://coverartarchive.org/release/09605364-828b-4664-b142-c7aaf75aa82b/5512445694-500.jpg" data-tags="psytrance" role="button">
 Total Eclipse - Delta Aquarids (1995-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/cad07201-a676-35b5-b932-f7cba5b37f2c/9406374143-500.jpg" data-tags="goa" role="button">
-Astral Projection - The Astral Files (1996)
-</li>
 <li data-cover="https://img.discogs.com/oGVMx4EOsAPTD9qTqABwK7Cf2JI=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-71559-1106384654.jpg.jpg" data-tags="psytrance, goa" role="button">
 Etnica - Alien Protein (1996-04)
 </li>
@@ -60,6 +57,9 @@ Pleiadians - I.F.O. (Identified Flying Object) (1997-07-06)
 <li data-cover="http://coverartarchive.org/release/b38e3c1e-5f3d-48de-b998-1c2f3bde6ac7/10313867260-500.jpg" data-tags="psytrance, goa" role="button">
 Hallucinogen - The Lone Deranger (1997-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/d177f434-7727-3d0c-ad99-f34030de1734/5694830215-500.jpg" data-tags="hypnotic, psytrance" role="button">
+Koxbox - Dragon Tales (1997-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/230b0a29-1c53-3e85-bd07-b0a014b858c9/18421760662-500.jpg" data-tags="psytrance" role="button">
 X-Dream - Radio (1998)
 </li>
@@ -74,9 +74,6 @@ Chi-A.D. - Anno Domini (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0c0528-df5e-3aac-97b1-0318a9fb23f2/3183924982-500.jpg" data-tags="psytrance, goa, electronic" role="button">
 Infected Mushroom - The Gathering (1999-03-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="goa trance, goa, psytrance" role="button">
-Astral Projection - Another World (1999-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9724f283-050b-446e-a956-fc5b084b1258/10768929537-500.jpg" data-tags="psytrance" role="button">
 Koxbox - The Great Unknown (1999-12-10)
@@ -207,6 +204,9 @@ Fatali - Faith (2005-01-16)
 <li data-cover="https://img.discogs.com/DMv585F79Fv6xzHMVT2tLEsqy3Y=/fit-in/168x165/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407928-1109378428.jpg.jpg" data-tags="psytrance" role="button">
 Electrypnose - Brain Stretching (2005-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3d7b897-d2aa-4876-aea5-a8d6096b199f/988987635-500.jpg" data-tags="psytrance" role="button">
+Yahel - Around The World (2005-03)
+</li>
 <li data-cover="https://img.discogs.com/n78aruqghHzFQNvqguOS4bQzZ3g=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448353-1126258120.jpeg.jpg" data-tags="psytrance" role="button">
 Rinkadink - Pirate Signal (2005-04)
 </li>
@@ -249,9 +249,6 @@ Prometheus - Corridor of Mirrors (2007-02-19)
 <li data-cover="http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg" data-tags="psytrance, electronic" role="button">
 Infected Mushroom - Vicious Delicious (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f87f3b49-d278-45f6-866a-7135dd474889/3076669072-500.jpg" data-tags="psytrance, progressive trance" role="button">
-Vibrasphere - Exploring The Tributaries (2007-06-01)
-</li>
 <li data-cover="https://img.discogs.com/VOZ6zxa4lh-uFiGh8uXe7PbII-U=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256040-1243268798.jpeg.jpg" data-tags="trance, electronica, goa, psytrance, kim kardashian, pamela anderson, anna nicole smith, carmen electra, victoria silvstedt, jade laroche, jenny mccarthy" role="button">
 Cosmosis - Psychedelica Melodica (2007-06-06)
 </li>
@@ -275,6 +272,9 @@ Ott - Skylon (2008-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a404d2d9-fe3e-41c7-8488-28fe6159871c/8558459453-500.jpg" data-tags="trance, psychedelic, goa" role="button">
 Juno Reactor - Gods & Monsters (2008-02-20)
+</li>
+<li data-cover="https://img.discogs.com/Vgt-mPEY6ItdLc8XaujOwiB0Ul4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281257-1240601568.jpeg.jpg" data-tags="electronic, psychedelic, psytrance" role="button">
+Digicult - Out Of This World (2008-04-06)
 </li>
 <li data-cover="https://img.discogs.com/KQXu3iAWgTzxqH6FGbNb99BiVNw=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474903-1222446900.jpeg.jpg" data-tags="trance, progressive, psytrance" role="button">
 Liquid Soul - Love In Stereo (2008-09)

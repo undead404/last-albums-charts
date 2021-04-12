@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:10:01.487Z
+date: 2021-04-12T20:40:01.475Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -140,9 +140,6 @@ Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
@@ -290,6 +287,9 @@ Rihanna - Talk That Talk (2011-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/808dc911-8b1e-49bd-a01b-eb01a2fdb811/4542632091-500.jpg" data-tags="pop, dance, lo, dancepop, bouncy music, neon trees, jesss, long workout, everybody talks" role="button">
 Neon Trees - Everybody Talks (2011-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
+Madeon - Icarus (2012-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b16a2ad-44b4-4e6d-8529-076ef93acd77/1967160750-500.jpg" data-tags="dance, avicii" role="button">
 Avicii - Silhouettes (2012-09-05)

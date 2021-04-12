@@ -1,17 +1,17 @@
 ---
-date: 2021-04-12T07:54:01.433Z
+date: 2021-04-12T20:05:01.515Z
 title: "happy: 100 albums you must listen to before you die"
 ---
-![Little Joy - Little Joy (2008-11-03)](http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg "Little Joy - Little Joy (2008-11-03)")
+![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="https://img.discogs.com/Gl0JdmtBh4Bu5ENhknStJ6146Ig=/fit-in/600x645/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8577781-1464404138-7605.jpeg.jpg" data-tags="indie, indie rock" role="button">The Go! Team - Thunder, Lightning, Strike (2004-09-13)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">The Format - Dog Problems (2006-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">Lily Allen - Alright, Still (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">Cut Copy - In Ghost Colours (2008-03-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">Jason Mraz - I'm Yours (2008-06-06)</li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">Mika - The Boy Who Knew Too Much (2009-09-16)</li>
 </ol>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Arrival (1976-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6671f035-bb7f-48f3-98a3-99ca33202c67/14753977630-500.jpg" data-tags="80s, happy, 1981 albums, flashback alternatives, gespannt" role="button">
 Billy Idol - Don't Stop (1981)
@@ -47,6 +44,9 @@ Happy Mondays - Squirrel and G-Man Twenty Four Hour Party People Plastic Face Ca
 </li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
 Bobby McFerrin - Simple Pleasures (1988-08-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
+Rick Astley - Hold Me In Your Arms (1989-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/22f6cbf4-bc17-4e61-bee9-77f86134426c/8972699010-500.jpg" data-tags="alternative" role="button">
 They Might Be Giants - Flood (1990-01-05)
@@ -87,8 +87,8 @@ Mustard Plug - Pray For Mojo (1999-03-16)
 <li data-cover="http://coverartarchive.org/release/cdcd79e7-2e61-49ff-a4d8-f1a0fa9704c8/15430365066-500.jpg" data-tags="ska" role="button">
 The Hippos - Heads Are Gonna Roll (1999-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/747a3c55-9561-427e-b703-7aacf43c249a/13619800579-500.jpg" data-tags="pop" role="button">
-S Club 7 - S Club (1999-10-04)
+<li data-cover="https://img.discogs.com/l_HoAWqUUJTqguY6wW8D6Tw5iyA=/fit-in/301x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186051-1160075965.jpeg.jpg" data-tags="happy, smooth, clever, simply amazing, radio friendly, kick out the jams, smart songwriter" role="button">
+The Dylan Group - Ur-klang Search (2000)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - A Little Bit Special (2000-09-26)
@@ -108,9 +108,6 @@ C-Mon & Kypski - Vinyl Voodoo (2002-11-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - Superhero (2002-12-10)
 </li>
-<li data-cover="https://img.discogs.com/A5nEZNzogO7mFKeI2ZGwiq4w3MA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2420126-1386682159-4769.jpeg.jpg" data-tags="rock, alternative, alternative rock, female vocalists, happy, summer, punk rock, uplifting, summer rock, merkliste" role="button">
-Dover - The Flame (2003)
-</li>
 <li data-cover="https://img.discogs.com/qd5EgfyRUewXt6h6tLRJmYvGIxI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393376-1107433171.jpg.jpg" data-tags="folk, happy" role="button">
 Rivulets - Debridement (2003-03-04)
 </li>
@@ -125,6 +122,9 @@ Jewel - 0304 (2003-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1acd38d-e01b-4de2-a929-ac1b72ec7d7c/3412654508-500.jpg" data-tags="ska" role="button">
 Suburban Legends - Rump Shaker (2003-06-28)
+</li>
+<li data-cover="https://img.discogs.com/O9pSpw87-RXkplLuFqmay-ztKCc=/fit-in/238x212/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4065791-1354088546-3939.jpeg.jpg" data-tags="electronic, rock, happy, 00s, 2000s, guitar instrumental, leo kottke, michael hedges" role="button">
+Keller Williams - Home (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
@@ -164,6 +164,9 @@ The Go! Team - Thunder, Lightning, Strike (2004-09-13)
 </li>
 <li data-cover="https://img.discogs.com/btRp2YznA7QF_9Z576LqzmNocSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442593-1448241064-5247.jpeg.jpg" data-tags="indie pop, twee, happy, boy-girl, pretty indiepop" role="button">
 Saturday Looks Good To Me - Every Night (2004-09-14)
+</li>
+<li data-cover="https://img.discogs.com/fmG8I_7gHwfXcYzH69wW9g_cMdw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2641781-1294589041.jpeg.jpg" data-tags="happy" role="button">
+La casa azul - Como Un Fan (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2b81710-c2ab-4232-9165-1ed7223a131a/1673089447-500.jpg" data-tags="happy, funky, humour, psychodiscofunkizpola, wesele kurwa" role="button">
 Łąki Łan - Łąki Łan (2005)
@@ -222,6 +225,9 @@ C-Mon & Kypski - Where The Wild Things Are (2006-10-20)
 <li data-cover="https://img.discogs.com/6n_StLjzNmzNkY6rQKJHl5wGZNU=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1952632-1500431620-6697.jpeg.jpg" data-tags="rap, happy, club shit" role="button">
 Shop Boyz - Party Like A Rockstar (2007-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ae26f5d-c22b-4c19-a8f3-d5c133b98f48/3352654339-500.jpg" data-tags="ska punk, ska" role="button">
+Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/84097af6-1f12-4d65-99e9-a064725e6eb4/18815227088-500.jpg" data-tags="happy, makes me wanna dance, discoverockult, make me feel happy, powerspace, suprizing good, jumpingonthebed, willgetthisalbumdefinitely, stephkicks, find yourself here" role="button">
 Powerspace - The Kicks Of Passion (2007-07-31)
 </li>
@@ -237,6 +243,9 @@ Lykke Li - Little Bit (2007-09-27)
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/1594d2f1-f407-45af-95b0-2ff5724098bf/13400380818-500.jpg" data-tags="pop, rnb" role="button">
+Blake Lewis - Audio Day Dream (2007-12-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
 </li>
@@ -249,17 +258,8 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">
 Jason Mraz - I'm Yours (2008-06-06)
 </li>
-<li data-cover="https://img.discogs.com/7uw1dCIGEOtZ3-WH8kNZMELYEVU=/fit-in/450x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5642800-1398763523-1180.jpeg.jpg" data-tags="rock, 00s" role="button">
-The Living End - White Noise (2008-07-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/757baea8-3139-4b1a-b289-2349c1f935eb/6993841874-500.jpg" data-tags="dub, techno" role="button">
 Deadbeat - Roots and Wire (2008-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/71a858f1-0f5e-490d-a2a5-fb2e59ec3e4b/8894527731-500.jpg" data-tags="electronic" role="button">
-Röyksopp - Happy Up Here (2009-01-18)
 </li>
 <li data-cover="https://img.discogs.com/lNDL8nXCb7x21HoFPfPmChKCZZU=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773854-1609708059-9034.jpeg.jpg" data-tags="alternative" role="button">
 IAMX - Kingdom of Welcome Addiction (2009-05-15)
@@ -279,9 +279,6 @@ The Summer Set - Love Like This (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/fd57d406-6d9b-483d-be8d-75a377e757fe/2524009497-500.jpg" data-tags="electronic, electropop, pop, dance, happy, synthpop, fun, danish, europop, danish poprock" role="button">
 Alphabeat - The Spell (2009-10-26)
 </li>
-<li data-cover="https://img.discogs.com/fmLynREcpjqMGzPsv-iYP3IOEBU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2608555-1292963431.jpeg.jpg" data-tags="electronic, electro, dance, australian, happy, funk, electrodance, poptron" role="button">
-Bag Raiders - Way Back Home (2010)
-</li>
 <li data-cover="https://img.discogs.com/3-Yod8rujU6Y4iG6tqS_824HmII=/fit-in/600x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2834483-1488441125-6059.jpeg.jpg" data-tags="hip-hop, schlager" role="button">
 K'naan - Wavin' Flag (2010-01-01)
 </li>
@@ -299,6 +296,9 @@ Jimmy Eat World - Invented (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bcfd4b2-a2f4-4d9a-ae5d-bbe6f343b1c5/4781198698-500.jpg" data-tags="alternative, indie rock, happy, electornic, low down, drunk walking the streets at 4am thinking of her, u street dc" role="button">
 Man Man - Life Fantastic (2011-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/94751fa2-e3c1-43cc-9f66-a7f2acb101a1/12051822759-500.jpg" data-tags="pop, pop rock, pop punk, smile, avril lavigne" role="button">
+Avril Lavigne - Smile (2011-05-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="one direction" role="button">
 One Direction - What Makes You Beautiful (2011-09-11)

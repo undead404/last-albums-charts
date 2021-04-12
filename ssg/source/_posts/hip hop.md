@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:32:07.067Z
+date: 2021-04-12T20:35:07.088Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -60,9 +60,6 @@ Fugees - The Score (1996-02-12)
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/50989c66-32db-4e87-b368-15a712783c6f/22017969148-500.jpg" data-tags="hip hop, 90s, rnb" role="button">
-Mark Morrison - Return Of The Mack (1996-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
 </li>
@@ -92,6 +89,9 @@ Eminem - The Slim Shady LP (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e0de6ea-bf19-4d90-b97d-7ba8684de1b0/9239764655-500.jpg" data-tags="rap, hip hop, dmx" role="button">
+DMX - ...And Then There Was X (1999-12-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip hop, hip-hop, rap" role="button">
 Ghostface Killah - Supreme Clientele (2000-01-25)
@@ -158,9 +158,6 @@ Fort Minor - The Rising Tied (2005-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
 T.I. - King (2006-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
-The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
@@ -311,6 +308,9 @@ Jason Derülo - Talk Dirty (2014-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg" data-tags="hip-hop, electronic, hip hop" role="button">
 Die Antwoord - Donker Mag (2014-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7da69ca-559e-4551-994a-11592e7f5236/6832217870-500.jpg" data-tags="hip-hop, hip hop" role="button">
+clipping. - CLPPNG (2014-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbd931f0-f3ad-4550-b1cd-862e4b70cc03/9082731243-500.jpg" data-tags="hip hop" role="button">
 J. Cole - 2014 Forest Hills Drive (2014-09-14)

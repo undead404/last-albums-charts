@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:32:01.701Z
+date: 2021-04-12T20:02:01.473Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -93,6 +93,9 @@ Iron & Wine - The Creek Drank the Cradle (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/38554573-5d32-4d79-932f-22be38acb089/21232438954-500.jpg" data-tags="rock, alternative rock, indie rock, lo-fi, punk rock, garage rock, 00s, mainstream-indie, lieblingsalben, cds i should buy, mmmusic" role="button">
 The Thermals - More Parts Per Million (2003-03-04)
 </li>
+<li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="garage rock, rock, alternative" role="button">
+The Kills - Keep On Your Mean Side (2003-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
@@ -143,9 +146,6 @@ TV on the Radio - Dear Science (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/FxTObqr5eWFxH-DS8SdVVVopmBU=/fit-in/378x381/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574787-1229525133.jpeg.jpg" data-tags="indie, folk, indie rock, lo-fi, indie folk, phil elverum" role="button">
 Mount Eerie - Dawn (2008-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)

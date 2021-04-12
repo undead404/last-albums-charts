@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:31:06.969Z
+date: 2021-04-12T20:28:01.467Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -99,9 +99,6 @@ Slowdive - Pygmalion (1995-02-06)
 <li data-cover="http://coverartarchive.org/release/9d40c2a5-dff3-376e-b255-2d6bc7df6cd2/17549832584-500.jpg" data-tags="alternative" role="button">
 Hum - You'd Prefer an Astronaut (1995-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/14d10939-087c-4fb3-8741-859f774d4d5a/19368707018-500.jpg" data-tags="shoegaze" role="button">
-The Brian Jonestown Massacre - Methodrone (1995-08-25)
-</li>
 <li data-cover="https://img.discogs.com/MS8e20gJS70SvNwQESZFSm7wfD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3134-1499498900-2488.jpeg.jpg" data-tags="shoegaze" role="button">
 Bowery Electric - Beat (1996-11-12)
 </li>
@@ -126,9 +123,6 @@ Mew - Frengers (2003-04-07)
 <li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
 Autolux - Future Perfect (2004-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3aa8a48-7b5b-475c-a713-442ea6c76871/10313121703-500.jpg" data-tags="shoegaze, shoegazer" role="button">
-Slowdive - Catch the Breeze (2004-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
@@ -146,6 +140,9 @@ Asobi Seksu - Citrus (2006-05-30)
 </li>
 <li data-cover="https://img.discogs.com/CJ5ybWE_YZQ5YPt9B9MfsnffsSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958025-1523171606-6172.jpeg.jpg" data-tags="indie, indie rock, shoegaze" role="button">
 Silversun Pickups - Carnavas (2006-07-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/29098068-a708-458b-96e6-839ae7fb6554/3102701745-500.jpg" data-tags="post-rock, shoegaze" role="button">
+Faunts - M4 (2006-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/eecea632-0a7a-4c60-90ce-aafb63dfbf6a/25155649526-500.jpg" data-tags="shoegaze" role="button">
 LSD and the Search for God - LSD and the Search For God (2007-01-16)
@@ -317,6 +314,9 @@ The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a219269b-2b2b-4130-a750-97fae2e7d054/7622781787-500.jpg" data-tags="shoegaze, dream pop" role="button">
 A Sunny Day In Glasgow - Sea When Absent (2014-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cff0cf88-31b7-48b4-94a6-11a6efad2267/8224518572-500.jpg" data-tags="indie rock, noise rock, shoegaze" role="button">
+Cymbals Eat Guitars - LOSE (2014-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/df2cae68-314e-446e-b2be-e97c2087261c/11214475189-500.jpg" data-tags="shoegaze" role="button">
 Whirr - Sway (2014-09-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:38:01.571Z
+date: 2021-04-12T20:20:07.106Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -36,6 +36,9 @@ Curtis Mayfield - Curtis (1970-09)
 <li data-cover="http://coverartarchive.org/release/305a3d69-e0f6-44eb-a941-8471ee6c642d/9120061238-500.jpg" data-tags="soul" role="button">
 Gil Scott-Heron - Pieces of a Man (1971)
 </li>
+<li data-cover="https://img.discogs.com/NmsVUmq9vFd1TzISWaEutHROlws=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9909654-1603646763-2297.jpeg.jpg" data-tags="soul" role="button">
+Bill Withers - Just As I Am (1971-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0424f4b-0be7-4bae-b163-3f6b63723c41/22562008725-500.jpg" data-tags="funk" role="button">
 Funkadelic - Maggot Brain (1971-07-12)
 </li>
@@ -53,9 +56,6 @@ Curtis Mayfield - Superfly (1972-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
-Kool & The Gang - Wild And Peaceful (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/d82dec3e-e077-42d4-ba4f-51b57128e19a/16046182344-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Innervisions (1973-08-03)
@@ -195,9 +195,6 @@ Red Hot Chili Peppers - By the Way (2002-06-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
 </li>
-<li data-cover="https://img.discogs.com/XDRQWx8vLn5lSj8z9HJznyzG5_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3211782-1399202858-4905.jpeg.jpg" data-tags="funk, soul" role="button">
-James Brown - The Payback (2002-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
 </li>
@@ -257,6 +254,9 @@ Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/D5zif8STedOBGvMsAzk9SQhzunQ=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495698-1227800340.jpeg.jpg" data-tags="funk" role="button">
 Menahan Street Band - Make the Road by Walking (2008-10-14)
+</li>
+<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
+The Whitest Boy Alive - Rules (2009-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:39:01.791Z
+date: 2021-04-12T19:48:01.562Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -38,12 +38,6 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
 <li data-cover="https://img.discogs.com/J9PaS66DH_mf4VEHW4OG-d55ijQ=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1368472-1213497399.jpeg.jpg" data-tags="pop, soul, 90s" role="button">
 Seal - Seal (1994-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/af4c39d7-2682-4190-ad19-0e53a2cbcde1/20982255789-500.jpg" data-tags="mellow, pop" role="button">
-Lighthouse Family - Ocean Drive (1996-02)
-</li>
-<li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">
-Lighthouse Family - Postcards From Heaven (1997-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
@@ -92,6 +86,9 @@ Travis - The Invisible Band (2001-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
+Belle and Sebastian - Storytelling (2002-06-03)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
@@ -165,6 +162,9 @@ Jack Johnson - In Between Dreams (2005-02-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
+Aqualung - Strange and Beautiful (2005-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
 </li>
@@ -207,9 +207,6 @@ The Album Leaf - Into The Blue Again (2006-09-08)
 <li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
 Ben Kweller - Ben Kweller (2006-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
-Sean Lennon - Friendly Fire (2006-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
 </li>
@@ -224,9 +221,6 @@ The Shins - Australia (2007-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f6d5d5-dc60-495b-ab0e-57752fff5303/17901386044-500.jpg" data-tags="indie, indie rock, mellow, rock" role="button">
 Band of Horses - The Funeral (2007-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
-Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
@@ -263,6 +257,9 @@ Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/685525ef-772a-4435-b6d4-c890c6aa69c1/15447134455-500.jpg" data-tags="indie rock" role="button">
+Margot & the Nuclear So and So's - Not Animal (2008-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
@@ -314,6 +311,9 @@ Julia Stone - By the Horns (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f2e6a44-7824-4b2f-8118-eed8c69a8127/12213760088-500.jpg" data-tags="singer-songwriter, acoustic, guitar, mellow" role="button">
 Joshua Radin - Underwater (2012-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f06ac9d-285a-42cc-aaed-1408ed7b89ee/2960856865-500.jpg" data-tags="indie, folk, singer-songwriter, mellow" role="button">
+Newton Faulkner - Write It On Your Skin (2012-10-19)
 </li>
 <li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)

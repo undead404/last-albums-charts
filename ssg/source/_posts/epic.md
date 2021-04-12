@@ -1,12 +1,12 @@
 ---
-date: 2021-04-12T11:11:01.476Z
+date: 2021-04-12T20:10:01.553Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/5kt54xbpjkIEZPaqLtSJVyXpslY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822032-1162315250.jpeg.jpg" data-tags="soul, 70s, epic, legacy recordings, s otis" role="button">Shuggie Otis - Freedom Flight (1971-09)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">Yndi Halda - Enjoy Eternal Bliss (2005)</li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">Between the Buried and Me - Colors (2007-09-18)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
@@ -27,6 +27,9 @@ Shuggie Otis - Freedom Flight (1971-09)
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - I Robot (1977-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
@@ -36,11 +39,11 @@ Basil Poledouris - Conan the Barbarian (1982)
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
+Dream Theater - When Dream And Day Unite (1989-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/9856fe82-ee58-46f3-8dc6-1e146ae0989a/18870075471-500.jpg" data-tags="symphonic metal, progressive metal" role="button">
 X Japan - ART OF LIFE (1993-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bf29e42-a5c4-44fe-a3e0-29b11c2e8091/5877225471-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
-Summoning - Minas Morgul (1995-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
@@ -51,14 +54,14 @@ Built to Spill - Perfect From Now On (1997-01-28)
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/228f0a8f-01a2-3d80-a04c-f19848360e0b/3732943726-500.jpg" data-tags="atmospheric black metal" role="button">
-Summoning - Stronghold (1999-05-11)
+<li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="https://img.discogs.com/uX9O4xkMY_Y9dXQu5Ddbv7ae-Ho=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35298-001.jpg.jpg" data-tags="trance, electronica, dance, epic, wonder, progresive trance" role="button">
+Gouryella - Walhalla (1999-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e5d0c29-9460-46e1-a775-ba37db84e48c/12950845683-500.jpg" data-tags="punk rock" role="button">
 NOFX - The Decline (1999-11-23)
@@ -72,20 +75,11 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
-<li data-cover="https://img.discogs.com/XLMFs6Yc9ih_DVVwuWDARIRcnRQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540652-1290980659.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
-Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
-</li>
-<li data-cover="https://img.discogs.com/hFzgQ8mCtnlmvA4vr5fBwYdoDDQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4972356-1381001454-9974.jpeg.jpg" data-tags="ambient" role="button">
-Summoning - Lost Tales (2003-03-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">
 Ensiferum - Iron (2004-04-15)
@@ -114,14 +108,8 @@ Thrice - Vheissu (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/65c64965-14bd-40d4-929a-23d8ee62a623/8183556387-500.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0214a6de-c1d4-3c60-94ff-38764301020b/10155515199-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
-Summoning - Oath Bound (2006-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
 I Hate Kate - Embrace The Curse (2007)
@@ -134,9 +122,6 @@ Between the Buried and Me - Colors (2007-09-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="epic, bounce, cheerful" role="button">
 BUCK-TICK - Tenshi no Revolver (2007-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
-Brand New - (Fork And Knife) (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
@@ -162,17 +147,26 @@ Glasvegas - Glasvegas (2008-09-05)
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ee6302b-e25e-3bbc-91bb-55a3720d689e/12933782772-500.jpg" data-tags="soundtrack, instrumental, epic, score, original motion picture soundtrack, bond soundtrack" role="button">
+David Arnold - Quantum Of Solace (2008-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">
+Brandy - Human (2008-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff4c762d-ce33-423c-95d3-a09accd3b155/11432456532-500.jpg" data-tags="chill, progressive metal, prog, epic, boogie on down, not of this world, instrumental prog metal, god tier chill, legends of chill" role="button">
 CHON - Chon (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
-As Cities Burn - Hell Or High Water (2009-03)
+<li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
+Soap&Skin - Lovetune for Vacuum (2009-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfa32f5e-08c6-445d-8379-d03f6f0a7894/9766551949-500.jpg" data-tags="progressive rock, epic, glorious" role="button">
+Children of Nova - The Complexity Of Light (2009-03-26)
 </li>
 <li data-cover="https://img.discogs.com/ywTI1vRaRLVx_kdUTR8FfiuH7R4=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846101-1303728167.jpeg.jpg" data-tags="hardcore" role="button">
 Your Demise - Ignorance Never Dies (2009-04-20)
@@ -183,23 +177,14 @@ Isis - Wavering Radiant (2009-04-21)
 <li data-cover="https://img.discogs.com/lNDL8nXCb7x21HoFPfPmChKCZZU=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773854-1609708059-9034.jpeg.jpg" data-tags="alternative" role="button">
 IAMX - Kingdom of Welcome Addiction (2009-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">
-Ensiferum - From Afar (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f50ea53-37b4-31ef-aff2-e1d9b8763517/1236333909-500.jpg" data-tags="alternative rock" role="button">
 AFI - Crash Love (2009-09-23)
 </li>
 <li data-cover="https://img.discogs.com/AJR2mCOi8-YyOmaUR6VgzkKqryA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967297-1431603480-2723.jpeg.jpg" data-tags="noise, electronic, drone" role="button">
 Fuck Buttons - Tarot Sport (2009-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
-E.S. Posthumus - Makara (2010-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c036feb-0a13-3cc9-9897-e4e125c63922/7360744850-500.jpg" data-tags="soundtrack" role="button">
 John Powell - How to Train Your Dragon (2010-03-23)
@@ -209,9 +194,6 @@ Jónsi - Go (2010-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf46850e-5e7e-4d63-ab83-90ad6a8124c4/1718775731-500.jpg" data-tags="glee cast, glee" role="button">
 Glee Cast - Glee: The Music, The Complete Season One (2010-09-14)
@@ -231,6 +213,9 @@ Lady Gaga - Born This Way (2011-05-20)
 <li data-cover="http://coverartarchive.org/release/44f51496-6f52-4ed1-b8a9-0f81a9f04b3b/1242603301-500.jpg" data-tags="indie, clean, epic, summer, dfa" role="button">
 The Rapture - How Deep Is Your Love? (2011-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/4825cfda-91f1-45eb-bade-064f60ffafb7/7168615000-500.jpg" data-tags="soundtrack, inspirational" role="button">
+Thomas Bergersen - Illusions (2011-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/0f4bc096-5241-4160-b9b3-1e07e6262e40/5777589331-500.jpg" data-tags="post-rock, epic" role="button">
 *shels - Plains of the Purple Buffalo (2011-07-11)
 </li>
@@ -246,6 +231,9 @@ Florence + the Machine - Ceremonials (2011-10-28)
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/14857973-e45d-4c98-8a41-720f2174046a/9318639689-500.jpg" data-tags="christmas, lady gaga, jazz, acoustic" role="button">
+Lady Gaga - A Very Gaga Holiday (2011-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
 </li>
@@ -260,6 +248,9 @@ ONE OK ROCK - The Beginning (2012-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9e51a05-668b-450a-b8b0-778bbed89c76/1777618464-500.jpg" data-tags="post-rock" role="button">
 Mono - For My Parents (2012-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8dfa23f-664e-40f1-8e69-9c5c9cabb1dc/3905006184-500.jpg" data-tags="amanda palmer" role="button">
+Amanda Palmer & The Grand Theft Orchestra - Theatre Is Evil (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
@@ -285,6 +276,9 @@ Quadron - Avalanche (2013-05-31)
 <li data-cover="https://img.discogs.com/pscnaQIdudebvxaNvSMSI0KzdJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012392-1524398620-5370.jpeg.jpg" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/e6a2f498-410f-4227-9357-da436a70dbf6/7152725363-500.jpg" data-tags="post-rock" role="button">
+65daysofstatic - Wild Light (2013-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
 </li>
@@ -306,6 +300,9 @@ Ibrahim Maalouf - Illusions (2013-11-05)
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/e303d43a-e1ba-4e88-8ac3-7e6c50e2e04a/8525369803-500.jpg" data-tags="chill, progressive metal, progressive rock, prog, epic, hot chocolate, mathrock, boogie on down, not of this world, deva metal, god tier chill, legends of chill, mostly instrumental prog metal, mostly instrumental prog rock" role="button">
+CHON - Woohoo! (2014-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/82ec3d0f-3aeb-4a50-8496-56df51909455/14904578516-500.jpg" data-tags="pop, epic, hell" role="button">
 Little Mix - Word Up! (2014-03-14)
 </li>
@@ -320,5 +317,8 @@ The Script - No Sound Without Silence (2014-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed809e0c-09cc-41bd-a4bc-9f78067fc450/8595143371-500.jpg" data-tags="soundtrack, instrumental, epic" role="button">
 Thomas Bergersen - Sun (2014-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4554277a-8b5a-4e27-a892-8796c6b1431d/8268900146-500.jpg" data-tags="folk" role="button">
+You+Me - rose ave. (2014-10-10)
 </li>
 </ol>

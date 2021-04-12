@@ -1,11 +1,11 @@
 ---
-date: 2021-04-12T03:02:01.416Z
+date: 2021-04-12T20:44:01.460Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">Suicidal Tendencies - Suicidal Tendencies (1983-07-05)</li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">Faith No More - The Real Thing (1989-06-20)</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">Faith No More - Angel Dust (1992-06-08)</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">Clawfinger - Use Your Brain (1995-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/vBuq0MClyik2arZCD_eUHLLWGjQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057386-1250967544.jpeg.jpg" data-tags="fusion" role="button">
+Billy Cobham - Crosswinds (1974-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
@@ -56,9 +59,6 @@ Green Jellÿ - Cereal Killer Soundtrack (1992)
 </li>
 <li data-cover="https://img.discogs.com/5oPxLLkt4GQseu-r7YxV1bDiLD4=/fit-in/558x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888434-1355651670-2534.jpeg.jpg" data-tags="hardcore" role="button">
 Biohazard - Urban Discipline (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
@@ -144,9 +144,6 @@ Deftones - Live Tracks (1998-04-10)
 <li data-cover="https://img.discogs.com/UwngDBJsmD7-M8R2S8_h6hF1hDE=/fit-in/526x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-603950-1261065517.jpeg.jpg" data-tags="punk, ska, ska punk, crossover, post metal, jump-right-in" role="button">
 The Urge - Master Of Styles (1998-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/fa44d7bd-289a-4a19-845d-64e5e7b534d0/16131894017-500.jpg" data-tags="thrash metal, metal, death metal, groove metal" role="button">
-Lamb of God - Burn the Priest (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e62337e-8efe-3c42-9777-6dee1ed07c25/5233844746-500.jpg" data-tags="hardcore punk, hardcore" role="button">
 Suicidal Tendencies - Freedumb (1999-04-16)
 </li>
@@ -201,11 +198,11 @@ Emil Bulls - Angel Delivery Service (2001-12-03)
 <li data-cover="https://img.discogs.com/oKuPt4tLuiCaBwQDx73igsycv-Y=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-886336-1348405300-6388.jpeg.jpg" data-tags="alternative rock" role="button">
 H-Blockx - Get in the Ring (2002-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/95e8c5bc-872d-42e5-a8f2-ebc527cedf1f/11855376903-500.jpg" data-tags="alternative metal, alternative rock" role="button">
-Earshot - Letting Go (2002-05-07)
-</li>
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/91aa80a0-1fda-45a4-b09b-6ff563eaca5a/18831206839-500.jpg" data-tags="crossover" role="button">
+Such A Surge - Rotlicht (2003-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f627249-f2b0-4b69-8c4b-ed26f7db0fb9/7971533432-500.jpg" data-tags="punk, hardcore" role="button">
 The Exploited - Fuck the System (2003-02-17)
@@ -299,6 +296,9 @@ Municipal Waste - Massive Aggressive (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/tXkKA1LKqgg1Z3chelWxJaAgwBQ=/fit-in/600x660/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479846-1575376462-6127.jpeg.jpg" data-tags="german, crossover, rapcore" role="button">
 Panik - Panik (2009-09-25)
+</li>
+<li data-cover="https://img.discogs.com/B5VPkA_RrzLnSWqRmrEmO6svxaA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5019542-1382294461-6567.jpeg.jpg" data-tags="hardcore, nu metal, metal" role="button">
+Emil Bulls - Phoenix (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)

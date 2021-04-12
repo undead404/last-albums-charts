@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:40:01.469Z
+date: 2021-04-12T20:41:01.477Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -174,9 +174,6 @@ Manowar - Louder Than Hell (1996-04-29)
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">
 Metallica - Load (1996-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/0235b824-f285-4f24-819d-e1ebdb686847/10879471570-500.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Best of the Beast (1996-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/7768fec2-abd5-43d7-9c43-19d9ffdb4ace/5032162083-500.jpg" data-tags="heavy metal, thrash metal" role="button">
 Megadeth - Cryptic Writings (1997-05-28)
 </li>
@@ -188,6 +185,9 @@ Iron Maiden - Virtual XI (1998-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5c27001-6dba-31a8-9f71-d50d89b0348b/7450806557-500.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Something Wicked This Way Comes (1998-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c183522b-1d38-3e83-aaaf-fc3fc87cdc05/14997427885-500.jpg" data-tags="alternative metal" role="button">
+System of a Down - System of a Down (1998-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f149cf49-9364-365a-a9d5-b1ec5688075d/1068123055-500.jpg" data-tags="industrial metal" role="button">
 Rob Zombie - Hellbilly Deluxe (1998-08-25)

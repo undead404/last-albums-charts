@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:45:01.880Z
+date: 2021-04-12T20:39:01.464Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -65,9 +65,6 @@ The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
 The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
-</li>
-<li data-cover="https://img.discogs.com/iFNV6R7RIG74IcwCUioY9F-PVsI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3554440-1335073962.jpeg.jpg" data-tags="shoegaze, noise pop" role="button">
-Medicine - Shot Forth Self Living (1992-09-15)
 </li>
 <li data-cover="https://img.discogs.com/yNwBqDbzNJxy7hFtZXJtzK9dttA=/fit-in/338x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196103-1358225553-8655.jpeg.jpg" data-tags="noise rock, lo-fi, noise pop, drone pop" role="button">
 Guided by Voices - Vampire on Titus (1993)
@@ -179,6 +176,9 @@ Crocodiles - Summer of Hate (2009-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5b17ab3-127d-476b-a4be-3d3c9e9d9e9a/24309818135-500.jpg" data-tags="shoegaze, post-punk" role="button">
 The Horrors - Primary Colours (2009-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/181364e9-a69b-4372-a375-7fd6a7d25fc9/1016444067-500.jpg" data-tags="shoegaze" role="button">
+Pinkshinyultrablast - Happy songs for happy zombies (2009-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6101e790-d5e2-4fc1-b2ad-d33685467295/6575683875-500.jpg" data-tags="lo-fi" role="button">
 Zola Jesus - The Spoils (2009-07-13)

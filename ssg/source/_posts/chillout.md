@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:59:07.076Z
+date: 2021-04-12T20:25:01.477Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Zero 7 - Simple Things (2001-04-23)](http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg "Zero 7 - Simple Things (2001-04-23)")
@@ -81,6 +81,9 @@ Tosca - Suzuki (2000-03-06)
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb385717-9392-414f-b271-534663cad5b1/5258564363-500.jpg" data-tags="trip-hop, electronic, downtempo" role="button">
+Morcheeba - Fragments of Freedom (2000-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
 </li>
@@ -161,9 +164,6 @@ Morcheeba - Parts of the Process (2003-06-30)
 </li>
 <li data-cover="https://img.discogs.com/CYWXnnOLgzBU6l5Xxflmh3bL9cw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5084192-1384054235-2279.jpeg.jpg" data-tags="chillout, world" role="button">
 Oi Va Voi - Laughter Through Tears (2003-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/b2b78290-b041-4cdb-8355-7f8090ff7485/21687038310-500.jpg" data-tags="trip-hop" role="button">
-Lamb - Between Darkness And Wonder (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5969ae15-8e51-44b7-a5a7-b55d6dea1053/24102546544-500.jpg" data-tags="chillout" role="button">
 Blue Foundation - Sweep Of Days (2004)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:07:01.437Z
+date: 2021-04-12T20:14:07.139Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Streetlight Manifesto - Everything Goes Numb (2003-08-26)](http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg "Streetlight Manifesto - Everything Goes Numb (2003-08-26)")
@@ -159,6 +159,9 @@ Ska-P - Planeta Eskoria (2000-10-09)
 <li data-cover="http://coverartarchive.org/release/1d478195-58ba-3d18-a4db-61a7a84813e1/2279759228-500.jpg" data-tags="ska punk" role="button">
 Less Than Jake - Borders & Boundaries (2000-10-24)
 </li>
+<li data-cover="https://img.discogs.com/20b6yft90sHm_ncJcE4Ivx9y70A=/fit-in/353x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3721922-1341747216-4648.jpeg.jpg" data-tags="ska, punk rock, ska punk, 2000s, eastern europe rock" role="button">
+Leniwiec - Z tarczą lub na tarczy (2001)
+</li>
 <li data-cover="https://img.discogs.com/-B27AxUHFKt-Hi_gEB_EG164a60=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1693745-1350676528-8521.jpeg.jpg" data-tags="alternative, hardcore, ska punk, nerd rock, geek rock, dumb-pop-song" role="button">
 Lucky Boys Confusion - Throwing the Game (2001-05-08)
 </li>
@@ -230,9 +233,6 @@ The Aquabats - Charge!! (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dcc37c9-8dee-46e1-aef5-1fb2b737841f/4812144056-500.jpg" data-tags="skunk rock" role="button">
 The Flatliners - Destroy To Create (2005-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/PNjGbQhy6lNCujx_Kdd2GBiuLyE=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651885-1285922617.jpeg.jpg" data-tags="punk" role="button">
 The Suicide Machines - War Profiteering Is Killing Us All (2005-08-09)

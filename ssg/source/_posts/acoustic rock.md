@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:44:01.398Z
+date: 2021-04-12T20:06:07.042Z
 title: "acoustic rock: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b231929d-60f7-4768-b60b-2130b23447ce/9166547195-500.jpg" data-tags="instrumental, acoustic, acoustic rock, funk rock, progressive funk rock, acoustic funk rock" role="button">
 Blues Saraceno - Never Look Back (1989)
 </li>
-<li data-cover="http://coverartarchive.org/release/00430071-491d-4ca3-a61e-634cbc483021/13220151098-500.jpg" data-tags="rock, grunge, pearl jam" role="button">
-Pearl Jam - MTV Unplugged (1992)
+<li data-cover="http://coverartarchive.org/release/9881248f-898e-4f62-b8ae-f33aa333202a/2593040443-500.jpg" data-tags="alternative metal, acoustic rock, primary, soul music" role="button">
+Living Colour - Dread (1993)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, alternative, alternative rock, male vocalists, acoustic rock, pop-rock, wisconsin" role="button">
 BoDeans - Go Slow Down (1993-10-12)
@@ -53,9 +53,6 @@ Def Leppard - Slang (1996-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7533b1fc-d328-4ee5-8b50-bbf4c3edb6ed/9020709713-500.jpg" data-tags="southern rock, rock" role="button">
 Zakk Wylde - Book of Shadows (1996-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8843d2b4-f584-46a4-9c3c-f082b7eb39c4/9233096986-500.jpg" data-tags="grunge, 90s, rock, alternative" role="button">
-Days of the New - Days Of The New (1997-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6daf7b2-c04b-41d5-9871-cfc32d649f04/25289789287-500.jpg" data-tags="acoustic rock" role="button">
 Seven Mary Three - Rock Crown (1997-06-03)
@@ -90,6 +87,9 @@ Matt Wertz - Somedays (2001-05-22)
 <li data-cover="http://coverartarchive.org/release/3f8d05d8-721c-4f02-bafe-8e7a86ba8490/10976525258-500.jpg" data-tags="rock, finnish" role="button">
 The Rasmus - Into (2001-09-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/f33e1be1-7df0-46c2-8c37-9fef15cbcc75/3469473512-500.jpg" data-tags="acoustic rock" role="button">
+Jon Gomm - Hypertension (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/de812847-9d15-403c-bca3-565ee0251010/6571257629-500.jpg" data-tags="smooth jazz" role="button">
 Acoustic Alchemy - Radio Contact (2003)
 </li>
@@ -102,11 +102,14 @@ Bishop Allen - Charm School (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/500df1c4-f8a1-464c-a0b5-d01284922e4f/15801150787-500.jpg" data-tags="indie rock" role="button">
-The New Amsterdams - Worse For The Wear (2003-08-05)
+<li data-cover="https://img.discogs.com/t-hqEInbUFRRZbVlJk5OzJ-RF-c=/fit-in/575x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2868215-1304947084.jpeg.jpg" data-tags="rock" role="button">
+Foo Fighters - Acoustic (2003-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a286be17-96f0-3dee-9c66-d8972a04d4e9/1742724035-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/1572c40d-0630-40d8-995b-20fd95d9144f/3891405169-500.jpg" data-tags="guitar virtuoso" role="button">
+Paul Gilbert - Gilbert Hotel (2003-08-19)
 </li>
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
@@ -116,9 +119,6 @@ Howie Day - Stop All The World Now (2003-10-07)
 </li>
 <li data-cover="https://img.discogs.com/XKWqSZuUg0EhbDJlzg9F7UBtPjc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4264430-1360108280-6103.jpeg.jpg" data-tags="acoustic, acoustic rock, got it, poul gilbert" role="button">
 Paul Gilbert - Acoustic Samurai (2003-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
-Andy McKee - Dreamcatcher (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3194a7cc-fc92-3182-bd73-e1b23fa54ff9/3625624015-500.jpg" data-tags="french, chanson, pop, singer-songwriter, acoustic rock, francais, francophone, france, happiness, french happiness" role="button">
 Miossec - 1964 (2004-03-01)
@@ -146,6 +146,9 @@ Corey Crowder - Learning To Let Go (Special Edition) (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
+</li>
+<li data-cover="https://img.discogs.com/rnVK1xUVLohRIEYlW839-M-5g68=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598613-1493139470-6385.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
+Troy Von Balthazar - Troy von Balthazar (2005-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">
 Foo Fighters - In Your Honor (2005-05-13)
@@ -183,14 +186,8 @@ Green Carnation - The Acoustic Verses (2006-01-24)
 <li data-cover="https://img.discogs.com/NNPyahSxPvcpMhtifWocUMMESsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027341-1355764748-6870.jpeg.jpg" data-tags="indie" role="button">
 The New Amsterdams - Story Like A Scar (2006-03)
 </li>
-<li data-cover="https://img.discogs.com/N7pXutkmWaprRKwYS6YZp5bZoPY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3747982-1471215818-2443.jpeg.jpg" data-tags="indie, rock, emo, indie rock, acoustic, acoustic rock, jay-z, glory, sun and moon and stars and outer space, rookie album, stephkicks" role="button">
-Rookie of the Year - The Goodnight Moon (2006-04-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/0033c9f5-c32a-32ea-a726-664c99d06347/22510847182-500.jpg" data-tags="progressive rock" role="button">
 OSI - Free (2006-04-21)
-</li>
-<li data-cover="https://img.discogs.com/pYTR7-zIEdrT_KshdFrNK0odtMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3502835-1334126027.jpeg.jpg" data-tags="rock, power metal, melodic metal" role="button">
-Michael Kiske - Kiske (2006-05-19)
 </li>
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
 Dashboard Confessional - Dusk And Summer (2006-06-26)
@@ -224,9 +221,6 @@ Walls of Jericho - Redemption (2008-04-25)
 </li>
 <li data-cover="https://img.discogs.com/5U7qAvvGlmw2litqZ-jg55aRuTY=/fit-in/555x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1317860-1224905563.jpeg.jpg" data-tags="songwriter" role="button">
 Scott Kelly - The Wake (2008-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/53f38bee-03ce-40b0-bfad-e349415c88dd/1149232883-500.jpg" data-tags="acoustic rock" role="button">
-Amity in Fame - Dinner for One (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/40deb0a4-3db1-4b30-9810-1af66cfb6804/6415586221-500.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, acoustic, acoustic rock" role="button">
 O.A.R. - All Sides (2008-07-15)
@@ -267,14 +261,23 @@ Josh Woodward - Breadcrumbs (2009-10-05)
 <li data-cover="http://coverartarchive.org/release/49f428de-3c35-3e20-8141-03d67aa2db2a/4050463336-500.jpg" data-tags="metal, acoustic, symphonic metal" role="button">
 Within Temptation - An Acoustic Night at the Theatre (2009-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/12d28eb8-251d-460d-9149-4deb8fb46cf0/6804858563-500.jpg" data-tags="acoustic, guitar" role="button">
+Jon Gomm - Don't Panic (2009-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/36344efe-8805-4e8d-b5f9-fef31aa39f02/8360822222-500.jpg" data-tags="metalcore" role="button">
 Times of Grace - The Hymn of a Broken Man (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/385a713b-e3ac-47c6-b65c-ab04bc96b571/8034407638-500.jpg" data-tags="folk" role="button">
+Eric Fish - Alles im Fluss (2010-01-15)
 </li>
 <li data-cover="https://img.discogs.com/Cch9xq_xdq47XQEUgMJ3X_476Ns=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616085-1337508814-3772.jpeg.jpg" data-tags="indie, rock" role="button">
 Eels - End Times (2010-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cd81ac8-3691-4110-b48e-4b92f870aec8/11835530996-500.jpg" data-tags="indie rock, acoustic rock, album" role="button">
 Turin Brakes - Outbursts (2010-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d5133cc-d4b8-4295-a272-0cfcb76d2131/3749952453-500.jpg" data-tags="post-rock" role="button">
+Trancelike Void - Silhouettes of Misery (2010-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a71c547-1757-4695-8d15-be0a59ab096c/27339835378-500.jpg" data-tags="classic rock, acoustic, blues rock, southern rock" role="button">
 The Black Crowes - Croweology (2010-08-02)
@@ -296,9 +299,6 @@ Ed Sheeran - + (2011-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a02148a5-a843-46f2-aada-c242a9cef892/6782617439-500.jpg" data-tags="alternative rock, acoustic, acoustic rock" role="button">
 Art of Dying - Let the Fire Burn (2012-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
-Tenacious D - Rize of the Fenix (2012-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b9745c0-7729-4d2d-805e-836d136074bb/1258644423-500.jpg" data-tags="acoustic" role="button">
 Sleeping with Sirens - If You Were a Movie, This Would Be Your Soundtrack (2012-06-26)

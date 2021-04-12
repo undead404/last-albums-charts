@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:24:07.084Z
+date: 2021-04-12T20:36:01.482Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -78,6 +78,9 @@ Jack Johnson - Brushfire Fairytales (2000)
 <li data-cover="https://img.discogs.com/75AWFTaFL7c50jjCElMLgOIWPdM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2655861-1562262287-2726.jpeg.jpg" data-tags="singer-songwriter, acoustic, rainy day, purchased 09, colin hay" role="button">
 Colin Hay - Going Somewhere (2000-06-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
+Vertical Horizon - Everything You Want (2000-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
 </li>
@@ -98,9 +101,6 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
-John Mayer - Any Given Thursday (2003-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
@@ -207,9 +207,6 @@ Sara Bareilles - Little Voice (2007-07-03)
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
-Newton Faulkner - Hand Built By Robots (2007-07-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
@@ -311,6 +308,9 @@ City and Colour - The Hurry And The Harm (2013-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8997b1d-3345-4750-a7e6-fe19b96a96f3/4436735162-500.jpg" data-tags="indie, chill, singer-songwriter, acoustic, columbia records, sony music, in my vinyl collection" role="button">
 Tom Odell - Long Way Down (2013-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
+Gregory Alan Isakov - The Weatherman (2013-07-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, jackj" role="button">
 Jack Johnson - From Here To Now To You (2013-09-13)

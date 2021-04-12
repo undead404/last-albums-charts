@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:22:02.202Z
+date: 2021-04-12T19:51:01.465Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -89,6 +89,9 @@ Iggy Pop - The Idiot (1977-03-18)
 </li>
 <li data-cover="https://img.discogs.com/D2RQsNF6Xy4pLu5F_T1HU31r7AY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2844673-1303658387.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Kansas - Point of Know Return (1977-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/90c91598-6c50-4b2e-a198-13ccff4bca45/22729382753-500.jpg" data-tags="classic rock, progressive rock, art rock, rock" role="button">
+Manfred Mann's Earth Band - Watch (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
@@ -248,9 +251,6 @@ Sunset Rubdown - Dragonslayer (2009-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/55346c1d-b6fb-4ea3-a6a2-4e6e369249b5/15606813797-500.jpg" data-tags="experimental" role="button">
 These New Puritans - Hidden (2010-01-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/afce7c95-e230-450c-a684-fc048bb55844/17749408084-500.jpg" data-tags="indie" role="button">
-Everything Everything - Man Alive (2010-08-30)
 </li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
