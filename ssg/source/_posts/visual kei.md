@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:46:12.602Z
+date: 2021-04-12T15:11:01.864Z
 title: "visual kei: 100 albums you must listen to before you die"
 ---
 ![DIR EN GREY - Withering to death (2005-03-09)](http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg "DIR EN GREY - Withering to death (2005-03-09)")
@@ -81,9 +81,6 @@ Malice Mizer - Bara No Seidou (2000-08-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, buck-tick, one death, joh" role="button">
 BUCK-TICK - ONE LIFE, ONE DEATH (2000-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/61a91ee4-71d9-4ed7-a7ad-6ae6c83173d7/21486949080-500.jpg" data-tags="japanese" role="button">
-DIR EN GREY - ain't afraid to die (2001-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b0cb384-ad5a-32b1-a69e-566e1e436d5c/17833938395-500.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - Rebirth (2001-04-25)
 </li>
@@ -95,9 +92,6 @@ GLAY - ONE LOVE (2001-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb6f4fcb-7084-4f2f-b53b-d446d44f2bce/5354890887-500.jpg" data-tags="metal, visual kei, jrock, j-indie, j-metal, vk" role="button">
 DIR EN GREY - embryo (2001-12-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/088f0a9a-8519-4742-ad67-be09efca963a/3178266084-500.jpg" data-tags="japanese, experimental rock" role="button">
-DIR EN GREY - 鬼葬 (2002-01-30)
 </li>
 <li data-cover="https://img.discogs.com/dlVb11NAXRJqOfvm7ZPsMlLhMhM=/fit-in/300x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-931087-1174164450.jpeg.jpg" data-tags="japanese, cyberpunk, j-rock, visual kei, jrock, buck-tick, awesome albums i own" role="button">
 BUCK-TICK - 極東 I LOVE YOU (2002-03-06)
@@ -117,6 +111,9 @@ ASIAN KUNG-FU GENERATION - Houkai Amplifier (2003-04-23)
 <li data-cover="http://coverartarchive.org/release/ab4c39c2-fcff-4ec3-92bd-00879500319d/9595704047-500.jpg" data-tags="electronic, japanese, darkwave" role="button">
 Schwarz Stein - New Vogue Children (2003-06-30)
 </li>
+<li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="j-rock" role="button">
+ムック - Zekuu (2003-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">
 DIR EN GREY - Vulgar (2003-09-10)
 </li>
@@ -131,9 +128,6 @@ ASIAN KUNG-FU GENERATION - 君繋ファイブエム (2003-11-19)
 </li>
 <li data-cover="https://img.discogs.com/lSbcfxhsZGPy283mAeWm4ogPwDc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2928666-1307764118.jpeg.jpg" data-tags="j-rock" role="button">
 GACKT - Crescent (2003-12-03)
-</li>
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
-D - Paradox (2004-01-07)
 </li>
 <li data-cover="https://img.discogs.com/TqHt17m5QufpcOp7N-h683SeCOQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6074509-1410384119-2008.jpeg.jpg" data-tags="j-rock, japanese, visual kei" role="button">
 Kagrra, - Miyako (2004-03-03)
@@ -165,6 +159,9 @@ DIR EN GREY - Withering to death (2005-03-09)
 <li data-cover="https://img.discogs.com/5XRzArmHt2r1tTpLFCSYUzbvHQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3978388-1602109519-2299.jpeg.jpg" data-tags="j-rock, nagoya kei" role="button">
 lynch. - greedy dead souls (2005-04-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="visual kei, jmetalandrock" role="button">
+Phantasmagoria - NEVER REBELLION (2005-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/141345b2-075d-4265-a9aa-79f305776eed/10523936141-500.jpg" data-tags="j-rock, visual kei" role="button">
 D - The name of the ROSE (2005-09-28)
 </li>
@@ -194,9 +191,6 @@ DIR EN GREY - 凌辱の雨 (2006-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd1479ad-797a-4395-80d2-86846f39dafc/20532147857-500.jpg" data-tags="metal, symphonic metal, visual kei" role="button">
 Moi dix Mois - Lamentful Miss (2006-10-04)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="japanese, visual kei, silencing" role="button">
 D'espairsRay - Squall (2007-03-14)
@@ -249,9 +243,6 @@ the GazettE - DISTRESS AND COMA (2009-03-25)
 <li data-cover="https://img.discogs.com/daYIPpb4LESMbsJPE6BV2Ws96s8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11879823-1523995274-2391.jpeg.jpg" data-tags="rock, instrumental, instrumental rock, rock pop, j-rock, visual kei" role="button">
 GACKT - Flower (2009-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/3aef076e-a943-46ea-8c20-ef7cf7f851b9/15266797476-500.jpg" data-tags="k-pop" role="button">
-2NE1 - 2NE1 (2009-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/a54a4387-263e-4799-ba7e-02a2dda3d08c/11228615759-500.jpg" data-tags="visual kei, japanese" role="button">
 the GazettE - DIM (2009-07-15)
 </li>
@@ -260,6 +251,9 @@ GACKT - The Next Decade (2009-08-11)
 </li>
 <li data-cover="https://img.discogs.com/UsIoohLu7frF0ud2ko26k4rZIfk=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071538-1262365899.jpeg.jpg" data-tags="visual kei, all time favourite" role="button">
 Cinema Bizarre - Toyz (2009-08-21)
+</li>
+<li data-cover="https://img.discogs.com/xjkgTyrmw3rS2yGE6_-9jsd5_d4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11878700-1523980236-6097.jpeg.jpg" data-tags="j-rock, visual kei, eroguro" role="button">
+cali≠gari - 10 (2009-08-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jmetalandrock" role="button">
 -OZ- - VERSUS (2009-09-16)
@@ -300,6 +294,9 @@ BORN - BLACK BORN MARKET (2010-08-18)
 <li data-cover="https://img.discogs.com/1cXMpDY6gsyBQd2kDmBYeih1kes=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12841441-1543185989-3394.jpeg.jpg" data-tags="japanese, j-rock, visual kei, jrock" role="button">
 BORN - BLACK THEORY MANIA (2010-09-15)
 </li>
+<li data-cover="https://img.discogs.com/yMC2EfPMi9qmfJZr86Rqa1mc408=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8810807-1469267495-6731.jpeg.jpg" data-tags="metal, japanese, j-rock, visual kei, jrock" role="button">
+BORN - BLACK DEAD MUZIC (2010-10-13)
+</li>
 <li data-cover="https://img.discogs.com/r6jgvk3BEotqoG8k0_sDiJzD2f8=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5703977-1400407453-3941.png.jpg" data-tags="rock, hard rock, progressive rock, alternative metal, addictive, visual kei, the gazette" role="button">
 the GazettE - PLEDGE (2010-12-15)
 </li>
@@ -320,5 +317,8 @@ X Japan - Jade (2011-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="visual kei, sweet memories, matenrou opera" role="button">
 摩天楼オペラ - Justice (2012-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/96706994-8068-41fc-9735-bd1b56ad97e7/8291979551-500.jpg" data-tags="progressive metal, metal, alternative metal, experimental metal" role="button">
+DIR EN GREY - The Unraveling (2013-04-03)
 </li>
 </ol>

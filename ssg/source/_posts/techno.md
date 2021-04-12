@@ -1,19 +1,19 @@
 ---
-date: 2021-04-12T08:27:01.976Z
+date: 2021-04-12T15:10:02.486Z
 title: "techno: 100 albums you must listen to before you die"
 ---
-![Avicii - Levels (2011-10-28)](https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg "Avicii - Levels (2011-10-28)")
+![Daft Punk - Homework (1997-01-20)](http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg "Daft Punk - Homework (1997-01-20)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/60f59c97-528c-3d70-a68e-f4ff44207cfc/13698079115-500.jpg" data-tags="electronic, techno, dance" role="button">Underworld - Dubnobasswithmyheadman (1993-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Homework (1997-01-20)</li>
-<li data-cover="https://img.discogs.com/nD10hJOZwmEpHF7a0SrvyQV1AYY=/fit-in/450x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-43257-1187900153.jpeg.jpg" data-tags="electronic, techno" role="button">Underworld - Beaucoup Fish (1999-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">Underworld - A Hundred Days Off (2002-09-16)</li>
+<li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
 <li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">Vitalic - OK Cowboy (2005-04-04)</li>
+<li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">Cascada - Everytime We Touch (2006-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">Kanye West - Stronger (2007-07-31)</li>
 <li data-cover="https://img.discogs.com/9qwkMMhrr1lNWPMdchCIxZ0xqkM=/fit-in/570x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196874-1200003112.jpeg.jpg" data-tags="techno" role="button">Basshunter - Now You're Gone (2007-12-31)</li>
-<li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">David Guetta - Nothing But The Beat (2011-08-24)</li>
-<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
+<li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">The Temper Trap - Sweet Disposition (2008)</li>
+<li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">Guru Josh Project - Infinity 2008 (2008-05-07)</li>
+<li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">Ellie Goulding - Starry Eyed (2010-02-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/j6lL67-kEAC5BVdZf2bL8n9PYK4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130980-001.jpg.jpg" data-tags="electronic, 70s, japanese" role="button">
+Yellow Magic Orchestra - Solid State Survivor (1979-09-25)
+</li>
 <li data-cover="https://img.discogs.com/8rFyleKW1Fx0UuFJ7Pq1FTLVHg0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61778-1411211779-6669.jpeg.jpg" data-tags="electronic" role="button">
 The Future Sound of London - Accelerator (1991)
 </li>
@@ -36,8 +39,8 @@ Real McCoy - Another Night (1993)
 <li data-cover="https://img.discogs.com/csnz7uanoYKJwLy_H4hP2axW94s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93934-1357309333-4319.jpeg.jpg" data-tags="dance" role="button">
 Culture Beat - Mr. Vain (1993-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/60f59c97-528c-3d70-a68e-f4ff44207cfc/13698079115-500.jpg" data-tags="electronic, techno, dance" role="button">
-Underworld - Dubnobasswithmyheadman (1993-09-20)
+<li data-cover="http://coverartarchive.org/release/972479e0-2240-3373-bdf8-5e19721d2b45/10341799280-500.jpg" data-tags="techno, dub techno" role="button">
+Basic Channel - Quadrant Dub (1994-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1cfae23-df33-4a58-be49-5d34c6a5563e/3035311470-500.jpg" data-tags="electronic, techno" role="button">
 The Prodigy - More Music For The Jilted Generation (1994-07-04)
@@ -45,23 +48,20 @@ The Prodigy - More Music For The Jilted Generation (1994-07-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
 Aphex Twin - Classics (1994-12)
 </li>
+<li data-cover="https://img.discogs.com/rVWSwiNeuyJQ7cDYcIAVfLEYbzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3099-1230160048.jpeg.jpg" data-tags="electro, techno, house, i8" role="button">
+Thomas Bangalter - Trax On Da Rocks (1995)
+</li>
 <li data-cover="https://img.discogs.com/LPA2w-4DjKaKa7J63lr9HZWhFIc=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389573-1393368466-9302.jpeg.jpg" data-tags="electronic" role="button">
 Moby - Everything Is Wrong (1995-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd2da473-ec72-47a9-b6ca-5ecfe06a086b/5556123884-500.jpg" data-tags="trance, chillout, electronic, dance, funk, techno, progressive house, anorexic, faithless, levykokoelma" role="button">
-Faithless - Irreverence (1996)
 </li>
 <li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
 Orbital - In Sides (1996-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/91c4f715-6327-4057-beda-031a32e5d707/5345049101-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - Second Toughest in the Infants (1996-03-04)
-</li>
-<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
-Robert Miles - Dreamland (1996-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/7472c2d9-3a5c-49a2-8e5a-73e40bc236c9/1384103441-500.jpg" data-tags="techno, electronic" role="button">
+Laurent Garnier - 30 (1997-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg" data-tags="dance, pop, eurodance, 90s" role="button">
 Aqua - Aquarium (1997-05-21)
@@ -77,9 +77,6 @@ Scooter - No Time to Chill (1998-07-20)
 </li>
 <li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">
 Bomfunk MC's - In Stereo (1999)
-</li>
-<li data-cover="https://img.discogs.com/nD10hJOZwmEpHF7a0SrvyQV1AYY=/fit-in/450x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-43257-1187900153.jpeg.jpg" data-tags="electronic, techno" role="button">
-Underworld - Beaucoup Fish (1999-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/717a1e99-b6f4-4faf-89d1-10d69e991ccc/915839326-500.jpg" data-tags="electronic, techno, melancholy, groovy, ethno, faithless, hel phire" role="button">
 Faithless - Bring My Family Back (1999-04-19)
@@ -111,6 +108,9 @@ Orbital - The Altogether (2001-04-11)
 <li data-cover="http://coverartarchive.org/release/77bfd13a-40b0-41ec-afd6-15f0ca904e5b/2335812387-500.jpg" data-tags="trance, electronic, dance" role="button">
 Safri Duo - Episode II (2001-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae18b56c-335d-466c-bffd-dcd77fe9e1c4/13035536593-500.jpg" data-tags="trance" role="button">
+DJ Tiësto - In My Memory (2001-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
 The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 </li>
@@ -126,9 +126,6 @@ Andy Hunter° - Exodus (2002-07-09)
 <li data-cover="http://coverartarchive.org/release/8cd0c7a7-cb6f-4753-b2e5-f29ca120e87b/4599270957-500.jpg" data-tags="trance" role="button">
 DJ Sammy - Heaven (2002-08-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/533a718d-c202-4d82-b3e7-596e4f40bf18/20373139615-500.jpg" data-tags="techno, scooter" role="button">
 Scooter - 24 Carat Gold (2002-11-04)
 </li>
@@ -141,11 +138,11 @@ Special D. - Come With Me (2003-03-24)
 <li data-cover="https://img.discogs.com/dYA8iHe_Huc5awOwYkgCtQ5aN1g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136949-1515841853-9853.jpeg.jpg" data-tags="techno" role="button">
 Scooter - The Stadium Techno Experience (2003-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/d63f901b-d232-4814-84d4-eeef097bb0ee/5454987213-500.jpg" data-tags="trance" role="button">
+Armin van Buuren - 76 (2003-06-30)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
-</li>
-<li data-cover="https://img.discogs.com/5fjDiYNMN5FG8o98Zv-IHdRj0Vk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-901889-1535289804-5696.jpeg.jpg" data-tags="electronic" role="button">
-Underworld - 1992-2002 (2003-11-03)
 </li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
@@ -204,6 +201,9 @@ AFX - Chosen Lords (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/bf786f88-3871-4f26-a56b-9e9800a85f79/7013875443-500.jpg" data-tags="trance, electronic" role="button">
 Ferry Corsten - L.E.F. (2006-05-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b2adb75-f025-45f4-8c91-e2cb85178428/1558810005-500.jpg" data-tags="basshunter" role="button">
+Basshunter - Welcome to Rainbow (2006-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
 </li>
@@ -227,6 +227,9 @@ Basshunter - Now You're Gone (2007-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/4df7d7b5-5ea3-401d-b8ee-d87bdc754492/23274425096-500.jpg" data-tags="idm, techno" role="button">
+Clark - Turning Dragon (2008-01-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jumpstyle" role="button">
 Scooter - Jumping All Over The World (2008-02-01)
@@ -276,8 +279,8 @@ Scuba - Triangulation (2010-03-10)
 <li data-cover="https://img.discogs.com/QUHpmK4R_P7sftn3KHppBK8vLm8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300524-1494626974-2948.jpeg.jpg" data-tags="techno" role="button">
 Actress - Splazsh (2010-05-28)
 </li>
-<li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
-Klaxons - Surfing the Void (2010-08-20)
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, rap, dance" role="button">
+Taio Cruz - Dynamite (2010-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fbfbe77-f5d0-404a-bce0-cb1bd891f92c/4515825059-500.jpg" data-tags="techno, house" role="button">
 John Roberts - Glass Eights (2010-10-11)
@@ -285,14 +288,11 @@ John Roberts - Glass Eights (2010-10-11)
 <li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 Perfume - ねぇ (2010-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
-David Guetta - Nothing But The Beat (2011-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/41c7c22a-a8ea-420e-b712-ef86a51c3a81/5564637848-500.jpg" data-tags="electronic, chill, instrumental, experimental, electro, techno, bass, electronic superhighway" role="button">
 Birdy Nam Nam - Defiant Order (2011-09-19)
 </li>
-<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
-Avicii - Levels (2011-10-28)
+<li data-cover="http://coverartarchive.org/release/580f7002-4718-4dd9-8bdc-6bf49248bb57/2088223186-500.jpg" data-tags="chillout, electronic, electro, techno, minimal, deep house" role="button">
+Niconé & Sascha Braemer - Romantic Thrills (2011-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/07c78167-c6ce-4d20-8cc2-6fed53237181/6640690285-500.jpg" data-tags="idm, 10s" role="button">
 Actress - R.I.P. (2012-04-20)

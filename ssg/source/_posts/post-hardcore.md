@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:31:07.001Z
+date: 2021-04-12T15:09:01.812Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -35,6 +35,9 @@ At the Drive-In - Acrobatic Tenement (1996-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c1d5669-ae58-33db-b98d-ef346b55acc7/26546641163-500.jpg" data-tags="post-hardcore" role="button">
 Fugazi - End Hits (1998-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/0830a2de-4913-4f6b-aa96-82176a122c8e/9170332511-500.jpg" data-tags="post-hardcore" role="button">
+At the Drive-In - In/Casino/Out (1998-08-18)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -143,9 +146,6 @@ Story of the Year - In the Wake of Determination (2005-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - Vheissu (2005-10-18)
-</li>
-<li data-cover="https://img.discogs.com/RQAamW3AUlk7W1EO5pPjjLsJTjI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651354-1314227271.jpeg.jpg" data-tags="post-hardcore" role="button">
-Fightstar - Grand Unification (2006-03-10)
 </li>
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)

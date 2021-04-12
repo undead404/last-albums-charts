@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T20:06:01.419Z
+date: 2021-04-12T15:19:01.847Z
 title: "smooth: 100 albums you must listen to before you die"
 ---
 ![Mario - Let me love you (2005-03-08)](http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg "Mario - Let me love you (2005-03-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/090700a7-0ec5-41bb-b970-52e6aa47b755/16567307250-500.jpg" data-tags="80s" role="button">Roxy Music - Avalon (1982-06)</li>
 <li data-cover="http://coverartarchive.org/release/cd953368-5abc-4ce9-b83a-a43a7ad58a1a/10611625522-500.jpg" data-tags="hip hop, 90s, smooth, 1990s, ponyrape, the shit, late 90s, pony" role="button">Ginuwine - Pony (1996-08-20)</li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">Air - 10 000 Hz Legend (2001-05-23)</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="https://img.discogs.com/26HBMwoKo7cvLxxeYKSfmR_JVVM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799422-1501524692-4284.jpeg.jpg" data-tags="rnb" role="button">Ciara - Goodies (2004)</li>
 <li data-cover="http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg" data-tags="soul" role="button">Mario - Let me love you (2005-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">John Legend - Once Again (2006-10-21)</li>
+<li data-cover="http://coverartarchive.org/release/7aaca13f-8efc-4f76-955e-00fd84682e55/27713723385-500.jpg" data-tags="brandy, human" role="button">Brandy - Human (2008-12-05)</li>
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">Band of Horses - Infinite Arms (2010-05-17)</li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">Alicia Keys - Girl on Fire (2012-11-23)</li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">Röyksopp - The Inevitable End (2014-11-07)</li>
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
+<li data-cover="http://coverartarchive.org/release/834eaf2e-e006-413d-9685-8dd0e0837395/4819626230-500.jpg" data-tags="jazz" role="button">
+Bill Evans - Everybody Digs Bill Evans (1958-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c80474c-59e1-4410-8b64-c8068623a4b1/6649438121-500.jpg" data-tags="soul" role="button">
 Donny Hathaway - Extension of a Man (1973-06-18)
@@ -93,8 +93,14 @@ Gerry Rafferty - Baker Street (1998-06-01)
 <li data-cover="http://coverartarchive.org/release/9df9cdf9-1e7e-4249-8d65-a5276366bff9/15914528738-500.jpg" data-tags="pop, r&b, 90s rnb" role="button">
 Deborah Cox - One Wish (1998-09-15)
 </li>
+<li data-cover="https://img.discogs.com/mWT20woGwNI-skRWupRX0XxMhJw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1693245-1295796367.jpeg.jpg" data-tags="smooth, crooners" role="button">
+Steve Tyrell - A New Standard (1999)
+</li>
 <li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
 Nas - I Am... (1999-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/eb0b7e6b-a87a-4b01-9f68-a20d27b22052/23351249593-500.jpg" data-tags="guitar, electric guitar, smooth, songs i love, clever, music for the small hours, great production, for seb" role="button">
+Bill Frisell - Good Dog, Happy Man (1999-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f9c9d8-a4f9-4976-ba90-8620e9bd7696/19759823405-500.jpg" data-tags="rnb" role="button">
 Mary J. Blige - Family Affair (2000)
@@ -108,9 +114,6 @@ Jaheim - Ghetto Love (2001-03-13)
 <li data-cover="http://coverartarchive.org/release/039aad17-31eb-4853-ae3f-6b7034b36998/8500339072-500.jpg" data-tags="german hip hop" role="button">
 Nico Suave - Suave (2001-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
-</li>
 <li data-cover="https://img.discogs.com/vbsNIzubdmchTuQeokO_aVRF0l8=/fit-in/300x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16537-001.jpg.jpg" data-tags="jazz, vocal jazz, smooth, downtempo" role="button">
 Beady Belle - Home (2001-05-28)
 </li>
@@ -120,14 +123,11 @@ The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
-Dilated Peoples - Expansion Team (2001-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d589a228-7528-3635-857e-229677645f59/10834361329-500.jpg" data-tags="soul, female vocalists" role="button">
 Sade - Lovers Live (2002-02-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdf241e0-4f62-34a7-a5f8-977d44402821/17460627965-500.jpg" data-tags="jazz, jazz vocal, vocal jazz, smooth, tony bennett, vocalistas femeninas, mastersinger, my jazz radio, vocalistas masculinos, master duets, two great artists, sunny approves" role="button">
-Tony Bennett & k.d. lang - A Wonderful World (2002-05-11)
+<li data-cover="http://coverartarchive.org/release/588130cc-61be-494b-8c20-dd84d1b8fbaf/4819107516-500.jpg" data-tags="jazz" role="button">
+Chuck Loeb - All There Is (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/86957aca-ebb6-45d2-8755-14091f035d9e/25091405297-500.jpg" data-tags="rnb" role="button">
 Donell Jones - Life Goes On (2002-06-03)
@@ -174,9 +174,6 @@ Eivind Aarset - Connected (2004)
 <li data-cover="https://img.discogs.com/26HBMwoKo7cvLxxeYKSfmR_JVVM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799422-1501524692-4284.jpeg.jpg" data-tags="rnb" role="button">
 Ciara - Goodies (2004)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Diana Krall - The Girl In The Other Room (2004-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-01)
 </li>
@@ -203,6 +200,9 @@ Dwele - Some Kinda (2005-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/aff5d815-40a6-35bf-af99-9d5dea7091aa/3110636482-500.jpg" data-tags="jamie foxx unpredictable, rnb" role="button">
 Jamie Foxx - Unpredictable (2005-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac7a1d96-7d96-46ad-af5c-5ea328458e16/21174736687-500.jpg" data-tags="pop, soul, 80s" role="button">
+Simply Red - Simplified (2005-10-17)
 </li>
 <li data-cover="https://img.discogs.com/gS99wBsu0GrxATpMifSV1_HI_e0=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591468-1137119629.jpeg.jpg" data-tags="soul" role="button">
 Goapele - Change It All (2005-12-27)
@@ -243,8 +243,14 @@ Anthony David - The Red Clay Chronicles (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/de6ab8e0-69c1-423d-b554-dad3863b5c88/14098124617-500.jpg" data-tags="smooth, i just wanna know" role="button">
+Taio Cruz - I Just Wanna Know (2006-11-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/d42e3f7b-f486-4d2b-ba27-fcc5a2cf5e92/22111632107-500.jpg" data-tags="omarion" role="button">
 Omarion - 21 (2006-12-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="simply red" role="button">
+Simply Red - Stay (2007-03-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Trey Songz - Can't Help But Wait (2007-08-28)
@@ -258,9 +264,6 @@ Donell Jones - The Best of Donell Jones (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/9a4cb291-8de3-47af-8183-605f1576311a/10068010974-500.jpg" data-tags="nas, rap, east coast" role="button">
 Nas - Greatest Hits (2007-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/da841b4c-3c7c-4ed7-b361-50f6af8a12e9/12693463271-500.jpg" data-tags="melodic, smooth, chilled" role="button">
-David Jordan - Set The Mood (2007-11-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
 Mario - Go (2007-12-10)
 </li>
@@ -272,9 +275,6 @@ Cheri Dennis - In And Out Of Love (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdeeae9-1f7e-4ff1-be63-6ed4dd284b0d/22236450020-500.jpg" data-tags="rnb" role="button">
 Estelle - American Boy (2008-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/286d31b5-bd6c-47f0-8445-4a9d94254dfb/4393964472-500.jpg" data-tags="80's" role="button">
-Ray J - All I Feel (2008-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce96d13-0ca8-4a78-ba86-86b27a27d11f/17347229278-500.jpg" data-tags="r'n'b, lyfe" role="button">
 Lyfe Jennings - Lyfe Change (2008-04-29)
@@ -300,6 +300,9 @@ Jewel - Lullaby (2009-05-05)
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">
 Band of Horses - Infinite Arms (2010-05-17)
 </li>
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="jazz, piano, easy listening, fusion, guitar, bass, drums, smooth, smooth jazz, insrumental, fourplay, zhxmusic, jazz fourplay jazz, foueplay" role="button">
+Fourplay - Let's Touch the Sky (2010-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
 Miguel - All I Want Is You (2010-11-30)
 </li>
@@ -308,9 +311,6 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
 <li data-cover="https://img.discogs.com/ChA6YBUc5-DFwQzry0rLSYdREeg=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3488579-1332373916.jpeg.jpg" data-tags="pop, soul, female vocalists, r&b" role="button">
 Melanie Fiona - The MF Life (2012-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc4d5817-e999-4717-86a4-28f8123bc7f8/5223594038-500.jpg" data-tags="easy listening, vocal jazz, romantic, swing, big band, smooth jazz, robbie williams" role="button">
-Robbie Williams - Beyond The Sea (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)

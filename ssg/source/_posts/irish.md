@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:53:01.484Z
+date: 2021-04-12T15:14:02.221Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -26,9 +26,6 @@ Rory Gallagher - Rory Gallagher (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/861b7aff-0ce6-47cc-b5f2-b6be19bd3abc/11393785643-500.jpg" data-tags="hard rock, irish" role="button">
 Thin Lizzy - Thin Lizzy (1971-04)
-</li>
-<li data-cover="https://img.discogs.com/ix3FmVas9u9AWu3DEbQfOwObMGs=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4254335-1359828733-8672.jpeg.jpg" data-tags="classic rock" role="button">
-Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
@@ -113,6 +110,9 @@ Secret Garden - Songs From a Secret Garden (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd57757-4f37-4398-bf2a-ff45bfd84b7b/26474897084-500.jpg" data-tags="celtic, irish" role="button">
 The Chieftains - The Long Black Veil (1995-01-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b52bf855-f75e-4c93-8d3d-7c5551f1bb76/14552277066-500.jpg" data-tags="rock, alternative, alternative rock, shoegaze, irish" role="button">
+Whipping Boy - Heartworm (1995-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
 Enya - The Memory of Trees (1995-11-21)
@@ -252,6 +252,9 @@ Wallis Bird - Spoons (2007-09-18)
 <li data-cover="http://coverartarchive.org/release/82dc3ab4-361e-3b29-973d-f7f1abf1c436/13912011180-500.jpg" data-tags="black metal, pagan metal" role="button">
 Primordial - To the Nameless Dead (2007-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f369d44-77ec-4b13-a183-6998b5496058/7344283221-500.jpg" data-tags="rock" role="button">
+The Cranberries - Gold (2008-03-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 The Script - We Cry (2008-04-20)
 </li>
@@ -278,9 +281,6 @@ U2 - No Line on the Horizon (2009-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a51be432-d3d9-4f3b-a482-dd90d748ae35/15754141469-500.jpg" data-tags="rock, irish" role="button">
 Ronan Keating - Songs For My Mother (2009-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e748702-5e75-4a8a-8526-d0311a89d616/11826807120-500.jpg" data-tags="pop, irish, boybands" role="button">
 Westlife - Where We Are (2009-11-30)

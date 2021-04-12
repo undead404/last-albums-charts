@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:50:41.066Z
+date: 2021-04-12T15:40:01.438Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Vessel (2012-12-26)](http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg "Twenty One Pilots - Vessel (2012-12-26)")
@@ -107,6 +107,9 @@ PixlCrushr - Flamethrower (2007-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/717ad3d8-f8b3-4a6c-8a5e-4ab04fd63d31/27501129924-500.jpg" data-tags="8-bit, chiptune" role="button">
 Stu - GreateST HITs (2007-12-31)
+</li>
+<li data-cover="https://img.discogs.com/g9u2R_1AIUqljNwap2BK8LQez54=/fit-in/204x215/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589701-1230588190.jpeg.jpg" data-tags="8bit, 8-bit, chiptune" role="button">
+Stu - Atari Solo (2008)
 </li>
 <li data-cover="https://img.discogs.com/ZFKgcUsDwGVF5Mmo_V6tW7v6dqE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7022130-1431874843-1757.jpeg.jpg" data-tags="8-bit, chipmusic, free albums" role="button">
 Breakbeat Heartbeat - Collective (2008)
@@ -275,9 +278,6 @@ Chip's Challenge - 1bit Wonder (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba4f4db-eda0-4180-a8cc-1b96e92084ab/4706896990-500.jpg" data-tags="progressive rock, prog, fusion, 8-bit, chiptune, chipmusic, headache-inducing, chip metal, chip rock, progressive chiptune, 8-bit fusion" role="button">
 virt - FX4 (2012-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b51b530-8f72-4a30-ac05-0c0283542459/3553685071-500.jpg" data-tags="hip-hop, electronic, jazz, instrumental, reggae, ambient, downtempo, 8-bit, idm, glitch, chiptune, drone, progressive house, dark ambient, sampling" role="button">
-Anwar Louis - inc's Sketchbook (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8235021-5668-40cc-81cb-ee130f0ebcfd/1443181896-500.jpg" data-tags="8-bit, chiptune" role="button">
 Inverse Phase - Pretty Eight Machine (2012-06-14)

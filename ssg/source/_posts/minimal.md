@@ -1,16 +1,16 @@
 ---
-date: 2021-04-12T05:36:01.458Z
+date: 2021-04-12T15:12:01.799Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">Plastikman - Artifakts (BC) (1998-11-02)</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
-<li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">Nathan Fake - Drowning in a Sea of Love (2006-03-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">Apparat - Walls (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">Four Tet - There Is Love in You (2010-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">Nicolas Jaar - Space Is Only Noise (2011-01-31)</li>
+<li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">Perfume Genius - Put Your Back N 2 It (2012-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">The xx - Coexist (2012-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/910f52ac-6f28-4ea3-9946-c10526357f18/24086155537-500.jpg" data-tags="electronic, indie, alternative, indie pop, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">The xx - Fiction (2013-07-12)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
@@ -44,9 +44,6 @@ Isolée - Rest (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d03ebe7-5232-45d7-9959-cf7e29376e2a/3226483176-500.jpg" data-tags="idm" role="button">
 Arovane - Atol Scrap (2000-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/83989bd9-e1bb-4d46-a23f-db62e29ffae1/8216806379-500.jpg" data-tags="microhouse, minimal" role="button">
-Luomo - Vocalcity (2000-05-23)
 </li>
 <li data-cover="https://img.discogs.com/DCFva5V5qID7DGLs_GB7dwfweRc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5440-1448913459-9295.jpeg.jpg" data-tags="techno, kanzleramt" role="button">
 Johannes Heil - Future Primitive (2000-06-29)
@@ -93,8 +90,8 @@ Sascha Funke - Bravo (2003-09-15)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/399ee8ab-da0e-4063-9b37-533c713df9d1/3646308021-500.jpg" data-tags="electronic" role="button">
-B. Fleischmann - Welcome Tourist (2003-11-03)
+<li data-cover="http://coverartarchive.org/release/06da523f-5833-4602-a781-1d940240aaec/7286313411-500.jpg" data-tags="piano, creative commons" role="button">
+Rob Costlow - Sophomore Jinx (2004-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c474addc-bf82-4e04-88e8-4e3a5d715c20/2229161665-500.jpg" data-tags="minimal" role="button">
 Claro Intelecto - Neurofibro (2004-04-28)
@@ -159,14 +156,14 @@ Mujuice - Still (2006-01-12)
 <li data-cover="https://img.discogs.com/jTC7qZ-gN5xQ8tj_fj-OE-J7Tk4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648476-1186571700.jpeg.jpg" data-tags="kompakt extra" role="button">
 Oxia - Speicher 34 (2006-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">
-Nathan Fake - Drowning in a Sea of Love (2006-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/368566a1-1743-4b01-9399-ddf85b441e0c/6674812395-500.jpg" data-tags="electronic, electro, techno, minimal, pablo ny" role="button">
 Ben Klock - Big Time (2006-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffcb567f-3c7e-4d96-949c-5eb27d1eb259/8171286381-500.jpg" data-tags="minimal" role="button">
 Extrawelt - Titelheld (2006-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/78b8aeea-812d-46e8-8711-0df46f60623e/14116192207-500.jpg" data-tags="ambient" role="button">
+Loscil - Plume (2006-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b023b391-190f-49f9-8b3f-1c256a4748f6/8208439592-500.jpg" data-tags="techno, minimal, tr00 kvlt christraping blaek metel with the most blasphemous lyrics written by misanthropik satanists under a freezing m00n in the most frostbitten forest of eternal darkness in norway while they sacrifice goats in the most inverted altar to ablazagorth" role="button">
 Paul Kalkbrenner - Keule (2006-07-03)
@@ -179,9 +176,6 @@ Eluvium - When I Live by the Garden and the Sea (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea84aa32-ab9c-4824-9db5-a505d086b68f/8152589613-500.jpg" data-tags="minimal" role="button">
 Audion - Mouth to Mouth (2006-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b42c5ee-0f07-459e-8d2d-ecb27dbb4226/23902135615-500.jpg" data-tags="creamfields andalucia 08" role="button">
-Luomo - Paper Tigers (2006-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e3da09-7c2e-4ab4-87f2-81847f7e73ad/28986211091-500.jpg" data-tags="minimal" role="button">
 Anders Ilar - Nightwidth (2006-10-31)
@@ -246,6 +240,9 @@ Loscil - Endless Falls (2010-03-01)
 <li data-cover="https://img.discogs.com/uuY2WB5qZsvKSPT_1Y5m6c5tBa0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182805-1268485171.jpeg.jpg" data-tags="house, minimal" role="button">
 Pantha du Prince - Stick to my side (2010-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b3c2d04-0871-473b-9546-c12a14ccb62d/6726757219-500.jpg" data-tags="techno, house, minimal" role="button">
+Booka Shade - Regenerate (2010-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
 Nicolas Jaar - Love You Gotta Lose Again (2010-09)
 </li>
@@ -254,6 +251,9 @@ Superpitcher - Kilimanjaro (2010-09-06)
 </li>
 <li data-cover="https://img.discogs.com/l4wp119DwEIAChncqMZOAlaHAvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2443582-1461529830-9095.jpeg.jpg" data-tags="experimental, downtempo, industrial, minimal, blackest ever black, boomkat" role="button">
 Raime - Raime EP (2010-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/23d3a905-e585-48d3-9fdb-18a1d53ba07b/4422034059-500.jpg" data-tags="minimal, idm" role="button">
+Pantha du Prince - Lay In A Shimmer (2010-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c3b875d-bd9d-4157-97ae-6e1091437126/15535585693-500.jpg" data-tags="darkwave, witch house, shoegaze" role="button">
 White Ring - Black Earth That Made Me (2010-10-30)
@@ -282,14 +282,14 @@ Perfume Genius - Put Your Back N 2 It (2012-02-17)
 <li data-cover="http://coverartarchive.org/release/ea57c676-0338-4bd2-8a93-eb5dfefed236/22773568819-500.jpg" data-tags="electronic, indie" role="button">
 The xx - Angels (2012-07-17)
 </li>
-<li data-cover="https://img.discogs.com/xncTdAhINqdJjubPJd_x2wU0-Hs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2981571-1460313451-4167.jpeg.jpg" data-tags="electronic, techno, house, electro house, minimal, progressive house" role="button">
-deadmau5 - Professional Griefers (2012-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e4559c2-0370-4b88-8549-e9be7cce922a/27807360410-500.jpg" data-tags="electronic, minimal" role="button">
 Laurie Spiegel - The Expanding Universe (2012-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">
 The xx - Coexist (2012-09-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial, techno, minimal, fade to mind" role="button">
+Fatima Al Qadiri - Desert Strike (2012-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d39d562c-393d-4efb-898d-bee5fddfba8d/5314025586-500.jpg" data-tags="electronic, indie, alternative, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">
 The xx - Chained (John Talabot and Pional Blinded Remix) (2013-02-11)

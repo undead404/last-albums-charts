@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:28:07.133Z
+date: 2021-04-12T15:38:01.487Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -243,6 +243,9 @@ For the Fallen Dreams - Changes (2008-01-08)
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
 The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore, modern hardcore" role="button">
+Verse - Aggression (2008-06-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -272,9 +275,6 @@ Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
-We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4333310-ad10-4036-aacc-7f66c177d840/25544352121-500.jpg" data-tags="pop punk" role="button">
 Four Year Strong - Enemy of the World (2010-01-01)

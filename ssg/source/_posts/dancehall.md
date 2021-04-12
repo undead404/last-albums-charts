@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:24:12.611Z
+date: 2021-04-12T15:42:07.072Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Music of the Sun (2005-08-29)](http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg "Rihanna - Music of the Sun (2005-08-29)")
@@ -24,23 +24,20 @@ _________________
 <li data-cover="http://coverartarchive.org/release/72e3ac8d-7a36-48c3-93d1-ccdca27ec2d6/2071905875-500.jpg" data-tags="reggae, dancehall, foundation deejays" role="button">
 Lone Ranger - M16 (1980)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae" role="button">
-Gregory Isaacs - More Gregory (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/743d2865-bf5f-45bb-a190-a3e2db9eca42/11950132586-500.jpg" data-tags="reggae" role="button">
 Eek-a-Mouse - Wa-Do-Dem (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="roots reggae, cocaine, dancehall reggae" role="button">
-Dillinger - Cocaine (1983)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4891095-1d89-43fd-85f8-375cfb6d28d1/12104385741-500.jpg" data-tags="reggae, roots reggae" role="button">
-Bunny Wailer - Rootsman Skanking (1987)
+<li data-cover="https://img.discogs.com/-1N2BacyPBtmLpJboPiT7HBXRYY=/fit-in/372x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453726-1220979466.jpeg.jpg" data-tags="reggae, dancehall" role="button">
+Shabba Ranks - As Raw As Ever (1991-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a893f39-aaa3-4c6b-874e-b980c80a35d1/14313446075-500.jpg" data-tags="dancehall" role="button">
 Barrington Levy - Barrington (1993)
 </li>
 <li data-cover="https://img.discogs.com/5xcvvUhYM_boITqLqbFKMbOGHd8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1519168-1284559367.jpeg.jpg" data-tags="cocoa tea" role="button">
 Cocoa Tea - Tune In (1994)
+</li>
+<li data-cover="https://img.discogs.com/arKyFctSLTwRGYgj17HUxq-GqE4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-332091-1433426477-5356.jpeg.jpg" data-tags="hip hop, reggae, 90s, dancehall, delicious vinyl, notch" role="button">
+Born Jamericans - Kids From Foreign (1994-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/be38df02-c856-4c40-8dcd-66a4ea21eb52/10401784417-500.jpg" data-tags="rock brasileiro" role="button">
 Skank - Calango (1994-10)
@@ -51,17 +48,11 @@ Raggasonic - Raggasonic (1995)
 <li data-cover="https://img.discogs.com/3foj2lbrQJjEw3LMcqgIqjDatFU=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13061767-1547381360-9529.jpeg.jpg" data-tags="dancehall, dance hall, dancehall reggae, cocoa tea" role="button">
 Cocoa Tea - Reggae Legends, Volume 3 (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
-Buju Banton - 'Til Shiloh (1995-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/1dcded4d-ce9d-4e11-bf7e-e265d145199a/21311493320-500.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
 Luciano - Messenger (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/799bd919-8a3a-4ccf-b29c-e7490734874b/17579360042-500.jpg" data-tags="reggae, 90s, dancehall, jamaican, pop topp 30 1996, mojo 1000, bounty killer, mojo 1000 reggae, my xperience" role="button">
 Bounty Killer - My Xperience (1996-09-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae" role="button">
-Gregory Isaacs - One Man Against The World - Best Of (1996-11-26)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="dancehall, dance hall, dancehall reggae" role="button">
 Red Rat - Oh No It's Red Rat (1997)
@@ -77,6 +68,9 @@ Half Pint - Half Pint (1997-08-21)
 </li>
 <li data-cover="https://img.discogs.com/vBDF6UkiJiuGqzzlpccbxD0mycA=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1216333-1229439676.jpeg.jpg" data-tags="dancehall" role="button">
 Beenie Man - Many Moods Of Moses (1997-12-08)
+</li>
+<li data-cover="https://img.discogs.com/Vkq9ZKRMz0_mGzFg7HSvauqGkjU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11296-1534925473-9418.jpeg.jpg" data-tags="idm, dancehall, violent, ravecore, i bought this, rushingcore, adorable beats" role="button">
+Bogdan Raczynski - Boku Mo Wakaran (1998-04-01)
 </li>
 <li data-cover="https://img.discogs.com/itgyilkjqU5Q6QkSV0F8lmiVLeE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348851-1298395938.jpeg.jpg" data-tags="reggae, drum and bass, breakbeat, dancehall, ragga jungle" role="button">
 General Levy - New Breed (1999)
@@ -102,6 +96,9 @@ Junior Kelly - Love So Nice (2001)
 <li data-cover="http://coverartarchive.org/release/f064afc0-1fe0-445d-aa27-c4674c9df5c0/14509615232-500.jpg" data-tags="reggae" role="button">
 Morodo - OZMLStayl (2001)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Buju Banton - The Early Years (90-95) (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/abdca650-0707-494b-88c2-567e7eae354e/8093633767-500.jpg" data-tags="reggae" role="button">
 Damian Marley - Halfway Tree (2001-09-11)
 </li>
@@ -113,6 +110,9 @@ Junior Kelly - Conscious Voice (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/638fd6a6-0a01-3b8d-9937-d275f51b3aef/5925915337-500.jpg" data-tags="reggae, gondwana" role="button">
 Gondwana - Made In Jamaica (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a2a3d7d-7eb2-49a9-b1b0-8b0e7835dffd/15086292935-500.jpg" data-tags="reggae, dancehall, dancehall reggae, sean paul" role="button">
+Beenie Man - The Very Best of Beenie Man: Gold (2002)
 </li>
 <li data-cover="https://img.discogs.com/LsOqqqfDgAVLEbPID5Rg6MTV5aY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3463627-1550572489-9514.jpeg.jpg" data-tags="dancehall" role="button">
 Capleton - Still Blazin (2002-02-26)
@@ -132,11 +132,11 @@ Buju Banton - Friends For Life (2003-03-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Seeed - Music Monks (2003-05-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Capleton - Reign Of Fire (2004)
+<li data-cover="http://coverartarchive.org/release/fcc3b68d-77de-4501-9eb6-f5f8937fae4b/18971915612-500.jpg" data-tags="dancehall, dancehall reggae" role="button">
+Vybz Kartel - Timeless (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/035aa6c5-af3b-4a8d-85aa-2aca6ff65181/12662874613-500.jpg" data-tags="reggae" role="button">
-Richie Spice - Spice In Your Life (2004)
+<li data-cover="http://coverartarchive.org/release/7a7ff0db-50da-4ecd-9c05-f1cf1012633d/17271266987-500.jpg" data-tags="dub" role="button">
+Iration Steppas - Dubz From De Higher Regionz (2004-03-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Mono & Nikitaman - Das Spiel beginnt (2004-03-25)
@@ -146,9 +146,6 @@ Mr. Vegas - Pull Up (2004-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab77fb88-bad6-4e56-9fb3-345dd4864c2a/4942092078-500.jpg" data-tags="reggaeton, rnb" role="button">
 Nina Sky - Nina Sky (2004-07-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b2d92f8d-589a-47fb-94a3-dbb93cd36807/14053265245-500.jpg" data-tags="reggae" role="button">
-Gentleman - Confidence (2004-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b42d4e8-3e93-4dae-8107-c59faab6a64e/18971660137-500.jpg" data-tags="reggae, dancehall, marro, public music, knocklife 2011, knocklife ent, wata vybz radio" role="button">
 Vybz Kartel - More Up 2 Di Time (2004-09-13)
@@ -168,8 +165,17 @@ Natural Dread Killaz - Naturalnie (2005)
 <li data-cover="https://img.discogs.com/QLDGU51B-x2T0p_K5g0-_tc9yY4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13688376-1560686761-7812.jpeg.jpg" data-tags="dancehall, 2000s" role="button">
 Firma - Nielegalne rytmy (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4b30ab2-d4e7-45dd-9b38-c56d12719f9b/13627764433-500.jpg" data-tags="reggae" role="button">
+Kiprich - Outta Road (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/d198dcb2-76e0-45eb-8727-3d3ac02ad0d4/25090164630-500.jpg" data-tags="reggae, dancehall" role="button">
+Beenie Man - Kingston to King of the Dancehall (2005-02-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
+</li>
+<li data-cover="https://img.discogs.com/xkT8yubWPSOTCRG8Y4TxaE3iw-E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7405176-1440799003-8764.jpeg.jpg" data-tags="hip-hop, reggae, rap, dance, finnish, dancehall, suomihoppi" role="button">
+Lord Est - Hellä ori (2005-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0b1e388-224e-479b-a3a9-5f91e17cdc40/3405823246-500.jpg" data-tags="reggae, ragga-reggae" role="button">
 Anthony B - Black Star (2005-06-28)
@@ -189,8 +195,8 @@ Warrior King - Hold The Faith (2005-10-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Fantan Mojah - Hail The King (2005-11-14)
 </li>
-<li data-cover="https://img.discogs.com/v43zwMR_EoTBtkSiTtPAr80chgA=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-842592-1389646281-3201.jpeg.jpg" data-tags="reggae" role="button">
-Ini Kamoze - Debut (2006)
+<li data-cover="https://img.discogs.com/6vMs4gEP_nTViSUQ_QWc-9sC9EY=/fit-in/595x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1622343-1458486330-8066.jpeg.jpg" data-tags="dancehall, dancehall reggae, aprecilove" role="button">
+Natural Black - Far From Reality (2006)
 </li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
@@ -213,12 +219,6 @@ Eastwest Rockers - Ciężkie Czasy (2006-12-18)
 <li data-cover="http://coverartarchive.org/release/c1f2078a-4563-4008-94d8-8b93b3a36996/4709678616-500.jpg" data-tags="ska" role="button">
 Cała Góra Barwinków - 24 Godziny (2007)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Richie Spice - In The Streets To Africa (2007-02-20)
-</li>
-<li data-cover="https://img.discogs.com/0mX9-vPv83k-SB4CYkxnqyOmjZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349014-1211757466.jpeg.jpg" data-tags="grime" role="button">
-Roll Deep - Rules & Regulations (2007-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f57975c-3a94-40e9-9072-86ce2b0fea93/13570935534-500.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
 Lady Saw - Walk Out (2007-04-17)
 </li>
@@ -228,6 +228,9 @@ Boundzound - Boundzound (2007-04-27)
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
 Collie Buddz - Collie Buddz (2007-06-29)
 </li>
+<li data-cover="https://img.discogs.com/mXD-HSFPcWKD6TKhvSS2N53GGr0=/fit-in/555x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5928594-1518195011-7177.jpeg.jpg" data-tags="reggae" role="button">
+Chezidek - Firm Up Yourself (2007-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/e5e9ee72-4de7-4119-a6ed-ad6104a44067/17603453789-500.jpg" data-tags="dancehall, dancehall reggae, love gonna conquer evil, love gonna conquer evil natural black" role="button">
 Natural Black - Love Gonna Conquer Evil (2007-07)
 </li>
@@ -236,9 +239,6 @@ Enur - Calabria 2007 (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d416d593-3cd6-4e9c-a679-4e8029f855c8/1844653291-500.jpg" data-tags="dancehall" role="button">
 Mavado - Gangsta For Life: The Symphony Of David Brooks (2007-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/211a02ff-4ec8-4d0d-83f9-a9b480aefbcb/23905287715-500.jpg" data-tags="reggae" role="button">
-Jah Cure - True Reflections...A New Beginning (2007-07-31)
 </li>
 <li data-cover="https://img.discogs.com/n1E7bNNwqKaLqU4gQHJkPWXe1QM=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666760-1235589355.jpeg.jpg" data-tags="reggae" role="button">
 Shaggy - Intoxication (2007-08-08)
@@ -255,8 +255,8 @@ Damian Marley - Rare Joints - the Album (2008)
 <li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
 The Qemists - Dem Na Like Me (2008-01-19)
 </li>
-<li data-cover="https://img.discogs.com/pz4h8bc9rTxeuLTBN1OoT4Z8SQc=/fit-in/594x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661743-1295556039.jpeg.jpg" data-tags="reggae, roots reggae" role="button">
-Richie Spice - Gideon Boot (2008-05-13)
+<li data-cover="https://img.discogs.com/wBvRotD1i-wzWDTm82G55G2uCq8=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-959317-1407847813-1937.jpeg.jpg" data-tags="dancehall, recent hot" role="button">
+Elephant Man - Let's Get Physical (2008-04-08)
 </li>
 <li data-cover="https://img.discogs.com/XtokMIlr0TUZ2ER2Jl9ym2yV4hg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1433693-1470855168-8671.jpeg.jpg" data-tags="polish" role="button">
 Marika - Plenty (2008-08-23)
@@ -266,6 +266,9 @@ Mesajah - Ludzie Prości (2008-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
 Peter Fox - Stadtaffe (2008-09-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dancehall reggae" role="button">
+Beres Hammond - A Moment In Time (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/41766637-4e52-4831-be2d-8361c745963f/15054862419-500.jpg" data-tags="reggae, rnb" role="button">
 Shontelle - Shontelligence (2008-11-17)
@@ -314,9 +317,6 @@ Toddla T - Watch Me Dance (2011-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9858ccd5-f3a1-4fcd-b22e-1971bdc0bb7b/23966401355-500.jpg" data-tags="dancehall" role="button">
 Seeed - SEEED (2012-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/76b4b2fa-b9a8-42e8-8d8d-1a106787a180/3840424208-500.jpg" data-tags="electronic" role="button">
-Major Lazer - Free The Universe (2013-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ce6be6c-31c0-4b6c-82d5-81f631ae4876/5908721257-500.jpg" data-tags="alternative, r&b, dancehall" role="button">
 Jamal - Miłość (2013-10-08)

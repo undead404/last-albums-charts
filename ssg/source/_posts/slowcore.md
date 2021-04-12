@@ -1,16 +1,16 @@
 ---
-date: 2021-04-12T03:46:06.869Z
+date: 2021-04-12T14:58:23.862Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Low - I Could Live in Hope (1994-02-18)](http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg "Low - I Could Live in Hope (1994-02-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/01c518f7-7c3f-4679-9e0d-67252a737314/15606984492-500.jpg" data-tags="slowcore" role="button">Codeine - Frigid Stars (1990)</li>
+<li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">Slint - Spiderland (1991-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">Low - I Could Live in Hope (1994-02-18)</li>
+<li data-cover="http://coverartarchive.org/release/66101811-e3a5-49e1-b094-f43c6705969a/17246541296-500.jpg" data-tags="indie rock, slowcore" role="button">The American Analog Set - From Our Living Room to Yours (1997-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)</li>
-<li data-cover="http://coverartarchive.org/release/03790f03-7d42-4924-b2a0-020e97c7963e/27389666099-500.jpg" data-tags="slowcore, s: shoegaze" role="button">True Widow - True Widow (2008-11-11)</li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">The Antlers - Hospice (2009-03-03)</li>
-<li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">Giles Corey - Giles Corey (2011-04-30)</li>
 <li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">The Antlers - Undersea (2012-07-24)</li>
 <li data-cover="http://coverartarchive.org/release/3a7c5685-ef6a-4a7f-a834-9002cfa32987/16156029424-500.jpg" data-tags="ambient, slowcore, kranky" role="button">Grouper - The Man Who Died in His Boat (2013-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
@@ -57,12 +57,6 @@ Bark Psychosis - Independency (1994-07-11)
 <li data-cover="https://img.discogs.com/cxgyolvhevU5SxtNu3D2PIC7jIU=/fit-in/599x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822535-1259099071.jpeg.jpg" data-tags="alternative rock" role="button">
 Seam - Are You Driving Me Crazy? (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/50b4286d-282e-47ee-8a70-6f2357dc6919/27070192408-500.jpg" data-tags="slowcore" role="button">
-Low - Long Division (1995-05-23)
-</li>
-<li data-cover="https://img.discogs.com/76f2Sz1dBaWYLvDuDsOz9VmsdWM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-249138-1250931247.jpeg.jpg" data-tags="slowcore" role="button">
-Spain - The Blue Moods of Spain (1995-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/6c3b003b-b08d-432b-a8fc-d8ca5b849cc7/25717282201-500.jpg" data-tags="indie, indie rock, fox, slowcore, darlings, softish, cutis-anserina, my favorite ida record" role="button">
 Ida - I Know About You (1996)
 </li>
@@ -71,9 +65,6 @@ Cat Power - Myra Lee (1996-03-04)
 </li>
 <li data-cover="https://img.discogs.com/9RPe45g-K0hrteS1fMQ_wAkkgRU=/fit-in/280x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287732-1206633279.jpeg.jpg" data-tags="lo-fi, slowcore, real post-hardcore" role="button">
 Lowercase - All Destructive Urges... Seem So Perfect (1996-05-07)
-</li>
-<li data-cover="https://img.discogs.com/qI9SLlbFVgYmnsapkiiLXKanA8g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559499-1298780594.jpeg.jpg" data-tags="indie rock, slowcore" role="button">
-Bedhead - Beheaded (1996-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/51bb5ce2-a787-4305-a9e6-918193224da4/13901170261-500.jpg" data-tags="slowcore" role="button">
 The American Analog Set - The Fun of Watching Fireworks (1996-08-20)
@@ -86,6 +77,9 @@ Chokebore - A Taste for Bitters (1996-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/77cfc202-af01-4354-91c0-f45243bf4596/20928362919-500.jpg" data-tags="rock, alternative rock" role="button">
 Heatmiser - Mic City Sons (1996-10-15)
+</li>
+<li data-cover="https://img.discogs.com/FDHKaGTg1CDf9VhBKynSZlMwdrs=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426902-1111917879.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
+The For Carnation - Marshmallows (1996-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8acaef7f-8820-43b0-a697-7ccd43c61b34/24556064250-500.jpg" data-tags="slowcore" role="button">
 Duster - Transmission, Flux (1997)
@@ -111,6 +105,9 @@ Ida - Ten Small Paces (1997-09-30)
 <li data-cover="https://img.discogs.com/Qj2Bp4Sls87tqDQiXJQouKbpuGo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433188-1476186558-6219.jpeg.jpg" data-tags="slowcore, drag city, essential" role="button">
 Aerial M - Aerial M (1997-10-14)
 </li>
+<li data-cover="https://img.discogs.com/fK0u99-kwPML4qw_UcawHLnISfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-553727-1145370579.jpeg.jpg" data-tags="indie pop, twee pop, shoegaze, dream pop, slowcore" role="button">
+Trembling Blue Stars - Lips That Taste of Tears (1998-01-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/3e24ce0c-8c65-3d11-a595-bd404d8695cc/6096170352-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Come On Die Young (1999-03-29)
 </li>
@@ -122,6 +119,9 @@ The American Analog Set - The Golden Band (1999-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/398826f6-4789-4fdf-870d-04fb58e33a37/24556122353-500.jpg" data-tags="slowcore" role="button">
 Duster - 1975 (1999-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/c89b6132-20c7-42c8-8989-71f464095adb/21700318951-500.jpg" data-tags="post-rock" role="button">
+Yume Bitsu - Yume Bitsu (1999-11-15)
 </li>
 <li data-cover="https://img.discogs.com/yXHLjkCfhNZawGXinau5M8VToHc=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800424-1160078078.jpeg.jpg" data-tags="slowcore" role="button">
 Arco - Coming To Terms (2000)
@@ -144,17 +144,14 @@ Giardini di Mirò - Rise and Fall of Academic Drifting (2001)
 <li data-cover="http://coverartarchive.org/release/ed2a8c94-5c76-43aa-ad15-7bddb39a671b/2867665745-500.jpg" data-tags="indie pop" role="button">
 Carissa's Wierd - You Should Be at Home Here (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/2518392a-f94f-43d7-856a-b450c876274b/15547143779-500.jpg" data-tags="indie rock, slowcore, midwest emo, post-britpop, albums to dl, dvd1" role="button">
-Lowgold - Just Backward of Square (2001-02-12)
+<li data-cover="https://img.discogs.com/hl1pJoaEkfuNQ5wTuqm5OuweQEU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-416325-1232149048.jpeg.jpg" data-tags="dream pop, slowcore" role="button">
+Coastal - Coastal (2001-03-20)
 </li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Elbow - Asleep in the Back (2001-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/49afde89-898e-42ad-a5bd-34c488b7b5d9/7786651414-500.jpg" data-tags="indie" role="button">
-The American Analog Set - Know by Heart (2001-09-04)
 </li>
 <li data-cover="https://img.discogs.com/-3VLRMpGHdXsmfPdwmKakHTcAg8=/fit-in/576x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4238534-1379629816-9270.jpeg.jpg" data-tags="indie rock, 00s" role="button">
 Smog - Rain on Lens (2001-09-17)
@@ -173,9 +170,6 @@ Grandaddy - Concrete Dunes (2002-02-19)
 </li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
-</li>
-<li data-cover="https://img.discogs.com/fcBMa94kdPJ0-4yo4WIk7Xc4xl8=/fit-in/551x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-936931-1174845702.jpeg.jpg" data-tags="slowcore" role="button">
-Migala - Restos de un incendio (2002-07-16)
 </li>
 <li data-cover="https://img.discogs.com/HfSe9HKBIvRfYfGI2kOaX8lQKjw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653374-1149680703.jpeg.jpg" data-tags="jazz" role="button">
 Karate - Some Boots (2002-10-08)
@@ -198,6 +192,9 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
+<li data-cover="https://img.discogs.com/AnY7XB6_cCAa3oB3nZKEjswD-cQ=/fit-in/150x145/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141743-1317686536.jpeg.jpg" data-tags="indie, indie rock" role="button">
+Galaxie 500 - Uncollected (2004-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8a1950a-fa13-40c0-8217-1513f0aadf45/17964168327-500.jpg" data-tags="slowcore" role="button">
 Coastal - Halfway To You (2004-08-09)
 </li>
@@ -215,6 +212,9 @@ Early Day Miners - All Harm Ends Here (2005-01-18)
 </li>
 <li data-cover="https://img.discogs.com/rhuLhWEKj-SJ3s-jkPXHpIfRyA4=/fit-in/225x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-684939-1147697356.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
 The White Birch - Come Up for Air (2005-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a83df15-12af-48d1-b0b4-9f7e6bd3e40b/27514730110-500.jpg" data-tags="peel sessions" role="button">
+Galaxie 500 - Peel Sessions (2005-11-15)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
 Gregor Samsa - 55:12 (2006-03-07)
@@ -240,11 +240,8 @@ Slow Dancing Society - The Slow and Steady Winter (2007)
 <li data-cover="https://img.discogs.com/La_Z4B60AfMGp0s5dD3caXrTysI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1036146-1539951563-8542.jpeg.jpg" data-tags="indie pop, slowcore" role="button">
 Dakota Suite - Waiting For The Dawn To Crawl Through And Take Away Your Life (2007-02-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/d51c73e8-c49d-4154-bd71-495de7a70c3b/2264368297-500.jpg" data-tags="indie rock, female vocalists" role="button">
-Shannon Wright - Let In The Light (2007-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">
-The Antlers - In The Attic of The Universe (2007-03-31)
+<li data-cover="http://coverartarchive.org/release/bf83ef73-470d-49ca-bf1b-2e2650b64770/2154776846-500.jpg" data-tags="indie rock, slowcore, 00s, depressive, merkliste, bad seeds merkliste" role="button">
+Devastations - Yes, U (2007-09-17)
 </li>
 <li data-cover="https://img.discogs.com/libNtdcj6hLceig8ZQ-xWWBeakc=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545857-1367957996-8114.png.jpg" data-tags="slowcore, the antlers" role="button">
 The Antlers - Cold War (2007-10-28)
@@ -252,8 +249,8 @@ The Antlers - Cold War (2007-10-28)
 <li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
 Matt Elliott - Howling songs (2008-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/03790f03-7d42-4924-b2a0-020e97c7963e/27389666099-500.jpg" data-tags="slowcore, s: shoegaze" role="button">
-True Widow - True Widow (2008-11-11)
+<li data-cover="https://img.discogs.com/gbM1_pGO6h0cHiQHiQHn1JByxDc=/fit-in/600x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1806027-1256131160.jpeg.jpg" data-tags="ambient" role="button">
+The Tumbled Sea - Songs by The Tumbled Sea (2008-11-28)
 </li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">
 The Antlers - Hospice (2009-03-03)
@@ -264,6 +261,9 @@ Planning for Burial - Leaving (2009-09-18)
 <li data-cover="http://coverartarchive.org/release/75a8ef43-a229-4c5b-97f4-d14c29109fdd/16939313897-500.jpg" data-tags="post-rock" role="button">
 Pretend - Bones in the Soil, Rust in the Oil (2009-10-04)
 </li>
+<li data-cover="https://img.discogs.com/3v6ZmCLwOg51nrQ6H-24YzChdIY=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059598-1431102665-1000.jpeg.jpg" data-tags="downtempo, minimalism, slowcore, glitterhouse" role="button">
+Savoy Grand - Accident Book (2009-11-27)
+</li>
 <li data-cover="https://img.discogs.com/R7OHxErJJbaADxZYmJxsxhGHpWE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17715148-1615025810-9457.jpeg.jpg" data-tags="rock, post-rock, slowcore" role="button">
 S - I'm Not As Good At It As You (2010-04-08)
 </li>
@@ -272,9 +272,6 @@ Joie De Vivre - The North End (2010-05-11)
 </li>
 <li data-cover="https://img.discogs.com/hfSC07ANwCTIDyPYe7APVJXFB-U=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2761992-1458450774-5115.jpeg.jpg" data-tags="indie rock" role="button">
 Low - C'mon (2011-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">
-Giles Corey - Giles Corey (2011-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
 The Antlers - Burst Apart (2011-05-10)
@@ -302,6 +299,9 @@ The Antlers - Undersea (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/83d211cf-c4be-4c41-b265-e718afb8746c/4862428851-500.jpg" data-tags="dream pop, slowcore" role="button">
 Jessica Bailiff - At The Down-Turned Jagged Rim of the Sky (2012-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d64b9ece-f62b-4b0f-b455-c6ab5daea2cc/7901977763-500.jpg" data-tags="folk, slowcore" role="button">
+Barzin - To Live Alone in That Long Summer (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/3640479c-7dfa-46f2-b56a-160de2912ee9/3429010691-500.jpg" data-tags="indie" role="button">
 Torres - Torres (2013-01-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:53:01.445Z
+date: 2021-04-12T15:36:01.481Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b9e76f86-e868-3817-ab2b-133a71d330c6/27475468077-500.jpg" data-tags="comedy" role="button">
 Tom Lehrer - That Was The Year That Was (1965)
+</li>
+<li data-cover="http://coverartarchive.org/release/586c9519-274b-4a6a-b2fd-a8586c657b54/20733086407-500.jpg" data-tags="comedy" role="button">
+George Carlin - Class Clown (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/381ad9be-a54d-439d-8835-89ec8f176207/4540181059-500.jpg" data-tags="comedy" role="button">
 Steve Martin - A Wild and Crazy Guy (1978)
@@ -108,6 +111,9 @@ Stephen Lynch - A Little Bit Special (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/4fecbf14-179d-41fb-9a39-7eb44a4c4634/15556280068-500.jpg" data-tags="lounge" role="button">
 Richard Cheese - Lounge Against The Machine (2000-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d88b2296-b615-4913-8a61-07a7cef0b028/2115566712-500.jpg" data-tags="rock, fun metal" role="button">
+J.B.O. - Sex Sex Sex (2000-11-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, kabarett" role="button">
 Rainald Grebe - Solo (2001)
 </li>
@@ -189,9 +195,6 @@ Lewis Black - The Carnegie Hall Performance (2006-04-25)
 <li data-cover="http://coverartarchive.org/release/6551d04f-5e9a-454f-8ec5-9d3b83daf6b8/24943965929-500.jpg" data-tags="a capella" role="button">
 Wise Guys - Radio (2006-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/513a196b-a1b9-4cb0-bf1d-7b438d79c278/13989638847-500.jpg" data-tags="comedy, standup comedy" role="button">
-Brian Posehn - Live In: Nerd Rage (2006-07-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
 Kyle Cease - One Dimple (2006-07-11)
 </li>
@@ -212,9 +215,6 @@ Knorkator - Das nächste Album aller Zeiten (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
-</li>
-<li data-cover="https://img.discogs.com/zZtONKzk3QnpMYh8fD-_JzctWEU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-964164-1272205520.jpeg.jpg" data-tags="hip-hop, electronic, rap, experimental" role="button">
-2H Company - Искусство ухода за АК-47 (2007-03-22)
 </li>
 <li data-cover="https://img.discogs.com/iwy2jWPyDBgHLZY3TNwIqr3ZSkI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8230762-1457579628-1135.jpeg.jpg" data-tags="country, comedy, funny" role="button">
 Rodney Carrington - King Of The Mountains (2007-04-03)

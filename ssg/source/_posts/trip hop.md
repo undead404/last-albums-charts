@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:57:18.235Z
+date: 2021-04-12T15:17:01.520Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -171,9 +171,6 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 <li data-cover="http://coverartarchive.org/release/75735819-6bca-42bf-a807-5d456f277dbd/11778363663-500.jpg" data-tags="chillout, electronica" role="button">
 Brazilian Girls - Brazilian Girls (2005-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
-Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
@@ -251,6 +248,9 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5646767-1459-424e-8fc9-798e6932d4dd/1235399189-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Heligoland (2010-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/95ceb8ed-936c-45ae-a376-c22f1a727b5a/15902647072-500.jpg" data-tags="downtempo" role="button">
+Andreya Triana - Lost Where I Belong (2010-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)

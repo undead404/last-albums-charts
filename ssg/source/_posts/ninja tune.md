@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:47:01.573Z
+date: 2021-04-12T14:59:18.419Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -48,6 +48,9 @@ The Wannadies - Bagsy Me (1996-11-30)
 <li data-cover="https://img.discogs.com/HnP7DjknA16I11LB4zVbly39aI8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30944-1159358576.jpeg.jpg" data-tags="ninja tune" role="button">
 The Herbaliser - New + Improved (1997-02)
 </li>
+<li data-cover="https://img.discogs.com/FWK-DXPBRvIrWWNy5NSMmqDxLY4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-647-1190594800.jpeg.jpg" data-tags="ninja tune" role="button">
+Coldcut - Atomic Moog / Boot The System (1997-02-12)
+</li>
 <li data-cover="https://img.discogs.com/KO3Hb5KPZe0KhgUq00CKQgTo6B8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1408100-1373923314-6008.jpeg.jpg" data-tags="ninja tune, hip-hop" role="button">
 The Herbaliser - Blow Your Headphones (1997-03-23)
 </li>
@@ -93,9 +96,6 @@ Animals on Wheels - Nuvol i Cadira (1999-11-09)
 <li data-cover="https://img.discogs.com/Ew0P7-8vW_sDtp28Itv5SLH1ksE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55168-1166379646.jpeg.jpg" data-tags="ninja tune" role="button">
 FOG - Fog (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3b67260-4558-4e12-8111-417acf083619/21281677552-500.jpg" data-tags="chillout, electronic" role="button">
-Fink - Fresh Produce (2000-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4832694-b9ca-446b-9c1d-9aeda9df7b5e/3647297441-500.jpg" data-tags="electronic, ninja tune" role="button">
 Bonobo - Scuba EP (2000-06-11)
 </li>
@@ -120,9 +120,6 @@ Jon Kennedy - We're Just Waiting For You Now (2001-06-23)
 <li data-cover="http://coverartarchive.org/release/4b3b5c57-8665-45f7-8592-b8f2a251a2e8/4524340509-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Run Come Save Me (2001-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d832f5d3-e3fc-4169-aee9-fea943a27fe6/6616015884-500.jpg" data-tags="underground hip-hop, ninja tune, under two minutes" role="button">
-Blockhead - Blockhead's Broke Beats (2001-09-25)
-</li>
 <li data-cover="https://img.discogs.com/W51mlxUi9GrRazypn-MqIGKSxEQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522674-1225879094.jpeg.jpg" data-tags="electronica, ninja tune, lush" role="button">
 Amon Tobin - East to West (2002)
 </li>
@@ -140,6 +137,9 @@ Funki Porcini - Fast Asleep (2002-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e61973b7-9cce-4620-802d-d71099fb6010/13581337932-500.jpg" data-tags="ninja tune" role="button">
 Mr. Scruff - Trouser Jazz (2002-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c0c631a-fedc-32e2-92e4-c202f4a9a114/4512000867-500.jpg" data-tags="ninja tune" role="button">
+DJ Vadim - U.S.S.R.: The Art Of Listening (2002-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd2bc17-cd42-4347-9b61-68d62f6566df/4637421071-500.jpg" data-tags="alternative rock, hard rock, nu metal, metal, rock" role="button">
 Adema - Insomniac's Dream (2002-11-05)
@@ -170,6 +170,9 @@ Luke Vibert - YosepH (2003-10-13)
 </li>
 <li data-cover="https://img.discogs.com/ymX85_vxej1exnv30-kRLEPg2_g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295521-1510235834-2489.jpeg.jpg" data-tags="ninja tune" role="button">
 Jaga Jazzist - Day (2004-01-29)
+</li>
+<li data-cover="https://img.discogs.com/A7ctgHz1w6Y21ZXtBZX28VzARaM=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506788-1417707942-6956.jpeg.jpg" data-tags="ninja tune" role="button">
+FOG - Hummer (2004-02-10)
 </li>
 <li data-cover="https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg" data-tags="happysad, polish, rock" role="button">
 happysad - Wszystko jedno (2004-07-01)
@@ -222,9 +225,6 @@ Amon Tobin - Foley Room (2007-02-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/211a02ff-4ec8-4d0d-83f9-a9b480aefbcb/23905287715-500.jpg" data-tags="reggae" role="button">
-Jah Cure - True Reflections...A New Beginning (2007-07-31)
-</li>
 <li data-cover="https://img.discogs.com/AugVrQ0zqs9TgeyA3RWTAMASqHg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052111-1188555495.jpeg.jpg" data-tags="ninja tune, punk rock" role="button">
 Turbostaat - Harm Rochel (2007-08-03)
 </li>
@@ -252,6 +252,9 @@ The Long Lost - The Long Lost (2009-03-02)
 <li data-cover="http://coverartarchive.org/release/114aa1d1-b599-4cbe-999b-bf4fb1c423b1/13253326376-500.jpg" data-tags="electronic, shoegaze, ninja tune" role="button">
 Yppah - Gumball Machine Weekend (2009-04-14)
 </li>
+<li data-cover="https://img.discogs.com/i_8QKNiIAv5bZT3yW8EXGAWI7Ns=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3474450-1331829327.jpeg.jpg" data-tags="ninja tune" role="button">
+DJ Food - One Man's Weird Is Another Man's World (2009-06)
+</li>
 <li data-cover="https://img.discogs.com/Y_JGQPj4-ERxgGf96nlXw-dEJf0=/fit-in/170x168/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1928542-1253075184.jpeg.jpg" data-tags="hip-hop, fusion, ninja tune, kid koala" role="button">
 The Slew - 100% (2009-09-02)
 </li>
@@ -275,9 +278,6 @@ Spokes - Everyone I Ever Met (2011-01-17)
 </li>
 <li data-cover="https://img.discogs.com/DUFr4xOyonZCOpl7MC6s1tR_QR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531305-1289079410.jpeg.jpg" data-tags="electronica, ninja tune" role="button">
 Stateless - Matilda (2011-02-21)
-</li>
-<li data-cover="https://img.discogs.com/gGj42qXYmtUu2KfQF7l6vL5tTLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768244-1327121549.jpeg.jpg" data-tags="funky, ninja tune" role="button">
-Wagon Christ - Toomorrow (2011-03-07)
 </li>
 <li data-cover="https://img.discogs.com/688yYOHJETYMDV5L5X-CFGiHgnQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787906-1574823237-1521.jpeg.jpg" data-tags="experimental, ninja tune, title is a full sentence" role="button">
 Dorian Concept - Her Tears Taste Like Pears (2011-03-28)

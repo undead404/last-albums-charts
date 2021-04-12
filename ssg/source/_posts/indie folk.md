@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:14:01.410Z
+date: 2021-04-12T15:29:01.492Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
+Elliott Smith - Roman Candle (1994-07-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
 </li>
@@ -35,9 +38,6 @@ Dashboard Confessional - So Impossible EP (2001-12-18)
 </li>
 <li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
 Azure Ray - November (2002-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -162,9 +162,6 @@ Mumford & Sons - Sigh No More (2009-10-05)
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e284699-2b5d-4468-95a1-5e6fba36b7f6/22182283535-500.jpg" data-tags="indie, pop, folk, indie pop, indie rock, acoustic, australia, indie folk, sydney" role="button">
-Boy & Bear - With Emperor Antarctica (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
 </li>
@@ -233,6 +230,9 @@ Best Coast - The Only Place (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/99a7f5b4-d5f0-49db-b22d-a5061c75d9bc/9102589224-500.jpg" data-tags="indie rock" role="button">
+Hop Along - Get Disowned (2012-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6454242a-1fc9-49b9-8e97-fa03d7050bdc/1066733067-500.jpg" data-tags="indie, folk, indie folk, 10s, to check" role="button">
 Edward Sharpe & The Magnetic Zeros - Here (2012-05-29)

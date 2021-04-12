@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T23:07:01.396Z
+date: 2021-04-12T15:15:02.200Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
-![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
+![Mamonas Assassinas - Mamonas Assassinas (1995-06-23)](http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg "Mamonas Assassinas - Mamonas Assassinas (1995-06-23)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">Arthur Verocai - Arthur Verocai (1972)</li>
-<li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">Elis Regina - Elis (1980)</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">Mamonas Assassinas - Mamonas Assassinas (1995-06-23)</li>
+<li data-cover="http://coverartarchive.org/release/98e90fe5-2364-46fd-9a41-0b8d71be8a92/8871803526-500.jpg" data-tags="thrash metal, groove metal" role="button">Sepultura - Roots (1996-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/f70805ee-f3f5-4453-a344-eef3ad5f7e85/11449802748-500.jpg" data-tags="los hermanos" role="button">Los Hermanos - Bloco do Eu Sozinho (2001)</li>
 <li data-cover="https://img.discogs.com/I0SWT3S8uigi0AFlNC8acIVz4_U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304407-1099749564.jpg.jpg" data-tags="bossa nova, brazilian" role="button">Bebel Gilberto - Bebel Gilberto (2004-06-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">Fresno - O Rio A Cidade A Árvore (2005-05-02)</li>
-<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">CSS - Cansei De Ser Sexy (2005-10)</li>
 <li data-cover="http://coverartarchive.org/release/34000f0b-e6a1-40be-8679-de8c96b87bcd/7083917698-500.jpg" data-tags="rock" role="button">Pitty - Chiaroscuro (2009-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg" data-tags="indie, folk, 10s, mpb" role="button">Mallu Magalhães - Pitanga (2011-09-30)</li>
+<li data-cover="http://coverartarchive.org/release/3e341286-7e77-435b-9b45-c7dc2d598286/12778056525-500.jpg" data-tags="electronic, indie, pop, alternative, singer-songwriter, mpb, synthpop, brazilian, male vocalists, hairy chest, otter, discos 2013" role="button">Silva - Claridão (2012-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/2ebfcfb8-551a-4132-af9a-6aed767b34a9/4456324735-500.jpg" data-tags="indie, indie pop, indie rock, brazilian" role="button">Apanhador Só - Antes que tu conte outra (2013)</li>
 </ol>
 List of 100 - under the cut.
@@ -33,6 +33,9 @@ Astrud Gilberto - The Shadow Of Your Smile (1965)
 <li data-cover="http://coverartarchive.org/release/8a8ab97e-2701-4f5a-9288-69f6eeccec09/26219564261-500.jpg" data-tags="jazz, bossa nova, 60s, brazilian" role="button">
 Sérgio Mendes - The Swinger From Rio (1965-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/68e84ef5-dd48-4db0-8624-98f922a8808a/14739023370-500.jpg" data-tags="mpb" role="button">
+Walter Wanderley - Rain Forest (1966)
+</li>
 <li data-cover="https://img.discogs.com/abzcGXwWt27DTejtlFQqm_8pC0c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4323124-1361726202-4141.jpeg.jpg" data-tags="bossa nova" role="button">
 Antônio Carlos Jobim - Stone Flower (1970)
 </li>
@@ -44,6 +47,9 @@ JARDS MACALÉ - Jards Macalé (1972)
 </li>
 <li data-cover="https://img.discogs.com/QDw0IgrQrurCUrjRsFVpi9AtgMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2731998-1440422390-6123.jpeg.jpg" data-tags="samba soul" role="button">
 Luiz Melodia - "Pérola Negra" (1973)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
+Milton Nascimento - Milagre Dos Peixes (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/80999d7c-a81c-47ea-88b2-2ddc9e62591b/26229865132-500.jpg" data-tags="indie, female vocalists, brazilian" role="button">
 Alcione - A Voz Do Samba (1975)
@@ -59,9 +65,6 @@ Azymuth - Light as a Feather (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/3418183c-d712-4e53-a9f4-0554a416d164/3780563924-500.jpg" data-tags="brazilian" role="button">
 João Bosco - Linha De Passe (1979)
-</li>
-<li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
-Elis Regina - Elis (1980)
 </li>
 <li data-cover="https://img.discogs.com/fAOdFoEPgsUNgKJlanP_v-ZCuFk=/fit-in/595x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2425305-1394036525-2128.jpeg.jpg" data-tags="mpb, caetano, brazilian" role="button">
 Caetano Veloso - Outras Palavras (1981)
@@ -89,6 +92,9 @@ Angra - Angels Cry (1993-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/48043a43-e73c-4c58-a93b-60cbe8b14e75/1608666580-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
 O Rappa - O Rappa (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ae7eb40-7dad-4969-abb5-b188c740fff3/4215015406-500.jpg" data-tags="90s, poetry, oldies, mpb, brazilian, samba, live, brasileirinhos, g gil" role="button">
+Gilberto Gil - Unplugged (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/be38df02-c856-4c40-8dcd-66a4ea21eb52/10401784417-500.jpg" data-tags="rock brasileiro" role="button">
 Skank - Calango (1994-10)
@@ -210,8 +216,8 @@ Ludov - Dois a Rodar (2003-11-20)
 <li data-cover="https://img.discogs.com/RLi833C0twJGNcK5xRD2UHlj7LM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5458430-1393875416-3939.jpeg.jpg" data-tags="rock, alternative, alternative rock, hardcore, brazilian, 00s" role="button">
 Rodox - Estreito (2003-12-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b13969cb-b206-4140-a82e-c4fa62a27a50/10029142040-500.jpg" data-tags="post-rock, post rock, brazilian, albuns completos ou quase completos, progarchives100" role="button">
-Hurtmold - Mestro (2004)
+<li data-cover="http://coverartarchive.org/release/50862dd5-3ac5-4b93-8458-0d876282ed3d/15298257043-500.jpg" data-tags="jazz" role="button">
+Eliane Elias - Dreamer (2004)
 </li>
 <li data-cover="https://img.discogs.com/JY1jPSDYQHZz8TjnKzRzjiG1IBg=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3810608-1574427585-4743.jpeg.jpg" data-tags="rock, alternative, pop rock, garage rock, brazilian, brazilian rock, nacional" role="button">
 Bidê ou Balde - É Preciso Dar Vazão Aos Sentimentos (2004)
@@ -231,12 +237,6 @@ Fresno - O Rio A Cidade A Árvore (2005-05-02)
 <li data-cover="https://img.discogs.com/tLv6zatFQdSRr6S8-rgHzee0Eww=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160148-1267233116.jpeg.jpg" data-tags="rock" role="button">
 Pitty - Anacrônico (2005-08-21)
 </li>
-<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
-CSS - Cansei De Ser Sexy (2005-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, samba, bossa nova" role="button">
-Jorge Ben Jor - Football & Samba Groove Association (2006)
-</li>
 <li data-cover="https://img.discogs.com/JAQK1ZOQh9hVjEh-Ei5erFmZoNM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635360-1521784378-3749.jpeg.jpg" data-tags="mpb, maria bethania" role="button">
 Maria Bethânia - Mar De Sophia (2006)
 </li>
@@ -246,8 +246,8 @@ Krisiun - Assassination (2006-02-21)
 <li data-cover="https://img.discogs.com/s2ezo1SiRSlQxSW1wRUBBHljhr8=/fit-in/164x149/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6222867-1414096311-4097.jpeg.jpg" data-tags="bossa nova, brazilian" role="button">
 Chico Buarque - Carioca (2006-04)
 </li>
-<li data-cover="https://img.discogs.com/fOt2O8LZQ54bM2uXz85TRJHdoTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1648120-1379540459-9163.jpeg.jpg" data-tags="thrash metal" role="button">
-Violator - Chemical Assault (2006-10-01)
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Canto dos Malditos na Terra do Nunca - Canto dos Malditos Na Terra do Nunca (2006-09)
 </li>
 <li data-cover="https://img.discogs.com/m3r8qJcR7FdUcUZSRuLi0N34AJE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6422814-1419703949-2616.jpeg.jpg" data-tags="power metal" role="button">
 Angra - Aurora Consurgens (2006-10-24)
@@ -282,6 +282,9 @@ Pitty - Chiaroscuro (2009-08-11)
 <li data-cover="http://coverartarchive.org/release/25401cf6-0e7e-4156-991e-ce0aec3fd0ab/992490598-500.jpg" data-tags="female vocalists, brazilian" role="button">
 Karina Buhr - Eu Menti pra Você (2010-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b45fdc6-a4f1-44bd-9037-e37dec95b6ac/9647868855-500.jpg" data-tags="alternative, indie rock, brazilian, 00s, pavement, rajada" role="button">
+Superguidis - Superguidis (2010-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/b9aecca4-7f89-42b6-96f4-261557fd0c85/3076788456-500.jpg" data-tags="pop, rock, alternative, alternative rock, folk, pop rock, brazilian, 10s" role="button">
 Legião Urbana - Perfil (2011)
 </li>
@@ -308,9 +311,6 @@ Apanhador Só - Antes que tu conte outra (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/989153c0-eff2-4d9a-9386-55edd1961def/7545665377-500.jpg" data-tags="acoustic, mpb, brazilian" role="button">
 Marcelo Camelo - Ao Vivo no Theatro São Pedro (2013-05-21)
-</li>
-<li data-cover="https://img.discogs.com/wY1S3yp7md5MmBRm7Fb0ESbLPNM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5464659-1394054188-9473.jpeg.jpg" data-tags="pop" role="button">
-Anitta - Anitta (2013-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8098f8f1-ef64-4bab-a63c-4ee17081e9be/4094406107-500.jpg" data-tags="bossa nova, brazilian, creed taylor, bresil, 1960's, viilee, luiz bonfa, shared billing recording, verve recording" role="button">
 Luiz Bonfá - Bossa Nova (2014)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:58:01.452Z
+date: 2021-04-12T15:32:01.701Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -33,17 +33,11 @@ John Frusciante - Niandra LaDes And Usually Just A T-Shirt (1994)
 <li data-cover="http://coverartarchive.org/release/cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/3882539681-500.jpg" data-tags="indie rock" role="button">
 Pavement - Crooked Rain, Crooked Rain (1994-02-14)
 </li>
-<li data-cover="https://img.discogs.com/H_s2q2tKfcYXZS8iRD6LVNbAiag=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058347-1353849248-4687.jpeg.jpg" data-tags="lo-fi" role="button">
-Guided by Voices - Bee Thousand (1994-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
 </li>
 <li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
-</li>
-<li data-cover="https://img.discogs.com/9QjKfdamKZdB0lkuixAPIamFufc=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806796-1160753727.jpeg.jpg" data-tags="alternative, lo-fi, indie rock" role="button">
-Sebadoh - Bakesale (1994-08-23)
 </li>
 <li data-cover="https://img.discogs.com/R0egZsTiJ4jGp6EUVkewsm0XhiU=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-493498-1424651929-5356.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
 Guided by Voices - Alien Lanes (1995-04-04)
@@ -92,9 +86,6 @@ The Moldy Peaches - The Moldy Peaches (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8381f1b2-33d0-4c43-a91a-2d83812edfbd/1436605758-500.jpg" data-tags="indie" role="button">
 Sparklehorse - It's A Wonderful Life (2001-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
@@ -150,6 +141,9 @@ Kurt Vile - Constant Hitmaker (2008-03-11)
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
+<li data-cover="https://img.discogs.com/FxTObqr5eWFxH-DS8SdVVVopmBU=/fit-in/378x381/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574787-1229525133.jpeg.jpg" data-tags="indie, folk, indie rock, lo-fi, indie folk, phil elverum" role="button">
+Mount Eerie - Dawn (2008-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
@@ -198,8 +192,14 @@ Beach Fossils - Beach Fossils (2010-05-25)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
+<li data-cover="https://img.discogs.com/Mh9ktIt-JMp1vH2hyyM7UKJtXHs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9739447-1485616296-4787.jpeg.jpg" data-tags="experimental, lo-fi, rnb, psycoelectroindie" role="button">
+How to Dress Well - Ready For The World (2010-07)
+</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
+How to Dress Well - Love Remains (2010-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a453795-6c30-47fd-a5ad-3618b4ef7a3c/4226529091-500.jpg" data-tags="indie rock" role="button">
 Smith Westerns - Dye It Blonde (2011-01-18)

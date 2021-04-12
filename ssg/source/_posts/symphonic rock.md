@@ -1,10 +1,9 @@
 ---
-date: 2021-04-12T02:13:01.403Z
+date: 2021-04-12T15:41:12.699Z
 title: "symphonic rock: 100 albums you must listen to before you die"
 ---
 ![Muse - The Resistance (2009-09-10)](http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg "Muse - The Resistance (2009-09-10)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">The Moody Blues - Days of Future Passed (1967-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/3da95428-3f4b-471b-8aea-ed40bcf04179/7108599389-500.jpg" data-tags="classic rock" role="button">Electric Light Orchestra - Face the Music (1975-10)</li>
 <li data-cover="http://coverartarchive.org/release/23bf913d-3709-4f84-a3df-f19d3928cb2b/5892233271-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">Electric Light Orchestra - Discovery (1979-05-21)</li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">The Alan Parsons Project - Eye In The Sky (1982-06)</li>
@@ -13,6 +12,7 @@ title: "symphonic rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/a773460a-e896-4883-83fb-3ec44b8dce36/12726549225-500.jpg" data-tags="pop, rock, power pop, pop rock, symphonic rock, 2010s" role="button">Marianas Trench - Masterpiece Theatre (2009-02-24)</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
+<li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">Peter Gabriel - Scratch My Back (2010-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Unforgiving (2011-03-25)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
-The Moody Blues - Days of Future Passed (1967-11-11)
-</li>
 <li data-cover="https://img.discogs.com/g2XPxP21E9zFxaWBcr-FYCt9ORg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13734531-1560009108-6632.jpeg.jpg" data-tags="classic rock" role="button">
 Procol Harum - Shine On Brightly (1968-09)
 </li>
@@ -36,11 +33,8 @@ Barclay James Harvest - Baby James Harvest (1972)
 <li data-cover="http://coverartarchive.org/release/c68fd901-1fbd-4007-b113-dff07ba3f743/3691957295-500.jpg" data-tags="classic rock, progressive rock, rock" role="button">
 Jethro Tull - Living In The Past (1972-06-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce30bffa-1d5c-4d1d-89f1-ddd9169c60ef/7926266940-500.jpg" data-tags="classic rock" role="button">
-The Moody Blues - Seventh Sojourn (1972-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/925b1483-3660-4f3a-a444-dfb0bd4353e6/1236088677-500.jpg" data-tags="progressive rock" role="button">
-Premiata Forneria Marconi - Per un Amico (1972-11)
+<li data-cover="https://img.discogs.com/M7RgJ8FtsEt92Z5OzfhcqB1mhGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760346-1589669424-4488.png.jpg" data-tags="progressive rock" role="button">
+Greenslade - Bedside Manners Are Extra (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/dabffad6-2b97-4838-b899-558d050b9024/27508222851-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Inside (1973)
@@ -50,9 +44,6 @@ Rick Wakeman - The Six Wives Of Henry VIII (1973)
 </li>
 <li data-cover="https://img.discogs.com/9uFNMoftqaZBHdgsDB9aIvk_4_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3199164-1320166222.jpeg.jpg" data-tags="rock, progressive rock, classic rock" role="button">
 Yes - Yessongs (1973-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ed99b83-6abc-402e-b723-b036b9441fc4/12733158344-500.jpg" data-tags="progressive rock" role="button">
-Jethro Tull - A Passion Play (1973-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f15d543-18bf-3ca0-961a-e2172baa9de2/18649504142-500.jpg" data-tags="progressive rock, classic rock, rock" role="button">
 Manfred Mann's Earth Band - Solar Fire (1973-11-30)
@@ -84,6 +75,9 @@ Eloy - Dawn (1976)
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
+<li data-cover="https://img.discogs.com/TDh6S1O8X9BzvOSjjQzbh6ALeEw=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504386-1368027178-1189.jpeg.jpg" data-tags="instrumental, progressive rock, symphonic rock" role="button">
+Jon Lord - Sarabande (1976-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
 </li>
@@ -102,9 +96,6 @@ Manfred Mann's Earth Band - Watch (1978)
 <li data-cover="http://coverartarchive.org/release/7a0a925f-3a31-3c12-adc6-0e006d216284/8860742582-500.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Pyramid (1978-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/02c72542-9c16-440c-b963-8c2e38d68626/25140813093-500.jpg" data-tags="classic rock, 70s, symphonic rock, tape, june, my vinyl, iveldie best of 1978, i own this album, decca records, tony clarke, english group, london recordings, the record plant,  los angeles, ninth album, 9 june, 9 june 1978, june 1978,  indigo ranch recording studios,  malibu" role="button">
-The Moody Blues - Octave (1978-06-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/7983dcb5-ab21-4294-a2fe-df7e7c2db606/22729549424-500.jpg" data-tags="rock, progressive rock, symphonic rock, art rock, symphonic prog" role="button">
 Manfred Mann's Earth Band - Angel Station (1979-03-09)
 </li>
@@ -117,6 +108,9 @@ The Alan Parsons Project - Eve (1979-08-27)
 <li data-cover="http://coverartarchive.org/release/b532302c-ab4a-4917-85e0-cf600fb743ba/12442242530-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Colours (1980)
 </li>
+<li data-cover="https://img.discogs.com/JMy2tuAE9hFBhnqreC_OhDBEDsI=/fit-in/600x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4756669-1533919059-4984.jpeg.jpg" data-tags="progressive rock" role="button">
+Yes - Drama (1980-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/518878f9-b54c-4e57-8e38-21a57896bf1c/13469499800-500.jpg" data-tags="classic rock, rock, progressive rock, symphonic rock, art rock, symphonic prog, prog, epic, atmospheric, progressive" role="button">
 Manfred Mann's Earth Band - Chance (1980-10-10)
 </li>
@@ -125,6 +119,9 @@ The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
 <li data-cover="https://img.discogs.com/_PZwGiZVmtke4cxTQw92lXJq9Ig=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538167-1294596731.jpeg.jpg" data-tags="progressive rock" role="button">
 Camel - Nude (1981-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7f8ff05-05e2-439f-a313-e173006fe9ba/1330903646-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Time To Turn (1982)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
@@ -155,6 +152,9 @@ Devil Doll - Eliogabalus (1990-05)
 </li>
 <li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock, rock" role="button">
 The Alan Parsons Project - Anthology (1991)
+</li>
+<li data-cover="https://img.discogs.com/RCPNQQp170r6wDjw5i1sxT2-rh0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6832714-1441714471-3452.jpeg.jpg" data-tags="progressive rock" role="button">
+Yes - Union (1991-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d102e972-ca99-41db-83da-75d187f27082/14136085128-500.jpg" data-tags="avant-garde, art rock, progressive rock, symphonic rock" role="button">
 Devil Doll - Sacrilegium (1992-05)

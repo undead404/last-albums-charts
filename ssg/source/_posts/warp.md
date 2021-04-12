@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:02:01.950Z
+date: 2021-04-12T14:45:07.809Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -165,6 +165,9 @@ Req - Sketchbook (2002-03-04)
 <li data-cover="http://coverartarchive.org/release/477e5f2b-09f5-4d5d-b3cb-dd3b852f597e/15485751824-500.jpg" data-tags="lounge, post rock" role="button">
 Vincent Gallo - Recordings of Music for Film (2002-06-24)
 </li>
+<li data-cover="https://img.discogs.com/b6VXFcBZdPy6FNEXh1PWBDh_mmY=/fit-in/430x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-191918-1118863123.jpg.jpg" data-tags="electronica, indie, alternative, ambient, warp, idm, glitch, experimental, psychedelic" role="button">
+kiyo - Chaotech Odd Echo (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/a162b1b2-ed22-4a54-be3b-3efb82b77ce9/4523940207-500.jpg" data-tags="hip-hop, chillout, electronic, hip hop, instrumental, downtempo, warp, eclectic, favs, breakz, geniaal, lekkah, 4nas, nadh, vemu, mmwm" role="button">
 Req - Car Paint Scheme (2003-08-25)
 </li>
@@ -248,9 +251,6 @@ Plaid - Heaven's Door (2008-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/99b09d02-9cc9-3fed-8431-f162165a9371/6281423897-500.jpg" data-tags="electronic" role="button">
-Luke Vibert - We Hear You (2009-08-10)
 </li>
 <li data-cover="https://img.discogs.com/olvPPLxjABG26vby30YknA33UuA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1937588-1253651723.jpeg.jpg" data-tags="electronic, post-rock, strange, warp, avantgarde" role="button">
 Tyondai Braxton - Central Market (2009-09-14)

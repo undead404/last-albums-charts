@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T23:06:01.499Z
+date: 2021-04-12T15:39:01.463Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">YUI - FROM ME TO YOU (2006-02-22)</li>
-<li data-cover="http://coverartarchive.org/release/a209eae7-d6f2-4091-9bf6-284d85b00e34/2972569743-500.jpg" data-tags="j-pop" role="button">安室奈美恵 - PLAY (2007-06-27)</li>
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">宇多田ヒカル - HEART STATION (2008-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/eb484ca9-5dc7-44b2-af63-abc3ab19a8ec/14299138426-500.jpg" data-tags="rock, 00s, j-pop" role="button">相対性理論 - シフォン主義 (2008-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/11ce296b-5499-439b-8e1c-092b0e35557e/22270460633-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, sucks, chiant, asian music, chevre, asian pop, things i will never listen to, better than ayu, better than akiko shikata, more talented than akiko shikata, talentless people, voix de chevre, chiante, chiantissime, this is why jpop in the 2000s sucked" role="button">YUI - again (2009-06-01)</li>
+<li data-cover="https://img.discogs.com/eb8Dxtz7j4wZPSF-irTXSZCa5Po=/fit-in/560x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10358007-1495933318-6332.jpeg.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, asian music, asian pop" role="button">YUKI - うれしくって抱きあうよ (2010-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/8516ca87-f9c4-3854-a727-6d328cf44837/4072227232-500.jpg" data-tags="j-pop" role="button">Supercell - Today Is A Beautiful Day (2011-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/92e45294-7c6e-485c-8707-8b655dbc11bd/3058792717-500.jpg" data-tags="japanese" role="button">YUI - GREEN GARDEN POP (2012-12-05)</li>
 <li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">Kero Kero Bonito - Intro Bonito (2013-09-30)</li>
@@ -44,9 +44,6 @@ Cibo Matto - Stereotype A (1999-05-26)
 </li>
 <li data-cover="https://img.discogs.com/ONQv23t3WOoAkv-Kq5AHA0NAFe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1954460-1439431938-2719.jpeg.jpg" data-tags="j-pop" role="button">
 Do As Infinity - BREAK OF DAWN (2000-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/6c56f5e3-0cda-4243-88f6-40682375c9d1/18052521100-500.jpg" data-tags="j-pop, japanese, jpop, ayumi hamasaki" role="button">
-浜崎あゆみ - Duty (2000-09-27)
 </li>
 <li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="j-pop" role="button">
 Do As Infinity - NEW WORLD (2001-02-21)
@@ -123,6 +120,9 @@ Supercar - A (2005-03-24)
 <li data-cover="http://coverartarchive.org/release/c69f3b0a-f112-4144-9ec1-5e061577ce07/13866715016-500.jpg" data-tags="j-pop, oma" role="button">
 東京事変 - 修羅場 (2005-11-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
+HALCALI - Tip Taps Tip (2005-12-07)
+</li>
 <li data-cover="https://img.discogs.com/5e3zUMMrGwjX3GBKoBejL274anM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5846293-1404321699-5539.jpeg.jpg" data-tags="japanese, j-pop, uverworld, japanese single" role="button">
 UVERworld - Just Melody (2006-01-25)
 </li>
@@ -144,8 +144,8 @@ Akeboshi - Yellow Moon (2006-04-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 BACK-ON - Chain (2006-06-07)
 </li>
-<li data-cover="https://img.discogs.com/ZeKwUYG5UX_tgAbGaMdhbQ1oiDI=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710743-1150582219.jpeg.jpg" data-tags="electronica, japanese, downtempo, idm, glitch, j-pop, duyster, cod et s" role="button">
-Aus - Sonorapid (2006-06-20)
+<li data-cover="https://img.discogs.com/bhJiekWOewWscs5g_OCCtI0d_YA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6894487-1428950901-4881.jpeg.jpg" data-tags="japanese, female vocalists, jpop, thrash metal, asian, j-pop, asian music, asian pop, japanese female pop-rock, jeff young, royal ruckus" role="button">
+BONNIE PINK - A Perfect Sky (2006-06-28)
 </li>
 <li data-cover="https://img.discogs.com/Mt24pylKtvGUgnvtPhqUSM-zH_c=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7310726-1438598476-8537.jpeg.jpg" data-tags="wave, j-pop, x" role="button">
 YUKI - Wave (2006-09-06)
@@ -170,9 +170,6 @@ YUI - CHE.R.RY (2007-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3482a239-d580-4a85-bae4-5936996c1287/14120304991-500.jpg" data-tags="japanese, j-pop" role="button">
 school food punishment - school food is good food (2007-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/a209eae7-d6f2-4091-9bf6-284d85b00e34/2972569743-500.jpg" data-tags="j-pop" role="button">
-安室奈美恵 - PLAY (2007-06-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 嵐 - Time (2007-07-11)
@@ -314,6 +311,9 @@ Lisa - LANDSPACE (2013-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e7846c1-f56c-4a8e-913a-948cff485025/22917110682-500.jpg" data-tags="synthpop, j-pop" role="button">
+kyary pamyu pamyu - Pika Pika Fantajin (2014-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/14fdecc7-02f6-4670-98ba-82f53076b121/7965163856-500.jpg" data-tags="pop, japanese, jpop, female vocalist, j-pop, boa, fairy tail" role="button">
 Boa - WHO'S BACK? (2014-09-03)

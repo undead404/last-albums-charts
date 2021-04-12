@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:01:01.524Z
+date: 2021-04-12T15:02:18.787Z
 title: "adult contemporary: 100 albums you must listen to before you die"
 ---
 ![Gregory Alan Isakov - This Empty Northern Hemisphere (2009)](http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg "Gregory Alan Isakov - This Empty Northern Hemisphere (2009)")
@@ -105,8 +105,14 @@ Chris Rea - Auberge (1991-02)
 <li data-cover="http://coverartarchive.org/release/8e287f1d-6a36-4446-816a-d028bb19018c/24708246922-500.jpg" data-tags="female vocalists, 90s, rnb" role="button">
 Vanessa Williams - The Comfort Zone (1991-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/bcea85cd-6bf6-4e35-bf57-63b24bd193e3/2686537879-500.jpg" data-tags="singer-songwriter, female vocalist, kd lang" role="button">
+k.d. lang - Ingénue (1992-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/8bf23fbc-43e7-4bb7-a7d4-2b713fd16790/15067590439-500.jpg" data-tags="soft rock, adult contemporary, aor, blues rock" role="button">
 Chris Rea - God's Great Banana Skin (1992-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/55040501-808e-327c-9932-58cc7d9ed0e2/15457110038-500.jpg" data-tags="blues rock, soft rock, aor, adult contemporary" role="button">
+Chris Rea - Espresso Logic (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4d95059-df27-42bd-ac8f-7c5bf82e6aca/13886547423-500.jpg" data-tags="tina turner" role="button">
 Tina Turner - What's Love Got To Do With It (1993)
@@ -189,9 +195,6 @@ Shakira - Grandes Exitos (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea0da652-0f59-43cf-83e4-a03034bcf90e/7777312097-500.jpg" data-tags="pop" role="button">
-Rachel Stevens - Funky Dory (2003)
-</li>
 <li data-cover="https://img.discogs.com/mJaKOPBI6S3SVKSNO0zW_JNjW3g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9515894-1557170965-5423.jpeg.jpg" data-tags="soul, michael mcdonald" role="button">
 Michael McDonald - Motown (2003)
 </li>
@@ -228,17 +231,20 @@ Robbie Williams - Intensive Care (2005-10-20)
 <li data-cover="https://img.discogs.com/hMXJOa44JIoDclRtq6-TdMIuw3Q=/fit-in/200x201/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-147934-1107454472.jpg.jpg" data-tags="80s, new wave, pop" role="button">
 Level 42 - Running in the Family (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/35c43d9e-df9d-41e9-8250-d670736d6460/1871272264-500.jpg" data-tags="electronic, house" role="button">
+Madonna - Sorry (2006-02-20)
+</li>
 <li data-cover="https://img.discogs.com/2mMumTyeU5d-Bdf0Jkgc-viD1tU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-888713-1536068445-2270.jpeg.jpg" data-tags="folk" role="button">
 Ray LaMontagne - Trouble (2006-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f9aecbc-ec6b-4d6d-9403-78db49dd78a7/22429511620-500.jpg" data-tags="pop, female vocalists" role="button">
 Lucie Silvas - The Same Side (2006-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ea73d025-6dff-4c96-896e-056bfaf659ec/6070656289-500.jpg" data-tags="motown" role="button">
+Emma Bunton - Life In Mono (2006-12-04)
 </li>
 <li data-cover="https://img.discogs.com/yN1TDls6ZCOnqUGsiJ48a5Yfk2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393131-1523761238-6659.jpeg.jpg" data-tags="opera, female vocalist, classical symphony, sarah brightman" role="button">
 Sarah Brightman - Symphony (2007)
@@ -255,9 +261,6 @@ Spice Girls - Greatest Hits (2007-11-09)
 <li data-cover="http://coverartarchive.org/release/71a391ea-efa2-4541-aad6-168effe7efcc/8315863052-500.jpg" data-tags="80s, adult contemporary, madonna" role="button">
 Madonna - Greatest Hits (2008)
 </li>
-<li data-cover="https://img.discogs.com/e_aUnrH26XrK8n1DK7nyUEMbvMo=/fit-in/400x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10931451-1587569547-4653.jpeg.jpg" data-tags="dusty springfield" role="button">
-Shelby Lynne - Just A Little Lovin' (2008-01-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
@@ -266,9 +269,6 @@ Josh Groban - Awake Live (2008-05-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, male vocalists" role="button">
 Jay Brannan - Goddamned (2008-07-01)
-</li>
-<li data-cover="https://img.discogs.com/PtfFdsSyrGOfBoU6h88Gc9xlswk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11388937-1515433822-4661.jpeg.jpg" data-tags="female vocalists, pop" role="button">
-Maria Mena - Cause and Effect (2008-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
