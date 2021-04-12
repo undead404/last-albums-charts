@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:34:01.410Z
+date: 2021-04-12T12:44:01.430Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/025d8941-7a7a-3c12-8df5-df0fa3668460/23130927291-500.jpg" data-tags="70s, power pop" role="button">
 Big Star - #1 Record (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/c42f97da-b73d-429c-9400-12f288c783d8/15325737905-500.jpg" data-tags="70s, powerpop" role="button">
-Big Star - Radio City (1974)
 </li>
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
@@ -66,8 +63,14 @@ Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 <li data-cover="http://coverartarchive.org/release/58a38efc-17bc-4bab-ba9d-378a9eec5d8b/5156179689-500.jpg" data-tags="90s" role="button">
 Fastball - All the Pain Money Can Buy (1998-03-10)
 </li>
+<li data-cover="https://img.discogs.com/Mo2vthe0D3xgMRGTMeGU9kemfIQ=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12771421-1541871515-8735.jpeg.jpg" data-tags="pop, british, rap, power pop, dance, 90s, male vocalist, bubblegum, boy band, uk number one, 5ive 5ive" role="button">
+Five - 5ive (1998-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">
 Hole - Celebrity Skin (1998-09-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/4cf675c2-a1ff-49d6-b0eb-c136eb528c10/21921338333-500.jpg" data-tags="soundtrack" role="button">
+Polaris - Music From The Adventures Of Pete & Pete (1999-04-06)
 </li>
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
@@ -113,9 +116,6 @@ Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/aaee9217-d2a4-4402-b60c-55ad3552ac29/19044708662-500.jpg" data-tags="power pop" role="button">
 Cheap Trick - The Essential Cheap Trick (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/53de8ceb-d30e-4d07-b34d-64c469b74a27/25185452356-500.jpg" data-tags="pop, swedish, power pop, scandinavian, sweden, transport, suede, scandinavia, suecia, songs they never play on the radio, suedois, scandinave, scandinavie, streaming na full, left-cheek kisses" role="button">
-Billie the Vision & the Dancers - I Was So Unpopular in School and Now They're Giving Me This Beautiful Bicycle (2004-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8ba136f-ecab-4a5a-8f3f-d43c31133d34/9767283611-500.jpg" data-tags="alternative, alternative rock, emo, power pop, pop punk, melodic hardcore" role="button">
 Saves the Day - Ups & Downs: Early Recordings and B-sides (2004-08-24)
@@ -182,6 +182,9 @@ Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="https://img.discogs.com/m5jmkIZjnXJT3UiUlppFR-MLl1w=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1507483-1224860210.jpeg.jpg" data-tags="pop punk, alternative rock, emo" role="button">
 The Academy Is... - Santi (2007-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/5188c5ad-92d8-4d64-84fd-7a18b08cca09/21161271680-500.jpg" data-tags="indie" role="button">
+Rooney - Calling The World (2007-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
@@ -314,9 +317,6 @@ Guano Apes - Offline (2014-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fff52f3-67b8-46bf-93a6-ad43e285601d/8368597159-500.jpg" data-tags="rock, power pop" role="button">
 Weezer - Everything Will Be Alright in the End (2014-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
-Walk the Moon - Talking Is Hard (2014-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

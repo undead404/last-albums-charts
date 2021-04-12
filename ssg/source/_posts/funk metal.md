@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:03:01.397Z
+date: 2021-04-12T12:20:01.485Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -50,6 +50,9 @@ Faith No More - The Real Thing (1989-06-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - Mother's Milk (1989-08-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="headbangers ball" role="button">
+24-7 Spyz - Gumbo Millennium (1990)
 </li>
 <li data-cover="https://img.discogs.com/hH1lmYnMwJ6-AaLLeUg0SvTd7PU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1451804-1253041202.jpeg.jpg" data-tags="experimental, funk metal" role="button">
 Idiot Flesh - Tales of Instant Knowledge and Sure Death (1990)
@@ -135,9 +138,6 @@ Living Colour - Pride (1995)
 <li data-cover="http://coverartarchive.org/release/bdc38381-8c0e-4e56-b42b-fb49f4e37803/8311816749-500.jpg" data-tags="hard rock, funk metal, alternative metal, industrial metal, rapcore, nu-metal" role="button">
 Powerman 5000 - The Blood Splat Rating System (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metal, funk metal, san francisco, alt. metal, in rage" role="button">
-Faith No More - Evidence (1995-05-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/0ed5e9a0-8b60-45e3-aba6-2166bcc32e4c/8479500461-500.jpg" data-tags="alternative rock" role="button">
 Bloodhound Gang - Use Your Fingers (1995-07-28)
 </li>
@@ -176,9 +176,6 @@ Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef5aa6bc-dfdf-4b1d-bf8d-96f785ef5dfc/18650235841-500.jpg" data-tags="stoner rock" role="button">
 Clutch - The Elephant Riders (1998-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/19af6bc8-81ca-4eb0-ba7e-3f0c6113eb66/2618609074-500.jpg" data-tags="rock" role="button">
-Faith No More - Who Cares a Lot? The Greatest Hits (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
@@ -311,6 +308,9 @@ Bloodhound Gang - Show Us Your Hits (2010-12-03)
 </li>
 <li data-cover="https://img.discogs.com/VUzMraZzaIjytwqIyFN9NZ__reU=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3099962-1322204236.jpeg.jpg" data-tags="black metal, swedish, funk metal, funk, funky, funk rock, dsbm, swedish black metal, true funk metal, trve funk metal" role="button">
 Woods of Infinity - Förlåt (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae255491-657a-49c2-8942-6b6d4ce10fd5/14453404889-500.jpg" data-tags="alternative rock, funk metal, funk, alternative metal, funk rock" role="button">
+O'Funk'illo - Sesión Golfa (2011)
 </li>
 <li data-cover="https://img.discogs.com/IigodsNnpEbLiwsq1fHwEprmH3Y=/fit-in/561x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-688249-1292432253.jpeg.jpg" data-tags="reggae" role="button">
 311 - Universal Pulse (2011-07-19)

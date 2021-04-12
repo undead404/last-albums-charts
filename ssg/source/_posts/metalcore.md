@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:18:01.439Z
+date: 2021-04-12T12:08:01.411Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -267,14 +267,14 @@ Asking Alexandria - Stand Up And Scream (2009-09-15)
 <li data-cover="http://coverartarchive.org/release/613f418b-dea5-4cb5-b5dd-12df16c7d825/7275083560-500.jpg" data-tags="groove metal, alternative metal" role="button">
 Five Finger Death Punch - War Is the Answer (2009-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/6fa37e34-e402-4620-9786-0d0da6ead881/11173683563-500.jpg" data-tags="post-hardcore" role="button">
+blessthefall - Witness (2009-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/810fcd2b-03d9-4d5f-95a2-76923a17e29e/6822132066-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Congregation of the Damned (2009-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
-We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:13:01.458Z
+date: 2021-04-12T12:31:07.001Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -32,6 +32,9 @@ Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bbca62b-b444-4260-8d0b-e5570f8f38f0/15467254776-500.jpg" data-tags="post-hardcore" role="button">
 At the Drive-In - Acrobatic Tenement (1996-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c1d5669-ae58-33db-b98d-ef346b55acc7/26546641163-500.jpg" data-tags="post-hardcore" role="button">
+Fugazi - End Hits (1998-04-14)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -89,9 +92,6 @@ Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
 <li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
@@ -198,6 +198,12 @@ blessthefall - His Last Walk (2007-04-10)
 <li data-cover="https://img.discogs.com/F0PJpap4eBWr5cbsS72NJ-CgUBo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071802-1215843325.jpeg.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Manipulator (2007-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7ff2419-8d8d-4c5a-a5b0-fa355924cc62/17979913063-500.jpg" data-tags="post-hardcore" role="button">
+Emarosa - This Is Your Way Out (2007-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/a12d1805-794f-4744-ba79-c9e7dd7ffb5f/12049773567-500.jpg" data-tags="post-hardcore" role="button">
+Before Their Eyes - Before Their Eyes (2007-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2753149-fc02-4804-a989-b537b7016489/6515469434-500.jpg" data-tags="post-hardcore" role="button">
 Dance Gavin Dance - Downtown Battle Mountain (2007-05-15)
 </li>
@@ -267,9 +273,6 @@ Asking Alexandria - Stand Up And Scream (2009-09-15)
 <li data-cover="http://coverartarchive.org/release/6fa37e34-e402-4620-9786-0d0da6ead881/11173683563-500.jpg" data-tags="post-hardcore" role="button">
 blessthefall - Witness (2009-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
-We Came As Romans - To Plant a Seed (2009-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
 Alesana - The Emptiness (2010-01-26)
 </li>
@@ -278,9 +281,6 @@ Of Mice & Men - Of Mice & Men (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e272a5-0f33-44b2-b8ab-17655a36869a/6997890720-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - With Ears to See and Eyes to Hear (2010-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)

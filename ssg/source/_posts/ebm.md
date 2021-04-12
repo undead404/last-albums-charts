@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:45:12.773Z
+date: 2021-04-12T11:52:12.713Z
 title: "ebm: 100 albums you must listen to before you die"
 ---
 ![Combichrist - Everybody Hates You (2005-02-21)](http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg "Combichrist - Everybody Hates You (2005-02-21)")
@@ -27,17 +27,20 @@ Liaisons Dangereuses - Liaisons Dangereuses (1981)
 <li data-cover="http://coverartarchive.org/release/cc22ec44-bd0f-341e-8366-bd852f2284b1/15833399379-500.jpg" data-tags="electronic, industrial, ebm, neue deutsche welle" role="button">
 Deutsch Amerikanische Freundschaft - Alles Ist Gut (1981-03)
 </li>
-<li data-cover="https://img.discogs.com/iJot0_xEMnoS6v1voTcqRYxoBGY=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-685439-1159648044.jpeg.jpg" data-tags="ebm" role="button">
-Deutsch Amerikanische Freundschaft - Gold Und Liebe (1981-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
 Skinny Puppy - Bites (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a32f2d3-7bf4-314d-9ddb-4e2f62b46221/19760017691-500.jpg" data-tags="ebm" role="button">
 Nitzer Ebb - That Total Age (1987-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/c9f26415-3e1c-3bd6-94bb-530fe50eb17b/1792614317-500.jpg" data-tags="ebm" role="button">
+Front Line Assembly - The Initial Command (1987-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c7a551d-172f-41cc-8c45-001fe4c2a8df/1191160835-500.jpg" data-tags="ebm, industrial" role="button">
 Front Line Assembly - State of Mind (1988-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/537fbc59-8c7f-49a7-a91c-87bde4a02fb1/28316079912-500.jpg" data-tags="industrial, ebm" role="button">
+Skinny Puppy - 12 Inch Anthology (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/8634c228-80f7-358e-b9bd-f7e6e558ad81/24652540760-500.jpg" data-tags="ebm" role="button">
 Nitzer Ebb - Belief (1989-01-09)
@@ -54,6 +57,9 @@ Skinny Puppy - Too Dark Park (1990-10-25)
 <li data-cover="https://img.discogs.com/9Gf8qubhFWaPjjGCaLCMDpaMjfo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3567878-1349031692-4985.jpeg.jpg" data-tags="ebm" role="button">
 Front 242 - TYRANNY >FOR YOU< (1991-01-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/4eb28f91-4795-40a4-ab85-b72c0dd87247/2851965509-500.jpg" data-tags="ebm, front 242" role="button">
+Front 242 - Live Target (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5b84cb4-683e-4257-b073-2fb674062d55/14371888518-500.jpg" data-tags="ebm, industrial" role="button">
 Oomph! - OOMPH! (1992)
 </li>
@@ -66,9 +72,6 @@ And One - Flop! (1992-03-30)
 <li data-cover="http://coverartarchive.org/release/b6416c39-19d4-3a82-bb78-f422b864d45c/2331370971-500.jpg" data-tags="industrial" role="button">
 Front Line Assembly - Tactical Neural Implant (1992-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/99eebf93-760b-383a-a80e-e04fac95e09a/23464429616-500.jpg" data-tags="ebm, darkwave, electro-darkwave" role="button">
-Project Pitchfork - Entities (1992-10)
-</li>
 <li data-cover="https://img.discogs.com/MmazM0fxtM9vhc7qi5BWKa0yPbg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7104507-1433827097-4457.jpeg.jpg" data-tags="ebm" role="button">
 Front 242 - 06:21:03:11 UP EVIL (1993-05-10)
 </li>
@@ -80,9 +83,6 @@ Front Line Assembly - Millennium (1994-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8261962b-3305-4b07-928b-9405ff67d262/14323730269-500.jpg" data-tags="ebm" role="button">
 Covenant - Dreams Of A Cryotank (1994-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/def3a2ab-d04d-30ed-82c2-5d85b92943fc/2254710671-500.jpg" data-tags="ebm, industrial, electro-industrial" role="button">
-Front Line Assembly - Hard Wired (1995-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/47904d98-3813-4306-b61d-3024b865c9b2/3988070087-500.jpg" data-tags="ebm" role="button">
 Covenant - Sequencer (1996-06-03)
@@ -120,9 +120,6 @@ Velvet Acid Christ - Fun With Knives (1999-04-26)
 <li data-cover="http://coverartarchive.org/release/3e08454f-b9a6-483c-847c-72f4da4369cf/3240829039-500.jpg" data-tags="ebm" role="button">
 Assemblage 23 - Contempt (1999-10-26)
 </li>
-<li data-cover="https://img.discogs.com/Y2oLXgdd8RLY9jEmUgBqhskicG0=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-159456-1367679730-4175.jpeg.jpg" data-tags="ebm" role="button">
-God Module - Artificial (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6c4671b-0fdc-3037-8cf4-a235a2962cb4/17408643804-500.jpg" data-tags="industrial, ebm, aggrotech, techno" role="button">
 Funker Vogt - Maschine Zeit (2000-05-02)
 </li>
@@ -156,11 +153,11 @@ Aslan Faction - Blunt Force Trauma (2002-04-02)
 <li data-cover="https://img.discogs.com/S-eM9VXXYcgfirJjTQsorhyGYxo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-100723-1269258468.jpeg.jpg" data-tags="ebm" role="button">
 Grendel - End of Ages (2002-04-15)
 </li>
+<li data-cover="https://img.discogs.com/6g1atlHBRgU7OABfZXsAPnPwI2w=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-342032-1264090135.jpeg.jpg" data-tags="electronic, industrial, remix, ebm, electro-industrial, techno-industrial, industrial-electronica, ebm-psytrance, favorites ebm electronic, zipperback radio tracks" role="button">
+Angels & Agony - Forever (2002-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/95a2889d-5127-4bf7-88f3-bf2273323c42/8925141225-500.jpg" data-tags="ebm, industrial" role="button">
 Feindflug - Hirnschlacht (2002-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b209e79-fc7e-44b5-bdd1-cf9400e3b77f/14070863696-500.jpg" data-tags="darkwave" role="button">
-Blutengel - Angel Dust (2002-09-23)
 </li>
 <li data-cover="https://img.discogs.com/4_L3HUqm0-MBZfi33XPORGfmCyY=/fit-in/550x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-192361-1161082014.jpeg.jpg" data-tags="darkwave, electronic, industrial" role="button">
 Android Lust - The Dividing (2002-10)
@@ -183,6 +180,9 @@ Bruderschaft - Forever (2003-07-25)
 <li data-cover="http://coverartarchive.org/release/8a9f88ee-4b69-445a-8eb1-0f83345faf3f/9065922207-500.jpg" data-tags="industrial, aggrotech, powernoise, electro-industrial" role="button">
 Combichrist - The Joy of Gunz (2003-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/dfc70d01-83dc-48bb-b4a5-23786e5c3f69/8268385546-500.jpg" data-tags="industrial" role="button">
+Laibach - WAT (2003-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/8bb67a32-ae41-4390-905d-5b1345d017e3/7973285676-500.jpg" data-tags="industrial" role="button">
 Suicide Commando - Axis of Evil (2003-10-13)
 </li>
@@ -197,9 +197,6 @@ In Strict Confidence - Holy (2004-01-12)
 </li>
 <li data-cover="https://img.discogs.com/SzLw8Kdw5wQSy6aFcThC8EZh55o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240746-1463420871-7364.jpeg.jpg" data-tags="ebm" role="button">
 Front Line Assembly - Civilization (2004-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d611bc5-ce7d-4c77-9eeb-84d7f7c2fb22/23454588286-500.jpg" data-tags="metal, sid metal" role="button">
-Machinae Supremacy - Deus Ex Machinae (2004-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/85d7b32d-7b3f-4c61-b51e-bbf61c9267e8/15619141380-500.jpg" data-tags="industrial" role="button">
 Panzer AG - This Is My Battlefield (2004-06-14)
@@ -218,6 +215,9 @@ Combichrist - Everybody Hates You (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
 Gothminister - Empire of Dark Salvation (2005-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/fe481da2-6903-3e36-a8b5-c883531d603e/4215333426-500.jpg" data-tags="industrial" role="button">
+:Wumpscut: - Evoke (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2115e652-02b4-4916-b26f-517aa2eee039/9061551085-500.jpg" data-tags="industrial" role="button">
 Psyclon Nine - INRI (2005-04-26)
@@ -246,9 +246,6 @@ Dioxyde - Social Phobia (2006-04-28)
 <li data-cover="http://coverartarchive.org/release/dfa61791-e35a-31c6-9c6d-c6fee31f4e88/8961128077-500.jpg" data-tags="ebm, aggrotech, industrial, dark electro" role="button">
 Tactical Sekt - Syncope (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/0338b90b-3987-4648-937f-da3353ff8f3a/7024661156-500.jpg" data-tags="ebm, electronic" role="button">
-Nitzer Ebb - Body of Work (2006-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/b4e9cde8-78d8-4390-a5bb-8025feb93807/6069833114-500.jpg" data-tags="ebm, industrial" role="button">
 Front Line Assembly - Artificial Soldier (2006-06-20)
 </li>
@@ -261,11 +258,11 @@ And One - Bodypop (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/cbad8c1c-500c-3a8e-83ff-7a67e54db5c3/8482057958-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
 Psyclon Nine - Crwn Thy Frnicatr (2006-10-23)
 </li>
+<li data-cover="https://img.discogs.com/NlkmUxf-fdsMUSV7QPh5cJn7aAw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-852864-1327512711.jpeg.jpg" data-tags="industrial, synthpop, industrial metal" role="button">
+Dope Stars Inc. - Gigahearts (2006-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2dd9923d-9e53-3872-8bdf-5dbc1c338df4/23316236628-500.jpg" data-tags="ebm" role="button">
 And One - Frontfeuer (2006-12-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darklight" role="button">
-Syrian - Alien Nation (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, ebm" role="button">
 Reaper - Hell Starts With An H (2007-02-23)
@@ -287,6 +284,9 @@ Nachtmahr - Kunst ist Krieg (2007-09-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, ebm, fear section" role="button">
 Miss Construction - Kunstprodukt (2008-04-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dark electro, ebm, harsh ebm" role="button">
+X-Fusion - Vast Abysm (2008-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/828e02f2-c436-4205-b186-6e5ab89ad558/8034626940-500.jpg" data-tags="industrial, ebm" role="button">
 Nachtmahr - Feuer Frei! (2008-06-06)

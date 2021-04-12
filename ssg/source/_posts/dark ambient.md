@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:22:01.452Z
+date: 2021-04-12T12:38:01.432Z
 title: "dark ambient: 100 albums you must listen to before you die"
 ---
 ![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
@@ -78,6 +78,9 @@ Synaesthesia - Ephemeral (1997-04-29)
 <li data-cover="http://coverartarchive.org/release/4f3105d3-833c-492b-a48f-8a7b428113c0/1638204863-500.jpg" data-tags="ambient, dark ambient" role="button">
 Paysage d'Hiver - Die Festung (1998-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/92fdc0bb-4236-41e5-af53-97f7970c17e1/1802561314-500.jpg" data-tags="dark ambient" role="button">
+Atomine Elektrine - Archimetrical Universe (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5c4dbbb-be5f-45d5-be3b-5269f181f0e0/15344255023-500.jpg" data-tags="ambient, experimental" role="button">
 Coil - Astral Disaster (1999-01)
 </li>
@@ -95,6 +98,9 @@ Current 93 - I Have a Special Plan for This World (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0d98a3-f7ed-4787-a007-c0b37bcb43cd/15595694019-500.jpg" data-tags="dark ambient" role="button">
 Ice Ages - This Killing Emptiness (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7da4b4f-31ae-408f-87de-18cf8fe8a4c7/22396327500-500.jpg" data-tags="gothic, neoclassical darkwave, ethereal, darkwave" role="button">
+Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/51689724-ce1f-4741-976a-e695898c6480/15868898265-500.jpg" data-tags="soundtrack" role="button">
 Michael Andrews - Donnie Darko (2001)
@@ -150,6 +156,9 @@ Melvins & Lustmord - Pigs of the Roman Empire (2004-08-23)
 <li data-cover="http://coverartarchive.org/release/0c410ade-38d8-45ff-aa95-f2fa1247c68a/952416960-500.jpg" data-tags="dark ambient" role="button">
 Atrium Carceri - Seishinbyouin (2004-09)
 </li>
+<li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
+Efterklang - Tripper (2004-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3246b09-b3e7-46d5-8ddb-ff0f5771de2c/4963186353-500.jpg" data-tags="ambient, dark ambient" role="button">
 Karl Sanders - Saurian Meditation (2004-10-26)
 </li>
@@ -161,9 +170,6 @@ Diagnose: Lebensgefahr - Transformalin (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fd612be-f82d-3615-b08d-50364514c537/2154547963-500.jpg" data-tags="dark ambient" role="button">
 Desiderii Marginis - The Ever Green Tree (2005-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/83c9acea-1b68-4361-831f-28610faa16b4/952435456-500.jpg" data-tags="dark ambient" role="button">
-Atrium Carceri - Kapnobatai (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a87bb818-1584-4792-a4ea-ede2a752670f/12224448032-500.jpg" data-tags="drone" role="button">
 Sunn O))) - Black One (2005-10-03)
@@ -194,9 +200,6 @@ Tim Hecker - Harmony In Ultraviolet (2006-10-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical, darkwave, dark ambient" role="button">
 Die Verbannten Kinder Evas - Dusk And Void Became Alive (2006-11-03)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e40f712-8acd-4cc2-af93-749661ba5c2d/952439859-500.jpg" data-tags="dark ambient" role="button">
 Atrium Carceri - Ptahil (2007-02-14)
@@ -311,9 +314,6 @@ Ben Frost - A U R O R A (2014-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b380f7c-c8cf-41c9-8379-e3c45d2374b1/7462360292-500.jpg" data-tags="dark ambient, ambient" role="button">
 Burzum - The Ways of Yore (2014-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/997a791c-e17c-4b7b-9177-12f548c994cd/7387728505-500.jpg" data-tags="ambient" role="button">
-Wolves in the Throne Room - Celestite (2014-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05d597d-083c-4b49-a8d1-7782f030435b/16454252263-500.jpg" data-tags="post-rock" role="button">
 Sólstafir - Ótta (2014-08-29)

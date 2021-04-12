@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:39:23.836Z
+date: 2021-04-12T11:46:06.947Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -11,8 +11,8 @@ title: "polish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7f63e549-0273-406f-ab87-664b8d36a09b/4223291990-500.jpg" data-tags="rock, polish" role="button">Coma - Pierwsze wyjście z mroku (2004-05-17)</li>
 <li data-cover="https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg" data-tags="happysad, polish, rock" role="button">happysad - Wszystko jedno (2004-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">Pidżama Porno - Bułgarskie centrum (2004-09-20)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">Maria Peszek - Miasto Mania (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/a2b5d0a1-b5fe-4206-9780-5cdb54e93060/6357252031-500.jpg" data-tags="rock, alternative rock" role="button">Myslovitz - Happiness Is Easy (2006-05-19)</li>
+<li data-cover="http://coverartarchive.org/release/5e745932-2538-4b2c-952d-2893b8c5b69f/5062074211-500.jpg" data-tags="polish" role="button">Strachy Na Lachy - DODEKAFONIA (2010-02-22)</li>
 <li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">Czesław Śpiewa - POP (2010-04-12)</li>
 </ol>
 List of 100 - under the cut.
@@ -56,6 +56,9 @@ Myslovitz - Myslovitz (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/987d7b4b-abf1-4e7d-8a4c-a56e72fb3e56/7101899260-500.jpg" data-tags="rock" role="button">
 Myslovitz - Sun Machine (1996-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/865ef3ec-271f-4493-baa0-8969427baaa5/24610170911-500.jpg" data-tags="hard rock, rock" role="button">
+O.N.A. - Bzzzzz (1996-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8edb945-28fa-45ef-a69c-09e45c53c9e1/22167648217-500.jpg" data-tags="polish, polish rock, elektryczne gitary" role="button">
 Elektryczne Gitary - Na krzywy ryj (1997-02-10)
@@ -150,8 +153,8 @@ Indukti - S.U.S.A.R. (2004-09-20)
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
 </li>
-<li data-cover="https://img.discogs.com/DfJbmgSS5_BKvSkqUzceSYuht2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6480340-1420655050-2997.jpeg.jpg" data-tags="rap, hip-hop, polish, polski hip hop" role="button">
-O.S.T.R. - Jazzurekcja (2004-11-18)
+<li data-cover="http://coverartarchive.org/release/deba7607-8ebe-3141-892d-8c06e9d50fd3/15298807218-500.jpg" data-tags="progressive rock" role="button">
+Riverside - Voices In My Head (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8976e14-3f6d-4e74-9b52-33eec8bbd45d/7101908827-500.jpg" data-tags="polish" role="button">
 Lao Che - Powstanie Warszawskie (2005-03-21)
@@ -164,9 +167,6 @@ Farben Lehre - Farbenheit (2005-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f588792-803b-40ab-92e6-fe69fc26456d/4224914887-500.jpg" data-tags="happysad, rock, polish" role="button">
 happysad - Podróże z i pod prąd (2005-10-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
-Maria Peszek - Miasto Mania (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
@@ -201,9 +201,6 @@ Ania - Kilka historii na ten sam temat (2006-10-16)
 <li data-cover="http://coverartarchive.org/release/56e8c740-3399-48cb-ab1e-4be6cd288957/23827728104-500.jpg" data-tags="rock, alternative rock, polish" role="button">
 Kombajn Do Zbierania Kur Po Wioskach - Lewa strona literki M (2006-10-30)
 </li>
-<li data-cover="https://img.discogs.com/x3KJghFuRDm93srz0JZXf9ECz1U=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6544584-1476606872-7866.jpeg.jpg" data-tags="polish, rock, alternative" role="button">
-Muchy - Galanteria (2007-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/11f22380-b4be-468a-b2f6-77d8ea5dd4f4/8084133829-500.jpg" data-tags="hip hop, rap, polish" role="button">
 Łona i Webber - Absurd I Nonsens (2007-03-23)
 </li>
@@ -230,6 +227,9 @@ Marika - Plenty (2008-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d2c963-e9a3-4885-aca6-294f00404ced/7101734501-500.jpg" data-tags="reggae, dancehall, polish" role="button">
 Mesajah - Ludzie Prości (2008-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9e57fc6-a117-4ede-a38e-1d3200888ddc/6868448236-500.jpg" data-tags="hip-hop, rap, polish" role="button">
+Lilu - La (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c54c36bd-7a0e-4bcb-a8d5-8454ed4e3b5f/7101277809-500.jpg" data-tags="ska, polish, akurat, pol-ska" role="button">
 Akurat - Optymistyka (2008-11-07)

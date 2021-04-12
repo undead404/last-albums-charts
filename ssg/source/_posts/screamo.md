@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:14:01.612Z
+date: 2021-04-12T12:36:01.599Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/6c8278ba-5629-44d8-a4d0-cedd9cd73572/3504212117-500.jpg" data-tags="screamo" role="button">
+Orchid - Chaos Is Me (1999-06-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
 </li>
@@ -78,9 +81,6 @@ Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 <li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
-</li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
 Dead Poetic - New Medicines (2004-03-25)
 </li>
@@ -99,6 +99,9 @@ Senses Fail - Let It Enfold You (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/255b7de2-cb0b-413c-a739-5d362e0156cc/2731146114-500.jpg" data-tags="rock" role="button">
 The Red Jumpsuit Apparatus - The Red Jumpsuit Apparatus (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
+Anberlin - Never Take Friendship Personal (2005-01-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee3acac4-1fdb-4d0a-9dc7-070251fd51ad/21114625374-500.jpg" data-tags="screamo, emocore, rock, post-hardcore" role="button">
 A Static Lullaby - Faso Latido (2005-04-05)
 </li>
@@ -107,9 +110,6 @@ A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b50aed73-a47d-40df-a0a1-fe2eb91aa349/23361528042-500.jpg" data-tags="post-hardcore" role="button">
-As Cities Burn - Son, I Loved You at Your Darkest (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/de811c20-f2b1-395a-a377-6ea2f1aa0ba6/24647170363-500.jpg" data-tags="post-hardcore" role="button">
 Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
@@ -162,6 +162,9 @@ Silverstein - 18 Candles: The Early Years (2006-05-30)
 <li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
 </li>
+<li data-cover="https://img.discogs.com/rN0ZlQluJHvRPB1ht-CTa9AmDwU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2956495-1463869010-9686.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
+Greeley Estates - Far From The Lies (2006-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
@@ -174,11 +177,11 @@ Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
 </li>
+<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
+Senses Fail - Still Searching (2006-10-09)
+</li>
 <li data-cover="https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg" data-tags="deathcore" role="button">
 Bring Me the Horizon - Count Your Blessings (2006-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
@@ -222,9 +225,6 @@ Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - Bone Palace Ballet (2007-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
-Brand New - (Fork And Knife) (2007-10-23)
-</li>
 <li data-cover="https://img.discogs.com/cdxwuckJvWPMJFdQh9_JKFoWWzM=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6880459-1428621626-4630.jpeg.jpg" data-tags="post-hardcore" role="button">
 In Fear and Faith - Voyage (2007-12-18)
 </li>
@@ -258,6 +258,9 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 <li data-cover="http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg" data-tags="deathcore, metalcore" role="button">
 Bring Me the Horizon - Suicide Season (2008-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/b73ee801-8205-4891-9591-d0b134912b72/1871184666-500.jpg" data-tags="post-hardcore, screamo" role="button">
+The Amity Affliction - Severed Ties (2008-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/3557e924-c177-4c76-81f6-5952099d4182/16116434681-500.jpg" data-tags="post-hardcore, experimental, screamo" role="button">
 I Set My Friends on Fire - You Can't Spell Slaughter Without Laughter (2008-10-07)
 </li>
@@ -276,11 +279,11 @@ Motionless in White - When Love Met Destruction (2009-02-17)
 <li data-cover="https://img.discogs.com/XzaWfi-BngGAQzQ73P3mjOdzc7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692720-1302358066.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 A Skylit Drive - Adelphia (2009-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
+The Word Alive - Empire (2009-07-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
-We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
 Alesana - The Emptiness (2010-01-26)
@@ -293,9 +296,6 @@ ONE OK ROCK - Nicheシンドローム (2010-06-09)
 </li>
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)

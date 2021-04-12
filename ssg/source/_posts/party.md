@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T15:44:01.720Z
+date: 2021-04-12T12:22:13.638Z
 title: "party: 100 albums you must listen to before you die"
 ---
 ![P!nk - Raise Your Glass (2010-10-06)](https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg "P!nk - Raise Your Glass (2010-10-06)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/d28tpqQucwJ9drJ-Ad8JCNBVpoI=/fit-in/371x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1737046-1333832985.jpeg.jpg" data-tags="90s, pop, dance" role="button">Real McCoy - Another Night (1993)</li>
 <li data-cover="https://img.discogs.com/LFrarIk5Jhy_8JCaswLKchqZcI4=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478396-1504995411-3099.jpeg.jpg" data-tags="rock, hard rock" role="button">Andrew W.K. - I Get Wet (2001-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/4c1f170f-2411-41fb-b476-545fb484788d/10009033849-500.jpg" data-tags="electronic" role="button">Deichkind - Aufstand im Schlaraffenland (2006-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">The Heavy - The House That Dirt Built (2009-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">Duck Sauce - Barbra Streisand (2010-09-13)</li>
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="party" role="button">P!nk - Raise Your Glass (2010-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/362900b0-e046-4c34-beb1-eb2ecd3bff64/19088259874-500.jpg" data-tags="rock, hot chelle rae" role="button">Hot Chelle Rae - Whatever (2011-11-24)</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/9418e8f4-c5af-4354-8c24-bb7047ddc78d/7870652661-500.jpg" data-tags="party, deep house, running" role="button">Kiesza - Hideaway (2014-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">Mark Ronson - Uptown Special (2015-01-12)</li>
 </ol>
@@ -39,6 +39,9 @@ The Weather Girls - Success (1983)
 <li data-cover="http://coverartarchive.org/release/29f7b800-d856-428c-9668-70ae7361c2da/10393081879-500.jpg" data-tags="80s" role="button">
 General Public - All the Rage (1984)
 </li>
+<li data-cover="http://coverartarchive.org/release/16a87570-3c99-401b-a580-eaf524dfd653/23247179663-500.jpg" data-tags="party, beach, private" role="button">
+Gregory Isaacs - Private Beach Party (1985)
+</li>
 <li data-cover="https://img.discogs.com/FfdYLK524D44dL2M_OzZmDqFCfk=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11029778-1549220819-1601.jpeg.jpg" data-tags="rock, 80s" role="button">
 Tina Turner - Foreign Affair (1989-09-12)
 </li>
@@ -54,6 +57,9 @@ DJ Quik - Quik Is The Name (1991-07-01)
 <li data-cover="https://img.discogs.com/d28tpqQucwJ9drJ-Ad8JCNBVpoI=/fit-in/371x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1737046-1333832985.jpeg.jpg" data-tags="90s, pop, dance" role="button">
 Real McCoy - Another Night (1993)
 </li>
+<li data-cover="http://coverartarchive.org/release/b6580fce-52c8-4459-9970-962330fb0169/27601591049-500.jpg" data-tags="90s, eurodance" role="button">
+Pandora - One of a Kind (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/e58a024d-819a-4e8f-934a-c3e417d7b8b2/10996521596-500.jpg" data-tags="baccara" role="button">
 Baccara - Yes Sir, I Can Boogie (1994)
 </li>
@@ -63,26 +69,26 @@ Cyndi Lauper - Twelve Deadly Cyns... and Then Some (1994-07-19)
 <li data-cover="http://coverartarchive.org/release/f6905832-e747-4733-b6af-6ac048d72105/17649323917-500.jpg" data-tags="robert palmer -the very best of robert palmer, 80s" role="button">
 Robert Palmer - The Very Best of Robert Palmer (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/b79433d4-68de-461b-acc3-bcd8d28ce476/19052137951-500.jpg" data-tags="funk, 90s" role="button">
+Prince - The Gold Experience (1995-04-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/b5265116-13c0-4c9c-bd96-f0e71490f0c9/8612920874-500.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - Stripped (1995-10-12)
-</li>
-<li data-cover="https://img.discogs.com/1fbFW7CRaPQDzDLjqndSK_htMZ4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-120456-1588514804-3867.jpeg.jpg" data-tags="rap, old school" role="button">
-DJ Kool - Let Me Clear My Throat (1996)
 </li>
 <li data-cover="https://img.discogs.com/EAOEXOTfTxBUYi0bJCkFIkLsJuQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10491776-1498565496-3604.png.jpg" data-tags="party, design" role="button">
 Red Hot Chili Peppers - Love Rollercoaster (1996)
 </li>
-<li data-cover="https://img.discogs.com/I4d-vuwH6SI5J0Vv4CC7v-vJr2g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264854-1323000039.jpeg.jpg" data-tags="rock, jam" role="button">
-moe. - No Doy (1996-10-15)
+<li data-cover="https://img.discogs.com/Yo4atmoQtClruEMPYAB6VUNybGo=/fit-in/592x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-717235-1152490933.jpeg.jpg" data-tags="schlager, wolfgang petry" role="button">
+Wolfgang Petry - Alles (1996-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18b273a-4987-4594-a4db-419454c7e113/2013460549-500.jpg" data-tags="alt-country, 90s" role="button">
 Wilco - Being There (1996-10-29)
 </li>
+<li data-cover="https://img.discogs.com/Hb0Xl13nxHaY5MpY7PAHd3yIFAc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2572098-1414256209-1052.jpeg.jpg" data-tags="german ska" role="button">
+The Busters - Boost Best (1997)
+</li>
 <li data-cover="https://img.discogs.com/t3aaF2qj-AxvhCnCnc5ov_N8_ec=/fit-in/591x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-804775-1160523912.jpeg.jpg" data-tags="britpop, party, music to work to, songs to work to, solid records, britpop bopping, my all time faves, perth03, all my favorite music" role="button">
 Gene - Drawn To The Deep End (1997-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e059fdfd-4782-3889-92c6-dc69ceda6c0d/8950998291-500.jpg" data-tags="classic rock, party, rock pop, collected, allgemein" role="button">
-Billy Joel - Greatest Hits, Volume III: 1986-1997 (1997-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec74961-47b2-408d-a53d-10a26f677f25/14338686353-500.jpg" data-tags="punk rock, glam punk, death punk" role="button">
 Turbonegro - Apocalypse Dudes (1998)
@@ -98,9 +104,6 @@ Fantastic Plastic Machine - Luxury (1998-09-10)
 </li>
 <li data-cover="https://img.discogs.com/gfRLoNoHAGHCXXcJh-B-kOusI8g=/fit-in/300x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56296-001.jpg.jpg" data-tags="electronic, electronica, dance, party" role="button">
 Groove Armada - I See You Baby (1999-11-15)
-</li>
-<li data-cover="https://img.discogs.com/j5a27CMCDGW7QGija6y7JX5vtmI=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184149-1260139774.jpeg.jpg" data-tags="pop" role="button">
-Anastacia - Not That Kind (2000)
 </li>
 <li data-cover="https://img.discogs.com/fzvLhT7y2XEChAfTrIX_0eK-Fu0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-320399-1606042046-5755.jpeg.jpg" data-tags="trance" role="button">
 Fragma - Toca (2000)
@@ -120,14 +123,8 @@ Andrew W.K. - I Get Wet (2001-11-12)
 <li data-cover="http://coverartarchive.org/release/5a772b9e-cd00-472a-8e11-fa7c3af82d80/18956006311-500.jpg" data-tags="pop" role="button">
 Anastacia - Freak of Nature (2001-11-23)
 </li>
-<li data-cover="https://img.discogs.com/xGvkXOyRDVoU71fFnepT6jXcJgQ=/fit-in/160x159/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030151-1185961466.jpeg.jpg" data-tags="deutschrock, rock, german" role="button">
-Sportfreunde Stiller - Die gute Seite (2002-04-02)
-</li>
 <li data-cover="https://img.discogs.com/EhLr_l8kV4L-_xs0zgjp8VdkOTU=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823372-1516570637-5405.jpeg.jpg" data-tags="electronic, electronica" role="button">
 Mum - The Szabotnik 15 Mission (2002-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d51e6252-572b-42e5-b4e3-db95b55bbd60/6542435011-500.jpg" data-tags="dance, party" role="button">
 Various Artists - Oh Yeah! Energy Dance Party! (2002-09-24)
@@ -146,6 +143,9 @@ Electric Six - Fire (2003-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef914ed-ad2f-442a-8345-a89c0c65e503/4910925417-500.jpg" data-tags="party" role="button">
 Andrew W.K. - The Wolf (2003-08-27)
+</li>
+<li data-cover="https://img.discogs.com/yFOiXcHW8i5Uh2dLpxz3tOxCgpA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5853590-1404588605-4174.jpeg.jpg" data-tags="party, deutsch" role="button">
+DJ Ötzi - Flying to the Sky (2003-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
 No Doubt - The Singles 1992-2003 (2003-10-28)
@@ -171,14 +171,14 @@ Billy Joel - Piano Man: The Very Best Of Billy Joel (2004-11-15)
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
-Colette - Hypnotized (2005-06-07)
-</li>
 <li data-cover="https://img.discogs.com/JASTebqUfqURhoVhAQtRWgrEpuM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591095-1212799290.jpeg.jpg" data-tags="soul, funky" role="button">
 Nate James - Set The Tone (2005-08-08)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/f183e120-edac-4a0f-b1e0-28a03cf4382c/2009302187-500.jpg" data-tags="hip-hop, rap" role="button">
+Pitbull - Money Is Still A Major Issue (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fd57c92-1159-4625-870c-c36c81fb0e70/20417939131-500.jpg" data-tags="party, 12-inch" role="button">
 Justice vs. Simian - We Are Your Friends (2006-03)
@@ -201,6 +201,12 @@ Jet - Shine On (2006-09-29)
 <li data-cover="http://coverartarchive.org/release/5c912595-f439-4703-834d-630039081b24/2009506363-500.jpg" data-tags="crunk, reggeaton" role="button">
 Pitbull - El Mariel (2006-10-31)
 </li>
+<li data-cover="https://img.discogs.com/ZqjnBOzCExuUFIcQX4vwF1JoZ04=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7300249-1438348657-2772.jpeg.jpg" data-tags="pop, rock, swedish, party, garage rock, pop-rock" role="button">
+Montezumas - Montezumas (2006-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/278c9e73-c74d-4c77-8b03-4d21940d75f5/3126760145-500.jpg" data-tags="pop" role="button">
+ABBA - Number Ones (2006-11-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/177bc8eb-897c-4ae9-9c56-5fd59c9b4b9c/16672074375-500.jpg" data-tags="party" role="button">
 Various Artists - The Definitive 70's (2007)
 </li>
@@ -209,6 +215,9 @@ Die Fantastischen Vier - Fornika (2007-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ae26f5d-c22b-4c19-a8f3-d5c133b98f48/3352654339-500.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)
+</li>
+<li data-cover="https://img.discogs.com/0M_HPFXYHll1zMUyOhn15X-gsv8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16309113-1606980236-7378.jpeg.jpg" data-tags="party" role="button">
+Mickie Krause - Vom Mund In Die Orgel (2007-07-27)
 </li>
 <li data-cover="https://img.discogs.com/O-a2gQV5qbBWPjkjWsovpQKH7EA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102202-1392922738-9684.jpeg.jpg" data-tags="ska, ska-punk" role="button">
 Mustard Plug - In Black And White (2007-09-11)
@@ -224,9 +233,6 @@ Raheem DeVaughn - Love Behind The Melody (2008-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e49b93f-2390-4854-871c-c0311178db86/25035188059-500.jpg" data-tags="party, comedy, german, football song" role="button">
 Oliver Pocher - Bringt ihn heim (2008-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
-Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
 </li>
 <li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)
@@ -267,11 +273,14 @@ Balkan Beat Box - Blue Eyed Black Boy (2010-03-01)
 <li data-cover="http://coverartarchive.org/release/e3a4f52d-a657-4a14-82b8-bfad664532ee/5764867486-500.jpg" data-tags="dance, upbeat, mashup, party" role="button">
 The White Panda - Pandamonium (2010-03-01)
 </li>
+<li data-cover="https://img.discogs.com/0uXhqGS4MonUKb0f5NF6MNQnBX8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-863802-1166742243.jpeg.jpg" data-tags="electronic, pop" role="button">
+Cascada - Pyromania (2010-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/27175973-7fc1-4de0-8bca-f0947397758d/7288536714-500.jpg" data-tags="party, japan, demo, party hard, universal, andrew wk, steev mike, young lord, close calls with brick walls, mother of mankind, party god" role="button">
 Andrew W.K. - Close Calls With Brick Walls / Mother of Mankind (2010-03-22)
 </li>
-<li data-cover="https://img.discogs.com/ljRrXMtIbIjo07zIgZR4rN5bcCE=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235095-1493873613-5059.jpeg.jpg" data-tags="rnb, pop" role="button">
-Usher - Versus (2010-08-19)
+<li data-cover="https://img.discogs.com/MBYV1aOwTxzsGG4vopwo_Bhg07E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3702807-1502842961-5640.jpeg.jpg" data-tags="party" role="button">
+Rabbit! - Connect The Dots (2010-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/abd3e328-0721-4cf5-bb99-c60d52db73ea/2950848905-500.jpg" data-tags="indie" role="button">
 Owl Eyes - O RLY? (2010-09-04)
@@ -291,8 +300,8 @@ Die Atzen - Party Chaos (2011-03-18)
 <li data-cover="http://coverartarchive.org/release/e4268045-6964-457c-ba11-5f4ba8a053e6/1235940238-500.jpg" data-tags="chill, hard, house, party, deep house, banger, seapunk, online record collection" role="button">
 Teams - Dxys Xff (2011-05-25)
 </li>
-<li data-cover="https://img.discogs.com/SHKqUSOd3Ee9sf19_l928VZP63w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9804784-1486580832-2864.jpeg.jpg" data-tags="k-pop, 2pm" role="button">
-2PM - Hands Up (2011-06-20)
+<li data-cover="https://img.discogs.com/4DFdU50peChXB7e7G62j5f797hM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3224812-1415551361-8680.jpeg.jpg" data-tags="party, september, head" role="button">
+September - Party in My Head (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/362900b0-e046-4c34-beb1-eb2ecd3bff64/19088259874-500.jpg" data-tags="rock, hot chelle rae" role="button">
 Hot Chelle Rae - Whatever (2011-11-24)
@@ -300,20 +309,11 @@ Hot Chelle Rae - Whatever (2011-11-24)
 <li data-cover="http://coverartarchive.org/release/ccecd601-45e2-411c-bae2-650dd504bf03/13992225037-500.jpg" data-tags="indie, electronic" role="button">
 The Ting Tings - Sounds From Nowheresville (2012-02-24)
 </li>
-<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, pop" role="button">
-Madonna - Girl Gone Wild (2012-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5bff73a-47b5-4c9e-a75e-0ef6747e413b/1804110926-500.jpg" data-tags="pop" role="button">
-Rita Ora - How We Do (Party) (2012-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">
-Bruno Mars - Locked Out Of Heaven (2012-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/6ff72d61-c72e-4a0f-ba53-9032e198fcd9/4101003069-500.jpg" data-tags="pop, female vocalists, dance" role="button">
 Inna - Party Never Ends (2013-03-02)
+</li>
+<li data-cover="https://img.discogs.com/xs2kzsgs8_yfR8loKhwZM1plzWE=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7573760-1444330054-4150.jpeg.jpg" data-tags="schlager, deutsch, party, german" role="button">
+Peter Wackel - Scheiss drauf! (...Mallorca ist nur einmal im Jahr) (2013-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9418e8f4-c5af-4354-8c24-bb7047ddc78d/7870652661-500.jpg" data-tags="party, deep house, running" role="button">
 Kiesza - Hideaway (2014-04-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:56:01.408Z
+date: 2021-04-12T11:56:07.013Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Agnes Obel - Aventine (2013-09-27)](http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg "Agnes Obel - Aventine (2013-09-27)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, new wave" role="button">
-Klaus Nomi - Simple Man (1982)
 </li>
 <li data-cover="https://img.discogs.com/TjNSUNtSpS69S-lTSfRJlnt6dpA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-447729-1115382853.jpg.jpg" data-tags="soundtrack" role="button">
 Michael Nyman - A Zed and Two Noughts (1985)
@@ -59,6 +56,9 @@ Xytras - Passage (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
 Stellamara - Star of the Sea (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/db18ce9e-4bd5-43b7-869f-35e4e83423ab/3460033404-500.jpg" data-tags="world, ethnic, ethereal" role="button">
+Vas - Sunyata (1997-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b296dcec-6745-42a3-81df-f933af14f689/1983167735-500.jpg" data-tags="dark folk, neo-classical, neoclassical, ethereal wave" role="button">
 Amber Asylum - The Natural Philosophy of Love (1997-05-13)
@@ -132,6 +132,9 @@ Emma Shapplin - Etterna (2002-05-27)
 <li data-cover="http://coverartarchive.org/release/0e693a55-e555-419a-8b46-bc0175d6969b/5525339515-500.jpg" data-tags="neoclassical" role="button">
 Elend - Winds Devouring Men (2003-04-14)
 </li>
+<li data-cover="https://img.discogs.com/tYm-LZy6pBZXWrwX3c8Qu6C2yxE=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12522256-1536926693-4199.jpeg.jpg" data-tags="progressive metal" role="button">
+Adagio - Underworld (2003-07-23)
+</li>
 <li data-cover="https://img.discogs.com/KAMvvNc8CN5ai-wJmjym_IcGqgs=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412532-1382725178-4636.jpeg.jpg" data-tags="gothic, gothic metal, dark ambient, neoclassical, theatre, neoclassical ambient, transym, this cover frightens me, a tears" role="button">
 Autumn Tears - Eclipse (2004)
 </li>
@@ -180,9 +183,6 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 <li data-cover="http://coverartarchive.org/release/246e7498-17dc-484d-94d1-28bb6b59b7e6/5525285126-500.jpg" data-tags="avant-garde, neoclassical, impossible for liberals to deal with, soundtrack to the apocalypse, neo-classical wave" role="button">
 Elend - A World in Their Screams (2007-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f9162d9-69ad-4291-9907-bd188fcadb62/2025425093-500.jpg" data-tags="atmospheric, darkwave, neoclassical darkwave" role="button">
-Artesia - Chants d'automne (2007-06)
-</li>
 <li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
 Helen Jane Long - Porcelain (2007-06-04)
 </li>
@@ -207,9 +207,6 @@ Les Fragments De La Nuit - Musique du Crépuscule (2008-06)
 <li data-cover="http://coverartarchive.org/release/5ddc7878-01f8-4d3b-a5d7-77667a666c25/19477974877-500.jpg" data-tags="power metal" role="button">
 Galneryus - Reincarnation (2008-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/87ba3797-98da-36f6-a96d-73e6e941b9eb/21104474215-500.jpg" data-tags="ambient, dream pop, folktronica, 00s, neoclassical, these songs should have been on the album" role="button">
 Soap&Skin - SOAP&SKIN (2008-10-05)
 </li>
@@ -230,6 +227,9 @@ Richard Skelton - Landings (2009-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4196ceb-6d9b-43f2-b144-f63f9273114e/2690732839-500.jpg" data-tags="post-rock, neoclassical" role="button">
 [The] Slowest Runner [in all the world] - The Flophouse Session (2009-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/f85f3266-2eba-42e7-9952-4dc106fc9bba/7599538562-500.jpg" data-tags="atmospheric, dark ambient, neoclassical, tribal ambient, neoclassical darkwave" role="button">
+Peter Bjärgö - A Wave of Bitterness (2009-08-28)
 </li>
 <li data-cover="https://img.discogs.com/e1jffuBQm07QIDbQa_WRYb9RkJA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2034066-1274102133.jpeg.jpg" data-tags="neoclassical" role="button">
 Valgeir Sigurðsson - Draumalandið (2009-11)
@@ -255,14 +255,14 @@ Ordo Rosarius Equilibrio - Songs 4 Hate & Devotion (2010-10-29)
 <li data-cover="http://coverartarchive.org/release/aa38a6e8-1836-4c1c-9a7c-58bddb7049ab/952998874-500.jpg" data-tags="ambient, ethereal, neoclassical, 2011 releases, neo-classic" role="button">
 Aythis - The New Earth (2011)
 </li>
+<li data-cover="http://coverartarchive.org/release/115bfce3-1ec9-428f-a778-466ac9897ba6/3600403003-500.jpg" data-tags="soundtrack, gothic, celtic, scores, neoclassical, govno, music i tried but didnt like" role="button">
+Adrian Von Ziegler - Across Acheron (2011-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/2661c4c6-3f7e-4e02-a8c0-9cf9d7a977ec/1419823430-500.jpg" data-tags="neoclassical" role="button">
 My Dying Bride - Evinta (2011-05-30)
 </li>
 <li data-cover="https://img.discogs.com/Ceuamf6hVxQfVR0XWGp18Hckcls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916395-1455291507-5311.jpeg.jpg" data-tags="post-rock, chamber, chamber pop, modern classical, neoclassical, art pop" role="button">
 Esmerine - La Lechuza (2011-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c1f6608-176c-407c-bce0-2d9afbd1813f/18279685376-500.jpg" data-tags="breakcore" role="button">
-goreshit - semantic compositions on death and its meaning (2011-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4825cfda-91f1-45eb-bade-064f60ffafb7/7168615000-500.jpg" data-tags="soundtrack, inspirational" role="button">
 Thomas Bergersen - Illusions (2011-06-24)

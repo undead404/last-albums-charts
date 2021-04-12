@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:56:01.404Z
+date: 2021-04-12T12:25:01.415Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -35,9 +35,6 @@ Heather Nova - South (2001-01-01)
 </li>
 <li data-cover="https://img.discogs.com/Y6VjojcPpRxfPinimmhjpcKu4Ck=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683953-1236714574.jpeg.jpg" data-tags="rock, shoegaze, my vitriol" role="button">
 My Vitriol - Finelines (2001-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
@@ -87,9 +84,6 @@ Lisa Miskovsky - Changes (2006-08-30)
 <li data-cover="http://coverartarchive.org/release/ced38f22-8389-3700-997e-1f8eeceda725/26869342430-500.jpg" data-tags="canada, alternative pop, 2000s" role="button">
 Barenaked Ladies - Barenaked Ladies Are Me (2006-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bbbf314-6c09-4955-af70-ac1e563edd7a/2083173659-500.jpg" data-tags="alternative, female vocalists" role="button">
-Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
-</li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
@@ -107,6 +101,9 @@ Jem - Down to Earth (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
 Razorlight - Slipway Fires (2008-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/427df8e8-4f9e-43e5-9cc7-20ed9bfdb183/8817407254-500.jpg" data-tags="experimental" role="button">
+Oh Land - Fauna (2008-11-10)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
@@ -158,6 +155,9 @@ Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
 <li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
 Owl City - All Things Bright and Beautiful (2011-06-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/cca9b255-f852-4313-bd0a-d558e032946a/2271458281-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
+Lana Del Rey - Video Games / Blue Jeans (2011-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
@@ -273,6 +273,9 @@ Damon Albarn - Everyday Robots (2014-04-25)
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/2f6277bd-d169-4494-9105-977d61cc4b6f/11544197939-500.jpg" data-tags="pop" role="button">
+Lily Allen - Sheezus (2014-05-02)
+</li>
 <li data-cover="https://img.discogs.com/X4BPyuwih9Ftjun2RLU7v5627hA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5659142-1399187504-3176.jpeg.jpg" data-tags="experimental" role="button">
 tUnE-yArDs - Nikki Nack (2014-05-05)
 </li>
@@ -314,9 +317,6 @@ The Asteroids Galaxy Tour - Bring Us Together (2014-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
-Foxes in Fiction - Ontario Gothic (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ba516d5-dcaa-46bd-85e1-54a747aa36ad/9623766426-500.jpg" data-tags="indie pop, columbia records" role="button">
 Haerts - HAERTS (2014-10-27)

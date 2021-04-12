@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:52:06.979Z
+date: 2021-04-12T12:32:01.458Z
 title: "celtic: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -50,6 +50,9 @@ Clannad - Sirius (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/b104242b-563b-4fc8-907f-c0ec83313c46/3342241188-500.jpg" data-tags="christmas, celtic" role="button">
 Loreena McKennitt - To Drive the Cold Winter Away (1987)
+</li>
+<li data-cover="https://img.discogs.com/z88AEtl3LGDSDLojtsJDT-zN55E=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1925944-1252874232.jpeg.jpg" data-tags="celtic" role="button">
+Nightnoise - At The End Of The Evening (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/7462b509-da71-4d79-9337-93989543bd25/17949419382-500.jpg" data-tags="celtic" role="button">
 Hothouse Flowers - People (1988)
@@ -266,9 +269,6 @@ Gaelic Storm - Bring Yer Wellies (2006-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd71e647-22fa-3975-803a-3df38034ca37/1339635847-500.jpg" data-tags="christmas" role="button">
 Celtic Woman - A Christmas Celebration (2006-10-03)
-</li>
-<li data-cover="https://img.discogs.com/QVBc4dAVMpDX63jInoTjRtU9ANA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16086129-1603184602-2174.jpeg.jpg" data-tags="celtic, moya brennan" role="button">
-Moya Brennan - Signature (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2afca94e-fa2e-3254-8924-7deb7eebf93a/3198564493-500.jpg" data-tags="celtic, new age, female vocalists" role="button">
 Loreena McKennitt - An Ancient Muse (2006-11-21)

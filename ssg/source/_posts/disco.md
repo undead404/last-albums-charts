@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T07:32:01.518Z
+date: 2021-04-12T11:55:01.406Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c549b917-ad9c-454f-bcdd-1a7b52de1455/7439486158-500.jpg" data-tags="pop, abba, disco, 70s" role="button">ABBA - ABBA (1975-04-21)</li>
 <li data-cover="https://img.discogs.com/-ZQltobK3EL4azz8vYdfFAXIbe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8209121-1570648722-6833.jpeg.jpg" data-tags="disco" role="button">Boney M. - Take the Heat Off Me (1976-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">Michael Jackson - Off the Wall (1979-08-10)</li>
 <li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">Boney M. - Daddy Cool (1991)</li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">Kylie Minogue - Fever (2001-10-05)</li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">Bee Gees - Number Ones (2004-11-01)</li>
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">Calvin Harris - I Created Disco (2007-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">Daft Punk - Random Access Memories (2013-05-17)</li>
@@ -24,14 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a3ce24a2-ddd3-3b38-93f6-aed1e16b4c74/18286980985-500.jpg" data-tags="pop" role="button">
 ABBA - Ring Ring (1973-03-26)
 </li>
-<li data-cover="https://img.discogs.com/9StqbEn9kWNdC3W7kdjl7KG4d-o=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472286-1299412248.jpeg.jpg" data-tags="pop, 70s" role="button">
-ABBA - Waterloo (1974-03-04)
-</li>
 <li data-cover="https://img.discogs.com/DJzA2wbTy5ZKefKup89z6aWm1pU=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4195722-1386235167-5085.jpeg.jpg" data-tags="disco, 70s" role="button">
 George McCrae - Rock Your Baby (1974-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/c549b917-ad9c-454f-bcdd-1a7b52de1455/7439486158-500.jpg" data-tags="pop, abba, disco, 70s" role="button">
-ABBA - ABBA (1975-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e5f46d4-b16f-3205-9a55-da193324a4e6/1079901776-500.jpg" data-tags="disco" role="button">
 Bee Gees - Children of the World (1976)
@@ -42,23 +36,11 @@ Boney M. - Remix 2005 (1976)
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
 </li>
-<li data-cover="https://img.discogs.com/q7UqhQX1KFPef5ar49d2yQ1Wgek=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-172681-1287510369.jpeg.jpg" data-tags="disco, pop, soul, nostalgic, candi staton, c staton" role="button">
-Candi Staton - Young Hearts Run Free (1976)
-</li>
 <li data-cover="https://img.discogs.com/-ZQltobK3EL4azz8vYdfFAXIbe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8209121-1570648722-6833.jpeg.jpg" data-tags="disco" role="button">
 Boney M. - Take the Heat Off Me (1976-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Arrival (1976-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a2f3054-da06-43c7-a406-bbafa7be934e/19928940811-500.jpg" data-tags="disco, 70s" role="button">
 Boney M. - Love for Sale (1977-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/99121ea0-12d3-4b5a-8ea0-04c61d228515/22950842826-500.jpg" data-tags="disco, pop, 70s" role="button">
-Donna Summer - I Remember Yesterday (1977-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/dd611007-adcc-4c48-b170-e9e41602ef74/3127908596-500.jpg" data-tags="pop, 70s, abba" role="button">
-ABBA - The Album (1977-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
@@ -74,9 +56,6 @@ Chic - Risque (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b4b26f7-7e2f-4029-94bd-8a94ebf79eff/13465941802-500.jpg" data-tags="70s, disco" role="button">
 Sister Sledge - We Are Family (1979)
-</li>
-<li data-cover="http://coverartarchive.org/release/4138236f-05c6-3494-b6d8-5d460024ed21/12551767179-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Voulez-Vous (1979-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fbb654a-e585-4f9c-acc6-97675008c6e7/19879260317-500.jpg" data-tags="disco" role="button">
 Donna Summer - Bad Girls (1979-04-25)
@@ -99,6 +78,9 @@ Michael Jackson - Off the Wall (1979-08-10)
 <li data-cover="https://img.discogs.com/g5NiQI_ScwITNe_KxdnHWxVPNTg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971744-1304973211.jpeg.jpg" data-tags="disco, funk" role="button">
 Kool & The Gang - Celebrate! (1980)
 </li>
+<li data-cover="http://coverartarchive.org/release/172ce985-9d36-4875-83ff-f883eea937fd/24347360269-500.jpg" data-tags="soul, disco, old-school hip hop" role="button">
+The Sugarhill Gang - Sugarhill Gang (1980)
+</li>
 <li data-cover="https://img.discogs.com/l3pHsob4QXA0qrMV7AYigfjPCBQ=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135038-1249251301.jpeg.jpg" data-tags="80s, soul" role="button">
 Diana Ross - Diana (1980-05-22)
 </li>
@@ -116,6 +98,9 @@ ABBA - The Visitors (1981-11-30)
 </li>
 <li data-cover="https://img.discogs.com/KpSzmKm1OaU1F9ZWokxYdUX9Uj4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3830309-1346082760-2042.jpeg.jpg" data-tags="disco, rnb" role="button">
 The Gap Band - Gap Band IV (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
+Queen - Hot Space (1982-05-21)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s, pop" role="button">
 Madonna - Madonna (1983-07-26)
@@ -146,9 +131,6 @@ Haddaway - The Album (1993-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec0a25fe-0106-4f80-880c-9be18224742a/1799679527-500.jpg" data-tags="70s, disco" role="button">
 Village People - The Best of Village People (1993-12-06)
-</li>
-<li data-cover="https://img.discogs.com/VeBLqRmN6T_vNX_TYOfcC2nK3K4=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340023-1469050479-3638.jpeg.jpg" data-tags="disco, funk" role="button">
-Carl Douglas - Kung Fu Fighting (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
@@ -182,6 +164,9 @@ Jamiroquai - A Funk Odyssey (2001-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/00d36368-87a1-4436-81bd-ae2142f8a0b5/10955052333-500.jpg" data-tags="disco, soul, funk, male vocalists, earth" role="button">
+Earth, Wind & Fire - The Essential Earth, Wind & Fire (2002-07-30)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
@@ -228,8 +213,14 @@ Chromeo - Fancy Footwork (2007-04-12)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5d52a4d-a73c-473e-90ef-73e94bd38613/13013229967-500.jpg" data-tags="disco" role="button">
+Dschinghis Khan - 7 Leben (2007-05-11)
+</li>
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - I Created Disco (2007-06-18)
+</li>
+<li data-cover="https://img.discogs.com/AJJGBWHRRDq-mS7TXshVuTdDlHE=/fit-in/454x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102142-1192142547.jpeg.jpg" data-tags="electropop, indie" role="button">
+Sohodolls - Ribbed Music for the Numb Generation (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
@@ -258,6 +249,9 @@ Taio Cruz - Rokstarr (2009-10-12)
 <li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
 Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
+Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
 </li>
@@ -278,6 +272,9 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
+</li>
+<li data-cover="https://img.discogs.com/m52RBwS0XWmnCin9GwowZHB92_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268808-1419614882-8378.jpeg.jpg" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
+La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/50520c33-49a9-409e-88a1-ae3e10867748/3194910998-500.jpg" data-tags="disco, downtempo, funk, synthpop, alternative dance, space disco, italo disco, neo-psychedelia, nu-disco, jf1" role="button">
 Thieves Like Us - Bleed Bleed Bleed (2012)
@@ -320,5 +317,8 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/527c41b5-78a5-4975-989e-38416f9c976b/7041430564-500.jpg" data-tags="disco, dance, house, funky, disco house" role="button">
 Duck Sauce - Quack (2014-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7de2b018-81f4-412d-ac41-fd6d47153b7c/6985401251-500.jpg" data-tags="disco, electronic, electronica, female vocalists, house, indietronica, american, male vocalists, alternative dance, vocal house, moshi moshi records" role="button">
+Hercules and Love Affair - The Feast of the Broken Heart (2014-05-26)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:25:12.617Z
+date: 2021-04-12T11:54:07.012Z
 title: "blackened death metal: 100 albums you must listen to before you die"
 ---
 ![Behemoth - The Satanist (2014-02-03)](https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg "Behemoth - The Satanist (2014-02-03)")
@@ -11,8 +11,8 @@ title: "blackened death metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/146dccdb-9b4f-4f6a-8f4f-815e3a05e8c2/19798876684-500.jpg" data-tags="blackened death metal, black metal" role="button">Belphegor - Goatreich - Fleshcult (2005-02-28)</li>
 <li data-cover="https://img.discogs.com/WB_xmmaubiBTqqITwzObxUMWvhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16230449-1605655724-1287.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">Belphegor - Bondage Goat Zombie (2008-04-11)</li>
 <li data-cover="https://img.discogs.com/K20rSftvVzZehMnMB2Y9L-xRBOs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464875-1331417514.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">Behemoth - Evangelion (2009-08-07)</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/7bb03acd-cc94-413c-b433-bc181b519efe/2878785120-500.jpg" data-tags="blackened death metal" role="button">Belphegor - Blood Magick Necromance (2011-01-14)</li>
+<li data-cover="https://img.discogs.com/K9tVnY6z0QLkPc4Ppp7dCT3kjjI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4586812-1595049604-4969.jpeg.jpg" data-tags="black metal, death metal, blackened death metal" role="button">Bölzer - Aura (2013-05-13)</li>
 <li data-cover="https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg" data-tags="blackened death metal, black metal, death metal" role="button">Behemoth - The Satanist (2014-02-03)</li>
 </ol>
 List of 100 - under the cut.
@@ -56,6 +56,9 @@ Sacramentum - The Coming Of Chaos (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/778d8ed1-a56e-3813-ae6a-97ba04f86c21/21781511761-500.jpg" data-tags="death metal, blackened death metal" role="button">
 God Dethroned - The Grand Grimoire (1997)
+</li>
+<li data-cover="https://img.discogs.com/iCJdiCc-ZJT1MxEg29hneD-R8NY=/fit-in/400x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7075003-1433110398-8378.jpeg.jpg" data-tags="black metal" role="button">
+Immortal - Blizzard Beasts (1997-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6d20d15-8029-4307-8f58-e49740f90fcf/5751543074-500.jpg" data-tags="black metal" role="button">
 Behemoth - Pandemonic Incantations (1998-03-02)
@@ -162,14 +165,14 @@ Archgoat - Whore of Bethlehem (2006-09-09)
 <li data-cover="http://coverartarchive.org/release/8d8e6041-9f4b-4553-ac4d-cf997e29598a/21893021794-500.jpg" data-tags="metalcore, blackcore" role="button">
 Abigail Williams - Legend (2006-10-03)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/b5c9ae48-e220-39b8-819e-3ad6bcdae905/18251737209-500.jpg" data-tags="melodic black metal, black metal" role="button">
 Graveworm - Collateral Defect (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/49f6af34-d643-385d-95c3-d7fba082fff8/3073081136-500.jpg" data-tags="death metal" role="button">
 Portal - Outre (2007-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc1d260b-f3be-3a62-9890-9b90bea13fd0/12012291508-500.jpg" data-tags="grindcore, black metal" role="button">
+Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c3cf820-1d8e-34a7-b080-ba0a1a6d9f3b/22462438951-500.jpg" data-tags="death metal" role="button">
 Hate - Morphosis (2008-02-04)
@@ -228,9 +231,6 @@ Dragged Into Sunlight - Hatred For Mankind (2009-09-25)
 <li data-cover="https://img.discogs.com/bi3H9eOErH2dITfVC6jifKp7KjU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1968408-1373452610-6113.jpeg.jpg" data-tags="death metal, black metal, blackened death metal" role="button">
 Belphegor - Walpurgis Rites - Hexenwahn (2009-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/961f99de-36c2-48bc-b3fa-7ada34637768/9334243654-500.jpg" data-tags="black metal, death metal, blackened death metal, symphonic black metal, melodic black metal" role="button">
 Dawn of Ashes - Genocide Chapters (2010)
 </li>
@@ -288,6 +288,9 @@ Pseudogod - Deathwomb Catechesis (2012-04-24)
 <li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - Vanitas (2012-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/22802938-73d1-4448-8662-f3e350c09b1c/13293965354-500.jpg" data-tags="death metal" role="button">
+Hate - Solarflesh (2013-02)
+</li>
 <li data-cover="https://img.discogs.com/K9tVnY6z0QLkPc4Ppp7dCT3kjjI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4586812-1595049604-4969.jpeg.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
 Bölzer - Aura (2013-05-13)
 </li>
@@ -308,9 +311,6 @@ Behemoth - The Satanist (2014-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcd74c76-7d56-434d-89c1-79d2f4525a6a/11723317954-500.jpg" data-tags="blackened death metal, atmospheric death metal, occult death metal" role="button">
 Irkallian Oracle - Grave Ekstasis (2014-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b33e3a3-943c-4ae1-8882-2265e9812099/6419938844-500.jpg" data-tags="doom metal, melodic death metal, dutch, underground, progressive death metal, debut, blackened death metal, melodic black metal, atmospheric black metal, progressive black metal" role="button">
-Shylmagoghnar - Emergence (2014-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16e910c-7cc7-49e7-942d-f4409381ddf8/8308362254-500.jpg" data-tags="death metal" role="button">
 Teitanblood - Death (2014-03-13)

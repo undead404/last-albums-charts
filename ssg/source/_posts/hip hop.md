@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:06:01.623Z
+date: 2021-04-12T12:13:01.484Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -273,9 +273,6 @@ LMFAO - Sorry for Party Rocking (2011-06-11)
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
 </li>
-<li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
-Professor Green - At Your Inconvenience (2011-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
@@ -302,6 +299,9 @@ J. Cole - Born Sinner (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce11ff7-7a5b-4a0b-b415-fa55e2cfca00/5976610444-500.jpg" data-tags="hip-hop" role="button">
 Earl Sweatshirt - Doris (2013-08-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
+The Weeknd - Kiss Land (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)

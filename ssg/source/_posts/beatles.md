@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:13:01.420Z
+date: 2021-04-12T12:43:01.418Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -50,9 +50,6 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
-</li>
-<li data-cover="https://img.discogs.com/35slQMt3mxNX2L70DKC90Yn60OI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4460496-1400323194-7281.jpeg.jpg" data-tags="psychedelic, beatlesque" role="button">
-Chad & Jeremy - The Ark (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/29d56360-a1c9-4494-b48b-80702ebc42d4/9864319308-500.jpg" data-tags="pop" role="button">
 The Idle Race - Idle Race (1969)
@@ -192,11 +189,17 @@ Deep Purple - 30: Very Best Of (1998-10-27)
 <li data-cover="https://img.discogs.com/mtYk8O8tR89JLjO8I4vifRi3OzI=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2742428-1399903048-5001.jpeg.jpg" data-tags="french, beatles, mes chansons" role="button">
 Nicoletta - 30 Ans De Passion (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/120b338c-a1f0-4a55-8496-b4348919a1c6/1429565479-500.jpg" data-tags="beatles, dead hensons, german cars vs american homes, gomorrans" role="button">
+The Beatles - John Barrett's Cassette Dubs, Volume 2: "Los Paranoias" (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f6f9de-fda6-4e0c-af96-43a964468235/25287024908-500.jpg" data-tags="classic rock" role="button">
 The Beatles - Last Night in Hamburg (1999-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/6bc6d12e-afeb-4bfa-89f9-9f4551235e8f/1337131720-500.jpg" data-tags="beatles" role="button">
+The Beatles - Another Tracks Of: With the Beatles! '63 (disc 1) (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9b7e6e4-59ce-49de-adfb-23064c2cba31/1491718433-500.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - Revolver / Magical Mystery Tour (2000)
@@ -233,9 +236,6 @@ DJ Nu-Mark & Pomo - Blend Crafters (2004-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff2f140-f704-4230-a8f4-35627868da91/10843537721-500.jpg" data-tags="chillout, ambient, downtempo, psychill" role="button">
 Phutureprimitive - Sub Conscious (2004-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf1d0781-961d-4396-930b-4533d3ee37fa/11404567568-500.jpg" data-tags="christmas" role="button">
-Allison Crowe - Tidings (2004-11-11)
 </li>
 <li data-cover="https://img.discogs.com/FSfw8azdAjExIl0-aAp2WgabWFY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9854196-1487427891-7104.jpeg.jpg" data-tags="folk, new york, indie rock, acoustic, beatles, sixties, blondie, violent femmes, bowie, the ramones, punk folk, t-rex, job" role="button">
 Makar - 99 Cent Dreams (2005)

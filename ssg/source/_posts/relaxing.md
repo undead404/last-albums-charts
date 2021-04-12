@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:02:01.402Z
+date: 2021-04-12T12:10:01.424Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -33,6 +33,9 @@ Karunesh - Secrets of Life (1995)
 <li data-cover="http://coverartarchive.org/release/645c5d80-c673-4f92-91c0-f7b03f5c22fe/4485701379-500.jpg" data-tags="instrumental, relax, flute, relaxing, labels - real music" role="button">
 Nicholas Gunn - The Music of the Grand Canyon (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/de43ed42-ae46-4aab-86bf-d044fb49a6e3/26672610950-500.jpg" data-tags="classical" role="button">
+Wolfgang Amadeus Mozart - Mozart for Meditation (1995-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
 KRS-One - KRS-One (1995-10-10)
 </li>
@@ -41,9 +44,6 @@ Enya - The Memory of Trees (1995-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
-</li>
-<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
-Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8711c67-1203-35db-8312-83b772b00307/9734071071-500.jpg" data-tags="electronic" role="button">
 Vangelis - Oceanic (1996-10-25)
@@ -120,9 +120,6 @@ Deuter - Like the Wind in the Trees (2002-08-06)
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a76f57c5-5918-4354-9031-69724f598d82/14579605414-500.jpg" data-tags="50 cent" role="button">
 50 Cent - Best of 50 Cent (2003)
 </li>
@@ -158,9 +155,6 @@ Shad - When This Is Over (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
-Rilo Kiley - 2005-06-18: The Grand Ballroom, San Francisco, CA, USA (2005-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/435b1bb9-f18f-463f-9df0-d9e41b1337e6/12035415500-500.jpg" data-tags="piano" role="button">
 Kevin Kern - Imagination's Light (2005-07-19)
@@ -213,6 +207,9 @@ Eluvium - Copia (2007-02-20)
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/96afbb05-6402-467e-a966-849e9cba33a1/1385609869-500.jpg" data-tags="pop, newage, new age and ambient, new age aesthetics, new age favorites, ethereal new age, new age electronic" role="button">
+Fauxliage - Fauxliage (2007-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/8888b7ee-e2b6-4a07-ae86-1f7977d8a574/4625841431-500.jpg" data-tags="hip hop, rap, smooth, relaxing, nature sounds, kaudogg" role="button">
 Havoc - The Kush (2007-09-18)
 </li>
@@ -233,9 +230,6 @@ City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/6cbdd132-ff95-44ed-ba64-8239070527f4/6618403033-500.jpg" data-tags="vocal trance" role="button">
-Oceanlab - Sirens of the Sea (2008-04-07)
 </li>
 <li data-cover="https://img.discogs.com/sq5FQNNQQ_APmhp59jSYDQ8x7ww=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040608-1260275159.jpeg.jpg" data-tags="cherish, rnb" role="button">
 Cherish - The Truth (2008-05-13)
@@ -291,6 +285,9 @@ Morcheeba - Blood Like Lemonade (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
+<li data-cover="https://img.discogs.com/faJjGky-XNP4ml_x5aIb49eoS6A=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2874995-1305666662.jpeg.jpg" data-tags="electronic" role="button">
+Keep Shelly In Athens - Keep Shelly in Athens (2011-04-30)
+</li>
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
 </li>
@@ -308,6 +305,9 @@ The Antlers - Drift Dive (2012-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a17f402-d6a0-47ee-9f8a-51873210165b/2857768992-500.jpg" data-tags="instrumental, ambient, chamber music, soundscape, relaxing" role="button">
+Theophany - Time's End: Majora's Mask Remixed (2012-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

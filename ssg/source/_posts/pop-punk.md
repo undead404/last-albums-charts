@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T17:31:06.904Z
+date: 2021-04-12T11:50:18.197Z
 title: "pop-punk: 100 albums you must listen to before you die"
 ---
 ![Yellowcard - Lights and Sounds (2006-01-18)](http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg "Yellowcard - Lights and Sounds (2006-01-18)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/D4TQiVXih8lUXHMWLda880kUDLA=/fit-in/486x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558652-1370617869-6756.jpeg.jpg" data-tags="emo" role="button">Saves the Day - Stay What You Are (2001-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/bd98ccf6-f2fe-4eef-8104-4acf5b315414/4724001049-500.jpg" data-tags="pop punk, emo" role="button">Brand New - Your Favorite Weapon (2001-10-09)</li>
+<li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">Fall Out Boy - Take This to Your Grave (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">Paramore - All We Know Is Falling (2005-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">+44 - When Your Heart Stops Beating (2006-10-03)</li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">Simple Plan - Simple Plan (2008-02-06)</li>
@@ -66,9 +66,6 @@ Treble Charger - Wide Awake Bored (2000-07-25)
 <li data-cover="http://coverartarchive.org/release/afd09c19-87f1-368e-8e9a-738186154f7f/25137146393-500.jpg" data-tags="ska punk, ska" role="button">
 Ska-P - Planeta Eskoria (2000-10-09)
 </li>
-<li data-cover="https://img.discogs.com/Up96RLoHR_w11-BVoiYSxnC5G_o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6735488-1425576086-8210.jpeg.jpg" data-tags="alternative" role="button">
-Attaque 77 - Trapos (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce3418e9-83f9-4ecb-acc5-82c47a67c9b5/6010970718-500.jpg" data-tags="rock" role="button">
 American Hi-Fi - American Hi-Fi (2001-02-27)
 </li>
@@ -92,6 +89,9 @@ The Apex Theory - Topsy-Turvy (2002-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
+</li>
+<li data-cover="https://img.discogs.com/T-2UhJb6yNxe4U8bg2J_FrqBFxk=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2487770-1287344991.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
+Avril Lavigne - Sk8er Boi (2002-08-27)
 </li>
 <li data-cover="https://img.discogs.com/5C_aOeOH1LzUDlkcydPm5fqB8Eg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-757826-1169995318.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
 Allister - Last Stop Suburbia (2002-10-01)
@@ -150,9 +150,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 <li data-cover="http://coverartarchive.org/release/d4e182d3-cbd8-4c21-84f1-4b3cad1e79c0/10226753401-500.jpg" data-tags="pop punk" role="button">
 All Time Low - The Party Scene (2005-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">
-Paramore - All We Know Is Falling (2005-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/94a2f175-2459-44d5-8675-42f37af700ac/20315280574-500.jpg" data-tags="indie, rock, alternative, pop-punk, indie piano rock, go get it" role="button">
 Socratic - Lunch For The Sky (2005-09-06)
 </li>
@@ -192,9 +189,6 @@ Ber-linn - Войналюбовь (2006-12-06)
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/123a3fc0-7a4a-3e52-8a7a-f757d1d27175/14769024533-500.jpg" data-tags="pop punk, punk rock" role="button">
-Yellowcard - Paper Walls (2007-07-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
@@ -203,6 +197,9 @@ ONE OK ROCK - ゼイタクビョウ (2007-11-21)
 </li>
 <li data-cover="https://img.discogs.com/QiRTf3V1hNpAWbrj5s8fCrzNsuY=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278845-1299574955.jpeg.jpg" data-tags="pop-punk" role="button">
 Vanilla Sky - Umbrella (2007-12-07)
+</li>
+<li data-cover="https://img.discogs.com/NtXL2gWHH_irTbS5icOyq5dkfj8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12542147-1537286671-2802.jpeg.jpg" data-tags="pop-punk" role="button">
+Paige - If You Say So (2008-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/aea43fa2-76c2-41e9-bde1-8256bf1b129b/18530402919-500.jpg" data-tags="pop punk" role="button">
 Teenage Bottlerocket - Warning Device (2008-01-08)
@@ -254,6 +251,9 @@ Weezer - Death to False Metal (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c4e2313-2ba1-4441-880b-334aee88f343/1977953917-500.jpg" data-tags="punk, emo, pop-punk" role="button">
 Fireworks - Bonfires EP (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7e1c739-1092-4b1d-a576-efbedf0e8025/9759977895-500.jpg" data-tags="post-punk, pop-punk, ukrainian" role="button">
+O.Torvald - В Тобі (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/76cbcc56-63ca-49a5-acae-e51dbdffc21a/12051865740-500.jpg" data-tags="pop rock, rock, female vocalists" role="button">
 Avril Lavigne - What The Hell (2011-01-01)

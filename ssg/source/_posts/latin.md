@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:48:12.583Z
+date: 2021-04-12T12:17:01.431Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -29,9 +29,6 @@ Santana - Abraxas (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">
 Arthur Verocai - Arthur Verocai (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, latin" role="button">
 Silvio Rodríguez - Rabo de Nube (1979)
@@ -111,6 +108,9 @@ Big Punisher - Capital Punishment (1998-04-28)
 <li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
 La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
+<li data-cover="https://img.discogs.com/sWN5rWWennYH8m0TwsiZAqCgNdM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-40609-1237493655.jpeg.jpg" data-tags="electronic, female vocalists, latin, lounge, m4rt1n1 s3c" role="button">
+Karen Ramirez - Distant Dreams (1998-07-20)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="latin, dr small jukebox, caribe atomico" role="button">
 Aterciopelados - Caribe Atómico (1998-07-28)
 </li>
@@ -137,6 +137,9 @@ Smash Mouth - Astro Lounge (1999-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">
 Santana - Supernatural (1999-06-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="latin" role="button">
+Lila Downs - La Sandunga (1999-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
 Lou Bega - A Little Bit Of Mambo (1999-07-19)
@@ -185,9 +188,6 @@ Jennifer Lopez - Jenny From the Block (2002-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0a27b1d-dbcf-3d6b-8beb-d066e57820d6/9614357626-500.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - This Is Me... Then (2002-11-19)
-</li>
-<li data-cover="https://img.discogs.com/7WLRGGEEkHDtegI1LguEadJUzCM=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-560756-1526697664-9198.jpeg.jpg" data-tags="rock" role="button">
-Los Lonely Boys - Los Lonely Boys (2003-08-12)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -261,6 +261,9 @@ Jennifer Lopez - Como Ama Una Mujer (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
 Pink Martini - Hey Eugene! (2007-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/1efdb640-9fc3-4707-bb17-29d31a133336/6403265894-500.jpg" data-tags="reggaeton" role="button">
+Zion - The Perfect Melody (2007-06-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="enrique iglesias, enrique" role="button">
 Enrique Iglesias - Insomniac (2007-06-11)
 </li>
@@ -305,9 +308,6 @@ Shakira - Sale el Sol (2010-10-14)
 </li>
 <li data-cover="https://img.discogs.com/m52RBwS0XWmnCin9GwowZHB92_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268808-1419614882-8378.jpeg.jpg" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3866c16-e8e8-4cd4-80f8-ec49d1ee73e9/964499089-500.jpg" data-tags="vocal jazz" role="button">
-Melody Gardot - The Absence (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a719c55-3336-42ff-9916-201f0e873035/17723051668-500.jpg" data-tags="latin" role="button">
 Los Amigos Invisibles - Repeat After Me (2013-04-02)

@@ -1,11 +1,10 @@
 ---
-date: 2021-04-11T20:50:01.394Z
+date: 2021-04-12T12:37:01.503Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![High on Fire - Death Is This Communion (2007-09-18)](http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg "High on Fire - Death Is This Communion (2007-09-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b55114c5-e463-35cb-b86d-da284aefede5/24919222054-500.jpg" data-tags="hard rock, stoner rock, stoner metal" role="button">Monster Magnet - Powertrip (1998-06-16)</li>
-<li data-cover="http://coverartarchive.org/release/ade2b8b9-82ea-444f-83ff-0bf2880e025a/14521543056-500.jpg" data-tags="stoner metal, stoner doom" role="button">Acid King - Busse Woods (1999)</li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Era Vulgaris (2007-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg" data-tags="stoner metal" role="button">High on Fire - Death Is This Communion (2007-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/c70dd03b-6166-44c5-8615-3e54b154ea70/3081389429-500.jpg" data-tags="stoner metal" role="button">The Sword - Gods of the Earth (2008-03-31)</li>
@@ -14,6 +13,7 @@ title: "stoner metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/05188f1d-652b-49d0-afb8-7b1d356c6b77/6036245193-500.jpg" data-tags="stoner metal, sludge, sludge metal" role="button">Kylesa - Spiral Shadow (2010-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/a7a943ec-37ee-46dd-b419-1a122faca975/3753046833-500.jpg" data-tags="doom metal, stoner metal" role="button">Electric Wizard - Black Masses (2010-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/4c3e36e8-fb54-4d09-8a26-a195d03fb61b/15732409922-500.jpg" data-tags="stoner metal" role="button">Elder - Dead Roots Stirring (2011-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">Queens of the Stone Age - ...Like Clockwork (2013-05-31)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -69,9 +69,6 @@ Monster Magnet - Powertrip (1998-06-16)
 <li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Label Society - Sonic Brew (1998-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/ade2b8b9-82ea-444f-83ff-0bf2880e025a/14521543056-500.jpg" data-tags="stoner metal, stoner doom" role="button">
-Acid King - Busse Woods (1999)
-</li>
 <li data-cover="https://img.discogs.com/16qApHScNcFc1G9v9R35mr3cqIg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-857872-1174003739.jpeg.jpg" data-tags="stoner rock" role="button">
 Clutch - Jam Room (1999)
 </li>
@@ -80,9 +77,6 @@ Alabama Thunderpussy - River City Revival (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/70315537-2635-469c-bba6-267731b794ae/2968759370-500.jpg" data-tags="alternative metal" role="button">
 CKY - Volume 1 (1999-02-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/892613a6-b906-4a9f-862d-9906f5a55435/12302818106-500.jpg" data-tags="stoner metal, sludge metal" role="button">
-Bongzilla - Stash (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/085ca322-9ece-4c71-b936-1eae919c832e/20172723282-500.jpg" data-tags="stoner rock, hard rock, heavy metal" role="button">
 Monster Magnet - God Says No (2000)
@@ -99,6 +93,9 @@ Orange Goblin - The Big Black (2000-05-16)
 <li data-cover="http://coverartarchive.org/release/bf7d7193-bb4e-4b26-9987-e97c6552b420/19910745373-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Church of Misery - Master of Brutality (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/c7c92eab-c53d-47d0-8ae4-92f22d5e3dd8/9285528262-500.jpg" data-tags="stoner rock" role="button">
+Clutch - Pure Rock Fury (2001-03-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ed1abbf-249d-4acd-b82d-be8276e1668b/15485201844-500.jpg" data-tags="stoner metal, southern metal" role="button">
 Alabama Thunderpussy - Staring At The Divine (2001-08-14)
 </li>
@@ -110,6 +107,9 @@ Electric Wizard - Let Us Prey (2002)
 </li>
 <li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Label Society - 1919 Eternal (2002-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3bfb6c1-9ce1-49d1-9f0f-32a219f46ff6/28744780847-500.jpg" data-tags="sludge metal, stoner metal" role="button">
+Weedeater - Sixteen Tons (2003-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - The Blessed Hellride (2003-03-29)
@@ -153,9 +153,6 @@ Acid King - The Early Years (2006-10)
 <li data-cover="http://coverartarchive.org/release/ddf19fba-0dd8-4b99-8216-4a6be9dfd867/16262070382-500.jpg" data-tags="southern rock" role="button">
 He Is Legend - Suck Out The Posion (2006-10-03)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/95dfca3e-6561-42b1-a889-31656b2a50a5/15485207727-500.jpg" data-tags="heavy metal, metal, stoner metal" role="button">
 Alabama Thunderpussy - Open Fire (2007-03-06)
 </li>
@@ -176,6 +173,9 @@ Weedeater - God Luck and Good Speed (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">
 Baroness - Red Album (2007-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ad7a74e-95cc-44c3-96da-856810245982/18258092157-500.jpg" data-tags="metalcore" role="button">
+Every Time I Die - The Big Dirty (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Death Is This Communion (2007-09-18)
