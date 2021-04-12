@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:16:06.913Z
+date: 2021-04-12T21:43:01.456Z
 title: "mpb: 100 albums you must listen to before you die"
 ---
 ![Mallu Magalhães - Pitanga (2011-09-30)](http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg "Mallu Magalhães - Pitanga (2011-09-30)")
@@ -38,6 +38,9 @@ Jorge Ben - Jorge Ben (1969)
 </li>
 <li data-cover="https://img.discogs.com/ZM-3Z78Eyk0OEVmyY4wMInKDghA=/fit-in/302x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254915-1340974587-7644.jpeg.jpg" data-tags="mpb" role="button">
 Gal Costa - Legal (1970)
+</li>
+<li data-cover="https://img.discogs.com/Txwq58-j2sXJW2E1PtePkUABshc=/fit-in/405x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4210154-1359032318-6203.jpeg.jpg" data-tags="soul, progressive rock, mpb, musica popular brasileira, samba soul, marcos valle" role="button">
+Marcos Valle - Garra (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">
 Arthur Verocai - Arthur Verocai (1972)
@@ -173,9 +176,6 @@ Luciana Mello - Assim Que Se Faz (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/59764657-11dd-49f9-8876-ec644e28ad01/14404776793-500.jpg" data-tags="mpb" role="button">
 Daniela Mercury - Sol Da Liberdade (2000-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/496b682d-88d2-4dc5-af48-3e92c358fe36/12746609142-500.jpg" data-tags="hip hop, mpb, all time favourites, brazilian popular music, mpb - 2000" role="button">
-Chico César - Chico César (2000-06-27)
 </li>
 <li data-cover="https://img.discogs.com/aWwkOGgqLiprrpKePRv_gZbdkE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073494-1478103358-6750.jpeg.jpg" data-tags="mpb" role="button">
 Ana Carolina - Ana Rita Joana Iracema e Carolina (2001)

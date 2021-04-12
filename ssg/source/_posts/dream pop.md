@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:59:01.459Z
+date: 2021-04-12T21:42:01.485Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -50,9 +50,6 @@ Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
-Azure Ray - Azure Ray (2001-01-16)
 </li>
 <li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
@@ -125,6 +122,9 @@ Delphic - Acolyte (2010-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg" data-tags="dream pop" role="button">
 Beach House - Teen Dream (2010-01-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/4dec5e45-b4e4-4b8b-86f3-3eb8fcc1c019/18748588666-500.jpg" data-tags="dream pop, eter, zachwyt absolutny" role="button">
+Sleep Party People - Sleep Party People (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc6f7a05-e1c4-4039-9eb3-8c8ccd37e6b1/13919864002-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Radio Dept. - Clinging to a Scheme (2010-04-19)

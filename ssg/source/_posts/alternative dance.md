@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:46:06.972Z
+date: 2021-04-12T20:49:01.457Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -66,8 +66,11 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="https://img.discogs.com/ic_jJXf96xxh8MNzICynN_a62Lc=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3942-1503379972-5000.jpeg.jpg" data-tags="shibuya-kei" role="button">
 Fantastic Plastic Machine - The Fantastic Plastic Machine (1997-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/70ebcf2e-10dd-473f-9974-3978c0ae3ca5/10348184655-500.jpg" data-tags="chillout, downtempo" role="button">
-Groove Armada - Northern Star (1998-03-09)
+<li data-cover="https://img.discogs.com/anlSeM53JZ0nbHCRCXeLO7yPjNw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-342613-1547564635-2911.jpeg.jpg" data-tags="alternative rock, alternative dance" role="button">
+Campag Velocet - Bon Chic Bon Genre (1999-09-27)
+</li>
+<li data-cover="https://img.discogs.com/3f0faCl3nS479S8Hgif2sIVBpYU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-824948-1220728113.jpeg.jpg" data-tags="synthpop" role="button">
+Antarctica - 81:03 (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b92ca5de-c74c-36c1-9a0c-e5db91fdce8d/24147114073-500.jpg" data-tags="90s, electronic" role="button">
 Pet Shop Boys - Nightlife (1999-10-09)
@@ -78,11 +81,11 @@ Depeche Mode - Dream On (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">
 New Order - Get Ready (2001-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ad12037-c209-4633-aac2-df273a8d63b4/17075314455-500.jpg" data-tags="alternative rock" role="button">
+Spiderbait - The Flight Of Wally Funk (2001-10-01)
+</li>
 <li data-cover="https://img.discogs.com/dRvgfR7AepIQPObN1J-eR15VdmI=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445543-1200259053.jpeg.jpg" data-tags="indie rock, alternative dance, 2010s, indifferent" role="button">
 Boxed In - Boxed In (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4555d5c-b0be-4f63-a47a-14dbcc31f0e3/15458088565-500.jpg" data-tags="electronic" role="button">
-Fluke - Progressive History X (2002-09-16)
 </li>
 <li data-cover="https://img.discogs.com/xNhbq7wdrCp41Cli9eWorBoOBUY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15694999-1596054295-8929.jpeg.jpg" data-tags="rock" role="button">
 The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
@@ -122,9 +125,6 @@ Dope Stars Inc. - Gigahearts (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/31c43149-fd3a-4930-aca0-94461324105e/25424358311-500.jpg" data-tags="electronic, electropop" role="button">
-Capsule - Sugarless GiRL (2007-02-21)
 </li>
 <li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)

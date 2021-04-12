@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:52:06.996Z
+date: 2021-04-12T21:44:07.065Z
 title: "canada: 100 albums you must listen to before you die"
 ---
 ![Broken Social Scene - Forgiveness Rock Record (2010-04-30)](https://img.discogs.com/nbedH4NYJi3OoHqX_jMnvbgFjcs=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275611-1588471881-8667.jpeg.jpg "Broken Social Scene - Forgiveness Rock Record (2010-04-30)")
@@ -10,9 +10,9 @@ title: "canada: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
 <li data-cover="https://img.discogs.com/Nflez_gNnQwbGxSZTBLr06kxhZk=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2671203-1295888993.jpeg.jpg" data-tags="indie rock, canadian" role="button">The New Pornographers - Challengers (2007-08-07)</li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">Caribou - Andorra (2007-08-17)</li>
-<li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">The Acorn - Glory Hope Mountain (2007-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/115f0914-5675-4b30-9278-2c001a37f74c/15358456181-500.jpg" data-tags="canada, parts of the body" role="button">Islands - Arm's Way (2008-05-19)</li>
 <li data-cover="https://img.discogs.com/nbedH4NYJi3OoHqX_jMnvbgFjcs=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275611-1588471881-8667.jpeg.jpg" data-tags="indie rock" role="button">Broken Social Scene - Forgiveness Rock Record (2010-04-30)</li>
+<li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">Feist - Metals (2011-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">Japandroids - Celebration Rock (2012-06-05)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,11 +24,11 @@ _________________
 <li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
 Neil Young - Neil Young (1968-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/045035b5-c765-4de7-87fa-912ebd3e73ae/18676624650-500.jpg" data-tags="rock" role="button">
+Bachman-Turner Overdrive - Head On (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/64d415df-c9a3-4701-b3d9-dcce731247f1/8679054516-500.jpg" data-tags="space age pop" role="button">
 Mort Garson - Mother Earth's Plantasia (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bcc031b-18eb-4055-b510-361060800261/4527165066-500.jpg" data-tags="folk, 70s" role="button">
-Joni Mitchell - Hejira (1976-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/25b760d8-4417-4626-b67a-c69c3461a5fa/4492916065-500.jpg" data-tags="80s, new wave" role="button">
 Men Without Hats - Rhythm of Youth (1982)
@@ -48,6 +48,9 @@ Annihilator - Annihilator (1988)
 <li data-cover="https://img.discogs.com/4z5eyQTm-gdJbamPSv1fgF5Q2EA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988922-1586265618-7719.jpeg.jpg" data-tags="punk, jazzcore" role="button">
 NoMeansNo - Wrong (1989)
 </li>
+<li data-cover="https://img.discogs.com/daPlDxnLmF-OWzL5luIwqoXaeto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395582-1124699846.jpg.jpg" data-tags="canadian, rock, folk, singer-songwriter, acoustic, leonard cohen" role="button">
+Leonard Cohen - SO LONG, MARIANNE (1989-06-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccd94fae-b441-34d7-a3cd-b0e9785033ec/6919771664-500.jpg" data-tags="rock, 80s, singer-songwriter" role="button">
 Neil Young - Freedom (1989-10-02)
 </li>
@@ -66,9 +69,6 @@ Front Line Assembly - Tactical Neural Implant (1992-04-21)
 <li data-cover="https://img.discogs.com/2OLNAifV0iBGrEzEMCvwY7geXVU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2951543-1433799288-4722.jpeg.jpg" data-tags="female vocalists, jane siberry" role="button">
 Jane Siberry - When I Was A Boy (1993-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/f92add03-42a5-391b-bb5f-c60e49592a5a/20748144784-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
-Indigo Girls - Swamp Ophelia (1994-05-10)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Alanis Morissette - You Oughta Know (1995-07-07)
 </li>
@@ -83,6 +83,9 @@ Leonard Cohen - More Best of Leonard Cohen (1997-10-07)
 </li>
 <li data-cover="https://img.discogs.com/gw9kVZbbGKlZ8ZP93UNkuHMVgpo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12671379-1539748031-9186.jpeg.jpg" data-tags="ebm" role="button">
 Front Line Assembly - Reclamation (1997-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b46d0e8-64e4-4d0f-8d7b-9cc490010e01/15332490631-500.jpg" data-tags="ambient, idm" role="button">
+cEVIN Key - Music For Cats (1998-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f47e641-aa91-4a9d-af30-82d83514889b/9710682175-500.jpg" data-tags="alternative rock" role="button">
 Bif Naked - I Bificus (1998-02-24)
@@ -120,6 +123,9 @@ Decoded Feedback - Mechanical Horizon (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/e6050473-005e-43c4-a92b-2b5a19e3d85b/27487453451-500.jpg" data-tags="leonard cohen" role="button">
 Leonard Cohen - The Essential Leonard Cohen (2002-10-22)
 </li>
+<li data-cover="https://img.discogs.com/j-WtPJJk2ReZr1oguNWyOVvoBh0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84138-1461290094-9747.jpeg.jpg" data-tags="war metal" role="button">
+Revenge - Triumph.Genocide.Antichrist (2003-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
 The New Pornographers - Electric Version (2003-04-25)
 </li>
@@ -153,9 +159,6 @@ Mare - Mare (2004-10-05)
 <li data-cover="http://coverartarchive.org/release/eece7a29-93da-4f04-8be6-5ad791d6f3ee/6538069215-500.jpg" data-tags="canadian, quebec, francophone" role="button">
 Les Cowboys Fringants - La Grand-Messe (2004-11-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="canadian, noise, experimental, canada, industrial" role="button">
-Ad·ver·sary - International Dark Skies (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/86a50d8d-122f-46ed-b66f-cfa9d157b996/10545505353-500.jpg" data-tags="electro, canada, canadian, quebec, montreal canada, quebecois, i love this song, ooooh yhaaaa" role="button">
 Tiga - Louder Than A Bomb (2005)
 </li>
@@ -168,11 +171,14 @@ The Deadly Snakes - Porcella (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/240c5f6d-a837-4fa8-9de5-5a9896b63b25/4400866664-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Cadence Weapon - Breaking Kayfabe (2005-12-06)
 </li>
-<li data-cover="https://img.discogs.com/oWEOm2NTSPj_Pn7BnOFmqzeygOU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7259141-1437388150-5821.jpeg.jpg" data-tags="indie, instrumental, canada" role="button">
-As the Poets Affirm - Awake (2006)
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="canada, celtic, celtic rock, g meantime" role="button">
+Greenwich Meantime - Greenwich Meantime (2006)
 </li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/f82aa3c2-a843-4f40-b20a-7dccd4632fd4/4818735464-500.jpg" data-tags="shoegaze" role="button">
+Au4 - On: Audio (2006-03-01)
 </li>
 <li data-cover="https://img.discogs.com/5WOfKeii4jS6lEp1EEC6gco5KQA=/fit-in/588x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654048-1206927526.jpeg.jpg" data-tags="slowcore" role="button">
 Barzin - My Life In Rooms (2006-04-03)
@@ -213,8 +219,8 @@ Tricot Machine - Tricot machine (2007-03-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, folk, singer-songwriter, female vocalist" role="button">
 Pascale Picard - Me, Myself & Us (2007-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2f1ef6a-e0b8-48b0-aa96-9ff9c6b20113/28819935253-500.jpg" data-tags="instrumental" role="button">
-Erik Mongrain - Fates (2007-06)
+<li data-cover="http://coverartarchive.org/release/b216cb76-fa01-4508-a62f-d5b334b9135a/16468143918-500.jpg" data-tags="hip-hop, canada, emusic" role="button">
+Grand Analog - Calligraffiti (2007-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d640072-3f0e-4c85-9f0e-86ee99d52e9e/8196424473-500.jpg" data-tags="metalcore, melodic death metal" role="button">
 The Agonist - Once Only Imagined (2007-07-20)
@@ -224,9 +230,6 @@ The New Pornographers - Challengers (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">
-The Acorn - Glory Hope Mountain (2007-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Lu5tuJsfuumpEaFJZEYhvvr1ihA=/fit-in/574x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50241-1112457177.jpg.jpg" data-tags="instrumental, post-rock, canada, atmospheric" role="button">
 Humanoid - Remembering Universe (2008-02-12)
@@ -246,8 +249,8 @@ Islands - Arm's Way (2008-05-19)
 <li data-cover="https://img.discogs.com/aOH-aOrdITynoNxpZolMf7uNL0U=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5039798-1468719468-8577.jpeg.jpg" data-tags="death metal" role="button">
 Kataklysm - Prevail (2008-05-23)
 </li>
-<li data-cover="https://img.discogs.com/Z71n3rILGhRwOhEL4derPC9IHhQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083132-1263044295.jpeg.jpg" data-tags="indie, creative commons" role="button">
-Brad Sucks - Out of It (2008-09-08)
+<li data-cover="http://coverartarchive.org/release/da44ac08-9889-434b-b9de-4ffe1e77d705/6546239333-500.jpg" data-tags="alternative rock, canada, canadian, quebec, francophone, quebecois, canadien, neo-trad" role="button">
+Les Cowboys Fringants - sur un air de déjà vu (2008-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
@@ -269,9 +272,6 @@ Black Mountain - Wilderness Heart (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
-</li>
-<li data-cover="https://img.discogs.com/49uqvTi8gVzBy8qtZBSBbWEnM2I=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994955-1310906772.jpeg.jpg" data-tags="indie, alternative, indie pop, canada, canadian, dreamy, dream pop, alternative pop, trio, dreampop, free downloads, 10s, free music, ontario, guelph, free download, netaudio, fully streamable tracks, bandcamp, downloadable, free albums, fully downloadable albums, free album, downloadable tracks, free streamable albums, webaudio, fully streamable album, self-released, fully streamable track, free streamable album, canadian underground, fully downloadable album" role="button">
-Mathemagic - II (2011-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c94d4857-b601-49e0-b579-86708030164e/5092099705-500.jpg" data-tags="pop punk, rock" role="button">
 Simple Plan - Get Your Heart On! (2011-06-14)
@@ -303,6 +303,9 @@ Homeshake - The Homeshake Tape (2013-01-29)
 <li data-cover="http://coverartarchive.org/release/e988bda1-3102-4a38-92ad-80b1bc240e59/7426431770-500.jpg" data-tags="instrumental, canada, moshi moshi records" role="button">
 Trophy Wife - Trophy Wife (2013-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/23ef95da-5f99-4115-90af-d36a5bf844e0/17336344927-500.jpg" data-tags="rock, punk, canada, folk metal, celtic rock, celtic punk, irish punk" role="button">
+Irish Moutarde - Raise 'em All (2013-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/a27c4597-8869-4732-8629-f0b84e5c5da2/5253512705-500.jpg" data-tags="manque music" role="button">
 Islands - Ski Mask (2013-09-17)
 </li>
@@ -317,8 +320,5 @@ Trust - Joyland (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/19148800-4da4-4884-9f48-5bc64101c5b8/9260423341-500.jpg" data-tags="10s" role="button">
 The New Pornographers - Brill Bruisers (2014-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
-Foxes in Fiction - Ontario Gothic (2014-09-23)
 </li>
 </ol>

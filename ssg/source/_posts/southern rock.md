@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:23:01.452Z
+date: 2021-04-12T21:04:01.467Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -53,9 +53,6 @@ Creedence Clearwater Revival - Mardi Gras (1972-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1aca4a06-8f21-4aaa-a049-d1758a111589/5814230484-500.jpg" data-tags="classic rock" role="button">
 Steppenwolf - 16 Greatest Hits (1973-02)
-</li>
-<li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
-Little Feat - Dixie Chicken (1973-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b15e1712-a98c-482b-ac86-6ef8c73d6f5d/28933604566-500.jpg" data-tags="blues rock" role="button">
 ZZ Top - Tres Hombres (1973-07-26)
@@ -159,6 +156,9 @@ Clay Walker - Greatest Hits (1998-06-09)
 <li data-cover="http://coverartarchive.org/release/5d998987-ab6d-4ffc-a5db-255436bb415a/3333569644-500.jpg" data-tags="classic rock, southern rock, 70s" role="button">
 Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/06e1d3a0-95da-4a3a-8840-a283c7ad8972/1188864324-500.jpg" data-tags="spanish rock, southern rock, the black crowes, carlos tarque, santi campillo, santiago campillo, tarque, el principio del fin, originales" role="button">
+M-Clan - Usar Y Tirar (1999)
+</li>
 <li data-cover="https://img.discogs.com/WiK-1OZ9OI_DiKWJMXnAm9S2tdM=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101246-1471092563-8075.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Edge Of Forever (1999-08-03)
 </li>
@@ -209,9 +209,6 @@ Warren Haynes - Live At Bonnaroo (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
-He Is Legend - I Am Hollywood (2004-11-02)
 </li>
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
 Lucero - Nobody's Darlings (2005-05-24)
@@ -311,6 +308,9 @@ Alabama Shakes - Hold On (2012-01-31)
 </li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">
 Alabama Shakes - Boys & Girls (2012-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/af23be22-e0cc-463f-abfc-8bae313b7aca/5545555432-500.jpg" data-tags="southern rock" role="button">
+Lynyrd Skynyrd - Last Of A Dyin' Breed (2012-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/edb1ad5b-af30-49ba-aa0b-a4628a606087/5493473864-500.jpg" data-tags="rock, southern rock" role="button">
 Kings of Leon - Mechanical Bull (2013-09-20)

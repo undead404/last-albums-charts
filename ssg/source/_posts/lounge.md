@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:46:06.929Z
+date: 2021-04-12T21:38:07.254Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -29,9 +29,6 @@ Cortex - Troupeau Bleu (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/64d415df-c9a3-4701-b3d9-dcce731247f1/8679054516-500.jpg" data-tags="space age pop" role="button">
 Mort Garson - Mother Earth's Plantasia (1976)
-</li>
-<li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">
-Moondog - H'art Songs (1978)
 </li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
@@ -138,6 +135,9 @@ Blue Six - Beautiful Tomorrow (2002-01-22)
 <li data-cover="https://img.discogs.com/vHC5aQ5Ih9yJGG6hKDbxldUVy9s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-103268-1254216768.jpeg.jpg" data-tags="lounge" role="button">
 Naomi - Everyone Loves You (2002-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/477e5f2b-09f5-4d5d-b3cb-dd3b852f597e/15485751824-500.jpg" data-tags="lounge, post rock" role="button">
+Vincent Gallo - Recordings of Music for Film (2002-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
@@ -171,9 +171,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/9stA8RDVNKgB7V7H7fokGCisbSU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444219-1417107720-4484.jpeg.jpg" data-tags="chillout" role="button">
 Vargo - Beauty (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
-Dilated Peoples - Neighborhood Watch (2004-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
 Afterlife - Speck Of Gold (2004-05-04)
 </li>
@@ -198,11 +195,11 @@ Hellsongs - Hymns in the Key of 666 (2005)
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
-Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
+</li>
+<li data-cover="https://img.discogs.com/tJ_JczmyGd8icoQsqrwE0Tqpvvc=/fit-in/250x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445134-1114609791.jpg.jpg" data-tags="female vocalist, jazz" role="button">
+Beady Belle - Closer (2005-05-16)
 </li>
 <li data-cover="https://img.discogs.com/FPbDBrsRRm9mRlnWMmVXdGOEHi0=/fit-in/363x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646578-1185925784.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Röyksopp - Only This Moment (2005-05-19)
@@ -311,6 +308,9 @@ Nneka - Soul Is Heavy (2011-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
+</li>
+<li data-cover="https://img.discogs.com/oPdkVK-vqlTllji4AJeFIWuofo8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275033-1360420938-2039.jpeg.jpg" data-tags="icelandic" role="button">
+Sin Fang - Flowers (2013-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/55a52293-b75f-4930-9615-86cf13d31361/7250007420-500.jpg" data-tags="jazz, lounge, vintage" role="button">
 Scott Bradlee & Postmodern Jukebox - Twist is the New Twerk (2014-01-31)

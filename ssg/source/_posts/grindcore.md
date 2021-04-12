@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:19:01.414Z
+date: 2021-04-12T21:36:12.698Z
 title: "grindcore: 100 albums you must listen to before you die"
 ---
 ![Bruno Mars - Grenade (2011-02-04)](http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg "Bruno Mars - Grenade (2011-02-04)")
@@ -11,7 +11,7 @@ title: "grindcore: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">Suicide Silence - The Cleansing (2007-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/cc1d260b-f3be-3a62-9890-9b90bea13fd0/12012291508-500.jpg" data-tags="grindcore, black metal" role="button">Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/d08330be-7e1b-4cc1-b9b9-a1662c0ad62f/14476655259-500.jpg" data-tags="experimental, grindcore, cybergrind" role="button">Genghis Tron - Board Up the House (2008-02-19)</li>
-<li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">iwrestledabearonce - It's All Happening (2009-06-02)</li>
+<li data-cover="http://coverartarchive.org/release/e5087f32-7218-3f54-a3c5-126704974c9a/9773347814-500.jpg" data-tags="grindcore" role="button">Napalm Death - Time Waits For No Slave (2009-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg" data-tags="grindcore, mars, bruno" role="button">Bruno Mars - Grenade (2011-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">Anaal Nathrakh - Vanitas (2012-10-15)</li>
 </ol>
@@ -63,6 +63,12 @@ Disrupt - Unrest (1994-08-01)
 <li data-cover="https://img.discogs.com/PpOikfgDzK9fN0Yy85Xs2p5_xJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385686-1224124156.jpeg.jpg" data-tags="grindcore" role="button">
 Brutal Truth - Need to Control (1994-11-20)
 </li>
+<li data-cover="https://img.discogs.com/HTTMajLwzygWehZYQE3BA21K0pw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519276-1378223386-6100.jpeg.jpg" data-tags="death metal, melodic death metal, death n roll" role="button">
+Carcass - Swansong (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/3940d3ef-36ee-4485-8b14-70a65f3906b9/26281067448-500.jpg" data-tags="metalcore, hardcore, mathcore" role="button">
+Converge - Petitioning the Empty Sky (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/0821d028-8ea3-4d04-a814-ea64a8eb342c/10372911420-500.jpg" data-tags="death metal" role="button">
 Carcass - Wake Up And Smell The Carcass (1996-11-12)
 </li>
@@ -71,12 +77,6 @@ Napalm Death - Inside the Torn Apart (1997-06-03)
 </li>
 <li data-cover="https://img.discogs.com/wkTSKHPUoBzHP15DFFcSvevSoyk=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-771583-1322919182.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - Killing on Adrenaline (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/87ea3402-adf6-4743-b587-fc42b9083409/11916328536-500.jpg" data-tags="grindcore, death metal" role="button">
-Napalm Death - Words From The Exit Wound (1998-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/fa44d7bd-289a-4a19-845d-64e5e7b534d0/16131894017-500.jpg" data-tags="thrash metal, metal, death metal, groove metal" role="button">
-Lamb of God - Burn the Priest (1999-04-13)
 </li>
 <li data-cover="https://img.discogs.com/thqyxtfNcl4libEDpz-h3LLRLeg=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167889-1446465002-9865.jpeg.jpg" data-tags="industrial death metal, cybergrind, death metal, brutal death metal" role="button">
 The Berzerker - The Berzerker (2000-04-10)
@@ -135,8 +135,14 @@ Daughters - Canada Songs (2003-08-12)
 <li data-cover="http://coverartarchive.org/release/5944fa5c-aaaf-444b-8850-2b26c214b47a/24127484514-500.jpg" data-tags="death metal" role="button">
 Misery Index - Retaliate (2003-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/964d92e8-f368-4942-935a-897f71a8eac7/16254480661-500.jpg" data-tags="mathcore" role="button">
+Ion Dissonance - Breathing Is Irrelevant (2003-09-02)
+</li>
 <li data-cover="https://img.discogs.com/bDtxivTKzlOS3h9pZu2zdbc05vE=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426263-1616216623-1757.jpeg.jpg" data-tags="grindcore" role="button">
 The Locust - The Locust (2004-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a54710e4-d167-3b12-8b68-36daf0218995/10372971637-500.jpg" data-tags="death metal" role="button">
+Carcass - Choice Cuts (2004-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/30ac2c6b-96a7-3a2b-a65c-2786d48457c5/11417251693-500.jpg" data-tags="grindcore" role="button">
 Nasum - Shift (2004-10-11)
@@ -168,11 +174,8 @@ Bury Your Dead - You Had Me At Hello (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
 The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
 </li>
-<li data-cover="https://img.discogs.com/JOMj2bpiUxvVE0oTmaH2X0YR3LU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750256-1250434738.jpeg.jpg" data-tags="grindcore, tfuj stary to tfuj ojciec" role="button">
-Head Wound City - Head Wound City (2005-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/05e0c9b2-7c36-3e54-9aa7-6a700c2e37c4/4552506140-500.jpg" data-tags="grindcore, industrial metal, industrial death metal" role="button">
-The Berzerker - World Of Lies (2006-01-30)
+<li data-cover="http://coverartarchive.org/release/c16b53d9-5ada-4f9c-a717-3a51e59cb20b/15662034852-500.jpg" data-tags="death metal" role="button">
+Cannibal Corpse - Kill (2006-03-21)
 </li>
 <li data-cover="https://img.discogs.com/8ErnF-yDamX6QWRx4CpESI3egVY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4311636-1361419900-3546.jpeg.jpg" data-tags="death metal" role="button">
 Misery Index - Discordia (2006-05-16)
@@ -204,17 +207,11 @@ I Declare War - Amidst the Bloodshed (2007)
 <li data-cover="http://coverartarchive.org/release/d95737c0-1d42-483e-858f-d2ebb406ab26/4831632618-500.jpg" data-tags="grindcore" role="button">
 Rotten Sound - Cycles (2007)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
 <li data-cover="https://img.discogs.com/euKJ-WSniGqg392u95cpBHMMFxE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893033-1298527580.jpeg.jpg" data-tags="grindcore, death metal, industrial death metal, industrial metal" role="button">
 The Berzerker - Animosity (2007-02-12)
 </li>
 <li data-cover="https://img.discogs.com/XdqLJmvm2bPOEIAp6G5hA8ECRbU=/fit-in/483x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-922770-1388153901-4381.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - War of Attrition (2007-03-06)
-</li>
-<li data-cover="https://img.discogs.com/Diq8M44UYEL_S_-jsTHs5lMNBkM=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785498-1243184421.jpeg.jpg" data-tags="grindcore" role="button">
-Trap Them - Sleepwell Deconstructor (2007-04-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Despised Icon - The Ills of Modern Man (2007-05-22)
@@ -237,6 +234,9 @@ Carnifex - Dead in My Arms (2007-09-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Suicide Silence - The Cleansing (2007-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/7efed507-a680-4768-aa9f-26bb47ece6ea/25898543404-500.jpg" data-tags="death metal, brutal death metal" role="button">
+Benighted - Icon (2007-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc1d260b-f3be-3a62-9890-9b90bea13fd0/12012291508-500.jpg" data-tags="grindcore, black metal" role="button">
 Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)
 </li>
@@ -255,8 +255,8 @@ Whitechapel - This Is Exile (2008-07-08)
 <li data-cover="https://img.discogs.com/vZDRbpjhPnHgrym6CIh0kei6VrM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5647367-1398879446-7979.jpeg.jpg" data-tags="deathcore, grindcore" role="button">
 Dr. Acula - Below Me (2008-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/242abb92-9f2e-42a2-84f6-c2eba36c4888/4819384459-500.jpg" data-tags="grindcore, screamo" role="button">
-United Nations - United Nations (2008-09-09)
+<li data-cover="https://img.discogs.com/bi7v8fd3sxHOnLbUDjMHGemO64s=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1872755-1606028192-1670.jpeg.jpg" data-tags="grindcore" role="button">
+See You Next Tuesday - Intervals (2008-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/007621c5-a077-4eff-a44c-73e16bc1bb69/23431173937-500.jpg" data-tags="hardcore" role="button">
 Trap Them - Seizures In Barren Praise (2008-11-11)
@@ -273,14 +273,17 @@ Napalm Death - Time Waits For No Slave (2009-01-23)
 <li data-cover="http://coverartarchive.org/release/1bf7e9de-9423-4927-8e87-00dd2d36a5bf/10075743407-500.jpg" data-tags="grindcore" role="button">
 Agoraphobic Nosebleed - Agorapocalypse (2009-04-14)
 </li>
-<li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">
-iwrestledabearonce - It's All Happening (2009-06-02)
+<li data-cover="https://img.discogs.com/voV8zFvRyRwj-VRNNVt62VEDnfA=/fit-in/161x157/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1734020-1239910830.jpeg.jpg" data-tags="grindcore" role="button">
+Brutal Truth - Evolution Through Revolution (2009-04-14)
 </li>
 <li data-cover="https://img.discogs.com/NNdQ6T8L7pX1vTxAYz6J1w5Myr8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787536-1243318202.jpeg.jpg" data-tags="grindcore, powerviolence" role="button">
 Magrudergrind - Magrudergrind (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8000d1e-ed5f-4fe8-b5a4-921b133ce0be/2650883035-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c542a82-ece3-4a6a-90c8-9e85ecb5ce28/4691767238-500.jpg" data-tags="grindcore, hardcore, sludge, us, sludgecore" role="button">
+Gaza - He Is Never Coming Back (2009-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
@@ -302,9 +305,6 @@ Anaal Nathrakh - Passion (2011-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b79f5ad-eccd-4e2f-ad52-2ddd7c28f4c9/5843906320-500.jpg" data-tags="deathcore" role="button">
 Suicide Silence - The Black Crown (2011-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d5c51e6-f00f-4570-b136-85fc53e9e3a8/26433855871-500.jpg" data-tags="experimental, mathcore" role="button">
-iwrestledabearonce - Ruining It For Everybody (2011-07-22)
 </li>
 <li data-cover="https://img.discogs.com/T8rL9h6A7WiDMcplH4sntUcfpnE=/fit-in/383x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4384240-1363458962-6269.jpeg.jpg" data-tags="grindcore" role="button">
 Napalm Death - Utilitarian (2012-02-24)

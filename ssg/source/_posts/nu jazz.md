@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:03:01.955Z
+date: 2021-04-12T21:27:01.492Z
 title: "nu jazz: 100 albums you must listen to before you die"
 ---
 ![The Cinematic Orchestra - Motion (1999-09-01)](http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg "The Cinematic Orchestra - Motion (1999-09-01)")
@@ -72,9 +72,6 @@ Big Muff - Music from the Aural Exciter (1998-02-24)
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/d73e4ff8-99ad-44bd-b9bf-b0a2a17160ca/19323060499-500.jpg" data-tags="jazz" role="button">
-Gilles Peterson - INCredible Sound Of Gilles Peterson (1999)
-</li>
 <li data-cover="https://img.discogs.com/iYuVeT1AGYHstPA7WA84reQate4=/fit-in/500x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673568-1411704841-2842.jpeg.jpg" data-tags="acid jazz" role="button">
 Incognito - No Time Like The Future (1999-04-07)
 </li>
@@ -89,6 +86,9 @@ Leszek Możdżer - CHOPIN Impressions (2000)
 </li>
 <li data-cover="https://img.discogs.com/qvLLEa766UJ2Q2EEa-HSJ4cgYfA=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4147987-1525879418-8457.jpeg.jpg" data-tags="nu jazz, him, albuns i need" role="button">
 Him - Our Point of Departure (2000)
+</li>
+<li data-cover="https://img.discogs.com/Uq9sOkhyR_SZelwrj8ynsiiS0Ls=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93166-1303304528.jpeg.jpg" data-tags="chillout, downtempo" role="button">
+Hefner - Residue (2000)
 </li>
 <li data-cover="https://img.discogs.com/9pxgBdip5Ya3hoGyU-pk-B6Nnew=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653402-1545699178-4973.jpeg.jpg" data-tags="post-rock" role="button">
 Karate - Unsolved (2000-10-24)

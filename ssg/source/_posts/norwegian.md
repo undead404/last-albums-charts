@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:10:01.907Z
+date: 2021-04-12T21:31:06.981Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -32,6 +32,9 @@ Darkthrone - Transilvanian Hunger (1994-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal" role="button">
 Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
+</li>
+<li data-cover="https://img.discogs.com/ivRECV6_En_nkYZJZmv2T45vbLU=/fit-in/400x388/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7562854-1444078656-7731.jpeg.jpg" data-tags="black metal" role="button">
+Darkthrone - Panzerfaust (1995-06-06)
 </li>
 <li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
@@ -96,6 +99,9 @@ Motorpsycho - Phanerothyme (2001-09-03)
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/eddc7436-b9bc-4cae-9b81-daebfab8b8a7/5429036495-500.jpg" data-tags="black metal, viking metal, folk metal, melodic black metal" role="button">
+Windir - 1184 (2001-11-19)
+</li>
 <li data-cover="https://img.discogs.com/peoBjbfraqsHjHzvaC8dI47Q9GE=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572521-1190480851.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
 </li>
@@ -104,9 +110,6 @@ Arcturus - The Sham Mirrors (2002-04-22)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
 Nils Petter Molvær - NP3 (2002-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
-Thomas Dybdahl - Stray Dogs (2003)
 </li>
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
@@ -135,9 +138,6 @@ Lene Marlin - Another Day (2003-09-18)
 <li data-cover="https://img.discogs.com/WZsQSYa2ubtl0ZEgf9ZZTUEGa8c=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047409-1296707319.jpeg.jpg" data-tags="rock" role="button">
 Gåte - Iselilja (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
-Hanne Hukkelberg - Little Things (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c1208a3-e4e8-4b86-987f-2c17f27e05b7/21329941175-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Maria Mena - White Turns Blue (2004)
 </li>
@@ -162,17 +162,11 @@ Sirenia - Sirenian Shores (2004-10-11)
 <li data-cover="https://img.discogs.com/uKtmNQ6fx9K2W90T2e_AGmmob4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383109-1466835134-7529.png.jpg" data-tags="black metal" role="button">
 Strid - Strid (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
-Ane Brun - A Temporary Dive (2005-02-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/a33025aa-4204-4a0d-b186-4f81616a6273/4168415571-500.jpg" data-tags="norwegian" role="button">
 Jim Stärk - Jim Stärk (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="rock, alternative rock, 00s" role="button">
 Madrugada - The Deep End (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/251009a7-5aef-4dae-8ae9-01835f29dc58/18362230912-500.jpg" data-tags="new rave, electronic, datarock" role="button">
-Datarock - Datarock Datarock (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/123c1973-6bcf-4d65-9af9-77f0e16ec532/3357365837-500.jpg" data-tags="rock, punk rock, death punk, punk, hard rock" role="button">
 Turbonegro - Party Animals (2005-05-09)
@@ -228,9 +222,6 @@ Postgirobygget - Tidløs (2007-06)
 <li data-cover="https://img.discogs.com/HLaC7oMWARF7BWVvg-uPdqFWQxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1186600-1229617974.jpeg.jpg" data-tags="hip-hop" role="button">
 Madcon - So Dark The Con Of Man (2007-12-03)
 </li>
-<li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Ane Brun - Changing of the Seasons (2008-03-10)
-</li>
 <li data-cover="https://img.discogs.com/rQ_mlsrUfs2sjJCo7bZDXUDcjeA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773198-1264529090.jpeg.jpg" data-tags="electropop, pop" role="button">
 Annie - Don't Stop (2008-08)
 </li>
@@ -276,6 +267,9 @@ Nils Petter Molvær - Baboon Moon (2011-09-16)
 <li data-cover="https://img.discogs.com/eE2kVJmgUzz5HHPDhuHtfx5Shrk=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305596-1330446806.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Taake - Noregs Vaapen (2011-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/28cde98e-e921-4f12-889d-23b22c80a111/2538672194-500.jpg" data-tags="progressive rock" role="button">
+Airbag - All Rights Removed (2011-10-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1d4d4d8-b4fe-4b03-949a-ba5015bc1936/7765773453-500.jpg" data-tags="female vocalists, norwegian, post hardcore, hardcore punk, deathpop" role="button">
 Blood Command - Funeral Beach (2012)
 </li>
@@ -290,6 +284,9 @@ Lindstrøm & Todd Terje - Lanzarote (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f9dc0ce-3139-48c9-9d90-a9c5592baddc/10099907545-500.jpg" data-tags="norwegian" role="button">
 Adelén - Bombo (2013-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/06762490-130b-4505-9257-0a03631a9834/13224839959-500.jpg" data-tags="black metal, heavy metal" role="button">
+Darkthrone - The Underground Resistance (2013-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3b02657-913b-4580-9fff-855f0e7cb8a5/11609849261-500.jpg" data-tags="neofolk" role="button">
 Wardruna - Runaljod – Yggdrasil (2013-03-15)
@@ -311,6 +308,9 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff0d170d-96c1-419c-94d6-bd90568d85c9/7072530560-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">
 Morten Harket - Brother (2014-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/c02ebff5-99b4-466d-ae8b-8ff62c2e64e2/7704534784-500.jpg" data-tags="soft rock, norwegian, norway, yacht rock, norge" role="button">
+Bernhoft - Islander (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/374bb533-2dc5-4b3c-ab06-679c82473de8/9208647489-500.jpg" data-tags="rock, hard rock, norwegian" role="button">
 Spidergawd - Spidergawd (2014-04-25)

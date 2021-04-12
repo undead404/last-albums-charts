@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:28:24.296Z
+date: 2021-04-12T21:35:01.489Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/ac145397-4d4e-4f9b-ae94-ebbf2a7cc5a6/23440279381-500.jpg" data-tags="post-punk" role="button">
 Echo & the Bunnymen - Porcupine (1983-02-04)
 </li>
-<li data-cover="https://img.discogs.com/gC0dUaLOoy_W9Md2ATRA40Cly4Q=/fit-in/480x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234557-1105576335.jpg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
-Spacemen 3 - The Perfect Prescription (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
+</li>
+<li data-cover="https://img.discogs.com/6Nkszn5tJFDJywElV8Q0g26itWc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3222714-1399314519-9565.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
+Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
 Mercury Rev - Yerself Is Steam (1991)
@@ -177,14 +177,14 @@ Zach Hill - FACE TAT (2010-10-19)
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
+<li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">
+Braids - Native Speaker (2011-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="https://img.discogs.com/FR40N422nP5djNhesTfiTkMcSFQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916148-1307131262.jpeg.jpg" data-tags="indie, alternative, swedish, indie pop" role="button">
 Peter Bjorn and John - Gimme Some (2011-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/ovSxiuDh8VwF-TF7keyKe9je-v8=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873285-1305045271.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Gang Gang Dance - Eye Contact (2011-05-09)
@@ -294,6 +294,9 @@ Temples - Sun Structures (2014-02-10)
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
 </li>
+<li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
+St. Vincent - St. Vincent (2014-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/467e3807-0848-4009-9f73-1694642b8787/8667724427-500.jpg" data-tags="indie" role="button">
 Foster the People - Supermodel (2014-03-14)
 </li>
@@ -314,9 +317,6 @@ The Brian Jonestown Massacre - Revelation (2014-05-19)
 </li>
 <li data-cover="https://img.discogs.com/gRK9qXxMhL4A8iR9BH6UhZ0qAds=/fit-in/494x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5951182-1447146079-7615.jpeg.jpg" data-tags="2014 releases, 2014: albums" role="button">
 Blonde Redhead - Barragán (2014-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
-Car Seat Headrest - How To Leave Town (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/486252bb-3639-4ee2-a53e-149a1550b2c4/8921051502-500.jpg" data-tags="psychedelic pop" role="button">
 Panda Bear - Panda Bear Meets the Grim Reaper (2015-01-12)

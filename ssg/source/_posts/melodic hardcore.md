@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:05:01.650Z
+date: 2021-04-12T20:54:01.465Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -42,6 +42,9 @@ Pennywise - Full Circle (1997-04-22)
 <li data-cover="https://img.discogs.com/qS1pgx4O5AkX22znlBsXIHqp3Yg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383697-1386630926-9272.jpeg.jpg" data-tags="melodic hardcore, pop punk" role="button">
 Lifetime - Jersey's Best Dancers (1997-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d1ea267-602f-4572-94c1-6c6ca2be0438/3198098000-500.jpg" data-tags="metalcore" role="button">
+Atreyu - Visions (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/a25d7f06-643f-31ea-b378-43bbc445458a/23691230295-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Strung Out - Twisted By Design (1998-05-05)
 </li>
@@ -56,9 +59,6 @@ NOFX - The Decline (1999-11-23)
 </li>
 <li data-cover="https://img.discogs.com/y31CTOsKV5Ub_SY9UmWcNqA7LzY=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4633945-1370558660-7579.jpeg.jpg" data-tags="punk rock, skate punk" role="button">
 NOFX - Pump Up the Valuum (2000-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
-A Static Lullaby - A Static Lullaby (2001)
 </li>
 <li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
@@ -77,9 +77,6 @@ Dillinger Four - Situationist Comedy (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/klcWXJGcipcwMGBjApfyG2e5Ztk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810275-1608482333-3173.jpeg.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Hopesfall - The Satellite Years (2002-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
-The Early November - For All Of This (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/29911ee4-301b-4192-924e-24db9e973227/15248581026-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Does This Look Infected? (2002-11-25)
@@ -119,9 +116,6 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/lHgIf8qkkgfvpEYMx1B7b0Tkc14=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146361-1195852068.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Strung Out - Exile In Oblivion (2004-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
-He Is Legend - I Am Hollywood (2004-11-02)
 </li>
 <li data-cover="https://img.discogs.com/TCqUIMXeGooGzBjsEK6YDO3MbZI=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3453623-1330972438.jpeg.jpg" data-tags="melodic hardcore" role="button">
 No Trigger - Extinction In Stereo (2004-12-22)
@@ -197,6 +191,9 @@ For the Fallen Dreams - Changes (2008-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/d867ea81-1452-4b94-a8b3-1bb7f26162ea/11894360653-500.jpg" data-tags="punk rock" role="button">
+No Use for a Name - The Feel Good Record of the Year (2008-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
 The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
@@ -293,6 +290,9 @@ While She Sleeps - This Is The Six (2012-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e8bf44f-35bf-4b5d-8d26-fdbf128bedeb/3185047343-500.jpg" data-tags="post-hardcore" role="button">
 The Amity Affliction - Chasing Ghosts (2012-09-07)
+</li>
+<li data-cover="https://img.discogs.com/-7IC7phbxjvNwt4zt4w87gM2dZw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4519874-1367191569-2612.jpeg.jpg" data-tags="alternative rock, pop punk, melodic hardcore, mylova" role="button">
+Citizen - Young States (2012-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64e3ca3-ea88-4119-ac93-01b5c1657cbf/7391916512-500.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Being As An Ocean - Dear G-d... (2012-10-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:50:01.664Z
+date: 2021-04-12T21:14:01.467Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -26,9 +26,6 @@ Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
-A Static Lullaby - A Static Lullaby (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
@@ -266,6 +263,9 @@ A Skylit Drive - Wires...And the Concept of Breathing (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)
+</li>
+<li data-cover="https://img.discogs.com/COEhQswRqj3w291QCfboU3vY4Ww=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4182836-1606578090-2128.jpeg.jpg" data-tags="electronicore, hardcore" role="button">
+Sky Eats Airplane - Sky Eats Airplane (2008-07-22)
 </li>
 <li data-cover="https://img.discogs.com/G_2D0AjMs78K4xMs5169gOnfx9Q=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3168720-1318866783.jpeg.jpg" data-tags="emocore, screamo, post-hardcore, post hardcore" role="button">
 Hopes Die Last - Six Years Home (2008-08-04)

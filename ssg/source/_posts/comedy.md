@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:36:01.481Z
+date: 2021-04-12T21:19:01.480Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -159,9 +159,6 @@ David Cross - It's Not Funny (2004-05-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up, fantastic comedy albums" role="button">
 Patton Oswalt - Feelin' Kinda Patton (2004-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/03902c46-d06b-452b-b76b-889982f0a166/25695956075-500.jpg" data-tags="indie, british, punk, alternative, post-punk" role="button">
-The Ordinary Boys - Over the Counter Culture (2004-08-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e5adb4d-68a8-493d-be9c-095286bab959/2981060202-500.jpg" data-tags="indie rock" role="button">
 We Are Scientists - The Wolf's Hour (2004-12-01)
 </li>
@@ -194,6 +191,9 @@ Lewis Black - The Carnegie Hall Performance (2006-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6551d04f-5e9a-454f-8ec5-9d3b83daf6b8/24943965929-500.jpg" data-tags="a capella" role="button">
 Wise Guys - Radio (2006-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/243ebed1-6392-4b8f-9d1e-04b9a42674f3/21936725535-500.jpg" data-tags="comedy" role="button">
+Eugene Mirman - En Garde, Society! (2006-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
 Kyle Cease - One Dimple (2006-07-11)

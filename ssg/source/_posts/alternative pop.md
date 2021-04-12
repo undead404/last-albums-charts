@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:25:01.415Z
+date: 2021-04-12T20:51:01.465Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -30,17 +30,11 @@ The Cardigans - First Band On The Moon (1996-08-10)
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
 </li>
-<li data-cover="https://img.discogs.com/xokyBz5hzFNuqZ2yH9JdepMHH7M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1158868-1197154991.jpeg.jpg" data-tags="soul, pop rock, alternative pop, bermudian" role="button">
-Heather Nova - South (2001-01-01)
-</li>
 <li data-cover="https://img.discogs.com/Y6VjojcPpRxfPinimmhjpcKu4Ck=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683953-1236714574.jpeg.jpg" data-tags="rock, shoegaze, my vitriol" role="button">
 My Vitriol - Finelines (2001-03-05)
 </li>
 <li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b99e882-bce7-4d9e-a607-0ba2cd132b5f/15055745410-500.jpg" data-tags="pop, rock, alternative pop, benchmark production, my cds" role="button">
-Lisa Miskovsky - Fallingwater (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/1afe7e41-7c77-4e13-90e5-f170404ad3df/13703071855-500.jpg" data-tags="alternative, brit-pop, alternative britpop, alternative rock, 90s" role="button">
 Suede - Singles (2003-10-20)
@@ -69,6 +63,9 @@ Tally Hall - Marvin's Marvelous Mechanical Museum (2005-10-24)
 <li data-cover="https://img.discogs.com/R6AZzsVfSvPq6SAPVefqqk6YUWk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474219-1398882231-8755.jpeg.jpg" data-tags="punk rock" role="button">
 The Lawrence Arms - Oh! Calcutta! (2006-03-07)
 </li>
+<li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
+Kate Havnevik - Melankton (2006-04-02)
+</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
@@ -83,6 +80,9 @@ Lisa Miskovsky - Changes (2006-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ced38f22-8389-3700-997e-1f8eeceda725/26869342430-500.jpg" data-tags="canada, alternative pop, 2000s" role="button">
 Barenaked Ladies - Barenaked Ladies Are Me (2006-09-08)
+</li>
+<li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
+Silverchair - Young Modern (2007-03-31)
 </li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
@@ -108,9 +108,6 @@ Oh Land - Fauna (2008-11-10)
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/ecbd906b-5fcf-4813-92a6-fd7ff95ea533/1323011485-500.jpg" data-tags="indie pop" role="button">
-Florence + the Machine - Between Two Lungs (2009-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">
 Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
@@ -125,9 +122,6 @@ Sarah Blasko - As Day Follows Night (2009-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fb4f073-94e0-4f6b-bcd2-8b9a48dafdbb/12165987773-500.jpg" data-tags="indie pop" role="button">
-Coma Cinema - Blue Suicide (2010)
 </li>
 <li data-cover="https://img.discogs.com/HkebpGdFZnYhGEobY3j3sWs8lE4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2336448-1277852804.jpeg.jpg" data-tags="pop, swedish" role="button">
 Amanda Jenssen - Happyland (2010-04-30)
@@ -152,9 +146,6 @@ Lykke Li - Wounded Rhymes (2011-02-11)
 </li>
 <li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
-</li>
-<li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
-Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cca9b255-f852-4313-bd0a-d558e032946a/2271458281-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Video Games / Blue Jeans (2011-10-16)
@@ -230,6 +221,9 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="https://img.discogs.com/i170_FtE9UJVOulIkjmVSw3pASI=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4911323-1379266102-8380.jpeg.jpg" data-tags="country, alternative rock, folk, indie rock, americana, alternative country, alternative pop, alternative country rock" role="button">
 Neko Case - The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You (Deluxe Edition) (2013-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
+Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
@@ -320,5 +314,11 @@ Perfume Genius - Too Bright (2014-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ba516d5-dcaa-46bd-85e1-54a747aa36ad/9623766426-500.jpg" data-tags="indie pop, columbia records" role="button">
 Haerts - HAERTS (2014-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/948c3f7f-5c26-49d2-9b0e-0281a8394517/16241880584-500.jpg" data-tags="electropop, synthpop, alternative" role="button">
+Javiera Mena - Otra Era (2014-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/486252bb-3639-4ee2-a53e-149a1550b2c4/8921051502-500.jpg" data-tags="psychedelic pop" role="button">
+Panda Bear - Panda Bear Meets the Grim Reaper (2015-01-12)
 </li>
 </ol>

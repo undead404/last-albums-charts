@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:00:01.483Z
+date: 2021-04-12T21:28:01.514Z
 title: "country rock: 100 albums you must listen to before you die"
 ---
 ![Neil Young - Harvest (1972-02-14)](http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg "Neil Young - Harvest (1972-02-14)")
@@ -33,9 +33,6 @@ Creedence Clearwater Revival - Green River (1969-08-03)
 <li data-cover="http://coverartarchive.org/release/6d7a7eae-5b6d-482e-a81f-484681aee4ba/11456627147-500.jpg" data-tags="classic rock, southern rock" role="button">
 Creedence Clearwater Revival - Willy and the Poor Boys (1969-11-02)
 </li>
-<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
-John Cale - Vintage Violence (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/aacae183-fd7c-4340-996f-95aa722e74b1/8749942734-500.jpg" data-tags="classic rock" role="button">
 Creedence Clearwater Revival - Cosmo's Factory (1970-07-25)
 </li>
@@ -56,6 +53,9 @@ Link Wray - Link Wray (1971)
 </li>
 <li data-cover="https://img.discogs.com/1aU5XamsS6vJn7ytrsAh_dZO7Qo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1007163-1274470698.jpeg.jpg" data-tags="country rock" role="button">
 New Riders Of The Purple Sage - New Riders Of The Purple Sage (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/4aa4f661-368e-4223-ad8f-6128874d07a6/4284637629-500.jpg" data-tags="country rock" role="button">
+The Flying Burrito Brothers - The Flying Burrito Brothers (1971-05)
 </li>
 <li data-cover="https://img.discogs.com/FAHDgDKPUnNwIUsyqd7DRawSdXA=/fit-in/514x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268808-1366587714-2810.jpeg.jpg" data-tags="classic rock" role="button">
 Pure Prairie League - Bustin' Out (1972)
@@ -93,14 +93,8 @@ The Marshall Tucker Band - Carolina Dreams (1977)
 <li data-cover="http://coverartarchive.org/release/9951493a-4842-4d0b-bfdc-8f15d015b582/15026139423-500.jpg" data-tags="70s, country rock" role="button">
 The Band - Islands (1977-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
-Warren Zevon - Excitable Boy (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6659a64-1110-49dd-a2b0-a9186a8a4ea2/2532765137-500.jpg" data-tags="classic rock, country rock" role="button">
-Eagles - The Long Run (1979-09-24)
-</li>
-<li data-cover="https://img.discogs.com/12XinCrK1-ERBM5rie8bnGzRqO4=/fit-in/593x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892381-1169932845.jpeg.jpg" data-tags="country rock, classic rock, rock" role="button">
-The Georgia Satellites - Georgia Satellites (1986)
+<li data-cover="http://coverartarchive.org/release/19b14dde-1849-44ad-9ff6-87d4203dff5e/12070171329-500.jpg" data-tags="country rock" role="button">
+The Flying Burrito Brothers - Farther Along: The Best of the Flying Burrito Brothers (1988-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
@@ -113,6 +107,9 @@ Chet Atkins & Mark Knopfler - Neck And Neck (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/298f4cce-65e8-3051-9bb8-7ab67606d2c7/10149749129-500.jpg" data-tags="guitar, mark knopfler" role="button">
 Chet Atkins And Mark Knopfler - Neck And Neck (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
+Uncle Tupelo - No Depression (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c624a5-a8ce-4875-92ee-bb351f46225a/17019722494-500.jpg" data-tags="classic rock, folk" role="button">
 Crosby, Stills & Nash - CSN (1991-10-15)
@@ -150,6 +147,9 @@ Eagles - Hell Freezes Over (1994-11-07)
 <li data-cover="https://img.discogs.com/yeAJknSUVk5kfG5pYyO2rjrCxec=/fit-in/475x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7238534-1436879650-7431.jpeg.jpg" data-tags="country" role="button">
 Garth Brooks - The Hits (1994-12-12)
 </li>
+<li data-cover="https://img.discogs.com/R0egZsTiJ4jGp6EUVkewsm0XhiU=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-493498-1424651929-5356.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
+Guided by Voices - Alien Lanes (1995-04-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/df50ebf9-5411-4f39-b5d6-4036903f0e34/936161960-500.jpg" data-tags="singer-songwriter, folk rock" role="button">
 Jim Croce - I Got A Name (1995-11)
 </li>
@@ -173,6 +173,9 @@ Shania Twain - Shania Twain (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0aad6166-e00f-40cf-b59e-1700fa102825/17554569612-500.jpg" data-tags="country rock, modern country, hum2check, wf" role="button">
 Rodney Carrington - Hangin' With Rodney (1998-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
+Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
 <li data-cover="https://img.discogs.com/0kmYGwSSSxRsDnz89HiCzXcF_60=/fit-in/400x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178124-1198605880.jpeg.jpg" data-tags="rock, female vocalists, 90s, sheryl crow" role="button">
 Sheryl Crow - The Globe Sessions (1998-09-18)
@@ -207,6 +210,9 @@ Eagles - The Complete Greatest Hits (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/99dccf04-5813-493a-9277-ec4df7b0ef09/13886519569-500.jpg" data-tags="country, toby keith" role="button">
 Toby Keith - Shock'n Y'All (2003-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/8568a76b-6b83-36e8-a6d2-a0d0d6fcdff7/4106992170-500.jpg" data-tags="country" role="button">
+Gretchen Wilson - Here for the Party (2004-05-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/1240c510-7015-4484-baac-ce17f5277ea1/7383589652-500.jpg" data-tags="rock" role="button">
 John Mellencamp - Words & Music: John Mellencamp's Greatest Hits (2004-10-19)
 </li>
@@ -221,9 +227,6 @@ Eagles - Eagles (2005-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
-</li>
-<li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
-The White Stripes - Blue Orchid (2005-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4dec3817-f24f-4679-affd-9151761f59c2/6895436559-500.jpg" data-tags="country" role="button">
 Jason Aldean - Jason Aldean (2005-07-26)
@@ -255,11 +258,11 @@ Shooter Jennings - The Wolf (2007-10-23)
 <li data-cover="http://coverartarchive.org/release/dbfb6b7b-86d5-387a-bee2-43f61a5a5075/12897948332-500.jpg" data-tags="classic rock, rock, eagles" role="button">
 Eagles - Long Road Out of Eden (2007-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d67e6a0-27fd-4db3-8e63-fdd46306ce46/23129490649-500.jpg" data-tags="americana, country rock" role="button">
-Levon Helm - Dirt Farmer (2007-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/caef4165-95e3-43fb-a6c1-f8919bf7c67d/8627199651-500.jpg" data-tags="country" role="button">
 Little Big Town - A Place To Land (2007-11-06)
+</li>
+<li data-cover="https://img.discogs.com/xQs8WhGKc2-Mc0gI2hUENvI3unI=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885565-1254519818.jpeg.jpg" data-tags="rock" role="button">
+Mudcrutch - Mudcrutch (2008-03-25)
 </li>
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
@@ -305,9 +308,6 @@ Bob Dylan - Tempest (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9d2628e-5ab4-4dad-b587-46baee46317d/4308942357-500.jpg" data-tags="country, kkk country, racist country" role="button">
 Florida Georgia Line - Here's to the Good Times (2012-12-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b624c2b6-a84a-46f5-b690-c923e3aed417/10229915468-500.jpg" data-tags="country" role="button">
-Darius Rucker - True Believers (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/82907832-2fca-4a1f-a8de-b2b4d0f719b7/5542526527-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 of Montreal - Lousy With Sylvianbriar (2013-10-08)

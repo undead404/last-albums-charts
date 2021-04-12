@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:16:06.971Z
+date: 2021-04-12T21:00:01.596Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -65,6 +65,9 @@ The Rolling Stones - Their Satanic Majesties Request (1967-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/48134939-3bfb-4148-9916-2ec5f1ff136a/1978861377-500.jpg" data-tags="psychedelic, 60s" role="button">
+The United States of America - The United States Of America (1968-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
@@ -144,9 +147,6 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">
-Shpongle - Are You Shpongled? (1998-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
@@ -159,9 +159,6 @@ Dead Meadow - Dead Meadow (2000)
 <li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 </li>
-<li data-cover="https://img.discogs.com/G_lQGAvP2uMhUYgKP2sny3aAodE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019236-1464300306-9378.jpeg.jpg" data-tags="electronic, psytrance" role="button">
-Infected Mushroom - Converting Vegetarians (2003-04-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/99e39642-cae5-4061-9800-751108bc650b/6477557415-500.jpg" data-tags="dub, ambient" role="button">
 Ott - Blumenkraft (2003-05-13)
 </li>
@@ -171,14 +168,8 @@ Animal Collective - Sung Tongs (2004-05-03)
 <li data-cover="http://coverartarchive.org/release/887f53f8-4a26-4281-a659-019b07fe829e/3263073661-500.jpg" data-tags="experimental" role="button">
 Ataxia - Automatic Writing (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
-Infected Mushroom - IM the Supervisor (2004-09-10)
-</li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/1f333f1e-e33d-4271-bb7a-9f0dcf7c4988/3697544961-500.jpg" data-tags="psychedelic" role="button">
-Shpongle - Nothing Lasts... But Nothing Is Lost (2005-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
@@ -216,9 +207,6 @@ The Coral - Roots & Echoes (2007-08-06)
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">
 MGMT - Oracular Spectacular (2007-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/913fd1ba-4f98-47b9-8e58-a495066f94c2/10298509218-500.jpg" data-tags="psychedelic, chillout" role="button">
-Younger Brother - The Last Days Of Gravity (2007-10-15)
-</li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
@@ -227,6 +215,9 @@ Black Mountain - In the Future (2008-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
 Radiohead - The Best Of (2008-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
+Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
@@ -264,6 +255,9 @@ Tame Impala - Innerspeaker (2010-05-21)
 <li data-cover="https://img.discogs.com/fk5BiJ91Z_K3T0C7SNktSmqB6mc=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3610607-1337281517-5573.jpeg.jpg" data-tags="indie rock, psychedelic" role="button">
 The Coral - Butterfly House (2010-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
+Black Mountain - Wilderness Heart (2010-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
@@ -294,6 +288,9 @@ Goat - World Music (2012-08-20)
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
+Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">
 Tame Impala - Lonerism (2012-10-05)
 </li>
@@ -320,5 +317,8 @@ Mac DeMarco - Salad Days (2014-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
+Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

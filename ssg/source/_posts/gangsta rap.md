@@ -1,11 +1,10 @@
 ---
-date: 2021-04-12T16:00:01.741Z
+date: 2021-04-12T21:15:01.640Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">2Pac - 2Pacalypse Now (1991-11-12)</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
@@ -14,6 +13,7 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
+<li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">G-Unit - Beg For Mercy (2003-11-14)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -41,9 +41,6 @@ DJ Quik - Quik Is The Name (1991-07-01)
 </li>
 <li data-cover="https://img.discogs.com/XvX9_Kx__SrkTiWRGAMlhTOEE_0=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225151-1177019002.jpeg.jpg" data-tags="rap, gangsta rap, hardcore hip-hop, west coast rap" role="button">
 MC Ren - Kizz My Black Azz (1992-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
-Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
@@ -99,6 +96,9 @@ Tha Dogg Pound - Dogg Food (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/eae05f09-15ab-467f-a81e-53ecf2e7d825/4088802731-500.jpg" data-tags="gangsta rap" role="button">
+MC Ren - The Villain In Black (1996-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
 </li>
@@ -107,9 +107,6 @@ Mobb Deep - Hell on Earth (1996-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
 Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
-Big Punisher - Capital Punishment (1998-04-28)
 </li>
 <li data-cover="https://img.discogs.com/i3Plihomtgk6DMmhTt8bs2BjIxo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2051207-1597799463-5023.jpeg.jpg" data-tags="rap, dmx" role="button">
 DMX - It's Dark And Hell Is Hot (1998-05-19)
@@ -248,6 +245,9 @@ Chamillionaire - The Sound of Revenge (2005-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/251ece47-ce0b-4e3c-9ae4-08b93674f330/1328218136-500.jpg" data-tags="hip-hop, hip hop, rap, bounce, american, gangsta rap, 00s, southern rap, southern hip-hop, top25, us number one, new orleans rap" role="button">
 Juvenile - Reality Check (2006-02-27)
+</li>
+<li data-cover="https://img.discogs.com/Rob0S8e4YrDleKhM4suo0xsqG8Q=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1412574-1458669137-1469.jpeg.jpg" data-tags="hip-hop, gangsta rap, dipset" role="button">
+Hell Rell - Streets Wanna Know (2006-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6628cbde-215d-4f9f-a181-3295b2159473/1432403429-500.jpg" data-tags="hip hop, r&b" role="button">
 Rick Ross - Hustlin' (2006-06-06)

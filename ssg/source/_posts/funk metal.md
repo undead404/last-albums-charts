@@ -1,12 +1,12 @@
 ---
-date: 2021-04-12T12:20:01.485Z
+date: 2021-04-12T21:37:01.484Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">Faith No More - The Real Thing (1989-06-20)</li>
+<li data-cover="https://img.discogs.com/YqqCs70buzegtoFW7myFLVnsQ8U=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000806-1508266484-8892.jpeg.jpg" data-tags="funk metal" role="button">Primus - Frizzle Fry (1990-05-31)</li>
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">Primus - Sailing The Seas Of Cheese (1991-05-14)</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">Faith No More - Angel Dust (1992-06-08)</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">Korn - Korn (1994-10-11)</li>
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
@@ -21,6 +21,12 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/384e7f8a-03f8-3c02-b3f6-a009c565a74d/1354285652-500.jpg" data-tags="funk rock" role="button">
+Mother's Finest - Mother's Finest (1976)
+</li>
+<li data-cover="https://img.discogs.com/0x1ebxNF-ogWgPfP95HovlFLTOY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5193513-1459492495-7614.jpeg.jpg" data-tags="heavy metal, hard rock, funk metal, southern rock, funk rock" role="button">
+Mother's Finest - Iron Age (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
@@ -96,9 +102,6 @@ Blind Idiot God - Cyclotron (1992)
 <li data-cover="http://coverartarchive.org/release/8ff3dc75-ab63-41aa-b071-5d610e2aac06/10710572538-500.jpg" data-tags="hard rock" role="button">
 Saigon Kick - The Lizard (1992-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
-</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
@@ -138,6 +141,9 @@ Living Colour - Pride (1995)
 <li data-cover="http://coverartarchive.org/release/bdc38381-8c0e-4e56-b42b-fb49f4e37803/8311816749-500.jpg" data-tags="hard rock, funk metal, alternative metal, industrial metal, rapcore, nu-metal" role="button">
 Powerman 5000 - The Blood Splat Rating System (1995)
 </li>
+<li data-cover="https://img.discogs.com/QnJty0_w4dPYqnY7Fc7CpOYoEro=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1277518-1205802307.jpeg.jpg" data-tags="crossover" role="button">
+Phunk Junkeez - Injected (1995-04-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/0ed5e9a0-8b60-45e3-aba6-2166bcc32e4c/8479500461-500.jpg" data-tags="alternative rock" role="button">
 Bloodhound Gang - Use Your Fingers (1995-07-28)
 </li>
@@ -161,9 +167,6 @@ Korn - Life Is Peachy (1996-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce4722b7-7d58-4f7d-b76d-cb4b37fb661b/1069838540-500.jpg" data-tags="metal, nu metal" role="button">
 Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
-</li>
-<li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
-Faith No More - Album of the Year (1997-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
 Sugar Ray - Floored (1997-06-24)
@@ -246,14 +249,14 @@ Sick Puppies - Welcome to the Real World (2001-09-03)
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/697d31a7-6edc-4ed2-acf8-501de3cbd8bf/5083852483-500.jpg" data-tags="experimental, progressive metal, avant-garde" role="button">
-Sleepytime Gorilla Museum - Grand Opening and Closing (2001-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/a0a7b0e2-df05-4ca3-b267-a706b53adae0/25413813801-500.jpg" data-tags="rock, alternative, funk metal, more handclaps" role="button">
 Incubus - Are You In? (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf2f5de6-1eee-4c86-8362-3785643b9176/1853017669-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks" role="button">
 O'Funk'illo - En El Planeta Aseituna (2002)
+</li>
+<li data-cover="https://img.discogs.com/JvCLsnMqUO246k80X-d9cE7jiyQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044383-1602171200-9772.jpeg.jpg" data-tags="progressive metal" role="button">
+Planet X - Moonbabies (2002-07-29)
 </li>
 <li data-cover="https://img.discogs.com/atNPJQE8YDqOjQSUSGKXAX58m3w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1888876-1324824836.jpeg.jpg" data-tags="rock, fusion, progressive alternative metal, fk move" role="button">
 Freak Kitchen - Move (2002-10-23)
@@ -278,9 +281,6 @@ Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
 Mortifera - Vastiia Tenebrd Mortifera (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
-O'Funk'illo - No Te Cabe Na' (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/87eea847-2dd4-47ae-9e18-bb12270ad1cb/11803984907-500.jpg" data-tags="alternative rock" role="button">
 Faith No More - The Platinum Collection (2005-12-05)

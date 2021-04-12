@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:04:01.507Z
+date: 2021-04-12T21:40:07.126Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -180,6 +180,9 @@ Radiohead - Amnesiac (2001-06-04)
 <li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
 Regina Spektor - 11:11 (2001-07-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/df7194b1-fe52-4a11-bd84-558767a40cce/9700555797-500.jpg" data-tags="jazz" role="button">
+Billie Holiday - Lady Day: The Complete Billie Holiday On Columbia (1933-1944) (2001-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
@@ -197,9 +200,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Jamie Cullum - Twentysomething (2003-10-20)
-</li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
-Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)

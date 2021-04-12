@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:37:01.471Z
+date: 2021-04-12T21:13:01.472Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -48,6 +48,9 @@ American Football - American Football (1999-09-14)
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/c99bcef0-0809-42c0-8fe7-7273d3a59d0f/9767229393-500.jpg" data-tags="pop punk" role="button">
+Saves the Day - Through Being Cool (1999-11-02)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Dashboard Confessional - The Swiss Army Romance (2000-11-14)
 </li>
@@ -92,9 +95,6 @@ My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-0
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">
-The Early November - For All Of This (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)

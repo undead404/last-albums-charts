@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:25:06.990Z
+date: 2021-04-12T21:33:12.649Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -32,9 +32,6 @@ Elvis Presley - Elvis' Christmas Album (1957-10-15)
 </li>
 <li data-cover="https://img.discogs.com/gKzx7gZgJ62N_j0LfcpvlExBR9Y=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9484094-1481380990-7327.jpeg.jpg" data-tags="christmas, christmas music" role="button">
 Johnny Mathis - Merry Christmas (1958-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/c29389bc-e5e5-42b8-ad85-e17229274967/5963192194-500.jpg" data-tags="christmas" role="button">
-Dean Martin - A Winter Romance (1959-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/88b9f6d5-90bd-4259-aba5-cb133a10bef5/5963174439-500.jpg" data-tags="christmas" role="button">
 Ella Fitzgerald - Ella Wishes You A Swinging Christmas (1960)
@@ -113,6 +110,9 @@ Mannheim Steamroller - A Fresh Aire Christmas (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3fe3f1-6933-44f0-be24-70f1b8cab492/11201683677-500.jpg" data-tags="christmas" role="button">
 Amy Grant - Home For Christmas (1992-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a842a765-0aa4-4ecd-a4cc-527f512354f8/5952076156-500.jpg" data-tags="christmas, christmas soul" role="button">
+Boyz II Men - Christmas Interpretations (1993-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/86ca59bc-54b5-42e4-a030-1d711d2969a0/2493200310-500.jpg" data-tags="christmas" role="button">
 Harry Connick, Jr. - When My Heart Finds Christmas (1993-10-26)

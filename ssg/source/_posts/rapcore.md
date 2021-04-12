@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:26:01.429Z
+date: 2021-04-12T21:01:06.969Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")

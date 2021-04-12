@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T12:48:01.471Z
+date: 2021-04-12T20:58:01.463Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
+<li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">Xzibit - At The Speed Of Life (1996-10-01)</li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
@@ -45,14 +45,14 @@ DJ Quik - Quik Is The Name (1991-07-01)
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
 </li>
+<li data-cover="https://img.discogs.com/7KZDZT4pqsFlPizQEUAz-U4NUUg=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-359853-1216759650.jpeg.jpg" data-tags="west coast rap" role="button">
+Above the Law - Black Mafia Life (1992)
+</li>
 <li data-cover="https://img.discogs.com/t3M8KbY6mgx5Cyt2iP6mmBUj_vc=/fit-in/250x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6680346-1428127536-9334.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
 Kid Frost - East Side Story (1992-04-21)
 </li>
 <li data-cover="https://img.discogs.com/XvX9_Kx__SrkTiWRGAMlhTOEE_0=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225151-1177019002.jpeg.jpg" data-tags="rap, gangsta rap, hardcore hip-hop, west coast rap" role="button">
 MC Ren - Kizz My Black Azz (1992-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
-Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
@@ -153,6 +153,9 @@ South Central Cartel - All Day Everyday (1997-06-03)
 <li data-cover="http://coverartarchive.org/release/c40fc782-74ae-461c-babf-c659fd09bdcb/5889126359-500.jpg" data-tags="rap, west coast rap, hiphop classic albums, my collection great 150 albumz of rap" role="button">
 Tha Alkaholiks - Likwidation (1997-08-26)
 </li>
+<li data-cover="https://img.discogs.com/2pJLCBhRJtyXvx_Zy9W-r0Z2tm4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540807-1521982845-9362.jpeg.jpg" data-tags="rap" role="button">
+Coolio - My Soul (1997-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
 The Psycho Realm - The Psycho Realm (1997-10-28)
 </li>
@@ -173,9 +176,6 @@ DJ Quik - rhythm-al-ism (1998-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfbf57-5e2b-44f8-938c-c30c76de4bad/10735639975-500.jpg" data-tags="gangsta rap, g-funk, rap, west coast rap" role="button">
 Snoop Dogg - No Limit Top Dogg (1999-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
-Blackalicious - A2G EP (1999-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:55:01.406Z
+date: 2021-04-12T20:52:01.473Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -47,9 +47,6 @@ Cheryl Lynn - Cheryl Lynn (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-The Jacksons - Destiny (1978-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/00a01883-c17d-3a1e-8aa3-f468e45465df/7228002110-500.jpg" data-tags="70s, funk" role="button">
 Chic - Risque (1979)
@@ -104,6 +101,9 @@ Queen - Hot Space (1982-05-21)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s, pop" role="button">
 Madonna - Madonna (1983-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/771e3184-0fb4-474d-b6a4-49178429d209/26297040407-500.jpg" data-tags="funk" role="button">
+Rick James - Greatest Hits (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4a32dc8-e049-4dd6-94ff-5b948e60db22/6857645811-500.jpg" data-tags="70s, disco" role="button">
 Hot Chocolate - 20 Hottest Hits (1989)
@@ -168,6 +168,9 @@ Kylie Minogue - Fever (2001-10-05)
 <li data-cover="http://coverartarchive.org/release/00d36368-87a1-4436-81bd-ae2142f8a0b5/10955052333-500.jpg" data-tags="disco, soul, funk, male vocalists, earth" role="button">
 Earth, Wind & Fire - The Essential Earth, Wind & Fire (2002-07-30)
 </li>
+<li data-cover="https://img.discogs.com/FcuxwEA8rgWtaWrGzSxVfhNom9k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060563-1261595912.jpeg.jpg" data-tags="disco, pop, soul, rnb, male vocalists, 00s, neo-soul, unreleased, outtake, robin thicke, naked covers" role="button">
+Robin Thicke - A Beautiful World (2003-04-15)
+</li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
@@ -201,8 +204,8 @@ Cassius - 15 Again (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/d644af71-93e6-4d49-835a-3e13cd681cee/24225700511-500.jpg" data-tags="pop, 00s, alternative, favouritestreamablealbums" role="button">
 Scissor Sisters - Ta Dah (2006-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
+<li data-cover="http://coverartarchive.org/release/97be2920-5b91-474e-a0f7-141c720bf1f2/28176339740-500.jpg" data-tags="disco, electronic, dance, iveldie bar, m4rt1n1 s3c" role="button">
+Louie Austen - Iguana (2006-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f2ed19-cefe-4c58-9988-4104155c8141/16440581507-500.jpg" data-tags="funk" role="button">
 Jamiroquai - High Times: Singles 1992-2006 (2006-11-03)
@@ -245,9 +248,6 @@ Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
 Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)

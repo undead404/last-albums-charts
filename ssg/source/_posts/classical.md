@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:13:01.816Z
+date: 2021-04-12T21:39:07.135Z
 title: "classical: 100 albums you must listen to before you die"
 ---
 ![Wolfgang Amadeus Mozart - Requiem (1995-10-02)](https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg "Wolfgang Amadeus Mozart - Requiem (1995-10-02)")
@@ -44,9 +44,6 @@ Claude Debussy - Images(1894) Estampes Images Series I & II (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a881cc4-3553-4d01-a4d0-aff431bf05f0/22056730148-500.jpg" data-tags="classical, classic, instrumental, orchestra, avant-garde, female vocalist, faves, revisit, classical music, landscape, wanttobuy, gammarec, granka, worldmusik, je devrais avoir mon enfer de la caresse, quixotic sounds, freepurp1e, fabulous live act, fabulous orchestra, great cinema, music for the car, ssdsds" role="button">
-Philip Glass - The Photographer (1983)
 </li>
 <li data-cover="https://img.discogs.com/92IOMhi2WE_vg_IGpVr2O11W9zU=/fit-in/600x847/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11037058-1558453784-9891.jpeg.jpg" data-tags="classical, symphonic, 20th century classical, 20th century, ravel, classical orchestral" role="button">
 Maurice Ravel - Ravel (1984)
@@ -200,6 +197,9 @@ Maurice Ravel - Piano Concerto (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb6fa2e-393f-39a4-94cc-21caa3baf782/4514952186-500.jpg" data-tags="piano" role="button">
 Gonzales - Solo Piano (2004)
+</li>
+<li data-cover="https://img.discogs.com/bwFs-C1nyx96u9WlmkiddBQOa2c=/fit-in/300x269/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801748-1375960577-1151.jpeg.jpg" data-tags="soundtrack" role="button">
+Bruno Coulais - Les Choristes (2004-03-09)
 </li>
 <li data-cover="https://img.discogs.com/At1k_ayB0OQAGh0e4Zqafu2i-nY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12280940-1532078382-3948.jpeg.jpg" data-tags="classical, fleisher" role="button">
 Leon Fleisher - Two Hands (2004-08-24)

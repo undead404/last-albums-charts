@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:38:01.451Z
+date: 2021-04-12T21:02:01.540Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/74678f8d-80a8-3091-ada8-89d617241547/22697273580-500.jpg" data-tags="morrissey, alternative" role="button">
+Morrissey - Bona Drag (1990-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5834ce7b-007f-4e47-84bb-b4b66a6bdabf/4454840771-500.jpg" data-tags="britpop, alternative rock, 90s" role="button">
 Blur - Leisure (1991-08-26)
 </li>
@@ -168,9 +171,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/47a1f944-e46f-4a7e-b882-1632c9397176/15016689641-500.jpg" data-tags="britpop, indie" role="button">
 Travis - 12 Memories (2003-10-08)
 </li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
-Aqualung - Still Life (2003-10-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
@@ -192,9 +192,6 @@ Embrace - Out of Nothing (2004-09-13)
 <li data-cover="https://img.discogs.com/VWiA-jiSRLvMmF8jpyrMhZ1lovE=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546194-1289817660.jpeg.jpg" data-tags="robbie williams, pop" role="button">
 Robbie Williams - Greatest Hits (2004-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
-The Verve - This Is Music: The Singles 92-98 (2004-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/526b1aea-47d2-4e65-92c4-668a5523b99a/5679584618-500.jpg" data-tags="britpop, indie" role="button">
 Thirteen Senses - The Invitation (2005-01-17)
 </li>
@@ -203,6 +200,9 @@ Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/99084d9d-9318-3869-a8ad-6435dc19f34d/2721408614-500.jpg" data-tags="britpop, rock, indie" role="button">
 Stereophonics - Language. Sex. Violence. Other? (2005-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8196a808-3c51-33b6-aee8-a2e0c7c292b9/9893021292-500.jpg" data-tags="britpop" role="button">
+Coldplay - Speed of Sound (2005-05-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="britpop" role="button">
 Oasis - Don't Believe the Truth (2005-05-25)
