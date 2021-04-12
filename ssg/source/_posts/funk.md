@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:22:07.017Z
+date: 2021-04-12T06:09:01.519Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -207,11 +207,11 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
-Smash Mouth - All Star Smash Hits (2005-08-23)
-</li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
+</li>
+<li data-cover="https://img.discogs.com/8pb_ECqSGqh9xdrVTS4wllVSLW8=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458424-1118248956.jpg.jpg" data-tags="soul" role="button">
+Jamie Lidell - Multiply (2005-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)

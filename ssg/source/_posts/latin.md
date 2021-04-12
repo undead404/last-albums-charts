@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T23:33:01.456Z
+date: 2021-04-12T05:48:12.583Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">Buena Vista Social Club - Buena Vista Social Club (1997-06-23)</li>
+<li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">Shakira - Dónde Están los Ladrones? (1998-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">Ricky Martin - Ricky Martin (1999-05-04)</li>
 <li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">Jennifer Lopez - On the 6 (1999-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">Santana - Supernatural (1999-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">Enrique Iglesias - Escape (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">Shakira - Laundry Service (2001-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">Juanes - Mi Sangre (2004-09-28)</li>
-<li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">Shakira - Sale el Sol (2010-10-14)</li>
 </ol>
 List of 100 - under the cut.
@@ -140,6 +140,9 @@ Santana - Supernatural (1999-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
 Lou Bega - A Little Bit Of Mambo (1999-07-19)
+</li>
+<li data-cover="https://img.discogs.com/eiWK3lRVlISXDy75hUMOXdHQWkM=/fit-in/475x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5228597-1388162405-1404.jpeg.jpg" data-tags="latin, morna, world, cape verdean" role="button">
+Cesária Évora - Café Atlantico (1999-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad6cf17d-610f-476f-be7a-1411a820a9ab/18212930589-500.jpg" data-tags="baladas, romantica, ricardo montaner" role="button">
 Ricardo Montaner - Con La London Metropolitan Orchestra (1999-08-31)
@@ -293,9 +296,6 @@ Los Amigos Invisibles - Commercial (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/GRdLj9VQTH8q4-BbEDIasPD3_-Y=/fit-in/446x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930291-1429756923-9470.jpeg.jpg" data-tags="pop" role="button">
 Nelly Furtado - Mi Plan (2009-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
-Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)

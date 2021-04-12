@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:51:46.115Z
+date: 2021-04-12T06:13:01.420Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -96,12 +96,6 @@ Wings - Wings at the Speed of Sound (1976-03-25)
 <li data-cover="https://img.discogs.com/iIKo5OW8lNAUNYIVv-bA_8-3p0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490562-1286894295.jpeg.jpg" data-tags="classic rock, 70s, rock" role="button">
 George Harrison - The Best of George Harrison (1976-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5ef6cd9-d078-4435-b005-2f4ee6d44d61/1507872034-500.jpg" data-tags="rock" role="button">
-The Beatles - The Beatles (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fde009c-c33b-3379-91ba-67dcfe6f8f68/6674918603-500.jpg" data-tags="classic rock, 60s" role="button">
-The Beatles - Rarities (1978-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
 Wings - Back To The Egg (1979-05-24)
 </li>
@@ -110,6 +104,9 @@ David Bowie - A Second Face (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/f56e7684-ba28-46fd-afbf-9e0a77670bdb/11426468192-500.jpg" data-tags="jazz, piano, modern, variations, improvisation, bach, beatles, piano solo, fugue, fugues, beatles covered" role="button">
 John Bayless - Bach Meets the Beatles (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/60f700ae-bf30-4564-913f-0c8882c9402d/1220563705-500.jpg" data-tags="jazz, beatles, paul mccartny, john lenon" role="button">
+Terry Herman Trio - Blue Michelle (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/9554aba4-85fd-42eb-a4df-fe9ebc71ebfb/4682090790-500.jpg" data-tags="beatles, the beatles" role="button">
 Julian Lennon - Valotte (1984)
@@ -132,14 +129,14 @@ The Beatles - LIVE IN PARIS 1965 (1988)
 <li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/589780c7-986b-4530-bda4-f64949f042cb/1517661366-500.jpg" data-tags="rock, beatles, bootleg, booty, dead hensons, german cars vs american homes, gomorrans, ryan beebe" role="button">
+The Beatles - The Unreleased Tracks, Volume 1 (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/8a766e00-e9a7-4a83-85cd-5376b24525fd/5045275406-500.jpg" data-tags="beatles, 60na" role="button">
 The Byrds - The Byrds (1990-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3445a93-7585-49d1-b86a-ec1fa72a27ab/1395758810-500.jpg" data-tags="beatles, stonedbeat, work it" role="button">
 The Beatles - From Yesterday Forever (1991)
-</li>
-<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
-The Beatles - No. 3 Abbey Road NW8 (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/baabb4d7-6005-4cb8-af6a-39a43e095e36/15248566750-500.jpg" data-tags="funk, soul" role="button">
 Tower of Power - T.O.P. (1993)
@@ -177,11 +174,11 @@ The Beatles - Let It Be Sessions (1996)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, emo, beatles, stonedbeat, my whole damn collection" role="button">
 The Beatles - Real Love (1996-03-04)
 </li>
-<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="john lennon, beatles" role="button">
-The Beatles - It's Not too Bad (1997)
-</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles, stonedbeat, alternate" role="button">
 The Beatles - The Alternate Revolver (1997)
+</li>
+<li data-cover="https://img.discogs.com/4Pu4YVYTpP4t-xE_e0kRMI5_px8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662970-1461297705-3843.jpeg.jpg" data-tags="pop, queen, beatles, 70's, dead hensons, pope john paul the third" role="button">
+Electric Light Orchestra - Greatest Hits Live, Part II (1998)
 </li>
 <li data-cover="https://img.discogs.com/ZawN8Q4tJFXsSe3NkYCvNJcKhhQ=/fit-in/600x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-116762-1406015842-7353.jpeg.jpg" data-tags="soul, acid jazz, female vocalist, beatles, carleen, wie alles begann, hi dear, i am a united state army officer, i enjoy meeting new people and their way of life, i read your profile here and pick interest on you, it is my pleasure meeting you, am supportive and caring, from united state of america, honest and caring person with a good sense of humor, looking forward to get a nice friend, what i need is just your love" role="button">
 Carleen Anderson - Maybe I'm Amazed (1998-01)
@@ -200,9 +197,6 @@ Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f6f9de-fda6-4e0c-af96-43a964468235/25287024908-500.jpg" data-tags="classic rock" role="button">
 The Beatles - Last Night in Hamburg (1999-11-23)
-</li>
-<li data-cover="https://img.discogs.com/DalLv1_VMU69h2vu1-yAU0lJ1ew=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588902-1427049708-4624.jpeg.jpg" data-tags="80's, beatles, paul mccartney, wings" role="button">
-Paul McCartney - Pizza And Fairy Tales (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9b7e6e4-59ce-49de-adfb-23064c2cba31/1491718433-500.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - Revolver / Magical Mystery Tour (2000)
@@ -227,6 +221,9 @@ Paul McCartney - Back in the U.S. Live 2002 (disc 1) (2002-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d370e57c-8c30-4828-8f83-5d98ea994145/2796177642-500.jpg" data-tags="classic rock, rock" role="button">
 The Beatles - Let It Be... Naked (2003-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff0a7cb9-2499-44f3-ab37-a8e5b36f900b/1516173454-500.jpg" data-tags="classic rock, beatles" role="button">
+The Beatles - The Days in Their Life, Volume 1 (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/298adf99-d98e-42e7-9261-261eabbd8fa4/28087459032-500.jpg" data-tags="jazz, beatles, tribute, stonedbeat, beatles cover, beatles covers, the beatles cover, beatles cover song, beatles cover songs, the beatles cover song, the beatles cover songs, the beatles covers" role="button">
 Various Artists - Blue Note Plays the Beatles (2004-06-15)
@@ -275,6 +272,9 @@ Marcus Miller - Free (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2ea51aa-5363-47a3-96e3-50123703c442/19704426220-500.jpg" data-tags="rock, beatles, morgan, musica italiana, across the universe, rock italiano, sperimentale, franco battiato, bluvertigo, francesco renga, segnali di vita" role="button">
 Armando Cacciato - Puoi Farti Male (2007-07-13)
+</li>
+<li data-cover="https://img.discogs.com/yqcXHH7Dxoi6AuSAjoRrp7XsZbY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6493628-1460470141-1219.jpeg.jpg" data-tags="pop, folk, beatles, donovan, harry nilsson, mom and pop, mccartney, vashti bunyan, ryan beebe, michael garlington" role="button">
+Mary Hopkin - The Complete Singles Collection (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/2096f01c-1e18-4067-954c-dd438446edcb/18858550074-500.jpg" data-tags="rock, ringo starr" role="button">
 Ringo Starr - Liverpool 8 (2008-01-14)

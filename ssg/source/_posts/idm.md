@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:11:01.495Z
+date: 2021-04-12T05:57:01.425Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -111,9 +111,6 @@ Proem - Socially Inept (2004-01-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
 Telefon Tel Aviv - Map of What Is Effortless (2004-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/426f0e00-b541-461d-9747-9d861ed75141/6923514210-500.jpg" data-tags="idm" role="button">
-Squarepusher - Ultravisitor (2004-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ddc1268-5d8c-4ef6-a15b-8c0d2a8f5456/5492614802-500.jpg" data-tags="ambient, idm" role="button">
 Arovane - Lilies (2004-06-14)
 </li>
@@ -131,9 +128,6 @@ AFX - Analord 01 (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6b8279-a59b-40a5-a607-ad5dc1a684d0/10373912964-500.jpg" data-tags="electronic, acid, idm" role="button">
 AFX - Analord 05 (2005-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
-The Flashbulb - Kirlian Selections (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5af15a6-a463-455d-9308-910b1f5b99f1/1990842142-500.jpg" data-tags="idm" role="button">
 Autechre - Untilted (2005-04-09)
@@ -195,9 +189,6 @@ Kelpe - Ex-Aquarium (2008-02-25)
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)
 </li>
-<li data-cover="https://img.discogs.com/IbMuPSU7awPxdRyUdt_Nl1rAHlg=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225596-1329953361.jpeg.jpg" data-tags="ambient, downtempo" role="button">
-Subheim - Approach (2008-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
 Helios - Caesura (2008-08-12)
 </li>
@@ -228,6 +219,9 @@ Mux Mool - Skulltaste (2010-03-23)
 <li data-cover="http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg" data-tags="glitch, electronic" role="button">
 The Glitch Mob - Drink the Sea (2010-05-25)
 </li>
+<li data-cover="https://img.discogs.com/QUHpmK4R_P7sftn3KHppBK8vLm8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300524-1494626974-2948.jpeg.jpg" data-tags="techno" role="button">
+Actress - Splazsh (2010-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f0675eb-31db-4578-9235-6a7e8726d709/2330597280-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Arboreal (2010-06-08)
 </li>
@@ -242,6 +236,9 @@ Aes Dana - Perimeters (2011-01-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/8054d23b-6e8a-4be7-a368-39a501fff640/8156658475-500.jpg" data-tags="downtempo, abstract, idm, 12-inch" role="button">
+Gold Panda - Marriage (2011-02)
 </li>
 <li data-cover="https://img.discogs.com/srw5tT6H7BgCU3k8Oj8crk1ct3M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2691946-1296765846.jpeg.jpg" data-tags="classical, ambient, idm" role="button">
 Near The Parenthesis - Japanese for Beginners (2011-02-15)
@@ -296,6 +293,9 @@ Evenings - Yore (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/81ce3a91-91b7-40cf-8f33-966dd7322adf/5069250166-500.jpg" data-tags="electronic" role="button">
+múm - Smilewound (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)

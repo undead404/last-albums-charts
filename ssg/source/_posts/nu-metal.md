@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:38:01.411Z
+date: 2021-04-12T06:02:12.583Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -38,6 +38,9 @@ Korn - Follow the Leader (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
 Godsmack - Godsmack (1998-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/33ba79da-652f-40ba-8243-dfedba3db2a0/9795890014-500.jpg" data-tags="nu-metal" role="button">
+Dry Kill Logic - Elemental Evil (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Significant Other (1999-06-18)
@@ -227,9 +230,6 @@ Korn - See You on the Other Side (2005-12-05)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)

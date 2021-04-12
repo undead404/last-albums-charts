@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:28:18.169Z
+date: 2021-04-12T06:12:01.421Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -60,9 +60,6 @@ George Winston - December (1982)
 <li data-cover="https://img.discogs.com/zXj9wytP_NfLkgYRJ_2reUnlgGc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288160-1293995724.jpeg.jpg" data-tags="piano" role="button">
 David Lanz - Nightfall (1985)
 </li>
-<li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
-Bruce Hornsby & the Range - The Way It Is (1986-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/65b5c48f-89c9-4be9-b7a0-2e18692db80e/19147437194-500.jpg" data-tags="classical, beethoven" role="button">
 Ludwig van Beethoven - The Best of Beethoven (1987)
 </li>
@@ -74,6 +71,9 @@ Yanni - Dare To Dream (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
+</li>
+<li data-cover="https://img.discogs.com/-ynMTtkIdS0KqAkHFEf6izt_D-Q=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7754330-1448101073-6265.jpeg.jpg" data-tags="jazz" role="button">
+Bill Evans - Autumn Leaves (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
@@ -126,9 +126,6 @@ Tori Amos - Strange Little Girls (2001-09-17)
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c843654-e93a-4145-b623-14e6df9e294f/13289739357-500.jpg" data-tags="yiruma, piano" role="button">
-Yiruma - First Love (2001-12-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
@@ -173,6 +170,9 @@ Craig Armstrong - Piano Works (2004-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
 Rachael Yamagata - Happenstance (2004-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
+Charlotte Martin - On Your Shore (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:22:01.411Z
+date: 2021-04-12T05:49:01.394Z
 title: "songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
@@ -27,11 +27,8 @@ Neil Young - On the Beach (1974-07-19)
 <li data-cover="https://img.discogs.com/kapYXLY3xbb0aI-h4DZO9wD27dc=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5672086-1399538504-9683.jpeg.jpg" data-tags="songwriter, george martin, beaut" role="button">
 Jimmy Webb - El Mirage (1977-05)
 </li>
-<li data-cover="https://img.discogs.com/d-2qUdiVzSSF4HyKvioCYGCsphc=/fit-in/479x483/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2147548-1345563901-2589.jpeg.jpg" data-tags="deutschrock" role="button">
-Marius Müller-Westernhagen - Mit Pfefferminz bin ich dein Prinz (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/a22d545f-ef7e-4914-9fdd-7ea48d95fc8f/8891661869-500.jpg" data-tags="david foster" role="button">
-David Foster - The Best of Me (1983)
+<li data-cover="https://img.discogs.com/LU9sHraWUjw5pf94igTxKofThrY=/fit-in/600x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5009909-1382035396-8172.jpeg.jpg" data-tags="folk, singer, germany, songwriter, lovesongs" role="button">
+Zupfgeigenhansel - Liebeslieder (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/892e1b40-429f-457f-8c5f-9e4e78c32545/9383202614-500.jpg" data-tags="singer, songwriter, christian" role="button">
 Steve Taylor - On the Fritz (1985-04)
@@ -51,14 +48,8 @@ Roger McGuinn - Back From Rio (1991)
 <li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
 Johnny Cash - Get Rhythm (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7e5bc8a-aa05-45b9-a957-399611e13d37/3185127559-500.jpg" data-tags="rock, french rock" role="button">
-Jean-Louis Aubert - H (1992-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/da27dab2-990a-421f-bea4-da368d3e7cc0/22245493067-500.jpg" data-tags="blues" role="button">
 Roy Buchanan - Guitar on Fire: The Atlantic Sessions (1993-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/653dace1-86ca-4604-80e5-421ec0691fb8/21668460133-500.jpg" data-tags="german" role="button">
-Element of Crime - An Einem Sonntag Im April (1994)
 </li>
 <li data-cover="https://img.discogs.com/0aUi8yXh5Vj9yXnCFPXO-z5QEFA=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12315423-1532778206-5260.jpeg.jpg" data-tags="corwood industries" role="button">
 Jandek - Graven Image (1994)
@@ -66,17 +57,20 @@ Jandek - Graven Image (1994)
 <li data-cover="https://img.discogs.com/WLQOhr6LnRZO_RBoXgVs_B_b8kw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072642-1501163823-6949.jpeg.jpg" data-tags="robertitus global" role="button">
 Spinetta Jade - Los Niños Que Escriben En El Cielo (1994)
 </li>
+<li data-cover="https://img.discogs.com/qRJZhBnmch36V0KQpBS1L2y0fAA=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092585-1411135131-2042.jpeg.jpg" data-tags="rock, acoustic, singer, driving, songwriter, alt-country, chilling" role="button">
+Snapdragon - Drinking Watermelon Sugar (1995)
+</li>
 <li data-cover="https://img.discogs.com/stL_8oVWaWJFQodTI_Ide3cpi6U=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2968983-1593801722-6009.jpeg.jpg" data-tags="songwriter" role="button">
 Ulla Meinecke - Die Tänzerin (1995-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad4e4f45-7dc6-453a-a223-bf817d26dc42/5729954620-500.jpg" data-tags="vince gill" role="button">
-Vince Gill - Souvenirs (1995-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ca2b7a0-2cf2-4952-9e11-26a014f0aad7/3021472451-500.jpg" data-tags="folk, songwriter" role="button">
 Stephan Eicher - 1000 Vies (1996)
 </li>
 <li data-cover="https://img.discogs.com/kvHtq3rsYlxlk61LdNbHly4bdPk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2156579-1578055615-2576.jpeg.jpg" data-tags="singer" role="button">
 Funny van Dannen - Basics (1996-04-19)
+</li>
+<li data-cover="https://img.discogs.com/u4Vn2wrv7DblKBK9iH4ifZXjXzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2488510-1617651687-9803.jpeg.jpg" data-tags="rock, guitar, songwriter, the alarm, electric, dave sharp" role="button">
+Dave Sharp - Downtown America (1996-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unchained (1996-11-05)
@@ -138,8 +132,14 @@ Arctic - Music for Rain (2003-10-01)
 <li data-cover="https://img.discogs.com/Z-Um1aGSpvhIKeIaC96WfZRe2ZU=/fit-in/599x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-954775-1177008385.jpeg.jpg" data-tags="female vocalists, rachael yamagata" role="button">
 Rachael Yamagata - KCRW Sessions (2004-04-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, acoustic, americana, songwriter, portugal, folk rock, country rock, guitarist" role="button">
+Vitor Cunha - Strangers at Dawn (2004-08-17)
+</li>
 <li data-cover="https://img.discogs.com/5zI4h4Nlffu0SO5dymuE2_EpG78=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040127-1187094342.jpeg.jpg" data-tags="hip hop, german, freundeskreis" role="button">
 Max Herre - Max Herre (2004-09-13)
+</li>
+<li data-cover="https://img.discogs.com/NCmjNsJhCsj-T_VukRgdkRDvQrg=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3517937-1333617775.jpeg.jpg" data-tags="indie, pop, songwriter, real, low fi, hazelwood" role="button">
+Jerobeam - Confidential Breakfast (2004-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
 Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
@@ -158,9 +158,6 @@ Noiserv - 56010-92 (2005-06)
 </li>
 <li data-cover="https://img.discogs.com/C9PVSa_5kTFfNz0i6zftNA_NKks=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228631-1076932673.jpg.jpg" data-tags="indie, vocal, pop, rock, alternative, indie pop, indie rock, piano, singer, songwriter, chicago, scott walker, patrick wolf, rufus wainwright, theater, jens lekman, joseph arthur, brightest diamond" role="button">
 Ben Johnson - Wait (2005-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="german, indie, rock, singer-songwriter, deutsch, deutschrock, pop, singer, rockstars, rockmusik, micha maat" role="button">
-Mitsnakker - die art sich zu täuschen (2005-07-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Boduf Songs - Boduf Songs (2005-10-03)
@@ -189,9 +186,6 @@ Lambchop - Damaged (2006-08-11)
 <li data-cover="http://coverartarchive.org/release/d0a2f02d-bb3d-4860-951b-69902021e0a6/20852519057-500.jpg" data-tags="pop, songwriter" role="button">
 Hanne Hukkelberg - Rykestrasse 68 (2006-09-04)
 </li>
-<li data-cover="https://img.discogs.com/2dJO22QFer5_YFuH8lPQUBrwRG0=/fit-in/417x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3157588-1318392476.jpeg.jpg" data-tags="experimental, lo-fi, hamsterloco, j-pop, catalan, creative commons, japanese, outsider" role="button">
-Ocaixi - Jove Carn Japonesa (2006-09-24)
-</li>
 <li data-cover="https://img.discogs.com/gmk2SsqY1vESMUxhCPXM7fmSU9Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494274-1223917384.jpeg.jpg" data-tags="indie, jazz, pop, alternative, new york, singer-songwriter, piano, acoustic, singer, songwriter, brooklyn, emotional, angela, piano-based, lyrically driven, ortiz" role="button">
 Angela Ortiz - All About You (2007)
 </li>
@@ -210,17 +204,17 @@ Cubworld - Step Lightly: Create Out Loud (2007-06-21)
 <li data-cover="https://img.discogs.com/Wq5CmmJTvdFJFRZyR9wVwfbyuEQ=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2077383-1262695007.jpeg.jpg" data-tags="acoustic" role="button">
 Ben Harper & The Innocent Criminals - Lifeline (2007-08-10)
 </li>
+<li data-cover="https://img.discogs.com/3bkA5wdmGzCxyArAcRtxGKJ32XY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2744765-1299098255.jpeg.jpg" data-tags="acoustic, songwriter, singer songwriter, nick drake" role="button">
+Belinda Gillett - Someone Hates You (2007-11-30)
+</li>
 <li data-cover="https://img.discogs.com/2K0Q3uUfDqC4_vp2w3VZ52vB5Ho=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12011397-1585318000-3010.jpeg.jpg" data-tags="country, folk, songwriter, female vocalist" role="button">
 Kyrie Kristmanson - The Kyrie K Groove (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
-Lizz Wright - The Orchard (2008-02-26)
+<li data-cover="http://coverartarchive.org/release/556be089-d637-49f3-b50c-9e490bc2632f/2060555387-500.jpg" data-tags="jazz, chill, rock, reggae, acoustic, funk, singer, guitar, songwriter, alt-country, maine, soul-pop, finger-picking, finger-style" role="button">
+Ben Hammond - [Reasonably] Honest (2008-03-01)
 </li>
 <li data-cover="https://img.discogs.com/HFbUrJS-MAlGsu9vKQcxqMqlU5w=/fit-in/256x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2771723-1300318161.jpeg.jpg" data-tags="rock" role="button">
 Cesare Basile - Storia Di Caino (2008-04-03)
-</li>
-<li data-cover="https://img.discogs.com/krOqQrhEF7jlAaP7xbvsreJSymA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2775730-1324564417.jpeg.jpg" data-tags="indie, pop, indie pop, scottish, melodic, songwriter, soft, lush, simon and garfunkel, jangly, glasgow bands, kings of convenience, mushishi, sore feet song, belle and sebastiana, hotel indie pop" role="button">
-Ally Kerr - Off The Radar (2008-04-14)
 </li>
 <li data-cover="https://img.discogs.com/5U7qAvvGlmw2litqZ-jg55aRuTY=/fit-in/555x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1317860-1224905563.jpeg.jpg" data-tags="songwriter" role="button">
 Scott Kelly - The Wake (2008-05-06)
@@ -245,6 +239,9 @@ Flow - L'âme de Fond (2008-09-29)
 </li>
 <li data-cover="https://img.discogs.com/ORISvi0e8Ml_yUJ4m7ScgsvmY0I=/fit-in/355x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6527265-1421271411-5958.jpeg.jpg" data-tags="indie, pop, americana, songwriter, brooklyn" role="button">
 Proud Simon - Night of Criminals (2008-11-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - The Orphanage (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/0eb217cd-de71-4112-bf86-ec349a56669b/5292012572-500.jpg" data-tags="ed sheeran" role="button">
 Ed Sheeran - You Need Me (2009)
@@ -272,6 +269,9 @@ Attic Abasement - Dancing is Depressing (2010-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ecf932f-72b7-452b-86a9-a464521de5ea/1004754926-500.jpg" data-tags="acoustic, songwriter, try before i buy, ed sheeran" role="button">
 Ed Sheeran - Songs I Wrote With Amy (2010-04-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - Suburban Dream (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b97b285-05bf-4229-9d32-568b159c749d/5303239034-500.jpg" data-tags="ed sheeran" role="button">
 Ed Sheeran - No.5 Collaborations Project (2011-01-07)

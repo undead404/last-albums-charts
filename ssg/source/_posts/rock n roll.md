@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:21:01.982Z
+date: 2021-04-12T05:59:01.407Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -42,9 +42,6 @@ Chuck Berry - Chuck Berry Is On Top (1959-07)
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">
 Del Shannon - Little Town Flirt (1963)
 </li>
-<li data-cover="http://coverartarchive.org/release/1697c288-fc02-4f69-adc0-a620ed877124/21286054887-500.jpg" data-tags="classic rock, rock n roll" role="button">
-Elvis Presley - Viva Las Vegas (1964-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf5aaf72-a9ca-4d81-b622-888ee228aa11/1503464212-500.jpg" data-tags="rock, 60s" role="button">
 The Rolling Stones - The Rolling Stones (1969)
 </li>
@@ -56,6 +53,9 @@ Alice Cooper - School's Out (1972-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="50s" role="button">
 Elvis Presley - Elvis (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/b83007d0-41c5-4dfb-8697-acb627833241/11886415980-500.jpg" data-tags="classic rock, 70s, hard rock, golden earring" role="button">
+Golden Earring - Moontan (1973-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3aa3212-be49-334a-9a9c-a8040d38e2f1/20708103946-500.jpg" data-tags="classic rock, rock, finnish, rock n roll, rock'n'roll, finnish bands, finnish rock, basic rock, rock n roll made by bad asses" role="button">
 Hurriganes - Roadrunner (1974-11)
@@ -71,6 +71,9 @@ REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e3ad57d-da42-489f-8032-8b4b2b63478b/24154851314-500.jpg" data-tags="80s" role="button">
+Kim Carnes - Mistaken Identity (1981-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/68f9ce3e-0cdd-4f2d-897f-d8208eee1fc2/8130414856-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - The Great Twenty-Eight (1982)
@@ -162,6 +165,9 @@ Lacuna Coil - Halflife (2000-03-15)
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Motörhead (2000-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d0ccaa77-2359-4deb-af33-414f054b3819/20154362542-500.jpg" data-tags="rock n roll" role="button">
+The Bones - Screwed, Blued and Tattooed (2000-11-22)
+</li>
 <li data-cover="https://img.discogs.com/t9V5IKOOYHyN0eXnwumaxvcIqYI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243797-1542808643-8274.jpeg.jpg" data-tags="oldies" role="button">
 Elvis Presley - ELV1S 30 #1 Hits (2001)
 </li>
@@ -224,9 +230,6 @@ Bif Naked - Superbeautifulmonster (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d97890c7-75c7-4e90-a399-79f1710c7e93/16018100211-500.jpg" data-tags="rock n roll" role="button">
 Şebnem Ferah - Can Kırıkları (2005-07-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
-Aly & AJ - Into the Rush (2005-08-16)
 </li>
 <li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
 Volbeat - The Strength/The Sound/The Songs (2005-09-26)
@@ -311,9 +314,6 @@ The Baseballs - Strings 'n' Stripes (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac8d04e7-27df-4e7c-bfaa-c8366b9b9cdc/22171835478-500.jpg" data-tags="hard rock, rock" role="button">
 Halestorm - The Strange Case Of... (2012-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/270c1cab-5265-4dad-b7fc-e2678ea363db/2407023243-500.jpg" data-tags="alternative rock, hard rock" role="button">
-Flyleaf - New Horizons (2012-10-30)
 </li>
 <li data-cover="https://img.discogs.com/anJe-lAVR0g26n2W3CgCWM27KmU=/fit-in/469x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4483568-1366169526-5803.jpeg.jpg" data-tags="live 2012, live" role="button">
 Coldplay - Live 2012 (2012-11-19)

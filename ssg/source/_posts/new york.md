@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T12:06:01.586Z
+date: 2021-04-12T06:41:06.993Z
 title: "new york: 100 albums you must listen to before you die"
 ---
 ![Yeah Yeah Yeahs - Fever To Tell (2003-04-28)](http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg "Yeah Yeah Yeahs - Fever To Tell (2003-04-28)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">A Tribe Called Quest - Midnight Marauders (1993-11-09)</li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">Big L - The Big Picture (2000-07-11)</li>
+<li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">Yeah Yeah Yeahs - Fever To Tell (2003-04-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">TV on the Radio - Nine Types of Light (2011-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
@@ -26,9 +26,6 @@ The Fugs - The Fugs First Album (1965)
 </li>
 <li data-cover="https://img.discogs.com/n-v-0q3BHWLdPsIkg-UlsgHzFlA=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5884819-1405378314-3612.jpeg.jpg" data-tags="60s, rock" role="button">
 The Lovin' Spoonful - Do you Believe In Magic (1965-03)
-</li>
-<li data-cover="https://img.discogs.com/Z0lpJWMSMm-vNL77gy66F2_5TD0=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664088-1502200550-6871.jpeg.jpg" data-tags="classic rock, rock, 70s" role="button">
-Lou Reed - Walk On The Wild Side (1973)
 </li>
 <li data-cover="https://img.discogs.com/GHTP4nIYLB4ibAJqp3cgROJFrs8=/fit-in/350x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5970404-1407699748-3782.jpeg.jpg" data-tags="70s, proto-punk" role="button">
 The Velvet Underground - 1969: Velvet Underground Live, Vol. 1 (1974)
@@ -51,9 +48,6 @@ Mel Tormé - Songs Of New York (1983)
 <li data-cover="https://img.discogs.com/1y4KSPUrYQfUuVtR4pyqd59iH0A=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918753-1605433703-9259.jpeg.jpg" data-tags="hardcore punk" role="button">
 Antidote - Thou Shalt Not Kill (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9bd9e59-e585-4eea-b4a8-93419d47b15f/15455735948-500.jpg" data-tags="rap, hip-hop, old school" role="button">
-Eric B. & Rakim - Paid in Full: The Platinum Edition (1987-07-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
@@ -66,9 +60,6 @@ Organized Konfusion - Organized Konfusion (1991-10-29)
 <li data-cover="http://coverartarchive.org/release/6f4467a2-e9b4-4c41-8167-4ccfe574334f/15927440354-500.jpg" data-tags="rap, hip-hop" role="button">
 Onyx - Bacdafucup (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - Midnight Marauders (1993-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f83909e-d2e1-4d00-9d88-b9c92e09872f/16544683111-500.jpg" data-tags="new york, music i tried but didnt like" role="button">
 Ida - Tales of Brave Ida (1994)
 </li>
@@ -77,6 +68,12 @@ Gang Starr - Hard To Earn (1994-02-28)
 </li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad8c2f0e-d9d9-4531-84b5-dca5449ce3e1/27998223940-500.jpg" data-tags="hardcore, nyhc" role="button">
+Madball - Set It Off (1994-07)
+</li>
+<li data-cover="https://img.discogs.com/lk1dk2CMIXw1N36kWrYKhHsHz20=/fit-in/550x686/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9397574-1479844219-5261.jpeg.jpg" data-tags="jazz" role="button">
+Tony Bennett - MTV UNPLUGGED (1994-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
@@ -105,9 +102,6 @@ Black Moon - Diggin' In Dah Vaults (1996)
 <li data-cover="https://img.discogs.com/Q_OjkVgPjz4wbZaR0R3YHgYAG8w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422876-1433885288-7800.jpeg.jpg" data-tags="crossover" role="button">
 Dog Eat Dog - Play Games (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b9e302d-2e1a-4bdd-9816-5390683c4ab9/6924221070-500.jpg" data-tags="hip hop" role="button">
-De La Soul - Stakes Is High (1996-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
 </li>
@@ -117,9 +111,6 @@ Ghostface Killah - Ironman (1996-10-29)
 <li data-cover="https://img.discogs.com/ZHqRfMShB3_2dTYxX9uzmW6qUQ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1564550-1460332471-7169.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
 Redman - Muddy Waters (1996-12-10)
 </li>
-<li data-cover="https://img.discogs.com/N6Xjb1_7B8Hm8CRkYw6BH7chHdU=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702256-1575569552-6407.jpeg.jpg" data-tags="indie rock, alternative" role="button">
-Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d499d90-0e55-39cd-a6bd-a5c32f184136/16787063190-500.jpg" data-tags="hip-hop, rap" role="button">
 KRS-One - I Got Next (1997-05-20)
 </li>
@@ -128,6 +119,9 @@ Organized Konfusion - The Equinox (1997-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0576916d-7da1-34df-b691-7099891ad672/13034297962-500.jpg" data-tags="rap, wu-tang" role="button">
 Gravediggaz - The Pick, The Sickle & The Shovel (1997-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/95e22167-90b9-4da9-a343-4e6107383d5e/24891347293-500.jpg" data-tags="hip-hop, hip hop, rap, new york, east coast rap, brook" role="button">
+All City - Metropolis Gold (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fddf2e-d106-4f97-8aa5-458ce499a1db/6528603066-500.jpg" data-tags="rap, hardcore rap, east coast rap" role="button">
 Onyx - Shut 'Em Down (1998-06-02)
@@ -143,9 +137,6 @@ dead prez - Lets Get Free (2000-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
 Big L - The Big Picture (2000-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/47a57cb6-e676-4502-985c-2d9c475ac9ec/4380368501-500.jpg" data-tags="underground hip-hop" role="button">
-Aesop Rock - Float (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/06df1caf-83d4-4bb4-9366-8a2bd2a93242/15902322936-500.jpg" data-tags="debut album" role="button">
 The Mooney Suzuki - People Get Ready (2000-09-05)
@@ -192,8 +183,14 @@ MF DOOM - The Doomilation Bootleg (2003)
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
+<li data-cover="https://img.discogs.com/Yz6eK3hPkbETlGj2bGycectm_BQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-152622-1587351854-7058.jpeg.jpg" data-tags="new york, definitive jux, camy davis jr, metro" role="button">
+S.A. Smash - Smashy Trashy (2003-06-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/9487a551-7964-43e1-860b-1c3230597a4f/15361833716-500.jpg" data-tags="hip-hop, definitive jux" role="button">
 C-Rayz Walz - Ravipops (The Substance) (2003-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a827b17-1c0c-46e9-8350-33ccab3570e8/1043738158-500.jpg" data-tags="underground hip-hop" role="button">
+Cage - Weatherproof (2003-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a8dd677-dff5-4175-93a2-26cbfea8e647/3082007842-500.jpg" data-tags="hip hop" role="button">
 Immortal Technique - Revolutionary, Volume 2 (2003-11-18)
@@ -209,6 +206,9 @@ Sonic Youth - Sonic Nurse (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/85d9ed7e-0319-4d30-924b-062f42d91ede/18835393347-500.jpg" data-tags="hip-hop, rap" role="button">
 Terror Squad - True Story (2004-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5cf4a8c-4970-4a82-93e6-1501c9f2e8aa/26326138225-500.jpg" data-tags="definitive jux" role="button">
+Rob Sonic - Telicatessen (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfa93328-26f1-4968-94f9-cc4bf386cea6/5728789158-500.jpg" data-tags="underground hip-hop" role="button">
 Aesop Rock - Bazooka Tooth (2005)
@@ -234,20 +234,17 @@ Costanza - zerOKilled (2006)
 <li data-cover="http://coverartarchive.org/release/5f5433c4-debe-40c3-9095-23951d1521c2/1586030072-500.jpg" data-tags="rap" role="button">
 Jay-Z - Greatest Hits (2006-08-21)
 </li>
-<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="disco, electronic, new york, cafe del mar, funk, club, party, smooth, relaxing, house music, chicane, relax, disco house, vocal house, ibiza, club house, enigma, cafe, roger sanchez, club cafe, dance club, club dance, dream dance, rue de soleil, relaxing del mar" role="button">
-Roger Sanchez - Lost (2006-08-29)
-</li>
 <li data-cover="https://img.discogs.com/nZiTe-xq-dFv7cnQFmLQX-raECw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2581882-1476021446-2139.jpeg.jpg" data-tags="hardcore, new york, buffalo, ny, western new york, western ny, ferret, wny" role="button">
 Dead Hearts - Bitter Verses (2006-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a26f3c8f-43d8-4f66-b180-4e19e9d53d8e/25440111148-500.jpg" data-tags="rap" role="button">
 Mobb Deep - Life of the Infamous: The Best of Mobb Deep (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/89a47a75-ede7-4c37-ba48-04d030f08fea/9847619120-500.jpg" data-tags="punk, punk rock" role="button">
+Latterman - We Are Still Alive (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/0226ce5a-3f8a-44b3-a937-173ff9d0069b/21429222515-500.jpg" data-tags="hip hop, new york, underground hip-hop, east coast rap, sean p" role="button">
 Sean Price - Jesus Price Supastar (2007-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/5875a3e7-f952-4772-81c6-ee96b435205f/16155721166-500.jpg" data-tags="indie" role="button">
-Ra Ra Riot - Ra Ra Riot (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fdc39fd-9dae-4e4d-9516-5cc64188b03b/28843347274-500.jpg" data-tags="killah priest" role="button">
 Killah Priest - The Offering (2007-08-21)
@@ -273,11 +270,17 @@ White Rabbits - It's Frightening (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/5e7ca33f-51f2-4efa-9e50-0ef54cf3391e/24969358039-500.jpg" data-tags="hip hop, new york" role="button">
 AZ - Legendary (2009-06-02)
 </li>
+<li data-cover="https://img.discogs.com/XmIDMQj6lIT3j6srQOcuEs478P4=/fit-in/522x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1943097-1254016250.jpeg.jpg" data-tags="new york, usa, american, american artist, from: usa, from: new york, us indie, new york state, american beauty, usa indie, indie - us, american brilliance, american indie, usa artists, us independent, new-york, new york indie, american alternative, upstate new york, american style, american dream, american singer, new new york, american songwriter, new york usa, female solo artists, american musician, american pianist, new york artist, american vocalist, american female singer, my secret indie female" role="button">
+Sarah Fimm - Red Yellow Sun (2009-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c067f6f-a8f0-4b1c-9d24-28026d4b120b/1630682876-500.jpg" data-tags="hip-hop, hip hop, rap, new york, canadian, underground hip-hop, swag" role="button">
 Curren$y & Wiz Khalifa - How Fly (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1b2d3e9-381a-4f73-a27b-9f12be9dc419/8154017945-500.jpg" data-tags="indie rock" role="button">
 The Bravery - Stir The Blood (2009-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/783d7421-d7af-4ba6-bd79-8d15d7b2ffff/7790411641-500.jpg" data-tags="death rap, horrorcore" role="button">
+Necro - Die! (2010-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/581b97a5-5372-4e6e-822a-aec8da60c215/4394267145-500.jpg" data-tags="hip-hop, hip hop, rap, new york, big l" role="button">
 Big L - Return of the Devil's Son (2010-11-23)
@@ -290,9 +293,6 @@ TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a140435d-f801-46c2-b4dd-736f767b2829/5032876456-500.jpg" data-tags="new york, punk rock, pop punk" role="button">
 Timeshares - Bearable (2011-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1702b853-f45b-4764-bbfd-17b60ed35981/13006959608-500.jpg" data-tags="hip hop, alternative, rap, new york, hip-house, interscope records, 2012 albums" role="button">
-Azealia Banks - 1991 (2012-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
 Azealia Banks - Fantasea (2012-07-11)

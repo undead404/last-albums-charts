@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:07:02.327Z
+date: 2021-04-12T06:39:01.396Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
@@ -36,20 +36,11 @@ The Flesh Eaters - A Minute To Pray, A Second To Die (1981)
 <li data-cover="http://coverartarchive.org/release/a224652b-e04e-4f83-96a7-8e7573e35698/865355093-500.jpg" data-tags="horror punk" role="button">
 Misfits - Halloween (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7931956-18f4-4374-8213-e6486a203c5c/9861705156-500.jpg" data-tags="horror punk" role="button">
-Misfits - 3 Hits From Hell (1981-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/650d27e1-9f0e-494f-9884-adbf7cdd4870/15536272807-500.jpg" data-tags="punk, post-punk, art punk, deathrock" role="button">
-T.S.O.L. - Beneath the Shadows (1982)
-</li>
 <li data-cover="https://img.discogs.com/SeAJDQLC0y-OfXgPauxzsK2iWSE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067387-1262092734.jpeg.jpg" data-tags="horror punk" role="button">
 Misfits - Evilive (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">
 Misfits - Walk Among Us (1982-03)
-</li>
-<li data-cover="https://img.discogs.com/LJyH69eDhPMESXhU3mCnjjrgFtI=/fit-in/600x1019/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730527-1455234574-1707.jpeg.jpg" data-tags="rock, 80s, punk, hardcore, horror punk, art punk, compilation, deathrock, anarcho-punk, funkcore" role="button">
-T.S.O.L. - Weathered Statues (1982-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc486702-fc3f-4ded-bb9b-c8fccda2c065/6614919097-500.jpg" data-tags="deathrock, horror punk" role="button">
 45 Grave - Sleep in Safety (1983)
@@ -174,6 +165,9 @@ Aiden - Our Gangs Dark Oath (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/7c0d4bc5-0173-452c-ae90-2027063e3533/3375164242-500.jpg" data-tags="horror punk, psoa" role="button">
 Bloodsucking Zombies from Outer Space - See You at Disneyland (2004-06-14)
 </li>
+<li data-cover="https://img.discogs.com/yasJH7j7KAYMBwjM8uWrUKNmibk=/fit-in/250x249/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848493-1165089176.jpeg.jpg" data-tags="horror punk" role="button">
+Dr. Chud's X-Ward - Diagnosis for Death (2004-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e1215dd-1ca0-480b-911a-6c9ddca653f9/15177837453-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Danzig - Circle of Snakes (2004-08-31)
 </li>
@@ -227,6 +221,9 @@ Michale Graves - Return To Earth (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e67eae37-c3ca-423e-8684-27ced9141d5a/5844658791-500.jpg" data-tags="horror punk" role="button">
 Murderland - Lights Out (2007)
+</li>
+<li data-cover="https://img.discogs.com/BporqnF_paFPoJiimoa4knpemQ8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7770396-1448406115-9753.jpeg.jpg" data-tags="horror punk, tocheck" role="button">
+Horror Story - Sons of Hell Island (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">
 Calabrese - The Traveling Vampire Show (2007-01)
@@ -282,8 +279,8 @@ Satan - 13 I Scream (2010-06)
 <li data-cover="https://img.discogs.com/1UblDvy7P_2ODkJOjiMJtEEPAhE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423401-1494953862-1512.jpeg.jpg" data-tags="horror punk" role="button">
 Murderdolls - Women and Children Last (2010-08-31)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
-Motionless in White - Creatures (2010-10-12)
+<li data-cover="http://coverartarchive.org/release/4793ded9-952d-4cf0-a830-7fcc2c628e0c/5829496367-500.jpg" data-tags="horror punk, glam punk, glam metal, sleaze rock, horror glam" role="button">
+Ragdolls - Dead Girls Don't Say No (2011-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b95b80b9-8a8a-42ca-bc19-f7f2c77b8b68/23430647572-500.jpg" data-tags="heavy metal, horror punk, glam rock, glam punk, sleaze, glam metal, sleaze rock, horror glam" role="button">
 Sister - Hated (2011-06-06)
@@ -320,5 +317,8 @@ Doyle - Abominator (2013-04-17)
 </li>
 <li data-cover="https://img.discogs.com/i6xvDlYlZf8lHI5hWKu7IvYGXOg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4686086-1372219718-5606.jpeg.jpg" data-tags="horror punk" role="button">
 Michale Graves - Lost Skeleton Returns (2013-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/64fc0460-c482-428a-80b4-16de7b76d14c/21243658060-500.jpg" data-tags="horror punk" role="button">
+Michale Graves - Supernatural (2014-02-04)
 </li>
 </ol>

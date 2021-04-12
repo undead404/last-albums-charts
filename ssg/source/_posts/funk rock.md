@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:47:07.004Z
+date: 2021-04-12T06:23:01.403Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -53,9 +53,6 @@ Eddie Hazel - Game, Dames And Guitar Thangs (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4b01ae1-7a87-41e6-ad21-fd5dc95d3c10/12222390608-500.jpg" data-tags="70s, krautrock" role="button">
 Can - Saw Delight (1977)
-</li>
-<li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
-Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="https://img.discogs.com/IH8q1jw4mqop3Lpn7sNDvyGGEhk=/fit-in/368x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500781-1270158550.jpeg.jpg" data-tags="art rock, 70s, new wave, post-punk" role="button">
 Japan - Obscure Alternatives (1978-08)
@@ -125,9 +122,6 @@ Primus - Pork Soda (1993-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/06c8f48c-caa0-4282-b7fe-264c4b673085/2192549116-500.jpg" data-tags="rapcore, nu metal, funk rock" role="button">
 Papa Roach - Potatoes For Christmas (1994)
-</li>
-<li data-cover="https://img.discogs.com/Rx8tSOw6aVv0ISSgWLizLMrWPx8=/fit-in/586x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444632-1325254829.jpeg.jpg" data-tags="kiwi" role="button">
-Supergroove - Traction (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f4fc8ee-2c54-4796-ae65-cd935c86c52f/4851188326-500.jpg" data-tags="funk metal, funk" role="button">
 Infectious Grooves - Groove Family Cyco (1994-03-29)
@@ -243,6 +237,9 @@ Mortifera - Vastiia Tenebrd Mortifera (2004-12)
 <li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
 O'Funk'illo - No Te Cabe Na' (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/30add6dc-ad2d-488c-9b4a-75594f1e3c96/5561409209-500.jpg" data-tags="progressive rock" role="button">
+Adrian Belew - Side One (2005-01-25)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
 Papa Roach - Live and Murderous in Chicago (2005-11-22)
 </li>
@@ -257,6 +254,9 @@ Satellite Party - Ultra Payloaded (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3de7a77-8de8-44f2-9830-a757d87ccf46/6488476227-500.jpg" data-tags="pop, maroon 5, rock" role="button">
 Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
+</li>
+<li data-cover="https://img.discogs.com/MxIgSM7BMKawizuE2KFPr2L0cVM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2824082-1302687279.jpeg.jpg" data-tags="alternative rock, hard rock, pop rock, funk rock, third wave ska, wundervoll" role="button">
+Krautschädl - Im Kraut (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)

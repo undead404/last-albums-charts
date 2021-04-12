@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:36:01.419Z
+date: 2021-04-12T06:37:01.402Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -288,8 +288,8 @@ Creed - Full Circle (2009-10-27)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
-The Pretty Reckless - Light Me Up (2010-08-27)
+<li data-cover="https://img.discogs.com/fQHNOqpx7Y7c0YHE4skjYWlMq9I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259635-1280745146.jpeg.jpg" data-tags="rock, lifehouse" role="button">
+Lifehouse - Smoke & Mirrors (2010-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b2249ed-c585-4e42-bd7d-e3fd102f8259/3184625452-500.jpg" data-tags="hard rock, metal" role="button">
 Stone Sour - Audio Secrecy (2010-09-01)

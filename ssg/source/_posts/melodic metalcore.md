@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:54:07.032Z
+date: 2021-04-12T06:38:01.400Z
 title: "melodic metalcore: 100 albums you must listen to before you die"
 ---
 ![In This Moment - Beautiful Tragedy (2007-03-20)](http://coverartarchive.org/release/d11a059c-31ac-3d54-bea8-a0dcf700cb53/1039510828-500.jpg "In This Moment - Beautiful Tragedy (2007-03-20)")
@@ -231,9 +231,6 @@ The Amity Affliction - Youngbloods (2010-06-18)
 <li data-cover="http://coverartarchive.org/release/4e21cc31-fa28-43a1-810f-c89e71eefac7/1039584625-500.jpg" data-tags="alternative metal, melodic metalcore, metalcore" role="button">
 In This Moment - A Star-Crossed Wasteland (2010-07-10)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
-Motionless in White - Creatures (2010-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/00e40879-8672-45f6-9172-72b891a955d4/6514067219-500.jpg" data-tags="metalcore" role="button">
 All That Remains - For We Are Many (2010-10-12)
 </li>
@@ -308,6 +305,9 @@ Counterparts - The Difference Between Hell and Home (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/faa02889-9802-468c-a614-b472be4b7f4f/4941497463-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 blessthefall - Hollow Bodies (2013-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/15ff67d1-92ed-43ee-a9f5-cd21d95c2c81/5685621731-500.jpg" data-tags="metalcore, glamcore, melodic metalcore" role="button">
+Glamour of the Kill - Savages (2013-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/da714bba-e7a9-4051-88ba-6186c449f399/5372279436-500.jpg" data-tags="metalcore, thrash metal" role="button">
 Trivium - Vengeance Falls (2013-10-09)

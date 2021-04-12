@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T13:29:01.412Z
+date: 2021-04-12T06:19:06.981Z
 title: "disney: 100 albums you must listen to before you die"
 ---
 ![Selena Gomez &amp; the Scene - Kiss &amp; Tell (2009-09-29)](http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg "Selena Gomez & the Scene - Kiss & Tell (2009-09-29)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">Various Artists - The Lion King (1997-11-14)</li>
+<li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">Jesse McCartney - Beautiful Soul (2004-08-12)</li>
+<li data-cover="http://coverartarchive.org/release/b29b1806-0f28-4e6a-9b70-a0045a60e63d/6589065073-500.jpg" data-tags="vanessa hudgens, pop" role="button">Vanessa Hudgens - V (2006-09-26)</li>
 <li data-cover="https://img.discogs.com/rrCrFXiGfLmEPXLXqO28S-UWhJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021016-1184898924.jpeg.jpg" data-tags="pop" role="button">Ashley Tisdale - Headstrong (2007-02-06)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">Jonas Brothers - A Little Bit Longer (2008-01-01)</li>
-<li data-cover="http://coverartarchive.org/release/82f35278-fef9-4543-919f-838dd8b5ab35/14358628966-500.jpg" data-tags="pop rock, pop, demi lovato" role="button">Demi Lovato - Don't Forget (2008-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/30e94c65-d564-4f6f-b404-3ff39b5e609c/14358982805-500.jpg" data-tags="pop, pop rock, demi lovato" role="button">Demi Lovato - Here We Go Again (2009-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">Selena Gomez & the Scene - Kiss & Tell (2009-09-29)</li>
-<li data-cover="https://img.discogs.com/4uqPV9kYgCYA3Uzp-9M3RoXIzM4=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747406-1311765286.jpeg.jpg" data-tags="pop, miley cyrus" role="button">Miley Cyrus - Can't Be Tamed (2010-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/7dd26a97-673b-440c-84b2-a6a084931684/6919950691-500.jpg" data-tags="female vocalists, disney" role="button">Lemonade Mouth - Lemonade Mouth (2011-04-12)</li>
-<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/dbb18663-128c-4d80-aa6d-65cb43ceb84e/14359720327-500.jpg" data-tags="pop" role="button">Demi Lovato - Demi (2013-05-10)</li>
+<li data-cover="http://coverartarchive.org/release/ea866a8d-d190-46db-80d5-84703c22bbb3/6190333473-500.jpg" data-tags="pop, dance-pop, 00s, disney, eletronic, divas, miley cyrus, eletronic pop, miley, 7things, parceiras" role="button">Fifth Harmony - Better Together (2013-10-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,6 +23,12 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/qmiHr31eMrhpt5mhhFZmzIKW7R0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588533-1292164491.jpeg.jpg" data-tags="jazz, dave brubeck" role="button">
 The Dave Brubeck Quartet - Dave Digs Disney (1957)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbb931ef-b82a-4acd-a057-2c4193af520f/25606221896-500.jpg" data-tags="soundtrack" role="button">
+Henry Mancini - The return of the Pink panther (1975)
+</li>
+<li data-cover="http://coverartarchive.org/release/ffd6954e-5fec-41e1-b158-84e236644f33/14723064041-500.jpg" data-tags="cartoon, disney, cat, cartoons, cats, pink panther, gammarec, merrie melodies, xmiyx, weeziemix, freepurp1e, juma" role="button">
+Henry Mancini - The Pink Panther Strikes Again (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/285ea534-57b3-43aa-8feb-fe64534a1ca7/3205192812-500.jpg" data-tags="jazz, theme, cartoon, disney, cat, cartoons, cats, pink panther, merrie melodies, xmiyx" role="button">
 Henry Mancini - Revenge of the Pink Panther (1978)
@@ -35,6 +41,9 @@ Wendy Carlos - Tron (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/3db124fa-589c-4b75-a9f5-52fb36ea19de/9650033364-500.jpg" data-tags="soundtrack, instrumental, easy listening, disney, cat, cartoons, cats, pink panther, merrie melodies, xmiyx, weeziemix, test mt, h-mancini, h mancini" role="button">
 Henry Mancini - Pink Panther and Other Hits (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8418d46-28ae-333d-b3c5-a00de9b3a7e1/10424845612-500.jpg" data-tags="soundtrack" role="button">
+Alan Silvestri - Who Framed Roger Rabbit (1988)
 </li>
 <li data-cover="https://img.discogs.com/AlBuvOKmnWGBjEi2dY5j-DiQiFY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8224636-1457462324-2201.jpeg.jpg" data-tags="soundtrack, disney" role="button">
 Alan Menken - The Little Mermaid (1989-10-13)
@@ -50,6 +59,12 @@ Lebo M - Rhythm of the Pride Lands (1995-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/88f22aa9-1317-45a3-a5ee-d70b32b2c9a9/8862549874-500.jpg" data-tags="soundtrack" role="button">
 Randy Newman - Toy Story (1995-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/45c020fa-65b6-446e-90f8-592db4cb9bbe/2720142981-500.jpg" data-tags="soundtrack" role="button">
+Alan Menken - Pocahontas (1995-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/69344ac2-418a-4707-b7ba-787caa277e84/8776338026-500.jpg" data-tags="soundtrack" role="button">
+Randy Newman - James And The Giant Peach (1996-04)
 </li>
 <li data-cover="https://img.discogs.com/CQy4fGsTtROE43CxJfZoZtRF5C8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15578701-1593950818-1430.jpeg.jpg" data-tags="kids" role="button">
 Sesame Street - Monster Melodies (1996-09-03)
@@ -71,9 +86,6 @@ Various Artists - Mulan (1998-04-01)
 </li>
 <li data-cover="https://img.discogs.com/D8Qfs71QYKtXhMzTMjGjvrbmQE8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5247103-1388663305-6740.jpeg.jpg" data-tags="soundtrack, disney" role="button">
 Randy Newman - A Bug's Life (1998-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd9b2fd9-d67a-4c3b-a405-89252fbe16d9/21496136995-500.jpg" data-tags="ethereal" role="button">
-KOKIA - songbird (1999-07-16)
 </li>
 <li data-cover="https://img.discogs.com/aEX8ae0RQCruG8eXjcbUU6p09OU=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15743144-1596972842-8577.jpeg.jpg" data-tags="soundtrack" role="button">
 James Newton Howard - Dinosaur (2000-05-02)
@@ -99,11 +111,17 @@ Various Artists - Disneymania (2002-09-11)
 <li data-cover="http://coverartarchive.org/release/b822ae77-3a1b-4fc3-9dd7-b0f3db1d8d79/8930013499-500.jpg" data-tags="disney" role="button">
 James Newton Howard - Treasure Planet (2002-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/fc8dbf7c-1666-4bf1-abc6-a857f9c812fe/8813390710-500.jpg" data-tags="disney" role="button">
+Carly Simon - Piglet's Big Movie (2003)
+</li>
+<li data-cover="https://img.discogs.com/Jgs17OPC4cxqCmarmBBd6YqgCF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6937239-1429922548-8289.jpeg.jpg" data-tags="disney, hawaii, hawaiian, surfer, aloha" role="button">
+Mark Keali'i Ho'omalu - Po'okela Chants (2003-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/80a63982-dab8-4e5f-8a0c-1c282056dc74/16723916752-500.jpg" data-tags="soundtrack" role="button">
 Thomas Newman - Finding Nemo (2003-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">
-Hilary Duff - Metamorphosis (2003-06-20)
+<li data-cover="https://img.discogs.com/AdLN7Rlllr02NimfSQ-2-G_i0cE=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2607454-1415276267-2847.jpeg.jpg" data-tags="pedobear does approve, pedocore" role="button">
+Prussian Blue - Fragment of the Future (2004)
 </li>
 <li data-cover="https://img.discogs.com/1XFpql-iBgpy-ujWSX4hj1FsAOU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4507917-1588827564-9515.jpeg.jpg" data-tags="soundtrack, soundtracks, disney" role="button">
 Ryan Cabrera - On the Way Down (Radio Disney version) (2004)
@@ -111,14 +129,14 @@ Ryan Cabrera - On the Way Down (Radio Disney version) (2004)
 <li data-cover="http://coverartarchive.org/release/bbc99c02-97a3-4c47-b9b1-927e384484dd/25576566662-500.jpg" data-tags="jazz" role="button">
 Henry Mancini - The Ultimate Pink Panther (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b0b9bfe-8a89-464a-9e28-25063cb2e92e/5374732982-500.jpg" data-tags="soundtrack, soundtracks, disney, alan menken, home on the range, american film score composers" role="button">
+Alan Menken - Home On The Range (2004-03-30)
+</li>
 <li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="technical progressive death metal, brutal death grind, hardstyle, neoclassical shred mohommad suicmez theory arpeggio deathmetal metal brutal solo guitar grindcore powerful enegetic enery thrash heavy hardcore rock technical technique" role="button">
 Various Artists - That's So Raven (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">
 Jesse McCartney - Beautiful Soul (2004-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0440635-800b-4b22-80fd-551d4abbdce9/10253297780-500.jpg" data-tags="pop, pop rock" role="button">
-Hilary Duff - Hilary Duff (2004-09-15)
 </li>
 <li data-cover="https://img.discogs.com/0wcfkf1U4c0B9pYt87ubD_iIi98=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8558876-1464023185-1837.jpeg.jpg" data-tags="disney" role="button">
 Christy Carlson Romano - Christy Carlson Romano: Greatest Disney TV & Film Hits (2004-10-26)
@@ -132,14 +150,17 @@ Jim Brickman - The Disney Songbook (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/2e6c9ea4-d49b-4a89-be2b-1e4f9b437625/3788897705-500.jpg" data-tags="soundtrack" role="button">
 Alan Menken - Beauty and the Beast (2005-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/5aed40bf-de90-4f15-b966-85835d8a2e37/26768560832-500.jpg" data-tags="disney, version" role="button">
+Jump5 - Shining Star (2005-11-22)
+</li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="disney" role="button">
 Various Artists - High School Musical (2006-01-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/ec26aaab-384d-4c1e-b242-8a8f5143e403/8204861614-500.jpg" data-tags="soundtrack, soundtracks, disney, movie, foreign disney, kim possible" role="button">
+Priscilla - Mission Kim Possible (2006-06-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/1951bee8-02a6-4187-836a-caa22e8e5695/8844810829-500.jpg" data-tags="soundtrack, musical, disney" role="button">
 The Cheetah Girls - The Cheetah Girls 2 (2006-08-15)
-</li>
-<li data-cover="https://img.discogs.com/ufb38_kbj772fQ-hSCZ9BGG1S7Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790033-1344603975-8232.jpeg.jpg" data-tags="pop rock, nam" role="button">
-Jesse McCartney - Right Where You Want Me (2006-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b29b1806-0f28-4e6a-9b70-a0045a60e63d/6589065073-500.jpg" data-tags="vanessa hudgens, pop" role="button">
 Vanessa Hudgens - V (2006-09-26)
@@ -168,14 +189,8 @@ Jonas Brothers - Jonas Brothers (2007-08-07)
 <li data-cover="http://coverartarchive.org/release/c4f65635-e375-412a-a5ab-ebd99b9d73b4/8908802859-500.jpg" data-tags="pop, female vocalists, disney, cheetah girls" role="button">
 The Cheetah Girls - TCG (2007-09-25)
 </li>
-<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
-Narsilion - Namárië (2008)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">
-Jesse McCartney - Departure (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ec333ea-699b-4a8d-baf4-611322938ff8/4982106615-500.jpg" data-tags="pop, dance, r&b, male vocalist, disney" role="button">
 Jesse McCartney - Departure: Recharged (2008-05-20)
@@ -188,9 +203,6 @@ Jordan Pruitt - Permission To Fly (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e74eac3-c6b6-4138-814d-1dcbecda65e4/8844695774-500.jpg" data-tags="soundtrack, pop, female vocalists, disney, girl power, cheetah girls" role="button">
 The Cheetah Girls - The Cheetah Girls: One World (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/82f35278-fef9-4543-919f-838dd8b5ab35/14358628966-500.jpg" data-tags="pop rock, pop, demi lovato" role="button">
-Demi Lovato - Don't Forget (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Nightmare Revisited (2008-09-30)
@@ -237,9 +249,6 @@ Miley Cyrus - The Time of Our Lives (2009-08-31)
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
-<li data-cover="https://img.discogs.com/SF5HQd-dSC59s6W48p11KtJ5tIg=/fit-in/593x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2284489-1475686437-5802.jpeg.jpg" data-tags="emily osment, pop" role="button">
-Emily Osment - All The Right Wrongs (2009-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/3bb31143-6e63-4783-bfba-2c8cd2df39d7/10013206892-500.jpg" data-tags="covers, disney, los lobos, schlageroldies" role="button">
 Los Lobos - Los Lobos Goes Disney (2009-10-27)
 </li>
@@ -249,17 +258,8 @@ Randy Newman - The Princess and the Frog (2009-11-23)
 <li data-cover="https://img.discogs.com/K24b_7ArYGxuZOJalfsEtTfXYv0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1319490-1376114657-9908.jpeg.jpg" data-tags="soundtrack, soundtracks, kids, disney, sesame street, children s-childrens" role="button">
 Sesame Street - Sesame Street (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/73f874b7-a7a1-4775-a286-8c4efde115ba/13235858372-500.jpg" data-tags="one time" role="button">
-Justin Bieber - One Time (2010-01-02)
-</li>
-<li data-cover="https://img.discogs.com/T_pf5qaSAN8fOet9LL_nHlRfQO8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2422354-1573779382-2243.png.jpg" data-tags="pop, miranda cosgrove, pop rock" role="button">
-Miranda Cosgrove - Sparks Fly (2010-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/2256b94a-03d7-47aa-bdc7-b576eebcab82/7396580145-500.jpg" data-tags="soundtrack, disney" role="button">
 Randy Newman - Toy Story 3 (2010-06-15)
-</li>
-<li data-cover="https://img.discogs.com/4uqPV9kYgCYA3Uzp-9M3RoXIzM4=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747406-1311765286.jpeg.jpg" data-tags="pop, miley cyrus" role="button">
-Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/52856132-8bc3-4597-86ab-bc548bad1d02/8776484102-500.jpg" data-tags="disney, pop" role="button">
 Jonas Brothers - Jonas L.A. (2010-07-20)
@@ -279,17 +279,14 @@ Jesse McCartney - Have It All (2011)
 <li data-cover="http://coverartarchive.org/release/7dd26a97-673b-440c-84b2-a6a084931684/6919950691-500.jpg" data-tags="female vocalists, disney" role="button">
 Lemonade Mouth - Lemonade Mouth (2011-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
-Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Unbroken (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6680941-30dd-4ab2-a3d8-b0eaa07781f4/8718186734-500.jpg" data-tags="pop rock, traditional pop, cover, disney, brian wilson, fuck yep, wondermints" role="button">
 Brian Wilson - In the Key of Disney (2011-10-24)
 </li>
-<li data-cover="https://img.discogs.com/2lO5NC40-x61Y15XqlY11RRykQg=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6861571-1428204353-3273.jpeg.jpg" data-tags="soundtrack, pop, ambient, composer, disney" role="button">
-Debby Ryan - We Got the Beat (2012-02-21)
+<li data-cover="https://img.discogs.com/orQIgoUYgOrI5iE5J8UlwIFD9hc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3278782-1323636451.jpeg.jpg" data-tags="hip-hop, pop, rnb, disney, valentine" role="button">
+Mindless Behavior - Valentine's Girl (2012-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/416d8beb-30cd-413a-a7f1-44cfadafab97/4590809608-500.jpg" data-tags="ska, disney, third wave ska, reel big fish, lion king, the little mermaid, lyrics born, the aquabats, day job, under the sea, suburban legends, open up your eyes, just be happy, punk ska unity, going on tour" role="button">
 Suburban Legends - Day Job (2012-04-03)
@@ -320,5 +317,8 @@ Demi Lovato - Demi (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea866a8d-d190-46db-80d5-84703c22bbb3/6190333473-500.jpg" data-tags="pop, dance-pop, 00s, disney, eletronic, divas, miley cyrus, eletronic pop, miley, 7things, parceiras" role="button">
 Fifth Harmony - Better Together (2013-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc9f6c2b-523b-4260-9e63-fe6685736398/8727689552-500.jpg" data-tags="disney, remixes, 2010s, technodance" role="button">
+Various Artists - DCONSTRUCTED (2014-04-22)
 </li>
 </ol>

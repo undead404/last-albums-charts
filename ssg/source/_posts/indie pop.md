@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:04:01.434Z
+date: 2021-04-12T06:31:06.939Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -312,13 +312,13 @@ Sylvan Esso - Sylvan Esso (2014-05-12)
 <li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
 Glass Animals - ZABA (2014-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2418376-2c16-416d-84a6-bd045f0464dd/7515767685-500.jpg" data-tags="indie pop, 2010s, rca records" role="button">
+Bleachers - Strange Desire (2014-07-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">
 Vance Joy - Dream Your Life Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
 alt-J - This Is All Yours (2014-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
-Walk the Moon - Talking Is Hard (2014-11-24)
 </li>
 </ol>

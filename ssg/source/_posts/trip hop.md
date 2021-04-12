@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:18:01.404Z
+date: 2021-04-12T06:33:01.401Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -44,9 +44,6 @@ Moloko - Do You Like My Tight Sweater? (1995-09-01)
 </li>
 <li data-cover="https://img.discogs.com/53O4nbwhSos24lA0I3Bm2do3b8M=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61294-1193595283.jpeg.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - Smokers Delight (1995-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
-DJ Krush - Milight (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
@@ -183,8 +180,8 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7b050f6-1a17-4896-9f7c-7ee593739423/4523666954-500.jpg" data-tags="ninja tune" role="button">
-One Self - Children of possibility (2005-06-13)
+<li data-cover="http://coverartarchive.org/release/839570e0-dfe5-403f-b498-d6e6a08ab34f/28569193564-500.jpg" data-tags="electronic, dance" role="button">
+Faithless - Forever Faithless: The Greatest Hits (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
@@ -275,6 +272,9 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/7888ccd8-30ea-4af2-8cda-6cac963dfb4d/2471770293-500.jpg" data-tags="soul, ambient, experimental, trip hop, eletronic, atlantic records" role="button">
+Delilah - From The Roots Up (2012-05-01)
 </li>
 <li data-cover="https://img.discogs.com/59bXsu33PLTKLLayvOH1aPqAlMg=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4023781-1353288266-4410.jpeg.jpg" data-tags="pop, lana del rey" role="button">
 Lana Del Rey - Ride (2012-09-25)

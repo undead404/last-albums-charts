@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:27:01.403Z
+date: 2021-04-12T05:46:01.415Z
 title: "neo soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -123,6 +123,9 @@ Erykah Badu - Worldwide Underground (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)
 </li>
+<li data-cover="https://img.discogs.com/1ULKZwpqzO-cdyenj1HrUZP09UE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13798813-1561381315-5067.jpeg.jpg" data-tags="nu soul, smooth, neo soul" role="button">
+Kala - Kala (2004)
+</li>
 <li data-cover="https://img.discogs.com/kAFcrJ7HmoY6TFruqgevqAKmZnk=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-355546-1103221358.jpg.jpg" data-tags="neo-soul" role="button">
 Rahsaan Patterson - After Hours (2004-04-26)
 </li>
@@ -155,6 +158,9 @@ Sofa Surfers - Sofa Surfers (2005-10-28)
 </li>
 <li data-cover="https://img.discogs.com/gS99wBsu0GrxATpMifSV1_HI_e0=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591468-1137119629.jpeg.jpg" data-tags="soul" role="button">
 Goapele - Change It All (2005-12-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/c51e144d-d94d-44b9-8114-9946d3f4190d/11997466758-500.jpg" data-tags="indie, female, hip hop, usa, funk, singer, driving, songwriter, rnb, jazzy, soulful, neo soul, faith, fresh, chilling, philly soul, rnb-soul, mellow rnb, rnb-hiphop, hiphop rnb, indie-rnb, rnb urban, s cuie" role="button">
+Sabrina Cuie - Body Language (2006)
 </li>
 <li data-cover="https://img.discogs.com/XGUj8MtZFiX4or3OtCiZLA5ev0I=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409813-1217282926.jpeg.jpg" data-tags="soul, neo soul, omar5" role="button">
 Omar - Sing (If You Want It) (2006-03-08)
@@ -198,11 +204,8 @@ Mattafix - Living Darfur (2007-11-16)
 <li data-cover="https://img.discogs.com/PAtSiVSaJEDADUEa_fBPHH277Vw=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1282262-1329584816.jpeg.jpg" data-tags="soul, smooth, relaxing" role="button">
 Raheem DeVaughn - Love Behind The Melody (2008-01-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
-Lizz Wright - The Orchard (2008-02-26)
-</li>
-<li data-cover="https://img.discogs.com/iHm9jimYPOxx0a5P0DzME65LUDY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1359894-1212702927.jpeg.jpg" data-tags="soul, female vocalists" role="button">
-Lalah Hathaway - Self Portrait (2008-06-03)
+<li data-cover="https://img.discogs.com/sKUufX0abNbqk-e467XorIFR6i8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3628940-1338020923-5315.jpeg.jpg" data-tags="neo soul, modern world soul music" role="button">
+Conya Doss - Still (2008-04-07)
 </li>
 <li data-cover="https://img.discogs.com/zRF9Be8UsB9mqkMPl_G8fSYSACs=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3525917-1599392717-4667.jpeg.jpg" data-tags="soul" role="button">
 Hil St. Soul - Black Rose (2008-06-10)
@@ -215,9 +218,6 @@ J*DaVeY - The Beauty In Distortion / The Land Of The Lost (2008-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ba43de6-27cd-4328-97bc-37b221d7124e/1821220132-500.jpg" data-tags="soul" role="button">
 Raphael Saadiq - The Way I See It (2008-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
-Mr. Scruff - Ninja Tuna (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/iCEWQF2PnDjvsJWGwAw8vH5R6ZE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057789-1261411597.jpeg.jpg" data-tags="soul" role="button">
 John Legend - Evolver (2008-10-22)
@@ -309,14 +309,14 @@ Quadron - Avalanche (2013-05-31)
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9156e65e-fbef-4b62-8267-c1e1a463eb44/11201436281-500.jpg" data-tags="soul" role="button">
-Aloe Blacc - Lift Your Spirit (2013-10-25)
-</li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5098eef1-82fa-45de-a097-9b3b1ab29a7c/7963218999-500.jpg" data-tags="pop" role="button">
 Pixie Lott - Pixie Lott (2014-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/96b61bf7-9843-425e-9905-c13e8be194c7/8498105804-500.jpg" data-tags="pop, soul, contemporary, adult contemporary, neo soul, 10s, mark evans, contemporary r&b, robin gibb, peter john vettese" role="button">
+Robin Gibb - 50 St. Catherine's Drive (2014-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb53942-91a0-45ef-aa7c-834f5c47e6dd/8667458837-500.jpg" data-tags="electronic" role="button">
 Flight Facilities - Down To Earth (2014-10-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:04:01.402Z
+date: 2021-04-12T06:16:07.266Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -12,7 +12,7 @@ title: "classic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">Billy Joel - The Essential Billy Joel (2001-10-02)</li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
+<li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">Cam'ron - Come Home With Me (2002-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">The Weeknd - Trilogy (2012-11-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -93,6 +93,9 @@ Tom Waits - Franks Wild Years (1987-08-17)
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">
 Chicago - The Chicago Story (1989)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae9af6b8-3549-4a3a-91af-82d2195f8ea4/7502231071-500.jpg" data-tags="hip hop, classic, old school rap, real hip-hop, fun to skateboard to, hiphop classic albums, my collection great 150 albumz of rap, excellent lyricism, check the wordplay" role="button">
+Special Ed - Youngest in Charge (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
 </li>
@@ -137,6 +140,9 @@ Antonio Vivaldi - Tranquillity: The Seasons (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
+</li>
+<li data-cover="https://img.discogs.com/MjE_fzy4x-exqUYQ2y9_OjU6SZ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7408550-1472989303-9386.jpeg.jpg" data-tags="rnb, greatest hits, 90s" role="button">
+Janet Jackson - Design of a Decade: 1986-1996 (1995-10-02)
 </li>
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
@@ -234,23 +240,20 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/849f67a4-a3be-429d-b310-932e316faed4/15835064453-500.jpg" data-tags="grime" role="button">
 Dizzee Rascal - Boy in da Corner (2003-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/dda524f5-fb0c-4b3d-b9c8-cf5a9091f4c4/24387260473-500.jpg" data-tags="rap" role="button">
+Canibus - Rip The Jacker (2003-08-22)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/793b0d7d-a4cd-4937-9ec6-41f8b9bc0228/2562227796-500.jpg" data-tags="yiruma" role="button">
-Yiruma - From The Yellow Room (2003-10-23)
-</li>
 <li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
 Maurice Ravel - Piano Concerto (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d6c2fc9-a48a-4c70-90fd-a65a560b8745/20488765454-500.jpg" data-tags="classic, dope beats, screw music, down south, music to chief by, crunk music, yeeah, dirty thrid rap, that other shit, trae stdd" role="button">
 Trae - Same Thing Different Day (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
-Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
 <li data-cover="https://img.discogs.com/Cg0XR_4W3vAKWxFD_9ByGzO9EnA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4425372-1543274379-4790.jpeg.jpg" data-tags="rnb" role="button">
 Brandy - Afrodisiac (2004-06-28)
@@ -297,14 +300,11 @@ Bruce Springsteen - Nebraska (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
 </li>
-<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
-Rodriguez - Searching for Sugar Man (2012-07-20)
-</li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">
-Bruno Mars - Locked Out Of Heaven (2012-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Trilogy (2012-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbc6fe6a-bb29-49d8-abe6-eec2257f230c/9866413982-500.jpg" data-tags="classic, piano, relaxing music" role="button">
+Yiruma - Blind Film (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
 Queens of the Stone Age - ...Like Clockwork (2013-05-31)

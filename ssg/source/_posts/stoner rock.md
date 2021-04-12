@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:19:01.414Z
+date: 2021-04-12T06:24:18.198Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -10,8 +10,8 @@ title: "stoner rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/jBzR_P3-JnpTBSU2IYwpLY9VZK4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5330495-1390727105-4933.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)</li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">Eagles of Death Metal - Death By Sexy (2006-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Era Vulgaris (2007-06-08)</li>
+<li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">Wolfmother - Cosmic Egg (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
-<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">Them Crooked Vultures - Them Crooked Vultures (2009-11-13)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">Queens of the Stone Age - ...Like Clockwork (2013-05-31)</li>
 </ol>
@@ -72,9 +72,6 @@ Monster Magnet - Powertrip (1998-06-16)
 <li data-cover="http://coverartarchive.org/release/1c6604be-6d67-3152-a7c5-ea526e377d41/12185159321-500.jpg" data-tags="stoner rock" role="button">
 Queens of the Stone Age - Queens of the Stone Age (1998-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/ade2b8b9-82ea-444f-83ff-0bf2880e025a/14521543056-500.jpg" data-tags="stoner metal, stoner doom" role="button">
-Acid King - Busse Woods (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca5fae8d-f6de-4cca-ac62-321f9879ea85/17685151740-500.jpg" data-tags="stoner rock" role="button">
 The Atomic Bitchwax - The Atomic Bitchwax (1999-06-22)
 </li>
@@ -117,6 +114,9 @@ Fu Manchu - California Crossing (2001-10-23)
 <li data-cover="https://img.discogs.com/eU8ilXGsZBKlHEqmrBPbpZZw0Yo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703682-1372501032-4075.jpeg.jpg" data-tags="queens of the stone age, qotsa" role="button">
 Queens of the Stone Age - Go With The Flow (2002-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/196e9347-88ba-4526-9771-3f8510e9c59b/18236425450-500.jpg" data-tags="stoner rock" role="button">
+Melvins - Hostile Ambient Takeover (2002-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba831c7b-0759-4d98-8832-53a07695c31c/9796517771-500.jpg" data-tags="stoner rock" role="button">
 Hermano - ...Only a Suggestion (2002-07-09)
 </li>
@@ -153,6 +153,9 @@ Monster Magnet - Monolithic Baby! (2004-02-16)
 <li data-cover="http://coverartarchive.org/release/84229083-dcf9-45e3-921c-37fbd156acd2/24613696838-500.jpg" data-tags="doom metal, stoner rock" role="button">
 Witchcraft - Witchcraft (2004-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1f34a8e-2823-3430-8938-2739856acb9d/28665316046-500.jpg" data-tags="stoner rock, canadian, favorite, we love you guys" role="button">
+Wintersleep - Untitled (2005-02-15)
+</li>
 <li data-cover="https://img.discogs.com/H9cNe4rW_9iJOYosvGsLrPDv0Cg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1105105-1557865617-8084.jpeg.jpg" data-tags="stoner rock" role="button">
 Torche - Torche (2005-03-08)
 </li>
@@ -179,9 +182,6 @@ Danko Jones - Sleep Is the Enemy (2006-02-17)
 </li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
 Eagles of Death Metal - Death By Sexy (2006-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
-Melvins - A Senile Animal (2006-10-10)
 </li>
 <li data-cover="https://img.discogs.com/QF-2UccSNceJ3Rr2refbJGyRm7U=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052451-1188321905.jpeg.jpg" data-tags="stoner rock, desert rock" role="button">
 Fu Manchu - We Must Obey (2007-02-16)
@@ -231,6 +231,9 @@ Kadavar - Kadavar (2009)
 <li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">
 Wolfmother - Cosmic Egg (2009-01-01)
 </li>
+<li data-cover="https://img.discogs.com/e_R4FXJF57qycjo5RAiN9EVGAeU=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1778002-1262903398.jpeg.jpg" data-tags="stoner rock" role="button">
+Wo Fat - Psychedelonaut (2009-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/cfe933d8-1a77-4608-ad7a-4c0a4f3cc110/4819338139-500.jpg" data-tags="stoner rock" role="button">
 Truckfighters - Mania (2009-05-20)
 </li>
@@ -245,9 +248,6 @@ Arctic Monkeys - Humbug (2009-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">
 Om - God Is Good (2009-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
-Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)

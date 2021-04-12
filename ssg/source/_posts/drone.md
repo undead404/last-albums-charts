@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:32:01.578Z
+date: 2021-04-12T06:14:01.423Z
 title: "drone: 100 albums you must listen to before you die"
 ---
 ![Have a Nice Life - Deathconsciousness (2008-02-21)](http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg "Have a Nice Life - Deathconsciousness (2008-02-21)")
@@ -27,9 +27,6 @@ Tangerine Dream - Zeit (1972-08)
 <li data-cover="http://coverartarchive.org/release/dd1ce5b0-d6ce-4c52-b1a2-82c6e1d6fbd5/25884019087-500.jpg" data-tags="psychedelic, drone" role="button">
 Spacemen 3 - Dreamweapon (1990)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7245946-b87a-49a9-abdc-1b65b4410404/1604062677-500.jpg" data-tags="sludge, drone, doom metal" role="button">
-Melvins - Lysol (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/0e1eb037-ca0a-42d8-8f9e-8aedafdb0fd5/4530362186-500.jpg" data-tags="dark ambient, ambient, drone" role="button">
 Thomas Köner - Permafrost (1993)
 </li>
@@ -50,9 +47,6 @@ Stars of the Lid - Gravitational Pull vs. the Desire for an Aquatic Life (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
-</li>
-<li data-cover="https://img.discogs.com/pe80Ii1unpA-pe7WB1eUUXU_zps=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10226360-1501304641-6236.jpeg.jpg" data-tags="stoner rock" role="button">
-Earth - Pentastar: In the Style of Demons (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
 Swans - Soundtracks For The Blind (1996-10-22)
@@ -87,6 +81,12 @@ Boris - Flood (2000-12-15)
 <li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
 Khanate - Khanate (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/426582e7-ae22-446c-95f9-874f84f82e73/16741656384-500.jpg" data-tags="ambient" role="button">
+Windy & Carl - Consciousness (2001-03-18)
+</li>
+<li data-cover="https://img.discogs.com/sLmX0cLgU4GXuNR3am2vGa7GoKU=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138272-1466323574-9059.jpeg.jpg" data-tags="experimental" role="button">
+Animal Collective - Hollinndagain (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c2f966d-4037-4132-9fd7-9b144ef42326/28239694354-500.jpg" data-tags="drone, ambient, experimental" role="button">
 Keith Fullerton Whitman - Playthroughs (2002-10-21)
 </li>
@@ -102,9 +102,6 @@ Nadja - Touched (2003-05)
 <li data-cover="https://img.discogs.com/aKa3diJi3OzltEG8-tobhk2bK6o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334231-1210541514.jpeg.jpg" data-tags="stoner rock" role="button">
 Boris - Akuma No Uta (2003-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fcd1034-917b-4218-808a-7404fa52d1ad/4523575650-500.jpg" data-tags="doom metal, drone, drone doom" role="button">
-Khanate - Things Viral (2003-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ab44b9d-0e3f-4538-bbe5-d83e5bcf25eb/14964010488-500.jpg" data-tags="drone" role="button">
 Nadja - Corrasion (2003-11-15)
 </li>
@@ -116,6 +113,9 @@ Sunn O))) - White2 (2004-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/08bdfc62-6113-4db3-9b08-a2b2f2f8ccf6/16162049576-500.jpg" data-tags="ambient" role="button">
 Tim Hecker - Mirages (2004-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a216a33-6517-44d2-9a5c-043d353ceec6/18458995653-500.jpg" data-tags="ambient, drone, dream-sleep, w basinski" role="button">
+William Basinski - Silent Night (2004-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c409034-ce09-41a2-ad74-5dca27a561aa/8512365166-500.jpg" data-tags="drone, dark ambient" role="button">
 Diagnose: Lebensgefahr - Transformalin (2005)
@@ -129,11 +129,11 @@ Earth - HEX; Or Printing in the Infernal Method (2005-09-20)
 <li data-cover="http://coverartarchive.org/release/a87bb818-1584-4792-a4ea-ede2a752670f/12224448032-500.jpg" data-tags="drone" role="button">
 Sunn O))) - Black One (2005-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f4e03bf-e029-4c1e-91ae-491c87b45dd8/14921256445-500.jpg" data-tags="drone metal, drone" role="button">
-Nadja - Truth Becomes Death (2005-10-17)
-</li>
 <li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
+</li>
+<li data-cover="https://img.discogs.com/4wtj3rWlnzdpqvA3yTC59UCJSPk=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536775-1519850593-6492.jpeg.jpg" data-tags="ambient" role="button">
+Brian McBride - When the Detail Lost its Freedom (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/MtgXu0yNy2hLeIQvopQGKdLTUm8=/fit-in/490x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263768-1446998694-5625.png.jpg" data-tags="drone" role="button">
 Natural Snow Buildings - The Dance of the Moon and the Sun (2006)
@@ -141,17 +141,14 @@ Natural Snow Buildings - The Dance of the Moon and the Sun (2006)
 <li data-cover="http://coverartarchive.org/release/62b3c1b2-1ecf-449e-b0ce-f972736da46e/19073869053-500.jpg" data-tags="ambient, drone" role="button">
 Belong - October Language (2006-02-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">
-Om - Conference of the Birds (2006-02-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/996d05b0-603b-430f-9c2a-ee0999464932/17865999896-500.jpg" data-tags="drone, kranky" role="button">
 Keith Fullerton Whitman - Lisbon (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/78b8aeea-812d-46e8-8711-0df46f60623e/14116192207-500.jpg" data-tags="ambient" role="button">
 Loscil - Plume (2006-05-22)
 </li>
-<li data-cover="https://img.discogs.com/EDbALn2k6ZQKaGAePI_jnoP9Efs=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726345-1158836353.gif.jpg" data-tags="indie, psychedelic, new weird america, emusic" role="button">
-Brightblack Morning Light - Brightblack Morning Light (2006-06-20)
+<li data-cover="http://coverartarchive.org/release/5381a4c4-d5d0-4d49-b648-42cad6a02df2/22192085320-500.jpg" data-tags="ambient, experimental, drone" role="button">
+Machinefabriek - Marijn (2006-05-26)
 </li>
 <li data-cover="https://img.discogs.com/LiBLEXXbu4RaadKzfGtBRBy8PeA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-842568-1536010524-6050.jpeg.jpg" data-tags="instrumental, ambient, drone" role="button">
 Eluvium - When I Live by the Garden and the Sea (2006-08-22)
@@ -174,6 +171,9 @@ The Angelic Process - Weighing Souls With Sand (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/6f8b8b1d-4f89-4d92-9688-0f2b5177ef15/26171540721-500.jpg" data-tags="sludge" role="button">
 Bongripper - Hippie Killer (2007-06-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/3af8f7c6-641c-4a00-9575-eaf75cdf298f/19814749802-500.jpg" data-tags="noise, ambient, drone, 00s, compra mi disco" role="button">
+Yellow Swans - At All Ends (2007-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/77a1a942-8b33-4e13-b746-0e74ee054512/1059780038-500.jpg" data-tags="drone" role="button">
 Nadja - Radiance of Shadows (2007-10-09)
 </li>
@@ -185,6 +185,9 @@ Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1c1bbd3-c98b-4212-bc93-5784f5d81817/5142385480-500.jpg" data-tags="experimental, noise" role="button">
 Fuck Buttons - Street Horrrsing (2008-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8ddacfa-fd14-48b2-b4eb-1c0e73134aae/21327156415-500.jpg" data-tags="psychedelic, drone, ethereal" role="button">
+Pocahaunted - Island Diamonds (2008-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7bbf689-b65c-4d85-b8e2-533faf788fe1/1016426077-500.jpg" data-tags="drone" role="button">
 Nadja - Desire In Uneasiness (2008-04-07)
@@ -204,9 +207,6 @@ Emeralds - What Happened (2009-01)
 <li data-cover="https://img.discogs.com/YZoys12Nds_X9dM7TPnz9_-DZVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1611909-1528837707-2645.jpeg.jpg" data-tags="doom metal, drone, drone metal" role="button">
 Khanate - Clean Hands Go Foul (2009-01-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/81f85cc7-f015-4eea-9af6-d38bcc589e19/7892784186-500.jpg" data-tags="ambient, drone" role="button">
-William Basinski - 92982 (2009-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/49324b44-8f0d-4365-aab8-1e6a033cb899/16162035974-500.jpg" data-tags="ambient" role="button">
 Tim Hecker - An Imaginary Country (2009-03-09)
 </li>
@@ -219,11 +219,11 @@ Sunn O))) - Monoliths & Dimensions (2009-05-18)
 <li data-cover="https://img.discogs.com/nm60ZSy0RSuTi0Pd9CLXzFAYazo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1846535-1436105410-4304.jpeg.jpg" data-tags="dub, psychedelic, drone, space rock, tropical, neo-psychedelia, acid rock, prda, dub rock, not not fun records, sun ark records" role="button">
 Sun Araw - Heavy Deeds (2009-06-22)
 </li>
-<li data-cover="https://img.discogs.com/kFxILaeR0miu9E9n19Ohx9HL24E=/fit-in/350x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876339-1249498435.jpeg.jpg" data-tags="drone, post-metal" role="button">
-Jesu - Infinity (2009-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/70a9ffba-a48f-3255-9b27-4c55f98e2f80/25306984045-500.jpg" data-tags="shoegaze, folk, drone" role="button">
 Mount Eerie - Wind's Poem (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/54dac8b1-283b-45d8-add4-60894a7748ca/2389539068-500.jpg" data-tags="drone" role="button">
+Horseback - The Invisible Mountain (2009-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/968c5ff8-f579-4d44-a241-25ec42124803/2909531371-500.jpg" data-tags="ambient, new age, drone" role="button">
 Oneohtrix Point Never - Russian Mind (2009-10)
@@ -231,17 +231,17 @@ Oneohtrix Point Never - Russian Mind (2009-10)
 <li data-cover="https://img.discogs.com/AJR2mCOi8-YyOmaUR6VgzkKqryA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967297-1431603480-2723.jpeg.jpg" data-tags="noise, electronic, drone" role="button">
 Fuck Buttons - Tarot Sport (2009-10-12)
 </li>
+<li data-cover="https://img.discogs.com/r_aOPBU-96cK00B1obllhn3crA8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2117767-1270795198.jpeg.jpg" data-tags="noise, electronic, experimental, drone, ambient noise, post present medium" role="button">
+Infinite Body - Carve Out the Face of My God (2010-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/b2582f81-85a6-4c66-b55f-f299d3a466c7/18869751926-500.jpg" data-tags="noise, ambient" role="button">
 Yellow Swans - Going Places (2010-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/30aa96f5-ad33-4d93-91b2-055eb59d94f4/14356905603-500.jpg" data-tags="electronic, ambient, editions mego" role="button">
-Emeralds - Does It Look Like I'm Here? (2010-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a96ee369-9d38-4b13-a8c4-dab190519fc0/4753528871-500.jpg" data-tags="editions mego" role="button">
 Oneohtrix Point Never - Returnal (2010-06-28)
 </li>
-<li data-cover="https://img.discogs.com/4eXy0sIWpoRa_oCXpu44OiNqI74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414844-1562770547-1307.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
-Bongripper - Satan Worshipping Doom (2010-08-13)
+<li data-cover="https://img.discogs.com/tWNPqUjvcbarP2FnQsDyyvZl6G8=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512279-1288369485.jpeg.jpg" data-tags="drone, psychedelic drone" role="button">
+Barn Owl - Ancestral Star (2010-10)
 </li>
 <li data-cover="https://img.discogs.com/bmbZJ8aWExCVwnl0YhjisV14knI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705982-1297366221.jpeg.jpg" data-tags="ambient, drone" role="button">
 Tim Hecker - Ravedeath, 1972 (2011-01)
@@ -255,17 +255,20 @@ Blanck Mass - Blanck Mass (2011-06-20)
 <li data-cover="http://coverartarchive.org/release/d2feb107-82ac-4bfd-b712-b956c335c978/2605423742-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - Twentythree (2011-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1df9713-344e-48a5-9a19-0ce183f861a1/26406125673-500.jpg" data-tags="shoegaze, psychedelic, drone, psych, beyondwithin, hashisch party, dark psych, neo-psych, where is my bong, records to play when you come home from the pub pissed" role="button">
+Dead Skeletons - Dead Magick (2011-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/3466ac05-d0af-43d4-8650-9df083a9315c/2386440220-500.jpg" data-tags="instrumental, drone, stoner metal, doom jazz" role="button">
 Earth - Angels of Darkness, Demons of Light II (2012-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/30ca9c81-f62e-43f9-8f36-759d1a8a6a65/5756762856-500.jpg" data-tags="drone, n5md" role="button">
+Ex Confusion - Embrace (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3504f670-3ee5-4954-b8e1-a6cb28b5af02/11904296141-500.jpg" data-tags="drone, psychedelic rock, 10s, neo-psychedelia, 2012 releases, raga rock" role="button">
 The Brian Jonestown Massacre - Aufheben (2012-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
 Mount Eerie - Clear Moon (2012-05-22)
-</li>
-<li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
-Om - Advaitic Songs (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4a636f1-4732-4bc0-8559-66b8b3bc345f/1940789966-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - The Seer (2012-08-12)
@@ -311,9 +314,6 @@ Ben Frost - A U R O R A (2014-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
 Boris - Noise (2014-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/997a791c-e17c-4b7b-9177-12f548c994cd/7387728505-500.jpg" data-tags="ambient" role="button">
-Wolves in the Throne Room - Celestite (2014-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
 Earth - Primitive and Deadly (2014-09-02)

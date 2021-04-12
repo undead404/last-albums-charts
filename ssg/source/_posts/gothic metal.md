@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:27:01.410Z
+date: 2021-04-12T06:07:06.990Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -44,6 +44,9 @@ Moonspell - Wolfheart (1995-04-01)
 </li>
 <li data-cover="https://img.discogs.com/Hq60m52DaDiyfAvieUzv8EKKEtM=/fit-in/600x641/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8088705-1454920236-3817.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Paradise Lost - Draconian Times (1995-06-07)
+</li>
+<li data-cover="https://img.discogs.com/VXRlIE-4v9V2zhB4C7HHzmHCBWE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6864427-1428258355-7628.jpeg.jpg" data-tags="doom metal, gothic metal" role="button">
+Theatre of Tragedy - Theatre of Tragedy (1995-07-04)
 </li>
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
@@ -99,9 +102,6 @@ Tiamat - Skeleton Skeletron (1999-08-11)
 <li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
 Lacrimosa - Elodia (1999-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0ff9610-23ad-4f33-b710-c28242482545/3596965456-500.jpg" data-tags="doom metal, depressive rock" role="button">
-Katatonia - Tonight's Decision (1999-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/cc945711-8937-4b62-b521-cd311cea2f7f/1085483162-500.jpg" data-tags="gothic metal" role="button">
 Tristania - Beyond the Veil (1999-09)
 </li>
@@ -126,9 +126,6 @@ Within Temptation - Mother Earth (2000-12-04)
 <li data-cover="http://coverartarchive.org/release/3bb3e1b7-f897-4085-8a4b-1ed0454b4ddb/12542866193-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 After Forever - Decipher (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d2cfca8-1cdf-4a98-8bd5-0769b97769dc/3597667276-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Last Fair Deal Gone Down (2001-05-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f4e05fb-2c99-33a9-999d-1f467efee842/21088130235-500.jpg" data-tags="black metal" role="button">
 Cradle of Filth - Bitter Suites to Succubi (2001-06-18)
 </li>
@@ -150,6 +147,9 @@ Sentenced - The Cold White Light (2002-05-13)
 <li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - At Sixes and Sevens (2002-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/39e743f2-9b99-410a-af29-6ada0095d5f1/1085120361-500.jpg" data-tags="gothic metal" role="button">
+Trail of Tears - A New Dimension of Might (2002-09-16)
+</li>
 <li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Comalies (2002-09-18)
 </li>
@@ -159,6 +159,9 @@ Paradise Lost - Symbol of Life (2002-10-21)
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/95dd61a2-71ff-4fe4-bd03-545f45fff36f/1167209119-500.jpg" data-tags="gothic metal" role="button">
+Penumbra - Seclusion (2003)
+</li>
 <li data-cover="https://img.discogs.com/Di4fCTnUwkHCwg8Z0D2PThSPMrU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663497-1144956946.jpeg.jpg" data-tags="gothic metal" role="button">
 Poisonblack - Escapexstacy (2003-02-17)
 </li>
@@ -167,9 +170,6 @@ The Gathering - Souvenirs (2003-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e228cd1-aa1c-3244-bac8-2d56d56dd0a0/3597990218-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Viva Emptiness (2003-03-24)
 </li>
 <li data-cover="https://img.discogs.com/NiBRsPQxiOyKK4rHRSQpyDBHOwE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7526890-1488963396-1647.jpeg.jpg" data-tags="gothic metal" role="button">
 Xandria - Kill the Sun (2003-05-03)
@@ -240,11 +240,11 @@ Charon - Songs for the Sinners (2005-08-31)
 <li data-cover="http://coverartarchive.org/release/17833e8d-8f2f-3a65-817c-9eaf73e4129f/13604487761-500.jpg" data-tags="gothic metal" role="button">
 Beseech - Sunless Days (2005-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/463cd1ce-10d0-47d2-8fec-50cada1950fd/22013543456-500.jpg" data-tags="symphonic metal, gothic metal, female fronted metal" role="button">
+After Forever - Remagine (2005-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
-</li>
-<li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
-Katatonia - The Great Cold Distance (2006-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71fb132-49e8-46ee-8d07-5f746c40b3fa/14866844751-500.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Storm (2006-03-23)
@@ -297,9 +297,6 @@ Draconian - Turning Season Within (2008-02-29)
 <li data-cover="https://img.discogs.com/HbldurO8n8eb0CXcYt6DZBs7NeU=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2298155-1608282593-5245.jpeg.jpg" data-tags="gothic metal" role="button">
 Moonspell - Night Eternal (2008-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/92115106-1170-3684-b196-20fd64420935/1086297251-500.jpg" data-tags="gothic metal" role="button">
-Unsun - The End Of Life (2008-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4c7fe39d-1bd8-4974-8940-5cc8fa406490/1069142766-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - The 13th Floor (2009-01-23)
 </li>
@@ -320,5 +317,8 @@ Lacuna Coil - Dark Adrenaline (2012-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fe6e712-5b04-4e12-ab62-2061dd258d24/15082460943-500.jpg" data-tags="alternative metal, gothic metal" role="button">
 Lacuna Coil - Broken Crown Halo (2014-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/99150cc0-fb4f-45c5-a038-df3856492cb9/8643062435-500.jpg" data-tags="alternative metal" role="button">
+In This Moment - Black Widow (2014-11-14)
 </li>
 </ol>

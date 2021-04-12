@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:48:18.848Z
+date: 2021-04-12T06:08:01.413Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/ac452eb8-b63c-43ba-b389-e8762bf1de83/11958601731-500.jpg" data-tags="rock, 60s, classic rock" role="button">
+The Rolling Stones - Aftermath (1966-04-15)
+</li>
 <li data-cover="https://img.discogs.com/0h4cQRflb7QZo0Nwbtf1YTTIbKM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5051745-1392911107-7148.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Fresh Cream (1966-12-09)
 </li>
@@ -260,9 +263,6 @@ The Dead Weather - Horehound (2009-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/43075c98-16b9-4d92-bb33-44a3a84d58a6/19979198538-500.jpg" data-tags="blues rock, rock" role="button">
 Mark Knopfler - Get Lucky (2009-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
-Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)

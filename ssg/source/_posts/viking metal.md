@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:18:07.483Z
+date: 2021-04-12T06:42:01.423Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
