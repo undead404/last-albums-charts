@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:22:07.001Z
+date: 2021-04-12T04:21:01.425Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -237,6 +237,9 @@ Led Zeppelin - Led Zeppelin (2003-05-26)
 <li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
 Metallica - St. Anger (2003-06-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
+Avenged Sevenfold - Waking The Fallen (2003-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c1e204d-5753-4a12-9a27-f6cd70f296a1/15064785894-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Dance Of Death (2003-09-03)
 </li>
@@ -251,6 +254,9 @@ Lamb of God - Ashes Of The Wake (2004-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/90eba311-3eee-4b46-8900-ad2e8fb7d8ba/14972006997-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Angel Of Retribution (2005-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
+System of a Down - Mezmerize (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)
@@ -302,12 +308,6 @@ Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a63ea96-27bb-36a1-a18f-82b5e6d9c928/3799827743-500.jpg" data-tags="heavy metal" role="button">
 Volbeat - Beyond Hell / Above Heaven (2010-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
-Ghost - Opus Eponymous (2010-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
-Ghost - Infestissumam (2013-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)

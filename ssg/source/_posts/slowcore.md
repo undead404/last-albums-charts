@@ -1,12 +1,12 @@
 ---
-date: 2021-04-11T16:29:01.577Z
+date: 2021-04-12T03:46:06.869Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Low - I Could Live in Hope (1994-02-18)](http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg "Low - I Could Live in Hope (1994-02-18)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/01c518f7-7c3f-4679-9e0d-67252a737314/15606984492-500.jpg" data-tags="slowcore" role="button">Codeine - Frigid Stars (1990)</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">Low - I Could Live in Hope (1994-02-18)</li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/03790f03-7d42-4924-b2a0-020e97c7963e/27389666099-500.jpg" data-tags="slowcore, s: shoegaze" role="button">True Widow - True Widow (2008-11-11)</li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">The Antlers - Hospice (2009-03-03)</li>
@@ -69,6 +69,9 @@ Ida - I Know About You (1996)
 <li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
 Cat Power - Myra Lee (1996-03-04)
 </li>
+<li data-cover="https://img.discogs.com/9RPe45g-K0hrteS1fMQ_wAkkgRU=/fit-in/280x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287732-1206633279.jpeg.jpg" data-tags="lo-fi, slowcore, real post-hardcore" role="button">
+Lowercase - All Destructive Urges... Seem So Perfect (1996-05-07)
+</li>
 <li data-cover="https://img.discogs.com/qI9SLlbFVgYmnsapkiiLXKanA8g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559499-1298780594.jpeg.jpg" data-tags="indie rock, slowcore" role="button">
 Bedhead - Beheaded (1996-06-16)
 </li>
@@ -108,11 +111,11 @@ Ida - Ten Small Paces (1997-09-30)
 <li data-cover="https://img.discogs.com/Qj2Bp4Sls87tqDQiXJQouKbpuGo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433188-1476186558-6219.jpeg.jpg" data-tags="slowcore, drag city, essential" role="button">
 Aerial M - Aerial M (1997-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/f473eb10-fffa-416b-8697-7ac7190ec9e5/2044334193-500.jpg" data-tags="shoegaze, slowcore" role="button">
-Jessica Bailiff - Even In Silence (1998-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e24ce0c-8c65-3d11-a595-bd404d8695cc/6096170352-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Come On Die Young (1999-03-29)
+</li>
+<li data-cover="https://img.discogs.com/gqsQF56ymdS5roN01rosv8kiqdM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600036-1136928029.jpeg.jpg" data-tags="alternative, alternative rock, noise rock, slowcore, post-hardcore, post hardcore" role="button">
+Lowercase - The Going Away Present (1999-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/87a63157-efb6-4f75-bf62-f1b9917e1972/13901138144-500.jpg" data-tags="indie" role="button">
 The American Analog Set - The Golden Band (1999-07-06)
@@ -122,9 +125,6 @@ Duster - 1975 (1999-11-02)
 </li>
 <li data-cover="https://img.discogs.com/yXHLjkCfhNZawGXinau5M8VToHc=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800424-1160078078.jpeg.jpg" data-tags="slowcore" role="button">
 Arco - Coming To Terms (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de2346f-2ce7-4d5d-86bd-461e9ae49444/26419916309-500.jpg" data-tags="post-rock, slowcore" role="button">
 The For Carnation - The For Carnation (2000-03-27)
@@ -165,6 +165,9 @@ Lenny Valentino - Uwaga! Jedzie tramwaj (2001-11-12)
 <li data-cover="https://img.discogs.com/39jKLeEQEZt8Dbe4303tnzC3q1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385571-1245095998.jpeg.jpg" data-tags="indie rock" role="button">
 Logh - Every Time a Bell Rings an Angel Gets His Wings (2002-01-21)
 </li>
+<li data-cover="https://img.discogs.com/svWx3RnMumvknkSEcRrknhuVNyI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572901-1578154125-9326.jpeg.jpg" data-tags="sleep, slowcore, cutis-anserina, zone ch1, sitrc: melancholic, slow alternative" role="button">
+Savoy Grand - Burn the Furniture (2002-01-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/cdc4b9f6-9dba-4635-adea-fd87d274fc02/20929020497-500.jpg" data-tags="indie, indie pop, slowcore" role="button">
 Grandaddy - Concrete Dunes (2002-02-19)
 </li>
@@ -176,9 +179,6 @@ Migala - Restos de un incendio (2002-07-16)
 </li>
 <li data-cover="https://img.discogs.com/HfSe9HKBIvRfYfGI2kOaX8lQKjw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653374-1149680703.jpeg.jpg" data-tags="jazz" role="button">
 Karate - Some Boots (2002-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ce47cf2-9ea5-4e23-8e53-558085b73892/2044324578-500.jpg" data-tags="slowcore, 00s" role="button">
-Jessica Bailiff - Jessica Bailiff (2002-10-21)
 </li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
@@ -210,11 +210,11 @@ Savoy Grand - People and What They Want (2005)
 <li data-cover="https://img.discogs.com/0GThur_g6hM74IEVlXiLbcwYQsg=/fit-in/598x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392353-1189081930.jpeg.jpg" data-tags="indie" role="button">
 Hood - Outside Closer (2005-01-17)
 </li>
+<li data-cover="https://img.discogs.com/VdkTVBavhvg04DiBjIoDpELeu8k=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-593018-1135960582.jpeg.jpg" data-tags="indie" role="button">
+Early Day Miners - All Harm Ends Here (2005-01-18)
+</li>
 <li data-cover="https://img.discogs.com/rhuLhWEKj-SJ3s-jkPXHpIfRyA4=/fit-in/225x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-684939-1147697356.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
 The White Birch - Come Up for Air (2005-10-31)
-</li>
-<li data-cover="https://img.discogs.com/gRQUS0p1O34yUvJntj2yX0YiqzU=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1428343-1218912232.jpeg.jpg" data-tags="alternative, indie rock, post-rock, soft, slowcore, polish rock, tantra, bujamsie, gentle voice, george dorn screams, my music pillow" role="button">
-George Dorn Screams - Snow Lovers Are Dancing (2006)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
 Gregor Samsa - 55:12 (2006-03-07)

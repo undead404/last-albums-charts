@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:44:07.070Z
+date: 2021-04-12T04:33:01.410Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -84,8 +84,11 @@ The Kinks - Give The People What They Want (1981-08-26)
 <li data-cover="https://img.discogs.com/1UPUm05OsyVP0kz_uYQyfugSx7M=/fit-in/391x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374151-1328282011.jpeg.jpg" data-tags="rock" role="button">
 Warren Zevon - The Envoy (1982-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1c5bdd3-a422-4a57-a88a-52e9bf74c41f/17703285753-500.jpg" data-tags="rock, punk, hard rock, classic rock, metal, female vocalists" role="button">
-The Runaways - The Best Of The Runaways (1987)
+<li data-cover="https://img.discogs.com/gao2P7PSrZJVfdZUZU___zE4fmQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6798799-1426865312-3788.jpeg.jpg" data-tags="spanish, singer songwriter, trova" role="button">
+Joan Manuel Serrat - Cada Loco Con Su Tema (1983)
+</li>
+<li data-cover="http://coverartarchive.org/release/50c648c4-1182-411d-be22-b25d59775b89/4214404214-500.jpg" data-tags="classic rock, progressive rock" role="button">
+Supertramp - Free As A Bird (1987)
 </li>
 <li data-cover="https://img.discogs.com/Vj6vYDf0lPVlMdU17ph6FYsKESs=/fit-in/537x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440669-1219905549.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - One for the Road (1989)
@@ -113,9 +116,6 @@ Willie Nelson - The Essential Willie Nelson (1995-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
 Lou Reed - Set The Twilight Reeling (1996-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
-The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf2c2471-b584-46a1-a04f-e73592bbbb04/5232466594-500.jpg" data-tags="mellow, boz scaggs" role="button">
 Boz Scaggs - Fade Into Light (1996-11-19)
@@ -168,6 +168,12 @@ Warren Zevon - The Wind (2003-08-26)
 <li data-cover="http://coverartarchive.org/release/62010681-0670-4261-9149-d2d86a83d28b/15850637628-500.jpg" data-tags="alternative rock" role="button">
 Hawksley Workman - Lover/Fighter (2003-10-06)
 </li>
+<li data-cover="https://img.discogs.com/qMMqFo_Z8lJpCd7ltnarFCzXKc4=/fit-in/263x263/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538935-1129100151.jpeg.jpg" data-tags="alternative rock, guitar, singer songwriter, song noir, m gira, nancykitten all-time favourite albums" role="button">
+Michael Gira - I Am Singing to You From My Room (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/c95dd9c5-6a43-47ed-805f-8ad7bc49c07c/15491234420-500.jpg" data-tags="alt-country" role="button">
+Patterson Hood - Killers and Stars (2004-05-04)
+</li>
 <li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
@@ -176,9 +182,6 @@ Iron & Wine - Passing Afternoon (2004-10-19)
 </li>
 <li data-cover="https://img.discogs.com/gfyUGydq6J_dW_h-5jff2a_ysc0=/fit-in/450x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775671-1157562082.jpeg.jpg" data-tags="raw, singer songwriter, diy wonders, folk albums i have loved" role="button">
 Thanksgiving - The River (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/15f339f3-0266-4e1e-8a6c-098c666b5bcc/5134976327-500.jpg" data-tags="rock, jazz vocal, folk" role="button">
-Van Morrison - Magic Time (2005-05-16)
 </li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
@@ -216,9 +219,6 @@ Kendall Payne - Paper Skin (2007)
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">
 Deer Tick - War Elephant (2007)
 </li>
-<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
-Dungen - Tio Bitar (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce581068-c886-3ca7-b273-c1ea553eb45d/3779573244-500.jpg" data-tags="indie" role="button">
 Emily Haines & The Soft Skeleton - What Is Free to a Good Home? (2007-05-15)
 </li>
@@ -233,6 +233,9 @@ Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cd6673e-04b5-4e38-a136-398d03eaa2df/11936023871-500.jpg" data-tags="female vocalist, ambient, new age, lounge music" role="button">
 Marcomé - River Of Soul (2008-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/93cebb11-b3d8-4c0a-a8c6-4b4aa9a8abe2/6156407809-500.jpg" data-tags="classic rock, jazz, rock, alternative rock, progressive rock, vocal jazz, guitar, blues rock, smooth jazz, singer songwriter, song noir, boz scaggs" role="button">
+Boz Scaggs - Speak Low (2008-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a09646bb-fb30-4058-b5ec-507494bd9210/18755410308-500.jpg" data-tags="folk" role="button">
 Ben Kweller - Changing Horses (2009-02-03)
@@ -278,9 +281,6 @@ Amy Macdonald - Life in a Beautiful Light (2012-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/899777f1-9907-4116-bdd6-f610a9ec469c/9660731468-500.jpg" data-tags="ambient pop, better than the original" role="button">
-Ke$ha - Deconstructed (2012-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3640479c-7dfa-46f2-b56a-160de2912ee9/3429010691-500.jpg" data-tags="indie" role="button">
 Torres - Torres (2013-01-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:49:01.399Z
+date: 2021-04-12T03:55:01.412Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -162,9 +162,6 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="http://coverartarchive.org/release/7dcfdfdb-15ad-4e0f-aada-7086b9c28bea/5530144564-500.jpg" data-tags="electro" role="button">
 The Bloody Beetroots - Rombo EP (2008-09-09)
 </li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
 <li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)
 </li>
@@ -239,6 +236,12 @@ Mark Ronson & The Business Intl - Record Collection (2010-09-24)
 </li>
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/21b68282-77c1-3a28-a3b0-dc442159b18f/29013072916-500.jpg" data-tags="electronic, dance, rnb" role="button">
+Chris Brown - Yeah 3x (2010-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/fd0934b6-8675-47d7-9267-b31669aa140e/6162424730-500.jpg" data-tags="electro, electro house" role="button">
+Dada Life - White Noise / Red Meat (2011-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
@@ -317,8 +320,5 @@ Ten Walls - Walking With Elephants (2014-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/14074def-0940-4ffd-88bc-c7b35d0d7caf/8998642520-500.jpg" data-tags="robin schulz" role="button">
 Robin Schulz - Prayer (2014-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
-David Guetta - Listen (2014-11-21)
 </li>
 </ol>

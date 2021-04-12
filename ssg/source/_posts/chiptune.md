@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:24:23.765Z
+date: 2021-04-12T04:27:01.396Z
 title: "chiptune: 100 albums you must listen to before you die"
 ---
 ![Anamanaguchi - Dawn Metropolis (2009-03-03)](http://coverartarchive.org/release/d6e602eb-97e5-42ca-919b-37c2ea510bad/2060277808-500.jpg "Anamanaguchi - Dawn Metropolis (2009-03-03)")
@@ -99,6 +99,9 @@ The Gothsicles - NESferatu (2006-09)
 <li data-cover="http://coverartarchive.org/release/46444264-9a4d-40d6-9c09-7f3fa4f5074f/6272625053-500.jpg" data-tags="chiptune" role="button">
 Rymdkraft - Kantarelle EP Deluxe (2006-09-08)
 </li>
+<li data-cover="https://img.discogs.com/BfW3GDkXhaW8qmI5YohdBEBkl6o=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7641593-1599285184-2557.jpeg.jpg" data-tags="chiptune" role="button">
+RAM RIDER - PORTABLE DISCO 8bit edition (2006-10-25)
+</li>
 <li data-cover="https://img.discogs.com/aRR8PlB4e76Yv1VvFmToH7FFpoQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-850302-1482549429-4089.jpeg.jpg" data-tags="8bit, chiptune" role="button">
 Goto80 - Digi-Dig (2006-12-11)
 </li>
@@ -107,9 +110,6 @@ Coleco Music - Confessions in a Chatroom (2006-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/daa4fe20-d728-42e6-b0af-14b3789239dc/6437608028-500.jpg" data-tags="electronic, 8bit, chiptune" role="button">
 Xinon - Moonlight Sympathy (2006-12-21)
-</li>
-<li data-cover="https://img.discogs.com/v--qJAv4sBK7aHexf09KyNIuk4s=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717250-1238882319.jpeg.jpg" data-tags="8-bit, chiptune, gameboy, english" role="button">
-Leeni - 8 Bit Heart (2007)
 </li>
 <li data-cover="https://img.discogs.com/Ao_VkYGxRf6kTkSTfulCRIXKPxQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9865725-1487610737-3854.jpeg.jpg" data-tags="8-bit, chiptune, chipbreak" role="button">
 Sabrepulse - Verão (2007)
@@ -207,17 +207,14 @@ Glomag - DaMaGe (2009-03-23)
 <li data-cover="https://img.discogs.com/E7HbiIcq2lHpFJhiR58bw7I8Wz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1974041-1279148448.jpeg.jpg" data-tags="idm" role="button">
 Mochipet - Master P On Atari (2009-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1a7db8b0-e98a-4361-9cec-27ce4cd69e28/5796842584-500.jpg" data-tags="chiptune, english" role="button">
-8 Bit Weapon - Electric High EP (2009-04-23)
+<li data-cover="https://img.discogs.com/OAPHM-bBqDh2f3CmrM5EBKS6uQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9266997-1477658830-6045.jpeg.jpg" data-tags="electronica, techno, 8-bit, idm, chiptune, chiptronica" role="button">
+little-scale - Error Repeat (2009-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7166e75d-e44a-4e23-8f09-81c4449d1baf/1212200476-500.jpg" data-tags="8bitpeoples" role="button">
 Starscream - Future, And It Doesn't Work (2009-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f5b2341-22e2-41f1-943c-fd5ec913b021/6709656786-500.jpg" data-tags="electronic" role="button">
 She - Orion (2009-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1958b2c-caab-483e-8c13-8fc6aaec8973/9015083530-500.jpg" data-tags="chiptune" role="button">
-Gidropony - Punkrockafeller (2009-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/18137fed-0882-312d-bb9e-a4813f7bdcd5/27501090795-500.jpg" data-tags="title is declarative" role="button">
 Saskrotch - I'll Have You Naked By The End Of This ROM (2009-10-02)
@@ -302,6 +299,9 @@ She - Electric Girl (2012-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e96b7ab-5c13-43b3-b456-13386515b600/2902529958-500.jpg" data-tags="soundtrack, electronic, electronica, indie, instrumental, alternative, ambient, idm, orchestral, germany, chiptune, german, relax, rico, minecraft, trabajo, pacefull, mojang" role="button">
 C418 - one (2012-12-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/52e0a48a-cfae-4814-9ba0-0ad7f5ecbeb1/4730535323-500.jpg" data-tags="post-punk, blues, shoegaze, avant-garde, chiptune, drone, psychedelic rock,  industrial" role="button">
+Robedoor - Primal Sphere (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fbf841-e3da-4f88-bba9-70fb4ae0d19c/3530307104-500.jpg" data-tags="chiptune, digital fusion" role="button">
 aivi & surasshu - The Black Box (2013-03-08)

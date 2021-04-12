@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:51:01.418Z
+date: 2021-04-12T03:50:01.434Z
 title: "folk noir: 100 albums you must listen to before you die"
 ---
 ![Patrick Wolf - The Bachelor (2009-06-01)](http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg "Patrick Wolf - The Bachelor (2009-06-01)")
@@ -7,7 +7,7 @@ title: "folk noir: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e9e0bf3e-9a94-3585-93ef-e6c1f5e0e5de/23505005206-500.jpg" data-tags="martial industrial, neofolk" role="button">Blood Axis - The Gospel of Inhumanity (1995-08)</li>
 <li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">Garmarna - Vedergällningen (1999-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/07b341fc-9fad-41ee-9b4c-8ffa86c395b5/2044678583-500.jpg" data-tags="folk noir, neofolk, neoclassical, celtic folk, wyrd folk, experimental folk, funeral folk, ethereal folk, darkfolk, ogham the ogham, je dirai quelque jour vos naissances latentes, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">Sieben - Ogham Inside the Night (2005)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, brilliant album" role="button">William Elliott Whitmore - Ashes to Dust (2005-02-22)</li>
+<li data-cover="http://coverartarchive.org/release/241e4bee-a9ff-4cb2-87a2-259758a67dbf/3418037796-500.jpg" data-tags="alt-country" role="button">Tarantella - Esqueletos (2005-11-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, post-punk, folk noir, retroschool, r parasol" role="button">Rykarda Parasol - Our Hearts First Meet (2006)</li>
 <li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">Patrick Wolf - The Bachelor (2009-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/b037ecc8-45fa-43c1-bf9a-30c4934b3aed/3104789300-500.jpg" data-tags="neofolk, neo folk" role="button">Neun Welten - Destrunken (2009-11-27)</li>
@@ -53,6 +53,9 @@ Garmarna - Garmarna (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
 Stellamara - Star of the Sea (1997)
+</li>
+<li data-cover="https://img.discogs.com/SFzzS395804n_7tVPutJr9agowo=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338014-1100168780.jpg.jpg" data-tags="neofolk" role="button">
+Sol Invictus - The Blade (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/79eca596-f325-4617-8529-e2230eed0b1d/14488180752-500.jpg" data-tags="neofolk" role="button">
 Sol Invictus - In A Garden Green (1999)
@@ -102,14 +105,14 @@ Dernière Volonté - Les Blessures de L'ombre (2003-05)
 <li data-cover="https://img.discogs.com/cnphNYFcaOzoqJ1qUCqIE78uQqc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506591-1397153284-1182.jpeg.jpg" data-tags="indie, folk, indie rock, atmospheric, alt-country, folk noir, 2000s, treeks favourites" role="button">
 Califone - Deceleration Two (2003-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/ea8d1ee3-2736-4590-82fb-329f3cff422f/19410802101-500.jpg" data-tags="ambient, ghost music, ghost ambient" role="button">
+Tor Lundvall - Last Light (2004)
+</li>
 <li data-cover="https://img.discogs.com/pGW3JCXuM8HloqW3CXrc8Dcs2DE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295804-1188855521.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, apocalyptic folk, military pop, radio foe, military noir pop" role="button">
 Novo Homo - Private Hell (2004)
 </li>
 <li data-cover="https://img.discogs.com/bQKXi5r6CoYSeEOnTPG2tY9uGY0=/fit-in/391x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-264594-1122716850.jpg.jpg" data-tags="neofolk" role="button">
 Werkraum - Unsere Feuer Brennen! (2004-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/eef84711-da0a-41b4-b2e9-a6e5fae95155/21078918413-500.jpg" data-tags="neofolk" role="button">
-Death in June & Boyd Rice - Alarm Agents (2004-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9755e6bf-c439-4e09-bd7f-1300a770ce87/23650141567-500.jpg" data-tags="martial industrial, industrial" role="button">
 Kreuzweg Ost - Edelrost (2005)
@@ -129,9 +132,6 @@ Moon Far Away - Беловодие (2005)
 <li data-cover="https://img.discogs.com/Ln_ol8MY9W6Sk1gIwIoEaGObhLI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537190-1364762979-4513.jpeg.jpg" data-tags="folk" role="button">
 Lau Nau - Kuutarha (2005-02-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, brilliant album" role="button">
-William Elliott Whitmore - Ashes to Dust (2005-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/87b3cb1c-554c-43e9-a4d0-936e1c581eb0/3259790727-500.jpg" data-tags="folk, canadian, folk noir, nancykitten all-time favourite albums, e a vajagic" role="button">
 Elizabeth Anka Vajagic - Nostalgia/Pain (2005-05-16)
 </li>
@@ -140,6 +140,9 @@ Rukkanor - Deora (2005-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/241e4bee-a9ff-4cb2-87a2-259758a67dbf/3418037796-500.jpg" data-tags="alt-country" role="button">
 Tarantella - Esqueletos (2005-11-22)
+</li>
+<li data-cover="https://img.discogs.com/BchEZ_qOXTODXZzlA55LEFtjhaY=/fit-in/350x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-593572-1136039625.jpeg.jpg" data-tags="neofolk, dark folk, apocalyptic folk" role="button">
+Werkraum - Kristalle (2005-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="celtic" role="button">
 Elane - Love can't wait (2005-12-02)
@@ -207,8 +210,8 @@ Jännerwein - Abendläuten (2008)
 <li data-cover="http://coverartarchive.org/release/d5649bff-1803-49b0-8c2f-cad638f95591/3295168321-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Pantheon Legio Musica - Per Aspera ad Astra (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/42482ba5-7f65-41d8-b110-01b5dddcb98d/3415131007-500.jpg" data-tags="folk noir, neofolk, cabaret noir" role="button">
-Roma Amor - Roma Amor (2008)
+<li data-cover="http://coverartarchive.org/release/166de9b3-064a-49b7-bc90-65a262048aec/3024132016-500.jpg" data-tags="neofolk" role="button">
+Nebelung - Vigil (2008-01)
 </li>
 <li data-cover="https://img.discogs.com/ltiSDI5YYkKEXKhfUUZwJrZ9naQ=/fit-in/497x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329947-1210166155.jpeg.jpg" data-tags="folk noir, dark folk, neoclassical, apocalyptic folk, martial neofolk, je devrais avoir mon enfer de la caresse, ahnstern, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
 Werkraum - Early Love Music (2008-05)
@@ -242,9 +245,6 @@ Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b574e62-955a-4da0-a62d-0f7c0dc42470/1983164726-500.jpg" data-tags="folk, folk noir, freak folk, neofolk, dark folk, neoclassical, funeral folk, dream folk, doom folk, death folk" role="button">
 Amber Asylum - Bitter River (2009-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/36a85cc1-dcd9-3fb8-81d5-96088e76275b/24548108959-500.jpg" data-tags="folk, world fusion, balkan folk, middle eastern folk" role="button">
-Stellamara - The Golden Thread (2009-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f85f3266-2eba-42e7-9952-4dc106fc9bba/7599538562-500.jpg" data-tags="atmospheric, dark ambient, neoclassical, tribal ambient, neoclassical darkwave" role="button">
 Peter Bjärgö - A Wave of Bitterness (2009-08-28)

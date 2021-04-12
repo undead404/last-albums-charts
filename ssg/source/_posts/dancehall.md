@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:33:01.410Z
+date: 2021-04-12T04:24:12.611Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Music of the Sun (2005-08-29)](http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg "Rihanna - Music of the Sun (2005-08-29)")
@@ -8,9 +8,9 @@ title: "dancehall: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">M.I.A. - Arular (2005-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">Rihanna - Music of the Sun (2005-08-29)</li>
 <li data-cover="https://img.discogs.com/GUq_JB_l0I6gNuYQSQcD1jqJhAU=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910644-1502355394-1079.jpeg.jpg" data-tags="reggae, dancehall" role="button">Seeed - Next! (2005-10-14)</li>
+<li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">The Supervillains - Grow Yer Own (2006)</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">Rihanna - A Girl Like Me (2006-04-19)</li>
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">Collie Buddz - Collie Buddz (2007-06-29)</li>
-<li data-cover="http://coverartarchive.org/release/9329f2c5-41c6-4f4e-9042-d5850647d898/11978100442-500.jpg" data-tags="rnb, kat deluna, female vocalists" role="button">Kat DeLuna - 9 Lives (2007-08-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">M.I.A. - Kala (2007-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">Peter Fox - Stadtaffe (2008-09-26)</li>
 <li data-cover="https://img.discogs.com/owudar-98-vfYBR5CLz7jLUR5bk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1975057-1446142977-2736.jpeg.jpg" data-tags="dubstep, dancehall, 00's, miami bass, funny as fuck, reggeaton, moombah, weapons and shields, jan 2010" role="button">Major Lazer - Guns Don't Kill People... Lazers Do (2009-06-16)</li>
@@ -57,6 +57,9 @@ Buju Banton - 'Til Shiloh (1995-07-18)
 <li data-cover="http://coverartarchive.org/release/1dcded4d-ce9d-4e11-bf7e-e265d145199a/21311493320-500.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
 Luciano - Messenger (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/799bd919-8a3a-4ccf-b29c-e7490734874b/17579360042-500.jpg" data-tags="reggae, 90s, dancehall, jamaican, pop topp 30 1996, mojo 1000, bounty killer, mojo 1000 reggae, my xperience" role="button">
+Bounty Killer - My Xperience (1996-09-17)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae" role="button">
 Gregory Isaacs - One Man Against The World - Best Of (1996-11-26)
 </li>
@@ -80,6 +83,9 @@ General Levy - New Breed (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
 Roots Manuva - Brand New Second Hand (1999-03-01)
+</li>
+<li data-cover="https://img.discogs.com/2VMAFhLtT6HqWfsJSve5X4R35So=/fit-in/421x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8858391-1470238455-2940.jpeg.jpg" data-tags="dancehall" role="button">
+Spragga Benz - Fully Loaded (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/89d58ec8-ece2-36ce-95de-b3216f096438/5134560010-500.jpg" data-tags="reggae, dancehall" role="button">
 Shaggy - Hot Shot (2000-08-08)
@@ -162,9 +168,6 @@ Natural Dread Killaz - Naturalnie (2005)
 <li data-cover="https://img.discogs.com/QLDGU51B-x2T0p_K5g0-_tc9yY4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13688376-1560686761-7812.jpeg.jpg" data-tags="dancehall, 2000s" role="button">
 Firma - Nielegalne rytmy (2005)
 </li>
-<li data-cover="https://img.discogs.com/86CWJSEr6KWV-3ZpX6R-2xPw6Gw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4901165-1378905262-2097.jpeg.jpg" data-tags="dancehall, reg" role="button">
-Turbulence - Triumphantly (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
 </li>
@@ -213,6 +216,9 @@ Cała Góra Barwinków - 24 Godziny (2007)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Richie Spice - In The Streets To Africa (2007-02-20)
 </li>
+<li data-cover="https://img.discogs.com/0mX9-vPv83k-SB4CYkxnqyOmjZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349014-1211757466.jpeg.jpg" data-tags="grime" role="button">
+Roll Deep - Rules & Regulations (2007-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/0f57975c-3a94-40e9-9072-86ce2b0fea93/13570935534-500.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
 Lady Saw - Walk Out (2007-04-17)
 </li>
@@ -234,14 +240,14 @@ Mavado - Gangsta For Life: The Symphony Of David Brooks (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/211a02ff-4ec8-4d0d-83f9-a9b480aefbcb/23905287715-500.jpg" data-tags="reggae" role="button">
 Jah Cure - True Reflections...A New Beginning (2007-07-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/9329f2c5-41c6-4f4e-9042-d5850647d898/11978100442-500.jpg" data-tags="rnb, kat deluna, female vocalists" role="button">
-Kat DeLuna - 9 Lives (2007-08-07)
-</li>
 <li data-cover="https://img.discogs.com/n1E7bNNwqKaLqU4gQHJkPWXe1QM=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666760-1235589355.jpeg.jpg" data-tags="reggae" role="button">
 Shaggy - Intoxication (2007-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
+</li>
+<li data-cover="https://img.discogs.com/zotYEOl3yOyRN2mrAS3aaG4pebM=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2415452-1282830096.jpeg.jpg" data-tags="hip-hop, hip hop, dance, american, dancehall" role="button">
+Big Ali - Louder (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b70cabc4-2b99-427b-8a0f-bfcd99f3f71c/8093642744-500.jpg" data-tags="reggae, dancehall" role="button">
 Damian Marley - Rare Joints - the Album (2008)
@@ -297,17 +303,11 @@ I-Fire - Bigger Better Hotter (2010)
 <li data-cover="https://img.discogs.com/IovNwfc4CGtsm-9jYvQ4Q8VS9k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2167401-1555269607-6014.jpeg.jpg" data-tags="electronic, dance" role="button">
 Crookers - Tons of Friends (2010-03-08)
 </li>
-<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
-Lena - Satellite (2010-03-13)
-</li>
 <li data-cover="https://img.discogs.com/lEs3d3zp9YTHMYzdAsl6d-Vj0MY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2327497-1277198294.jpeg.jpg" data-tags="dubstep, dancehall, moombah" role="button">
 Major Lazer & La Roux - LazerProof (2010-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d635e932-f1f4-408e-9f22-98094667b3de/9397774522-500.jpg" data-tags="lil jon crunk, bad music taste, fagness, somehow gay" role="button">
 Lil Jon - Crunk Rock (2010-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb9c39b1-bd29-4698-8451-6a25e6180f20/4689120286-500.jpg" data-tags="pop, alternative, deutsch, micha maat" role="button">
-Clueso - An und für sich (2011-03-25)
 </li>
 <li data-cover="https://img.discogs.com/KSnYgTWsrH16Ss79e1CER5M5-5M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994118-1310859620.jpeg.jpg" data-tags="dancehall" role="button">
 Toddla T - Watch Me Dance (2011-08-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:16:01.415Z
+date: 2021-04-12T04:26:01.471Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -147,11 +147,11 @@ Lonestar - From There to Here: Greatest Hits (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
+<li data-cover="https://img.discogs.com/5okqO3ADqsY2CzlivGPtYjIypJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1053161-1353830537-8314.jpeg.jpg" data-tags="indie, alternative" role="button">
+Robbie Williams - Something Beautiful (2003-07-28)
+</li>
 <li data-cover="https://img.discogs.com/rrjCG_LQJJWy28UlNf8tbZtd-TU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7660041-1529240943-9407.jpeg.jpg" data-tags="country" role="button">
 Sara Evans - Restless (2003-08-19)
-</li>
-<li data-cover="https://img.discogs.com/rnQVk8md3NB1fsg8Zqrb_a1UB0c=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2471077-1286280855.jpeg.jpg" data-tags="country" role="button">
-Martina McBride - Martina (2003-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4c76621-26e8-4c79-b449-f210eeb539b6/17468658946-500.jpg" data-tags="country" role="button">
 LeAnn Rimes - The Best of LeAnn Rimes (2004-02-02)

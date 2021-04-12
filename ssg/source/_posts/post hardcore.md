@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:26:12.569Z
+date: 2021-04-12T04:05:01.453Z
 title: "post hardcore: 100 albums you must listen to before you die"
 ---
 ![Chiodos - All&#39;s Well That Ends Well (2005-07-26)](http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg "Chiodos - All's Well That Ends Well (2005-07-26)")
@@ -93,9 +93,6 @@ The Blood Brothers - Burn, Piano Island, Burn (2003-03-18)
 <li data-cover="https://img.discogs.com/kRhGE1p4CAb52fJpgyfezYZq1rw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371783-1530777030-9373.png.jpg" data-tags="screamo, post hardcore" role="button">
 Envy - A Dead Sinking Story (2003-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/f646e4b6-8aa4-4d0b-84f8-db0cf5bb995c/22029913217-500.jpg" data-tags="post-hardcore" role="button">
-Beloved - Failure On (2003-06-12)
-</li>
 <li data-cover="https://img.discogs.com/lWHmK9kuimivwnEarRIGWx8megQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955515-1556813739-3408.jpeg.jpg" data-tags="post hardcore" role="button">
 These Arms Are Snakes - This Is Meant To Hurt You (2003-08-12)
 </li>
@@ -113,9 +110,6 @@ Senses Fail - Let It Enfold You (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d1a12c1-31d6-4797-b28e-748d99dddbc1/13205434693-500.jpg" data-tags="post hardcore, indie, experimental, post-hardcore" role="button">
 These Arms Are Snakes - Oxeneers or The Lion Sleeps When Its Antelope Go Home (2004-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/735c33ce-f86e-46b5-babd-52daee949e3c/21617257302-500.jpg" data-tags="post-hardcore, indie rock" role="button">
-mewithoutYou - Catch For Us The Foxes (2004-10-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
 The Blood Brothers - Crimes (2004-10-12)
@@ -168,11 +162,17 @@ Silverstein - 18 Candles: The Early Years (2006-05-30)
 <li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/86682a5b-ffe8-3662-9aae-e45c906422a4/5936187593-500.jpg" data-tags="metalcore" role="button">
+36 Crazyfists - Rest Inside The Flames (2006-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post hardcore, raw rock" role="button">
 Showbread - Age Of Reptiles (2006-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfd56f90-f528-4057-9a8c-8d6e2695e5b9/4812084648-500.jpg" data-tags="punk, punk rock" role="button">
+The Draft - In A Million Pieces (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ce948fc-a995-4c62-8f00-3f5db5700341/4889935052-500.jpg" data-tags="indie rock" role="button">
 mewithoutYou - Brother, Sister (2006-09-26)
@@ -191,9 +191,6 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a219c008-8194-401e-bdf2-1d775b90f9bc/3330992900-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Hot Cross - Risk Revival (2007-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/818aa8f1-d844-48e4-bc21-1c3c9589d488/26249216838-500.jpg" data-tags="metalcore" role="button">
-Haste the Day - Pressure The Hinges (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
@@ -281,6 +278,9 @@ Drop Dead, Gorgeous - The Hot N' Heavy (2009-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
 The Word Alive - Empire (2009-07-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3d8860ec-2fa0-4e15-a604-f6dd767eeb06/8675697131-500.jpg" data-tags="experimental, post-hardcore" role="button">
+A Lot Like Birds - Plan B (2009-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa69a080-f4bd-44cd-bc3d-513880be9ea5/9465797397-500.jpg" data-tags="alternative rock" role="button">
 Brand New - Daisy (2009-09-18)

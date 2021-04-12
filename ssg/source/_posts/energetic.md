@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T17:27:01.805Z
+date: 2021-04-12T04:30:07.051Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">Maxïmo Park - A Certain Trigger (2005-05-16)</li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">Ladyhawke - Ladyhawke (2008-09-15)</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
+<li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">Yeasayer - Odd Blood (2010-02-08)</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">Janelle Monáe - The ArchAndroid (2010-05-17)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, 50s" role="button">
-Louis Prima - The Wildest! (1956-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3091591-a9b8-4be6-885f-76e15d630d73/8017634615-500.jpg" data-tags="energetic, cheerful, playful, rollicking, rambunctious" role="button">
 Chuck Berry - New Juke Box Hits (1961)
 </li>
@@ -35,6 +32,9 @@ The Allman Brothers Band - At Fillmore East (1971)
 </li>
 <li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
 B.B. King - To Know You Is To Love You (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/38ed61bb-9d92-441c-a683-eb129abeef78/24023912663-500.jpg" data-tags="funk" role="button">
+Ohio Players - Honey (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Live! (1975-12-05)
@@ -51,6 +51,9 @@ The Raincoats - The Raincoats (1979)
 <li data-cover="http://coverartarchive.org/release/4b4b26f7-7e2f-4029-94bd-8a94ebf79eff/13465941802-500.jpg" data-tags="70s, disco" role="button">
 Sister Sledge - We Are Family (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/df74dc1a-ab92-4ba7-b68b-4ffff9a41a3a/25531463168-500.jpg" data-tags="post-punk" role="button">
+The Fall - Live At The Witch Trials (1979-03-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
@@ -59,6 +62,12 @@ The Pop Group - Y (1979-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fbb654a-e585-4f9c-acc6-97675008c6e7/19879260317-500.jpg" data-tags="disco" role="button">
 Donna Summer - Bad Girls (1979-04-25)
+</li>
+<li data-cover="https://img.discogs.com/0FBMxbk9PXfoiT3vkZpJZeuM6_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2636006-1390760256-1416.jpeg.jpg" data-tags="ska" role="button">
+Madness - Absolutely (1980)
+</li>
+<li data-cover="http://coverartarchive.org/release/1abc11f0-057d-3f6c-8733-efa3a5aa9d37/26961755748-500.jpg" data-tags="funk" role="button">
+The Time - What Time Is It? (1982)
 </li>
 <li data-cover="https://img.discogs.com/zXwE8GSP9kMFhwdtmJIs6BD8QMw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4724839-1457495653-1967.jpeg.jpg" data-tags="80s, rock, pop" role="button">
 Joe Jackson - Night And Day (1982-06)
@@ -69,14 +78,14 @@ The Who - It's Hard (1982-09-04)
 <li data-cover="http://coverartarchive.org/release/320e59a4-d93a-48f6-ae66-3f64eec59a71/11946420305-500.jpg" data-tags="80s" role="button">
 Oingo Boingo - Dead Man's Party (1985)
 </li>
+<li data-cover="http://coverartarchive.org/release/9178130b-806b-426a-a8eb-9ca616a340c3/1269384177-500.jpg" data-tags="golden age hip hop, 80s" role="button">
+LL Cool J - Radio (1985)
+</li>
 <li data-cover="http://coverartarchive.org/release/12ca0962-a0ca-4f17-ba9c-355b271457f3/15235293651-500.jpg" data-tags="funk" role="button">
 James Brown - In the Jungle Groove (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2b04d6d-b900-49ee-aa2d-6e29c35a0c24/1978519255-500.jpg" data-tags="dance" role="button">
-Deee-Lite - World Clique (1990-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4482a6d1-327d-384f-a96e-60f6633161cc/4760790400-500.jpg" data-tags="italy" role="button">
 Fabrizio De André - Il viaggio (1991)
@@ -107,6 +116,9 @@ La Renga - Despedazado Por Mil Partes (1996-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59e164a-ca57-4d80-8f4e-1a10a9757354/15320405430-500.jpg" data-tags="electronic, electronica, druggy, energetic, clinical, breakbeat, big beat, playful, sensual, celebratory" role="button">
 Cirrus - Drop The Break (1997-04-22)
+</li>
+<li data-cover="https://img.discogs.com/J032SQnojEYfs4RjkzpHF1Okfqo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-461807-1335106624.jpeg.jpg" data-tags="noise" role="button">
+Karp - Self Titled LP (1997-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1797161d-28d1-430a-bd7c-0a6f268cab6e/17160061727-500.jpg" data-tags="alternative rock" role="button">
 Switchfoot - The Legend Of Chin (1997-06-17)
@@ -161,6 +173,9 @@ Bergman Rock - Bergman Rock (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
 BUCK-TICK - Mona Lisa OVERDRIVE (2003-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e0f88f7-1fcc-4d78-80de-574db0d94f5f/1964546493-500.jpg" data-tags="pop" role="button">
+Rouge - C'est La Vie (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/02e71dd7-abd5-31ba-a6c3-b85c9210af90/5695108897-500.jpg" data-tags="alternative rock" role="button">
 Live - Birds Of Pray (2003-05-20)
@@ -234,12 +249,6 @@ Killing The Dream - Fractures (2008)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Guillemots - Red (2008-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ff8b2c5-2c41-4ea9-b368-2886cf9f49eb/8837803331-500.jpg" data-tags="noise rock, boobs on cover" role="button">
-ミドリ - あらためまして、はじめまして、ミドリです。 (2008-05-14)
-</li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
@@ -270,9 +279,6 @@ OK Go - Of the Blue Colour of the Sky (2010-01-12)
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
 </li>
-<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
-Lena - Satellite (2010-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
@@ -288,12 +294,6 @@ Robyn - Body Talk (2010-11-22)
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
 Justice - Civilization (2011-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/67de74dc-8259-4549-9704-a854eef793c0/25203283020-500.jpg" data-tags="rock" role="button">
-WZRD - WZRD (2012-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/ed4ef585-6abe-4a3e-a4d3-6206589b3633/28652812232-500.jpg" data-tags="pop" role="button">
 Scissor Sisters - Magic Hour (2012-05-25)
 </li>
@@ -306,11 +306,11 @@ Tegan and Sara - Heartthrob (2013-01-22)
 <li data-cover="http://coverartarchive.org/release/024abf44-0f50-4369-bcd6-ea7017d40474/14533802813-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Same Trailer Different Park (2013-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/16381ac7-19f4-457f-a07c-248faa655a6c/13452106974-500.jpg" data-tags="rap" role="button">
+LL Cool J - Authentic (2013-04-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
 Ciara - Ciara (2013-07-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="https://img.discogs.com/B8fNe0Std0KTC4YJ5lxx0_l-DgQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6424434-1418882682-5706.jpeg.jpg" data-tags="indie rock, british" role="button">
 Kaiser Chiefs - Education, Education, Education & War (2014-03-31)

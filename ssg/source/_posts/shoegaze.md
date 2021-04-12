@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:38:01.416Z
+date: 2021-04-12T04:29:01.411Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -201,9 +201,6 @@ Deerhunter - Weird Era Cont. (2008-10-27)
 <li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
 The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 </li>
-<li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
-Amesoeurs - Amesoeurs (2009-03-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5b17ab3-127d-476b-a4be-3d3c9e9d9e9a/24309818135-500.jpg" data-tags="shoegaze, post-punk" role="button">
 The Horrors - Primary Colours (2009-05-04)
 </li>
@@ -276,6 +273,9 @@ Beach House - Bloom (2012-05-14)
 <li data-cover="http://coverartarchive.org/release/a0c7c9f4-7195-4e67-9128-f83edbd65cf7/3904773359-500.jpg" data-tags="shoegaze, noise rock" role="button">
 A Place to Bury Strangers - Worship (2012-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/172124dd-72da-4822-9945-e81b262ca7b3/1862698663-500.jpg" data-tags="dream pop" role="button">
+Wild Nothing - Nocturne (2012-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/a108c85a-336e-4d7e-993b-e266e878b39d/5042708107-500.jpg" data-tags="shoegaze" role="button">
 Black Marble - A Different Arrangement (2012-10-09)
 </li>
@@ -287,9 +287,6 @@ My Bloody Valentine - m b v (2013-02-02)
 </li>
 <li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">
 Beach Fossils - Clash The Truth (2013-02-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
-Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
@@ -320,5 +317,8 @@ The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a219269b-2b2b-4130-a750-97fae2e7d054/7622781787-500.jpg" data-tags="shoegaze, dream pop" role="button">
 A Sunny Day In Glasgow - Sea When Absent (2014-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/df2cae68-314e-446e-b2be-e97c2087261c/11214475189-500.jpg" data-tags="shoegaze" role="button">
+Whirr - Sway (2014-09-23)
 </li>
 </ol>

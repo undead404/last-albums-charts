@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:51:01.421Z
+date: 2021-04-12T03:47:01.401Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -84,6 +84,9 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
+<li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
+Efterklang - Tripper (2004-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/82756871-3b84-4b2b-bd61-ccbc27ebb3e5/14786657282-500.jpg" data-tags="instrumental, experimental, chamber pop, 00s, i love it, stunning, yann tiersen, exquisite, collabs, i love this album, merkliste, my deepest desires, so in love, my-dipreshon, about myself, hipnotizante" role="button">
 Yann Tiersen & Shannon Wright - Yann Tiersen & Shannon Wright (2004-10-25)
 </li>
@@ -107,6 +110,9 @@ Athlete - Tourist (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e45a5ef-e2eb-4c4c-9c88-44cca007f224/26591053555-500.jpg" data-tags="indie rock" role="button">
+Anathallo - Floating World (2006-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7ebe88-c495-4a44-808b-61f89e7ad3f7/9100597320-500.jpg" data-tags="cardiowave" role="button">
 Flëur - Всё вышло из-под контроля (2006-04)
@@ -225,17 +231,11 @@ Kishi Bashi - 151a (2012-04-10)
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
 </li>
-<li data-cover="https://img.discogs.com/jo1nXjwYhHhHHMZXJnYFoC0pHZw=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724453-1521306228-7958.jpeg.jpg" data-tags="indie, pop, alternative, cover, alternative pop, lana del rey" role="button">
-Lana Del Rey - Blue Velvet (2012-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">
 Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)

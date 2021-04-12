@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:45:01.643Z
+date: 2021-04-12T04:18:01.407Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -66,6 +66,9 @@ The Knife - Deep Cuts (2003-01-17)
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
+<li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
+Annie - Anniemal (2004-09-28)
+</li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
@@ -108,9 +111,6 @@ Lady Gaga - The Fame (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
 </li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
@@ -137,9 +137,6 @@ Desire - II (2009-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
-</li>
-<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
-Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/79bca296-c0a8-4d1b-8b34-7cc9408688e6/22138203732-500.jpg" data-tags="synthpop, hurts" role="button">
 Hurts - Wonderful Life (2009-08-29)
@@ -185,6 +182,9 @@ Yelle - Safari Disco Club (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
+Metronomy - The English Riviera (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)

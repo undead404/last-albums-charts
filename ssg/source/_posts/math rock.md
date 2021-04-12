@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:00:01.489Z
+date: 2021-04-12T03:57:01.394Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0bb9b2ab-3016-3d2a-9f5b-dd489526a9f4/16495903143-500.jpg" data-tags="math rock, noise rock, real post-hardcore" role="button">
+Polvo - Cor-Crane Secret (1992-07-09)
 </li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
@@ -108,9 +111,6 @@ You Slut! - Critical Meat (2006)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Maybeshewill - Japanese Spy Transcript (2006-01)
 </li>
-<li data-cover="https://img.discogs.com/ZEGZjwdLfJaEERqlvXeB3WoEjFI=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9949071-1491828323-8456.jpeg.jpg" data-tags="math rock" role="button">
-Lite - Filmlets (2006-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/c602130f-51ae-4797-b2f4-842ad1453ee1/5416910313-500.jpg" data-tags="math rock, post-rock, monotreme records" role="button">
 65daysofstatic - Radio Protector (2006-02-27)
 </li>
@@ -137,9 +137,6 @@ Battles - Mirrored (2007-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/72bc36e5-6af1-4d62-b72d-ec60cfa5fea6/3248569775-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - The Destruction of Small Ideas (2007-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce030ca9-bb78-4c7e-9b19-650627b9af5f/26664056702-500.jpg" data-tags="math rock, cool cover, cartoon album covers, monochrome album covers" role="button">
-Shellac - Excellent Italian Greyhound (2007-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c1dfc1d-1da5-4c0b-aa99-c070894d4b99/3334775846-500.jpg" data-tags="indie" role="button">
 Foals - Mathletics (2007-08-20)
@@ -287,6 +284,9 @@ Two Door Cinema Club - Beacon (2012-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2858fbf-9d65-4deb-8dbe-9c07f3af15cf/8764377056-500.jpg" data-tags="emo" role="button">
 Dads - American Radass (This Is Important) (2012-08-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9aa97d2-c029-4378-9b3f-90280b4c1be7/3276402980-500.jpg" data-tags="indie rock" role="button">
+Foals - My Number (2012-12-17)
 </li>
 <li data-cover="https://img.discogs.com/4OSOdDpTiQTbs_uwQUQBkgqjSgs=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4210791-1358639251-9339.jpeg.jpg" data-tags="math rock" role="button">
 This Town Needs Guns - 13.0.0.0.0 (2013-01-21)

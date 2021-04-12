@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:09:01.410Z
+date: 2021-04-12T04:06:12.634Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -168,6 +168,9 @@ Evanescence - Not for Your Ears (2003)
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
 </li>
+<li data-cover="https://img.discogs.com/IQSyntFZwmyj6rqTFU5Y9Th4p6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928632-1459273946-8112.png.jpg" data-tags="metallic hardcore" role="button">
+Integrity - To Die for (2003)
+</li>
 <li data-cover="https://img.discogs.com/5POZRB78GKsIKyN1T4kCXA3AigY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2732772-1298552037.jpeg.jpg" data-tags="gothic rock, gothic" role="button">
 Пикник - Говорит и показывает (2003)
 </li>
@@ -300,9 +303,6 @@ Mono Inc. - Voices Of Doom (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/903cf062-eae3-4a9b-b6b7-333ed34c49c3/2874145087-500.jpg" data-tags="gothic, decadence" role="button">
 Агата Кристи - Эпилог (2010-07-09)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
-Motionless in White - Creatures (2010-10-12)
-</li>
 <li data-cover="https://img.discogs.com/F8RoRnK6qIESu6qJeNVdZ472aK4=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2821384-1302550818.jpeg.jpg" data-tags="gothic" role="button">
 Blutengel - Tränenherz (2011-02-18)
 </li>
@@ -315,10 +315,10 @@ Evanescence - Evanescence (2011-10-05)
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
 </li>
-<li data-cover="https://img.discogs.com/JKscFmU-l6AmmbDzzxorQ6cn7ls=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7812317-1449309971-7044.jpeg.jpg" data-tags="gothic, gothic metal, gothic rock" role="button">
-Tiamat - The Scarred People (2012-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a250e19-cd8b-44c6-ba30-8d2e9d701cd3/5369579090-500.jpg" data-tags="post-punk" role="button">
 Lebanon Hanover - tomb for two (2013-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/84b80454-1780-4277-906b-855af2fbb693/11132251663-500.jpg" data-tags="industrial metal" role="button">
+Motionless in White - Reincarnate (2014-09-15)
 </li>
 </ol>

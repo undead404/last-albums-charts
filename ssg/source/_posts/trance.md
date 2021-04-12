@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:49:01.415Z
+date: 2021-04-12T04:03:07.029Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Cascada - Everytime We Touch (2006-02-21)](http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg "Cascada - Everytime We Touch (2006-02-21)")
@@ -84,9 +84,6 @@ Bomfunk MC's - Freestyler (2000-02-15)
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f0596b2-9760-3f65-be75-ccea095ce933/1257772770-500.jpg" data-tags="trance" role="button">
-Alice Deejay - Who Needs Guitars Anyway? (2000-03-28)
-</li>
 <li data-cover="https://img.discogs.com/oqXeJHk4SRLc7NposS5rWDPqtlY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73351-1613219919-9224.jpeg.jpg" data-tags="trance" role="button">
 Paul van Dyk - Out There and Back (2000-06-05)
 </li>
@@ -150,6 +147,9 @@ Andain - Beautiful Things (2003)
 <li data-cover="http://coverartarchive.org/release/2cf3cff7-c967-49c3-a200-2c27c60cca16/12748504052-500.jpg" data-tags="trance, dance" role="button">
 Novaspace - Supernova (2003-01-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
+Celldweller - Celldweller (2003-01-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/58ae5a33-211c-4fb7-91ea-8be8f16648ac/19861189252-500.jpg" data-tags="trance, club, dj dean" role="button">
 DJ Dean - Protect Your Ears (2003-02-01)
 </li>
@@ -173,9 +173,6 @@ Paul van Dyk - Reflections (2003-10-07)
 </li>
 <li data-cover="https://img.discogs.com/boA_i52ri9qokCW21I2qe_b56iQ=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737145-1317817070.jpeg.jpg" data-tags="trance" role="button">
 Ferry Corsten - Right Of Way (2003-11-11)
-</li>
-<li data-cover="https://img.discogs.com/o0gQ-ig7SkqDuCneLPQ35Y1wJNA=/fit-in/600x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406424-1109191706.jpg.jpg" data-tags="dance, pop" role="button">
-Infernal - From Paris To Berlin (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d9879a9-accc-4283-9ac4-fc9bb069573d/25651133073-500.jpg" data-tags="trance, atb" role="button">
 ATB - No Silence (2004-05-24)
@@ -269,6 +266,9 @@ Guru Josh Project - Infinity 2008 (2008-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f329d17-6f2b-41ae-91d0-77ed0fbcdd42/5442362264-500.jpg" data-tags="trance, armada" role="button">
 Armin van Buuren - In And Out Of Love (2008-08-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
+DJ Shah feat. Adrina Thorpe - Back To You (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)

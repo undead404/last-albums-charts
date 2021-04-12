@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:48:02.009Z
+date: 2021-04-12T03:59:01.402Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -198,6 +198,9 @@ Zebrahead - Waste of MFZB (2004)
 <li data-cover="http://coverartarchive.org/release/a7968320-e985-48b1-8424-64dccccf1503/5157859126-500.jpg" data-tags="hip hop" role="button">
 Cypress Hill - Till Death Do Us Part (2004-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a392b80-28ee-4dd8-a329-62cd7ba73c8a/22904823411-500.jpg" data-tags="crossover, rapcore" role="button">
+Borialis - What You Thought You Heard (2004-03-23)
+</li>
 <li data-cover="https://img.discogs.com/nEiPjnWWHbgDBoEG-dLKMaCsprY=/fit-in/475x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765131-1156726876.jpeg.jpg" data-tags="alternative metal, nu metal, hard rock" role="button">
 Flaw - Endangered Species (2004-05-04)
 </li>
@@ -261,9 +264,6 @@ Panik - Panik (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/c602be74-31d1-47c3-a533-44d252c3868e/19902540315-500.jpg" data-tags="rapcore" role="button">
 A Broken Silence - All For What... (2009-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - Desperate Measures (2009-11-10)
-</li>
 <li data-cover="https://img.discogs.com/MuSxo6UNSiJKFq_PIRIucpNcLa8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3227335-1321338342.jpeg.jpg" data-tags="hip-hop, rapcore, manafest" role="button">
 Manafest - The Chase (2010-03-30)
 </li>
@@ -303,9 +303,6 @@ Noize MC - Новый альбом (2012-03-30)
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c42909b1-9750-4a9c-9431-170a2583d794/28722232870-500.jpg" data-tags="rapcore" role="button">
-Deuce - Nine Lives (2012-04-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)
 </li>
@@ -320,5 +317,8 @@ Linkin Park - The Hunting Party (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/208138f6-af95-4b1f-a6bc-546798f2fbfb/8660593189-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Day Of The Dead (2014-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8eecb80-98fd-4dfe-9193-d708f233771d/8757779647-500.jpg" data-tags="alternative metal, rock, alternative rock" role="button">
+Papa Roach - F.E.A.R. (2015-01-23)
 </li>
 </ol>

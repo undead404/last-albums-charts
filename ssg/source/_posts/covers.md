@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T18:50:01.407Z
+date: 2021-04-12T04:01:23.636Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - The Spaghetti Incident? (1993-11-21)</li>
 <li data-cover="https://img.discogs.com/n8IeQKlL1AkpY4WaZ5akx0X88EA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-631417-1400879404-2317.jpeg.jpg" data-tags="rock, grunge, 90s, covers, flashback alternatives" role="button">Pearl Jam - Last Kiss (1999-06-23)</li>
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
+<li data-cover="https://img.discogs.com/LVgMCcBV6nXU1KmjvUWcYGS6H70=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-701826-1332343303.jpeg.jpg" data-tags="covers, punk" role="button">Me First and the Gimme Gimmes - Blow In The Wind (2001-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">Tori Amos - Strange Little Girls (2001-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
@@ -21,20 +21,23 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/aae2ea65-c42e-34b3-bd60-e44cfa4a290c/21634415461-500.jpg" data-tags="jazz, soul" role="button">
+Nina Simone - To Love Somebody (1969)
+</li>
 <li data-cover="https://img.discogs.com/lXgzqPeuK_3hwSu1BpoOBhbGOSE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7638264-1472328252-4614.jpeg.jpg" data-tags="soul, 70s" role="button">
 Shirley Bassey - Something (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
 </li>
-<li data-cover="https://img.discogs.com/KpDQq-HuKtvNzBTBY_TTY4Ew3CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1018202-1518278938-5231.jpeg.jpg" data-tags="disco" role="button">
-Grace Jones - Portfolio (1977)
-</li>
 <li data-cover="http://coverartarchive.org/release/74468206-c938-4a96-be09-5d07a5bb32d6/997337637-500.jpg" data-tags="covers" role="button">
 Los Lobos - La Bamba (1987)
 </li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
 Bobby McFerrin - Simple Pleasures (1988-08-22)
+</li>
+<li data-cover="https://img.discogs.com/1gjBn9tJl_t3FZjmh6odKP2pnpw=/fit-in/599x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-89005-1173515159.jpeg.jpg" data-tags="rock, 90s" role="button">
+U2 - One (1992-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
 Everything But the Girl - Acoustic (1992-06-02)
@@ -50,9 +53,6 @@ Kenny Loggins - Return To Pooh Corner (1994-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd2dd72-369f-4277-a199-0fc20df5b4f5/27006650765-500.jpg" data-tags="folk" role="button">
 Shawn Colvin - Cover Girl (1994-08-23)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
-Holly Cole - Temptation (1995-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4508124e-d2bb-4375-a5c5-e61d2c3d9f04/14486664847-500.jpg" data-tags="punk covers" role="button">
 MxPx - On The Cover (1995-11-28)
@@ -83,9 +83,6 @@ A*Teens - The ABBA Generation (1999-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
-</li>
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
-Cat Power - The Covers Record (2000-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - From The Screen To Your Stereo (2000-03-28)
@@ -123,6 +120,9 @@ Smash Mouth - Smash Mouth (2001-11-27)
 <li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
 Jimmy Eat World - Last Christmas (2001-12-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/7848792a-0af1-4b0a-89cc-c0e8fc7da02e/25475423074-500.jpg" data-tags="electronic, dance" role="button">
+Scissor Sisters - Comfortably Numb (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/9cdba68c-8d15-4b97-8d1e-2023509bdca9/12262547683-500.jpg" data-tags="covers" role="button">
 Joan Osborne - How Sweet It Is (2002-09-17)
 </li>
@@ -135,11 +135,20 @@ Johnny Cash - American IV: The Man Comes Around (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/db65d480-c25a-4f97-a520-57280bc2576c/16703965077-500.jpg" data-tags="indie, covers, rocks, bollix" role="button">
+The Detroit Cobras - Seven Easy Pieces (2003-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
 Misfits - Project 1950 (2003-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb540536-a7a0-48b8-9d67-9413bd336b65/15067372288-500.jpg" data-tags="covers" role="button">
 Cyndi Lauper - At Last (2003-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac50ae35-bfbf-4c43-baab-d84ccc5aab4d/20191091366-500.jpg" data-tags="covers" role="button">
+Firewater - Songs We Should Have Written (2004-01-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+Evergreen Terrace - Writer's Block (2004-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4843163a-5119-469c-9639-863cd5d3a856/15495644463-500.jpg" data-tags="pop, female vocalists, covers, 00s" role="button">
 Agnetha Fältskog - My Colouring Book (2004-04-19)
@@ -152,6 +161,9 @@ Gregorian - The Dark Side (2004-10-25)
 </li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
+</li>
+<li data-cover="https://img.discogs.com/VSwnFOTiuvMGJfhNCorJcgT0J2c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225125-1081083113.gif.jpg" data-tags="listen to your heart" role="button">
+D.H.T. - Listen To Your Heart (2004-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4135e8-4d34-443c-91d5-0297e9ef14d8/4783518168-500.jpg" data-tags="acoustic, lounge metal" role="button">
 Hellsongs - Hymns in the Key of 666 (2005)
@@ -186,9 +198,6 @@ Between the Buried and Me - The Anatomy Of (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
-Chris Cornell - Unplugged in Sweden (2006-09-07)
-</li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">
 Patti Smith - Twelve (2007-04-13)
 </li>
@@ -206,9 +215,6 @@ Queen Latifah - Trav'lin' Light (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
-</li>
-<li data-cover="https://img.discogs.com/e_aUnrH26XrK8n1DK7nyUEMbvMo=/fit-in/400x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10931451-1587569547-4653.jpeg.jpg" data-tags="dusty springfield" role="button">
-Shelby Lynne - Just A Little Lovin' (2008-01-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jumpstyle" role="button">
 Scooter - Jumping All Over The World (2008-02-01)
@@ -240,9 +246,6 @@ Four Year Strong - Explains It All (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/1b6f00f6-87f6-409f-a710-7ba31157e4b9/15160044156-500.jpg" data-tags="melodic death metal, cover" role="button">
 Children of Bodom - Skeletons in the Closet (2009-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4cb50c5-017b-35e8-baeb-bc4a1e849837/2895332486-500.jpg" data-tags="dance, scooter, electronic" role="button">
-Scooter - Under the Radar Over the Top (2009-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8632916-fb97-41bb-83fc-e76417000025/8199039341-500.jpg" data-tags="covers" role="button">
 Zebrahead - Panty Raid (2009-11-04)
 </li>
@@ -273,6 +276,9 @@ Glee Cast - Baby One More Time (Glee Cast Version) (2010-09-28)
 <li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - I'm A Slave 4 U (Glee Cast Version) (2010-09-28)
 </li>
+<li data-cover="https://img.discogs.com/WK1gsKSmS5X133KZp4aK_QT1wD8=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2589830-1291999111.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - I Want To Hold Your Hand (Glee Cast Version) (2010-10-05)
+</li>
 <li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - Don't Go Breaking My Heart (Glee Cast Version) (2010-10-12)
 </li>
@@ -290,12 +296,6 @@ Glee Cast - Stop! In The Name Of Love / Free Your Mind (Glee Cast Version) (2010
 </li>
 <li data-cover="http://coverartarchive.org/release/1b1818f3-0e80-4a25-ae98-9511dd549255/5119794652-500.jpg" data-tags="tribute" role="button">
 Various Artists - Rave On Buddy Holly (2011-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8f50118-3d3c-4826-a4b3-cf6228a97515/14969136552-500.jpg" data-tags="mixtape, covers, good music" role="button">
-Bastille - Other People's Heartache (2012-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/f8dc7308-86fe-4f27-bdfb-aefb526b081c/4782759842-500.jpg" data-tags="black metal, progressive metal, doom metal, covers, suicidal black metal" role="button">
-Shining - Lots of Girls Gonna Get Hurt (2012-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/87b1a636-fe96-416b-944c-bd86353acf15/14691802957-500.jpg" data-tags="covers" role="button">
 Clan of Xymox - Kindred Spirits (2012-10-05)

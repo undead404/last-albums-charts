@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:38:01.402Z
+date: 2021-04-12T04:32:01.404Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -114,9 +114,6 @@ Evanescence - Bring Me to Life (2003-04-14)
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
-Martina Topley-Bird - Quixotic (2003-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
 Gavin DeGraw - Chariot (2003-07-22)
 </li>
@@ -206,6 +203,9 @@ Copeland - Eat, Sleep, Repeat (2006-08-31)
 </li>
 <li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
 The Album Leaf - Into The Blue Again (2006-09-08)
+</li>
+<li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
+Ben Kweller - Ben Kweller (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
 Sean Lennon - Friendly Fire (2006-09-29)

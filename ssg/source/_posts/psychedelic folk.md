@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:29:01.430Z
+date: 2021-04-12T04:38:06.980Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -9,7 +9,7 @@ title: "psychedelic folk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">Kurt Vile - Smoke Ring for My Halo (2011-03-07)</li>
+<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">First Aid Kit - The Lion's Roar (2012-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Shields (2012-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">Angel Olsen - Burn Your Fire for No Witness (2014-02-18)</li>
@@ -48,26 +48,17 @@ Grateful Dead - Aoxomoxoa (1969-06-20)
 <li data-cover="http://coverartarchive.org/release/e5a8d9a1-2395-4502-8c9b-ad9933c9ef6a/12492339624-500.jpg" data-tags="60s, singer-songwriter" role="button">
 Donovan - Barabajagal (1969-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
-Almendra - Almendra (1969-11-29)
-</li>
 <li data-cover="https://img.discogs.com/7PYhzZShASHgrsZeQlB1mluE1go=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-440410-1113766673.jpg.jpg" data-tags="psychedelic, psychedelic folk, folk" role="button">
 Simon Finn - Pass The Distance (1970)
 </li>
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
-<li data-cover="https://img.discogs.com/GiVYt5duQ6pkKpz7b3KpnE8I7C0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8256525-1458094649-7843.jpeg.jpg" data-tags="folk" role="button">
-John Fahey - America (1971)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f82447b-1813-4a0d-a4dc-6b645b72bb43/17277846044-500.jpg" data-tags="80s, singer-songwriter, art rock, folk rock, psychedelic folk, rock en español, progressive latin" role="button">
 Luis Alberto Spinetta - Kamikaze (1982)
-</li>
-<li data-cover="https://img.discogs.com/XL9Mrr8GhhzlfU3RVRelI4AdTRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186371-1347897975-1349.jpeg.jpg" data-tags="holophonic" role="button">
-Psychic TV - Dreams Less Sweet (1983-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/530857f6-341e-4dd0-83e8-4c53bea9880f/26987481904-500.jpg" data-tags="chill, ambient, ambient pop, new age, folktronica, psychedelic folk, avant-folk" role="button">
 Woo - Into the Heart Of Love (1990)
@@ -77,9 +68,6 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="https://img.discogs.com/ZNc7KJdUubXDshWouVLKU0RiiGk=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478435-1295910826.jpeg.jpg" data-tags="electronica, pop, folk, ambient, indie pop, post-rock, baroque pop, psychedelic, 90s, psychedelic folk, neo-psychedelia, vert-de-gris play-list, evilfaire, tag auditions" role="button">
 Gorky's Zygotic Mynci - Bwyd Time (1995-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
-The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="https://img.discogs.com/lASHXtQEYiOAujCaqAPgaKB4gkY=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4474327-1548917782-2664.jpeg.jpg" data-tags="indie pop, 90s, welsh" role="button">
 Gorky's Zygotic Mynci - Barafundle (1997-04-07)
@@ -120,6 +108,9 @@ Animal Collective - Sung Tongs (2004-05-03)
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
 </li>
+<li data-cover="https://img.discogs.com/10up6GV01uuNOl-gjG5fdrQXKVk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1238857-1298713492.jpeg.jpg" data-tags="singer-songwriter, psychedelic folk, ellias, george ellias" role="button">
+Devendra Banhart - Little Yellow Spider (2004-09)
+</li>
 <li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
@@ -137,6 +128,9 @@ Feathers - Feathers (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/42afd162-b4c6-49ed-ab32-dadbfc293a3d/12915497561-500.jpg" data-tags="new weird finland" role="button">
 Islaja - Palaa aurinkoon (2005-01-20)
+</li>
+<li data-cover="https://img.discogs.com/6ESkMY01TPtEJe85R1SO4ASarK0=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1414876-1246457144.jpeg.jpg" data-tags="jagjaguwar" role="button">
+Oneida - The Wedding (2005-05-03)
 </li>
 <li data-cover="https://img.discogs.com/ZWdFOHOi3TOZR9TymAtE86pb22A=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329578-1341599154-1632.jpeg.jpg" data-tags="freak folk" role="button">
 Animal Collective - Prospect Hummer (2005-05-16)
@@ -183,9 +177,6 @@ Fursaxa - Alone In The Dark Wood (2007-01)
 <li data-cover="https://img.discogs.com/AmSUIlWlBwms-IZYvX-nmoh788o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934801-1340950615-3272.jpeg.jpg" data-tags="folk" role="button">
 Rio En Medio - The Bride of Dynamite (2007-02-13)
 </li>
-<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
-Dungen - Tio Bitar (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/67e6fd04-0ffc-4f0f-8ef8-1403abaa5d57/11848217197-500.jpg" data-tags="electronic, psychedelic rock, psychedelic folk, four tet, abstract album covers, psychedelic album covers, colorful album covers" role="button">
 Sunburned Hand of the Man - Fire Escape (2007-10-02)
 </li>
@@ -213,6 +204,9 @@ Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk, increible josephine, el mejor disco de josephine, josephine celestial, let the grieving be grand" role="button">
 Josephine Foster - This Coming Gladness (2008-07-04)
 </li>
+<li data-cover="https://img.discogs.com/Y5JV9Jwnr7BGofsnIa58tdfBx4c=/fit-in/549x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500851-1224399405.jpeg.jpg" data-tags="singer-songwriter, psychedelic folk" role="button">
+Castanets - City of Refuge (2008-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/a84315d3-290b-333a-8a57-47014915eda9/2990284729-500.jpg" data-tags="indie, freak folk, new weird america, psychedelic folk, devendra banhart" role="button">
 Megapuss - Surfing (2008-09-09)
 </li>
@@ -222,11 +216,17 @@ Kiss the Anus of a Black Cat - The Nebulous Dreams (2008-09-23)
 <li data-cover="https://img.discogs.com/SGfmuoVn7BXIMRcQKKLtnLsK4q8=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2021415-1259014343.jpeg.jpg" data-tags="psychedelic folk, 00s, not not fun, time for a clearout" role="button">
 Topaz Rags - Capricorn Born Again (2009)
 </li>
+<li data-cover="http://coverartarchive.org/release/a87ae7aa-5088-4e5a-9b63-0ba0c3dd5d34/21311848166-500.jpg" data-tags="post-rock, lo-fi, drone, freak folk, psychedelic folk, neo-psychedelia, dreamgaze, acid folk, dronegaze, gazer, tropical drone" role="button">
+Pocahaunted - Gold Miner's Daughters (2009-01-05)
+</li>
 <li data-cover="https://img.discogs.com/4nj_RVwp8__vad-hS_DqHQiWnzM=/fit-in/196x335/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1628125-1233144121.jpeg.jpg" data-tags="noise, drone, post rock, psychedelic folk, dark ambient, free folk, avant-folk, road to absolute" role="button">
 Natural Snow Buildings - Daughter of Darkness (2009-01-27)
 </li>
 <li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk" role="button">
+TwinSisterMoon - The Hollow Mountain (2009-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -258,6 +258,9 @@ CocoRosie - Grey Oceans (2010-04-30)
 <li data-cover="http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg" data-tags="psychedelic folk, psychedelic neofolk" role="button">
 Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)
 </li>
+<li data-cover="https://img.discogs.com/bQ0_zwOrwgDRJJL3MPqNkRK51Ak=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2771554-1325376481.jpeg.jpg" data-tags="classic rock, psychedelic" role="button">
+Syd Barrett - An Introduction to Syd Barrett (2010-10-08)
+</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
@@ -269,9 +272,6 @@ Natural Snow Buildings - Waves Of The Random Sea (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a1e4735-6f30-4d71-8702-4399f7bec4b3/5913448914-500.jpg" data-tags="psychedelic folk, dark folk" role="button">
 Hexvessel - Dawnbearer (2011-02-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
-Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

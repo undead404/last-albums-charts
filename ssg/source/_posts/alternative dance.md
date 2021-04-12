@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:44:01.393Z
+date: 2021-04-12T04:39:01.420Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
-New Order - Power, Corruption & Lies (1983-05)
-</li>
 <li data-cover="https://img.discogs.com/rg1T9gLjzeLz05GEll9mZqaW2DI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503261-1235343459.jpeg.jpg" data-tags="new wave, 80s" role="button">
 New Order - Low-Life (1985-05-01)
 </li>
@@ -39,9 +36,6 @@ Pop Will Eat Itself - Cure For Sanity (1990-08-01)
 <li data-cover="http://coverartarchive.org/release/885f651d-9cfd-3a28-a67e-f9e3abbdf867/9583863696-500.jpg" data-tags="industrial, my-life-with-the-thrill-kill-kult" role="button">
 My Life with the Thrill Kill Kult - Sexplosion! (1991)
 </li>
-<li data-cover="https://img.discogs.com/hbjGwQq_BRv7NVtSO2zLN4IAwUo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1740136-1518104990-8297.jpeg.jpg" data-tags="post-punk" role="button">
-The Fall - Shift-Work (1991-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/e411a740-84af-3f7c-8776-78c81fdc128d/21799937559-500.jpg" data-tags="electronic, pop, techno, house, 90s, male vocalists, alternative dance" role="button">
 Thompson Twins - Queer (1991-09-25)
 </li>
@@ -50,9 +44,6 @@ The Lightning Seeds - Sense (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/a43d038f-32ba-449d-84dd-6dec49940aa8/25926755072-500.jpg" data-tags="alternative dance" role="button">
 The Farm - Love See No Colour (1992-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
-New Order - Republic (1993-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
@@ -87,6 +78,9 @@ New Order - Get Ready (2001-06-18)
 <li data-cover="https://img.discogs.com/dRvgfR7AepIQPObN1J-eR15VdmI=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445543-1200259053.jpeg.jpg" data-tags="indie rock, alternative dance, 2010s, indifferent" role="button">
 Boxed In - Boxed In (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4555d5c-b0be-4f63-a47a-14dbcc31f0e3/15458088565-500.jpg" data-tags="electronic" role="button">
+Fluke - Progressive History X (2002-09-16)
+</li>
 <li data-cover="https://img.discogs.com/xNhbq7wdrCp41Cli9eWorBoOBUY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15694999-1596054295-8929.jpeg.jpg" data-tags="rock" role="button">
 The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 </li>
@@ -101,6 +95,9 @@ Hilary Duff - Come Clean (2004-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/470e4202-1975-4184-b30b-5fc2c8107daf/13920988207-500.jpg" data-tags="electronica, dance-rock" role="button">
+Curve - The Way of Curve (2004-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9142e654-74a2-49ea-aa62-e48b012b8296/20933789973-500.jpg" data-tags="alternative, indie" role="button">
 Ian Brown - Solarized (2004-09-13)
@@ -134,9 +131,6 @@ Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/5edfc25c-4fdc-4fbc-8784-559d8fb0d381/990539724-500.jpg" data-tags="indie, rock, british" role="button">
-The Charlatans - You Cross My Path (2008-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
@@ -200,6 +194,9 @@ Twin Shadow - Forget (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ab1ecd9-30f1-40af-ab98-0c2613492c7b/20344778579-500.jpg" data-tags="hip-hop, electronic" role="button">
+M.I.A. - Vicki Leekx (2010-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
@@ -287,6 +284,9 @@ Jagwar Ma - Howlin (2013-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/899223a2-d866-41b8-aee2-9a131cc07eba/5905585839-500.jpg" data-tags="electronic, jazz, alternative rock, experimental, indie rock, indie electronic, dance, psychedelic pop, dream pop, psychedelic rock, alternative dance, neo-disco,  noise pop" role="button">
+Larry Gus - Years Not Living (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/X56TsAaQVcGJByBtuBvgWIlUTDc=/fit-in/392x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1565810-1228855541.jpeg.jpg" data-tags="synthpop" role="button">
 Pet Shop Boys - Electric (2013-07-12)

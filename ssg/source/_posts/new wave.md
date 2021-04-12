@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:01:06.885Z
+date: 2021-04-12T04:41:01.412Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -93,6 +93,9 @@ Men at Work - Business As Usual (1981)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, new wave" role="button">
 Duran Duran - Duran Duran (1981)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
+The Psychedelic Furs - Talk Talk Talk (1981-05-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
 </li>
@@ -126,14 +129,8 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="http://coverartarchive.org/release/cc94b244-c5d7-4c9f-823d-38b7cb74e048/15908224527-500.jpg" data-tags="80s" role="button">
 Duran Duran - Rio (1982-05-21)
 </li>
-<li data-cover="https://img.discogs.com/PCgnxVCzzTl-HSsQaU4qnKhloN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600291-1175787502.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
-Billy Idol - Billy Idol (1982-07-16)
-</li>
 <li data-cover="https://img.discogs.com/GBj_nRxrCZwhdJtghzlS34JAfms=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1015733-1562370755-6922.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 The Psychedelic Furs - Forever Now (1982-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/54a922b7-f0af-4aaa-9438-99444f896b1d/13069746975-500.jpg" data-tags="80s" role="button">
-The The - Soul Mining (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
 Tears for Fears - The Hurting (1983-03-07)
@@ -216,6 +213,9 @@ Duran Duran - Greatest (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">
 New Order - Get Ready (2001-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d0b6eb0-8d92-3ec1-a6ae-f939a7980426/7587631086-500.jpg" data-tags="indie, electronic" role="button">
+The Faint - Danse MacAbre (2001-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
@@ -264,9 +264,6 @@ Desire - II (2009-06-29)
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
-<li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
-Julian Casablancas - Phrazes For The Young (2009-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/5729aa51-bc0d-4dd1-9a06-57878e0e9b2c/2569636438-500.jpg" data-tags="electronic" role="button">
 Groove Armada - Black Light (2010-01-29)
 </li>
@@ -293,6 +290,9 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/1db3ba5c-d568-45db-b0c9-4ceccb16d780/1093276486-500.jpg" data-tags="new wave" role="button">
+Ladyhawke - Anxiety (2012-05-25)
 </li>
 <li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:07:34.930Z
+date: 2021-04-12T03:48:07.000Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -57,6 +57,9 @@ Daft Punk - Discovery (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/b821473e-4959-40e4-9b40-48b95ecaf36b/6976453613-500.jpg" data-tags="house, electronic, dance" role="button">
 Basement Jaxx - Rooty (2001-06-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Roger Sanchez - First Contact (2001-07-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
@@ -104,9 +107,6 @@ The Disco Boys - For You (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
-Armand van Helden - Nympho (2005-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
 deadmau5 - Get Scraped (2005-07-26)

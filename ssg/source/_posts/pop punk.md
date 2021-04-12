@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:16:06.964Z
+date: 2021-04-12T04:19:07.001Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -171,6 +171,9 @@ Yellowcard - Lights and Sounds (2006-01-18)
 <li data-cover="http://coverartarchive.org/release/d6cd5fc3-53b3-475c-90e1-a967e999ad4a/15586885193-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Broadcast To The World (2006-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
+AFI - Decemberunderground (2006-05-19)
+</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
 </li>
@@ -194,9 +197,6 @@ New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">
 Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
-Mayday Parade - Tales Told By Dead Friends (2006-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/79d6b7c2-e707-4804-b9f1-03ca03960172/27345044181-500.jpg" data-tags="pop punk" role="button">
 Bowling for Soup - The Great Burrito Extortion Case (2006-11-07)

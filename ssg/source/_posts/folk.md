@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:53:01.427Z
+date: 2021-04-12T04:23:01.438Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -177,6 +177,9 @@ Iron & Wine - The Shepherd's Dog (2007-09-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, indie folk" role="button">
 Beirut - The Flying Club Cup (2007-10-08)
 </li>
+<li data-cover="https://img.discogs.com/ZUOHceulAPKDcOyOer22nkAFy1U=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1161670-1573399085-4401.jpeg.jpg" data-tags="folk, duyster" role="button">
+Phosphorescent - Pride (2007-10-23)
+</li>
 <li data-cover="https://img.discogs.com/UBd7YqXMjTGwZKEQrXE1EotW9co=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944687-1546335869-8526.jpeg.jpg" data-tags="indie, folk, post-rock, indie folk" role="button">
 The Middle East - The Recordings Of The Middle East (2008)
 </li>
@@ -284,9 +287,6 @@ Edward Sharpe & The Magnetic Zeros - Here (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
-</li>
-<li data-cover="https://img.discogs.com/cw9XEK-h15N5OvL8weRv3k2UsoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3978490-1351204638-3482.jpeg.jpg" data-tags="folk" role="button">
-Lord Huron - Lonesome Dreams (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4514530-80ec-4765-a903-6dac355031e1/5208050605-500.jpg" data-tags="indie, folk, post-rock, indie folk, 10s, 2010s, jagjaguwar, 2013 albums" role="button">
 Volcano Choir - Repave (2013-09-03)

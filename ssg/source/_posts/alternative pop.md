@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:30:01.453Z
+date: 2021-04-12T03:56:01.404Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
@@ -57,6 +57,9 @@ The Used - In Love and Death (2004-01-24)
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ad1ac2a-1a93-4058-864d-57c991caafe8/14081611856-500.jpg" data-tags="indie, pop, soft rock, alternative pop" role="button">
+Janove Ottesen - Francis' Lonely Nights (2004-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
 </li>
@@ -96,6 +99,9 @@ Julieta Venegas - Realmente Lo Mejor (2007-12-18)
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
+Kerli - Love Is Dead (2008-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
 </li>
@@ -122,6 +128,9 @@ Sarah Blasko - As Day Follows Night (2009-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/4fb4f073-94e0-4f6b-bcd2-8b9a48dafdbb/12165987773-500.jpg" data-tags="indie pop" role="button">
+Coma Cinema - Blue Suicide (2010)
 </li>
 <li data-cover="https://img.discogs.com/HkebpGdFZnYhGEobY3j3sWs8lE4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2336448-1277852804.jpeg.jpg" data-tags="pop, swedish" role="button">
 Amanda Jenssen - Happyland (2010-04-30)
@@ -150,9 +159,6 @@ Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 <li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
 Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
@@ -174,9 +180,6 @@ Lana Del Rey - Born to Die: The Paradise Edition (2012-01-27)
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5bff73a-47b5-4c9e-a75e-0ef6747e413b/1804110926-500.jpg" data-tags="pop" role="button">
-Rita Ora - How We Do (Party) (2012-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d52983b7-3921-416d-8784-ffb013b33ba6/15504507282-500.jpg" data-tags="indie, rock, british, alternative, indie rock, britpop, alternative pop, mom and pop music" role="button">
 Animal Kingdom - The Looking Away (2012-05-08)
 </li>
@@ -185,9 +188,6 @@ Lana Del Rey - Summertime Sadness (2012-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
-</li>
-<li data-cover="https://img.discogs.com/jo1nXjwYhHhHHMZXJnYFoC0pHZw=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724453-1521306228-7958.jpeg.jpg" data-tags="indie, pop, alternative, cover, alternative pop, lana del rey" role="button">
-Lana Del Rey - Blue Velvet (2012-09-20)
 </li>
 <li data-cover="https://img.discogs.com/59bXsu33PLTKLLayvOH1aPqAlMg=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4023781-1353288266-4410.jpeg.jpg" data-tags="pop, lana del rey" role="button">
 Lana Del Rey - Ride (2012-09-25)
@@ -206,12 +206,6 @@ Ke$ha - Die Young (2012-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c445671-fe50-4171-ad34-4e6b01b9a22e/10825236798-500.jpg" data-tags="folk, alternative pop" role="button">
 Highasakite - Silent Treatment (2013)
-</li>
-<li data-cover="https://img.discogs.com/jWX-99JX-c4vhbj23lyq68P1c68=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5347786-1391148311-4423.png.jpg" data-tags="electropop" role="button">
-BROODS - BROODS (2013-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd03a003-7b3c-479a-b611-b0fdaa291194/10849152712-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Burning Desire (2013-03-19)
@@ -320,5 +314,11 @@ The Asteroids Galaxy Tour - Bring Us Together (2014-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
+Foxes in Fiction - Ontario Gothic (2014-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ba516d5-dcaa-46bd-85e1-54a747aa36ad/9623766426-500.jpg" data-tags="indie pop, columbia records" role="button">
+Haerts - HAERTS (2014-10-27)
 </li>
 </ol>

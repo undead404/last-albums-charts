@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T19:31:12.469Z
+date: 2021-04-12T04:44:01.404Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">Tori Amos - Strange Little Girls (2001-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
+<li data-cover="http://coverartarchive.org/release/275b722f-d7f9-40ea-be38-286414febeb6/3942871458-500.jpg" data-tags="ska punk" role="button">Streetlight Manifesto - Keasbey Nights (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">Mark Ronson - Version (2007-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">Cat Power - Jukebox (2008-01-18)</li>
 <li data-cover="https://img.discogs.com/3DVsrRHOvdvK8KvhzXgXdluXxcE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705009-1297332898.jpeg.jpg" data-tags="cover, the strokes, lets dance, darkness, rca records, under, coramao, coolwench, awesome :b" role="button">The Strokes - Under Cover of Darkness (2011-02-10)</li>
@@ -24,14 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/6600f795-278c-49e3-883d-547016141503/15810465428-500.jpg" data-tags="alternative rock, rem" role="button">
 R.E.M. - Dead Letter Office (1987-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
+Everything But the Girl - Acoustic (1992-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 </li>
 <li data-cover="https://img.discogs.com/gZ_DOHt60uCl_n8gvRs3qOKXbBg=/fit-in/507x792/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3804042-1596044076-1564.jpeg.jpg" data-tags="heavy metal, hard rock, cover, thrash metal" role="button">
 Acid Drinkers - Fishdick (1994-06-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
-Holly Cole - Temptation (1995-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - The Forgotten Tales (1996-04-18)
@@ -51,9 +51,6 @@ A*Teens - The ABBA Generation (1999-07-01)
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
 </li>
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
-Cat Power - The Covers Record (2000-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - From The Screen To Your Stereo (2000-03-28)
 </li>
@@ -72,14 +69,14 @@ Rage Against the Machine - Renegades (2000-11-28)
 <li data-cover="http://coverartarchive.org/release/cdeea919-4101-4e00-832d-db0c7cf01cb7/9873657770-500.jpg" data-tags="covers, assault genre" role="button">
 Rasputina - The Lost & Found (2001)
 </li>
+<li data-cover="https://img.discogs.com/fzFpnEEdrLlE3m9LLbdwwbdsZNY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6606571-1494168277-7641.jpeg.jpg" data-tags="cover, blues" role="button">
+John Hammond - Wicked Grin (2001-03-13)
+</li>
 <li data-cover="https://img.discogs.com/LVgMCcBV6nXU1KmjvUWcYGS6H70=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-701826-1332343303.jpeg.jpg" data-tags="covers, punk" role="button">
 Me First and the Gimme Gimmes - Blow In The Wind (2001-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">
 Tori Amos - Strange Little Girls (2001-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ed0855b-ae5d-4eff-a10c-00b4e18d0b4b/22972644479-500.jpg" data-tags="swing" role="button">
-Robbie Williams - Swing When You're Winning (2001-11-19)
 </li>
 <li data-cover="https://img.discogs.com/ITP7gH9tn2Nh1MkEiiqyn-eHuOg=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10522368-1499173104-3124.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Tribute to the Gods (2001-11-26)
@@ -89,6 +86,9 @@ Jimmy Eat World - Last Christmas (2001-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e959d32c-15fe-4871-8aa8-ef4a74eae065/24917088500-500.jpg" data-tags="cover, psychedelic rock" role="button">
 Гражданская оборона - Звездопад (2002-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
+Trespassers William - Different Stars (2002-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">
 Johnny Cash - American IV: The Man Comes Around (2002-11-05)
@@ -135,26 +135,26 @@ Paul Anka - Rock Swings (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
 </li>
-<li data-cover="https://img.discogs.com/0XxcJs-SQFccsPcgqwF21-1sD_A=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602995-1141754942.jpeg.jpg" data-tags="acoustic, cover, soft, accoustic, my record collection, josegonzales" role="button">
-José González - Heartbeats (2006-01-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e83ea65-df0b-431a-9c62-42a5b53f9ce2/8213237332-500.jpg" data-tags="cover" role="button">
 Tortoise & Bonnie "Prince" Billy - The Brave And The Bold (2006-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/275b722f-d7f9-40ea-be38-286414febeb6/3942871458-500.jpg" data-tags="ska punk" role="button">
 Streetlight Manifesto - Keasbey Nights (2006-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/1e549bcc-c5c8-4a75-a131-027660da83d0/1281689911-500.jpg" data-tags="progressive rock, cover" role="button">
+Dream Theater - Dark Side Of The Moon (2006-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/92f3be62-21cd-4651-850e-b244fbd0c01b/26946774221-500.jpg" data-tags="cover" role="button">
 The Black Keys - Chulahoma: The Songs of Junior Kimbrough (2006-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fd1c420-d578-4865-8002-7790baabd38d/21288133475-500.jpg" data-tags="finnish, heavy metal, metal, rock, cover" role="button">
+Leningrad Cowboys - Zombies Paradise (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/00103e5a-a298-4108-9f74-4a5d9490a6ef/2772311711-500.jpg" data-tags="progressive metal, cover album" role="button">
 Between the Buried and Me - The Anatomy Of (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
-Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/39318741-c571-4252-b0df-5ba4c09fdd37/5815952825-500.jpg" data-tags="cover" role="button">
 Scott D. Davis - Pianotarium: piano tribute to metallica (2007)
@@ -212,6 +212,9 @@ Black Light Burns - Cover Your Heart (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ba7c287-814a-4bfc-a1b2-d989147833c8/5674446491-500.jpg" data-tags="cover, finnish" role="button">
 Kotiteollisuus - Sotakoira (2008-08-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
+Various Artists - Nightmare Revisited (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfa25c32-4c3d-4fef-a670-ddf3ab682cd4/6654965791-500.jpg" data-tags="cover, symphonic metal, power metal" role="button">
 Northern Kings - Rethroned (2008-11-17)
@@ -293,9 +296,6 @@ Passenger - All the Little Lights (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/895942b6-c726-4264-b27c-b2b396c4d25d/982582576-500.jpg" data-tags="classic rock, cover, need to listen, iggy" role="button">
 Iggy Pop - Après (2012-05-09)
-</li>
-<li data-cover="https://img.discogs.com/jo1nXjwYhHhHHMZXJnYFoC0pHZw=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724453-1521306228-7958.jpeg.jpg" data-tags="indie, pop, alternative, cover, alternative pop, lana del rey" role="button">
-Lana Del Rey - Blue Velvet (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf31b586-3c93-4edf-ad55-07141eb43185/2651949429-500.jpg" data-tags="cover" role="button">
 Gabrielle Aplin - The Power of Love (2012-11-10)

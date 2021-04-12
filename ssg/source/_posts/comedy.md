@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:44:01.402Z
+date: 2021-04-12T04:14:01.494Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -54,9 +54,6 @@ Monty Python - Monty Python Sings (1989-12-11)
 <li data-cover="https://img.discogs.com/nKvU-PeqCLF6Ny4VCySeMfLEsxg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972997-1185325725.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
 The Simpsons - The Simpsons Sing The Blues (1990-02-02)
 </li>
-<li data-cover="https://img.discogs.com/stBYKRz1YquMsfSLKdc3AEMFlNI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1848755-1300924789.jpeg.jpg" data-tags="comedy" role="button">
-Spinal Tap - Break Like The Wind (1992-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a649759-c3af-48ae-8e52-e159965eb262/6290570162-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Off The Deep End (1992-04-14)
 </li>
@@ -77,6 +74,9 @@ Adam Sandler - What the Hell Happened to Me? (1996-02-13)
 </li>
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb7b00a2-e21e-48bb-b7e2-73e2e399d748/25413532223-500.jpg" data-tags="comedy" role="button">
+George Carlin - Back in Town (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1a3ba8e-5e3e-4d93-97e7-728b985c9624/10806329522-500.jpg" data-tags="spoken word, comedy, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, snl, comedy central, saturday night live, huggy, allmusicr, allmusicc, getthisalbum" role="button">
 Chris Rock - Roll With The New (1997-04-08)
@@ -108,6 +108,9 @@ Bloodhound Gang - Hooray for Boobies (1999-10-04)
 <li data-cover="http://coverartarchive.org/release/a9ba5fb9-c0b1-4ba3-9531-bba2c561aab6/22805664465-500.jpg" data-tags="comedy" role="button">
 Liam Lynch - Fake Songs (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/98f631ed-b187-4ec1-9144-7e40826fae9c/5431673788-500.jpg" data-tags="funny, stand-up" role="button">
+Jeff Foxworthy - Big Funny (2000-04-25)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central, take a joke amercia, tell the truth, allmusicm, allmusicc" role="button">
 Carlos Mencia - Take a Joke America (2000-05-02)
 </li>
@@ -126,6 +129,9 @@ Lewis Black - The White Album (2000-10)
 <li data-cover="http://coverartarchive.org/release/4fecbf14-179d-41fb-9a39-7eb44a4c4634/15556280068-500.jpg" data-tags="lounge" role="button">
 Richard Cheese - Lounge Against The Machine (2000-10-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, kabarett" role="button">
+Rainald Grebe - Solo (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/2748414e-5f9d-470b-b748-9f98e6f51581/22141635600-500.jpg" data-tags="deutsch, comedy, german, a capella" role="button">
 Wise Guys - Ganz weit vorne (2001-08-27)
 </li>
@@ -134,9 +140,6 @@ Tenacious D - Tenacious D (2001-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e77478b-eeca-4fdc-9b44-a213a6b64acf/4656660822-500.jpg" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central, blue collar, blue collar comedy, funny album covers, blue collar comedy tour, allmusicl" role="button">
 Larry The Cable Guy - Lord, I Apologize (2001-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/41c58eb5-c31d-46ce-9fda-dffc2c35cf75/13632205461-500.jpg" data-tags="comedy" role="button">
-Flight of the Conchords - Folk the World Tour (2002-11-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - Superhero (2002-12-10)
@@ -182,6 +185,9 @@ Jim Gaffigan - Doing My Time (2004-12-07)
 </li>
 <li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">
 Bloodhound Gang - Hefty Fine (2005-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d33added-3e30-4910-b9e9-cf5f622cd48f/15055543395-500.jpg" data-tags="comedy, stand-up" role="button">
+Lewis Black - Luther Burbank Performing Arts Center Blues (2005-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0b0e961-6a14-4538-99d4-a10ad29017f5/8093681591-500.jpg" data-tags="comedy" role="button">
 Dane Cook - Retaliation (2005-07-26)
@@ -237,9 +243,6 @@ Modeselektor - Happy Birthday! (2007-09-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
 Mike Birbiglia - My Secret Public Journal Live (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">
-Dethklok - The Dethalbum (2007-09-25)
-</li>
 <li data-cover="https://img.discogs.com/gYhHxjYIW6Y4L4Gzdjwc7ckLNfY=/fit-in/592x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222978-1201816871.jpeg.jpg" data-tags="comedy" role="button">
 Nick Swardson - Party (2007-10-23)
 </li>
@@ -270,14 +273,14 @@ Jon Lajoie - You Want Some of This? (2009-01-30)
 <li data-cover="http://coverartarchive.org/release/e74d81e5-7e35-4566-9722-aeb9a796beae/9813552225-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - Incredibad (2009-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/18ca1fbc-e11b-4468-9600-7a173d6d715c/16950570633-500.jpg" data-tags="nickelodeon" role="button">
+Spongebob Squarepants - SpongeBob's Greatest Hits (2009-02-24)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - 3 Balloons (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b27f072-53e1-41ca-88c3-c20788e19839/2924119522-500.jpg" data-tags="comedy, comedy metal, foodcore" role="button">
 Psychostick - Sandwich (2009-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
-Steel Panther - Feel the Steel (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
@@ -296,9 +299,6 @@ The Lonely Island - Turtleneck & Chain (2011-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/30f9060a-f2e7-40c8-9723-7ac62efc07a8/18290116181-500.jpg" data-tags="comedy, youtube" role="button">
 Ninja Sex Party - NSFW (2011-09-29)
-</li>
-<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
-Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
 Tenacious D - Rize of the Fenix (2012-05-14)

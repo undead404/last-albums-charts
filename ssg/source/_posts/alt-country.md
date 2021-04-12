@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:11:06.988Z
+date: 2021-04-12T04:15:01.865Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -32,6 +32,9 @@ Lyle Lovett - Pontiac (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - No Depression (1990)
+</li>
+<li data-cover="https://img.discogs.com/PqD4V5GCVuTqdWD1zS_M3u5DPck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3504333-1333048227.jpeg.jpg" data-tags="country, alt-country" role="button">
+Uncle Tupelo - Still Feel Gone (1991-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/af53580d-d45c-441a-82ab-86c14acadb73/23244518052-500.jpg" data-tags="folk, country" role="button">
 Townes Van Zandt - Rear View Mirror (1993)
@@ -156,9 +159,6 @@ Gillian Welch - Soul Journey (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5d8a71-ef7b-4115-a686-318638aec5c2/6848655594-500.jpg" data-tags="indie, rock, alternative, ween" role="button">
-Ween - Quebec (2003-08-05)
-</li>
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
 </li>
@@ -246,6 +246,9 @@ Steve Earle - Washington Square Serenade (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
+<li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
+My Morning Jacket - Evil Urges (2008-06-09)
+</li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
 </li>
@@ -290,9 +293,6 @@ Deer Tick - The Black Dirt Sessions (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/32fd6d40-e578-4507-9c37-f191f65d8ba8/1214498258-500.jpg" data-tags="alt-country" role="button">
 Blake Mills - Break Mirrors (2010-07-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/985b9812-c27d-36a7-8246-18cbd06b7262/5830595090-500.jpg" data-tags="singer-songwriter" role="button">
-Isobel Campbell & Mark Lanegan - Hawk (2010-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34b531d-34e8-32c2-a8ae-d1082a337fc9/3033907801-500.jpg" data-tags="americana, alt-country, 2010s, 2010 albums" role="button">
 Justin Townes Earle - Harlem River Blues (2010-09-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:35:01.423Z
+date: 2021-04-12T04:04:01.434Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -141,6 +141,9 @@ Passion Pit - Manners (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/52006c31-6a66-3612-9213-57378b487a81/25477813995-500.jpg" data-tags="electronic, indie pop" role="button">
+Discovery - LP (2009-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
@@ -218,9 +221,6 @@ Django Django - Django Django (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
-</li>
-<li data-cover="https://img.discogs.com/tzJlIpGVxhIcpGhV7ir0n0BXhh0=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578248-1335993570.jpeg.jpg" data-tags="indie pop" role="button">
-Electric Guest - Mondo (2012-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/24c99b7d-b243-450d-8477-46dfd4a8bfa3/948171837-500.jpg" data-tags="dream pop" role="button">
 Beach House - Bloom (2012-05-14)

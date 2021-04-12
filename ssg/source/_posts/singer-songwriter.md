@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:37:01.867Z
+date: 2021-04-12T04:34:01.499Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -267,6 +267,9 @@ Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="jason mraz" role="button">
 Jason Mraz - I'm Yours (2008-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">
+John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
@@ -275,9 +278,6 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/045bd22e-b181-4b67-8fda-dbb47a66cef6/2333024859-500.jpg" data-tags="folk, indie" role="button">
 Bon Iver - Blood Bank (2009-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
-Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)

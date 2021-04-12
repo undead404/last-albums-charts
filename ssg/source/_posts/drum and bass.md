@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:13:01.389Z
+date: 2021-04-12T04:42:01.398Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -72,11 +72,8 @@ The Cinematic Orchestra - Motion (1999-09-01)
 <li data-cover="http://coverartarchive.org/release/6f29b8de-e444-40f5-b5ac-fce6e0c64c54/3798901070-500.jpg" data-tags="drum and bass" role="button">
 LTJ Bukem - Producer 01 (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f0b2ba7-6281-49d9-92f3-99f890d84b70/23163103784-500.jpg" data-tags="electronic, trip hop, downtempo groove, serve chilled, downtempo influences, my-love, acoustic groove, chillout downtempo, genre: downtempo, smoothly sexy sounding, sweet downtempo, chillounge1, chill chill, chillair, awesome downtempo, genre:downtempo, sexy sounding" role="button">
-Thunderball - Ambassadors of Style (2000-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Supermodified (2000-05-15)
+<li data-cover="http://coverartarchive.org/release/42a0f8d8-9b5f-41f4-9fd0-bd3222b90bb4/8615606476-500.jpg" data-tags="drum and bass" role="button">
+Dieselboy - System_Upgrade (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46944fe9-7b41-4f8a-a056-26d89c0235d3/9216671118-500.jpg" data-tags="drum and bass" role="button">
 Ram Trilogy - Titan EP (2000-05-29)
@@ -89,6 +86,9 @@ PFM - Producer 02 (2002-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8689c59-a581-4caa-bf85-c17a29d1b137/25607825860-500.jpg" data-tags="atmospheric drum and bass, deep house" role="button">
 Tayla - Producer 04 (2002-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/9266a9c0-8b61-442f-aa07-376ba47a12ff/1725745559-500.jpg" data-tags="drum and bass, good looking" role="button">
+Blu Mar Ten - Producer 03 (2002-06-17)
 </li>
 <li data-cover="https://img.discogs.com/qnw7XijC2a8hHm73fJ0PWif6Ge0=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62910-1556200728-9015.jpeg.jpg" data-tags="indietronica" role="button">
 Ms. John Soda - No P. or D. (2002-10-07)
@@ -114,9 +114,6 @@ Ram Trilogy - Screamer EP (2003-06-16)
 <li data-cover="http://coverartarchive.org/release/0b41ec2e-083a-3b56-ac79-88ecce303214/14359156369-500.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Kokopelli (2003-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/52316096-d097-452c-84ee-0a6b8de5993c/4524564573-500.jpg" data-tags="drum and bass" role="button">
-Shapeshifter - Riddim Wise (2004-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/426f0e00-b541-461d-9747-9d861ed75141/6923514210-500.jpg" data-tags="idm" role="button">
 Squarepusher - Ultravisitor (2004-03-03)
 </li>
@@ -134,6 +131,9 @@ Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 </li>
 <li data-cover="https://img.discogs.com/y2gorOpndf9rDDnLR03B_nwadf0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527840-1157734386.jpeg.jpg" data-tags="drum and bass" role="button">
 DJ Hazard - Use Your Brain / Selector (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/a082cc32-7c12-4f17-9d5d-4c73a4e82abe/1895628765-500.jpg" data-tags="dub, electro, drum and bass" role="button">
+La Phaze - Fin de Cycle (2005-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
 deadmau5 - Get Scraped (2005-07-26)
@@ -207,11 +207,11 @@ State Of Mind - Faster Than Light (2009-03-09)
 <li data-cover="http://coverartarchive.org/release/17d7b6ef-2d7b-4a3f-a326-5a1b07c9253c/3550688307-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Live At Brixton Academy (2009-06-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/41a446e8-46d1-4438-8164-b8505213de3d/27543693247-500.jpg" data-tags="dubstep" role="button">
+Broken Note - Terminal Static (2009-10-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
 Chase & Status - End Credits (2009-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3fecffdc-dca2-423a-a6fc-f673e8ea5c83/5698187054-500.jpg" data-tags="drum and bass" role="button">
-Shapeshifter - The System is a Vampire (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/95da9d74-569f-4406-8bc4-7bf2bcbe69b6/20733482972-500.jpg" data-tags="post-hardcore" role="button">
 Enter Shikari - Tribalism (2010-02-22)

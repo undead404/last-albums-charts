@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:41:07.168Z
+date: 2021-04-12T03:53:07.084Z
 title: "bossa nova: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -57,11 +57,17 @@ Astrud Gilberto - The Shadow Of Your Smile (1965)
 <li data-cover="http://coverartarchive.org/release/8a8ab97e-2701-4f5a-9288-69f6eeccec09/26219564261-500.jpg" data-tags="jazz, bossa nova, 60s, brazilian" role="button">
 Sérgio Mendes - The Swinger From Rio (1965-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/4feac070-e97e-4e13-b985-faf1c5101a42/18771126646-500.jpg" data-tags="jazz guitar" role="button">
+Charlie Byrd - Brazilian Byrd (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/68e84ef5-dd48-4db0-8624-98f922a8808a/14739023370-500.jpg" data-tags="mpb" role="button">
 Walter Wanderley - Rain Forest (1966)
 </li>
 <li data-cover="https://img.discogs.com/9xz4skAne3otQLHKcuYSUjZwRKY=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399219-1289664308.jpeg.jpg" data-tags="jazz, bossa nova, samba, batucada" role="button">
 Walter Wanderley - Batucada (1967)
+</li>
+<li data-cover="http://coverartarchive.org/release/be184918-1458-4bb9-a089-f07d308a0619/13147806334-500.jpg" data-tags="bossa nova, brazilian" role="button">
+Gal Costa & Caetano Veloso - Domingo (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98281a5-9ef0-30c8-8ed5-907df48215cc/14403677462-500.jpg" data-tags="bossa nova" role="button">
 Sérgio Mendes & Brasil '66 - Look Around (1967)
@@ -83,6 +89,9 @@ Astrud Gilberto - September 17, 1969 (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/3898175a-8535-457b-835f-02c0fd804a24/5248274081-500.jpg" data-tags="samba soul" role="button">
 Jorge Ben - Força Bruta (1970)
+</li>
+<li data-cover="https://img.discogs.com/ZM-3Z78Eyk0OEVmyY4wMInKDghA=/fit-in/302x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254915-1340974587-7644.jpeg.jpg" data-tags="mpb" role="button">
+Gal Costa - Legal (1970)
 </li>
 <li data-cover="https://img.discogs.com/abzcGXwWt27DTejtlFQqm_8pC0c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4323124-1361726202-4141.jpeg.jpg" data-tags="bossa nova" role="button">
 Antônio Carlos Jobim - Stone Flower (1970)
@@ -107,9 +116,6 @@ Antena - Camino Del Sol (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/64607f8d-3cc8-4131-a748-528a1b9e28d1/23355709748-500.jpg" data-tags="female, jazz, jazz vocal, bossa nova, lovely, tag, marvelous, boobs, shady, sabrina, delightful, carl, grady, nipples, vaginal, jacked, i would like to spend an afternoon rubbing her breasts with warm mineral oil, shady grady, 1000 albums to hear before you die, beautiful land of tits, quiero su disco, sabrina-sabrina, vagina and breasts, feminine cavern of love, boneriffic, beneficial, carlos seramos, seramos, related tags, clsid not unique, 00c04fd7d062, 9e56be61-c50f-11cf-9a2c-00a0c90a90ce, 9e56be61, c50f, 11cf, 9a2c, 00a0c90a90ce, 888dca60-fc0a-11cf-8f0f-00c04fd7d062, 888dca60, fc0a, 8f0f" role="button">
 Sabrina Salerno - Sabrina (1987)
-</li>
-<li data-cover="https://img.discogs.com/vs92C6tIQFzIH3U6ISuUaJ5_0hU=/fit-in/286x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2015640-1258671510.jpeg.jpg" data-tags="jazz vocal" role="button">
-Isabelle Antena - Hoping for Love (1987-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/efbf832e-ef95-445d-acf3-0b3d4f8b6ea0/20691117435-500.jpg" data-tags="bossa nova, 80s, bresil" role="button">
 Sérgio Mendes & Brasil '66 - The Very Best (1989)
@@ -147,6 +153,9 @@ Marcos Valle - Nova Bossa Nova (1997)
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/534e1d8e-0241-477b-a17d-8307b97a0104/11872288766-500.jpg" data-tags="mpb" role="button">
+Gal Costa - Aquele frevo axé (1998)
+</li>
 <li data-cover="https://img.discogs.com/PjksQB2RZyMpgOf7gAwzi6uGk9M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555803-1457736731-9492.jpeg.jpg" data-tags="bossa nova, caetano veloso, ao vivo" role="button">
 Caetano Veloso - Prenda Minha (1998)
 </li>
@@ -158,9 +167,6 @@ Toquinho E Paulinho Da Viola - Sinal Aberto (1999-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">
 Márcio Faraco - Ciranda (2000)
-</li>
-<li data-cover="https://img.discogs.com/21OwULkq7BahWogkH_f8LYg43Co=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1106886-1260896045.jpeg.jpg" data-tags="jazz" role="button">
-Lisa Ekdahl - Sings Salvadore Poe (2000-11-07)
 </li>
 <li data-cover="https://img.discogs.com/QogEqz9bVEKfP_9J4_RUjlpklCM=/fit-in/485x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058189-1353845449-4377.jpeg.jpg" data-tags="bossa nova, mpb, samba, melodico, vocalistas femeninas, zizi, brasileirinhos, zizi possi, bom sambinha, z possi" role="button">
 Zizi Possi - Bossa (2001)
@@ -174,17 +180,14 @@ Astrud Gilberto - Astrud Gilberto's Finest Hour (2001-05-15)
 <li data-cover="https://img.discogs.com/qGrB1yQKQNPAD0jS4MJDYSWuqaw=/fit-in/258x258/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711866-1150706483.jpeg.jpg" data-tags="bossa nova, brazilian" role="button">
 Rosalia De Souza - Garota moderna (2002)
 </li>
-<li data-cover="https://img.discogs.com/58tTYx6RlhHz83EZezC38p6SDqs=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38464-1444681522-4256.jpeg.jpg" data-tags="uutta jazzia, acid lounge, lounge groove, smooth lounge, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, downtempo lounge, acoustic groove, chillout downtempo, electrocool, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, electropcool, ouahhhhh, tropcool, lounge vibe, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, served chilled, sexy sounding, 1st vine acid, acid jazz vibe, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, down-tempo vibe, downtempo vibe, future jazz vibe, jazzy down tempo vibe, jazzy down-tempo vibe, jazzy downtempo vibe, jazzy trip, lounge jazz vibe" role="button">
-Les Hommes - Les Hommes (2002-08-20)
-</li>
 <li data-cover="https://img.discogs.com/1hAMKBj0GpScDbDgbwAdCeAaFv8=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330996-1118257022.jpg.jpg" data-tags="jazz" role="button">
 Ive Mendes - Ive Mendes (2002-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
-Gabin - Gabin (2002-11-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">
 Vanessa da Mata - Vanessa da Mata (2003-01-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9819f2d-69bc-3d8a-9349-bcb54c80e5a1/2751643677-500.jpg" data-tags="latin" role="button">
+Cesária Évora - Voz d'Amor (2003-09-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova, shrooms, to be listened to, like a lilac" role="button">
 Smokey & Miho - The Two EPs (2003-09-23)
@@ -212,9 +215,6 @@ Bebel Gilberto - Bebel Gilberto (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/07a7bc50-ad40-4ac8-b328-846c9e62f616/2029917579-500.jpg" data-tags="nu jazz, jazz, bossa nova" role="button">
-Nicola Conte - Other Directions (2004-09-06)
 </li>
 <li data-cover="https://img.discogs.com/cIurKmv0QBc1_nAAM0ZZbN-0x94=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9431602-1480458974-3595.jpeg.jpg" data-tags="bossa nova, samba, antonio carlos jobim, vocalistas masculinos, brasileirinhos, bom sambinha, l3a1e5da4n15l1" role="button">
 Antônio Carlos Jobim - A Arte De Tom Jobim (2004-10-25)
@@ -255,6 +255,9 @@ Chico Buarque - Carioca (2006-04)
 <li data-cover="https://img.discogs.com/bEF10aksLc7TpjHqL-wgXig96Lk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9559523-1482763955-6754.jpeg.jpg" data-tags="cartola, mpb, ney matogrosso" role="button">
 Ney Matogrosso - Ney Matogrosso Interpreta Cartola (2006-04-05)
 </li>
+<li data-cover="https://img.discogs.com/-4XTqnyy_-6TiLkZvhZadzizwbY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14026408-1566907662-1741.jpeg.jpg" data-tags="soul, bossa nova, female vocalists, mpb, samba, vocalistas femeninas, brasileirinhos, elza, bom sambinha, elza soarez, e soares" role="button">
+Elza Soares - Beba-Me Ao Vivo (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a027cce-b951-406c-927e-00d48013535e/3293108178-500.jpg" data-tags="bossa nova, lounge, club" role="button">
 Toco - Outro Lugar (2007)
 </li>
@@ -270,9 +273,6 @@ Brenda Boykin - Chocolate & Chili (2008)
 <li data-cover="http://coverartarchive.org/release/bf5ff212-6cd7-407f-918d-14f0710b31f0/15040622003-500.jpg" data-tags="nu jazz, chillout, jazz, soul, bossa nova, funk, lounge" role="button">
 3-11 Porter - Surround Me (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
-Nicola Conte - Rituals (2008-08)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">
 Maysa - Metamorphosis (2008-10-14)
 </li>
@@ -281,6 +281,9 @@ Eliane Elias - Bossa Nova Stories (2009-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Quiet Nights (2009-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/0336f197-29b9-44b0-879e-fa0a8dfada96/16560051599-500.jpg" data-tags="latin soul, bossa nova, latin jazz" role="button">
+Una Mas Trio - Ritmo Del Futura (2009-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e941977-9736-3db7-b5df-558df691908a/1895500073-500.jpg" data-tags="jazz, bossa nova" role="button">
 Nouvelle Vague - Best Of (2010)
@@ -302,9 +305,6 @@ Shintaro Sakamoto - How to Live With a Phantom (2011-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3866c16-e8e8-4cd4-80f8-ec49d1ee73e9/964499089-500.jpg" data-tags="vocal jazz" role="button">
 Melody Gardot - The Absence (2012-05-15)
-</li>
-<li data-cover="https://img.discogs.com/xxsamfcwA6e7PwxoM-6pzajHWXI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4821094-1463038000-7156.jpeg.jpg" data-tags="jazz, swing" role="button">
-Caro Emerald - The Shocking Miss Emerald (2013-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8098f8f1-ef64-4bab-a63c-4ee17081e9be/4094406107-500.jpg" data-tags="bossa nova, brazilian, creed taylor, bresil, 1960's, viilee, luiz bonfa, shared billing recording, verve recording" role="button">
 Luiz Bonfá - Bossa Nova (2014)
