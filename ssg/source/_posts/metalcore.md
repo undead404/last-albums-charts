@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:09:01.408Z
+date: 2021-04-12T02:33:01.409Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -153,6 +153,9 @@ Caliban - The Undying Darkness (2006-02-22)
 <li data-cover="http://coverartarchive.org/release/f6e27378-13d1-48a1-b6c7-52264dfd8001/1293739909-500.jpg" data-tags="metalcore" role="button">
 Atreyu - A Death-Grip on Yesterday (2006-03-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+As Blood Runs Black - Allegiance (2006-06-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/86682a5b-ffe8-3662-9aae-e45c906422a4/5936187593-500.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - Rest Inside The Flames (2006-06-12)
 </li>
@@ -284,9 +287,6 @@ Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
-</li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
-Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/00e40879-8672-45f6-9172-72b891a955d4/6514067219-500.jpg" data-tags="metalcore" role="button">
 All That Remains - For We Are Many (2010-10-12)

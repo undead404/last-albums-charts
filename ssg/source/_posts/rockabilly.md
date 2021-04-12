@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:00:01.481Z
+date: 2021-04-12T02:12:01.396Z
 title: "rockabilly: 100 albums you must listen to before you die"
 ---
 ![Volbeat - Guitar Gangsters &amp; Cadillac Blood (2008-08-28)](http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg "Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)")
@@ -45,6 +45,9 @@ Eddie Cochran - Somethin' Else (1959)
 <li data-cover="http://coverartarchive.org/release/a778a883-7174-4249-a089-27cc3634f869/5679266212-500.jpg" data-tags="rockabilly, 60s, rock n roll, the guardian list of 1000 albums to hear before you die, good times records 98" role="button">
 Del Shannon - Runaway With Del Shannon (1961)
 </li>
+<li data-cover="https://img.discogs.com/L7wIBoLPU1IXu9Gl3F4_j8kTVqM=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6923694-1507427219-2582.jpeg.jpg" data-tags="rockabilly, twist" role="button">
+Chubby Checker - Let's Twist Again (1961-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
 Roy Orbison - In Dreams (1963)
 </li>
@@ -86,9 +89,6 @@ Carl Perkins - Carl Perkins (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7825a9b2-3abf-425a-b5d3-3cadf803be8d/2384597591-500.jpg" data-tags="rockabilly, oldies, 50s, carl perkins" role="button">
 Carl Perkins - Original Sun Greatest Hits (1986-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/395a89e3-4f66-4202-b084-2d1837507d0f/4285812357-500.jpg" data-tags="rockabilly" role="button">
-Charlie Feathers - Jungle Fever (1987)
 </li>
 <li data-cover="https://img.discogs.com/QZJGr2czWaL1-LxbFNpFRWouKSw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7851007-1453341147-8013.jpeg.jpg" data-tags="oldies" role="button">
 The Everly Brothers - A Portrait Of... (1989)
@@ -135,9 +135,6 @@ Link Wray - Rumble! The Best of Link Wray (1993-05-18)
 <li data-cover="http://coverartarchive.org/release/e36e6b15-808e-412d-909e-287e731c076c/5790059818-500.jpg" data-tags="rockabilly" role="button">
 Stray Cats - Original Cool (1993-05-26)
 </li>
-<li data-cover="https://img.discogs.com/J7a_tmdOWptIE4pMPa0u1iFpgh8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1675851-1559071451-9736.jpeg.jpg" data-tags="country, rockabilly, western swing" role="button">
-Wayne Hancock - Thunderstorms and Neon Signs (1995)
-</li>
 <li data-cover="https://img.discogs.com/kLwwdL7g-KtySuIYVlNHiBCNU-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6094760-1411874073-9376.jpeg.jpg" data-tags="chile, rock chileno, rock en castellano" role="button">
 Los Tres - La Espada & la Pared (1995-03-17)
 </li>
@@ -149,9 +146,6 @@ Stray Cats - Runaway Boys: A Retrospective '81-'92 (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/a33ff701-a57f-4a80-9854-941c90c85427/5115500588-500.jpg" data-tags="rockabilly" role="button">
 Eddie Cochran - The Very Best Of (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/912cd97b-e951-4d44-9995-4868b456477a/6386198380-500.jpg" data-tags="swing" role="button">
-The Brian Setzer Orchestra - Guitar Slinger (1996-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rockabilly, honky tonk" role="button">
 BR5-49 - BR5-49 (1996-09-17)
@@ -174,17 +168,14 @@ John Fogerty - Premonition (1998-06-09)
 <li data-cover="http://coverartarchive.org/release/647bdfce-8294-480a-b8fe-b331161e97de/3377211187-500.jpg" data-tags="rockabilly" role="button">
 Mike Ness - Cheating At Solitaire (1999-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5010001-f788-4fa8-aa27-1b6eeab3bd8b/17937572389-500.jpg" data-tags="rockabilly" role="button">
+Buddy Knox - Party Doll (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/fd49582c-b449-4cf1-b178-b898f30de81a/22439039102-500.jpg" data-tags="rockabilly" role="button">
 Wanda Jackson - Queen of Rockabilly (2000)
 </li>
 <li data-cover="https://img.discogs.com/iqnhdfUK_VFgNiQM25Pe2I8CDV4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4715510-1373199970-7143.jpeg.jpg" data-tags="oldies, classic rock" role="button">
 Roy Orbison - The Essential Roy Orbison (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/c31af88f-adae-4d42-bd81-7b5c513043a5/1727808836-500.jpg" data-tags="rockabilly" role="button">
-Stray Cats - Greatest Hits (2000-01-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/743f9428-5bb2-3f3b-a335-5e9e7d53d387/4810297797-500.jpg" data-tags="swing, rockabilly" role="button">
-The Brian Setzer Orchestra - Vavoom (2000-07-26)
 </li>
 <li data-cover="https://img.discogs.com/SNmjbce6_drYmnF21w8IzfYICN0=/fit-in/400x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8314829-1459184560-8371.jpeg.jpg" data-tags="country, instrumental" role="button">
 Duane Eddy - Guitar Man (2001)
@@ -198,11 +189,14 @@ Hank Williams III - Lovesick, Broke & Driftin' (2002-01)
 <li data-cover="http://coverartarchive.org/release/b3c0782e-1e68-4c54-b620-9f1163e7bd3d/23738211370-500.jpg" data-tags="50s, rockabilly, rock n roll, rhythm blues" role="button">
 Fats Domino - Walking To New Orleans (2002-03-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christmas" role="button">
-The Brian Setzer Orchestra - Boogie Woogie Christmas (2002-10-21)
+<li data-cover="http://coverartarchive.org/release/9730a3a8-314a-488d-9015-2dde6c3d41d3/12117222616-500.jpg" data-tags="rockabilly" role="button">
+Stray Cats - Best Of The Stray Cats (2002-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfd7d63-d296-4390-9b92-5a94c197d908/22438166974-500.jpg" data-tags="rockabilly" role="button">
 Wanda Jackson - Heart Trouble (2003)
+</li>
+<li data-cover="https://img.discogs.com/usQ1f9jHMGNiGFX3KWSikklVwHA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641793-1607201885-1134.jpeg.jpg" data-tags="rockabilly, rock" role="button">
+The Phenomenauts - Rockets And Robots (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/693138d1-2d89-4cc4-bcb7-b6d84f37dd11/8001250502-500.jpg" data-tags="rockabilly, rock and roll, rhythm and blues, bluezzz, rockin party, c berry" role="button">
 Chuck Berry - Blues (2003-08-12)
@@ -224,6 +218,9 @@ Buddy Holly - The Very Best of Buddy Holly (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled" role="button">
 Heavy Trash - Heavy Trash (2005-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/da06d27c-ebad-465b-b6aa-b79daf8fcfa5/7668794668-500.jpg" data-tags="rockabilly, covers, neo-rockabilly, cover project, kittens and cats, tangleica ramones" role="button">
+Full Blown Cherry - Rockabilly Tribute to the Ramones (2005-09-13)
 </li>
 <li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
 Volbeat - The Strength/The Sound/The Songs (2005-09-26)
@@ -299,6 +296,9 @@ Sallie Ford & The Sound Outside - Dirty Radio (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
 Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)
+</li>
+<li data-cover="https://img.discogs.com/eVbBE6pIUXMQ0tj7S1oCcHav7Bk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8601636-1539999982-7599.jpeg.jpg" data-tags="rock" role="button">
+Wanda Jackson - The Party Ain't Over (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f9289f9-3d3a-4da4-8890-4f0e87139e94/7176358771-500.jpg" data-tags="rockabilly, 60s, female fronted, album que tengo" role="button">
 The Hillbilly Moon Explosion - Buy Beg Or Steal (2011-04-04)

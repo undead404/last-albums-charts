@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:27:01.409Z
+date: 2021-04-12T02:11:01.495Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -71,9 +71,6 @@ Autechre - LP5 (1998-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d03ebe7-5232-45d7-9959-cf7e29376e2a/3226483176-500.jpg" data-tags="idm" role="button">
 Arovane - Atol Scrap (2000-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Supermodified (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a749354-b840-4f1e-b05b-fb83799712ff/3146287748-500.jpg" data-tags="idm" role="button">
 Arovane - Tides (2000-06-01)
@@ -191,6 +188,9 @@ Modeselektor - Happy Birthday! (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
 Autechre - Quaristice (2008-01-29)
+</li>
+<li data-cover="https://img.discogs.com/20sDI-rlE2yF-R-yQSZ22PpvdBQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1212395-1522703728-2293.jpeg.jpg" data-tags="idm" role="button">
+Kelpe - Ex-Aquarium (2008-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)

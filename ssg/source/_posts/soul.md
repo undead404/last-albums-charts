@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:16:06.908Z
+date: 2021-04-12T02:21:01.433Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -300,14 +300,14 @@ Ariana Grande - Yours Truly (2013-08-30)
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9156e65e-fbef-4b62-8267-c1e1a463eb44/11201436281-500.jpg" data-tags="soul" role="button">
-Aloe Blacc - Lift Your Spirit (2013-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/717dd194-1abf-4ac0-85b9-be8c844cf4d8/23657161714-500.jpg" data-tags="soul" role="button">
 Chet Faker - Built On Glass (2014-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
+Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)

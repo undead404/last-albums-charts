@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:58:01.441Z
+date: 2021-04-12T02:24:01.429Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">
 Etta James - At Last (1960-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c89be9e-fb4f-4e6c-87ff-b569aa1ade17/24410065715-500.jpg" data-tags="jazz, blues, 60s" role="button">
-Nina Simone - Pastel Blues (1965)
-</li>
 <li data-cover="https://img.discogs.com/0h4cQRflb7QZo0Nwbtf1YTTIbKM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5051745-1392911107-7148.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Fresh Cream (1966-12-09)
 </li>
@@ -44,6 +41,9 @@ Otis Redding - The Dock of the Bay (1968-02-23)
 </li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
+The Rolling Stones - Beggars Banquet (1968-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f83b06-9cf1-4e39-81ed-5bd1ce9c44c3/19273846900-500.jpg" data-tags="blues" role="button">
 Albert King - King Of The Blues Guitar (1969)
@@ -110,9 +110,6 @@ Dire Straits - Dire Straits (1978-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739-500.jpg" data-tags="blues" role="button">
 Tom Waits - Blue Valentine (1978-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Billie Holiday - Billie Holiday (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3dc583d-dafd-386d-9fe3-6a324bb7fa28/23327712610-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
@@ -245,6 +242,9 @@ Eric Clapton - Complete Clapton (2007-10-08)
 </li>
 <li data-cover="https://img.discogs.com/pOWJ9y4vvwOtb3Bd_IAxl4LOLyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151980-1322079135.jpeg.jpg" data-tags="rock, rock country" role="button">
 Kid Rock - Rock N Roll Jesus (2007-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
+Cat Power - Jukebox (2008-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">
 John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)

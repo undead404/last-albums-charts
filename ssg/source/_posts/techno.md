@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:57:01.427Z
+date: 2021-04-12T01:46:06.912Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![Avicii - Levels (2011-10-28)](https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg "Avicii - Levels (2011-10-28)")
@@ -38,9 +38,6 @@ Culture Beat - Mr. Vain (1993-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f59c97-528c-3d70-a68e-f4ff44207cfc/13698079115-500.jpg" data-tags="electronic, techno, dance" role="button">
 Underworld - Dubnobasswithmyheadman (1993-09-20)
-</li>
-<li data-cover="https://img.discogs.com/iGB0FqjW9oXFmpGcXQOiqm8i6PE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29898-1467833962-8398.jpeg.jpg" data-tags="techno" role="button">
-The Sabres of Paradise - Sabresonic (1993-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1cfae23-df33-4a58-be49-5d34c6a5563e/3035311470-500.jpg" data-tags="electronic, techno" role="button">
 The Prodigy - More Music For The Jilted Generation (1994-07-04)
@@ -185,6 +182,9 @@ Gregor Tresher - Still EP (2005-05)
 </li>
 <li data-cover="https://img.discogs.com/m5caYZzD87Pe6K8_y0awhXHNFxE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471424-1118479959.jpg.jpg" data-tags="electro, techno" role="button">
 Kraftwerk - Minimum - Maximum (2005-06-06)
+</li>
+<li data-cover="https://img.discogs.com/XwnddAMe4xNCERqjNQDfUlfketk=/fit-in/479x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521679-1488361340-4434.jpeg.jpg" data-tags="dance, techno" role="button">
+Tiga - You Gonna Want Me (2005-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Oliver Koletzki - Mückenschwarm Remixes (2005-12-26)

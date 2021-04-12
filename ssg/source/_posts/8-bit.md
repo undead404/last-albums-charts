@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:35:01.410Z
+date: 2021-04-12T02:15:01.520Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Vessel (2012-12-26)](http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg "Twenty One Pilots - Vessel (2012-12-26)")
@@ -10,9 +10,9 @@ title: "8-bit: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/77baaaf6-8128-400e-aee7-0e9a6ca79692/994831655-500.jpg" data-tags="8-bit" role="button">pornophonique - 8-bit lagerfeuer (2007-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/717ad3d8-f8b3-4a6c-8a5e-4ab04fd63d31/27501129924-500.jpg" data-tags="8-bit, chiptune" role="button">Stu - GreateST HITs (2007-12-31)</li>
 <li data-cover="http://coverartarchive.org/release/d33a1214-fac2-4bcc-a058-e2dea8988a24/4709744474-500.jpg" data-tags="8bit" role="button">Kola Kid - Cash Machine Go! (2008-02)</li>
+<li data-cover="http://coverartarchive.org/release/e17b5763-708e-4428-9f20-aeaee4a6b232/9551828343-500.jpg" data-tags="chiptune" role="button">Unicorn Kid - Lion Hat (2009)</li>
 <li data-cover="http://coverartarchive.org/release/d6e602eb-97e5-42ca-919b-37c2ea510bad/2060277808-500.jpg" data-tags="chiptune, bitpop" role="button">Anamanaguchi - Dawn Metropolis (2009-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">C418 - Minecraft - Volume Alpha (2011-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">Neon Indian - Era Extraña (2011-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -35,6 +35,9 @@ Neutral Milk Hotel - Holland, 1945 (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d9fe35a-c879-4a69-b4a9-b567dee018fe/4755997477-500.jpg" data-tags="8-bit, netlabel" role="button">
 Yuppster - The Okinawa Campaign 1 (1999)
+</li>
+<li data-cover="https://img.discogs.com/0p8irWVSWkCny7_g-NMtSVSvqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-25253-1529981894-7231.jpeg.jpg" data-tags="electronica, experimental, 8-bit, abstract, idm, glitch, avant-garde, chiptune, technoid, chipmusic, glitchcore, glitch jazz, glitchtronica, glitch techno, abstract techno, chip noise, cyberjazz" role="button">
+Nintendo Teenage Robots - We Punk Einheit! (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/35e56c2b-ec70-4dd2-80ab-e78591b82256/21841992268-500.jpg" data-tags="8-bit, 00s, sweden, mein quitschiger leiherkasten" role="button">
 Puss - We Are Puss (2001)
@@ -84,11 +87,11 @@ virt - FX3 (2006)
 <li data-cover="http://coverartarchive.org/release/c25e1d4a-471a-462f-8e8e-ab64846d070d/4706197861-500.jpg" data-tags="8-bit" role="button">
 Dong - Gone square (2006)
 </li>
+<li data-cover="https://img.discogs.com/YbcE3UxivwKORPopG7AVHDqjAuk=/fit-in/381x382/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7277406-1444825377-9858.png.jpg" data-tags="chiptune, electronica, experimental, 8-bit, creative commons, hamsterloco" role="button">
+Ashbrg - NO$ (2006)
+</li>
 <li data-cover="https://img.discogs.com/cW_FUXj85FfcUr3EUsWA2XJTSfU=/fit-in/457x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929175-1183572118.jpeg.jpg" data-tags="8-bit" role="button">
 Acrnym - Sense-Data (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/701557d3-f3b8-443c-b4a6-820c4893720a/27017953798-500.jpg" data-tags="electronic" role="button">
-Copy - Mobius Beard (2006-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0944b888-0cda-4dba-9507-2211123bcb2c/4667208673-500.jpg" data-tags="chiptune" role="button">
 Bit Shifter - Information Chase (2006-02-27)
@@ -269,9 +272,6 @@ Mr. Spastic - Lucid (2011-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6499d385-7d72-4f5e-ac7a-194b0fa48b83/9238745565-500.jpg" data-tags="8-bit, chiptune, gameboy, nes" role="button">
 Aethernaut - Super Mega Ultra (2011-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b90d2cf-9fbe-42ca-8b11-8a744331e9f7/1130981323-500.jpg" data-tags="8-bit" role="button">
 Disasterpeace - Deorbit (2011-11-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:51:01.401Z
+date: 2021-04-12T02:05:07.034Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -162,9 +162,6 @@ Metallic Falcons - Desert Doughnuts (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/1997afcc-aaee-4abc-a923-832744dc480f/28260265027-500.jpg" data-tags="freak folk, psychedelic folk" role="button">
 Thee Oh Sees - The Cool Death OF Island Raiders (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/EDbALn2k6ZQKaGAePI_jnoP9Efs=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726345-1158836353.gif.jpg" data-tags="indie, psychedelic, new weird america, emusic" role="button">
-Brightblack Morning Light - Brightblack Morning Light (2006-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
@@ -263,6 +260,9 @@ Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/97c3790e-5535-4236-a293-cfbf44c820df/10368247554-500.jpg" data-tags="freak folk" role="button">
 Thee Oh Sees - Dog Poison (2009-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ca349b3d-66fa-4a11-a85e-8396a1e8ffb8/9226978539-500.jpg" data-tags="folk, experimental, freak folk, indie folk, 00s, 21st century folk" role="button">
+Hush Arbors - Yankee Reality (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)

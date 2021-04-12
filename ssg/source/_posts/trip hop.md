@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:00:01.451Z
+date: 2021-04-12T02:18:01.404Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -57,14 +57,14 @@ Archive - Londinium (1996-05-20)
 <li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
 Everything But the Girl - Walking Wounded (1996-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
-London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b994ee5-38c4-4fab-bc77-83fd172a3807/4890594100-500.jpg" data-tags="trip-hop" role="button">
+Tricky - Pre-Millennium Tension (1996-10-28)
 </li>
 <li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
@@ -80,9 +80,6 @@ Björk - Homogenic (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Portishead (1997-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
-Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/mN0237I9I4FjSdrw0DtCWt3UHlA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11829-1460318611-4612.jpeg.jpg" data-tags="downtempo, trip-hop, chillout" role="button">
 Waldeck - Balance Of The Force (1998)
@@ -105,6 +102,9 @@ Portishead - Roseland NYC Live (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
 Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
+<li data-cover="https://img.discogs.com/74I8J4UW2Vj7wFLPmbk6CcGLFoE=/fit-in/555x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573456-1218367376.jpeg.jpg" data-tags="trip-hop, downtempo, trip hop, higher octave, hecho en mexico, este disco me hace sentir un orgasmo, intimo, amazing songstress, my desert island" role="button">
+Ely Guerra - Lotofire (1999)
+</li>
 <li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
 Nightmares on Wax - Carboot Soul (1999-04-12)
 </li>
@@ -113,9 +113,6 @@ Archive - Take My Head (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f0b2ba7-6281-49d9-92f3-99f890d84b70/23163103784-500.jpg" data-tags="electronic, trip hop, downtempo groove, serve chilled, downtempo influences, my-love, acoustic groove, chillout downtempo, genre: downtempo, smoothly sexy sounding, sweet downtempo, chillounge1, chill chill, chillair, awesome downtempo, genre:downtempo, sexy sounding" role="button">
-Thunderball - Ambassadors of Style (2000-03-14)
 </li>
 <li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Thievery Corporation - The Mirror Conspiracy (2000-08-21)
@@ -159,11 +156,11 @@ Moloko - Statues (2003-01-06)
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
-Martina Topley-Bird - Quixotic (2003-06)
-</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2b78290-b041-4cdb-8355-7f8090ff7485/21687038310-500.jpg" data-tags="trip-hop" role="button">
+Lamb - Between Darkness And Wonder (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5969ae15-8e51-44b7-a5a7-b55d6dea1053/24102546544-500.jpg" data-tags="chillout" role="button">
 Blue Foundation - Sweep Of Days (2004)
@@ -228,17 +225,14 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
-Martina Topley-Bird - The Blue God (2008-05-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e58624a7-dfd8-4776-b058-4b8cccd229ee/5948876099-500.jpg" data-tags="electro, trip hop, lonely, obsessive songs, costanza, go deeper in album" role="button">
 Costanza - Sonic Diary (2008-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/99e8b9fa-4bfc-4bb1-930e-958de01847fc/7265369541-500.jpg" data-tags="downtempo, chillout, electronic, trip hop" role="button">
+Nightmares on Wax - Thought So... (2008-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
-Mr. Scruff - Ninja Tuna (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)
@@ -297,6 +291,9 @@ Big Boi - Vicious Lies and Dangerous Rumors (2012-12-11)
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/8142e844-c00a-4319-94a1-db3533b62cbd/4891125402-500.jpg" data-tags="electronica, experimental" role="button">
+TOKiMONSTA - Half Shadows (2013-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5aa8083-768e-495b-b7ce-0918cc9ff5d3/5445573385-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Obsidian (2013-05-28)
 </li>
@@ -320,5 +317,8 @@ Chet Faker - Built On Glass (2014-04-11)
 </li>
 <li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
 Damon Albarn - Everyday Robots (2014-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0f4080d-4c57-4740-9b95-92486791b000/7175573731-500.jpg" data-tags="rock, british, alternative, alternative rock" role="button">
+Kasabian - 48:13 (2014-06-09)
 </li>
 </ol>

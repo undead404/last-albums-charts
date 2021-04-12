@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T08:29:01.445Z
+date: 2021-04-12T02:06:06.990Z
 title: "jazz fusion: 100 albums you must listen to before you die"
 ---
 ![Herbie Hancock - Head Hunters (2010-06-28)](http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg "Herbie Hancock - Head Hunters (2010-06-28)")
@@ -156,11 +156,14 @@ Weather Report - Night Passage (1980)
 <li data-cover="https://img.discogs.com/G2yf-2Yi4J4tCPuItg2HPPNZKMg=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4527702-1442212442-8222.jpeg.jpg" data-tags="jazz fusion" role="button">
 Al Di Meola - Splendido Hotel (1980)
 </li>
+<li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
+Tom Waits - Heartattack and Vine (1980-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8aa1c6ff-f517-4684-afda-e15a537357e3/8079092197-500.jpg" data-tags="jazz fusion" role="button">
+Chick Corea - Touchstone (1982)
+</li>
 <li data-cover="https://img.discogs.com/n8TRA44U-Li7z0pwAK9fq1szb04=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084078-1481223166-2282.jpeg.jpg" data-tags="jazz rock, donald fagen" role="button">
 Donald Fagen - The Nightfly (1982-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a0aa443-503f-3c40-b792-c729b78d81ac/3167007172-500.jpg" data-tags="jazz, electronic, funk" role="button">
-Herbie Hancock - Future Shock (1983)
 </li>
 <li data-cover="https://img.discogs.com/qUE0SP-bGsy3qdW6KQPF9HLV6qs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545612-1394030758-4574.jpeg.jpg" data-tags="jazz, jazz fusion" role="button">
 Yellowjackets - Samurai Samba (1985)
@@ -192,8 +195,14 @@ The Brecker Brothers - The Brecker Bros. Collection, Volume 1 (1990)
 <li data-cover="http://coverartarchive.org/release/a7015fb8-4448-4bc5-baf4-4f057e27d89d/17840351631-500.jpg" data-tags="jazz fusion" role="button">
 Chick Corea Elektric Band - Beneath The Mask (1991)
 </li>
+<li data-cover="https://img.discogs.com/HL3z-D4sfWoWsVR9BzTtM6_Oh3c=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11892979-1527710498-5704.jpeg.jpg" data-tags="rock, 80s, experimental, singer-songwriter, jazz fusion, 90s, progressive, oldies, jazz rock, male vocalists, guitar virtuoso, zappa, 1980s, albums to get, znebula, f zappa" role="button">
+Frank Zappa - Make A Jazz Noise Here (1991-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bd25cd6-aaa6-4d08-87e1-cfcc48fbff9f/13378151593-500.jpg" data-tags="jazz fusion, flecktones" role="button">
 Béla Fleck and the Flecktones - Flight of the Cosmic Hippo (1991-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3303c7d-9c48-48aa-a6b5-7f3008eddb5d/6841009663-500.jpg" data-tags="jazz fusion, drums" role="button">
+Dave Weckl - Heads Up (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cff9b7-7676-414b-a35e-fbce05ba4715/15869282147-500.jpg" data-tags="jazz, jazz fusion, pat metheny" role="button">
 Pat Metheny - Secret Story (1992-07-14)
@@ -231,41 +240,29 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
 Jazztronik - 七色 (2004-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e0ee514-eda6-4293-861f-69d76a761eb1/14928804962-500.jpg" data-tags="progressive rock, jazz fusion" role="button">
-Buckethead - Population Override (2004-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d73c16f6-c6fc-4860-adf7-3fd96242e46e/2087988840-500.jpg" data-tags="jazz fusion, jazz" role="button">
 Dave Weckl Band - Multiplicity (2005-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf5dad55-411f-3f85-a763-5be324f31dac/7754470772-500.jpg" data-tags="herbie hancock" role="button">
 Herbie Hancock - Possibilities (2005-08-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/3bdc7a73-f706-4e2d-a7be-3866984ed99b/2356490684-500.jpg" data-tags="instrumental, fusion, guitar virtuoso" role="button">
+Guthrie Govan - Erotic Cakes (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d05abd8-a988-4e76-b6d0-6baf7570a0df/3067000893-500.jpg" data-tags="nu jazz, chillout, jazz, arabic, jazz fusion, nujazz, ecm, world fusion, tunisia, dhafer youssef, hazagusa, qlencja world selection" role="button">
 Dhafer Youssef - Divine Shadows (2006-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/b72a4fbc-397e-4fb5-bf56-69f0fd87004a/6994316341-500.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
-John McLaughlin - Industrial Zen (2006-08-01)
 </li>
 <li data-cover="https://img.discogs.com/79p13npAMCu7cPTGCYJAsKCSRwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463671-1432890120-5986.jpeg.jpg" data-tags="rock, swedish, scandinavian, jazz fusion, nordic, jazz rock, sweden, scandinavia, i own this album, svenskprov" role="button">
 Bo Kaspers Orkester - Hund (2006-09-20)
 </li>
-<li data-cover="https://img.discogs.com/Pw9-WkqfeTUZGoRbOY6PNtN-Uds=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3471587-1331689568.jpeg.jpg" data-tags="fusion, jazz, guitar virtuoso, instrumental" role="button">
-Kiko Loureiro - Universo Inverso (2006-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/7501fa57-c633-4d14-b830-ccb0ba59ae29/16465596696-500.jpg" data-tags="jazz fusion, jazz guitar" role="button">
 Alex Skolnick Trio - Last Day In Paradise (2007-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fae20fa-e265-463b-ab0b-b1e461cb6313/27699120331-500.jpg" data-tags="rock, funk, trumpet, tenor saxophone, flute, trombone, jazz fusion, alto saxophone, jazzy, jam, baritone saxophone" role="button">
-Trey Anastasio - The Horseshoe Curve (2007-07-24)
 </li>
 <li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
 SunSay - SunSay (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dca5d94-ae00-48fe-ae27-2c8dd86bf614/6825582808-500.jpg" data-tags="jazz, jazz fusion" role="button">
 Victor Wooten - Palmystery (2008-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ff8b2c5-2c41-4ea9-b368-2886cf9f49eb/8837803331-500.jpg" data-tags="noise rock, boobs on cover" role="button">
-ミドリ - あらためまして、はじめまして、ミドリです。 (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/89d8943c-507f-4476-8b61-dbfef0dce878/9150512902-500.jpg" data-tags="progressive metal" role="button">
 Cynic - Traced in Air (2008-10-22)
@@ -320,5 +317,8 @@ King Krule - 6 Feet Beneath The Moon (2013-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f48c834-23b7-4e5c-a4f8-9f1cf9e45c33/5700304800-500.jpg" data-tags="jazz, epic, trumpet, jazz fusion, jazz funk, funky, world jazz, this album saved my life, fav albums of all time, the very embodiment of musical eclecticism and creativity" role="button">
 Ibrahim Maalouf - Illusions (2013-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a25f16d-2aca-4d8d-9e22-a19cead10150/6086740545-500.jpg" data-tags="soul" role="button">
+Sharon Jones and the Dap-Kings - Give the People What They Want (2014-01-14)
 </li>
 </ol>

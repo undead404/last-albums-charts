@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:41:01.420Z
+date: 2021-04-12T02:43:01.410Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Phantogram - Nightlife (2011-11-01)](http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg "Phantogram - Nightlife (2011-11-01)")
@@ -36,8 +36,8 @@ Depeche Mode - Personal Jesus (1989-08-29)
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Pitchshifter - www.pitchshifter.com (1998-03-09)
+<li data-cover="http://coverartarchive.org/release/32bc1026-306c-4c91-96af-3612c1319c74/17811086702-500.jpg" data-tags="christian rock, rock, industrial" role="button">
+Skillet - Hey You, I Love Your Soul (1998-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
 Garbage - Version 2.0 (1998-05-01)
@@ -53,9 +53,6 @@ Paradise Lost - Host (1999-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/33f0bb8d-c07f-406e-9146-a786f258e569/8345837686-500.jpg" data-tags="electronic, rock, alternative rock, soft rock, electronic rock" role="button">
 Nosowska - Sushi (2000-05-15)
-</li>
-<li data-cover="https://img.discogs.com/H7d9Z1IAa4sSAKiUTri6zDYdiC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375064-1557511438-7181.jpeg.jpg" data-tags="rock, soft, electronic rock" role="button">
-Teddybears STHLM - Rock 'n' Roll Highschool (2000-06-07)
 </li>
 <li data-cover="https://img.discogs.com/lU8JOpVOHgwTfqSW8uc0IhKzrUM=/fit-in/553x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290388-1206828056.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Bloodsport (2002-01-22)
@@ -75,6 +72,9 @@ Orgy - Punk Statik Paranoia (2004-02-24)
 <li data-cover="http://coverartarchive.org/release/0c18d5dd-3e3d-459c-b647-80734819d072/20451673315-500.jpg" data-tags="alternative, experimental" role="button">
 John Frusciante - Shadows Collide With People (2004-02-24)
 </li>
+<li data-cover="https://img.discogs.com/-ezxPRzCfLyMAd8O6gzaZ07zj-w=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-255309-1582083365-6263.jpeg.jpg" data-tags="electronic, warp" role="button">
+Two Lone Swordsmen - From The Double Gone Chapel (2004-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
@@ -83,6 +83,12 @@ The Faint - Wet From Birth (2004-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
+</li>
+<li data-cover="https://img.discogs.com/_rhWtCaaRWl4b45YL1jr9oAQt_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15806625-1598148122-3966.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
+KMFDM - Hau Ruck (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb656d72-5e7c-4d0a-b45d-d8579747505e/10160516993-500.jpg" data-tags="russian, pop" role="button">
+t.A.T.u. - Люди инвалиды (2005-10-19)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
@@ -135,9 +141,6 @@ Shaka Ponk - Bad Porn Movie Trax (2009-05-25)
 <li data-cover="https://img.discogs.com/VEH-venpOnoNeugFgxNsFF93fAw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1840864-1247067954.jpeg.jpg" data-tags="electronic, alternative, experimental, experimental rock, electronic rock, alt. rock" role="button">
 Derek Webb - Stockholm Syndrome (2009-07-07)
 </li>
-<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
-Breathe Carolina - Hello Fascination (2009-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/f1c777b5-712d-4134-a5fc-ce50181a2dbe/4226151140-500.jpg" data-tags="industrial, industrial rock, industrial metal, electronic rock" role="button">
 The Luna Sequence - They Follow You Home (2009-08-25)
 </li>
@@ -150,6 +153,9 @@ Tokio Hotel - Humanoid (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/f66518b0-c5d3-4643-bf63-e1ac257c3131/13140342040-500.jpg" data-tags="imagine dragons" role="button">
 Imagine Dragons - Hell and Silence (2010-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, electronic rock, trancecore, electro alternative" role="button">
+Hands Like Glass - With Unveiled Faces (2010-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2074cb6-a185-4bfd-86de-decf013117d3/3194850526-500.jpg" data-tags="synthpop, electronic rock" role="button">
 Linkin Park - The Catalyst (2010-08-02)
 </li>
@@ -159,9 +165,6 @@ Klaxons - Surfing the Void (2010-08-20)
 <li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
-<li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
-Suuns - Zeroes QC (2010-10-12)
-</li>
 <li data-cover="https://img.discogs.com/Smab0rHJyMWYmaulLuMDPaBSPjY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2500444-1497387809-9706.jpeg.jpg" data-tags="electronic" role="button">
 Pure Reason Revolution - Hammer And Anvil (2010-10-15)
 </li>
@@ -170,9 +173,6 @@ I Blame Coco - The Constant (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40b27b4-0414-4f4f-ac1c-592a30b4225e/2603102123-500.jpg" data-tags="pop, alternative rock, chiptune, electronic rock" role="button">
 I Fight Dragons - Welcome To The Breakdown (2010-11-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fe6179a-6ae4-4436-950e-aaea4b2653c5/14003687395-500.jpg" data-tags="electro, dark, industrial, synth, synthpop, gothic rock, electro rock, aggro, electronic rock, belarus, synthrock, everything i need, lacrimaindarkness, angstwave, lacrima in darkness, synth gothic, 4 me, shadowplay release, aggro synthpop" role="button">
-Cold in May - Gone Away With the Memories (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b9d79e-7422-4c97-81ab-fea8ed068973/10666955584-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Blue Stahli (2011-03-02)
@@ -306,11 +306,11 @@ James - La Petite Mort (2014-06-02)
 <li data-cover="http://coverartarchive.org/release/c0f4080d-4c57-4740-9b95-92486791b000/7175573731-500.jpg" data-tags="rock, british, alternative, alternative rock" role="button">
 Kasabian - 48:13 (2014-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3cc8fd9-cb85-4c73-9ec5-72bbb91e1d9e/8109380175-500.jpg" data-tags="indie rock, post-punk" role="button">
+Hooray For Earth - Racy (2014-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/4785004d-ea89-4397-909c-312d97826d45/7445539786-500.jpg" data-tags="progressive metal, alternative metal, electronic, symphonic" role="button">
 Starset - Transmissions (2014-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf45de5e-7850-4d5e-89c4-7495473e62d3/9018530456-500.jpg" data-tags="alternative rock, electronic" role="button">
-PVRIS - White Noise (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ba1c3c-1319-44f7-a812-dbc9042eea01/8795270288-500.jpg" data-tags="industrial rock, synth rock" role="button">
 The Birthday Massacre - Superstition (2014-11-11)

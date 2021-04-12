@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:47:01.422Z
+date: 2021-04-12T02:29:07.021Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -32,9 +32,6 @@ Patti Smith - Horses (1975-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/aab3e6a1-3bf2-4c26-86ab-b496904d0128/9260401939-500.jpg" data-tags="punk, punk rock" role="button">
 Ramones - Ramones (1976-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
-Television - Marquee Moon (1977-02-08)
 </li>
 <li data-cover="https://img.discogs.com/9G4j9wU_FX-kUyU2ZmNpSJE-kSg=/fit-in/600x768/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624192-1537987523-4947.jpeg.jpg" data-tags="punk" role="button">
 The Clash - The Clash (1977-04-08)
@@ -257,6 +254,9 @@ Yellowcard - Lights and Sounds (2006-01-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
 Anti-Flag - For Blood and Empire (2006-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
+Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)

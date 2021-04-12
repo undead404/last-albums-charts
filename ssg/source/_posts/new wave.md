@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T23:14:01.420Z
+date: 2021-04-12T02:01:06.885Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">Television - Marquee Moon (1977-02-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/97d8bb43-f46f-3460-92dc-d6acdb3f1279/14969806130-500.jpg" data-tags="post-punk" role="button">Joy Division - Closer (1980-07-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">Talking Heads - Remain in Light (1980-10-08)</li>
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)</li>
 <li data-cover="https://img.discogs.com/xSXWAt5yTN34mzptdNfzstkELRE=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3024496-1312231658.jpeg.jpg" data-tags="new wave, 80s" role="button">Eurythmics - Sweet Dreams (Are Made Of This) (1982)</li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">a-ha - Hunting High and Low (1985-06-01)</li>
+<li data-cover="http://coverartarchive.org/release/205952c4-e54f-35a5-a299-5d16e600b23f/10919499939-500.jpg" data-tags="new wave, 80s" role="button">Talking Heads - Little Creatures (1985-06-10)</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">The Cure - Wish (1992-04-07)</li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">Paramore - Paramore (2013-04-05)</li>
+<li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">New Order - Get Ready (2001-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Reflektor (2013-09-09)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,23 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
-Television - Marquee Moon (1977-02-08)
-</li>
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-Talking Heads - Talking Heads: 77 (1977-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/88f94ced-b662-434e-8fc0-449bfa8dacdb/9631837560-500.jpg" data-tags="new wave, rock" role="button">
 Elvis Costello - This Year's Model (1978-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/270dca36-2e04-4efe-8698-16d574daf8fd/4921979307-500.jpg" data-tags="new wave, rock, 70s" role="button">
 The Cars - The Cars (1978-06-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
-Devo - Q: Are We Not Men? A: We Are Devo! (1978-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - More Songs About Buildings and Food (1978-07-21)
@@ -59,9 +50,6 @@ Joy Division - Unknown Pleasures (1979-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b154790a-643e-4780-9b8f-c5a5639dd392/5527662505-500.jpg" data-tags="new wave" role="button">
 The B-52's - The B-52's (1979-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/621b308e-ef79-4c7a-aa87-1f47885a709b/9312152547-500.jpg" data-tags="new wave" role="button">
-Talking Heads - Fear of Music (1979-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
@@ -174,6 +162,9 @@ Billy Idol - Vital Idol (1985)
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/133d0c34-4d0f-40a1-80e3-3683e9f346f1/7179212194-500.jpg" data-tags="post-punk" role="button">
+Killing Joke - Night Time (1985-02)
+</li>
 <li data-cover="https://img.discogs.com/rg1T9gLjzeLz05GEll9mZqaW2DI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503261-1235343459.jpeg.jpg" data-tags="new wave, 80s" role="button">
 New Order - Low-Life (1985-05-01)
 </li>
@@ -188,6 +179,9 @@ Wham! - The Final (1986-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0da7fda-06a8-452c-b25b-9aa320f7409d/4734396063-500.jpg" data-tags="80s" role="button">
 The Smiths - Louder Than Bombs (1987-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/42ce2ab6-ee39-38ae-bf01-894a4b856c8d/12274709799-500.jpg" data-tags="new wave, 80s, post-punk" role="button">
+Echo & the Bunnymen - Echo & The Bunnymen (1987-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/53317af3-59ad-4920-8cbe-47a3a878ef1f/2310305725-500.jpg" data-tags="80s" role="button">
 New Order - Substance 1987 (1987-08-17)
@@ -225,6 +219,9 @@ New Order - Get Ready (2001-06-18)
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/04049b63-b29c-330c-b758-fe671a60f420/26953889856-500.jpg" data-tags="indie" role="button">
+Metric - Old World Underground, Where Are You Now? (2003-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
 No Doubt - The Singles 1992-2003 (2003-10-28)
 </li>
@@ -233,6 +230,9 @@ The Cure - The Cure (2004-06-25)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+The Bravery - The Bravery (2005-03-14)
 </li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
 CSS - Cansei De Ser Sexy (2005-10)
@@ -248,9 +248,6 @@ The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
-</li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
@@ -269,6 +266,9 @@ Editors - In This Light and on This Evening (2009-09-10)
 </li>
 <li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
 Julian Casablancas - Phrazes For The Young (2009-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/5729aa51-bc0d-4dd1-9a06-57878e0e9b2c/2569636438-500.jpg" data-tags="electronic" role="button">
+Groove Armada - Black Light (2010-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb993d0e-2746-3983-8f7a-b2d1b270f4a2/27493644550-500.jpg" data-tags="electronic, indie" role="button">
 Twin Shadow - Forget (2010-09-28)
@@ -297,9 +297,6 @@ Santigold - Master of My Make-Believe (2012-04-21)
 <li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
-Paramore - Paramore (2013-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
 </li>
@@ -311,6 +308,9 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
+Trentemøller - Lost (2013-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2418376-2c16-416d-84a6-bd045f0464dd/7515767685-500.jpg" data-tags="indie pop, 2010s, rca records" role="button">
 Bleachers - Strange Desire (2014-07-15)

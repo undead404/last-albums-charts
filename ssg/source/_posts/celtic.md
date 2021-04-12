@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:00:29.309Z
+date: 2021-04-12T01:52:06.979Z
 title: "celtic: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -59,6 +59,9 @@ Hothouse Flowers - People (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/0845543a-07a2-4947-9be1-19bf4c39666f/6620340483-500.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - Parallel Dreams (1989)
+</li>
+<li data-cover="https://img.discogs.com/5NzNLV1eTHM67efmaCWGXubQTaw=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062651-1417906346-8596.jpeg.jpg" data-tags="celtic, folk" role="button">
+Capercaillie - Delirium (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
@@ -143,9 +146,6 @@ Celtic Spirit - Lyra (1998-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
 Gaelic Storm - Gaelic Storm (1998-07-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
-The Corrs - What Can I Do (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/88334fc0-fe21-44ee-affa-67d361c2bf11/3169241029-500.jpg" data-tags="celtic" role="button">
 Celtic Spirit - Lyra II (1999)

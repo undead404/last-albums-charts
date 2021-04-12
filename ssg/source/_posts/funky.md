@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:11:01.426Z
+date: 2021-04-12T02:10:23.881Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Gossip - Heavy Cross (2009-06-05)](http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg "Gossip - Heavy Cross (2009-06-05)")
@@ -42,14 +42,23 @@ Wild Cherry - Wild Cherry (1976)
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 Funkadelic - One Nation Under A Groove (1978-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc2811b1-92b8-4fc5-9b8f-8d3cedf7f714/18048115211-500.jpg" data-tags="soul, funk, funky, philly soul" role="button">
+Edwin Birdsong - Edwin Birdsong (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/43874469-e28e-4f7f-94fa-f99e4017bbf1/17944378972-500.jpg" data-tags="easy listening, funky, silly, geffen records, albums to listen to" role="button">
 Rupert Holmes - Partners In Crime (1979)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+The B-52's - Cosmic Thing (1989-06-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
+</li>
+<li data-cover="https://img.discogs.com/xZwC2Jkr_FDnLqb4L--AHlRNpQw=/fit-in/450x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4595417-1436162339-8307.jpeg.jpg" data-tags="60s, donovan" role="button">
+Donovan - Catch the Wind (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
@@ -62,9 +71,6 @@ Incubus - Fungus Amongus (1995-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
 Ernest Ranglin - Below The Bassline (1996-06-11)
-</li>
-<li data-cover="https://img.discogs.com/Img-_OVQGzc_ouQJFXUdIVb8P70=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197687-1250854872.jpeg.jpg" data-tags="experimental, alternative, 90s" role="button">
-Soul Coughing - Irresistible Bliss (1996-07-09)
 </li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
@@ -120,9 +126,6 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
 Jane's Addiction - Strays (2003-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a14d0a2d-6132-447e-8d32-7aecfbea27e3/5597516047-500.jpg" data-tags="rock, alternative rock" role="button">
-311 - Evolver (2003-07-22)
-</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -155,9 +158,6 @@ Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
@@ -195,9 +195,6 @@ SunSay - SunSay (2007-09)
 <li data-cover="https://img.discogs.com/pEEbB0iyVjcmd6SCEptQ3YrK74M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14516463-1576154585-5016.jpeg.jpg" data-tags="hip-hop" role="button">
 will.i.am - Songs About Girls (2007-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/9023d1ba-a7e8-46de-af01-d17218d740ea/3675284685-500.jpg" data-tags="soul, electro, house, funky, future jazz, labels - etage noir recordings" role="button">
-Parov Stelar - Sugar (2007-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/1be60745-5d0c-3a6b-b365-ecb20299dd6d/12154931370-500.jpg" data-tags="female vocalists" role="button">
 Lykke Li - Little Bit (2007-09-27)
 </li>
@@ -213,9 +210,6 @@ Kelly Rowland - Work (2008-02-26)
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e63c7bd-e2e6-4f51-b2ba-196ceb9cb1eb/9501207392-500.jpg" data-tags="soul, my-love, belleruche" role="button">
-Belleruche - The Express (2008-10-12)
-</li>
 <li data-cover="https://img.discogs.com/_vTDLE_5L-MBEDziAoHWMBkaMs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9192574-1476404850-6432.jpeg.jpg" data-tags="soul" role="button">
 Lee Fields & The Expressions - My World (2009)
 </li>
@@ -224,6 +218,9 @@ General Elektriks - Good City for Dreamers (2009-02-23)
 </li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, hiphop, funny" role="button">
+Narkotiki - Планета Любовь (2009-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg" data-tags="classic rock, pop, rock, 80s, funky, breakbeat, underground" role="button">
 Gossip - Heavy Cross (2009-06-05)
@@ -275,6 +272,9 @@ Anika - Anika (2010-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
+</li>
+<li data-cover="https://img.discogs.com/gGj42qXYmtUu2KfQF7l6vL5tTLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768244-1327121549.jpeg.jpg" data-tags="funky, ninja tune" role="button">
+Wagon Christ - Toomorrow (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)

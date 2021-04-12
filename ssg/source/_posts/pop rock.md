@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:10:01.427Z
+date: 2021-04-12T02:35:01.414Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -45,6 +45,9 @@ The Calling - Camino Palmero (2001-07-10)
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/affb9073-3c21-3524-bc16-5497489ce059/1709609353-500.jpg" data-tags="pop" role="button">
+P!nk - M!ssundaztood (2001-11-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
 </li>
@@ -53,9 +56,6 @@ Maroon 5 - Songs About Jane (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/198b344c-7455-4a9e-b32b-6d06ce77c41f/6358368858-500.jpg" data-tags="singer-songwriter, jason mraz" role="button">
 Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">
-Hilary Duff - Metamorphosis (2003-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
 Gavin DeGraw - Chariot (2003-07-22)
@@ -74,6 +74,9 @@ James Blunt - Back to Bedlam (2004-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
 The Calling - Two (2004-05-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
+McFly - Room on the 3rd Floor (2004-07-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - Autobiography (2004-07-20)
@@ -104,9 +107,6 @@ Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
-</li>
-<li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
-Hilary Duff - Most Wanted (2005-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)

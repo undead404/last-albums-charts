@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:32:01.401Z
+date: 2021-04-12T01:57:01.398Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -68,6 +68,9 @@ Nas - It Was Written (1996-07-01)
 </li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
+Mobb Deep - Hell on Earth (1996-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
 Gang Starr - Moment Of Truth (1998-03-31)
@@ -176,9 +179,6 @@ Ludacris - The Red Light District (2004-12-07)
 </li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
-50 Cent - The Massacre (2005-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a500cf0-36a3-4e93-9133-b99e019f4aea/28553158445-500.jpg" data-tags="rap" role="button">
 Missy Elliott - The Cookbook (2005-07-04)

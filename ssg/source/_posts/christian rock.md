@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T19:58:06.991Z
+date: 2021-04-12T02:00:01.443Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">Switchfoot - The Beautiful Letdown (2003-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">Skillet - Collide (2003-11-18)</li>
+<li data-cover="http://coverartarchive.org/release/814233a9-f6b0-4722-b4de-c9d60c015f45/2164745129-500.jpg" data-tags="christian rock" role="button">Pillar - Where Do We Go From Here (2004-06-15)</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">Flyleaf - Flyleaf (2004-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">Anberlin - Never Take Friendship Personal (2005-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">Switchfoot - Nothing Is Sound (2005-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">Skillet - Comatose (2006-10-03)</li>
 <li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">Anberlin - Cities (2007-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
-<li data-cover="http://coverartarchive.org/release/c2ac6303-90bd-4286-8c74-dfa9235a8e93/8887519155-500.jpg" data-tags="christian rock" role="button">Fireflight - Unbreakable (2008-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)</li>
 </ol>
 List of 100 - under the cut.
@@ -216,9 +216,6 @@ Falling Up - Captiva (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
 Jon Foreman - Fall (2007-11-20)
 </li>
-<li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
-The Lonely Island - Jizz In My Pants (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4c303b5-fdcf-4bf6-9198-b5205cc45249/4889844357-500.jpg" data-tags="rock, christian rock" role="button">
 Ivoryline - There Came A Lion (2008-02-05)
 </li>
@@ -233,9 +230,6 @@ The Afters - Never Going Back to OK (2008-02-26)
 </li>
 <li data-cover="https://img.discogs.com/svKtbILUe0oAguZiEtE2mjskPGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719382-1239029472.jpeg.jpg" data-tags="christian rock" role="button">
 Leeland - Opposite Way (2008-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2ac6303-90bd-4286-8c74-dfa9235a8e93/8887519155-500.jpg" data-tags="christian rock" role="button">
-Fireflight - Unbreakable (2008-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/85c9715c-4df9-4f66-afa4-9295b9dbd4da/15035339489-500.jpg" data-tags="christian rock" role="button">
 Addison Road - Addison Road (2008-03-18)
@@ -285,6 +279,9 @@ Switchfoot - Hello Hurricane (2009-11-10)
 <li data-cover="http://coverartarchive.org/release/a86e678a-7c87-4f31-8f88-732879b49d84/8887573089-500.jpg" data-tags="rock, alternative rock, hard rock, christian rock, fireflight" role="button">
 Fireflight - For Those Who Wait (2010-02-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c918d5a9-0b94-46c6-ba1c-64fc71286dcf/26393841850-500.jpg" data-tags="christian rock" role="button">
+Sanctus Real - Pieces Of A Real Heart (2010-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/c72a398e-6cc9-4b27-ae48-c83e9c1d2e13/6986721749-500.jpg" data-tags="alternative rock, hard rock, christian, christian rock, rock, female vocalists, gothic metal" role="button">
 The Letter Black - Hanging On By A Thread (2010-04-30)
 </li>
@@ -299,6 +296,9 @@ The Afters - Light Up the Sky (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9026ff79-d23d-4585-95cf-d8e275790f8b/19390111211-500.jpg" data-tags="christian rock" role="button">
 Disciple - Horseshoes & Handgrenades (2010-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/b24c4533-f252-4824-9f7e-3a671323148b/25109611893-500.jpg" data-tags="electronic, rock, punk, punk rock, crunk, christian rock, crunk rock" role="button">
+Family Force 5 - III (2011-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/43b4c498-51c1-48cd-b0ca-9b301d522b14/8854606482-500.jpg" data-tags="alternative rock, christian rock, look up on emusic" role="button">
 Nine Lashes - World We View (2012-02-10)

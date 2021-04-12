@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:14:01.405Z
+date: 2021-04-12T02:08:01.391Z
 title: "blues-rock: 100 albums you must listen to before you die"
 ---
 ![The Allman Brothers Band - At Fillmore East (1971)](https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg "The Allman Brothers Band - At Fillmore East (1971)")
@@ -54,14 +54,8 @@ The Rolling Stones - The Rolling Stones (1969)
 <li data-cover="https://img.discogs.com/aldR0PCTnVceavYNTKqBnXdd50A=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6560874-1422030994-2412.jpeg.jpg" data-tags="classic rock, hard rock, blues rock" role="button">
 Free - Free (1969-10)
 </li>
-<li data-cover="https://img.discogs.com/qLajQDZlGUOXRl3jAqLMAByauqk=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196377-1382129889-1674.jpeg.jpg" data-tags="folk, blues" role="button">
-Hot Tuna - Hot Tuna (1970)
-</li>
 <li data-cover="https://img.discogs.com/tN-SjSWxzGyN8c_dwOHroB7XjFY=/fit-in/590x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576408-1335921245.jpeg.jpg" data-tags="classic rock" role="button">
 Leon Russell - Leon Russell (1970-02-01)
-</li>
-<li data-cover="https://img.discogs.com/bZrC1BDOvvQehzoDiuaacH1D__4=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973077-1255980605.jpeg.jpg" data-tags="rock, british, blues rock" role="button">
-Cream - Live Cream (1970-04)
 </li>
 <li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
 Stephen Stills - Stephen Stills (1970-11)
@@ -72,8 +66,14 @@ The Allman Brothers Band - At Fillmore East (1971)
 <li data-cover="http://coverartarchive.org/release/3e335ee5-ad12-45f6-89f0-7781c173f7fc/21730334418-500.jpg" data-tags="rock, classic, 70s, alternative, experimental, progressive rock, blues-rock, blues, psychedelic, avant garde, american, proto-punk, captain beefheart, only the best, underrated and overlooked, glorious vocals, c beefheart" role="button">
 Captain Beefheart & His Magic Band - Mirror Man (1971)
 </li>
+<li data-cover="https://img.discogs.com/86eQW801nhdY_SGwSBWK1dUSfyM=/fit-in/393x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125568-1305464738.jpeg.jpg" data-tags="classic rock, heavy metal, rock, hard rock, blues-rock, acid rock" role="button">
+Blue Cheer - Oh! Pleasant Hope (1971)
+</li>
 <li data-cover="https://img.discogs.com/6XJy69cfE0Ut4NSEjXDRpUFNpNM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5329898-1390702869-5206.jpeg.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Rory Gallagher - Rory Gallagher (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/844a5e08-7e81-3e41-91ff-4bfb753ca4c5/15612452090-500.jpg" data-tags="classic rock, blues, rock" role="button">
+Humble Pie - Rock On (1971-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/11063d6a-3a37-3c8a-a249-f1f5022a13ab/14022421524-500.jpg" data-tags="blues-rock" role="button">
 Foghat - Foghat (1972)
@@ -83,12 +83,6 @@ John Mayall - Jazz Blues Fusion (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/18519193-9e7c-4515-baab-bed88265a51d/4983267135-500.jpg" data-tags="rock" role="button">
 Jimi Hendrix - War Heroes (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/89560708-7cf5-4571-8b98-07434256c8db/10468323328-500.jpg" data-tags="progressive rock, psychedelic rock" role="button">
-Kevin Ayers - Whatevershebringswesing (1972-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/474352a7-d6b6-442a-b91b-ebe5d75d5f03/5853663013-500.jpg" data-tags="blues" role="button">
-Hot Tuna - Burgers (1972-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf8885b2-39f8-344e-b860-4be1623de283/4529929218-500.jpg" data-tags="southern rock, classic rock" role="button">
 The Allman Brothers Band - Eat a Peach (1972-02-12)
@@ -104,6 +98,9 @@ Bachman-Turner Overdrive - Not Fragile (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae116163-8d8e-3df5-904c-bcadb57531fd/3727804426-500.jpg" data-tags="hard rock" role="button">
 Aerosmith - Get Your Wings (1974-03-01)
+</li>
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="progressive rock, blues, psychedelic" role="button">
+Captain Beefheart & His Magic Band - Unconditionally Guaranteed (1974-04)
 </li>
 <li data-cover="https://img.discogs.com/ZTcxzjzvkFifZJHVz7nGrJOxhF4=/fit-in/599x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8034541-1530081256-7373.jpeg.jpg" data-tags="rock, blues-rock, blues, rock and roll, 60's, hippie, flower power, woodstock generation, exfandessixties" role="button">
 Janis Joplin - Janis Joplin (1975)
@@ -132,6 +129,9 @@ Peter Green - In The Skies (1979)
 <li data-cover="http://coverartarchive.org/release/0dffb4d4-65ad-3d78-a2ba-42af482f1535/28016827422-500.jpg" data-tags="blues rock, zz top" role="button">
 ZZ Top - Deguello (1979-08-27)
 </li>
+<li data-cover="https://img.discogs.com/OAnLEpS_PmxolTQUhnpMCKRQMDM=/fit-in/577x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4709549-1372969645-1355.jpeg.jpg" data-tags="rory gallagher" role="button">
+Rory Gallagher - Stage Struck (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/0f67a6c0-2044-33be-8c73-9d090128fe38/5451266693-500.jpg" data-tags="glam metal, hard rock" role="button">
 Ratt - Ratt (1983)
 </li>
@@ -152,6 +152,9 @@ ZZ Top - Afterburner (1985-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e6dce33-8aa2-4818-a643-dff86917f015/5093003944-500.jpg" data-tags="classic rock, 70s, blues-rock" role="button">
 Bachman-Turner Overdrive - BTO's Greatest (1986)
+</li>
+<li data-cover="https://img.discogs.com/2ApPmYg_MuKoPFQcAMx-nH_5sOc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970706-1464466272-2953.jpeg.jpg" data-tags="blues" role="button">
+Robben Ford - Talk to Your Daughter (1988)
 </li>
 <li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, 80s, classic rock" role="button">
 The Rolling Stones - Steel Wheels (1989-08-28)
@@ -305,9 +308,6 @@ Ida Maria - Katla (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/ewl433iYEKPeHTGJxdFOawa0loc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3629220-1513457683-1897.jpeg.jpg" data-tags="stoner rock" role="button">
 Dead Meadow - Peel Sessions (2011-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/383b11aa-cd51-4c96-b1d6-be968eae8685/27980900685-500.jpg" data-tags="guitar, slide guitar, southern rock, jamband, govt mule, allman brothers, sonny landreth" role="button">
-Warren Haynes - Man In Motion (2011-05-10)
 </li>
 <li data-cover="https://img.discogs.com/JAEJJrtmDRoDWfmrG_UjVWyrIUg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3458232-1331151896.jpeg.jpg" data-tags="alternative rock" role="button">
 Rachael Yamagata - Chesapeake (2011-10-11)

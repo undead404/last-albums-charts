@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T13:04:01.407Z
+date: 2021-04-12T02:13:01.403Z
 title: "symphonic rock: 100 albums you must listen to before you die"
 ---
 ![Muse - The Resistance (2009-09-10)](http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg "Muse - The Resistance (2009-09-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">The Moody Blues - Days of Future Passed (1967-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/3da95428-3f4b-471b-8aea-ed40bcf04179/7108599389-500.jpg" data-tags="classic rock" role="button">Electric Light Orchestra - Face the Music (1975-10)</li>
-<li data-cover="http://coverartarchive.org/release/b89abd66-18d8-4f49-ae66-5cdadf956e0e/5892042975-500.jpg" data-tags="classic rock" role="button">Electric Light Orchestra - A New World Record (1976-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/23bf913d-3709-4f84-a3df-f19d3928cb2b/5892233271-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">Electric Light Orchestra - Discovery (1979-05-21)</li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">The Alan Parsons Project - Eye In The Sky (1982-06)</li>
+<li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/a773460a-e896-4883-83fb-3ec44b8dce36/12726549225-500.jpg" data-tags="pop, rock, power pop, pop rock, symphonic rock, 2010s" role="button">Marianas Trench - Masterpiece Theatre (2009-02-24)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
-Procol Harum - A Whiter Shade of Pale (1967)
-</li>
 <li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
 The Moody Blues - Days of Future Passed (1967-11-11)
 </li>
@@ -75,6 +72,9 @@ Eloy - Power And The Passion (1975)
 <li data-cover="https://img.discogs.com/o_cKmuNeIgs4w-TtjGAQVGrMj1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4973353-1381039307-7609.jpeg.jpg" data-tags="chris de burgh, pop" role="button">
 Chris de Burgh - Spanish Train And Other Stories (1975)
 </li>
+<li data-cover="https://img.discogs.com/xg726S8ZB4wRfxHjZJTEVpWNxsE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3218905-1494042508-5117.jpeg.jpg" data-tags="progressive rock, classic rock, art rock, rock, prog, epic, symphonic rock, atmospheric, progressive, symphonic prog" role="button">
+Manfred Mann's Earth Band - Nightingales & Bombers (1975-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/3da95428-3f4b-471b-8aea-ed40bcf04179/7108599389-500.jpg" data-tags="classic rock" role="button">
 Electric Light Orchestra - Face the Music (1975-10)
 </li>
@@ -83,9 +83,6 @@ Eloy - Dawn (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/b89abd66-18d8-4f49-ae66-5cdadf956e0e/5892042975-500.jpg" data-tags="classic rock" role="button">
-Electric Light Orchestra - A New World Record (1976-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
@@ -141,9 +138,6 @@ The Alan Parsons Project - The Best Of The Alan Parsons Project (1983-09-21)
 <li data-cover="https://img.discogs.com/c-Gpq8uZ2sw6Miwvc2bf6JScMM4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2049799-1260872402.jpeg.jpg" data-tags="progressive rock, art rock, classic rock, rock" role="button">
 The Alan Parsons Project - Vulture Culture (1984)
 </li>
-<li data-cover="https://img.discogs.com/qbkYmhFvXiMxt-aZ0ocJF12Pg4M=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9272358-1477737482-9624.jpeg.jpg" data-tags="progressive rock" role="button">
-The Alan Parsons Project - Ammonia Avenue (1984-02-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc81125c-d0b3-4226-a348-62a63c6c0cbb/14480024005-500.jpg" data-tags="classic rock, progressive rock" role="button">
 Jethro Tull - Original Masters (1985-10-21)
 </li>
@@ -158,6 +152,9 @@ The Moody Blues - Greatest Hits (1989-11-21)
 </li>
 <li data-cover="https://img.discogs.com/_HwFI-XY7QxEVZnyjrVH7Y9ybVY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1396786-1216302897.jpeg.jpg" data-tags="symphonic rock, theatrical, gothic" role="button">
 Devil Doll - Eliogabalus (1990-05)
+</li>
+<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock, rock" role="button">
+The Alan Parsons Project - Anthology (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/d102e972-ca99-41db-83da-75d187f27082/14136085128-500.jpg" data-tags="avant-garde, art rock, progressive rock, symphonic rock" role="button">
 Devil Doll - Sacrilegium (1992-05)
@@ -185,6 +182,9 @@ Mansun - Attack Of The Grey Lantern (1997-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c831784-fc31-3fab-a916-223cf3fcbcc7/27550646637-500.jpg" data-tags="progressive rock, rock" role="button">
 The Alan Parsons Project - The Definitive Collection (1997-07-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/69bea7ed-228e-4bd4-ac67-0b6b84231e2a/18460802436-500.jpg" data-tags="progressive rock" role="button">
+Arena - The Visitor (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/924423fe-4f58-4496-a09f-dae4da55531e/5842286791-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - The Christmas Attic (1998-10-13)
@@ -252,11 +252,14 @@ Within Temptation - All I Need (2007-11-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal" role="button">
 Tarja - My Winter Storm (2007-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee4dfeaa-0520-494b-9137-320fd6285ad2/7928096507-500.jpg" data-tags="pop" role="button">
-Electric Light Orchestra - Greatest Hits (2008)
-</li>
 <li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Black Symphony (2008-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/e934609c-d860-4f48-b154-85a264002a81/9708193283-500.jpg" data-tags="female vocalists, sarah brightman" role="button">
+Sarah Brightman - Symphony: Live In Vienna (2009-02-18)
+</li>
+<li data-cover="https://img.discogs.com/RpZI7ylom86VgOsO2iVYKE1QKq0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1925647-1252859734.jpeg.jpg" data-tags="symphonic rock, industrial rock" role="button">
+Epochate - Chronicles Of A Dying Era (2009-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a773460a-e896-4883-83fb-3ec44b8dce36/12726549225-500.jpg" data-tags="pop, rock, power pop, pop rock, symphonic rock, 2010s" role="button">
 Marianas Trench - Masterpiece Theatre (2009-02-24)
@@ -317,8 +320,5 @@ Starset - Transmissions (2014-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/330ea18d-6399-44a7-9183-ecaeaad2e550/12000617111-500.jpg" data-tags="indie, rock, alternative rock, symphonic rock, mellow, opera rock, orchestral rock, tooth and nail records" role="button">
 Copeland - Ixora (2014-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/52366c7e-ae45-4125-a2e1-5a980368d612/9165534566-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Élan (2015-02-13)
 </li>
 </ol>

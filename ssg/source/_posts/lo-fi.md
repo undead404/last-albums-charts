@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:40:01.424Z
+date: 2021-04-12T02:07:01.404Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -8,8 +8,8 @@ title: "lo-fi: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">Elliott Smith - Either/Or (1997-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">Grizzly Bear - Horn Of Plenty (2004-11-09)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
+<li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">Cage the Elephant - Melophobia (2013-10-08)</li>
@@ -65,6 +65,9 @@ Elliott Smith - Either/Or (1997-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eac7bfa-5248-4d9c-9114-87d97d7fea31/27142893724-500.jpg" data-tags="indie, indie rock" role="button">
 Built to Spill - Keep It Like a Secret (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/0efb51b9-b587-4cc2-ae11-fda10fd157f8/2772677034-500.jpg" data-tags="indie, lo-fi" role="button">
+Bright Eyes - A Collection of Songs Written and Recorded 1995-1997 (1998-01-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
@@ -198,9 +201,6 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
 </li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a453795-6c30-47fd-a5ad-3618b4ef7a3c/4226529091-500.jpg" data-tags="indie rock" role="button">
 Smith Westerns - Dye It Blonde (2011-01-18)
 </li>
@@ -221,9 +221,6 @@ Cults - Cults (2011-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc72820f-cc50-47ee-8a93-25b267079a69/2816373572-500.jpg" data-tags="indie, lo-fi, garage" role="button">
 Bleached - Carter (2011-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="https://img.discogs.com/p27o0tBl1ikRYxRKkIzIEg-P47I=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3104636-1403301392-3402.jpeg.jpg" data-tags="indie rock" role="button">
 Girls - Father, Son, Holy Ghost (2011-09-07)
@@ -269,6 +266,9 @@ Teen Suicide - i will be my own hell because there is a devil inside my body (20
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/05d90e46-7e7c-4a87-bc86-1eba841e5223/6559373674-500.jpg" data-tags="indie" role="button">
+The Mountain Goats - Transcendental Youth (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
 Alex G - TRICK (2012-11-06)

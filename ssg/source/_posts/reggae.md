@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:59:01.412Z
+date: 2021-04-12T01:54:01.402Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
@@ -60,12 +60,6 @@ The Congos - Heart Of The Congos (1977)
 <li data-cover="http://coverartarchive.org/release/ac29f926-d13a-4953-a19f-8e82b4692a72/15830333372-500.jpg" data-tags="reggae" role="button">
 Junior Murvin - Police and Thieves (1977)
 </li>
-<li data-cover="https://img.discogs.com/M4Jaf2rjoXt9OFZNOLGDixTK7uA=/fit-in/336x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2291030-1345170775-4916.jpeg.jpg" data-tags="reggae" role="button">
-Culture - Two Sevens Clash (1977)
-</li>
-<li data-cover="https://img.discogs.com/H8qd6qf0AnrL_jKtk8yf1LWj9A8=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2957362-1370031172-1664.jpeg.jpg" data-tags="reggae, roots reggae" role="button">
-Israel Vibration - The Same Song (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/3ed43286-195b-4e8c-a90d-add220e8c966/3336058240-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Kaya (1978-03-23)
 </li>
@@ -74,6 +68,9 @@ Bob Marley & The Wailers - Babylon By Bus (1978-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8615d2a7-45e6-4a3c-9520-58f6ffd4054b/2012570147-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Survival (1979-10-02)
+</li>
+<li data-cover="https://img.discogs.com/k-QwkREeQewXLVcGgVKoWyYvokk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7544260-1486822877-2868.jpeg.jpg" data-tags="rock, new wave, classic rock" role="button">
+The Police - Reggatta De Blanc (1979-10-05)
 </li>
 <li data-cover="https://img.discogs.com/bfmuDOi-MheZ4zJ1gnJEmsVnDYQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-882360-1377803841-7476.jpeg.jpg" data-tags="reggae" role="button">
 Black Uhuru - Sinsemilla (1980)
@@ -152,6 +149,9 @@ Shaggy - Hot Shot (2000-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/86b1f03a-52fe-3846-b0e4-7109ec1bc9fd/7455522854-500.jpg" data-tags="reggae" role="button">
 UB40 - The Very Best of UB40 1980-2000 (2000-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fd5abdd-7a1a-4a09-933f-e620cc98cce2/4137110372-500.jpg" data-tags="ska, polish, rock" role="button">
+Akurat - Pomarańcza (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aa1aa75-7ca4-3e91-a34d-ab85cc1c3cd8/10092064156-500.jpg" data-tags="reggae" role="button">
 Jan Delay - Searching for the Jan Soul Rebels (2001-03-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:35:06.988Z
+date: 2021-04-12T02:09:01.405Z
 title: "minimalism: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -30,6 +30,9 @@ AMM - AMMMusic (1967)
 <li data-cover="https://img.discogs.com/ZNKkcb7-IxdLb6DlcCn10OFvkGc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-77371-1373051103-3995.jpeg.jpg" data-tags="minimalism" role="button">
 Terry Riley - A Rainbow in Curved Air (1969)
 </li>
+<li data-cover="http://coverartarchive.org/release/4527eb43-6b20-418f-82df-f8b25d82d573/15737205049-500.jpg" data-tags="experimental" role="button">
+John Cale & Terry Riley - Church Of Anthrax (1971)
+</li>
 <li data-cover="http://coverartarchive.org/release/d9476b0e-c666-440b-a396-9ff2c83161fb/20588013675-500.jpg" data-tags="classical, experimental, minimalism, riley" role="button">
 Terry Riley - Happy Ending (1972)
 </li>
@@ -59,9 +62,6 @@ Harold Budd/Brian Eno - Ambient 2: The Plateaux of Mirror (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/e43c70f7-bcc8-3420-88b9-25796890491d/14016345776-500.jpg" data-tags="ambient, meditation" role="button">
 Laraaji - Ambient 3: Day Of Radiance (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b330187-6ba8-4279-bdfc-1bc67e2c3b6d/16061280217-500.jpg" data-tags="post-punk, experimental rock, drone" role="button">
-This Heat - Health and Efficiency (1980)
 </li>
 <li data-cover="https://img.discogs.com/vGZx1HXM7ZxiV10z-82wBXEC6v4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4762267-1374694121-7277.jpeg.jpg" data-tags="avantgarde, minimalism, reich" role="button">
 Steve Reich - Octet / Music for a Large Ensemble / Violin Phase (1980)
@@ -249,11 +249,11 @@ Rhys Chatham - A Crimson Grail (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/f84024b0-75fc-4d80-bcfd-08f1a5cd1d3f/10355366330-500.jpg" data-tags="piano, minimalism, classical piano, rhythm, elettronica" role="button">
 Francesco Tristano - Not for Piano (2007-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/7910d55f-91a3-4f8d-b04b-4ef567d6d8a4/22553437472-500.jpg" data-tags="minimal, clinically romantic, post-revolutionary pop song, electronic, achingly intelligent" role="button">
+Senking - List (2007-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/5d5092a9-2741-4e84-9ab0-40a109ec4051/5158105284-500.jpg" data-tags="electronic, clinically romantic, achingly intelligent" role="button">
 The Threshold Houseboys Choir - Form Grows Rampant (2007-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9e87cf1-6986-42f1-921a-ac7062a411e4/16587721877-500.jpg" data-tags="ambient" role="button">
-Jeff Greinke - Winter Light (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f860b6ff-c6d8-4e5d-8495-7d2569c42521/10137735592-500.jpg" data-tags="electronic, minimalism, psychedelic rock, kraut rock, unglaublich, himmlisch" role="button">
 Harmonia - Live 1974 (2007-10-22)

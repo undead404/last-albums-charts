@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:37:01.411Z
+date: 2021-04-12T02:14:01.405Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c7c02ab6-6aea-4199-a58d-51d8d6fdae32/20050030752-500.jpg" data-tags="soul, funk" role="button">
 Syl Johnson - Is It Because I'm Black (1970)
 </li>
-<li data-cover="https://img.discogs.com/MRNyTuTe3QnSeLoH9B0xvhSrdvA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039243-1199208793.jpeg.jpg" data-tags="jazz, free jazz" role="button">
-Charlie Haden - Liberation Music Orchestra (1970)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Donny Hathaway - Everything Is Everything (1970-07-01)
 </li>
@@ -48,6 +45,9 @@ Bob Marley & The Wailers - Catch A Fire (1973-04-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e15d8b8-bd80-3c0b-be2f-b66c68620435/19202703809-500.jpg" data-tags="soul" role="button">
+Gil Scott-Heron - The Revolution Will Not Be Televised (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa298d71-2a86-4832-8647-dd48908f6d62/13038235610-500.jpg" data-tags="soul" role="button">
 Camille Yarbrough - The Iron Pot Cooker (1975)
 </li>
@@ -65,6 +65,9 @@ Youth Brigade - Sink With Kalifornija (1984)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbd74e0c-fd79-47ec-aa5d-2af938ce162a/19230978716-500.jpg" data-tags="spanish, political, street punk" role="button">
+Eskorbuto - Anti-Todo (1986-02)
 </li>
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
@@ -102,6 +105,9 @@ Manic Street Preachers - The Holy Bible (1994-08-29)
 <li data-cover="https://img.discogs.com/PairXZNpdVU5q_s1Gs7zhJwbDTc=/fit-in/150x149/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304117-1165860826.jpeg.jpg" data-tags="political" role="button">
 The Coup - Genocide & Juice (1994-10-13)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="skinhead, political, sharp, redskin, rash, skinheads, workers songs, red skins" role="button">
+The Oppressed - Dead & Buried / Fatal Blow (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/d94714a4-7fe9-4c5f-88d3-7a8abfa01b97/2265287768-500.jpg" data-tags="90s, steve earle" role="button">
 Steve Earle - Train a Comin' (1995-02-28)
 </li>
@@ -110,6 +116,9 @@ MxPx - Teenage Politics (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93632036-33c2-4b65-9bbf-f095d5620465/8757522603-500.jpg" data-tags="punk, punk rock" role="button">
 Bad Religion - All Ages (1995-11-01)
+</li>
+<li data-cover="https://img.discogs.com/ajbCmuEl-RNQomqJqx5nS1Z-Vnc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383630-1517771579-7197.jpeg.jpg" data-tags="hardcore" role="button">
+Refused - Songs to Fan the Flames of Discontent (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
@@ -164,9 +173,6 @@ Manic Street Preachers - Know Your Enemy (2001-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e27cb16e-e8aa-474f-a2cf-deb73d9c0c8b/4381949547-500.jpg" data-tags="punk, punk rock" role="button">
 Anti-Flag - Underground Network (2001-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/67520d07-4fd8-467e-bbf9-7cceeb1b1a4c/2261960374-500.jpg" data-tags="reggae, michael franti, michael franti radio" role="button">
-Michael Franti & Spearhead - Stay Human (2001-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/70125e94-7798-3392-b4b3-91444ee28f66/16217335540-500.jpg" data-tags="punk, punk rock" role="button">
 Good Riddance - Symptoms Of A Leveling Spirit (2001-07-10)
@@ -243,14 +249,8 @@ The Roots - Game Theory (2006-08-25)
 <li data-cover="http://coverartarchive.org/release/01d990ed-6bf1-4064-98a2-ef13f55aaf5d/1137214836-500.jpg" data-tags="industrial" role="button">
 Laibach - Volk (2006-10-23)
 </li>
-<li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
-The John Butler Trio - Grand National (2007-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - Year Zero (2007-04-14)
-</li>
-<li data-cover="https://img.discogs.com/WaOg-EE-sZMz-Q86nXTbUYit8sM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15416908-1591200122-6001.jpeg.jpg" data-tags="rock, punk, reggae, political, jam, reggae-rock, summer dust and dancing in the rain" role="button">
-State Radio - The Barn Sessions (2007-04-17)
 </li>
 <li data-cover="https://img.discogs.com/uP7OSNvHPtEOToQTXuZU0PGJyAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963312-1475914392-4721.jpeg.jpg" data-tags="folk rock" role="button">
 The Nightwatchman - One Man Revolution (2007-04-24)

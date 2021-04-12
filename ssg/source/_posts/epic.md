@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:04:07.195Z
+date: 2021-04-12T02:04:12.594Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -7,12 +7,12 @@ title: "epic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">Yndi Halda - Enjoy Eternal Bliss (2005)</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
-<li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">Biffy Clyro - Puzzle (2007-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">Between the Buried and Me - Colors (2007-09-18)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">Lana Del Rey - Ultraviolence (2014-06-13)</li>
+<li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">Sia - 1000 Forms of Fear (2014-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">The Script - No Sound Without Silence (2014-09-12)</li>
 </ol>
 List of 100 - under the cut.
@@ -111,6 +111,9 @@ Thrice - Vheissu (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/65c64965-14bd-40d4-929a-23d8ee62a623/8183556387-500.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0214a6de-c1d4-3c60-94ff-38764301020b/10155515199-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
+Summoning - Oath Bound (2006-03-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
@@ -125,9 +128,6 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
 I Hate Kate - Embrace The Curse (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">
-Biffy Clyro - Puzzle (2007-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
@@ -176,9 +176,6 @@ As Cities Burn - Hell Or High Water (2009-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d1a7c20-2a4e-3a46-9d5d-f56d6d62d40d/15284686655-500.jpg" data-tags="indie rock" role="button">
-Doves - Kingdom Of Rust (2009-04-03)
 </li>
 <li data-cover="https://img.discogs.com/ywTI1vRaRLVx_kdUTR8FfiuH7R4=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846101-1303728167.jpeg.jpg" data-tags="hardcore" role="button">
 Your Demise - Ignorance Never Dies (2009-04-20)
@@ -254,6 +251,9 @@ Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/214afb5a-7d79-424f-af8b-a0652df73ebd/23564566756-500.jpg" data-tags="soundtrack, score, marvel, mcu" role="button">
+Alan Silvestri - The Avengers (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f76db1d-4c84-48b1-b189-0d065ae3d79e/11644026853-500.jpg" data-tags="electronic, indie" role="button">
 Woodkid - Run Boy Run (2012-05-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:34:01.431Z
+date: 2021-04-12T02:38:01.399Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
 ![Biffy Clyro - Only Revolutions (2009-11-09)](http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg "Biffy Clyro - Only Revolutions (2009-11-09)")
@@ -36,9 +36,6 @@ Silly Wizard - The Best of Silly Wizard (1985)
 <li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
 Deacon Blue - Raintown (1987-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e868701-4eb9-40ad-96f8-bd923f577405/16023560386-500.jpg" data-tags="scottish" role="button">
-Runrig - Searchlight (1989)
-</li>
 <li data-cover="http://coverartarchive.org/release/ba8a0e2e-3254-41e2-9b1a-deae14456d02/11825155352-500.jpg" data-tags="scottish" role="button">
 Deacon Blue - When The World Knows Your Name (1989)
 </li>
@@ -51,11 +48,17 @@ Annie Lennox - Diva (1992-04-24)
 <li data-cover="http://coverartarchive.org/release/d16fceb3-9852-41d3-b9be-8d50fd110ae7/15842770700-500.jpg" data-tags="twee, scotland is for lovers" role="button">
 The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a6806b8-762f-4bd2-a584-c94fd3bd3136/16023585581-500.jpg" data-tags="scottish, celtic, celtic rock" role="button">
+Runrig - Amazing Things (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/7bade8ee-88a9-4669-9de7-b9c0d6e87b55/25150632111-500.jpg" data-tags="pop" role="button">
 Texas - Ricks Road (1993-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1752f3be-7ff6-406b-a480-33e649896f08/13092390750-500.jpg" data-tags="celtic, scottish" role="button">
 The Tannahill Weavers - Capernaum (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ad74ef1-954b-4071-b59d-0f9075b168d4/9356197930-500.jpg" data-tags="folkrock" role="button">
+Big Country - The Best Of Big Country (1994-02-22)
 </li>
 <li data-cover="https://img.discogs.com/bnUms84qPNnR6H83cq0sQwEyRm4=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4167351-1357487994-7829.jpeg.jpg" data-tags="folk, female vocalists, scottish, quality pop" role="button">
 Eddi Reader - Eddi Reader (1994-06-20)
@@ -102,6 +105,9 @@ Texas - The Hush (1999-05-10)
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">
 Travis - The Man Who (1999-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/938ce378-6d2b-474d-8433-3e575db0d135/9773832979-500.jpg" data-tags="scottish" role="button">
+Clann An Drumma - Tried & True (2000)
+</li>
 <li data-cover="https://img.discogs.com/tE_VwIMdwOb44Ij1ntxjMFdfgrE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982490-1180518394.jpeg.jpg" data-tags="indie rock, britpop, scottish, aberdeen, scottish indie, new grave, soft male vocal" role="button">
 Geneva - Weather Underground (2000-03)
 </li>
@@ -132,8 +138,8 @@ Capercaillie - Live In Concert (2002)
 <li data-cover="https://img.discogs.com/-eRNr7XcurwMV-6Q_bzV4zGxWhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11253944-1512816777-2637.jpeg.jpg" data-tags="soundtrack" role="button">
 Christopher Young - The Shipping News (2002-02-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
-Biffy Clyro - Blackened Sky (2002-03-10)
+<li data-cover="https://img.discogs.com/iLGcyWXc4YoqzOnwmP-b5375aJY=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008332-1574345820-9303.jpeg.jpg" data-tags="celtic" role="button">
+Karen Matheson - Time To Fall (2002-05-13)
 </li>
 <li data-cover="https://img.discogs.com/ffPlsqzMs0LZqMwV9X35MLbbQ5I=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704721-1149803307.jpeg.jpg" data-tags="indie" role="button">
 The Reindeer Section - Son of Evil Reindeer (2002-06-24)
@@ -168,9 +174,6 @@ Sons and Daughters - Love the Cup (2003-11-25)
 <li data-cover="https://img.discogs.com/Jq2g9ZdIQ4wqqx8YNhCBD_iy2hc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320079-1425553276-4556.jpeg.jpg" data-tags="pop, rock, female vocalists, scottish, oldies, female vocalist, femmina, femmine, donne, uk invasion, donna, bella topolina, gnocca, voce femminile, occhi a cuoricino, voci femminili, kt tunstall - because i said so, k tunstall" role="button">
 KT Tunstall - Black Horse And The Cherry Tree (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/05bc47ec-eaa8-3e1b-b705-07070f86f1ca/12340474874-500.jpg" data-tags="00s" role="button">
-The Beta Band - Heroes To Zeros (2004-04-26)
-</li>
 <li data-cover="https://img.discogs.com/vAJQ3h62AUWHSg4o0gy7x6Twxms=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089457-1360501153-7073.jpeg.jpg" data-tags="soul, alternative, folk, singer-songwriter" role="button">
 Angela McCluskey - The Things We Do (2004-09)
 </li>
@@ -188,9 +191,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://img.discogs.com/XyiW-kwFm2P1-kT6nJK1KOJJtR4=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695373-1460907898-9140.jpeg.jpg" data-tags="scottish, twee as fuck, if its not scottish its crap, radio palace" role="button">
 Camera Obscura - I Love My Jean (2005-02-15)
-</li>
-<li data-cover="https://img.discogs.com/LtHLvnz8XHmBvd0X0Tk--4wY-GU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138497-1564557491-4173.jpeg.jpg" data-tags="scottish, progressive" role="button">
-Marmaduke Duke - The Magnificent Duke (2005-05-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
 Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
@@ -243,6 +243,9 @@ The Cinematics - A Strange Education (2007-03-06)
 <li data-cover="https://img.discogs.com/o7ZCkp0veWJSv6Mtr7fqZHlyNUE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3429124-1330188111.jpeg.jpg" data-tags="gaelic, scottish, celtic, folk" role="button">
 Julie Fowlis - Cuilidh (2007-03-26)
 </li>
+<li data-cover="https://img.discogs.com/s6oaqed3pQ3tBdnAROxvnRXyCl4=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1035329-1186585495.jpeg.jpg" data-tags="indie rock" role="button">
+Art Brut - It's a Bit Complicated (2007-06-19)
+</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
@@ -293,9 +296,6 @@ Twin Atlantic - Free (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e425ba2d-7794-4184-957b-356e95cb4045/20788074152-500.jpg" data-tags="indie, shoegaze, scottish, 10s, dynamic, fatcat, mvr rock radio, bobjebus16 owns this" role="button">
 The Twilight Sad - No One Can Ever Know (2012-02-06)
-</li>
-<li data-cover="https://img.discogs.com/Z_LhOUL8KAfphyIaDj3ifk6HX94=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1040556-1289330899.jpeg.jpg" data-tags="british, new wave" role="button">
-Ultravox - Brilliant (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/413e5119-af1a-4095-b1bd-e85b9f1c24d2/18650180966-500.jpg" data-tags="indie rock, british, soft rock" role="button">
 Amy Macdonald - Life in a Beautiful Light (2012-06-08)

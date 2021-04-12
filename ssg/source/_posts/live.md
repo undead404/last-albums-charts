@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:52:01.579Z
+date: 2021-04-12T01:55:07.015Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -117,6 +117,9 @@ Pearl Jam - Live On Two Legs (1998-11-20)
 <li data-cover="http://coverartarchive.org/release/e68bc44b-f410-35cc-bf84-c0abbbcc08b8/11497364966-500.jpg" data-tags="acoustic, unplugged, live" role="button">
 Alanis Morissette - MTV Unplugged (1998-11-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/c7b08583-50e9-4652-b821-453e7b65d545/5163916923-500.jpg" data-tags="hard rock, rock" role="button">
+Aerosmith - A Little South Of Sanity (1998-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
 </li>
@@ -156,6 +159,9 @@ Bright Eyes - Motion Sickness (2001-01-26)
 <li data-cover="https://img.discogs.com/B5pmuFgY3MtL88e1nH3kOXo_0-k=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-505696-1371179473-1118.jpeg.jpg" data-tags="indie, acoustic, live" role="button">
 Jeff Mangum - Live at Jittery Joe's (2001-08-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+Dream Theater - Live Scenes From New York (2001-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
 Daft Punk - Alive 1997 (2001-10-01)
 </li>
@@ -180,6 +186,9 @@ The Used - Maybe Memories (2003-07-15)
 <li data-cover="https://img.discogs.com/aiGtfbrmX10NazhTRVrB3Y0fvOo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813694-1161458280.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
 </li>
+<li data-cover="https://img.discogs.com/yH8PMHWhHsataxjsjL7zSzz6z4Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7716675-1460551191-7924.jpeg.jpg" data-tags="female vocalists" role="button">
+Björk - Vespertine Live (2003-08-18)
+</li>
 <li data-cover="https://img.discogs.com/eVkO78Dy3S7FXk9TbjutFrZV_yI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382592-1609595396-4571.jpeg.jpg" data-tags="metal, speed metal, melodic death metal, death metal, live, melodic death, my favorite bands, death metal melodico, ilovekud" role="button">
 Children of Bodom - Bestbreeder From 1997 to 2000 (2003-08-25)
 </li>
@@ -192,9 +201,6 @@ Avril Lavigne - My World (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/0edb5cf7-aaff-4376-8a6b-373a0f08ce39/15089945297-500.jpg" data-tags="nu metal" role="button">
 Linkin Park - Live in Texas (2003-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/84b2aebb-31dc-46c8-b00f-1956a13b943b/23523641028-500.jpg" data-tags="live, rock" role="button">
-Dave Matthews Band - The Central Park Concert (2003-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
 </li>
@@ -204,9 +210,6 @@ Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
 Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
-Damien Rice - B-Sides (2004-08-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8449379-f663-40da-8c7b-70fa63712dc9/7479661976-500.jpg" data-tags="live, mraz" role="button">
 Jason Mraz - Tonight, Not Again: Jason Mraz Live At The Eagles Ballroom (2004-08-24)
 </li>
@@ -215,12 +218,6 @@ Evanescence - Anywhere but Home (2004-11-22)
 </li>
 <li data-cover="https://img.discogs.com/IANnrgLGRMWjYECf9kohHyeVDZY=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817769-1245349259.jpeg.jpg" data-tags="live" role="button">
 Morrissey - Live At Earls Court (2005-03-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/87f822d6-602c-3e33-9e62-024eacfcf60c/28709837363-500.jpg" data-tags="reggae, matisyahu" role="button">
-Matisyahu - Live at Stubb's (2005-04-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, acoustic" role="button">
-Audioslave - Be Yourself (2005-06-06)
 </li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Death on the Road (2005-08-29)
@@ -264,6 +261,9 @@ Madonna - The Confessions Tour (2007-01-29)
 <li data-cover="https://img.discogs.com/pFFecob40VP1dxGso8TVmZHV4jA=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897340-1545558377-6427.jpeg.jpg" data-tags="live" role="button">
 The Used - Berth (2007-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/68383664-2d25-4d90-8056-e6cdaa28821c/11617366876-500.jpg" data-tags="live" role="button">
+Jason Mraz - Selections For Friends (2007-02-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/a8032396-e76c-3a57-9d1c-4e92e5e0125c/3375659069-500.jpg" data-tags="live" role="button">
 City and Colour - Live (2007-03-06)
 </li>
@@ -291,14 +291,14 @@ Linkin Park - Road To Revolution: Live at Milton Keynes (2008-11-21)
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/88a11272-b498-4c1f-8a29-61f76c676fdb/3018330013-500.jpg" data-tags="paramore" role="button">
-Paramore - The Final Riot! (2008-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/044a26ca-91ad-4db2-96b1-17356bcb2b0d/10805655860-500.jpg" data-tags="live, chicago, panic at the disco, pretty odd" role="button">
 Panic! at the Disco - Live In Chicago (2008-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1613cd8-8d2c-3889-b2be-2df24f6c3075/17029506813-500.jpg" data-tags="indie, alternative, live" role="button">
+The Killers - Live From The Royal Albert Hall (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d51dab8-ace9-3a5c-8f0a-6f841a7b794d/1559544631-500.jpg" data-tags="live" role="button">
 Madonna - Sticky & Sweet Tour (2010-03-26)

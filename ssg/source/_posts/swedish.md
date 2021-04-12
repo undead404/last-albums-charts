@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:40:01.402Z
+date: 2021-04-12T02:19:01.410Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -126,6 +126,9 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Anna Ternheim - Somebody Outside (2004-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
@@ -216,6 +219,9 @@ Amanda Jenssen - Killing My Darlings (2008-05-07)
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
+Sabaton - The Art of War (2008-05-30)
+</li>
 <li data-cover="https://img.discogs.com/1JrX-TW4TGpPS_HKoJbRML9q3oA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472895-1241973961.jpeg.jpg" data-tags="swedish, dloved, on tour 2009" role="button">
 Hello Saferide - More Modern Short Stories From Hello Saferide (2008-09-24)
 </li>
@@ -236,9 +242,6 @@ jj - jj n° 2 (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/57e289f1-eaf0-4adc-bd7a-d06577e739a7/973535414-500.jpg" data-tags="swedish" role="button">
 Kent - Röd (2009-11-05)
-</li>
-<li data-cover="https://img.discogs.com/RHnGywvthMbLYHDy4g0-OukKfWo=/fit-in/512x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2163531-1267437042.jpeg.jpg" data-tags="indie" role="button">
-Shout Out Louds - Work (2010-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2976410-2b8f-460d-97cc-6763e28c9e16/20863616353-500.jpg" data-tags="indie, swedish" role="button">
 jj - jj n° 3 (2010-03-09)
@@ -263,6 +266,9 @@ Kent - En plats i solen (2010-06-30)
 </li>
 <li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">
 Junip - Fields (2010-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd157141-4520-4a79-a385-bf80432b797d/2859473231-500.jpg" data-tags="indie pop, female vocalists" role="button">
+Lykke Li - Get Some (2010-10-25)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
@@ -291,17 +297,11 @@ Miike Snow - Happy To You (2012-03-13)
 <li data-cover="http://coverartarchive.org/release/0162cc15-66c7-4bb1-9754-94798255fbd2/973572535-500.jpg" data-tags="rock" role="button">
 Kent - Jag är inte rädd för mörkret (2012-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
 Sabaton - Carolus Rex (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b204ad72-f666-427d-82ee-de4add53c7ab/5331069642-500.jpg" data-tags="rock, garage rock" role="button">
 The Hives - Lex Hives (2012-06-01)
-</li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="https://img.discogs.com/tAYEKbPrUOuZ2yurvXkPhXNNKoU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943273-1350040768-8251.jpeg.jpg" data-tags="indie, pop, alternative, swedish, indie pop, indie rock, phoenix" role="button">
 The Royal Concept - The Royal Concept (2012-06-19)

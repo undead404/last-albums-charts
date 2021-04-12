@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T20:35:01.399Z
+date: 2021-04-12T02:36:01.419Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">Fleetwood Mac - Rumours (1977-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">Toto - Toto IV (1982-04-08)</li>
+<li data-cover="http://coverartarchive.org/release/e764910f-daf4-421a-9b4c-6cdf31496c89/4498574285-500.jpg" data-tags="sting" role="button">Sting - Ten Summoner's Tales (1993-02-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">Howie Day - Stop All The World Now (2003-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
-<li data-cover="http://coverartarchive.org/release/08b3245a-ab9a-40d9-bac1-4f60800c8732/14072082225-500.jpg" data-tags="soft rock" role="button">Train - Hey, Soul Sister (2010-04-09)</li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">Destroyer - Kaputt (2011-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">Father John Misty - Fear Fun (2012-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">HAIM - Days Are Gone (2013-08-05)</li>
@@ -123,6 +123,9 @@ Fool's Garden - Dish Of The Day (1995-12-07)
 <li data-cover="http://coverartarchive.org/release/ae9e24f6-b180-3236-9284-93e02fad1f25/15425216845-500.jpg" data-tags="soft rock, rock" role="button">
 Mark Knopfler - Golden Heart (1996-03-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
+Savage Garden - Savage Garden (1997-03-24)
+</li>
 <li data-cover="https://img.discogs.com/dWKHTI_R9saye2JtpD9mdPVl-c8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7458381-1441924326-7543.jpeg.jpg" data-tags="80s" role="button">
 Kenny Loggins - Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins (1997-03-25)
 </li>
@@ -141,14 +144,14 @@ The Cranberries - Bury The Hatchet (1999-04-19)
 <li data-cover="http://coverartarchive.org/release/278a9836-423b-429f-8d30-e2b371288480/21135332629-500.jpg" data-tags="soft rock" role="button">
 Matt Nathanson - Still Waiting for Spring (2000-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6f3cecf-7377-4ccf-bac1-0b8af4cc43be/5842332480-500.jpg" data-tags="rock" role="button">
-Train - Drops of Jupiter (2001-03-27)
-</li>
 <li data-cover="https://img.discogs.com/uSf1RqEKVDbzCuNgE-UlquIouP8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382597-1300627514.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
 Ben Kweller - Sha Sha (2002-03-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/73d5e9bb-bd9f-4f97-b885-d3b83d916280/26492600560-500.jpg" data-tags="soft rock" role="button">
+Mr. Mister - The Best of Mr. Mister (2002-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/198b344c-7455-4a9e-b32b-6d06ce77c41f/6358368858-500.jpg" data-tags="singer-songwriter, jason mraz" role="button">
 Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
@@ -224,9 +227,6 @@ John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="https://img.discogs.com/LFXcNnQuWWQKvKA9bXg0KopqGjU=/fit-in/554x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440214-1600174985-6208.jpeg.jpg" data-tags="pop, rock, pop rock, soft rock, blues rock, funk rock, ok, 10s, nick jonas, wrkut, who i am, lo mejor del momento" role="button">
 Nick Jonas & the Administration - Who I Am (2010-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b3245a-ab9a-40d9-bac1-4f60800c8732/14072082225-500.jpg" data-tags="soft rock" role="button">
-Train - Hey, Soul Sister (2010-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ab43f76-459d-498c-9b58-5800b4b6de48/2867573497-500.jpg" data-tags="soft rock, wed slow, soft rock revival" role="button">
 Angus & Julia Stone - Big Jet Plane (2010-05-07)
