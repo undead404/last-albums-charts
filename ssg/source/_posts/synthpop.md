@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:05:01.454Z
+date: 2021-04-12T01:45:01.643Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -138,6 +138,9 @@ Desire - II (2009-06-29)
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
 </li>
+<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
+Breathe Carolina - Hello Fascination (2009-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/79bca296-c0a8-4d1b-8b34-7cc9408688e6/22138203732-500.jpg" data-tags="synthpop, hurts" role="button">
 Hurts - Wonderful Life (2009-08-29)
 </li>
@@ -158,9 +161,6 @@ Ellie Goulding - Lights (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
-Kylie Minogue - Aphrodite (2010-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2074cb6-a185-4bfd-86de-decf013117d3/3194850526-500.jpg" data-tags="synthpop, electronic rock" role="button">
 Linkin Park - The Catalyst (2010-08-02)

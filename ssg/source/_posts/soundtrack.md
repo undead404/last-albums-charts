@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:22:01.592Z
+date: 2021-04-12T01:03:01.417Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -104,6 +104,9 @@ James Horner - Braveheart (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
 Various Artists - The Lion King (1997-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/a01a83c6-82e8-4307-874e-a5139cab31d8/7903691398-500.jpg" data-tags="soundtrack" role="button">
+Various Artists - Good Will Hunting (1997-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb3b8e6a-5f24-4381-ab16-117624b4612b/11633872587-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - City of Angels (1998-03-31)
@@ -251,9 +254,6 @@ Steve Jablonsky - Transformers: The Score (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
-The Cab - Whisper War (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b49fef96-5b9c-4656-9b99-82cd80472706/8265525094-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Legend (2008-07-01)

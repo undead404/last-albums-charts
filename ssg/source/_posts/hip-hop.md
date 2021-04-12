@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:16:06.896Z
+date: 2021-04-12T01:29:01.522Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -165,9 +165,6 @@ M.I.A. - Arular (2005-02-22)
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
-50 Cent - The Massacre (2005-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
@@ -179,6 +176,9 @@ Chris Brown - Chris Brown (2005-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f7c0d23-58d9-4bdf-bfd9-e1e420b3ef29/4515569227-500.jpg" data-tags="eminem, rap, hip-hop" role="button">
 Eminem - Curtain Call: The Hits (2005-12-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
+T.I. - King (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)

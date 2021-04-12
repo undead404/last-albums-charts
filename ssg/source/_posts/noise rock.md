@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:50:12.617Z
+date: 2021-04-12T00:49:29.351Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -81,8 +81,14 @@ Unwound - New Plastic Ideas (1994-03-21)
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/7650d01d-ac63-3297-90a2-3e07eab18d4a/24551486370-500.jpg" data-tags="post-hardcore" role="button">
+Fugazi - Red Medicine (1995-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b27669ba-a17c-467c-bd1d-6c0cfc9dc5bf/16302672637-500.jpg" data-tags="alternative, alternative rock" role="button">
+Butthole Surfers - Electriclarryland (1996-05-06)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
@@ -222,9 +228,6 @@ Sleigh Bells - Treats (2010-05-11)
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
-</li>
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
 </li>
@@ -248,9 +251,6 @@ The Men - Leave Home (2011-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b4c106c-2225-4bf9-9d24-0052683ca46d/16279386968-500.jpg" data-tags="noise, experimental, noise rock, melancholic, dance rock" role="button">
 Civil Civic - RULES (2011-10-11)
-</li>
-<li data-cover="https://img.discogs.com/mBDUnwvyoTKo5QyTIx08OeU7ffE=/fit-in/470x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3200497-1433009730-1356.jpeg.jpg" data-tags="table rock, experimental, noise rock" role="button">
-Lou Reed & Metallica - Lulu (2011-10-31)
 </li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">
 Cloud Nothings - Attack on Memory (2012-01-24)

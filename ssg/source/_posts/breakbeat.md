@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:08:01.566Z
+date: 2021-04-12T00:56:06.988Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![Prodigy - The Fat Of The Land (1997-06-30)](http://coverartarchive.org/release/288f8c49-5cb9-45cd-9b1e-062e565224fb/16552695792-500.jpg "Prodigy - The Fat Of The Land (1997-06-30)")
@@ -54,20 +54,17 @@ The Chemical Brothers - Life Is Sweet (1995-08-28)
 <li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
 Orbital - In Sides (1996-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
-London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a4f01f6-bf3d-48f4-ba98-d85264576246/25669188690-500.jpg" data-tags="electronic, techno, breakbeat, ffrr" role="button">
 Orbital - The Saint (1997-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59e164a-ca57-4d80-8f4e-1a10a9757354/15320405430-500.jpg" data-tags="electronic, electronica, druggy, energetic, clinical, breakbeat, big beat, playful, sensual, celebratory" role="button">
 Cirrus - Drop The Break (1997-04-22)
 </li>
-<li data-cover="https://img.discogs.com/W1wBY1fPrkbArglm19JIndz2T3Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51686-1570878836-2085.jpeg.jpg" data-tags="trip-hop, instrumental, 90s, breakbeat, cartoon, lbm, collected, college years, sample collage" role="button">
-Bentley Rhythm Ace - Bentley Rhythm Ace (1997-05-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/288f8c49-5cb9-45cd-9b1e-062e565224fb/16552695792-500.jpg" data-tags="electronic, 90s, breakbeat, the prodigy" role="button">
 Prodigy - The Fat Of The Land (1997-06-30)
+</li>
+<li data-cover="https://img.discogs.com/wXuPzfcDOeCoc_FwkVXtk8IRICU=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57485-1582129634-5314.jpeg.jpg" data-tags="trance, classic, breakbeat, uplifting, sunny" role="button">
+Lost Tribe - The Distant Voices EP (1997-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
@@ -101,9 +98,6 @@ Tipper - The Critical Path (2000-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/61d68cb0-a301-4a05-b041-1451ec97bf09/6212195948-500.jpg" data-tags="breakbeat" role="button">
 Adam Freeland - Tectonics (2000-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Supermodified (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/42c26aad-ed70-4160-86d5-556eb530b04a/27432802707-500.jpg" data-tags="breaks, breakbeat" role="button">
 Xploding Plastix - Amateur Girlfriends (2001-03-12)
@@ -140,6 +134,9 @@ Freeland - Now & Them (2003-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d80371fd-a0d3-49b7-86ae-47a2a8b3a4d2/2583977335-500.jpg" data-tags="ninja tune" role="button">
 Amon Tobin - The Bridge (2003-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f44d540-2889-3561-8ce2-9f00361bfe65/4510986659-500.jpg" data-tags="hip hop" role="button">
+DJ Format - Music For The Mature B-Boy (2003-03-24)
 </li>
 <li data-cover="https://img.discogs.com/rljSxHVp0LZmGZipFDbInnAi9AM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164861-1111663316.jpg.jpg" data-tags="electronica" role="button">
 Plump DJs - Eargasm (2003-07-07)
@@ -183,6 +180,9 @@ The Flashbulb - Kirlian Selections (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/17a24f0b-799a-4abb-9f2b-251fcc5a6d9e/22782452024-500.jpg" data-tags="electronic" role="button">
 Modeselektor - Hello Mom! (2005-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/eda9ae7f-ea80-44ac-8553-84c1298e1115/2993901717-500.jpg" data-tags="trance" role="button">
+Tiësto - Best & New 2005 (2005-07)
+</li>
 <li data-cover="https://img.discogs.com/HoT4PGMFEBm_wRAiHImr1s0RPfo=/fit-in/600x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7747-1290610750.jpeg.jpg" data-tags="breakbeat, electronic" role="button">
 The Prodigy - Out of Space (2005-07)
 </li>
@@ -200,9 +200,6 @@ Future Funk Squad - Audio Damage (2006-05-08)
 </li>
 <li data-cover="https://img.discogs.com/VwjS0kvWBE33o6_5UsVbu3So8t8=/fit-in/517x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748371-1154802754.jpeg.jpg" data-tags="breakbeat" role="button">
 Hyper - We Control (2006-05-08)
-</li>
-<li data-cover="https://img.discogs.com/N12edyRPc5RV1ZzJpqrzm9iQkhs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844674-1164671917.jpeg.jpg" data-tags="electronic" role="button">
-Boom Boom Satellites - On (2006-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
 Joey Fehrenbach - Mellowdrama (2006-06-06)
@@ -237,11 +234,11 @@ Eprom - 64 Bytes EP (2007-09-28)
 <li data-cover="https://img.discogs.com/4ySW3fgdJrHuSzLQSbLKrWrej74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1126878-1513794792-6711.png.jpg" data-tags="breakbeat, breakspoll winner" role="button">
 Ils - Paranoid Prophets (2007-11-05)
 </li>
+<li data-cover="https://img.discogs.com/_tBHOYJNpfy2lRfS0tcNmYV14oU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1304311-1208032986.jpeg.jpg" data-tags="electronic, funk, breakbeat, cut-up, grease, like-wax-tailor" role="button">
+Ruckus Roboticus - Playing With Scratches (2007-11-13)
+</li>
 <li data-cover="https://img.discogs.com/5F3aoNdzzwQ78Ri8905Wn0ySu1E=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-854207-1165920252.jpeg.jpg" data-tags="electronic" role="button">
 Boom Boom Satellites - Exposed (2007-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
-Mr. Scruff - Ninja Tuna (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/QfUMN6gA-23693HQddu-xx9E0_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430834-1529741281-1280.jpeg.jpg" data-tags="electronic, british, breakbeat, 2000s" role="button">
 Hyper - Suicide Tuesday (2008-10-13)
@@ -278,6 +275,9 @@ OPIUO - Slurp And Giggle (2010-07-01)
 </li>
 <li data-cover="https://img.discogs.com/sVNmw-zFlPY39DEorIjqZUTJpDY=/fit-in/500x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713155-1297691471.jpeg.jpg" data-tags="drum and bass" role="button">
 Chase & Status - No More Idols (2011-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/475ee165-d45c-4c42-9f79-a8e64964a6ec/9629095459-500.jpg" data-tags="breaks, breakbeat, electro breaks" role="button">
+Hyper - The Panic (2011-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)

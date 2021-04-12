@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:50:01.417Z
+date: 2021-04-12T00:51:01.412Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -90,6 +90,9 @@ Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 <li data-cover="http://coverartarchive.org/release/6d2317a8-c9f5-413e-a154-5690a4a0d4fd/25350299399-500.jpg" data-tags="trip-hop" role="button">
 Hooverphonic - The Magnificent Tree (2000-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
+Goldfrapp - Felt Mountain (2000-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
@@ -116,9 +119,6 @@ Röyksopp - Melody A.M. (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0e6393b-af67-3767-9f48-4284e5728d04/23417424437-500.jpg" data-tags="tango" role="button">
-Gotan Project - La Revancha Del Tango (2001-10-22)
 </li>
 <li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:01:07.055Z
+date: 2021-04-12T00:58:01.386Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -27,6 +27,9 @@ Mr. Oizo - Flat Beat (1999-03-22)
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/3763ff11-de2c-4795-97a9-651dbf3f343c/27342355537-500.jpg" data-tags="idm, glitch" role="button">
+Gescom - ISS:SA (2003-04-14)
+</li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
@@ -44,6 +47,9 @@ Justice - Phantom (2006-12)
 </li>
 <li data-cover="https://img.discogs.com/z9VKRjLaJO5alTq_svOYj03-NTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1115042-1193180138.jpeg.jpg" data-tags="electro, house, electro house" role="button">
 Dada Life - Fun Fun Fun (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/157930ec-641a-40df-8027-6c0d1566602a/3790436154-500.jpg" data-tags="electro house" role="button">
+Arno Cost & Arias - Magenta (2007-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c43149-fd3a-4930-aca0-94461324105e/25424358311-500.jpg" data-tags="electronic, electropop" role="button">
 Capsule - Sugarless GiRL (2007-02-21)
@@ -99,17 +105,11 @@ MSTRKRFT - Heartbreaker (2009)
 <li data-cover="https://img.discogs.com/3AuOfzttp6c5coNcDn4WiaHYRVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2019036-1258978077.jpeg.jpg" data-tags="electronic, dance" role="button">
 Example - Won't Go Quietly (2009)
 </li>
-<li data-cover="https://img.discogs.com/3hypGH88_Xpi5qapMCbuZ17MufU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554859-1244277004.jpeg.jpg" data-tags="electronic, remix" role="button">
-Bloc Party - Intimacy Remixed (2009-05-11)
-</li>
 <li data-cover="https://img.discogs.com/iJHDvcyHBReuvbmezNQQvXnKBkM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991484-1257193369.jpeg.jpg" data-tags="indie, rock, 00s, secretly canadian" role="button">
 Music Go Music - Expressions (2009-06-10)
 </li>
 <li data-cover="https://img.discogs.com/QJAAG1_fgUM82slexCWqSydm7Gs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2232652-1277744631.jpeg.jpg" data-tags="electro house" role="button">
 Dada Life - Just Do The Dada (2009-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/0dd4278f-79ed-4b88-831a-2bdc1e2eceae/4860996682-500.jpg" data-tags="electronic, electro, electro house" role="button">
-AutoKratz - Animal (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
@@ -180,6 +180,12 @@ Justice - Audio, Video, Disco (2011-09-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="electro, electro house, 2011 albums, fresh:mesh, i wanna have these albums" role="button">
 Frankmusik - Do It In The AM (2011-09-27)
 </li>
+<li data-cover="https://img.discogs.com/itkpZcb9kZnxRQuPsRrs0ZTdDwI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326399-1361817848-6032.jpeg.jpg" data-tags="electro house" role="button">
+Little Boots - Shake (2011-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/f062e5a5-7c5d-4fd1-8e52-997861671a79/22886182451-500.jpg" data-tags="house" role="button">
+OVERWERK - The Nth º (2011-11-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/4e8cbbc8-2956-455c-b645-ebc076287aa1/1262026260-500.jpg" data-tags="electro house" role="button">
 Knife Party - 100% No Modern Talking (2011-12-12)
 </li>
@@ -215,9 +221,6 @@ The M Machine - Metropolis Pt. I (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
-Icona Pop - I Love It (2012-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b878c9d1-cfd8-43cb-98bf-6331731a90b8/7163194363-500.jpg" data-tags="electro house, brian transeau" role="button">
 BT - Laptop Symphony (2012-05-14)
@@ -311,9 +314,6 @@ Charisma.com - DIStopping (2014-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/14074def-0940-4ffd-88bc-c7b35d0d7caf/8998642520-500.jpg" data-tags="robin schulz" role="button">
 Robin Schulz - Prayer (2014-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
-David Guetta - Listen (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8806d8e-80c6-4416-9321-105e65972c0a/22713475587-500.jpg" data-tags="electronic, dubstep, electro house, edm" role="button">
 Savant - ZION (2014-12-13)

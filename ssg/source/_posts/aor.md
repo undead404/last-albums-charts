@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T00:18:06.990Z
+date: 2021-04-12T00:55:07.004Z
 title: "aor: 100 albums you must listen to before you die"
 ---
 ![Toto - Toto IV (1982-04-08)](http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg "Toto - Toto IV (1982-04-08)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/e781d7d3-0687-400c-846e-ec4f77e3ec53/3024479189-500.jpg" data-tags="80s, classic rock, hard rock, rock" role="button">Foreigner - 4 (1981-06-29)</li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">Toto - Toto IV (1982-04-08)</li>
 <li data-cover="https://img.discogs.com/y88qrHBQo7b3p1z2HE4v4_mSLgU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412956-1389509573-3536.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">Survivor - Eye of the Tiger (1982-06)</li>
 <li data-cover="https://img.discogs.com/Ze5ji2MfBZB0g6EQe4GSDfpL9f4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1455421-1450631742-4844.jpeg.jpg" data-tags="classic rock, hard rock, 80s" role="button">Journey - Frontiers (1983)</li>
@@ -12,7 +13,6 @@ title: "aor: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1dca14ba-4e08-3506-89a8-0dcd2ae3f7a2/14357566966-500.jpg" data-tags="80s, reo speedwagon, classic rock" role="button">REO Speedwagon - The Hits (1988-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/4b0bcf5d-9d9e-3835-8f61-63464010b66e/3100610198-500.jpg" data-tags="soft rock, aor, rock, adult contemporary, blues rock, chris rea" role="button">Chris Rea - The Road to Hell (1989-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/e4d95059-df27-42bd-ac8f-7c5bf82e6aca/13886547423-500.jpg" data-tags="tina turner" role="button">Tina Turner - What's Love Got To Do With It (1993)</li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">JoJo - JoJo (2004-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">Toto - Toto (2008-03-17)</li>
 </ol>
 List of 100 - under the cut.
@@ -63,12 +63,6 @@ Chris Rea - Water Sign (1983)
 <li data-cover="https://img.discogs.com/x0sXuIKzwXgVo6uw4kAR-ROIb-o=/fit-in/380x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927168-1173707030.jpeg.jpg" data-tags="rock, 80s, hard rock, aor, melodic rock, glam metal" role="button">
 Giuffria - Giuffria (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/0310b289-6ee9-40f9-bcfe-d9a024d4e37a/12615752279-500.jpg" data-tags="hard rock" role="button">
-Russ Ballard - Russ Ballard (1984)
-</li>
-<li data-cover="https://img.discogs.com/p0RivTvNvywCM_BAq9mPfz5a12I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592241-1420027673-8932.jpeg.jpg" data-tags="hair metal" role="button">
-Autograph - Sign In Please (1984)
-</li>
 <li data-cover="https://img.discogs.com/ox6kfYWILLzdvZPO4JZkVFWfOpY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3923142-1511625035-1049.jpeg.jpg" data-tags="soft rock, adult contemporary, aor, blues rock" role="button">
 Chris Rea - Wired to the Moon (1984-04)
 </li>
@@ -78,8 +72,11 @@ Keel - Lay Down the Law (1984-04-08)
 <li data-cover="http://coverartarchive.org/release/2ac5eeb7-920a-4b76-a5fe-e571bbb06cdc/10717407200-500.jpg" data-tags="80s" role="button">
 John Waite - No Brakes (1984-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/03d1b60a-04bf-323b-8a8b-7d186156faf4/9338267974-500.jpg" data-tags="80s" role="button">
-Hall & Oates - Big Bam Boom (1984-09)
+<li data-cover="https://img.discogs.com/F8RuMmciOuAdCvJ8GtktaPCFtvM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1118403-1522229086-7670.jpeg.jpg" data-tags="aor, melodic rock" role="button">
+Tommy Shaw - Girls With Guns (1984-10)
+</li>
+<li data-cover="https://img.discogs.com/Lu4v9Z4eMdnjvRIDDRupruyGKE0=/fit-in/451x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-488085-1122019579.jpg.jpg" data-tags="80s, adult contemporary, diva, aor, italo disco, electronic music, eurodisco, 80er, elektronische musik, pinossa soittimen vieressa" role="button">
+Jennifer Rush - Movin' (1985)
 </li>
 <li data-cover="https://img.discogs.com/vV3KowX2nxr4Q02so1Xy_t-hAzE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2163318-1426562849-1813.jpeg.jpg" data-tags="heavy metal, hard rock, hair metal, aor, glam rock, melodic metal, melodic rock" role="button">
 Icon - Night of the Crime (1985)
@@ -132,6 +129,9 @@ Starship - No Protection (1987)
 <li data-cover="https://img.discogs.com/q-egR2p92mvjHZpRILKJqXJZkEU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12277460-1566069557-3133.jpeg.jpg" data-tags="soul, 80s, soft rock, adult contemporary, aor, 80s-90s pop, my fav songs, richard marx" role="button">
 Richard Marx - Richard Marx (1987-06-15)
 </li>
+<li data-cover="https://img.discogs.com/yX2iIY-AIBknL4oZ0K7WRsgU8OI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227790-1430557940-6513.jpeg.jpg" data-tags="hard rock, hair metal, aor, wants, glam metal" role="button">
+Lion - Dangerous Attraction (1987-07-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/532539a2-d882-4511-a458-8c25a63ca3f3/12684262889-500.jpg" data-tags="soft rock, aor, adult contemporary, blues rock" role="button">
 Chris Rea - Dancing with Strangers (1987-09-15)
 </li>
@@ -152,6 +152,9 @@ Winger - Winger (1988-08-10)
 </li>
 <li data-cover="https://img.discogs.com/L74r4HJ60cw1SJk3MXLORfYgdUY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111765-1328172385.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 House of Lords - House of Lords (1988-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b32e4eec-1cc6-461d-8ba4-bc9faa148329/20475850310-500.jpg" data-tags="hard rock, aor, transym, aufnehmen, musicalmessradio" role="button">
+Steve Lukather - Lukather (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6995517-1cdc-3dc3-b1bc-484b5bfaf675/6644759095-500.jpg" data-tags="aor" role="button">
 FM - Tough It Out (1989)
@@ -180,8 +183,8 @@ Talisman - Talisman (1990)
 <li data-cover="https://img.discogs.com/qAbeSAJm5ONJ7_ZfAIlzRzdBxiA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4499111-1367804146-4295.jpeg.jpg" data-tags="aor" role="button">
 Harem Scarem - Harem Scarem (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/d52885f4-5444-4361-a1f3-ac4d079b603d/1888346402-500.jpg" data-tags="rock, 90s" role="button">
-Cher - Love Hurts (1991)
+<li data-cover="http://coverartarchive.org/release/1cd84349-9db1-42e2-97d3-f4b16a51be5f/24622595432-500.jpg" data-tags="hard rock" role="button">
+XYZ - Hungry (1991)
 </li>
 <li data-cover="https://img.discogs.com/dTZjgdbyZ8iOLQOFoy_2o0gEIqU=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-827610-1163238449.jpeg.jpg" data-tags="blues rock, soft rock, aor, adult contemporary, 90s" role="button">
 Chris Rea - Auberge (1991-02)
@@ -210,8 +213,8 @@ Tina Turner - What's Love Got To Do With It (1993)
 <li data-cover="https://img.discogs.com/ONnAPgCxtu_01yoTCF2aOqOWkYg=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1927329-1596240132-8499.jpeg.jpg" data-tags="rock, my whole damn collection" role="button">
 Stevie Nicks - Street Angel (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/c1de44d8-f382-4cf8-a458-5bf98ef39954/7779585272-500.jpg" data-tags="rock, soft rock, 80s, acoustic" role="button">
-Firehouse - Good Acoustics (1996-10-23)
+<li data-cover="https://img.discogs.com/gqkq6-VADSNTbiOnTquI8XYgqe4=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054880-1269225357.jpeg.jpg" data-tags="classic rock, progressive rock, aor, melodic rock, pomp rock" role="button">
+Styx - The Best of Times: The Best of Styx (1997-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dadaa31a-f0d4-45ab-9adb-cf2728cec670/28223069464-500.jpg" data-tags="classic rock, 90s" role="button">
 Chris Rea - The Blue Cafe (1997-11-10)
@@ -234,17 +237,14 @@ Styx - Rockers (2003)
 <li data-cover="https://img.discogs.com/nGaoyp7YYuARqySX54GrfK4bJuk=/fit-in/524x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2249122-1272279302.jpeg.jpg" data-tags="hard rock, girl band" role="button">
 Vanilla Ninja - Vanilla Ninja (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
+<li data-cover="https://img.discogs.com/DsYUsLo54L11gCN7M74P4T7vDXo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3278037-1323614504.jpeg.jpg" data-tags="progressive rock, punk rock, aor, street punk" role="button">
+Action - Action (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3059f147-4349-49fb-afda-8509278ed439/15337838422-500.jpg" data-tags="rock, hard rock, progressive rock" role="button">
 Styx - Big Bang Theory (2005-05-10)
 </li>
 <li data-cover="https://img.discogs.com/w0OtiMGt94RF5NB4OrVGrKrtaUI=/fit-in/570x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540606-1227082933.jpeg.jpg" data-tags="aor, melodic rock, melodic hard rock, 80s hard rock, wer des it mag der liagt" role="button">
 Treat - Weapons Of Choice (2006-04-24)
-</li>
-<li data-cover="https://img.discogs.com/ank3ikZCrnLEGt3Sf5_3Tomjwzw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3348268-1382878742-4461.jpeg.jpg" data-tags="rock, hard rock, aor, california, survivor, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Survivor - Reach (2006-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/749b715b-0122-4879-a204-f301adad180e/7215608191-500.jpg" data-tags="rock, hard rock" role="button">
 Brother Firetribe - False Metal (2006-06-07)
@@ -260,9 +260,6 @@ House of Lords - Come To My Kingdom (2008-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
-Perfume - GAME (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/705e0ae0-897a-472c-9e22-b64f0175477c/14997479311-500.jpg" data-tags="classic rock, rock, hard rock" role="button">
 H.E.A.T - H.E.A.T (2008-04-28)
@@ -284,6 +281,9 @@ Praying Mantis - Sanctuary (2009-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b8f70c9-8b35-4780-b6bc-bc5d0a0219df/10071450343-500.jpg" data-tags="hard rock, aor" role="button">
 W.E.T. - W.E.T. (2009-11-06)
+</li>
+<li data-cover="https://img.discogs.com/AavM7SOe53d96gfm6UcLTN_OeYg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2202329-1522066180-1402.png.jpg" data-tags="pop rock, aor, ballads" role="button">
+FM - Metropolis (2010-03-26)
 </li>
 <li data-cover="https://img.discogs.com/CfwphmSY4YrzcrChPaOkxtZtzO8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866746-1428316725-2354.jpeg.jpg" data-tags="hard rock" role="button">
 H.E.A.T - Freedom Rock (2010-04-21)

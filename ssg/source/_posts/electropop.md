@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:13:06.981Z
+date: 2021-04-12T00:57:01.402Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -9,8 +9,8 @@ title: "electropop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">Lady Gaga - The Fame Monster (2008-08-19)</li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">Miike Snow - Miike Snow (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">Owl City - Ocean Eyes (2009-07-14)</li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">Ke$ha - Animal (2010-01-01)</li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">Ellie Goulding - Lights (2010-03-01)</li>
+<li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">Metronomy - The English Riviera (2011-04-11)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
@@ -162,9 +162,6 @@ Miami Horror - Sometimes (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/136eebff-5327-484f-898c-667787fce226/5552935179-500.jpg" data-tags="electropop, pop" role="button">
 Florrie - Introduction (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
-Ke$ha - Animal (2010-01-01)
-</li>
 <li data-cover="https://img.discogs.com/BkGqM6GnrMT2cJ6M4VWH74p5ZAM=/fit-in/462x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135595-1266229554.jpeg.jpg" data-tags="indie, electronic, electropop" role="button">
 Hot Chip - One Life Stand (2010-01-29)
 </li>
@@ -228,9 +225,6 @@ Owl City - All Things Bright and Beautiful (2011-06-10)
 <li data-cover="http://coverartarchive.org/release/9197df9f-7f26-4498-af10-4eb5e67d6c8b/25513914939-500.jpg" data-tags="lmfao, electronic" role="button">
 LMFAO - Sorry for Party Rocking (2011-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
-Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/362900b0-e046-4c34-beb1-eb2ecd3bff64/19088259874-500.jpg" data-tags="rock, hot chelle rae" role="button">
 Hot Chelle Rae - Whatever (2011-11-24)
 </li>
@@ -279,6 +273,9 @@ BROODS - BROODS (2013-01-01)
 <li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
 NONONO - Pumpin Blood (2013-04-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
+Fall Out Boy - Save Rock and Roll (2013-04-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/90ca45b3-8665-4b03-823b-1b58681545f8/22019815370-500.jpg" data-tags="electropop" role="button">
 Lorde - Tennis Court EP (2013-06-07)
 </li>
@@ -290,6 +287,9 @@ Icona Pop - This Is... Icona Pop (2013-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
+Cut Copy - Free Your Mind (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
@@ -312,11 +312,11 @@ Sia - 1000 Forms of Fear (2014-07-04)
 <li data-cover="http://coverartarchive.org/release/df3efb53-bbbd-4795-a484-2b4639965a27/26362266805-500.jpg" data-tags="indie pop" role="button">
 BROODS - Evergreen (2014-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/b15d9a20-5fe8-4b35-ad58-bf686787d950/11412700531-500.jpg" data-tags="pop" role="button">
+Taylor Swift - 1989 (2014-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
-David Guetta - Listen (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

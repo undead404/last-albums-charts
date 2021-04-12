@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:53:01.403Z
+date: 2021-04-12T01:42:01.423Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -42,6 +42,9 @@ Björk - Post (1995-06-09)
 <li data-cover="https://img.discogs.com/P1aDkYbPs3UCngSPoP-eOqSMKeQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11221028-1512156805-2715.gif.jpg" data-tags="trip-hop, electronic" role="button">
 Moloko - Do You Like My Tight Sweater? (1995-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
+DJ Krush - Milight (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
@@ -71,9 +74,6 @@ Björk - Homogenic (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Portishead (1997-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
-Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
 Esthero - Breath From Another (1998)
@@ -105,8 +105,8 @@ Archive - Take My Head (1999-04-20)
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
-<li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
-Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
+<li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
+Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
 <li data-cover="https://img.discogs.com/NiFbO-hHjl2mmKr0Fa_Pl3sVLkY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3083-1167766285.jpeg.jpg" data-tags="trip-hop, downtempo, electronic" role="button">
 Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
@@ -159,6 +159,9 @@ Archive - You All Look the Same to Me (2002-03-12)
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
 </li>
+<li data-cover="https://img.discogs.com/-eztj5rULDJYO9PrCwUW7fv1ooM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82803-1124377382.jpg.jpg" data-tags="trip-hop, downtempo" role="button">
+Funki Porcini - Fast Asleep (2002-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
@@ -170,9 +173,6 @@ Massive Attack - 100th Window (2002-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Statues (2003-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
-Martina Topley-Bird - Quixotic (2003-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
@@ -264,14 +264,14 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
-Martina Topley-Bird - The Blue God (2008-05-12)
-</li>
 <li data-cover="https://img.discogs.com/Ij9_-V2V66TXYTqAltb6FwGbUuE=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993183-1505176615-6453.jpeg.jpg" data-tags="trip-hop, progressive rock" role="button">
 Archive - Controlling Crowds (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
+Washed Out - Life of Leisure (2009-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)

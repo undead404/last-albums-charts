@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:55:01.442Z
+date: 2021-04-12T00:46:06.953Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -165,6 +165,9 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
 </li>
+<li data-cover="https://img.discogs.com/Q2NHqtdLjFnjifVuEuy1aFg-jLU=/fit-in/510x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914208-1307035961.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+Breaking Benjamin - We Are Not Alone (2004-06-08)
+</li>
 <li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
 Papa Roach - Getting Away With Murder (2004-07)
 </li>
@@ -236,9 +239,6 @@ Incubus - Light Grenades (2006-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">
-Biffy Clyro - Puzzle (2007-05-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
 The White Stripes - Icky Thump (2007-06-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:37:07.083Z
+date: 2021-04-12T01:17:01.396Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -240,9 +240,6 @@ Moonbootica - Moonlight Welfare (2007-10-12)
 <li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
 House vs. Hurricane - Forfeiture (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d3c715-5567-3e6e-9fb9-6127cf62e6f6/27559170292-500.jpg" data-tags="experimental" role="button">
-Foxy Shazam - INTRODUCING (2008-01-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
 </li>
@@ -290,6 +287,9 @@ Porcupine Tree - The Incident (2009-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Fall of Troy - In the Unlikely Event (2009-10-06)
+</li>
+<li data-cover="https://img.discogs.com/UaixWTPu2z61e5Ylmq2k9ZD1g-w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552004-1368139518-5530.jpeg.jpg" data-tags="dance, progressive, vocal house" role="button">
+Medina - You And I (2009-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">
 Portugal. The Man - American Ghetto (2010-05-11)

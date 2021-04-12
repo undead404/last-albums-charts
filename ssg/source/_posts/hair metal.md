@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:01:07.204Z
+date: 2021-04-12T01:18:07.017Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -63,23 +63,8 @@ Kiss - Lick It Up (1983-09-18)
 <li data-cover="https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Mötley Crüe - Shout at the Devil (1983-09-26)
 </li>
-<li data-cover="https://img.discogs.com/MMqZp2WZBPdxCzul7S6MKCFyYoo=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14447510-1574703270-9085.png.jpg" data-tags="glam metal, hard rock" role="button">
-Ratt - Out of the Cellar (1984)
-</li>
-<li data-cover="https://img.discogs.com/p0RivTvNvywCM_BAq9mPfz5a12I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592241-1420027673-8932.jpeg.jpg" data-tags="hair metal" role="button">
-Autograph - Sign In Please (1984)
-</li>
 <li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Twisted Sister - Stay Hungry (1984-05-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-Kiss - Animalize (1984-09-13)
-</li>
-<li data-cover="https://img.discogs.com/tCPI_EvV-MbuqHH71N_TECSpueg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3663769-1363118062-7277.jpeg.jpg" data-tags="hard rock" role="button">
-Whitesnake - Slide It In (1984-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0123a862-a0f7-4355-ab1f-601241337dd8/26669636397-500.jpg" data-tags="glam metal, heavy metal" role="button">
 Pantera - I Am the Night (1985)
@@ -92,6 +77,9 @@ Kix - Midnite Dynamite (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
+</li>
+<li data-cover="https://img.discogs.com/Plytnlkf0x0jZXfgLf4rUGWEwdE=/fit-in/312x312/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908162-1327235747.gif.jpg" data-tags="hard rock, hair metal, glam metal" role="button">
+King Kobra - Ready To Strike (1985-11-09)
 </li>
 <li data-cover="https://img.discogs.com/li6_jIDYQpWodxZn8rkHyInht7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239136-1356563111-3834.jpeg.jpg" data-tags="80s, nothings gonna stop us now, beat patrol, set the night to music, babylon" role="button">
 Starship - No Protection (1987)
@@ -210,6 +198,9 @@ Kiss - Psycho Circus (1998-08)
 <li data-cover="https://img.discogs.com/6vMdzT1i6RjDt0lErHUl67MR8e8=/fit-in/225x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5357863-1391384227-3855.jpeg.jpg" data-tags="hard rock, hair metal, 90s" role="button">
 Mötley Crüe - Supersonic And Demonic Relics (1999-06-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/8015298f-9378-4ced-9aa5-03388d831af0/24536434630-500.jpg" data-tags="hard rock, hair metal" role="button">
 Vince Neil - Live at the Whisky: One Night Only (2003)
 </li>
@@ -225,6 +216,9 @@ Brides of Destruction - Here Come The Brides (2003-12-25)
 <li data-cover="http://coverartarchive.org/release/7209db96-ba74-4df4-ba1d-20bbb034fecf/4522980850-500.jpg" data-tags="rock, hard rock, hair metal, melodic rock, steelheart, x factor, video killed the radio star, rw, mandatory, metatrone, 1 of best ever, giuseppeliviol, cis ghts" role="button">
 Cinderella - Rocked, Wired & Bluesed: The Greatest Hits (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/64f41710-c5ed-47b4-bb02-fa694d1511ae/19868553017-500.jpg" data-tags="heavy metal, hard rock, hair metal, glam metal, sleaze rock" role="button">
+Vain - On the Line (2005-05-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Buckcherry - 15 (2006-04-11)
 </li>
@@ -236,6 +230,9 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="https://img.discogs.com/mm-4AvbTsEiNxisKujpaz-tohw4=/fit-in/481x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6385299-1417947526-7899.jpeg.jpg" data-tags="hair metal, cover" role="button">
 Poison - Poison'd! (2007-06-05)
+</li>
+<li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
+Steel Panther - Death To All But Metal (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ed04d65-ea30-49f9-813f-954a85713612/1939044716-500.jpg" data-tags="crunkcore, scremo" role="button">
 Brokencyde - BC13 (2008-03-27)
@@ -261,6 +258,9 @@ Blakroc - Blakroc (2009-09-09)
 <li data-cover="http://coverartarchive.org/release/c71b28a2-d8fb-4900-a5fd-81573fde7872/10315463887-500.jpg" data-tags="hard rock" role="button">
 Kiss - Sonic Boom (2009-09-09)
 </li>
+<li data-cover="https://img.discogs.com/05GNtFlg6OabMon3dfFrBqsFENA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4523955-1367325021-2863.jpeg.jpg" data-tags="hard rock, hair metal" role="button">
+Danger Danger - Revolve (2009-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
@@ -269,9 +269,6 @@ Steel Panther - Don't Stop Believin' (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
 <li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
@@ -287,6 +284,9 @@ Attila - Outlawed (2011-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/9aa2e6ea-944a-4da2-9a1c-c3392c2128b3/5102991518-500.jpg" data-tags="glam metal" role="button">
+Reckless Love - Animal Attraction (2011-09-12)
 </li>
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)

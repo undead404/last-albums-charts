@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:52:01.420Z
+date: 2021-04-12T01:40:01.420Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
@@ -104,6 +104,9 @@ Pitty - Admirável Chip Novo (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/51f33fb9-1569-49f7-9ca0-147fdc835ac5/12666898701-500.jpg" data-tags="pop" role="button">
+Delta Goodrem - Innocent Eyes (2003-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
@@ -251,9 +254,6 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/81f85cc7-f015-4eea-9af6-d38bcc589e19/7892784186-500.jpg" data-tags="ambient, drone" role="button">
-William Basinski - 92982 (2009-03)
 </li>
 <li data-cover="https://img.discogs.com/oR1xTsEgSpIteuBduC1hBQfHXY0=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059688-1262550764.jpeg.jpg" data-tags="indie, zee avi" role="button">
 Zee Avi - Zee Avi (2009-05-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T07:45:01.902Z
+date: 2021-04-12T01:08:01.429Z
 title: "california: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, 50s" role="button">
-Louis Prima - The Wildest! (1956-11)
-</li>
 <li data-cover="https://img.discogs.com/eKmVQ3jawWL8Kor54UtX-7XS69o=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3377981-1328028506.jpeg.jpg" data-tags="jazz, minimal, california, west coast, cool jazz, 50s, west coast jazz, penguin, j giuffre" role="button">
 Jimmy Giuffre - The Jimmy Giuffre 3 (1957)
 </li>
@@ -57,9 +54,6 @@ The Whispers - And the Beat Goes On (1979)
 <li data-cover="http://coverartarchive.org/release/e5ce46a7-6cd5-4890-9cc9-e307d6b5189b/16396187399-500.jpg" data-tags="electronic, new wave" role="button">
 The Human League - Reproduction (1979-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a68cde5-a8ea-48e6-9664-f2e4b30a544e/3263641382-500.jpg" data-tags="rock, raul seixas" role="button">
-Raul Seixas - Abre-te Sésamo (1980)
-</li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
 </li>
@@ -83,6 +77,9 @@ The Doors - The Best of The Doors (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
+</li>
+<li data-cover="https://img.discogs.com/vWbKke-n1E47AdkBDxZWSwQBr9E=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-977832-1180042748.jpeg.jpg" data-tags="80s, singer-songwriter, american, california, pop-rock, synth rock, emotive vocals" role="button">
+Cock Robin - After Here Through Midland (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d42068d-ca5d-46d5-b1ea-0021ade6d384/15596864588-500.jpg" data-tags="hard rock, glam metal, glam punk" role="button">
 Faster Pussycat - Faster Pussycat (1987)
@@ -116,9 +113,6 @@ Neurosis - Souls at Zero (1992-12-01)
 </li>
 <li data-cover="https://img.discogs.com/WINi9yJxQaoVmj-5UlD1ydBnZek=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3753802-1343002264-7364.jpeg.jpg" data-tags="heavy metal, rock, hard rock, hair metal, 90s, california, 1990s, wants, glam metal, sleaze rock, hollywood glam" role="button">
 Alleycat Scratch - Deadboys In Trash City (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/89abe191-9dd6-4883-b10f-56922baf88e3/15081522104-500.jpg" data-tags="disco" role="button">
-Donna Summer - Endless Summer (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
@@ -180,6 +174,9 @@ The Album Leaf - One Day I'll Be on Time (2001-05-22)
 <li data-cover="http://coverartarchive.org/release/9d66266b-541a-4918-a172-d2d0b83f93fa/3350220596-500.jpg" data-tags="punk rock" role="button">
 Pennywise - Land of the Free? (2001-06-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4aa0d3c-275f-48f3-872c-2ea08fd43ec8/3403917566-500.jpg" data-tags="trip-hop" role="button">
+Saru - Downtempo Dojo (2001-06-26)
+</li>
 <li data-cover="https://img.discogs.com/fErH9_mBcl6puW-59TAgxy0clT0=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5197697-1412776090-1894.jpeg.jpg" data-tags="classic rock, 70s, male vocalists" role="button">
 The Doobie Brothers - Greatest Hits (2001-09-04)
 </li>
@@ -197,9 +194,6 @@ a-ha - How Can I Sleep With Your Voice in My Head (2003-03-24)
 </li>
 <li data-cover="https://img.discogs.com/uaW5m5uHyJ5NEthgYpWrPEf7mw4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765180-1549047459-5428.jpeg.jpg" data-tags="heavy metal, horror punk" role="button">
 Murderdolls - White Wedding (2003-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/655ad7d5-f469-46f5-a818-c544ec2c5728/26402077613-500.jpg" data-tags="indie rock, indie folk, los angeles" role="button">
-The Elected - Me First (2004-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
@@ -240,6 +234,9 @@ Ballyhoo! - Do It For The Money! (2006-01-24)
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8484632-f278-49c9-9d34-90764bf9f253/9511511931-500.jpg" data-tags="electronic, ambient" role="button">
+Saru - Machine (2007)
+</li>
 <li data-cover="https://img.discogs.com/cuIkcBdTuIrRCi7WaxPEwF74I74=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1211990-1588552261-4809.jpeg.jpg" data-tags="indie, rock, singer-songwriter" role="button">
 Matt Costa - Unfamiliar Faces (2007)
 </li>
@@ -254,6 +251,9 @@ Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="https://img.discogs.com/58m6T0daIM0TzKcigGlGi8KR15Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3832444-1370809627-1386.jpeg.jpg" data-tags="electronica, psychedelic, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, bay-area, american bands, bay area underground, mesmerize, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, myfavo, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, amercian band, san francisco band, bay area best, vaporvent, faval bm, from: sanfrancisco usa, san francisco music" role="button">
 Waterjuice - Liquid Journeys (2008)
+</li>
+<li data-cover="https://img.discogs.com/wz4cdUmqyQAs-pbpYXmiLYJ5v-U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1219589-1201575517.gif.jpg" data-tags="uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz, alternative lounge, electrocool, electropcool" role="button">
+Supreme Beings of Leisure - 11i (2008-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:18:06.969Z
+date: 2021-04-12T01:01:06.887Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -87,9 +87,6 @@ Men at Work - Super Hits (2000-08-22)
 <li data-cover="https://img.discogs.com/ACdDBfOmzhFhtqqk19ZxAy_n6-c=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1308402-1555946464-7528.jpeg.jpg" data-tags="rock, australian rock, powderfinger" role="button">
 Powderfinger - Odyssey Number Five (2000-09-04)
 </li>
-<li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="pop, dance" role="button">
-Kylie Minogue - Light Years (2000-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
 </li>
@@ -150,6 +147,9 @@ End of Fashion - End of Fashion (2005-08-20)
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/83d4a126-26b8-47b2-b49a-4590d0f9c520/9245449619-500.jpg" data-tags="alternative rock, australian" role="button">
+Spiderbait - Greatest Hits (2005-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d283241-8ab9-4ce8-b5e5-4bed82e1f894/9230255613-500.jpg" data-tags="australian, acoustic" role="button">
 Bernard Fanning - Tea & Sympathy (2005-10-31)
 </li>
@@ -167,9 +167,6 @@ Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
 </li>
 <li data-cover="https://img.discogs.com/iOtZoWcLAu7_1ro4cwfNro7VSgo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654438-1295792168.jpeg.jpg" data-tags="indie pop" role="button">
 Josh Pyke - Memories & Dust (2007-03-10)
-</li>
-<li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
-The John Butler Trio - Grand National (2007-03-23)
 </li>
 <li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Silverchair - Young Modern (2007-03-31)
@@ -251,6 +248,9 @@ Parkway Drive - Deep Blue (2010-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/c700519c-a63c-462e-a7cc-2f1a3561fb32/16704041404-500.jpg" data-tags="australian" role="button">
+Hungry Kids of Hungary - Escapades (2010-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)

@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T16:12:01.589Z
+date: 2021-04-12T01:06:12.602Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/be5efb0f-b354-3071-a41f-e8784403ea8d/2479394930-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - Emergency On Planet Earth (1993-06-14)</li>
-<li data-cover="http://coverartarchive.org/release/a58761e0-85cb-3050-b358-4b5588758afc/19843667410-500.jpg" data-tags="acid jazz" role="button">Us3 - Hand On The Torch (1993-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
+<li data-cover="https://img.discogs.com/nWQE1IcfbSTHm0EDkeiX8ahJsxM=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7159849-1435065110-1254.jpeg.jpg" data-tags="acid jazz" role="button">Red Snapper - Prince Blimey (1996-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">Jamiroquai - Travelling Without Moving (1996-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">Jamiroquai - Synkronized (1999-06-07)</li>
 <li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">Thievery Corporation - The Mirror Conspiracy (2000-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
-<li data-cover="http://coverartarchive.org/release/b0e6393b-af67-3767-9f48-4284e5728d04/23417424437-500.jpg" data-tags="tango" role="button">Gotan Project - La Revancha Del Tango (2001-10-22)</li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
+<li data-cover="http://coverartarchive.org/release/a3f2ed19-cefe-4c58-9988-4104155c8141/16440581507-500.jpg" data-tags="funk" role="button">Jamiroquai - High Times: Singles 1992-2006 (2006-11-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,6 +26,9 @@ The Blackbyrds - The BlackByrds (1974)
 </li>
 <li data-cover="https://img.discogs.com/S_soeX-QiA8UjgctA9I2Qng-1Cc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56164-1467839092-5765.jpeg.jpg" data-tags="jazz funk" role="button">
 Incognito - Jazz Funk (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4822d4d-c91c-4653-886c-09fb9011d604/23557003896-500.jpg" data-tags="acid jazz, r00ts, t4lk1n l0ud" role="button">
+Galliano - In Pursuit Of The 13th Note (1991)
 </li>
 <li data-cover="https://img.discogs.com/PYhEyjDHhKa5gfHm8pv1wctleM0=/fit-in/230x227/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-39336-001.jpg.jpg" data-tags="acid jazz" role="button">
 Young Disciples - Road To Freedom (1991)
@@ -54,12 +57,6 @@ Jamiroquai - Emergency On Planet Earth (1993-06-14)
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
-<li data-cover="https://img.discogs.com/SWZDcqxrhCpb02E9CnRLU4s6wUc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917970-1392717758-4138.jpeg.jpg" data-tags="hip hop" role="button">
-Digable Planets - Reachin' (A New Refutation Of Time And Space) (1993-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a58761e0-85cb-3050-b358-4b5588758afc/19843667410-500.jpg" data-tags="acid jazz" role="button">
-Us3 - Hand On The Torch (1993-11-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d62176f-1982-4ab3-8ba9-5203e88c20a5/9385248713-500.jpg" data-tags="acid jazz" role="button">
 The Brand New Heavies - Brother Sister (1994)
 </li>
@@ -81,9 +78,6 @@ Jhelisa - Galactica Rush (1994-09-26)
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b181c56b-6aad-4f41-9104-3f3c044d8be1/23264238178-500.jpg" data-tags="acid jazz" role="button">
-9 Lazy 9 - The Herb (1995-05-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d339f10-ad00-43b1-a113-579481e9c33f/863426134-500.jpg" data-tags="trip-hop, acid jazz" role="button">
 Red Snapper - Reeled and Skinned (1995-06-26)
 </li>
@@ -92,12 +86,6 @@ Moloko - Do You Like My Tight Sweater? (1995-09-01)
 </li>
 <li data-cover="https://img.discogs.com/qdQvcMSQYLYp9fXzB9dtE3p3N9g=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-818256-1374096483-2227.jpeg.jpg" data-tags="acid jazz" role="button">
 United Future Organization - 3rd Perspective (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/b67f2fc9-3164-4dbd-880f-a7d8d066020a/26804392763-500.jpg" data-tags="acid jazz" role="button">
-Incognito - Beneath The Surface (1996)
-</li>
-<li data-cover="https://img.discogs.com/y6tL_isTcV3TdAmGrjxKKcAOkRk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314536-1509337866-3410.jpeg.jpg" data-tags="hip-hop, acid jazz" role="button">
-Buckshot LeFonque - Music Evolution (1996)
 </li>
 <li data-cover="https://img.discogs.com/nWQE1IcfbSTHm0EDkeiX8ahJsxM=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7159849-1435065110-1254.jpeg.jpg" data-tags="acid jazz" role="button">
 Red Snapper - Prince Blimey (1996-09-09)
@@ -159,20 +147,17 @@ Mr. Scruff - Keep It Unreal (1999-06-01)
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/QMnlIBmPrtjG3PcNoSUWhzFW35w=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5727-1165445829.jpeg.jpg" data-tags="electronic, downtempo, world, acid jazz, idm, future jazz, space age pop, hi-tech, jazz favorites, brisk sound, robertitus global, barturismooth" role="button">
-Flanger - Templates (1999-06-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/df6946ed-fbc5-4315-b8fd-39ce18cc9d58/24162946160-500.jpg" data-tags="acid jazz" role="button">
+The Brand New Heavies - Trunk Funk: The Best of the Brand New Heavies (1999-09-13)
 </li>
 <li data-cover="https://img.discogs.com/XaUUA9nA17Q-jHkAsvjsnmKTH4Y=/fit-in/568x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-40480-1236066826.jpeg.jpg" data-tags="cafe del mar, acid jazz, germany, 00s, explore, favouritestreamablealbums, 3l3ktr0 ch1x, relaxing cafe, k-2000radio, haciendasi" role="button">
 Hacienda - 3rd Door Left (2000)
 </li>
 <li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Supermodified (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca8615f2-a0df-38a3-904e-6eaacb5166ff/28701723383-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Kinobe - Soundphiles (2000-07-17)
@@ -207,14 +192,23 @@ Jamiroquai - A Funk Odyssey (2001-08-29)
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0e6393b-af67-3767-9f48-4284e5728d04/23417424437-500.jpg" data-tags="tango" role="button">
-Gotan Project - La Revancha Del Tango (2001-10-22)
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="https://img.discogs.com/gPtnQFxTOGFAZbC8df4rOsy1Pno=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57004-1283470108.jpeg.jpg" data-tags="acid jazz, check it out later, awesome chillout" role="button">
 Deadly Avenger - Deep Red (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/4171c55e-1cfe-4a33-a5cb-e11a25feb85b/11490288714-500.jpg" data-tags="funk, africosmic" role="button">
+Lonnie Liston Smith - Introducing (2002)
+</li>
 <li data-cover="https://img.discogs.com/QwgcaRR6rmAIuW7HlkcwBxFOJBk=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-257316-1105728768.jpg.jpg" data-tags="acid jazz, uutta jazzia, acid lounge, lounge groove, smooth lounge, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, downtempo lounge, acoustic groove, chillout downtempo, electrocool, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, electropcool, ouahhhhh, tropcool, lounge vibe, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, served chilled, sexy sounding, 1st vine acid, acid jazz vibe, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, down-tempo vibe, downtempo vibe, future jazz vibe, jazzy down tempo vibe, jazzy down-tempo vibe, jazzy downtempo vibe, lounge jazz vibe" role="button">
 Loopless - Loopless (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/83b25612-55c6-4cbf-8a38-60fc7189a84b/1837881315-500.jpg" data-tags="trip-hop" role="button">
+Sofa Surfers - Encounters (2002-01-24)
+</li>
+<li data-cover="https://img.discogs.com/qpkes7omh4AXd50pI4Z7glGOQq0=/fit-in/402x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-208911-1140878768.jpeg.jpg" data-tags="post-rock, acid jazz" role="button">
+Mice Parade - All Roads Lead To Salzburg (2002-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7840a710-b354-3856-8e98-d1afda2991c7/12013536001-500.jpg" data-tags="nu jazz" role="button">
 Jazzanova - In Between (2002-04-29)
@@ -225,14 +219,14 @@ Mr. Scruff - Trouser Jazz (2002-09-09)
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/c35361b1-79a1-4b52-9c93-4d40a29368b0/27292980196-500.jpg" data-tags="disco, nu jazz, chillout, electronic, vocal, house, acid jazz, lounge, laidback, funky, deep house, subtle production" role="button">
+Projections - Between Here and Now (2002-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
 Gabin - Gabin (2002-11-05)
 </li>
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab3fefde-9617-4d57-9a8e-9e17fa8ede97/8468315713-500.jpg" data-tags="acid jazz" role="button">
-Praful - One day deep (2003-07-15)
 </li>
 <li data-cover="https://img.discogs.com/hr5sUaRDxR8QdrFIOTF51iWYCd4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-168765-1587282765-8727.jpeg.jpg" data-tags="experimental, jazz fusion" role="button">
 Tied & Tickled Trio - Observing Systems (2003-09-08)
@@ -240,14 +234,14 @@ Tied & Tickled Trio - Observing Systems (2003-09-08)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea91fb49-70e8-4b21-ab82-9b85e52bc236/5349865375-500.jpg" data-tags="tru thoughts, acid jazz" role="button">
-The Limp Twins - Tales From Beyond The Groove (2003-11-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
 </li>
 <li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
 Jazztronik - 七色 (2004-02-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/26498e81-a391-4224-9d20-d63fafee4a94/8312497945-500.jpg" data-tags="acid jazz" role="button">
+Greyboy - Soul Mosaic (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/417e5f7a-6ed9-45cf-b1fd-0959535219df/3396384349-500.jpg" data-tags="acid jazz, funk, jazz-funk" role="button">
 Incognito - Adventures In Black Sunshine (2004-07-14)
@@ -267,11 +261,11 @@ The Cat Empire - Two Shoes (2005-09)
 <li data-cover="http://coverartarchive.org/release/dbe668f2-3409-4cd4-a764-906d51c8eade/26071703514-500.jpg" data-tags="funk, jazz, soul, acid jazz" role="button">
 Incognito - Eleven (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/5_R8PSnEtAenqpSIUMLsTpfil_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479480-1131929193.jpeg.jpg" data-tags="downtempo, ninja tune" role="button">
-Loka - Fire Shepherds (2006-03-26)
+<li data-cover="http://coverartarchive.org/release/f6733e4e-97f8-4eb4-806c-0d77ae704fc8/8987600985-500.jpg" data-tags="electronica, indie, experimental, post-rock, acid jazz, shoegaze, opm" role="button">
+Up Dharma Down - Fragmented (2006-01-05)
 </li>
-<li data-cover="https://img.discogs.com/bfMEL68rc00P8HtCMLhDFbEPGm8=/fit-in/354x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736035-1153535752.jpeg.jpg" data-tags="downtempo, future jazz" role="button">
-Quantic - An Announcement To Answer (2006-07-24)
+<li data-cover="https://img.discogs.com/G8GjKwv2zcYoQfu7fgt68G4cgEg=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718261-1208490231.jpeg.jpg" data-tags="chillout" role="button">
+Max Sedgley - From The Roots To The Shoots (2006-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9355ffab-55b5-462f-8ab1-9093f1274266/2543267829-500.jpg" data-tags="funk, house, acid jazz, jamiroquai" role="button">
 Jamiroquai - Runaway (2006-09-23)
@@ -312,11 +306,17 @@ Wagon Christ - Toomorrow (2011-03-07)
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/646ece2c-ac67-4855-9594-4432c9d6e6d8/22248303066-500.jpg" data-tags="uutta jazzia, acid lounge, jazzy flavoured, my-love, acoustic groove, jazz-trip, lounge-tech, groove lounge, ouahhhhh, jazzy vibes, uuta jazzia, uutta jazziz" role="button">
+Jazzanova - Funkhaus Studio Sessions (2012-05-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8fc6cc2-2388-4ce3-934f-156fe050a517/3385247746-500.jpg" data-tags="jazz" role="button">
 José James - No Beginning No End (2013-01-16)
 </li>
 <li data-cover="https://img.discogs.com/wHyVxUOXp0TgPbmTmmrGURH4CuI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4690484-1493307391-7389.jpeg.jpg" data-tags="soul, acid jazz" role="button">
 Omar - The Man (2013-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/7660cb13-77eb-4596-a38d-17c2f7649508/7263957639-500.jpg" data-tags="acid jazz, jazz funk, jazz soul" role="button">
+Incognito - Amplified Soul (2014-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/05eb96d3-0389-4869-9665-bfdd66885db3/20274549479-500.jpg" data-tags="electronic, funk, acid jazz" role="button">
 Red Snapper - Hyena (2014-09)

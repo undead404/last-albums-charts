@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:54:01.411Z
+date: 2021-04-12T00:54:06.999Z
 title: "relax: 100 albums you must listen to before you die"
 ---
 ![Norah Jones - Come Away with Me (2002-02-26)](http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg "Norah Jones - Come Away with Me (2002-02-26)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/00a01883-c17d-3a1e-8aa3-f468e45465df/7228002110-500.jpg" data-tags="70s, funk" role="button">
 Chic - Risque (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
+George Winston - December (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
@@ -33,11 +36,11 @@ Opus - Live Is Life (1984)
 <li data-cover="https://via.placeholder.com/450" data-tags="poezja spiewana" role="button">
 Stare Dobre Małżeństwo - Dla wszystkich starczy miejsca (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c3fd302-5e16-4380-85ed-5862065ef44b/27179694552-500.jpg" data-tags="yanni, piano" role="button">
+Yanni - Reflections Of Passion (1990-04-24)
+</li>
 <li data-cover="https://img.discogs.com/Yw1DDp59imY3g4pZghimM3vG4D4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2617766-1360466279-1045.jpeg.jpg" data-tags="new age, relax, gvbwv, omni new age" role="button">
 Suzanne Ciani - The Private Music Of Suzanne Ciani (1992-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/e46395b2-76f6-3380-97ca-a6b46cd6e4ba/6357216307-500.jpg" data-tags="polish, heavy metal, thrash metal, ballads" role="button">
-Kat - Ballady (1993)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, frankie goes to hollywood, new wave" role="button">
 Frankie Goes to Hollywood - Bang ! (1993)
@@ -63,14 +66,17 @@ Deep Forest - Boheme (1995-06-08)
 <li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Liquid Mind - Slow World (1996-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/91231e74-2674-411e-968f-b188bb67b711/10340680649-500.jpg" data-tags="pop" role="button">
+Everything But the Girl - The Best of Everything But The Girl (1996-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/2d72147b-10f6-4c24-b2bf-77e5214d3e2f/4530504774-500.jpg" data-tags="downtempo" role="button">
+Tosca - Opera (1997-06-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Travis - Good Feeling (1997-09-08)
-</li>
-<li data-cover="https://img.discogs.com/_fXflThce5eDFbzgm5Sov8l36IU=/fit-in/600x989/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6796698-1426805732-4254.jpeg.jpg" data-tags="pop" role="button">
-All Saints - All Saints (1997-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/079645c2-9164-40df-9905-a6287d8b1200/4111828289-500.jpg" data-tags="chicane, trance" role="button">
-Chicane - Far From The Maddening Crowds (1997-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
@@ -78,17 +84,26 @@ Air - Moon Safari (1998-01-16)
 <li data-cover="https://img.discogs.com/spot0t55s__oigEPpMyWNNAykLk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-137745-1331055053.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Teardrop (1998-04-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f6b1cea-40c9-48de-9024-34fb2e287b08/1129425027-500.jpg" data-tags="electronic" role="button">
+Dario G - Sunmachine (1998-06-08)
+</li>
+<li data-cover="https://img.discogs.com/DDlh2UgcBYEpCcDjEvAPqGpR84g=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6686665-1424682583-6908.jpeg.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Angel (1998-07-13)
+</li>
 <li data-cover="https://img.discogs.com/TaBzFYC3tB-gGs8TRcohxPvnFQk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445393-1114535182.jpg.jpg" data-tags="nico" role="button">
 Nico - The Classic Years (1998-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c46753ff-d972-4ebb-80f2-1c0074bf4640/21974980835-500.jpg" data-tags="post-rock" role="button">
 The Album Leaf - An Orchestrated Rise to Fall (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f225a05-1174-421e-9f76-f08858cd0a15/9554279519-500.jpg" data-tags="guitar" role="button">
+Govi - Andalusian Nights (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/33f464bc-2922-3018-a958-560194a5f775/10673178657-500.jpg" data-tags="new age, secret garden" role="button">
 Secret Garden - Dawn of a New Century (1999-03-02)
 </li>
-<li data-cover="https://img.discogs.com/S7qRctMECcMRlessJkYnwuvEN5Y=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17080-1201337402.jpeg.jpg" data-tags="trance, chillout" role="button">
-Chicane - Saltwater (1999-05-24)
+<li data-cover="http://coverartarchive.org/release/167b7ec2-774e-480c-b502-3bc025d66d38/3608644672-500.jpg" data-tags="chillout, trip-hop, downtempo, club funky, relaxing del mar" role="button">
+Deadbeats - Lounging (1999-10-15)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="new age, relaxing, relax" role="button">
 Anugama - Healing (2000)
@@ -99,35 +114,35 @@ Anugama - Shamanic Dream II (2000)
 <li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
 </li>
+<li data-cover="https://img.discogs.com/g-39sbn7p_QurUEVs1rwVxKCUzw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3851427-1592626252-6566.jpeg.jpg" data-tags="relax, tantrist" role="button">
+Anugama - Tantra (2000)
+</li>
+<li data-cover="https://img.discogs.com/fzvLhT7y2XEChAfTrIX_0eK-Fu0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-320399-1606042046-5755.jpeg.jpg" data-tags="trance" role="button">
+Fragma - Toca (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
+Laurent Garnier - Unreasonable Behaviour (2000-02-14)
+</li>
 <li data-cover="https://img.discogs.com/boHw67-EvEnIk3BDtW-WsLmkmFk=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681912-1517999549-6529.png.jpg" data-tags="pop" role="button">
 Novastar - Novastar (2000-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/28b41737-a1c7-4613-b1cf-9b6b2f8512ec/1040796569-500.jpg" data-tags="relax, indie chill" role="button">
-Laurent Garnier - The Man With the Red Face (2000-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4121281-c4ff-3381-b151-61d009bf14e5/28326516752-500.jpg" data-tags="indie, indie rock" role="button">
 The Sea and Cake - Oui (2000-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/c853d99d-1d8a-4a2b-8068-30a367b5e256/8007067013-500.jpg" data-tags="placebo" role="button">
-Placebo - Acoustic (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac46568e-7818-4351-8d8a-a59ce427e636/21974963842-500.jpg" data-tags="post-rock" role="button">
 The Album Leaf - One Day I'll Be on Time (2001-05-22)
 </li>
+<li data-cover="https://img.discogs.com/KASxMpkAu_5phfz8_Amh1fZH6Zg=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3371333-1568872020-9446.jpeg.jpg" data-tags="gothic metal" role="button">
+Within Temptation - Ice Queen (2001-06)
+</li>
 <li data-cover="https://img.discogs.com/jp2ONuQpYaZDnhhIXgxxGJCE7mA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2216316-1297713671.jpeg.jpg" data-tags="ambient, new age, yoga, meditative, relax" role="button">
 Chinmaya Dunster - Yoga: On Sacred Ground (2001-08-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
-Sondre Lerche - Faces Down (2001-09-10)
-</li>
 <li data-cover="https://img.discogs.com/wUj4q66x6x0a14kT5fSm_fYcUu4=/fit-in/540x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6081492-1410588290-6342.jpeg.jpg" data-tags="sarah brightman, opera" role="button">
 Sarah Brightman - Classics (2001-11-20)
-</li>
-<li data-cover="https://img.discogs.com/pt4Sysc2txzm56pzkycsJdTQiio=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347599-1100269383.jpg.jpg" data-tags="celtic, world, new age" role="button">
-Hagalaz' Runedance - Frigga's Web (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0cf04a8-a48d-3e83-aa59-5981b5edbdd6/4512613383-500.jpg" data-tags="electronic" role="button">
 Everything But the Girl - Like the Deserts Miss the Rain (2002)
@@ -138,8 +153,8 @@ Chinmaya Dunster - Sacred Temples of India (2002)
 <li data-cover="http://coverartarchive.org/release/9f02bc5e-8100-4acc-8c02-b128c496b90e/11637455866-500.jpg" data-tags="new age" role="button">
 2002 - Across an Ocean of Dreams (2002-01-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bb79fe5-f648-4771-9bd1-0df7ab2f07be/1748345019-500.jpg" data-tags="ambient, medieval, avant-garde, darkwave, 00s, relax" role="button">
-Arcana - Body of Sin (2002-02-07)
+<li data-cover="https://img.discogs.com/KuZwHN1ek53B3NEyZAMkBbi0EvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14708329-1580059155-7030.jpeg.jpg" data-tags="kokia" role="button">
+KOKIA - trip trip (2002-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
@@ -149,9 +164,6 @@ Andain - Summer Calling (2002-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d92bc85-8503-4f0a-a572-a242d7a1005d/8614444998-500.jpg" data-tags="soundtrack" role="button">
-Elliot Goldenthal - Frida (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a76f57c5-5918-4354-9031-69724f598d82/14579605414-500.jpg" data-tags="50 cent" role="button">
 50 Cent - Best of 50 Cent (2003)
@@ -168,12 +180,6 @@ Deuter - Sea & Silence (2003-02-24)
 <li data-cover="http://coverartarchive.org/release/d2a9c0a4-514c-40f5-a727-698b388c607f/4469299534-500.jpg" data-tags="relax, ambient" role="button">
 Blank & Jones - Relax (2003-04-07)
 </li>
-<li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
-4 Strings - Believe (2003-04-22)
-</li>
-<li data-cover="https://img.discogs.com/lCcXkUQ3G6nD7sbHKMaqW5jYc0U=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-322385-1100938422.jpg.jpg" data-tags="trance" role="button">
-Darude - Rush (2003-05-12)
-</li>
 <li data-cover="https://img.discogs.com/Ag7jYtKPqhN76_f6GTx7vJqrJpg=/fit-in/469x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-510138-1135168597.jpeg.jpg" data-tags="rnb, baby bash, chillaut" role="button">
 Baby Bash - Tha Smokin' Nephew (2003-09-23)
 </li>
@@ -183,14 +189,14 @@ Liquid Mind - Liquid Mind VII: Reflection (2004)
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
 Air - Talkie Walkie (2004-01-21)
 </li>
+<li data-cover="https://img.discogs.com/CcXXw4Bbq_chAo69dKYyvAyy90Q=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-876818-1218273960.jpeg.jpg" data-tags="chillout, ambient, new age" role="button">
+Donna De Lory - The Lover & the Beloved (2004-01-31)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="smooth jazz" role="button">
 Euge Groove - Livin' Large (2004-03-09)
 </li>
 <li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
 John Frusciante - The Will to Death (2004-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/36ea7556-cd72-4097-abaa-4a838c8aa204/8940387621-500.jpg" data-tags="ambient, 00s, arcana" role="button">
-Arcana - The New Light (2004-08-10)
 </li>
 <li data-cover="https://img.discogs.com/8S41pufY9f_6sUoxLnUhWltjPv0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4508823-1366891941-4661.jpeg.jpg" data-tags="vocal jazz, jazz, female vocalists" role="button">
 Sophie Milman - Sophie Milman (2004-10-12)
@@ -207,23 +213,20 @@ Greg Maroney - Wind Chimes (2005)
 <li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="rock, alternative rock, 00s" role="button">
 Madrugada - The Deep End (2005-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b20e188-c9dd-48da-b723-221af61af752/12568552591-500.jpg" data-tags="electronic" role="button">
-Everything But the Girl - Adapt or Die: Ten Years of Remixes (2005-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/5fec26c0-4f00-4b19-8cb8-7958cca4bccf/3109418276-500.jpg" data-tags="dance, house, electronic" role="button">
-Deep Dish - George Is On (2005-07-12)
+<li data-cover="https://img.discogs.com/GfZIlMIuuR8Ewrd735d6XFaDA4k=/fit-in/302x231/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7081170-1433260935-4070.jpeg.jpg" data-tags="post-hardcore" role="button">
+Emanuel - Soundtrack To A Headrush (2005-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/77444caf-efe3-4e79-b280-4694a70e8a44/954163464-500.jpg" data-tags="trance" role="button">
-Marco V - 200V (2005-10-03)
 </li>
 <li data-cover="https://img.discogs.com/zrHhI4AAuvdXMs0udXX1cObnsyg=/fit-in/597x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2865155-1304634115.jpeg.jpg" data-tags="new age, meditation, relax" role="button">
 Deuter - East of the Full Moon (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee99133c-2a6a-4284-aa50-49080bdba6cd/28019561986-500.jpg" data-tags="westlife, pop" role="button">
+Westlife - Face to Face (2005-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/520ea2a4-2652-41f2-a7dc-e1b4b3b8bd14/18230659291-500.jpg" data-tags="neil diamond" role="button">
 Neil Diamond - 12 Songs (2005-11-08)
@@ -246,23 +249,14 @@ Kate Havnevik - Melankton (2006-04-02)
 <li data-cover="http://coverartarchive.org/release/1d33a971-8f34-4498-953b-26ae85c4cdd6/10894951825-500.jpg" data-tags="psytrance" role="button">
 Vibrasphere - Archipelago (2006-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/519b5a5e-139a-4924-93d3-4e3ca6f8fbff/10188105570-500.jpg" data-tags="trance, anjunabeats, progressive trance" role="button">
-Luminary - Amsterdam (2006-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
-Vienna Teng - Dreaming Through The Noise (2006-07-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
 Crossfade - Falling Away (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7e45fe5-e585-4156-9a86-b21b596fbb87/9617406658-500.jpg" data-tags="relax, soft piano, crap music--delete this song" role="button">
 Jim Brickman - Escape (2006-10-06)
 </li>
-<li data-cover="https://img.discogs.com/nS9R_4uDogNPqCy3guK232VkSRo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-953946-1525181710-4982.jpeg.jpg" data-tags="folk, medieval" role="button">
-Faun - Totem (2007-03-02)
-</li>
-<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
-Nic Chagall - What You Need (2007-03-05)
+<li data-cover="http://coverartarchive.org/release/e3f1378d-7dbd-49a9-afe0-0d6c0a4b6ccc/8131898956-500.jpg" data-tags="ninja tune" role="button">
+Yppah - You Are Beautiful At All Times (2006-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f87f3b49-d278-45f6-866a-7135dd474889/3076669072-500.jpg" data-tags="psytrance, progressive trance" role="button">
 Vibrasphere - Exploring The Tributaries (2007-06-01)
@@ -291,6 +285,9 @@ Maya Filipič - Between Two Worlds (2008-08-01)
 <li data-cover="https://img.discogs.com/LbI0QelNbZwRc57uknTtjjJlZrs=/fit-in/600x557/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476522-1222552001.jpeg.jpg" data-tags="chillout, alternative, relax, because, pinkpop 2009, 1hj2009, toffe 21" role="button">
 Novastar - Almost Bangor (2008-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/181953bd-bd5f-49d2-b11c-6198c294a9ff/3565128068-500.jpg" data-tags="diamond" role="button">
+Triangle Sun - Diamond (2009)
+</li>
 <li data-cover="https://img.discogs.com/7J6kmhtSe33stsIQJCTE6lbbvDM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245881-1381922860-2710.jpeg.jpg" data-tags="chillout, jazz, rock, soul, acoustic, blues, retro, relax" role="button">
 Wouter Hamel - Nobody's Tune (2009-01-30)
 </li>
@@ -317,6 +314,9 @@ C418 - one (2012-12-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/946a31ef-d1c4-4b09-87ec-6a8ea20f28e5/10230180461-500.jpg" data-tags="relax, lyrical" role="button">
 Carly Rae Jepsen - Take a Picture (2013-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/fa61773a-ffb3-40a5-94c9-a72522dd6b88/9843131667-500.jpg" data-tags="ambient, relax, at work, qlencja relax selection" role="button">
+Porya Hatami - Shallow (2014-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b35e3745-7f2b-44e5-97ce-8841d51b88dd/9135588658-500.jpg" data-tags="relax, in love, doja is the best" role="button">
 Doja Cat - Purrr! - EP (2014-08-05)

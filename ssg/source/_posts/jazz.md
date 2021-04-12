@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:22:01.449Z
+date: 2021-04-12T00:59:01.445Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -126,20 +126,23 @@ Bill Evans - You Must Believe in Spring (1981)
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - What A Wonderful World (1988)
 </li>
+<li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
+Bobby McFerrin - Simple Pleasures (1988-08-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, soul, blues" role="button">
 Ray Charles - Anthology (1988-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b9781a-c7d2-4979-abf9-3f5bf9869cd1/8145651151-500.jpg" data-tags="jazz" role="button">
 Chet Baker - The Best of Chet Baker Sings (1989-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dc1cb85-0dab-4993-8fee-93973079f2ae/4423135804-500.jpg" data-tags="frank sinatra" role="button">
-Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ec7bbc6-ce49-4ce2-b32b-152f8af58b83/15248876530-500.jpg" data-tags="jazz" role="button">
 Herbie Hancock - Cantaloupe Island (1994-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
+</li>
+<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
+Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, bass, fusion" role="button">
 Jaco Pastorius - Jaco Pastorius (1997)
@@ -173,9 +176,6 @@ Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
 Regina Spektor - 11:11 (2001-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ed0855b-ae5d-4eff-a10c-00b4e18d0b4b/22972644479-500.jpg" data-tags="swing" role="button">
-Robbie Williams - Swing When You're Winning (2001-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)

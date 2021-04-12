@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:36:01.394Z
+date: 2021-04-12T01:07:34.930Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -135,6 +135,9 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="http://coverartarchive.org/release/02814ccf-042f-47ac-acd0-36a5855d783f/10401043883-500.jpg" data-tags="electronic, chillout" role="button">
 Groove Armada - Soundboy Rock (2007-05-04)
 </li>
+<li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
+Digitalism - Idealism (2007-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/2846bdd5-2b37-34ca-ba50-cebfe76c299a/20853604238-500.jpg" data-tags="electronic" role="button">
 Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)
 </li>
@@ -170,9 +173,6 @@ Tinchy Stryder - Catch 22 (2009-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/ccdc4bce-779b-4df0-8419-b69cc9a19ba7/8663323607-500.jpg" data-tags="nu jazz, electronic" role="button">
-Parov Stelar - Coco (2009-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/63e24053-1c01-31b0-b8e8-3b2a59bb75ff/1467707916-500.jpg" data-tags="house" role="button">
 Vitalic - Flashmob (2009-09-09)
@@ -224,9 +224,6 @@ Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Nero - Promises (2011-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/00f2970c-b7df-4402-b918-42362c23fa0b/6600695536-500.jpg" data-tags="electronic, house, dance pop, calvin harris, running music, fell, feel so close" role="button">
-Calvin Harris - Feel So Close (2011-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
@@ -296,6 +293,9 @@ Martin Garrix - Animals (2013-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
+</li>
+<li data-cover="https://img.discogs.com/bzkui0aRuxdOCeus2i__1I1INe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5001817-1381821314-8290.jpeg.jpg" data-tags="electronic, dubstep, house, electro house, 10s, days of the week, edm, brostep, complextro, food and drink" role="button">
+Feed Me - Calamari Tuesday (2013-10-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
 What So Not - High You Are (Remixes) (2013-10-15)

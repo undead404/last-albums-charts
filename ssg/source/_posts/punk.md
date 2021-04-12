@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:01:06.921Z
+date: 2021-04-12T00:47:01.422Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -128,6 +128,9 @@ AFI - The Art of Drowning (2000-09-25)
 </li>
 <li data-cover="https://img.discogs.com/DzSRpfWcAvx-iUK79RT6gwicSsM=/fit-in/408x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5539456-1395998068-8223.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Conspiracy of One (2000-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - From Here to Infirmary (2001-04-03)
 </li>
 <li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
@@ -287,9 +290,6 @@ Good Charlotte - Good Morning Revival (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - RIOT! (2007-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/060e7fec-7984-313d-a76d-493354106e7d/14523195786-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - Underclass Hero (2007-07-18)

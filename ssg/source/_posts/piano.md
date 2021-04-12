@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:40:01.428Z
+date: 2021-04-12T01:28:18.169Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")

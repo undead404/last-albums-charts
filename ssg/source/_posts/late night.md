@@ -1,10 +1,10 @@
 ---
-date: 2021-04-11T08:28:06.992Z
+date: 2021-04-12T01:21:01.413Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Cobra Starship - ¡Viva La Cobra! (2007-10-23)](http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg "Cobra Starship - ¡Viva La Cobra! (2007-10-23)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
+<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">Elliott Smith - Roman Candle (1994-07-14)</li>
 <li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg" data-tags="electronic" role="button">Cobra Starship - ¡Viva La Cobra! (2007-10-23)</li>
@@ -54,11 +54,17 @@ Lou Reed - Berlin (1973-10)
 <li data-cover="https://img.discogs.com/kkMKiTJJJwmJFTPXqQBNZQp3I18=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2282797-1539706052-2103.jpeg.jpg" data-tags="ecm" role="button">
 Ralph Towner - Solstice (1974-12)
 </li>
+<li data-cover="https://img.discogs.com/hXDXXgo5kIrwbUBePBGyzIH8fbw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4572667-1417884117-3238.jpeg.jpg" data-tags="country, country-pop, romantic, late night, reflection, poignant, regret, sentimental, contemporary country, romantic evening, traditional country" role="button">
+Ronnie Milsap - Night Things (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7b3fba3-e9b2-3f55-8a3f-2b35e1e1b7c8/23197330909-500.jpg" data-tags="jazz, blues" role="button">
 Tom Waits - Nighthawks at the Diner (1975-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc896d65-cc4b-4b70-9f40-d9b136644f6a/2061209040-500.jpg" data-tags="bass" role="button">
 Dave Holland - Emerald Tears (1978)
+</li>
+<li data-cover="http://coverartarchive.org/release/73311748-6673-402b-b0d0-5e9656dfd2b9/7000008134-500.jpg" data-tags="finnish" role="button">
+Dave Lindholm - Vanha & uusi romanssi (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/a763a267-e5cd-3172-ac04-82d56cbb01c6/3580394742-500.jpg" data-tags="jazz" role="button">
 John Surman - The Amazing Adventures Of Simon Simon (1981)
@@ -92,9 +98,6 @@ Guitar Slim - Sufferin' Mind (1991-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e287f1d-6a36-4446-816a-d028bb19018c/24708246922-500.jpg" data-tags="female vocalists, 90s, rnb" role="button">
 Vanessa Williams - The Comfort Zone (1991-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/42d09d65-6949-452a-a9f3-956b76f87f53/12969087786-500.jpg" data-tags="energetic, late night, irreverent, organic, crunchy, freewheeling, bittersweet, raucous, warm, drinking, silly, poignant, rollicking, good times, sarcastic, rowdy, lively, messy, tgif, brash, guys night out, street-smart, rambunctious, american trad rock, bar band, street life" role="button">
-Bash & Pop - Friday Night Is Killing Me (1993)
 </li>
 <li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
@@ -144,8 +147,8 @@ Boards of Canada - Peel Session (1998-06-16)
 <li data-cover="https://img.discogs.com/ibMAfiLArBOVU-faP4LftnwZ_fE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2956612-1441393650-3407.jpeg.jpg" data-tags="britpop, 90s" role="button">
 Suede - Head Music (1999-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
+<li data-cover="http://coverartarchive.org/release/79af6696-da5c-429a-b279-2073349f1e98/22716532687-500.jpg" data-tags="greek" role="button">
+Θανάσης Παπακωνσταντίνου - Βραχνός Προφήτης (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
@@ -176,6 +179,9 @@ Signer - Low Light Dreams (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/e938c289-b8fd-4988-979d-355c4bf664c9/6154964691-500.jpg" data-tags="bass, late night, allboutguitar, karlsruhe, late night jazz, gitarrenunterricht, like passing clouds, wwwlautfmbluesclub, gitarrenunterricht berlin, gitarrenunterricht in karlsruhe" role="button">
+Lucky Peterson - Black Midnight Sun (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, techno, idm, late night, full tracks" role="button">
 substanz-t - Electric Opium (2003-04)
@@ -218,6 +224,9 @@ Janita - Seasons Of Life (2005-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bf927a7-ca9c-41d6-a24d-52d6a2b07232/20641049798-500.jpg" data-tags="jazz" role="button">
 Ketil Bjørnstad - Floating (2005-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/f20a9c6f-bdd4-4980-bb91-b989f75d1324/2965481749-500.jpg" data-tags="ambient" role="button">
+Tor Lundvall - Empty City (2006)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
@@ -273,12 +282,6 @@ Peter Broderick - How They Are (2010-09-06)
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/f092b7dc-f36f-4431-8e38-0a411450bb31/21799062857-500.jpg" data-tags="country" role="button">
-Alan Jackson - 34 Number Ones (2010-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/fc311ce8-54e5-4566-a942-03125cacb8d5/4513896656-500.jpg" data-tags="dark ambient" role="button">
-Demdike Stare - Tryptych (2011-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/ebc6e131-2301-480c-ad3f-4e0b790dcf05/5974509150-500.jpg" data-tags="software" role="button">
 Autre Ne Veut - Anxiety (2013-02-26)
 </li>
@@ -305,9 +308,6 @@ Ciara - Ciara (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
 Suede - Dog Man Star (2013-10-21)

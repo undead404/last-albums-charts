@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:34:01.420Z
+date: 2021-04-12T01:09:01.477Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -78,11 +78,11 @@ Xiu Xiu - Fabulous Muscles (2004-02-17)
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/895b429e-5374-47f7-8999-a4cdfa888074/15588607258-500.jpg" data-tags="electronic, indie" role="button">
+The Dissociatives - The Dissociatives (2004-04-04)
+</li>
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -159,6 +159,12 @@ Baths - Pop Music / False B-Sides (2011-02-02)
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)
 </li>
+<li data-cover="https://img.discogs.com/dAAeaKBqrBHmY3gXGdC-qVUWvBQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756671-1340621609-8907.jpeg.jpg" data-tags="art pop" role="button">
+Rainbow Arabia - Boys and Diamonds (2011-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3b0444e-c851-462f-bb48-566dea7da25b/8265351994-500.jpg" data-tags="indie, piano pop, art pop, alternative singer-songwriter" role="button">
+Cascadeur - The Human Octopus (2011-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
@@ -198,14 +204,8 @@ Julia Holter - Ekstasis (2012-03-05)
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
-Laurel Halo - Quarantine (2012-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
-</li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
@@ -252,6 +252,9 @@ London Grammar - If You Wait (2013-09-06)
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/9f4da5ab-b91f-4e39-8d23-dd22983458fb/5661104842-500.jpg" data-tags="electronic, experimental" role="button">
+Glasser - Interiors (2013-09-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Kiss Land (2013-09-09)
 </li>
@@ -275,9 +278,6 @@ Metronomy - Love Letters (2013-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/22ed8895-2e99-4551-b694-3d1d9bbe64ea/6296177239-500.jpg" data-tags="electronic, synthpop" role="button">
-iamamiwhoami - fountain (2014-01-22)
 </li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Digital Witness (2014-02-24)

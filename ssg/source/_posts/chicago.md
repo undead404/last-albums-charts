@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:56:01.395Z
+date: 2021-04-12T01:22:01.419Z
 title: "chicago: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Graduation (2007-09-05)](http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg "Kanye West - Graduation (2007-09-05)")
@@ -7,8 +7,8 @@ title: "chicago: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">Chicago - If You Leave Me Now (1989)</li>
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">Chicago - The Chicago Story (1989)</li>
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">Jim O'Rourke - Bad Timing (1997-08-25)</li>
-<li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">Jim O'Rourke - Eureka (1999-02-10)</li>
 <li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">The Sea and Cake - One Bedroom (2003-01-21)</li>
+<li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">Wilco - A Ghost is Born (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">Kanye West - Graduation (2007-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/044a26ca-91ad-4db2-96b1-17356bcb2b0d/10805655860-500.jpg" data-tags="live, chicago, panic at the disco, pretty odd" role="button">Panic! at the Disco - Live In Chicago (2008-12-02)</li>
 <li data-cover="http://coverartarchive.org/release/295b08a7-943d-4f6a-b1b8-73f7307b2f16/15353072507-500.jpg" data-tags="hip-hop, 00s, chicago, electro-hop" role="button">Kid Sister - Ultraviolet (2009-11-17)</li>
@@ -45,6 +45,9 @@ Naked Raygun - All Rise (1985)
 <li data-cover="http://coverartarchive.org/release/843d0653-f15d-3d62-befc-ccc951e0db48/5857978636-500.jpg" data-tags="noise rock" role="button">
 Big Black - Songs About Fucking (1987)
 </li>
+<li data-cover="http://coverartarchive.org/release/6af363ac-0ae8-489f-bd39-e615b460b100/27709484670-500.jpg" data-tags="heavy metal, 80s, 90s, chicago, 1980s, 1990s, illinois, united states, glam metal, sleaze rock, cook county" role="button">
+D'Molls - D'Molls (1988)
+</li>
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">
 Chicago - If You Leave Me Now (1989)
 </li>
@@ -57,11 +60,20 @@ Chicago - The Heart of Chicago (1989)
 <li data-cover="http://coverartarchive.org/release/d54d5224-3b72-4047-a343-b7fa1819e571/13022249903-500.jpg" data-tags="jazz, blues, swing, chicago, lou rawls - at last, meuitunesradio" role="button">
 Lou Rawls - At Last (1989-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ba59cd2-2162-43c4-ae4c-1fe2beabb4bc/2996638730-500.jpg" data-tags="heavy metal, 80s, 90s, chicago, 1980s, 1990s, illinois, united states, glam metal, sleaze rock, cook county" role="button">
+D'Molls - Warped (1990)
+</li>
+<li data-cover="https://img.discogs.com/by30Sj0KLHJI6CcLhKPZauktVt4=/fit-in/429x428/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3565166-1335489300.jpeg.jpg" data-tags="blues, american, chicago, electric blues, emusic, allboutguitar, hotel blues, brc blues band, brc blues band karlsruhe, walter buddy freter, lautfm bluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe" role="button">
+Homesick James - Blues On The South Side (1991)
+</li>
 <li data-cover="https://img.discogs.com/8Q2MyEyygKokpcWqLKQTn9b3BpI=/fit-in/450x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393110-1216743138.jpeg.jpg" data-tags="hip-hop, hip hop, rap, chicago, west coast rap, 50 cent" role="button">
 2nd II None - 2nd II None (1991-09-06)
 </li>
 <li data-cover="https://img.discogs.com/PsimioOuGAIjlH2mNQeUg-BFrDo=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891045-1507296067-5288.jpeg.jpg" data-tags="grunge, indie rock, chicago, radio friendly stylings, brian deck" role="button">
 Red Red Meat - Jimmywine Majestic (1993)
+</li>
+<li data-cover="https://img.discogs.com/F3CPmRJOuQLA99hj4-e9aXKTf0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1742555-1240447239.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
+Broken Hope - The Bowels Of Repugnance (1993)
 </li>
 <li data-cover="https://img.discogs.com/aUjbOLW13snEbHz97kHMPfEZsmk=/fit-in/379x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-97896-1244824512.jpeg.jpg" data-tags="post-rock" role="button">
 Tortoise - Tortoise (1994-06-22)
@@ -87,20 +99,14 @@ Jim O'Rourke - Bad Timing (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/a82df7f4-ee60-4258-abec-a44af8bdeab3/15736316159-500.jpg" data-tags="chicago" role="button">
 Do Or Die - Headz Or Tailz (1998-04-07)
 </li>
-<li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">
-Chicago - Chicago (1998-05-26)
-</li>
-<li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">
-Jim O'Rourke - Eureka (1999-02-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e84ecb3-adb6-40c6-a0f5-54b48ca8da79/5258515409-500.jpg" data-tags="thrill jockey, tortoise" role="button">
 Brokeback - Field Recordings From the Cook County Water Table (1999-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/edd02b31-cc97-4be8-bb15-02d205ad8a79/23432138282-500.jpg" data-tags="jazz" role="button">
 Isotope 217 - Utonian Automatic (1999-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3742b473-5099-4e27-8c4e-2eec5844c0e2/8791287911-500.jpg" data-tags="punk rock, punk" role="button">
-Alkaline Trio - Alkaline Trio (2000-04-18)
+<li data-cover="http://coverartarchive.org/release/36403f9e-2d14-38fa-828e-d112cdaba91a/24328681855-500.jpg" data-tags="pumpkins" role="button">
+The Smashing Pumpkins - Stand Inside Your Love (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/26f560c2-1fca-4a01-b250-0282c09a5e51/25619832749-500.jpg" data-tags="indie" role="button">
 L'Altra - Music of a Sinking Occasion (2000-07-18)
@@ -168,9 +174,6 @@ The Ponys - Celebration Castle (2005-05-03)
 <li data-cover="https://img.discogs.com/fGa3o5DkH5PZOfUdlI3A5vFFBLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2813298-1302185536.jpeg.jpg" data-tags="indie, rock, indie rock, 00s, chicago, lookout" role="button">
 Troubled Hubble - Making Beds in a Burning House (2005-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ec4547a-f513-4908-90e4-93faf84471d2/11123419461-500.jpg" data-tags="math rock, post-rock" role="button">
 Piglet - Lava Land (2005-07-12)
 </li>
@@ -182,9 +185,6 @@ Dilatazione - Too Emotional For Maths (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac847a05-a0cd-4dda-99f0-f57b60036bf7/13736053241-500.jpg" data-tags="indie, 00s, chicago, polyvinyl" role="button">
 Joan of Arc - The Intelligent Design Of Joan Of Arc (2006-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f715b13-da2a-4a08-8cdb-5a1353b80387/21918945972-500.jpg" data-tags="indie, rock, indie rock" role="button">
-The Ponys - Turn the Lights Out (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/74a32289-9c9c-4727-995b-707f0b3dffb4/2072641538-500.jpg" data-tags="hip-hop, electronic, electronica, classical, jazz, pop, rock, dance, idm, breakbeat, chicago, creative commons, positron records" role="button">
 Bounte - One (2007-03-27)
@@ -222,11 +222,11 @@ Minsk - With Echoes In The Movement of Stone (2009-05-26)
 <li data-cover="https://img.discogs.com/D1NvyThTr6zXEKHKBZBUKwllfwU=/fit-in/378x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1956048-1254863504.jpeg.jpg" data-tags="post-rock" role="button">
 Tortoise - Beacons Of Ancestorship (2009-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a20808fe-3d15-4334-91f2-e161cd6ed433/2121931642-500.jpg" data-tags="hip-hop, electronic, alternative, usa, electro, solo, psychedelic, american, acid, breaks, breakcore, jamendo, one-man band, 00s, chicago, alternative dance, big beat, netlabel, creative commons, free music, illinois, edm, america, united states, one man band, weblabel, netaudio, netlabels, one-man-band, net labels, psychedelic electronica, net labels music, free album, solo project, solo album, webaudio, electronic dance music, one man project, usa underground, one-man-project, netlabels music, weblabels, one  man band, web labels" role="button">
-Professor Kliq - Community Service (2009-08-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f040d90-a8df-45f1-841b-77b17793c16c/3593076898-500.jpg" data-tags="hard rock, alternative metal, post-grunge" role="button">
 Janus - Red Right Return (2009-09-22)
+</li>
+<li data-cover="https://img.discogs.com/Iiag0AihXj9t51ldzoxemTziJE4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2029618-1269685213.jpeg.jpg" data-tags="jazz, usa, solo, minimal, avant-garde, american, spoken word, illbient, crossover, dark ambient, 00s, sound art, chicago, american underground, portland, free downloads, free music, illinois, dystopic, legends, solo artist, oregon, america, avant-jazz, free download, netaudio, fully streamable tracks, non music, one-man-band, non-music, downloadable, free albums, fully downloadable albums, free album, solo project, downloadable tracks, free streamable albums, webaudio, industrial illbient, fully streamable album, self-released, usa underground, fully streamable track, free streamable album, fully downloadable album, dystopbient, no zen" role="button">
+Marc Broude - Medicine (2009-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/295b08a7-943d-4f6a-b1b8-73f7307b2f16/15353072507-500.jpg" data-tags="hip-hop, 00s, chicago, electro-hop" role="button">
 Kid Sister - Ultraviolet (2009-11-17)
@@ -291,14 +291,14 @@ Heavy Times - Fix It Alone (2013)
 <li data-cover="https://img.discogs.com/7mtp6mw_RWzXuR8JenjyVlxwVCI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4176035-1381666495-6600.jpeg.jpg" data-tags="indie, chicago, 10s, thrill jockey" role="button">
 Brokeback - Brokeback and the Black Rock (2013-01)
 </li>
+<li data-cover="https://img.discogs.com/LVMF7NfPuUi44qEcOej4GkdpnxE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7060238-1432764401-6118.jpeg.jpg" data-tags="indie, pop, rock, indie pop, indie rock, chicago, alt. rock" role="button">
+Pet Lions - Popular Nature (2013-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
 Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="https://img.discogs.com/xOOZMLyxcpT-OOIywtUHpyRAyTA=/fit-in/351x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4459154-1365444768-4680.jpeg.jpg" data-tags="indie, chicago, bloodshot, 10s" role="button">
 JC Brooks & The Uptown Sound - Howl (2013-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e974588-2912-4213-8eae-fe6a93cdc1d6/4467278155-500.jpg" data-tags="indie, gospel, female vocalist, numbers, chicago, 10s, america, contemporary gospel, anti-, flowers and plants" role="button">
-Mavis Staples - One True Vine (2013-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/025581da-00d2-4cf9-b976-5881b231f18c/4876793132-500.jpg" data-tags="10s" role="button">
 Smith Westerns - Soft Will (2013-06-25)

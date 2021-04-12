@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:25:01.410Z
+date: 2021-04-12T01:11:29.330Z
 title: "true black metal: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Drown (2014-11-03)](http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg "Bring Me the Horizon - Drown (2014-11-03)")
@@ -8,12 +8,12 @@ title: "true black metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal" role="button">Mayhem - De Mysteriis Dom Sathanas (1994-05-24)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/b43a420d-f4be-3e74-836f-a3732718c92b/1480049199-500.jpg" data-tags="black metal, atmospheric black metal" role="button">Burzum - Belus (2010-03-05)</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
+<li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">Bring Me the Horizon - Sempiternal (2013-03-29)</li>
 <li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Attila - About That Life (2013-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - Black Veil Brides (2014-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
+<li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">Attila - Guilty Pleasure (2014-11-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,6 +36,9 @@ Immortal - Pure Holocaust (1993-11-01)
 <li data-cover="https://img.discogs.com/QS2pqa3jqCafqsymOZcO9owgPh4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319673-1519480785-4388.jpeg.jpg" data-tags="black metal, metal" role="button">
 Emperor - As the Shadows Rise (1994)
 </li>
+<li data-cover="https://img.discogs.com/hK3GgGyrzX_JyYMFRe0la0iqwys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368858-1270942640.jpeg.jpg" data-tags="black metal" role="button">
+Gorgoroth - Promo '94 (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2f25d41-736c-40e9-83b3-678f42873eb3/14548660035-500.jpg" data-tags="black metal" role="button">
 Darkthrone - Transilvanian Hunger (1994-02-17)
 </li>
@@ -51,6 +54,9 @@ Gorgoroth - Pentagram (1994-10-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Marduk - Opus Nocturne (1994-12-01)
 </li>
+<li data-cover="https://img.discogs.com/fbU6cYe7sCFtSaHrwgdmG1Hv4w0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367918-1351642027-1460.jpeg.jpg" data-tags="black metal" role="button">
+Zyklon-B - Blood Must Be Shed (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/84a47d99-343a-4081-9602-cea02048ae2b/2883291854-500.jpg" data-tags="black metal" role="button">
 Burzum - Burzum / Aske (1995)
 </li>
@@ -62,9 +68,6 @@ Mütiilation - Vampires of Black Imperial Blood (1995)
 </li>
 <li data-cover="https://img.discogs.com/ivRECV6_En_nkYZJZmv2T45vbLU=/fit-in/400x388/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7562854-1444078656-7731.jpeg.jpg" data-tags="black metal" role="button">
 Darkthrone - Panzerfaust (1995-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 In The Woods... - A Return to the Isle of Men (1996)
@@ -87,9 +90,6 @@ Marduk - Heaven Shall Burn... When We Are Gathered (1996-11-21)
 <li data-cover="https://img.discogs.com/1xfm2Ce2HSog5U9qOXbeIiL8eeI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103974-1192293384.jpeg.jpg" data-tags="black metal" role="button">
 Old Man's Child - Born Of The Flickering (1996-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e526f15-e845-464d-8db0-1fdfed1942e5/5569426722-500.jpg" data-tags="black metal" role="button">
-Judas Iscariot - Of Great Eternity (1997)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Marduk - Live in Germania (1997-06-20)
 </li>
@@ -104,6 +104,9 @@ Urgehal - Massive Terrestrial Strike (1998)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="atmospheric black metal, avant-garde black metal, true black metal, orthodox black metal, russian chanson, black shanson" role="button">
 Михаил Круг - Мадам (1998)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+Setherial - Lords of the Nightrealm (1998-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0540d909-a493-469d-9a61-f4aae98c2335/4809550915-500.jpg" data-tags="black metal" role="button">
 Marduk - Nightwing (1998-04)
@@ -135,11 +138,11 @@ Judas Iscariot - Heaven In Flames (1999-02)
 <li data-cover="https://img.discogs.com/ZH2SRuBmKcM4Y-RMRNYY3FyLsHY=/fit-in/600x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9215752-1476810540-3072.jpeg.jpg" data-tags="black metal" role="button">
 Satyricon - Intermezzo II (1999-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
-Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/ed386063-2dc6-4e98-b0d5-ab27ff469c17/4207443530-500.jpg" data-tags="black metal" role="button">
 1349 - Chaos Preferred (1999-08-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+Setherial - Hell Eternal (1999-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/624e99b8-1481-442f-b818-a0de955fa7a0/2248693566-500.jpg" data-tags="black metal" role="button">
 Nargaroth - Amarok (2000)
@@ -171,6 +174,9 @@ Tsjuder - Demonic Possession (2002)
 <li data-cover="http://coverartarchive.org/release/bb2561bb-fd7a-4c9f-aaf5-ddc0512fbc2a/2248935299-500.jpg" data-tags="black metal" role="button">
 Nargaroth - Rasluka Part II (2002)
 </li>
+<li data-cover="https://img.discogs.com/VuIwUMCvqGKfJWr4yJzOqQo4WiI=/fit-in/600x618/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309729-1322974881.jpeg.jpg" data-tags="black metal, post-black metal" role="button">
+Sólstafir - Í Blóði Og Anda (2002-01-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae39c67c-7703-4151-a365-993a1c315123/2704373752-500.jpg" data-tags="black metal, depressive black metal" role="button">
 Nargaroth - Geliebte des Regens (2003)
 </li>
@@ -180,11 +186,11 @@ Nocternity - Onyx (2003)
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Urgehal - Through Thick Fog Til Death (2003)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, true black metal" role="button">
+Lucifugum - Back To Chopped Down Roots (2003-02)
+</li>
 <li data-cover="https://img.discogs.com/F8TsZffkMhD_-Pc3v_EPegVr3JM=/fit-in/600x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13861590-1562780116-2796.jpeg.jpg" data-tags="black metal" role="button">
 Watain - Casus Luciferi (2003-11)
-</li>
-<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
-Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, true black metal, norway black metal" role="button">
 Elite - Kampen (2004)
@@ -195,11 +201,17 @@ Darkened Nocturn Slaughtercult - Nocturnal March (2004)
 <li data-cover="http://coverartarchive.org/release/d33b3e90-8291-460d-90fc-ecbc177144ef/2248853601-500.jpg" data-tags="black metal" role="button">
 Nargaroth - Prosatanica Shooting Angels (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/445c1f0b-077a-4cef-b451-b9e57ce6968e/19083042480-500.jpg" data-tags="black metal, raw black metal, true black metal, have" role="button">
+Moonblood - Supreme Black Force of German Steel (2004)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, finnish black metal" role="button">
 Behexen - By the Blessing of Satan (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b3e6363-2d1b-4ea0-8bc5-ed849e3a8d75/13320177159-500.jpg" data-tags="black metal" role="button">
 1349 - Beyond the Apocalypse (2004-04-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+Negator - Old Black (2004-05-19)
 </li>
 <li data-cover="https://img.discogs.com/QVRzBHKAVbhSe141OxfJQRn3mac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096915-1355112299-5303.jpeg.jpg" data-tags="black metal" role="button">
 Carpathian Forest - Skjend hans lik (2004-06-28)
@@ -224,9 +236,6 @@ Attila - Fallacy (2007)
 </li>
 <li data-cover="https://img.discogs.com/-l5SDRlNoFc32V0ooZe0n6_q_yQ=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2009335-1403395768-7034.jpeg.jpg" data-tags="war metal, blackened death metal, true black metal" role="button">
 Bestial Raids - Reversed Black Trinity (2007)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Watain - Sworn to the Dark (2007-02-19)
@@ -261,9 +270,6 @@ Infernal War - Conflagrator (2009-02-15)
 <li data-cover="https://img.discogs.com/VeoTe8BzYSARtwPXMhTtK-e3mA4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1805875-1616874006-1026.jpeg.jpg" data-tags="black metal" role="button">
 Arckanum - ÞÞÞÞÞÞÞÞÞÞÞ (2009-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
-Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7e4fd7d-81d1-44fa-aa49-2031bbae8b31/1362249760-500.jpg" data-tags="black metal" role="button">
 Darkened Nocturn Slaughtercult - Saldorian Spell (2009-11)
 </li>
@@ -276,17 +282,11 @@ Justin Bieber - My Worlds (2010-03-22)
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d2e0cefe-c17d-4760-b078-59905ce369d1/11446685875-500.jpg" data-tags="finnish black metal, black metal" role="button">
 Satanic Warmaster - Nachzehrer (2010-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b3ed83-3334-4906-a678-7b90e256d363/6212079908-500.jpg" data-tags="black metal, nakurwianie dla szatana" role="button">
 Plaga - Pożeracze Słońc (2011-08)

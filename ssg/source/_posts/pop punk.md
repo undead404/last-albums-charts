@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T23:41:01.434Z
+date: 2021-04-12T01:16:06.964Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
-![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
+![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">Yellowcard - Ocean Avenue (2003-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">Paramore - All We Know Is Falling (2005-07-26)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
+<li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">Boys Like Girls - Boys Like Girls (2006-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">Fall Out Boy - Infinity on High (2007-02-05)</li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
+<li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - The Best Damn Thing (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">Fall Out Boy - Folie à deux (2008-12-10)</li>
-<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">Paramore - Brand New Eyes (2009-09-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -42,8 +42,17 @@ Green Day - Warning (2000-03-21)
 <li data-cover="http://coverartarchive.org/release/5bbf8886-9d39-44b7-b6ed-c7ad6180fca3/15993145575-500.jpg" data-tags="pop punk" role="button">
 Good Charlotte - Good Charlotte (2000-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/cba36543-29ff-472a-baaa-1e637232c1a8/10159760785-500.jpg" data-tags="punk rock, pop punk" role="button">
+Sum 41 - Half Hour Of Power (2000-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/db66e6ec-b295-4f64-bd96-9311186d0df0/5571534834-500.jpg" data-tags="pop punk, punk rock, rapcore" role="button">
+Zebrahead - Playmate of the Year (2000-08-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1dc23ce-a039-3667-b7e0-e151ce560ba1/17499691187-500.jpg" data-tags="pop punk" role="button">
 Sugarcult - Start Static (2001-03-24)
+</li>
+<li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
+Weezer - Weezer (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
@@ -114,6 +123,9 @@ Green Day - American Idiot (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/3504efad-2457-3242-8ae1-08285008365c/21857657060-500.jpg" data-tags="pop punk" role="button">
 Good Charlotte - The Chronicles of Life and Death (2004-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/931a0ad7-8770-47ba-8e41-028310c91921/1091413978-500.jpg" data-tags="punk rock" role="button">
+Sum 41 - Chuck (2004-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
@@ -134,9 +146,6 @@ The Starting Line - Based on a True Story (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">
-Paramore - All We Know Is Falling (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -189,6 +198,9 @@ Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 Mayday Parade - Tales Told By Dead Friends (2006-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/79d6b7c2-e707-4804-b9f1-03ca03960172/27345044181-500.jpg" data-tags="pop punk" role="button">
+Bowling for Soup - The Great Burrito Extortion Case (2006-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
 </li>
@@ -203,9 +215,6 @@ The Academy Is... - Santi (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - RIOT! (2007-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/de90424f-fcbb-34ff-9d2d-c32355fa05e0/6657134641-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - A Lesson in Romantics (2007-07-10)
@@ -249,9 +258,6 @@ Tigers Jaw - Tigers Jaw (2008-09-10)
 <li data-cover="https://img.discogs.com/DL6wyKT7zN0CdqK1wZfHRHX-O1U=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181445-1331982850.jpeg.jpg" data-tags="pop punk" role="button">
 You Me at Six - Take Off Your Colours (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/87fa0459-f9b1-4ed7-bbb1-95f032b24647/14506036638-500.jpg" data-tags="alternative, paramore, twilight, rock" role="button">
-Paramore - Decode (2008-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)
 </li>
@@ -266,9 +272,6 @@ A Day to Remember - Homesick (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
@@ -302,9 +305,6 @@ New Found Glory - Radiosurgery (2011-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)
-</li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
-Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
