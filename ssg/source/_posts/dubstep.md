@@ -1,17 +1,17 @@
 ---
-date: 2021-04-12T08:54:02.130Z
+date: 2021-04-12T13:53:01.703Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
-![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
+![Nero - Welcome Reality (2011-08-12)](http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg "Nero - Welcome Reality (2011-08-12)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1900b835-1776-4223-bd85-8248f7cb0acd/5069235004-500.jpg" data-tags="dubstep" role="button">Skream - Skream! (2006-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">Mount Kimbie - Crooks & Lovers (2010-07-19)</li>
-<li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">Skrillex - Scary Monsters and Nice Sprites (2010-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">Britney Spears - Femme Fatale (2011-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">Katy B - On a Mission (2011-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/0133c379-4f50-4285-83a2-bd8d712f18cc/18461172656-500.jpg" data-tags="dubstep" role="button">Zomboy - Game Time EP (2011-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">Nero - Promises (2011-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg" data-tags="dubstep" role="button">Nero - Welcome Reality (2011-08-12)</li>
+<li data-cover="http://coverartarchive.org/release/88ffbbe2-bcce-4bfd-912d-2d1998173e4a/11697782536-500.jpg" data-tags="dubstep, electronic, electro house" role="button">Porter Robinson - Spitfire (2011-09-13)</li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">James Blake - Overgrown (2013-04-05)</li>
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)</li>
 </ol>
@@ -39,8 +39,14 @@ MRK1 - Copyright Laws (2007-02-05)
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/b9bbb19e-7951-4ebe-a1d4-bdd35d63a899/6515986469-500.jpg" data-tags="dubstep" role="button">
+Scorn - Stealth (2007-10-12)
+</li>
 <li data-cover="https://img.discogs.com/JuFemSOUd6S9llhZTiYCX3WJznA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990973-1376919315-7630.jpeg.jpg" data-tags="electronic" role="button">
 Lulu Rouge - Bless You (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7e05035-b78e-4ae0-9b38-f0c9d779b74b/4768427827-500.jpg" data-tags="electronic, instrumental, experimental, dubstep, shambles 2008" role="button">
+EOTO - Razed (2008)
 </li>
 <li data-cover="https://img.discogs.com/9oW_iQe5oaMlfy2ISVBDq3Osn00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1223162-1302674885.jpeg.jpg" data-tags="dub, dubstep" role="button">
 Ikonika - Please / Simulacrum (2008-02-04)
@@ -51,6 +57,9 @@ Benga - Diary of an Afro Warrior (2008-03-10)
 <li data-cover="http://coverartarchive.org/release/6175641b-76c6-49ea-9d50-8afff91ef0bb/26997391455-500.jpg" data-tags="dubstep" role="button">
 iTAL tEK - Cyclical (2008-05-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+2562 - Aerial (2008-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/243c3d2d-5c5c-4b22-a296-a1400341a534/5356084335-500.jpg" data-tags="dubstep" role="button">
 Mimosa - Hostilis (2008-10-11)
 </li>
@@ -60,17 +69,20 @@ Zomby - Where Were U in '92? (2008-11-10)
 <li data-cover="http://coverartarchive.org/release/3b3d130a-87a8-4a47-b9fb-920f2530d134/17453242726-500.jpg" data-tags="dubstep" role="button">
 Distance - Repercussions (2008-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc7308fa-11a0-438d-bc5b-09d47caefd34/6384620016-500.jpg" data-tags="dubstep" role="button">
+Martyn - Great Lengths (2009-03)
+</li>
 <li data-cover="https://img.discogs.com/owudar-98-vfYBR5CLz7jLUR5bk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1975057-1446142977-2736.jpeg.jpg" data-tags="dubstep, dancehall, 00's, miami bass, funny as fuck, reggeaton, moombah, weapons and shields, jan 2010" role="button">
 Major Lazer - Guns Don't Kill People... Lazers Do (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cef59e3-cba4-4135-9c1b-486d836e560f/834741351-500.jpg" data-tags="dubstep" role="button">
 Clubroot - Clubroot (2009-06-22)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="dubstep" role="button">
+NiT GRiT - NiT GriT (2009-11-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/42c22569-1d0f-41fd-ac67-327c2ae6f614/8171013124-500.jpg" data-tags="dubstep, electro, dark, quiet, sinister, synth-pop, sharp, scuba" role="button">
 Emika - Drop The Other (2010-01-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
-Hadouken! - For the Masses (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/95da9d74-569f-4406-8bc4-7bf2bcbe69b6/20733482972-500.jpg" data-tags="post-hardcore" role="button">
 Enter Shikari - Tribalism (2010-02-22)
@@ -93,9 +105,6 @@ James Blake - CMYK EP (2010-05-28)
 <li data-cover="http://coverartarchive.org/release/e82d5c86-9c18-4842-9cc9-8e348ad3df6c/1214392676-500.jpg" data-tags="drum and bass, dubstep" role="button">
 Noisia - Split the Atom (2010-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/607fad5d-1010-42b5-a18a-01f3eef6b81b/5607683561-500.jpg" data-tags="dubstep, dance, electro" role="button">
-Skrillex - My Name Is Skrillex (2010-06-07)
-</li>
 <li data-cover="https://img.discogs.com/SKpoYPvC5-I04vmT2nH0BGULXQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275361-1373125850-2096.jpeg.jpg" data-tags="dubstep, ambient" role="button">
 Eleven Tigers - Clouds Are Mountains (2010-06-10)
 </li>
@@ -107,9 +116,6 @@ Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3e1ef3-66bb-4b51-895c-369e8040f34c/18392492549-500.jpg" data-tags="grime, dubstep" role="button">
 Cookie Monsta - Ginger Pubes / Blurgh! (2010-07-19)
-</li>
-<li data-cover="https://img.discogs.com/tK9Dp-wPpngCsGiwP_51F2h3apM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6290784-1415834515-1744.jpeg.jpg" data-tags="dubstep" role="button">
-Magnetic Man - I Need Air (2010-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d71f839-8032-4eec-8b86-5116a9ede310/24185905454-500.jpg" data-tags="dubstep" role="button">
 Skream - Outside the Box (2010-08-09)
@@ -129,14 +135,14 @@ Beats Antique - Blind Threshold (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/0ff3c020-7240-463b-875e-9565e15980bd/1291725158-500.jpg" data-tags="dubstep" role="button">
 Magnetic Man - Magnetic Man (2010-10-11)
 </li>
-<li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
-Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep, glitch hop" role="button">
 Gramatik - No Shortcuts (2010-10-29)
 </li>
 <li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, bass music, covers and same song titles" role="button">
 James Blake - Limit to Your Love (2010-11)
+</li>
+<li data-cover="https://img.discogs.com/NxX6iCA-UiX5MCX1mnXNY9rOcxM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2542570-1293443960.jpeg.jpg" data-tags="dubstep, uk garage" role="button">
+Fantastic Mr Fox - Evelyn EP (2010-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
 Feed Me - Feed Me's Big Adventure (2010-12-25)
@@ -180,6 +186,9 @@ Amon Tobin - ISAM (2011-04-19)
 <li data-cover="http://coverartarchive.org/release/b0748c23-2e2f-4e6e-9369-3b6c14bd4b67/2097313302-500.jpg" data-tags="dubstep" role="button">
 Nero - Guilt (2011-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/0e92867e-0689-45c8-8f1b-7a1b89464bfd/12879470666-500.jpg" data-tags="electronic, dubstep, electro, dance, simon curtis" role="button">
+Simon Curtis - R∆ (2011-06-07)
+</li>
 <li data-cover="https://img.discogs.com/y4XBgnPfRyJUXneW93sfjJwJt44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3354632-1336033311.jpeg.jpg" data-tags="electronic, dubstep, drum and bass, breakbeat, tetris" role="button">
 Doctor P - Tetris (2011-06-13)
 </li>
@@ -210,6 +219,9 @@ Robot Koch - The Other Side (2011-10-07)
 <li data-cover="http://coverartarchive.org/release/123de29d-4e0e-481a-9152-cde92e8e031c/4560186522-500.jpg" data-tags="glitch hop" role="button">
 KOAN Sound - Funk Blaster (2011-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a8ee73a-c3d5-4afd-85d5-589179a59a46/2202436273-500.jpg" data-tags="dubstep" role="button">
+Arkasia - Evolution (2011-11-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/7dc6bfe6-fcac-4e89-b2bf-f5e638e2f665/1812687586-500.jpg" data-tags="dubstep" role="button">
 Blackmill - Miracle (2011-11-21)
 </li>
@@ -225,9 +237,6 @@ Knife Party - 100% No Modern Talking (2011-12-12)
 <li data-cover="http://coverartarchive.org/release/13b61bbf-67ad-4a0b-9f68-85b425061968/1984353512-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Bangarang (2011-12-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a667cbdf-20bd-4e4c-abe1-313b4ef25693/2462427943-500.jpg" data-tags="dubstep, electro house, progressive house, drum & bass" role="button">
-Feed Me - Feed Me's Escape From Electric Mountain (2012-02-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ead8817-28d9-478f-b605-6817da60d647/11680853907-500.jpg" data-tags="dubstep, electro, house, moombahton, owsla" role="button">
 Dillon Francis - Something, Something, Awesome. (2012-02-14)
 </li>
@@ -240,9 +249,6 @@ Labrinth - Electronic Earth (2012-04-02)
 <li data-cover="http://coverartarchive.org/release/4d3c8009-94a1-4778-b9f7-d0f23b15af80/987888414-500.jpg" data-tags="dubstep" role="button">
 Gramatik - #digitalfreedom (2012-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ff9c630-6bde-4334-a3ba-54cadd2efeca/18400177932-500.jpg" data-tags="dubstep, house" role="button">
-Klaypex - Ready to Go (2012-04-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/df08397a-da08-4fcd-bc85-da3c59288f9a/16114656028-500.jpg" data-tags="dubstep, breaks" role="button">
 Bassnectar - Vava Voom (2012-04-10)
 </li>
@@ -254,9 +260,6 @@ Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fdb0cf8-46aa-4bc7-a18d-05ede27c4c8a/15539361464-500.jpg" data-tags="grime, dubstep" role="button">
 SKisM - Down With The Kids EP (2012-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/58c86567-453f-466a-aa4c-1adc0b10d342/1781484416-500.jpg" data-tags="trance, dubstep, electro, house, progressive house" role="button">
-Zedd - Spectrum EP (2012-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)
@@ -296,9 +299,6 @@ Flux Pavilion - Blow the Roof (2013-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
 Modestep - Evolution Theory (2013-02-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5faa285-8ca0-4d2e-bb1f-471dcef00db5/3790506518-500.jpg" data-tags="new rave, dubstep" role="button">
-Hadouken! - Every Weekend (2013-03-18)
 </li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)

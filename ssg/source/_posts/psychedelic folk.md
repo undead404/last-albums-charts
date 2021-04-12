@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:38:06.980Z
+date: 2021-04-12T13:58:01.724Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -8,7 +8,7 @@ title: "psychedelic folk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
+<li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">Local Natives - Gorilla Manor (2009-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">First Aid Kit - The Lion's Roar (2012-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Shields (2012-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/vmY5zfiJFXm-wzjyFM6QTtrOThw=/fit-in/600x631/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442159-1544772062-6783.jpeg.jpg" data-tags="psychedelic" role="button">
-Kaleidoscope - Tangerine Dream (1967)
+<li data-cover="http://coverartarchive.org/release/7bcf10ad-37b3-420f-a890-81a4f239ac46/9201568030-500.jpg" data-tags="60s, folk, singer-songwriter, folk rock" role="button">
+Roy Harper - Sophisticated Beggar (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
@@ -54,6 +54,9 @@ Simon Finn - Pass The Distance (1970)
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
+<li data-cover="https://img.discogs.com/8SqJqMK11klJUOlUOAL4xXUheto=/fit-in/438x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1986618-1430920517-3749.jpeg.jpg" data-tags="folk" role="button">
+The Incredible String Band - Nebulous Nearnesses (1973)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -65,6 +68,9 @@ Woo - Into the Heart Of Love (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d792ffe-8648-4f92-94f3-9d02dc08e851/12269756403-500.jpg" data-tags="experimental, experimental rock, world, avant-garde, spoken word, freak folk, tribal, psychedelic rock, psychedelic folk, avant-rock" role="button">
+Sun City Girls - Kaliflower (1993)
 </li>
 <li data-cover="https://img.discogs.com/ZNc7KJdUubXDshWouVLKU0RiiGk=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478435-1295910826.jpeg.jpg" data-tags="electronica, pop, folk, ambient, indie pop, post-rock, baroque pop, psychedelic, 90s, psychedelic folk, neo-psychedelia, vert-de-gris play-list, evilfaire, tag auditions" role="button">
 Gorky's Zygotic Mynci - Bwyd Time (1995-06)
@@ -78,6 +84,9 @@ Ween - The Mollusk (1997-06-24)
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk, valtcountry, vguitar" role="button">
+Keller Williams - Spun (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
@@ -86,9 +95,6 @@ Kuusumun Profeetta - Kukin kaappiaan selässään kantaa (2001)
 </li>
 <li data-cover="https://img.discogs.com/ABYxJVutWRPNa5fZEuDYQSbB8qY=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2245515-1422357698-2195.jpeg.jpg" data-tags="folk, freak folk" role="button">
 Devendra Banhart - The Charles C. Leary (2002-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/60b946ee-96e3-4a88-9213-5a101e978230/2355430075-500.jpg" data-tags="drone, psychedelic folk" role="button">
-Hala Strana - Fielding (2003)
 </li>
 <li data-cover="https://img.discogs.com/Vql2AWUgPpJIdDKCXvvWbkf5eoI=/fit-in/331x330/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-788041-1293526841.png.jpg" data-tags="folk" role="button">
 Six Organs of Admittance - Six Organs of Admittance (2003)
@@ -150,11 +156,8 @@ Animal Collective - Feels (2005-10-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, psychedelic" role="button">
 Espers - The Weed Tree (2005-10-18)
 </li>
-<li data-cover="https://img.discogs.com/MtgXu0yNy2hLeIQvopQGKdLTUm8=/fit-in/490x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263768-1446998694-5625.png.jpg" data-tags="drone" role="button">
-Natural Snow Buildings - The Dance of the Moon and the Sun (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/fe9e6281-d68a-4063-8c09-230d212dff50/23816680860-500.jpg" data-tags="rewind 2006" role="button">
-Charalambides - A Vintage Burden (2006-05-22)
+<li data-cover="http://coverartarchive.org/release/d897cf27-8b53-4270-b100-a093ebe1ead1/25455196322-500.jpg" data-tags="psychedelic folk, free folk, avant folk, s t i t s rise" role="button">
+Spires That in the Sunset Rise - This Is Fire (2006)
 </li>
 <li data-cover="https://img.discogs.com/8RlLJQA1SUSgeFrVmZkPqio_c7I=/fit-in/471x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-838769-1164028368.jpeg.jpg" data-tags="experimental" role="button">
 Metallic Falcons - Desert Doughnuts (2006-06-06)
@@ -189,20 +192,17 @@ Spires That in the Sunset Rise - Curse the Traced Bird (2008)
 <li data-cover="https://img.discogs.com/tZ5kqavXzh06R56V_1lm3nUzYKU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1233113-1286730899.jpeg.jpg" data-tags="ambient, psychedelic, psychedelic folk, feel the noize, musica drogadicta, brujeria, nocturno, diletancia" role="button">
 Religious Knives - It's After Dark (2008)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, compra mi disco" role="button">
-Woods Family Creeps - Woods Family Creeps (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/54f64e7e-b8a9-4b53-86ef-8979d4a5b7c4/25131017315-500.jpg" data-tags="finnish" role="button">
-Paavoharju - Laulu laakson kukista (2008-05-14)
-</li>
-<li data-cover="https://img.discogs.com/qiU8v6VtsgRV3rwhiYnULPTadzY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774570-1242497752.jpeg.jpg" data-tags="folk, lo-fi, freak folk, psychedelic folk, psych folk, landmarks, experimental folk, drone folk" role="button">
-Alexander Tucker - Portal (2008-06-09)
+<li data-cover="https://img.discogs.com/Zv9Y2r-1Tnk4UBKmrphLqJIU4RA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256704-1204218099.jpeg.jpg" data-tags="folk, drone, psychedelic folk" role="button">
+Natural Snow Buildings - Laurie Bird (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e18cac-ac05-4417-bd21-e2060b817ce9/14755753554-500.jpg" data-tags="ambient" role="button">
 Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk, increible josephine, el mejor disco de josephine, josephine celestial, let the grieving be grand" role="button">
 Josephine Foster - This Coming Gladness (2008-07-04)
+</li>
+<li data-cover="https://img.discogs.com/M7Y5WsbNVGJ4h5u-uhjpo14pF_4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476547-1222554106.jpeg.jpg" data-tags="noise, drone, psychedelic folk, road to absolute, my brain is dead" role="button">
+Natural Snow Buildings - Night Coercion Into the Company of Witches (2008-08)
 </li>
 <li data-cover="https://img.discogs.com/Y5JV9Jwnr7BGofsnIa58tdfBx4c=/fit-in/549x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500851-1224399405.jpeg.jpg" data-tags="singer-songwriter, psychedelic folk" role="button">
 Castanets - City of Refuge (2008-08-07)
@@ -228,6 +228,9 @@ Vetiver - Tight Knit (2009-02-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic folk" role="button">
 TwinSisterMoon - The Hollow Mountain (2009-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/b354a803-47da-3d7b-aaf5-c5af3bbc8658/15364860499-500.jpg" data-tags="psychedelic folk, melancholism" role="button">
+Elfin Saddle - Ringing For The Begin Again (2009-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
@@ -239,9 +242,6 @@ Natural Snow Buildings - Shadow Kingdom (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
 Dead Man's Bones - Dead Man's Bones (2009-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
@@ -315,8 +315,8 @@ Angel Olsen - Burn Your Fire for No Witness (2014-02-18)
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca176b97-d9c5-451d-b46f-c4c8c12739f0/7246010986-500.jpg" data-tags="indie, folk, psychedelic, psychedelic rock, psychedelic folk, 10s, chimera music, neo-psych, sun and moon and stars and outer space" role="button">
-The Ghost of a Saber Tooth Tiger - Midnight Sun (2014-04-28)
+<li data-cover="http://coverartarchive.org/release/2aa0544a-1c23-4917-92ff-357bf98c05c4/10097266410-500.jpg" data-tags="folk" role="button">
+Vashti Bunyan - Heartleap (2014-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:37:01.402Z
+date: 2021-04-12T13:49:24.100Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")

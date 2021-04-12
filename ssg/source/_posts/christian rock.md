@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:58:07.177Z
+date: 2021-04-12T13:51:01.503Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -87,9 +87,6 @@ Skillet - Collide (2003-11-18)
 <li data-cover="http://coverartarchive.org/release/cb1853ee-65ca-3bd9-8d9e-790fac70dc28/11401878573-500.jpg" data-tags="christian" role="button">
 Delirious? - World Service (2003-12-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a287d6a-5402-4c13-b940-cf4e30b57b49/9311722591-500.jpg" data-tags="christian rock, worship" role="button">
 Jeremy Camp - Carried Me: The Worship Project (2004-02-10)
 </li>
@@ -170,6 +167,9 @@ Decyfer Down - End of Grey (2006-06-06)
 </li>
 <li data-cover="https://img.discogs.com/Xxy0yj6KswjbbC2jaOkO0VwFOns=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4133493-1356444424-8753.jpeg.jpg" data-tags="indie, rock, acoustic, christian, christian rock, songs i love, 2000s, available on emusic, 2006 albums, after z" role="button">
 Sleeping at Last - Keep No Score (2006-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/acee6d44-d395-498d-bb51-f8eea6bc3f0c/25401858495-500.jpg" data-tags="modern worship, contemporary christian, enchanting" role="button">
+Leeland - Sound Of Melodies (2006-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Skillet - Comatose (2006-10-03)

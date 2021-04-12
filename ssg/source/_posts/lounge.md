@@ -1,11 +1,10 @@
 ---
-date: 2021-04-12T06:05:01.488Z
+date: 2021-04-12T13:46:06.929Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">Stereolab - Dots and Loops (1997-09-22)</li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/505f0ee9-6113-46aa-b44e-fbae0bcff839/13276098607-500.jpg" data-tags="downtempo" role="button">Tosca - Suzuki (2000-03-06)</li>
 <li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">Thievery Corporation - The Mirror Conspiracy (2000-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
@@ -14,6 +13,7 @@ title: "lounge: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">Thievery Corporation - The Richest Man in Babylon (2002-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">Thievery Corporation - The Cosmic Game (2005-02-22)</li>
+<li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,17 +33,11 @@ Mort Garson - Mother Earth's Plantasia (1976)
 <li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">
 Moondog - H'art Songs (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/42bac6d4-d3bb-4e6f-986b-4eae900c2558/1762408082-500.jpg" data-tags="bossa nova" role="button">
-Antena - Camino Del Sol (1982)
-</li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
-</li>
-<li data-cover="https://img.discogs.com/3Ip2WpTvqgKioWh8kLgmTkD-11w=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202129-1358508446-4720.jpeg.jpg" data-tags="pop" role="button">
-The Cardigans - Life (1995-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4986347-5abc-48d5-a556-7011c2f109bb/3215852035-500.jpg" data-tags="jazz, soul, lounge, 90s" role="button">
 Incognito - 100° and Rising (1995-06-02)
@@ -54,14 +48,17 @@ Rockers Hi-Fi - Mish Mash (1996)
 <li data-cover="http://coverartarchive.org/release/b79edcef-bc1a-471f-9468-d050459c4d3a/15273239285-500.jpg" data-tags="hip hop" role="button">
 Lord Finesse - The Awakening (1996-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/e69dbabd-5a61-4147-914b-7e683f096cbc/15210098631-500.jpg" data-tags="soul" role="button">
+Maxwell - Maxwell's Urban Hang Suite (1996-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
-Air - Moon Safari (1998-01-16)
+<li data-cover="https://img.discogs.com/mN0237I9I4FjSdrw0DtCWt3UHlA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11829-1460318611-4612.jpeg.jpg" data-tags="downtempo, trip-hop, chillout" role="button">
+Waldeck - Balance Of The Force (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0709c446-e190-4dce-b469-908e51267770/4058092546-500.jpg" data-tags="electronica, idm, boards of canada, electronic, downtempo" role="button">
 Boards of Canada - Peel Session (1998-06-16)
@@ -86,6 +83,9 @@ The Cinematic Orchestra - Motion (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
 Peace Orchestra - Peace Orchestra (1999-09-01)
+</li>
+<li data-cover="https://img.discogs.com/Cv61f3dZ1ZmlWdIJcoiaV042i94=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38416-1334406772.jpeg.jpg" data-tags="hip-hop" role="button">
+Handsome Boy Modeling School - So..Hows Your Girl (1999-10-18)
 </li>
 <li data-cover="https://img.discogs.com/aXOvlvSwksc_Va7qe_P5NtxadW4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493126-1223829030.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Programmed to Love (2000)
@@ -129,9 +129,6 @@ Röyksopp - Eple (2001-07-23)
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
-Dilated Peoples - Expansion Team (2001-10-11)
-</li>
 <li data-cover="https://img.discogs.com/s9-E6pL93KLJxAsspg-lsJtAgMg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-255719-1222292123.jpeg.jpg" data-tags="tango, lounge" role="button">
 Bajofondo - Bajofondo Tango Club (2002)
 </li>
@@ -147,6 +144,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 <li data-cover="https://img.discogs.com/1hAMKBj0GpScDbDgbwAdCeAaFv8=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330996-1118257022.jpg.jpg" data-tags="jazz" role="button">
 Ive Mendes - Ive Mendes (2002-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/f5c6690c-3437-3d26-927f-77120685c95e/8094228642-500.jpg" data-tags="house, lounge, chillout" role="button">
+Dimitri from Paris - Cruising Attitude (2003-03-21)
+</li>
 <li data-cover="https://img.discogs.com/4LPjfORpEih62DDaqhIdoluwwx0=/fit-in/232x197/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138540-001.gif.jpg" data-tags="jazz, lounge, funky jazz, 2 s34rch, jazz mellow evening" role="button">
 Jazztronik - Set Free (2003-04-02)
 </li>
@@ -158,9 +158,6 @@ Ralph Myerz And The Jack Herren Band - A Special Album (2003-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5ffb312-1218-4ad8-a095-01026512431d/1844895065-500.jpg" data-tags="electronic, electronica, ambient, downtempo, röyksopp" role="button">
 Röyksopp - Sparks (2003-06-16)
-</li>
-<li data-cover="https://img.discogs.com/fQb5vuO2tcZhf1PQ1uGFkXURX1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167922-1221692802.jpeg.jpg" data-tags="chillout" role="button">
-Plej - Electronic Music From The Swedish Leftcoast (2003-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/561ef915-9383-40ec-9baf-f9c55d1ddf72/24765160123-500.jpg" data-tags="electronic" role="button">
 I Monster - Neveroddoreven (2003-07-21)
@@ -234,9 +231,6 @@ Gotan Project - Lunatico (2006-04-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
 </li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e952f92c-9d77-4dba-8187-83be712ac776/3430239423-500.jpg" data-tags="christmas, lounge, parody" role="button">
 Richard Cheese - Silent Nightclub (2006-09-26)
 </li>
@@ -267,6 +261,9 @@ Rekevin - A Peacock (2008)
 <li data-cover="http://coverartarchive.org/release/f812b99e-5270-4da6-ade5-aac95b34801d/4437250776-500.jpg" data-tags="chillout, chillout and- easy listening" role="button">
 Gary B - Step into the sunshine (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/1be523ba-aa7d-4695-92f2-38bfc869c414/1262154861-500.jpg" data-tags="electronic, lounge" role="button">
+Mackintosh Braun - The Sound (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/91888e52-00b0-450a-82ee-68504e87605e/4931861488-500.jpg" data-tags="chillout, lounge, south african" role="button">
 Goldfish - Perceptions Of Pacha (2008-03-01)
 </li>
@@ -296,6 +293,9 @@ SunSay - Дайвер (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/28f465dd-df5b-4eac-905b-4d0fb879dfe8/11172101965-500.jpg" data-tags="chillout, lounge" role="button">
 Sunlounger - The Downtempo Edition (2010-01-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/a84b882c-f7ba-442f-96b0-57ccc2721dce/4081360239-500.jpg" data-tags="electronic, pop, alternative, female vocalists, downtempo, singer-songwriter, piano, easy listening, adult contemporary, guitar, lounge, mellow, melancholy, merge records, love and its opposite, strange feeling" role="button">
+Tracey Thorn - Love and Its Opposite (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b765373-348b-48f0-8ff7-d38b2946ff30/3682371353-500.jpg" data-tags="chillout, pop, dance, house, lounge, ethereal, euphoric, deep house, vocal house, hypnotizing" role="button">
 Samantha James - Subconscious (2010-06-08)

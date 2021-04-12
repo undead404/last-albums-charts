@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:35:01.410Z
+date: 2021-04-12T13:50:01.664Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -13,7 +13,7 @@ title: "emocore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">blessthefall - His Last Walk (2007-04-10)</li>
 <li data-cover="https://img.discogs.com/1PvyKtZ-ooTwaD0TkN-cxj5VoGE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650727-1533415894-4992.jpeg.jpg" data-tags="post-hardcore, screamo" role="button">Eyes Set to Kill - Reach (2008-02-19)</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">Pierce The Veil - Selfish Machines (2010-06-21)</li>
+<li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">Alesana - The Emptiness (2010-01-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
+BoySetsFire - After the Eulogy (2000-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
@@ -44,6 +47,9 @@ Alexisonfire - Alexisonfire (2002-10-29)
 </li>
 <li data-cover="https://img.discogs.com/pm-60Tvy_j9gK6y5tjizOkt2Jm4=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121453-1401953708-5066.jpeg.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - A Snow Capped Romance (2003)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="emocore, o gelo" role="button">
+Fresno - Quarto dos Livros (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/78cc5193-6c12-4289-ae89-c0269c482b6a/3784011325-500.jpg" data-tags="emocore, post-hardcore" role="button">
 A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
@@ -74,9 +80,6 @@ Funeral for a Friend - Seven Ways to Scream Your Name (2003-10-21)
 </li>
 <li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
 Dead Poetic - New Medicines (2004-03-25)
@@ -170,6 +173,9 @@ From First to Last - Heroine (2006-03-20)
 </li>
 <li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
+Thursday - A City By The Light Divided (2006-05-02)
 </li>
 <li data-cover="https://img.discogs.com/A60KFnwDmdd6gD9592hAgjboZGU=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2886358-1305706040.jpeg.jpg" data-tags="post-hardcore" role="button">
 Drop Dead, Gorgeous - In Vogue (2006-05-02)
@@ -285,9 +291,6 @@ Silverstein - A Shipwreck in the Sand (2009-03-31)
 <li data-cover="https://img.discogs.com/XzaWfi-BngGAQzQ73P3mjOdzc7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692720-1302358066.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 A Skylit Drive - Adelphia (2009-06-09)
 </li>
-<li data-cover="https://img.discogs.com/BYBJ6iEdWB2JSVsX9r_FT61J2xY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3109771-1316236083.jpeg.jpg" data-tags="post-hardcore" role="button">
-Saosin - In Search Of Solid Ground (2009-09-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -299,9 +302,6 @@ blessthefall - Witness (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
 Alesana - The Emptiness (2010-01-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/67eec991-c21c-452b-b4c9-49f7df5699ba/15585755840-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 The Word Alive - Deceiver (2010-08-31)

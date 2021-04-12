@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:40:01.430Z
+date: 2021-04-12T13:52:01.512Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -74,6 +74,9 @@ Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
+</li>
+<li data-cover="https://img.discogs.com/75AWFTaFL7c50jjCElMLgOIWPdM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2655861-1562262287-2726.jpeg.jpg" data-tags="singer-songwriter, acoustic, rainy day, purchased 09, colin hay" role="button">
+Colin Hay - Going Somewhere (2000-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
@@ -302,9 +305,6 @@ Tom Odell - Songs from Another Love (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c66e5f4-b6d6-4c21-85c5-442efa031936/7109966435-500.jpg" data-tags="acoustic" role="button">
-Vance Joy - God Loves You When You're Dancing (2013-03-22)
 </li>
 <li data-cover="https://img.discogs.com/LBHew7ocBw-8ugF7GKPnY1eqpK0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4757364-1374548829-9967.jpeg.jpg" data-tags="folk, acoustic" role="button">
 City and Colour - The Hurry And The Harm (2013-06-04)
