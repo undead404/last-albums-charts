@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:30:01.449Z
+date: 2021-04-12T10:44:01.453Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -288,6 +288,9 @@ Bun B - II Trill (2008-05-20)
 <li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
 Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
+<li data-cover="https://img.discogs.com/NJUrr8itySV_BW2Lvo9WvpWrCTU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14794570-1581737726-6747.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+Yo Gotti - CM2 (Clean) (2009-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d177fc8-9be5-4682-86b6-b11257d71325/4406825400-500.jpg" data-tags="gangsta rap, 00s, southern hip-hop" role="button">
 Lil Wayne - No Ceilings (2009-10-31)
 </li>
@@ -317,8 +320,5 @@ Killer Mike - R.A.P. Music (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2534ea3-418b-40ef-9130-81ceb210860d/5520097661-500.jpg" data-tags="freddie gibbs" role="button">
 Freddie Gibbs - Baby Face Killa (2012-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dc71c63-6cce-4b86-b65b-22ed0b00c0ab/10030756176-500.jpg" data-tags="gangsta rap, rap" role="button">
-Freddie Gibbs & Madlib - Piñata (2014-03-18)
 </li>
 </ol>

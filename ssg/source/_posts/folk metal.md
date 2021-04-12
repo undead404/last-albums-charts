@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:45:02.542Z
+date: 2021-04-12T10:18:01.637Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -39,6 +39,9 @@ Empyrium - Where at Night the Wood Grouse Plays (1999-05-01)
 <li data-cover="http://coverartarchive.org/release/cc5ec0dd-6892-4e1a-a4e5-ef035b21aa38/18270738627-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - Pale Folklore (1999-07-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/16771a43-ad3d-4df4-9e87-ed11e433065c/1017278405-500.jpg" data-tags="doom metal" role="button">
+Estatic Fear - A Sombre Dance (1999-08-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/43e33729-569e-3500-86bd-b2067f3d163a/21922535473-500.jpg" data-tags="black metal, viking metal" role="button">
 Windir - Arntor (1999-10-11)
 </li>
@@ -65,9 +68,6 @@ Ensiferum - Ensiferum (2001-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432cfa1-5a5f-4b54-9fb8-09bf34559050/19930817036-500.jpg" data-tags="folk metal, power metal" role="button">
 Elvenking - Heathenreel (2001-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a94f7ba-bba7-417f-87ca-ac29e63d6aba/11562848487-500.jpg" data-tags="doom metal, black metal, folk metal" role="button">
-Agalloch - Of Stone, Wind, and Pillor (2001-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca11e9a4-cc91-46e4-99c1-68790f99edec/3104797376-500.jpg" data-tags="post-metal" role="button">
 Neurosis - A Sun That Never Sets (2001-08-07)

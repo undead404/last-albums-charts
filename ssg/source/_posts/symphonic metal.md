@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:39:01.405Z
+date: 2021-04-12T10:05:01.653Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Within Temptation - The Silent Force (2004-11-15)](http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg "Within Temptation - The Silent Force (2004-11-15)")

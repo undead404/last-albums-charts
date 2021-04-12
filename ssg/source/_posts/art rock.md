@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:32:01.402Z
+date: 2021-04-12T10:22:02.202Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -30,8 +30,8 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 <li data-cover="https://img.discogs.com/2XB2Zi6X6y9GAL_b399rTFYIta4=/fit-in/600x738/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744584-1494946548-1401.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
-<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
-John Cale - Vintage Violence (1970)
+<li data-cover="http://coverartarchive.org/release/cd2775c7-db94-3e28-8a89-668ff08912c9/9803471540-500.jpg" data-tags="experimental, avant-garde" role="button">
+Captain Beefheart & His Magic Band - Trout Mask Replica (1969-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3645588f-cdcf-4746-97ac-da059d332010/4529718708-500.jpg" data-tags="70s, classic rock" role="button">
 The Velvet Underground - Loaded (1970-09)
@@ -56,9 +56,6 @@ Roxy Music - For Your Pleasure (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/9636a80a-a835-31ae-835b-09fd8d327bee/16683989658-500.jpg" data-tags="progressive rock" role="button">
 King Crimson - Larks' Tongues in Aspic (1973-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
-Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e443dc7-20c5-4eb4-9b4d-da1c9990cf12/28324691679-500.jpg" data-tags="70s" role="button">
 Roxy Music - Stranded (1973-11-01)
@@ -93,11 +90,8 @@ Iggy Pop - The Idiot (1977-03-18)
 <li data-cover="https://img.discogs.com/D2RQsNF6Xy4pLu5F_T1HU31r7AY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2844673-1303658387.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Kansas - Point of Know Return (1977-10-11)
 </li>
-<li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
-Kate Bush - The Kick Inside (1978-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/534be3cd-3c61-3884-a163-7db874fb3245/17091003030-500.jpg" data-tags="70s, female vocalists, art rock" role="button">
-Kate Bush - Lionheart (1978-11-13)
+<li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
+Queen - Jazz (1978-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
@@ -119,6 +113,9 @@ Roxy Music - Avalon (1982-06)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2af3c5e-fb92-484f-851f-d26b27770d8b/15137212906-500.jpg" data-tags="classic rock, rock" role="button">
+The Velvet Underground - VU (1984)
 </li>
 <li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
 David Sylvian - Secrets Of The Beehive (1987)
@@ -182,6 +179,9 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
+</li>
+<li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">
+The Sea and Cake - One Bedroom (2003-01-21)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)

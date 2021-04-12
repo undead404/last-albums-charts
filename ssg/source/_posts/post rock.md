@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T04:17:01.412Z
+date: 2021-04-12T10:43:13.123Z
 title: "post rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c80b25e2-eda0-4e70-ad09-5d6ddb1833c9/16155758945-500.jpg" data-tags="indie rock, indie, post-rock, bossy cow, kittycow" role="button">
-The Sea and Cake - The Sea and Cake (1994-10-20)
+<li data-cover="http://coverartarchive.org/release/19d89c34-6a91-4e7a-8d8a-499159e781cf/4483481718-500.jpg" data-tags="post-rock" role="button">
+Tortoise - Millions Now Living Will Never Die (1996-01-30)
 </li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
@@ -36,6 +36,9 @@ Mogwai - Young Team (1997-10-21)
 <li data-cover="http://coverartarchive.org/release/db2b85d1-912d-3965-bd5e-7c9dc18e2af1/22029271309-500.jpg" data-tags="post-rock" role="button">
 Tortoise - TNT (1998-03-09)
 </li>
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
+Sonic Youth - A Thousand Leaves (1998-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/745cec89-d876-4e34-9b26-281d6a8d7cac/1667179400-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - Slow Riot for New Zero Kanada (1999-03-08)
 </li>
@@ -48,11 +51,11 @@ Sigur Rós - ágætis byrjun (1999-06)
 <li data-cover="http://coverartarchive.org/release/3cf540c3-fed6-3e22-9b9c-404927874050/2835781208-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - How Strange, Innocence (2000-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ada966-ad97-3806-8e11-78a4c8c4c19c/19444477382-500.jpg" data-tags="post-rock" role="button">
-Do Make Say Think - Goodbye Enemy Airship The Landlord Is Dead (2000-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/969d2fc9-ef14-4cf4-9917-5a414fc3ad7d/16110285595-500.jpg" data-tags="math rock" role="button">
 Don Caballero - American Don (2000-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/6019dd2a-43ce-4f3c-9206-0f6e6e867dbc/9526726936-500.jpg" data-tags="post-rock" role="button">
+Mono - Under the Pipal Tree (2001-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5119f58-fd32-3144-9eef-a03708ae3047/8213250772-500.jpg" data-tags="post-rock" role="button">
 Tortoise - Standards (2001-02-19)
@@ -87,17 +90,11 @@ Godspeed You! Black Emperor - Tiny Silver Hammers (2003)
 <li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">
 The Sea and Cake - One Bedroom (2003-01-21)
 </li>
-<li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
-Gregor Samsa - 27:36 (2003-03-18)
-</li>
 <li data-cover="https://img.discogs.com/cPOAGSV5Ub7EhGwDZKsrFmxKs00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711857-1362859603-3556.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b82ec0ff-d0d7-3af1-ac8c-78440e5f1c62/19956977765-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Happy Songs for Happy People (2003-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/78e74e38-2d46-43ee-9efe-51d14a03034f/25457879078-500.jpg" data-tags="indie, experimental, post rock" role="button">
-Menomena - I Am the Fun Blame Monster! (2003-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba7a9700-75e9-43cd-aa38-ba9ccf8f49e6/17569514067-500.jpg" data-tags="post-rock, post rock" role="button">
 Polmo Polpo - Like Hearts Swelling (2003-09-22)
@@ -132,20 +129,17 @@ Efterklang - Tripper (2004-10-25)
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
 Yndi Halda - Enjoy Eternal Bliss (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/537256d4-699e-4425-bbab-0df2d3a03a8b/1096559141-500.jpg" data-tags="post-rock" role="button">
-Joy Wants Eternity - Must You Smash Your Ears Before You Learn To Listen With Your Eyes (2005)
-</li>
 <li data-cover="https://img.discogs.com/hTywSIGX36GrVMcBP_DkZUS9sJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269964-1235539919.jpeg.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Young Mountain (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+The Evpatoria Report - Golevka (2005-04-07)
+</li>
 <li data-cover="https://img.discogs.com/KyoJe8kQNtFQ5VlfYfxVOoqb5sY=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1286171-1227228285.jpeg.jpg" data-tags="post rock" role="button">
 Pelican - March Into the Sea (2005-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cd525bf-3c07-40a5-99b1-c05feaeb7baf/9420481216-500.jpg" data-tags="instrumental, post-rock" role="button">
-EF - Give Me Beauty... Or Give Me Death (2005-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
@@ -177,6 +171,9 @@ Cult of Luna - Somewhere Along The Highway (2006-04-24)
 <li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Enter (2006-05-16)
 </li>
+<li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
+Envy - Insomniac Doze (2006-05-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
 </li>
@@ -186,17 +183,11 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="https://img.discogs.com/puejkqh-SaEpKYN6cldpw3JRDCY=/fit-in/426x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011062-1194177277.jpeg.jpg" data-tags="ambient, post-rock, progressive, ethereal, post rock, lsd, manjoh, de:bug album reviews 2007, try this, toad-tested mother-approved" role="button">
 APSE - Spirit (2006-10-24)
 </li>
-<li data-cover="https://img.discogs.com/WPRCzLPSuyfzZ56xqCOkw03Jkdc=/fit-in/300x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-833908-1163511909.jpeg.jpg" data-tags="icelandic, instrumental, post rock" role="button">
-Amiina - Seoul (2006-11-07)
-</li>
 <li data-cover="https://img.discogs.com/jJKX7Cuv1j-FsqgR9dZLg0msYe4=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145657-1385738264-4753.jpeg.jpg" data-tags="electronic, jazz, japanese, instrumental, math rock, emo, experimental, fusion, japan, post rock, play this at my funeral, noodly, dem drums" role="button">
 toe - New Sentimentality (2006-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/41edeb3e-bb68-3ddc-87a8-c7ed8964e730/2155282117-500.jpg" data-tags="post-rock" role="button">
 Do Make Say Think - You, You're A History In Rust (2007-02-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/ccefc9af-1767-4fe2-80c9-3a8cfb33a2b3/4793919911-500.jpg" data-tags="post-rock" role="button">
-God Is An Astronaut - Far From Refuge (2007-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2117afca-c69d-3225-bd8c-ac469ef043cd/14990944529-500.jpg" data-tags="post-rock" role="button">
 Caspian - The Four Trees (2007-04-10)
@@ -212,9 +203,6 @@ As Cities Burn - Come Now Sleep (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f1cbec4-bc36-481c-ac27-29b1abfbc00f/17626614858-500.jpg" data-tags="post rock" role="button">
 Leech - The Stolen View (2007-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/723f350c-024c-4b39-a085-cc23a8612817/9420473522-500.jpg" data-tags="post-rock" role="button">
-EF - I Am Responsible (2008-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)
@@ -249,6 +237,9 @@ Bell Orchestre - As Seen Through Windows (2009-03-10)
 <li data-cover="http://coverartarchive.org/release/cf381502-2c8d-46df-99d0-f2614549738b/3377039384-500.jpg" data-tags="post-rock" role="button">
 Long Distance Calling - Avoid The Light (2009-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/36680ad6-a047-423a-b06b-d6723a3dc56f/12651455221-500.jpg" data-tags="alternative rock, post-hardcore, j-rock" role="button">
+凛として時雨 - just A moment (2009-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
 Message To Bears - Departures (2009-07-07)
 </li>
@@ -281,6 +272,15 @@ The Jezabels - Prisoner (2011-09-16)
 </li>
 <li data-cover="https://img.discogs.com/GozW49NBtRGHP72sChmrFA69m7M=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309857-1170001126.jpeg.jpg" data-tags="electronic, ambient" role="button">
 Apparat - The Devil's Walk (2011-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/14a57c0d-b063-489b-bd42-8cb2c261c0e8/13555883183-500.jpg" data-tags="progressive metal, post-metal, post-rock" role="button">
+Sólstafir - Svartir Sandar (2011-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c9c2ef1-0250-4d91-ac60-ab4c702180d2/6755910409-500.jpg" data-tags="dream pop" role="button">
+Blouse - Blouse (2011-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/61a8e6d6-4184-41e5-8e1d-aabb687e6301/4653619898-500.jpg" data-tags="british, post rock, mortal, lull in the rain storm, downtempo trip-hop chillout instrumental" role="button">
+No Clear Mind - Dream Is Destiny (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/19209a58-2ed9-4c4b-ac2e-c65756c12c1d/1568254179-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Sleep Alone (2012-07-20)

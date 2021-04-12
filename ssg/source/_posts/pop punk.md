@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:23:01.506Z
+date: 2021-04-12T10:29:01.548Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -98,6 +98,9 @@ The Ataris - So Long, Astoria (2003-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d09eb97a-d4d9-4aec-ac81-524f4ee1c09d/6140037439-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - Good Mourning (2003-05-12)
 </li>
 <li data-cover="https://img.discogs.com/cyDizY5ucEG5WjqBINdaFgJXRQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692454-1296784825.jpeg.jpg" data-tags="ska punk, pop punk" role="button">
 Less Than Jake - Anthem (2003-05-19)
@@ -299,9 +302,6 @@ Simple Plan - Get Your Heart On! (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/46721ca0-b386-437a-a8ff-06e83e3e1cf1/6756951839-500.jpg" data-tags="pop punk" role="button">
 The Story So Far - Under Soil and Dirt (2011-06-21)
-</li>
-<li data-cover="https://img.discogs.com/6oQZJ5i4AkkH4mrUqTmXARCI4dc=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5477494-1433092206-4542.jpeg.jpg" data-tags="pop punk" role="button">
-New Found Glory - Radiosurgery (2011-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)

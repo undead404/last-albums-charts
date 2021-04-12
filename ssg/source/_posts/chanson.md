@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:08:01.561Z
+date: 2021-04-12T10:19:01.595Z
 title: "chanson: 100 albums you must listen to before you die"
 ---
 ![Zaz - Zaz (2010-05-10)](http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg "Zaz - Zaz (2010-05-10)")
@@ -30,29 +30,32 @@ Jacques Brel - Marieke (1961)
 <li data-cover="https://img.discogs.com/rH34ssZPsumGBEO2d_F0xAn1wmw=/fit-in/170x168/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5810727-1403352580-5129.jpeg.jpg" data-tags="chanson, chanson française, georges brassens, rive gauche, brassens metal" role="button">
 Georges Brassens - Chanson pour l'auvergnat (1965)
 </li>
+<li data-cover="https://img.discogs.com/6jervz-6OOpoTtsb80o2xOd55oM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17038674-1611270674-1560.jpeg.jpg" data-tags="chanson, singer-songwriter" role="button">
+Georges Brassens - Les Trompettes de la renommée (1965)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc47ee20-d80c-44b2-a7a2-be977d5ffee1/20376528344-500.jpg" data-tags="chanson, chanson française, jacques brel, brel, gammarec, freepurp1e, rive gauche, l3a1e5da4n15l1" role="button">
 Jacques Brel - Jacques Brel 67 (1967)
 </li>
 <li data-cover="https://img.discogs.com/SP5RppUPQU21e890UgovbLzriw8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735579-1456699455-5992.jpeg.jpg" data-tags="jacques brel" role="button">
 Jacques Brel - J'Arrive (1968-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/2af2f284-5b92-3b93-91f4-0e2b4335652e/5573148939-500.jpg" data-tags="french, chamber jazz" role="button">
-Brigitte Fontaine - Comme à la Radio (1969-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/643bfebc-1dbd-4180-a135-efc056ea00a8/9198835955-500.jpg" data-tags="french" role="button">
-Michel Polnareff - Polnareff's (1971)
+<li data-cover="http://coverartarchive.org/release/70c4d33d-ba91-40ef-8f91-0b514525655f/3808800895-500.jpg" data-tags="chanson, 70s, chanson française, anarchiste, electrophone, free palestine, la solitude, la paix des chiens, metamec" role="button">
+Léo Ferré - La solitude (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/f788e429-643c-48e1-8b3a-c0ccd2953008/6691380021-500.jpg" data-tags="chanson, jazz, soul, female vocalists, oldies, dirty dancing, favorite female singers, discovered in 2015, dame shirley bassey" role="button">
 Shirley Bassey - And I Love You So (1972)
 </li>
-<li data-cover="http://coverartarchive.org/release/89560708-7cf5-4571-8b98-07434256c8db/10468323328-500.jpg" data-tags="progressive rock, psychedelic rock" role="button">
-Kevin Ayers - Whatevershebringswesing (1972-01)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chanson, la la la la, actrices, birkin" role="button">
 Jane Birkin - Di Doo Dah (1973-02)
 </li>
+<li data-cover="https://img.discogs.com/EIJMRBVTwdiYEZKT8-4TWx9zCYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2194221-1286710291.jpeg.jpg" data-tags="chanson" role="button">
+Bernard Lavilliers - Le Stéphanois (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/57ec09a4-4e5c-3669-a8f2-14298857f736/2842971962-500.jpg" data-tags="chanson" role="button">
 Renaud - Amoureux De Paname (1975-04-03)
+</li>
+<li data-cover="https://img.discogs.com/raRF4sP6jp8TmhQm700zS41snIw=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11156092-1510919322-1762.jpeg.jpg" data-tags="chanson, actrices, birkin" role="button">
+Jane Birkin - Lolita Go Home (1975-09)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="french, chanson, 70s, oldies, male vocalists, mes chansons, auteur-compositeur-interprete" role="button">
 Yves Duteil - Prendre un Enfant (1977)
@@ -84,9 +87,6 @@ Thomas Fersen - le bal des oiseaux (1993)
 <li data-cover="http://coverartarchive.org/release/09f42d29-00db-4383-ae25-887d359a69de/13141411398-500.jpg" data-tags="german" role="button">
 Element of Crime - Weißes Papier (1993-01-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/653dace1-86ca-4604-80e5-421ec0691fb8/21668460133-500.jpg" data-tags="german" role="button">
-Element of Crime - An Einem Sonntag Im April (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/cc0902f6-0460-4399-8998-dc49640c4b08/14392023169-500.jpg" data-tags="chanson, joe dassin, dassin" role="button">
 Joe Dassin - Et si tu n'existais pas (1995)
 </li>
@@ -107,6 +107,9 @@ Mathieu Boogaerts - Super (1996-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f8276dd-108b-44de-b352-663ef1e43f80/1157715142-500.jpg" data-tags="french, chanson, compadres recerdos, la calle visajosa" role="button">
 Renaud - Renaud chante Brassens (1996-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/64291360-153a-4d1d-8d6b-12e25f10ae22/14851466466-500.jpg" data-tags="chanson française, jacques brel" role="button">
+Jacques Brel - Quand On N'a Que L'Amour (1996-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e705c9-7d68-49bd-b72e-4bada7f42e9a/13178737648-500.jpg" data-tags="russian rock" role="button">
 Любэ - Песни о людях (1997)
@@ -134,9 +137,6 @@ Jean-Louis Murat - Mustango (1999)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chanson, atmospheric black metal, raw black metal, avant-garde black metal, true black metal, orthodox black metal, black shanson" role="button">
 Михаил Круг - Владимирский централ (1999)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="easy listening, oldies" role="button">
-Judy Collins - Live At Wolf Trap (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/693e36c1-e706-43c7-8e86-5a1115e2ef69/15971215785-500.jpg" data-tags="french, chanson, canadian, traditionnel" role="button">
 Mes souliers sont rouges - Proches (2000)
@@ -177,6 +177,9 @@ Angélique Kidjo - Black Ivory Soul (2002-04-08)
 <li data-cover="http://coverartarchive.org/release/cb150add-fee7-4dc6-a725-030fe6e93ae4/1512679712-500.jpg" data-tags="rock" role="button">
 Kyo - Le Chemin (2002-11)
 </li>
+<li data-cover="https://img.discogs.com/usaTNx_DU25qL0vvWM4M51m2GwU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2581613-1540098465-5264.jpeg.jpg" data-tags="chanson, piaf" role="button">
+Édith Piaf - La Rue aux chansons (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6b3c81d-ada9-4283-81d9-a8c49f5a9b40/1663793499-500.jpg" data-tags="french, chanson, folk" role="button">
 Les Ogres de Barback - la pittoresque histoire de Pitt Ocha (2003-04-12)
 </li>
@@ -213,6 +216,9 @@ Thomas Fersen - La Cigale des grands jours (2004-08)
 <li data-cover="http://coverartarchive.org/release/0100297b-a4ed-4f55-9df2-3d7b6eb252b4/6331358259-500.jpg" data-tags="chanson, selection france" role="button">
 Aldebert - L'année du singe (2004-10-18)
 </li>
+<li data-cover="https://img.discogs.com/xOHqBHNID-1O5p_YV9qNs1EpPTo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2386644-1281023997.jpeg.jpg" data-tags="french" role="button">
+In-Grid - La Vie En Rose (2004-10-19)
+</li>
 <li data-cover="https://img.discogs.com/jz0cMkSUyRRsVV2szdP4oiG9y44=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8826647-1469599034-9160.jpeg.jpg" data-tags="chanson, pop" role="button">
 Annett Louisan - Bohème (2004-10-25)
 </li>
@@ -248,9 +254,6 @@ Michael Cashmore - The Snow Abides (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc4d4a96-ce43-4943-b842-fa2fd8f056eb/3296666852-500.jpg" data-tags="french" role="button">
 Dionysos - Monsters In Love (2007-01-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d51c73e8-c49d-4154-bd71-495de7a70c3b/2264368297-500.jpg" data-tags="indie rock, female vocalists" role="button">
-Shannon Wright - Let In The Light (2007-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e1253ab-23c4-4600-bd9c-b81818d9f895/3261892949-500.jpg" data-tags="chanson, bazbaz" role="button">
 Bazbaz - Le bonheur fantôme (2007-05-21)
@@ -294,9 +297,6 @@ Camille - Ilo Veyou (2011-10-14)
 <li data-cover="https://img.discogs.com/4ikvBTEsUjS6LpDjvcmnU6s74OQ=/fit-in/444x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3255078-1322563927.jpeg.jpg" data-tags="avantgarde pop, clinically romantic" role="button">
 Mansfield.TYA - NYX (2011-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/251dbd10-487f-48da-87e6-585324726cd5/1314358932-500.jpg" data-tags="hip-hop, french, chanson, remix, samples, abstract hip hop, sampling, hip-hop samples, yey, remi, gypschanshop, chanson sample" role="button">
-ProleteR - Curses from past times (2011-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/7bd60e4e-d5db-48c2-8913-b0362af521ae/3045677086-500.jpg" data-tags="indie, chanson, pop, indie pop, brussel, nouvelle scène française" role="button">
 Françoiz Breut - La Chirurgie des Sentiments (2012-09-24)
 </li>
@@ -306,14 +306,14 @@ Anna Depenbusch - Sommer aus Papier (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/06f0a6c1-2f4d-4989-9dab-37ec9c77335c/5788985602-500.jpg" data-tags="chanson, pop, easy listening" role="button">
 Jill Barber - Chansons (2013)
 </li>
-<li data-cover="https://img.discogs.com/IgNH1a7DsHSMyltlaEHQZ6h4yGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4418922-1364377361-7850.jpeg.jpg" data-tags="french, pop" role="button">
-Alizée - 5 (2013-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/667ba60d-5972-4a13-8c0c-071a6849a186/6227453720-500.jpg" data-tags="neofolk" role="button">
 Spiritual Front - Open Wounds (2013-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/df9faff1-73c8-4446-a231-81760b634c9d/22396315891-500.jpg" data-tags="french, jazz" role="button">
 Zaz - Recto Verso (2013-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/80e531c0-0a50-4b58-9c81-d4c1d46aafda/12836871070-500.jpg" data-tags="chanson, french pop" role="button">
+Bernard Lavilliers - Baron Samedi (2013-11-25)
 </li>
 <li data-cover="https://img.discogs.com/1vhsdfAhblItuzEcbPYNHSnwXZo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6577369-1422428989-3730.jpeg.jpg" data-tags="german, chanson, pop" role="button">
 Annett Louisan - Zu viel Information (2014-02-14)

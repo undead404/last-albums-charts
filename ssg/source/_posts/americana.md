@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:26:01.420Z
+date: 2021-04-12T10:27:01.748Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
-Townes Van Zandt - Our Mother the Mountain (1969-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c29c50c-6c65-385f-a883-59d952c1b239/4192952574-500.jpg" data-tags="country, americana" role="button">
 Townes Van Zandt - High, Low And In Between (1972)
 </li>
@@ -63,6 +60,9 @@ Bob Dylan - Time Out of Mind (1997-09-26)
 <li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
 Calexico - The Black Light (1998-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/4848f868-0a64-4931-8936-61d192fe6046/27731729036-500.jpg" data-tags="americana" role="button">
+Patty Griffin - Flaming Red (1998-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
 Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
@@ -75,8 +75,8 @@ Silver Jews - American Water (1998-10-20)
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
-<li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
-The Be Good Tanyas - Blue Horse (2000)
+<li data-cover="https://img.discogs.com/ZdsE0cgCppJiVMlRtNV9mqT0BnA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5633934-1489270701-8192.jpeg.jpg" data-tags="country, folk, americana, soft rock, 90s, alt-country, 1999 albums" role="button">
+John Prine - In Spite of Ourselves (1999-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
@@ -105,9 +105,6 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Blacklisted (2002-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
-Ryan Adams - Demolition (2002-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
 </li>
@@ -128,6 +125,9 @@ Gillian Welch - Soul Journey (2003-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, americana, mellow, alt-country, great pop, annymix, csny radio, blueday" role="button">
+Eastmountainsouth - Eastmountainsouth (2003-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
@@ -155,6 +155,9 @@ Marc Broussard - Carencro (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/ryr63Fyk9Sx0bq2PS_CTbI7MPco=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667949-1145600424.jpeg.jpg" data-tags="americana" role="button">
 Neko Case - The Tigers Have Spoken (2004-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/883f16f2-1392-335d-bfb1-4729af737721/13028977817-500.jpg" data-tags="indie" role="button">
+Someone Still Loves You Boris Yeltsin - Broom (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/6903fcb9-4359-49d8-ad31-73a97296b710/8722040709-500.jpg" data-tags="country, americana, alt-country, 00s, purchased 09, desert island discs, m gauthier" role="button">
 Mary Gauthier - Mercy Now (2005)
@@ -198,9 +201,6 @@ My Morning Jacket - Evil Urges (2008-06-09)
 <li data-cover="http://coverartarchive.org/release/0c8398de-11e3-4dd1-ab32-4f2ca7cbccd8/27982063567-500.jpg" data-tags="indie" role="button">
 Dr. Dog - Fate (2008-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/332b04a6-1a19-4d44-94c6-3c03e14f374b/15577515732-500.jpg" data-tags="pop, country, pop rock, americana, singer/songwriter, purchased 09, albums checked" role="button">
-Peter Bradley Adams - Leavetaking (2008-08-05)
-</li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
 </li>
@@ -219,14 +219,14 @@ Alela Diane - To Be Still (2009-02-16)
 <li data-cover="http://coverartarchive.org/release/fa7717be-600c-4473-b743-ea86acd9bb6a/16653916812-500.jpg" data-tags="americana, alt-country, these are deserted island possibilities" role="button">
 Justin Townes Earle - Midnight at the Movies (2009-03-03)
 </li>
-<li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
-The Felice Brothers - Yonder is the Clock (2009-04-07)
-</li>
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/86999218-5d93-4590-80f6-e609ca6ed072/17331772069-500.jpg" data-tags="folk" role="button">
 Bowerbirds - Upper Air (2009-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
+Lucero - 1372 Overton Park (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
 Califone - All My Friends Are Funeral Singers (2009-10-06)

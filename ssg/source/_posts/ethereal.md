@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:37:01.414Z
+date: 2021-04-12T10:13:01.607Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Mazzy Star - So Tonight That I Might See (1993-09-27)](http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg "Mazzy Star - So Tonight That I Might See (1993-09-27)")
@@ -63,9 +63,6 @@ Liquid Mind - Slow World (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/db18ce9e-4bd5-43b7-869f-35e4e83423ab/3460033404-500.jpg" data-tags="world, ethnic, ethereal" role="button">
 Vas - Sunyata (1997-04-08)
 </li>
-<li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
-Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
-</li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
@@ -99,9 +96,6 @@ Amethystium - Odonata (2001-08-14)
 <li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
-Doves - The Last Broadcast (2002-04-29)
-</li>
 <li data-cover="https://img.discogs.com/0zxzdTRtbAXWbKlpiTfKG1f_JRk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2657832-1295294018.jpeg.jpg" data-tags="electronic" role="button">
 Orbital - Work 1989-2002 (2002-06-03)
 </li>
@@ -117,11 +111,17 @@ Era - The Mass (2003-03-18)
 <li data-cover="https://img.discogs.com/XRNMoTkID3Igd_KNFYhMxOhV0ZE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6246860-1414683603-8850.jpeg.jpg" data-tags="ambient" role="button">
 Delerium - Chimera (2003-06-13)
 </li>
+<li data-cover="https://img.discogs.com/PwLxDpKp4ZMyejyXT5CjJ_eDh8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479776-1402230122-1820.jpeg.jpg" data-tags="darkwave, gothic rock" role="button">
+Faith and the Muse - The Burning Season (2003-07-08)
+</li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/60a13ddd-9ea6-4426-b927-cb0e940450d7/5225689875-500.jpg" data-tags="goa" role="button">
 1200 Micrograms - Heroes Of The Imagination (2003-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee6c545b-7cba-41b1-9cf4-d2edb93259d2/3458028973-500.jpg" data-tags="contemporary, portugal, ethereal, interesting, zugfahrmusik, granka, hurina, world collabs, folk - portugal, atahualpa yupanqui, jonasmusik, el payador perseguido" role="button">
+Rodrigo Leão - Cinema (2004)
 </li>
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
@@ -138,6 +138,9 @@ Xiu Xiu - Fabulous Muscles (2004-02-17)
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/67148959-1ccd-3c30-8645-cfb8301b0001/4778416413-500.jpg" data-tags="cardiowave" role="button">
+Flëur - Сияние (2004-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
 Autolux - Future Perfect (2004-10-26)
 </li>
@@ -152,9 +155,6 @@ Flëur - Всё вышло из-под контроля (2006-04)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
-</li>
-<li data-cover="https://img.discogs.com/ZMwbm-BknoRIk7WuCGKjUfmwWuc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720777-1259593095.jpeg.jpg" data-tags="ambient" role="button">
-Sleepthief - The Dawnseeker (2006-06-27)
 </li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
@@ -186,14 +186,14 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="http://coverartarchive.org/release/a8ddacfa-fd14-48b2-b4eb-1c0e73134aae/21327156415-500.jpg" data-tags="psychedelic, drone, ethereal" role="button">
 Pocahaunted - Island Diamonds (2008-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/6cbdd132-ff95-44ed-ba64-8239070527f4/6618403033-500.jpg" data-tags="vocal trance" role="button">
-Oceanlab - Sirens of the Sea (2008-04-07)
+<li data-cover="http://coverartarchive.org/release/8cf43ee9-65c3-407e-863d-cdb7b8bbad39/28864635475-500.jpg" data-tags="tom waits, alternative, cover" role="button">
+Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Amethystium - Isabliss (2008-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
+<li data-cover="https://img.discogs.com/pV82XFnsHpbLL2ML-ZT7lG4c_EU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187441-1327459407.jpeg.jpg" data-tags="ambient" role="button">
+Green Sun - Dream Elements (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/554c9634-b76d-45e7-9682-78e6c56aa221/10893828236-500.jpg" data-tags="post-rock, haunting, ethereal, folk rock, post rock, march, 10th, progarchives100" role="button">
 Bell Orchestre - As Seen Through Windows (2009-03-10)
@@ -252,8 +252,8 @@ Sleep ∞ Over - Forever (2011-09-27)
 <li data-cover="http://coverartarchive.org/release/7c9c2ef1-0250-4d91-ac60-ab4c702180d2/6755910409-500.jpg" data-tags="dream pop" role="button">
 Blouse - Blouse (2011-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e6331df-c4e2-4180-9d6c-183f29708d9e/6917182066-500.jpg" data-tags="dream pop" role="button">
-Grimes - Genesis (2012-01-09)
+<li data-cover="https://img.discogs.com/_8OAxE1gHkt-Fhm2FtNSCku2TUc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3345383-1326697235.jpeg.jpg" data-tags="atmospheric, ethereal, vocal trance, female vocal trance, vocal dance" role="button">
+Emma Hewitt - Colours (2012-01-16)
 </li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
@@ -266,9 +266,6 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
 Frankie Rose - Interstellar (2012-02-21)
-</li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
@@ -297,14 +294,17 @@ These New Puritans - Field of Reeds (2013-06-10)
 <li data-cover="http://coverartarchive.org/release/3a0f5c51-0ee6-412a-9b42-a8268eb52f00/4719617453-500.jpg" data-tags="ambient, choral" role="button">
 Julianna Barwick - Nepenthe (2013-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/15e20bdf-8e87-4760-a3d4-7ef3ba632a7e/5853432244-500.jpg" data-tags="dream pop" role="button">
+Snakadaktal - Sleep In The Water (2013-08-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d1dc16a-a854-4589-b78b-f008af493aac/4871200031-500.jpg" data-tags="art pop, chamber pop" role="button">
 Julia Holter - Loud City Song (2013-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
+<li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
+Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

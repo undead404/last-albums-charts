@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:15:01.865Z
+date: 2021-04-12T10:31:01.468Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
-Townes Van Zandt - Our Mother the Mountain (1969-04)
-</li>
 <li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
@@ -42,11 +39,11 @@ Townes Van Zandt - Rear View Mirror (1993)
 <li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
 Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a15e987-c9c6-44c6-ab39-b89931e0a5d5/27120797067-500.jpg" data-tags="country" role="button">
+Johnny Cash - American Recordings (1994-04-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
-</li>
-<li data-cover="https://img.discogs.com/-AdtvsE-oHdu5agpfmDPGVfemRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682662-1490494434-8100.png.jpg" data-tags="alt-country" role="button">
-Wilco - A.M. (1995-03-28)
 </li>
 <li data-cover="https://img.discogs.com/VACsS8J_F8Mbqk_ExGSZ_fns2vo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986924-1181048050.jpeg.jpg" data-tags="indie rock" role="button">
 Luna - Penthouse (1995-08-08)
@@ -78,9 +75,6 @@ Wilco - Being There (1996-10-29)
 <li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unchained (1996-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f011457-2953-4a80-a00d-cb5a22dfae5d/24132483982-500.jpg" data-tags="alt-country, americana, 90s" role="button">
-Old 97's - Too Far To Care (1997-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
 Calexico - The Black Light (1998-05-18)
 </li>
@@ -93,8 +87,8 @@ Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
-<li data-cover="https://img.discogs.com/_WgrEhWV1UCfoPkNetj_ySc37Ys=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1342578-1615567487-9181.jpeg.jpg" data-tags="folk, americana, alt-country, 00s" role="button">
-The Be Good Tanyas - Blue Horse (2000)
+<li data-cover="https://img.discogs.com/ZdsE0cgCppJiVMlRtNV9mqT0BnA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5633934-1489270701-8192.jpeg.jpg" data-tags="country, folk, americana, soft rock, 90s, alt-country, 1999 albums" role="button">
+John Prine - In Spite of Ourselves (1999-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
@@ -111,9 +105,6 @@ Bright Eyes - Motion Sickness (2001-01-26)
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/6d48892a-7e96-4301-bd59-b93ba8b9bce0/22125618364-500.jpg" data-tags="alt-country" role="button">
-Old 97's - Satellite Rides (2001-03-20)
-</li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
@@ -122,6 +113,9 @@ M. Ward - End of Amnesia (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
 The National - The National (2001-07-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ba845ec4-835a-4c0c-8ff1-178c0a96c173/3020029421-500.jpg" data-tags="alt-country, jay munly" role="button">
+Jay Munly - Jimmy Carter Syndrome (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-500.jpg" data-tags="alt-country, 00s" role="button">
 Lambchop - Is A Woman (2002-02-19)
@@ -134,9 +128,6 @@ Neko Case - Blacklisted (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Home (2002-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
-Ryan Adams - Demolition (2002-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
 Rilo Kiley - The Execution of All Things (2002-10-01)
@@ -159,11 +150,17 @@ Gillian Welch - Soul Journey (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, americana, mellow, alt-country, great pop, annymix, csny radio, blueday" role="button">
+Eastmountainsouth - Eastmountainsouth (2003-06-17)
+</li>
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb6807a7-f255-4bdd-8da8-e97b1b88bb75/27739888858-500.jpg" data-tags="americana, alt-country, carpet crawler" role="button">
+Willard Grant Conspiracy - Regard the End (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
@@ -225,9 +222,6 @@ Ryan Bingham - Mescalito (2007)
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/bda6aac6-046b-485d-9ad6-644466157152/13142114048-500.jpg" data-tags="singer-songwriter" role="button">
-Ryan Adams - Easy Tiger (2007-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/e37ae5f2-fea2-48c4-9c18-05130b9bfac5/15456399294-500.jpg" data-tags="alt-country" role="button">
 Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
@@ -245,6 +239,9 @@ Steve Earle - Washington Square Serenade (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
+</li>
+<li data-cover="https://img.discogs.com/wvDQ99wpF9w7yZlWSUriAnajL0s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256926-1204232683.jpeg.jpg" data-tags="allmusicm" role="button">
+Murder By Death - Red Of Tooth And Claw (2008-03-04)
 </li>
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
@@ -264,14 +261,14 @@ Vetiver - Tight Knit (2009-02-17)
 <li data-cover="http://coverartarchive.org/release/fa7717be-600c-4473-b743-ea86acd9bb6a/16653916812-500.jpg" data-tags="americana, alt-country, these are deserted island possibilities" role="button">
 Justin Townes Earle - Midnight at the Movies (2009-03-03)
 </li>
-<li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
-The Felice Brothers - Yonder is the Clock (2009-04-07)
-</li>
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0df19cac-877c-4dae-9c09-83f1509ee181/21009277200-500.jpg" data-tags="indie, alt country" role="button">
 Magnolia Electric Co. - Josephine (2009-07-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
+Lucero - 1372 Overton Park (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
 Califone - All My Friends Are Funeral Singers (2009-10-06)
@@ -296,6 +293,9 @@ Blake Mills - Break Mirrors (2010-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34b531d-34e8-32c2-a8ae-d1082a337fc9/3033907801-500.jpg" data-tags="americana, alt-country, 2010s, 2010 albums" role="button">
 Justin Townes Earle - Harlem River Blues (2010-09-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, alt-country, boughtlist2010" role="button">
+Mt. Desolation - Mt. Desolation (2010-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)

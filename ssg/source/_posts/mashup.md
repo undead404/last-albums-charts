@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T18:56:01.397Z
+date: 2021-04-12T10:09:01.412Z
 title: "mashup: 100 albums you must listen to before you die"
 ---
 ![Girl Talk - Feed the Animals (2008-06-19)](http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg "Girl Talk - Feed the Animals (2008-06-19)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">Cornelius - Point (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">Danger Mouse - The Grey Album (2004-02)</li>
 <li data-cover="http://coverartarchive.org/release/f978af36-d280-4961-b0f6-8f0f81f05c5d/22687128664-500.jpg" data-tags="mashup" role="button">Dean Gray - American Edit (2005-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/44fe85ee-f511-4c89-a156-3e9ed1ce1f5c/18646500835-500.jpg" data-tags="mashup" role="button">Girl Talk - Night Ripper (2006-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg" data-tags="mashup" role="button">Girl Talk - Feed the Animals (2008-06-19)</li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">sToa - Silmand (2008-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/65fab700-7184-4a5e-95aa-0d9d81c99c8b/6303681284-500.jpg" data-tags="mashup" role="button">Super Mash Bros. - All About The Scrilions (2009)</li>
 <li data-cover="http://coverartarchive.org/release/4d19db8d-9a9f-4748-89e3-ef3b67854901/8667655941-500.jpg" data-tags="mashup" role="button">Team Teamwork - The Ocarina of Rhyme (2009-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/983d24ea-ff28-4312-b2c6-082df6b8080c/11253903127-500.jpg" data-tags="mashup, us rap, dirty laundry, dj prophet, speed freaks, theme park family reunion" role="button">Wait What - the notorious xx (2010-03-10)</li>
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://img.discogs.com/u48bAfwDNXVDmpUUMKn6gvn3vHU=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-341857-1572904419-8928.jpeg.jpg" data-tags="experimental, avant-garde, spoken word, poetry" role="button">
 William S. Burroughs - Break Through In Grey Room (1986)
 </li>
-<li data-cover="https://img.discogs.com/0zKECKdV2QauWO3Y6LueuQAuGt0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-78844-1557839286-6805.jpeg.jpg" data-tags="electronic" role="button">
-Opus III - It's a Fine Day (1992-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7da4b4f-31ae-408f-87de-18cf8fe8a4c7/22396327500-500.jpg" data-tags="gothic, neoclassical darkwave, ethereal, darkwave" role="button">
 Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
 </li>
@@ -38,9 +35,6 @@ Current 93 - The Great in the Small (2001-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3d17c5e-db5c-45e7-94f3-05ad992be0ea/2086403244-500.jpg" data-tags="hip-hop, mashup" role="button">
-The Kleptones - Yoshimi Battles the Hip Hop Robots (2003-03)
 </li>
 <li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="mashup, adrien wayne" role="button">
 DJ Shadow - Mashin' on the Motorway (2003-06-23)
@@ -72,11 +66,11 @@ CCC - Revolved (2005-02-02)
 <li data-cover="http://coverartarchive.org/release/6d5ce5f9-94be-4391-9004-d52d6b4d8237/25415861968-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 Party Ben - The Somebody Kill Me EP (2005-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c4ed127-12e9-4211-96f9-b30ffc8e4a80/26945076277-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+Party Ben - The Radio Hollaback EP (2005-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/f978af36-d280-4961-b0f6-8f0f81f05c5d/22687128664-500.jpg" data-tags="mashup" role="button">
 Dean Gray - American Edit (2005-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/9535b19a-695f-41b7-b99c-7bb5115b5f52/2086356507-500.jpg" data-tags="electronic, mashup, free albums" role="button">
-The Kleptones - 24 Hours (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/e196bd2e-7479-4530-8b59-e97616b5faf8/7335394760-500.jpg" data-tags="rock, rap, mashup, remix, mash-up, bastard pop, tribute, mash up, bootleg" role="button">
 dj BC - Let It Beast (2006)
@@ -111,11 +105,17 @@ DJ Schmolli - Schnipseljagd Vol.6 (2007)
 <li data-cover="https://img.discogs.com/eIjxAmK09b6varLn6yDuhSUpKzY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275264-1360425062-7883.png.jpg" data-tags="mashup" role="button">
 Norwegian Recycling - So Far (2007)
 </li>
+<li data-cover="http://coverartarchive.org/release/bc596536-6fbe-4d13-b03d-86cd7f8b2f3c/6946067652-500.jpg" data-tags="mashup" role="button">
+Go Home Productions - This Was Pop: 2002-2007 (2007)
+</li>
+<li data-cover="https://img.discogs.com/JnEQ_iQiMr0hnfqy4gwlA6dl3oA=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14646899-1578845476-8122.jpeg.jpg" data-tags="rock, mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+Flying White Dots - At War With The Misfits (2007-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/16da2d74-f623-4998-ad72-f55ac2806189/3639868054-500.jpg" data-tags="metal, rock, mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 Wax Audio - Mashopolos (2007-04)
 </li>
-<li data-cover="https://img.discogs.com/OBTQl_qkuwReHzstk3zPhtWN03U=/fit-in/250x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-984055-1180793105.jpeg.jpg" data-tags="breakcore, glitch" role="button">
-BLÆRG - Sesquipedalia (2007-04)
+<li data-cover="http://coverartarchive.org/release/18199980-041a-4d75-ba23-e9e195277af6/1327992978-500.jpg" data-tags="metal, mashup" role="button">
+Celebrity Murder Party - The Number of Da Boots: The Iron Maiden Bootleg Compilation (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d19374-a06c-3aa0-9f85-bbccd222ec81/1935775885-500.jpg" data-tags="heavy metal, mashup, comedy" role="button">
 Beatallica - Sgt Hetfield's Motorbreath Pub Band (2007-07-10)
@@ -129,6 +129,9 @@ João Brasil - Let it Baile (2008)
 <li data-cover="http://coverartarchive.org/release/6835f50d-98c0-4abb-9e88-d892e72f6c78/1310957425-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 G3RSt - MOV3 (2008)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="disco, funk, mashup, remix, mash-up, bastard pop, bootleg" role="button">
+RIAA - Risque, Illicit & Adult (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f092d2c-a4b5-4f96-a76e-b8ed900c290a/1310919293-500.jpg" data-tags="mashup" role="button">
 G3RSt - SQUARE (2008)
 </li>
@@ -141,11 +144,11 @@ Mediavolo - Unaltered Empire (2008)
 <li data-cover="http://coverartarchive.org/release/8dff79f1-4cae-47b3-a227-c99543d20171/2086452123-500.jpg" data-tags="rock, mashup, remix, mash-up, bastard pop, tribute, mash up, bootleg" role="button">
 DJ Schmolli - Falco re:loaded (2008-02-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/f837b9a5-9797-49a4-b2bc-ca41cbd7fbcc/21726856094-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+Party Ben - Can't Stop Callin' Out: The Complete Party Ben vs. Lyrics Born Experience (2008-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/683cec41-69ef-4d75-964d-47690eb5b94d/6955979501-500.jpg" data-tags="hip-hop, electronic, drum and bass, mashup, breakbeat" role="button">
 dj BC - Art Raps (2008-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, free, mashup, mash-up, free music, add, fully downloadable albums, free-music" role="button">
-stAllio! - mash smarter not harder (2008-05-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mashup" role="button">
 audiobytes for autobots - 2.0 (2008-05-17)
@@ -164,9 +167,6 @@ Norwegian Recycling - Appetite For Reconstruction (2008-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb7daaf6-30ca-4b73-b8e0-31e612780eec/16619667152-500.jpg" data-tags="mashup, nin, nine inch nails, final fantasy, video games, year zero" role="button">
 HALO_ZERO - F1N4LF4NT4S7Z3R0 (2008-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/16b17bd5-accf-4cb9-912d-be1378ae984d/2088057472-500.jpg" data-tags="mashup" role="button">
 A Plus D - Best of Bootie 2008 (2008-12-20)
@@ -213,9 +213,6 @@ A Plus D - Best of Bootie 2009 (2009-12-28)
 <li data-cover="http://coverartarchive.org/release/3bd7bcc1-fce1-48a4-95cf-b8d01ee4d015/5764862592-500.jpg" data-tags="mashup, party" role="button">
 The White Panda - Versus (2009-12-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/b2cbe000-8a83-412c-a5db-71f254f6cf6b/10870182627-500.jpg" data-tags="electronic, grindcore, mashup, breakcore, speedcore, gabber, plunderphonics" role="button">
-Shitmat - Full Of Shit! (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/48541b1b-8951-4989-88a8-5258f4c6b898/1310957766-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 G3RSt - Hooked (2010)
 </li>
@@ -225,9 +222,6 @@ Kids & Explosions - Shit Computer (2010)
 <li data-cover="http://coverartarchive.org/release/a26a9fd5-6750-4b21-8b72-0cae2e8e8f53/15664273245-500.jpg" data-tags="mashup" role="button">
 Norwegian Recycling - The Collage Dropout (2010)
 </li>
-<li data-cover="https://img.discogs.com/IB-dSqhka2Ig--V2OiU-tpMnuIQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2403634-1282081350.jpeg.jpg" data-tags="breakcore, speedcore, dancecore" role="button">
-Annoying Ringtone - Granite City Dancecore (2010-01-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3a4f52d-a657-4a14-82b8-bfad664532ee/5764867486-500.jpg" data-tags="dance, upbeat, mashup, party" role="button">
 The White Panda - Pandamonium (2010-03-01)
 </li>
@@ -236,6 +230,9 @@ Elite Force - Revamped (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/983d24ea-ff28-4312-b2c6-082df6b8080c/11253903127-500.jpg" data-tags="mashup, us rap, dirty laundry, dj prophet, speed freaks, theme park family reunion" role="button">
 Wait What - the notorious xx (2010-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e57a76d5-b19e-4058-aa61-8df844341346/5504474187-500.jpg" data-tags="dub, remix" role="button">
+Mos Dub - Mos Dub (2010-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/789461b1-f91e-4b10-8fb5-f494335f0320/2046346536-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 DJs From Mars - Bootfellas (2010-06-12)
@@ -264,17 +261,11 @@ Milkman - Algorithms (2011-01-25)
 <li data-cover="http://coverartarchive.org/release/b75e7dee-c8b5-466c-8771-29e37bda52fa/18626419728-500.jpg" data-tags="mashup" role="button">
 Titus Jones - Culture Shock (2011-02-28)
 </li>
-<li data-cover="https://img.discogs.com/aiugice_UU9HXC4lORqJ0msOthM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7312287-1438626263-7632.jpeg.jpg" data-tags="electronic, electronica, mashup, underground, newgrounds" role="button">
-Anwar Louis - Untitled Mashup (2011-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/326462c7-e452-4efc-bcda-9413949df479/25839874760-500.jpg" data-tags="trance, electronic, dance, mashup, progressive trance, dutch, vocal trance, melodic trance, uplifting trance, armin van buuren, asot, trance classics, armada" role="button">
 Armin van Buuren - A State of Trance 500 (2011-04-24)
 </li>
 <li data-cover="https://img.discogs.com/s6VpzYJS0gsO2dIEMrsxMMpESCI=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3752451-1342959659-5484.jpeg.jpg" data-tags="hip-hop, electronic, experimental, usa, solo, mashup, american, mash-up, crossover, american underground, columbus, chillwave, 10s, free music, solo artist, america, sound collage, netaudio, plunderphonics, one-man-band, glo-fi, bandcamp, free albums, cut and paste, free album, solo project, webaudio, self-released, usa underground" role="button">
 Rimar - Higher Ground (2011-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e34a373-bf35-4362-a578-f3921e5763e8/8839403696-500.jpg" data-tags="hip-hop, hip hop, rap, new york, usa, solo, funk, psychedelic, mashup, american, hiphop, mash-up, psychedelia, afrobeat, psychedelic rock, crossover, mash up, american underground, free downloads, 10s, creative commons, free music, solo artist, america, free download, afro, sound collage, netaudio, fully streamable tracks, plunderphonics, one-man-band, afrofunk, downloadable, free albums, cut and paste, fully downloadable albums, free album, solo project, downloadable tracks, free streamable albums, webaudio, fully streamable album, afrofuturism, afro funk, ghostface killah, self-released, usa underground, fully streamable track, free streamable album, max tannone, fully downloadable album" role="button">
-Max Tannone - Ghostfunk (2011-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
@@ -290,6 +281,9 @@ G3RSt - Born Yesterday (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/4acf49e2-dc03-4d24-8ee3-88ef4a5cbdda/1506408526-500.jpg" data-tags="mashup" role="button">
 Wax Audio - Mashopolos III: Mashups for the People (2012)
+</li>
+<li data-cover="http://coverartarchive.org/release/42cc7cc4-d6e9-4382-85c0-a2f92e48fb74/2885862100-500.jpg" data-tags="christmas, mashup, mash-up, bastard pop, mash up, bootleg, christmas mashup" role="button">
+Various Artists - Santastic 7: It's a Wonderful Mash (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b7ca16-3c46-4320-b5df-b4930e432458/1310958298-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 G3RSt - Say Chees3 (2012)
@@ -308,6 +302,12 @@ A Plus D - Best of Bootie 2012 (2012-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ea99ef-fc5c-485f-8b95-3454c6ea9e6e/5295505369-500.jpg" data-tags="electronic, pop, dance, mashup, remix, mash-up, bastard pop" role="button">
 Isosine - Mashup Manifesto III (2013-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/85a8c221-ccdb-46be-8467-3ea303b92766/4550917955-500.jpg" data-tags="mashup, 10s" role="button">
+Mashup-Germany - Mashup-Germany, Volume 8: Die Neuland LP (2013-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/04806e4f-7ae6-415c-85ea-8f0117dab854/5460400310-500.jpg" data-tags="trance, dub, uk, dubstep, dance, mashup, club, remix, mix, united kingdom, florence and the machine, you got the love" role="button">
+Ryan Preston - Limitless (2013-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cf59394-234a-47db-8b2e-c82a3ff0dcaa/7170443724-500.jpg" data-tags="mashup" role="button">
 Neil Cicierega - Mouth Sounds (2014-04-28)

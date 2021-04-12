@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:43:01.403Z
+date: 2021-04-12T10:03:01.619Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -27,6 +27,9 @@ The Beach Boys - The Beach Boys Today! (1965-03-08)
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
 </li>
+<li data-cover="https://img.discogs.com/YChqSltUDLq-7pTQ8eXyVA6jc40=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608549-1306193587.jpeg.jpg" data-tags="sunshine pop, 60s" role="button">
+The Free Design - Kites Are Fun (1967)
+</li>
 <li data-cover="http://coverartarchive.org/release/7bab58a3-1769-467e-9d30-4a2b2761019d/27584215433-500.jpg" data-tags="sunshine pop, psychedelic" role="button">
 Sagittarius - Present Tense (1967)
 </li>
@@ -35,6 +38,9 @@ Love - Forever Changes (1967-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d55d9495-c5b3-4db2-92a9-89a5a8d07f1b/27898587576-500.jpg" data-tags="60s, progressive rock" role="button">
 Nirvana - All Of Us (1968)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3e4b68a-98e2-4562-9979-8dfb89618ee3/12157100642-500.jpg" data-tags="60s, baroque pop, psychedelic pop, psych, bfr, symphonic psychedelic rock" role="button">
+Grapefruit - Around Grapefruit (1968)
 </li>
 <li data-cover="https://img.discogs.com/qBO4M0g2RVYmeS9RZtaHunS5Vvg=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557450-1351949867-9125.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Harumi - Harumi (1968)
@@ -60,9 +66,6 @@ Montage - Montage (1969-06)
 <li data-cover="https://img.discogs.com/m1LRBYq-fZyGN19YuD43YS47n0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684582-1595449542-3982.jpeg.jpg" data-tags="my most favorites, from a long time ago" role="button">
 Emitt Rhodes - Emitt Rhodes (1970)
 </li>
-<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
-John Cale - Vintage Violence (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
 </li>
@@ -74,9 +77,6 @@ Van Dyke Parks - Discover America (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/c972a9fe-c7de-4377-8f5e-fa6537e048ba/26473977011-500.jpg" data-tags="soft rock, baroque pop, library, russ ballard" role="button">
 Colin Blunstone - Ennismore (1973)
-</li>
-<li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
-Kate Bush - The Kick Inside (1978-02-17)
 </li>
 <li data-cover="https://img.discogs.com/Rgylx2szfSezdFhgUD4oHZBLrtM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10194886-1494952151-2414.jpeg.jpg" data-tags="baroque pop" role="button">
 Scott Walker - Sings Jacques Brel (1981)
@@ -152,9 +152,6 @@ Destroyer - Notorious Lightning and Other Works (2005-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
-Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
@@ -281,6 +278,9 @@ Kishi Bashi - 151a (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a27244a-0855-4cb3-9d61-986ba0ed7038/22170054774-500.jpg" data-tags="baroque pop, art pop" role="button">
+Anna von Hausswolff - Mountains Crave (2012-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)

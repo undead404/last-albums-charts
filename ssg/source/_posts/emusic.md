@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:47:01.519Z
+date: 2021-04-12T10:08:01.578Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
@@ -72,9 +72,6 @@ Dirty Three - She Has No Strings Apollo (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/28cc2841-46e4-40ab-b371-989a749a8368/1632398945-500.jpg" data-tags="indie, rock, indie rock, emusic, san diego, duyster, absolutely kosher, awesome indie pop-alternative, amazing eps, duyster essentials 2003" role="button">
-Pinback - Offcell (2003-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e506c2-e6d6-4d06-8490-160ed6fdd337/26004122565-500.jpg" data-tags="indie" role="button">
 Elbow - Cast of Thousands (2003-08-13)
 </li>
@@ -86,9 +83,6 @@ The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
 Hanne Hukkelberg - Little Things (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0ee8a58-ed4a-412b-b5df-0769e0400ad2/4057944478-500.jpg" data-tags="electronic, emusic" role="button">
-Blue States - The Soundings (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
@@ -159,8 +153,14 @@ Someone Still Loves You Boris Yeltsin - Broom (2005)
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
+Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
+</li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - The Sunlandic Twins (2005-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ad2ffda-12d6-4bb8-85cd-bcea25426c64/21912333296-500.jpg" data-tags="indie, rock, emusic, thrill jockey, i luv, shine on me retro bird, nravica" role="button">
+Sam Prekop - Who's Your New Professor (2005-03-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
@@ -186,9 +186,6 @@ June - If You Speak Any Faster (2005-08-23)
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
-Elbow - Leaders of the Free World (2005-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/871f0f8d-6009-42b4-bf7e-f85f3ddddae4/22530906121-500.jpg" data-tags="emusic" role="button">
 The Rosebuds - Birds Make Good Neighbors (2005-09-13)
 </li>
@@ -197,6 +194,9 @@ Bloc Party - Two More Years (2005-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
+</li>
+<li data-cover="https://img.discogs.com/fYjxUVlfj9RRrEg6GM0tF2l-b3A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2625293-1293867158.jpeg.jpg" data-tags="indie" role="button">
+Bell X1 - Flock (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
@@ -209,9 +209,6 @@ Islands - Return to the Sea (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
 The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
-The Radio Dept. - Pet Grief (2006-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/def6ae89-8b21-4f00-8417-c2b48e40cf76/2546152084-500.jpg" data-tags="emusic" role="button">
 Camera Obscura - Lloyd, I'm Ready To Be Heartbroken (2006-05-08)
@@ -239,6 +236,9 @@ Ben Kweller - Ben Kweller (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b111c48-d743-49b3-83a1-0e81e6ce421d/11923336693-500.jpg" data-tags="electronic, fun, emusic, hurrah, electronic popular favourite, andrew weatherall rip" role="button">
 Andrew Weatherall - The Bullet Catcher's Apprentice (2006-10-23)
+</li>
+<li data-cover="https://img.discogs.com/kAuVUctrgHJGzSvH6cFpLAEqKfg=/fit-in/555x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4942087-1380111605-7087.jpeg.jpg" data-tags="00s" role="button">
+Tom Waits - Orphans: Brawlers, Bawlers & Bastards (2006-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3aa7af7-abd0-4a63-b6b8-ea0a80355e1a/3472387381-500.jpg" data-tags="psychedelic, indie rock" role="button">
 Deerhunter - Cryptograms (2007-01-29)
@@ -291,9 +291,6 @@ The Thermals - Now We Can See (2009-03)
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c9d3437-baca-4b25-bf39-ea906977bb2a/15787070039-500.jpg" data-tags="indie rock, indie" role="button">
-Bombay Bicycle Club - I Had the Blues But I Shook Them Loose (2009-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Mos Def - The Ecstatic (2009-06-09)
 </li>
@@ -320,5 +317,8 @@ Menomena - Mines (2010-07-27)
 </li>
 <li data-cover="https://img.discogs.com/VE9CKGGUhU21t3LZuEmRzRMuaq0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697610-1297008713.jpeg.jpg" data-tags="rock, indie rock" role="button">
 Cold War Kids - Mine Is Yours (2011-01-25)
+</li>
+<li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
+Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
 </ol>

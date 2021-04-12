@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:42:01.398Z
+date: 2021-04-12T10:24:01.915Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -54,8 +54,8 @@ Omni Trio - Skeleton Keys (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
 Aphex Twin - Come to Daddy (1997-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/db7667f1-d9bf-4387-835a-a5ea8427dc38/5129392290-500.jpg" data-tags="drum and bass" role="button">
-Grooverider - Mysteries Of Funk (1998-08-17)
+<li data-cover="http://coverartarchive.org/release/bd50be04-ab08-4468-b1a9-93fb05364bda/2610470476-500.jpg" data-tags="electronic, drum and bass, ffrr" role="button">
+Goldie - Saturnz Return (1998-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e737174-1293-4b5a-9c92-80dd4934865c/8354418251-500.jpg" data-tags="drum and bass" role="button">
 Hive - Devious Methods (1998-11-10)
@@ -71,6 +71,9 @@ The Cinematic Orchestra - Motion (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f29b8de-e444-40f5-b5ac-fce6e0c64c54/3798901070-500.jpg" data-tags="drum and bass" role="button">
 LTJ Bukem - Producer 01 (2000)
+</li>
+<li data-cover="https://img.discogs.com/u2fviqgUCsdOKCyh1LXlfBVVtns=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-876770-1500550690-5928.jpeg.jpg" data-tags="drum and bass, beats by design ep" role="button">
+DJ Zinc - Beats By Design EP (2000-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/42a0f8d8-9b5f-41f4-9fd0-bd3222b90bb4/8615606476-500.jpg" data-tags="drum and bass" role="button">
 Dieselboy - System_Upgrade (2000-03-28)
@@ -114,8 +117,8 @@ Ram Trilogy - Screamer EP (2003-06-16)
 <li data-cover="http://coverartarchive.org/release/0b41ec2e-083a-3b56-ac79-88ecce303214/14359156369-500.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Kokopelli (2003-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/426f0e00-b541-461d-9747-9d861ed75141/6923514210-500.jpg" data-tags="idm" role="button">
-Squarepusher - Ultravisitor (2004-03-03)
+<li data-cover="http://coverartarchive.org/release/a9cfed62-05af-4098-a832-b02f93f18e85/1781437544-500.jpg" data-tags="drum and bass" role="button">
+The Upbeats - The Upbeats (2004-03-19)
 </li>
 <li data-cover="https://img.discogs.com/DHN7EPLgN1-UR2zV_iJ64qsE9W0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-251764-1084031556.jpg.jpg" data-tags="drum and bass, frauen und technik, roni size, lesser known yet streamable albums, bereps sub-brazil albums, drum and bass1" role="button">
 Tali - Lyric On My Lip (2004-05-03)
@@ -135,9 +138,6 @@ DJ Hazard - Use Your Brain / Selector (2005)
 <li data-cover="http://coverartarchive.org/release/a082cc32-7c12-4f17-9d5d-4c73a4e82abe/1895628765-500.jpg" data-tags="dub, electro, drum and bass" role="button">
 La Phaze - Fin de Cycle (2005-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
-deadmau5 - Get Scraped (2005-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/106abfcc-2155-49fe-a64f-ba85375b894c/4714836425-500.jpg" data-tags="drum and bass" role="button">
 London Elektricity - Power Ballads (2005-08-03)
 </li>
@@ -150,9 +150,6 @@ Counterstrike - From Beyond The Grave (2006-01-30)
 <li data-cover="http://coverartarchive.org/release/363afceb-a37b-4a8c-affb-a11a7c5379c9/20415950133-500.jpg" data-tags="drum and bass" role="button">
 Cyantific - Ghetto Blaster (2006-03-13)
 </li>
-<li data-cover="https://img.discogs.com/B1QSIdWojVREiLmknysAn712Tkc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-674880-1201994986.jpeg.jpg" data-tags="drum and bass, breakcore, 2 s34rch, d'n'b, sublight records" role="button">
-Belladonnakillz - As If (2006-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a292d675-5e37-491c-8e76-15f8c1f0570b/9853899226-500.jpg" data-tags="british, drum and bass, breakbeat" role="button">
 Future Funk Squad - Audio Damage (2006-05-08)
 </li>
@@ -164,6 +161,9 @@ Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f56dd27-77e6-4960-b0a0-270a3e9b4032/4524554520-500.jpg" data-tags="drum and bass" role="button">
 Shapeshifter - Soulstice (2006-08-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e057d89e-468f-4603-9b02-a24ded44773f/4446114169-500.jpg" data-tags="house, drum and bass, breakbeat" role="button">
+Noisia - Gutterpump (2006-11-06)
 </li>
 <li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
@@ -192,8 +192,14 @@ Bachelors of Science - Science Fiction (2008-01-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
 Logistics - Reality Checkpoint (2008-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/5705bf29-9bc8-4063-a3de-efcbbde16ae3/4905438991-500.jpg" data-tags="drum and bass" role="button">
+DJ Hazard - Machete Bass EP (2008-05-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e30e823-fb1d-49c8-8a06-671363582716/11057205298-500.jpg" data-tags="drum and bass" role="button">
 Telemetrik - My Lightyear (2008-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/efefd603-2fae-4bbb-912f-0a03917e4650/4908110453-500.jpg" data-tags="drum and bass" role="button">
+Utah Jazz - It's A Jazz Thing (2008-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bf72d24-7ae4-45a0-82df-213485d6a68c/5504084776-500.jpg" data-tags="drum and bass, liquid funk" role="button">
 London Elektricity - Syncopated City (2008-09-01)
@@ -206,9 +212,6 @@ State Of Mind - Faster Than Light (2009-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/17d7b6ef-2d7b-4a3f-a326-5a1b07c9253c/3550688307-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Live At Brixton Academy (2009-06-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/41a446e8-46d1-4438-8164-b8505213de3d/27543693247-500.jpg" data-tags="dubstep" role="button">
-Broken Note - Terminal Static (2009-10-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
 Chase & Status - End Credits (2009-11-01)
@@ -281,9 +284,6 @@ Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass, liquid dnb, veela" role="button">
 Maduk - Ghost Assassin EP (2012-07-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbf9295c-d63b-4b3e-9808-93e6d6725e1f/8585405192-500.jpg" data-tags="electronic, experimental, john frusciante" role="button">
-John Frusciante - PBX Funicular Intaglio Zone (2012-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd1faa20-3446-49ac-b157-9b7db785ee2f/23101941298-500.jpg" data-tags="electronic, trip-hop, drum and bass, female vocal, need to listen, favorite albums 2012" role="button">
 Kosheen - Independence (2012-09-21)

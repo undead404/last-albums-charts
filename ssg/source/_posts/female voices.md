@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:40:01.399Z
+date: 2021-04-12T10:30:12.651Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Natasha Bedingfield - Strip Me (2010-12-07)](https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg "Natasha Bedingfield - Strip Me (2010-12-07)")
@@ -279,9 +279,6 @@ Helene Fischer - So Wie Ich Bin (2009-10-09)
 <li data-cover="http://coverartarchive.org/release/3aea9563-921d-442b-b26a-6ddbee1c8e7b/25901278837-500.jpg" data-tags="electronic, pop, female voices" role="button">
 Cascada - Dangerous (2009-10-12)
 </li>
-<li data-cover="https://img.discogs.com/D1oYsq-twfGrd2sr59bldPx2NGg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414406-1611486676-2565.jpeg.jpg" data-tags="pop" role="button">
-Janet Jackson - Number Ones (2009-11-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fbd3c63-c8b8-4976-8e57-d17410a8bf8c/24891718269-500.jpg" data-tags="rnb" role="button">
 Angie Stone - Unexpected (2009-11-23)
 </li>
@@ -299,6 +296,9 @@ Dota und die Stadtpiraten - Bis auf den Grund (2010-04-01)
 </li>
 <li data-cover="https://img.discogs.com/e1jUY4xUIsxcQa7UVrvFwFcRMTI=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275800-1323522958.jpeg.jpg" data-tags="electronic, female vocalists, synthpop, female voices, frauen und technik, 4-5" role="button">
 Future Perfect - Dirty Little Secrets (2010-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/f6354016-fbb1-436a-ad8c-42ae9f7ce0e9/2529109858-500.jpg" data-tags="female voices" role="button">
+Lichtmond - Lichtmond (2010-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/57877bb1-4a05-448b-a37e-41649ea99e35/10798226561-500.jpg" data-tags="country" role="button">
 Sugarland - The Incredible Machine (2010-10-19)

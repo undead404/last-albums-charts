@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:22:01.621Z
+date: 2021-04-12T10:25:01.508Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -30,11 +30,20 @@ Black Sabbath - Paranoid (1970-09-18)
 <li data-cover="https://img.discogs.com/ufnpzsAn_QpNXewfMCVhseGe29Y=/fit-in/600x975/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15842342-1598801261-2743.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Master of Reality (1971-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
+Deep Purple - Machine Head (1972-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/734f7ad8-4e20-435e-a27b-c3b7e0ff3e35/17989087737-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Sabbath Bloody Sabbath (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/024e45a1-ea0f-4f31-8f06-f0c4fa1e403b/17989123584-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Sabotage (1975-07-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/002e0056-22a5-45c6-9804-6e3eab21e660/1242995357-500.jpg" data-tags="heavy metal, hard rock" role="button">
+Black Sabbath - We Sold Our Soul for Rock 'n' Roll (1975-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ccb2f7c-7a5c-45dc-a326-ccc4566fe4af/20186498058-500.jpg" data-tags="heavy metal" role="button">
+Judas Priest - Sad Wings of Destiny (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b33578-a44a-47e8-bcb8-e1ba8eb848fc/9157237778-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Overkill (1979-03-24)
@@ -51,9 +60,6 @@ Black Sabbath - Heaven and Hell (1980-04-25)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/e320cb0c-dce1-39e9-a528-88a2c6fea317/23422441958-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Blizzard of Ozz (1980-09-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Ace of Spades (1980-11-08)
 </li>
@@ -62,9 +68,6 @@ Iron Maiden - Killers (1981-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0eff36e-d609-49b1-9719-dc0b884991f6/3578581430-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Mob Rules (1981-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/5073ba98-868e-43af-aa54-2e2b5b63fa04/7124923543-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Diary of a Madman (1981-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/304ecbca-cee0-3bba-af15-7e3c27f022b3/12567066048-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Battle Hymns (1982)
@@ -98,9 +101,6 @@ Metallica - Kill 'Em All (1983-07-25)
 </li>
 <li data-cover="https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Mötley Crüe - Shout at the Devil (1983-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/366d8c45-e966-4c32-b259-87dcfcd7b8f1/19713925563-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Bark at the Moon (1983-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4ff5-e94d-48b2-a99d-33ee251c2c34/9516015595-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - No Remorse (1984-09-15)
@@ -147,9 +147,6 @@ Guns N' Roses - Use Your Illusion I (1991-09-16)
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f3d5a65-036c-3260-b9bb-36f1d0d80c11/24187933352-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - No More Tears (1991-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c5be5b8-9f31-4d3f-9ec3-d503069e0fba/9673625469-500.jpg" data-tags="groove metal, thrash metal" role="button">
 Pantera - Vulgar Display of Power (1992-02-25)
 </li>
@@ -170,9 +167,6 @@ Megadeth - Youthanasia (1994-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/51bbbc28-4da7-4dd4-9d0c-58d3f179e070/5159700071-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - The X Factor (1995-10-02)
-</li>
-<li data-cover="https://img.discogs.com/OZSvCdcVFoRbFX_rMTX-g-_zCBM=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8309200-1459087008-4377.jpeg.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Ozzmosis (1995-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/866ed808-3707-451e-a37b-9d39d37b6cc1/12567108005-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Louder Than Hell (1996-04-29)
@@ -198,11 +192,17 @@ Iced Earth - Something Wicked This Way Comes (1998-06-17)
 <li data-cover="http://coverartarchive.org/release/f149cf49-9364-365a-a9d5-b1ec5688075d/1068123055-500.jpg" data-tags="industrial metal" role="button">
 Rob Zombie - Hellbilly Deluxe (1998-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4943881b-cf46-3bb5-a9ad-26d19ab72f21/11162986699-500.jpg" data-tags="symphonic metal, metal, thrash metal" role="button">
+Metallica - S&M (1999-11-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Brave New World (2000-05-30)
+</li>
+<li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
+Godsmack - Awake (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Mutter (2001-04-02)
@@ -212,9 +212,6 @@ Slipknot - Iowa (2001-08-21)
 </li>
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2cd9b940-9a40-43d0-a6b9-f0a715f1539a/14972077221-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Down To Earth (2001-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Warriors of the World (2002-05-27)
@@ -263,6 +260,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
+</li>
+<li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
+System of a Down - Hypnotize (2005-11-18)
 </li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - A Matter of Life and Death (2006-08-28)

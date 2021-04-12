@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:24:01.756Z
+date: 2021-04-12T10:12:01.531Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -29,9 +29,6 @@ Elvis Costello - This Year's Model (1978-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/270dca36-2e04-4efe-8698-16d574daf8fd/4921979307-500.jpg" data-tags="new wave, rock, 70s" role="button">
 The Cars - The Cars (1978-06-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-Talking Heads - More Songs About Buildings and Food (1978-07-21)
 </li>
 <li data-cover="https://img.discogs.com/H92dZgp-GekKNb7MK4brY2XDqGQ=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2572675-1291146107.jpeg.jpg" data-tags="new wave, 70s" role="button">
 Blondie - Parallel Lines (1978-09-23)
@@ -128,6 +125,9 @@ Men Without Hats - The Safety Dance (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
+</li>
+<li data-cover="https://img.discogs.com/v6mfNUGyW07eVGDU_twQsDcgWcs=/fit-in/517x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8246265-1479563638-5200.jpeg.jpg" data-tags="80s, new wave" role="button">
+XTC - English Settlement (1982-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc94b244-c5d7-4c9f-823d-38b7cb74e048/15908224527-500.jpg" data-tags="80s" role="button">
 Duran Duran - Rio (1982-05-21)

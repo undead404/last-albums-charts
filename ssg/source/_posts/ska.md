@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:31:06.889Z
+date: 2021-04-12T09:57:01.762Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
@@ -231,9 +231,6 @@ Big D And The Kids Table - How It Goes (2004-10-19)
 <li data-cover="https://img.discogs.com/rBtdV_f0dbEwcDa0w1dojIxdIKs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1459612-1221337611.jpeg.jpg" data-tags="ska" role="button">
 The Planet Smashers - Unstoppable (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
-Goldfinger - The Best Of Goldfinger (2005-02-19)
-</li>
 <li data-cover="https://img.discogs.com/COI79GHYa5Q31EB4PZlT6ucMbeU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6463974-1419874590-8128.jpeg.jpg" data-tags="ska punk" role="button">
 Reel Big Fish - We're Not Happy 'til You're Not Happy (2005-04-05)
 </li>
@@ -245,6 +242,9 @@ The Dead 60s - The Dead 60s (2005-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05702c0-a8ef-473f-9ce8-e9dbb4ca10a0/4964947583-500.jpg" data-tags="ska" role="button">
 The Aquabats - Charge!! (2005-06-07)
+</li>
+<li data-cover="https://img.discogs.com/PNjGbQhy6lNCujx_Kdd2GBiuLyE=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651885-1285922617.jpeg.jpg" data-tags="punk" role="button">
+The Suicide Machines - War Profiteering Is Killing Us All (2005-08-09)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)

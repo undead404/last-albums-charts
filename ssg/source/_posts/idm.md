@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:57:01.425Z
+date: 2021-04-12T09:47:01.482Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -81,6 +81,9 @@ Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 <li data-cover="http://coverartarchive.org/release/5c83d579-c302-30fa-93c5-1a2c7144bd3a/7890623689-500.jpg" data-tags="idm" role="button">
 Autechre - Confield (2001-04-14)
 </li>
+<li data-cover="https://img.discogs.com/lHDUFrqYc4NruystT79UTW7JsYc=/fit-in/599x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-22800-1173739087.jpeg.jpg" data-tags="ambient, idm, reminder" role="button">
+Freescha - Kids Fill the Floor (2001-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/768b1c76-6c1c-4720-9100-0cbece176269/6980557713-500.jpg" data-tags="electronic" role="button">
 Plaid - Double Figure (2001-05-26)
 </li>
@@ -134,9 +137,6 @@ Autechre - Untilted (2005-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe6ce1a1-a9d5-48b3-bc9d-4cd557954a33/11141493728-500.jpg" data-tags="ambient" role="button">
 Secede - Tryshasla (2005-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
-deadmau5 - Get Scraped (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)

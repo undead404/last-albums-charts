@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:14:01.405Z
+date: 2021-04-12T10:07:01.564Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -39,9 +39,6 @@ Nina Simone - Here Comes The Sun (1971-09)
 <li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
 Gil Scott-Heron - Free Will (1972)
 </li>
-<li data-cover="http://coverartarchive.org/release/346d6784-4108-4ec2-a40b-3500c56d4f08/16612065220-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Catch A Fire (1973-04-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
 </li>
@@ -69,11 +66,11 @@ Dead Kennedys - Frankenchrist (1985)
 <li data-cover="http://coverartarchive.org/release/bbd74e0c-fd79-47ec-aa5d-2af938ce162a/19230978716-500.jpg" data-tags="spanish, political, street punk" role="button">
 Eskorbuto - Anti-Todo (1986-02)
 </li>
-<li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
-Bruce Hornsby & the Range - The Way It Is (1986-09-15)
-</li>
 <li data-cover="https://img.discogs.com/OvYqq3BTD4eXpJle9TBmFI5n1eE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656641-1432379899-9607.jpeg.jpg" data-tags="british, jangle pop, political, class struggle, debut album, jangle indie" role="button">
 McCarthy - I Am a Wallet (1987)
+</li>
+<li data-cover="https://img.discogs.com/0NZK2dyDMD3H1wb_oRF9FTCyKb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4205222-1529333035-4267.jpeg.jpg" data-tags="spanish, progressive rock, punk rock, political, street punk" role="button">
+La Polla Records - No Somos Nada (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bb3fc83-0a98-3cf4-aca9-a6ecd2db0b9b/12662027144-500.jpg" data-tags="industrial" role="button">
 Laibach - Opus Dei (1987-03-23)
@@ -102,11 +99,14 @@ Steve Earle - Essential Steve Earle (1993-03-05)
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
 </li>
-<li data-cover="https://img.discogs.com/PairXZNpdVU5q_s1Gs7zhJwbDTc=/fit-in/150x149/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304117-1165860826.jpeg.jpg" data-tags="political" role="button">
-The Coup - Genocide & Juice (1994-10-13)
+<li data-cover="http://coverartarchive.org/release/ccf6beb3-a589-409f-bf03-e577d347e42f/5731190178-500.jpg" data-tags="hip-hop, soul" role="button">
+Spearhead - Home (1994-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="skinhead, political, sharp, redskin, rash, skinheads, workers songs, red skins" role="button">
 The Oppressed - Dead & Buried / Fatal Blow (1995)
+</li>
+<li data-cover="https://img.discogs.com/cnq-8t9BX6DN4eOINfEr1qyJS3I=/fit-in/283x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2951063-1336864794-9978.jpeg.jpg" data-tags="swedish, punk rock, political, sweden, trallpunk" role="button">
+Charta 77 - Tecken i tiden (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/d94714a4-7fe9-4c5f-88d3-7a8abfa01b97/2265287768-500.jpg" data-tags="90s, steve earle" role="button">
 Steve Earle - Train a Comin' (1995-02-28)

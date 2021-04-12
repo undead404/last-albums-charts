@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:58:07.013Z
+date: 2021-04-12T10:16:06.955Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -59,9 +59,6 @@ Crowbar - Broken Glass (1996-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
-Crowbar - Odd Fellows Rest (1998-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb8892a-639d-480d-bd1c-37052a63553e/27681545119-500.jpg" data-tags="sludge" role="button">
 Noothgrush - Erode the Person (1999)
@@ -174,9 +171,6 @@ Battle of Mice - A Day of Nights (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d3600e-c847-3ffb-b2a2-dec1f3c2b172/2691122178-500.jpg" data-tags="doom metal, sludge, post-metal" role="button">
-Minsk - The Ritual Fires of Abandonment (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/17ba0f3e-1ccb-4e91-9411-006fe2bd56f4/4857548845-500.jpg" data-tags="sludge, metal" role="button">
 Zozobra - Harmonic Tremors (2007-01-30)
 </li>
@@ -246,6 +240,9 @@ Isis - Wavering Radiant (2009-04-21)
 <li data-cover="http://coverartarchive.org/release/43ba4370-1e78-48f9-999b-46821347e75d/4701704430-500.jpg" data-tags="sludge" role="button">
 Kongh - Shadows Of The Shapeless (2009-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6cba114-0239-4533-8965-0371f8e6d727/2152671546-500.jpg" data-tags="progressive metal, doom metal, sludge" role="button">
+Dark Castle - Spirited Migration (2009-05-26)
+</li>
 <li data-cover="https://img.discogs.com/MtK4YPClwkutejnHZN846f_Ge-g=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1897397-1551811272-4495.jpeg.jpg" data-tags="doom metal, post-metal" role="button">
 Minsk - With Echoes In The Movement of Stone (2009-05-26)
 </li>
@@ -293,6 +290,9 @@ The Ocean - Anthropocentric (2010-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd47de10-60e8-4e5a-8e23-1a4ad095d122/17260640811-500.jpg" data-tags="experimental, sludge, fucking awesome, post metal" role="button">
 Blindead - Affliction XXIX II MXMVI (2010-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
+Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sludge, post-metal" role="button">
 Obscure Sphinx - Anaesthetic Inhalation Ritual (2011)

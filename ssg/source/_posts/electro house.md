@@ -1,17 +1,17 @@
 ---
-date: 2021-04-12T00:58:01.386Z
+date: 2021-04-12T09:49:01.475Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
-![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
+![Swedish House Mafia - Don&#39;t You Worry Child (2012)](https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg "Swedish House Mafia - Don't You Worry Child (2012)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">Skrillex - Scary Monsters and Nice Sprites (2010-10-22)</li>
+<li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">Feed Me - Feed Me's Big Adventure (2010-12-25)</li>
 <li data-cover="http://coverartarchive.org/release/88ffbbe2-bcce-4bfd-912d-2d1998173e4a/11697782536-500.jpg" data-tags="dubstep, electronic, electro house" role="button">Porter Robinson - Spitfire (2011-09-13)</li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e8cbbc8-2956-455c-b645-ebc076287aa1/1262026260-500.jpg" data-tags="electro house" role="button">Knife Party - 100% No Modern Talking (2011-12-12)</li>
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">Swedish House Mafia - Don't You Worry Child (2012)</li>
-<li data-cover="http://coverartarchive.org/release/a667cbdf-20bd-4e4c-abe1-313b4ef25693/2462427943-500.jpg" data-tags="dubstep, electro house, progressive house, drum & bass" role="button">Feed Me - Feed Me's Escape From Electric Mountain (2012-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">Madeon - Icarus (2012-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
+<li data-cover="http://coverartarchive.org/release/f595101f-9bc1-4e39-9909-7dc0dfa576e6/12255416150-500.jpg" data-tags="marting garrix animals" role="button">Martin Garrix - Animals (2013-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">The Chainsmokers - #SELFIE (2014-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/51f3f496-01b9-46f6-a3a3-54da87db0b71/9240189573-500.jpg" data-tags="dance-pop, electro house, deep house, nu-disco" role="button">The Avener - The Wanderings of the Avener (2015-01-19)</li>
 </ol>
@@ -27,8 +27,8 @@ Mr. Oizo - Flat Beat (1999-03-22)
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3763ff11-de2c-4795-97a9-651dbf3f343c/27342355537-500.jpg" data-tags="idm, glitch" role="button">
-Gescom - ISS:SA (2003-04-14)
+<li data-cover="https://img.discogs.com/1Y7Mz0peASoouiR_LWTaREIRKiQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-42296-1294263771.jpeg.jpg" data-tags="minimal" role="button">
+Sascha Funke - Bravo (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
@@ -51,6 +51,9 @@ Dada Life - Fun Fun Fun (2007)
 <li data-cover="http://coverartarchive.org/release/157930ec-641a-40df-8027-6c0d1566602a/3790436154-500.jpg" data-tags="electro house" role="button">
 Arno Cost & Arias - Magenta (2007-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5223c42-9599-4b4b-9946-939111aa0adb/4022251119-500.jpg" data-tags="electro house" role="button">
+deadmau5 - This Noise (2007-02-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/31c43149-fd3a-4930-aca0-94461324105e/25424358311-500.jpg" data-tags="electronic, electropop" role="button">
 Capsule - Sugarless GiRL (2007-02-21)
 </li>
@@ -68,9 +71,6 @@ Digitalism - Idealism (2007-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e123a2d2-6f59-3937-a090-248109380220/10083795099-500.jpg" data-tags="french, electro, france" role="button">
 Justice - ✝ (2007-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/094ea63a-a754-43f1-8e79-3a6957e2d077/26813532876-500.jpg" data-tags="electronic" role="button">
-Moonbootica - Moonlight Welfare (2007-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/adf50f02-ea39-471d-bb2f-303fe9b68dfe/8139327870-500.jpg" data-tags="electronic" role="button">
 Steve Aoki - Pillowface And His Airplane Chronicles (2008-01-23)
@@ -105,9 +105,6 @@ MSTRKRFT - Heartbreaker (2009)
 <li data-cover="https://img.discogs.com/3AuOfzttp6c5coNcDn4WiaHYRVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2019036-1258978077.jpeg.jpg" data-tags="electronic, dance" role="button">
 Example - Won't Go Quietly (2009)
 </li>
-<li data-cover="https://img.discogs.com/iJHDvcyHBReuvbmezNQQvXnKBkM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991484-1257193369.jpeg.jpg" data-tags="indie, rock, 00s, secretly canadian" role="button">
-Music Go Music - Expressions (2009-06-10)
-</li>
 <li data-cover="https://img.discogs.com/QJAAG1_fgUM82slexCWqSydm7Gs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2232652-1277744631.jpeg.jpg" data-tags="electro house" role="button">
 Dada Life - Just Do The Dada (2009-06-13)
 </li>
@@ -135,15 +132,6 @@ Porter Robinson - Say My Name (2010-08-13)
 <li data-cover="https://img.discogs.com/qzKM14G2KMsFowMLLV7UElRFjvk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2502380-1287516931.jpeg.jpg" data-tags="electro, house, electro house" role="button">
 Evil Nine - Stay Up (2010-08-30)
 </li>
-<li data-cover="https://img.discogs.com/um2JQXXGCXNGP69kw6-LT6qim7o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2549909-1289996098.jpeg.jpg" data-tags="house, electro house, progressive house" role="button">
-Tiësto - Kaleidoscope Remixed (2010-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a14d02eb-b5df-4a36-a4f7-d27793efe551/21068816289-500.jpg" data-tags="house" role="button">
-Swedish House Mafia - Until One (2010-10-16)
-</li>
-<li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
-Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
 Feed Me - Feed Me's Big Adventure (2010-12-25)
 </li>
@@ -155,9 +143,6 @@ Swedish House Mafia - Save The World (The Remixes) (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/51cfe7e4-4b81-442c-ae5a-2eead356daa6/11058473899-500.jpg" data-tags="electronic" role="button">
 The Toxic Avenger - ANGST (2011-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
-Feed Me - To The Stars (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
@@ -198,8 +183,11 @@ Skrillex - Bangarang (2011-12-23)
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)
 </li>
-<li data-cover="http://coverartarchive.org/release/a667cbdf-20bd-4e4c-abe1-313b4ef25693/2462427943-500.jpg" data-tags="dubstep, electro house, progressive house, drum & bass" role="button">
-Feed Me - Feed Me's Escape From Electric Mountain (2012-02-06)
+<li data-cover="http://coverartarchive.org/release/56ff63c2-6a04-4f4b-8548-b58b03d85cf9/4170590006-500.jpg" data-tags="electro house" role="button">
+Justice - Look Alive (2012)
+</li>
+<li data-cover="https://img.discogs.com/f7OejYzlo6i5JCEBtl1v26c5Skg=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437782-1330372899.jpeg.jpg" data-tags="trance, progressive trance, vocal trance" role="button">
+Ferry Corsten - WKND (2012-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
 Madeon - Icarus (2012-02-26)
@@ -207,11 +195,8 @@ Madeon - Icarus (2012-02-26)
 <li data-cover="http://coverartarchive.org/release/ba4fd14f-1671-46ab-935e-b7cc21e369a5/3347680565-500.jpg" data-tags="electronic, house, electro house" role="button">
 Mord Fustang - Welcome To The Future (2012-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cca170bb-b8a8-4382-9a20-03e9c4887e04/22558971521-500.jpg" data-tags="electronic" role="button">
-Porter Robinson - Language (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ff9c630-6bde-4334-a3ba-54cadd2efeca/18400177932-500.jpg" data-tags="dubstep, house" role="button">
-Klaypex - Ready to Go (2012-04-10)
+<li data-cover="http://coverartarchive.org/release/5672b4b3-d6dd-4e24-95eb-461bb6f92e40/7594615985-500.jpg" data-tags="electronic, electro" role="button">
+Infected Mushroom - Nation of Wusses (2012-04-03)
 </li>
 <li data-cover="https://img.discogs.com/8GSjKOOsmOJxPkyTtyqckwZjsgw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3577577-1335977988.jpeg.jpg" data-tags="electro house, bass" role="button">
 Huoratron - Cryptocracy (2012-04-12)
@@ -237,29 +222,26 @@ Wolfgang Gartner - Flexx (2012-06-11)
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c58e373-5667-4117-96e2-130cb203dc73/4316642070-500.jpg" data-tags="electro house" role="button">
+Strip Steve - Micro Mega (2012-07-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6130ab3-ab8a-4660-a8e0-724f4fbf6c5c/2066292202-500.jpg" data-tags="dance" role="button">
 Havana Brown - When the Lights Go Out (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/30483241-09a0-4f5b-90b2-46141956a2f2/4049288536-500.jpg" data-tags="trance, electronic, electro, dance, house, electro house" role="button">
 Italobrothers - My Life Is A Party (2012-07-27)
 </li>
-<li data-cover="https://img.discogs.com/xncTdAhINqdJjubPJd_x2wU0-Hs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2981571-1460313451-4167.jpeg.jpg" data-tags="electronic, techno, house, electro house, minimal, progressive house" role="button">
-deadmau5 - Professional Griefers (2012-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa821643-4a62-4803-9545-c16ca3047845/3459313151-500.jpg" data-tags="electronic, dance, house, electro house, american" role="button">
 Wolfgang Gartner - Love & War (2012-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/a52ae1b2-ae38-4915-9a86-27c256917302/2331916399-500.jpg" data-tags="progressive house" role="button">
-deadmau5 - > album title goes here < (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/496b9cfe-4521-4da8-aca7-30463263e3c5/6243503281-500.jpg" data-tags="hip-hop, grime, dubstep, electro house" role="button">
 Foreign Beggars - The Uprising (2012-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/3635ce51-ff95-4656-a8d0-3931a09573aa/7045624028-500.jpg" data-tags="house" role="button">
-Swedish House Mafia - Until Now (2012-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/662d2006-3f54-496a-91a0-a4922b0376d1/3216753281-500.jpg" data-tags="swedish, electro, electro house, trash electro, swedish electro, orchestral electro" role="button">
+F.O.O.L - The Game (2012-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/448070f8-bb82-49eb-b132-404d37a8bdf8/5858921353-500.jpg" data-tags="dubstep, electro, piano, house, electro house, brostep, owsla" role="button">
 Kill the Noise - Black Magic (2012-11-06)
@@ -276,8 +258,17 @@ OVERWERK - After Hours (2012-11-28)
 <li data-cover="http://coverartarchive.org/release/0247f557-1e59-41f9-86d2-05af0fcbc3ff/22712884271-500.jpg" data-tags="electronic, dubstep, electro house, drum & bass, glitch hop" role="button">
 Savant - Alchemist (2012-12-12)
 </li>
+<li data-cover="https://img.discogs.com/M_QJcu0QA38LnmLvW2sT9WPLSK8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5207198-1610671017-2887.jpeg.jpg" data-tags="electro house" role="button">
+Wolfgang Gartner - Anaconda (2013-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/b5faa285-8ca0-4d2e-bb1f-471dcef00db5/3790506518-500.jpg" data-tags="new rave, dubstep" role="button">
 Hadouken! - Every Weekend (2013-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6653ab0-8a6a-45ad-b8ba-e1805162b3f9/7133364781-500.jpg" data-tags="electro house" role="button">
+Laidback Luke & Hardwell - Dynamo (2013-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/38791b03-28f0-4fa2-aef7-9634a354e4b1/4407818463-500.jpg" data-tags="electro, electro house" role="button">
+Fedde Le Grand - Rockin' N' Rollin' (2013-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c176e600-1aea-4225-a033-600b0b491862/12984311923-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - See Me Now (2013-06-04)
@@ -306,8 +297,17 @@ The M Machine - Superflat (2014-02-04)
 <li data-cover="http://coverartarchive.org/release/38f45c1e-133c-447c-aa8d-d2131eed8cdd/6571167950-500.jpg" data-tags="hip hop, electro house, major lazer" role="button">
 Major Lazer - Apocalypse Soon (2014-02-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1bf78ee-150c-4703-b68c-950d7cc562a0/6691304855-500.jpg" data-tags="electronic, french, house, electro house, nu disco, complextro, french touch" role="button">
+Madeon - Cut The Kid (2014-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">
 The Chainsmokers - #SELFIE (2014-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/76137ab2-7db2-4000-bf30-2e086070f22b/7017358292-500.jpg" data-tags="electronic, electro, house, electro house" role="button">
+Archie - Full Discography (2014-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/78562ca2-44bb-4d8e-8523-7aecea5cb631/7217948538-500.jpg" data-tags="vaporwave" role="button">
+マクロスMACROSS 82-99 - A Million Miles Away (2014-05-07)
 </li>
 <li data-cover="https://img.discogs.com/xHU6n0IlTKdxQsl5CYLC3PiwcaE=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5936886-1406780655-1101.jpeg.jpg" data-tags="rap, electro house, j-pop" role="button">
 Charisma.com - DIStopping (2014-06-04)

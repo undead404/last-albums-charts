@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:01:06.882Z
+date: 2021-04-12T10:21:07.131Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
@@ -26,9 +26,6 @@ Miles Davis - Ascenseur Pour L'échafaud (1958)
 </li>
 <li data-cover="https://img.discogs.com/7MF7D6GsKOfVTfyGQfr2tcp3gQ4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5742450-1401483051-8899.jpeg.jpg" data-tags="progressive electronic, space music" role="button">
 Klaus Schulze - Irrlicht (1972-08)
-</li>
-<li data-cover="https://img.discogs.com/bYqE0u1kZzPgwKB5EIEXeOWH4IU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740361-1485483122-2451.jpeg.jpg" data-tags="krautrock, ambient" role="button">
-Popol Vuh - Aguirre (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="haunting, vangelis" role="button">
 Vangelis - Ignacio (1975)
@@ -81,14 +78,14 @@ World Standard - Country Gazette (1997)
 <li data-cover="http://coverartarchive.org/release/3a0f1699-f9f1-4e6f-991b-2d31082c6705/16924478102-500.jpg" data-tags="indie rock, shoegaze, shoegazer" role="button">
 Starflyer 59 - Americana (1997-03-11)
 </li>
+<li data-cover="https://img.discogs.com/FuZCKAlidy9Qty6fgChCxOlMmMc=/fit-in/216x216/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-133072-1082245744.jpg.jpg" data-tags="noise, ambient, experimental, dark, haunting, dark ambient, horror, rhythmic noise, power electronics" role="button">
+Namanax - Audiotronic (1997-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2fec2e5-77bb-4a7f-b61a-432a6a2fa34f/16251850210-500.jpg" data-tags="popol vuh" role="button">
 Popol Vuh - Messa di Orfeo (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b14bd8-05f8-4cd3-8510-b2f637a14693/8137290813-500.jpg" data-tags="pop, alternative, ambient, haunting, magical, kitty5" role="button">
 Vacuum - Seance at the Chaebol (1998)
-</li>
-<li data-cover="https://img.discogs.com/7bC_mEsQ3xzcGe6bicb5aut3Hxc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2117735-1539014474-6598.jpeg.jpg" data-tags="soundtrack, folk" role="button">
-Paul Giovanni - The Wicker Man (1998)
 </li>
 <li data-cover="https://img.discogs.com/aX3zG8n5AQQA-8vAyRHX4qrULOQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182949-1447010819-2515.jpeg.jpg" data-tags="pop, haunting, vacuum, good times, kitty5, vacuum - culture of night" role="button">
 Vacuum - Culture Of Night (2000)
@@ -177,14 +174,8 @@ Fionn Regan - The End Of History (2006-08-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="pure awesome, great album top to bottom" role="button">
 As Tall As Lions - As Tall As Lions (2006-08-08)
 </li>
-<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
-Project Divinity - Divinity (2006-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e78cf01f-333e-4211-ae80-a41748961d3f/4812141654-500.jpg" data-tags="singer-songwriter, canadian" role="button">
 Patrick Watson - Close To Paradise (2006-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcbcef2e-5199-4652-8025-0e831360bd6f/12658357114-500.jpg" data-tags="indie" role="button">
-Bad Astronaut - Twelve Small Steps, One Giant Disappointment (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - The Fountain (2006-11-21)
@@ -213,17 +204,17 @@ Sigur Rós - Hvarf - Heim (2007-11-05)
 <li data-cover="http://coverartarchive.org/release/a0b1df26-4a8c-422b-b839-1c6895e6bd23/6635452105-500.jpg" data-tags="freak folk, indie folk, dream folk" role="button">
 Ruby Throat - The Ventriloquist (2007-11-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, compra mi disco" role="button">
-Woods Family Creeps - Woods Family Creeps (2008)
-</li>
-<li data-cover="https://img.discogs.com/JnGIWxtSVZhgjWKQZSdvlsk5U0s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1214443-1201235641.jpeg.jpg" data-tags="archaic horizon" role="button">
-Electricwest - Divine de Vice (2008-01-23)
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="classical, chill, instrumental, solo, contemporary, modern, romantic, new age, melodic, cinematic, debussy, haunting, composer, emotional, relaxing, calming, soulful, erik satie, piano music, john williams, film music, dynamic, emotive, powerful, enya, classical piano, rapture, samson, ludwig van beethoven, mozart, beethoven, pianist, michael, piano solo, serene, chopin, jerry goldsmith, impressionism, classical music, movie music, contemporary instrumental, ennio morricone, yann tiersen, keith jarrett, solo piano, captivating, contemporary piano, instrumentalist, classical pop, new age piano, new age music, modern piano, contemporary music, soloist, claude debussy, impressionistic, ralph vaughan williams, yanni, wolfgang amadeus mozart, solo instrumental, instrumental music, instrumental piano, contemporary instrumental music, provoking, james horner, jim brickman, frederick chopin, michael nyman, david nevue, sheet music, nicholas gunn, david lanz, suzanne ciani, piano sheet music, william joseph, stephan moccio, modern piano solo, solo piano music, solo piano sheet music, a still motion, clara ponty, michael samson, still motion productions, until tomorrow comes" role="button">
+Michael Samson - A Still Motion (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
 Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/04144bd5-b872-41c8-8466-ff19ae77ef05/23715843413-500.jpg" data-tags="ambient, drone, drone ambient, visionary" role="button">
 Celer - Discourses Of The Withered (2008-07-22)
+</li>
+<li data-cover="https://img.discogs.com/TaYrfZj0MWYIg9xa9quZV33TnMs=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867736-1428338053-7238.jpeg.jpg" data-tags="electronic, instrumental, experimental, minimal, abstract, psychedelic, soundscape, atmospheric, haunting, floating, drone, minimalism, sound art, meditative, drone ambient, minimal ambient, sublime, minimalist, tranquil, deep ambient, warm drone, lattice, ambient soundscape, sleep drone, le berger, ethereal meditation, floating music, windy and carl, drone minimalist" role="button">
+Fabio Orsi - Audio for Lovers (2008-09)
 </li>
 <li data-cover="https://img.discogs.com/d1Kc5ERjj5VBx565udj7xzolbDY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1833214-1246491274.jpeg.jpg" data-tags="electronic, trip-hop, british, dance, haunting" role="button">
 Bomb the Bass - Future Chaos (2008-09-15)
@@ -236,6 +227,9 @@ Terakaft - Akh issudar (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/28b33345-54d8-4fcc-b332-f7e2f8889d07/6687863238-500.jpg" data-tags="chillout, trip-hop, soul, experimental, minimal, lounge, haunting, freak folk" role="button">
 CALLmeKAT - Fall Down (2008-11-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="archaic horizon" role="button">
+Eluder - Drift (2009-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2ba09c2-f25e-430c-850a-002910f7a13f/3893908259-500.jpg" data-tags="ambient, drone" role="button">
 Celer - Capri (2009-02-16)
@@ -252,6 +246,9 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
+<li data-cover="https://img.discogs.com/prUWJ5XwYQy0E6N1u15goDU0n_4=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2401563-1380089281-5656.jpeg.jpg" data-tags="jazz" role="button">
+Louis Sclavis - Lost On The Way (2009-05-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/9505617a-f0da-46eb-8a9a-37d0d5c39049/1049981018-500.jpg" data-tags="ambient black metal, atmospheric black metal" role="button">
 Lustre - Night Spirit (2009-05-24)
 </li>
@@ -267,23 +264,26 @@ Ruby Throat - Out of A Black Cloud Came A Bird (2009-11-19)
 <li data-cover="http://coverartarchive.org/release/e39a7d41-39be-44b8-8d66-03fd02fc3023/15711725859-500.jpg" data-tags="drone" role="button">
 Black To Comm - Alphabet 1968 (2009-11-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="witch house" role="button">
-▼□■□■□■ - CDR (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b998eca-d740-42e4-8314-fb44fce1ebd1/7941653263-500.jpg" data-tags="soundtrack" role="button">
 Nick Cave & Warren Ellis - The Road (2010-01-04)
 </li>
 <li data-cover="https://img.discogs.com/cXyi0iRGnWu0I8Alpn1ubIAIbQ0=/fit-in/352x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2052580-1261071957.jpeg.jpg" data-tags="electronic, alternative, ambient, experimental, industrial, abstract, idm, glitch, haunting, illbient, d0pe t00nz, killer d0pe, sp00ky toonz, spooky toons" role="button">
 Apparent Symmetry - Mourn (2010-01-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/f97e172b-b7bf-427a-b919-166222aaa8b8/7149555682-500.jpg" data-tags="dark, gothic, organ, haunting, neoclassical, gothic realm, gothic choir" role="button">
+葉月ゆら - Garnet Bride (2010-05-05)
+</li>
 <li data-cover="https://img.discogs.com/oIJvo1QZZ8kW5mnos3ji-cBin_A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281891-1558668784-9742.jpeg.jpg" data-tags="drone" role="button">
 Celer - Dying Star (2010-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad78e182-54b9-499f-acef-6ab50f353c5c/8275016540-500.jpg" data-tags="dark ambient, ambient, experimental" role="button">
+Vozrozhdeniya - Broadcast From Somewhere (2010-08-20)
 </li>
 <li data-cover="https://img.discogs.com/GOT-h6fZScrjoYFp62sK8Itorx4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3480435-1339642223-7480.jpeg.jpg" data-tags="indie, haunting, to listen list" role="button">
 Forest Fire - Staring At the X (2011)
 </li>
-<li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">
-Giles Corey - Giles Corey (2011-04-30)
+<li data-cover="http://coverartarchive.org/release/a4667d4d-4b92-4fc3-bd1f-259034f3f674/8275037310-500.jpg" data-tags="space music, space" role="button">
+Vozrozhdeniya - Atmosphere (2011-04-04)
 </li>
 <li data-cover="https://img.discogs.com/TUtNg1LHf97p_5Hc-4ainCfpl44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13603765-1557336635-2769.jpeg.jpg" data-tags="heavy metal, metal, doom metal, dark, acoustic, death, atmospheric, haunting, free, doom, death metal, melancholic, free downloads, free download, awesome vocals, torture, blake, great riffs, william blake, eargasmic, strangely beautiful, dark and beautiful, literary references, creepy as hell, songs that give me chills" role="button">
 Torture Garden - Dead Romantic (2011-08-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:05:01.455Z
+date: 2021-04-12T10:39:07.912Z
 title: "guitar virtuoso: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
@@ -30,6 +30,9 @@ Jimi Hendrix - Rainbow Bridge (1971-10)
 <li data-cover="http://coverartarchive.org/release/8daf4cd8-def7-4993-b1ef-340700ca95ff/7443035790-500.jpg" data-tags="blues rock" role="button">
 Rory Gallagher - Tattoo (1973)
 </li>
+<li data-cover="https://img.discogs.com/AHtC3FVIMsoA6hRqe56C8Ax2Jm8=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6931769-1429801974-8154.jpeg.jpg" data-tags="blues rock" role="button">
+Johnny Winter - Still Alive And Well (1973-03)
+</li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
 </li>
@@ -45,8 +48,8 @@ Al Di Meola - Casino (1978)
 <li data-cover="http://coverartarchive.org/release/db27de8b-8253-4b1b-bcda-bad5bb882a43/7443079396-500.jpg" data-tags="blues, blues rock, classic rock" role="button">
 Rory Gallagher - Top Priority (1979-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/5309debd-3ab8-43af-bad1-3e087a77a3b3/3924520199-500.jpg" data-tags="fusion" role="button">
-Al Di Meola - Electric Rendezvous (1982)
+<li data-cover="http://coverartarchive.org/release/679c7769-03cf-4582-bf45-cce56450c8c0/19982018420-500.jpg" data-tags="rock" role="button">
+Gary Moore - Corridors of Power (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
@@ -63,11 +66,17 @@ Allan Holdsworth - Metal Fatigue (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="smooth jazz" role="button">
 Larry Carlton - Discovery (1986)
 </li>
+<li data-cover="http://coverartarchive.org/release/48b94126-5941-4076-8b0b-fc586c416e07/23743667370-500.jpg" data-tags="twangy guitar" role="button">
+Duane Eddy - Duane Eddy (1987)
+</li>
 <li data-cover="https://img.discogs.com/jvdFdwcboJ6e9FQJRMgNi2YuwPI=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4705357-1372840963-5632.jpeg.jpg" data-tags="heavy metal" role="button">
 Racer X - Second Heat (1987)
 </li>
 <li data-cover="https://img.discogs.com/HLKOcTiJhaU9tywtL_RnFq3k69E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328174-1301762717.jpeg.jpg" data-tags="rock" role="button">
 Gary Moore - Wild Frontier (1987-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2049b55c-0714-4ca2-8352-ba0d7041e5fd/6322117461-500.jpg" data-tags="hard rock" role="button">
+Whitesnake - 1987 (1987-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Surfing With The Alien (1987-10-15)
@@ -201,9 +210,6 @@ Jeff Beck - Jeff (2003-08-06)
 <li data-cover="https://img.discogs.com/MjzMDHbXVom57VN0y1T5FdqxLEI=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4612040-1369923028-1886.jpeg.jpg" data-tags="blues, blues rock" role="button">
 Joe Bonamassa - Blues Deluxe (2003-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/02949cd0-ffdb-4d60-8ab9-d6ce547b9898/8749749374-500.jpg" data-tags="rock, classic rock, cream" role="button">
-Cream - Royal Albert Hall London May 2-3-5-6 2005 (2003-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fcaedde-67e8-4759-b49f-6f1b507d990e/11311737712-500.jpg" data-tags="guitar virtuoso, blues, guitar, allboutguitar, allbout guitar lessons - blues workshops karlsruhe" role="button">
 Richie Kotzen - Get Up (2004)
 </li>
@@ -264,12 +270,6 @@ Paul Gilbert - Get Out Of My Yard (2006-07-26)
 <li data-cover="http://coverartarchive.org/release/a65f1f2f-bee5-463a-ad31-34a031c5f007/14928727017-500.jpg" data-tags="guitar virtuoso, instrumental, experimental, avant-garde" role="button">
 Buckethead - Crime Slunk Scene (2006-09-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jam" role="button">
-Tea Leaf Green - Rock 'N' Roll Band (2006-10-31)
-</li>
-<li data-cover="https://img.discogs.com/Pw9-WkqfeTUZGoRbOY6PNtN-Uds=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3471587-1331689568.jpeg.jpg" data-tags="fusion, jazz, guitar virtuoso, instrumental" role="button">
-Kiko Loureiro - Universo Inverso (2006-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/15b4fecd-090f-4399-9d40-af6ee4fa0ba3/15653847052-500.jpg" data-tags="allboutguitar, blues, guitar, guitar virtuoso, guitar karlsruhe, gitarrenunterricht in karlsruhe" role="button">
 Richie Kotzen - Into The Black (2006-12)
 </li>
@@ -278,9 +278,6 @@ Toto - Greatest Hits (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2f1ef6a-e0b8-48b0-aa96-9ff9c6b20113/28819935253-500.jpg" data-tags="instrumental" role="button">
 Erik Mongrain - Fates (2007-06)
-</li>
-<li data-cover="https://img.discogs.com/RrwxAsEV049dwc6s1TgugjH_keQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3204717-1556633536-6361.jpeg.jpg" data-tags="guitar virtuoso, acoustic guitar, fingerstyle, andy mckee" role="button">
-Andy McKee - The Gates of Gnomeria (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/55f96af9-1792-43c4-891b-1a93dc084c48/10929669563-500.jpg" data-tags="instrumental rock, rock" role="button">
 Joe Satriani - Professor Satchafunkilus and the Musterion of Rock (2008-03-28)
@@ -299,6 +296,9 @@ Jimi Hendrix - Valleys of Neptune (2010-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/41b9dbe2-eeed-4009-9396-50f298ce2b7a/24070407526-500.jpg" data-tags="rock, guitar" role="button">
 Jeff Beck - Emotion & Commotion (2010-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/56124be0-f591-492b-a03d-54b4fddbfd15/2064525845-500.jpg" data-tags="alternative metal, guitar virtuoso" role="button">
+John 5 - The Art of Malice (2010-05-11)
 </li>
 <li data-cover="https://img.discogs.com/u1Tm-QWzPgb1GVnz_C9JGQ9kAiI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138811-1266104191.jpeg.jpg" data-tags="pop, guitar virtuoso" role="button">
 Orianthi - Believe (2010-06-08)

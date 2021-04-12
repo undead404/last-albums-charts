@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:45:02.481Z
+date: 2021-04-12T10:35:01.531Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -105,6 +105,9 @@ Stabbing Westward - Darkest Days (1998-04-07)
 <li data-cover="http://coverartarchive.org/release/32bc1026-306c-4c91-96af-3612c1319c74/17811086702-500.jpg" data-tags="christian rock, rock, industrial" role="button">
 Skillet - Hey You, I Love Your Soul (1998-04-21)
 </li>
+<li data-cover="https://img.discogs.com/zDyP4DcsfAzWXMbQtuPHPYL2EJY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494800-1223960754.jpeg.jpg" data-tags="alternative rock, industrial rock" role="button">
+Kidneythieves - Trickstereprocess (1998-07-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/da0ac25e-6e75-3e63-b8b4-e2ff206b60db/10150650258-500.jpg" data-tags="industrial, alternative" role="button">
 Nine Inch Nails - The Day the World Went Away (1999-07-20)
 </li>
@@ -155,9 +158,6 @@ Pain - Nothing Remains The Same (2002-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fdad867-5926-4aa1-9606-dd05c7ca388f/2854819852-500.jpg" data-tags="electronic, industrial metal" role="button">
 Theatre of Tragedy - Assembly (2002-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2b647ba-f77b-43f0-996a-7a8fdeeceecc/6123779011-500.jpg" data-tags="alternative rock, industrial rock, post-hardcore" role="button">
-Vex Red - Start With a Strong and Persistent Desire (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
