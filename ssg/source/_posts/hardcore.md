@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:38:01.487Z
+date: 2021-04-12T21:47:01.450Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -60,6 +60,9 @@ From Autumn To Ashes - Too Bad You're Beautiful (2001-08-14)
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f18cbcef-29ac-48be-8fcb-96383a15ed08/15879936312-500.jpg" data-tags="hardcore" role="button">
+Blood for Blood - Outlaw Anthems (2002-01-15)
+</li>
 <li data-cover="https://img.discogs.com/aVnsDxh4RubSM_6eoKxO4jjSLKo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642107-1554908978-1846.jpeg.jpg" data-tags="hardcore" role="button">
 Hatebreed - Perseverance (2002-03-26)
 </li>
@@ -119,9 +122,6 @@ Lamb of God - Ashes Of The Wake (2004-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
 Converge - You Fail Me (2004-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
-He Is Legend - I Am Hollywood (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/def35f73-abc3-4296-b41e-fc51ef0e177b/6677597463-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Bullet For My Valentine (2004-11-15)

@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T23:43:01.400Z
+date: 2021-04-12T22:29:12.665Z
 title: "cinematic: 100 albums you must listen to before you die"
 ---
 ![Noah and the Whale - Heart Of Nowhere (2013-05-03)](http://coverartarchive.org/release/dbf53435-f8f0-43a8-97b0-c15b5e4b0508/4043016557-500.jpg "Noah and the Whale - Heart Of Nowhere (2013-05-03)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">MC 900 Ft Jesus - Welcome to My Dream (1991)</li>
+<li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">Stars of the Lid - The Ballasted Orchestra (1996)</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">Stereolab - Dots and Loops (1997-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">E.S. Posthumus - Unearthed (2001-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/8ddc1268-5d8c-4ef6-a15b-8c0d2a8f5456/5492614802-500.jpg" data-tags="ambient, idm" role="button">Arovane - Lilies (2004-06-14)</li>
 <li data-cover="http://coverartarchive.org/release/05c2a1cc-b7cc-441e-bd59-861c316e8fd3/6580414278-500.jpg" data-tags="soundtrack" role="button">Bear McCreary - Battlestar Galactica: Season 4 (2009-07-28)</li>
-<li data-cover="http://coverartarchive.org/release/009a01e7-774e-4d78-b435-e6d1defcbe76/3489385421-500.jpg" data-tags="electronica, trip-hop, alternative rock, breaks, breakbeat" role="button">Hybrid - Disappear Here (2010-03-29)</li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">Amon Tobin - ISAM (2011-04-19)</li>
 <li data-cover="http://coverartarchive.org/release/dbf53435-f8f0-43a8-97b0-c15b5e4b0508/4043016557-500.jpg" data-tags="indie, cinematic, talking heads, listen to this, mercury records" role="button">Noah and the Whale - Heart Of Nowhere (2013-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/0ef78efa-06de-43e7-942c-1a50a2faf0ab/5757269369-500.jpg" data-tags="post-rock, epic, shoegaze, cinematic, post rock, movie soundtrack, save your heart" role="button">Lights & Motion - Save Your Heart (2013-11-12)</li>
@@ -42,9 +42,6 @@ Klaus Schulze - Body Love (1977-02)
 <li data-cover="https://img.discogs.com/6xYNV4DICjisFaSTgFFd47F02JU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5701939-1456953970-9443.jpeg.jpg" data-tags="ecm" role="button">
 Terje Rypdal - Waves (1978)
 </li>
-<li data-cover="https://img.discogs.com/bmm7Qgx3MI_sAU9w3bNtM6uzCHQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473266-1489840881-1414.jpeg.jpg" data-tags="ecm" role="button">
-Terje Rypdal - Descendre (1980)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7468e8a-01a2-48af-9d2f-87b9d4165697/24484079453-500.jpg" data-tags="jazz, progressive rock, ecm" role="button">
 David Torn - Cloud About Mercury (1987)
 </li>
@@ -66,8 +63,8 @@ Stars of the Lid - Music For Nitrous Oxide (1994)
 <li data-cover="http://coverartarchive.org/release/fb581132-a5ca-4ff1-bac4-cbc2df5dcb6a/28114159888-500.jpg" data-tags="jazz, ecm, jazz guitar" role="button">
 Terje Rypdal - If Mountains Could Sing (1995)
 </li>
-<li data-cover="https://img.discogs.com/NYi9C2z_wT4LMFXsRvhOGtS0xGk=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10855091-1505414560-6395.jpeg.jpg" data-tags="soundtrack" role="button">
-James Horner - Apollo 13 (1995-06-27)
+<li data-cover="http://coverartarchive.org/release/24bac0d7-436b-49c1-b876-6e0bf805ce39/26436487910-500.jpg" data-tags="guitar" role="button">
+David Torn - Tripping Over God (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/711946e6-0c3e-3b60-92dd-20e3ced9d0e5/6087710143-500.jpg" data-tags="electronic, ambient" role="button">
 Passengers - Original Soundtracks 1 (1995-11-01)
@@ -108,6 +105,12 @@ The High Llamas - Buzzle Bee (2000-10-16)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
+<li data-cover="https://img.discogs.com/HhVJetsJlkgprCuvhWpqhR8UER0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488705-1235405414.jpeg.jpg" data-tags="piano" role="button">
+Howe Gelb - LULL Some Piano (2001-10-15)
+</li>
+<li data-cover="https://img.discogs.com/YFjai2Q-wOIf5O3F8SCIx6xTWjU=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463238-1121692575.jpg.jpg" data-tags="cinematic, art pop, space lounge, sci-fi dystopia" role="button">
+Goldfrapp - Pilots (2001-11-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/72531818-3b64-410c-9079-71af1fb76cce/2529729935-500.jpg" data-tags="jazz, instrumental, fusion, cinematic, creativity, guitar jazz" role="button">
 Pat Metheny - Parallel Universe (2001-11-13)
 </li>
@@ -126,6 +129,9 @@ Paddy McAloon - I Trawl The Megahertz (2003-06-02)
 <li data-cover="https://img.discogs.com/ou1iOUdCVtVWF-EvAc_Acn8KUpo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4641740-1414015560-7431.jpeg.jpg" data-tags="electronic, folk, downtempo, acoustic, cinematic" role="button">
 Jeff Martin - SPOONS (2004)
 </li>
+<li data-cover="https://img.discogs.com/pbVDmWTNfCZOeXg17YXWPR52_Ac=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5536519-1395924066-4598.jpeg.jpg" data-tags="pop, singer-songwriter, americana, cinematic, beat, singer/ songwriter" role="button">
+Penelope Houston - The Pale Green Girl (2004-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ddc1268-5d8c-4ef6-a15b-8c0d2a8f5456/5492614802-500.jpg" data-tags="ambient, idm" role="button">
 Arovane - Lilies (2004-06-14)
 </li>
@@ -141,12 +147,6 @@ Kaada/Patton - Romances (2004-11-30)
 <li data-cover="http://coverartarchive.org/release/4186ee51-446c-43a6-9a3a-3faa1113f73c/1325336282-500.jpg" data-tags="indie, instrumental, math rock, post-rock, minimal, cinematic, postrock, hypnotic, post rock, soundscapes, guitar music, free albums, annes" role="button">
 Jasmin - EP01 (2004-12-08)
 </li>
-<li data-cover="https://img.discogs.com/1LmzhcN8Z4tk35tgLljaCy_6xKM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491905-1143418354.jpeg.jpg" data-tags="electronic, electronica, indie, dark, cinematic, creative commons, positron records, melodic electronica, sister machine gun, micronaut" role="button">
-Micronaut - Europa (2005-01-25)
-</li>
-<li data-cover="https://img.discogs.com/STNEopg_0uaLKjwbXEwE_u-Bdbo=/fit-in/300x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454555-1115752438.jpg.jpg" data-tags="electronic, relaxing, irish" role="button">
-Halfset - Dramanalog (2005-04-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/46b88940-d989-4ff2-9dc4-a95e99e1850b/6639801263-500.jpg" data-tags="electronica, melodic, cinematic, bristol, melancholy, noir, dusseldorf, choke, victorian, hasselhoff, gravenhurst, webertron, musical-box" role="button">
 Bronnt Industries Kapital - Virtute et Industria (2005-05-02)
 </li>
@@ -156,26 +156,23 @@ Pete Namlook & New Composers - Russian Spring (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/9eaa7ce8-4048-4fa7-b73d-dfc838fa3074/9605540179-500.jpg" data-tags="post-rock" role="button">
 Blindfold - Blindfold (2005-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf25876f-63c8-4364-a596-da4c24cec083/1324532578-500.jpg" data-tags="indie, post-rock" role="button">
-Jasmin - EP02 (2005-12-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/56c4733c-2257-440c-b7d8-5691e0d0712b/20197133057-500.jpg" data-tags="greek alternative rock" role="button">
 Film - Angel B (2006-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8b05db0-7c71-3354-a58b-2e64bf871b07/1087971489-500.jpg" data-tags="meditative" role="button">
 Doc & Lena Selyanina - Noble, Sentimental & Ambient Waltzes (2006-03-21)
 </li>
-<li data-cover="https://img.discogs.com/w-tBECocLjYoNIGMLlTdtiOe76c=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7383041-1440326051-6636.jpeg.jpg" data-tags="other-worldly" role="button">
-Hotel De Ville - HOTEL DE VILLE (2006-04-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/41d8f3a8-3bf7-4b41-91fb-b17a57f5120b/14490068133-500.jpg" data-tags="ambient" role="button">
 Marsen Jules - Les Fleurs (2006-06-18)
 </li>
-<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
-Project Divinity - Divinity (2006-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/f5d2f499-c0bb-4df3-9363-4f8ed63de886/7844227366-500.jpg" data-tags="electronica" role="button">
 John Beltran - Human Engine (2006-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ca14a9e0-7537-4369-8810-eb4ec876aec1/1360700655-500.jpg" data-tags="electronic, ambient, experimental, piano" role="button">
+Muhr - Drames Et Précipices (2006-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcf078a2-5152-437e-a9a4-3310105d40c1/1360777844-500.jpg" data-tags="ambient" role="button">
+OCP - atmos (2006-12-30)
 </li>
 <li data-cover="https://img.discogs.com/tyP4qSVk32vWeUHkKREkaPp0J18=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4286908-1462084600-1770.png.jpg" data-tags="soundtrack" role="button">
 David Torn - Lars and the Real Girl (2007)
@@ -204,17 +201,23 @@ Solipsism - Organicism Special Edition (2007-08-10)
 <li data-cover="https://img.discogs.com/FKSmemFNRDYknIRFuX1ofbAG8DI=/fit-in/532x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060796-1364503394-4524.jpeg.jpg" data-tags="experimental, post-rock, experimental pop, cinematic, toytronica, avant-pop, dream jazz, she sings so sweetly, music trip, trip in the pram" role="button">
 Pram - The Moving Frontier (2007-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f27c406-2933-4cc6-a9c5-493ce4e5949e/6927227995-500.jpg" data-tags="electronic, rock, ambient, progressive rock, prog, krautrock, cinematic, glitch, intense, guitars, burning shed, post-prog" role="button">
+The Resonance Association - Failure Of The Grand Design (2007-10-14)
+</li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="classical, chill, instrumental, solo, contemporary, modern, romantic, new age, melodic, cinematic, debussy, haunting, composer, emotional, relaxing, calming, soulful, erik satie, piano music, john williams, film music, dynamic, emotive, powerful, enya, classical piano, rapture, samson, ludwig van beethoven, mozart, beethoven, pianist, michael, piano solo, serene, chopin, jerry goldsmith, impressionism, classical music, movie music, contemporary instrumental, ennio morricone, yann tiersen, keith jarrett, solo piano, captivating, contemporary piano, instrumentalist, classical pop, new age piano, new age music, modern piano, contemporary music, soloist, claude debussy, impressionistic, ralph vaughan williams, yanni, wolfgang amadeus mozart, solo instrumental, instrumental music, instrumental piano, contemporary instrumental music, provoking, james horner, jim brickman, frederick chopin, michael nyman, david nevue, sheet music, nicholas gunn, david lanz, suzanne ciani, piano sheet music, william joseph, stephan moccio, modern piano solo, solo piano music, solo piano sheet music, a still motion, clara ponty, michael samson, still motion productions, until tomorrow comes" role="button">
 Michael Samson - A Still Motion (2008)
+</li>
+<li data-cover="https://img.discogs.com/6HFs1ZABieHon1DIxfkoW4uEI0I=/fit-in/435x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5357261-1391373367-7365.jpeg.jpg" data-tags="pop, alternative, ambient, indie pop, indie rock, downtempo, epic, ambient pop, indietronica, shoegaze, dreamy, cinematic, atmospheric, driving music, free, dream pop, progressive, space rock, melancholic, slowcore, post rock, spacey, shoegazer, post pop, free music, awesomeness, lush, layered, newgaze, dream rock, indie experimental" role="button">
+My Majestic Star - Too Late, The Day (2008)
+</li>
+<li data-cover="https://img.discogs.com/QvCw3GDHnZJtqRY7BbI-x-Pf7Oo=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588838-1391620435-2636.png.jpg" data-tags="post-rock, ambient, post rock" role="button">
+Sankt Otten - Wunden gibt es immer wieder (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f337fae-9026-4b10-9a54-8c37e687de3c/16423326140-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - Un automne en solitude (2008-03-14)
 </li>
 <li data-cover="https://img.discogs.com/GcJHvC1Lw2Vlg3hZpuAwirBrdXo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337906-1377267329-3961.jpeg.jpg" data-tags="experimental, cinematic, avant-garde" role="button">
 Star of Ash - The Thread (2008-03-24)
-</li>
-<li data-cover="https://img.discogs.com/IbMuPSU7awPxdRyUdt_Nl1rAHlg=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225596-1329953361.jpeg.jpg" data-tags="ambient, downtempo" role="button">
-Subheim - Approach (2008-04-01)
 </li>
 <li data-cover="https://img.discogs.com/qdpxEl-x9hjt9FU7JY1_li8QxOE=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1313380-1581695655-5164.jpeg.jpg" data-tags="ambient, kranky" role="button">
 Christopher Bissonnette - In Between Words (2008-04-14)
@@ -227,6 +230,9 @@ Metaform - Beats from the Crypt: Early Works (2008-11-17)
 </li>
 <li data-cover="https://img.discogs.com/ZPnMNFkQP1nCUfYAjD7x6v0tg1A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15653528-1595290507-7628.png.jpg" data-tags="soundtrack, chillout, electronic, electronica, indie, ambient, experimental, downtempo, indietronica, cinematic, soundscape, contemplative, illbient, intelligent, dark ambient, sci-fi, netlabel, free music, science fiction, brooding, time travel, pensive, pixies palace, anti-genre, thematic, chillbient, metafiction" role="button">
 Brokenkites - The Envious Dead (2009)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronic, ambient" role="button">
+Brokenkites - Flight School (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1074e135-85a0-42ee-a59a-21337553f7f8/16423349997-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - An Anthology Of Past Misfortunes (2009-02-14)
@@ -246,17 +252,11 @@ Kazety - Kazety (2009-11-01)
 <li data-cover="http://coverartarchive.org/release/1a452707-ebe7-4438-91d8-d8a0e6b96e11/16423399200-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - Abondance de périls (2010-03-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/009a01e7-774e-4d78-b435-e6d1defcbe76/3489385421-500.jpg" data-tags="electronica, trip-hop, alternative rock, breaks, breakbeat" role="button">
-Hybrid - Disappear Here (2010-03-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/3079f5e4-9306-4fff-84ad-403f2546cebf/4801344877-500.jpg" data-tags="post-rock" role="button">
 My Education - Sunrise (2010-04-27)
 </li>
 <li data-cover="https://img.discogs.com/zwHoPny1_RAa6Ouu92B6nr0n8hs=/fit-in/597x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494447-1287099481.jpeg.jpg" data-tags="cinematic" role="button">
 Foetus - Hide (2010-09-29)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronic, indie, vocal, alternative, folk, ambient, london, cinematic, drum and bass, chill-out, asian underground, down-tempo, tabla, folktronic, independant, eastern electronic, fuzzy morning" role="button">
-Polaroid 85 - Fuzzy Mornings EP (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)

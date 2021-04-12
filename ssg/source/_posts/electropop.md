@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:09:01.571Z
+date: 2021-04-12T22:32:01.460Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")

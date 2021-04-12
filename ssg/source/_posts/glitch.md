@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:59:01.427Z
+date: 2021-04-12T22:30:01.530Z
 title: "glitch: 100 albums you must listen to before you die"
 ---
 ![The Glitch Mob - Drink the Sea (2010-05-25)](http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg "The Glitch Mob - Drink the Sea (2010-05-25)")
@@ -135,9 +135,6 @@ Justice - Waters of Nazareth (2005-09-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 Metronomy - Pip Paine (Pay The £5000 You Owe) (2006)
 </li>
-<li data-cover="https://img.discogs.com/hMXGybA_dqZU6XJfJCYJLTgRePk=/fit-in/548x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2047617-1260714350.jpeg.jpg" data-tags="experimental, glitch" role="button">
-Maps and Diagrams - Antennas And Signals (2006-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/78b8aeea-812d-46e8-8711-0df46f60623e/14116192207-500.jpg" data-tags="ambient" role="button">
 Loscil - Plume (2006-05-22)
 </li>
@@ -158,6 +155,9 @@ Metronomy - Nights Out (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
+</li>
+<li data-cover="https://img.discogs.com/-CuOB58AO3p7xDlSJYwEtaIiano=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1110723-1595031486-8377.jpeg.jpg" data-tags="ninja tune" role="button">
+Daedelus - Fair Weather Friends (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
@@ -185,9 +185,6 @@ Mimosa - Hostilis (2008-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1fdc581-6f03-46a1-ac5a-cc18dfff1374/5428348641-500.jpg" data-tags="glitch-hop" role="button">
 Kraddy - Android Porn / Steppin' Razor - Single (2008-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
-Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f5b2341-22e2-41f1-943c-fd5ec913b021/6709656786-500.jpg" data-tags="electronic" role="button">
 She - Orion (2009-09-14)
@@ -254,6 +251,9 @@ Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bc86b31-424a-48bc-8156-4d9656bb5f30/2751813457-500.jpg" data-tags="electronic, indie, idm, glitch, glitch mob" role="button">
 The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/1955fb64-546c-43da-b8b6-d315a523ab8f/1149752061-500.jpg" data-tags="electronic, ambient, glitch, minimalist, wfmu heavily played records" role="button">
+Fennesz - Seven Stars (2011-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/951807c0-74f0-44a9-abf6-856f4c54dbc7/9194695634-500.jpg" data-tags="electronic, electro, glitch" role="button">
 Cryptex - Isolated Incidents (2011-10-05)

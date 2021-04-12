@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:06:01.651Z
+date: 2021-04-12T22:13:07.065Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -9,10 +9,10 @@ title: "experimental rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">Blur - 13 (1999-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">Radiohead - Kid A (2000-08-03)</li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">Radiohead - Amnesiac (2001-06-04)</li>
+<li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">Radiohead - The King of Limbs (2011-02-18)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">alt-J - This Is All Yours (2014-09-18)</li>
 </ol>
 List of 100 - under the cut.
@@ -68,9 +68,6 @@ Slint - Spiderland (1991-03-15)
 </li>
 <li data-cover="https://img.discogs.com/HJT94iGkU8e2ZxaB2qa_BtPI39w=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893051-1170005593.jpeg.jpg" data-tags="experimental" role="button">
 Mr. Bungle - Mr. Bungle (1991-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
@@ -183,6 +180,9 @@ Ratatat - Classics (2006-08-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/a65f1f2f-bee5-463a-ad31-34a031c5f007/14928727017-500.jpg" data-tags="guitar virtuoso, instrumental, experimental, avant-garde" role="button">
+Buckethead - Crime Slunk Scene (2006-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ce948fc-a995-4c62-8f00-3f5db5700341/4889935052-500.jpg" data-tags="indie rock" role="button">
 mewithoutYou - Brother, Sister (2006-09-26)
 </li>
@@ -207,8 +207,8 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
-<li data-cover="https://img.discogs.com/Hw_ZndAWRxMEnyuhvHsBGBsri-g=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437402-1246294133.jpeg.jpg" data-tags="metal, rock, alternative, experimental rock, alternative metal, experimental metal, scars on broadway, verwirrteshanuta" role="button">
-Scars on Broadway - They Say (2008-05-27)
+<li data-cover="https://img.discogs.com/co3Y0nu1tb67RuYNHWMcIgeVPFM=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568130-1244035550.jpeg.jpg" data-tags="alternative rock, alternative metal, rock" role="button">
+Scars on Broadway - Scars On Broadway (2008-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
@@ -227,6 +227,9 @@ Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f742e01-1a66-4592-bf8f-269e2b34f356/4485185997-500.jpg" data-tags="alternative rock" role="button">
+Radiohead - In Rainbows Disk 2 (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/53e71236-6849-3089-a38b-4b84072fe38b/26299801216-500.jpg" data-tags="post-hardcore, rock, experimental rock" role="button">
 Thrice - Beggars (2009-08-11)
@@ -269,9 +272,6 @@ Radiohead - The King of Limbs (2011-02-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0a2429b-26e5-352f-8561-d7ee9e606e6c/4922570721-500.jpg" data-tags="math rock" role="button">
 Battles - Gloss Drop (2011-06-05)

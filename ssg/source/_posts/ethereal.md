@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:13:01.607Z
+date: 2021-04-12T22:27:01.459Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Mazzy Star - So Tonight That I Might See (1993-09-27)](http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg "Mazzy Star - So Tonight That I Might See (1993-09-27)")
@@ -33,8 +33,8 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
 </li>
-<li data-cover="https://img.discogs.com/1HBW6zvyauirjRWawLzeIROBh5k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140088-1154032651.jpeg.jpg" data-tags="shoegaze, dreamy" role="button">
-lovesliescrushing - Bloweyelashwish (1993)
+<li data-cover="https://img.discogs.com/lW-7zuu7G23L3MfQnAmLV0JpHR0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764296-1527492399-1483.jpeg.jpg" data-tags="alternative rock, post-punk, dream pop, visual kei, luna sea" role="button">
+Luna Sea - EDEN (1993-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
@@ -78,9 +78,6 @@ Hannah Fury - The Thing That Feels (2000)
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
-The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7da4b4f-31ae-408f-87de-18cf8fe8a4c7/22396327500-500.jpg" data-tags="gothic, neoclassical darkwave, ethereal, darkwave" role="button">
 Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
 </li>
@@ -117,11 +114,11 @@ Faith and the Muse - The Burning Season (2003-07-08)
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/60a13ddd-9ea6-4426-b927-cb0e940450d7/5225689875-500.jpg" data-tags="goa" role="button">
-1200 Micrograms - Heroes Of The Imagination (2003-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee6c545b-7cba-41b1-9cf4-d2edb93259d2/3458028973-500.jpg" data-tags="contemporary, portugal, ethereal, interesting, zugfahrmusik, granka, hurina, world collabs, folk - portugal, atahualpa yupanqui, jonasmusik, el payador perseguido" role="button">
 Rodrigo Leão - Cinema (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/479ca9bb-bdeb-4e9f-a0e2-937851ccbecf/7633029193-500.jpg" data-tags="new age" role="button">
+Secret Garden - Earthsongs (2004)
 </li>
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
@@ -144,8 +141,11 @@ Flëur - Сияние (2004-10-12)
 <li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
 Autolux - Future Perfect (2004-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
-The Verve - This Is Music: The Singles 92-98 (2004-11-01)
+<li data-cover="http://coverartarchive.org/release/3b803df2-86cb-4106-91b1-1c269b1776fc/18247981407-500.jpg" data-tags="ambient, female vocalists, world, new age, ethereal, world fusion, neo-classical, heavenly voices, lisa gerrard" role="button">
+Lisa Gerrard & Jeff Rona - A Thousand Roads (2005-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ced64954-3160-3e27-aefe-89c4c709d67f/21236770954-500.jpg" data-tags="ambient" role="button">
+Conjure One - Extraordinary Ways (2005-08-30)
 </li>
 <li data-cover="https://img.discogs.com/W_H0_HJJIh_uTOBF9lP9M5SI-zk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-913381-1172231675.jpeg.jpg" data-tags="ambient, ethereal" role="button">
 Amon Tobin - Bloodstone (2006)
@@ -164,6 +164,9 @@ APSE - Spirit (2006-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6eeb86b8-b24b-3c08-909f-efd59f6d48c7/3362466019-500.jpg" data-tags="ethereal, the shins - phantom limb, gene loves, gene alt, folk-alt" role="button">
 The Shins - Phantom Limb (2006-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/625a15f6-c80c-4fd0-92fe-fe50394c56ac/4397360415-500.jpg" data-tags="post-punk, ethereal, darkwave, art pop, ethereal wave" role="button">
+Оля и Монстр - Оля и Монстр (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f857ab9-6cd0-45e6-b618-93947c185cf5/13071763593-500.jpg" data-tags="neo-soul" role="button">
 Willow - Willow (2007-03)
@@ -209,9 +212,6 @@ Julianna Barwick - Florine (2009-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd1d3a84-3600-49cd-b1d7-ccd4d10c58af/3168123217-500.jpg" data-tags="ethereal, folktronica" role="button">
 Valravn - Koder på snor (2009-09-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/e44a9d06-d71f-3b2d-821d-8cdade611a12/7603461698-500.jpg" data-tags="female vocalists" role="button">
-Lisa Gerrard - The Black Opal (2010-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:11:01.495Z
+date: 2021-04-12T22:18:01.529Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -83,9 +83,6 @@ Pearl Jam - Last Kiss (1999-06-23)
 </li>
 <li data-cover="https://img.discogs.com/EbK255yEL3LCFlsP9QOtE3kpYIA=/fit-in/595x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3173387-1378828304-6469.jpeg.jpg" data-tags="pop, 90s, covers" role="button">
 A*Teens - The ABBA Generation (1999-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
-Helloween - Metal Jukebox (1999-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
 Johnny Cash - American III: Solitary Man (2000-10-17)
@@ -177,9 +174,6 @@ Paul Anka - Rock Swings (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b2fcbdd-6fb5-40bd-ae9e-0698cce97d8f/2044947282-500.jpg" data-tags="covers, ana torroja" role="button">
-Ana Torroja - Me Cuesta Tanto Olvidarte (2006)
-</li>
 <li data-cover="https://img.discogs.com/L4fYIVFip-y8ol8EFzFpJ-p7pWY=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8012303-1484173057-5055.jpeg.jpg" data-tags="covers, less than 40 minutes" role="button">
 Tegan and Sara - Songs for Christoff (2006)
 </li>
@@ -264,6 +258,9 @@ Pomplamoose - Tribute to Famous People (2010-03-15)
 <li data-cover="https://img.discogs.com/RsNWNkT6wr7JMO-k8Js_IRiwdjA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198730-1359957277-8561.jpeg.jpg" data-tags="covers" role="button">
 Soulive - Rubber Soulive (2010-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/92694197-db02-49e9-b85c-266ab7cb9c71/7004375509-500.jpg" data-tags="10s, sungha jung" role="button">
+Sungha Jung - Perfect Blue (2010-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)
 </li>
@@ -278,6 +275,9 @@ Glee Cast - Me Against The Music (Glee Cast Version) (2010-09-28)
 </li>
 <li data-cover="https://img.discogs.com/WK1gsKSmS5X133KZp4aK_QT1wD8=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2589830-1291999111.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - I Want To Hold Your Hand (Glee Cast Version) (2010-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/85e7fb03-314a-457e-a1a0-f1274c4b5956/1742976128-500.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - Only The Good Die Young (Glee Cast Version) (2010-10-05)
 </li>
 <li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - Don't Go Breaking My Heart (Glee Cast Version) (2010-10-12)

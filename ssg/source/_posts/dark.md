@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:37:01.450Z
+date: 2021-04-12T22:06:07.055Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -87,9 +87,6 @@ PJ Harvey - Is This Desire? (1998-09-28)
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
-Robbie Williams - I've Been Expecting You (1998-10-26)
-</li>
 <li data-cover="https://img.discogs.com/i46qB3mQKhVEKWlKlWPbDtFSMhM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9906320-1488305512-4362.jpeg.jpg" data-tags="blues" role="button">
 Junior Kimbrough - Meet Me in the City (1999)
 </li>
@@ -110,6 +107,9 @@ Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c46ca4e-010b-4d9a-aee3-cc814ac07568/15344268208-500.jpg" data-tags="ambient, experimental, clinically romantic, achingly intelligent" role="button">
 Coil - Musick to Play in the Dark, Volume 2 (2000-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/4aacec70-87db-457e-96dc-59020c412e46/6212339784-500.jpg" data-tags="electronic, trip-hop, dark, winter, 2000s, for rainy days, nice nait" role="button">
+DJ Shadow - Dark Days (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
@@ -270,8 +270,8 @@ Editors - In This Light and on This Evening (2009-09-10)
 <li data-cover="https://img.discogs.com/WKOPhtOLOcJTexdqT9-NIbgZzL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1972619-1510337422-8008.png.jpg" data-tags="doom metal, sludge" role="button">
 A Storm of Light - Forgive Us Our Trespasses (2009-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
+<li data-cover="https://img.discogs.com/OfnVaNWcLC_1fJP2srRq-1JJxHY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8895387-1470992353-6458.jpeg.jpg" data-tags="synthpop" role="button">
+Mesh - A Perfect Solution (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Rated R (2009-11-16)
@@ -309,14 +309,14 @@ Cold Specks - I Predict a Graceful Expulsion (2012-05-18)
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Trilogy (2012-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/92f12c90-b11d-47f6-b94e-1c1f6b2ba393/15714276117-500.jpg" data-tags="japanese, female vocalists, dark, girls, jpop, asian, j-pop, girl band, girl groups, gloomy, asian pop, i love this fucking album" role="button">
-Kalafina - Consolation (2013-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d276ca4-c5da-4ad7-a838-2939d57b6a55/7522883582-500.jpg" data-tags="rock, alternative" role="button">
 Manchester Orchestra - Cope (2014-03-28)
+</li>
+<li data-cover="https://img.discogs.com/9PDtmZ2_henvYKywdGuB39NB2Ik=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5783225-1615539820-2462.jpeg.jpg" data-tags="metal, hard rock, epic, dark, funky, complex, groovy, jam band, prog-rock, grungy, epic guitar solos" role="button">
+Umphrey's McGee - Similar Skin (2014-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d20314b-2d1f-4c00-84ba-53d973044096/8264989926-500.jpg" data-tags="atmospheric black metal" role="button">
 Darkspace - Dark Space III I (2014-09-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:05:01.453Z
+date: 2021-04-12T21:58:07.152Z
 title: "post hardcore: 100 albums you must listen to before you die"
 ---
 ![Chiodos - All&#39;s Well That Ends Well (2005-07-26)](http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg "Chiodos - All's Well That Ends Well (2005-07-26)")
@@ -12,8 +12,8 @@ title: "post hardcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">Thrice - Vheissu (2005-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">Chiodos - Bone Palace Ballet (2007-09-04)</li>
+<li data-cover="https://img.discogs.com/G_2D0AjMs78K4xMs5169gOnfx9Q=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3168720-1318866783.jpeg.jpg" data-tags="emocore, screamo, post-hardcore, post hardcore" role="button">Hopes Die Last - Six Years Home (2008-08-04)</li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - This War Is Ours (2008-10-18)</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">Pierce The Veil - Selfish Machines (2010-06-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,9 +32,6 @@ Fugazi - In On the Kill Taker (1993-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/baee0b71-4a39-436b-bf62-78f46f235c00/3330961306-500.jpg" data-tags="alternative metal" role="button">
-Helmet - Betty (1994-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b572ec0-9b8f-3b54-af1b-5d3c680a20a6/21433211070-500.jpg" data-tags="punk, emo, punk rock, post-hardcore" role="button">
 Hot Water Music - Fuel for the Hate Game (1997-03)
@@ -111,9 +108,6 @@ Senses Fail - Let It Enfold You (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/1d1a12c1-31d6-4797-b28e-748d99dddbc1/13205434693-500.jpg" data-tags="post hardcore, indie, experimental, post-hardcore" role="button">
 These Arms Are Snakes - Oxeneers or The Lion Sleeps When Its Antelope Go Home (2004-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
-The Blood Brothers - Crimes (2004-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
@@ -140,6 +134,9 @@ The Fall of Troy - Doppelganger (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/PF-4IeNsOVZ5IHNmszQKaeSGVkA=/fit-in/508x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537138-1271067043.jpeg.jpg" data-tags="metalcore, post-hardcore, emocore" role="button">
 From Autumn To Ashes - Abandon Your Friends (2005-08-24)
+</li>
+<li data-cover="https://img.discogs.com/zQUkpkdvpgIS2Bd6qxEp3lSJz7I=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-623496-1454041649-2821.jpeg.jpg" data-tags="progressive metal" role="button">
+Burst - Origo (2005-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - Vheissu (2005-10-18)
@@ -180,11 +177,11 @@ mewithoutYou - Brother, Sister (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
-<li data-cover="https://img.discogs.com/XWBPucx_MnBGY2_OF_I_3eg6kwQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027802-1185707476.jpeg.jpg" data-tags="post-hardcore, post hardcore" role="button">
-These Arms Are Snakes - Easter (2006-09-26)
-</li>
 <li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
 Senses Fail - Still Searching (2006-10-09)
+</li>
+<li data-cover="https://img.discogs.com/31jHQ_fZz7FaVf47rJfFLWGkEdg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11772186-1522104921-5771.jpeg.jpg" data-tags="post-hardcore, post hardcore, electro indie, power pop punk" role="button">
+Breathe Carolina - Gossip (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
@@ -291,14 +288,17 @@ Seahaven - Ghost (2010-05-25)
 <li data-cover="http://coverartarchive.org/release/994bc37e-941a-4bd9-a49a-622049b1d23a/18004497580-500.jpg" data-tags="metalcore, post hardcore" role="button">
 Eyes Set to Kill - Broken Frames (2010-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
 <li data-cover="https://img.discogs.com/h8mSdwLyHnh0wIZRLtg5I05DwcM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296987-1415845055-8582.jpeg.jpg" data-tags="rock, alternative, pop punk, post-hardcore, emocore, post hardcore, emopop" role="button">
 Conditions - Fluorescent Youth (2010-09-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/166e3c26-d4bb-4764-8bef-0f789e09a0cd/15848632651-500.jpg" data-tags="alternative, post-hardcore" role="button">
+Emery - We Do What We Want (2011-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/f03fc5b3-2ef7-4191-9386-7eed09d76090/3429279743-500.jpg" data-tags="emo, post-hardcore, j-rock, post hardcore" role="button">
 ONE OK ROCK - 残響リファレンス (2011-05-10)
+</li>
+<li data-cover="https://img.discogs.com/cjMrpS1tMsezqc84ALkXeDiJPlw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6560120-1422017625-4351.jpeg.jpg" data-tags="emo, punk rock, post hardcore" role="button">
+Old Gray - Do I Dare Disturb the Universe (2011-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)

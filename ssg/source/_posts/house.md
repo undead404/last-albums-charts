@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:14:01.453Z
+date: 2021-04-12T22:40:01.473Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -105,9 +105,6 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="http://coverartarchive.org/release/839570e0-dfe5-403f-b498-d6e6a08ab34f/28569193564-500.jpg" data-tags="electronic, dance" role="button">
 Faithless - Forever Faithless: The Greatest Hits (2005-05-16)
 </li>
-<li data-cover="https://img.discogs.com/YomW6vZcLjtiRQxmVQLvfgVIKlY=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5692220-1400075704-9012.jpeg.jpg" data-tags="electronic, electro, dance, house" role="button">
-Timo Maas - Pictures (2005-06-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
 Martin Solveig - Hedonist (2005-06-27)
 </li>
@@ -125,6 +122,9 @@ Bob Sinclar - Western Dream (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a141c6d9-6116-4dde-92a6-7cd7f763d070/3406106230-500.jpg" data-tags="dance, electronic" role="button">
 Basement Jaxx - Crazy Itch Radio (2006-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2395452-5ff5-3db7-a472-396e9ff994bf/25664690442-500.jpg" data-tags="electro, disco, dance, 00s" role="button">
+Cassius - 15 Again (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
 Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)

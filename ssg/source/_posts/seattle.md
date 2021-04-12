@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:07:01.425Z
+date: 2021-04-12T22:17:01.467Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
 ![Father John Misty - Fear Fun (2012-04-30)](http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg "Father John Misty - Fear Fun (2012-04-30)")
@@ -39,6 +39,9 @@ Love Battery - Between the Eyes (1990)
 <li data-cover="http://coverartarchive.org/release/215ca43e-982e-499d-852f-6898cc929410/12606679128-500.jpg" data-tags="grunge" role="button">
 Green River - Dry As A Bone/Rehab Doll (1990-09-13)
 </li>
+<li data-cover="https://img.discogs.com/tTbV2HtCpEX1D33qTYlFBx2A6MQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6716138-1425218489-9869.jpeg.jpg" data-tags="grunge" role="button">
+Screaming Trees - Uncle Anesthesia (1991-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee6bfa3c-6673-44ee-878e-cb6805765b58/12608688689-500.jpg" data-tags="grunge" role="button">
 Tad - 8-Way Santa (1991-01-30)
 </li>
@@ -75,6 +78,9 @@ Brad - Shame (1993-04-27)
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Vs. (1993-10-08)
 </li>
+<li data-cover="https://img.discogs.com/kKwg6FkUmcjenyepXE0UhCUx74s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378743-1462717240-1504.jpeg.jpg" data-tags="alternative" role="button">
+Sky Cries Mary - This Timeless Turning (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">
 Soundgarden - Superunknown (1994-03-07)
 </li>
@@ -99,6 +105,9 @@ Soundgarden - Down on the Upside (1996-05-13)
 <li data-cover="http://coverartarchive.org/release/c8d42cff-a67c-4a29-9c31-e28ad8fcc32d/10611684247-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - No Code (1996-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/c550b686-5e45-4b6a-a338-d3f27d5767c2/18609728557-500.jpg" data-tags="jazz, seattle, epic, checkitout, northwest" role="button">
+Tuatara - Breaking The Ethers (1997-05-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge, alternative, seattle, interiors, northwest, rivers all time favorite albums, ssij, tragically yours, tragically yours - bittersweet you, tragically yours - sister stone, discovering journey, tragically yours - give me one reason" role="button">
 Brad - Interiors (1997-06-03)
 </li>
@@ -119,9 +128,6 @@ Jerry Cantrell - Boggy Depot (1998-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d28b1565-137e-475b-b554-a4a9cde3810b/15145525545-500.jpg" data-tags="emo, indie rock" role="button">
 Sunny Day Real Estate - How It Feels to Be Something On (1998-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3a3f98f-656c-4311-b1f7-55b8dc717a50/5088468903-500.jpg" data-tags="grunge, alternative, rock, seattle" role="button">
-Mudhoney - Tomorrow Hit Today (1998-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge, rock, live" role="button">
 Pearl Jam - Live On Two Legs (1998-11-20)
@@ -165,9 +171,6 @@ Minus the Bear - This is What I Know About Being Gigantic (2001-11-20)
 <li data-cover="https://img.discogs.com/s7QxEkk-FxRKyQzkll_UUS74nr4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345157-1597423214-3871.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Pretty Girls Make Graves - Good Health (2002-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e6ba06f-d54d-4b7c-b8f1-58719d41e264/9637232441-500.jpg" data-tags="alternative" role="button">
-Mudhoney - Since We've Become Translucent (2002-08-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge" role="button">
 Pearl Jam - Riot Act (2002-11-11)
 </li>
@@ -204,9 +207,6 @@ The Presidents of the United States of America - Love Everybody (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/bc38ef5f-de82-4fe7-9646-72feb62e0cca/5930393750-500.jpg" data-tags="grunge" role="button">
 Nirvana - With the Lights Out (2004-11-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc879fc4-6855-43f7-afe6-ee8437fda951/15079203249-500.jpg" data-tags="hip-hop, underground hip-hop, conscious hip-hop" role="button">
-Common Market - Common Market (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">
 Foo Fighters - In Your Honor (2005-05-13)
 </li>
@@ -218,6 +218,9 @@ Harvey Danger - Little by Little (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0392562c-1a8a-44d5-8520-73da5881cc7e/26906695046-500.jpg" data-tags="hip hop" role="button">
 Blue Scholars - The Long March EP (2005-12-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/79a94b4a-a658-4a1a-8efc-5219ceed597b/26119982661-500.jpg" data-tags="folk, seattle, acoustic, folk rock, northwest, cowhat superalbums" role="button">
+Dave Carter & Tracy Grammer - Seven Is The Number (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
@@ -255,17 +258,11 @@ Common Market - The Winter's End EP (2009-03-24)
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">
 Pearl Jam - Backspacer (2009-09-18)
 </li>
-<li data-cover="https://img.discogs.com/beUkkW4LLNmpXiTcWG8FjLg8Wg4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194679-1584286276-6396.jpeg.jpg" data-tags="rock, grunge, alternative, seattle, live, northwest, fuzzy guitar goodness, where is my bong, music to play on mdma, drunk tank singalong tune" role="button">
-Mudhoney - Live At El Sol (2009-10-20)
-</li>
 <li data-cover="https://img.discogs.com/D5_Pv19U8urkTZ3la7gVujoMCvw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10323123-1495313942-1248.jpeg.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
 Ivan & Alyosha - The Verse, The Chorus (2009-10-20)
 </li>
 <li data-cover="https://img.discogs.com/ABRafESd9LrNMYITkr02_da30IQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199057-1269373276.jpeg.jpg" data-tags="indie, seattle, indie rock, lo-fi, psychedelic pop, 10s" role="button">
 Pill Wonder - Jungle/Surf (2010-03-16)
-</li>
-<li data-cover="https://img.discogs.com/G8CJXSrFx_vyi-x53xBSAgIxtpo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357339-1305964061.jpeg.jpg" data-tags="indie rock" role="button">
-Minus the Bear - Omni (2010-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">
 Band of Horses - Infinite Arms (2010-05-17)
@@ -302,6 +299,9 @@ Sol - Yours Truly (2012-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/34e73dee-80a2-494b-a73e-57de68bd9a85/2185516666-500.jpg" data-tags="folk" role="button">
 Damien Jurado - Maraqopa (2012-02-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, seattle, northwest" role="button">
+Brad - United We Stand (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">
 Father John Misty - Fear Fun (2012-04-30)

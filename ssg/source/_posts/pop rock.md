@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:26:01.808Z
+date: 2021-04-12T21:51:01.468Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -95,6 +95,9 @@ Kelly Clarkson - Breakaway (2004-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e79e742e-49c6-4f11-964e-ed89212c9736/28281473613-500.jpg" data-tags="emo, pop" role="button">
 Lindsay Lohan - Speak (2004-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
+Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
 The Academy Is... - Almost Here (2005-02-08)
@@ -197,9 +200,6 @@ Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9b36ee2-1f4f-4d01-ab6d-9ed975189ac9/21455987147-500.jpg" data-tags="alternative rock, pop rock, pop punk, russian roulette, j adore, ripped, posted to half, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
 Anarbor - Free Your Mind (2009-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfad6e2d-5ab5-4376-bb1c-7894b8f7f624/11211509245-500.jpg" data-tags="pop, ashley tisdale" role="button">
 Ashley Tisdale - Guilty Pleasure (2009-06-12)

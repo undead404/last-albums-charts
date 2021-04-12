@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T05:46:01.415Z
+date: 2021-04-12T22:15:35.137Z
 title: "neo soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)</li>
+<li data-cover="https://img.discogs.com/QFUSlMTrmE5eKdZXt4oBXc6crwk=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1621819-1365256122-7746.jpeg.jpg" data-tags="neo soul" role="button">Bilal - 1st Born Second (2001-07-31)</li>
 <li data-cover="http://coverartarchive.org/release/28964621-13f1-48eb-8546-e3bf84db2f14/15238553018-500.jpg" data-tags="soul, maxwell, rnb" role="button">Maxwell - Now (2001-08-21)</li>
 <li data-cover="https://img.discogs.com/FGn8MyRKwLPjXf1MyJZDS_NJ3z4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-150572-1454525554-4783.jpeg.jpg" data-tags="neo soul" role="button">Dwele - Subject (2003-05-20)</li>
-<li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">Miguel - All I Want Is You (2010-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">Frank Ocean - channel ORANGE (2012-07-10)</li>
@@ -32,6 +32,9 @@ Earth, Wind & Fire - Spirit (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1bae116-2121-420a-9673-3ded74028336/10013218835-500.jpg" data-tags="soul, jazz-funk" role="button">
 Ramp - Come Into Knowledge (1977)
+</li>
+<li data-cover="https://img.discogs.com/qWA88C_62Ue5T3nnhvcLvxILhWk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4448383-1365190241-1138.jpeg.jpg" data-tags="female vocalists" role="button">
+Lalah Hathaway - A Moment (1994-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/10124d42-a53f-4f1a-a3b2-ef92482ba940/17628859248-500.jpg" data-tags="soul, funk" role="button">
 Roy Ayers - Evolution: The Polydor Anthology (1995)
@@ -135,9 +138,6 @@ Zap Mama - Ancestry In Progress (2004-08-09)
 <li data-cover="https://img.discogs.com/XuMLR3boHgc5gyx2O2guMX7-tkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1511365-1367888751-8182.jpeg.jpg" data-tags="neo-soul" role="button">
 Jill Scott - Beautifully Human: Words and Sounds, Volume 2 (2004-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
-Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
-</li>
 <li data-cover="https://img.discogs.com/9a8xxjYSYuhSXeZvA4vlk3ZryMA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16002842-1601692246-1614.jpeg.jpg" data-tags="female vocalists, jazz" role="button">
 Lalah Hathaway - Outrun the Sky (2004-10-05)
 </li>
@@ -147,14 +147,14 @@ John Legend - Get Lifted (2004-10-25)
 <li data-cover="https://img.discogs.com/Bm3K-AQ-E3xs5p_FGH0gVmZqqWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3628890-1338018579-1886.jpeg.jpg" data-tags="soul" role="button">
 Conya Doss - Just Because (2004-11-09)
 </li>
+<li data-cover="https://img.discogs.com/UJe3SUojhgwIAMLgjpY94okoDh8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166398-1537950001-3960.jpeg.jpg" data-tags="rock, soul, punk, hardcore, indie rock, ska, ska punk, boston, ska-punk, independent, neo soul, neo-soul, skacore, massachusetts, quincy" role="button">
+The Glow - The Ghosts Are Out (2005)
+</li>
 <li data-cover="https://img.discogs.com/5g61htznL770S1GbBJAVDcjuoKU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3672712-1339783557-1967.jpeg.jpg" data-tags="neo-soul" role="button">
 Angela Johnson - Got To Let It Go (2005-06-06)
 </li>
 <li data-cover="https://img.discogs.com/J4gEin7krNry25Khi9DMcX47J9c=/fit-in/392x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524522-1129911755.jpeg.jpg" data-tags="neo soul" role="button">
 Dwele - Some Kinda (2005-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/b11a6b70-f435-4e50-8223-66af89346f94/5104716787-500.jpg" data-tags="downtempo" role="button">
-Sofa Surfers - Sofa Surfers (2005-10-28)
 </li>
 <li data-cover="https://img.discogs.com/gS99wBsu0GrxATpMifSV1_HI_e0=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591468-1137119629.jpeg.jpg" data-tags="soul" role="button">
 Goapele - Change It All (2005-12-27)
@@ -164,6 +164,9 @@ Sabrina Cuie - Body Language (2006)
 </li>
 <li data-cover="https://img.discogs.com/XGUj8MtZFiX4or3OtCiZLA5ev0I=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409813-1217282926.jpeg.jpg" data-tags="soul, neo soul, omar5" role="button">
 Omar - Sing (If You Want It) (2006-03-08)
+</li>
+<li data-cover="https://img.discogs.com/TOB79NxRE3nUxHIgl2a99zDPvZc=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7352716-1439583586-8671.jpeg.jpg" data-tags="funky" role="button">
+Joi - Tennessee Slim is the BOMB (2006-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/00f200b3-5329-40cc-8895-65b91161f3a3/12697075442-500.jpg" data-tags="neo-soul" role="button">
 Hil St. Soul - SOULidified (2006-04-16)
@@ -179,9 +182,6 @@ Joy Denalane - Born & Raised (2006-08-11)
 </li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
-</li>
-<li data-cover="https://img.discogs.com/R51Nn2y18fIqFNZx0r758WSDCAc=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1034695-1189536009.jpeg.jpg" data-tags="ambient, trip hop" role="button">
-Cirkus - Laylow (2006-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/117548f8-3255-432a-82ef-5813cb1ed4ca/24622953430-500.jpg" data-tags="neo-soul" role="button">
 Anthony David - The Red Clay Chronicles (2006-09-26)

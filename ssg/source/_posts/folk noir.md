@@ -1,19 +1,19 @@
 ---
-date: 2021-04-12T03:50:01.434Z
+date: 2021-04-12T21:59:01.453Z
 title: "folk noir: 100 albums you must listen to before you die"
 ---
-![Patrick Wolf - The Bachelor (2009-06-01)](http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg "Patrick Wolf - The Bachelor (2009-06-01)")
+![Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)](http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg "Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e9e0bf3e-9a94-3585-93ef-e6c1f5e0e5de/23505005206-500.jpg" data-tags="martial industrial, neofolk" role="button">Blood Axis - The Gospel of Inhumanity (1995-08)</li>
 <li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">Garmarna - Vedergällningen (1999-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/07b341fc-9fad-41ee-9b4c-8ffa86c395b5/2044678583-500.jpg" data-tags="folk noir, neofolk, neoclassical, celtic folk, wyrd folk, experimental folk, funeral folk, ethereal folk, darkfolk, ogham the ogham, je dirai quelque jour vos naissances latentes, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">Sieben - Ogham Inside the Night (2005)</li>
 <li data-cover="http://coverartarchive.org/release/241e4bee-a9ff-4cb2-87a2-259758a67dbf/3418037796-500.jpg" data-tags="alt-country" role="button">Tarantella - Esqueletos (2005-11-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, post-punk, folk noir, retroschool, r parasol" role="button">Rykarda Parasol - Our Hearts First Meet (2006)</li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">Patrick Wolf - The Bachelor (2009-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/b037ecc8-45fa-43c1-bf9a-30c4934b3aed/3104789300-500.jpg" data-tags="neofolk, neo folk" role="button">Neun Welten - Destrunken (2009-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg" data-tags="psychedelic folk, psychedelic neofolk" role="button">Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/7d744184-34a0-415a-b89e-6f8c7ed2d305/11633838088-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">Blood Axis - Ultimacy (2011-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/749b013d-fd81-4ca1-9acd-4c5de34ba331/5904656404-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, music i tried but didnt like, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus, eurasian artists european association" role="button">Dernière Volonté - Mon Meilleur Ennemi (2012-05-24)</li>
+<li data-cover="https://img.discogs.com/jxA6YtZT1NSzgKBaGmcA4u-_6Ww=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5801020-1436292648-1228.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, musk ox, nox-aeternus" role="button">Musk Ox - Woodfall (2014-06-17)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -114,9 +114,6 @@ Novo Homo - Private Hell (2004)
 <li data-cover="https://img.discogs.com/bQKXi5r6CoYSeEOnTPG2tY9uGY0=/fit-in/391x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-264594-1122716850.jpg.jpg" data-tags="neofolk" role="button">
 Werkraum - Unsere Feuer Brennen! (2004-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9755e6bf-c439-4e09-bd7f-1300a770ce87/23650141567-500.jpg" data-tags="martial industrial, industrial" role="button">
-Kreuzweg Ost - Edelrost (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/91317fc0-0cf7-49de-9ba0-5a1efdc27d54/13857043146-500.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, nox-aeternus" role="button">
 Nebelung - Mistelteinn (2005)
 </li>
@@ -128,9 +125,6 @@ Corde Oblique - Respiri (2005)
 </li>
 <li data-cover="https://img.discogs.com/Xz2F3hJV1GXk9XlcykENIjejuhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13967827-1565114898-3972.jpeg.jpg" data-tags="dark folk" role="button">
 Moon Far Away - Беловодие (2005)
-</li>
-<li data-cover="https://img.discogs.com/Ln_ol8MY9W6Sk1gIwIoEaGObhLI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-537190-1364762979-4513.jpeg.jpg" data-tags="folk" role="button">
-Lau Nau - Kuutarha (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/87b3cb1c-554c-43e9-a4d0-936e1c581eb0/3259790727-500.jpg" data-tags="folk, canadian, folk noir, nancykitten all-time favourite albums, e a vajagic" role="button">
 Elizabeth Anka Vajagic - Nostalgia/Pain (2005-05-16)
@@ -158,6 +152,9 @@ Nebelung - Reigen (2006)
 </li>
 <li data-cover="https://img.discogs.com/0DtbNoiwZL96dkTt9soXCuBz52w=/fit-in/555x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-712641-1152637704.jpeg.jpg" data-tags="je devrais avoir mon enfer de la caresse" role="button">
 Michael Cashmore - Sleep England (2006-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee381199-3002-4c63-b9b6-de8015b24377/16360944948-500.jpg" data-tags="folk" role="button">
+Sturmpercht - Geister im Waldgebirg (2006-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc0d07b7-d1dd-4ba4-9e3d-d3809385f870/19410773764-500.jpg" data-tags="ambient, dark, ghost, ghost ambient" role="button">
 Tor Lundvall - Yule (2006-11-23)
@@ -240,9 +237,6 @@ Corde Oblique - The Stones of Naples (2009-03-30)
 <li data-cover="http://coverartarchive.org/release/74740e15-4de5-457c-812c-1fb9e87d75d8/19410795141-500.jpg" data-tags="industrial, folk noir, dark electro, neofolk, dark folk, neoclassical, funeral folk, ghost ambient, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">
 Tor Lundvall - Sleeping and Hiding (2009-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b574e62-955a-4da0-a62d-0f7c0dc42470/1983164726-500.jpg" data-tags="folk, folk noir, freak folk, neofolk, dark folk, neoclassical, funeral folk, dream folk, doom folk, death folk" role="button">
 Amber Asylum - Bitter River (2009-06-09)
 </li>
@@ -309,6 +303,9 @@ IANVA - La Mano di Gloria (2012-06-02)
 <li data-cover="https://img.discogs.com/E3cTwxyjVn4u5kzgP6_N6UOztSI=/fit-in/577x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4701004-1447613340-1019.jpeg.jpg" data-tags="folk, folk noir, neofolk, neoclassical, celtic folk, apocalyptic folk, funeral folk, nox-aeternus, dark folk noir, apocalyptic folk noir" role="button">
 Sangre de Muerdago - Deixademe Morrer no Bosque (2012-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b97c889-93a0-4114-bedc-16749fde3b6d/5171920011-500.jpg" data-tags="dark folk" role="button">
+Syven - Corpus Christi (2012-12-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/3340c511-8744-41e4-a5e6-630699ea5ccd/16485301148-500.jpg" data-tags="acoustic" role="button">
 Vàli - Skogslandskap (2013-08-30)
 </li>
@@ -317,6 +314,9 @@ Corde Oblique - Per le strade ripetute (2013-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9963e580-6d2d-4294-abe1-aed84302c53d/6830106367-500.jpg" data-tags="neofolk, dark folk" role="button">
 Nebelung - Palingenesis (2014-02-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f2c067b-8353-4c9e-ab05-92a4c9876711/13234757527-500.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, nox-aeternus" role="button">
+Ainulindalë - Nevrast (2014-03-30)
 </li>
 <li data-cover="https://img.discogs.com/jxA6YtZT1NSzgKBaGmcA4u-_6Ww=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5801020-1436292648-1228.jpeg.jpg" data-tags="folk noir, neofolk, dark folk, neoclassical, apocalyptic folk, musk ox, nox-aeternus" role="button">
 Musk Ox - Woodfall (2014-06-17)

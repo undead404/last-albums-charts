@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:40:01.438Z
+date: 2021-04-12T22:20:01.516Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Vessel (2012-12-26)](http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg "Twenty One Pilots - Vessel (2012-12-26)")
@@ -240,6 +240,9 @@ Disasterpeace - Midnight Orphans (2010-07-16)
 <li data-cover="http://coverartarchive.org/release/670862ab-4dd8-4e8a-b385-497c093eba0b/885347231-500.jpg" data-tags="8-bit, chiptune, progressive, electrorock, chipmusic, vgm" role="button">
 Disasterpeace - Passcode: Soul of the Traveler (2010-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/d50b26bf-8692-4abf-873d-627401bb3198/8359359421-500.jpg" data-tags="8-bit, chiptune" role="button">
+Anonymous - Super Chiptune Kurwo (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/359c4aac-98ea-42c4-9590-d81bbd59b981/3638334024-500.jpg" data-tags="electronic, alternative, 8-bit, chiptune" role="button">
 Dj CUTMAN - GameChops Vol. 1 (2011-01-13)
 </li>
@@ -290,9 +293,6 @@ Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="https://img.discogs.com/Xhu9FsydTm-RcQnWGEHmDvucaFE=/fit-in/477x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8304142-1458994611-9532.jpeg.jpg" data-tags="chiptune" role="button">
 Sun Devoured Earth - Ellilan (2013-01-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bdaa0b3-ffa1-40a7-b714-837a6d41917f/21924888038-500.jpg" data-tags="experimental, avant-garde metal" role="button">
-Pryapisme - Hyperblast Super Collider (2013-04-01)
 </li>
 <li data-cover="https://img.discogs.com/FX9RyVab4SH6F47uhKCyZTkGoBQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3562389-1335374407.jpeg.jpg" data-tags="8-bit, chiptune, albums i own digitally" role="button">
 Disasterpeace - FZ: Side Z (2013-05-07)

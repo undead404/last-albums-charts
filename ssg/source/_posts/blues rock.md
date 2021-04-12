@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:59:18.264Z
+date: 2021-04-12T22:21:07.052Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")

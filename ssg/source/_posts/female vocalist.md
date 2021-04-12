@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:01:01.807Z
+date: 2021-04-12T21:45:07.450Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -86,9 +86,6 @@ Shakira - Laundry Service (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
-</li>
-<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
-Azure Ray - November (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
@@ -231,6 +228,9 @@ Russian Red - I Love Your Glasses (2008)
 <li data-cover="http://coverartarchive.org/release/556432f0-5442-485a-99c2-a53ec51b9be5/4394678336-500.jpg" data-tags="alternative, polish, female vocalist" role="button">
 Maria Peszek - Maria Awaria (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
+Sia - Some People Have Real Problems (2008-01-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
@@ -255,9 +255,6 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 <li data-cover="https://img.discogs.com/iMr4EtTmLjmeBSFTYJ31dNqmXdI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716560-1417511195-4062.jpeg.jpg" data-tags="female vocalists, female vocalist" role="button">
 Sara Bareilles - Between The Lines: Sara Bareilles Live At The Fillmore (2008-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/ecbd906b-5fcf-4813-92a6-fd7ff95ea533/1323011485-500.jpg" data-tags="indie pop" role="button">
-Florence + the Machine - Between Two Lungs (2009-01-01)
-</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
@@ -269,6 +266,9 @@ Lady Gaga - Bad Romance (2009-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/06697697-6019-31eb-b5a0-f7bc3c861bbe/4896141275-500.jpg" data-tags="soul" role="button">
 Sade - Soldier of Love (2010-02-05)
+</li>
+<li data-cover="https://img.discogs.com/id4tRTu0f8NWaTVFWGcnFwAcOyA=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784936-1193381319.jpeg.jpg" data-tags="female vocalist" role="button">
+Marit Larsen - Under the Surface (2010-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/811cb6bf-c2fe-47f9-96f5-2c0ca62aea65/4241392062-500.jpg" data-tags="female vocalist" role="button">
 Zaz - Je Veux (2010-02-22)

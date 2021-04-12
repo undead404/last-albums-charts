@@ -1,18 +1,18 @@
 ---
-date: 2021-04-12T08:34:18.312Z
+date: 2021-04-12T22:45:01.817Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
-![Brand New - The Devil and God Are Raging Inside Me (2006-11-20)](http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg "Brand New - The Devil and God Are Raging Inside Me (2006-11-20)")
+![Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)](https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg "Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">Robbie Williams - Life Thru a Lens (1997-09-10)</li>
+<li data-cover="http://coverartarchive.org/release/c34f41f2-080b-4613-9f38-69a0f57f154b/13096884265-500.jpg" data-tags="rock, alternative rock, emo, soft rock, emotional, purchased 09, rockadd, damien cripps band" role="button">Dishwalla - And You Think You Know What Life's About (1998-08-11)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
 <li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">Bright Eyes - Fevers and Mirrors (2000-03-23)</li>
-<li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">Copeland - Beneath Medicine Tree (2003-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">Boys Night Out - Make Yourself Sick (2003-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">Xiu Xiu - Fabulous Muscles (2004-02-17)</li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">Glasvegas - Glasvegas (2008-09-05)</li>
+<li data-cover="http://coverartarchive.org/release/af7ba85c-383e-4167-9e1d-c3d40b49c02d/2892953747-500.jpg" data-tags="post-rock, emotional" role="button">Immanu El - Moen (2009-12-10)</li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">Lykke Li - Wounded Rhymes (2011-02-11)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,14 +24,14 @@ _________________
 <li data-cover="https://img.discogs.com/h0R1eABejOq3MUBzRu0QoeGnweE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4882444-1520803279-9730.jpeg.jpg" data-tags="jazz" role="button">
 Miles Davis - Quiet Nights (1963-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/16238918-b897-3140-bc04-77b45f99f3ae/21634689401-500.jpg" data-tags="blues" role="button">
+Nina Simone - 'Nuff Said! (1968)
+</li>
 <li data-cover="http://coverartarchive.org/release/9aa38b48-7160-30a6-877c-2da7f53f3d3f/15612031939-500.jpg" data-tags="jazz, fusion" role="button">
 Herbie Hancock - Sextant (1973)
 </li>
 <li data-cover="https://img.discogs.com/XNSChXqDzzNbbNTCIKIxDBbV9Q4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551842-1383164301-5953.jpeg.jpg" data-tags="progressive rock" role="button">
 Gentle Giant - Free Hand (1975-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Live! (1975-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f023bc1-1835-4199-8652-fe775dfa51d2/17372973548-500.jpg" data-tags="progressive rock, fusion, jazz fusion" role="button">
 Brand X - Unorthodox Behaviour (1976-06-18)
@@ -63,9 +63,6 @@ Godflesh - Selfless (1994-09-26)
 <li data-cover="http://coverartarchive.org/release/aaaa593a-8389-4be0-b0df-d87aa9e739cd/10976155046-500.jpg" data-tags="dream pop, chinese pop, faye" role="button">
 王菲 - 浮躁 (1996-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
-Ernest Ranglin - Below The Bassline (1996-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/db1922b2-eefe-33e6-b517-f17d661688ea/20073908437-500.jpg" data-tags="progressive metal" role="button">
 Nevermore - In Memory (1996-07-23)
 </li>
@@ -87,8 +84,8 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 <li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">
 Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
-Robbie Williams - I've Been Expecting You (1998-10-26)
+<li data-cover="http://coverartarchive.org/release/6c705d76-b71b-42a8-840c-b359507492cf/3978723619-500.jpg" data-tags="world, jazz, instrumental, african" role="button">
+Trilok Gurtu - African Fantasy (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd27c740-f61d-3b7a-a1b4-44d6834a791d/21056285792-500.jpg" data-tags="indie" role="button">
 Madrugada - Industrial Silence (1999)
@@ -104,6 +101,9 @@ Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
+</li>
+<li data-cover="https://img.discogs.com/kyJJnVaD5SknKXfP_2JJA3wWqKQ=/fit-in/250x252/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6430619-1419040085-5706.jpeg.jpg" data-tags="instrumental, dreamy, emotional" role="button">
+Ed Van Fleet - Evening Passages (2000-05-20)
 </li>
 <li data-cover="https://img.discogs.com/2cxc0_VdHiNVveKQGFVABWR3K7A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4857981-1591973200-7231.jpeg.jpg" data-tags="ambient" role="button">
 Peter Gabriel - OVO (2000-06-12)
@@ -135,9 +135,6 @@ Lampshade - Because Trees Can Fly (2003)
 <li data-cover="https://img.discogs.com/Tsy-efgTyeILKXqLIAQzXwIMOIQ=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15954053-1600848177-2663.jpeg.jpg" data-tags="female vocalists, doom metal, atmospheric, emotional" role="button">
 Lethian Dreams - Mournful Whispers (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
-Copeland - Beneath Medicine Tree (2003-03-25)
-</li>
 <li data-cover="https://img.discogs.com/_m7u3R0_UAqh2UAVgOwV1iBCOIk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2415171-1599648250-9624.jpeg.jpg" data-tags="rock, alternative rock, indie rock, dark, drugs, cocaine" role="button">
 Robbie Williams - Come Undone (2003-03-31)
 </li>
@@ -149,6 +146,9 @@ Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="https://img.discogs.com/wZNNvwtLcaWF2VaD456oAwYeHH8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3915519-1378058017-4159.jpeg.jpg" data-tags="ecm" role="button">
 Ghazal - The Rain (2003-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/deb9924c-fd99-4a93-98a7-ed76b068f977/22123454899-500.jpg" data-tags="chillout, electronica, chill, idm, laid back, glitch, emotional, relax, m3rck, flap" role="button">
+Aphilas - Instrumentally Ill (2003-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
@@ -180,6 +180,9 @@ Frantic Bleep - The Sense Apparatus (2005-02-07)
 <li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
 The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
 </li>
+<li data-cover="https://img.discogs.com/-BJ3W5XyrgPaKFjreVaLkWj-yB4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467132-1533497416-9429.jpeg.jpg" data-tags="indie, alternative, alternative rock, indie rock, britpop, robbie williams" role="button">
+Robbie Williams - Tripping (2005-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
@@ -191,6 +194,9 @@ Bic Runga - Birds (2005-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8ea618e-b7f2-4c6c-a2f6-160bf2338d57/11939232825-500.jpg" data-tags="ambient" role="button">
 Between Interval - Autumn Continent (2006)
+</li>
+<li data-cover="https://img.discogs.com/JSHEbe_7GJBv-FeqD0abz06v_YM=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-837305-1165668802.jpeg.jpg" data-tags="electronica, mellow, emotional, post rock, city centre offices, dresden, de:bug album reviews 2007, one second bridge, buero, dresden neustadt, the gentleman losers" role="button">
+Tijuana Mon Amour Broadcasting Inc. - Cold jubilee (of the snowqueen) (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/19d83e29-60c4-43c6-a9d0-377df11dd05c/2893165445-500.jpg" data-tags="post-rock" role="button">
 Kwoon - Tales and Dreams (2006)
@@ -204,9 +210,6 @@ Andrew Hill - Time Lines (2006-02-21)
 <li data-cover="http://coverartarchive.org/release/8e55179a-ef95-4ba5-8e7b-f77f8cfd21dd/9538277786-500.jpg" data-tags="ambient, dream pop" role="button">
 Robin Guthrie - Continental (2006-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfeea70b-876e-4255-8b10-38151d3a9768/6402327610-500.jpg" data-tags="rock, japanese, instrumental, emotional, j-rock, nu-metal, touhou, doujin, doujin ongaku" role="button">
 Demetori - 如臨深遠 ～雨縒煙柳～ (2006-12-31)
 </li>
@@ -219,14 +222,11 @@ Marillion - Somewhere Else (2007-04-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Ulrich Schnauss - Goodbye (2007-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/f266c388-6016-4963-8c0f-26d3354f09a1/15148699848-500.jpg" data-tags="math rock, experimental, emotional, irresistible, gammarec, freepurp1e" role="button">
-Zs - Arms (2007-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d869b5c-4b5b-42a6-81df-24bff7a86897/6101315907-500.jpg" data-tags="instrumental, post-rock, emotional, free albums" role="button">
 Coma Stereo - Binary Endings (2007-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
-Brand New - (Fork And Knife) (2007-10-23)
+<li data-cover="https://img.discogs.com/xnl90jwWcU_VRw_nM-88tRjENdg=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1578055-1379358086-5091.jpeg.jpg" data-tags="instrumental, piano, emotional, smart" role="button">
+Jon Balke - Book Of Velocities (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c76df01a-608b-4c4e-bc83-72c9adce1cf6/7275760181-500.jpg" data-tags="soundtrack" role="button">
 James Newton Howard - I Am Legend (2008-01-15)
@@ -243,9 +243,6 @@ Pitchblend - The Lines Of Unreason (2008-02-18)
 <li data-cover="http://coverartarchive.org/release/6c23a859-cfd7-45d6-8a80-5e7320db66ea/16127915858-500.jpg" data-tags="ambient" role="button">
 subtractiveLAD - Apparatus (2008-06-02)
 </li>
-<li data-cover="https://img.discogs.com/4RtcdxxPpMtXZ6WlDPiuxjLJ_7o=/fit-in/319x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2525620-1288770683.jpeg.jpg" data-tags="chillout, instrumental, emotional, intelligent, nice, smart, sophisticated, good morning, powerful, pioneer, smooth sounds, come on wake up, fantastic soundscaper, turns my speakers alive" role="button">
-Bill Frisell - Disfarmer (2008-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ed22f1e-5e36-46b6-be87-8fad8eda7175/7136533437-500.jpg" data-tags="classical, solo, piano, acoustic, melodic, emotional, melancholic, relax, free music" role="button">
 Maya Filipič - Between Two Worlds (2008-08-01)
 </li>
@@ -254,6 +251,9 @@ Anathema - Hindsight (2008-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
+</li>
+<li data-cover="https://img.discogs.com/ktO-B8HL6k-JbGr2TDgiQn0gF8c=/fit-in/560x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3777079-1344003416-2411.jpeg.jpg" data-tags="soundtrack" role="button">
+Johan Söderqvist - Let The Right One In (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/801ac2ea-ba3a-46ca-a9ec-3b47a36a69c8/27124068289-500.jpg" data-tags="blues, emotional, smart, arabicana" role="button">
 No Blues - Lumen (2008-12)
@@ -273,11 +273,11 @@ Richard Skelton - Landings (2009-07-28)
 <li data-cover="http://coverartarchive.org/release/af7ba85c-383e-4167-9e1d-c3d40b49c02d/2892953747-500.jpg" data-tags="post-rock, emotional" role="button">
 Immanu El - Moen (2009-12-10)
 </li>
-<li data-cover="https://img.discogs.com/gD247ti3D9cP1juILhdTNP8Mv_U=/fit-in/600x264/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11540436-1581744525-1351.jpeg.jpg" data-tags="post-rock, shoegaze, ethereal, emotional, angura-kei" role="button">
-Plastic Tree - ドナドナ (2009-12-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emotional" role="button">
 少女病 - 蒼白シスフェリア (2009-12-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="emotional, storyteller, doujin, script" role="button">
+少女病 - 慟哭ルクセイン (2009-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/04d7a489-5567-45e7-aa12-47816715a9ae/22818132226-500.jpg" data-tags="electronica, vocal, alternative, post-rock, glitch, emotional, leeds, lms" role="button">
 Worriedaboutsatan - Heart Monitor (2010-01-03)
@@ -300,9 +300,6 @@ Lykke Li - Wounded Rhymes (2011-02-11)
 <li data-cover="http://coverartarchive.org/release/6ba6ade6-bbd6-4c2d-93a8-31f579f9a6f1/9182331337-500.jpg" data-tags="alternative, alternative rock, emo, pop punk, emotional, pop-punk" role="button">
 A Change of Pace - It Could Be Worse (2011-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
-Darren Korb - Bastion Original Soundtrack (2011-08-05)
-</li>
 <li data-cover="https://img.discogs.com/u9-_8zr6HcoOOSFr4otuCM_yehs=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229235-1321426120.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
 Saves the Day - Daybreak (2011-09-13)
 </li>
@@ -320,5 +317,8 @@ The Districts - The Districts (2014-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d276ca4-c5da-4ad7-a838-2939d57b6a55/7522883582-500.jpg" data-tags="rock, alternative" role="button">
 Manchester Orchestra - Cope (2014-03-28)
+</li>
+<li data-cover="https://img.discogs.com/dL0JrrlCCvWkYY2mXjG4PvFuqI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13220598-1550192099-3431.png.jpg" data-tags="indie, alternative" role="button">
+Robbie Williams - Eternity/The Road To Mandalay (2019-02-14)
 </li>
 </ol>

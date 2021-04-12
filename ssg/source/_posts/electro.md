@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:34:01.566Z
+date: 2021-04-12T22:36:07.076Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -8,7 +8,7 @@ title: "electro: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">Digitalism - Idealism (2007-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2846bdd5-2b37-34ca-ba50-cebfe76c299a/20853604238-500.jpg" data-tags="electronic" role="button">Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)</li>
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">Calvin Harris - I Created Disco (2007-06-18)</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">Justice - A Cross The Universe (2008-11-24)</li>
+<li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">Madeon - Icarus (2012-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">Infected Mushroom - Army of Mushrooms (2012-05-08)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
+</li>
+<li data-cover="https://img.discogs.com/rHBYepuyVvkyHR88FIu7n82onfE=/fit-in/283x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69401-1094717310.jpg.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Karmacoma (1995-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5922184-c4e7-35df-bd1d-b198da677993/1148951969-500.jpg" data-tags="electronica, electro, house, daft punk, electrofunk" role="button">
 Daft Punk - Da Funk (1995-12-07)
@@ -75,9 +78,6 @@ Modeselektor - Hello Mom! (2005-05-27)
 <li data-cover="https://img.discogs.com/m5caYZzD87Pe6K8_y0awhXHNFxE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471424-1118479959.jpg.jpg" data-tags="electro, techno" role="button">
 Kraftwerk - Minimum - Maximum (2005-06-06)
 </li>
-<li data-cover="https://img.discogs.com/YomW6vZcLjtiRQxmVQLvfgVIKlY=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5692220-1400075704-9012.jpeg.jpg" data-tags="electronic, electro, dance, house" role="button">
-Timo Maas - Pictures (2005-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/3fd42c9a-7546-4e64-b604-c7b866772b30/8208434121-500.jpg" data-tags="electro" role="button">
 Paul Kalkbrenner - Tatü-Tata (2005-07)
 </li>
@@ -89,9 +89,6 @@ Justice - Waters of Nazareth (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Dreams (2006-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/bf786f88-3871-4f26-a56b-9e9800a85f79/7013875443-500.jpg" data-tags="trance, electronic" role="button">
-Ferry Corsten - L.E.F. (2006-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">
 Ratatat - Classics (2006-08-21)
@@ -107,9 +104,6 @@ Cassius - 15 Again (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
 Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
@@ -167,9 +161,6 @@ LMFAO - Party Rock (2008-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9e6ec9b-a293-4e4b-a0f2-d00d1be13aa2/8669884061-500.jpg" data-tags="electronic, house" role="button">
 deadmau5 - Ghosts N Stuff (2008-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
-Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
@@ -243,6 +234,12 @@ Feed Me - Feed Me's Big Adventure (2010-12-25)
 <li data-cover="http://coverartarchive.org/release/fd0934b6-8675-47d7-9267-b31669aa140e/6162424730-500.jpg" data-tags="electro, electro house" role="button">
 Dada Life - White Noise / Red Meat (2011-02-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/4150b17a-86a7-4319-ada3-5a5883892889/3347637780-500.jpg" data-tags="electro, house" role="button">
+Mord Fustang - Super Meat Freeze (2011-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/734bc2bf-fec5-4133-8fc3-7f88a5c03e69/24038436103-500.jpg" data-tags="dubstep" role="button">
+Rusko - Everyday (2011-03-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
 </li>
@@ -275,6 +272,9 @@ The M Machine - Promise Me A Rose Garden / Glow (2011-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/70d7277a-739c-4942-bea4-bf460dd30271/4077314370-500.jpg" data-tags="rap, electro" role="button">
 Deluxe - Polishing Peanuts EP (2011-11-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ead8817-28d9-478f-b605-6817da60d647/11680853907-500.jpg" data-tags="dubstep, electro, house, moombahton, owsla" role="button">
+Dillon Francis - Something, Something, Awesome. (2012-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
 Madeon - Icarus (2012-02-26)

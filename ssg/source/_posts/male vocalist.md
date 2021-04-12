@@ -1,10 +1,9 @@
 ---
-date: 2021-04-12T07:57:01.458Z
+date: 2021-04-12T22:14:07.059Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">Lighthouse Family - Postcards From Heaven (1997-10-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
 <li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">Jesse McCartney - Beautiful Soul (2004-08-12)</li>
@@ -12,6 +11,7 @@ title: "male vocalist: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">Trey Songz - Trey Day (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">Mario - Go (2007-12-10)</li>
+<li data-cover="https://img.discogs.com/nh3OZHgRgjaM1PHyNelh-x8gl4s=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2023069-1580651857-5952.jpeg.jpg" data-tags="pop, kris allen" role="button">Kris Allen - Kris Allen (2009-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">She & Him - Volume Two (2010-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/7ba215ca-677c-43bb-93bc-d68a308a19b3/10020073334-500.jpg" data-tags="indie, male vocalist" role="button">Magic Man - Before The Waves (2014-05-19)</li>
 </ol>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/1fa999fd-c89d-449b-91d5-a6f5ef4fdd8e/18869449348-500.jpg" data-tags="60s, male vocalist" role="button">
-Wilson Pickett - Hey Jude (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb224bc4-27f8-4b46-9c46-75d13873454e/11052080256-500.jpg" data-tags="singer-songwriter, 70s" role="button">
 Cat Stevens - Teaser and the Firecat (1971-10-01)
@@ -39,8 +36,14 @@ Barry White - Can't Get Enough (1974-08)
 <li data-cover="https://img.discogs.com/DXAtClvVvZdK44l70ZmKUkS-274=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6819815-1427302127-3253.jpeg.jpg" data-tags="folk, singer-songwriter, male vocalist" role="button">
 Harry Chapin - Greatest Stories Live (1976)
 </li>
+<li data-cover="https://img.discogs.com/Z9IJkkZdcAgA5qFRRQHRu0qxR6c=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764499-1456336172-5855.jpeg.jpg" data-tags="classic rock, rock" role="button">
+Joe Walsh - You Can't Argue With A Sick Mind (1976)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, folk, male vocalist, male vocalists, folk italiana, italiana, cantautore, italian folk, folk italiano, voci maschili, maschi, maschio, italie, occhi a cuoricino, voce maschile, syon" role="button">
 Fabrizio De André - Rimini (1978-03-31)
+</li>
+<li data-cover="https://img.discogs.com/D6oRpaMx4859C808zY2TPnHhKSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2011760-1444198737-1009.jpeg.jpg" data-tags="classic rock" role="button">
+Joe Walsh - There Goes The Neighborhood (1981)
 </li>
 <li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
@@ -84,9 +87,6 @@ Chumbawamba - Tubthumper (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/77a57b42-30b3-3041-9131-bca62a66e810/1908272625-500.jpg" data-tags="rnb" role="button">
 Usher - My Way (1997-09-16)
 </li>
-<li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">
-Lighthouse Family - Postcards From Heaven (1997-10-01)
-</li>
 <li data-cover="https://img.discogs.com/Mo2vthe0D3xgMRGTMeGU9kemfIQ=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12771421-1541871515-8735.jpeg.jpg" data-tags="pop, british, rap, power pop, dance, 90s, male vocalist, bubblegum, boy band, uk number one, 5ive 5ive" role="button">
 Five - 5ive (1998-06-22)
 </li>
@@ -102,6 +102,9 @@ Ricky Martin - Ricky Martin (1999-05-04)
 <li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
 Lou Bega - A Little Bit Of Mambo (1999-07-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/dd7859da-63b8-46d0-b811-e05e11a2c1c2/24875604394-500.jpg" data-tags="rock, 2000s" role="button">
+Warren Zevon - Life'll Kill Ya (2000-01-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
@@ -110,6 +113,9 @@ Keith Sweat - Didn't See Me Coming (2000-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
+John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6254c395-d0fe-4529-8a96-ccd584bb46f6/25468792530-500.jpg" data-tags="pop, blue" role="button">
 Blue - All Rise (2001-05-21)
@@ -171,9 +177,6 @@ Counting Crows - Accidentally In Love (2004-01-01)
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
-Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Mario - Turning Point (2004-08-06)
 </li>
@@ -189,17 +192,14 @@ Ryan Cabrera - Take It All Away (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/02836c6d-9de4-4183-91ac-cb12ef36aeba/21476872343-500.jpg" data-tags="british, pop, blue" role="button">
 Blue - Best of Blue (2004-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Mos Def - The New Danger (2004-10-12)
-</li>
 <li data-cover="https://img.discogs.com/Zo7D977oOvF1hP3b2ytKauQG4hI=/fit-in/324x384/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13430182-1554050602-3928.jpeg.jpg" data-tags="j-rock" role="button">
 BEAT CRUSADERS - Hit in the USA (2004-10-20)
 </li>
+<li data-cover="https://img.discogs.com/7Nahozz8h1vq7k468sm0d0amN3Y=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651469-1143490682.jpeg.jpg" data-tags="pop, alternative, 00s" role="button">
+Daniel Bedingfield - Second First Impression (2004-11-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
-Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
@@ -291,9 +291,6 @@ Lee Brice - Love Like Crazy (2010-06-08)
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
-<li data-cover="https://img.discogs.com/NpW9silkKP07cjorrUrWH2NJPGE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661453-1295464538.jpeg.jpg" data-tags="singer-songwriter, amos lee" role="button">
-Amos Lee - Mission Bell (2011-01-21)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
@@ -302,6 +299,9 @@ Bush - The Sea of Memories (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bf9dfbc-a02c-40e0-ba09-7348928b6093/4804310167-500.jpg" data-tags="christmas" role="button">
+She & Him - A Very She & Him Christmas (2011-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e76439c6-6402-4f51-b761-c921c98caf3b/21660235707-500.jpg" data-tags="pop" role="button">
 Phillip Phillips - The World from the Side of the Moon (2011-11-19)

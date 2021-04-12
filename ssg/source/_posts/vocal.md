@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T23:08:06.979Z
+date: 2021-04-12T22:37:01.449Z
 title: "vocal: 100 albums you must listen to before you die"
 ---
 ![Louis Armstrong - What A Wonderful World (1988)](http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg "Louis Armstrong - What A Wonderful World (1988)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">Louis Armstrong - What A Wonderful World (1988)</li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">Bobby McFerrin - Simple Pleasures (1988-08-22)</li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">Azure Ray - Azure Ray (2001-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/e6050473-005e-43c4-a92b-2b5a19e3d85b/27487453451-500.jpg" data-tags="leonard cohen" role="button">Leonard Cohen - The Essential Leonard Cohen (2002-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/c9d5ef78-b211-4b79-a69a-9ad6b9057c02/15458769817-500.jpg" data-tags="pop, rnb" role="button">Mariah Carey - Charmbracelet (2002-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">Sia - Colour the Small One (2004-01-01)</li>
 <li data-cover="https://img.discogs.com/MonuDtSdUCOc_FyDFv4BaNugvoI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244419-1227222364.jpeg.jpg" data-tags="electronic, downtempo" role="button">Sia - Breathe Me (2004-02-23)</li>
 <li data-cover="http://coverartarchive.org/release/5c24e649-4e52-4f57-90c9-8275149706c0/7794274920-500.jpg" data-tags="experimental" role="button">Björk - Medúlla (2004-08-25)</li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">Joshua Radin - We Were Here (2006-06-13)</li>
+<li data-cover="https://img.discogs.com/6FkW1KzUrN75xjI2oFNGc77Y6zs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14816707-1582161933-7535.jpeg.jpg" data-tags="vocal, slow, industrial pop, synth-punk, shinys" role="button">Shiny Toy Guns - Stripped (2007-01-01)</li>
 <li data-cover="https://img.discogs.com/th6a34wKj46CoQ7pomOh3XuQA_k=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4034108-1353032647-8366.jpeg.jpg" data-tags="rnb" role="button">Solange - Losing You (2012-09-25)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,9 +30,6 @@ Frank Sinatra - Where Are You? (1957)
 <li data-cover="http://coverartarchive.org/release/b20ae32a-7008-49c7-9e30-a0825bc49e0b/13161146770-500.jpg" data-tags="christmas" role="button">
 Frank Sinatra - A Jolly Christmas From Frank Sinatra (1957-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8943160-c4a9-4840-9fc5-19a05b53a00f/8697790128-500.jpg" data-tags="vocal jazz, vocal, jazz, 50s" role="button">
-Frank Sinatra - Frank Sinatra Sings For Only The Lonely (1958)
-</li>
 <li data-cover="http://coverartarchive.org/release/d83db609-0db9-4860-9c3d-3ff7140c8ae5/8732547313-500.jpg" data-tags="vocal, jazz, 60s, torch songs, standards" role="button">
 Nina Simone - Let It All Out (1965)
 </li>
@@ -47,6 +44,9 @@ The Mamas & the Papas - The Papas & The Mamas (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg" data-tags="jazz, 70s, easy listening" role="button">
 Barbra Streisand - The Way We Were (1974-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2fcf980-29b9-48c7-a243-17fcfb0b85c1/5574114937-500.jpg" data-tags="vocal jazz" role="button">
+Michael Franks - Sleeping Gypsy (1977)
 </li>
 <li data-cover="https://img.discogs.com/uGu-auaEyLSdmgkZtb4k_TjGHQU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3690369-1504711889-1105.jpeg.jpg" data-tags="vocal, songs" role="button">
 Bertie Higgins - Just Another Day In Paradise (1982)
@@ -129,17 +129,23 @@ Miriam Stockley - Miriam (1999-06-28)
 <li data-cover="https://img.discogs.com/fzvLhT7y2XEChAfTrIX_0eK-Fu0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-320399-1606042046-5755.jpeg.jpg" data-tags="trance" role="button">
 Fragma - Toca (2000)
 </li>
+<li data-cover="https://img.discogs.com/QvTFUwGi6I7hQo3_DPcaGwpi3s8=/fit-in/588x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2580683-1291704797.jpeg.jpg" data-tags="vocal, punk, 90s, retro, california, female vocalist, ex-girlfriend" role="button">
+No Doubt - Ex-Girlfriend (2000-03-13)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Jeff Buckley - Mystery White Boy (2000-05-08)
+</li>
+<li data-cover="https://img.discogs.com/-XlGuK8oU3cz4KD5mx6BRxm2nrE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3948092-1350186781-2365.jpeg.jpg" data-tags="soul, rnb, slow jams" role="button">
+Dave Hollister - Chicago '85... The Movie (2000-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="opera, tosca" role="button">
 Giacomo Puccini - Tosca (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
-Azure Ray - Azure Ray (2001-01-16)
-</li>
 <li data-cover="https://img.discogs.com/fKRaFCU_ntsZfRyKdqP70nR-4NQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501724-1395322915-7557.jpeg.jpg" data-tags="oldies, bassey, 60er, dame shirley bassey" role="button">
 Shirley Bassey - Greatest Hits (2001-02-13)
+</li>
+<li data-cover="https://img.discogs.com/Xb8Xlc5L6KoDZjcWAQbK3esDlT0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9332837-1478756332-3040.jpeg.jpg" data-tags="lara fabian" role="button">
+Lara Fabian - Nue (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9684c702-d5e9-4827-9e11-b124de44af4b/4397354155-500.jpg" data-tags="classical, choral, karljenkins" role="button">
 Karl Jenkins - The Armed Man: A Mass For Peace (2001-09-10)
@@ -147,14 +153,8 @@ Karl Jenkins - The Armed Man: A Mass For Peace (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/5a772b9e-cd00-472a-8e11-fa7c3af82d80/18956006311-500.jpg" data-tags="pop" role="button">
 Anastacia - Freak of Nature (2001-11-23)
 </li>
-<li data-cover="https://img.discogs.com/ZgfcaZUMhB1rJZXVJGs-4_pmDhw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-155878-1239093405.jpeg.jpg" data-tags="chillout, vocal, trip hop, female vocalist, great groove, where are my headphones, where is my bong, weightlifting music, beats for days, kkmuza, has me dancing even now, spiotr, lubi sie, tany tany" role="button">
-Moloko - Familiar Feeling (2002)
-</li>
 <li data-cover="https://img.discogs.com/dPOQdzlRWMvXfwXXBEjHqsayZOM=/fit-in/170x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8863445-1470338217-1907.jpeg.jpg" data-tags="ray lamontagne" role="button">
 Ray LaMontagne - Introducing Raycharles Lamontagne (2002)
-</li>
-<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
-Azure Ray - November (2002-01-22)
 </li>
 <li data-cover="https://img.discogs.com/PIpu7tNvdbHr3cBlZdo-zlK-p1g=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2938016-1599284969-9697.jpeg.jpg" data-tags="vocal, pop, traditional pop, greatest hits, evergreen, barbara streisand" role="button">
 Barbra Streisand - The Ultimate Collection (2002-01-29)
@@ -167,6 +167,9 @@ Projections - Between Here and Now (2002-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6050473-005e-43c4-a92b-2b5a19e3d85b/27487453451-500.jpg" data-tags="leonard cohen" role="button">
 Leonard Cohen - The Essential Leonard Cohen (2002-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/533a718d-c202-4d82-b3e7-596e4f40bf18/20373139615-500.jpg" data-tags="techno, scooter" role="button">
+Scooter - 24 Carat Gold (2002-11-04)
 </li>
 <li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="classic rock, electronic, electronica, vocal, dance, new wave, synth pop, techno, synthpop, german" role="button">
 Mark 'Oh - When The Children Cry (2002-11-25)
@@ -183,17 +186,14 @@ Rajaton - Joulu (2003-10-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="vocal, japanese, j-pop, ringo shina" role="button">
 椎名林檎 - りんごのうた (2003-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
-Hanne Hukkelberg - Little Things (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
 </li>
 <li data-cover="https://img.discogs.com/MonuDtSdUCOc_FyDFv4BaNugvoI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244419-1227222364.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Sia - Breathe Me (2004-02-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="meiko kaji, mondiovision" role="button">
-梶芽衣子 - Zenkyoku Shu (2004-03-24)
+<li data-cover="http://coverartarchive.org/release/4a6c605b-cb4c-4e10-a09e-3aee9cb367bd/28313275163-500.jpg" data-tags="downtempo" role="button">
+Aya - Strange Flower (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c24e649-4e52-4f57-90c9-8275149706c0/7794274920-500.jpg" data-tags="experimental" role="button">
 Björk - Medúlla (2004-08-25)
@@ -213,11 +213,11 @@ Il Divo - Il Divo (2004-11-01)
 <li data-cover="https://img.discogs.com/MGPDbH-ahnTs2ettL-wVTmOPuXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9401145-1479911459-2505.jpeg.jpg" data-tags="french" role="button">
 Camille - Le Fil (2005-02-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6b02e4f-6081-486a-a47d-b2e58a1821e6/9545106519-500.jpg" data-tags="jazz, latin, swing, female vocals" role="button">
+Chiara Civello - Last Quarter Moon (2005-02-15)
+</li>
 <li data-cover="https://img.discogs.com/VSDX9tBJe4cwD3KnWIKsZCnk6p8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-191744-1300229373.jpeg.jpg" data-tags="dance, sexy album covers" role="button">
 Angel City - Love Me Right (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e883c0f-e68e-4292-8bc7-b22b194ffd26/1445677656-500.jpg" data-tags="nu jazz, french, vocal, bossa nova, avril lavigne, fmera album, rw sound" role="button">
-Isabelle Antena - Easy Does It (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4e207a8-1e10-4a5f-a927-db5d9d310c6a/23799358380-500.jpg" data-tags="tanita tikaram" role="button">
 Tanita Tikaram - Sentimental (2005-04-11)
@@ -234,14 +234,14 @@ David Gray - Life In Slow Motion (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/68682f25-2493-400e-b0ea-d05cf2620453/23899858735-500.jpg" data-tags="vocal" role="button">
 Take 6 - Feels Good (2005-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
-Maria Peszek - Miasto Mania (2005-10-14)
-</li>
 <li data-cover="https://img.discogs.com/fi08sU6xK-8H88EoR2ih0qltax8=/fit-in/396x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-531442-1145349374.jpeg.jpg" data-tags="vocal, female, chill, abstract, spiotr, lubi sie" role="button">
 Cibelle - About A Girl (2005-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cdef9f8-01c2-443f-bbf6-d79b560b82f6/18794442607-500.jpg" data-tags="folk, country" role="button">
 Sarah Harmer - I'm a Mountain (2005-11-15)
+</li>
+<li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
+Steve Adey - All Things Real (2006-03-06)
 </li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">
 Joshua Radin - We Were Here (2006-06-13)
@@ -267,11 +267,11 @@ Shirley Bassey - Get The Party Started (2007-06-25)
 <li data-cover="https://img.discogs.com/qjijcs_f5MpmX0O4sBQqBklpJZw=/fit-in/596x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1184801-1199138235.jpeg.jpg" data-tags="latin jazz, soul-jazz" role="button">
 Raul Midón - A World Within A World (2007-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/a46eae1e-d311-420e-8ab4-be16f58bcb38/5900493704-500.jpg" data-tags="christmas, christmas songs" role="button">
-Josh Groban - Noël (2007-10-09)
-</li>
 <li data-cover="https://img.discogs.com/0F3VaF23vxncHOkgBD0n4IjFCEA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3200428-1320198924.jpeg.jpg" data-tags="john barrowman" role="button">
 John Barrowman - Another Side (2007-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e7f162c-9377-47d5-9848-873c35100cf5/21721243459-500.jpg" data-tags="female vocalist" role="button">
+Idina Menzel - I Stand (2008-01-29)
 </li>
 <li data-cover="https://img.discogs.com/u6T-F9Qb9UjVsaZkMJylVS3BQ40=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13949536-1564723690-3863.jpeg.jpg" data-tags="vocal, easy listening, adult contemporary, romantic, reflective, passionate, literate, dramatic, bittersweet, elegant, yearning, sophisticated, sunday afternoon, sentimental, elaborate, refined, stylish, theatrical, restrained, romantic evening, vocal pop, euro-pop, classical pop, dinner ambiance" role="button">
 Josh Groban - Awake Live (2008-05-06)

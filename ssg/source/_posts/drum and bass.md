@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:24:01.915Z
+date: 2021-04-12T21:56:01.449Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -128,9 +128,6 @@ John B - in:transit (2004-06-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ea37f9b-0bf9-48ee-ac94-99a978063130/5225754560-500.jpg" data-tags="psychedelic trance, psytrance, psy trance" role="button">
-1200 Micrograms - The Time Machine (2004-12-01)
 </li>
 <li data-cover="https://img.discogs.com/y2gorOpndf9rDDnLR03B_nwadf0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527840-1157734386.jpeg.jpg" data-tags="drum and bass" role="button">
 DJ Hazard - Use Your Brain / Selector (2005)
@@ -308,6 +305,9 @@ Nu:Logic - What I've Always Waited for (2013-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/97e1a167-6af4-480a-bdf7-e8538ef9d8c5/27344147440-500.jpg" data-tags="drum and bass" role="button">
 Metrik - Metrik EP (2013-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/74e5ca11-2b8c-4cb5-bbd0-76cdf078fb8c/9567260594-500.jpg" data-tags="drum and bass" role="button">
+Shapeshifter - Delta (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1dbf37e-68fc-4056-b545-d3c6c61baa0a/6218481147-500.jpg" data-tags="drum and bass" role="button">
 Camo & Krooked - Zeitgeist (2013-09-30)

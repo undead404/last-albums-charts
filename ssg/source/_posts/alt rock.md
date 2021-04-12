@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:40:01.595Z
+date: 2021-04-12T22:02:01.446Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
 ![Imagine Dragons - Night Visions (2012-09-04)](http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg "Imagine Dragons - Night Visions (2012-09-04)")
@@ -21,15 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/gxfhqodPNQWmmG7h3OO-jy4nEkU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102568-1466634765-6819.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
-Wipers - Is This Real? (1979)
-</li>
-<li data-cover="https://img.discogs.com/_6-OnH00Y_rIkirsp0N1DVEXkcY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620724-1530972965-7025.jpeg.jpg" data-tags="progressive rock" role="button">
-Tony Banks - A Curious Feeling (1979-10-08)
-</li>
-<li data-cover="https://img.discogs.com/qfYH70G4jNFQGQpUvtFx9_DMgi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717457-1282523495.jpeg.jpg" data-tags="punk rock, post-punk" role="button">
-Wipers - Over The Edge (1983)
-</li>
 <li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
 Prefab Sprout - Steve McQueen (1985-06)
 </li>
@@ -69,6 +60,9 @@ The Verve Pipe - Villains (1996-03-26)
 <li data-cover="https://img.discogs.com/aNhB1sEgHyAKQwaAN6vCmRCrRDc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-978211-1180098018.jpeg.jpg" data-tags="alternative, experimental rock, dreamy, 90s, alt rock, exprog, online record collection" role="button">
 Thinking Fellers Union Local 282 - I Hope It Lands (1996-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/888bc005-3878-4054-b548-75ca8bdfe801/3774205017-500.jpg" data-tags="90s, rock, patti smith" role="button">
+Patti Smith - Gone Again (1996-06-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
 </li>
@@ -90,6 +84,9 @@ Dave Matthews Band - Before These Crowded Streets (1998-04-28)
 <li data-cover="http://coverartarchive.org/release/4fbf62b9-6111-4898-a0ea-d7fa3fde6896/25954166388-500.jpg" data-tags="indie, alternative, math rock, indie rock, usa, romantic, melodic, energetic, melancholy, melancholic, alt rock, indie emo" role="button">
 No Knife - Fire In The City of Automatons (1998-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/8bd70552-0a26-466e-bfaf-49f0e5b65e5d/17130158109-500.jpg" data-tags="rock" role="button">
+bôa - The Race of a Thousand Camels (1998-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/af457ab2-4689-4d6d-9cf5-18d5d2912bd6/16156435985-500.jpg" data-tags="nkotb, boyband" role="button">
 New Kids on the Block - Greatest Hits (1999)
 </li>
@@ -108,9 +105,6 @@ Vertical Horizon - Everything You Want (2000-08-14)
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
 </li>
-<li data-cover="https://img.discogs.com/xokyBz5hzFNuqZ2yH9JdepMHH7M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1158868-1197154991.jpeg.jpg" data-tags="soul, pop rock, alternative pop, bermudian" role="button">
-Heather Nova - South (2001-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/41de15ee-e9d8-4336-aa14-03ea5be4016f/15537492906-500.jpg" data-tags="alternative metal, nu metal, lovecore" role="button">
 Boy Hits Car - Boy Hits Car (2001-01-09)
 </li>
@@ -122,6 +116,9 @@ Ours - Distorted Lullabies (2001-05-15)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="00s, welsh, indie" role="button">
 Super Furry Animals - Rings Around the World (2001-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e0469ad-1566-3215-96cb-b94e423edea4/15060925420-500.jpg" data-tags="indie" role="button">
+The Reindeer Section - Y'All Get Scared Now, Ya Hear! (2001-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b410dac5-6c06-4864-add3-5f317058f30f/24917496645-500.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - Hoobastank (2001-11-20)
@@ -279,6 +276,9 @@ Meg Myers - Daughter in the Choir (2012)
 <li data-cover="https://img.discogs.com/UciUWwL97M2MzkIQqhscupJrTJc=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1544697-1337205321-2730.jpeg.jpg" data-tags="indie, rock, alternative rock" role="button">
 The Cranberries - Roses (2012-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/eb08e55f-4695-4dc7-978d-be8ea60d906d/21116075281-500.jpg" data-tags="alt rock, trials, artifacts, mutiny on the bounty" role="button">
+Mutiny on the Bounty - Trials (2012-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/ed4ef585-6abe-4a3e-a4d3-6206589b3633/28652812232-500.jpg" data-tags="pop" role="button">
 Scissor Sisters - Magic Hour (2012-05-25)
 </li>
@@ -303,6 +303,9 @@ Editors - The Weight of Your Love (2013-06-13)
 <li data-cover="http://coverartarchive.org/release/9b8ddd03-1b4b-456e-a596-1c97b8d3b3f1/15637013313-500.jpg" data-tags="post-hardcore" role="button">
 Dangerkids - Collapse (2013-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c4c1e65-88f4-4318-8714-188f4018cb10/6123874286-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
+Story of the Year - Page Avenue: Ten Years And Counting (2013-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c2d3f14-262e-4781-a484-d80ee82ef7a9/9363103757-500.jpg" data-tags="alternative rock, grunge" role="button">
 Pearl Jam - Lightning Bolt (2013-10-11)
 </li>
@@ -317,8 +320,5 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fff52f3-67b8-46bf-93a6-ad43e285601d/8368597159-500.jpg" data-tags="rock, power pop" role="button">
 Weezer - Everything Will Be Alright in the End (2014-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
-Car Seat Headrest - How To Leave Town (2014-10-31)
 </li>
 </ol>

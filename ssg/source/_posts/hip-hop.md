@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:57:01.521Z
+date: 2021-04-12T22:11:01.504Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -165,6 +165,9 @@ Kanye West - Late Registration (2005-03)
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/a149d3d6-ff04-46a9-8e75-d9e38c4e8ead/14714564913-500.jpg" data-tags="hip-hop" role="button">
+Flipsyde - We The People (2005-07-12)
+</li>
 <li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">
 Fort Minor - The Rising Tied (2005-11-21)
 </li>
@@ -317,8 +320,5 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ede655-ad25-4a32-a367-3a32edb0ad55/9269372663-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Only One (2014-12-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
-Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:17:01.552Z
+date: 2021-04-12T22:19:01.483Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -95,6 +95,9 @@ Sade - Love Deluxe (1992-10-23)
 </li>
 <li data-cover="https://img.discogs.com/FaX2er6kdAsyNed7FHPIi9tRc4M=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654057-1295129981.jpeg.jpg" data-tags="soul" role="button">
 Bill Withers - Lean on Me: The Best of Bill Withers (1994-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d51f64e5-1d52-4d40-8308-5c9f22c4af03/22860615848-500.jpg" data-tags="soul" role="button">
+The Jackson 5 - The Ultimate Collection (1996-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e69dbabd-5a61-4147-914b-7e683f096cbc/15210098631-500.jpg" data-tags="soul" role="button">
 Maxwell - Maxwell's Urban Hang Suite (1996-04-02)
@@ -317,8 +320,5 @@ Hozier - Hozier (2014-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
-Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

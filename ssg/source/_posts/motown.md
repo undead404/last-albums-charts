@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:20:07.278Z
+date: 2021-04-12T22:35:12.667Z
 title: "motown: 100 albums you must listen to before you die"
 ---
 ![Stevie Wonder - Songs in the Key of Life (1976-09-28)](http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg "Stevie Wonder - Songs in the Key of Life (1976-09-28)")
@@ -54,17 +54,11 @@ Richard Pryor - Richard Pryor (1968-11)
 <li data-cover="http://coverartarchive.org/release/6f06ad48-e381-449f-9174-938872d24c92/21686810706-500.jpg" data-tags="soul, 60s, motown, a franklin" role="button">
 Aretha Franklin - Aretha's Gold (1969)
 </li>
-<li data-cover="http://coverartarchive.org/release/4fa87bbc-c1c0-4f9e-a4d3-79336c9e0240/2920927851-500.jpg" data-tags="classic rock, rock, soul" role="button">
-Rare Earth - Get Ready (1969)
-</li>
 <li data-cover="http://coverartarchive.org/release/f5bd83a0-a823-46f8-8568-9e8293a37957/5983610732-500.jpg" data-tags="60s, motown" role="button">
 Marvin Gaye & Tammi Terrell - Greatest Hits (1969)
 </li>
 <li data-cover="https://img.discogs.com/IF7KQd1YesZ2BL1EkvtVd-7CPwg=/fit-in/439x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1118411-1307309234.jpeg.jpg" data-tags="soul" role="button">
 Sam & Dave - The Best of Sam & Dave (1969-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1d733ce-1a51-3e5c-9fd0-d60e697b7fe7/12741470637-500.jpg" data-tags="soul, motown" role="button">
-The Temptations - Puzzle People (1969-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a8dbf1f-1549-47b5-b8c5-543a6cf8f436/4932362717-500.jpg" data-tags="soul, usa, motown, psychedelic, debut album" role="button">
 The Undisputed Truth - The Undisputed Truth (1971)
@@ -92,6 +86,9 @@ Michael Jackson - Ben (1972-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc68a8d6-4573-4b66-9f31-1e132d66a369/2928827761-500.jpg" data-tags="soul, blaxploitation, soundtrack" role="button">
+Marvin Gaye - Trouble Man (1972-12-08)
 </li>
 <li data-cover="https://img.discogs.com/iRcoYXw9OJcnidFU9XSzlLLIMKU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7518858-1443151332-2861.jpeg.jpg" data-tags="70s, motown" role="button">
 The O'Jays - Ship Ahoy (1973)
@@ -137,9 +134,6 @@ The Isley Brothers - Go For Your Guns (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/744d0395-6a7e-48db-8d42-711e9da13423/2115101502-500.jpg" data-tags="soul" role="button">
 Marvin Gaye - Here, My Dear (1978-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-The Jacksons - Destiny (1978-12-17)
 </li>
 <li data-cover="https://img.discogs.com/my7ahNeKngOTNFdEDjlyZfgYGs8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168851-1466642242-4345.jpeg.jpg" data-tags="disco, soul" role="button">
 Diana Ross - The Boss (1979-05-22)
@@ -207,6 +201,9 @@ Marvin Gaye - Anthology (1995-08-22)
 <li data-cover="http://coverartarchive.org/release/d51f64e5-1d52-4d40-8308-5c9f22c4af03/22860615848-500.jpg" data-tags="soul" role="button">
 The Jackson 5 - The Ultimate Collection (1996-01-23)
 </li>
+<li data-cover="https://img.discogs.com/ivb3G3QP1X2uN9Q2nq9p2Q7loK4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56279-1225073615.jpeg.jpg" data-tags="funky, groovy" role="button">
+Groove Collective - We The People (1996-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/fdf4bdfc-1cc1-4b99-b520-410e15ccdec3/5983831339-500.jpg" data-tags="60s" role="button">
 Marvin Gaye - I Heard It Through The Grapevine (1997)
 </li>
@@ -266,6 +263,9 @@ Gossip - Movement (2003)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f4944223-5a51-432a-96d5-863a40f70906/20154816569-500.jpg" data-tags="soul" role="button">
+The Jacksons - The Essential Jacksons (2004-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4dcc6f8b-661a-469a-8d64-f22d0099b392/24474476694-500.jpg" data-tags="soul" role="button">
 The Isley Brothers - The Essential Isley Brothers (2004-08-03)

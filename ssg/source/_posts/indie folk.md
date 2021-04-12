@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:41:12.645Z
+date: 2021-04-12T21:53:01.454Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Roman Candle (1994-07-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
 </li>
@@ -35,9 +32,6 @@ Elliott Smith - XO (1998-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9de3ce89-63a1-4dff-9066-64ffada9d7c1/15992612886-500.jpg" data-tags="indie, rock, emo, acoustic, indie folk, masterful, vagrant records" role="button">
 Dashboard Confessional - So Impossible EP (2001-12-18)
-</li>
-<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
-Azure Ray - November (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -53,9 +47,6 @@ Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
-</li>
-<li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
-Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -80,6 +71,9 @@ The Dodos - Beware of the Maniacs (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/940808b8-01d3-4962-8da9-da8e29151fbf/5396688764-500.jpg" data-tags="indie folk, indie-folk, andy hull, manchester orchestra side project" role="button">
+Right Away, Great Captain! - The Bitter End (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
@@ -147,14 +141,14 @@ The Decemberists - The Hazards of Love (2009-03-16)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/zBUSdmP4tQksNT5bsDmHkEW9U3w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1936394-1254022032.jpeg.jpg" data-tags="folk" role="button">
 Monsters of Folk - Monsters of Folk (2009-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f00a4d3-82b2-4084-a48b-565703b812ce/13228521666-500.jpg" data-tags="indie folk, singer -songwriter" role="button">
+Owen - New Leaves (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">
 Mumford & Sons - Sigh No More (2009-10-05)
@@ -164,6 +158,9 @@ Local Natives - Gorilla Manor (2009-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
+</li>
+<li data-cover="https://img.discogs.com/AuQbDbqh0wsAU44L70pOYbHgbh4=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7866744-1450529565-9975.jpeg.jpg" data-tags="folk" role="button">
+Laura Marling - I Speak Because I Can (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
@@ -219,6 +216,12 @@ Ed Sheeran - + (2011-09-09)
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg" data-tags="indie, folk, 10s, mpb" role="button">
+Mallu Magalhães - Pitanga (2011-09-30)
+</li>
+<li data-cover="https://img.discogs.com/3MkxOFxxkhiE6DatBCLTpTPj91g=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3200538-1429433222-3749.jpeg.jpg" data-tags="indie rock, folk rock, indie folk, wish list, lo fi, 2010s, experimental indie, experimental folk, capitol records" role="button">
+The Decemberists - Long Live The King (2011-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
@@ -230,9 +233,6 @@ Best Coast - The Only Place (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/99a7f5b4-d5f0-49db-b22d-a5061c75d9bc/9102589224-500.jpg" data-tags="indie rock" role="button">
-Hop Along - Get Disowned (2012-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6454242a-1fc9-49b9-8e97-fa03d7050bdc/1066733067-500.jpg" data-tags="indie, folk, indie folk, 10s, to check" role="button">
 Edward Sharpe & The Magnetic Zeros - Here (2012-05-29)

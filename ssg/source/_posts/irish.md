@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:14:02.221Z
+date: 2021-04-12T22:31:06.949Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -29,6 +29,9 @@ Thin Lizzy - Thin Lizzy (1971-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3864b74-493f-4028-aa0a-05380c457cb7/6030956084-500.jpg" data-tags="irish, celtic" role="button">
+Planxty - Cold Blow and the Rainy Night (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfbc75-c389-4c36-a0f2-4d7b41723478/11412752699-500.jpg" data-tags="hard rock" role="button">
 Thin Lizzy - Fighting (1975)
@@ -182,9 +185,6 @@ The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
 </li>
 <li data-cover="https://img.discogs.com/zpL7Vvj08Z9ClcnhZw2kviQLoeI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7506712-1457488957-7981.jpeg.jpg" data-tags="pop, irish, male vocalist, complete crap, dim, driving pop, mobloguk, ronan keating  -  destination" role="button">
 Ronan Keating - Destination (2002)
-</li>
-<li data-cover="https://img.discogs.com/IEPYmkiATmYCQaoXBtgtmRRnZ_c=/fit-in/600x885/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1533055-1495336592-1611.jpeg.jpg" data-tags="irish" role="button">
-Gemma Hayes - Night On My Side (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)

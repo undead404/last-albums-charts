@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:40:07.021Z
+date: 2021-04-12T21:46:18.149Z
 title: "totec radio: 100 albums you must listen to before you die"
 ---
 ![Justin Bieber - My World 2.0 (2010-03-23)](http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg "Justin Bieber - My World 2.0 (2010-03-23)")
@@ -33,8 +33,8 @@ Manfred Mann - The Manfred Mann Album (1964)
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
 </li>
-<li data-cover="https://img.discogs.com/Y158l_KtIsAc3D8EtzERz1jeaPw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318517-1210581252.jpeg.jpg" data-tags="totec radio, sun and moon and stars and outer space, bleep blop, ralbums" role="button">
-The Cosmic Jokers - Planeten Sit-in (1974)
+<li data-cover="https://img.discogs.com/sQHHN7DXseUc00GAZIg6WaUxNSo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-599254-1570094747-1832.jpeg.jpg" data-tags="progressive rock" role="button">
+Nektar - A Tab in the Ocean (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/69e9d478-2cc1-4574-857a-9298f315c3da/9384947846-500.jpg" data-tags="totec radio, mojo 1000, mojo 1000 soul" role="button">
 Booker T. & the MG's - The Best of Booker T. & the MG's (1984)
@@ -123,9 +123,6 @@ Spiller - Groovejet (If This Ain't Love) (2000-08-14)
 <li data-cover="http://coverartarchive.org/release/90bd8b29-5423-4888-a7dc-35af565e133c/27365541658-500.jpg" data-tags="pop, female vocalists, totec radio" role="button">
 Carpenters - As Time Goes By (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7858ce9-7004-4c6e-8546-e50fc1d62123/12588842035-500.jpg" data-tags="reggae" role="button">
-Burning Spear - Best of the Fittest (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/09df4f7e-2ffa-4435-9603-d7e65b5d3a05/1558258671-500.jpg" data-tags="totec radio, grindcore" role="button">
 Anal Cunt - Defenders of the Hate (2001)
 </li>
@@ -173,9 +170,6 @@ Ellen Allien - Magma (2005-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3ede7ea-d634-4df1-9316-3d6def119bb5/15355889459-500.jpg" data-tags="rock, da shit" role="button">
 Sean Price - Monkey Barz (2005-05-31)
-</li>
-<li data-cover="https://img.discogs.com/YomW6vZcLjtiRQxmVQLvfgVIKlY=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5692220-1400075704-9012.jpeg.jpg" data-tags="electronic, electro, dance, house" role="button">
-Timo Maas - Pictures (2005-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5ff01a8-3590-42e1-8581-8a144c410b4f/10138520058-500.jpg" data-tags="black metal" role="button">
 Satanic Warmaster - Carelian Satanist Madness (2005-06-30)
@@ -240,6 +234,9 @@ Rex the Dog - The Rex The Dog Show (2008-08-29)
 <li data-cover="http://coverartarchive.org/release/e535227a-a4aa-4062-9187-d5ab0d1384a2/6401618869-500.jpg" data-tags="new wave, britpop, totec radio" role="button">
 Orchestral Manoeuvres in the Dark - Messages: Greatest Hits (2008-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/aeb26fe0-6d14-4507-8d4a-22839d6b15de/15635350668-500.jpg" data-tags="soul" role="button">
+Alice Russell - Pot Of Gold (2008-11-17)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="simon and garfunkel, folk" role="button">
 Simon & Garfunkel - The Collection (2008-11-24)
 </li>
@@ -249,8 +246,14 @@ Hans Zimmer - Call of Duty: Modern Warfare 2 (2009)
 <li data-cover="https://img.discogs.com/ZP1Td2EdYkTd9yTbLelrAodx4nc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8800657-1469037194-9536.jpeg.jpg" data-tags="electro house" role="button">
 MSTRKRFT - Heartbreaker (2009)
 </li>
+<li data-cover="http://coverartarchive.org/release/9af468ad-4428-45fb-b1f4-13ce40b23478/4302090485-500.jpg" data-tags="hip-hop, hip hop, rap, underground hip-hop, totec radio" role="button">
+Illogic - Diabolical Fun (2009-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa4e41a3-906f-4080-a896-a53a3dc687f6/15296292600-500.jpg" data-tags="post-rock" role="button">
 Crippled Black Phoenix - 200 Tons of Bad Luck (2009-04-20)
+</li>
+<li data-cover="https://img.discogs.com/pbOHC18V5QsV23lSfzi9usvhJik=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3075162-1354178801-4353.jpeg.jpg" data-tags="totec radio" role="button">
+Emir Kusturica & The No Smoking Orchestra - The Best Of Emir Kusturica & The No Smoking Orchestra (2009-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">
 Kasabian - Fire (2009-05-28)
@@ -263,9 +266,6 @@ Moby - Mistake (2009-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b24cdb8a-1cb3-4a25-9637-9df23d2e9121/18878417537-500.jpg" data-tags="electro" role="button">
 Fukkk Offf - LOVE ME HATE ME KISS ME KILL ME (2009-08-10)
-</li>
-<li data-cover="https://img.discogs.com/-ehpicIpOaEqvEmXuFM44PRmYg8=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005880-1293459919.jpeg.jpg" data-tags="reggae, dub, roots reggae, totec radio" role="button">
-Scotty - He's A Pirate (2009-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">
 Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)
@@ -282,6 +282,9 @@ Lymbyc Systym - Shutter Release (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/79eebda7-c062-4448-add6-c154c0f8fb26/3316749118-500.jpg" data-tags="mellow" role="button">
 Mumford & Sons - Winter Winds (2009-12-07)
 </li>
+<li data-cover="https://img.discogs.com/1RlI2WuHGMmhV7cfgWmcpNjHq3Y=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9824689-1488185724-8522.jpeg.jpg" data-tags="totec radio" role="button">
+Bobby Darin - Mack the Knife (2010)
+</li>
 <li data-cover="https://img.discogs.com/uIFvq9kRlD_O0wUHyYWYQxS25yA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10153983-1582778879-5851.jpeg.jpg" data-tags="rock" role="button">
 Elvis Presley - Elvis 75 (2010-01-04)
 </li>
@@ -291,6 +294,9 @@ Good Shoes - No Hope, No Future (2010-01-18)
 <li data-cover="https://img.discogs.com/sCpeYNF82m7K6ItW4ebUm5YiBuk=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7089406-1433463074-5228.jpeg.jpg" data-tags="totec radio" role="button">
 Matisyahu - One Day (2010-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2e277091-6563-4af1-8f6a-89055844ca01/9245332501-500.jpg" data-tags="hip-hop, hip hop, rap, totec radio" role="button">
+Snoop Dogg - Snoop Dogg Presents: The West Coast Blueprint (2010-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
@@ -299,9 +305,6 @@ Justin Bieber - My World 2.0 (2010-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab834381-6d91-493f-87a5-bbe82ae01f4e/4436545462-500.jpg" data-tags="interested" role="button">
 Guilty Simpson - OJ Simpson (2010-05-18)
-</li>
-<li data-cover="https://img.discogs.com/blBrpZWNK1XsjIhmbOUGy19spx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6755040-1425937742-4829.jpeg.jpg" data-tags="electronic, indie, if this were a pokemon i would catch it, album of the year, dance around the livingroom, surrounded by groupies, faggy electropop" role="button">
-Faded Paper Figures - New Medium (2010-05-21)
 </li>
 <li data-cover="https://img.discogs.com/bPjG3x8nhnNWXb6LJUvAirBRdIU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1950635-1266169105.jpeg.jpg" data-tags="totec radio" role="button">
 Morgan Page - Fight For You (2010-09-28)
@@ -314,9 +317,6 @@ Marilyn Manson - 20 Greatest Hits (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d863bed-1a1b-4a49-bf1b-379c5b766693/10587938395-500.jpg" data-tags="soul" role="button">
 Ben E. King - Don't Play That Song (2012)
-</li>
-<li data-cover="http://coverartarchive.org/release/0915ed5d-5cfe-4b43-a7d1-1c4ee6fa4a86/3439424827-500.jpg" data-tags="electronic, blue album covers" role="button">
-Sébastien Tellier - My God is Blue (2012-04-16)
 </li>
 <li data-cover="https://img.discogs.com/05q8QgdIvQI9LC4NNKNAnv_FwbU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7885073-1450896124-2781.jpeg.jpg" data-tags="chillout, acoustic" role="button">
 City and Colour - Live at The Orange Lounge (2012-04-20)
