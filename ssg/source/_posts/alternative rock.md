@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:33:01.852Z
+date: 2021-04-12T17:13:01.487Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")

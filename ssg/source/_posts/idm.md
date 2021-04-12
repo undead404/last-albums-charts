@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:47:01.482Z
+date: 2021-04-12T17:20:01.543Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -174,9 +174,6 @@ Amon Tobin - Foley Room (2007-02-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1d2128c-436a-4584-95f5-07da18f3fba0/2573352078-500.jpg" data-tags="electronic, acid" role="button">
-The Tuss - Rushup Edge (2007-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
 </li>
@@ -191,6 +188,9 @@ Trifonic - Emergence (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
 Helios - Caesura (2008-08-12)
+</li>
+<li data-cover="https://img.discogs.com/KtB4IMsEZQoP3ymRwdFqXGjiFTM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8560787-1464058488-2697.jpeg.jpg" data-tags="electronic, idm, symphonic" role="button">
+Near The Parenthesis - L'Eixample (2008-08-19)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)

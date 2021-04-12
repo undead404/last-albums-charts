@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:31:01.468Z
+date: 2021-04-12T16:55:01.505Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -24,14 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/82298693-edea-4c59-b74c-36275186cb2f/13955129700-500.jpg" data-tags="alt-country, americana" role="button">
-Lyle Lovett - Pontiac (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - No Depression (1990)
-</li>
-<li data-cover="https://img.discogs.com/PqD4V5GCVuTqdWD1zS_M3u5DPck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3504333-1333048227.jpeg.jpg" data-tags="country, alt-country" role="button">
-Uncle Tupelo - Still Feel Gone (1991-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/af53580d-d45c-441a-82ab-86c14acadb73/23244518052-500.jpg" data-tags="folk, country" role="button">
 Townes Van Zandt - Rear View Mirror (1993)
@@ -41,6 +35,9 @@ Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a15e987-c9c6-44c6-ab39-b89931e0a5d5/27120797067-500.jpg" data-tags="country" role="button">
 Johnny Cash - American Recordings (1994-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/f65f14a8-8047-4a69-b35c-5e90df89cbe7/17165758110-500.jpg" data-tags="alt-country, will oldham" role="button">
+Palace Brothers - Days in the Wake (1994-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
@@ -96,8 +93,14 @@ Bright Eyes - Fevers and Mirrors (2000-03-23)
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/de32e340-9ba1-4d5f-8185-93a75c356a8f/12338923634-500.jpg" data-tags="americana" role="button">
+Calexico - Hot Rail (2000-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
+Johnny Cash - American III: Solitary Man (2000-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
@@ -141,9 +144,6 @@ Mindy Smith - One Moment More (2003)
 <li data-cover="http://coverartarchive.org/release/1d22deda-5427-4b32-83c3-d36a369c2070/15971902789-500.jpg" data-tags="americana" role="button">
 Calexico - Feast of Wire (2003-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f82a5a3-d049-3cf9-a38f-c2250b1e228d/6723481969-500.jpg" data-tags="alt-country" role="button">
-Songs: Ohia - The Magnolia Electric Co. (2003-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
@@ -152,6 +152,9 @@ Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, americana, mellow, alt-country, great pop, annymix, csny radio, blueday" role="button">
 Eastmountainsouth - Eastmountainsouth (2003-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/481a0b26-9c98-4ae5-a8f1-9ed7146023bb/26476919939-500.jpg" data-tags="indie, alt-country, nostalgia" role="button">
+Limbeck - Hi, Everything's Great (2003-06-17)
 </li>
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
@@ -212,12 +215,6 @@ Dixie Chicks - Taking The Long Way (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90176739-a5d5-4141-91f2-bff69d740d79/8379865181-500.jpg" data-tags="indie, female vocalists" role="button">
 My Brightest Diamond - Bring Me the Workhorse (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
-M. Ward - Post-War (2006-08-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
-Ryan Bingham - Mescalito (2007)
 </li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
@@ -305,6 +302,9 @@ Jason Isbell and The 400 Unit - Here We Rest (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/511803d5-d2ae-451e-bd52-937a7f852d8c/3375647155-500.jpg" data-tags="alt-country" role="button">
 Chuck Ragan - Covering Ground (2011-09-12)
+</li>
+<li data-cover="https://img.discogs.com/XmadiItXkWryOuPmt5SP1WFg9jY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457799-1331138359.jpeg.jpg" data-tags="rock" role="button">
+Good Old War - Come Back As Rain (2012-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd6b690-da36-458a-aaee-28902e2b3338/27766620196-500.jpg" data-tags="rock" role="button">
 Band of Horses - Mirage Rock (2012-09-14)

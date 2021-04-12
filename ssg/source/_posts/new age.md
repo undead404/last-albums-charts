@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:49:01.775Z
+date: 2021-04-12T17:34:01.469Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -44,6 +44,9 @@ Clannad - Legend (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/29194d09-f4c5-4578-b41c-cbe976e6f330/15874058610-500.jpg" data-tags="ambient" role="button">
 Steve Roach - Structures From Silence (1984)
+</li>
+<li data-cover="https://img.discogs.com/zXj9wytP_NfLkgYRJ_2reUnlgGc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288160-1293995724.jpeg.jpg" data-tags="piano" role="button">
+David Lanz - Nightfall (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
 Enya - Enya (1986)
@@ -113,9 +116,6 @@ Enya - The Memory of Trees (1995-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
-</li>
-<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
-Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/41f31d52-7672-4f51-b201-1a9595f7ec04/22754304622-500.jpg" data-tags="celtic" role="button">
 Mike Oldfield - Voyager (1996-08-23)

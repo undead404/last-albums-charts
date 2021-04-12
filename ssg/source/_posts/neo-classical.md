@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:39:12.664Z
+date: 2021-04-12T17:36:01.438Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
 ![Escala - Escala (2009-05-25)](http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg "Escala - Escala (2009-05-25)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/pYnWoEW60oQ8jHHW3T6sqdkG7TA=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4583179-1369072733-8009.jpeg.jpg" data-tags="progressive rock, art rock" role="button">
-Procol Harum - Grand Hotel (1973)
-</li>
 <li data-cover="http://coverartarchive.org/release/82815fc7-a9f9-3079-a256-822cd9ccb98b/3766549021-500.jpg" data-tags="industrial" role="button">
 The Legendary Pink Dots - Any Day Now (1987)
 </li>
@@ -179,6 +176,9 @@ Hecq - Night Falls (2006-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ccacb7d-082c-4889-bf3e-bc424dfa5c49/26310137897-500.jpg" data-tags="metalcore, progressive metal" role="button">
 The Human Abstract - Nocturne (2006-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b13030be-1f81-4104-9770-63108e44e30b/2027168189-500.jpg" data-tags="electronic, ambient, minimalist, dark ambient, avant-garde" role="button">
+Autopsia - The Berlin Requiem (2006-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/db6864b9-cae5-4295-8079-7d9199dd026c/2773641886-500.jpg" data-tags="neo-classical" role="button">
 L'Effet C'Est Moi - Tomber En Héros (2007-03)

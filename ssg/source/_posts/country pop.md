@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:26:01.471Z
+date: 2021-04-12T17:08:18.253Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -27,8 +27,8 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="https://img.discogs.com/lhoJnOy90c-GnbsxrtTvZoq7kn4=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642288-1245960211.jpeg.jpg" data-tags="70s, pop rock, sunshine pop, country pop, surf rock" role="button">
 Curt Boettcher - There's an Innocent Face (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ad8695f-1d29-495f-bdfe-ba67c55e944e/24648265202-500.jpg" data-tags="70s, c gayle" role="button">
-Crystal Gayle - We Must Believe In Magic (1977)
+<li data-cover="https://img.discogs.com/7mQBLQDZej8C6RMc2pbB8ix_S6c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3706300-1454350272-5462.jpeg.jpg" data-tags="70s, usa, country pop, american duo, grammy winner 1974" role="button">
+Kris Kristofferson & Rita Coolidge - Full Moon (1973-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
 Glen Campbell - Southern Nights (1977-02)
@@ -38,6 +38,9 @@ Marianne Faithfull - Faithless (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/b69cf6bd-70b4-4e71-a3f8-ca7c78abe75e/5704200723-500.jpg" data-tags="pop, 80s, country pop, mtplay" role="button">
 Eddie Rabbitt - Horizon (1980)
+</li>
+<li data-cover="https://img.discogs.com/29d_W0e1uqkiyqMAdqjis5BbDlE=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9703019-1555901857-6070.jpeg.jpg" data-tags="country pop" role="button">
+Frank Ifield - Remembering The Sixties (1980)
 </li>
 <li data-cover="https://img.discogs.com/JzpAP-kIUwt3X6uqCSwC510f8yk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4304112-1361216678-1310.jpeg.jpg" data-tags="country" role="button">
 Alabama - Feels So Right (1981)
@@ -314,9 +317,6 @@ The Band Perry - Pioneer (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfaf46c6-d2b5-4a67-9113-705b982fb4d9/5633586543-500.jpg" data-tags="country, country pop, sara evans -slow me down" role="button">
 Sara Evans - Slow Me Down (2013-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/9995defc-83f0-4986-8034-37a351c9d8f5/8535696317-500.jpg" data-tags="drone, meme, mucore" role="button">
-Jason Aldean - Old Boots, New Dirt (2014-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3757c03f-d849-4f8f-a4c7-726904ef8fb0/25348040175-500.jpg" data-tags="not country, not sexy" role="button">
 Sam Hunt - Montevallo (2014-10-27)

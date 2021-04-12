@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:14:01.411Z
+date: 2021-04-12T17:00:01.525Z
 title: "female fronted metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -38,6 +38,9 @@ Evanescence - Sound Asleep EP (1999-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ce97749-e22c-4b08-a1ba-148008ac462e/13960344192-500.jpg" data-tags="industrial" role="button">
 Genitorturers - Machine Love (2000-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/961a5ebc-5312-4f60-8b36-4a840ca8d481/27007284804-500.jpg" data-tags="gothic metal" role="button">
+Flowing Tears - Jade (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/578742aa-0874-4dd7-9917-15909eaa53c8/4971999782-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Halflife (2000-03-15)
@@ -153,9 +156,6 @@ Within Temptation - Memories (2005-01-31)
 <li data-cover="http://coverartarchive.org/release/3435325a-c915-4028-a09c-a23b2f8556f2/2124103880-500.jpg" data-tags="folk metal, gothic metal" role="button">
 Midnattsol - Where Twilight Dwells (2005-01-31)
 </li>
-<li data-cover="https://img.discogs.com/jy_soO58j55CsAG3cvS-Vw6Siow=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5107953-1384706200-8069.jpeg.jpg" data-tags="symphonic metal" role="button">
-Epica - Consign to Oblivion (2005-04-21)
-</li>
 <li data-cover="https://img.discogs.com/cFgXUCEiqxmpQWTFydRe9MDN3wU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316799-1325474876.jpeg.jpg" data-tags="female fronted metal" role="button">
 Unshine - Earth Magick (2005-05-25)
 </li>
@@ -225,6 +225,9 @@ After Forever - After Forever (2007-04-20)
 <li data-cover="https://img.discogs.com/59ui5Dl6FzjJoeLk6e_EbyYmNWQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353221-1452775343-7648.jpeg.jpg" data-tags="symphonic metal" role="button">
 Xandria - Salomé - The Seventh Veil (2007-05-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4129c421-5f00-41e2-b366-112be6ed903c/13367940747-500.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - Frozen (2007-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d640072-3f0e-4c85-9f0e-86ee99d52e9e/8196424473-500.jpg" data-tags="metalcore, melodic death metal" role="button">
 The Agonist - Once Only Imagined (2007-07-20)
 </li>
@@ -272,9 +275,6 @@ Elis - Catharsis (2009-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e9aefce-76d7-41b2-b25c-01b73ef092a6/14478984917-500.jpg" data-tags="folk metal" role="button">
-Equilibrium - Rekreatur (2010-06-18)
 </li>
 <li data-cover="https://img.discogs.com/8sZQNKE9oHBtEZ3Z5Nv6Ftbj_fU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4925290-1379608085-2951.jpeg.jpg" data-tags="symphonic metal" role="button">
 Tarja - What Lies Beneath (2010-09-01)

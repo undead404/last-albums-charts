@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:11:01.971Z
+date: 2021-04-12T16:57:01.453Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -144,14 +144,14 @@ Pink Floyd - Obscured by Clouds (1972-06-03)
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e498ca7-a8f3-342a-b782-8194eefb6da1/20961140989-500.jpg" data-tags="hard rock" role="button">
-Blue Öyster Cult - Agents of Fortune (1976-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
+Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
 <li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)
@@ -161,6 +161,9 @@ Kingston Wall - II (1993-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Division Bell (1994-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bcc44c8-ac6e-4f54-a0ff-98897d26a934/3003155696-500.jpg" data-tags="stoner rock" role="button">
+Monster Magnet - Dopes to Infinity (1995-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
@@ -212,9 +215,6 @@ Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="https://img.discogs.com/eHjqePMXJt9CAC02XTYPOgRuOM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2754782-1385772773-8148.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a0d6f6b-0a2b-4449-880c-4529bdaec15d/16256226007-500.jpg" data-tags="blues rock" role="button">
-Radio Moscow - Brain Cycles (2009-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)

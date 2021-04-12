@@ -1,14 +1,14 @@
 ---
-date: 2021-04-12T08:16:07.097Z
+date: 2021-04-12T17:39:07.060Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
+<li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">Caribou - Andorra (2007-08-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">Friendly Fires - Friendly Fires (2008-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">Delphic - Acolyte (2010-01-11)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">Kindness - World, You Need a Change of Mind (2012-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
@@ -90,6 +90,9 @@ Broken Spindles - Fulfilled/Complete (2004-05-04)
 <li data-cover="https://img.discogs.com/Gl0JdmtBh4Bu5ENhknStJ6146Ig=/fit-in/600x645/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8577781-1464404138-7605.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Go! Team - Thunder, Lightning, Strike (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/25310979-71c9-4303-bc0e-6a7d705f53ec/25493340075-500.jpg" data-tags="experimental, indie electronic, noise-rock" role="button">
+The Punks - Unanimous Bangers (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/0285b1b5-5626-427c-acc4-f3d15d5953e5/9663981320-500.jpg" data-tags="indie electronic" role="button">
 Khonnor - Burning Palace (2006-04)
 </li>
@@ -119,6 +122,9 @@ Khonnor - Softbo EP (2008-11-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie, indie electronic, synth pop, germany, synthesizer, german, 00s, geeky, nan" role="button">
 Not A Number - Jigsaw Music (2008-12)
+</li>
+<li data-cover="https://img.discogs.com/_FABWcikUNXaqVb4HDuweEB1ryI=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2308346-1275912648.jpeg.jpg" data-tags="indie electronic" role="button">
+Mr Fogg - Keep Your Teeth Sharp Ep (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/d10067e6-3feb-4ef9-a0eb-1ede9b7c562e/5966597004-500.jpg" data-tags="electropop, indie, pop, alternative, swedish, indie electronic, gothenburg, indiepop, lo-fi, indietronica, poptronica" role="button">
 Cyrusgbg - Live my dream (2009)
@@ -177,14 +183,8 @@ Holy Ghost! - Holy Ghost! (2011-04-04)
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/19d74ad6-606e-4bbb-b09f-a5ce18cd268e/5898507507-500.jpg" data-tags="pop, electronic" role="button">
-Nicola Roberts - Cinderella's Eyes (2011-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
@@ -206,9 +206,6 @@ School of Seven Bells - Ghostory (2012-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
-</li>
-<li data-cover="https://img.discogs.com/BYoy-UvpQO716_x3PWZGL7DaG-M=/fit-in/600x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14581292-1577558711-1403.jpeg.jpg" data-tags="indie, netlabel, creative commons, 23 seconds, alternative, indie electronic, lo-fi, indietronica" role="button">
-The Womb - How to Deal With People Who Refuse to Leave a Burning Building (2012-04-02)
 </li>
 <li data-cover="https://img.discogs.com/ZPHFFLltwEgfXcWsdW2_6o6ThfU=/fit-in/500x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801441-1344973245-9440.jpeg.jpg" data-tags="indie electronic, new age, epic album covers" role="button">
 d'Eon - LP (2012-06-05)
@@ -311,6 +308,9 @@ MØ - No Mythologies to Follow (2014-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d20cd5ed-5db4-4318-8230-cfdf65d9526a/7162176118-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - "What Is This Heart?" (2014-06-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/83722cfa-17ff-4936-86cc-bd5999820471/8989763414-500.jpg" data-tags="electronic, indie, experimental, indie electronic, dark, free, acid" role="button">
+Dogory Nogami - EICV7" No. 78 (2014-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/533573b9-9f3c-400f-be2d-ac11a94fb02a/7919834586-500.jpg" data-tags="pop" role="button">
 Troye Sivan - TRXYE (2014-08-15)

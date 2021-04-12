@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T19:02:07.004Z
+date: 2021-04-12T17:33:07.056Z
 title: "romantic: 100 albums you must listen to before you die"
 ---
-![Bruno Mars - Locked Out Of Heaven (2012-10-01)](https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg "Bruno Mars - Locked Out Of Heaven (2012-10-01)")
+![Michael Bublé - Crazy Love (2009-10-06)](http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg "Michael Bublé - Crazy Love (2009-10-06)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/2b6aeba7-272c-4299-af0c-ecbfbf487298/2535580481-500.jpg" data-tags="rock" role="button">Bryan Adams - So Far So Good (1993-07-01)</li>
 <li data-cover="https://img.discogs.com/eGx6Y-3O73jhjS-yqKsK2RzAty8=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386093-1449454879-5476.jpeg.jpg" data-tags="rock, alternative rock" role="button">Hoobastank - The Reason (2003-06-30)</li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">Katie Melua - Piece by Piece (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
@@ -12,7 +13,6 @@ title: "romantic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg" data-tags="jazz" role="button">Michael Bublé - Crazy Love (2009-10-06)</li>
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">The Walkmen - Lisbon (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">Coldplay - Ghost Stories (2014-05-16)</li>
 </ol>
 List of 100 - under the cut.
@@ -36,14 +36,14 @@ Hector Berlioz - La Damnation de Faust (1974-11-09)
 <li data-cover="http://coverartarchive.org/release/35df0edb-b8d9-4da3-962c-c675a6e4d7d9/20732072794-500.jpg" data-tags="soul funk 70s car wash" role="button">
 Rose Royce - Car Wash (1976-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Arrival (1976-10-11)
+<li data-cover="http://coverartarchive.org/release/cfbfc74b-7495-4b60-8227-61b5ff135061/19827716119-500.jpg" data-tags="the best of peaches and herb" role="button">
+Peaches & Herb - The Best of Peaches & Herb (1977)
+</li>
+<li data-cover="https://img.discogs.com/cXztR9cqWghW8lXUZaehy7L6yxs=/fit-in/600x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8159665-1456250862-3637.jpeg.jpg" data-tags="paolo conte" role="button">
+Paolo Conte - Paris Milonga (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/090700a7-0ec5-41bb-b970-52e6aa47b755/16567307250-500.jpg" data-tags="80s" role="button">
 Roxy Music - Avalon (1982-06)
-</li>
-<li data-cover="https://img.discogs.com/xdzKL9raX7AEx_mCZqFPIzSMkv4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644590-1338653672-6305.jpeg.jpg" data-tags="roots reggae" role="button">
-John Holt - Police In Helicopter (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/415c9671-58de-4e84-96d5-05e7b70e2ab9/21370760541-500.jpg" data-tags="funk, romantic, sweet, slick, lively, in love, effervescent, sparkling, new love" role="button">
 Rick James - Glow (1985)
@@ -60,17 +60,26 @@ Johann Strauss II - Vienna of My Dreams (1990)
 <li data-cover="http://coverartarchive.org/release/2acffae4-3095-4d9e-95e1-b6586c327686/1855387395-500.jpg" data-tags="male, romantic, blues, oldies, songs i like to sing along with" role="button">
 Neil Diamond - Love Songs (1990-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/c405f2d0-f522-4d61-8812-c0f8422d124f/12252644242-500.jpg" data-tags="classical" role="button">
+Richard Strauss - Also Sprach Zarathustra (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/11469f06-dc1c-47c7-bf69-34ba2ce826b4/18787237477-500.jpg" data-tags="country, contemporary country" role="button">
 Trisha Yearwood - Trisha Yearwood (1991)
 </li>
 <li data-cover="https://img.discogs.com/sOGQ2NTdQbhgu022yEDDkq00lAA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-429833-1500507525-7948.png.jpg" data-tags="electronic, romantic, spoken word, poetry" role="button">
 Anne Clark - Joined Up Writing/The Sitting Room (1991-01-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/76b432ce-d96c-4eda-b80b-74eff43e674a/4264108071-500.jpg" data-tags="female vocalists" role="button">
+Lisa Stansfield - Real Love (1991-11-11)
+</li>
 <li data-cover="https://img.discogs.com/-3mFS6brCur3657bA_V_atyy1MQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12642908-1539190599-3671.jpeg.jpg" data-tags="vocal, traditional pop, romantic, reflective, smooth, earnest, dramatic, elegant, showtunes, crooners, sophisticated, warm, poignant, relaxation, lush, sentimental, soothing, joyous, cast recordings, show tunes, refined, theatrical, gutsy, in love, reserved, romantic evening, vocal pop, dinner ambiance, american popular song, vic damone, vic soothest veteran sings the great love song, vic veteran smooth romantic sings great love songs, vic damone sings the great love songs" role="button">
 Vic Damone - 16 Most Requested Songs (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/b097b85d-3f9b-40c9-8d50-dac05f1997d1/26006988431-500.jpg" data-tags="60s, oldies" role="button">
 The Fortunes - Seasons In the Sun (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/5802a8b7-0c35-47d5-b4c6-59b495361a0d/24426125912-500.jpg" data-tags="classical" role="button">
+Hector Berlioz - Symphonie Fantastique (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b6aeba7-272c-4299-af0c-ecbfbf487298/2535580481-500.jpg" data-tags="rock" role="button">
 Bryan Adams - So Far So Good (1993-07-01)
@@ -108,17 +117,14 @@ No Knife - Fire In The City of Automatons (1998-05-18)
 <li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
 Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
 </li>
-<li data-cover="https://img.discogs.com/8IVyiYTc8HAKo-ip6awpjg1zk68=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9315924-1478458143-7728.jpeg.jpg" data-tags="romantic, swing" role="button">
-Dean Martin - That's Amore (1998-09-17)
-</li>
 <li data-cover="https://img.discogs.com/fZJkwHcWtlHa3lpvWMryOI0s1Q8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8334576-1544964835-6860.jpeg.jpg" data-tags="classical, romantic" role="button">
 Felix Mendelssohn - A Midsummer Night's Dream (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb34f967-74da-4cf5-9794-39f6fde10f55/27531121026-500.jpg" data-tags="spanish, female vocalists, romantic, dance pop, loona" role="button">
-Loona - Lunita (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/c388be2b-2964-4e30-a4f4-267d3b6770f6/4235033743-500.jpg" data-tags="andrea bocelli" role="button">
+Andrea Bocelli - Sacred Arias (1999-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ebe8cc4-ee3e-4eb1-ae7d-b1fc09b49646/13435578387-500.jpg" data-tags="classical, wagner" role="button">
 Richard Wagner - The Royal Philharmonic Collection (2000)
@@ -126,17 +132,23 @@ Richard Wagner - The Royal Philharmonic Collection (2000)
 <li data-cover="http://coverartarchive.org/release/da042f7f-f022-45de-9fba-70afa470ecde/10415106772-500.jpg" data-tags="female vocalists" role="button">
 Eva Cassidy - Time After Time (2000-06-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/b2a48b87-9371-4168-807a-255f69dc5207/1652330936-500.jpg" data-tags="gothic metal" role="button">
+Crematory - Believe (2000-09)
+</li>
 <li data-cover="https://img.discogs.com/MRVPHCqK3kRID_THMMDE-knKCAw=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306344-1324997694.jpeg.jpg" data-tags="rock, russian rock" role="button">
 Смысловые галлюцинации - 3000 (2000-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
 </li>
+<li data-cover="https://img.discogs.com/aefUYco1IuW78cbm_6l7Xy_N70o=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8374621-1460376522-2938.jpeg.jpg" data-tags="rockabilly, rock, new wave, romantic, rock n roll, bravo, bravogroup, viktorvitaly, vitalytsvetkov" role="button">
+Браво - Евгеника (2001)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="das lied von der erde" role="button">
+Gustav Mahler - Das Lied von der Erde (2001-01-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/7539dc28-2f8a-4b67-9169-cc233344222b/9531976806-500.jpg" data-tags="soul, romantic" role="button">
 En Vogue - The Very Best of En Vogue (2001-08-21)
-</li>
-<li data-cover="https://img.discogs.com/5okqO3ADqsY2CzlivGPtYjIypJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1053161-1353830537-8314.jpeg.jpg" data-tags="jazz, romantic, swing" role="button">
-Robbie Williams - Somethin' Stupid (2001-12-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="symphony" role="button">
 Gustav Mahler - Symphony No. 2 "Resurrection" (2002-01-23)
@@ -150,9 +162,6 @@ Michael Bublé - Dream (2002-06)
 <li data-cover="http://coverartarchive.org/release/b4559308-a761-3279-8243-35952f3aeb7a/19438296770-500.jpg" data-tags="country" role="button">
 Faith Hill - Cry (2002-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9c0c9a7-d89d-451a-9d18-24991b6bda34/15307887362-500.jpg" data-tags="black music" role="button">
-LL Cool J - 10 (2002-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
 </li>
@@ -161,9 +170,6 @@ Shakira - Grandes Exitos (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1923a1d0-1482-4e9c-bdeb-d35e4f6add7c/6920053263-500.jpg" data-tags="ukrainian" role="button">
 Океан Ельзи - Суперсиметрія (2003-03-12)
-</li>
-<li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
-Gregor Samsa - 27:36 (2003-03-18)
 </li>
 <li data-cover="https://img.discogs.com/on7vn4BaRhJvJuJAC_hFod-nHno=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14554335-1576955367-5851.png.jpg" data-tags="pop" role="button">
 Simply Red - Home (2003-03-24)
@@ -189,9 +195,6 @@ Frank Sinatra - That's Life (2004)
 <li data-cover="https://img.discogs.com/sioTJfEhvPqknISxktB3-vyusGE=/fit-in/280x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2889779-1353795919-6239.jpeg.jpg" data-tags="romantic, johnny mathis the essentials" role="button">
 Johnny Mathis - The Essential Johnny Mathis (2004)
 </li>
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
-D - Paradox (2004-01-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f63a705-2e3d-451c-a8e9-0ae7025f9055/12844808386-500.jpg" data-tags="hard rock" role="button">
 3 Doors Down - Here Without You (2004-05-31)
 </li>
@@ -216,9 +219,6 @@ Trading Yesterday - More Than This (2006)
 <li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">
 Andy McKee - Art of Motion (2006-01-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">
-Nathan Fake - Drowning in a Sea of Love (2006-03-20)
-</li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
@@ -228,11 +228,14 @@ Gram Parsons - The Complete Reprise Sessions (2006-06-20)
 <li data-cover="https://img.discogs.com/j6h09ewKssrBeJ-jwHmd1qOrVo4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-756941-1227126860.jpeg.jpg" data-tags="pop" role="button">
 Leigh Nash - Blue On Blue (2006-08-14)
 </li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/20e1927a-3703-4fa5-96d2-a027db1737ee/16785820466-500.jpg" data-tags="classical" role="button">
 Franz Liszt - The Very Best of Liszt (2006-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/84d12e5c-115f-4ef1-96bd-f972b41536c7/8293509982-500.jpg" data-tags="classical, late romantic" role="button">
+Jean Sibelius - The Very Best of Sibelius (2006-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf48609e-4601-44d1-af74-d5e47b340557/2087482855-500.jpg" data-tags="russian, melodic rock" role="button">
+Илья Орлов - Год Собаки (2006-11-01)
 </li>
 <li data-cover="https://img.discogs.com/VrMQPjBC62daox6swpVFW8xWAsM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-746488-1373094418-1552.jpeg.jpg" data-tags="classical" role="button">
 Gustav Holst - The Planets (2007)
@@ -246,8 +249,8 @@ Frank Sinatra - Romance: Songs From The Heart (2007-01-16)
 <li data-cover="https://img.discogs.com/GYXc7wlL5NDmdsPRrLQvioQngXA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396405-1504959986-1948.jpeg.jpg" data-tags="turkce rock" role="button">
 Aslı - Söylediğim Şarkılarda Saklı (2007-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
-Paul Potts - One Chance (2007-07-13)
+<li data-cover="http://coverartarchive.org/release/1e91e643-1b22-4e96-b250-8057c348e5f9/6441854610-500.jpg" data-tags="pop opera" role="button">
+Alessandro Safina - Sognami (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
@@ -270,9 +273,6 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 <li data-cover="https://img.discogs.com/hPBi_tvsKOpa0IUmtVzQtKYmGgY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13487694-1555161652-4877.jpeg.jpg" data-tags="rock, british, indie rock, 00s" role="button">
 Peter Doherty - Grace/Wastelands (2009-03-04)
 </li>
-<li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
-Amesoeurs - Amesoeurs (2009-03-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
 Oceana - Cry Cry (2009-03-30)
 </li>
@@ -284,6 +284,9 @@ Miley Cyrus - The Time of Our Lives (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Crazy Love (2009-10-06)
+</li>
+<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, alternative rock, indie rock" role="button">
+Robbie Williams - Bodies (2009-10-12)
 </li>
 <li data-cover="https://img.discogs.com/QL_8I14X-QpLzFgRs_ULnrr7_b8=/fit-in/325x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4519222-1367176559-7888.jpeg.jpg" data-tags="rock, powerpop" role="button">
 Hot Chelle Rae - Lovesick Electric (2009-10-26)
@@ -300,14 +303,11 @@ The Walkmen - Lisbon (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc4d5817-e999-4717-86a4-28f8123bc7f8/5223594038-500.jpg" data-tags="easy listening, vocal jazz, romantic, swing, big band, smooth jazz, robbie williams" role="button">
-Robbie Williams - Beyond The Sea (2012-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
 Bvdub - Serenity (2012-03-20)
 </li>
-<li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">
-Bruno Mars - Locked Out Of Heaven (2012-10-01)
+<li data-cover="http://coverartarchive.org/release/91645581-c5a7-42e6-9334-e9c9ff622e5e/27733955139-500.jpg" data-tags="country" role="button">
+Shania Twain - Millenium Best 2000 (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
 Suede - Dog Man Star (2013-10-21)

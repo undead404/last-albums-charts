@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T18:59:01.399Z
+date: 2021-04-12T17:25:01.447Z
 title: "groovy: 100 albums you must listen to before you die"
 ---
 ![Charli XCX - Boom Clap (2014-04-16)](http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg "Charli XCX - Boom Clap (2014-04-16)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">Steely Dan - Can't Buy A Thrill (1972-10)</li>
+<li data-cover="http://coverartarchive.org/release/308f450a-1fa2-3199-b8d5-db5faa8bd07d/12119763390-500.jpg" data-tags="80s, fleetwood mac" role="button">Fleetwood Mac - Mirage (1982-06-18)</li>
 <li data-cover="https://img.discogs.com/8cmTU-QuN5GMSuDjNX65BCwMSgM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9638095-1484019100-8094.jpeg.jpg" data-tags="jazz, rock, funk, funky, groovy, rhythm and blues, jecks, louis armstrong, larmstrong, l armstrong" role="button">Louis Armstrong - C'est Si Bon (2001-11-13)</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
+<li data-cover="http://coverartarchive.org/release/c4084059-b9e3-4248-9d5a-487224970dfa/4514268539-500.jpg" data-tags="soul, neo-soul" role="button">Erykah Badu - Worldwide Underground (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">Aesop Rock - None Shall Pass (2007-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/e7a50a3c-83df-41ce-a40b-9a9622d65df6/3592774798-500.jpg" data-tags="electronic, house" role="button">Basement Jaxx - Scars (2009-09-20)</li>
 <li data-cover="https://img.discogs.com/YNA3QFzyfL4lRKYkPbUXu955als=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6354960-1417205837-9595.jpeg.jpg" data-tags="electronic, hip hop, alternative, rap, groovy, alternative hip-hop" role="button">Chiddy Bang - The Swelly Express (2009-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">Toro y Moi - Underneath the Pine (2011-02-21)</li>
-<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, chic" role="button">Crazy P - When We On (2011-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">Charli XCX - Boom Clap (2014-04-16)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/gaf020Ul560sR-ccQlUk04d5SWE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-821777-1163070383.jpeg.jpg" data-tags="70s" role="button">
-Hot Butter - Popcorn (1972-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/e11be41a-4c71-44a4-ab7f-0185cac15899/6801939905-500.jpg" data-tags="rock, 60s" role="button">
 Janis Joplin - Best of Janis Joplin (1975)
 </li>
@@ -44,6 +38,9 @@ Opus - Live Is Life (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/9178130b-806b-426a-a8eb-9ca616a340c3/1269384177-500.jpg" data-tags="golden age hip hop, 80s" role="button">
 LL Cool J - Radio (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/f897d31f-2a45-4d22-aa5f-d09f88949ca9/16857313028-500.jpg" data-tags="rock, folk, funk, funky, groovy, jecks, nelson" role="button">
+Willie Nelson - The Best Of Willie Nelson (1986)
 </li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
 Bobby McFerrin - Simple Pleasures (1988-08-22)
@@ -87,11 +84,14 @@ Scatman John - Scatman's World (1995-07-10)
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
 Incubus - Fungus Amongus (1995-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/965f13b4-de5e-4627-9ba0-700e920b052c/7697260150-500.jpg" data-tags="classic rock, 60s" role="button">
+The Grass Roots - All Time Greatest Hits (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac665057-4edf-4e12-9157-aa57abdc32c7/6513527640-500.jpg" data-tags="stoner rock, heavy metal" role="button">
+Corrosion of Conformity - Wiseblood (1996)
+</li>
 <li data-cover="https://img.discogs.com/ivb3G3QP1X2uN9Q2nq9p2Q7loK4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56279-1225073615.jpeg.jpg" data-tags="funky, groovy" role="button">
 Groove Collective - We The People (1996-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
-Ernest Ranglin - Below The Bassline (1996-06-11)
 </li>
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="heavy metal, jazz, pop, rock, soul, 60s, instrumental, hard rock, acoustic, motown, funk, organ, funky, progressive, oldies, groovy, male vocalists, guitar virtuoso, jecks, deep purple, close harmony, knocking at your back door" role="button">
 Deep Purple - Knocking At Your Back Door (1997)
@@ -99,17 +99,23 @@ Deep Purple - Knocking At Your Back Door (1997)
 <li data-cover="https://img.discogs.com/5gxQ1LoQeHr3HEeoJBkNEdrp8Vo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373145-1572188842-7674.jpeg.jpg" data-tags="dispatch, rock" role="button">
 Dispatch - Bang Bang (1997-09-01)
 </li>
+<li data-cover="https://img.discogs.com/ew7_IQfs8mkp-UoS7AvUd7Ty85M=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490760-1343760598-2629.jpeg.jpg" data-tags="rock, funk, funky, groovy, jecks" role="button">
+T-Spoon - Sex on the Beach (1997-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1de3d3e-a780-4537-b999-286806df8a98/6616515825-500.jpg" data-tags="rock" role="button">
+Extreme - The Best of Extreme (1997-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/aec74961-47b2-408d-a53d-10a26f677f25/14338686353-500.jpg" data-tags="punk rock, glam punk, death punk" role="button">
 Turbonegro - Apocalypse Dudes (1998)
+</li>
+<li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
+Deep Purple - 30: Very Best Of (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7fa92d7-42ee-49fb-89d5-c30eda532199/5526494972-500.jpg" data-tags="rock, funk, funky, groovy, jecks, dreams" role="button">
 Ann Lee - Dreams (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/60ebf041-7d5c-4c8b-b792-f3b67e6f739d/7130382727-500.jpg" data-tags="groovy, maxwell" role="button">
 Various Artists - Girls Night Out (1999-01-19)
-</li>
-<li data-cover="https://img.discogs.com/k-wm_1gsj0leAShvQjDNouf1LnM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368574-1252735994.jpeg.jpg" data-tags="psychedelic" role="button">
-OOIOO - Feather Float (1999-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/717a1e99-b6f4-4faf-89d1-10d69e991ccc/915839326-500.jpg" data-tags="electronic, techno, melancholy, groovy, ethno, faithless, hel phire" role="button">
 Faithless - Bring My Family Back (1999-04-19)
@@ -120,17 +126,17 @@ Jamiroquai - Canned Heat (1999-05-24)
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9bed4de-a76e-41b9-a83c-68fffeb74644/18857131563-500.jpg" data-tags="psychedelic" role="button">
-Ozric Tentacles - Swirly Termination (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/83989bd9-e1bb-4d46-a23f-db62e29ffae1/8216806379-500.jpg" data-tags="microhouse, minimal" role="button">
-Luomo - Vocalcity (2000-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/eecb042f-85a2-4f1a-ab8c-5c9a947c2d66/15106304103-500.jpg" data-tags="soul, neo-soul" role="button">
 Jill Scott - Who Is Jill Scott? Words and Sounds, Volume 1 (2000-07-10)
+</li>
+<li data-cover="https://img.discogs.com/I4kCuqg5wj4j4KatoUL-zbDdeZA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-907702-1471724506-6929.jpeg.jpg" data-tags="drum and bass" role="button">
+Electric Rudeboyz - Kolejny Krok (2001-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/77bfd13a-40b0-41ec-afd6-15f0ca904e5b/2335812387-500.jpg" data-tags="trance, electronic, dance" role="button">
+Safri Duo - Episode II (2001-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c120781-cf3c-47f0-88e3-7f20a05cf999/3671158198-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, hard rock, acoustic, motown, funk, funky, groovy, jecks" role="button">
 Mr. Big - Actual Size (2001-08-08)
@@ -147,9 +153,6 @@ Ashanti - Ashanti (2002-04-02)
 <li data-cover="http://coverartarchive.org/release/d4ec20ec-fdbc-46ab-ad04-906eee7d7857/19928196145-500.jpg" data-tags="rock, indie rock, groovy, jazz rock, fresh, desert rock, primary, bb, alive, chillout rock, portalternativo, sun stoner" role="button">
 Brant Bjork - Brant Bjork & The Operators (2002-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
-Deerhoof - Reveille (2002-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4e40d5d9-5c54-4466-92cc-cd924ea45a8c/2978448714-500.jpg" data-tags="electronic, dance, happy, groovy, favs, lekkah, 4nas, nadh, vemu, mmwm" role="button">
 C-Mon & Kypski - Vinyl Voodoo (2002-11-16)
 </li>
@@ -164,6 +167,9 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4084059-b9e3-4248-9d5a-487224970dfa/4514268539-500.jpg" data-tags="soul, neo-soul" role="button">
 Erykah Badu - Worldwide Underground (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/a64cce78-75b6-45f5-b5bc-82aae8daa5f2/17177090552-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks, jestofunk" role="button">
+Jestofunk - Seventy Miles From Philadelphia (2003-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6cbe405-cb68-449e-b882-f8c2145a949f/7710002716-500.jpg" data-tags="grunge" role="button">
 Stone Temple Pilots - Thank You (2003-11-10)
@@ -182,9 +188,6 @@ O'Funk'illo - No Te Cabe Na' (2005)
 </li>
 <li data-cover="https://img.discogs.com/JqAKxY4hKIvBj_piksqhEXGcP8w=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-706736-1214421417.jpeg.jpg" data-tags="retro, funky, freshly squeezed" role="button">
 The Pinker Tones - The Million Colour Revolution (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/e245b439-7530-374c-952d-874b66ebcbfe/23055031680-500.jpg" data-tags="rock" role="button">
-Robert Plant And The Strange Sensation - Mighty Rearranger (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/839570e0-dfe5-403f-b498-d6e6a08ab34f/28569193564-500.jpg" data-tags="electronic, dance" role="button">
 Faithless - Forever Faithless: The Greatest Hits (2005-05-16)
@@ -210,17 +213,11 @@ Skin - Fake Chemical State (2006-03-20)
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
-Chris Cornell - Unplugged in Sweden (2006-09-07)
+<li data-cover="http://coverartarchive.org/release/34674812-212e-4ab6-bd87-6c9f370858da/4786446537-500.jpg" data-tags="alternative rock, remix" role="button">
+Falling Up - Exit Lights (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7481071-cba2-3003-9098-5e99c7781ab4/4400846790-500.jpg" data-tags="electronic, dance, happy, original, klezmer, groovy, 00s, favs, lekkah, 4nas, nadh, vemu, mmwm" role="button">
 C-Mon & Kypski - Where The Wild Things Are (2006-10-20)
-</li>
-<li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
-The John Butler Trio - Grand National (2007-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/f87f3b49-d278-45f6-866a-7135dd474889/3076669072-500.jpg" data-tags="psytrance, progressive trance" role="button">
-Vibrasphere - Exploring The Tributaries (2007-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - None Shall Pass (2007-08-28)
@@ -231,14 +228,14 @@ Tina Dico - Count To Ten (2007-09-03)
 <li data-cover="https://img.discogs.com/CNQJ0YK7pQ0v-C9Ak-ASNKg1PpI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1122262-1249303869.jpeg.jpg" data-tags="hip hop" role="button">
 Buck 65 - Situation (2007-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/09e639a0-8260-4b7e-aa9c-879727b134b9/2335765398-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks" role="button">
+Hushpuppies - Silence Is Golden (2007-11-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/542f1d3a-91ea-4501-82b8-bba39f0eab13/22549698830-500.jpg" data-tags="hip-hop" role="button">
 Looptroop Rockers - Good Things (2008-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/130b70de-6919-44d6-897a-913ca91b4686/27654147182-500.jpg" data-tags="underground hip-hop" role="button">
 Snowgoons - Black Snow (2008-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/71bed21f-6bf6-4ddb-8697-7f5ef0aac95b/16173300753-500.jpg" data-tags="jazz" role="button">
-Nicola Conte - Rituals (2008-08)
 </li>
 <li data-cover="https://img.discogs.com/Cr4W-kLOwbMpgGu6yQmUsPXHCwM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1433626-1219345558.jpeg.jpg" data-tags="jazz, groovy, fringe pop" role="button">
 That Handsome Devil - A City Dressed in Dynamite (2008-08-05)
@@ -255,11 +252,14 @@ Lee Fields & The Expressions - My World (2009)
 <li data-cover="http://coverartarchive.org/release/050fd0a7-6dfd-4db8-baca-e57375ac9eff/4520585290-500.jpg" data-tags="hip hop, dance, funk, alternative hip-hop" role="button">
 N.A.S.A. - The Spirit of Apollo (2009-02-13)
 </li>
+<li data-cover="https://img.discogs.com/CHy2RKy_0Kdoy52gg5Ddm0teJek=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5158112-1386076543-8941.jpeg.jpg" data-tags="jazz, singer-songwriter, minimal, groovy" role="button">
+Mocky - Saskamodie (2009-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ba45e17-00c2-4524-b50f-ce41d2a63b1e/11884934128-500.jpg" data-tags="deathcore" role="button">
+Impending Doom - The Serpent Servant (2009-03-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c4257f0-dabe-4d42-bb17-383e088a47a8/2924091999-500.jpg" data-tags="hip hop" role="button">
 Tech N9ne - Sickology 101 (2009-04-28)
-</li>
-<li data-cover="https://img.discogs.com/LDXVDR5EoS0n9f_TLCm0rf35ZWg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1840182-1295385670.jpeg.jpg" data-tags="hip hop" role="button">
-Chali 2na - Fish Outta Water (2009-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/42a0da3d-ab0b-4b41-b9ba-b1d150e78021/21215708065-500.jpg" data-tags="rap" role="button">
 Slaughterhouse - Slaughterhouse (2009-08-11)
@@ -291,11 +291,11 @@ Tomorrows Bad Seeds - Sacred for Sale (2010-05-25)
 <li data-cover="http://coverartarchive.org/release/7c72e596-3a89-4af9-9eb0-dc2c1f70d292/7599907699-500.jpg" data-tags="deathcore" role="button">
 Whitechapel - A New Era Of Corruption (2010-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a14d02eb-b5df-4a36-a4f7-d27793efe551/21068816289-500.jpg" data-tags="house" role="button">
-Swedish House Mafia - Until One (2010-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/709c2bd1-4fad-4f0b-9d0d-5b7955e23b58/5591906121-500.jpg" data-tags="goregrind" role="button">
 Gutalax - Shit Beast (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c8f362f-80f4-4841-8e0c-29eee1a5b9de/8296513398-500.jpg" data-tags="experimental" role="button">
+Dr. Acula - Slander (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
@@ -303,11 +303,11 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip hop, groovy, alternative hip-hop" role="button">
 Looptroop Rockers - Professional Dreamers (2011-03-09)
 </li>
-<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, chic" role="button">
-Crazy P - When We On (2011-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/63845cfc-94b9-43ae-8dbd-5a703ef81ef5/15294260568-500.jpg" data-tags="metalcore, moshcore" role="button">
 Emmure - Slave to the Game (2012-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/c006e429-395b-4281-a6fe-7d43bf9eca47/7599947959-500.jpg" data-tags="deathcore" role="button">
+Whitechapel - Whitechapel (2012-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b90eb4fe-cf96-4476-b64b-9269df7e3066/3702933634-500.jpg" data-tags="soul, funk" role="button">
 Charles Bradley - Victim of Love (2013-04-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:40:07.085Z
+date: 2021-04-12T17:17:07.075Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Heavier Things (2003-09-09)](http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg "John Mayer - Heavier Things (2003-09-09)")
@@ -54,9 +54,6 @@ Jim Stafford - Jim Stafford (1974)
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3e974cc-d96a-4fb8-83fc-9c9b947b2eb6/5854190276-500.jpg" data-tags="blues-rockclub" role="button">
-Elvin Bishop - Struttin' My Stuff (1975-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/29a5b09a-f19a-4cab-8ed1-2b2e4fd29daf/13928627628-500.jpg" data-tags="jazz guitar, jazz" role="button">
 George Benson - Breezin' (1976-05)
 </li>
@@ -81,6 +78,9 @@ George Harrison - Cloud Nine (1987-11-02)
 <li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/cbda74c7-2b47-399a-b1cd-11384ac7529f/1726938938-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
+Joe Satriani - Flying In A Blue Dream (1989-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
 </li>
@@ -89,6 +89,9 @@ Steve Vai - Passion and Warfare (1990-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, dire straits" role="button">
 Dire Straits - On Every Street (1991-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/353e496e-e738-3f42-b2a2-c35d01db53f8/9402630851-500.jpg" data-tags="avant-garde, experimental, guitar" role="button">
+Buckethead - Bucketheadland (1992)
 </li>
 <li data-cover="https://img.discogs.com/zcbdxYi8QP7ObDrIpoZiAqtfJJw=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178290-1543779095-8106.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">
 Joe Satriani - The Extremist (1992)
@@ -234,20 +237,17 @@ Andy Davis - Thinks Of Her (2006-11-30)
 <li data-cover="http://coverartarchive.org/release/15b4fecd-090f-4399-9d40-af6ee4fa0ba3/15653847052-500.jpg" data-tags="allboutguitar, blues, guitar, guitar virtuoso, guitar karlsruhe, gitarrenunterricht in karlsruhe" role="button">
 Richie Kotzen - Into The Black (2006-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
+Jesu - Conqueror (2007-02-02)
+</li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/81e0d103-5fbe-4765-8c75-8ba33c30b36b/14074836252-500.jpg" data-tags="folk, guitar, inspirational, fingerpicking, avant-folk, american primitivism, guitar only, rewind 2007, big in 2007, raga-folk" role="button">
 James Blackshaw - The Cloud of Unknowing (2007-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2f1ef6a-e0b8-48b0-aa96-9ff9c6b20113/28819935253-500.jpg" data-tags="instrumental" role="button">
-Erik Mongrain - Fates (2007-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
-</li>
-<li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">
-Flight of the Conchords - The Distant Future (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)

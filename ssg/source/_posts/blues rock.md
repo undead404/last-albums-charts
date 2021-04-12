@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:13:01.459Z
+date: 2021-04-12T16:59:18.264Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -234,6 +234,9 @@ The Raconteurs - Broken Boy Soldiers (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
+Cold War Kids - Robbers & Cowards (2006-10-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/39ff3267-382e-45b8-bb75-e1e8588403c8/16256223840-500.jpg" data-tags="blues rock" role="button">
 Radio Moscow - Radio Moscow (2007-02-27)
 </li>
@@ -254,9 +257,6 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a0d6f6b-0a2b-4449-880c-4529bdaec15d/16256226007-500.jpg" data-tags="blues rock" role="button">
-Radio Moscow - Brain Cycles (2009-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9573274-4d43-481b-bec6-17730a43cc7d/15491383944-500.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Horehound (2009-07-09)

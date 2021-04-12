@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:07:06.990Z
+date: 2021-04-12T17:45:01.776Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -68,6 +68,9 @@ Sentenced - Down (1996-11-11)
 </li>
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5188c17-b8a6-32ed-9c2c-32f0404f20a8/13522514205-500.jpg" data-tags="gothic metal" role="button">
+Moonspell - Sin / Pecado (1997)
 </li>
 <li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
@@ -218,9 +221,6 @@ Draconian - Arcane Rain Fell (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3435325a-c915-4028-a09c-a23b2f8556f2/2124103880-500.jpg" data-tags="folk metal, gothic metal" role="button">
 Midnattsol - Where Twilight Dwells (2005-01-31)
-</li>
-<li data-cover="https://img.discogs.com/jy_soO58j55CsAG3cvS-Vw6Siow=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5107953-1384706200-8069.jpeg.jpg" data-tags="symphonic metal" role="button">
-Epica - Consign to Oblivion (2005-04-21)
 </li>
 <li data-cover="https://img.discogs.com/NswOQ6A8V6vjUYuFzM_AR2GsofA=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9218495-1476867193-7269.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Lichtgestalt (2005-05-02)

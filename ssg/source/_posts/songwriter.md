@@ -1,19 +1,19 @@
 ---
-date: 2021-04-12T05:49:01.394Z
+date: 2021-04-12T17:38:01.460Z
 title: "songwriter: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
-<li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">Andrew Bird - The Mysterious Production of Eggs (2005-02-08)</li>
+<li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">Bright Eyes - Fevers and Mirrors (2000-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">Alexi Murdoch - Time Without Consequence (2006-06-06)</li>
+<li data-cover="http://coverartarchive.org/release/e11af9df-e416-4a04-b049-61788a451137/5303634882-500.jpg" data-tags="ed sheeran" role="button">Ed Sheeran - Loose Change (2010-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/4ecf932f-72b7-452b-86a9-a464521de5ea/1004754926-500.jpg" data-tags="acoustic, songwriter, try before i buy, ed sheeran" role="button">Ed Sheeran - Songs I Wrote With Amy (2010-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/90dea077-2e3c-4ed7-a74f-8e9d0b81415e/7963770996-500.jpg" data-tags="the a team" role="button">Ed Sheeran - The A Team (2011-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">Perfume Genius - Put Your Back N 2 It (2012-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/a8d143df-a576-49ed-b7e6-409c48d54dec/1075670020-500.jpg" data-tags="indie, folk, songwriter, meloncholy, kozelek" role="button">Sun Kil Moon - Among The Leaves (2012-05-29)</li>
 <li data-cover="http://coverartarchive.org/release/d18dc81b-89f4-472f-a020-2cbdb21dd145/2691928679-500.jpg" data-tags="indie, singer, songwriter, american, very good" role="button">Ben Harper - By My Side (2012-10-16)</li>
-<li data-cover="http://coverartarchive.org/release/26b65e4e-64b0-43b0-9bbd-cb14167e7c20/12146806423-500.jpg" data-tags="indie" role="button">James Bay - Chaos and the Calm (2015-03-23)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -50,9 +50,6 @@ Johnny Cash - Get Rhythm (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/da27dab2-990a-421f-bea4-da368d3e7cc0/22245493067-500.jpg" data-tags="blues" role="button">
 Roy Buchanan - Guitar on Fire: The Atlantic Sessions (1993-04-20)
-</li>
-<li data-cover="https://img.discogs.com/0aUi8yXh5Vj9yXnCFPXO-z5QEFA=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12315423-1532778206-5260.jpeg.jpg" data-tags="corwood industries" role="button">
-Jandek - Graven Image (1994)
 </li>
 <li data-cover="https://img.discogs.com/WLQOhr6LnRZO_RBoXgVs_B_b8kw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072642-1501163823-6949.jpeg.jpg" data-tags="robertitus global" role="button">
 Spinetta Jade - Los Niños Que Escriben En El Cielo (1994)
@@ -117,6 +114,9 @@ Damian Wilson - Live in Rehearsal (2002)
 <li data-cover="http://coverartarchive.org/release/4c1d5131-ab01-4451-ada7-eb3850f6a196/14766541965-500.jpg" data-tags="indie, rock, pop rock, singer, songwriter, high school, producer, discoverockult, just another folk singer" role="button">
 Butch Walker - Left Of Self-Centered (2002-07-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - Deleted Scenes (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/222c8e27-0f03-4dc3-a496-bf95db5db7ca/1627185506-500.jpg" data-tags="folk, singer-songwriter, guitar" role="button">
 Herman Düne - Mas Cambios (2003)
 </li>
@@ -141,14 +141,8 @@ Max Herre - Max Herre (2004-09-13)
 <li data-cover="https://img.discogs.com/NCmjNsJhCsj-T_VukRgdkRDvQrg=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3517937-1333617775.jpeg.jpg" data-tags="indie, pop, songwriter, real, low fi, hazelwood" role="button">
 Jerobeam - Confidential Breakfast (2004-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
-Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/730da62b-7b9e-4994-81eb-e7e5f61a3dea/21445441063-500.jpg" data-tags="00s" role="button">
 Damon & Naomi - The Earth is Blue (2005-02-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/cebad913-4add-4ef7-aa89-2f04a339aa66/9698740577-500.jpg" data-tags="female vocalists" role="button">
-Sofia Talvik - Blue Moon (2005-04-01)
 </li>
 <li data-cover="https://img.discogs.com/QcOvDtMD92iQtRL-8QKs4BFiAkw=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598894-1323455725.jpeg.jpg" data-tags="indie, folk" role="button">
 Herman Düne - Not on Top (2005-04-18)
@@ -213,17 +207,11 @@ Kyrie Kristmanson - The Kyrie K Groove (2008)
 <li data-cover="http://coverartarchive.org/release/556be089-d637-49f3-b50c-9e490bc2632f/2060555387-500.jpg" data-tags="jazz, chill, rock, reggae, acoustic, funk, singer, guitar, songwriter, alt-country, maine, soul-pop, finger-picking, finger-style" role="button">
 Ben Hammond - [Reasonably] Honest (2008-03-01)
 </li>
-<li data-cover="https://img.discogs.com/HFbUrJS-MAlGsu9vKQcxqMqlU5w=/fit-in/256x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2771723-1300318161.jpeg.jpg" data-tags="rock" role="button">
-Cesare Basile - Storia Di Caino (2008-04-03)
-</li>
 <li data-cover="https://img.discogs.com/5U7qAvvGlmw2litqZ-jg55aRuTY=/fit-in/555x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1317860-1224905563.jpeg.jpg" data-tags="songwriter" role="button">
 Scott Kelly - The Wake (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
-</li>
-<li data-cover="https://img.discogs.com/2DycDjYBsQGWgQDtsjArF6TrQ6E=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2185016-1600396011-2275.jpeg.jpg" data-tags="pop, rock, female vocalists, singer-songwriter, songwriter, australia, 00s" role="button">
-Vanessa Amorosi - Somewhere In The Real World (2008-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/51094ebc-b0e4-4594-ad39-9189be385fd9/6404274252-500.jpg" data-tags="progressive rock, songwriter, avant-garde, art rock, avantgarde, lyrical electro rock, progressive rock underground full tracks" role="button">
 Mario Strack - The Songs 3 (2008-05-31)
@@ -255,9 +243,6 @@ Hanne Hukkelberg - Blood From a Stone (2009-04-14)
 <li data-cover="http://coverartarchive.org/release/e37a8b0c-be65-4e7a-a6ae-bd52e89351aa/3710993341-500.jpg" data-tags="blues, songwriter" role="button">
 Lhasa - Lhasa (2009-04-21)
 </li>
-<li data-cover="https://img.discogs.com/4cdYg_ASEOspYdxS62A_rey19lM=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1772421-1242374541.jpeg.jpg" data-tags="electronic, indie, pop, rock, alternative, experimental, other, songwriter, berlin, audioase, devilduck records, stretchsaysabigyesto these albums" role="button">
-Siva. - Same Sights, New Light (2009-07-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/764ea8b1-3e7b-474d-b467-df614d08a2d0/16497920260-500.jpg" data-tags="singer, songwriter, deutsch, clueso, max herre, jan delay, denyo, dennis lisk" role="button">
 Dennis Lisk - Suchen & Finden (2009-07-10)
 </li>
@@ -273,14 +258,23 @@ Ed Sheeran - Songs I Wrote With Amy (2010-04-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
 worrywort - Suburban Dream (2011)
 </li>
+<li data-cover="http://coverartarchive.org/release/f826eca4-8a92-4af6-9008-44eeb4c67904/3763989771-500.jpg" data-tags="country, indie pop, singersongwriter, acoustic, songwriter, female vocals, female vocalist, queer, alt country, acoustic rock, lesbian, acoustic guitar, acoustic pop, female singersongwriter, queer artist, acoustic singer-songwriter, emma forman, free acoustic tracks, lesbian singersongwriter, lgbt performer, lgbt artist" role="button">
+Emma Forman - The act of persisting (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/1b97b285-05bf-4229-9d32-568b159c749d/5303239034-500.jpg" data-tags="ed sheeran" role="button">
 Ed Sheeran - No.5 Collaborations Project (2011-01-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e38b2f7-9341-4134-a46d-a2b7b28d238f/25569942057-500.jpg" data-tags="pop" role="button">
 Lena - Good News (2011-02-07)
 </li>
+<li data-cover="https://img.discogs.com/tLEqmnZRm3Uv_GQF4JorcTUG-78=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6913912-1429389892-1953.jpeg.jpg" data-tags="rock, folk, acoustic, americana, songwriter, singer/songwriter, male songwriter" role="button">
+Chuck Cheesman - Imagining Dancers (2011-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/90dea077-2e3c-4ed7-a74f-8e9d0b81415e/7963770996-500.jpg" data-tags="the a team" role="button">
 Ed Sheeran - The A Team (2011-05-01)
+</li>
+<li data-cover="https://img.discogs.com/FJTd1OoOM8yAxE45Hs8rAZ3Tu7A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14492260-1575646738-5832.jpeg.jpg" data-tags="pop, dance, australian, singer, songwriter, nigerian, ray ramon" role="button">
+Ray Ramon - Leave Me Alone (Remix) (2011-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/25097c65-31da-419e-9a70-466c765d2956/1647201386-500.jpg" data-tags="female, songwriter, swiss, 10s, anna aaron" role="button">
 Anna Aaron - Dogs in Spirit (2011-08-19)
@@ -306,17 +300,23 @@ Leonard Cohen - Old Ideas (2012-01-27)
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/c059d425-1a08-4f50-a49d-b2144af3c0f3/4506613543-500.jpg" data-tags="songwriter, berlin, male vocalist, male vocalists, argentine, robby maria, the spanish house" role="button">
+Robby Maria - Robby Maria & The Silent Revolution (2012-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/a8d143df-a576-49ed-b7e6-409c48d54dec/1075670020-500.jpg" data-tags="indie, folk, songwriter, meloncholy, kozelek" role="button">
 Sun Kil Moon - Among The Leaves (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18dc81b-89f4-472f-a020-2cbdb21dd145/2691928679-500.jpg" data-tags="indie, singer, songwriter, american, very good" role="button">
 Ben Harper - By My Side (2012-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/40ba0ae4-6ff7-46bb-ac45-99de6bde851b/4506686299-500.jpg" data-tags="folk, singer, berlin, male vocalists, metropolis, robby maria" role="button">
+Robby Maria - Metropolis (2013-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/85b529b9-158b-453a-b51d-f2bd6f2adc29/9046010446-500.jpg" data-tags="electronic, indie, indie rock, singer, songwriter, remix, synthpop, toronto, indian summer, bassline, cut me loose, bassmusic, catch me if i fall" role="button">
 Lyon - Indian Summer (2013-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/26b65e4e-64b0-43b0-9bbd-cb14167e7c20/12146806423-500.jpg" data-tags="indie" role="button">
-James Bay - Chaos and the Calm (2015-03-23)
+<li data-cover="https://via.placeholder.com/450" data-tags="canada, songwriter, japan, nashville, nashville sound, nanaimo, audiosocket, greg arnold, kelly pettit, every sunrise" role="button">
+Kelly Pettit - Every Sunrise (2014-01-03)
 </li>
 <li data-cover="https://img.discogs.com/DSSrbWnKsNNjitxU8E2nwBW6fus=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6755326-1426816787-3006.jpeg.jpg" data-tags="indie, alternative, dark, dreamy, orchestral, songwriter, psych, smart, story, vintage, wilco, songs, vignette, imaginative, caetano veloso, andrew bird, scenario, writer, future history" role="button">
 Michael Zapruder's Rain Of Frogs - New Ways Of Letting Go (2016-08-15)

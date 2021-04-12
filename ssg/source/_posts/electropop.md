@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:26:01.593Z
+date: 2021-04-12T17:09:01.571Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -72,9 +72,6 @@ Kylie Minogue - X (2007-11-21)
 <li data-cover="http://coverartarchive.org/release/430826de-7856-412a-a644-3344e0b9d09e/1114878797-500.jpg" data-tags="electronic" role="button">
 Hot Chip - Made in the Dark (2008-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc06d707-0b4e-3092-b13c-629a0e33c46d/7875461543-500.jpg" data-tags="owl city, electronic" role="button">
-Owl City - Maybe I'm Dreaming (2008-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
 </li>
@@ -83,6 +80,9 @@ Kleerup - Kleerup (2008-05-21)
 </li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
+</li>
+<li data-cover="https://img.discogs.com/rQ_mlsrUfs2sjJCo7bZDXUDcjeA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773198-1264529090.jpeg.jpg" data-tags="electropop, pop" role="button">
+Annie - Don't Stop (2008-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
 Lady Gaga - The Fame (2008-08-19)
@@ -207,14 +207,14 @@ Metronomy - The English Riviera (2011-04-11)
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
-<li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
-Owl City - All Things Bright and Beautiful (2011-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/9197df9f-7f26-4498-af10-4eb5e67d6c8b/25513914939-500.jpg" data-tags="lmfao, electronic" role="button">
 LMFAO - Sorry for Party Rocking (2011-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/362900b0-e046-4c34-beb1-eb2ecd3bff64/19088259874-500.jpg" data-tags="rock, hot chelle rae" role="button">
 Hot Chelle Rae - Whatever (2011-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6e67b2d-c0ba-43ef-9e29-819fb08db7b9/4687263094-500.jpg" data-tags="safe and sound" role="button">
+Capital Cities - Safe and Sound (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)

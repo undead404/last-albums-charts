@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:57:01.905Z
+date: 2021-04-12T16:54:01.471Z
 title: "neofolk: 100 albums you must listen to before you die"
 ---
 ![Death in June - But, What Ends When the Symbols Shatter? (1992-06-25)](http://coverartarchive.org/release/01644ef1-8e69-3ada-aec3-d5ab9054eb55/28801957432-500.jpg "Death in June - But, What Ends When the Symbols Shatter? (1992-06-25)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/XL9Mrr8GhhzlfU3RVRelI4AdTRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186371-1347897975-1349.jpeg.jpg" data-tags="holophonic" role="button">
-Psychic TV - Dreams Less Sweet (1983-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/5f3d0c51-fe57-4bb6-92f3-1a9fe79e01f2/9387690193-500.jpg" data-tags="neofolk" role="button">
 Sol Invictus - Lex Talionis (1989)
 </li>
@@ -90,11 +87,11 @@ Tenhi - Kauan (1999-11)
 <li data-cover="http://coverartarchive.org/release/633cd03b-14e7-4184-a5f1-5e47481f10e6/14841510373-500.jpg" data-tags="neofolk" role="button">
 Fire + Ice - Birdking (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/13cb5866-411c-44ed-b289-69aad8dd2d28/1122309944-500.jpg" data-tags="neofolk" role="button">
-Nest - Fabled Lore (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5e4351e-fafd-3066-81a3-71e1cffd2133/3617687903-500.jpg" data-tags="neofolk, apocalyptic folk" role="button">
 Current 93 - Sleep Has His House (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/7be14e5c-9d9a-4048-9246-e1a8d0b053e7/23622421615-500.jpg" data-tags="experimental, neofolk, impossible for liberals to deal with" role="button">
+Boyd Rice - The Way I Feel (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/288b5f23-8ec0-34cc-be1f-38a9d5c03cda/9943915569-500.jpg" data-tags="neofolk, dark folk" role="button">
 :Of the Wand & the Moon: - Midnight Will (2000-06)
@@ -102,11 +99,14 @@ Current 93 - Sleep Has His House (2000)
 <li data-cover="https://img.discogs.com/QOTTU1gNnxyLOgqN42EFRnXlwyU=/fit-in/446x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125167-1122717300.jpg.jpg" data-tags="martial industrial, neofolk" role="button">
 Von Thronstahl - E Pluribus Unum (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a94f7ba-bba7-417f-87ca-ac29e63d6aba/11562848487-500.jpg" data-tags="doom metal, black metal, folk metal" role="button">
-Agalloch - Of Stone, Wind, and Pillor (2001-08)
+<li data-cover="https://img.discogs.com/-zQac8IKI9gYvJHfz5hRnngdq18=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404964-1172313383.jpeg.jpg" data-tags="neofolk" role="button">
+Backworld - Of Silver Sleep (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/21fc81a5-dd05-459c-b528-f25a1044d395/16084072468-500.jpg" data-tags="noise, experimental" role="button">
 Death in June - All Pigs Must Die (2001-11-23)
+</li>
+<li data-cover="https://img.discogs.com/6nqIZUPkpiBfYTuWj0bEaX_dHys=/fit-in/400x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-321757-1266508172.jpeg.jpg" data-tags="neofolk" role="button">
+Sonne Hagal - Helfahrt (2002)
 </li>
 <li data-cover="https://img.discogs.com/CRhK6GqtxGF43CLUQC24ixKS_3o=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-341175-1324893723.jpeg.jpg" data-tags="neofolk" role="button">
 Forseti - Windzeit (2002)
@@ -123,6 +123,9 @@ Tenhi - Väre (2002-11-25)
 <li data-cover="https://img.discogs.com/_jICrP1JQsbgIN5jFEYrbYN5AzI=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750095-1154974913.jpeg.jpg" data-tags="neofolk" role="button">
 Ainulindalë - The Lay of Leithian (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/7aeb5277-5955-41da-8a0c-9951cf2d2c8a/1122752211-500.jpg" data-tags="folk" role="button">
+Agalloch - Tomorrow Will Never Come (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/05344da8-e3ed-4cb8-81c4-31f0047ba49f/1122321617-500.jpg" data-tags="neofolk" role="button">
 Nest - Woodsmoke (2003-01-20)
 </li>
@@ -138,6 +141,9 @@ Ordo Rosarius Equilibrio - Cocktails, Carnage, Crucifixion and Pornography (2003
 <li data-cover="https://img.discogs.com/QLrr0vojulqZJWgpF7u7P42XiyI=/fit-in/587x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442914-1129378519.jpeg.jpg" data-tags="neofolk" role="button">
 Forseti - Erde (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/25364cb6-920f-4a02-b553-641441ead71a/7763224338-500.jpg" data-tags="not neofolk" role="button">
+Daniel Landa - Neofolk (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/5327912d-9187-4e35-8488-b603f26899de/3627167743-500.jpg" data-tags="neofolk" role="button">
 Current 93 - SixSixSix: SickSickSick (2004)
 </li>
@@ -147,8 +153,8 @@ Daemonia Nymphe - The Bacchic Dance of the Nymphs - Tyrvasia (2004)
 <li data-cover="https://img.discogs.com/9iTqhcnCflow8WGesAyFYUyyUYA=/fit-in/431x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750037-1154971410.jpeg.jpg" data-tags="neofolk" role="button">
 Vàli - Forlatt (2004-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/eef84711-da0a-41b4-b2e9-a6e5fae95155/21078918413-500.jpg" data-tags="neofolk" role="button">
-Death in June & Boyd Rice - Alarm Agents (2004-10-29)
+<li data-cover="http://coverartarchive.org/release/f6fa9b88-eed4-451c-b817-7b6d7ecaa0d0/26700579439-500.jpg" data-tags="free albums" role="button">
+Klever - In The Name Of Peace And Progress (2005)
 </li>
 <li data-cover="https://img.discogs.com/0OTqhj1ihhXK0ZY4ah0-xNPBxjo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986951-1181049675.jpeg.jpg" data-tags="folk" role="button">
 October Falls - Marras (2005)
@@ -158,9 +164,6 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
 <li data-cover="https://img.discogs.com/3sQwM5lfulY3vU5sNNizFNiGypw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570929-1182097706.jpeg.jpg" data-tags="black metal, acoustic" role="button">
 Dornenreich - Hexenwind (2005-11-18)
-</li>
-<li data-cover="https://img.discogs.com/S9JbpgAXAmemhPfsOqAypo6mpoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129114-1294241356.jpeg.jpg" data-tags="neofolk, dark folk" role="button">
-Öröm - 8 (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
@@ -183,17 +186,11 @@ Mariee Sioux - Faces In The Rocks (2007)
 <li data-cover="http://coverartarchive.org/release/110c1fc6-b842-36c8-a010-ea1d0a9acb03/7914011482-500.jpg" data-tags="industrial, neofolk, martial industrial, martial neoclassical, neoclassical, apocalyptic folk, wantlist, martial neofolk, domi bellique, nox-aeternus" role="button">
 Puissance - Grace of God (2007-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae23e3f2-2b7b-4680-aa1e-b2c78fc18d00/3104771405-500.jpg" data-tags="ambient" role="button">
-Nest - Trail of the Unwary (2007-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/862b2b2c-edb9-4c36-8f87-3ce6699bf233/1772915989-500.jpg" data-tags="folk, neofolk" role="button">
 Daemonia Nymphe - Krataia Asterope (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c95efb9-c62f-4672-b593-6c61f79626d6/1324350460-500.jpg" data-tags="ambient" role="button">
-Nest - Nest (2007-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/20209780-beb1-45fe-b4b6-bfa6c8bd769e/2114457914-500.jpg" data-tags="neofolk, martial industrial" role="button">
 Rome - Confessions D'Un Voleur D'Ames (2007-04)
@@ -210,9 +207,6 @@ Corde Oblique - Volontà D'arte (2007-09)
 <li data-cover="https://img.discogs.com/YClRmf-iLk3WIZudmv53KedPEf4=/fit-in/400x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2734356-1298628964.jpeg.jpg" data-tags="spanish, neofolk, bacelona" role="button">
 Giulia y Los Tellarini - Eusebio (2008)
 </li>
-<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
-Narsilion - Namárië (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/166de9b3-064a-49b7-bc90-65a262048aec/3024132016-500.jpg" data-tags="neofolk" role="button">
 Nebelung - Vigil (2008-01)
 </li>
@@ -227,6 +221,9 @@ Steve Von Till - A Grave Is a Grim Horse (2008-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
 Matt Elliott - Howling songs (2008-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0ca6290-9638-4b66-9c65-ef9f63afc48c/25754581670-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, neofolk" role="button">
+Stille Volk - Nueit De Sabbat (2009-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/11b2eb6b-6ecb-4cfc-b814-8ebc80dccd88/9907441763-500.jpg" data-tags="folk, dark folk, neofolk" role="button">
 Wardruna - Runaljod - gap var Ginnunga (2009-01-19)
@@ -270,9 +267,6 @@ Fejd - Eifur (2010-10-29)
 <li data-cover="https://img.discogs.com/WHl5pkNwsJObKrpsAUbeA7RNv5o=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683872-1238740912.jpeg.jpg" data-tags="dark folk, apocalyptic folk, out of line" role="button">
 Ordo Rosarius Equilibrio - Songs 4 Hate & Devotion (2010-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">
-Giles Corey - Giles Corey (2011-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa617364-8f26-41ef-89d6-13096c767649/2125149811-500.jpg" data-tags="folk, neofolk" role="button">
 Omnia - Musick and Poëtree (2011-08-05)
 </li>
@@ -284,6 +278,9 @@ Blood Axis - Ultimacy (2011-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a57a5da9-390d-493a-913f-9757d5d35d81/16110977905-500.jpg" data-tags="pagan folk" role="button">
 Corvus Corax - Sverker (2011-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/749b013d-fd81-4ca1-9acd-4c5de34ba331/5904656404-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, music i tried but didnt like, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus, eurasian artists european association" role="button">
+Dernière Volonté - Mon Meilleur Ennemi (2012-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/52dae404-213c-41b3-b8bb-00befc5e66d6/2028232785-500.jpg" data-tags="neofolk" role="button">
 Cult of Youth - Love Will Prevail (2012-09-04)
@@ -305,6 +302,9 @@ Death in June - The Snow Bunker Tapes (2013-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/667ba60d-5972-4a13-8c0c-071a6849a186/6227453720-500.jpg" data-tags="neofolk" role="button">
 Spiritual Front - Open Wounds (2013-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/3340c511-8744-41e4-a5e6-630699ea5ccd/16485301148-500.jpg" data-tags="acoustic" role="button">
+Vàli - Skogslandskap (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9963e580-6d2d-4294-abe1-aed84302c53d/6830106367-500.jpg" data-tags="neofolk, dark folk" role="button">
 Nebelung - Palingenesis (2014-02-17)

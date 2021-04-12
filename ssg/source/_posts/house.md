@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:30:01.647Z
+date: 2021-04-12T17:14:01.453Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -50,6 +50,9 @@ Sonique - Hear My Cry (2000-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/86064722-1df6-3ade-ae5f-30cb7542c7a9/28689862312-500.jpg" data-tags="electronic" role="button">
+Faithless - Outrospective (2001-06-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
 Roger Sanchez - First Contact (2001-07-30)
@@ -260,9 +263,6 @@ Madeon - Icarus (2012-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
 Azealia Banks - Fantasea (2012-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0bed13e-2607-4c6d-93f0-d4ad26e962a8/1549011683-500.jpg" data-tags="electronic, french, dance, house, disco house, poptron, madeon" role="button">
-Madeon - Finale (2012-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c40ed055-aa56-4e77-a1c8-8fdd1b759e02/2853501473-500.jpg" data-tags="electronic, house, alesso" role="button">
 Alesso - Years (2012-08-04)

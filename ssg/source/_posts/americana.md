@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:27:01.748Z
+date: 2021-04-12T17:24:01.475Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/1c29c50c-6c65-385f-a883-59d952c1b239/4192952574-500.jpg" data-tags="country, americana" role="button">
 Townes Van Zandt - High, Low And In Between (1972)
 </li>
-<li data-cover="http://coverartarchive.org/release/82298693-edea-4c59-b74c-36275186cb2f/13955129700-500.jpg" data-tags="alt-country, americana" role="button">
-Lyle Lovett - Pontiac (1987)
+<li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
+The Band - The Best of the Band (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - No Depression (1990)
@@ -90,6 +90,9 @@ Calexico - Hot Rail (2000-05-08)
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
+Johnny Cash - American III: Solitary Man (2000-10-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
 </li>
@@ -113,9 +116,6 @@ Ryan Adams - Love Is Hell (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d22deda-5427-4b32-83c3-d36a369c2070/15971902789-500.jpg" data-tags="americana" role="button">
 Calexico - Feast of Wire (2003-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/2f82a5a3-d049-3cf9-a38f-c2250b1e228d/6723481969-500.jpg" data-tags="alt-country" role="button">
-Songs: Ohia - The Magnolia Electric Co. (2003-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/361eb780-0b77-479f-bf80-9f2ad813d3e0/7793148294-500.jpg" data-tags="indie" role="button">
 The National - Sad Songs for Dirty Lovers (2003-05)
@@ -183,9 +183,6 @@ Bruce Springsteen - We Shall Overcome: The Seeger Sessions (2006-04-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="americana, random, wilco, slow-coustic, check out more, valtcountry, discos magistrais, eu tenho, like moonchild, vjayhawks, vgoldensmog" role="button">
 Golden Smog - Another Fine Day (2006-07-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
-Ryan Bingham - Mescalito (2007)
-</li>
 <li data-cover="https://img.discogs.com/_iA2tgvmbkoCFvStlPM69jgiNUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309787-1208531852.jpeg.jpg" data-tags="indie folk, 00s" role="button">
 Bright Eyes - Four Winds (2007-02-26)
 </li>
@@ -194,6 +191,9 @@ Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
+</li>
+<li data-cover="https://img.discogs.com/KR2icblwxBD7a9YMMOR8JUAkRNk=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3742890-1342555718-8961.jpeg.jpg" data-tags="flying upside down" role="button">
+Griffin House - Flying Upside Down (2007-10-17)
 </li>
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
@@ -258,9 +258,6 @@ Justin Townes Earle - Harlem River Blues (2010-09-13)
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
-<li data-cover="https://img.discogs.com/NpW9silkKP07cjorrUrWH2NJPGE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661453-1295464538.jpeg.jpg" data-tags="singer-songwriter, amos lee" role="button">
-Amos Lee - Mission Bell (2011-01-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb304cf8-4ae2-4f0f-9114-58e2f63711ad/16252328129-500.jpg" data-tags="americana, southern rock" role="button">
 Drive-By Truckers - Go-Go Boots (2011-02-14)
 </li>
@@ -308,6 +305,9 @@ Hurray For The Riff Raff - Small Town Heroes (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
 Angel Olsen - Burn Your Fire for No Witness (2014-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a90ae94-b2e3-48c0-98f2-5be66cbd2a89/6598453081-500.jpg" data-tags="hard rock, americana, heartland rock" role="button">
+The Hold Steady - Teeth Dreams (2014-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:54:12.580Z
+date: 2021-04-12T16:56:01.462Z
 title: "remix: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Reanimation (2002-07-29)](https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg "Linkin Park - Reanimation (2002-07-29)")
@@ -45,6 +45,9 @@ Nine Inch Nails - The Perfect Drug (1996)
 <li data-cover="https://img.discogs.com/GWBTAjGaW7WhP5q9-kFTJ6GgOSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13994-001.jpg.jpg" data-tags="electronic, remix" role="button">
 Björk - Telegram (1996-11-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/60a9a4de-0d37-4b3f-9438-f66b77e9848c/5347521017-500.jpg" data-tags="pop" role="button">
+Michael Jackson - Blood on the Dance Floor: HIStory in the Mix (1997-05-05)
+</li>
 <li data-cover="https://img.discogs.com/iuXOZ2wIqB85uZBSfqTT9sdMf_E=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1761660-1494876548-3032.jpeg.jpg" data-tags="house, remix" role="button">
 Ultra Naté - Free (1997-06-17)
 </li>
@@ -56,6 +59,9 @@ Sigur Rós - Von Brigði (1998)
 </li>
 <li data-cover="https://img.discogs.com/RhU-vyuuCQahyqqMXeruadp9lsY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-90787-1346080411-1787.jpeg.jpg" data-tags="remix, flap" role="button">
 Sneaker Pimps - Low Five (1999-08-02)
+</li>
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="electronic, pop, dance, cover, remix, madonna, beautiful artwork, adit" role="button">
+Madonna - American Pie (2000-02-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Things Falling Apart (2000-11-20)
@@ -111,8 +117,14 @@ Isis - Oceanic: Remixes/Reinterpretations (2004-07-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, progressive rock" role="button">
 A Perfect Circle - aMOTION (2004-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/29d5ee18-17ba-4eac-9080-cd1d3bb0ffc6/4640374883-500.jpg" data-tags="dance, house" role="button">
+Eric Prydz - Eric Prydz (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccfcc5a0-28d9-37ae-a244-7b3d75ca287f/5727939754-500.jpg" data-tags="remix" role="button">
 Bloc Party - Silent Alarm Remixed (2005-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/26fb8ba3-cd5b-4ec7-bec9-f38c480b6816/19029451065-500.jpg" data-tags="trip-hop" role="button">
+Hooverphonic - No More Sweet Music (2005-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/695f8519-02d4-4b04-a6b0-62c34412bbfe/12099530564-500.jpg" data-tags="pop" role="button">
 Britney Spears - B in the Mix: The Remixes (2005-11-22)
@@ -131,9 +143,6 @@ Madonna - Get Together (2006-05-10)
 </li>
 <li data-cover="https://img.discogs.com/eArzhz6swATRsWd4n3ZKro2FjYo=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699157-1363743943-5976.jpeg.jpg" data-tags="dance, new wave, synth pop, remix" role="button">
 Dangerous Muse - The Rejection Remixes (2006-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/47bab93c-89f7-464f-94d3-1f3201016968/17343345079-500.jpg" data-tags="remix" role="button">
-Metric - Monster Hospital (2006-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/046aa6a0-5fbc-4567-b5bf-53e1447246bf/14833664387-500.jpg" data-tags="electronica, trip-hop, downtempo, remix, notnarbremix" role="button">
 Massive Attack - 100th Window - The Remixes (2006-08-28)
@@ -170,9 +179,6 @@ Nine Inch Nails - Y34RZ3r0r3mix3d (2007-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc6384e5-3a99-4e80-99f7-422555afe831/2333394382-500.jpg" data-tags="dance, house music" role="button">
 Laurent Wolf - No Stress (2008)
-</li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="post-rock, remix, mix, duyster, love your abuser" role="button">
-Lymbyc Systym - Love Your Abuser Remixed (2008-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
@@ -282,14 +288,8 @@ Lady Gaga - Marry The Night (2011-11-25)
 <li data-cover="http://coverartarchive.org/release/442bcd86-ef1e-49bc-8f70-79cbcbe6562d/10592439251-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
 Lana Del Rey - Blue Jeans Remixes (2012-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ef61b6f-fa16-4ace-ac55-dfb9f0bca822/2985398943-500.jpg" data-tags="remix, sun and moon and stars and outer space" role="button">
-Chinese Man - Remix With the Sun (2012-01-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/818db1cc-9840-42af-bb73-b0476029365b/18048193964-500.jpg" data-tags="electronic, indie, british, alternative, remix" role="button">
 alt-J - Breezeblocks (2012-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e23f671b-768f-4c34-b450-90921795b3b0/2961199277-500.jpg" data-tags="instrumental, remix, korean, k-pop, mm, shake it, kpop, artist, korean pop, ricky, ljoe, teen top, to you, baby u, niel, changjo, chunji, teen top kpop" role="button">
-TEEN TOP - aRtisT (2012-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea57c676-0338-4bd2-8a93-eb5dfefed236/22773568819-500.jpg" data-tags="electronic, indie" role="button">
 The xx - Angels (2012-07-17)
@@ -309,6 +309,9 @@ The Horrors - Higher (2012-12-04)
 <li data-cover="http://coverartarchive.org/release/8658cea1-9c52-4598-9834-767b5df2ba82/20945452609-500.jpg" data-tags="electronica, dubstep, remix, drum & bass, glitch hop, brostep, drumstep, moombahton" role="button">
 Virtual Riot - There Goes Your Money (2013-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/75e0ca9f-0a51-4997-a386-777be14ec6d8/8858713770-500.jpg" data-tags="electronic, experimental, remix" role="button">
+Clark - Feast / Beast (2013-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/0bfc1624-cb88-4cda-931c-88c58d314b88/26856993673-500.jpg" data-tags="metalcore, electronic, remix, post-hardcore, deathstep" role="button">
 Bring Me the Horizon - Can You Feel My Heart (2013-10-11)
 </li>
@@ -317,8 +320,5 @@ Linkin Park - Recharged (2013-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/11628a0e-99ad-433b-9259-6de49e72ca24/7668980421-500.jpg" data-tags="pop" role="button">
 Michael Jackson - XSCAPE (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/452988bf-7e93-42db-a622-67c912fff56f/9942143701-500.jpg" data-tags="electronic, remix, progressive house, deep house, mp3, ultra records" role="button">
-deadmau5 - 5 Years of mau5 (2014-11-21)
 </li>
 </ol>

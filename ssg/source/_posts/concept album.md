@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:21:01.898Z
+date: 2021-04-12T17:04:12.693Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -26,6 +26,9 @@ The Who - The Who Sell Out (1967-12-16)
 </li>
 <li data-cover="https://img.discogs.com/sMmSFb1IcPs_yLo53n3dR6L_C0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14496895-1575796384-1397.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
 The Who - Tommy (1969-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/e28b9cba-289e-47a8-a8c0-8bf5c0c93f19/3987340872-500.jpg" data-tags="hard rock, classic rock" role="button">
+Alice Cooper - School's Out (1972-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/db268a28-85a0-4afe-8779-609de7df4b9b/27745398432-500.jpg" data-tags="rock, classic rock, 70s, rock opera" role="button">
 The Who - Quadrophenia (1973-11-16)
@@ -108,8 +111,8 @@ Pain of Salvation - Entropia (1997-08)
 <li data-cover="http://coverartarchive.org/release/8d8ce4ac-92a1-300c-88af-8f214ee2544b/5119636248-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - Into the Electric Castle (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
+<li data-cover="http://coverartarchive.org/release/d1a30fef-2178-40bc-a47c-1456f03e782b/13132428366-500.jpg" data-tags="black metal, symphonic black metal" role="button">
+Cradle of Filth - Cruelty and the Beast (1998-05-04)
 </li>
 <li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - My Arms, Your Hearse (1998-06-15)
@@ -129,6 +132,9 @@ dredg - Leitmotif (1999-05-30)
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
 </li>
+<li data-cover="https://img.discogs.com/V0xbJHSbaeQvvGyarxyn0FVZ5w0=/fit-in/458x328/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-907946-1488650324-9919.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
+Myslovitz - Miłość w czasach popkultury (1999-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
 Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
@@ -137,6 +143,9 @@ Grandaddy - The Sophtware Slump (2000-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3039a1a9-a8d2-4560-81c7-b0af31f692b3/1290036364-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - The Perfect Element, Part I (2000-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/a743e430-8847-4017-85d7-a83ab44cd2ef/9244772503-500.jpg" data-tags="progressive metal" role="button">
+Evergrey - In Search of Truth (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e787755-4982-49f6-8e35-cbb7656c1116/17513910022-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Avantasia - The Metal Opera (2001-01-22)
@@ -210,8 +219,8 @@ Crooked Fingers - Dignity and Shame (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
+<li data-cover="https://img.discogs.com/1j5xlhWYjyGnxlOmFQ4csWquyuY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093566-1384301696-2609.jpeg.jpg" data-tags="symphonic metal, gothic metal" role="button">
+Leaves' Eyes - Vinland Saga (2005-05-30)
 </li>
 <li data-cover="https://img.discogs.com/DLvIUEStL8uLkgYM_ghNRC8uZ04=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993425-1572536299-5521.png.jpg" data-tags="norwegian, rock" role="button">
 Kaizers Orchestra - Maestro (2005-08-15)
@@ -227,9 +236,6 @@ Gojira - From Mars to Sirius (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
-</li>
-<li data-cover="https://img.discogs.com/RQAamW3AUlk7W1EO5pPjjLsJTjI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651354-1314227271.jpeg.jpg" data-tags="post-hardcore" role="button">
-Fightstar - Grand Unification (2006-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/414dcc91-70c4-49ec-a422-2790de149ff2/27362900273-500.jpg" data-tags="thrash metal" role="button">
 Sepultura - Dante XXI (2006-03-14)
@@ -279,9 +285,6 @@ The Antlers - Hospice (2009-03-03)
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
 </li>
-<li data-cover="https://img.discogs.com/U9Jn2NXxOsUmCAoL4u1P3zTb9w8=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1877212-1399495634-5871.jpeg.jpg" data-tags="progressive rock" role="button">
-The Dear Hunter - Act III: Life and Death (2009-06-23)
-</li>
 <li data-cover="https://img.discogs.com/qcIKjGB-FH-3K7RIwl7Ik8UsLbE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604977-1549321734-9052.jpeg.jpg" data-tags="soul" role="button">
 Plan B - The Defamation of Strickland Banks (2010-04-12)
 </li>
@@ -290,9 +293,6 @@ Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
 Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a324e2-931d-4aa1-8752-124fae15a2eb/2244822329-500.jpg" data-tags="abstract hip-hop, concept album" role="button">
-Есть Есть Есть - Дорогой мой человек (2011-04-21)
 </li>
 <li data-cover="https://img.discogs.com/u9-_8zr6HcoOOSFr4otuCM_yehs=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229235-1321426120.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
 Saves the Day - Daybreak (2011-09-13)

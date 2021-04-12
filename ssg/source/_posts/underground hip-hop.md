@@ -1,12 +1,12 @@
 ---
-date: 2021-04-12T08:51:01.500Z
+date: 2021-04-12T17:37:01.471Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Wale - Attention Deficit (2009-11-10)](http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg "Wale - Attention Deficit (2009-11-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">Big L - The Big Picture (2000-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/cd171e0b-4cb1-4bef-ab60-ccab0729cd73/1672858721-500.jpg" data-tags="hip-hop" role="button">Aesop Rock - Labor Days (2001-09-18)</li>
-<li data-cover="http://coverartarchive.org/release/dfa93328-26f1-4968-94f9-cc4bf386cea6/5728789158-500.jpg" data-tags="underground hip-hop" role="button">Aesop Rock - Bazooka Tooth (2005)</li>
+<li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">MF DOOM - MM..Food (2004-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">Aesop Rock - None Shall Pass (2007-08-28)</li>
 <li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9d3b57d3-9337-3fb9-a60c-25baa3f71902/15658415309-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
+Gang Starr - Hard To Earn (1994-02-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff80e966-0848-437e-9344-2116c19bf5c9/21805688137-500.jpg" data-tags="hip-hop, rap, east coast rap, real hip-hop, my collection great 150 albumz of rap" role="button">
 Lost Boyz - Legal Drug Money (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/56850691-2273-490a-9ac1-7e6a00e915c4/15319504531-500.jpg" data-tags="hip-hop" role="button">
+Das EFX - Hold It Down (1995-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
 Mobb Deep - Hell on Earth (1996-11-01)
@@ -75,9 +81,6 @@ Saul Williams - Amethyst Rock Star (2001-10-23)
 <li data-cover="http://coverartarchive.org/release/4398f892-0bbd-4ccb-ba58-822026bc0580/4699250670-500.jpg" data-tags="hip-hop, hiphop, classic, east coast" role="button">
 Masta Ace - Disposable Arts (2001-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/fc0b1b48-608a-458b-b483-438efe136c64/24169027958-500.jpg" data-tags="trip-hop" role="button">
-Aim - Hinterland (2002-02-26)
-</li>
 <li data-cover="https://img.discogs.com/u-J6yQ1hPzUkjzPGCskIw481aJo=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5514300-1434540950-4161.jpeg.jpg" data-tags="hip-hop" role="button">
 Looptroop - The Struggle Continues (2002-10-28)
 </li>
@@ -108,17 +111,11 @@ MF DOOM - MM..Food (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
 CunninLynguists - A Piece of Strange (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfa93328-26f1-4968-94f9-cc4bf386cea6/5728789158-500.jpg" data-tags="underground hip-hop" role="button">
-Aesop Rock - Bazooka Tooth (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc879fc4-6855-43f7-afe6-ee8437fda951/15079203249-500.jpg" data-tags="hip-hop, underground hip-hop, conscious hip-hop" role="button">
 Common Market - Common Market (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb7c16e-4279-41ab-a94b-9ee6aac69e35/5699136977-500.jpg" data-tags="hip-hop, indie, underground hip-hop, atmosphere" role="button">
 Atmosphere - Headshots: Se7en (2005-01-04)
-</li>
-<li data-cover="https://img.discogs.com/VlXTau7FjwjD25UR11xmseduAug=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-317568-1241211810.jpeg.jpg" data-tags="hip-hop, abstract hip-hop, experimental hip-hop" role="button">
-Dälek - Absence (2005-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4bb9e32-c5f3-41d8-b734-175987b8996e/15200089926-500.jpg" data-tags="hip-hop" role="button">
 Sage Francis - A Healthy Distrust (2005-02-08)
@@ -197,6 +194,9 @@ Kid Cudi - Day 'N' Nite (2008-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b1778bd-70c3-41fe-ad00-669aeab00c51/15603700744-500.jpg" data-tags="rap" role="button">
+9th Wonder & Buckshot - The Formula (2008-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/542f1d3a-91ea-4501-82b8-bba39f0eab13/22549698830-500.jpg" data-tags="hip-hop" role="button">
 Looptroop Rockers - Good Things (2008-04-28)

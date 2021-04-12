@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:13:01.473Z
+date: 2021-04-12T17:29:01.468Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -102,6 +102,9 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Kings of Leon - Youth & Young Manhood (2003-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/01087dd6-0289-4616-bd8b-4be17cf76526/3374955413-500.jpg" data-tags="noise, noise pop, garage rock, 00s" role="button">
+The Raveonettes - Chain Gang of Love (2003-07-24)
+</li>
 <li data-cover="https://img.discogs.com/Zoonmlmxf09dk5UODPb_qVtaf5g=/fit-in/345x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2879894-1305392651.jpeg.jpg" data-tags="00s, radio arcadia" role="button">
 The Libertines - Don't Look Back Into the Sun (2003-08-18)
 </li>
@@ -113,9 +116,6 @@ Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
-</li>
-<li data-cover="https://img.discogs.com/900g2OX8ls0q0ZSGgVfocOvKcxA=/fit-in/299x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451852-1227466831.jpeg.jpg" data-tags="rock, indie rock" role="button">
-The Von Bondies - Pawn Shoppe Heart (2004-02-09)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)

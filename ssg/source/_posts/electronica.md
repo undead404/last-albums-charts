@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:35:01.482Z
+date: 2021-04-12T17:42:01.479Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -44,6 +44,9 @@ Daft Punk - Homework (1997-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">
+Portishead - Portishead (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
@@ -281,9 +284,6 @@ Nicolas Jaar - Space Is Only Noise (2011-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
