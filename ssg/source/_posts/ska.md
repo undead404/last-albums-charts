@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:57:01.762Z
+date: 2021-04-12T14:20:01.674Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
@@ -27,6 +27,9 @@ The Specials - Specials (1979-10-19)
 <li data-cover="http://coverartarchive.org/release/0aa276bb-1f95-4362-9fc7-b8206f1c7a9b/19510891209-500.jpg" data-tags="ska" role="button">
 The Specials - The Specials (1979-10-19)
 </li>
+<li data-cover="https://img.discogs.com/QHcg2JXW22d4A4GZQTC0VBclUaA=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5643241-1555966658-3065.jpeg.jpg" data-tags="ska" role="button">
+Madness - One Step Beyond... (1979-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
 The Clash - London Calling (1979-12-14)
 </li>
@@ -44,9 +47,6 @@ Madness - Complete Madness (1982-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/f6a6d520-d743-4c71-bff3-299da409f34d/4895309608-500.jpg" data-tags="classic rock, reggae, ska, roots, roots reggae, lion" role="button">
-Bob Marley & The Wailers - Gold (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/46869c1b-94d7-4bc3-9774-0455e1109f92/988882362-500.jpg" data-tags="punk, reggae, ska" role="button">
 Sublime - Jah Won't Pay the Bills (1991)
@@ -93,17 +93,11 @@ No Doubt - Tragic Kingdom (1995-10-06)
 <li data-cover="http://coverartarchive.org/release/3414cb5d-d3bc-37b8-9392-8c525fa1af52/3334214007-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - El Vals Del Obrero (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
-Ernest Ranglin - Below The Bassline (1996-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c7c20200-53d7-49a0-9133-4259b442ff72/7695999165-500.jpg" data-tags="ska, ska punk" role="button">
 Reel Big Fish - Turn the Radio Off (1996-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bc4688e-2268-4765-9d1c-f7c7d621304c/7535656529-500.jpg" data-tags="ska punk, ska" role="button">
 Less Than Jake - Losing Streak (1996-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f99448b-8031-46fe-a83b-d4772d1c3f64/16340812360-500.jpg" data-tags="ska" role="button">
-The Skatalites - Ball Of Fire (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/18e9245a-084c-420d-99af-fdcf362d92a0/7489614928-500.jpg" data-tags="ska" role="button">
 The Hippos - Forget the World (1997)
@@ -228,6 +222,9 @@ Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/8f19fa4e-f574-4c86-bc56-9362fb4f995a/4713235154-500.jpg" data-tags="ska" role="button">
 Big D And The Kids Table - How It Goes (2004-10-19)
 </li>
+<li data-cover="https://img.discogs.com/ARfWr1y9Fl01T0go0q6E6U13KRY=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15208974-1588127902-8667.jpeg.jpg" data-tags="ska" role="button">
+Less Than Jake - B Is for B-Sides (2005)
+</li>
 <li data-cover="https://img.discogs.com/rBtdV_f0dbEwcDa0w1dojIxdIKs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1459612-1221337611.jpeg.jpg" data-tags="ska" role="button">
 The Planet Smashers - Unstoppable (2005)
 </li>
@@ -281,6 +278,9 @@ RX Bandits - ...And the Battle Begun (2006-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rocksteady, ska, third wave ska" role="button">
 Big D And The Kids Table - Strictly Rude (2007-03-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae, ska, kaufrausch, bewegung, alle gegen alle, keine panik, babylon by boot, man lebt nur einmal, 10 kleine menschlein, meerchen" role="button">
+Ohrbooten - Babylon bei Boot (2007-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ae26f5d-c22b-4c19-a8f3-d5c133b98f48/3352654339-500.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Monkeys For Nothin' And The Chimps For Free (2007-07-09)

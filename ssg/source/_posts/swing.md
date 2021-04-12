@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:04:01.392Z
+date: 2021-04-12T14:10:01.511Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -33,8 +33,11 @@ Frank Sinatra - A Jolly Christmas From Frank Sinatra (1957-09)
 <li data-cover="https://img.discogs.com/_aE2DpRvEFAM9JdkpzJDu_Ncy58=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9562054-1482808149-7235.jpeg.jpg" data-tags="jazz, swing, 50s" role="button">
 Peggy Lee - Things Are Swingin' (1958)
 </li>
-<li data-cover="http://coverartarchive.org/release/c29389bc-e5e5-42b8-ad85-e17229274967/5963192194-500.jpg" data-tags="christmas" role="button">
-Dean Martin - A Winter Romance (1959-11-16)
+<li data-cover="https://img.discogs.com/xDIl34OQfC4fFGo5Y4c3ZyV8KeM=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547228-1301549499.jpeg.jpg" data-tags="jazz, easy listening, swing, vocalistas masculinos" role="button">
+Frank Sinatra - Ring-a-Ding Ding! (1961)
+</li>
+<li data-cover="http://coverartarchive.org/release/744ba722-ba4b-47ed-879a-f35d0c890b23/28675193204-500.jpg" data-tags="jazz, blues, lounge, swing, teppaz" role="button">
+Frank Sinatra - Point Of No Return (1962)
 </li>
 <li data-cover="http://coverartarchive.org/release/61ffc81b-5ff8-492e-bec2-1efc8de357c6/14455314213-500.jpg" data-tags="jazz" role="button">
 The Oscar Peterson Trio - Night Train (1963)
@@ -117,6 +120,9 @@ Squirrel Nut Zippers - The Inevitable (1995-03-17)
 <li data-cover="http://coverartarchive.org/release/5717ca02-14a2-47a5-82be-c91aafe8fa21/5483818136-500.jpg" data-tags="jazz, swing" role="button">
 Benny Goodman - Greatest Hits (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/f1ad97fb-7bdf-4aa6-88a0-9f0df0c8adb6/25205531970-500.jpg" data-tags="jazz" role="button">
+Louis Armstrong - Mack The Knife (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/59c6c27b-041b-40b5-a504-dda5f9454d74/7696266373-500.jpg" data-tags="swing" role="button">
 Royal Crown Revue - Mugzy's Move (1996)
 </li>
@@ -137,9 +143,6 @@ Royal Crown Revue - The Contender (1998)
 </li>
 <li data-cover="https://img.discogs.com/wgzwj4kjn9DXb__0ezXlg9S38HE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9880904-1487871635-6777.jpeg.jpg" data-tags="blues, swing, jazz-blues" role="button">
 Big Joe Turner - The Very Best of Big Joe Turner (1998)
-</li>
-<li data-cover="https://img.discogs.com/8IVyiYTc8HAKo-ip6awpjg1zk68=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9315924-1478458143-7728.jpeg.jpg" data-tags="romantic, swing" role="button">
-Dean Martin - That's Amore (1998-09-17)
 </li>
 <li data-cover="https://img.discogs.com/RYGJjW5aog_holMW4SBruATzOMc=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10060842-1490945249-2173.jpeg.jpg" data-tags="dean martin" role="button">
 Dean Martin - The Very Best of Dean Martin (1998-09-17)
@@ -246,17 +249,11 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b42c5ee-0f07-459e-8d2d-ecb27dbb4226/23902135615-500.jpg" data-tags="creamfields andalucia 08" role="button">
-Luomo - Paper Tigers (2006-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/1943c7b2-e79e-408b-85c3-3db8aed49d92/6125769126-500.jpg" data-tags="jazz, romantic, swing, golden oldies, mastersinger, vocalistas masculinos" role="button">
 Frank Sinatra - Romance: Songs From The Heart (2007-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a652942f-a9a0-4be6-82ba-0cbc6942bedd/19639004981-500.jpg" data-tags="swing, day, female vocalist, doris day" role="button">
 Doris Day - The Magic Of Doris Day (2007-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9a10d38-dc80-4cd3-afe0-4a5195001eb9/14961814959-500.jpg" data-tags="dance, swing" role="button">
-Christina Aguilera - Candyman (2007-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
@@ -305,6 +302,9 @@ The Baseballs - Strings 'n' Stripes (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">
 Frank Sinatra - Sinatra: Best of the Best (2011-11-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, i spots" role="button">
+The Ink Spots - Greatest Hits (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/275bf4c6-2a06-426f-9675-bb870a89fb1f/15838477021-500.jpg" data-tags="female vocalists, swing, colombia, stuff to check out, por conseguir" role="button">
 Monsieur Periné - Hecho a mano (2012-06-20)

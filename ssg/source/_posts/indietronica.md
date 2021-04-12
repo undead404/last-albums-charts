@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:11:01.401Z
+date: 2021-04-12T14:25:01.634Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -54,8 +54,8 @@ Ratatat - Ratatat (2004-04-19)
 <li data-cover="https://img.discogs.com/C97i_Ga5zAox0D_yRnqG_Jwtd64=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319514-1158869469.jpeg.jpg" data-tags="indietronica, morr music, male vocalists, belgian electronics" role="button">
 The Go Find - Miami (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/77b77c76-1b2d-41e9-bde0-b8d4ef6ec593/3646110240-500.jpg" data-tags="electronic" role="button">
-B. Fleischmann - The Humbucking Coil (2006-02-20)
+<li data-cover="http://coverartarchive.org/release/da15588a-0b48-4526-8102-691e7de85ffa/19827454199-500.jpg" data-tags="electronica, indie, pop, indietronica, palo alto, dnfs easy listening, in fondo si fa piacere dnfs" role="button">
+Her Space Holiday - The Past Presents The Future (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">
 Ratatat - Classics (2006-08-21)
@@ -114,9 +114,6 @@ Flunk - This Is What You Get (2009-05-11)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)
 </li>
@@ -170,6 +167,9 @@ Austra - Feel It Break (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/913ff272-5878-4c36-983e-cef912531209/7039610643-500.jpg" data-tags="electronica, indie, indietronica" role="button">
+Death Cab for Cutie - Keys And Codes Remix EP (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:16:07.266Z
+date: 2021-04-12T14:35:07.404Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/-Qb3fR5oGYrJyaqvEBvznK_l7dA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3877251-1347790095-2316.jpeg.jpg" data-tags="60s" role="button">
-The Yardbirds - Five Live Yardbirds (1964)
-</li>
 <li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - You Really Got Me (1964-10-02)
 </li>
@@ -36,11 +33,11 @@ Small Faces - The Autumn Stone (1969)
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
 </li>
+<li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+Syd Barrett - Barrett (1970-11-14)
+</li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
-Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/19ec67fa-ba98-4d3d-90a3-52f63a1a9af2/23367226103-500.jpg" data-tags="rock, 70s" role="button">
 Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
@@ -48,11 +45,17 @@ Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/6bff6b9c-6a0c-3db8-905a-6bd5b1dff43a/12078528801-500.jpg" data-tags="funk" role="button">
+Commodores - Machine Gun (1974-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
 The Band - The Best of the Band (1976)
 </li>
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/6485ff04-f72e-3b7b-a837-ad0362a88593/16837317666-500.jpg" data-tags="punk rock" role="button">
+Sex Pistols - Flogging A Dead Horse (1979-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
 The Clash - London Calling (1979-12-14)
@@ -125,6 +128,9 @@ Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3827d42e-ae55-4d01-a4a8-699ffc750c30/28313173034-500.jpg" data-tags="90s, alternative rock" role="button">
 Hootie & The Blowfish - Cracked Rear View (1994-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/8803a33c-0da6-46d6-a17f-048201f18ce3/865463539-500.jpg" data-tags="buckwild" role="button">
+O.C. - Word...Life (1994-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
 Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
@@ -201,9 +207,6 @@ OutKast - Stankonia (2000-10-23)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/25287053-9075-45ef-aa51-e75103c165be/7794239082-500.jpg" data-tags="post-punk, mojo 1000, mojo 1000 rock" role="button">
-The Birthday Party - The John Peel Sessions (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/8bdbfa2a-4f7a-4ee3-beb4-cdfa4c39605f/19409951944-500.jpg" data-tags="hughes63" role="button">
 Billy Joel - The Essential Billy Joel (2001-10-02)
 </li>
@@ -216,26 +219,23 @@ Nas - Stillmatic (2001-12-08)
 <li data-cover="http://coverartarchive.org/release/10084ccd-464b-44fb-b96e-1130f254c5a0/9344019684-500.jpg" data-tags="classic, piano, oasis, relaxing music, yiruma" role="button">
 Yiruma - Oasis & Yiruma (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/6447880c-72c1-4d13-a253-7f96c0db56ad/25341634236-500.jpg" data-tags="ohia, popluhv vinyl" role="button">
-Songs: Ohia - Didn't it rain (2002-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/880019b0-9411-4bb1-ad55-fb8b31d14bce/22408375238-500.jpg" data-tags="celtic" role="button">
 Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
+<li data-cover="http://coverartarchive.org/release/6d217fbd-28fc-4f4b-86c2-cdb9e45563f9/11145293722-500.jpg" data-tags="country" role="button">
+Johnny Cash - The Man Comes Around (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - Quality (2002-11-18)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3d0ebf2-5300-40d1-899d-80b2b8bee172/6128242245-500.jpg" data-tags="post-hardcore" role="button">
+Saosin - Translating the Name (2003-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/849f67a4-a3be-429d-b310-932e316faed4/15835064453-500.jpg" data-tags="grime" role="button">
 Dizzee Rascal - Boy in da Corner (2003-07-21)
@@ -267,14 +267,14 @@ Cam'ron - Purple Haze (2004-12-07)
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
-Eric B. & Rakim - Gold (2005-06-14)
+<li data-cover="https://img.discogs.com/oT-hvimY3yip6umRddkKz5SPqHc=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1819621-1421457271-9387.jpeg.jpg" data-tags="dirty south, rap, southern rap" role="button">
+Z-Ro - Let The Truth Be Told (2005-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
 T.I. - King (2006-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b19677b-0edd-4c9f-b7e5-0303934c220b/4774377778-500.jpg" data-tags="hip-hop, hip hop, classic, dj, underground, mc" role="button">
-Soul Position - Things Go Better with RJ and Al (2006-04-04)
+<li data-cover="http://coverartarchive.org/release/ea73d025-6dff-4c96-896e-056bfaf659ec/6070656289-500.jpg" data-tags="motown" role="button">
+Emma Bunton - Life In Mono (2006-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8dcdb67-d137-4fd8-bbf0-3d043e85a06f/3361363395-500.jpg" data-tags="hip hop" role="button">
 Mos Def - TRUE MAGIC (2006-12-19)

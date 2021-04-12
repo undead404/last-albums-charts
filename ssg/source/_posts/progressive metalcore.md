@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:38:07.012Z
+date: 2021-04-12T14:04:01.792Z
 title: "progressive metalcore: 100 albums you must listen to before you die"
 ---
 ![Protest the Hero - Fortress (2008-01-29)](http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg "Protest the Hero - Fortress (2008-01-29)")
@@ -138,6 +138,9 @@ Within the Ruins - Creature (2009-02-20)
 <li data-cover="https://img.discogs.com/KxX2Tgb_G9d1aL_rqcKjOFdwieE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5571048-1396861179-4095.jpeg.jpg" data-tags="metalcore, experimental, progressive metal, progressive metalcore" role="button">
 Paria - The Barnacle Cordious (2009-03-17)
 </li>
+<li data-cover="https://img.discogs.com/Bdh8gYOE1lpbm1XjKP7VvcYKqis=/fit-in/275x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6558844-1421971861-5111.jpeg.jpg" data-tags="metalcore" role="button">
+In Trenches - Relive and Regret (2009-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/845d7ff4-59eb-4a64-a1c5-162327bc3937/9715271941-500.jpg" data-tags="japanese, melodic death metal, touhou, progressive metalcore, indstrumental" role="button">
 Pizuya's Cell x MyonMyon - Nuclear Blast (2009-08-15)
 </li>
@@ -162,11 +165,11 @@ Northlane - Hollow Existence (2010-01-17)
 <li data-cover="http://coverartarchive.org/release/9cb80540-9145-4aa1-b71e-6373d4c2c916/7682646560-500.jpg" data-tags="metalcore, melodic hardcore" role="button">
 Counterparts - Prophets (2010-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c66b9025-4811-4dfd-96f9-3e3bf2b93286/9559923118-500.jpg" data-tags="deathcore" role="button">
-Upon a Burning Body - The World Is Ours (2010-04-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/4a5da1d7-9422-4e22-bd7c-47afd08b80fd/27543727301-500.jpg" data-tags="sludge" role="button">
 Knut - Wonder (2010-06-08)
+</li>
+<li data-cover="https://img.discogs.com/JcVaXLAsL58WdYpWm0GphgFKyQw=/fit-in/236x236/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6315158-1416259912-1855.jpeg.jpg" data-tags="melodic metalcore" role="button">
+Society's Plague - The Human, the Canvas (2010-06-29)
 </li>
 <li data-cover="https://img.discogs.com/iN3-vXz3R2bTh2pfIGyK3S9ajI0=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9280527-1481143256-6758.jpeg.jpg" data-tags="metalcore, metal, hardcore, progressive metalcore" role="button">
 Elitist - Caves (2010-07-20)
@@ -198,9 +201,6 @@ The Human Abstract - Digital Veil (2011-03-08)
 <li data-cover="https://img.discogs.com/H-JdMk0flhfn4gE_wPRYTwcmciU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848672-1606643252-5453.jpeg.jpg" data-tags="progressive metal" role="button">
 Protest the Hero - Scurrilous (2011-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ded68b3-fe23-43dc-8d84-2fb25c343c47/7574751526-500.jpg" data-tags="progressive death metal" role="button">
-Becoming the Archetype - Celestial Completion (2011-03-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/badc6f5e-5074-4142-a319-b429631113c4/3571734652-500.jpg" data-tags="progressive metal, mathcore, 2010s, nerd metal, progressive metalcore, progressive deathcore, awsome album for video games" role="button">
 Last Chance To Reason - Level 2 (2011-04-12)
 </li>
@@ -215,9 +215,6 @@ All Shall Perish - This Is Where It Ends (2011-07-26)
 </li>
 <li data-cover="https://img.discogs.com/_lW-I3KXqIOuWA7vjcw6FySLl7w=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6851399-1427983928-4185.jpeg.jpg" data-tags="metalcore, progressive metalcore" role="button">
 Apostate - Hermeneutic Circle (2011-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/73dd64d8-28e1-4f25-bbf8-62295ed4cb84/4605373825-500.jpg" data-tags="post-hardcore, metalcore" role="button">
-Like Moths to Flames - When We Don't Exist (2011-11-08)
 </li>
 <li data-cover="https://img.discogs.com/rQEniUqux9-xdfs0ONluU0HS1VY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8646968-1465848163-7175.jpeg.jpg" data-tags="metalcore, metal, hardcore" role="button">
 Walking with Strangers - Hardships (2011-11-16)
@@ -287,6 +284,9 @@ Bring Me the Horizon - Sempiternal (2013-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/620ca94c-cad2-4db3-85a5-5291fc72bb3e/28147102664-500.jpg" data-tags="progressive metalcore" role="button">
 After the Burial - This Life Is All We Have (2013-04-22)
+</li>
+<li data-cover="https://img.discogs.com/KMU45jpRqYs4-VCr-oikMscpX1o=/fit-in/474x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15202211-1588029144-7645.jpeg.jpg" data-tags="deathcore, electonic, progressive metalcore, progressive matalcore" role="button">
+NightShade - An Endless Vision (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f1a71e-34a8-45d9-b905-a40a798ac01d/7682599038-500.jpg" data-tags="melodic hardcore, hardcore" role="button">
 Counterparts - The Difference Between Hell and Home (2013-07-23)

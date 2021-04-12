@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:11:01.412Z
+date: 2021-04-12T14:12:07.059Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bf591a71-0149-4e04-8425-92326347c3ca/15048384671-500.jpg" data-tags="pop, 70s" role="button">
 King Harvest - Dancing in the Moonlight (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
@@ -81,11 +78,11 @@ McFly - Room on the 3rd Floor (2004-07-05)
 <li data-cover="https://img.discogs.com/VWiA-jiSRLvMmF8jpyrMhZ1lovE=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546194-1289817660.jpeg.jpg" data-tags="robbie williams, pop" role="button">
 Robbie Williams - Greatest Hits (2004-10-15)
 </li>
+<li data-cover="https://img.discogs.com/3waKR4XxTJ5AsOA8BWGWHiUUw9k=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11072812-1520800595-4024.jpeg.jpg" data-tags="indie, singer-songwriter" role="button">
+Rufus Wainwright - Want Two (2004-11-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
-Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="https://img.discogs.com/Dx5rsoFOygBx8nPxKW8Sq5ev6N0=/fit-in/392x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1777368-1242662992.jpeg.jpg" data-tags="rock, japanese, industrial, asian, male vocalists, 00s, industrial metal, j-rock, spookycore" role="button">
 D'espairsRay - [Coll:set] (2005-06-15)
@@ -135,11 +132,11 @@ Switchfoot - Oh! Gravity. (2006-12-26)
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/8566242e-1178-4c68-bad5-b55d1e6b17b8/13011370420-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists" role="button">
+Arctic Monkeys - Da Frame 2R / Matador (2007-06-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
@@ -158,6 +155,9 @@ City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/2653c58c-fe83-4d3e-829e-3754659536f5/5556108956-500.jpg" data-tags="classic rock, acoustic, oldies, male vocalists, gentel heart" role="button">
+Joshua Radin - Unclear Sky (2008-06-01)
 </li>
 <li data-cover="https://img.discogs.com/2ekcBuMG8g0xgx_m-NVExDI31-w=/fit-in/491x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2575678-1386862288-2838.jpeg.jpg" data-tags="the script" role="button">
 The Script - The Man Who Can't Be Moved (2008-07-25)
@@ -191,12 +191,6 @@ Owl City - Ocean Eyes (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
 Dead Man's Bones - Dead Man's Bones (2009-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
-</li>
-<li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
-Julian Casablancas - Phrazes For The Young (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
 Robbie Williams - Reality Killed the Video Star (2009-11-06)
@@ -246,6 +240,9 @@ Marcelo Jeneci - Feito Pra Acabar (2010-12-01)
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
+Iron & Wine - Kiss Each Other Clean (2011-01-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
 </li>
@@ -294,9 +291,6 @@ Justin Timberlake - The 20/20 Experience (2013-03-15)
 <li data-cover="https://img.discogs.com/hrp-6Fz0OaU2mKzq9x5BQf8NPaY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11445111-1516463745-7281.jpeg.jpg" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - The Fault in Our Stars (2013-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbfa5713-c9ce-4077-b826-a1c913b0ca04/12750739359-500.jpg" data-tags="electronic" role="button">
-Empire of the Sun - Alive (2013-05-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
 Gregory Alan Isakov - The Weatherman (2013-07-09)
 </li>
@@ -315,8 +309,14 @@ Pitbull - Fireball (2014-07-23)
 <li data-cover="https://img.discogs.com/fi4jZ9ztLE3D36kuxCBPcZoQbAE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6857298-1428100499-3255.jpeg.jpg" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - Happy Little Pill (2014-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/533573b9-9f3c-400f-be2d-ac11a94fb02a/7919834586-500.jpg" data-tags="pop" role="button">
+Troye Sivan - TRXYE (2014-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/e8fe33d4-31a6-4394-941c-45fac8834322/8544237713-500.jpg" data-tags="pop, pop rock" role="button">
 Maroon 5 - V (2014-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/17e8e4ec-7bb0-4c90-b902-36956ae5af5e/12739458735-500.jpg" data-tags="indie pop, male vocalists" role="button">
+Bastille - Oblivion (2014-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)

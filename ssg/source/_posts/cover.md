@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:44:01.404Z
+date: 2021-04-12T14:05:01.690Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -50,9 +50,6 @@ A*Teens - The ABBA Generation (1999-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bce2c17d-c490-32d7-9ea4-742c59172c86/1870479249-500.jpg" data-tags="power metal, covers" role="button">
 Helloween - Metal Jukebox (1999-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - From The Screen To Your Stereo (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
@@ -105,6 +102,9 @@ Ryan Adams - Love Is Hell (2003)
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
+<li data-cover="https://img.discogs.com/0ioKb8I3AtnjilHdhGykPhO2vs8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2647853-1473532878-9681.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+Amy Studt - False Smiles (2003-06-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
 Misfits - Project 1950 (2003-07-29)
 </li>
@@ -117,9 +117,6 @@ Kathryn Williams - Relations (2004-05-17)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
-<li data-cover="https://img.discogs.com/My1b03HhHcNV7OMiY2f-zwpQkPc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698292-1554136772-7063.jpeg.jpg" data-tags="alternative, rock, alternative rock, cover, greg dulli" role="button">
-The Twilight Singers - She Loves You (2004-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ea7fd37-063a-41bc-9906-5529a371b77d/11246499482-500.jpg" data-tags="spoken word" role="button">
 William Shatner - Has Been (2004-10-04)
 </li>
@@ -131,9 +128,6 @@ Hellsongs - Hymns in the Key of 666 (2005)
 </li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Under Cover (2005-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e83ea65-df0b-431a-9c62-42a5b53f9ce2/8213237332-500.jpg" data-tags="cover" role="button">
 Tortoise & Bonnie "Prince" Billy - The Brave And The Bold (2006-01-23)
@@ -294,6 +288,9 @@ Karmin - Karmin Covers Volume 1 (2011-05-24)
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
 </li>
+<li data-cover="https://img.discogs.com/LPpxDDPov7Zc5-cnCH7yo2A0zIY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3624166-1337961461-9547.jpeg.jpg" data-tags="rock, cover" role="button">
+Godsmack - Rocky Mountain Way (2012-04-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/895942b6-c726-4264-b27c-b2b396c4d25d/982582576-500.jpg" data-tags="classic rock, cover, need to listen, iggy" role="button">
 Iggy Pop - Après (2012-05-09)
 </li>
@@ -317,6 +314,9 @@ Us The Duo - Shake It Off (2014-09-23)
 </li>
 <li data-cover="https://img.discogs.com/j45fNW6eJrwpaMEjSLPON6EfNaU=/fit-in/218x308/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2099100-1263934585.jpeg.jpg" data-tags="covers" role="button">
 Annie Lennox - Nostalgia (2014-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ed0eda2-3035-44cd-9119-de2683b98bf7/24128795550-500.jpg" data-tags="soul, 10s" role="button">
+Aretha Franklin - Aretha Franklin Sings the Great Diva Classics (2014-10-17)
 </li>
 <li data-cover="https://img.discogs.com/C0phos8S4w71zv_Mx3ZIYDzu-P0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6995837-1431279126-3224.jpeg.jpg" data-tags="cover" role="button">
 The Flaming Lips - With a Little Help From My Fwends (2014-10-24)

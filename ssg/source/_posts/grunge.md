@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:31:07.137Z
+date: 2021-04-12T14:07:01.453Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -56,9 +56,6 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/pT_kB-IGymMlAZZ7PmxEHRbp41A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434125-1155723074.jpeg.jpg" data-tags="grunge" role="button">
 Soundgarden - Badmotorfinger (1991-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/00430071-491d-4ca3-a61e-634cbc483021/13220151098-500.jpg" data-tags="rock, grunge, pearl jam" role="button">
-Pearl Jam - MTV Unplugged (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/250bd8f0-9c77-4318-b14c-0684ce5f9b75/24751455111-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Sap (1992-02-04)
@@ -281,6 +278,9 @@ Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/936cf678-1522-3e57-8144-727398834390/5553048453-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - The Essential Alice In Chains (2006-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/632c822f-ae81-4e0a-8182-9e03ad2f7ee2/10048593287-500.jpg" data-tags="grunge" role="button">
+Pagoda - Pagoda (2007-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
 Chris Cornell - Carry On (2007-06-05)

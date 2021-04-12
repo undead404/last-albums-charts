@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:33:01.571Z
+date: 2021-04-12T14:34:01.719Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -44,9 +44,6 @@ Neil Young - Harvest (1972-02-14)
 </li>
 <li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/6df5f5ed-b505-47a8-a115-ee458b8f78bb/11940973052-500.jpg" data-tags="70s" role="button">
-Bread - The Best of Bread (1973-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
 Elton John - Greatest Hits (1974-11-04)
@@ -98,9 +95,6 @@ Sting - All This Time (1991-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c624a5-a8ce-4875-92ee-bb351f46225a/17019722494-500.jpg" data-tags="classic rock, folk" role="button">
 Crosby, Stills & Nash - CSN (1991-10-15)
-</li>
-<li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
-Eric Clapton - Tears in Heaven (1992-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e764910f-daf4-421a-9b4c-6cdf31496c89/4498574285-500.jpg" data-tags="sting" role="button">
 Sting - Ten Summoner's Tales (1993-02-28)
@@ -179,6 +173,9 @@ Wilco - A Ghost is Born (2004-06-21)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">
 Bee Gees - Number Ones (2004-11-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soft rock" role="button">
+Gordon Lightfoot - Rhino Hi-Five: Gordon Lightfoot (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b52d23b3-416f-4662-a1af-f4718da44d1b/20163736814-500.jpg" data-tags="soft rock, fyc" role="button">
 Fine Young Cannibals - The Platinum Collection (2006-03-27)
@@ -260,6 +257,9 @@ The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fcfeebd-1bd4-4ff9-91f0-eab1c63dd75c/27672053511-500.jpg" data-tags="soft rock, countries and continents, boughtlist2011, soft rock revival" role="button">
 The Staves - Mexico EP (2011-12-02)
+</li>
+<li data-cover="https://img.discogs.com/mZIvRdHTe3l4iWYLsD7GTIPq7vs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3603513-1337012326-6389.jpeg.jpg" data-tags="alternative, alternative rock" role="button">
+The Fray - Scars & Stories (2012-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

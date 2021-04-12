@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:57:02.239Z
+date: 2021-04-12T14:38:01.571Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:11:01.520Z
+date: 2021-04-12T14:31:06.989Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -71,9 +71,6 @@ Mandy Moore - Mandy Moore (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9afef6f-4839-493d-ab86-36e8342f4544/27864756924-500.jpg" data-tags="60s, female vocalists" role="button">
 The Dixie Cups - The Complete Red Bird Recordings (2002-08-13)
-</li>
-<li data-cover="https://img.discogs.com/k3cHsxFPTYQxFHWa68XaZ3tuysE=/fit-in/448x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87192-1163857060.jpeg.jpg" data-tags="oceanclub" role="button">
-Masha Qrella - Luck (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b32b8a8-01a4-4f30-993c-13835fbf841d/13383637435-500.jpg" data-tags="female vocalists, girls, sex, euro trance, girl, god, sexy album covers, groove coverage, god is a girl" role="button">
 Groove Coverage - God Is A Girl (2002-11-11)
@@ -173,6 +170,9 @@ Beyoncé - Run The World (Girls) (2011-04-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 東京女子流 - 鼓動の秘密 (2011-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/f312ef3c-af6f-4498-babb-9a2716331058/14739842347-500.jpg" data-tags="jpop, idol, akb48" role="button">
+AKB48 - Everyday、カチューシャ (2011-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a720a3f4-a3c7-401f-abdd-2135f0c6dd98/6184121751-500.jpg" data-tags="j-pop, idol" role="button">
 ももいろクローバーZ - バトル アンド ロマンス (2011-07-27)

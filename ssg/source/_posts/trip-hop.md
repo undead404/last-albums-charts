@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:33:01.684Z
+date: 2021-04-12T14:08:01.437Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -174,6 +174,9 @@ Massive Attack - 100th Window (2002-12)
 <li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Statues (2003-01-06)
 </li>
+<li data-cover="https://img.discogs.com/Puo6kAtMqPtqWH36W_Gqfqn2Qao=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640812-1242745163.jpeg.jpg" data-tags="trip-hop" role="button">
+Tricky - Vulnerable (2003-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
@@ -203,9 +206,6 @@ Flunk - Morning Star (2004-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
-Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
@@ -245,9 +245,6 @@ Bonobo - Days to Come (2006-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
 Elsiane - Hybrid (2007-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
-Flunk - Personal Stereo (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/176834c5-0a32-31b1-aa5e-ada3037202e5/22417025585-500.jpg" data-tags="trip-hop, electronic" role="button">
 UNKLE - War Stories (2007-06-20)
@@ -317,6 +314,9 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
+Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

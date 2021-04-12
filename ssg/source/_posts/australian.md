@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:34:07.116Z
+date: 2021-04-12T14:09:01.451Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -21,20 +21,23 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/691c26c5-5804-47ca-8d86-41b411876689/20241458081-500.jpg" data-tags="hard rock" role="button">
+AC/DC - Powerage (1978-05-05)
+</li>
 <li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="https://img.discogs.com/BKUnzmFqbvcnSwjiJB8gea1s5y4=/fit-in/592x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588932-1292031961.jpeg.jpg" data-tags="pop rock, australian, rca victor, needs to be played more, aussie classic, john farnham-pressure down, whispering jack" role="button">
 John Farnham - Whispering Jack (1986)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e8956bc-c0d2-488b-b48c-96006713372c/17787548090-500.jpg" data-tags="rock, 80s" role="button">
-Midnight Oil - Diesel and Dust (1987-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/160806d7-651d-3470-a09b-40d1b7b21d26/2115338140-500.jpg" data-tags="80s, rock" role="button">
 INXS - Kick (1987-10-02)
 </li>
 <li data-cover="https://img.discogs.com/NNbz_etOnTxezUQlh22yJ7iCBIg=/fit-in/419x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7671797-1446401663-8058.jpeg.jpg" data-tags="rock, australian" role="button">
 Icehouse - Great Southern Land (1989-11-06)
+</li>
+<li data-cover="https://img.discogs.com/xt1uZFUhSgxZZRcHo9864n85wdM=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740831-1154003633.jpeg.jpg" data-tags="rock" role="button">
+Midnight Oil - Blue Sky Mining (1990-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c280af5a-666b-3221-9d1f-a12b674ddf54/11350701340-500.jpg" data-tags="hard rock" role="button">
 AC/DC - The Razors Edge (1990-09-21)
@@ -60,11 +63,11 @@ Crowded House - Recurring Dream: The Very Best of Crowded House (1996-06-21)
 <li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
 Savage Garden - Savage Garden (1997-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/89338a1e-affa-45a6-9191-e40c248bc744/2016283055-500.jpg" data-tags="rock, alternative, alternative rock, australian, pop punk, australian rock" role="button">
+Jebediah - Slightly Odway (1997-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/87383a10-7042-44d5-8457-9026f2365f8e/6657328580-500.jpg" data-tags="australian" role="button">
 Regurgitator - Unit (1997-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
-Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4b233d0-183a-482d-a7a7-7a1bb6d9ba38/6257852608-500.jpg" data-tags="australian, electronic" role="button">
 Pnau - Sambanova (1999)
@@ -78,26 +81,26 @@ Savage Garden - Affirmation (2000-01-09)
 <li data-cover="http://coverartarchive.org/release/49e0129a-3401-3850-9c5b-27646356b106/2425079924-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Stiff Upper Lip (2000-02-25)
 </li>
+<li data-cover="https://img.discogs.com/GyS0cYHemy-r3a6HegKEXco0EUA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11731-1327490030.jpeg.jpg" data-tags="rock, alternative rock, australian, post-grunge, great artist, reflector" role="button">
+Killing Heidi - Reflector (2000-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/cfa5dfca-bedc-4e40-93eb-e10ad674cf7a/17355398442-500.jpg" data-tags="80s, new wave" role="button">
 Men at Work - Super Hits (2000-08-22)
 </li>
 <li data-cover="https://img.discogs.com/ACdDBfOmzhFhtqqk19ZxAy_n6-c=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1308402-1555946464-7528.jpeg.jpg" data-tags="rock, australian rock, powderfinger" role="button">
 Powderfinger - Odyssey Number Five (2000-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
-The Avalanches - Since I Left You (2000-11-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ea658ac-c9d0-45dc-8031-be49540841e7/2955563473-500.jpg" data-tags="alternative rock, rock" role="button">
+Silverchair - Diorama (2002-03-31)
 </li>
 <li data-cover="https://img.discogs.com/wWdr6ZlhZM3V4pdKeuTX0Ti9Ci4=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628771-1603077592-1541.jpeg.jpg" data-tags="australian" role="button">
 Grinspoon - New Detention (2002-06-03)
 </li>
 <li data-cover="https://img.discogs.com/CNWQ-65tOtu0wHnoQxU8t7lmjCM=/fit-in/600x852/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970862-1452672610-7453.jpeg.jpg" data-tags="classic rock, pop, rock, 80s, australian, new wave, soft rock" role="button">
 Men at Work - The Essential Men at Work (2003-04-01)
-</li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
-The Lucksmiths - Naturaliste (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/jsfuBqIQ9Tl25n0Dd8juDTzDnYc=/fit-in/350x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059559-1306253341.jpeg.jpg" data-tags="rock" role="button">
 Jet - Get Born (2003-09-14)
@@ -120,14 +123,14 @@ Cut Copy - Bright Like Neon Love (2004-04-05)
 <li data-cover="http://coverartarchive.org/release/d2514ebd-7da2-4a31-9ff2-2ab6678e3676/21353841090-500.jpg" data-tags="australian" role="button">
 Eskimo Joe - A Song Is a City (2004-05-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a409125-e33d-4cc6-b237-f7fe712d9f34/3487346284-500.jpg" data-tags="rock, alternative, australian, male vocalists, thirsty merc" role="button">
+Thirsty Merc - Thirsty Merc (2004-08-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/3d650482-252d-46e5-959f-30ad72876e81/2067452907-500.jpg" data-tags="electro, australian, the presets, the bees knees" role="button">
 The Presets - Girl And The Sea (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/gWFyjWkLviBQ9l-TDlEN58Gw2hk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659818-1295384136.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natalie Imbruglia - Counting Down the Days (2005)
-</li>
-<li data-cover="https://img.discogs.com/9D_pK4RBRwiEFaLMluQmSQpL7-I=/fit-in/456x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-627922-1157486961.jpeg.jpg" data-tags="indie pop" role="button">
-The Lucksmiths - Warmer Corners (2005-04)
 </li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
@@ -137,9 +140,6 @@ The Beautiful Girls - We're Already Gone (2005-07-04)
 </li>
 <li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
 Karnivool - Themata (2005-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
-The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef2b7550-bb44-4289-9088-4daa37593f10/20024492143-500.jpg" data-tags="rock, australian" role="button">
 End of Fashion - End of Fashion (2005-08-20)
@@ -195,11 +195,8 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
-<li data-cover="https://img.discogs.com/ZaABIH3aPyc3vO7_to28TFmYPJs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5752380-1401681346-9960.jpeg.jpg" data-tags="australia" role="button">
-Pete Murray - Summer At Eureka (2008-05-17)
-</li>
-<li data-cover="https://img.discogs.com/7uw1dCIGEOtZ3-WH8kNZMELYEVU=/fit-in/450x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5642800-1398763523-1180.jpeg.jpg" data-tags="rock, 00s" role="button">
-The Living End - White Noise (2008-07-19)
+<li data-cover="http://coverartarchive.org/release/160a41f7-295a-4863-aa49-4be2c2b671ec/6419534284-500.jpg" data-tags="hardcore" role="button">
+Carpathian - Isolation (2008-08-02)
 </li>
 <li data-cover="https://img.discogs.com/FEQN95Zhrj2P1AbzV-25QcLbtig=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6129122-1445205253-2692.jpeg.jpg" data-tags="indie, singer-songwriter, australian" role="button">
 Josh Pyke - Chimney's Afire (2008-10-03)
@@ -221,6 +218,9 @@ Daniel Merriweather - Love & War (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2342ef67-07f8-4fc7-b7c5-a15d20bccac1/5908075333-500.jpg" data-tags="indie rock" role="button">
 The Temper Trap - Conditions (2009-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8d172ac-fabe-4198-b071-2274d60b72b0/2083169546-500.jpg" data-tags="alternative" role="button">
+Sarah Blasko - As Day Follows Night (2009-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f74dbdb-1acd-4ef0-962c-a801ed3377ed/21845243806-500.jpg" data-tags="pop, josh radio" role="button">
 Lisa Mitchell - Wonder (2009-07-14)

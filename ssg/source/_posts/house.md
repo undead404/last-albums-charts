@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:06:01.694Z
+date: 2021-04-12T14:30:01.647Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")

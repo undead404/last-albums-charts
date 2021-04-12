@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:58:01.461Z
+date: 2021-04-12T14:26:01.593Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -110,9 +110,6 @@ Empire of the Sun - Walking on a Dream (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/34375ad9-5765-4894-810c-bb457f60b702/3832887948-500.jpg" data-tags="french, electropop, horses and ponies and unicorns too" role="button">
 Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
@@ -293,6 +290,9 @@ Banks - Goddess (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
+Broken Bells - After the Disco (2014-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/933242f0-fff3-4709-953c-569ad116c270/9492623019-500.jpg" data-tags="electropop, latin pop" role="button">
 Enrique Iglesias - Sex and Love (2014-03-13)

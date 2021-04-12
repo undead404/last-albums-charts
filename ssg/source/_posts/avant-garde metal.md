@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:30:01.482Z
+date: 2021-04-12T14:41:01.929Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -29,6 +29,9 @@ Mr. Bungle - Mr. Bungle (1991-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/64bb2d1b-e4ab-4808-be16-5466264c2e65/20845677913-500.jpg" data-tags="sludge, sludge metal, post-metal" role="button">
+Neurosis - Souls at Zero (1992-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cef27a5-992b-4297-ade4-a107b2c2c2bd/15269986537-500.jpg" data-tags="black metal, progressive metal" role="button">
 Ved Buens Ende - Written In Waters (1995)
@@ -129,14 +132,14 @@ Thy Catafalque - Tűnő Idő Tárlat (2004-03-03)
 <li data-cover="http://coverartarchive.org/release/bcd1474d-1242-3190-b8da-ed87a2547f58/25788869776-500.jpg" data-tags="avant-garde, avant-garde metal, experimental" role="button">
 Peccatum - Lost In Reverie (2004-04-19)
 </li>
-<li data-cover="https://img.discogs.com/XFPiqyF_Qw3m-Te-ug57KyojzlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847137-1241031913.jpeg.jpg" data-tags="progressive metal" role="button">
-Age of Silence - Acceleration (2004-09-14)
-</li>
 <li data-cover="https://img.discogs.com/t8S5AQ1zJquPNwMvba-QTd0rQZU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1213871-1204667952.jpeg.jpg" data-tags="comic metal" role="button">
 Crotchduster - Big Fat Box of Shit (2004-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal" role="button">
+Kadenzza - The Second Renaissance (2005)
 </li>
 <li data-cover="https://img.discogs.com/qmCEsimWuh64NR3AZekdg_NUR2I=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432947-1605958383-6757.jpeg.jpg" data-tags="experimental" role="button">
 Fantômas - Suspended Animation (2005-04-05)
@@ -156,11 +159,11 @@ Arcturus - Sideshow Symphonies (2005-09-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal" role="button">
 Buckethead & Friends - Enter The Chicken (2005-10-25)
 </li>
+<li data-cover="https://img.discogs.com/oVaUFBVngYdGp7G_Ycaw5uQR5x0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1898246-1272299813.jpeg.jpg" data-tags="progressive metal" role="button">
+Buckethead - Inbred Mountain (2005-12-02)
+</li>
 <li data-cover="https://img.discogs.com/-T41HKNeGmw-rRzDbdygtb8DnvA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4039351-1353304842-8152.jpeg.jpg" data-tags="doom metal" role="button">
 Celtic Frost - Monotheist (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
-Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e304451-c0d1-4ade-bc64-915cef3fcd8a/14928819688-500.jpg" data-tags="experimental rock, avant-garde metal" role="button">
 Buckethead - The Elephant Man's Alarm Clock (2006-02-17)
@@ -173,12 +176,6 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6d3600e-c847-3ffb-b2a2-dec1f3c2b172/2691122178-500.jpg" data-tags="doom metal, sludge, post-metal" role="button">
-Minsk - The Ritual Fires of Abandonment (2007)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
 Professor Fate - The Inferno (2007-03)
@@ -194,6 +191,9 @@ Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/49f6af34-d643-385d-95c3-d7fba082fff8/3073081136-500.jpg" data-tags="death metal" role="button">
 Portal - Outre (2007-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/05e12174-9023-4f48-8c51-b3e8371c790b/12542942425-500.jpg" data-tags="chamber metal" role="button">
+Coppelius - Time-Zeit (2007-09-21)
 </li>
 <li data-cover="https://img.discogs.com/OI2GKVx3u6mj7ALCbaEKcKa3VLk=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652820-1295088827.jpeg.jpg" data-tags="rock, avant-garde metal, jeas-reinhoer-planned" role="button">
 Pin-Up Went Down - 2 Unlimited (2008-03-31)
@@ -212,6 +212,9 @@ iwrestledabearonce - It's All Happening (2009-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c09249a-90db-3a24-a8d2-d01edd0d67de/18021944716-500.jpg" data-tags="progressive metal, avant-garde metal, metal, symphonic metal" role="button">
 Diablo Swing Orchestra - Sing-Along Songs for the Damned and Delirious (2009-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8316744d-0d70-4e60-bcca-d7056a26c031/26521126631-500.jpg" data-tags="metal, hard rock, avant-garde metal, death'n'roll" role="button">
+The Cumshots - A Life Less Necessary (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/09607242-9d17-3800-99f9-dd1933b49121/4023323401-500.jpg" data-tags="experimental, avant-garde metal, jazz metal" role="button">
 Shining - Blackjazz (2010-01-18)
@@ -240,20 +243,20 @@ Dimmu Borgir - Gateways (2010-08-20)
 <li data-cover="http://coverartarchive.org/release/bcc4f9e4-b0dd-4cfc-afd7-22688fc6050e/14994112802-500.jpg" data-tags="black metal, progressive metal, avant-garde metal, post-black metal" role="button">
 Solefald - Norrøn Livskunst (2010-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/30412867-e9cc-42b4-a289-ebe11c38bf4d/3337358707-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - The Parallax: Hypersleep Dialogues (2011-04-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/a06684e3-f175-42cf-a4cf-44c77530b18d/4803942518-500.jpg" data-tags="avant-garde metal" role="button">
 Unexpect - Fables of the Sleepless Empire (2011-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c518a0c-46f0-4df7-abc3-3c99c86111d2/16154998800-500.jpg" data-tags="progressive metal" role="button">
 Devin Townsend Project - Deconstruction (2011-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/4d5c51e6-f00f-4570-b136-85fc53e9e3a8/26433855871-500.jpg" data-tags="experimental, mathcore" role="button">
-iwrestledabearonce - Ruining It For Everybody (2011-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/47321357-568f-4fa1-bb06-b03cb7fceab7/7530934595-500.jpg" data-tags="progressive metal" role="button">
 DIR EN GREY - Dum Spiro Spero (2011-08-01)
 </li>
-<li data-cover="https://img.discogs.com/mBDUnwvyoTKo5QyTIx08OeU7ffE=/fit-in/470x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3200497-1433009730-1356.jpeg.jpg" data-tags="table rock, experimental, noise rock" role="button">
-Lou Reed & Metallica - Lulu (2011-10-31)
+<li data-cover="http://coverartarchive.org/release/7c74aa3c-d77e-422a-a10a-830033c0bdcd/24710059618-500.jpg" data-tags="progressive metal" role="button">
+Leprous - Bilateral (2011-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4296058d-8e55-4ec2-ac43-1216b05c93e8/1969287251-500.jpg" data-tags="black metal, industrial metal" role="button">
 Blut aus Nord - 777 - The Desanctification (2011-11-11)
@@ -278,9 +281,6 @@ Diablo Swing Orchestra - Pandora's Piñata (2012-05-22)
 </li>
 <li data-cover="https://img.discogs.com/VxPOyi7QR_pWBZEx5PK6K6Syo0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3970280-1350934522-3015.jpeg.jpg" data-tags="ambient, experimental, progressive metal, shoegaze, atmospheric, post-hardcore, mathcore, avant-garde metal, green metal, lolwut, trannys" role="button">
 Exotic Animal Petting Zoo - Tree of Tongues (2012-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg" data-tags="atmospheric black metal, post-black metal" role="button">
-Blut aus Nord - 777 - Cosmosophy (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b96edc0-d089-4fc4-96bf-fcfdbc732d60/17554634869-500.jpg" data-tags="metal, progressive metal, avant garde, avant-garde metal, avant garde metal, circus metal, aprili 2013, no comment records" role="button">
 Stolen Babies - Naught (2012-10-16)

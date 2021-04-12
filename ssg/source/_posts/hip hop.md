@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:13:01.484Z
+date: 2021-04-12T14:18:01.496Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -183,9 +183,6 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">
-50 Cent - Curtis (2007-09-10)
-</li>
 <li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
 M.I.A. - Paper Planes (2008-02-11)
 </li>
@@ -278,6 +275,9 @@ The Roots - Undun (2011-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a5e0f379-2eab-468a-8aea-1c7653543af9/2673347297-500.jpg" data-tags="2012" role="button">
+Joey Bada$$ - 1999 (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)

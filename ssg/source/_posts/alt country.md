@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T22:16:12.475Z
+date: 2021-04-12T14:06:07.149Z
 title: "alt country: 100 albums you must listen to before you die"
 ---
 ![Great Lake Swimmers - New Wild Everywhere (2012-04-02)](http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg "Great Lake Swimmers - New Wild Everywhere (2012-04-02)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
-<li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">Ryan Adams - Demolition (2002-09-23)</li>
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">My Morning Jacket - It Still Moves (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">The Avett Brothers - Mignonette (2004-07-27)</li>
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">Lucero - Nobody's Darlings (2005-05-24)</li>
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)</li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">Wilco - Sky Blue Sky (2007-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/0df19cac-877c-4dae-9c09-83f1509ee181/21009277200-500.jpg" data-tags="indie, alt country" role="button">Magnolia Electric Co. - Josephine (2009-07-21)</li>
+<li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">Phosphorescent - Here's To Taking It Easy (2010-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">First Aid Kit - The Lion's Roar (2012-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg" data-tags="indie, folk, alt country, remember, nettwerk records" role="button">Great Lake Swimmers - New Wild Everywhere (2012-04-02)</li>
 </ol>
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
-Townes Van Zandt - Our Mother the Mountain (1969-04)
-</li>
 <li data-cover="https://img.discogs.com/Ts9y6Sn0VUdDgU97HmHo22OjEfM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1734928-1450028060-9608.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Loudon Wainwright III - Album II (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfe6e047-1b4c-3cee-ad79-a743bc6cf804/20623901363-500.jpg" data-tags="alt-country" role="button">
 John Prine - Diamonds in the Rough (1972)
-</li>
-<li data-cover="https://img.discogs.com/o6XbiSmf8w1DVqNx7HrRrzkaE0M=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083599-1265496412.jpeg.jpg" data-tags="70s" role="button">
-Townes Van Zandt - The Late Great Townes Van Zandt (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/64bf6170-793e-3614-8330-1d6e61576375/4202547805-500.jpg" data-tags="70s, folk, singer-songwriter, americana, alt country, the poets, the harrisburg family band, lorcas" role="button">
 John Prine - Common Sense (1975)
@@ -45,6 +39,9 @@ Pure Prairie League - Firin' Up (1980)
 <li data-cover="http://coverartarchive.org/release/88004f16-f3dc-4b1c-8743-f3e333dfa64e/4398575297-500.jpg" data-tags="country" role="button">
 Emmylou Harris - Roses in the Snow (1980)
 </li>
+<li data-cover="https://img.discogs.com/xEC6PTp-Hk_BYcLWIkWyXTS36cE=/fit-in/300x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374227-1438841855-6718.jpeg.jpg" data-tags="country, alt country, duble karisik" role="button">
+Johnny Cash - Live Recordings (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b3e8c3e-5cdd-4e50-b448-fde6e05c72d3/4543193438-500.jpg" data-tags="alt country" role="button">
 Blue Rodeo - Outskirts (1987)
 </li>
@@ -53,9 +50,6 @@ Nanci Griffith - Storms (1989-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/340d816c-16ef-4227-82db-95e4f91b3964/28736823539-500.jpg" data-tags="country" role="button">
 Diamond Rio - Diamond Rio (1991-05-28)
-</li>
-<li data-cover="https://img.discogs.com/PqD4V5GCVuTqdWD1zS_M3u5DPck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3504333-1333048227.jpeg.jpg" data-tags="country, alt-country" role="button">
-Uncle Tupelo - Still Feel Gone (1991-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d06fbcd0-8ee6-4d68-9a84-fd1ba3048c09/10574059188-500.jpg" data-tags="alt country" role="button">
 Connie Dover - Somebody (1991-10-18)
@@ -78,9 +72,6 @@ Bruce Springsteen - The Ghost of Tom Joad (1995)
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
 </li>
-<li data-cover="https://img.discogs.com/-AdtvsE-oHdu5agpfmDPGVfemRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682662-1490494434-8100.png.jpg" data-tags="alt-country" role="button">
-Wilco - A.M. (1995-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2dee556-67c1-413e-9084-b0e03ad2f648/16938821333-500.jpg" data-tags="emo" role="button">
 Texas Is the Reason - Do You Know Who You Are? (1996-04-30)
 </li>
@@ -99,8 +90,8 @@ Kim Richey - Bitter Sweet (1997-03-04)
 <li data-cover="http://coverartarchive.org/release/57ae7578-e4c9-4f20-9c31-6085597843a5/16096999009-500.jpg" data-tags="americana" role="button">
 The Jayhawks - Sound Of Lies (1997-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f011457-2953-4a80-a00d-cb5a22dfae5d/24132483982-500.jpg" data-tags="alt-country, americana, 90s" role="button">
-Old 97's - Too Far To Care (1997-06-17)
+<li data-cover="http://coverartarchive.org/release/3daf501f-0d66-4018-8280-2b3c9c4b1e7d/10705290162-500.jpg" data-tags="alt country, singer songwriter, good album" role="button">
+Tim Easton - Special 20 (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
@@ -114,26 +105,44 @@ Silver Jews - American Water (1998-10-20)
 <li data-cover="http://coverartarchive.org/release/ba62578d-6e37-462c-99a9-561fb60b14ca/24754125331-500.jpg" data-tags="singer-songwriter, acoustic, americana" role="button">
 Mary Gauthier - Drag Queens in Limousines (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ae8f529-abf4-4766-8555-c0c982e9f809/13606920230-500.jpg" data-tags="folk, singer-songwriter, americana, alt country, the poets, the harrisburg family band, lorcas" role="button">
+Langhorne Slim - Slim Picken's (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/45d16e51-18a6-3dff-8125-b69c5e4d38ea/5058926689-500.jpg" data-tags="folk, singer-songwriter, americana, alt country, the poets, the harrisburg family band" role="button">
 Townes Van Zandt - A Far Cry From Dead (1999-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/d71eb27c-9d30-49ff-b3cb-a875aab29903/16196036728-500.jpg" data-tags="rockabilly, lo-fi, americana, garage, alt country, cowpunk, sleaze, insurgent country" role="button">
+John Wayne Army - Night Without End (2000)
 </li>
 <li data-cover="https://img.discogs.com/mzrlfh0QWWb39FzQZz6tWxtTFdg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958023-1177482020.jpeg.jpg" data-tags="female vocalists" role="button">
 Hem - Rabbit Songs (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/a057fffa-6c96-467b-9c08-6563c56350f6/10574045532-500.jpg" data-tags="irish" role="button">
+Connie Dover - The Border of Heaven (2000)
+</li>
 <li data-cover="https://img.discogs.com/ui5Ze89iJMBUJjfVrmMZh9vQS7o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2003111-1257923133.jpeg.jpg" data-tags="alt country" role="button">
 Centro-matic - All the Falsest Hearts Can Try (2000-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/45151f8d-0f40-4af2-ad4a-f8a7bbbca12d/20034074605-500.jpg" data-tags="indie, rock, alternative, indie rock, americana, alt-country, alt country, 00s, new bands, drive-by truckers, band records" role="button">
+Grand Champeen - Battle Cry For Help (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/7bbb9f71-b93f-4089-a1e7-2cb1422ca12c/24026767881-500.jpg" data-tags="indie, singer-songwriter, americana, mellow, alt country, the poets, the harrisburg family band, lorcas" role="button">
+Evan Dando - Live At The Brattle Theatre (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/751d8589-cd1f-4bdb-b4c5-505d967ee074/9436028709-500.jpg" data-tags="country, americana, alt-country" role="button">
 The Gourds - Shinebox (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/6d48892a-7e96-4301-bd59-b93ba8b9bce0/22125618364-500.jpg" data-tags="alt-country" role="button">
-Old 97's - Satellite Rides (2001-03-20)
+<li data-cover="https://img.discogs.com/Ai_QvcFk56yB1czGmriOvA2BIm8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-788865-1335694703.jpeg.jpg" data-tags="alternative country" role="button">
+Papa M - Papa M Sings (2001-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a805b94-52b6-4c74-8eff-744d213f9d2e/23131353441-500.jpg" data-tags="rock, singer-songwriter, americana" role="button">
 Alejandro Escovedo - A Man Under the Influence (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
+</li>
+<li data-cover="https://img.discogs.com/h0G57DVShElfCApQzRQppn0DpDo=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683551-1236686839.jpeg.jpg" data-tags="alt country" role="button">
+NQ Arbuckle - Hanging the Battle-Scarred Pinata (2002)
 </li>
 <li data-cover="https://img.discogs.com/P_vH3HmenRo7qYUmVfqmjjOMyWw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4607714-1369782438-7689.jpeg.jpg" data-tags="alt-country, live, alt country, colorado, allmusicd" role="button">
 Drag the River - Live At The Starlight (2002)
@@ -147,20 +156,14 @@ Uncle Tupelo - 89/93: An Anthology (2002-03-19)
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/d24dc3d7-4d3a-4746-bd0a-65ed490a17c3/17564464104-500.jpg" data-tags="country, americana, blues, alt-country" role="button">
-Hayes Carll - Flowers And Liquor (2002-06-11)
+<li data-cover="https://img.discogs.com/k7XG-KXrwb5mcSzg6HRO4-Dj_pE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4278338-1469722738-7823.jpeg.jpg" data-tags="alt country, acoustic punk rock" role="button">
+The Beauty Shop - Yr Money or Yr Life (2002-05-13)
 </li>
-<li data-cover="https://img.discogs.com/IInWGdCkP2YIzkIZYwx4PAvL3U0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2805184-1602267959-7385.jpeg.jpg" data-tags="americana" role="button">
-James McMurtry - Saint Mary Of The Woods (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
-Ryan Adams - Demolition (2002-09-23)
+<li data-cover="http://coverartarchive.org/release/a3c13a41-d38a-4139-8a0d-dcb9224ac57e/18412098414-500.jpg" data-tags="country, folk, singer-songwriter, americana, alt-country, political, alt country, 2000s, killforpeace, the poets, the harrisburg family band" role="button">
+Steve Earle - Just an American Boy (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d22deda-5427-4b32-83c3-d36a369c2070/15971902789-500.jpg" data-tags="americana" role="button">
 Calexico - Feast of Wire (2003-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/053ba2f9-d0d9-4352-af5c-96113cff1e56/20035415924-500.jpg" data-tags="folk, singer-songwriter, americana, alt country, the poets, the devil and the deep blue sea, just another folk singer, the harrisburg family band, the merch grrls" role="button">
-Tim Easton - Break Your Mother's Heart (2003-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa51c84c-d61f-37e3-b285-241a2a89a4bd/15549971613-500.jpg" data-tags="folk" role="button">
 Evan Dando - Baby I'm Bored (2003-04-22)
@@ -177,17 +180,11 @@ Centro-matic - Love You Just the Same (2003-09-02)
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/95af8ca5-8f40-42c3-815b-461f36018d24/4803477506-500.jpg" data-tags="rock" role="button">
-Ryan Adams - Rock N Roll (2003-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4754ba5-6ebe-49ac-8864-a016dfbb1aa7/22020134807-500.jpg" data-tags="canadian, psychedelic, alt-country" role="button">
 The Sadies - Favourite Colours (2004)
 </li>
 <li data-cover="https://img.discogs.com/Ll4UmHzi8za-g1vIYRxqR4pnTTY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509839-1605614053-3155.jpeg.jpg" data-tags="indie, liverpool" role="button">
 The Stands - All Years Leaving (2004-02-23)
-</li>
-<li data-cover="https://img.discogs.com/8UyMIUyagQX1SNQzNO7AXzlH6ns=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2869653-1304869746.jpeg.jpg" data-tags="singer-songwriter, americana, alt-country" role="button">
-Peter Case - Thank You St. Jude (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">
 The Avett Brothers - Mignonette (2004-07-27)
@@ -204,8 +201,8 @@ Bruce Springsteen - Devils & Dust (2005-04-25)
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
 Lucero - Nobody's Darlings (2005-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/2a6e194e-4401-41d4-a027-9c316a6e3d32/4013688146-500.jpg" data-tags="folk, singer-songwriter, americana, alt country, texas, 30 strand grass, cosmic country and psychedelic americana, the poets, the harrisburg family band, lorcas" role="button">
-Danny Schmidt - Parables & Primes (2005-08)
+<li data-cover="https://img.discogs.com/O55sVATz4rN_J3xarQKi6d2Xwo4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1636135-1490076964-8196.jpeg.jpg" data-tags="americana" role="button">
+Richmond Fontaine - Obliteration By Time (2005-08-16)
 </li>
 <li data-cover="https://img.discogs.com/7GgSkS-kefa3tjaalvpL_ltclqY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573831-1335818875.jpeg.jpg" data-tags="singer-songwriter, country, alt-country" role="button">
 James McMurtry - Childish Things (2005-09-06)
@@ -213,11 +210,17 @@ James McMurtry - Childish Things (2005-09-06)
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 </li>
+<li data-cover="https://img.discogs.com/qM2JzhjRM2dIC7Oj22yYLS3oLCo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-611529-1541683604-9723.jpeg.jpg" data-tags="alt country, check later" role="button">
+Whip - Atheist Lovesongs to God (2005-10-17)
+</li>
 <li data-cover="https://img.discogs.com/fxk4j1k-ofkUfAvw7C6r7Rc6J0c=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6247724-1414700393-9129.jpeg.jpg" data-tags="alternative country, memphis" role="button">
 Cory Branan - 12 Songs (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/9920801d-9554-4484-83ec-d98351651597/10720301779-500.jpg" data-tags="alt-cr" role="button">
 Gob Iron - Death Songs For The Living (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/528c9a68-b509-47e5-aeee-abb9525a732d/7120805188-500.jpg" data-tags="country, alternative country" role="button">
+Robbie Fulks - Georgia Hard (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad3bdaf3-12bb-4ba5-b48b-41848c9d7598/28249558241-500.jpg" data-tags="rock, americana, alt-country, alt country, the harrisburg family band, band records" role="button">
 Centro-matic - Fort Recovery (2006-03-07)
@@ -240,17 +243,14 @@ Langhorne Slim - Engine EP (2006-09-16)
 <li data-cover="http://coverartarchive.org/release/415e9858-4778-4e59-b425-f3ef49a53969/17545285494-500.jpg" data-tags="female vocalists, canadian" role="button">
 Jill Barber - For all Time (2006-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/c89fd6eb-d465-42fe-bb2a-393bd91d3902/25427443281-500.jpg" data-tags="alt country" role="button">
-The Felice Brothers - Through These Reins and Gone (2006-11-17)
+<li data-cover="https://via.placeholder.com/450" data-tags="alt country" role="button">
+The Kris Special - Alone Feels Like a Hotel Room (2007)
 </li>
 <li data-cover="https://img.discogs.com/O55sVATz4rN_J3xarQKi6d2Xwo4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1636135-1490076964-8196.jpeg.jpg" data-tags="alt-country" role="button">
 Richmond Fontaine - Thirteen Cities (2007-02)
 </li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
-</li>
-<li data-cover="https://img.discogs.com/iXtso8uS7CmQZOm6SRWcFTQD9Gc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438487-1516299915-5139.jpeg.jpg" data-tags="americana, alt country, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
-The Felice Brothers - Tonight At The Arizona (2007-06-11)
 </li>
 <li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
 Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
@@ -267,14 +267,8 @@ Gary Louris - Vagabonds (2008-02-19)
 <li data-cover="http://coverartarchive.org/release/3535eae4-1447-4f66-af70-1ef173837db5/16252640451-500.jpg" data-tags="country, alt-country" role="button">
 Tift Merritt - Another Country (2008-02-26)
 </li>
-<li data-cover="https://img.discogs.com/Sum2141OEf8MaF45cHmGO9FOVMg=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1514551-1225317969.jpeg.jpg" data-tags="folk" role="button">
-The Felice Brothers - The Felice Brothers (2008-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0655004-230d-4448-b261-57e8d519b421/16226403581-500.jpg" data-tags="alternative, americana, alt-country, alt country" role="button">
 Slim Cessna's Auto Club - Cipher (2008-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/546a5081-9648-4ec6-a745-af0553269984/23315109832-500.jpg" data-tags="americana, alt country, megu007, the poets, the devil and the deep blue sea, just another folk singer, the harrisburg family band, the way you look, tylers favorite albums, the merch grrls, teh typos" role="button">
-Old 97's - Blame It On Gravity (2008-05-13)
 </li>
 <li data-cover="https://img.discogs.com/kP8r0DGlfsLTy9FE04lS7pLdCXo=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2466582-1378665989-3391.jpeg.jpg" data-tags="female vocalists" role="button">
 Jill Barber - Chances (2008-10-14)
@@ -290,6 +284,9 @@ Clem Snide - Hungry Bird (2009-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9360a785-a51a-460c-a00a-e9c1d8939c84/3946906870-500.jpg" data-tags="alternative, alt country, country rock, alternative country, 00s, apricot, rustic, american indie, drive-by truckers, band records, chaser iii" role="button">
 Arbouretum - Song of the Pearl (2009-03-10)
+</li>
+<li data-cover="https://img.discogs.com/w0G-mexekfXK-8Rwtro-pxh3BCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1741571-1525548593-2271.jpeg.jpg" data-tags="alternative, alternative rock, americana, 90s, male vocalists, alt country, alt rock" role="button">
+Whiskeytown - Forever Valentine (2009-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d8d5a1-b2c4-4a68-8325-3279c6c11f65/17653240314-500.jpg" data-tags="jace everett" role="button">
 Jace Everett - Red Revelations (2009-06-23)
@@ -312,13 +309,16 @@ Giant Sand - Blurry Blue Mountain (2010-10-25)
 <li data-cover="http://coverartarchive.org/release/3c2eb578-f6e1-4b2c-8151-ae2d809a402b/13142591908-500.jpg" data-tags="americana" role="button">
 Dead Man Winter - Bright Lights (2011-08-16)
 </li>
-<li data-cover="https://img.discogs.com/gIE6atFZpQ6GJhN5tEvSQb8pyK0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3347142-1338883922-7092.jpeg.jpg" data-tags="americana, alt-country" role="button">
-The Jayhawks - Mockingbird Time (2011-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg" data-tags="indie, folk, alt country, remember, nettwerk records" role="button">
 Great Lake Swimmers - New Wild Everywhere (2012-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/359f3ecd-a4db-4655-850a-7307b35314f9/4933162872-500.jpg" data-tags="country, alt country" role="button">
+Chris Shiflett & The Dead Peasants - All Hat And No Cattle (2013-07-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/2be73b2f-ddab-44c3-bb59-c7f9339b2ad9/7914195150-500.jpg" data-tags="indie" role="button">
+Canyon - Canyon (2014-04-12)
 </li>
 </ol>

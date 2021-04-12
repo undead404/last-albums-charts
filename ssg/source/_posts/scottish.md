@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:38:01.399Z
+date: 2021-04-12T14:40:01.660Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
 ![Biffy Clyro - Only Revolutions (2009-11-09)](http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg "Biffy Clyro - Only Revolutions (2009-11-09)")
@@ -9,10 +9,10 @@ title: "scottish: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/3cJprwd-XZTGvFCOSiAflbEBewQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-728468-1394138699-6330.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">The Proclaimers - Finest (2003-09-01)</li>
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">KT Tunstall - Eye to the Telescope (2004-12-13)</li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">Franz Ferdinand - You Could Have It So Much Better (2005-09-28)</li>
-<li data-cover="http://coverartarchive.org/release/9a4c61ca-5da2-4496-8d61-8760e46d3e25/13202971411-500.jpg" data-tags="indie, scottish, scotland, 2000s, the truth, depressingly beautiful, magic 108, jaarlijstje 2007, worn-out from overplay, ailenrocsmostlovedalbums" role="button">Malcolm Middleton - A Brighter Beat (2007-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">Frightened Rabbit - The Midnight Organ Fight (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/08c90c15-a83f-3e50-9ad2-105d7dd1312a/3175878701-500.jpg" data-tags="indie rock" role="button">We Were Promised Jetpacks - These Four Walls (2009-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg" data-tags="rock, alternative rock, alternative, indie rock" role="button">Biffy Clyro - Only Revolutions (2009-11-09)</li>
+<li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/eac0fab9-d4d3-452a-a90e-12648c291187/8379301227-500.jpg" data-tags="post-rock" role="button">Mogwai - Rave Tapes (2014-01-14)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,11 +30,17 @@ Silly Wizard - Caledonia's Hardy Sons (1978)
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
 </li>
+<li data-cover="https://img.discogs.com/LXAh7i5jlUSPGujeHDjjunWUiE0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2091020-1545872534-6115.jpeg.jpg" data-tags="new wave, 80s" role="button">
+Simple Minds - New Gold Dream (81-82-83-84) (1982-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/e07504a6-258f-4bb3-b444-e872e5d9d829/2133522084-500.jpg" data-tags="scottish, folk, scottish folk" role="button">
 Silly Wizard - The Best of Silly Wizard (1985)
 </li>
 <li data-cover="https://img.discogs.com/E7_CDzDUg-Zwwa199ioyPr1tbuM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673085-1235996704.jpeg.jpg" data-tags="scottish" role="button">
 Deacon Blue - Raintown (1987-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/2333e145-606c-450a-a7d7-e221bbb44d73/16023553487-500.jpg" data-tags="scottish, celtic, brainwashed with as a child" role="button">
+Runrig - Once in a Lifetime (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba8a0e2e-3254-41e2-9b1a-deae14456d02/11825155352-500.jpg" data-tags="scottish" role="button">
 Deacon Blue - When The World Knows Your Name (1989)
@@ -123,9 +129,6 @@ Looper - The Geometrid (2000-05-08)
 <li data-cover="https://img.discogs.com/mFo14TaBqT45JfDquPPfH7fm3fg=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29844-1503010433-3989.jpeg.jpg" data-tags="scottish, 00s, edinburgh, astralwerks, want it, scottish ergo the best" role="button">
 King Biscuit Time - No Style (2000-06-19)
 </li>
-<li data-cover="https://img.discogs.com/el5QL_ICc5efCz1nY7ipzFxXqH0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10047666-1490704383-8310.jpeg.jpg" data-tags="pop, rock" role="button">
-Texas - The Greatest Hits (2000-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c4bc874-9c6d-4220-a65e-d80b5b5e89df/20478219434-500.jpg" data-tags="indie rock" role="button">
 Snow Patrol - When It's All Over We Still Have to Clear Up (2001-03-05)
 </li>
@@ -189,6 +192,9 @@ Travis - Singles (2004-11-01)
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
+<li data-cover="https://img.discogs.com/YBT5wCRtTY8G1LDiwkqjAfnNOuw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348590-1211732155.jpeg.jpg" data-tags="rock, alternative, alternative rock, glam rock" role="button">
+El Presidente - El Presidente (2005)
+</li>
 <li data-cover="https://img.discogs.com/XyiW-kwFm2P1-kT6nJK1KOJJtR4=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695373-1460907898-9140.jpeg.jpg" data-tags="scottish, twee as fuck, if its not scottish its crap, radio palace" role="button">
 Camera Obscura - I Love My Jean (2005-02-15)
 </li>
@@ -203,9 +209,6 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
-</li>
-<li data-cover="https://img.discogs.com/pzbwd1k-g7t4w1C7aNIP1tHOe7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005869-1183928970.jpeg.jpg" data-tags="scottish" role="button">
-The Aliens - Alienoid Starmonica (2006-05-08)
 </li>
 <li data-cover="https://img.discogs.com/gsLJ7gy7gNK5FlD8oDsqEVBM4_c=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-779535-1159054549.jpeg.jpg" data-tags="scottish" role="button">
 King Biscuit Time - Black Gold (2006-05-15)
@@ -233,9 +236,6 @@ The View - Hats Off To The Buskers (2007-01-22)
 </li>
 <li data-cover="https://img.discogs.com/5Ka0jlGe4GWXdNQPUDdAL4Ho9CA=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677647-1396673342-7824.jpeg.jpg" data-tags="indie, female vocalists, scottish, stuff i like, drive-thru records" role="button">
 Camera Obscura - If Looks Could Kill (2007-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a4c61ca-5da2-4496-8d61-8760e46d3e25/13202971411-500.jpg" data-tags="indie, scottish, scotland, 2000s, the truth, depressingly beautiful, magic 108, jaarlijstje 2007, worn-out from overplay, ailenrocsmostlovedalbums" role="button">
-Malcolm Middleton - A Brighter Beat (2007-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/15cb3b91-8377-4a26-8fb4-4cb2d19376a7/8255060472-500.jpg" data-tags="indie rock, indie" role="button">
 The Cinematics - A Strange Education (2007-03-06)

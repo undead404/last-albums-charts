@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:42:01.429Z
+date: 2021-04-12T14:23:01.452Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -186,6 +186,9 @@ Uncle Kracker - No Stranger to Shame (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
 Saliva - Back Into Your System (2002-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/938cf7ac-7c63-391b-9e55-0d3d09e5294d/1883381895-500.jpg" data-tags="rock, indie, alternative" role="button">
+Kings of Leon - Holy Roller Novocaine (2003-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f302356-4e91-4690-b441-2cfe91276008/6591198259-500.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Vicious Cycle (2003-05-19)
 </li>
@@ -254,9 +257,6 @@ Shinedown - Devour (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/81d478b6-0f2f-3794-ae21-76560f78b7fd/1546637042-500.jpg" data-tags="hard rock, alternative rock" role="button">
 Shinedown - The Sound of Madness (2008-06-23)
-</li>
-<li data-cover="https://img.discogs.com/HSjefWzEwlBho4QkVhnS9NNtGPE=/fit-in/589x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513017-1225220488.jpeg.jpg" data-tags="hard rock" role="button">
-Black Stone Cherry - Folklore and Superstition (2008-08-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
 Dead Confederate - Wrecking Ball (2008-09-16)
