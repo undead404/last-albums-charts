@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:17:01.520Z
+date: 2021-04-12T19:37:01.465Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -111,6 +111,9 @@ Archive - Take My Head (1999-04-20)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/2aa6105b-3176-4392-b82a-0fcaf5724e27/9776425084-500.jpg" data-tags="trip hop" role="button">
+DJ Cam - Loa Project, Volume 2 (2000-05)
+</li>
 <li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
@@ -156,9 +159,6 @@ Massive Attack - Special Cases (2003-02-24)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b2b78290-b041-4cdb-8355-7f8090ff7485/21687038310-500.jpg" data-tags="trip-hop" role="button">
-Lamb - Between Darkness And Wonder (2003-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/5969ae15-8e51-44b7-a5a7-b55d6dea1053/24102546544-500.jpg" data-tags="chillout" role="button">
 Blue Foundation - Sweep Of Days (2004)
 </li>
@@ -195,9 +195,6 @@ Massive Attack - Live With Me (2006-02)
 <li data-cover="http://coverartarchive.org/release/4447a8b7-439c-434e-9937-34231d4eb7cd/3840466846-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Collected (2006-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
-The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3f1378d-7dbd-49a9-afe0-0d6c0a4b6ccc/8131898956-500.jpg" data-tags="ninja tune" role="button">
 Yppah - You Are Beautiful At All Times (2006-11-06)
 </li>
@@ -230,6 +227,9 @@ Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
 <li data-cover="https://img.discogs.com/Ij9_-V2V66TXYTqAltb6FwGbUuE=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993183-1505176615-6453.jpeg.jpg" data-tags="trip-hop, progressive rock" role="button">
 Archive - Controlling Crowds (2009-03-27)
+</li>
+<li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
+Anjulie - Boom (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/fff6387a-2359-498c-8da3-82ba43c27f45/17108282805-500.jpg" data-tags="electronic, trip-hop, down tempo, trip hop, down-tempo, downtempo electronica, downtempo jazz, downtempo electronic" role="button">
 Gramatik - Water 4 The Soul (2009-07-29)

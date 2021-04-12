@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:54:01.509Z
+date: 2021-04-12T18:51:01.477Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -33,11 +33,11 @@ The Blackbyrds - The BlackByrds (1974)
 <li data-cover="https://img.discogs.com/S_soeX-QiA8UjgctA9I2Qng-1Cc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56164-1467839092-5765.jpeg.jpg" data-tags="jazz funk" role="button">
 Incognito - Jazz Funk (1981)
 </li>
+<li data-cover="https://img.discogs.com/_Cntdy9ObSNnF-comYQR1LE0hnw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7995413-1453134264-3615.jpeg.jpg" data-tags="acid jazz, acid jazz source, never too late, jazz-soul-funk, mystic woman, garden of peace" role="button">
+Lonnie Liston Smith - Dreams Of Tomorrow (1983)
+</li>
 <li data-cover="https://img.discogs.com/O9N_duDbOrBmugTmFk9h_d-amUA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50328-1256128473.jpeg.jpg" data-tags="80s, pop, sophisti-pop" role="button">
 Swing Out Sister - It's Better To Travel (1987-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4822d4d-c91c-4653-886c-09fb9011d604/23557003896-500.jpg" data-tags="acid jazz, r00ts, t4lk1n l0ud" role="button">
-Galliano - In Pursuit Of The 13th Note (1991)
 </li>
 <li data-cover="https://img.discogs.com/FdHdapnlK9QkgzNyiM2xRbAl1iU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11704631-1520958984-4799.jpeg.jpg" data-tags="acid jazz" role="button">
 Incognito - Inside Life (1991)
@@ -216,6 +216,9 @@ Lonnie Liston Smith - Introducing (2002)
 <li data-cover="https://img.discogs.com/qpkes7omh4AXd50pI4Z7glGOQq0=/fit-in/402x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-208911-1140878768.jpeg.jpg" data-tags="post-rock, acid jazz" role="button">
 Mice Parade - All Roads Lead To Salzburg (2002-04-23)
 </li>
+<li data-cover="https://img.discogs.com/00JumIwevh5pAdJROMKUVub2Wd8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14260495-1570938811-2615.jpeg.jpg" data-tags="downtempo, acid jazz" role="button">
+The Cinematic Orchestra - Radio Session 13 May (2002-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/e61973b7-9cce-4620-802d-d71099fb6010/13581337932-500.jpg" data-tags="ninja tune" role="button">
 Mr. Scruff - Trouser Jazz (2002-09-09)
 </li>
@@ -224,6 +227,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c35361b1-79a1-4b52-9c93-4d40a29368b0/27292980196-500.jpg" data-tags="disco, nu jazz, chillout, electronic, vocal, house, acid jazz, lounge, laidback, funky, deep house, subtle production" role="button">
 Projections - Between Here and Now (2002-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ba5cc078-ecf3-49bd-926a-d74d27da3c64/3215523130-500.jpg" data-tags="incognito" role="button">
+Incognito - Who Needs Love (2002-11-20)
 </li>
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
@@ -236,9 +242,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
-</li>
-<li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
-Jazztronik - 七色 (2004-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/26498e81-a391-4224-9d20-d63fafee4a94/8312497945-500.jpg" data-tags="acid jazz" role="button">
 Greyboy - Soul Mosaic (2004-04-06)
@@ -302,9 +305,6 @@ Los Amigos Invisibles - Commercial (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e311d8e-876e-4b3d-a8cb-a5af3447842d/7392995216-500.jpg" data-tags="jazz-funk, acid jazz, neo-soul, french hip hop, jazz rap, conscious hip hop, french hip-hop" role="button">
 Hocus Pocus - 16 pièces (2010-03-15)
-</li>
-<li data-cover="https://img.discogs.com/gGj42qXYmtUu2KfQF7l6vL5tTLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768244-1327121549.jpeg.jpg" data-tags="funky, ninja tune" role="button">
-Wagon Christ - Toomorrow (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)

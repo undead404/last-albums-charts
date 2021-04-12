@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:33:01.595Z
+date: 2021-04-12T19:26:01.808Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")

@@ -1,16 +1,16 @@
 ---
-date: 2021-04-12T11:42:06.987Z
+date: 2021-04-12T18:52:29.463Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">Deer Tick - War Elephant (2007)</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">Passenger - All the Little Lights (2012-02-24)</li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">Jake Bugg - Jake Bugg (2012-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">Phosphorescent - Muchacho (2013-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">Angel Olsen - Burn Your Fire for No Witness (2014-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
@@ -48,9 +48,6 @@ Captain Beefheart & His Magic Band - Unconditionally Guaranteed (1974-04)
 <li data-cover="https://img.discogs.com/ZkqBhbgY0jNz1NTx8p3vUDEtIOg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8749376-1476118070-7272.jpeg.jpg" data-tags="rock, rock opera" role="button">
 The Kinks - Soap Opera (1975-04-25)
 </li>
-<li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="classic rock, 70s" role="button">
-The Rolling Stones - Made In The Shade (1975-06-13)
-</li>
 <li data-cover="https://img.discogs.com/iU4lgW6x6rpKAS6bq5f0QOR6e4w=/fit-in/297x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1548702-1227617857.jpeg.jpg" data-tags="singer songwriter" role="button">
 Todd Rundgren - Faithful (1976-05-10)
 </li>
@@ -77,6 +74,9 @@ Joan Manuel Serrat - En Transito (1981)
 </li>
 <li data-cover="https://img.discogs.com/ar2FpFuxrsDk4kH93eICXvpHD9U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387672-1350921441-6332.jpeg.jpg" data-tags="classic rock, rock" role="button">
 The Kinks - Give The People What They Want (1981-08-26)
+</li>
+<li data-cover="https://img.discogs.com/ZMUB9Hi1v4dWV_mNNH7SxLA51Xw=/fit-in/167x167/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1171532-1283665870.jpeg.jpg" data-tags="rock" role="button">
+Frank Zappa - You Are What You Is (1981-09-23)
 </li>
 <li data-cover="https://img.discogs.com/1UPUm05OsyVP0kz_uYQyfugSx7M=/fit-in/391x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374151-1328282011.jpeg.jpg" data-tags="rock" role="button">
 Warren Zevon - The Envoy (1982-07-16)
@@ -111,9 +111,6 @@ Jimmy Reed - The Very Best of Jimmy Reed (1995)
 <li data-cover="https://img.discogs.com/MLQnd8XMK--cptY4SsLN_4nch4o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15947338-1600715074-5097.jpeg.jpg" data-tags="country" role="button">
 Willie Nelson - The Essential Willie Nelson (1995-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
-Lou Reed - Set The Twilight Reeling (1996-02-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/bf2c2471-b584-46a1-a04f-e73592bbbb04/5232466594-500.jpg" data-tags="mellow, boz scaggs" role="button">
 Boz Scaggs - Fade Into Light (1996-11-19)
 </li>
@@ -123,8 +120,8 @@ Boz Scaggs - Come On Home (1997-04-08)
 <li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
 Super Furry Animals - Radiator (1997-08-25)
 </li>
-<li data-cover="https://img.discogs.com/mifGqo1kQ4cCmWQRifPqedoGpc0=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14620067-1578320532-7937.jpeg.jpg" data-tags="soundtrack, classic rock, oldies" role="button">
-Blue Swede - The Golden Classics of Blue Swede (1998-01)
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="blues, guitar, singer songwriter, psychedelic blues, song noir, don van vliet, c beefheart, lamest album art" role="button">
+Captain Beefheart & His Magic Band - Electricity (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
@@ -134,6 +131,9 @@ Eels - Electro-Shock Blues (1998-09-21)
 </li>
 <li data-cover="https://img.discogs.com/bc_M_0j8qZTn3PmsrElDR7WhnIo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5931337-1468593009-7013.jpeg.jpg" data-tags="indie rock, scottish" role="button">
 Arab Strap - Mad For Sadness (1999-05-03)
+</li>
+<li data-cover="https://img.discogs.com/qnYGbt-Ug-bAS9DSvM-m9ZrlYoY=/fit-in/540x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4093675-1355017665-8538.jpeg.jpg" data-tags="jpop, singer songwriter, nice cover art" role="button">
+BONNIE PINK - Daisy (1999-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/28e3311d-5abd-410e-ae5c-621ead5a909b/15296892269-500.jpg" data-tags="norwegian" role="button">
 Kari Bremnes - Norwegian Mood (2000)
@@ -189,6 +189,9 @@ Iron & Wine - Passing Afternoon (2004-10-19)
 <li data-cover="https://img.discogs.com/gfyUGydq6J_dW_h-5jff2a_ysc0=/fit-in/450x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775671-1157562082.jpeg.jpg" data-tags="raw, singer songwriter, diy wonders, folk albums i have loved" role="button">
 Thanksgiving - The River (2005)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Kina Grannis - sincerely, me. (2005)
+</li>
 <li data-cover="https://img.discogs.com/P1fmJUS3_iPX633fdsjM8ipXJao=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614711-1431628762-6028.jpeg.jpg" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
 </li>
@@ -221,9 +224,6 @@ My Midnight Creeps - Histamin (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/101ea40b-2647-476f-96b9-711fdbbf610a/1262133327-500.jpg" data-tags="indie, christian, singer songwriter, singer/songwriter" role="button">
 Kendall Payne - Paper Skin (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">
-Deer Tick - War Elephant (2007)
 </li>
 <li data-cover="https://img.discogs.com/US3kUwqokNp96EJ11p1ou3fdwno=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1112452-1384252545-4374.jpeg.jpg" data-tags="classic rock, rock" role="button">
 Ray Davies - Working Man's Café (2007-10-21)

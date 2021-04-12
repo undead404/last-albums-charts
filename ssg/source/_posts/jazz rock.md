@@ -1,13 +1,13 @@
 ---
-date: 2021-04-11T20:52:01.400Z
+date: 2021-04-12T19:15:24.107Z
 title: "jazz rock: 100 albums you must listen to before you die"
 ---
 ![Donald Fagen - The Nightfly (1982-10)](https://img.discogs.com/n8TRA44U-Li7z0pwAK9fq1szb04=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084078-1481223166-2282.jpeg.jpg "Donald Fagen - The Nightfly (1982-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">Frank Zappa - Hot Rats (1969-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/b26f4f09-a362-42db-ad7b-3f25686b4c1e/8199726377-500.jpg" data-tags="progressive rock" role="button">Soft Machine - Third (1970-06-06)</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">Steely Dan - Can't Buy A Thrill (1972-10)</li>
 <li data-cover="https://img.discogs.com/UFh87Uai_ujOf6UQQ7uuv-_0DQY=/fit-in/450x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531955-1292167778.jpeg.jpg" data-tags="fusion, jazz fusion, progressive rock" role="button">Mahavishnu Orchestra - Birds Of Fire (1973)</li>
+<li data-cover="https://img.discogs.com/Qb7Yy2NFaTqIwqDxfCV2o-Z-zVc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6602833-1422894843-6069.jpeg.jpg" data-tags="fusion, jazz fusion, jazz rock" role="button">Billy Cobham - Spectrum (1973-10-01)</li>
 <li data-cover="https://img.discogs.com/QuHeoohW5EFoaCs929vlJz99qYc=/fit-in/308x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4299661-1361111039-6210.jpeg.jpg" data-tags="70s, steely dan, classic rock, jazz rock" role="button">Steely Dan - Katy Lied (1975-03)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">Steely Dan - The Royal Scam (1976-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">Steely Dan - Aja (1977-09-23)</li>
@@ -36,9 +36,6 @@ The Tony Williams Lifetime - Emergency! (1969)
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">
 Frank Zappa - Hot Rats (1969-10-15)
 </li>
-<li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
-Kevin Ayers - Joy Of A Toy (1969-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b26f4f09-a362-42db-ad7b-3f25686b4c1e/8199726377-500.jpg" data-tags="progressive rock" role="button">
 Soft Machine - Third (1970-06-06)
 </li>
@@ -51,20 +48,17 @@ The Allman Brothers Band - At Fillmore East (1971)
 <li data-cover="http://coverartarchive.org/release/680ba7b0-3cd8-4561-90c3-49ca4924a61a/2471289241-500.jpg" data-tags="krautrock" role="button">
 Guru Guru - Hinten (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/901a3877-a0ed-44bb-a3d4-87fcded5cf9e/14741915528-500.jpg" data-tags="jazz, instrumental, 70s, fusion, jazz-funk, jazz fusion" role="button">
-Herbie Hancock - Mwandishi (1971)
+<li data-cover="https://img.discogs.com/ZOTq-iR3KoMUHEQZL4-GRUkzoq0=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10037043-1490525528-2591.jpeg.jpg" data-tags="jazz rock" role="button">
+Colosseum - Live (1971)
 </li>
 <li data-cover="https://img.discogs.com/MbuAcFAqrZdk6q0gS014XQAGeng=/fit-in/600x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866096-1581118760-5936.jpeg.jpg" data-tags="jazz rock" role="button">
 Nucleus - We'll Talk About It Later (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/89560708-7cf5-4571-8b98-07434256c8db/10468323328-500.jpg" data-tags="progressive rock, psychedelic rock" role="button">
-Kevin Ayers - Whatevershebringswesing (1972-01)
+<li data-cover="https://via.placeholder.com/450" data-tags="blues, blues rock" role="button">
+Jeff Beck Group - Rough And Ready (1971-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8539d221-d0b5-4e71-84b9-517b27f10ca7/9094130109-500.jpg" data-tags="progressive rock, jazz rock" role="button">
 Soft Machine - Fifth (1972-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="https://img.discogs.com/UFh87Uai_ujOf6UQQ7uuv-_0DQY=/fit-in/450x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531955-1292167778.jpeg.jpg" data-tags="fusion, jazz fusion, progressive rock" role="button">
 Mahavishnu Orchestra - Birds Of Fire (1973)
@@ -74,9 +68,6 @@ Return to Forever - Hymn Of The Seventh Galaxy (1973)
 </li>
 <li data-cover="https://img.discogs.com/ZptTC1sCtmzLMO9PsjGdd_-x_1g=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756745-1318445254.jpeg.jpg" data-tags="folk" role="button">
 John Martyn - Solid Air (1973)
-</li>
-<li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
-Little Feat - Dixie Chicken (1973-02)
 </li>
 <li data-cover="https://img.discogs.com/Qb7Yy2NFaTqIwqDxfCV2o-Z-zVc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6602833-1422894843-6069.jpeg.jpg" data-tags="fusion, jazz fusion, jazz rock" role="button">
 Billy Cobham - Spectrum (1973-10-01)
@@ -90,9 +81,6 @@ SBB - SBB (1974)
 <li data-cover="http://coverartarchive.org/release/5022e9d0-a1b2-4188-aea7-f19e1fe997a4/4105911297-500.jpg" data-tags="jazz fusion" role="button">
 Return to Forever - Where Have I Known You Before (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/27abd372-c117-4daf-ae69-23210936ecf7/21017478383-500.jpg" data-tags="70s, classic rock" role="button">
-Steely Dan - Pretzel Logic (1974-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/a693e5f2-42c8-4f59-a670-f3aff6586fe5/13486638538-500.jpg" data-tags="jazz, jazz fusion, electric miles" role="button">
 Miles Davis - Big Fun (1974-04-19)
 </li>
@@ -102,23 +90,11 @@ Henry Cow - Unrest (1974-05-10)
 <li data-cover="http://coverartarchive.org/release/7d01bdf2-17a1-4dce-be03-0b5ffc644cb3/11401911656-500.jpg" data-tags="jazz, fusion, funk, jazz rock" role="button">
 Billy Cobham - A Funky Thide of Sings (1975)
 </li>
-<li data-cover="https://img.discogs.com/SpookmWADj1V2SK34mhWrRptNjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2053284-1261124529.jpeg.jpg" data-tags="jazz rock, jazz, fusion" role="button">
-Stanley Clarke - Journey To Love (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/294ebe8b-5ee1-3dc9-9698-2a4881d432c8/1268961940-500.jpg" data-tags="progressive rock, jazz rock" role="button">
-Gong - Shamal (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/353cdc26-f8f5-3ef4-b103-f8b5d3686c2d/11790305680-500.jpg" data-tags="fusion, jazz fusion" role="button">
-Mahavishnu Orchestra - Visions of the Emerald Beyond (1975-02)
-</li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
 </li>
 <li data-cover="https://img.discogs.com/QuHeoohW5EFoaCs929vlJz99qYc=/fit-in/308x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4299661-1361111039-6210.jpeg.jpg" data-tags="70s, steely dan, classic rock, jazz rock" role="button">
 Steely Dan - Katy Lied (1975-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a4632b9-cbda-4259-af9c-215e9127f14a/18265508947-500.jpg" data-tags="progressive" role="button">
-Gong - Gazeuse! (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/87a1d771-e4b9-4c90-8c8b-f4a3e15187fd/3987903596-500.jpg" data-tags="jazz fusion, fusion" role="button">
 Return to Forever - Romantic Warrior (1976)
@@ -138,11 +114,14 @@ Steely Dan - The Royal Scam (1976-05)
 <li data-cover="http://coverartarchive.org/release/2f023bc1-1835-4199-8652-fe775dfa51d2/17372973548-500.jpg" data-tags="progressive rock, fusion, jazz fusion" role="button">
 Brand X - Unorthodox Behaviour (1976-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/406344af-5548-42ca-880a-2419f9f110dc/8353724870-500.jpg" data-tags="progressive rock, fusion" role="button">
+Dixie Dregs - Free Fall (1977)
+</li>
 <li data-cover="http://coverartarchive.org/release/8b5c22c6-f712-489e-9a1d-6cb235cb7c50/21859761852-500.jpg" data-tags="jazz, fusion, jazz fusion" role="button">
 Weather Report - Heavy Weather (1977)
 </li>
-<li data-cover="https://img.discogs.com/71JW1SG-X5FzhA4F2JFfxHmfxK4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4390216-1460733880-4154.jpeg.jpg" data-tags="jazz, blues, singer-songwriter" role="button">
-Tom Waits - Foreign Affairs (1977-09)
+<li data-cover="http://coverartarchive.org/release/19bb9a16-1f71-45fd-8913-d9bf4ea31939/4002721099-500.jpg" data-tags="jazz, jazz fusion" role="button">
+Return to Forever - Musicmagic (1977)
 </li>
 <li data-cover="https://img.discogs.com/k5w_JOHx5-ywuwt8ySq6mezwZ98=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2039388-1568891901-4836.jpeg.jpg" data-tags="progressive rock" role="button">
 Camel - Rain Dances (1977-09)
@@ -156,6 +135,9 @@ John McLaughlin - Electric Guitarist (1978)
 <li data-cover="http://coverartarchive.org/release/d7ef922e-a465-4951-9488-ef2624c02bee/6117448640-500.jpg" data-tags="fusion, smooth jazz" role="button">
 Larry Carlton - Larry Carlton (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e33c47d-9922-4585-9929-bb937d1e6a4e/4312538227-500.jpg" data-tags="funk, jazz" role="button">
+Herbie Hancock - Sunlight (1978)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1f76081-92a2-4c1b-957b-b16c83808df6/8600031514-500.jpg" data-tags="progressive rock, experimental rock" role="button">
 Frank Zappa - Sleep Dirt (1979-01-12)
 </li>
@@ -165,17 +147,11 @@ Rickie Lee Jones - Rickie Lee Jones (1979-03-23)
 <li data-cover="https://img.discogs.com/iAdP2dMDvTmL6gYxN4Ip3T8RDuM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374602-1614502308-2615.jpeg.jpg" data-tags="fusion, jazz rock" role="button">
 Brand X - Product (1979-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/7db46ac6-b711-4bfb-bd19-5af586467afe/1544402912-500.jpg" data-tags="rock, progressive rock, argentina, rock argentino, progressive, jazz rock" role="button">
-Spinetta Jade - Alma de diamante (1980-08)
-</li>
 <li data-cover="https://img.discogs.com/TfLotYMad-QYCFMNsZsMllMGtJc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7323227-1438883622-2007.jpeg.jpg" data-tags="pop, 80s, new wave, contemporary, funk, bass, jazz rock, slap" role="button">
 Level 42 - The Pursuit Of Accidents (1982)
 </li>
 <li data-cover="https://img.discogs.com/n8TRA44U-Li7z0pwAK9fq1szb04=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084078-1481223166-2282.jpeg.jpg" data-tags="jazz rock, donald fagen" role="button">
 Donald Fagen - The Nightfly (1982-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f9d1fa9-af5b-4397-857e-ad1a42d4029a/2768596148-500.jpg" data-tags="jazz fusion, 80s synth jazz" role="button">
-Al Di Meola - Scenario (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cde51c2-2bbd-47bb-a58b-06d713561880/9724695825-500.jpg" data-tags="steely dan" role="button">
 Steely Dan - A Decade Of Steely Dan (1985)
@@ -201,11 +177,17 @@ Chet Atkins & Mark Knopfler - Neck And Neck (1990)
 <li data-cover="http://coverartarchive.org/release/298f4cce-65e8-3051-9bb8-7ab67606d2c7/10149749129-500.jpg" data-tags="guitar, mark knopfler" role="button">
 Chet Atkins And Mark Knopfler - Neck And Neck (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4c15389-3019-4791-9a37-a6b1366f1dc5/7544627594-500.jpg" data-tags="jazz rock" role="button">
+Colosseum - Those Who Are About to Die Salute You (1990)
+</li>
 <li data-cover="https://img.discogs.com/6LTEck3UvabnY-klD0k6GEuuMkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3234455-1379266216-3651.jpeg.jpg" data-tags="pop, rock, 80s, british, new wave, contemporary, funk, bass, jazz rock, slap, lasso the moon, rca recording" role="button">
 Level 42 - Guaranteed (1991)
 </li>
 <li data-cover="https://img.discogs.com/HL3z-D4sfWoWsVR9BzTtM6_Oh3c=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11892979-1527710498-5704.jpeg.jpg" data-tags="rock, 80s, experimental, singer-songwriter, jazz fusion, 90s, progressive, oldies, jazz rock, male vocalists, guitar virtuoso, zappa, 1980s, albums to get, znebula, f zappa" role="button">
 Frank Zappa - Make A Jazz Noise Here (1991-06-04)
+</li>
+<li data-cover="https://img.discogs.com/WCyiMobEiU66kqjCppU1waZEgOs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1901630-1279627797.jpeg.jpg" data-tags="blues rock" role="button">
+Gary Moore - Back on the Streets (1992)
 </li>
 <li data-cover="https://img.discogs.com/DDwY28vVxzQ92yBOeWoGqTKys1k=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1641960-1452981624-8543.jpeg.jpg" data-tags="jazz rock" role="button">
 Chase - Chase (1992)
@@ -213,23 +195,23 @@ Chase - Chase (1992)
 <li data-cover="https://img.discogs.com/Mh96c7ga2G_xNER8aViA-ERGkOo=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8007100-1453367696-1033.jpeg.jpg" data-tags="jazz, jazz-rock" role="button">
 Donald Fagen - Kamakiriad (1993-05-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, avant-garde" role="button">
+Idiot Flesh - The Nothing Show (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/50ea1c6c-fcfe-39c2-b111-b1ef00b53a62/8355582085-500.jpg" data-tags="90s, space rock" role="button">
 Spiritualized - Pure Phase (1995-03-28)
 </li>
 <li data-cover="https://img.discogs.com/i5bI4hwSqaFpZ5vgKcArk6qjIJU=/fit-in/486x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455257-1285005262.jpeg.jpg" data-tags="blues rock, jazz rock, allboutguitar, brc blues band, brc blues band karlsruhe, selbst, walter buddy freter, lautfm bluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe" role="button">
 Robben Ford & The Blue Line - Handful Of Blues (1995-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, soul, quincy jones" role="button">
+Quincy Jones - Q's Jook Joint (1995-11-07)
+</li>
 <li data-cover="https://img.discogs.com/Xa9IafuYjTnr_MGXOv2B6XSnVN0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5249179-1575023337-6885.jpeg.jpg" data-tags="fusion, jazz fusion, jazz rock" role="button">
 Cosmosquad - Cosmosquad (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/55b4d834-4916-4530-a184-f10f899e138e/20794420950-500.jpg" data-tags="chillout, downtempo" role="button">
-Koop - Sons Of Koop (1997)
-</li>
 <li data-cover="https://img.discogs.com/ubF0BjfHDn8BWvlwpfOLIFg_9aA=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628244-1370385662-4244.jpeg.jpg" data-tags="blues rock" role="button">
 Morphine - B-Sides and Otherwise (1997-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5adcfc-aa96-42a4-93ab-70d3af740b56/12618649300-500.jpg" data-tags="polish rock, polish, rock" role="button">
-Kult - Ostateczny krach systemu korporacji (1998-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5af94a-6e11-4bb4-99ba-177d322027fa/16110487955-500.jpg" data-tags="math rock, instrumental" role="button">
 Don Caballero - What Burns Never Returns (1998-06-09)
@@ -240,8 +222,14 @@ Al Di Meola - The Infinite Desire (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/4498095f-3750-4d31-938e-486fe163de0a/7037698301-500.jpg" data-tags="rock, 80s" role="button">
 Level 42 - The Very Best of Level 42 (1998-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/07255b90-5799-47e5-b4bc-283db8509dd9/22556850074-500.jpg" data-tags="jazz" role="button">
+Miles Davis - The Complete Bitches Brew Sessions (1998-11-24)
+</li>
 <li data-cover="https://img.discogs.com/mmQpQDT8WuGzrOtW8hEye0Yag0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3845073-1589600895-8180.jpeg.jpg" data-tags="jazz, jazzbass" role="button">
 Jaco Pastorius - Broadway Blues (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/edd02b31-cc97-4be8-bb15-02d205ad8a79/23432138282-500.jpg" data-tags="jazz" role="button">
+Isotope 217 - Utonian Automatic (1999-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/50cfa963-2bf1-4463-a53d-b68732d24ac9/16283728061-500.jpg" data-tags="jazz rock" role="button">
 Morphine - Bootleg Detroit (2000)
@@ -249,11 +237,17 @@ Morphine - Bootleg Detroit (2000)
 <li data-cover="https://img.discogs.com/ifVoE3tAkmpH_PoVPGBlOK1O0WA=/fit-in/591x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4674254-1371842100-2080.jpeg.jpg" data-tags="fusion" role="button">
 Frank Gambale - Coming to Your Senses (2000)
 </li>
-<li data-cover="https://img.discogs.com/2en8E7y35r2PN3_VfnyQfeKNUYY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044416-1488366595-8539.jpeg.jpg" data-tags="progressive rock, jazz rock" role="button">
-Bozzio Levin Stevens - Situation Dangerous (2000)
+<li data-cover="http://coverartarchive.org/release/a4388cab-875e-4e34-99cd-f87d2b8b3834/10699815466-500.jpg" data-tags="experimental, psychedelic" role="button">
+Soft Machine - Noisette (2000-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d3e11a4-d2a5-4ac4-b853-fba851c5bb36/12533868275-500.jpg" data-tags="fusion, jazz rock" role="button">
 Indian Ocean - Kandisa (2000-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="basically bass" role="button">
+Niacin - Deep (2000-03-06)
+</li>
+<li data-cover="https://img.discogs.com/c09scPcoGkvj8lETpYLxNC4L2HQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5186310-1534160857-7179.jpeg.jpg" data-tags="instrumental rock" role="button">
+Brett Garsed - Big Sky (2002)
 </li>
 <li data-cover="https://img.discogs.com/UdAkVZPaJzypYk_GQQG04jj1CKQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5255401-1439164293-9980.jpeg.jpg" data-tags="fusion, jazz rock, progressive rock" role="button">
 Cosmosquad - Live at the Baked Potato (2002)
@@ -264,20 +258,23 @@ Brant Bjork - Brant Bjork & The Operators (2002-04-30)
 <li data-cover="http://coverartarchive.org/release/b6f5ea90-34f1-4596-a327-a23931f50b39/7259960835-500.jpg" data-tags="classic rock, 00s, rock, progressive rock" role="button">
 Steely Dan - Everything Must Go (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c76019bb-3ee9-31ef-838f-0ee2a0a857e6/8039861546-500.jpg" data-tags="indie rock" role="button">
-Karate - Pockets (2004-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/2ba9d443-ecb0-4807-b2ac-48f107bc97b4/27575795953-500.jpg" data-tags="alternative rock" role="button">
 Jimmy Chamberlin Complex - Life Begins Again (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4bac18d-08be-414d-bd9f-c90b11781246/15760220112-500.jpg" data-tags="bass, funk, jazz" role="button">
 Victor Wooten - Soul Circus (2005-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/c279a265-de87-4b70-a7a1-f62643c8f044/5887454938-500.jpg" data-tags="pop, rock, british, funk, adult contemporary, bass, jazz rock, adult, slap" role="button">
+Level 42 - Retroglide (2006-09-18)
+</li>
 <li data-cover="https://img.discogs.com/79p13npAMCu7cPTGCYJAsKCSRwk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463671-1432890120-5986.jpeg.jpg" data-tags="rock, swedish, scandinavian, jazz fusion, nordic, jazz rock, sweden, scandinavia, i own this album, svenskprov" role="button">
 Bo Kaspers Orkester - Hund (2006-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SPf3STWGwBhhrD8kOeH02N7zk6w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3133623-1317317258.jpeg.jpg" data-tags="fusion, progressive jazz, jazz rock" role="button">
 Cosmosquad - Acid Test (2007)
+</li>
+<li data-cover="https://img.discogs.com/VdQXrWIUBWfKkQqFfOK-3X3fksI=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334589-1210590169.jpeg.jpg" data-tags="jazz, progressive metal, progressive rock, jazz fusion, jazz rock, sean malone" role="button">
+Sean Malone - Cortlandt (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1302a8b-74ce-46c7-9854-d5f0a6d1cbad/3005137272-500.jpg" data-tags="jazz rock, jazz-rock" role="button">
 The Greyboy Allstars - What Happened To Television? (2007-04-17)
@@ -291,8 +288,14 @@ Adrian Orange & Her Band - Adrian Orange & Her Band (2007-09-11)
 <li data-cover="https://img.discogs.com/tamXOA31XnSjqOu03NIfsC8asBY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2380773-1523903078-1536.jpeg.jpg" data-tags="jazz, vocal jazz" role="button">
 Peter Cincotti - East Of Angel Town (2007-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d17ce94-f0b1-4bdd-9610-0ce666715801/16462657056-500.jpg" data-tags="southern rock" role="button">
+Gov't Mule - Mighty High (2007-10-16)
+</li>
 <li data-cover="https://img.discogs.com/EpycoJC4FhrrALXckPBn4vj8FNA=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700259-1570652084-6516.jpeg.jpg" data-tags="progressive rock" role="button">
 Liquid Trio Experiment - Spontaneous Combustion (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/60eef3b9-1f03-47e8-b13f-1c5ed96bce39/16560298080-500.jpg" data-tags="becker circus money" role="button">
+Walter Becker - Circus Money (2008-06-10)
 </li>
 <li data-cover="https://img.discogs.com/s7WwA5Z2Np0SAFClvWVOxt3kg6A=/fit-in/580x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787616-1254013041.jpeg.jpg" data-tags="blues rock" role="button">
 The Bakerton Group - El Rojo (2009-02-17)
@@ -305,9 +308,6 @@ Mouse on the Keys - An Anxious Object (2009-07-08)
 </li>
 <li data-cover="https://img.discogs.com/C9NARslTG_sj4ORJ_6FCfEGBSY4=/fit-in/299x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3639172-1338411426-5934.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jazz rock, 00s, jecks, jazz-rock fusion" role="button">
 Chad Smith's Bombastic Meatbats - Meet The Meatbats (2009-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/4adc7049-c1a6-41bb-99b1-eafc33cac370/20892309017-500.jpg" data-tags="progressive rock, jazz fusion, jazz rock" role="button">
-The Aristocrats - The Aristocrats (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d43a0913-5663-4737-a22d-0379f4d464dd/23003139105-500.jpg" data-tags="instrumental, progressive rock, psychedelic rock, jazz rock" role="button">
 Papir - Stundum (2011-11-28)

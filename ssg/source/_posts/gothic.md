@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:06:12.634Z
+date: 2021-04-12T19:10:01.621Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -210,6 +210,9 @@ Elis - Dark Clouds in a Perfect Sky (2004-10-04)
 <li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Sirenia - Sirenian Shores (2004-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/0cb0d731-2781-4fcf-99cd-133d079b7d31/9379278772-500.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - Stand My Ground (2004-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab3444d5-168f-447c-b7cb-95a1f8e393e6/13280087331-500.jpg" data-tags="gothic" role="button">
 Кукрыниксы - Фаворит солнца (2004-11)
 </li>
@@ -227,9 +230,6 @@ Nine Inch Nails - The Hand That Feeds (2005-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/514fed1a-da13-358d-8f6f-f55b4aa5c1d1/22334392356-500.jpg" data-tags="gothic, industrial metal, industrial" role="button">
 Gothminister - Empire of Dark Salvation (2005-04-04)
-</li>
-<li data-cover="https://img.discogs.com/jy_soO58j55CsAG3cvS-Vw6Siow=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5107953-1384706200-8069.jpeg.jpg" data-tags="symphonic metal" role="button">
-Epica - Consign to Oblivion (2005-04-21)
 </li>
 <li data-cover="https://img.discogs.com/NswOQ6A8V6vjUYuFzM_AR2GsofA=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9218495-1476867193-7269.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Lichtgestalt (2005-05-02)

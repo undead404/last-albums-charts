@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:06:06.990Z
+date: 2021-04-12T19:36:01.451Z
 title: "jazz fusion: 100 albums you must listen to before you die"
 ---
 ![Herbie Hancock - Head Hunters (2010-06-28)](http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg "Herbie Hancock - Head Hunters (2010-06-28)")
@@ -39,9 +39,6 @@ Miles Davis - Bitches Brew (1970)
 <li data-cover="http://coverartarchive.org/release/b26f4f09-a362-42db-ad7b-3f25686b4c1e/8199726377-500.jpg" data-tags="progressive rock" role="button">
 Soft Machine - Third (1970-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/901a3877-a0ed-44bb-a3d4-87fcded5cf9e/14741915528-500.jpg" data-tags="jazz, instrumental, 70s, fusion, jazz-funk, jazz fusion" role="button">
-Herbie Hancock - Mwandishi (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/dca1aa63-ae18-3698-b7d7-72b3fb586af3/25848951329-500.jpg" data-tags="fusion, jazz" role="button">
 Miles Davis - A Tribute to Jack Johnson (1971-02-24)
 </li>
@@ -72,26 +69,20 @@ Herbie Hancock - Sextant (1973)
 <li data-cover="https://img.discogs.com/Qb7Yy2NFaTqIwqDxfCV2o-Z-zVc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6602833-1422894843-6069.jpeg.jpg" data-tags="fusion, jazz fusion, jazz rock" role="button">
 Billy Cobham - Spectrum (1973-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1ea9df2-d718-462b-bd9b-0f701e83dc81/5014697668-500.jpg" data-tags="jazz fusion, jazz" role="button">
-Mahavishnu Orchestra - Apocalypse (1974)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8a32bb4-9858-3dfb-b0a2-0a67e05ee80a/15015714324-500.jpg" data-tags="jazz" role="button">
 Miles Davis - Get Up With It (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-500.jpg" data-tags="jazz funk, instrumental, funk, jazz fusion" role="button">
-Herbie Hancock - Thrust (1974)
-</li>
 <li data-cover="http://coverartarchive.org/release/5022e9d0-a1b2-4188-aea7-f19e1fe997a4/4105911297-500.jpg" data-tags="jazz fusion" role="button">
 Return to Forever - Where Have I Known You Before (1974)
+</li>
+<li data-cover="https://img.discogs.com/vBuq0MClyik2arZCD_eUHLLWGjQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057386-1250967544.jpeg.jpg" data-tags="fusion" role="button">
+Billy Cobham - Crosswinds (1974-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a693e5f2-42c8-4f59-a670-f3aff6586fe5/13486638538-500.jpg" data-tags="jazz, jazz fusion, electric miles" role="button">
 Miles Davis - Big Fun (1974-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/89daddd1-15aa-373e-8998-03ddb16092b4/8714236235-500.jpg" data-tags="funk, jazz fusion" role="button">
 Herbie Hancock - Man-Child (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/353cdc26-f8f5-3ef4-b103-f8b5d3686c2d/11790305680-500.jpg" data-tags="fusion, jazz fusion" role="button">
-Mahavishnu Orchestra - Visions of the Emerald Beyond (1975-02)
 </li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
@@ -122,6 +113,9 @@ Weather Report - Black Market (1976-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f023bc1-1835-4199-8652-fe775dfa51d2/17372973548-500.jpg" data-tags="progressive rock, fusion, jazz fusion" role="button">
 Brand X - Unorthodox Behaviour (1976-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/269ba8d1-50df-44d5-b60a-8e6120c1e625/27697084492-500.jpg" data-tags="rock, 70s, progressive rock, zappa" role="button">
+Frank Zappa - Zoot Allures (1976-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/31dd702a-eb02-4000-96fc-c4e34d45a16c/11796737231-500.jpg" data-tags="jazz, fusion, trumpet" role="button">
 Miles Davis - Water Babies (1976-11-02)
@@ -186,9 +180,6 @@ Chick Corea Elektric Band - Eye Of The Beholder (1988-05-16)
 <li data-cover="https://img.discogs.com/cWwipT6ReR0fE4KACwmnL5G0a6E=/fit-in/600x834/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9492176-1481507030-2276.jpeg.jpg" data-tags="jazz fusion" role="button">
 Billy Cobham - The Best Of (1988-10-25)
 </li>
-<li data-cover="https://img.discogs.com/mMyb5NzdtxLw_lSRMe4C5SRQ-yo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9725389-1485399125-6304.jpeg.jpg" data-tags="jazz, fusion" role="button">
-Pat Metheny Group - Letter From Home (1989-06-29)
-</li>
 <li data-cover="https://img.discogs.com/IRNYG-ZER3UsKGa1kPHnJpxPXv0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1995732-1395189136-5152.jpeg.jpg" data-tags="funk, brecker, jazz fusion, rock top, rock top funky soul, the brecker brother-the brecker broscollection, volumen 1" role="button">
 The Brecker Brothers - The Brecker Bros. Collection, Volume 1 (1990)
 </li>
@@ -228,6 +219,12 @@ Erik Truffaz - Mantis (2001)
 <li data-cover="https://img.discogs.com/b8sPdfPQNF6YC_YeElRP7gnm3ZQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513661-1167301759.jpeg.jpg" data-tags="jazz fusion, billie flower" role="button">
 Billie Holiday - The Lady Sings (2001-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/86957aca-ebb6-45d2-8755-14091f035d9e/25091405297-500.jpg" data-tags="rnb" role="button">
+Donell Jones - Life Goes On (2002-06-03)
+</li>
+<li data-cover="https://img.discogs.com/Fe5MZ-xPZ6Wc87KJpzH2R--prVk=/fit-in/449x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2771940-1300331797.jpeg.jpg" data-tags="jazz fusion" role="button">
+Allan Holdsworth - All Night Wrong (2002-09-04)
+</li>
 <li data-cover="https://img.discogs.com/K_wFkVYGXXX23vuBQJ7vDfE4sdY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3649068-1338825965-9999.jpeg.jpg" data-tags="jazz, pat metheny" role="button">
 Pat Metheny - One Quiet Night (2003-05-13)
 </li>
@@ -237,8 +234,11 @@ Tied & Tickled Trio - Observing Systems (2003-09-08)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
-Jazztronik - 七色 (2004-02-04)
+<li data-cover="https://img.discogs.com/68hQhoX74n_1hpqXDpGjnNHC9Qs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2518618-1538807095-7875.jpeg.jpg" data-tags="jazz, fusion, richard bona" role="button">
+Richard Bona - Tiki (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/88a6939e-0419-4831-9f00-13b754e6a9c0/4818989726-500.jpg" data-tags="jazz fusion" role="button">
+Chuck Loeb - When I'm With You (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d73c16f6-c6fc-4860-adf7-3fd96242e46e/2087988840-500.jpg" data-tags="jazz fusion, jazz" role="button">
 Dave Weckl Band - Multiplicity (2005-07-12)
@@ -257,6 +257,9 @@ Bo Kaspers Orkester - Hund (2006-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7501fa57-c633-4d14-b830-ccb0ba59ae29/16465596696-500.jpg" data-tags="jazz fusion, jazz guitar" role="button">
 Alex Skolnick Trio - Last Day In Paradise (2007-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2d97501-6139-4b63-9360-b37f1c17b270/17473979290-500.jpg" data-tags="noise rock, experimental rock" role="button">
+Oxbow - The Narcotic Story (2007-06-19)
 </li>
 <li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
 SunSay - SunSay (2007-09)
@@ -284,9 +287,6 @@ Akua Naru - The Journey Aflame (2011-01-06)
 </li>
 <li data-cover="https://img.discogs.com/o6SwXLZ6Lq03cQll6aPzAQE0kXw=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705920-1297365038.jpeg.jpg" data-tags="hip hop, experimental" role="button">
 Ghostpoet - Peanut Butter Blues & Melancholy Jam (2011-02-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4adc7049-c1a6-41bb-99b1-eafc33cac370/20892309017-500.jpg" data-tags="progressive rock, jazz fusion, jazz rock" role="button">
-The Aristocrats - The Aristocrats (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1197620b-64bd-4fce-b211-d462b797fc2a/3003374541-500.jpg" data-tags="jazz, jazz fusion" role="button">
 Ibrahim Maalouf - Diagnostic (2011-09-29)

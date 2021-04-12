@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:10:01.424Z
+date: 2021-04-12T19:16:12.712Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -132,11 +132,11 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
-Dilated Peoples - Neighborhood Watch (2004-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/d7b02e44-1533-4cc5-830b-3e8c96d528c3/1578981308-500.jpg" data-tags="soul, blues" role="button">
 Alicia Keys - If I Ain't Got You (2004-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/c474addc-bf82-4e04-88e8-4e3a5d715c20/2229161665-500.jpg" data-tags="minimal" role="button">
+Claro Intelecto - Neurofibro (2004-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)

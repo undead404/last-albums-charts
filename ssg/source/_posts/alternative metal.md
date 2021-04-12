@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:56:01.480Z
+date: 2021-04-12T19:45:01.862Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -116,6 +116,9 @@ Godsmack - Awake (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
+</li>
+<li data-cover="https://img.discogs.com/6Tl5zyn-yaQWNCdlXr9fFhSvWjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1748093-1556288948-1977.jpeg.jpg" data-tags="nu metal" role="button">
+Ill Niño - Revolution Revolución (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e00e40a3-5ed5-4ed3-9c22-0a8ff4119bdf/10210180067-500.jpg" data-tags="alternative rock, rock" role="button">
 Alien Ant Farm - Anthology (2001-03-06)
@@ -284,9 +287,6 @@ Scars on Broadway - Scars On Broadway (2008-07-26)
 </li>
 <li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
-</li>
-<li data-cover="https://img.discogs.com/xspd8dDNE03hB7TpJ-ZQgW_7Czs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118226-1510175386-4120.jpeg.jpg" data-tags="alternative metal, alternative rock" role="button">
-Chevelle - Sci-Fi Crimes (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/613f418b-dea5-4cb5-b5dd-12df16c7d825/7275083560-500.jpg" data-tags="groove metal, alternative metal" role="button">
 Five Finger Death Punch - War Is the Answer (2009-09-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:27:01.440Z
+date: 2021-04-12T19:08:07.051Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -62,9 +62,6 @@ Alice in Chains - Sap (1992-02-04)
 </li>
 <li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
@@ -224,6 +221,9 @@ Pearl Jam - Binaural (2000-05-16)
 </li>
 <li data-cover="https://img.discogs.com/zKrm-b4jrZ-oY-VyfDdSxcmDZ6A=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5449544-1595955921-2024.jpeg.jpg" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Stone Temple Pilots - Shangri-La Dee Da (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:25:01.634Z
+date: 2021-04-12T19:06:01.456Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -51,6 +51,9 @@ Lali Puna - Faking The Books (2004-04-19)
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
+<li data-cover="https://img.discogs.com/LCyGXfeVnTIry-xogDHgbsOCn5A=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797753-1159915663.jpeg.jpg" data-tags="indie rock, indie" role="button">
+The Fiery Furnaces - Blueberry Boat (2004-07-13)
+</li>
 <li data-cover="https://img.discogs.com/C97i_Ga5zAox0D_yRnqG_Jwtd64=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319514-1158869469.jpeg.jpg" data-tags="indietronica, morr music, male vocalists, belgian electronics" role="button">
 The Go Find - Miami (2004-09-13)
 </li>
@@ -89,9 +92,6 @@ MGMT - Time To Pretend (2007-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc06d707-0b4e-3092-b13c-629a0e33c46d/7875461543-500.jpg" data-tags="owl city, electronic" role="button">
-Owl City - Maybe I'm Dreaming (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
@@ -158,9 +158,6 @@ Yelle - Safari Disco Club (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
@@ -263,6 +260,9 @@ The Knife - Shaking the Habitual (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/f5aa8083-768e-495b-b7ce-0918cc9ff5d3/5445573385-500.jpg" data-tags="electronic, glitch" role="button">
+Baths - Obsidian (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)

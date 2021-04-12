@@ -1,12 +1,12 @@
 ---
-date: 2021-04-12T02:12:01.396Z
+date: 2021-04-12T19:33:01.463Z
 title: "rockabilly: 100 albums you must listen to before you die"
 ---
 ![Volbeat - Guitar Gangsters &amp; Cadillac Blood (2008-08-28)](http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg "Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/wSyQhOEOkeZrpWw3cZCB0vEAGEk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880902-1305451439.jpeg.jpg" data-tags="rockabilly" role="button">Stray Cats - Stray Cats (1981)</li>
 <li data-cover="http://coverartarchive.org/release/4aa8444f-1fb8-4cb4-af63-f49287808017/2410144596-500.jpg" data-tags="rockabilly" role="button">Carl Perkins - Carl Perkins (1985-10)</li>
-<li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">Volbeat - The Strength/The Sound/The Songs (2005-09-26)</li>
+<li data-cover="http://coverartarchive.org/release/647bdfce-8294-480a-b8fe-b331161e97de/3377211187-500.jpg" data-tags="rockabilly" role="button">Mike Ness - Cheating At Solitaire (1999-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/dcdd08b7-5d2a-4f1e-8506-73edf93dcf25/7213204580-500.jpg" data-tags="rockabilly, female vocalists" role="button">Imelda May - Love Tattoo (2007)</li>
 <li data-cover="http://coverartarchive.org/release/6865903e-1b14-45b1-bf4c-691ce3c2109c/3213873485-500.jpg" data-tags="heavy metal, metal, rockabilly" role="button">Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)</li>
 <li data-cover="http://coverartarchive.org/release/6972e801-09c8-4e16-a3ee-6084f6add45f/25924070770-500.jpg" data-tags="rockabilly" role="button">Kitty, Daisy & Lewis - Kitty, Daisy & Lewis (2008-07-28)</li>
@@ -48,12 +48,6 @@ Del Shannon - Runaway With Del Shannon (1961)
 <li data-cover="https://img.discogs.com/L7wIBoLPU1IXu9Gl3F4_j8kTVqM=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6923694-1507427219-2582.jpeg.jpg" data-tags="rockabilly, twist" role="button">
 Chubby Checker - Let's Twist Again (1961-06-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
-Roy Orbison - In Dreams (1963)
-</li>
-<li data-cover="http://coverartarchive.org/release/1697c288-fc02-4f69-adc0-a620ed877124/21286054887-500.jpg" data-tags="classic rock, rock n roll" role="button">
-Elvis Presley - Viva Las Vegas (1964-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/23b89c7e-e26e-3cfa-ab49-76fb5a63c17f/20896396142-500.jpg" data-tags="oldies" role="button">
 Roy Orbison - The All-Time Greatest Hits of Roy Orbison (1972)
 </li>
@@ -89,6 +83,9 @@ Carl Perkins - Carl Perkins (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7825a9b2-3abf-425a-b5d3-3cadf803be8d/2384597591-500.jpg" data-tags="rockabilly, oldies, 50s, carl perkins" role="button">
 Carl Perkins - Original Sun Greatest Hits (1986-06)
+</li>
+<li data-cover="https://img.discogs.com/qL7vXtYeQACKyZOUIAH2vz0WnMM=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220561-1297119090.jpeg.jpg" data-tags="oldies" role="button">
+The Everly Brothers - Everly Brothers 20 Greatest Hits (1988)
 </li>
 <li data-cover="https://img.discogs.com/QZJGr2czWaL1-LxbFNpFRWouKSw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7851007-1453341147-8013.jpeg.jpg" data-tags="oldies" role="button">
 The Everly Brothers - A Portrait Of... (1989)
@@ -183,6 +180,9 @@ Duane Eddy - Guitar Man (2001)
 <li data-cover="https://img.discogs.com/A-YU6qIvioDpHC-2CenEyTsEL5o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2335128-1586507310-5021.jpeg.jpg" data-tags="rockabilly" role="button">
 Devil Doll - Queen of Pain (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/0fcba009-0e48-4722-9f5a-fc4997c2f0a8/13884818097-500.jpg" data-tags="rockabilly" role="button">
+Wanda Jackson - Wanda Rocks (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/be9d7ae0-6604-43cf-930c-3648a919f4fc/19929323550-500.jpg" data-tags="country" role="button">
 Hank Williams III - Lovesick, Broke & Driftin' (2002-01)
 </li>
@@ -194,6 +194,12 @@ Stray Cats - Best Of The Stray Cats (2002-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfd7d63-d296-4390-9b92-5a94c197d908/22438166974-500.jpg" data-tags="rockabilly" role="button">
 Wanda Jackson - Heart Trouble (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/2dbd4384-9d2d-3661-8baf-a51d5e2e0162/1241606486-500.jpg" data-tags="rockabilly, rock, female vocalists, irish" role="button">
+Imelda May - No Turning Back (2003)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="elvis, country, blues" role="button">
+Elvis Presley - Best Of Artist Of The Century (2003-03-10)
 </li>
 <li data-cover="https://img.discogs.com/usQ1f9jHMGNiGFX3KWSikklVwHA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641793-1607201885-1134.jpeg.jpg" data-tags="rockabilly, rock" role="button">
 The Phenomenauts - Rockets And Robots (2003-07-01)
@@ -213,17 +219,11 @@ The Phenomenauts - Re-Entry (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/104570a9-4590-4170-b6dc-b0bfd03d6edc/2376211710-500.jpg" data-tags="rockabilly" role="button">
 Lee Rocker - The Curse of Rockabilly (2005)
 </li>
-<li data-cover="https://img.discogs.com/pz677plUUk-oBoGgdAXxatmMDqk=/fit-in/400x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583330-1291647122.jpeg.jpg" data-tags="rock, rockabilly, buddy holly" role="button">
-Buddy Holly - The Very Best of Buddy Holly (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled" role="button">
 Heavy Trash - Heavy Trash (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/da06d27c-ebad-465b-b6aa-b79daf8fcfa5/7668794668-500.jpg" data-tags="rockabilly, covers, neo-rockabilly, cover project, kittens and cats, tangleica ramones" role="button">
 Full Blown Cherry - Rockabilly Tribute to the Ramones (2005-09-13)
-</li>
-<li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
-Volbeat - The Strength/The Sound/The Songs (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a6f42b2-1ed9-4c49-8857-b6068213cbda/7867562117-500.jpg" data-tags="country" role="button">
 The BossHoss - Internashville Urban Hymns (2005-11-04)
@@ -234,14 +234,17 @@ Lee Rocker - Racin' the Devil (2006)
 <li data-cover="https://img.discogs.com/C9R5YENO0DoiAobO0d4-DbmA-Mc=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1145683-1277913339.jpeg.jpg" data-tags="rockabilly" role="button">
 The Living End - State of Emergency (2006-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e3422f7-8b33-4060-afd9-d4fa89637038/17055201595-500.jpg" data-tags="country" role="button">
-The BossHoss - Rodeo Radio (2006-05-19)
+<li data-cover="http://coverartarchive.org/release/e5dff1b6-b26f-4f25-82cb-5902999af48d/1925837136-500.jpg" data-tags="classic country" role="button">
+Jerry Lee Lewis - Last Man Standing (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcdd08b7-5d2a-4f1e-8506-73edf93dcf25/7213204580-500.jpg" data-tags="rockabilly, female vocalists" role="button">
 Imelda May - Love Tattoo (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/6865903e-1b14-45b1-bf4c-691ce3c2109c/3213873485-500.jpg" data-tags="heavy metal, metal, rockabilly" role="button">
 Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
+Dale Watson - From The Cradle To The Grave (2007-04-24)
 </li>
 <li data-cover="https://img.discogs.com/ZkpOyQ6vi539KWalU5fx1KoV4xY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-975876-1465381682-8453.jpeg.jpg" data-tags="rockabilly, experimental, rock & roll, to discover, ls parhaat julkaisut 2007" role="button">
 Two Lone Swordsmen - Wrong Meeting (2007-06-18)
@@ -293,9 +296,6 @@ Imelda May - Mayhem (2010-10-04)
 </li>
 <li data-cover="https://img.discogs.com/Z1kh4wChjz-bRl0r9NGNTVs7lyM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2942035-1308385461.jpeg.jpg" data-tags="rockabilly" role="button">
 Sallie Ford & The Sound Outside - Dirty Radio (2011)
-</li>
-<li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
-Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)
 </li>
 <li data-cover="https://img.discogs.com/eVbBE6pIUXMQ0tj7S1oCcHav7Bk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8601636-1539999982-7599.jpeg.jpg" data-tags="rock" role="button">
 Wanda Jackson - The Party Ain't Over (2011-01-24)

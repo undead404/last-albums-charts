@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:17:01.431Z
+date: 2021-04-12T18:48:01.579Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -102,9 +102,6 @@ Jimmy Bosch - Soneando Trombon (1998)
 <li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
-Big Punisher - Capital Punishment (1998-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
 La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
@@ -161,6 +158,9 @@ La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/56c57eda-b255-3626-9962-8cf341f4b50d/8669620484-500.jpg" data-tags="pop, spanish, latin" role="button">
 Christina Aguilera - Mi Reflejo (2000-09-12)
+</li>
+<li data-cover="https://img.discogs.com/hM_6qSebmM4T64c7iyhrUJW_o_c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270741-1248527600.jpeg.jpg" data-tags="cuban, latin" role="button">
+Rubén González - Chanchullo (2000-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)

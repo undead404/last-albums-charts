@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:36:01.660Z
+date: 2021-04-12T19:21:01.701Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -207,9 +207,6 @@ Evanescence - Anywhere but Home (2004-11-22)
 <li data-cover="https://img.discogs.com/Nt_WuXZUumK4deJtXAObOggv0d8=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3383753-1328457076.jpeg.jpg" data-tags="gothic metal" role="button">
 Sentenced - The Funeral Album (2005-05-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a94bce4d-ae54-4965-b388-c4c045d756ae/5086482774-500.jpg" data-tags="love metal" role="button">
 Him - Dark Light (2005-09-19)
 </li>
@@ -245,6 +242,9 @@ The 69 Eyes - Angels (2007-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)
+</li>
+<li data-cover="https://img.discogs.com/k1IyRqsVZjkfTBw8GG8E4gVIUyE=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2242668-1271875843.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
+Type O Negative - Dead Again (2007-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8af957f3-737f-4263-ad65-fbba13fc6f87/8034557938-500.jpg" data-tags="folk, folk rock, gothic rock" role="button">
 Letzte Instanz - Wir sind Gold (2007-03-23)

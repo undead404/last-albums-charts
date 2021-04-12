@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:29:01.453Z
+date: 2021-04-12T19:39:01.897Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -204,6 +204,9 @@ St. Vincent - Marry Me (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
 Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 </li>
+<li data-cover="https://img.discogs.com/Rr_fitRzKOg_5XRZqDOmQ-WJR94=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3104421-1315942802.jpeg.jpg" data-tags="indie, usa, solo, chamber pop, baroque pop, american, christian rock, 00s, american underground, creative commons, free music, solo artist, america, netaudio, experimental indie, one-man-band, free albums, free album, solo project, webaudio, usa underground" role="button">
+Canon Blue - Halcyon EP (2007-12-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
@@ -230,9 +233,6 @@ Theoretical Girl - Divided (2009-08-17)
 </li>
 <li data-cover="https://img.discogs.com/Xvt0O3nea3m5UxRftZdasQolCx0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58972-1307997369.jpeg.jpg" data-tags="indie pop" role="button">
 fun. - Aim and Ignite (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
-Dead Man's Bones - Dead Man's Bones (2009-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)

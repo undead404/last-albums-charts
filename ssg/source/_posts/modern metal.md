@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:14:18.198Z
+date: 2021-04-12T19:11:01.452Z
 title: "modern metal: 100 albums you must listen to before you die"
 ---
 ![In Flames - Sounds of a Playground Fading (2011-06-15)](http://coverartarchive.org/release/6f38a9f9-6538-4745-9dde-d00cacbe2dff/8273688325-500.jpg "In Flames - Sounds of a Playground Fading (2011-06-15)")
@@ -93,6 +93,9 @@ Deftones - B-Sides & Rarities (2005-10-04)
 <li data-cover="https://img.discogs.com/s1sOzMqp6XuYEul1nWaGzZpG-BY=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2183586-1283594387.jpeg.jpg" data-tags="korn" role="button">
 Korn - Twisted Transistor (2005-11-17)
 </li>
+<li data-cover="https://img.discogs.com/h3eXWIpas7Dr62fXamGwsKv_H0o=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5373776-1391794916-7160.jpeg.jpg" data-tags="melodic death metal, modern metal" role="button">
+Inexist - Relax and Feel Free (2006)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, post anal experience, modern metal, kircore" role="button">
 [AMATORY] - Книга мёртвых (2006)
 </li>
@@ -126,6 +129,9 @@ Horizon 8 - Horizon 8 (2008)
 <li data-cover="http://coverartarchive.org/release/eaf4ba5e-fd30-4e71-bc3d-17fea24a393e/21798413533-500.jpg" data-tags="melodic death metal" role="button">
 MyGrain - Signs of Existence (2008-02-13)
 </li>
+<li data-cover="https://img.discogs.com/IiTc8qWXHcZkLjddvC40GSx1doo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970848-1452671933-2169.jpeg.jpg" data-tags="melodic death metal, modern metal" role="button">
+Inexist - Навстречу Мечте (2008-03-18)
+</li>
 <li data-cover="https://img.discogs.com/7MCB54oWTdYRREAni23Tq0GhhK8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1317310-1559381593-5783.jpeg.jpg" data-tags="melodic death metal" role="button">
 Mercenary - Architect Of Lies (2008-03-21)
 </li>
@@ -146,9 +152,6 @@ Slipknot - Psychosocial (2008-08-21)
 </li>
 <li data-cover="https://img.discogs.com/Z-v_I4KsD2dNpNEZFsaDnIF4xiM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756214-1570692530-7401.jpeg.jpg" data-tags="metalcore, melodic death metal" role="button">
 Sonic Syndicate - Love and Other Disasters (2008-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/92115106-1170-3684-b196-20fd64420935/1086297251-500.jpg" data-tags="gothic metal" role="button">
-Unsun - The End Of Life (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/j7_pvKdifC8arem-FGYvywamLos=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3870869-1494517686-4364.jpeg.jpg" data-tags="alternative, industrial metal" role="button">
 Digimortal - Клетка Крови (2008-10-27)
@@ -174,9 +177,6 @@ Arkaea - Years in the Darkness (2009-06-14)
 <li data-cover="https://img.discogs.com/BH0QFIFG8oXVsMv-ZgGP1GlNXqI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375602-1280847218.jpeg.jpg" data-tags="metalcore, death metal" role="button">
 Divine Heresy - Bringer of Plagues (2009-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7500a15-ef79-3358-a990-684205c918b7/1019758085-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Indukti - Idmen (2009-07-27)
-</li>
 <li data-cover="https://img.discogs.com/d1f2f6c50c776450fdf23512dbd7301b20ea34dc/images/spacer.gif" data-tags="groove metal, lamb of god, modern metal" role="button">
 Dirge Within - Force Fed Lies (2009-08-31)
 </li>
@@ -197,6 +197,9 @@ Sybreed - The Pulse of Awakening (2009-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ef9e73b-aa09-4b73-98d3-684ed9b04515/1738804572-500.jpg" data-tags="alternative" role="button">
 ##### - Пандемия (2009-12-18)
+</li>
+<li data-cover="https://img.discogs.com/mkpnXu7yO0OvtUBAhbMTR1AgCkc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777482-1300573989.jpeg.jpg" data-tags="metalcore, metal, progressive metal, melodic death metal, german, modern metal, modern melodic death metal" role="button">
+Emergency Gate - The Nemesis Construct (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/1dcac911-cecf-4b87-908b-510ed129868d/1066731185-500.jpg" data-tags="power metal, modern metal" role="button">
 Raintime - Psychromatic (2010-03-16)
@@ -263,9 +266,6 @@ Mnemic - Mnemesis (2012-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1820e1d5-0412-4a41-b890-ee539f8cda11/2425508794-500.jpg" data-tags="metal, alternative metal, modern metal" role="button">
 Deftones - Leathers (2012-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/897905d8-576f-4841-a081-9bf24ce17251/7108515238-500.jpg" data-tags="metalcore" role="button">
-Motionless in White - Infamous (2012-11-12)
 </li>
 <li data-cover="https://img.discogs.com/oJXroBZFQKy1M1JspbzH3h4nrU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129815-1356282708-8880.jpeg.jpg" data-tags="modern metal" role="button">
 The Unguided - invaZion (2012-12-21)

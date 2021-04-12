@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:12:01.526Z
+date: 2021-04-12T19:32:01.462Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")

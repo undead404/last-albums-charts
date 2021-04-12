@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:14:01.457Z
+date: 2021-04-12T19:38:01.451Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -102,9 +102,6 @@ Pulp - This Is Hardcore (1998-03-18)
 <li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">
 Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
-Robbie Williams - I've Been Expecting You (1998-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/e440941e-42df-3a68-9e95-9b4b096d2cb4/1572841343-500.jpg" data-tags="britpop" role="button">
 Oasis - The Masterplan (1998-10-28)
 </li>
@@ -116,9 +113,6 @@ Blur - 13 (1999-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">
 Travis - The Man Who (1999-05-24)
-</li>
-<li data-cover="https://img.discogs.com/MRImJdottw_ihtI3vM-IfxwQlKE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-805737-1563297866-9515.jpeg.jpg" data-tags="britpop" role="button">
-Supergrass - Supergrass (1999-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a807034d-09ee-3d4c-9566-06d114c1fc6c/5710869185-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Standing on the Shoulder of Giants (2000-02-23)
@@ -141,6 +135,9 @@ Travis - The Invisible Band (2001-06-10)
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/d8f8d195-b0ce-43c7-9435-ad236478cf9c/17812400344-500.jpg" data-tags="britpop" role="button">
+Pulp - We Love Life (2001-10-22)
+</li>
 <li data-cover="https://img.discogs.com/JYweVK-MP3wZ3FKa9znVYZ8HtjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-665319-1214141347.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Think Tank (2002)
 </li>
@@ -155,6 +152,9 @@ Robbie Williams - Escapology (2002-11-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">
 Pulp - Hits (2002-11-18)
+</li>
+<li data-cover="https://img.discogs.com/7fMoVdRzShMHLtFB7yakPQ7hzEE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494268-1518444143-6579.jpeg.jpg" data-tags="indie" role="button">
+Athlete - Vehicles & Animals (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/hbOAG3Ic7GeK9dMEWfMYOzKBJgM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684540-1435487995-6290.jpeg.jpg" data-tags="rock, indie rock, indie, britpop" role="button">
 Stereophonics - You Gotta Go There to Come Back (2003-05-28)
@@ -183,6 +183,9 @@ Graham Coxon - Happiness In Magazines (2004-05-04)
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf92d8e3-eaf4-4e10-b77a-81064a810cb0/8129222906-500.jpg" data-tags="indie rock" role="button">
+Kasabian - Kasabian (2004-08-25)
+</li>
 <li data-cover="https://img.discogs.com/bCvo0u-fI1fMoH0mlxLYtvXgbiQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386356-1503234124-5162.jpeg.jpg" data-tags="britpop" role="button">
 Embrace - Out of Nothing (2004-09-13)
 </li>
@@ -194,9 +197,6 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/526b1aea-47d2-4e65-92c4-668a5523b99a/5679584618-500.jpg" data-tags="britpop, indie" role="button">
 Thirteen Senses - The Invitation (2005-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0ba7c08-6c6b-37f3-b9e6-4cbcd4669e5e/13933926349-500.jpg" data-tags="indie rock" role="button">
-Doves - Some Cities (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
@@ -243,9 +243,6 @@ Kasabian - Empire (2006-08-25)
 <li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
 The Fratellis - Costello Music (2006-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
 Oasis - Stop the Clocks (2006-11-15)
 </li>
@@ -264,6 +261,9 @@ Kaiser Chiefs - Yours Truly, Angry Mob (2007-02-23)
 <li data-cover="https://img.discogs.com/nmM1U3DYX_Qh985bIxtRQL9zvuk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1002272-1460092546-5073.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Editors - An End Has A Start (2007-04-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/7af2a8e1-5c2f-3994-9cf8-8fbadc8d5e59/21538494781-500.jpg" data-tags="rock" role="button">
+Manic Street Preachers - Send Away the Tigers (2007-04-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/9531dc7b-dca8-373c-b41f-94bee7b4c661/25387153577-500.jpg" data-tags="britpop" role="button">
 Travis - The Boy With No Name (2007-05-02)
 </li>
@@ -272,6 +272,9 @@ Stereophonics - Pull the Pin (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/64a3d0dc-f407-32f3-956d-116bfb24de0c/17454285949-500.jpg" data-tags="indie, indie pop, britpop" role="button">
 One Night Only - Started A Fire (2008-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">
+Duffy - Rockferry (2008-03-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie" role="button">
 Elbow - The Seldom Seen Kid (2008-03-17)
@@ -302,9 +305,6 @@ Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9394804c-b1f7-4ff1-9539-8f996a7feb7b/15824307211-500.jpg" data-tags="rock, coldplay, britpop" role="button">
 Coldplay - Every Teardrop Is a Waterfall (2011-06-03)

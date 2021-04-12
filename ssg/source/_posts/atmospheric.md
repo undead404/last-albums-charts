@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:24:01.416Z
+date: 2021-04-12T19:09:01.459Z
 title: "atmospheric: 100 albums you must listen to before you die"
 ---
 ![Bat for Lashes - Two Suns (2009-04-03)](http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg "Bat for Lashes - Two Suns (2009-04-03)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5da3d47c-29d6-3269-8ce8-df4668a737a9/9153707030-500.jpg" data-tags="electronic, new age, krautrock, space" role="button">
-Tangerine Dream - Alpha Centauri (1971-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
 </li>
@@ -38,6 +35,9 @@ Eloy - Ocean (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - I Robot (1977-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/90c91598-6c50-4b2e-a198-13ccff4bca45/22729382753-500.jpg" data-tags="classic rock, progressive rock, art rock, rock" role="button">
+Manfred Mann's Earth Band - Watch (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
@@ -60,17 +60,14 @@ Enya - Shepherd Moons (1991-11-04)
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bf29e42-a5c4-44fe-a3e0-29b11c2e8091/5877225471-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
-Summoning - Minas Morgul (1995-10-16)
-</li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7eb0aaaa-8c6d-4f00-8093-5a1ce4c2e53c/22731801358-500.jpg" data-tags="classic rock, rock, progressive rock, prog, epic, symphonic rock, atmospheric, art rock, progressive, symphonic prog" role="button">
 Manfred Mann's Earth Band - The Best of Manfred Mann's Earth Band (1996-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5188c17-b8a6-32ed-9c2c-32f0404f20a8/13522514205-500.jpg" data-tags="gothic metal" role="button">
-Moonspell - Sin / Pecado (1997)
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Liquid Mind - Slow World (1996-07-23)
 </li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
@@ -117,6 +114,9 @@ Flëur - Волшебство (2004-01-27)
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">
 The Album Leaf - In A Safe Place (2004-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
+Autolux - Future Perfect (2004-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/3d0bbe09-4ee7-4d54-a9aa-3acbad6b453d/2684791024-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Drudkh - Autumn Aurora (2004-11-28)
 </li>
@@ -129,8 +129,8 @@ Télépopmusik - Angel Milk (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/7f1e0988-5fe2-4e4c-9a74-6b4136d451e3/1238392358-500.jpg" data-tags="ambient" role="button">
 Hammock - Kenotic (2005-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
-Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
+<li data-cover="https://img.discogs.com/GNy-hr1Lq9RQv9BmlGkxYmVHEz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439321-1217714234.jpeg.jpg" data-tags="alternative" role="button">
+Piano Magic - Disaffected (2005-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb71e741-6836-4803-8ef4-acf941a09cff/20604365596-500.jpg" data-tags="ambient, atmospheric" role="button">
 Rudy Adrian - MoonWater (2006)
@@ -143,9 +143,6 @@ Sonic Youth - Rather Ripped (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
-M. Ward - Post-War (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
@@ -161,9 +158,6 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
@@ -204,8 +198,8 @@ The American Dollar - Ambient One (2009-06-27)
 <li data-cover="http://coverartarchive.org/release/c4e3a36b-60eb-4fe7-ae13-ecce3c7175c0/11692476772-500.jpg" data-tags="atmospheric, space music" role="button">
 Max Corbacho - Ars Lucis (2009-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/90f3d67b-96c9-43ba-b2f8-d46289545e6a/12577277568-500.jpg" data-tags="progressive metal, doom metal" role="button">
-Katatonia - Night is the New Day (2009-11-02)
+<li data-cover="http://coverartarchive.org/release/491cef37-e511-4951-a5c1-acc1e702992d/9405480084-500.jpg" data-tags="post-rock" role="button">
+Blueneck - The Fallen Host (2009-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -267,6 +261,9 @@ Sigur Rós - Valtari (2012-05-23)
 <li data-cover="http://coverartarchive.org/release/cfc72078-0fee-40ec-a3fc-fbd2f08d0097/4860101960-500.jpg" data-tags="atmospheric, neoclassical" role="button">
 Arcana - As Bright As A Thousand Suns (2012-05-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d99a7b7-edc7-4b75-914c-248e0b02c5ea/1371441962-500.jpg" data-tags="chill, dreamy, atmospheric, relaxing, sleepy, drifting, dreaming, ocean, enchanting, undersea, the antlers" role="button">
+The Antlers - Drift Dive (2012-06-26)
+</li>
 <li data-cover="https://img.discogs.com/VxPOyi7QR_pWBZEx5PK6K6Syo0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3970280-1350934522-3015.jpeg.jpg" data-tags="ambient, experimental, progressive metal, shoegaze, atmospheric, post-hardcore, mathcore, avant-garde metal, green metal, lolwut, trannys" role="button">
 Exotic Animal Petting Zoo - Tree of Tongues (2012-07-17)
 </li>
@@ -281,6 +278,9 @@ The xx - Coexist (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a108c85a-336e-4d7e-993b-e266e878b39d/5042708107-500.jpg" data-tags="shoegaze" role="button">
 Black Marble - A Different Arrangement (2012-10-09)
+</li>
+<li data-cover="https://img.discogs.com/oPdkVK-vqlTllji4AJeFIWuofo8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275033-1360420938-2039.jpeg.jpg" data-tags="icelandic" role="button">
+Sin Fang - Flowers (2013-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebc6e131-2301-480c-ad3f-4e0b790dcf05/5974509150-500.jpg" data-tags="software" role="button">
 Autre Ne Veut - Anxiety (2013-02-26)

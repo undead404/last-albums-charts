@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:10:01.761Z
+date: 2021-04-12T19:07:01.458Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/U16K6bY295VYcszrFtyPmyt503g=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362355-1487661669-8081.jpeg.jpg" data-tags="heavy metal" role="button">
+Savatage - Hall of the Mountain King (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/7365bb36-ce85-4472-9cd2-8aaf6e793e6e/7844379965-500.jpg" data-tags="speed metal" role="button">
 Blind Guardian - Battalions Of Fear (1988-02-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/66f04e92-afc7-3266-bc60-c31c9b456223/5414654724-500.jpg" data-tags="speed metal" role="button">
+Blind Guardian - Follow The Blind (1989-04-14)
 </li>
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">
 Gamma Ray - Heading For Tomorrow (1990-02-19)
@@ -30,41 +36,41 @@ Gamma Ray - Heading For Tomorrow (1990-02-19)
 <li data-cover="http://coverartarchive.org/release/d3b576ce-d867-4f65-8c7d-127da06b41a7/1211399834-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Pantera - Cowboys From Hell (1990-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae908c04-9df5-4f10-8036-95c6733e2aa5/1280872808-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Tales From The Twilight World (1990-09-21)
-</li>
 <li data-cover="https://img.discogs.com/Yrw5riiqgi8_R9X8mhYGqKxE2Fg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5951190-1407186042-3873.jpeg.jpg" data-tags="power metal, thrash metal" role="button">
 Iced Earth - Iced Earth (1990-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c31686ee-fa0c-3768-9339-09e913147253/1282237285-500.jpg" data-tags="power metal, heavy metal, thrash metal" role="button">
 Iced Earth - Night of the Stormrider (1991-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ea0a72-1d34-4172-95d9-36c8f305ab12/27527815932-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Somewhere Far Beyond (1992-06-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/050e7238-9751-4521-91b6-89c672eac590/6734728782-500.jpg" data-tags="power metal" role="button">
 Angra - Angels Cry (1993-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9a52529-ad38-3dcc-bfc7-cc68c0963925/3167546175-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Fourth Dimension (1995-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ed7f38a-8560-3b38-9929-e16a068ec713/7490434909-500.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Burnt Offerings (1995-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/de0d36bc-fce4-4e93-afd1-08f9ebbdd775/6867304773-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Imaginations From The Other Side (1995-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/b77474b9-d4a5-4e54-9376-376be8f91e37/10070900174-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Land of the Free (1995-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0c5444b-1aaa-366b-b69a-06cf191cc3e4/10946690608-500.jpg" data-tags="progressive metal" role="button">
+Symphony X - The Divine Wings Of Tragedy (1996)
 </li>
 <li data-cover="https://img.discogs.com/vbdrkLzTvR2_GgbnxsKrDAbI91U=/fit-in/476x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4913814-1391351829-7493.jpeg.jpg" data-tags="power metal" role="button">
 Helloween - The Time Of The Oath (1996-02-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - The Forgotten Tales (1996-04-18)
+<li data-cover="http://coverartarchive.org/release/e2279f39-ec58-3ec2-8c70-be4f084b0e6e/19296369854-500.jpg" data-tags="power metal" role="button">
+Angra - Holy Land (1996-03-23)
 </li>
 <li data-cover="https://img.discogs.com/Ehg1UWIR2LOFYC-zR-eaywAAbik=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6774225-1443346722-5599.jpeg.jpg" data-tags="power metal" role="button">
 Stratovarius - Episode (1996-04-24)
 </li>
 <li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
 Iced Earth - The Dark Saga (1996-05-20)
+</li>
+<li data-cover="https://img.discogs.com/NheRDeHKG7PdNvMubMobfZXXm6s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2497299-1287251404.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Kingdom of Madness (1997-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff322ef-5dac-4129-b67a-b101c30efaca/4259294119-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Something Wild (1997-02-16)
@@ -83,9 +89,6 @@ Angra - Fireworks (1998-02-09)
 </li>
 <li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
 Helloween - Better Than Raw (1998-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5c27001-6dba-31a8-9f71-d50d89b0348b/7450806557-500.jpg" data-tags="power metal, heavy metal" role="button">
 Iced Earth - Something Wicked This Way Comes (1998-06-17)
@@ -141,14 +144,8 @@ Gamma Ray - No World Order (2001-09-10)
 <li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
 Edguy - Mandrake (2001-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - A Night at the Opera (2002-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/48f96bea-8bb4-4522-ad41-497590121c7b/14160241341-500.jpg" data-tags="power metal, heavy metal" role="button">
-Dream Evil - Dragonslayer (2002-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
-Manowar - Warriors of the World (2002-05-27)
+<li data-cover="https://img.discogs.com/ITP7gH9tn2Nh1MkEiiqyn-eHuOg=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10522368-1499173104-3124.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+Iced Earth - Tribute to the Gods (2001-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">
 Freedom Call - Eternity (2002-06-03)
@@ -156,20 +153,17 @@ Freedom Call - Eternity (2002-06-03)
 <li data-cover="https://img.discogs.com/1-vKmbyVlW9TN7B4y9NS6WEd-zs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8359429-1460066424-8916.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
 HammerFall - Crimson Thunder (2002-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/293d5933-603c-3b34-80cc-da9c45532af0/5969856443-500.jpg" data-tags="progressive metal" role="button">
+Symphony X - The Odyssey (2002-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa0410bd-35e3-43de-aa19-efa559a485b3/3192372073-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Hate Crew Deathroll (2003-01-06)
 </li>
 <li data-cover="https://img.discogs.com/EebFe5We3UO2zqXT6tD2nar8ZbQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3856397-1347059602-8973.jpeg.jpg" data-tags="power metal" role="button">
 Masterplan - Masterplan (2003-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/652d0615-7a3a-45ff-a25a-e93a7debf66f/14160274851-500.jpg" data-tags="power metal, heavy metal" role="button">
-Dream Evil - Evilized (2003-01-21)
-</li>
 <li data-cover="https://img.discogs.com/lTfVC2Yd0qirT1ojk-KSuJmIBlk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132626-1317270178.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Valley of the Damned (2003-01-27)
-</li>
-<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
-Helloween - Rabbit Don't Come Easy (2003-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a451a0f9-d759-4fc6-8a10-3b9794e9216c/10591666065-500.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Takatalvi (2003-11-21)
@@ -207,6 +201,9 @@ HammerFall - Chapter V: Unbent, Unbowed, Unbroken (2005-03-02)
 <li data-cover="http://coverartarchive.org/release/47332f21-e56f-485f-a353-df65e2478e49/5389029177-500.jpg" data-tags="power metal" role="button">
 Sabaton - Primo Victoria (2005-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/0e712b27-7ab5-4737-83d4-8fa92d8a2ecd/6607036593-500.jpg" data-tags="power metal" role="button">
+Kiuas - The Spirit Of Ukko (2005-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
@@ -221,6 +218,9 @@ Stratovarius - Stratovarius (2005-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - Majestic (2005-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/91610e04-7e1a-4ff3-a4a9-1aaf85af2210/16291593393-500.jpg" data-tags="power metal" role="button">
+Primal Fear - Seven Seals (2005-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
@@ -237,8 +237,11 @@ Children of Bodom - Are You Dead Yet? (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/8f2602ad-224e-42d1-ad43-186883766a95/22298558263-500.jpg" data-tags="power metal" role="button">
 HammerFall - Threshold (2006-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/aadad9c8-6abd-4b27-816b-1c904c58533d/1484443030-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - A Twist in the Myth (2006-08-30)
+<li data-cover="https://img.discogs.com/m3r8qJcR7FdUcUZSRuLi0N34AJE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6422814-1419703949-2616.jpeg.jpg" data-tags="power metal" role="button">
+Angra - Aurora Consurgens (2006-10-24)
+</li>
+<li data-cover="https://img.discogs.com/VNu3si4B-I4RDfrHVV1JW5z6FwE=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538380-1226925625.jpeg.jpg" data-tags="power metal, a cappella metal" role="button">
+Van Canto - A Storm to Come (2006-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/31f67aec-002f-4b54-9aec-ae39095c7992/22559397129-500.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Unia (2007-05-23)
@@ -297,6 +300,9 @@ Powerwolf - Blood of the Saints (2011-07-29)
 <li data-cover="http://coverartarchive.org/release/7f25344f-f18f-44ad-8764-e366eb09b776/7497289831-500.jpg" data-tags="power metal" role="button">
 Iced Earth - Dystopia (2011-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/c709f2af-6a3a-4859-abb0-c978ea1508f6/26037955374-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Nemesis (2012-02-20)
+</li>
 <li data-cover="https://img.discogs.com/lTfVC2Yd0qirT1ojk-KSuJmIBlk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132626-1317270178.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - The Power Within (2012-04-11)
 </li>
@@ -306,9 +312,6 @@ Sonata Arctica - Stones Grow Her Name (2012-05-18)
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
 Sabaton - Carolus Rex (2012-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
-Wintersun - Time I (2012-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
@@ -317,8 +320,5 @@ Sabaton - Heroes (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/688c6472-0cb6-4f11-92be-c2685ce33702/8049734118-500.jpg" data-tags="folk metal, power metal" role="button">
 Alestorm - Sunset on the Golden Age (2014-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e9772d7-04c9-471d-b9e4-f5f90724b8ee/9026038350-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - Beyond the Red Mirror (2015-01-28)
 </li>
 </ol>

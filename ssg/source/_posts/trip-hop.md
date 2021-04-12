@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:57:01.533Z
+date: 2021-04-12T19:35:01.451Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -189,9 +189,6 @@ Kosheen - Kokopelli (2003-08-11)
 <li data-cover="http://coverartarchive.org/release/65ae7726-7129-4456-ac20-e3e0e84e1f05/26300515610-500.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b2b78290-b041-4cdb-8355-7f8090ff7485/21687038310-500.jpg" data-tags="trip-hop" role="button">
-Lamb - Between Darkness And Wonder (2003-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
 </li>
@@ -251,6 +248,9 @@ UNKLE - War Stories (2007-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
 Stateless - Stateless (2007-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
+Sia - Some People Have Real Problems (2008-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a188e6af-c574-4702-972d-1942eeb9cf8b/4196199949-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Dive Deep (2008-02-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:15:01.859Z
+date: 2021-04-12T19:23:01.686Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -21,18 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
-Augustus Pablo - King Tubbys Meets Rockers Uptown (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/258b807c-f1dd-43b1-9777-478c0cf39cfb/4301423098-500.jpg" data-tags="dub" role="button">
-King Tubby - King Tubbys Meets Rockers Uptown (1976)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
-The Upsetters - Super Ape (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/24cc86e2-343b-4555-bfa1-76b515c20531/16135860847-500.jpg" data-tags="reggae" role="button">
-The Congos - Heart Of The Congos (1977)
-</li>
 <li data-cover="https://img.discogs.com/NB6MT1rB6twKTfgyBiQMRJKAd6I=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-222956-1598288698-9582.jpeg.jpg" data-tags="post-punk" role="button">
 The Slits - Cut (1979-09)
 </li>
@@ -42,14 +30,11 @@ Augustus Pablo - East of the River Nile (1981)
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
 </li>
-<li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
-Gregory Isaacs - Night Nurse (1982)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub, roots reggae" role="button">
-Black Uhuru - The Dub Factor (1983-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/9853cab8-4aab-4eab-89b9-f15a451b1483/8914627228-500.jpg" data-tags="izrael" role="button">
 Izrael - Nabij Faje (1986)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a39f8b2-6052-3e2d-bd0f-8c2571b1bcc2/9007515633-500.jpg" data-tags="classic rock, rock, reggae, dub, mj-island dreamin, yes i" role="button">
+UB40 - Rat In The Kitchen (1986-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/81af43bf-9a91-492e-8f0e-f7c39cff2eae/6766903757-500.jpg" data-tags="dub" role="button">
 African Head Charge - Songs of Praise (1990-01-01)
@@ -71,6 +56,9 @@ Zion Train - Homegrown Fantasy (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f10f30-50ae-402e-a50f-af7c3c6b6e57/4596446793-500.jpg" data-tags="dub" role="button">
 Massive Attack - No Protection (1995-02-17)
+</li>
+<li data-cover="https://img.discogs.com/rHBYepuyVvkyHR88FIu7n82onfE=/fit-in/283x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69401-1094717310.jpg.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Karmacoma (1995-03-20)
 </li>
 <li data-cover="https://img.discogs.com/ZxOyV_5ITeXdUQrDn0IWjAIKljA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54444-1494833577-4517.jpeg.jpg" data-tags="dub" role="button">
 Rockers Hi-Fi - Mish Mash (1996)
@@ -95,9 +83,6 @@ Zenzile - Dub Promozione (1998)
 </li>
 <li data-cover="https://img.discogs.com/rN4GNXEsq4lA9sAM3H2fXG-k-e4=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503803-1287600332.jpeg.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - It Takes a Thief (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
-Roots Manuva - Brand New Second Hand (1999-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
 Peace Orchestra - Peace Orchestra (1999-09-01)
@@ -141,6 +126,9 @@ High Tone - Bass Temperature (2001-10-15)
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
+<li data-cover="https://img.discogs.com/fBvJcOP8K7ynx4x8jkue-IVEgLw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270590-1546872784-9751.jpeg.jpg" data-tags="reggae, dub, ska" role="button">
+The Upsetters - Return of Django: The Best of The Upsetters (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b7e707b-a505-4159-ab4b-aec5c5a858bc/10868120725-500.jpg" data-tags="dub" role="button">
 High Tone - Acid Dub Nucleik (2002-04-22)
 </li>
@@ -162,9 +150,6 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/99e39642-cae5-4061-9800-751108bc650b/6477557415-500.jpg" data-tags="dub, ambient" role="button">
 Ott - Blumenkraft (2003-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/720cfd47-fc81-4286-9b47-f1cec5accd46/4679224653-500.jpg" data-tags="dub" role="button">
-Rhythm & Sound - w/ the Artists (2003-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
 The Expendables - Gettin' Filthy (2004)
 </li>
@@ -179,9 +164,6 @@ Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7e29218-e94e-47ec-8a23-b80688cc06f7/11812641396-500.jpg" data-tags="dub" role="button">
 Kukan dUb Lagan - Life Is Nice (2004-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a9a5fed-9652-4e14-b893-61ff47880b96/1238386147-500.jpg" data-tags="dub, good shit, roots reggae, must see live, giant panda guerilla dub squad" role="button">
-Giant Panda Guerilla Dub Squad - SLOW DOWN (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/394616df-4fa3-4799-a354-933063050392/4289639683-500.jpg" data-tags="dub, reggae" role="button">
 Groundation - Dub Wars (2005-01)
@@ -213,9 +195,6 @@ Bluetech - Sines and Singularities (2005-12-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Long Beach Shortbus - Flying Ship of Fantasy (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/77b77c76-1b2d-41e9-bde0-b8d4ef6ec593/3646110240-500.jpg" data-tags="electronic" role="button">
-B. Fleischmann - The Humbucking Coil (2006-02-20)
-</li>
 <li data-cover="https://img.discogs.com/7hBvtSGXXfpx63GGx4RykOdukKI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819892-1428613859-2436.jpeg.jpg" data-tags="dub, fusion" role="button">
 Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
 </li>
@@ -227,6 +206,9 @@ Rebelution - Rebelution (2006-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/86fdaaa0-09db-480c-ad77-7b2a58aed2be/14746157740-500.jpg" data-tags="rock, experimental, dub" role="button">
 Dub Trio - New Heavy (2006-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/552aedd6-05e7-46a4-bdac-ebf06be94d06/2698016881-500.jpg" data-tags="chillout, downtempo, ambient, psychill" role="button">
+Kuba - Inside Out (2006-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
@@ -245,6 +227,9 @@ Collie Buddz - Collie Buddz (2007-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/72f3570d-eb75-351d-9f10-2b5963142c83/27660843870-500.jpg" data-tags="ambient, orb" role="button">
 The Orb - The Dream (2007-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8f83c74-bac2-4efb-ab55-4cf3e7a69051/1330658682-500.jpg" data-tags="dub" role="button">
+Zenzile - Living in Monochrome (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b342391-8172-4579-9668-09535698f6ae/18273571975-500.jpg" data-tags="reggae, dub, dancehall reggae" role="button">
 Chezidek - Inna Di Road (2007-09-21)
@@ -273,6 +258,9 @@ Forfun - Polisenso (2008-11-15)
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/1fa3e5de-3aee-445f-94de-20d51796816f/21676034251-500.jpg" data-tags="reggae, dub, electro, world, norteño, aj playlist" role="button">
+Bomba Estéreo - Blow Up (2009)
+</li>
 <li data-cover="https://img.discogs.com/nm60ZSy0RSuTi0Pd9CLXzFAYazo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1846535-1436105410-4304.jpeg.jpg" data-tags="dub, psychedelic, drone, space rock, tropical, neo-psychedelia, acid rock, prda, dub rock, not not fun records, sun ark records" role="button">
 Sun Araw - Heavy Deeds (2009-06-22)
 </li>
@@ -287,6 +275,9 @@ Flux Pavilion - Got 2 Know / Normalize (2010-05-20)
 </li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
 Anika - Anika (2010-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+SOJA - Strength To Survive (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1329a36-0ad1-4bb9-8024-b579c15c4d17/1266208666-500.jpg" data-tags="dub" role="button">
 Peaking Lights - 936 (2011-02-08)
@@ -312,6 +303,9 @@ King Krule - King Krule (2011-11-08)
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
 Santigold - Master of My Make-Believe (2012-04-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/c309b5b3-4483-47a4-aa88-4f38a9e6f402/2945748636-500.jpg" data-tags="dub, macumba da boa" role="button">
+Curumin - Arrocha (2012-06-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/9908e1ef-2ec0-40c7-baeb-68c1754441db/22886156272-500.jpg" data-tags="dub, house, electro house" role="button">
 OVERWERK - After Hours (2012-11-28)
 </li>
@@ -320,5 +314,11 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/62626e7f-a10e-409c-a4fc-36deaf4f5a13/5750409674-500.jpg" data-tags="dub" role="button">
 Fat Freddy's Drop - Blackbird (2013-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/3882751a-1ae8-43d7-800e-53f3e411bd5a/6088821965-500.jpg" data-tags="experimental" role="button">
+Forest Swords - Engravings (2013-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/1918d939-c0c0-4f15-a394-cc87c8b1f104/9947565067-500.jpg" data-tags="reggae, dub, 10s, soja" role="button">
+SOJA - Amid The Noise And Haste (2014-08-12)
 </li>
 </ol>

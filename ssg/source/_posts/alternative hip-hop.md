@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:32:01.580Z
+date: 2021-04-12T19:12:07.222Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -7,10 +7,10 @@ title: "alternative hip-hop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c6647f41-74bf-4eab-b4ab-5f7fa32ae7aa/15794553870-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">Dilated Peoples - 20/20 (2006-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">Flobots - Fight With Tools (2007-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
-<li data-cover="http://coverartarchive.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f/1674767529-500.jpg" data-tags="rap, horrorcore" role="button">Tyler, the Creator - Bastard (2009-12-25)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
 <li data-cover="http://coverartarchive.org/release/4b694997-ffff-4e17-b3fa-2eff8fd5e30e/10588245317-500.jpg" data-tags="nozi mc, russian, alternative hip-hop" role="button">Noize MC - Последний Альбом (2010-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">Santigold - Master of My Make-Believe (2012-04-21)</li>
+<li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">C2C - Tetra (2012-08-03)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">Tyler, the Creator - Wolf (2013-04-01)</li>
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
+<li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
+Main Source - Breaking Atoms (1991-07-23)
+</li>
 <li data-cover="https://img.discogs.com/yHfAagQxkLUKSbPunOauh4xD12c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5408733-1392627713-8707.jpeg.jpg" data-tags="hip hop, hiphop" role="button">
 A Tribe Called Quest - Revised Quest for the Seasoned Traveller (1992-11-16)
 </li>
@@ -32,9 +35,6 @@ Funkdoobiest - Which Doobie U B? (1993-05-04)
 </li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6fe239-d416-4dbb-9f80-86cd5d6428f9/22927814474-500.jpg" data-tags="rap" role="button">
-Funkdoobiest - Brothas Doobie (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
 The Psycho Realm - The Psycho Realm (1997-10-28)
@@ -84,6 +84,9 @@ Talib Kweli - Quality (2002-11-18)
 <li data-cover="https://img.discogs.com/RyfpWzVEXxoUu2jAOi7i0MczKNo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6320447-1416399159-6393.jpeg.jpg" data-tags="hip hop, alternative hip-hop" role="button">
 The Grouch & Eligh - No More Greener Grasses (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1f7a14b-b892-40a7-a5d1-e0a572c10d4e/18242329525-500.jpg" data-tags="german" role="button">
+Puppetmastaz - Creature Funk (2003-01-27)
+</li>
 <li data-cover="https://img.discogs.com/nCjk3Pxqzl51cxGyoUkRP8l8Izk=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3037179-1312812154.jpeg.jpg" data-tags="underground hip-hop, k-hiphop, alternative hip-hop, korean hip-hop" role="button">
 Epik High - Map of the Human Soul (2003-10-21)
 </li>
@@ -92,9 +95,6 @@ Immortal Technique - The Silenced Revolution (2004)
 </li>
 <li data-cover="https://img.discogs.com/xdYNTGT-Q2m47QmLbwzyEuL7zII=/fit-in/472x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3243290-1378870863-5538.jpeg.jpg" data-tags="hip-hop, rock" role="button">
 Everlast - White Trash Beautiful (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
-Dilated Peoples - Neighborhood Watch (2004-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6fe60e-7e41-4f08-ba55-382dfffe59e9/14273145727-500.jpg" data-tags="hip-hop, hip hop, rap, jazz fusion, alternative hip-hop" role="button">
 Lootpack - The Lost Tapes (2004-04-13)
@@ -108,11 +108,11 @@ Strange Fruit Project - Soul Travelin' (2004-05-15)
 <li data-cover="http://coverartarchive.org/release/c723208b-989f-41fb-bb63-235b1bbc3830/6854999473-500.jpg" data-tags="polish" role="button">
 Łona - Nic Dziwnego (2004-05-20)
 </li>
+<li data-cover="https://img.discogs.com/5rF6lJ5tRtHifu-2FNmcAiKQ0C0=/fit-in/500x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3041443-1404796123-7293.jpeg.jpg" data-tags="k-hiphop, alternative hip-hop, korean hip-hop" role="button">
+Epik High - High Society (2004-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/693379ce-68dc-4db4-b377-30a8247a529b/4801859145-500.jpg" data-tags="hip-hop" role="button">
 Viktor Vaughn - Venomous Villain (2004-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Mos Def - The New Danger (2004-10-12)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
@@ -120,14 +120,14 @@ MF DOOM - MM..Food (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
 CunninLynguists - A Piece of Strange (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc879fc4-6855-43f7-afe6-ee8437fda951/15079203249-500.jpg" data-tags="hip-hop, underground hip-hop, conscious hip-hop" role="button">
-Common Market - Common Market (2005)
-</li>
-<li data-cover="https://img.discogs.com/VlXTau7FjwjD25UR11xmseduAug=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-317568-1241211810.jpeg.jpg" data-tags="hip-hop, abstract hip-hop, experimental hip-hop" role="button">
-Dälek - Absence (2005-01-26)
-</li>
 <li data-cover="https://img.discogs.com/lgHgh8vCg-GD94E7lya4KOA_xSA=/fit-in/470x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2923753-1307512573.jpeg.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Weerd Science - Friends And Nervous Breakdowns (2005-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7155f6b9-ae2d-4676-8c72-79d00b889f2e/7905632862-500.jpg" data-tags="hip hop, rap" role="button">
+Tech N9ne - Vintage Tech (2005-03-22)
+</li>
+<li data-cover="https://img.discogs.com/00jA3cuFBa3NnvQcolHexAT_LGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767315-1350841553-5521.jpeg.jpg" data-tags="hip hop" role="button">
+Ugly Duckling - Bang For The Buck (2005-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6647f41-74bf-4eab-b4ab-5f7fa32ae7aa/15794553870-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - 20/20 (2006-02-21)
@@ -155,6 +155,9 @@ Talib Kweli & Madlib - Liberation (2006-12-31)
 </li>
 <li data-cover="https://img.discogs.com/MxIEbXM2FfNC6CFSi0FE9fuaamE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1122226-1193789791.jpeg.jpg" data-tags="hip hop, rock, alternative, alternative hip-hop" role="button">
 Aesop Rock - All Day: Nike+ Original Run (2007-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a210faf-67a1-49b0-92d6-e70eaf50cd80/22348881026-500.jpg" data-tags="hip-hop, hip hop, soul, alternative, funk, r&b, alternative hip-hop, babygrande" role="button">
+Sa-Ra - The Hollywood Recordings (2007-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/af41a978-6f41-466c-9db8-63d3936193d2/18899274102-500.jpg" data-tags="hip hop" role="button">
 Dilated Peoples - The Release Party (2007-07-31)
@@ -216,9 +219,6 @@ Wale - Attention Deficit (2009-11-10)
 <li data-cover="http://coverartarchive.org/release/acc876c8-0c22-4c65-bbce-920d8a49eef9/8977335496-500.jpg" data-tags="hip hop, dancehall, alternative hip-hop" role="button">
 3oda Kru - Parchastyczny mikstejp (2009-12-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f/1674767529-500.jpg" data-tags="rap, horrorcore" role="button">
-Tyler, the Creator - Bastard (2009-12-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
@@ -248,9 +248,6 @@ Aer - The Reach (2011)
 </li>
 <li data-cover="https://img.discogs.com/gPyYTAhmT-SyeMSguqoahNxLpEw=/fit-in/463x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841187-1373451969-3806.jpeg.jpg" data-tags="hip-hop, trip-hop, rap, piano, atmospheric, alternative hip-hop" role="button">
 Ассаи - ОМ (2011)
-</li>
-<li data-cover="http://coverartarchive.org/release/c643ae6b-5907-4d2b-ba77-4ed178426652/22556648412-500.jpg" data-tags="abstract hip-hop" role="button">
-макулатура - осень (2011)
 </li>
 <li data-cover="https://img.discogs.com/QmiZqmwmdfr392KBGMCPo0Ln3ZQ=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2665892-1562547335-3836.jpeg.jpg" data-tags="hip hop, rap" role="button">
 Talib Kweli - Gutter Rainbows (2011-01-25)
@@ -317,6 +314,9 @@ Kid Cudi - Indicud (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee46bb1-a40f-4208-8bcc-a8c31a67adbc/6408762583-500.jpg" data-tags="hip-hop, hip hop, rap, alternative hip-hop, jazz hip-hop, mac miller" role="button">
 Mac Miller - Live From Space (2013-12-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/a40dc6aa-ac6a-4421-a44b-65bc3ff6f795/6580935919-500.jpg" data-tags="hip-hop" role="button">
+Kid Cudi - Satellite Flight: The Journey to Mother Moon (2014-02-25)
 </li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
