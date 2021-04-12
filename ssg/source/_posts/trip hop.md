@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:33:01.401Z
+date: 2021-04-12T10:57:18.235Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -186,9 +186,6 @@ Faithless - Forever Faithless: The Greatest Hits (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d07019d-3a22-3902-a9ee-da69fe228d70/6538061295-500.jpg" data-tags="house, electronic, breakbeat, downtempo" role="button">
-deadmau5 - Get Scraped (2005-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
 </li>
@@ -236,6 +233,9 @@ Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
 <li data-cover="https://img.discogs.com/Ij9_-V2V66TXYTqAltb6FwGbUuE=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993183-1505176615-6453.jpeg.jpg" data-tags="trip-hop, progressive rock" role="button">
 Archive - Controlling Crowds (2009-03-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/fff6387a-2359-498c-8da3-82ba43c27f45/17108282805-500.jpg" data-tags="electronic, trip-hop, down tempo, trip hop, down-tempo, downtempo electronica, downtempo jazz, downtempo electronic" role="button">
+Gramatik - Water 4 The Soul (2009-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/46e02dda-058d-4226-a356-76b6bfdd5790/3246429137-500.jpg" data-tags="industrial" role="button">
 Puscifer - "C" Is for (Please Insert Sophomoric Genitalia Reference Here) E.P. (2009-11-10)

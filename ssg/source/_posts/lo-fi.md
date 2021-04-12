@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:07:01.404Z
+date: 2021-04-12T10:58:01.452Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -56,6 +56,9 @@ Cat Power - Myra Lee (1996-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
+Eels - Beautiful Freak (1996-08-05)
 </li>
 <li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
@@ -125,9 +128,6 @@ Grizzly Bear - Yellow House (2006-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/06c1defa-eb6b-48d0-8284-b2a891af46f6/21234669416-500.jpg" data-tags="lo-fi" role="button">
 Matt & Kim - Matt & Kim (2006-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">
-The Antlers - In The Attic of The Universe (2007-03-31)
 </li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)

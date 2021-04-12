@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T10:22:01.403Z
+date: 2021-04-12T11:38:01.409Z
 title: "modern rock: 100 albums you must listen to before you die"
 ---
 ![Mat Kearney - City Of Black &amp; White (2009-05-19)](https://img.discogs.com/WpcLlPnfaVQmpGjEeIBvw92-Du8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198889-1358372989-7472.jpeg.jpg "Mat Kearney - City Of Black & White (2009-05-19)")
@@ -26,9 +26,6 @@ Nine Inch Nails - Down in It (1989-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8efff778-8da9-441c-b2a7-1374da31426b/10149276948-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Head Like a Hole (1990-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/91f744a9-83ff-4136-a570-956284fe0453/26961386827-500.jpg" data-tags="britpop" role="button">
-The Charlatans - Some Friendly (1990-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf8461-c80d-4172-9fb4-0da88ecea44e/10149325893-500.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Sin (1990-10-10)
@@ -114,8 +111,14 @@ Sahara Hotnights - Jennie Bomb (2001-05-28)
 <li data-cover="http://coverartarchive.org/release/3f8d05d8-721c-4f02-bafe-8e7a86ba8490/10976525258-500.jpg" data-tags="rock, finnish" role="button">
 The Rasmus - Into (2001-09-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
+Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/b31c4dcd-4074-4e29-ab09-e8321d57f086/19351966139-500.jpg" data-tags="psychedelic" role="button">
 Dead Meadow - Howls From the Hills (2001-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/fc99ab8c-ee7f-4954-857a-d26e27c5cd6c/20690913352-500.jpg" data-tags="heavy metal" role="button">
+Saxon - Heavy metal thunder (2002)
 </li>
 <li data-cover="https://img.discogs.com/4iVcdo_rEcq6zrSE5BjHjlyH1qQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593962-1586191495-6359.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 12 Stones - 12 Stones (2002-04-23)
@@ -131,9 +134,6 @@ A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/938cf7ac-7c63-391b-9e55-0d3d09e5294d/1883381895-500.jpg" data-tags="rock, indie, alternative" role="button">
 Kings of Leon - Holy Roller Novocaine (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b5c07ee-7f9d-34ed-8bf7-fecaedc3de6c/1608167979-500.jpg" data-tags="rock" role="button">
-Everclear - Slow Motion Daydream (2003-03-11)
 </li>
 <li data-cover="https://img.discogs.com/sGynbsmk6XE4XNtG3tLO-2jHWnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4079146-1465313674-6247.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - 8 Great Hits (2003-11-03)
@@ -189,6 +189,9 @@ Arctic Monkeys - Five Minutes With Arctic Monkeys (2005-05-30)
 <li data-cover="https://img.discogs.com/1xz_ufQ67xvtT8B50jawxS4N2cI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643002-1142376404.jpeg.jpg" data-tags="00s" role="button">
 The Ordinary Boys - Brassbound (2005-06-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b231c25-d76e-4de6-a1be-d3a68e7ed1ae/20012167843-500.jpg" data-tags="indie, rock, alternative, indie rock, post-rock, post-punk, american, modern rock, 00s" role="button">
+Chin Up Chin Up - Chin Up Chin Up (2005-08-09)
+</li>
 <li data-cover="https://img.discogs.com/RS-5L0LyUEnhxEqlcuQ46RrV_fY=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7972129-1452706453-5341.jpeg.jpg" data-tags="alternative rock, modern rock, tag, podsafe music network, discoverockult" role="button">
 Black Lab - See The Sun (2005-10-04)
 </li>
@@ -203,9 +206,6 @@ Mainstay - Well Meaning Fiction (2006-02-21)
 </li>
 <li data-cover="https://img.discogs.com/gpxmCvbMTCBf_A62dUGyuk8lnQ8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-709401-1380547578-9100.jpeg.jpg" data-tags="rock" role="button">
 Primal Scream - Riot City Blues (2006-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/47fc9d3a-c6f9-43d4-80ab-b3448fb5460b/15535168668-500.jpg" data-tags="rock, ska, ska punk" role="button">
-Catch 22 - Permanent Revolution (2006-06-27)
 </li>
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)
@@ -288,6 +288,9 @@ Dead Letter Circus - This Is The Warning (2010-05-14)
 <li data-cover="http://coverartarchive.org/release/35f04d2c-647f-4daa-82a1-b00c4dccc8d3/1398810457-500.jpg" data-tags="christian rock" role="button">
 The Afters - Light Up the Sky (2010-09-14)
 </li>
+<li data-cover="https://img.discogs.com/I-aYHTY737wCaWKrX53u7vU2DH0=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523661-1333820755.jpeg.jpg" data-tags="punk" role="button">
+New Medicine - Race You To The Bottom (2010-09-28)
+</li>
 <li data-cover="https://img.discogs.com/hdxXT1xrY255OUTasU8R7fI-CNg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938999-1471866096-2433.jpeg.jpg" data-tags="alternative rock, alternative metal, modern rock" role="button">
 Our Waking Hour - Seconds To Save Her (2011-06-14)
 </li>
@@ -296,9 +299,6 @@ Memory of a Melody - Things That Make You Scream (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
 Marianas Trench - Ever After (2011-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/81b57103-c09f-4468-9ac6-71ed895119b1/3922037232-500.jpg" data-tags="rock, alternative rock" role="button">
-Poets of the Fall - Temple of Thought (2012-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5744c21-6ec5-4960-aaea-2960cc904897/6752044868-500.jpg" data-tags="alternative rock, christian rock, modern rock" role="button">
 Anberlin - Dancing Between the Fibers of Time (2012-03-26)

@@ -1,11 +1,10 @@
 ---
-date: 2021-04-12T04:33:01.410Z
+date: 2021-04-12T11:42:06.987Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">Deer Tick - War Elephant (2007)</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
@@ -14,6 +13,7 @@ title: "singer songwriter: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">Phosphorescent - Muchacho (2013-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
+<li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,8 +30,8 @@ Joni Mitchell - 1972-02-23: New York, NY, USA (1972)
 <li data-cover="http://coverartarchive.org/release/5a9a59d6-6490-4735-bd48-19d7fb38ff06/1239649144-500.jpg" data-tags="rock" role="button">
 Elton John - Honky Château (1972-05-19)
 </li>
-<li data-cover="https://img.discogs.com/bcD_aod8YjifqA8PU5Uz0T-Temk=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1578931-1405199934-3417.jpeg.jpg" data-tags="classic rock, rock, glam rock" role="button">
-David Essex - Rock On (1973)
+<li data-cover="http://coverartarchive.org/release/b22e7c8e-c49b-31b6-a62d-99f1a92ebc71/28951619137-500.jpg" data-tags="pop, soft rock, singer songwriter, chris de burgh" role="button">
+Chris de Burgh - Far Beyond These Castle Walls (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
@@ -53,9 +53,6 @@ The Rolling Stones - Made In The Shade (1975-06-13)
 </li>
 <li data-cover="https://img.discogs.com/iU4lgW6x6rpKAS6bq5f0QOR6e4w=/fit-in/297x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1548702-1227617857.jpeg.jpg" data-tags="singer songwriter" role="button">
 Todd Rundgren - Faithful (1976-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b66973ae-deb4-4bc6-a232-31a5837ec21d/3808493783-500.jpg" data-tags="classic rock, rock" role="button">
-Warren Zevon - Excitable Boy (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ff9102f-ffc1-4947-946f-a646482c9ead/11483590500-500.jpg" data-tags="hard rock, rock" role="button">
 Alice Cooper - From the Inside (1978-11)
@@ -138,6 +135,9 @@ Eels - Electro-Shock Blues (1998-09-21)
 <li data-cover="https://img.discogs.com/bc_M_0j8qZTn3PmsrElDR7WhnIo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5931337-1468593009-7013.jpeg.jpg" data-tags="indie rock, scottish" role="button">
 Arab Strap - Mad For Sadness (1999-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/28e3311d-5abd-410e-ae5c-621ead5a909b/15296892269-500.jpg" data-tags="norwegian" role="button">
+Kari Bremnes - Norwegian Mood (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd7859da-63b8-46d0-b811-e05e11a2c1c2/24875604394-500.jpg" data-tags="rock, 2000s" role="button">
 Warren Zevon - Life'll Kill Ya (2000-01-25)
 </li>
@@ -153,6 +153,15 @@ Boz Scaggs - Dig (2001-09-11)
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/74ac874b-eba6-4aff-8502-132b0c14b422/26302484638-500.jpg" data-tags="2000s" role="button">
+Warren Zevon - My Ride's Here (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/278fe842-04f7-42c8-83e6-37efc1f90b28/25168511323-500.jpg" data-tags="folk, celtic" role="button">
+Damh the Bard - Herne's Apprentice (2002-02-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Marc Broussard - Momentary Setback (2002-09-03)
+</li>
 <li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
 </li>
@@ -161,9 +170,6 @@ Patrick Wolf - Lycanthropy (2003-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/265da9ab-a9b1-4362-af6f-24cc0770539f/10954310724-500.jpg" data-tags="rock" role="button">
 Peter Frampton - Now (2003-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/e318e125-53a5-42ec-987b-3b05aa46b325/14141866528-500.jpg" data-tags="rock" role="button">
-Warren Zevon - The Wind (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/62010681-0670-4261-9149-d2d86a83d28b/15850637628-500.jpg" data-tags="alternative rock" role="button">
 Hawksley Workman - Lover/Fighter (2003-10-06)
@@ -198,14 +204,14 @@ Johnny Cash - The Essential Johnny Cash (2006)
 <li data-cover="http://coverartarchive.org/release/2129d4db-2711-40df-816c-e66efefefd6b/12321636891-500.jpg" data-tags="singer-songwriter, milow" role="button">
 Milow - The Bigger Picture (2006-01-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/594b6f42-f0dd-4a86-9335-5642818d85d4/19118639943-500.jpg" data-tags="alternative, singer songwriter" role="button">
+The Fine Arts Showcase - Radiola (2006-02-15)
+</li>
 <li data-cover="https://img.discogs.com/UWSP4g7ZoDRv8oHrao9IirRXews=/fit-in/335x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159429-1197015364.jpeg.jpg" data-tags="rock, canadian, mellow" role="button">
 Hawksley Workman - Treeful Of Starling (2006-02-28)
 </li>
 <li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
 Steve Adey - All Things Real (2006-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/c81d1401-0cdf-4fed-9978-def03b67e6ee/21213491147-500.jpg" data-tags="rock, alternative rock, progressive rock, guitar, singer songwriter, song noir, the devil and the deep blue sea, just another folk singer, the merch grrls" role="button">
-Tim Easton - Ammunition (2006-05-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
@@ -219,11 +225,8 @@ Kendall Payne - Paper Skin (2007)
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">
 Deer Tick - War Elephant (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce581068-c886-3ca7-b273-c1ea553eb45d/3779573244-500.jpg" data-tags="indie" role="button">
-Emily Haines & The Soft Skeleton - What Is Free to a Good Home? (2007-05-15)
-</li>
-<li data-cover="https://img.discogs.com/UIkhOw5uXUhHu3T3_enAaw4-J68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4515619-1367083131-2150.jpeg.jpg" data-tags="singer songwriter" role="button">
-Milow - Coming Of Age (2008-02-01)
+<li data-cover="https://img.discogs.com/US3kUwqokNp96EJ11p1ou3fdwno=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1112452-1384252545-4374.jpeg.jpg" data-tags="classic rock, rock" role="button">
+Ray Davies - Working Man's Café (2007-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/824311b1-51f1-408c-a0c2-74da59e15e57/15054738548-500.jpg" data-tags="lo-fi" role="button">
 Kurt Vile - Constant Hitmaker (2008-03-11)
@@ -246,17 +249,14 @@ Julie Peel - Near the Sun (2009-06)
 <li data-cover="http://coverartarchive.org/release/35d8d5a1-b2c4-4a68-8325-3279c6c11f65/17653240314-500.jpg" data-tags="jace everett" role="button">
 Jace Everett - Red Revelations (2009-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
+<li data-cover="http://coverartarchive.org/release/c47b4c04-e2fa-4887-8812-2843be5760e9/28377767354-500.jpg" data-tags="alternative rock, singer songwriter" role="button">
+Michael Gira - I am Not Insane (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/247b99d1-fad8-4720-a206-f967e94a8670/6252082859-500.jpg" data-tags="pop, indie, female vocalists" role="button">
 Amy Macdonald - A Curious Thing (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
-</li>
-<li data-cover="https://img.discogs.com/gpNfrhqERhf4QaB29DuRA_aTqYE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654360-1596027420-6179.jpeg.jpg" data-tags="indie, alternative, folk, americana, blues, london, england, alt-country, folk rock, singer songwriter, 6music, female vocal, jack white, chichester, head, v2, bbc6, third man records, richard hawley, cooperative music, v2 records, brian ferry, smoke fairies, time for a clearout, hotel room, jassica davies, katherine blamire, sawmills, strange moon rising" role="button">
-Smoke Fairies - Through Low Light And Trees (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dddb06c-9763-488f-bb3d-c89a72bcedf8/6531947728-500.jpg" data-tags="folk, indie" role="button">
 Passenger - Flight of the Crow (2010-09-24)

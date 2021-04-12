@@ -1,19 +1,19 @@
 ---
-date: 2021-04-11T20:54:01.425Z
+date: 2021-04-12T10:56:01.503Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">Phoenix - United (2000-06)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">Phoenix - Alphabetical (2004-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
+<li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">Phoenix - It's Never Been Like That (2006-05-10)</li>
-<li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">Air - Pocket Symphony (2006-12)</li>
-<li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)</li>
+<li data-cover="http://coverartarchive.org/release/e03c4b7c-8905-3a0f-88a0-39d3790d99ab/24223406985-500.jpg" data-tags="french" role="button">Sébastien Tellier - Sexuality (2008-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
+<li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">Phoenix - Bankrupt! (2013-04-19)</li>
+<li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">Daft Punk - Random Access Memories (2013-05-17)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,14 +36,8 @@ Stereolab - Emperor Tomato Ketchup (1996-03-18)
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f1d1cd5-9d9c-40cb-ad6c-ef84b622d1af/1149227374-500.jpg" data-tags="chillout, electronic, electronica, french, ambient, sun and moon and stars and outer space" role="button">
-Air - Le Soleil Est Près De Moi (1997-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
-Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb844a4d-c02f-3199-b949-1656b36722da/8145217760-500.jpg" data-tags="house" role="button">
 Cassius - 1999 (1999-01-25)
@@ -56,9 +50,6 @@ Alizée - Gourmandises (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
 Laurent Garnier - Unreasonable Behaviour (2000-02-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
-Air - The Virgin Suicides (2000-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
 Phoenix - United (2000-06)
@@ -81,9 +72,6 @@ Yann Tiersen - Amélie (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
-</li>
 <li data-cover="https://img.discogs.com/QqXS7OsVdR7bFXntX1A8GRMqi3k=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400223-1488524850-5489.jpeg.jpg" data-tags="rock, french, rock francais" role="button">
 Noir Désir - des Visages des Figures (2001-09-11)
 </li>
@@ -105,6 +93,9 @@ Dionysos - Western Sous La Neige (2002-03-05)
 <li data-cover="https://img.discogs.com/wJR05WoknYFTK0ULbCWEd_UrEsI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602757-1137256458.jpeg.jpg" data-tags="indie pop" role="button">
 Tahiti 80 - Wallpaper For The Soul (2002-09-19)
 </li>
+<li data-cover="https://img.discogs.com/IbFE1f8WXTOLVv3qAcf8E6mrhTs=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1665126-1483912438-9569.jpeg.jpg" data-tags="electronic, electro, house" role="button">
+Cassius - Au Reve (2002-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb150add-fee7-4dc6-a725-030fe6e93ae4/1512679712-500.jpg" data-tags="rock" role="button">
 Kyo - Le Chemin (2002-11)
 </li>
@@ -123,17 +114,23 @@ Daft Punk - Daft Club (2003-11-27)
 <li data-cover="http://coverartarchive.org/release/25a12bd5-d4e8-442c-9500-5e0020b8e1c3/10860404768-500.jpg" data-tags="french, ruiz, emilie, selection france, la femme chocolat" role="button">
 Olivia Ruiz - J'Aime Pas L'Amour (2003-12-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">
-Sébastien Tellier - Politics (2004-01-05)
+<li data-cover="https://img.discogs.com/oXJ9xb8SGU547_k83l5Hsu2Itlg=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620045-1490962324-9951.jpeg.jpg" data-tags="french, pop rap" role="button">
+K-Maro - La Good Life (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
-Air - Talkie Walkie (2004-01-21)
+<li data-cover="https://img.discogs.com/95qltZWYT3KzLqO9Ybk6XuEmDvQ=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2431321-1485412944-8601.jpeg.jpg" data-tags="french, chanson" role="button">
+Nino Ferrer - Nino Ferrer (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ae59a90-6a70-3305-a527-6b8bfb1c39bd/8464425666-500.jpg" data-tags="french" role="button">
 Jane Birkin - RENDEZ-VOUS (2004-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/93d658fc-11d7-37b5-98ca-895168cb0d4a/8604852741-500.jpg" data-tags="french, rock, rock francais" role="button">
+Déportivo - Parmi eux (2004-05-04)
+</li>
+<li data-cover="https://img.discogs.com/mpiDj-n5fPD-0_tA1hNazFz8St4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120466-1287198836.jpeg.jpg" data-tags="ska" role="button">
+Babylon Circus - Dances of Resistance (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/df3fac3a-e4fc-4d8c-954c-47e72ebd8db3/9951733908-500.jpg" data-tags="french, female vocalists, female vocalist, girl power, pifou station, rock francais, light pop, lolitas, chanteuse sexy, scene francaise" role="button">
 Superbus - Pop'N'Gum (2004-06)
@@ -143,6 +140,9 @@ Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
 <li data-cover="https://img.discogs.com/MGPDbH-ahnTs2ettL-wVTmOPuXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9401145-1479911459-2505.jpeg.jpg" data-tags="french" role="button">
 Camille - Le Fil (2005-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
+Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b502429-072f-4c58-97b4-6547310d9f4a/16183335644-500.jpg" data-tags="electronica, french" role="button">
 Tahiti 80 - Fosbury (2005-02-23)
@@ -165,6 +165,9 @@ Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
+<li data-cover="https://img.discogs.com/ASeroQUfD0aGP6R7jv7nqw7MNRo=/fit-in/578x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973999-1255248828.jpeg.jpg" data-tags="french, electro" role="button">
+Revolte - Fucking On Music (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd/2734388850-500.jpg" data-tags="french, pop, indie pop, singer-songwriter, jazz-pop, nouvelle scène française, streamable album wants, je devrais avoir mon enfer de la caresse, francophonie, for a sleepy sunday morning" role="button">
 Emily Loizeau - L'Autre Bout Du Monde (2006-02-28)
 </li>
@@ -180,8 +183,8 @@ Cassius - 15 Again (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/7e441bb4-dd36-4191-9eb0-6001fdcb098d/14024298903-500.jpg" data-tags="french, rock" role="button">
 Yann Tiersen - On Tour (2006-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
-Air - Pocket Symphony (2006-12)
+<li data-cover="http://coverartarchive.org/release/6c2b8218-20b2-4d20-99e8-b18719a91995/6380558904-500.jpg" data-tags="french, alternative rap" role="button">
+TTC - 36 15 TTC (2006-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc4d4a96-ce43-4943-b842-fa2fd8f056eb/3296666852-500.jpg" data-tags="french" role="button">
 Dionysos - Monsters In Love (2007-01-08)
@@ -237,17 +240,11 @@ Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/237da257-e914-4cf7-8294-1c49b3d0d236/15794266436-500.jpg" data-tags="hip-hop, french, hip hop, rap, 00s, france, lyrical genius, loved album" role="button">
 Orelsan - Perdu d'Avance (2009-02-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
-Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/34375ad9-5765-4894-810c-bb457f60b702/3832887948-500.jpg" data-tags="french, electropop, horses and ponies and unicorns too" role="button">
 Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d09651d7-63be-4603-9849-32781bfe5c70/6110608721-500.jpg" data-tags="electronic, french" role="button">
-Air - Love 2 (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/811cb6bf-c2fe-47f9-96f5-2c0ca62aea65/4241392062-500.jpg" data-tags="female vocalist" role="button">
 Zaz - Je Veux (2010-02-22)
@@ -320,5 +317,8 @@ French Montana - Excuse My French (2013-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcc44d38-7b10-4c61-af3a-413df2a3b3e9/7437861623-500.jpg" data-tags="pop" role="button">
 Christine and the Queens - Chaleur humaine (2014-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/030d3eb4-0fd2-480b-9b69-43cff2857173/11608570157-500.jpg" data-tags="french, electro-dub, dub-electro rock" role="button">
+EZ3kiel - LUX (2014-11-10)
 </li>
 </ol>

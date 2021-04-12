@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:12:01.602Z
+date: 2021-04-12T11:40:01.430Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -29,6 +29,9 @@ Nick Drake - Bryter Layter (1970-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/dbab3550-2635-4f48-a459-8e29fcd48056/26741104951-500.jpg" data-tags="female vocalists, singer-songwriter, folk, acoustic" role="button">
+Tracy Chapman - Crossroads (1989-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
@@ -251,9 +254,6 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/65fabf97-67bf-4f88-84a0-b8ef0a4de144/19588262528-500.jpg" data-tags="folk rock" role="button">
-Isbells - Isbells (2009-10-23)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)

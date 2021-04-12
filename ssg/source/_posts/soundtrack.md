@@ -1,17 +1,17 @@
 ---
-date: 2021-04-12T01:03:01.417Z
+date: 2021-04-12T11:27:01.420Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">The Beatles - Yellow Submarine (1969-01-13)</li>
 <li data-cover="https://img.discogs.com/MC6Qr43m3UtgFc1YvkWW2AI4mRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2966893-1415299360-3990.jpeg.jpg" data-tags="soundtrack" role="button">Vangelis - Blade Runner (1993-12)</li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">Thomas Newman - American Beauty (2000-01-11)</li>
-<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
-<li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">Eddie Vedder - Into the Wild (2007-09-14)</li>
+<li data-cover="http://coverartarchive.org/release/dc77999c-ebb4-4ad0-a8d4-8a3aa503eaaa/5502447388-500.jpg" data-tags="soundtrack" role="button">Hans Zimmer - Inception (2010-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg" data-tags="electronic, soundtrack" role="button">Daft Punk - TRON: Legacy (2010-12-06)</li>
 <li data-cover="http://coverartarchive.org/release/d46315d7-ad4e-48af-80e7-75b41c28053d/3227188018-500.jpg" data-tags="soundtrack, commercial, 10s, 2010s, lord of the rings, tolkien, stunning, soulless, uninspired, jrr tolkien, hobbit radio" role="button">Howard Shore - The Hobbit: An Unexpected Journey (2012-11-13)</li>
 </ol>
@@ -39,6 +39,9 @@ Ennio Morricone - Once Upon a Time in the West (1970)
 <li data-cover="https://img.discogs.com/swGT1nv0ioAMaziS63UYEO4l9xs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057089-1278573014.jpeg.jpg" data-tags="soundtrack, soul, funk" role="button">
 Isaac Hayes - Shaft (1971-07-02)
 </li>
+<li data-cover="https://img.discogs.com/kOWJpUyL3F_FpQ3HdX3TzTL03so=/fit-in/538x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393159-1176250241.jpeg.jpg" data-tags="soundtrack, reggae, reggae-pop, desert island discs, pitchfork 70s, rs 500 best, sjc" role="button">
+Various Artists - The Harder They Come (1972-07-07)
+</li>
 <li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
@@ -65,6 +68,9 @@ Jan Hammer - Escape From Television (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2b725f-c3dd-41c2-b98d-e42f027fbe1c/3768060682-500.jpg" data-tags="musical, soundtrack" role="button">
 Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f0e6c69-cd39-4a23-96b6-86bb77a003e1/4456245095-500.jpg" data-tags="soundtrack" role="button">
+Various Artists - Dirty Dancing (1987-08-04)
 </li>
 <li data-cover="https://img.discogs.com/wNegC7-JxaAHzGEbh6TrPiDxS0s=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557218-1484150433-9328.jpeg.jpg" data-tags="soundtrack" role="button">
 Ennio Morricone - The Good, the Bad and the Ugly (1989)
@@ -102,6 +108,9 @@ Various Artists - Pulp Fiction (1994-09-27)
 <li data-cover="https://img.discogs.com/i8NZiY7KlpLABimO7S5O3cQH9eA=/fit-in/600x808/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7636878-1595014027-9723.jpeg.jpg" data-tags="soundtrack" role="button">
 James Horner - Braveheart (1995-05-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/711946e6-0c3e-3b60-92dd-20e3ced9d0e5/6087710143-500.jpg" data-tags="electronic, ambient" role="button">
+Passengers - Original Soundtracks 1 (1995-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
 Various Artists - The Lion King (1997-11-14)
 </li>
@@ -122,9 +131,6 @@ The Dust Brothers - Fight Club (1999-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">
 Thomas Newman - American Beauty (2000-01-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
-Air - The Virgin Suicides (2000-02-25)
 </li>
 <li data-cover="https://img.discogs.com/mjjBxjilzai8Lg9Dc3Qq7gQqc04=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1861164-1256085468.jpeg.jpg" data-tags="soundtrack" role="button">
 Björk - Selmasongs (2000-08-30)
@@ -216,12 +222,6 @@ Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the W
 <li data-cover="http://coverartarchive.org/release/f142c220-050f-4c8a-be9d-2cdc818376be/21236770976-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Da Vinci Code (2006-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e514a7f6-34a6-4327-b218-8e490e99b5c0/8258928983-500.jpg" data-tags="soundtrack, orchestral, globus" role="button">
-Globus - Epicon (2006-08-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">
-Tenacious D - The Pick of Destiny (2006-09-26)
-</li>
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
 </li>
@@ -251,6 +251,9 @@ Eddie Vedder - Into the Wild (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/51a3e743-15e7-41f2-b333-7a5d90695c3a/853853080-500.jpg" data-tags="soundtrack" role="button">
 Steve Jablonsky - Transformers: The Score (2007-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/51392bf7-adaf-4c93-8f81-4f49d09fea2d/8258208354-500.jpg" data-tags="soundtrack" role="button">
+Jonny Greenwood - There Will Be Blood (2007-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
@@ -290,9 +293,6 @@ Daft Punk - TRON: Legacy (2010-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">
 C418 - Minecraft - Volume Alpha (2011-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
-Darren Korb - Bastion Original Soundtrack (2011-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdf6a6f-8677-4598-a475-a8aa2d8bfe43/1674518181-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Archangel (2011-09-20)

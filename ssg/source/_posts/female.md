@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:07:01.430Z
+date: 2021-04-12T11:35:01.416Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -117,6 +117,9 @@ Entwine - Time of Despair (2002-04-22)
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/51ce4f62-5b11-41c5-847e-a2799bfb1153/15445563588-500.jpg" data-tags="acoustic, folk rock, ani difranco" role="button">
+Ani DiFranco - So Much Shouting, So Much Laughter (2002-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
 Rilo Kiley - The Execution of All Things (2002-10-01)
 </li>
@@ -153,11 +156,11 @@ Céline Dion - 1 fille & 4 types (2003-10-14)
 <li data-cover="https://img.discogs.com/O5LxXdNho2lXDt3ioVMXVKH9aD8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2598767-1476194806-3076.jpeg.jpg" data-tags="female, pop, soul, american, male vocalist, 00s, beat, bubblegum, boy" role="button">
 Nick Lachey - Soulo (2003-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
-Hanne Hukkelberg - Little Things (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
+</li>
+<li data-cover="https://img.discogs.com/e912qrOd4otrTGXFzAlyA8eDNc8=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2926815-1307657118.jpeg.jpg" data-tags="worship" role="button">
+Bethany Dillon - Bethany Dillon (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
@@ -200,9 +203,6 @@ Tori Amos - The Beekeeper (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/zmvB4AIt9xAyyf0aizmrnIn0zvE=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520207-1288515935.jpeg.jpg" data-tags="pop" role="button">
 Sugababes - Taller in More Ways (2005-10-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
-Maria Peszek - Miasto Mania (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8def818-9c85-3cf8-b0d8-2508538be228/7222599765-500.jpg" data-tags="pop" role="button">
 Anastacia - Pieces of a Dream (2005-11-07)

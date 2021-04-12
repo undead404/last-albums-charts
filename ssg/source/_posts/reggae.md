@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:54:01.402Z
+date: 2021-04-12T11:29:01.402Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/346d6784-4108-4ec2-a40b-3500c56d4f08/16612065220-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Catch A Fire (1973-04-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9494ecbb-965e-3d14-b69a-ec5628f8f13f/1325508258-500.jpg" data-tags="reggae" role="button">
 The Wailers - Burnin' (1973-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e34dc9d-6ddd-45d2-8e06-e466db9f2b5c/1774890562-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Natty Dread (1974-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/253141a6-5eef-4205-a8e9-2a7d1cfecafb/14856274413-500.jpg" data-tags="reggae, roots reggae" role="button">
 The Abyssinians - Satta Massagana (1975)
@@ -41,12 +35,6 @@ Bob Marley & The Wailers - Live! (1975-12-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - Legalize It (1976)
-</li>
-<li data-cover="https://img.discogs.com/__0aUi3zxVZV17xa9s1DusPZbDQ=/fit-in/507x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-163696-1306322423.jpeg.jpg" data-tags="reggae" role="button">
-Max Romeo & The Upsetters - War Ina Babylon (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/265eee3a-4911-4b31-9c4d-1c02e5506412/27192834336-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Rastaman Vibration (1976-04-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - Equal Rights (1977)
@@ -120,6 +108,9 @@ Sublime - 40 Oz. to Freedom (1992)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley - Songs of Freedom (1992-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/397c5c1b-d7fb-3ec9-b49d-10e08bb24011/6735875421-500.jpg" data-tags="reggae" role="button">
+UB40 - Promises And Lies (1993-07-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ad64552-1b61-4a7d-97cf-c8ec1cf46530/5216864402-500.jpg" data-tags="reggae, punk, dub" role="button">
 Sublime - Robbin' The Hood (1994-02-08)
 </li>
@@ -131,6 +122,9 @@ Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/28e7a3e1-b4ba-4f58-a9e5-fa6d5936d5bc/2038812187-500.jpg" data-tags="alternative rock, rock" role="button">
 311 - 311 (1995-07-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Peter Tosh - The Gold Collection (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
@@ -198,6 +192,9 @@ Seeed - Music Monks (2003-05-12)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
+The Expendables - Gettin' Filthy (2004)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Barrington Levy - Here I Come (2004)
 </li>
@@ -254,6 +251,9 @@ Rihanna - A Girl Like Me (2006-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Ziggy Marley - Love Is My Religion (2006-07-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Passafire - Passafire (2006-08)
 </li>
 <li data-cover="https://img.discogs.com/tCOn4wAL3rvCewYqfO4cLnE2nz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-762503-1539810241-4437.jpeg.jpg" data-tags="reggae, german, funk" role="button">
 Jan Delay - Mercedes Dance (2006-08-04)

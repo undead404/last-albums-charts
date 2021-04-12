@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:46:06.942Z
+date: 2021-04-12T10:53:02.826Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -258,6 +258,9 @@ Bad Religion - New Maps of Hell (2007-07-04)
 <li data-cover="http://coverartarchive.org/release/855ddbf1-f8f8-4801-b3ec-486768aba72f/10496597840-500.jpg" data-tags="rock, alternative rock, punk rock, nu metal, melodic hardcore, skate punk, hardcore punk, rap metal, oi, charlie brown" role="button">
 Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
 </li>
+<li data-cover="https://img.discogs.com/rs5B6eqcs87nHqA9WBkpn8qo5u0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10608268-1500857602-6600.jpeg.jpg" data-tags="hardcore, nyhc" role="button">
+Agnostic Front - Warriors (2007-11-09)
+</li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
 </li>
@@ -302,9 +305,6 @@ Your Demise - The Kids We Used To Be... (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9459556b-8fa5-47a2-b78c-4588d42486f7/3325028050-500.jpg" data-tags="post-hardcore" role="button">
 Alexisonfire - Dog's Blood EP (2010-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
-Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c040773a-9768-4328-8095-e5c08bec91d2/12077625512-500.jpg" data-tags="emo, post-hardcore, melodic hardcore" role="button">
 Basement - I Wish I Could Stay Here (2011-06-05)

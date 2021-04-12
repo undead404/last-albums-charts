@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:26:07.098Z
+date: 2021-04-12T11:04:01.486Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -210,6 +210,9 @@ Slayer - God Hates Us All (2001-08-29)
 <li data-cover="http://coverartarchive.org/release/0ae31164-0811-48b4-85a3-5763dcf8493c/25711256662-500.jpg" data-tags="power metal" role="button">
 Gamma Ray - No World Order (2001-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/68e89d3f-0c7e-4c1d-bda5-047f17514db3/16485919769-500.jpg" data-tags="heavy metal" role="button">
+Motörhead - Hammered (2002-04-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa0410bd-35e3-43de-aa19-efa559a485b3/3192372073-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Hate Crew Deathroll (2003-01-06)
 </li>
@@ -281,9 +284,6 @@ Black Tide - Light From Above (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Ultra Beatdown (2008-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/07e83449-5953-35e0-8aed-122e366787ec/8306970381-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Motörhead - Motörizer (2008-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7763a77-deaa-4fa0-b644-48821a2c0a6d/22917069905-500.jpg" data-tags="heavy metal, speed metal, melodic death metal, death metal" role="button">
 Renegade Five - Undergrounded Universe (2009-02-04)

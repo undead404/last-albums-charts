@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:28:01.412Z
+date: 2021-04-12T11:03:01.461Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -51,23 +51,17 @@ Nektar - A Tab in the Ocean (1972)
 <li data-cover="http://coverartarchive.org/release/4996990d-5082-3c38-9c97-e5347d2005d1/20450810893-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Hawkwind - Doremi Fasol Latido (1972-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e38f26-e682-4392-bc7d-8c3f1c96fa6c/9916084098-500.jpg" data-tags="krautrock" role="button">
-Ash Ra Tempel - Starring Rosi (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/176f17b8-e0c3-4ba4-a09d-6866848180c2/2367078539-500.jpg" data-tags="space rock, progressive rock" role="button">
-Hawkwind - Space Ritual (1973-05-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/ed46c870-7db3-3550-ad13-734770570b10/3519010189-500.jpg" data-tags="electronic" role="button">
 Tangerine Dream - Phaedra (1974-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d132efb-5391-4198-8298-ca0e39fe9cc5/12632877328-500.jpg" data-tags="space rock" role="button">
 Hawkwind - Hall of the Mountain Grill (1974-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/50487c90-02dd-44ac-a092-2049b052f35e/10104364460-500.jpg" data-tags="space rock, psychedelic, progressive rock" role="button">
-Gong - You (1974-10-04)
+<li data-cover="http://coverartarchive.org/release/bbbdff45-5937-407b-ac41-585ad578edc7/10791518606-500.jpg" data-tags="progressive rock, space rock" role="button">
+Eloy - Power And The Passion (1975)
 </li>
-<li data-cover="http://coverartarchive.org/release/81a509ae-f606-423a-b260-353d6f67550c/3509012134-500.jpg" data-tags="space rock" role="button">
-Hawkwind - Warrior on the Edge of Time (1975-05)
+<li data-cover="http://coverartarchive.org/release/24e28094-bef2-40d2-a63e-6080e13cdb64/22048228043-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Dawn (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
@@ -177,9 +171,6 @@ Archive - You All Look the Same to Me (2002-03-12)
 <li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
 Spiritualized - The Complete Works Vol. 1 (2003-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/460b65c5-ac1b-44e1-89da-82a8ebf24d28/16615141609-500.jpg" data-tags="emo, alternative, rock" role="button">
-Armor for Sleep - Dream to Make Believe (2003-06-03)
-</li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)
 </li>
@@ -228,6 +219,9 @@ Angels & Airwaves - I-Empire (2007-01-01)
 <li data-cover="https://img.discogs.com/MiQfFPrMeXcaHr7Emfn6OOLaVLQ=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652742-1549100268-4343.jpeg.jpg" data-tags="stoner rock, psychedelic, space rock, neo-psychedelic" role="button">
 Weird Owl - Nuclear Psychology (2007-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/029c143a-cd07-431a-8290-c8060a3ae9f6/18625581796-500.jpg" data-tags="psychedelic, space rock, peacedogman" role="button">
+Causa Sui - Free Ride (2007-04)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
@@ -263,6 +257,9 @@ Tokio Hotel - Humanoid (2009-10-06)
 </li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2dee5650-21f6-331c-b945-a103180073c7/3361370191-500.jpg" data-tags="alternative rock, psychedelic rock" role="button">
+Motorpsycho - Heavy Metal Fruit (2010-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a36ab113-612d-4e2d-92f0-47ffda893f6a/4793906460-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
@@ -317,6 +314,9 @@ Les Big Byrd - They Worshipped Cats (2014-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4785004d-ea89-4397-909c-312d97826d45/7445539786-500.jpg" data-tags="progressive metal, alternative metal, electronic, symphonic" role="button">
 Starset - Transmissions (2014-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4733b45-757f-4460-8313-a8f35c9b7dba/8026212360-500.jpg" data-tags="space rock" role="button">
+Savant - Protos (2014-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b86c0c7-e339-4634-b7b3-de1924eb7a4f/15837120602-500.jpg" data-tags="progressive rock, ambient" role="button">
 Pink Floyd - The Endless River (2014-11-07)

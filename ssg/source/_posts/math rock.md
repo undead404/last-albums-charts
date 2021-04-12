@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:57:01.394Z
+date: 2021-04-12T11:02:07.120Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -66,6 +66,9 @@ Don Caballero - American Don (2000-10-03)
 <li data-cover="http://coverartarchive.org/release/99e88b3f-3a18-4a13-a2b5-657b909383c8/27006231557-500.jpg" data-tags="math rock" role="button">
 Faraquet - The View from This Tower (2000-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/fe32e578-0387-4209-8584-2d3ae35720e2/26039617498-500.jpg" data-tags="math rock" role="button">
+Oxes - OXXXES (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b486b98-76d4-4591-8430-0119454d42ac/11002700286-500.jpg" data-tags="math rock" role="button">
 Hella - Hold Your Horse Is (2002-03-19)
 </li>
@@ -81,9 +84,6 @@ Ghosts and Vodka - Addicts And Drunks (2003-09-23)
 <li data-cover="http://coverartarchive.org/release/c3d3d127-8d68-44b2-9370-e695f05b746b/11002809325-500.jpg" data-tags="math rock" role="button">
 Hella - The Devil Isn't Red (2004-01-20)
 </li>
-<li data-cover="https://img.discogs.com/slv1e8PHJ_XZYPukaRuGkBXaXkE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451747-1189874201.jpeg.jpg" data-tags="math rock, warp" role="button">
-Battles - EP C (2004-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/18d9f1a4-0d64-42d8-9f29-698c03c9674a/11800075266-500.jpg" data-tags="math rock" role="button">
 Battles - B EP (2004-09-14)
 </li>
@@ -96,11 +96,11 @@ Sleeping People - Sleeping People (2005)
 <li data-cover="http://coverartarchive.org/release/a65bf7e3-1b1d-4d2c-99bb-e576053e7d6b/28235886759-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - Hole (2005-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ec4547a-f513-4908-90e4-93faf84471d2/11123419461-500.jpg" data-tags="math rock, post-rock" role="button">
-Piglet - Lava Land (2005-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/33e04fab-1890-4472-aa2c-0aa61f723fa4/4601677125-500.jpg" data-tags="math rock" role="button">
 Battles - EP C/B EP (2005-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/02b97054-ca09-44b7-b1f0-d497815ecd94/24232560871-500.jpg" data-tags="math rock, noise rock, experimental rock" role="button">
+Tera Melos - Untitled (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a41e4735-76af-4ee3-aa0f-1d12eda2bf25/2737978532-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - One Time for All Time (2005-10-24)
@@ -141,14 +141,8 @@ Battles - Mirrored (2007-04-25)
 <li data-cover="http://coverartarchive.org/release/0c1dfc1d-1da5-4c0b-aa99-c070894d4b99/3334775846-500.jpg" data-tags="indie" role="button">
 Foals - Mathletics (2007-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/74547a85-01ea-4eb8-aaf7-e069a089d94d/11061346400-500.jpg" data-tags="math rock, emo, indie rock, online record collection" role="button">
 Maps & Atlases - Tree, Swallows, Houses (2007-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/c25c29d2-740a-476a-a5da-0664f5cc15ea/8639682748-500.jpg" data-tags="math rock" role="button">
-Giraffes? Giraffes! - More Skin With Milk-Mouth (2007-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c82460-d0d1-4461-b5b8-0e5eb817ce9d/26604104752-500.jpg" data-tags="math rock, transgressive records" role="button">
 Foals - Balloons (2007-12-10)
@@ -171,9 +165,6 @@ Maybeshewill - Not for Want of Trying (2008-05-12)
 <li data-cover="https://img.discogs.com/xZay37Xy2QIYDzQtQzyk1DiLeK4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2353120-1462765529-2327.jpeg.jpg" data-tags="math rock, all time fav, in vinyl collection" role="button">
 Maps & Atlases - You And Me And The Mountain (2008-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/18c7e32d-b105-37da-ad45-9a5395db43f6/22225372874-500.jpg" data-tags="math rock" role="button">
-Lite - Phantasia (2008-06-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
 Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
 </li>
@@ -194,6 +185,9 @@ Midwest Pen Pals - Inside Jokes EP (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf0c43-c13e-4369-9639-b8dd6fcd9670/10875440689-500.jpg" data-tags="math rock, post punk, post hardcore, progressive post hardcore, mathpop mathrock indie, weas que planeo escuchar" role="button">
 Bats - Red In Tooth & Claw (2009)
+</li>
+<li data-cover="http://coverartarchive.org/release/f31d8540-2e73-435a-8855-5f8e1f633fc6/11375917391-500.jpg" data-tags="math rock, indie rock, acoustic rock, midwest emo" role="button">
+The One Up Downstairs - The One Up Downstairs Ep (2009-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
@@ -273,6 +267,9 @@ This Town Needs Guns - Adventure, Stamina & Anger (2011-10-11)
 <li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
 A Lot Like Birds - Conversation Piece (2011-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">
+Russian Circles - Empros (2011-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/053d3ad8-efa0-4ee5-80c5-9b9fea267882/6318728447-500.jpg" data-tags="math rock" role="button">
 You Slut! - Medium Bastard (2012-04-16)
 </li>
@@ -314,6 +311,9 @@ tricot - T H E (2013-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c08b72b-19dd-45cd-96e3-141eb6993911/27197506984-500.jpg" data-tags="emo" role="button">
 Marietta - Summer Death (2013-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fd6006f-3f96-4652-ab36-b675af3c280b/17944490537-500.jpg" data-tags="experimental" role="button">
+A Lot Like Birds - No Place (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

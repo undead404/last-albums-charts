@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:06:01.640Z
+date: 2021-04-12T10:50:01.726Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -45,9 +45,6 @@ Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
-Air - Moon Safari (1998-01-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
 </li>
@@ -87,6 +84,9 @@ Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
 <li data-cover="http://coverartarchive.org/release/505f0ee9-6113-46aa-b44e-fbae0bcff839/13276098607-500.jpg" data-tags="downtempo" role="button">
 Tosca - Suzuki (2000-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
+Phoenix - United (2000-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb385717-9392-414f-b271-534663cad5b1/5258564363-500.jpg" data-tags="trip-hop, electronic, downtempo" role="button">
 Morcheeba - Fragments of Freedom (2000-07-10)
 </li>
@@ -107,9 +107,6 @@ Zero 7 - Simple Things (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
@@ -144,8 +141,8 @@ Morcheeba - Charango (2002-07-01)
 <li data-cover="https://img.discogs.com/-eztj5rULDJYO9PrCwUW7fv1ooM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82803-1124377382.jpg.jpg" data-tags="trip-hop, downtempo" role="button">
 Funki Porcini - Fast Asleep (2002-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
+<li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
+Nightmares on Wax - Mind Elevation (2002-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
@@ -162,6 +159,9 @@ Massive Attack - 100th Window (2002-12)
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0cd2528-ed2e-3f74-bcda-8c7e97e9f221/21326685665-500.jpg" data-tags="chillout, trip-hop, morcheeba" role="button">
+Morcheeba - Parts of the Process (2003-06-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/561ef915-9383-40ec-9baf-f9c55d1ddf72/24765160123-500.jpg" data-tags="electronic" role="button">
 I Monster - Neveroddoreven (2003-07-21)
 </li>
@@ -171,17 +171,20 @@ UNKLE - Never, Never, Land (2003-09-22)
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
-Air - Talkie Walkie (2004-01-21)
-</li>
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
+Afterlife - Speck Of Gold (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
+Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
@@ -216,14 +219,14 @@ Saltillo - Ganglion (2006-06-01)
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
-Air - Pocket Symphony (2006-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Flunk - Personal Stereo (2007-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Ulrich Schnauss - Goodbye (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
 Sia - Some People Have Real Problems (2008-01-08)
@@ -242,9 +245,6 @@ Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/d09651d7-63be-4603-9849-32781bfe5c70/6110608721-500.jpg" data-tags="electronic, french" role="button">
-Air - Love 2 (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)

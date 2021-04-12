@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:15:01.504Z
+date: 2021-04-12T10:46:18.159Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c6d7934e-ef96-4ee7-b150-15264dad20e6/7203258162-500.jpg" data-tags="progressive metal, thrash metal, math metal" role="button">
 Meshuggah - None (1994-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c538b807-6bbf-45c3-b93f-e22bc11016d0/17511164630-500.jpg" data-tags="metalcore, hardcore" role="button">
+Converge - Caring and Killing (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/3940d3ef-36ee-4485-8b14-70a65f3906b9/26281067448-500.jpg" data-tags="metalcore, hardcore, mathcore" role="button">
 Converge - Petitioning the Empty Sky (1996)
 </li>
@@ -35,6 +38,9 @@ Botch - Unifying Themes Redux (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf382078-916b-4b37-a2a5-64f1888a4ea7/10719186208-500.jpg" data-tags="mathcore" role="button">
 Botch - American Nervoso (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/7344eb54-ada0-4f7d-9fa8-86ce26843001/28724243027-500.jpg" data-tags="mathcore" role="button">
+Coalesce - Functioning on Impatience (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bcfb75b-d86f-4134-ac22-01d28984b4f9/28715607028-500.jpg" data-tags="metalcore" role="button">
 Converge - When Forever Comes Crashing (1998-04-14)
@@ -129,6 +135,9 @@ The Tony Danza Tapdance Extravaganza - The Tony Danza Tapdance Extravaganza (200
 <li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Doppelganger (2005-08-15)
 </li>
+<li data-cover="https://img.discogs.com/k9QxCaRnq3bEFUvEfbzpRii5oWU=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196779-1447684615-6316.gif.jpg" data-tags="hardcore, post-hardcore, metalcore" role="button">
+The Bled - Found In The Flood (2005-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Gutter Phenomenon (2005-08-23)
 </li>
@@ -162,9 +171,6 @@ Between the Buried and Me - The Anatomy Of (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/1ccacb7d-082c-4889-bf3e-bc424dfa5c49/26310137897-500.jpg" data-tags="metalcore, progressive metal" role="button">
 The Human Abstract - Nocturne (2006-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9a38a1e-7009-42b1-a572-1400dd77c1bd/7711404289-500.jpg" data-tags="mathcore" role="button">
-Daughters - Hell Songs (2006-08-08)
-</li>
 <li data-cover="https://img.discogs.com/tyWc16V9BxwvWEIocD7PeSuJ7C0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12102410-1528428097-3156.jpeg.jpg" data-tags="metalcore" role="button">
 Norma Jean - Redeemer (2006-09-12)
 </li>
@@ -177,8 +183,8 @@ Converge - No Heroes (2006-10-23)
 <li data-cover="http://coverartarchive.org/release/2a48e55e-5876-4477-8b53-44474b7f9a35/2061177990-500.jpg" data-tags="mathcore" role="button">
 Car Bomb - Centralia (2007-01-06)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
+<li data-cover="http://coverartarchive.org/release/50282e53-167d-426f-b759-c93e934c3c6a/26841025086-500.jpg" data-tags="metalcore, progressive metal, mathcore" role="button">
+THE END - Elementary (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/iWyRJbHjh45yON6e95jzI7_Q7yE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061669-1189109237.jpeg.jpg" data-tags="mathcore" role="button">
 PsyOpus - Our Puzzling Encounters Considered (2007-02-20)
@@ -206,6 +212,9 @@ Between the Buried and Me - Colors (2007-09-18)
 </li>
 <li data-cover="https://img.discogs.com/RCXdsHPq9KCvHZk_It-uxfeso40=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1723289-1239279534.jpeg.jpg" data-tags="deathcore, mathcore" role="button">
 War from a Harlots Mouth - Transmetropolitan (2007-09-18)
+</li>
+<li data-cover="https://img.discogs.com/ETKTOXjL1gm59TGopP2x0FCUBTU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699833-1297103084.jpeg.jpg" data-tags="metalcore" role="button">
+Oh, Sleeper - When I Am God (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9fb71aa-44af-4cc3-8dd9-ef83a5f95454/9120940458-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - Ire Works (2007-11-13)
@@ -242,9 +251,6 @@ War from a Harlots Mouth - In Shoals (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/41b4c3be-b228-4abc-a79c-5f2fd31169b4/20002393726-500.jpg" data-tags="metalcore, mathcore" role="button">
 Architects - Hollow Crown (2009-01-26)
-</li>
-<li data-cover="https://img.discogs.com/LdIBybccl9F1k4KFW2wVPXcqAJI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1694186-1307191550.jpeg.jpg" data-tags="mathcore" role="button">
-PsyOpus - Odd Senses (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f03e19a-4395-4cc4-922d-852cf1270ce4/24074921452-500.jpg" data-tags="mathcore" role="button">
 The Number Twelve Looks Like You - Worse Than Alone (2009-03-10)
@@ -285,9 +291,6 @@ Architects - The Here And Now (2011-01-21)
 <li data-cover="https://img.discogs.com/H-JdMk0flhfn4gE_wPRYTwcmciU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848672-1606643252-5453.jpeg.jpg" data-tags="progressive metal" role="button">
 Protest the Hero - Scurrilous (2011-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4d5c51e6-f00f-4570-b136-85fc53e9e3a8/26433855871-500.jpg" data-tags="experimental, mathcore" role="button">
-iwrestledabearonce - Ruining It For Everybody (2011-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/988be515-048f-49a6-b963-449f686e321d/2550406279-500.jpg" data-tags="metalcore" role="button">
 Architects - Daybreaker (2012-05-28)
 </li>
@@ -302,9 +305,6 @@ The Chariot - One Wing (2012-08-28)
 </li>
 <li data-cover="https://img.discogs.com/eX7pVRAAMkOij8l1xUNtAbQsFXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129243-1546927663-6584.jpeg.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - All We Love We Leave Behind (2012-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc84b722-b66f-47d0-8497-b6716546bde4/26840307392-500.jpg" data-tags="mathcore" role="button">
-Rolo Tomassi - Astraea (2012-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b64f883-57dd-4715-89eb-77ad56c193f6/24759113400-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - One of Us Is the Killer (2013-05-14)

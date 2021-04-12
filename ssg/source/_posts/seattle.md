@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:34:01.438Z
+date: 2021-04-12T11:07:01.425Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
 ![Father John Misty - Fear Fun (2012-04-30)](http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg "Father John Misty - Fear Fun (2012-04-30)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/6286422c-4045-452e-9c73-82466249a30d/2150308396-500.jpg" data-tags="classic rock, 70s, rock" role="button">
-Heart - Dog & Butterfly (1978-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/e77642b1-e08d-4d84-907b-85d5a42ce7f7/12607476714-500.jpg" data-tags="grunge, alternative, seattle" role="button">
 Green River - Come on Down (1985)
 </li>
@@ -72,9 +69,6 @@ Mother Love Bone - Mother Love Bone (1992-11-10)
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
-<li data-cover="https://img.discogs.com/IOFAQTXKK5AoWdLu2z80i8-K6xI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1570527-1466954533-9862.jpeg.jpg" data-tags="rock" role="button">
-Mark Lanegan - Whiskey for the Holy Ghost (1993)
-</li>
 <li data-cover="http://coverartarchive.org/release/a362c3d8-1193-440d-af03-2773fa1209ea/23215904360-500.jpg" data-tags="rock" role="button">
 Brad - Shame (1993-04-27)
 </li>
@@ -90,6 +84,9 @@ Mad Season - Above (1995-03-14)
 <li data-cover="http://coverartarchive.org/release/d82339d8-e22b-4c87-a523-ebb426cb420d/9637241250-500.jpg" data-tags="grunge" role="button">
 Mudhoney - My Brother the Cow (1995-03-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/8481b44b-1789-4ee3-a7e7-a7bd3a3e39d4/9578435124-500.jpg" data-tags="grunge" role="button">
+Malfunkshun - Return To Olympus (1995-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
 </li>
@@ -101,9 +98,6 @@ Soundgarden - Down on the Upside (1996-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8d42cff-a67c-4a29-9c31-e28ad8fcc32d/10611684247-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - No Code (1996-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/ccb1417c-f66b-4629-a231-1d6bed2cbe6b/11527072911-500.jpg" data-tags="rock, alternative" role="button">
-The Presidents of the United States of America - II (1996-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge, alternative, seattle, interiors, northwest, rivers all time favorite albums, ssij, tragically yours, tragically yours - bittersweet you, tragically yours - sister stone, discovering journey, tragically yours - give me one reason" role="button">
 Brad - Interiors (1997-06-03)
@@ -156,6 +150,9 @@ The Presidents of the United States of America - Freaked Out And Small (2000-09-
 <li data-cover="http://coverartarchive.org/release/132df5ae-1c07-4900-8e2e-5af898d49cd1/27168811431-500.jpg" data-tags="alternative, indie" role="button">
 Harvey Danger - King James Version (2000-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ee0bd00-32cb-4c69-ac16-d92d8512c8c9/1623318823-500.jpg" data-tags="grunge" role="button">
+Alice in Chains - Live (2000-12-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/8a60c85d-5ddf-4ce2-b7b6-6bcb25c58d42/21785498122-500.jpg" data-tags="indie, alternative, seattle, indie rock, 00s, apricot, american indie, band records" role="button">
 Preston School of Industry - Goodbye to the Edge City (2001-07-30)
 </li>
@@ -167,6 +164,9 @@ Minus the Bear - This is What I Know About Being Gigantic (2001-11-20)
 </li>
 <li data-cover="https://img.discogs.com/s7QxEkk-FxRKyQzkll_UUS74nr4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345157-1597423214-3871.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Pretty Girls Make Graves - Good Health (2002-04-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e6ba06f-d54d-4b7c-b8f1-58719d41e264/9637232441-500.jpg" data-tags="alternative" role="button">
+Mudhoney - Since We've Become Translucent (2002-08-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge" role="button">
 Pearl Jam - Riot Act (2002-11-11)
@@ -225,14 +225,8 @@ Pearl Jam - Pearl Jam (2006-04-28)
 <li data-cover="http://coverartarchive.org/release/a792a8ff-b97c-481f-a5bc-cfe3e81a09a1/10546860779-500.jpg" data-tags="grunge" role="button">
 Candlebox - The Best Of Candlebox (2006-05-23)
 </li>
-<li data-cover="https://img.discogs.com/XWBPucx_MnBGY2_OF_I_3eg6kwQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027802-1185707476.jpeg.jpg" data-tags="post-hardcore, post hardcore" role="button">
-These Arms Are Snakes - Easter (2006-09-26)
-</li>
 <li data-cover="https://img.discogs.com/RGRkuDqg8CbvLCa89xDFaVT0eJE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1156699-1199080639.jpeg.jpg" data-tags="emo, indie rock" role="button">
 Jeremy Enigk - World Waits (2006-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/de3bf5b4-33e1-4515-9939-7a3ee17344da/1501272882-500.jpg" data-tags="seattle, singer-songwriter, acoustic, americana, alt-country, northwest, duyster, sera" role="button">
-Sera Cahoone - Sera Cahoone (2007-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d97a348-8fd2-4b04-b244-bf1f5c6f4fb1/16257881459-500.jpg" data-tags="indie rock, remix" role="button">
 Minus the Bear - Interpretaciones Del Oso (2007-02-20)
@@ -282,6 +276,9 @@ Melvins - The Bride Screamed Murder (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/be39f1dc-ec2e-4e61-a080-0ddd177f261e/21705385020-500.jpg" data-tags="rock, grunge" role="button">
 Screaming Trees - Last Words: The Final Recordings (2011)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c2e43fd-ddb8-32bf-b6ce-dbe785ccd91d/7567326931-500.jpg" data-tags="rock" role="button">
+Pearl Jam - Live On Ten Legs (2011-01-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/54cde2f1-ab70-4cf8-b444-54afdb1ffc23/5103054721-500.jpg" data-tags="rock, alternative, seattle, female vocalists, singer-songwriter, psychedelic, northwest" role="button">
 Jesse Sykes & The Sweet Hereafter - Marble Son (2011-03)
 </li>
@@ -296,6 +293,9 @@ David Bazan - Strange Negotiations (2011-05-24)
 </li>
 <li data-cover="https://img.discogs.com/WXX2I_MhqPlmmx9Q1dycpekQuJo=/fit-in/471x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2982964-1310331799.jpeg.jpg" data-tags="psychedelic" role="button">
 Night Beats - Night Beats (2011-06-28)
+</li>
+<li data-cover="https://img.discogs.com/YjkHqU0PjOe6m9Yoh1SBxcURHC0=/fit-in/200x185/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3131983-1317245365.jpeg.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
+Gold Leaves - The Ornament (2011-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/920ee4de-f554-478a-a732-b7e7b584537d/5751771507-500.jpg" data-tags="rap" role="button">
 Sol - Yours Truly (2012-01-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:12:01.421Z
+date: 2021-04-12T11:05:01.517Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -186,9 +186,6 @@ John Legend - Get Lifted (2004-10-25)
 <li data-cover="http://coverartarchive.org/release/30ec6df1-2b6e-3d93-ab74-aa366b533abf/12999491916-500.jpg" data-tags="billy joel, classic rock, piano" role="button">
 Billy Joel - Piano Man: The Very Best Of Billy Joel (2004-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
-Antony and the Johnsons - I Am a Bird Now (2005-02-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad7247da-24c2-4bd3-b17f-31077f50f693/2596514590-500.jpg" data-tags="alternative, female vocalists, singer-songwriter, piano" role="button">
 Tori Amos - The Beekeeper (2005-02-21)
 </li>
@@ -204,6 +201,9 @@ Kevin Kern - Imagination's Light (2005-07-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Jamie Cullum - Catching Tales (2005-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
+Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
 </li>
@@ -212,9 +212,6 @@ Aaron Goldberg - Worlds (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
-</li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
@@ -245,6 +242,9 @@ Julia Marcell - It Might Like You (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a743f422-a794-4e46-8f48-959b15ca932a/27885926278-500.jpg" data-tags="piano" role="button">
 Ben Woods - A Collection of Thoughts (2008-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
+DJ Okawari - Diorama (2008-05-28)
 </li>
 <li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
 Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:24:01.429Z
+date: 2021-04-12T11:14:07.040Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -90,9 +90,6 @@ Nina Simone - Here Comes The Sun (1971-09)
 <li data-cover="https://img.discogs.com/_adrkXv6adoAAPjxUwRmLZnf_P0=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060268-1412344757-9217.jpeg.jpg" data-tags="blues rock, blues" role="button">
 J.J. Cale - Naturally (1971-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/83ecd172-3f27-4d22-93f8-a8324d18248e/5642373000-500.jpg" data-tags="rock, 70s" role="button">
-The Rolling Stones - Exile on Main St. (1972-05-12)
-</li>
 <li data-cover="https://img.discogs.com/swjQP0NRI3WM4nR0gjmRDXm3bsc=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141213-1327063773.jpeg.jpg" data-tags="classic rock, blues" role="button">
 Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 </li>
@@ -111,6 +108,9 @@ Dire Straits - Dire Straits (1978-06-02)
 <li data-cover="http://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739-500.jpg" data-tags="blues" role="button">
 Tom Waits - Blue Valentine (1978-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
+Tom Waits - Heartattack and Vine (1980-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3dc583d-dafd-386d-9fe3-6a324bb7fa28/23327712610-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
 </li>
@@ -128,9 +128,6 @@ Gary Moore - Still Got the Blues (1990-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2eab3ac-8fb4-4aa5-b0f7-a9872dbde81e/9504529111-500.jpg" data-tags="blues" role="button">
 Buddy Guy - Damn Right, I've Got The Blues (1991)
-</li>
-<li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
-Eric Clapton - Tears in Heaven (1992-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
@@ -188,6 +185,9 @@ Joe Bonamassa - Blues Deluxe (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
+</li>
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)

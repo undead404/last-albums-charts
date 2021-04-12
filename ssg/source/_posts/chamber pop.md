@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T03:47:01.401Z
+date: 2021-04-12T10:54:08.065Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">Antony and the Johnsons - Antony and the Johnsons (2000-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">Antony and the Johnsons - I Am a Bird Now (2005-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
+<li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">Guillemots - Through The Windowpane (2006-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
@@ -42,9 +42,6 @@ Elliott Smith - XO (1998-08-24)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9840573-3895-44a0-bc72-fc53ab748c52/16155977876-500.jpg" data-tags="indie, pop, rock, alternative, singer-songwriter, chamber pop, canadian, 00s, iveldie best of 2000, valley of the bees radio" role="button">
-Destroyer - Thief (2000-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
@@ -75,6 +72,9 @@ Flëur - Волшебство (2004-01-27)
 <li data-cover="https://img.discogs.com/MonuDtSdUCOc_FyDFv4BaNugvoI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244419-1227222364.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Sia - Breathe Me (2004-02-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+Destroyer - Your Blues (2004-03-08)
+</li>
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 </li>
@@ -84,17 +84,14 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/67148959-1ccd-3c30-8645-cfb8301b0001/4778416413-500.jpg" data-tags="cardiowave" role="button">
+Flëur - Сияние (2004-10-12)
+</li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/82756871-3b84-4b2b-bd61-ccbc27ebb3e5/14786657282-500.jpg" data-tags="instrumental, experimental, chamber pop, 00s, i love it, stunning, yann tiersen, exquisite, collabs, i love this album, merkliste, my deepest desires, so in love, my-dipreshon, about myself, hipnotizante" role="button">
 Yann Tiersen & Shannon Wright - Yann Tiersen & Shannon Wright (2004-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
-Antony and the Johnsons - I Am a Bird Now (2005-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
-Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
@@ -224,6 +221,9 @@ Perfume Genius - Put Your Back N 2 It (2012-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/188aa4b8-74d8-4385-a9fa-0a16898b3320/14606501171-500.jpg" data-tags="indie rock, chamber pop" role="button">
+Revolver - Let Go (2012-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)

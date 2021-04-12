@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:04:12.594Z
+date: 2021-04-12T11:11:01.476Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -48,6 +48,9 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/524c5a17-1f08-4d05-8bb5-bed5735dd96e/8073215669-500.jpg" data-tags="indie rock" role="button">
 Built to Spill - Perfect From Now On (1997-01-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
+Ween - The Mollusk (1997-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
@@ -72,6 +75,9 @@ E.S. Posthumus - Unearthed (2001-01-01)
 <li data-cover="https://img.discogs.com/XLMFs6Yc9ih_DVVwuWDARIRcnRQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540652-1290980659.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
 </li>
+<li data-cover="https://img.discogs.com/hFzgQ8mCtnlmvA4vr5fBwYdoDDQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4972356-1381001454-9974.jpeg.jpg" data-tags="ambient" role="button">
+Summoning - Lost Tales (2003-03-03)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
@@ -80,9 +86,6 @@ Mew - Frengers (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
 Emery - The Weak's End (2004-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
-Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">
 Ensiferum - Iron (2004-04-15)
@@ -117,20 +120,14 @@ Summoning - Oath Bound (2006-03-31)
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e514a7f6-34a6-4327-b218-8e490e99b5c0/8258928983-500.jpg" data-tags="soundtrack, orchestral, globus" role="button">
-Globus - Epicon (2006-08-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
-Melvins - A Senile Animal (2006-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
 I Hate Kate - Embrace The Curse (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
+<li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
+Jesu - Conqueror (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Colors (2007-09-18)
@@ -308,6 +305,9 @@ Ibrahim Maalouf - Illusions (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/82ec3d0f-3aeb-4a50-8496-56df51909455/14904578516-500.jpg" data-tags="pop, epic, hell" role="button">
+Little Mix - Word Up! (2014-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
 Lana Del Rey - Ultraviolence (2014-06-13)

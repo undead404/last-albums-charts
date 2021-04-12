@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:03:12.642Z
+date: 2021-04-12T11:13:01.473Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -32,9 +32,6 @@ The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
-</li>
-<li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, garage rock, 70s" role="button">
-The Stooges - Fun House (1970-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
 The Modern Lovers - The Modern Lovers (1976-08)
@@ -254,6 +251,9 @@ Best Coast - Crazy for You (2010-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/56b749ab-070c-49bb-b7f4-1198ef28d585/15883380437-500.jpg" data-tags="lo-fi" role="button">
+Bass Drum of Death - GB City (2011-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)

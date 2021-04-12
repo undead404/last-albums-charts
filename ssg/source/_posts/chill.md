@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:22:01.417Z
+date: 2021-04-12T11:34:01.409Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -24,11 +24,17 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, sade" role="button">
 Sade - Promise (1985-11-16)
 </li>
+<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
+Sublime - 40 Oz. to Freedom (1992)
+</li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ad64552-1b61-4a7d-97cf-c8ec1cf46530/5216864402-500.jpg" data-tags="reggae, punk, dub" role="button">
+Sublime - Robbin' The Hood (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5a4cd5-43d1-3b78-a535-272f97c015c9/14327361700-500.jpg" data-tags="rock, 90s" role="button">
 Dave Matthews Band - Under The Table And Dreaming (1994-04)
@@ -225,9 +231,6 @@ Apparat - Walls (2007-05)
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
-</li>
 <li data-cover="https://img.discogs.com/KR2icblwxBD7a9YMMOR8JUAkRNk=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3742890-1342555718-8961.jpeg.jpg" data-tags="flying upside down" role="button">
 Griffin House - Flying Upside Down (2007-10-17)
 </li>
@@ -260,9 +263,6 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)

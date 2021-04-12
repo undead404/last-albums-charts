@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:32:01.392Z
+date: 2021-04-12T11:09:01.436Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:09:07.003Z
+date: 2021-04-12T11:36:01.398Z
 title: "independent: 100 albums you must listen to before you die"
 ---
 ![Horse Feathers - House With No Home (2008-09-09)](http://coverartarchive.org/release/4c13817e-a16c-47d6-85ab-aa6f6d826705/24225147925-500.jpg "Horse Feathers - House With No Home (2008-09-09)")
@@ -21,6 +21,12 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/TBZSuUYWDNpML5L2t_cuPsuxrgo=/fit-in/292x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3626386-1337897744-2747.jpeg.jpg" data-tags="indie, alternative, experimental, avant garde, independent, faves" role="button">
+Witch - Around the World on a Broom (1980)
+</li>
+<li data-cover="https://img.discogs.com/TBZSuUYWDNpML5L2t_cuPsuxrgo=/fit-in/292x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3626386-1337897744-2747.jpeg.jpg" data-tags="indie, alternative, experimental, independent, faves, unsigned bands, jeppf" role="button">
+Witch - Rock 'n' Roll with a Dead Man (1985)
+</li>
 <li data-cover="https://img.discogs.com/_HRhhmWjplKSBgdVEFJ_IXg4X6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-549629-1371665714-4574.jpeg.jpg" data-tags="intense, independent, throwing music" role="button">
 Throwing Muses - Chains Changed (1987-01)
 </li>
@@ -36,9 +42,6 @@ Phillip Boa & The VoodooClub - Helios (1991-02-18)
 <li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
 The Jesus and Mary Chain - Honey's Dead (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/b374a467-ff3c-42b5-938b-9320e96c617b/15060246726-500.jpg" data-tags="indie rock" role="button">
-The Notwist - Nook (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/b68bd93e-0b34-41b8-8e63-540836e863f0/3020420613-500.jpg" data-tags="90s" role="button">
 Sugar - Copper Blue (1992-09-04)
 </li>
@@ -47,6 +50,9 @@ Phillip Boa & The VoodooClub - Boaphenia (1993-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba1646d0-9b8e-4a1b-9dc0-6ec4d4b19b58/15587476491-500.jpg" data-tags="melodic death metal" role="button">
 Inearthed - Implosion of Heaven (1994)
+</li>
+<li data-cover="https://img.discogs.com/TBZSuUYWDNpML5L2t_cuPsuxrgo=/fit-in/292x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3626386-1337897744-2747.jpeg.jpg" data-tags="indie, alternative, experimental, avant garde, independent, faves, unsigned bands" role="button">
+Witch - Uncle Wanda's Fish and Ego Circus (1995)
 </li>
 <li data-cover="https://img.discogs.com/Q6Kr9R7vXlK--09-qCNVsRRrxVo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-915754-1189951397.jpeg.jpg" data-tags="hamburger schule" role="button">
 Tocotronic - Wir Kommen Um Uns Zu Beschweren (1996-04-01)
@@ -65,9 +71,6 @@ Tocotronic - K.O.O.K. (1999-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1e0b1b8-1f67-4d9a-830d-787f97a9c3a6/5920697946-500.jpg" data-tags="female vocalists" role="button">
 Kim Kuzma - Contradictions (1999-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9bac38b-523d-47c9-bbae-2f71630e310a/14910566886-500.jpg" data-tags="pop, echt, german" role="button">
-Echt - Freischwimmer (1999-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5a1c3ac-48a8-43bc-9351-8a8e2f165ce7/15176633516-500.jpg" data-tags="punk rock" role="button">
 Nina Hagen - Return of the Mother (2000-02-14)
@@ -96,15 +99,6 @@ Hoobastank - Target EP (2002)
 <li data-cover="https://img.discogs.com/73uw4GThinTN1FU8aYwlb2UDUa8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670415-1145749428.jpeg.jpg" data-tags="live" role="button">
 Khanate - Live WFMU 91.1 (2002-04)
 </li>
-<li data-cover="https://img.discogs.com/e-3mXETEvABewX2vx-QwqkU_UHE=/fit-in/353x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3284056-1323895991.jpeg.jpg" data-tags="jazzy pop" role="button">
-Tadhg Cooke - The Sparks EP (2002-05)
-</li>
-<li data-cover="https://img.discogs.com/FIzBpyfghRgblRvYdRTZXe9jrx0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1977021-1256245367.jpeg.jpg" data-tags="indie, alternative, alternative rock, indie rock, guitar, deutsch, german, berlin, deutschsprachig, indierock, underground, perlen deutschsprachiger popmusik, independent, great songs, favourite artists, favourite bands, german artists, like it, classic album, german bands, deutschsprachige musik, genial, german indie, fuck it all, alternative and indie, deutschsprachiges, german independent, excellent lyrics, perfekte texte, gitarrenmusik, lieblingsalben, einfach die besten, deutschsprachig und grandios, meine kleine welt, einfach die groessten, auf meiner festplatte, in meinem plattenschrank" role="button">
-Britta - Lichtjahre voraus (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/de0aba33-defb-4e4d-8b95-2d499c0b3ec0/3333205469-500.jpg" data-tags="pop, deutsch, german" role="button">
-Virginia Jetzt! - Wer Hat Angst Vor Virginia Jetzt! (2003-06-02)
-</li>
 <li data-cover="https://img.discogs.com/2cxRiEqAJ2T-iWf8dtjKjlusy24=/fit-in/280x277/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240308-1110736203.jpg.jpg" data-tags="independent, alternative soul, lms artist, west yorkshire, spokojne" role="button">
 Kava Kava - Maui (2003-08-12)
 </li>
@@ -114,11 +108,11 @@ Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 <li data-cover="https://img.discogs.com/Aw6jGBRGiClMUr4q8_3lGs2S0Ro=/fit-in/480x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8573537-1464317671-3385.jpeg.jpg" data-tags="indie, canada, calm, acoustic, canadian, singer, guitar, songwriter, winter, loop, cold, rain, lonely, vancouver, independent, arctic, layered, indie-canada, i wanna hear it" role="button">
 Arctic - Music for Rain (2003-10-01)
 </li>
-<li data-cover="https://img.discogs.com/bgrg2gm1OygFnL3o9TwZN2xLN34=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800346-1160071314.jpeg.jpg" data-tags="indie, female, soul, new york, female vocals, independent, good music, non-riaa, lesser known yet streamable, gregory nash" role="button">
-Sirsy - Ruby (2004-05-18)
+<li data-cover="https://img.discogs.com/6Yuw1PjCBxDGFavUMH6H_PDfDaM=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289689-1311432225.jpeg.jpg" data-tags="electro, polish, independent" role="button">
+Common Dream - Gravity (2003-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/8831ba18-6e18-4289-b215-97607fcce406/12547390168-500.jpg" data-tags="deutsch" role="button">
-Virginia Jetzt! - Anfänger (2004-08-30)
+<li data-cover="https://img.discogs.com/azutR7s9igfgiYGc8Kwfq_eqqM8=/fit-in/531x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-909689-1171816441.jpeg.jpg" data-tags="pop, alternative, indie rock, independent, leeds, lms artist, west yorkshire" role="button">
+The Research - She's Not Leaving (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd89e8b2-d1ef-4138-87fa-3090283ecd09/24474790892-500.jpg" data-tags="german" role="button">
 Anajo - Nah Bei Mir (2004-10-11)
@@ -129,23 +123,26 @@ The Research - Lonely Hearts Still Beat The Same (2005)
 <li data-cover="https://img.discogs.com/1JPOLxE1bEp_SdS18ypabjco9pc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5807778-1556226525-1352.jpeg.jpg" data-tags="instrumental, post-rock, independent, sigur ros, mogwai, tortoise, slint, karate" role="button">
 Nice New Outfit - NNO (2005)
 </li>
-<li data-cover="https://img.discogs.com/WbN5VNoijev2HvV4y5QlTIOETaw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14604230-1578011730-9945.jpeg.jpg" data-tags="experimental, unsigned" role="button">
-Sevish - Sevish EP (2005)
-</li>
 <li data-cover="https://img.discogs.com/UJe3SUojhgwIAMLgjpY94okoDh8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166398-1537950001-3960.jpeg.jpg" data-tags="rock, soul, punk, hardcore, indie rock, ska, ska punk, boston, ska-punk, independent, neo soul, neo-soul, skacore, massachusetts, quincy" role="button">
 The Glow - The Ghosts Are Out (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
 Roots Manuva - Awfully Deep (2005-01-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/adba79eb-a415-37ab-9958-e868612249b8/6388496470-500.jpg" data-tags="indie pop, tadhg cooke" role="button">
-Tadhg Cooke - Wax & Seal (2005-03-04)
+<li data-cover="https://via.placeholder.com/450" data-tags="switzerland, swiss, schweiz, lucerne, luzern" role="button">
+Flink - Ontheoutsideoflife (2005-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc245191-d9f7-4c40-bb67-1aea273c5853/6247375705-500.jpg" data-tags="drill and bass, idm" role="button">
+AWT - Winter and Spring (the c. re-m,r) (2005-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
 </li>
 <li data-cover="https://img.discogs.com/Yh4_hjK9k6gq_S5VDcDvTR7IiTk=/fit-in/482x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8756929-1597417923-9466.jpeg.jpg" data-tags="female, pop, indie pop, female vocalists, dance, canada, canadian, vancouver, kick-ass singers" role="button">
 Kim Kuzma - Who You Are (2005-09)
+</li>
+<li data-cover="https://img.discogs.com/0ta_FvRpWTImOTXHpg14jr3eFZE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-755350-1155549789.jpeg.jpg" data-tags="indie, indiepop, independent, neutral milk hotel, pavement, polvo, gitarrenpop, sitzer" role="button">
+Clayton Farlow - all the Way (2005-10)
 </li>
 <li data-cover="https://img.discogs.com/9vKu5Q4C19LIxfCv-VXltAkv8Bs=/fit-in/493x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743647-1156013986.jpeg.jpg" data-tags="folk, avant-folk" role="button">
 David Thomas Broughton - The Complete Guide to Insufficiency (2005-12-13)
@@ -156,20 +153,11 @@ Ibakusha - Novctzember (2005-12-15)
 <li data-cover="https://img.discogs.com/H5DvQW_nv2es-RFHS6h_xS5WDhU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600018-1380884435-5113.jpeg.jpg" data-tags="russian, independent, russian rock, art-rock, free download, russian songwriter, free mp3" role="button">
 Василий К. & Интеллигенты - High (2006)
 </li>
-<li data-cover="https://img.discogs.com/DX3gs6CtcgfEdEV2F5sdpGxXyls=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8292132-1458762793-4006.jpeg.jpg" data-tags="indie, jazz, chill, folk, indie pop, singer-songwriter, indiepop, acoustic, mellow, folk rock, irish, jazzy, live, acoustic rock, singer/songwriter, ireland, independent, dublin, acoustic pop, next big things, jazzy pop, session, living room, close harmonies, bell x1, tadhg cooke, bellx1, dave geraghty, david geraghty" role="button">
-Tadhg Cooke - Live At St Kevin's (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f768b23-31c9-405a-98d7-ff92ce9b9498/19881567102-500.jpg" data-tags="pop, british, indie rock, twee, twee as fuck, independent, leeds, lms artist, west yorkshire, i should check out, teacup, xavi best of 2006" role="button">
 The Research - Breaking Up (2006-02-27)
 </li>
 <li data-cover="https://img.discogs.com/42_OxsybCfNTvgAOAT20IVyJ4OI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3250665-1322381207.jpeg.jpg" data-tags="indie, alternative rock, independent, i downloaded, playrec" role="button">
 Hell On Wheels - The odd church (2006-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/747f5ed3-350f-487e-8253-10318c205e6d/20615014643-500.jpg" data-tags="alternative" role="button">
-¡Forward, Russia! - Give Me a Wall (2006-05-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="basically bass" role="button">
-Steve Lawson - Behind Every Word (2006-06-19)
 </li>
 <li data-cover="https://img.discogs.com/rgyxxzKhQZcpmow0ciW_ga3jx6w=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13639908-1558078532-8160.jpeg.jpg" data-tags="indie, acoustic, guitar" role="button">
 Josh Gray - J'aime (2006-07-02)
@@ -201,9 +189,6 @@ My Little Airport - Zoo Is Sad, People Are Cruel (2007)
 <li data-cover="https://img.discogs.com/UeCONAjGBEHxtwGj9HKKwHYyRAw=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120322-1195676790.jpeg.jpg" data-tags="folk, alternative, acoustic" role="button">
 Denis Jones - humdrum virtue (2007)
 </li>
-<li data-cover="https://img.discogs.com/GOr3a8Pygb_BmeDqJStUVaK0HwA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9101757-1547585715-9438.jpeg.jpg" data-tags="russian, independent, belarus, minsk, free mp3" role="button">
-beZ bileta - кино (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c208157-8a62-4859-8cb5-4c9b10b07b85/12882342362-500.jpg" data-tags="alternative" role="button">
 Ween - La Cucaracha (2007-01-01)
 </li>
@@ -216,8 +201,11 @@ Anajo - Hallo, wer kennt hier eigentlich wen? (2007-02-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="british, alternative" role="button">
 ¡Forward, Russia! - Don't Be A Doctor (2007-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/769367f8-965f-45a5-aa77-3bd5e0a1c714/1087994923-500.jpg" data-tags="indie, rock, punk, alternative, sad, dark, new wave, post-punk, postpunk, independent, fully downloadable albums, fully streamable ep which i have streamed fully, wave-rock" role="button">
-Stromble Fix - lägger äse (2007-05-08)
+<li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
+The Scaramanga Six - The Dance Of Death (2007-04-02)
+</li>
+<li data-cover="https://img.discogs.com/ZOgtsduNudJ1SzZxqK217clIaeU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716936-1297862863.jpeg.jpg" data-tags="indie, pop, rock, alternative" role="button">
+Lament - breathe (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3bcc9c4-179f-4810-92a8-99cb4e58a520/8765400755-500.jpg" data-tags="indie rock" role="button">
 The Cribs - Men's Needs, Women's Needs, Whatever (2007-05-21)
@@ -225,23 +213,23 @@ The Cribs - Men's Needs, Women's Needs, Whatever (2007-05-21)
 <li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
 Stateless - Stateless (2007-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1b378ac-8629-3a1a-8080-eedf0bd3bb14/17392573827-500.jpg" data-tags="lms artist" role="button">
+Middleman - Blah Blah Blah (2007-07-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d17bfe8d-b962-4fa5-bf71-efbe76a201ce/4817979360-500.jpg" data-tags="indie, deutsch, german, hamburger schule" role="button">
 Tocotronic - Kapitulation (2007-07-06)
 </li>
 <li data-cover="https://img.discogs.com/U-qwxWpP9TV19e6DdXHJ_mC5V7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1982844-1256598993.jpeg.jpg" data-tags="deutschrap" role="button">
 Prinz Pi - Zeitlos (2007-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/0debf772-61e5-3443-b81f-3ff3ac5d1c0e/27312620895-500.jpg" data-tags="thrash metal" role="button">
-Lich King - Necromantic Maelstrom (2007-08-25)
+<li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
+Shatner - Thirteen O'clock (2007-10-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
+Cowtown - Pine Cone Express (2007-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="lms artist" role="button">
 The Hair - Indecisions (2007-12-05)
-</li>
-<li data-cover="https://img.discogs.com/dK92xqoNNknuwz6VQOUaJYO94ck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1407630-1217199005.jpeg.jpg" data-tags="electronic, indie, punk, alternative, post-punk, deutsch, elektro, underground, perlen deutschsprachiger popmusik, independent, german indie, deutschsprachiges, german independent, haute areal, deutschsprachig und grandios" role="button">
-MIT - CODA (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/345906a5-ecba-4172-ad79-b894710317bf/13821519038-500.jpg" data-tags="metal, new zealand, death metal, compilation, independent, technical death metal, 2000s, brutal death metal, demo, enhanced, new zealand metal, self-released, demo cd, 2000s metal, new zealand death metal, 2000s death metal, reissued, multiple releases under same name, deep send records, deepsend records, jamie saint merat, michael hoggard, the flood records, james boid, 2004 metal, 2004 death metal, 2004 technical death metal, 2000s technical death metal" role="button">
-Ulcerate - The Coming of Genocide (2008)
 </li>
 <li data-cover="https://img.discogs.com/g0IwpXUuiBoCvHad2HsWLOPz8tE=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8374996-1460382612-5230.jpeg.jpg" data-tags="british, indie rock, independent, lms artist, west yorkshire" role="button">
 This Et Al - The Figure Eight EP (2008)
@@ -258,6 +246,9 @@ Fotos - Nach Dem Goldrausch (2008-03-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
 </li>
+<li data-cover="https://img.discogs.com/8lniaNtZ9yCckLlNR5NQKpff_8k=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14397676-1573736045-7099.jpeg.jpg" data-tags="rock opera, concept album" role="button">
+Clawjob - Manifest Destiny (2008-08-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c13817e-a16c-47d6-85ab-aa6f6d826705/24225147925-500.jpg" data-tags="indie" role="button">
 Horse Feathers - House With No Home (2008-09-09)
 </li>
@@ -273,6 +264,9 @@ Indukti - Mutum (2008-12-04)
 <li data-cover="http://coverartarchive.org/release/8b81cf65-d31a-404c-baad-29ef4db618c9/18948962644-500.jpg" data-tags="indie, rock, punk, alternative, indie rock, singer-songwriter, german, 00s, independent" role="button">
 Phillip Boa & The VoodooClub - Diamonds Fall (2009)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - The Orphanage (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c9d59a9-b98d-4853-a754-6de37d5d087b/3838432495-500.jpg" data-tags="east coast, independent, to discover, banger, street album" role="button">
 Freeway - Month Of Madness (2009-01)
 </li>
@@ -282,14 +276,17 @@ Nate James - Revival (2009-03-30)
 <li data-cover="https://img.discogs.com/E6kbyKAr4dcNNFrujhourFAxq5I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-701785-1459701171-9155.mpo.jpg" data-tags="indie, math rock, independent, math pop, leeds, lms artist, west yorkshire" role="button">
 Wintermute - Robot Works (2009-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/61fc2733-07da-44c9-b2fe-5669e497e1ae/21816596593-500.jpg" data-tags="mtv unplugged" role="button">
-Sportfreunde Stiller - MTV Unplugged In New York (2009-05-22)
-</li>
 <li data-cover="https://img.discogs.com/yJcV5vc67zS2Eda7qZrZZdRkqso=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15225658-1588350322-9653.jpeg.jpg" data-tags="digital, barcelona, drone, live, independent, june, mp3, live album, bandcamp, primavera sound, free music archive, favorite artwork, primavera sound 2009, june 2009, 256 kbps,  2009, june 22nd, june 22, mp3 256 kbps, barcelona @ primavera sound 2009" role="button">
 Sunn O))) - Live at Primavera Sound Festival 2009 on WFMU (2009-06-22)
 </li>
 <li data-cover="https://img.discogs.com/1P7ObKIu4kbJLzYoCkaNUYmar8Q=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2487391-1286728423.jpeg.jpg" data-tags="melodic death metal" role="button">
 Obtenebris - Dust of Time (2009-08-02)
+</li>
+<li data-cover="https://img.discogs.com/PlmtIhIsE0EChtpvC_qm_boRiLs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7074428-1433100549-5055.jpeg.jpg" data-tags="reggae, singer-songwriter, acoustic, lo-fi, americana, guitar, avant-garde, mellow, alt-country, freak folk, indie folk, male vocalists, independent, bob dylan, country blues, brlog records" role="button">
+Olovni ples - Gnijezdo bez sokola (2009-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/d51a74db-7b30-4fd6-88b0-f16bcf2d17ed/2859928481-500.jpg" data-tags="rock, alternative, hard rock, death, sex, independent, wants, lye, playdead cult, brett carruthers, stephany seki, stu dead, stu playdead" role="button">
+A Primitive Evolution - A.P.E. (2009-12-22)
 </li>
 <li data-cover="https://img.discogs.com/m_67GkTwEOLkNUFhTC7fj9aCMfI=/fit-in/500x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3836601-1346331192-7931.jpeg.jpg" data-tags="samavayo, one million things" role="button">
 Samavayo - One Million Things (2010)
@@ -297,14 +294,11 @@ Samavayo - One Million Things (2010)
 <li data-cover="https://img.discogs.com/xIbEMDf_-k7HBbNYcIelWqt0WUY=/fit-in/466x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15556140-1593550031-4995.jpeg.jpg" data-tags="metal, brutal, unsigned, unhinged, swinging, chicago, independent, badass, incredible, empowering, groove metal, face melting, elite, power groove, lesson, junior, jason, sanctity, sepultura like, pantera like, slipknot like, bigtruck, push beyond, krankenstein, declaring war, my reign" role="button">
 Habit of Force - Submission Denied (2010)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, folk rock, irish, dark folk, independent, creative commons, tiger, tadhg cooke, tiger cooke, tadhg, full-length tracks, full length songs, alternative underground full tracks, folk underground full tracks" role="button">
-Tiger Cooke - Fingertips of the Silversmith (2010-09-22)
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, grunge" role="button">
+Blabpipe - Blabpipe (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec19256-0ba9-4405-a824-a1afd24ef6a4/2634085061-500.jpg" data-tags="doom metal, stoner metal, independent, april, cdr, april 2011, instrumental stoner metal, april 12,  2011,  ep, april 12th" role="button">
 Major Kong - Orogenesis (2011-04-12)
-</li>
-<li data-cover="https://img.discogs.com/n8z66ZpPAYB9SbtoWiyMyQyIH1Y=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3215116-1320803969.jpeg.jpg" data-tags="peace, los angeles, underground, independent, goodlife, aceyalone, project blowed, rifleman, fun to skateboard to, freestyle fellowship, excellent lyricism, myka 9, self jupiter, hines, volume 10, leimert park, goodlife mcs, j-smoov, jsmoovinleimert, kaos network, king badru, leimert park tow, mikah -9, mikah nine, open-mi" role="button">
-Freestyle Fellowship - The Promise (2011-10-18)
 </li>
 <li data-cover="https://img.discogs.com/uXdqMJaLF5u8nUhHbf4IFjAq-Sc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3599447-1336862945-7292.jpeg.jpg" data-tags="independent, sublime, incredible, stunning, brilliant lyrics, 2012 albums, we need armor" role="button">
 Dawn Richard - Armor On (2012-03-27)
@@ -312,13 +306,19 @@ Dawn Richard - Armor On (2012-03-27)
 <li data-cover="http://coverartarchive.org/release/f7b8fff0-445f-48ad-9b66-4e48c4060b4f/5507996174-500.jpg" data-tags="rap" role="button">
 Hoodie Allen - All American (2012-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/0771462b-a4a1-429d-9504-50f1e7152d2d/1983036073-500.jpg" data-tags="hip-hop, soul, hiphop, underground, dmv, independent, jazz-hop, baltimore, maryland, qn5 music, extended famm, qn5, eric lau, substantial, oddisee, mello music group, the plague, algorythm, slopfunkdust, surock, the stuyvesants" role="button">
-Substantial - Home Is Where The Art Is (2012-09-04)
-</li>
 <li data-cover="https://img.discogs.com/KVpsP9-6zOBwMJPQZtSdoPVMUkQ=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4646666-1370964984-9011.jpeg.jpg" data-tags="pop, soul, ethereal, rnb, independent, sublime, stunning, grammy worthy, goldenheart" role="button">
 Dawn Richard - Goldenheart (2013-01-15)
 </li>
 <li data-cover="https://img.discogs.com/4ZUJ-hW-S-6Cg_2CU2AmkR2EwiU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5934983-1406733301-5464.jpeg.jpg" data-tags="grindcore, tape, crust punk, independent, hardcore punk, march, crustgrind, pakistani metal, pakistani punk, black cassette, march 2014,  2014, march 23, girls cartel records, jeff fischer, salute records" role="button">
 Multinational Corporations - Jamat-al-Maut (2014-03-23)
+</li>
+<li data-cover="https://img.discogs.com/J0fPb7tbkrQ8b2hfGLg5RwztDtc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14900062-1583705302-2305.jpeg.jpg" data-tags="independent, emo shit, adolf hitler, nazi metal" role="button">
+Nezumi - Melodia życia (2019-10-12)
+</li>
+<li data-cover="https://img.discogs.com/dqR90bNKqZI1ZOhUDlPI98MzgYM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14900094-1583705903-3157.jpeg.jpg" data-tags="noise, electronic, electronica, experimental, improvised, avant garde, atmospheric, improv, avant-garde, experimental electronica, sound art, independent, improvisational, poland, experimental electronic, low fi, avant garde electronic, chujstwo, avant garde electronica" role="button">
+Nezumi - Niezłomna wiara (2019-10-12)
+</li>
+<li data-cover="https://img.discogs.com/dqR90bNKqZI1ZOhUDlPI98MzgYM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14900094-1583705903-3157.jpeg.jpg" data-tags="noise, electronic, electronica, experimental, unsigned, improvised, avant garde, atmospheric, improv, avant-garde, experimental electronica, sound art, lesser known yet streamable artists, independent, improvisational, poland, experimental electronic, the music maker society, low fi, avant garde electronic, chujstwo, avant garde electronica" role="button">
+Nezumi - Wspomnienia (2019-10-12)
 </li>
 </ol>

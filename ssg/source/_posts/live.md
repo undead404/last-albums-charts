@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:55:07.015Z
+date: 2021-04-12T11:01:12.503Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -45,14 +45,17 @@ Bob Marley & The Wailers - Live! (1975-12-05)
 <li data-cover="http://coverartarchive.org/release/d83c92b5-7022-3e12-870d-84ed59ad2da9/11749802149-500.jpg" data-tags="live, classic rock, hard rock" role="button">
 Led Zeppelin - The Song Remains The Same (1976-09-28)
 </li>
-<li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
-Queen - Live Killers (1979-06-22)
+<li data-cover="http://coverartarchive.org/release/320eac27-b66f-4dc1-8b47-c993333dd58e/11869654458-500.jpg" data-tags="funk" role="button">
+Kool & The Gang - Something Special (1981)
 </li>
 <li data-cover="https://img.discogs.com/CJUhQdKx8cnKYRTRFL7YEsrO8mo=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7540898-1466772398-1897.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
 </li>
 <li data-cover="https://img.discogs.com/FYpf5FjntvV0MdIIdy2ogrAVNrc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298151-1362259173-8211.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
 Talking Heads - The Name of This Band Is Talking Heads (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/74e6f17b-f10f-3b17-a32f-8168b7cd377b/28078884733-500.jpg" data-tags="rock" role="button">
+U2 - Under A Blood Red Sky (1983-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Live After Death (1985-10-14)
@@ -144,12 +147,6 @@ Jeff Buckley - Mystery White Boy (2000-05-08)
 <li data-cover="http://coverartarchive.org/release/ec9fb22c-04f8-4a8d-abc9-93ef814606f3/5236613445-500.jpg" data-tags="alternative, alternative rock, 90s, live, sessions, need it" role="button">
 Incubus - When Incubus Attacks, Vol. 1 (2000-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e82ff12-689d-48d1-a8f2-c211be50053e/2342606236-500.jpg" data-tags="live" role="button">
-Underworld - Everything, Everything (2000-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/d10320a4-2469-4ae5-9157-a7f2c950cf5d/5052431361-500.jpg" data-tags="hip hop, live, alternative hip-hop" role="button">
-Cypress Hill - Live At The Fillmore (2000-12-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/a252cb14-9f22-4464-bc93-75d8a71c11af/17150769741-500.jpg" data-tags="progressive metal" role="button">
 Tool - Salival (2000-12-12)
 </li>
@@ -203,9 +200,6 @@ Linkin Park - Live in Texas (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
-Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
 Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
@@ -267,6 +261,9 @@ Jason Mraz - Selections For Friends (2007-02-13)
 <li data-cover="http://coverartarchive.org/release/a8032396-e76c-3a57-9d1c-4e92e5e0125c/3375659069-500.jpg" data-tags="live" role="button">
 City and Colour - Live (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/618e7701-b391-34ae-b204-df37466e3271/26153425273-500.jpg" data-tags="classic rock" role="button">
+Neil Young - Live At Massey Hall 1971 (2007-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/183922a5-a5fc-4b7e-b909-82231d3bd9e5/7751021680-500.jpg" data-tags="rock, live" role="button">
 Queen - Rock Montreal (2007-10-26)
 </li>
@@ -275,6 +272,9 @@ Opeth - The Roundhouse Tapes (2007-10-29)
 </li>
 <li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e6154ce-3305-4146-a659-4dfcd1111762/11532233487-500.jpg" data-tags="60s, live, simon & garfunkel" role="button">
+Simon & Garfunkel - Live 1969 (2008-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">
 John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)

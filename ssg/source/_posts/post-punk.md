@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:58:01.700Z
+date: 2021-04-12T11:12:01.526Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -35,9 +35,6 @@ Television - Adventure (1978-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/486a2f59-ff89-41fe-813a-7e250798bf9c/11479194202-500.jpg" data-tags="post-punk" role="button">
 Magazine - Real Life (1978-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-Talking Heads - More Songs About Buildings and Food (1978-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a580e5c6-fb3a-4b62-8170-daa13fa1c046/28316388522-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - The Scream (1978-11-13)
@@ -132,6 +129,9 @@ The Psychedelic Furs - All Of this And Nothing (1988)
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/644e50bd-39e3-4879-838b-10dce95af989/2995610474-500.jpg" data-tags="post-punk" role="button">
+Public Image Ltd. - The Greatest Hits, So Far (1990-10-22)
+</li>
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
@@ -147,6 +147,9 @@ Manic Street Preachers - The Holy Bible (1994-08-29)
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/0e789eca-d5e5-469f-8648-9fe5c1ca68a9/9561282758-500.jpg" data-tags="post-hardcore" role="button">
+Fugazi - The Argument (2001-10-16)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Interpol - Turn on the Bright Lights (2002-08-19)
 </li>
@@ -161,9 +164,6 @@ The Strokes - Room on Fire (2003-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
-</li>
-<li data-cover="https://img.discogs.com/YnC6omCYMIgmUAKMZeFtFwZNSgs=/fit-in/368x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1251761-1203873068.jpeg.jpg" data-tags="indie rock, post-punk" role="button">
-Les Savy Fav - Inches (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d60edd1-f1d0-4c29-a2a3-f9ad2d3f2de7/4808033952-500.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Sonic Nurse (2004-06-07)

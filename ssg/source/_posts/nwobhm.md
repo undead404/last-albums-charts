@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:53:07.001Z
+date: 2021-04-12T11:30:07.015Z
 title: "nwobhm: 100 albums you must listen to before you die"
 ---
 ![Iron Maiden - The Number of the Beast (1982-04-26)](https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg "Iron Maiden - The Number of the Beast (1982-04-26)")
@@ -87,9 +87,6 @@ Tygers of Pan Tang - Crazy Nights (1981)
 <li data-cover="http://coverartarchive.org/release/77544bd2-f263-473c-b302-1ed36ec2c138/11590284536-500.jpg" data-tags="heavy metal" role="button">
 Saxon - Denim And Leather (1981)
 </li>
-<li data-cover="https://img.discogs.com/toeDEPs2bMvgWN0N0AU1Afk_V-I=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5268103-1521665807-4054.jpeg.jpg" data-tags="heavy metal, nwobhm, hard rock" role="button">
-Girlschool - Hit and Run (1981)
-</li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal, live" role="button">
 Iron Maiden - Maiden Japan (1981)
 </li>
@@ -129,6 +126,9 @@ Demon - The Unexpected Guest (1982)
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - The Number of the Beast (1982-04-26)
 </li>
+<li data-cover="https://img.discogs.com/XqqFjOsYtI5e5Ya61Au_4XuAhro=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4376608-1363256785-9647.jpeg.jpg" data-tags="heavy metal" role="button">
+Saxon - The Eagle Has Landed (1982-05-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/9db90c69-283e-319a-9d40-c0247a36afe3/5848338168-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Screaming for Vengeance (1982-07-17)
 </li>
@@ -152,9 +152,6 @@ Tokyo Blade - Tokyo Blade (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/03f52642-f3b7-4cd8-abdd-10d445bc45cd/28091718961-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Piece of Mind (1983-05-16)
-</li>
-<li data-cover="https://img.discogs.com/Hj5UCDvybn6ijk5vUAmZzy-Lsjg=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1999879-1319024034.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
-Satan - Court in the Act (1983-06)
 </li>
 <li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
@@ -221,6 +218,9 @@ Iron Maiden - Best of the Beast (1996-09-23)
 </li>
 <li data-cover="https://img.discogs.com/TH5Sp0OEqWvRHVJCfwPmto_xQ7k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1318528-1209241283.jpeg.jpg" data-tags="doom metal" role="button">
 Pagan Altar - Volume 1 (1998-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/da2b642f-e1e9-3fb1-8d31-e067204b2351/15341628025-500.jpg" data-tags="heavy metal" role="button">
+Motörhead - Snake Bite Love (1998-03-03)
 </li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Virtual XI (1998-03-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:23:01.510Z
+date: 2021-04-12T11:28:01.437Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -122,6 +122,9 @@ Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">
 Metallica - Load (1996-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
+Creed - My Own Prison (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">
 Metallica - Reload (1997-11-15)
@@ -248,9 +251,6 @@ Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">
-Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Era Vulgaris (2007-06-08)
