@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:00:12.535Z
+date: 2021-04-12T18:19:12.666Z
 title: "krautrock: 100 albums you must listen to before you die"
 ---
 ![Can - Tago Mago (1971)](http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg "Can - Tago Mago (1971)")
@@ -36,9 +36,6 @@ Embryo - Opal (1970)
 <li data-cover="http://coverartarchive.org/release/d759d1dc-81a6-3d90-8bfa-e8c35b352036/9983561126-500.jpg" data-tags="krautrock" role="button">
 Can - Soundtracks (1970)
 </li>
-<li data-cover="http://coverartarchive.org/release/b25a74d9-e01f-3225-a548-0a71b4fcec04/10112666323-500.jpg" data-tags="krautrock" role="button">
-Guru Guru - UFO (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f2bf9e6-f6a7-408f-ba21-d45364a339ee/16111785966-500.jpg" data-tags="krautrock, psychedelic rock" role="button">
 Amon Düül II - Yeti (1970-04)
 </li>
@@ -66,9 +63,6 @@ Popol Vuh - In den Gärten Pharaos (1971)
 <li data-cover="http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg" data-tags="krautrock" role="button">
 Can - Tago Mago (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/5da3d47c-29d6-3269-8ce8-df4668a737a9/9153707030-500.jpg" data-tags="electronic, new age, krautrock, space" role="button">
-Tangerine Dream - Alpha Centauri (1971-03)
-</li>
 <li data-cover="https://img.discogs.com/LKc5J2hWiYSrLrm4-w8Q_zMeF-g=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450890-1118557014.jpg.jpg" data-tags="krautrock" role="button">
 Amon Düül II - Tanz Der Lemminge (1971-03)
 </li>
@@ -90,11 +84,11 @@ Neu! - Neu! (1972)
 <li data-cover="https://img.discogs.com/kLsQGkNyQXZp5z83u5V5wnuVII0=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-285142-1088604361.jpg.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Schwingungen (1972)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e2015ca-4d7f-4a09-a05b-632fe5d97fe5/9916078421-500.jpg" data-tags="krautrock" role="button">
+Ash Ra Tempel - Seven Up (1972)
+</li>
 <li data-cover="https://img.discogs.com/8B8HicvFQ23yq1CPoI1-TnuhWX0=/fit-in/150x141/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745022-1154448525.gif.jpg" data-tags="krautrock" role="button">
 Faust - So Far (1972)
-</li>
-<li data-cover="https://img.discogs.com/SBpeRCGuKoOoyQJdF-kyOb0JzwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633053-1273844873.jpeg.jpg" data-tags="krautrock" role="button">
-Amon Düül II - Wolf City (1972)
 </li>
 <li data-cover="https://img.discogs.com/yMVFjZzvxS-IPR1o5-_wIoMdDm8=/fit-in/600x923/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15675222-1595699029-5988.jpeg.jpg" data-tags="krautrock" role="button">
 Kraftwerk - Kraftwerk 2 (1972-01)
@@ -117,6 +111,9 @@ Faust - Faust IV (1973)
 <li data-cover="http://coverartarchive.org/release/a972b515-5e71-3ebc-89bf-572d4d4477b4/9917233792-500.jpg" data-tags="krautrock" role="button">
 Can - Future Days (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/87063cbb-a9b8-4696-924f-754bf228de0f/10102977622-500.jpg" data-tags="krautrock" role="button">
+German Oak - German Oak (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/dabffad6-2b97-4838-b899-558d050b9024/27508222851-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Inside (1973)
 </li>
@@ -126,17 +123,8 @@ Neu! - Neu! 2 (1973)
 <li data-cover="http://coverartarchive.org/release/a66b7e56-b3cc-3ad9-90bf-723be72af134/2713582819-500.jpg" data-tags="electronic, krautrock" role="button">
 Kraftwerk - Ralf & Florian (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e38f26-e682-4392-bc7d-8c3f1c96fa6c/9916084098-500.jpg" data-tags="krautrock" role="button">
-Ash Ra Tempel - Starring Rosi (1973)
-</li>
-<li data-cover="https://img.discogs.com/XKru-VvZXln7gRjIe-inRByFQFE=/fit-in/592x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-323992-1204317778.jpeg.jpg" data-tags="electronic, ambient, experimental, krautrock" role="button">
-Tangerine Dream - Atem (1973-03)
-</li>
 <li data-cover="https://img.discogs.com/4TbKU6jK0SNYOjSwAoNV4VBiD-g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13066734-1547465045-9190.jpeg.jpg" data-tags="progressive rock" role="button">
 Eloy - Floating (1974)
-</li>
-<li data-cover="https://img.discogs.com/rwhbA0lMeTmCE5gxo4xZAMxnzmg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319589-1495643967-9443.jpeg.jpg" data-tags="krautrock, gammarec, sun and moon and stars and outer space, freepurp1e, juma, automatgwency dreamworld" role="button">
-The Cosmic Jokers - Galactic Supermarket (1974)
 </li>
 <li data-cover="https://img.discogs.com/F7mD8SUDZnu_WFgoIfHy8LA9rmk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1192551-1485173272-1387.jpeg.jpg" data-tags="krautrock" role="button">
 Can - Unlimited Edition (1974)
@@ -156,8 +144,8 @@ Klaus Schulze - Blackdance (1974-08)
 <li data-cover="http://coverartarchive.org/release/8cc98515-1ffc-3d30-99b5-054056d1c295/13891846763-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Autobahn (1974-11)
 </li>
-<li data-cover="https://img.discogs.com/bYqE0u1kZzPgwKB5EIEXeOWH4IU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740361-1485483122-2451.jpeg.jpg" data-tags="krautrock, ambient" role="button">
-Popol Vuh - Aguirre (1975)
+<li data-cover="http://coverartarchive.org/release/7a4191f0-89bb-44c7-9fe9-5fbfb81d19fa/27965360415-500.jpg" data-tags="krautrock" role="button">
+Manuel Göttsching - Inventions for Electric Guitar (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1fa3fc4-5a73-3449-9abe-9c2f38e7b22e/23187067210-500.jpg" data-tags="krautrock" role="button">
 Neu! - Neu! 75 (1975)
@@ -207,6 +195,9 @@ Klaus Schulze - Dune (1979)
 <li data-cover="http://coverartarchive.org/release/c2e4ce9a-7e5e-42b3-b589-7451e4db03da/23419569599-500.jpg" data-tags="70s, krautrock" role="button">
 Holger Czukay - Movies (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/b532302c-ab4a-4917-85e0-cf600fb743ba/12442242530-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Colours (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
 </li>
@@ -218,6 +209,9 @@ Tangerine Dream - Exit (1981-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/792e00a8-a0fd-466d-a762-f4a74a38eb54/21783889382-500.jpg" data-tags="krautrock, can" role="button">
 Can - Cannibalism 1 (1989-07-01)
+</li>
+<li data-cover="https://img.discogs.com/CYedPJRqRDF45COD39dRYmnaTYg=/fit-in/569x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-267468-1264508479.jpeg.jpg" data-tags="ambient, krautrock, kraut, hoeralbum, geniale musik vom altmeister" role="button">
+Manuel Göttsching - Dream & Desire (1991)
 </li>
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
@@ -258,8 +252,8 @@ Die Goldenen Zitronen - Lenin (2006-06-02)
 <li data-cover="https://img.discogs.com/ZtYknrJ0GuQzA5Lf9V5n0xlQ3KY=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809619-1242027681.jpeg.jpg" data-tags="1live fiehe, krautrock" role="button">
 120 Days - 120 Days (2006-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/f48ed54e-8a15-4f1c-9846-9b72a2c9acd7/15530605251-500.jpg" data-tags="downtempo, space rock, psychedelic rock" role="button">
-We Fell to Earth - We Fell To Earth (2009-07-13)
+<li data-cover="https://img.discogs.com/BH6OneDtx4vckJXNasJEZ35ee-I=/fit-in/423x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817167-1370432259-3507.jpeg.jpg" data-tags="krautrock, psychedelic, psychedelic rock, feel the noize, holy mountain, holy mountain records" role="button">
+Blues Control - Blues Control (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b7453da-f435-4e22-9e33-15c78727fd90/1984961533-500.jpg" data-tags="alternative rock" role="button">
 Radiohead - These Are My Twisted Words (2009-08-17)
@@ -269,6 +263,9 @@ The Twilight Sad - Forget the Night Ahead (2009-09-22)
 </li>
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
+</li>
+<li data-cover="https://img.discogs.com/9YbPKOt3pBqX5tH3UXIDlJ2pxDo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1998351-1489349158-6896.jpeg.jpg" data-tags="jazz, instrumental, ambient, experimental, krautrock, atmospheric, soft jazz" role="button">
+The Necks - Silverwater (2009-10-23)
 </li>
 <li data-cover="https://img.discogs.com/PPeP2Vnh5RCArT15bMH0pPV_OcM=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199804-1269423816.jpeg.jpg" data-tags="krautrock, psychedelic, my favorite things" role="button">
 Dimlite - Prismic Tops (2010-05-04)
@@ -311,6 +308,9 @@ Primal Scream - More Light (2013-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7998b57f-0317-4c8f-a00e-b12b9c22df33/4432534452-500.jpg" data-tags="experimental, techno, idm" role="button">
 Holden - The Inheritors (2013-06-16)
+</li>
+<li data-cover="https://img.discogs.com/5X-a7sofYjuzS0X6Kb_tgA6J1vI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4919239-1516184929-5949.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Death Hawks - Death Hawks (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2469a6a4-d9fb-468b-9389-68fcd0f80a06/5440308357-500.jpg" data-tags="space rock, psychedelic black metal" role="button">
 Oranssi Pazuzu - Valonielu (2013-10-11)

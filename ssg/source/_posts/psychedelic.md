@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:27:01.751Z
+date: 2021-04-12T18:16:06.971Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -270,9 +270,6 @@ Radiohead - The King of Limbs (2011-02-18)
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
@@ -290,6 +287,9 @@ Frank Ocean - channel ORANGE (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
 Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)
+</li>
+<li data-cover="https://img.discogs.com/Xd89B7vAbeXdJFsEnBio3wCG__I=/fit-in/492x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3954491-1369233082-6418.jpeg.jpg" data-tags="psychedelic rock, psychedelic, sweden, afro-beat" role="button">
+Goat - World Music (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)

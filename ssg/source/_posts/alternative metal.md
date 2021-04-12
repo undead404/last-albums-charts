@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:07:01.508Z
+date: 2021-04-12T17:56:01.480Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -33,11 +33,11 @@ Primus - Sailing The Seas Of Cheese (1991-05-14)
 <li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
-</li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
+</li>
+<li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
+Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
@@ -60,9 +60,6 @@ Rage Against the Machine - Evil Empire (1996-02)
 <li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
-<li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
-Faith No More - Album of the Year (1997-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
@@ -74,6 +71,9 @@ System of a Down - System of a Down (1998-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e8f0eda-b120-4495-aec6-416d83820697/3366759968-500.jpg" data-tags="nu metal" role="button">
 Korn - Follow the Leader (1998-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
+Godsmack - Godsmack (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Slipknot (1999-06-29)
@@ -135,6 +135,9 @@ System of a Down - Toxicity (2001-08-27)
 <li data-cover="http://coverartarchive.org/release/6501d73a-ed76-4a7f-b8c0-2dcc255509ce/6163003116-500.jpg" data-tags="alternative metal" role="button">
 Soil - Scars (2001-09-11)
 </li>
+<li data-cover="https://img.discogs.com/9crr3fjxESn9gZG_OQ2TdABKMv8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645776-1556249755-2449.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+Sevendust - Animosity (2001-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/33c4add2-117c-3bc3-adc4-4527b4d7e0ff/11704753059-500.jpg" data-tags="nu metal, rock, hard rock" role="button">
 Papa Roach - LoveHateTragedy (2002-05-31)
 </li>
@@ -185,9 +188,6 @@ A Perfect Circle - Thirteenth Step (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3fad414-9b92-4d04-b703-9605d5d33bac/11826715727-500.jpg" data-tags="rock" role="button">
 Nickelback - The Long Road (2003-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
-Mushroomhead - XIII (2003-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d294a5f4-eb5d-31f3-b895-6bcb3bc147ba/4266344000-500.jpg" data-tags="nu metal" role="button">
 Korn - Take a Look in the Mirror (2003-11-21)
@@ -252,6 +252,9 @@ Stone Sour - Come What(ever) May (2006-07-28)
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a5fb6df-5842-48de-8451-6696a2a280ca/8568379188-500.jpg" data-tags="hard rock, alternative rock, alternative metal" role="button">
+Saliva - Blood Stained Love Story (2007-01-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcffd66c-4f07-486f-91f3-204dd60462dc/2100279999-500.jpg" data-tags="alternative metal, hard rock" role="button">
 Chevelle - Vena Sera (2007-04-03)
 </li>
@@ -260,9 +263,6 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
-</li>
-<li data-cover="https://img.discogs.com/B8R-CkWTVPLzuUN4pVvS1IXAy8k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698892-1480035733-6881.jpeg.jpg" data-tags="nu metal" role="button">
-Korn - Untitled (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4308166d-aa0d-470e-adc9-b62caab2ef68/3202117662-500.jpg" data-tags="alternative metal" role="button">
 Serj Tankian - Elect the Dead (2007-08-20)

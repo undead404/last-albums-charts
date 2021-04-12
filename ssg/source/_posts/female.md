@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:35:01.416Z
+date: 2021-04-12T18:08:01.561Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -129,9 +129,6 @@ Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 <li data-cover="https://img.discogs.com/emXVclxpITLsojrHsGQjsxh9T2E=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-903949-1574984478-5378.jpeg.jpg" data-tags="female, crazy, 00s, kirsty, soundtrack of my life, strong solo woman, naked covers, my mp3 albums" role="button">
 Martha Wainwright - Bloody Mother Fucking Asshole (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/4250b00b-e298-46f4-b718-bd85dfa1932f/10369077725-500.jpg" data-tags="indie" role="button">
-Devics - The Stars At Saint Andrea (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
@@ -234,9 +231,6 @@ Conchita - Nada Más (2007-02-04)
 <li data-cover="https://img.discogs.com/Ho2ZothEblcMv6mVngRtYoIPvss=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1325186-1238157184.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - N.B. (2007-04-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b751266-4d87-4f77-b0d1-e24c972da67b/17355678634-500.jpg" data-tags="female vocalists, missy" role="button">
-Missy Higgins - On A Clear Night [Australian Version] (2007-04-28)
-</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
@@ -264,6 +258,9 @@ Cat Power - Jukebox (2008-01-18)
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
+Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/8cf43ee9-65c3-407e-863d-cdb7b8bbad39/28864635475-500.jpg" data-tags="tom waits, alternative, cover" role="button">
 Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
@@ -275,6 +272,9 @@ Jazmine Sullivan - Fearless (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1368316c-54b8-4fbc-9a38-a01469c42b64/4116426339-500.jpg" data-tags="pop" role="button">
 Dido - Safe Trip Home (2008-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4514e7e-1e49-4779-a19d-6b8500715d0a/5875569062-500.jpg" data-tags="hard rock" role="button">
+Halestorm - Halestorm (2009-02-25)
 </li>
 <li data-cover="https://img.discogs.com/O0WD3ekeZtIODoSmnfQ7g7i4-O0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1733477-1282996272.jpeg.jpg" data-tags="female, soul, uk, female vocalist, 00s, all the best, vile, idol, favoritas, my favorite music, my travel 29, jessica mauboy, love muzik, austrailion, austrailion idol" role="button">
 Jessica Mauboy - Been Waiting (2009-03-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:22:13.419Z
+date: 2021-04-12T18:25:01.480Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -83,6 +83,9 @@ Sum 41 - All Killer No Filler (2001-05-08)
 </li>
 <li data-cover="https://img.discogs.com/eZiWyLJS1IbceZYpIBcNMbGV0Rk=/fit-in/512x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955949-1309284671.jpeg.jpg" data-tags="rock" role="button">
 Default - The Fallout (2001-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/28bb69f0-49b6-4708-9ebb-1de3d2e71e2b/1667482394-500.jpg" data-tags="leonard cohen" role="button">
+Leonard Cohen - Ten New Songs (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bfcd3b1-223b-4220-a787-a0aa7f37567e/7942919709-500.jpg" data-tags="pop punk" role="button">
 Simple Plan - No Pads, No Helmets... Just Balls (2002-03-19)
@@ -197,9 +200,6 @@ The New Pornographers - Challengers (2007-08-07)
 </li>
 <li data-cover="https://img.discogs.com/Pxilf2hUZbctuPvV0rC3JtIpIV0=/fit-in/250x248/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973286-1255989158.jpeg.jpg" data-tags="canadian" role="button">
 Wintersleep - Welcome To The Night Sky (2007-09-24)
-</li>
-<li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">
-The Acorn - Glory Hope Mountain (2007-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)

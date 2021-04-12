@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:10:01.725Z
+date: 2021-04-12T18:10:01.505Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -12,7 +12,7 @@ title: "swedish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">Peter Bjorn and John - Writer's Block (2006-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
-<li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">Junip - Fields (2010-09-10)</li>
+<li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">Miike Snow - Happy To You (2012-03-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -47,6 +47,9 @@ HammerFall - Legacy of Kings (1998-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
+</li>
+<li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">
+Garmarna - Vedergällningen (1999-04-06)
 </li>
 <li data-cover="https://img.discogs.com/Z_vWIgG81qgI8Bkwm5DseoHVZaw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11242966-1512588659-6017.png.jpg" data-tags="indie rock, indie, swedish" role="button">
 The Kooks - Too Much Is Not Enough (1999-09-15)
@@ -254,9 +257,6 @@ Ceo - White Magic (2010-06-28)
 </li>
 <li data-cover="https://img.discogs.com/DubFPCJwQPM2OIEUu84L2PIA2-Y=/fit-in/492x752/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927742-1350604184-6658.jpeg.jpg" data-tags="swedish, rock" role="button">
 Kent - En plats i solen (2010-06-30)
-</li>
-<li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">
-Junip - Fields (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd157141-4520-4a79-a385-bf80432b797d/2859473231-500.jpg" data-tags="indie pop, female vocalists" role="button">
 Lykke Li - Get Some (2010-10-25)

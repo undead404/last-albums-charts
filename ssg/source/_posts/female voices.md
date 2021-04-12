@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:30:12.651Z
+date: 2021-04-12T18:21:12.645Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Natasha Bedingfield - Strip Me (2010-12-07)](https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg "Natasha Bedingfield - Strip Me (2010-12-07)")
@@ -36,6 +36,9 @@ Sandrose - Sandrose (1988)
 <li data-cover="https://via.placeholder.com/450" data-tags="broadway" role="button">
 Julie Andrews - A Little Bit Of Broadway (1988-09-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="country and western" role="button">
+Kelly Willis - Well Travelled Love (1990-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c3bc9b6-d0b1-4772-bbff-59bb67177a8d/16618220950-500.jpg" data-tags="country and western" role="button">
 Kelly Willis - Bang Bang (1991-04-16)
 </li>
@@ -47,9 +50,6 @@ Mary Chapin Carpenter - Come On Come On (1992-06-30)
 </li>
 <li data-cover="https://img.discogs.com/fyoDS43t0DpEHgGYOWdvXjj5NTU=/fit-in/551x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3781371-1344171603-5524.jpeg.jpg" data-tags="folk" role="button">
 Emmylou Harris - Cowgirl's Prayer (1993-09-28)
-</li>
-<li data-cover="https://img.discogs.com/_2jQLQMXWY6qUZIQnws-DkIJYiY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4469250-1365757203-1754.jpeg.jpg" data-tags="female, soul, female vocalists, blues, female vocals, female vocalist, female artists, texas, female voices, jazz blues, female blues vocalist" role="button">
-Lavelle White - Miss Lavelle (1994)
 </li>
 <li data-cover="https://img.discogs.com/WlmK366nWzaikCSrtbbNmYzpHBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-989220-1509823212-1559.jpeg.jpg" data-tags="rock, pop" role="button">
 Edyta Bartosiewicz - Sen (1994)

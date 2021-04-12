@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:34:01.409Z
+date: 2021-04-12T18:43:07.059Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -38,6 +38,9 @@ Sublime - Robbin' The Hood (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5a4cd5-43d1-3b78-a535-272f97c015c9/14327361700-500.jpg" data-tags="rock, 90s" role="button">
 Dave Matthews Band - Under The Table And Dreaming (1994-04)
+</li>
+<li data-cover="https://img.discogs.com/53O4nbwhSos24lA0I3Bm2do3b8M=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-61294-1193595283.jpeg.jpg" data-tags="downtempo, chillout" role="button">
+Nightmares on Wax - Smokers Delight (1995-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
@@ -147,9 +150,6 @@ The Expendables - Gettin' Filthy (2004)
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb6f92bb-c9d0-4998-9e30-ad647853ccd9/4805491008-500.jpg" data-tags="acoustic ska, chill, roots reggae" role="button">
-Slightly Stoopid - Acoustic Roots (2004-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
 </li>
@@ -228,6 +228,9 @@ Bassnectar - Underground Communication (2007-04-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
+Stateless - Stateless (2007-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
@@ -272,9 +275,6 @@ Nicolas Jaar - Space Is Only Noise (2011-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)

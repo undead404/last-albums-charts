@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:49:01.475Z
+date: 2021-04-12T18:45:01.789Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Swedish House Mafia - Don&#39;t You Worry Child (2012)](https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg "Swedish House Mafia - Don't You Worry Child (2012)")
@@ -45,6 +45,9 @@ Mason - Exceeder (2006-06-19)
 <li data-cover="http://coverartarchive.org/release/b1167b82-c752-42cd-aeda-d8349ef9ef90/3586748821-500.jpg" data-tags="electro house" role="button">
 Justice - Phantom (2006-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/db77a248-b4bb-4a79-a04a-8fdfd9323e3a/4714945402-500.jpg" data-tags="nu jazz" role="button">
+The Krolls - FrenchElectroAlcoPop (2007)
+</li>
 <li data-cover="https://img.discogs.com/z9VKRjLaJO5alTq_svOYj03-NTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1115042-1193180138.jpeg.jpg" data-tags="electro, house, electro house" role="button">
 Dada Life - Fun Fun Fun (2007)
 </li>
@@ -53,9 +56,6 @@ Arno Cost & Arias - Magenta (2007-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5223c42-9599-4b4b-9946-939111aa0adb/4022251119-500.jpg" data-tags="electro house" role="button">
 deadmau5 - This Noise (2007-02-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/31c43149-fd3a-4930-aca0-94461324105e/25424358311-500.jpg" data-tags="electronic, electropop" role="button">
-Capsule - Sugarless GiRL (2007-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/158538a3-7ec9-4e9a-aa3e-e3f8665f4d75/3596717602-500.jpg" data-tags="electro house" role="button">
 MSTRKRFT - Street Justice (2007-03-05)
@@ -162,9 +162,6 @@ Wolfgang Gartner - Weekend In America (2011-09-20)
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electro, electro house, 2011 albums, fresh:mesh, i wanna have these albums" role="button">
-Frankmusik - Do It In The AM (2011-09-27)
-</li>
 <li data-cover="https://img.discogs.com/itkpZcb9kZnxRQuPsRrs0ZTdDwI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326399-1361817848-6032.jpeg.jpg" data-tags="electro house" role="button">
 Little Boots - Shake (2011-11)
 </li>
@@ -231,6 +228,9 @@ Havana Brown - When the Lights Go Out (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/30483241-09a0-4f5b-90b2-46141956a2f2/4049288536-500.jpg" data-tags="trance, electronic, electro, dance, house, electro house" role="button">
 Italobrothers - My Life Is A Party (2012-07-27)
 </li>
+<li data-cover="https://img.discogs.com/JlcbEUAXRB3GwbS_TJWUYCaknO4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3786603-1344366011-3519.jpeg.jpg" data-tags="electronica, electro, dance, house, electro house, fidget house, dub house" role="button">
+Jack Beats - Careless (2012-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa821643-4a62-4803-9545-c16ca3047845/3459313151-500.jpg" data-tags="electronic, dance, house, electro house, american" role="button">
 Wolfgang Gartner - Love & War (2012-09-17)
 </li>
@@ -258,11 +258,11 @@ OVERWERK - After Hours (2012-11-28)
 <li data-cover="http://coverartarchive.org/release/0247f557-1e59-41f9-86d2-05af0fcbc3ff/22712884271-500.jpg" data-tags="electronic, dubstep, electro house, drum & bass, glitch hop" role="button">
 Savant - Alchemist (2012-12-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a887917-97f9-4188-a298-60d80826c80f/27567491661-500.jpg" data-tags="ambient, techstep" role="button">
+Noisia - DmC Devil May Cry (Original Game Soundtrack) [Bonus Version] (2013-01-08)
+</li>
 <li data-cover="https://img.discogs.com/M_QJcu0QA38LnmLvW2sT9WPLSK8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5207198-1610671017-2887.jpeg.jpg" data-tags="electro house" role="button">
 Wolfgang Gartner - Anaconda (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5faa285-8ca0-4d2e-bb1f-471dcef00db5/3790506518-500.jpg" data-tags="new rave, dubstep" role="button">
-Hadouken! - Every Weekend (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6653ab0-8a6a-45ad-b8ba-e1805162b3f9/7133364781-500.jpg" data-tags="electro house" role="button">
 Laidback Luke & Hardwell - Dynamo (2013-04-22)

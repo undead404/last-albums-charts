@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:49:06.984Z
+date: 2021-04-12T18:34:01.448Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/de31ca06-a515-4c07-972d-d83ce84b7c59/4679706366-500.jpg" data-tags="jazz-funk, rnb" role="button">
 Patrice Rushen - Straight From The Heart (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/d072d167-28e5-4e81-a904-1c85f7fada02/25413603758-500.jpg" data-tags="soul, rnb" role="button">
+Groove Theory - Groove Theory (1995-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
@@ -123,9 +126,6 @@ Kelis - Tasty (2003-12-08)
 <li data-cover="http://coverartarchive.org/release/8c4e505c-d014-47aa-b7b8-720457e782bc/2980579320-500.jpg" data-tags="soul, neo-soul" role="button">
 Musiq - Soulstar (2003-12-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5ad949c-a2c5-35d0-86c8-7a54cde44ba1/15258576861-500.jpg" data-tags="funk, neo-soul, funky" role="button">
-Amp Fiddler - Waltz Of A Ghetto Fly (2004-01-26)
-</li>
 <li data-cover="https://img.discogs.com/zER-OfNX69vy-xL1MoLznnjqmvs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-512667-1191067174.jpeg.jpg" data-tags="soul, neo-soul" role="button">
 Van Hunt - Van Hunt (2004-02-24)
 </li>
@@ -225,9 +225,6 @@ John Legend - Evolver (2008-10-22)
 <li data-cover="http://coverartarchive.org/release/f8c1fe45-66b1-44f2-a32c-c04fa0645289/28404679797-500.jpg" data-tags="soul" role="button">
 Erykah Badu - Live (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
-Noisettes - Wild Young Hearts (2009-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/5354d8b5-299b-4b12-a8cd-0a8389becdc0/6360810457-500.jpg" data-tags="jazz, soul, rnb, neo-soul, british soul, alternative rnb" role="button">
 Celeste - Misanthrope(s) (2009-04-30)
 </li>
@@ -236,6 +233,9 @@ Maxwell - BLACKsummers'night (2009-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/55254afb-148f-4e60-960f-af4b23b8c66d/4840328264-500.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - The Sea (2010-01-20)
+</li>
+<li data-cover="https://img.discogs.com/3FG9l2a-Gz4Z9m9TB4ZpqI3XCKA=/fit-in/490x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098056-1315650225.jpeg.jpg" data-tags="neo-soul" role="button">
+Nneka - Concrete Jungle (2010-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/06697697-6019-31eb-b5a0-f7bc3c861bbe/4896141275-500.jpg" data-tags="soul" role="button">
 Sade - Soldier of Love (2010-02-05)

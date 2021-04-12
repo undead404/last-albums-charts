@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:12:07.105Z
+date: 2021-04-12T18:31:06.984Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -195,6 +195,9 @@ City and Colour - Bring Me Your Love (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/16d325ef-b41b-44d0-beba-616c5880f62f/3323563945-500.jpg" data-tags="folk" role="button">
+Frank Turner - Love Ire & Song (2008-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/35aa1419-4284-47e8-ac73-b16996d4a4b3/4394764411-500.jpg" data-tags="folk" role="button">
 Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)
 </li>
@@ -203,9 +206,6 @@ Blitzen Trapper - Furr (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)

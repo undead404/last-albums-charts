@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:39:01.396Z
+date: 2021-04-12T18:42:01.452Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
@@ -168,9 +168,6 @@ Bloodsucking Zombies from Outer Space - See You at Disneyland (2004-06-14)
 <li data-cover="https://img.discogs.com/yasJH7j7KAYMBwjM8uWrUKNmibk=/fit-in/250x249/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848493-1165089176.jpeg.jpg" data-tags="horror punk" role="button">
 Dr. Chud's X-Ward - Diagnosis for Death (2004-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e1215dd-1ca0-480b-911a-6c9ddca653f9/15177837453-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Danzig - Circle of Snakes (2004-08-31)
-</li>
 <li data-cover="https://img.discogs.com/uRC95Fvu1DbaPf1va_2HPUDfo8w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-854582-1165698667.jpeg.jpg" data-tags="horror punk" role="button">
 American Werewolves - 1968 (2005)
 </li>
@@ -197,6 +194,9 @@ Michale Graves - Punk Rock Is Dead (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">
 Aiden - Nightmare Anatomy (2005-10-04)
+</li>
+<li data-cover="https://img.discogs.com/ejUnlwu3LL_j5z0-ryOWJn3iuLs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10818807-1504821584-4398.jpeg.jpg" data-tags="rockabilly, horror punk" role="button">
+Left for Dead - It Begins… (2006)
 </li>
 <li data-cover="https://img.discogs.com/Qs7rHWiuGUMpGm-y5mjcaYylyCQ=/fit-in/468x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3251285-1322402141.jpeg.jpg" data-tags="punk, horror punk" role="button">
 Plan 9 - Manmade Monster (2006)

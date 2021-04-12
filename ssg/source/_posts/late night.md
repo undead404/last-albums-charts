@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:21:01.413Z
+date: 2021-04-12T18:22:01.464Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Cobra Starship - ¡Viva La Cobra! (2007-10-23)](http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg "Cobra Starship - ¡Viva La Cobra! (2007-10-23)")
@@ -48,9 +48,6 @@ Albert King - Live Wire/Blues Power (1968)
 <li data-cover="https://img.discogs.com/_Q7oC1PkJcstTpwX4KEV4GxI-Sc=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719256-1327051981.jpeg.jpg" data-tags="soul" role="button">
 Isaac Hayes - Black Moses (1971-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
-Lou Reed - Berlin (1973-10)
-</li>
 <li data-cover="https://img.discogs.com/kkMKiTJJJwmJFTPXqQBNZQp3I18=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2282797-1539706052-2103.jpeg.jpg" data-tags="ecm" role="button">
 Ralph Towner - Solstice (1974-12)
 </li>
@@ -77,6 +74,9 @@ Bill Frisell - In Line (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea949d3-1de7-3f1e-84c1-f7e4c02971b8/1096667456-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Apollo: Atmospheres & Soundtracks (1983-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="bass, late night, afterhours, smooth guitar, late night jazz, frisell, driving late at night, interesting guitar sounds, like passing clouds, selbst, m johnson" role="button">
+Marc Johnson - Second Sight (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/47dbf457-5cae-47a1-a132-d1ecf4a89692/4283472817-500.jpg" data-tags="chillout, chill, ambient, downtempo, dub, world, late night, after hours, ethnic fusion, world-trance, afterparty" role="button">
 Suns Of Arqa - Jaggernaut : Whirling Dub (1989)
@@ -150,6 +150,9 @@ Suede - Head Music (1999-04-28)
 <li data-cover="http://coverartarchive.org/release/79af6696-da5c-429a-b279-2073349f1e98/22716532687-500.jpg" data-tags="greek" role="button">
 Θανάσης Παπακωνσταντίνου - Βραχνός Προφήτης (2000)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="greek" role="button">
+Διάφανα Κρίνα - Ευωδιάζουν αγριοκέρασα οι σιωπές (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
 </li>
@@ -183,9 +186,6 @@ Aimee Mann - Lost in Space (2002-08-27)
 <li data-cover="http://coverartarchive.org/release/e938c289-b8fd-4988-979d-355c4bf664c9/6154964691-500.jpg" data-tags="bass, late night, allboutguitar, karlsruhe, late night jazz, gitarrenunterricht, like passing clouds, wwwlautfmbluesclub, gitarrenunterricht berlin, gitarrenunterricht in karlsruhe" role="button">
 Lucky Peterson - Black Midnight Sun (2003)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, techno, idm, late night, full tracks" role="button">
-substanz-t - Electric Opium (2003-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c12cad5-bfca-4738-a06d-16b0b7b2679d/20294604785-500.jpg" data-tags="folk, singer-songwriter, female vocalists" role="button">
 Ane Brun - Spending Time With Morgan (2003-05-25)
 </li>
@@ -207,8 +207,8 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/49e8aa14-6342-427d-bc27-a4a89e05bf99/26013935059-500.jpg" data-tags="chillout, world fusion" role="button">
 Atman - India Club & Lounge (2004-06-01)
 </li>
-<li data-cover="https://img.discogs.com/My1b03HhHcNV7OMiY2f-zwpQkPc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698292-1554136772-7063.jpeg.jpg" data-tags="alternative, rock, alternative rock, cover, greg dulli" role="button">
-The Twilight Singers - She Loves You (2004-08-24)
+<li data-cover="http://coverartarchive.org/release/5b4306bf-2f14-4c48-8291-7a2342f039c7/16476293619-500.jpg" data-tags="bass, late night, late night jazz, like passing clouds, turns my speakers alive" role="button">
+Bill Douglas - Sky (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="late night, sjekkkut" role="button">
 Bill Fay Group - Tomorrow Tomorrow and Tomorrow (2005-01)
@@ -225,6 +225,12 @@ Janita - Seasons Of Life (2005-03-15)
 <li data-cover="http://coverartarchive.org/release/6bf927a7-ca9c-41d6-a24d-52d6a2b07232/20641049798-500.jpg" data-tags="jazz" role="button">
 Ketil Bjørnstad - Floating (2005-10-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, minimal, atmospheric, late night, slow motion, elevator bath" role="button">
+Adam Pacione - Sisyphus (2005-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/657730ac-959c-4f5f-9e7f-8edb7d206cd8/3610005523-500.jpg" data-tags="chillout, chill, ambient, new age, yoga, late night, meditation, relaxing, 00s, healing, after hours, deep listening, shamanic, beyondwithin, afterparty, pre-flight, avant shamanic, beyondwithins travel, beyondwithins pre-flight, world shamanic" role="button">
+Paradiso - Shaman's Trance (2005-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/f20a9c6f-bdd4-4980-bb91-b989f75d1324/2965481749-500.jpg" data-tags="ambient" role="button">
 Tor Lundvall - Empty City (2006)
 </li>
@@ -234,11 +240,8 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">
 Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)
 </li>
-<li data-cover="https://img.discogs.com/23KDWpDKCHjoV2235w2ZetwpXvM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-970404-1416673887-3704.jpeg.jpg" data-tags="ambient, hymen" role="button">
-substanz-t - Beyond E (2007-04)
-</li>
-<li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
-D'espairsRay - MIRROR (2007-04-11)
+<li data-cover="http://coverartarchive.org/release/d7c94d9f-2a75-4859-8ba6-3105f871e0fc/2941542346-500.jpg" data-tags="jazz, japanese, ambient, experimental, acoustic, late night, percussion, dwars, peppermint tea" role="button">
+Thomas Belhom - Cheval Oblique (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
@@ -275,9 +278,6 @@ Aluk Todolo - Finsternis (2009-05-30)
 </li>
 <li data-cover="https://img.discogs.com/5YxHZTsVJNEAFxJ3UTZrnPnxjuI=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7242839-1562689179-6178.png.jpg" data-tags="jazz, downtempo, late night, mellow, chill out, melancholia, pearls in stereo, mysterious skin, metafizyka, fresh and new, i love this melody" role="button">
 Kayah - Skała (2009-09-11)
-</li>
-<li data-cover="https://img.discogs.com/-GkWG45qF0RFwPY6xXnRV_BMyWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455118-1284997260.jpeg.jpg" data-tags="singer-songwriter, late night, the good stuff" role="button">
-Peter Broderick - How They Are (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)

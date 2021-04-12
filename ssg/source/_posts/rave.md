@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:04:06.991Z
+date: 2021-04-12T18:26:01.452Z
 title: "rave: 100 albums you must listen to before you die"
 ---
 ![Die Antwoord - Donker Mag (2014-05-30)](http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg "Die Antwoord - Donker Mag (2014-05-30)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/zh0TYVjhRsr_6pU2DqJGoNrsa3k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-360782-1254151929.jpeg.jpg" data-tags="rave" role="button">
 Adamski - Liveandirect (1989)
-</li>
-<li data-cover="https://img.discogs.com/fsEy_chvah6yumoTgA_Mifez80I=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1534556-1365669376-2312.jpeg.jpg" data-tags="madchester" role="button">
-Happy Mondays - Pills 'n' Thrills and Bellyaches (1990-04)
 </li>
 <li data-cover="https://img.discogs.com/LLccauUqd7B0RXOdRpgQEIg64QQ=/fit-in/509x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-307968-1286002001.jpeg.jpg" data-tags="electronic" role="button">
 The Orb - Little Fluffy Clouds (1990-11)
@@ -69,11 +66,17 @@ Terrorize - It's Just A Feeling (1992)
 <li data-cover="https://img.discogs.com/y6tc77rNEr-GfHaYslUu-SauoRI=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1354429-1212248523.jpeg.jpg" data-tags="early 90s rave" role="button">
 Shades Of Rhythm - The Album (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/8aab3939-00e4-407d-907d-8fa6e81bd0aa/28876882908-500.jpg" data-tags="old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
+Egyptian Empire - The Horn Track (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/001bf21f-f12e-4d09-8ca4-e05cfc06367e/25906852300-500.jpg" data-tags="electronic, dance, 90s, old skool, breakbeat, rave, trip, old school hardcore" role="button">
 Acen - Trip II The Moon part 1 (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce869b96-7deb-45cf-98ed-ecc709cbabb9/23989337507-500.jpg" data-tags="electronica, dance, techno" role="button">
 Eon - Void Dweller (1992)
+</li>
+<li data-cover="https://img.discogs.com/hBYQeIoGEe5XqRpGhf4LP-d6JD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-68718-1590091362-9988.jpeg.jpg" data-tags="old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
+Kicks Like a Mule - The Bouncer (1992-01-20)
 </li>
 <li data-cover="https://img.discogs.com/mUDwoH1wXRlzLTKh404Q2LXsdeY=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2879535-1305382875.jpeg.jpg" data-tags="electronica, rave" role="button">
 Moby - Drop a Beat (1992-03)
@@ -89,6 +92,9 @@ Messiah - Temple of Dreams (1992-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/db57e4ad-11bb-4578-8d32-1e53c53b18bd/28713799399-500.jpg" data-tags="house, detroit techno" role="button">
 Inner City - Praise (1992-06-01)
+</li>
+<li data-cover="https://img.discogs.com/_WgkH71dLJ4NzVovaNd-3whPZGg=/fit-in/600x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-36044-1221502096.jpeg.jpg" data-tags="dance, 90s, old skool, rave, old school hardcore, breakbeat hardcore, toytown" role="button">
+Urban Hype - A Trip to Trumpton (1992-06-29)
 </li>
 <li data-cover="https://img.discogs.com/mRYcMQA5th3oEWXSwoOPZ6dKZGA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34773-1503438535-8621.jpeg.jpg" data-tags="jungle, old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
 Dance Conspiracy - Dub War (1992-09-21)
@@ -123,6 +129,9 @@ Scooter - Hyper Hyper (1994-05-26)
 <li data-cover="http://coverartarchive.org/release/a6f67b96-5f97-495c-b224-ec93d521f922/28813801569-500.jpg" data-tags="rave, happy hardcore" role="button">
 DJ Paul Elstak - May the Forze Be With You (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/18181952-2fa3-4439-bc27-211bd3207fe6/27161844252-500.jpg" data-tags="rave, happy hardcore" role="button">
+DJ Paul Elstak - Rainbow in the Sky (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8a0b1bc-b8e0-45c2-8122-b12d254fc423/3497470060-500.jpg" data-tags="happy hardcore, trance" role="button">
 Scooter - ...and the Beat Goes On! (1995-01-31)
 </li>
@@ -135,6 +144,9 @@ N-Joi - Inside Out (1995-08-03)
 <li data-cover="https://img.discogs.com/afSM_0cgJBpgEgH9kwos-XfxS5k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-204702-1080652852.jpg.jpg" data-tags="electronic, pop, 90s, rave, 90's" role="button">
 Sunscreem - Change or Die (1996)
 </li>
+<li data-cover="https://img.discogs.com/z54mf66uPKA31KXdKQl5b-9QONA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657214-1234996679.jpeg.jpg" data-tags="old skool, breakbeat, prodigy, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
+The Prodigy - Pyromaniac (1996)
+</li>
 <li data-cover="https://img.discogs.com/BfdUY3aG-7i1QYitm9wy9xMoloQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-124582-1368029005-6485.jpeg.jpg" data-tags="classic, house, rave, great groove, where are my headphones, where is my bong, weightlifting music, beats for days, music to play on mdma, has me dancing even now" role="button">
 Bizarre Inc. - Surprise (1996)
 </li>
@@ -146,6 +158,12 @@ Music Instructor - The World of Music Instructor (1996-03-28)
 </li>
 <li data-cover="https://img.discogs.com/GXfN-xYlHqh6FYn7AtYBUXLorRQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23696-1539423054-8683.jpeg.jpg" data-tags="happy hardcore, dance" role="button">
 Blümchen - Herzfrequenz (1996-05-20)
+</li>
+<li data-cover="https://img.discogs.com/DC0jlNEJYjQP4Pruu1zO1mtFSp0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1133291-1194737054.jpeg.jpg" data-tags="old skool, rave, old school hardcore, breakbeat hardcore" role="button">
+Omni Trio - Trippin' On Broken Beats (1996-07-01)
+</li>
+<li data-cover="https://img.discogs.com/7FRBb7js_uMkr-wqkiXK-N05g4Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-260128-1172509207.jpeg.jpg" data-tags="trance" role="button">
+RMB - Reality (1996-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4aefc2b9-d85a-43ab-a12e-a07debc64203/11446323627-500.jpg" data-tags="trance, dance, techno, remix, rave, loops, pipes" role="button">
 Scooter - I'm Raving (1996-10-17)
@@ -161,9 +179,6 @@ The Prodigy - The Rest, The Unreleased! The Last! (1997)
 </li>
 <li data-cover="https://img.discogs.com/FQ0Cd54-DwNjKHTUEKDlfMxvS68=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12372523-1533929886-3292.jpeg.jpg" data-tags="electronic, dance, old skool, rave, old school hardcore, breakbeat hardcore, electronic breakbeat" role="button">
 The Prodigy - The Singles (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/c407cd4b-d657-4086-80d7-792ac2c46c92/10527641425-500.jpg" data-tags="electronic, instrumental, dance, new wave, rave, dance rock, experiemental, proto-synthpop, proto-rave, proto-dance" role="button">
-New Order - Video 586 (1997-09-08)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="techno" role="button">
 Marusha - No Hide No Run (1998-04)
@@ -192,20 +207,11 @@ Special D. - Come With Me (2003-03-24)
 <li data-cover="https://img.discogs.com/dYA8iHe_Huc5awOwYkgCtQ5aN1g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136949-1515841853-9853.jpeg.jpg" data-tags="techno" role="button">
 Scooter - The Stadium Techno Experience (2003-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/3763ff11-de2c-4795-97a9-651dbf3f343c/27342355537-500.jpg" data-tags="idm, glitch" role="button">
-Gescom - ISS:SA (2003-04-14)
-</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3aaafdb3-4782-41ec-b312-034a35e49e87/3886930836-500.jpg" data-tags="rave" role="button">
 x|k - Nestek (2005-05-30)
-</li>
-<li data-cover="https://img.discogs.com/jUyx5qJQqKBFg4eIOdTwkQsBVZg=/fit-in/600x732/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16148529-1604253243-8893.jpeg.jpg" data-tags="breakcore, r4gg4nb4ss" role="button">
-Bong-Ra - I Am the God of Hellfire (2005-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/735cd670-c914-47d0-922a-5507496fa58d/1398034389-500.jpg" data-tags="progressive house" role="button">
-Askura Alexander Shkuratov - PORRIDGE (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf786f88-3871-4f26-a56b-9e9800a85f79/7013875443-500.jpg" data-tags="trance, electronic" role="button">
 Ferry Corsten - L.E.F. (2006-05-26)
@@ -228,11 +234,8 @@ Scooter - Jumping All Over The World (2008-02-01)
 <li data-cover="http://coverartarchive.org/release/534d787a-e13b-4cb5-ad0b-196fef1d957e/27968547770-500.jpg" data-tags="post-rock, experimental" role="button">
 65daysofstatic - The Distant And Mechanised Glow Of Eastern European Dance Parties (2008-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/6d546406-e26b-43c5-bb1e-ca2deb528e47/15180821326-500.jpg" data-tags="breakcore" role="button">
-Venetian Snares - Detrimentalist (2008-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
-Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
+<li data-cover="https://img.discogs.com/LXdeM0h7n1suZM5qFn1S-1tG7nc=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1651232-1234629555.jpeg.jpg" data-tags="pop, house, acid, rave, tekkno, upitup" role="button">
+Roglok - Out Of Disorder (2008-07-18)
 </li>
 <li data-cover="https://img.discogs.com/QFjAE9ia3Tia8hw-dWRux0k9wGA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1485948-1322076565.jpeg.jpg" data-tags="industrial" role="button">
 Modulate - Detonation (2008-09-19)
@@ -246,9 +249,6 @@ Girls Aloud - Out of Control (2008-10-31)
 <li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">
 Zomby - Where Were U in '92? (2008-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/42715c69-3c54-43ef-a872-d293d57ad86d/1164301608-500.jpg" data-tags="jungle, breakcore" role="button">
-Alec Empire - Bass Terror (2008-12-03)
-</li>
 <li data-cover="https://img.discogs.com/DY6awojO4c13TtlPg0BQ5AbZA3g=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104893-1290434694.jpeg.jpg" data-tags="electronic" role="button">
 The Prodigy - Spontaneous Human Combustion (2009-03-03)
 </li>
@@ -258,8 +258,8 @@ ManMadeMan - Children Of The Light (2009-09-23)
 <li data-cover="https://img.discogs.com/d94QcDtvps0kRqOBF7Jn0p6P9Qw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349054-1260153229.jpeg.jpg" data-tags="electronic, hardcore, australian, rave, happy hardcore, uk hardcore" role="button">
 S3RL - Little Kandi Raver / Dealer / Le Rock (2009-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/2051a555-6dbb-410c-a486-f538d99a81a6/25498029419-500.jpg" data-tags="digital hardcore" role="button">
-Kitcaliber - This Broken City (2010-03-27)
+<li data-cover="https://img.discogs.com/azhja2lBmIJAs2bWtguENM3Sfms=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4758687-1374591741-9130.jpeg.jpg" data-tags="noise, industrial, ebm, powernoise, electronic, electro, techno, harsh ebm, techno-industrial, aggrotech, techno industrial, true industrial, pronoise" role="button">
+Hexis - everyday is doomsday (2010-01-12)
 </li>
 <li data-cover="https://img.discogs.com/bKK74S9QNJBRbOJvgUXnBPkURZw=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457071-1219221867.jpeg.jpg" data-tags="trance, electronic, dance, rave, scooter, jumpstyle, hardstyle" role="button">
 Scooter - Russian Replay (2010-05-13)
@@ -276,11 +276,11 @@ Infected Mushroom - Pink Nightmares (2011-08-03)
 <li data-cover="https://img.discogs.com/eYIX7NgPApXv1XcMCmrJJP6jm7I=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7362515-1439830986-3810.jpeg.jpg" data-tags="trance, electronic, pop, hardcore, dubstep, dance, techno, house, rave, eurodance, scooter, edm, hardstyle" role="button">
 Scooter - The Big Mash Up (2011-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b3c950a-2359-427e-be63-18b3fa86e503/2473906542-500.jpg" data-tags="breakcore, rave, gabber" role="button">
-Renard feat. Futret - GABBERSTÄG (2012-01-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d73c26d-3f92-4a77-b504-e359722ed751/25392568940-500.jpg" data-tags="electronica, psychedelic, breakbeat, rave, badass, live recording" role="button">
 Leftfield - Tourism (2012-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ca574e0d-4a69-4540-9fdf-d4c084d6f86f/9371156467-500.jpg" data-tags="electro, industrial, remix, dark electro, ebm, peru, powernoise, aggrotech, pronoise, noise, electronic, electronica, rave, rhythmic noise, harsh ebm, tbm, peruvian, true industrial, vampirefreaks, peruvianfreaks" role="button">
+Hexis - Pornoise (2012-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cc9e21b-0828-4e9b-aeff-cd5e2737bede/27897983918-500.jpg" data-tags="trance, electronica, dance, house, club, rave, dj" role="button">
 DJ Roc - Smile for Me (2012-04-16)

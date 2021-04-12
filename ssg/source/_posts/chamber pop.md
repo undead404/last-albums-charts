@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:54:08.065Z
+date: 2021-04-12T18:02:01.468Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -29,9 +29,6 @@ Eels - Beautiful Freak (1996-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, indie" role="button">
 Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
-</li>
-<li data-cover="https://img.discogs.com/CExFDFXQ0jCSCG66FkErPGf1jio=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3161365-1430298045-4864.jpeg.jpg" data-tags="indie pop, chamber pop" role="button">
-Belle and Sebastian - Dog on Wheels (1997-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef8ffab3-2a8e-42d0-a208-5fef13716494/3558127143-500.jpg" data-tags="chamber pop, melancholy" role="button">
 Tindersticks - Curtains (1997-06-16)
@@ -77,6 +74,9 @@ Destroyer - Your Blues (2004-03-08)
 </li>
 <li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/1555c06f-c4a7-4608-af79-e13a3e060001/26560920966-500.jpg" data-tags="electronic, indie" role="button">
+Flotation Toy Warning - Bluffer's Guide to the Flight Deck (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
@@ -162,9 +162,6 @@ Camera Obscura - My Maudlin Career (2009-04-20)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
@@ -215,6 +212,9 @@ Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
+</li>
+<li data-cover="https://img.discogs.com/iTQNjUDuPe58SxPlS1_zv65LYmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3414448-1405202646-7635.jpeg.jpg" data-tags="indie, pop, alternative, indie pop, piano, chamber pop, mellow, synthpop, adult alternative, folktronica, swedish pop, alternative pop, 2012 albums" role="button">
+Amanda Mair - Amanda Mair (2012-02-15)
 </li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)

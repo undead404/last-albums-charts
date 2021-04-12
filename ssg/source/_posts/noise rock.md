@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:37:01.418Z
+date: 2021-04-12T18:35:01.476Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -144,9 +144,6 @@ mclusky - mclusky Do Dallas (2002-02-25)
 <li data-cover="https://img.discogs.com/zjUyWAOCKKRO0GZFI3KUhGsT9JQ=/fit-in/400x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11890340-1525188565-1377.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Murray Street (2002-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea719664-47cb-41cc-b5df-ec3ce7d5ab31/27629719871-500.jpg" data-tags="mathcore" role="button">
-Daughters - Daughters (2002-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/f626b8d5-67a6-4bc7-82cd-4a0c24c8ed5d/11799177283-500.jpg" data-tags="noise rock" role="button">
 Lightning Bolt - Wonderful Rainbow (2003-03-04)
 </li>
@@ -234,9 +231,6 @@ Sleigh Bells - Treats (2010-05-11)
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
-<li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
-Klaxons - Surfing the Void (2010-08-20)
-</li>
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
@@ -251,6 +245,12 @@ Iceage - New Brigade (2011-01-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6cd5be2-af50-4ee0-9f1c-97b1f5ed5ec0/27155203890-500.jpg" data-tags="noise rock, psychedelic rock" role="button">
+The Psychic Paramount - II (2011-02-22)
+</li>
+<li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
+Thurston Moore - Demolished Thoughts (2011-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/04ce3358-ce6f-4bd2-b00e-d0c8c5276064/2098747140-500.jpg" data-tags="noise rock, post punk, punk rock, sacred bones, real post-hardcore, sacred bones records" role="button">
 The Men - Leave Home (2011-05-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:19:01.479Z
+date: 2021-04-12T18:17:07.056Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -21,14 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
-Little Feat - Dixie Chicken (1973-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, funk, 70s, disco" role="button">
 Earth, Wind & Fire - I Am (1979-07-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, sade" role="button">
 Sade - Promise (1985-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/698fa1f0-6e8c-42a0-a1dd-9558d0d521ee/1637729272-500.jpg" data-tags="pop" role="button">
+Mariah Carey - Mariah Carey (1990-08-22)
 </li>
 <li data-cover="https://img.discogs.com/7zuSQ9RF-UsNVO54eTfTabWpEnw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843108-1436420228-2593.jpeg.jpg" data-tags="new jack swing, r&b" role="button">
 Boyz II Men - Cooleyhighharmony (1991-04-30)

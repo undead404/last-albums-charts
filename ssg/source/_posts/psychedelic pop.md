@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:10:01.583Z
+date: 2021-04-12T18:28:01.539Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/v87id1CYaQrZjZbqgRuaglDZzHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5468752-1394647187-4014.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
-The Hollies - Hollies (1965-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
 </li>
@@ -32,9 +29,6 @@ Harry Nilsson - Pandemonium Shadow Show (1967)
 </li>
 <li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">
 Scott McKenzie - San Francisco (1967-05-04)
-</li>
-<li data-cover="https://img.discogs.com/z50eU4ASpw3cERdRnIYd4KuJS5I=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1703829-1603591228-1739.jpeg.jpg" data-tags="psychedelic pop, psychedelic" role="button">
-Blossom Toes - We Are Ever So Clean (1967-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
@@ -60,14 +54,17 @@ Bee Gees - Odessa (1969-02)
 <li data-cover="http://coverartarchive.org/release/a9aeac98-fc50-4362-b3f7-a8ff9957de9a/20017383221-500.jpg" data-tags="60s" role="button">
 The Kinks - Arthur (Or the Decline and Fall of the British Empire) (1969-10-10)
 </li>
-<li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
-Kevin Ayers - Joy Of A Toy (1969-11)
-</li>
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/fe022ed2-38c3-4a8f-8cc0-840eb15f4fd0/10747165508-500.jpg" data-tags="pop, rock" role="button">
+The Beach Boys - Holland (1973-01-08)
+</li>
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
+</li>
+<li data-cover="https://img.discogs.com/eAPMlVybaEE2sCU0XL8hWxb__Bc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1418086-1218173648.jpeg.jpg" data-tags="indiepop, psychedelic" role="button">
+Television Personalities - Mummy Your Not Watching Me (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/252dc472-62c7-43d7-af4b-dfea71cda051/9699596876-500.jpg" data-tags="funk, prince, pop" role="button">
 Prince & The Revolution - Around the World in a Day (1984)
@@ -213,9 +210,6 @@ Clinic - Bubblegum (2011-01-31)
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="https://img.discogs.com/Wr_Ni4P6ZVSxBwehgh2gkb-ilek=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831180-1302996586.jpeg.jpg" data-tags="psychedelic pop, psychedelic rock, rel-yr:2011, rel-mnth:2011:april, vorgemerkt, aj playlist" role="button">
 Dengue Fever - Cannibal Courtship (2011-04-14)
 </li>
@@ -227,6 +221,9 @@ Gang Gang Dance - Eye Contact (2011-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
+</li>
+<li data-cover="https://img.discogs.com/ReX412HOuNKxTEaP8eG-CwxtB7Y=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727148-1485641601-7302.jpeg.jpg" data-tags="electronic, electronica, indie, soul, alternative, alternative rock, indie pop, downtempo, new wave, dance-pop, britpop, psychedelic pop, indietronica, trip hop, synthpop, psychedelic rock, alternative pop, alternative dance, electronic rock, dance-rock" role="button">
+Gary Go - Now Was Once The Future (2012-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e44b221-832d-4310-bf12-1067c9f00370/2852359567-500.jpg" data-tags="psychedelic pop, wfmu heavily played records" role="button">
 Gap Dream - Gap Dream (2012-01-10)
@@ -245,9 +242,6 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/0915ed5d-5cfe-4b43-a7d1-1c4ee6fa4a86/3439424827-500.jpg" data-tags="electronic, blue album covers" role="button">
-Sébastien Tellier - My God is Blue (2012-04-16)
 </li>
 <li data-cover="https://img.discogs.com/SfcXMEQC-fnKkmHXC-O1StyZ8sk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3885595-1551508522-5121.jpeg.jpg" data-tags="rock" role="button">
 Tame Impala - Elephant (2012-07-25)
@@ -288,11 +282,17 @@ Jagwar Ma - Howlin (2013-06-10)
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/899223a2-d866-41b8-aee2-9a131cc07eba/5905585839-500.jpg" data-tags="electronic, jazz, alternative rock, experimental, indie rock, indie electronic, dance, psychedelic pop, dream pop, psychedelic rock, alternative dance, neo-disco,  noise pop" role="button">
+Larry Gus - Years Not Living (2013-06-25)
+</li>
 <li data-cover="https://img.discogs.com/J7yfrpVoplHYq-CYXRLMyqNDyH0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4745669-1378143796-2392.jpeg.jpg" data-tags="electronic, experimental, indie rock, post-rock, experimental rock, synth pop, psychedelic pop, experimental electronic, alterantive rock" role="button">
 Grumbling Fur - Glynnaestra (2013-07-23)
 </li>
 <li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/92ff82d9-df60-447c-9d35-728a4a347bbc/21261225041-500.jpg" data-tags="neo-psychedelia" role="button">
+The Flaming Lips - Peace Sword (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
 Cut Copy - Free Your Mind (2013-11-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:18:01.496Z
+date: 2021-04-12T18:32:07.067Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -26,9 +26,6 @@ Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
-Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
@@ -147,9 +144,6 @@ Beastie Boys - To the 5 Boroughs (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Roots - The Tipping Point (2004-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Mos Def - The New Danger (2004-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
 CunninLynguists - A Piece of Strange (2005)
 </li>
@@ -165,6 +159,9 @@ Fort Minor - The Rising Tied (2005-11-21)
 <li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
 T.I. - King (2006-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
+The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
 </li>
@@ -173,6 +170,9 @@ Wiz Khalifa - Show And Prove (2006-09-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e5982e9-f356-4f2e-9929-a13882c2db93/5699038720-500.jpg" data-tags="hip hop" role="button">
+Atmosphere - Sad Clown Bad Summer Number 9 (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/suszDkAspQfZiKQlPi0XTLyjdJQ=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1058825-1188845963.jpeg.jpg" data-tags="hip hop, menschenverachtende untergrundmusik" role="button">
 K.I.Z. - Hahnenkampf (2007-08-24)

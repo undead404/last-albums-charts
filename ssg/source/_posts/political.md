@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:07:01.564Z
+date: 2021-04-12T18:00:01.533Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -39,9 +39,6 @@ Nina Simone - Here Comes The Sun (1971-09)
 <li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
 Gil Scott-Heron - Free Will (1972)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Bob Marley and the Wailers - Catch A Fire (1973-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e15d8b8-bd80-3c0b-be2f-b66c68620435/19202703809-500.jpg" data-tags="soul" role="button">
 Gil Scott-Heron - The Revolution Will Not Be Televised (1974)
 </li>
@@ -50,9 +47,6 @@ Camille Yarbrough - The Iron Pot Cooker (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/63ca0a26-6b6f-4a5d-8b4c-4e3fcf7c0cc2/4546630557-500.jpg" data-tags="political" role="button">
 Gil Scott-Heron & Brian Jackson - Secrets (1978)
-</li>
-<li data-cover="https://img.discogs.com/UVaXNFbnCZ3WdVo7Dur0nACI954=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4844981-1377288967-3154.jpeg.jpg" data-tags="reggae" role="button">
-Steel Pulse - Tribute To The Martyrs (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/1280555a-4ab5-4c72-ab51-bd883b9865f6/8094406633-500.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Plastic Surgery Disasters (1982-10)
@@ -135,6 +129,9 @@ Racionais Mc's - Sobrevivendo no Inferno (1997)
 <li data-cover="http://coverartarchive.org/release/17d8b2c8-7b93-4442-a146-0936cb81c708/3593091611-500.jpg" data-tags="punk rock" role="button">
 Pennywise - Full Circle (1997-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d499d90-0e55-39cd-a6bd-a5c32f184136/16787063190-500.jpg" data-tags="hip-hop, rap" role="button">
+KRS-One - I Got Next (1997-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
 </li>
@@ -164,6 +161,9 @@ Busta Rhymes - Anarchy (2000-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/bddcc35b-0c2a-400e-85f5-5ae247470852/5112221388-500.jpg" data-tags="ani difranco" role="button">
+Ani DiFranco - Swing Set (2000-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)

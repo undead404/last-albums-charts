@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:23:18.412Z
+date: 2021-04-12T18:27:01.458Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -126,6 +126,9 @@ Bryan Ferry - Boys and Girls (1985-06-03)
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
 </li>
+<li data-cover="https://img.discogs.com/EBAD1VztrgUqzvIUeVSyR9ujs7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3837949-1346378968-3807.jpeg.jpg" data-tags="rock, 80s" role="button">
+David Bowie - Never Let Me Down (1987)
+</li>
 <li data-cover="https://img.discogs.com/li6_jIDYQpWodxZn8rkHyInht7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239136-1356563111-3834.jpeg.jpg" data-tags="80s, nothings gonna stop us now, beat patrol, set the night to music, babylon" role="button">
 Starship - No Protection (1987)
 </li>
@@ -239,9 +242,6 @@ The Ark - State of The Ark (2004-12-27)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)

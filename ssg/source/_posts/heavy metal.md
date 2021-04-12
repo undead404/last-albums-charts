@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:29:01.522Z
+date: 2021-04-12T18:40:01.469Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -156,9 +156,6 @@ Iron Maiden - Fear of the Dark (1992-05-11)
 <li data-cover="http://coverartarchive.org/release/1a77f8a7-54ab-4568-8003-42240cd29ab0/5571782400-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Countdown To Extinction (1992-07-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c873706f-25a0-4fc3-b52a-1ddafbce1009/21563161554-500.jpg" data-tags="heavy metal" role="button">
-Manowar - The Triumph of Steel (1992-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/8acd31a2-8ccd-4374-af5d-937c0995868a/23022790916-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Pantera - Far Beyond Driven (1994-03-18)
 </li>
@@ -167,6 +164,9 @@ Megadeth - Youthanasia (1994-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/51bbbc28-4da7-4dd4-9d0c-58d3f179e070/5159700071-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - The X Factor (1995-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
+Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/866ed808-3707-451e-a37b-9d39d37b6cc1/12567108005-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Louder Than Hell (1996-04-29)
@@ -212,9 +212,6 @@ Slipknot - Iowa (2001-08-21)
 </li>
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
-Manowar - Warriors of the World (2002-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
@@ -272,6 +269,9 @@ Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
 Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5ffda16-7059-3e0c-91a9-ba39399d004b/13472063593-500.jpg" data-tags="metalcore" role="button">
+Bullet for My Valentine - Scream Aim Fire (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
 Disturbed - Indestructible (2008-04-29)

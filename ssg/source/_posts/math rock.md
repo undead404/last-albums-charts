@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:02:07.120Z
+date: 2021-04-12T18:11:18.248Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -66,9 +66,6 @@ Don Caballero - American Don (2000-10-03)
 <li data-cover="http://coverartarchive.org/release/99e88b3f-3a18-4a13-a2b5-657b909383c8/27006231557-500.jpg" data-tags="math rock" role="button">
 Faraquet - The View from This Tower (2000-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/fe32e578-0387-4209-8584-2d3ae35720e2/26039617498-500.jpg" data-tags="math rock" role="button">
-Oxes - OXXXES (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b486b98-76d4-4591-8430-0119454d42ac/11002700286-500.jpg" data-tags="math rock" role="button">
 Hella - Hold Your Horse Is (2002-03-19)
 </li>
@@ -119,6 +116,9 @@ Cinemechanica - The Martial Arts (2006-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd45f8f1-a0e8-4225-b864-c2ff58e4f54c/16110213518-500.jpg" data-tags="math rock" role="button">
 Don Caballero - World Class Listening Problem (2006-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/99676136-1b6b-4f9a-bebf-a35667beb93e/27269278115-500.jpg" data-tags="mindfuck" role="button">
+The pAper chAse - Now You Are One of Us (2006-06-06)
 </li>
 <li data-cover="https://img.discogs.com/jJKX7Cuv1j-FsqgR9dZLg0msYe4=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145657-1385738264-4753.jpeg.jpg" data-tags="electronic, jazz, japanese, instrumental, math rock, emo, experimental, fusion, japan, post rock, play this at my funeral, noodly, dem drums" role="button">
 toe - New Sentimentality (2006-12-06)
@@ -222,6 +222,9 @@ Clever Girl - No Drum and Bass in the Jazz Room (2010)
 <li data-cover="https://img.discogs.com/kTnUIFbSEfRuX2fQiv8uUxu2kD0=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2207200-1282079851.jpeg.jpg" data-tags="post-rock" role="button">
 Kaki King - Junior (2010-03-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a0d1ad05-3710-4b2e-9a47-6136148a2b1b/3331619747-500.jpg" data-tags="math rock" role="button">
+Six Gallery - Breakthroughs in Modern Art (2010-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
 </li>
@@ -233,9 +236,6 @@ Enemies - We've Been Talking (2010-06-11)
 </li>
 <li data-cover="https://img.discogs.com/Y_8DUyZNRrn6ZF0Eg92lrf67Qzc=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2491689-1286960340.jpeg.jpg" data-tags="math rock" role="button">
 Adebisi Shank - This is the second album of a band called Adebisi Shank (2010-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/afce7c95-e230-450c-a684-fc048bb55844/17749408084-500.jpg" data-tags="indie" role="button">
-Everything Everything - Man Alive (2010-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/736c8761-0cd3-48c2-a764-7189e32235cc/4455881615-500.jpg" data-tags="math rock, math-rock" role="button">
 Tera Melos - Patagonian Rats (2010-09-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:20:01.460Z
+date: 2021-04-12T18:18:07.072Z
 title: "synth pop: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
 </li>
-<li data-cover="https://img.discogs.com/j6lL67-kEAC5BVdZf2bL8n9PYK4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130980-001.jpg.jpg" data-tags="electronic, 70s, japanese" role="button">
-Yellow Magic Orchestra - Solid State Survivor (1979-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
 </li>
@@ -41,6 +38,9 @@ Orchestral Manoeuvres in the Dark - Architecture & Morality (1981-11-06)
 </li>
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">
 Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
+</li>
+<li data-cover="https://img.discogs.com/_sa2empn0i4HZH9A1tf213CnHEc=/fit-in/600x938/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15889327-1599656763-3025.jpeg.jpg" data-tags="80s, new wave" role="button">
+Japan - Tin Drum (1981-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
@@ -210,9 +210,6 @@ Yeasayer - Odd Blood (2010-02-08)
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb32e961-9ecc-41cb-9cf0-0232dc976c7e/19633438603-500.jpg" data-tags="trip-hop, ambient, synth pop, indietronica" role="button">
-Blue Sky Black Death - Third Party (2010-09-07)
-</li>
 <li data-cover="https://img.discogs.com/iafkKuqr6ZwN-jB5H0NJGyoYapU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2516762-1290214737.jpeg.jpg" data-tags="chamber pop" role="button">
 Dënver - Música, Gramática, Gimnasia (2010-10-27)
 </li>
@@ -269,6 +266,9 @@ Tegan and Sara - Heartthrob (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="https://img.discogs.com/AB8-3j3DziPSRpOVfy2iHeWkchM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4454335-1507061092-3993.jpeg.jpg" data-tags="synthpop" role="button">
+Hurts - Exile (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f79cbeda-72f9-46ad-b130-b9bc8d1392f7/3698114894-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Delta Machine (2013-03-22)

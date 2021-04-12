@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:20:01.563Z
+date: 2021-04-12T17:47:01.456Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -32,6 +32,9 @@ Sepultura - Roots (1996-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal" role="button">
 Korn - Life Is Peachy (1996-10-15)
+</li>
+<li data-cover="https://img.discogs.com/4F4KwZq_NSCdIZB9Y2eO0Oh60Dw=/fit-in/483x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1265549-1204880173.jpeg.jpg" data-tags="nu metal" role="button">
+Coal Chamber - Coal Chamber (1997-02-11)
 </li>
 <li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
@@ -216,9 +219,6 @@ Ill Niño - Confession (2003-09-22)
 <li data-cover="https://img.discogs.com/p58mdDNi8-zXW5dI5bDWiI-LMwM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7220441-1436464508-9956.jpeg.jpg" data-tags="industrial metal" role="button">
 Static-X - Shadow Zone (2003-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
-Mushroomhead - XIII (2003-10-14)
-</li>
 <li data-cover="https://img.discogs.com/Aps8rjlwnJWV4Gu-tfAkYEFZnlM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065022-1212577271.jpeg.jpg" data-tags="nu metal" role="button">
 Element Eighty - Element Eighty (2003-10-28)
 </li>
@@ -236,6 +236,9 @@ Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
 </li>
 <li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
 Papa Roach - Getting Away With Murder (2004-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e2b5730-22e4-4731-9b36-07f3ea04769e/12918785727-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
+Nonpoint - Recoil (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/IyRZRsUYrrVPGyj-0oUHHzT9QEc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912144-1510186921-6560.jpeg.jpg" data-tags="alternative rock" role="button">
 Chevelle - This Type of Thinking (Could Do Us In) (2004-09-21)
@@ -278,9 +281,6 @@ Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)
-</li>
-<li data-cover="https://img.discogs.com/B8R-CkWTVPLzuUN4pVvS1IXAy8k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698892-1480035733-6881.jpeg.jpg" data-tags="nu metal" role="button">
-Korn - Untitled (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
 Disturbed - Indestructible (2008-04-29)

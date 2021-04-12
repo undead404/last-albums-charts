@@ -1,11 +1,10 @@
 ---
-date: 2021-04-12T01:08:01.429Z
+date: 2021-04-12T18:38:01.471Z
 title: "california: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">Incubus - S.C.I.E.N.C.E. (1997-09-09)</li>
-<li data-cover="http://coverartarchive.org/release/9e1c338f-5943-4841-9277-e7fa46f4b8b4/27059900433-500.jpg" data-tags="rock" role="button">Smash Mouth - Smash Mouth (2001-11-27)</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">Slightly Stoopid - Everything You Need (2003-03-18)</li>
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">Weezer - Make Believe (2005-05-09)</li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">The Supervillains - Grow Yer Own (2006)</li>
@@ -13,6 +12,7 @@ title: "california: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">Cold War Kids - Robbers & Cowards (2006-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">Shwayze - Shwayze (2008-08-19)</li>
+<li data-cover="http://coverartarchive.org/release/766cf545-9651-4728-85e0-230d29adf83c/15868890607-500.jpg" data-tags="surf, usa, strange, psychedelic, california, garage, debut album, the desperate kingdom of love, 30 strand grass, 4jsfolk, q3jslfm, you cant be wise and then love at the same time, track to check again, stuff i still want to discover, 2unban" role="button">The Growlers - Are You In Or Out? (2009-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,6 +27,9 @@ Jimmy Giuffre - The Jimmy Giuffre 3 (1957)
 <li data-cover="http://coverartarchive.org/release/c24ea549-68ea-46a0-b71d-e6466cc99f2f/22879223145-500.jpg" data-tags="oldies, california" role="button">
 Jan & Dean - Save for a Rainy Day (1966)
 </li>
+<li data-cover="https://img.discogs.com/Uji0tGkIM9DcviqrKaRwMQzbMSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2529709-1292237948.jpeg.jpg" data-tags="sunshine pop" role="button">
+Harpers Bizarre - Feelin' Groovy (1967)
+</li>
 <li data-cover="http://coverartarchive.org/release/67e712d4-73f7-3065-a749-601e0e9c625a/19371903124-500.jpg" data-tags="folk, 60s" role="button">
 Bob Dylan - Greatest Hits (1967)
 </li>
@@ -35,9 +38,6 @@ Sagittarius - Present Tense (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0bf289a-027a-442e-9e89-3ef768643799/8974591679-500.jpg" data-tags="country, country-rock, americana, oldies, folk rock, california, country-soul, glamorous album covers" role="button">
 Linda Ronstadt - Silk Purse (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e092283-a7e9-401c-8b35-19c11cf09a39/1609567339-500.jpg" data-tags="classic rock, singer-songwriter, rock" role="button">
-Jackson Browne - For Everyman (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/1aca4a06-8f21-4aaa-a049-d1758a111589/5814230484-500.jpg" data-tags="classic rock" role="button">
 Steppenwolf - 16 Greatest Hits (1973-02)
@@ -53,6 +53,9 @@ The Whispers - And the Beat Goes On (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5ce46a7-6cd5-4890-9cc9-e307d6b5189b/16396187399-500.jpg" data-tags="electronic, new wave" role="button">
 The Human League - Reproduction (1979-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae14e931-de21-4fc7-b54f-a5cef99d6879/15499840344-500.jpg" data-tags="heavy metal" role="button">
+Girlschool - Demolition (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
@@ -84,14 +87,20 @@ Cock Robin - After Here Through Midland (1987)
 <li data-cover="http://coverartarchive.org/release/0d42068d-ca5d-46d5-b1ea-0021ade6d384/15596864588-500.jpg" data-tags="hard rock, glam metal, glam punk" role="button">
 Faster Pussycat - Faster Pussycat (1987)
 </li>
+<li data-cover="http://coverartarchive.org/release/f29574f0-8050-4b19-8141-952b8b347747/11076181590-500.jpg" data-tags="punk" role="button">
+Angry Samoans - Inside My Brain (1987)
+</li>
 <li data-cover="https://img.discogs.com/vPBaPOfGv-s6atEihUmcIAsTGqA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078409-1262748089.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 Mötley Crüe - Girls, Girls, Girls (1987-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/54505d79-b295-4a60-9cd3-06f6c6c5bdda/26499964153-500.jpg" data-tags="pop, 80s, alternative, you dont know, take my breath away, like flames" role="button">
-Berlin - Best Of Berlin 1979-1988 (1988-11-03)
+<li data-cover="http://coverartarchive.org/release/4526e313-c9df-4a7a-bc2e-c1f427380052/15318677928-500.jpg" data-tags="alternative" role="button">
+The Dream Syndicate - Ghost Stories (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4b97ffa-c5a4-4fd9-afb8-26db55f8fd97/7620162165-500.jpg" data-tags="heavy metal, metal, rock, 80s, hard rock, california, glam rock, los angeles, sweden, 1980s, wants, hollywood, glam metal, skovde, 80s hard rock" role="button">
 Shotgun Messiah - Shotgun Messiah (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/581e1cc1-2bbe-4f29-8d55-d24e28aa1963/21083070015-500.jpg" data-tags="rock, alternative, folk, americana, alt-country, folk rock, california, peter case, buffalo, western new york, western ny, wny" role="button">
+Peter Case - The Man with the Blue Postmodern Fragmented Neo-Traditionalist Guitar (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/f287a508-e5d9-4a21-bae6-3d087766631d/15359454326-500.jpg" data-tags="80s" role="button">
 Faster Pussycat - Wake Me When It's Over (1989-08-29)
@@ -123,8 +132,14 @@ Everclear - Sparkle And Fade (1995-05-23)
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f6fe239-d416-4dbb-9f80-86cd5d6428f9/22927814474-500.jpg" data-tags="rap" role="button">
-Funkdoobiest - Brothas Doobie (1995-07-04)
+<li data-cover="http://coverartarchive.org/release/f502a4ff-d630-487d-9872-d2d8ee5e0939/28539642217-500.jpg" data-tags="g-funk" role="button">
+Twinz - Conversation (1995-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a5836a6-8038-4c64-a040-43e91fe7db37/3991444363-500.jpg" data-tags="thrash metal" role="button">
+Testament - Live at the Fillmore (1995-09-05)
+</li>
+<li data-cover="https://img.discogs.com/0M65kJWjdGfbJNJg65pS3nLOBcQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3288849-1388320172-2099.jpeg.jpg" data-tags="pop punk" role="button">
+The Mr. T Experience - Love Is Dead (1996-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd3070ca-bbc3-4f90-94ae-fb009ff7e882/15482523249-500.jpg" data-tags="alternative, alternative rock" role="button">
 Frank Black - The Cult Of Ray (1996-01-19)
@@ -138,11 +153,14 @@ Kiss - Greatest Kiss (1996-11-11)
 <li data-cover="https://img.discogs.com/LKGengt1EEYBlhlVPUr2bvigL7I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339447-1606953095-5768.jpeg.jpg" data-tags="trip hop" role="button">
 DJ Shadow - High Noon (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/b253a425-0f44-49ed-8100-f590e69b96ed/13784206822-500.jpg" data-tags="hardcore punk" role="button">
+Catharsis - Samsara (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/d67390eb-ee3b-4671-be45-1fd188f9500a/24936575894-500.jpg" data-tags="singer-songwriter, country-rock, americana, alt-country, california, alternative country-rock, ock, love these guy" role="button">
+Chuck Prophet - Homemade Blood (1997-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
-</li>
-<li data-cover="https://img.discogs.com/z_Leq-x3MaeNpNxEImylgrSCaqM=/fit-in/597x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16145182-1604193009-7453.jpeg.jpg" data-tags="heavy metal, ozzy osbourne" role="button">
-Ozzy Osbourne - The OZZman Cometh (1997-11-06)
 </li>
 <li data-cover="https://img.discogs.com/oOu0tXKOjtAdbvdCWJVZx4JSIvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400111-1243787011.jpeg.jpg" data-tags="indie, rock, alternative, indie rock" role="button">
 Frank Black and the Catholics - Frank Black and The Catholics (1998-04-20)
@@ -150,20 +168,17 @@ Frank Black and the Catholics - Frank Black and The Catholics (1998-04-20)
 <li data-cover="https://img.discogs.com/r43wbr3V_mNGe0S-t43kD_MhehM=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2144658-1266427258.jpeg.jpg" data-tags="hard rock" role="button">
 Kiss - Psycho Circus (1998-08)
 </li>
+<li data-cover="https://img.discogs.com/Esoqqq3XG9oFeze1i91xpZyMiTw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11527886-1517938227-4210.jpeg.jpg" data-tags="dj shadow" role="button">
+DJ Shadow - 2002-10-29: Nottingham, UK (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/55bae79d-432f-4cc5-8fb9-237e385a399d/3093855907-500.jpg" data-tags="classic rock" role="button">
 Creedence Clearwater Revival - The Very Best Of (1999)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="finnish" role="button">
 Ultra Bra - Kalifornia (1999-03-13)
 </li>
-<li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
-Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
-</li>
 <li data-cover="https://img.discogs.com/QvTFUwGi6I7hQo3_DPcaGwpi3s8=/fit-in/588x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2580683-1291704797.jpeg.jpg" data-tags="vocal, punk, 90s, retro, california, female vocalist, ex-girlfriend" role="button">
 No Doubt - Ex-Girlfriend (2000-03-13)
-</li>
-<li data-cover="https://img.discogs.com/0BMHQvDhsMbK24jC_JDbAD79qGY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135827-1306150689.jpeg.jpg" data-tags="ambient, usa, cafe del mar, american, california, west coast, psytrance, los angeles, elektronic beats, american artist, united states, from: usa, american brilliance, american indie, california artists, usa artists, california local, american dream, california dreaming, west coast underground, los angeles ca, west-coast, west coast chill, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, los angeles underground" role="button">
-Electric Skychurch - Sonic Diary (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb2c4ffe-19da-4ae8-b03b-d8bab4af9eaf/26767251716-500.jpg" data-tags="indie, pop, rock, punk, alternative, alternative rock, indie rock, pop punk, california, pop-punk, san pedro, bidding jointly, chased credit, pavao velvel, several kits, truncated prey" role="button">
 Toys That Kill - The Citizen Abortion (2001)
@@ -174,17 +189,11 @@ The Album Leaf - One Day I'll Be on Time (2001-05-22)
 <li data-cover="http://coverartarchive.org/release/9d66266b-541a-4918-a172-d2d0b83f93fa/3350220596-500.jpg" data-tags="punk rock" role="button">
 Pennywise - Land of the Free? (2001-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/b4aa0d3c-275f-48f3-872c-2ea08fd43ec8/3403917566-500.jpg" data-tags="trip-hop" role="button">
-Saru - Downtempo Dojo (2001-06-26)
-</li>
 <li data-cover="https://img.discogs.com/fErH9_mBcl6puW-59TAgxy0clT0=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5197697-1412776090-1894.jpeg.jpg" data-tags="classic rock, 70s, male vocalists" role="button">
 The Doobie Brothers - Greatest Hits (2001-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e1c338f-5943-4841-9277-e7fa46f4b8b4/27059900433-500.jpg" data-tags="rock" role="button">
-Smash Mouth - Smash Mouth (2001-11-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/27b9ce41-b41a-40e4-84ed-8b8b0b05aced/17727060977-500.jpg" data-tags="reggae, california, live, 1970s, 2000s, live album, live recording, bob marley and the wailers, live at the roxy, west hollywood, surf puro, k1r7m, roxy theatre" role="button">
-Bob Marley & The Wailers - Live at the Roxy (2003-01-01)
+<li data-cover="https://img.discogs.com/oPxfNawUixJbd0ROYNgoCtpwgmU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8970086-1472487160-7979.jpeg.jpg" data-tags="brutal death metal" role="button">
+Disgorge - Consume the Forsaken (2002-05-07)
 </li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
@@ -192,8 +201,17 @@ Slightly Stoopid - Everything You Need (2003-03-18)
 <li data-cover="https://img.discogs.com/ai0y-shUNue13Ebf3Za1Hf2vIHE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2225856-1456197354-6151.jpeg.jpg" data-tags="pop, 80s" role="button">
 a-ha - How Can I Sleep With Your Voice in My Head (2003-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/154e4080-bee1-4c12-aa5b-3989f2a8809f/19958586790-500.jpg" data-tags="pop" role="button">
+The Tyde - Twice (2003-06-02)
+</li>
 <li data-cover="https://img.discogs.com/uaW5m5uHyJ5NEthgYpWrPEf7mw4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765180-1549047459-5428.jpeg.jpg" data-tags="heavy metal, horror punk" role="button">
 Murderdolls - White Wedding (2003-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/22e7c29a-2fa8-4925-846d-380f13cb508e/7530994673-500.jpg" data-tags="jazz, bill evans" role="button">
+Bill Evans - California Here I Come (2004)
+</li>
+<li data-cover="https://img.discogs.com/q0aai9xwpBqVyiTRt49XUNH7VZI=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17345077-1612940937-2524.jpeg.jpg" data-tags="evanescence" role="button">
+Evanescence - Special 2004 (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
@@ -204,8 +222,8 @@ Robi Draco Rosa - Mad Love (2004-04-30)
 <li data-cover="https://img.discogs.com/0X-qSTPg_-xJSoxRcp53mGMPHVM=/fit-in/387x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7199937-1452279474-1872.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Baptism (2004-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec815da1-1eb9-4f7a-836b-cd07db690436/28399282774-500.jpg" data-tags="electronica, ambient, dub, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, neu, bay-area, bay area underground, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, american dream, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, investig, san francisco band, bay area best, vaporvent, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Melbaphonics (2004-12)
+<li data-cover="http://coverartarchive.org/release/08a85420-0fc6-4d94-81a0-858bff7d3b40/13912077048-500.jpg" data-tags="brutal death metal" role="button">
+Disgorge - Parallels Of Infinite Torture (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
@@ -234,9 +252,6 @@ Ballyhoo! - Do It For The Money! (2006-01-24)
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8484632-f278-49c9-9d34-90764bf9f253/9511511931-500.jpg" data-tags="electronic, ambient" role="button">
-Saru - Machine (2007)
-</li>
 <li data-cover="https://img.discogs.com/cuIkcBdTuIrRCi7WaxPEwF74I74=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1211990-1588552261-4809.jpeg.jpg" data-tags="indie, rock, singer-songwriter" role="button">
 Matt Costa - Unfamiliar Faces (2007)
 </li>
@@ -248,12 +263,6 @@ Dirty Penny - Take it Sleezy (2007-08-07)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
-</li>
-<li data-cover="https://img.discogs.com/58m6T0daIM0TzKcigGlGi8KR15Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3832444-1370809627-1386.jpeg.jpg" data-tags="electronica, psychedelic, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, bay-area, american bands, bay area underground, mesmerize, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, myfavo, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, amercian band, san francisco band, bay area best, vaporvent, faval bm, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Liquid Journeys (2008)
-</li>
-<li data-cover="https://img.discogs.com/wz4cdUmqyQAs-pbpYXmiLYJ5v-U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1219589-1201575517.gif.jpg" data-tags="uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz, alternative lounge, electrocool, electropcool" role="button">
-Supreme Beings of Leisure - 11i (2008-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
@@ -288,14 +297,8 @@ Seven Sisters of Sleep - Seven Sisters of Sleep (2011)
 <li data-cover="http://coverartarchive.org/release/c37f72d2-dc47-4800-8699-9ea009a059b9/6053721753-500.jpg" data-tags="electronic, indie, experimental, usa, solo, lo-fi, experimental rock, minimal, krautrock, psychedelic, tape, avant-garde, american, drone, california, crossover, dark ambient, diy, los angeles, american underground, 10s, free music, psych-folk, solo artist, america, pyschedelic, netaudio, experimental indie, psych-rock, one-man-band, tape music, californian, avant-folk, bandcamp, experimental folk, drone folk, free albums, free album, solo project, webaudio, kosmische musik, post-psychedelic, experimentalism, self-released, usa underground, post-psychedelic electronica" role="button">
 Lee Noble - No Becoming (2011-01-01)
 </li>
-<li data-cover="https://img.discogs.com/-gH9CsdhGE7KBdYEaVucjTyDxdw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2866569-1379816809-5565.jpeg.jpg" data-tags="free download, bandcamp, webaudio, usa underground" role="button">
-Wreck and Reference - Black Cassette (2011-02-25)
-</li>
 <li data-cover="https://img.discogs.com/OEgN7XgpisEQwZcZDcTZMAMU5tY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849479-1575548141-8921.jpeg.jpg" data-tags="groove metal, thrash metal" role="button">
 Cavalera Conspiracy - Blunt Force Trauma (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc979fbb-8c6b-42df-9312-c370f7d6df0c/4724320692-500.jpg" data-tags="disco, electronic, indie, pop, soul, electro, funk, psychedelic, london, cover, lounge, new orleans, california, 60's, duet, collaboration, thievery corporation, los feliz, echo park, 70's, esl, my gang 11, eighteenth street lounge music, shawn lee, clutchy hopkins" role="button">
-AM & Shawn Lee - Celestial Electric (2011-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
@@ -314,9 +317,6 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cbd2027-f1b6-42c3-a0e8-ff3c0df074f0/14448756090-500.jpg" data-tags="reggae, hardcore, ska, california, weed, skapunk, ballyhooligans" role="button">
 Ballyhoo! - Pineapple Grenade (2013-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/37fe6450-fd02-4047-b5d8-05cf82f2685b/8877989666-500.jpg" data-tags="leaving records" role="button">
-M. Geddes Gengras - Ishi (2014-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/39b14176-29c0-4f6d-b876-abf43cecbce3/8663953259-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - Desideratum (2014-10-24)

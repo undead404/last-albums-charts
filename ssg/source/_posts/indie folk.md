@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:29:01.492Z
+date: 2021-04-12T18:41:12.645Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -138,11 +138,11 @@ Shearwater - Rook (2008-06-03)
 <li data-cover="http://coverartarchive.org/release/180a76e8-efe0-4d2d-9bdf-3f5e51223460/18171634835-500.jpg" data-tags="indie, rock, folk, acoustic, music to start the day to" role="button">
 Good Old War - Only Way To Be Alone (2008-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9885a92-fbfa-4ada-a61a-b920a1190e40/5396705512-500.jpg" data-tags="indie folk" role="button">
 Right Away, Great Captain! - The Eventually Home (2008-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
+The Decemberists - The Hazards of Love (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -243,6 +243,9 @@ Angel Olsen - Half Way Home (2012-09-04)
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/7bd6b690-da36-458a-aaee-28902e2b3338/27766620196-500.jpg" data-tags="rock" role="button">
+Band of Horses - Mirage Rock (2012-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Shields (2012-09-17)
 </li>
@@ -317,8 +320,5 @@ Damien Rice - My Favourite Faded Fantasy (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/26b65e4e-64b0-43b0-9bbd-cb14167e7c20/12146806423-500.jpg" data-tags="indie" role="button">
-James Bay - Chaos and the Calm (2015-03-23)
 </li>
 </ol>

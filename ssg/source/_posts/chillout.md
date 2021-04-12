@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:30:01.926Z
+date: 2021-04-12T17:59:07.076Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Zero 7 - Simple Things (2001-04-23)](http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg "Zero 7 - Simple Things (2001-04-23)")
@@ -288,9 +288,6 @@ Röyksopp - Senior (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)
 </li>
@@ -305,6 +302,9 @@ Bakermat - One Day (Vandaag) (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
+Grizzly Bear - Shields (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3151b89c-bc33-4304-9b0c-04158417b641/11082339511-500.jpg" data-tags="chillout, indie, folk, acoustic, listen, another love, songs played on kslu" role="button">
 Tom Odell - Songs from Another Love (2012-10-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:36:01.599Z
+date: 2021-04-12T18:03:06.967Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6c8278ba-5629-44d8-a4d0-cedd9cd73572/3504212117-500.jpg" data-tags="screamo" role="button">
 Orchid - Chaos Is Me (1999-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
-A Static Lullaby - A Static Lullaby (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/80e6be11-86f5-4d0b-9d55-0f1c62b7afb8/6514440841-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Sounding the Seventh Trumpet (2001)
@@ -116,9 +113,6 @@ Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - All's Well That Ends Well (2005-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
@@ -252,6 +246,9 @@ Alesana - Where Myth Fades to Legend (2008-06-03)
 <li data-cover="https://img.discogs.com/G_2D0AjMs78K4xMs5169gOnfx9Q=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3168720-1318866783.jpeg.jpg" data-tags="emocore, screamo, post-hardcore, post hardcore" role="button">
 Hopes Die Last - Six Years Home (2008-08-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
+Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -272,6 +269,9 @@ La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-
 </li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/42d9fa8b-db09-4dfc-982c-6928471096fb/11692241662-500.jpg" data-tags="post-hardcore" role="button">
+Adept - Another Year of Disaster (2009-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)

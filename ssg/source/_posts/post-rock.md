@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:55:01.442Z
+date: 2021-04-12T17:57:01.466Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -237,6 +237,9 @@ Grizzly Bear - Veckatimest (2009-05-22)
 <li data-cover="http://coverartarchive.org/release/cfcef241-4a2c-39d8-95ea-6be87a10f902/3323039609-500.jpg" data-tags="post-rock" role="button">
 Caspian - Tertia (2009-08-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/599a78e5-30ca-4821-a54a-3c1343eff113/18725254022-500.jpg" data-tags="post-rock" role="button">
+Balmorhea - All Is Wild, All Is Silent (2009-08-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
@@ -266,9 +269,6 @@ God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/94f4bf51-b0be-4fd3-bfd0-0f744bc18a93/25713773260-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Hardcore Will Never Die, But You Will (2011-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec34795-7691-3451-b9ce-fc53ad901420/11793213169-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)

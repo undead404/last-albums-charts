@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:18:01.438Z
+date: 2021-04-12T18:05:01.513Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -129,6 +129,9 @@ Jónsi - Go (2010-04-02)
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/74223505-9219-4815-b702-a5537d0e466a/22171727826-500.jpg" data-tags="ambient, ethereal" role="button">
+Brendan Perry - Ark (2010-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
@@ -158,9 +161,6 @@ Rainbow Arabia - Boys and Diamonds (2011-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b0444e-c851-462f-bb48-566dea7da25b/8265351994-500.jpg" data-tags="indie, piano pop, art pop, alternative singer-songwriter" role="button">
 Cascadeur - The Human Octopus (2011-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/6Buij1rSay6k82eLiwzV6iNcavs=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2928212-1308996402.jpeg.jpg" data-tags="indie, rock, british, indie rock, biblical, art pop, stolen recordings" role="button">
 Pete and the Pirates - One Thousand Pictures (2011-05-23)

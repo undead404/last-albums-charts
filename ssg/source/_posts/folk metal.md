@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:18:01.637Z
+date: 2021-04-12T18:12:01.442Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -10,10 +10,10 @@ title: "folk metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ab6cf38c-90a4-4828-990c-21d4560a7057/6505885788-500.jpg" data-tags="folk metal" role="button">Korpiklaani - Spirit of the Forest (2003-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Iron (2004-04-15)</li>
 <li data-cover="https://img.discogs.com/aE3345TwQXDkiZd3C3bdWSItwD8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3308881-1325109190.jpeg.jpg" data-tags="folk metal" role="button">Korpiklaani - Tales Along This Road (2006-04-21)</li>
+<li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">Eluveitie - Spirit (2006-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">Agalloch - Ashes Against the Grain (2006-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/6fe4d6ce-790c-3a29-a80c-b46823f722ff/4258363805-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Victory Songs (2007-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/385ad8b3-cee4-36c6-869d-61ee12a65648/15392267057-500.jpg" data-tags="folk metal, power metal, pirate metal" role="button">Alestorm - Black Sails at Midnight (2009-04)</li>
-<li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">Ensiferum - From Afar (2009-09-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/mdOxokszRESCVA-ORinn_2KmvG0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044179-1313107554.jpeg.jpg" data-tags="gothic metal" role="button">
+Moonspell - Wolfheart (1995-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8af9aa9a-5b2d-4298-bd58-72133b32f889/1009579548-500.jpg" data-tags="folk metal, doom metal" role="button">
 Empyrium - A Wintersunset... (1996)
 </li>
@@ -45,8 +48,14 @@ Estatic Fear - A Sombre Dance (1999-08-13)
 <li data-cover="http://coverartarchive.org/release/43e33729-569e-3500-86bd-b2067f3d163a/21922535473-500.jpg" data-tags="black metal, viking metal" role="button">
 Windir - Arntor (1999-10-11)
 </li>
+<li data-cover="https://img.discogs.com/VGV9JeFiAuhGTd5Rsy0j_QvIUeM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830320-1259517397.jpeg.jpg" data-tags="progressive metal, folk metal" role="button">
+Vintersorg - Cosmic Genesis (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/e98ec835-058d-46cf-9be1-a2002e123c7e/10117573249-500.jpg" data-tags="folk metal" role="button">
 Cruachan - The Middle Kingdom (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/173cce6b-84da-4eba-880e-9a96048c8b4a/20215878293-500.jpg" data-tags="symphonic metal" role="button">
+Haggard - Awaking The Centuries (2000-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c47ef965-8222-4cd9-93c4-7aa1c48f5392/19510647317-500.jpg" data-tags="folk metal" role="button">
 Mägo de Oz - Finisterra (2000-05-14)
@@ -81,9 +90,6 @@ Finntroll - Jaktens Tid (2001-09-18)
 <li data-cover="http://coverartarchive.org/release/eddc7436-b9bc-4cae-9b81-daebfab8b8a7/5429036495-500.jpg" data-tags="black metal, viking metal, folk metal, melodic black metal" role="button">
 Windir - 1184 (2001-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd653da3-a459-4859-bcbe-5d2f77890590/2630907884-500.jpg" data-tags="viking metal, folk metal, pagan metal" role="button">
-Moonsorrow - Voimasta ja Kunniasta (2001-11-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/cd9acad7-5f84-481e-9ffb-e6037d290855/7843646894-500.jpg" data-tags="power metal" role="button">
 Falconer - Chapters From a Vale Forlorn (2002-02-07)
 </li>
@@ -99,8 +105,8 @@ Die Apokalyptischen Reiter - Have a nice Trip (2003-03-17)
 <li data-cover="http://coverartarchive.org/release/97442f7c-42da-4093-83a1-77d114ee9a63/20094925020-500.jpg" data-tags="folk, folk metal" role="button">
 Finntroll - Visor Om Slutet (2003-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6db0684-ac57-4722-a814-8898ed0bff71/13670359400-500.jpg" data-tags="folk metal" role="button">
-Battlelore - Sword's Song (2003-04-12)
+<li data-cover="http://coverartarchive.org/release/aaff63ec-4dd7-40ff-b945-fee676886a02/27879249894-500.jpg" data-tags="folk metal, viking metal" role="button">
+Ásmegin - Hin Vordende Sod & Sø (2003-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/07a7dcb9-402f-45b2-ac17-28321b407163/15594205278-500.jpg" data-tags="folk metal" role="button">
 Mägo de Oz - gaia (2003-09-08)
@@ -150,6 +156,9 @@ Midnattsol - Where Twilight Dwells (2005-01-31)
 <li data-cover="http://coverartarchive.org/release/e19743f1-f396-3c85-a259-eefe34d93ab2/6582102959-500.jpg" data-tags="black metal" role="button">
 Primordial - The Gathering Wilderness (2005-02-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/e982db9e-e1d3-4bdc-9616-e31400c3677e/2996979546-500.jpg" data-tags="viking metal, folk metal" role="button">
+Ensiferum - 1997-1999 (2005-02-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/be5e9173-7122-4acb-8195-c22a72f1a648/16023357644-500.jpg" data-tags="folk metal" role="button">
 Equilibrium - Turis Fratyr (2005-02-14)
 </li>
@@ -158,12 +167,6 @@ Moonsorrow - Verisäkeet (2005-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0286ca58-f2b8-46cd-882d-b8c50ce2f482/20276422127-500.jpg" data-tags="folk metal" role="button">
 Heidevolk - De Strijdlust Is Geboren (2005-03-11)
-</li>
-<li data-cover="https://img.discogs.com/QaBRbR_jsUJYqkLUkrHJ52xQTH0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775153-1157485060.jpeg.jpg" data-tags="folk metal" role="button">
-Battlelore - Third Age of the Sun (2005-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d982adb1-e0c0-43a5-95c4-1d5200555842/2996998812-500.jpg" data-tags="viking metal, folk metal" role="button">
-Ensiferum - Dragonheads (2006-02-15)
 </li>
 <li data-cover="https://img.discogs.com/aE3345TwQXDkiZd3C3bdWSItwD8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3308881-1325109190.jpeg.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Tales Along This Road (2006-04-21)
@@ -177,11 +180,14 @@ Agalloch - Ashes Against the Grain (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/1bd5f3af-b978-4103-a7ac-7bd9b2886587/25813784747-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 Die Apokalyptischen Reiter - Riders On The Storm (2006-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/18162758-5706-4d33-991d-9330bb128139/4592268266-500.jpg" data-tags="folk metal" role="button">
+Falconer - Northwind (2006-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)
 </li>
-<li data-cover="https://img.discogs.com/y7-txuGMmKU_rrCc8srybWylrxI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6938050-1429953673-4838.jpeg.jpg" data-tags="folk metal" role="button">
-Battlelore - Evernight (2007-02-14)
+<li data-cover="http://coverartarchive.org/release/94a5d57c-45ca-43f3-bf28-2956b84f12eb/20825293179-500.jpg" data-tags="black metal, metal, folk metal, viking metal, german, pagan metal, pagan and viking metal, urban pagan metal" role="button">
+Kromlek - Strange Rumours... distant Tremors (2007-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fe4d6ce-790c-3a29-a80c-b46823f722ff/4258363805-500.jpg" data-tags="folk metal, viking metal" role="button">
 Ensiferum - Victory Songs (2007-03-23)
@@ -191,9 +197,6 @@ Finntroll - Ur Jordens Djup (2007-03-28)
 </li>
 <li data-cover="https://img.discogs.com/wsbGzSO_6BZPgSphLvL60XoGgCI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176684-1268143536.jpeg.jpg" data-tags="pagan metal, folk metal" role="button">
 Wolfchant - A Pagan Storm (2007-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/23001cba-283e-4506-9f38-6086ab75ab5c/21896347692-500.jpg" data-tags="folk metal, viking metal" role="button">
-Turisas - The Varangian Way (2007-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a39235c3-f908-3bb5-8048-d5497ea5fa44/13452118930-500.jpg" data-tags="folk metal, viking metal" role="button">
 Finsterforst - Weltenkraft (2007-07-06)
@@ -231,26 +234,20 @@ Heidevolk - Walhalla Wacht (2008-03-31)
 <li data-cover="http://coverartarchive.org/release/c7a1494d-ff57-331a-be16-a9cab0f31975/26667284043-500.jpg" data-tags="viking metal, metal, folk metal" role="button">
 Týr - Land (2008-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b689aac-42f0-463c-9ea3-9262abb690ad/2140896034-500.jpg" data-tags="folk metal" role="button">
-Equilibrium - Sagas (2008-06-27)
-</li>
 <li data-cover="https://img.discogs.com/mtMCK_QolQnVo8uEiN-9hvRIeUA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5771166-1402210320-3912.jpeg.jpg" data-tags="folk metal, power metal" role="button">
 Falconer - Among Beggars And Thieves (2008-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9cd04f8-ae91-4511-b7a9-350505e7106f/13548385324-500.jpg" data-tags="melodic death metal, german, epic metal" role="button">
-Die Apokalyptischen Reiter - Licht (2008-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/385ad8b3-cee4-36c6-869d-61ee12a65648/15392267057-500.jpg" data-tags="folk metal, power metal, pirate metal" role="button">
 Alestorm - Black Sails at Midnight (2009-04)
+</li>
+<li data-cover="https://img.discogs.com/OelXhg6qEuvpt9kGVoI94oErrws=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5224986-1388054773-7349.jpeg.jpg" data-tags="folk metal" role="button">
+Korpiklaani - Vodka (2009-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/650638c5-374e-4eb2-9f4d-7ab72f1e7d6e/6523036853-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - By the Light of the Northern Star (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9d4f34-c3bd-4726-aa7e-44af652bcf19/18281849532-500.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Karkelo (2009-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">
-Ensiferum - From Afar (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/900992d1-5c6d-46a1-93f4-c2609074ecfa/9348057670-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Nifelvind (2010-02-17)
@@ -261,14 +258,23 @@ Eluveitie - Everything Remains As It Never Was (2010-02-19)
 <li data-cover="https://img.discogs.com/enMgqM9UcnC5fFUfy4adz0g_W5E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11439126-1516365596-1020.jpeg.jpg" data-tags="folk metal" role="button">
 Heidevolk - Uit Oude Grond (2010-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e9aefce-76d7-41b2-b25c-01b73ef092a6/14478984917-500.jpg" data-tags="folk metal" role="button">
-Equilibrium - Rekreatur (2010-06-18)
+<li data-cover="https://img.discogs.com/FLilKaoz6h_qcpp6iBibzv6CnB4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7076900-1488969159-6175.jpeg.jpg" data-tags="folk metal" role="button">
+Elvenking - Red Silent Tides (2010-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bf41913-8e1a-37ef-97df-b5ee6e959db1/19071349987-500.jpg" data-tags="black metal, atmospheric black metal, folk metal, homoerotic wet dream nostalgia metal, id rather shove a hot curling iron up my ass than listen to this shit, progressive buttsecks metal, very popular among the gay community, jesus i want to vomit" role="button">
 Agalloch - Marrow of the Spirit (2010-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6078f9dd-6b11-3d75-9d15-525f67afc196/25773515686-500.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Ukon Wacka (2011-02-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
+Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f88606b-3970-42ec-8631-f83948b1f22d/18034052655-500.jpg" data-tags="folk metal, melodic death metal" role="button">
+SuidAkrA - Book Of Dowth (2011-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/13604ea5-ec1e-464f-abb2-dc55202ade83/17488917422-500.jpg" data-tags="folk metal, symphonic metal" role="button">
+Leaves' Eyes - Meredead (2011-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9de7172-8bee-4bd2-a978-1711770ea2cb/13630739784-500.jpg" data-tags="folk metal, progressive metal" role="button">
 Týr - The Lay of Thrym (2011-05-27)
@@ -279,11 +285,11 @@ Alestorm - Back Through Time (2011-06-03)
 <li data-cover="http://coverartarchive.org/release/b94ce417-dff5-44df-a83b-8f996ee8ae97/1554212344-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 Eluveitie - Helvetios (2012-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/11555b43-5422-49de-bc90-14d91d623962/4872277854-500.jpg" data-tags="symphonic metal, folk metal" role="button">
+Xandria - Neverworld's End (2012-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/be8ecd6e-6acc-47e1-8f6a-335aecc85bd8/6320445358-500.jpg" data-tags="folk metal" role="button">
 Eluveitie - Vên (2012-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
-Wintersun - Time I (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/704cc447-22db-4920-b57a-02ff800fc8cf/7360065193-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Blodsvept (2013-02-28)
@@ -309,16 +315,10 @@ Agalloch - The Serpent & The Sphere (2014-05-02)
 <li data-cover="http://coverartarchive.org/release/3f969d83-d36b-4cc6-ad09-221d95f7016b/7454368733-500.jpg" data-tags="folk metal, atmospheric black metal" role="button">
 Saor - Aura (2014-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e7d69a9-d089-4ef4-b0e5-9eb2996e0172/8707464716-500.jpg" data-tags="folk metal" role="button">
-Equilibrium - Erdentempel (2014-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/d44c860a-e657-4f82-86ac-19a72def7712/7927196685-500.jpg" data-tags="folk metal, melodic death metal, pagan metal" role="button">
 Eluveitie - Origins (2014-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/688c6472-0cb6-4f11-92be-c2685ce33702/8049734118-500.jpg" data-tags="folk metal, power metal" role="button">
 Alestorm - Sunset on the Golden Age (2014-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b8976a-ee5b-49cd-bd51-860d2f0415e5/9581593513-500.jpg" data-tags="folk metal" role="button">
-Ensiferum - One Man Army (2015-02-20)
 </li>
 </ol>

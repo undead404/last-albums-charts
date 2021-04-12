@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:35:01.540Z
+date: 2021-04-12T18:23:01.453Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![Prodigy - The Fat Of The Land (1997-06-30)](http://coverartarchive.org/release/288f8c49-5cb9-45cd-9b1e-062e565224fb/16552695792-500.jpg "Prodigy - The Fat Of The Land (1997-06-30)")
@@ -228,6 +228,9 @@ Elite Force - Modern Primitive (2006-10-30)
 <li data-cover="http://coverartarchive.org/release/e057d89e-468f-4603-9b02-a24ded44773f/4446114169-500.jpg" data-tags="house, drum and bass, breakbeat" role="button">
 Noisia - Gutterpump (2006-11-06)
 </li>
+<li data-cover="https://img.discogs.com/WD1--LwyOuj6Cs75RQ7HJ4wSAns=/fit-in/350x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044729-1187585498.jpeg.jpg" data-tags="electronic, dance, breakbeat" role="button">
+4KUBA - Let It Be (2007)
+</li>
 <li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
 </li>
@@ -263,9 +266,6 @@ The Qemists - Join The Q (2008-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f741d84-1362-44fd-9886-4781286d33e4/19096380097-500.jpg" data-tags="hip-hop, electronic, hip hop, dubstep, club, breakbeat" role="button">
 Sporty-O - Let Me Hit It (2009-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
-Hadouken! - For the Masses (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e82d5c86-9c18-4842-9cc9-8e348ad3df6c/1214392676-500.jpg" data-tags="drum and bass, dubstep" role="button">
 Noisia - Split the Atom (2010-05-30)

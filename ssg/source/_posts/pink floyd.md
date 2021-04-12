@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T09:05:02.560Z
+date: 2021-04-12T17:58:01.496Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -264,9 +264,6 @@ Pink Floyd - Echoes: The Best of Pink Floyd (2001-11-02)
 <li data-cover="http://coverartarchive.org/release/a2e94b5a-582a-4ca2-bcf8-5662c784ffb3/19316536645-500.jpg" data-tags="rock, mark knopfler" role="button">
 Mark Knopfler - The Ragpicker's Dream (2002-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcea685b-f945-4212-be34-4a255533498c/18640209400-500.jpg" data-tags="progressive metal" role="button">
-Alchemist - Austral Alien (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
@@ -290,6 +287,9 @@ David Gilmour - Smile (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Best Ballads (2006-09-06)
+</li>
+<li data-cover="https://img.discogs.com/y2OasXXRniX6TG_Awj_xHPxwwvw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2466411-1455885631-3300.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Cosmic Music (2006-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7eeec863-0cee-4357-bfd5-06e5347fa392/13253011294-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Psychedelic Games for May (2006-09-06)
