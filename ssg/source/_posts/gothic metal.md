@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T18:31:06.877Z
+date: 2021-04-12T00:27:01.410Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/68a8223b-872d-465d-a86c-9c54f0b9910b/4664662125-500.jpg" data-tags="gothic metal" role="button">Within Temptation - Enter (1996-09)</li>
 <li data-cover="http://coverartarchive.org/release/e12ca663-cfe8-4796-b6e2-7bf73cf23723/4972030151-500.jpg" data-tags="gothic metal" role="button">Lacuna Coil - In a Reverie (1999-02-16)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">Sirenia - At Sixes and Sevens (2002-05-21)</li>
@@ -13,7 +14,6 @@ title: "gothic metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">Evanescence - The Open Door (2006-09-25)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
-<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -81,6 +81,9 @@ Within Temptation - The Dance (1998)
 <li data-cover="https://img.discogs.com/S-sF-R4Gr14k9UmhSz2Ow5a3sqI=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5037376-1382797457-1575.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Widow's Weeds (1998-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1a30fef-2178-40bc-a47c-1456f03e782b/13132428366-500.jpg" data-tags="black metal, symphonic black metal" role="button">
+Cradle of Filth - Cruelty and the Beast (1998-05-04)
+</li>
 <li data-cover="https://img.discogs.com/k0jZTlvf2cXLRUHH9SrPiwBGokE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075260-1325031345.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
 </li>
@@ -126,6 +129,9 @@ After Forever - Decipher (2001)
 <li data-cover="http://coverartarchive.org/release/1d2cfca8-1cdf-4a98-8bd5-0769b97769dc/3597667276-500.jpg" data-tags="doom metal" role="button">
 Katatonia - Last Fair Deal Gone Down (2001-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/2f4e05fb-2c99-33a9-999d-1f467efee842/21088130235-500.jpg" data-tags="black metal" role="button">
+Cradle of Filth - Bitter Suites to Succubi (2001-06-18)
+</li>
 <li data-cover="https://img.discogs.com/gxYJ-nk2pFua4c3lXTLABrMM690=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4342740-1362301560-1297.jpeg.jpg" data-tags="gothic metal" role="button">
 Moonspell - Darkness And Hope (2001-08-27)
 </li>
@@ -143,9 +149,6 @@ Sentenced - The Cold White Light (2002-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - At Sixes and Sevens (2002-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e80c5fef-6cd7-419b-9c2e-12c121400b89/25277398803-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
-Nightwish - Bless the Child (2002-07-22)
 </li>
 <li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Comalies (2002-09-18)
@@ -287,9 +290,6 @@ Nightwish - Amaranth (2007-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d9bf8c-1263-3826-999f-3793d6414234/4371819886-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Divine Conspiracy (2007-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Dark Passion Play (2007-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ba4ba3-8874-43e6-b235-86f6b06c8aad/997565892-500.jpg" data-tags="doom metal, gothic metal, gothic doom metal" role="button">
 Draconian - Turning Season Within (2008-02-29)

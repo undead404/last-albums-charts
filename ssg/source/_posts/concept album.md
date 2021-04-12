@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:47:01.413Z
+date: 2021-04-11T23:46:06.884Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -117,9 +117,6 @@ Pain of Salvation - Entropia (1997-08)
 <li data-cover="http://coverartarchive.org/release/8d8ce4ac-92a1-300c-88af-8f214ee2544b/5119636248-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - Into the Electric Castle (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e59050c-fbf2-4811-b177-c1dab9792b83/13963291476-500.jpg" data-tags="concept album, freestyle fellowship" role="button">
-Aceyalone - A Book of Human Language (1998-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
@@ -171,14 +168,14 @@ Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 <li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Korova Milky Bar (2002-05-27)
 </li>
-<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
-The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
+</li>
+<li data-cover="https://img.discogs.com/CqqXHNYauLxL4WTzJCmpTfcLEHM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828339-1398882519-5399.jpeg.jpg" data-tags="punk rock" role="button">
+The Lawrence Arms - The Greatest Story Ever Told (2003-09-23)
 </li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
@@ -206,6 +203,9 @@ Pain of Salvation - Be (2004-09-24)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb536080-dcfa-43e6-9018-4e4fd0f7fb4d/997499052-500.jpg" data-tags="doom metal" role="button">
+Draconian - Arcane Rain Fell (2005-01-24)
 </li>
 <li data-cover="https://img.discogs.com/5YOzFKC9_c86SOuNkAW8PrCRBp0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059139-1554311912-3954.jpeg.jpg" data-tags="experimental rock" role="button">
 The Sound of Animals Fighting - Tiger and the Duke (2005-02-15)

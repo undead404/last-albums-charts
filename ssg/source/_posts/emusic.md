@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:06:01.431Z
+date: 2021-04-11T23:47:01.519Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
@@ -9,7 +9,7 @@ title: "emusic: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">Spoon - Gimme Fiction (2005-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
-<li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">The Presets - Beams (2005-09-12)</li>
+<li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">Destroyer - Destroyer's Rubies (2006-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">Andrew Bird - Armchair Apocrypha (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
@@ -30,23 +30,23 @@ Colin Hay - Transcendental Highway (1998-10-13)
 <li data-cover="https://img.discogs.com/uDjm3wnXgyW_31-o6OmvYHNNXI4=/fit-in/576x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1144997-1195738575.jpeg.jpg" data-tags="rock, folk, 90s, emusic, joe strummer, lark" role="button">
 Joe Strummer and the Mescaleros - Rock Art and the X-Ray Style (1999-10-18)
 </li>
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
-Cat Power - The Covers Record (2000-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
 </li>
+<li data-cover="https://img.discogs.com/b7j2GTZMxtxpKtCCzokEy2VhqAo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-604321-1137433826.jpeg.jpg" data-tags="indie" role="button">
+Pinback - Some Voices (2000-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c230341-02b8-495d-ba3d-8984757b5399/2013993569-500.jpg" data-tags="electronic, ambient, emusic" role="button">
 Shuttle358 - Frame (2000-12-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/99fa3d7f-27ad-4e05-aebd-df1e40634ccc/4043117265-500.jpg" data-tags="indie" role="button">
+The Decemberists - 5 Songs (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/734135d9-e730-4c5c-83e6-6da2ffb3b0b7/19969820364-500.jpg" data-tags="emusic, bedroom floor" role="button">
 Kevin Devine - Circle Gets the Square (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
-</li>
-<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
-I Am Kloot - Natural History (2001-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
 Alkaline Trio - From Here to Infirmary (2001-04-03)
@@ -59,6 +59,9 @@ The Anniversary - Your Majesty (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
+</li>
+<li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">
+Neko Case - Blacklisted (2002-08-20)
 </li>
 <li data-cover="https://img.discogs.com/tpa5wY7vJpArimW7FdTV97JgEIU=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15606261-1596750220-3673.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Spoon - Kill the Moonlight (2002-08-20)
@@ -77,9 +80,6 @@ Elbow - Cast of Thousands (2003-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fd10e64-ae53-31d9-adf0-df4566c50edd/20732430956-500.jpg" data-tags="electronic, alternative, idm, avant-garde, live, emusic, females, art pop, noteworthy, krojb" role="button">
 Björk - Post Live (2003-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/abffdf17-17be-484d-9227-364a383c43da/4265632543-500.jpg" data-tags="indie rock" role="button">
-The Decemberists - Her Majesty the Decemberists (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
@@ -117,20 +117,23 @@ The Hold Steady - Almost Killed Me (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/b28b476b-a704-45a9-8676-2ec3e070b179/14483207523-500.jpg" data-tags="indie" role="button">
-The Unicorns - The Unicorns: 2014 (2004-05-18)
-</li>
 <li data-cover="https://img.discogs.com/0i7iwd2z5tKb6A2HA8ZI1ujIuUE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376802-1568315790-2064.jpeg.jpg" data-tags="indie pop, emusic, plotters albums, emusic-com" role="button">
 Maritime - Glass Floor (2004-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/3cb55721-9638-4c54-93ca-354a12760b65/17998427079-500.jpg" data-tags="downtempo, neo-babymaking" role="button">
+Milosh - You Make Me Feel (2004-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f83a5171-3acc-4234-a13f-df6b67ddefc5/3509077233-500.jpg" data-tags="post-rock" role="button">
 The Six Parts Seven - Everywhere and Right Here (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/766c6f55-15b9-4c08-a670-8545dec6bdd6/6066648466-500.jpg" data-tags="electronica, emusic" role="button">
 Delerium - The Best Of (2004-09-07)
+</li>
+<li data-cover="https://img.discogs.com/TM2W4gyjx_7mmTeBRzJZEQi3uDY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-424901-1312385158.jpeg.jpg" data-tags="emusic" role="button">
+Thee More Shallows - More Deep Cuts (2004-09-20)
 </li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
@@ -168,9 +171,6 @@ Architecture in Helsinki - In Case We Die (2005-04-04)
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">
 Spoon - Gimme Fiction (2005-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7dfe419a-c40e-48d1-afb1-a40630935119/9192690317-500.jpg" data-tags="rock, punk, alternative, punk rock" role="button">
-Alkaline Trio - Crimson (2005-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
 </li>
@@ -188,9 +188,6 @@ The New Pornographers - Twin Cinema (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
-The Presets - Beams (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/871f0f8d-6009-42b4-bf7e-f85f3ddddae4/22530906121-500.jpg" data-tags="emusic" role="button">
 The Rosebuds - Birds Make Good Neighbors (2005-09-13)
@@ -216,17 +213,14 @@ The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/def6ae89-8b21-4f00-8417-c2b48e40cf76/2546152084-500.jpg" data-tags="emusic" role="button">
+Camera Obscura - Lloyd, I'm Ready To Be Heartbroken (2006-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/44fe85ee-f511-4c89-a156-3e9ed1ce1f5c/18646500835-500.jpg" data-tags="mashup" role="button">
 Girl Talk - Night Ripper (2006-05-08)
 </li>
 <li data-cover="https://img.discogs.com/O6tUgmp54g3WX4K_otOtQnfqntc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764886-1156447982.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f113ac2-9eb3-4fc6-99f9-3185b20d9db8/12754641660-500.jpg" data-tags="indie, british, alternative, indie rock, 00s, emusic, 2007 fave albums, bobjebus16 owns this, horstaxe, xantica, allmusicf" role="button">
-Frightened Rabbit - Sing The Greys (2006-06-05)
-</li>
-<li data-cover="https://img.discogs.com/EDbALn2k6ZQKaGAePI_jnoP9Efs=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726345-1158836353.gif.jpg" data-tags="indie, psychedelic, new weird america, emusic" role="button">
-Brightblack Morning Light - Brightblack Morning Light (2006-06-20)
 </li>
 <li data-cover="https://img.discogs.com/NAsJeiPF2ifIvV4ihcFCzf5IByQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148661-1291561010.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
 The Mountain Goats - Get Lonely (2006-08-14)
@@ -254,6 +248,9 @@ The Rakes - Ten New Messages (2007-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/28g2QoyaRtR80HR99AjYi1niUR8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-983618-1180641044.jpeg.jpg" data-tags="00s, thrill jockey" role="button">
+The Sea and Cake - Everybody (2007-05-08)
 </li>
 <li data-cover="https://img.discogs.com/gjI8lQSxScGYoGTAn4j188IOKtA=/fit-in/281x251/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982965-1180560647.jpeg.jpg" data-tags="indie" role="button">
 Voxtrot - Voxtrot (2007-05-21)
@@ -284,6 +281,9 @@ Dr. Dog - Fate (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)
+</li>
+<li data-cover="https://img.discogs.com/ORPOfJqAHrFUhi0trn_bi5lPFn8=/fit-in/450x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750779-1241013358.gif.jpg" data-tags="rock, emusic" role="button">
+The Soundtrack of Our Lives - Communion (2008-11-26)
 </li>
 <li data-cover="https://img.discogs.com/eL8t1uAl8VlyI6litclitMgPEdA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1678734-1355689535-9539.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Thermals - Now We Can See (2009-03)

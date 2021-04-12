@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T13:41:01.438Z
+date: 2021-04-12T00:15:01.504Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -264,9 +264,6 @@ The Fall of Troy - In the Unlikely Event (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/41656589-834e-432e-ac48-e92f7fc0ec58/28510376732-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - Option Paralysis (2010-03-19)
 </li>
@@ -305,6 +302,9 @@ The Chariot - One Wing (2012-08-28)
 </li>
 <li data-cover="https://img.discogs.com/eX7pVRAAMkOij8l1xUNtAbQsFXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129243-1546927663-6584.jpeg.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - All We Love We Leave Behind (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc84b722-b66f-47d0-8497-b6716546bde4/26840307392-500.jpg" data-tags="mathcore" role="button">
+Rolo Tomassi - Astraea (2012-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b64f883-57dd-4715-89eb-77ad56c193f6/24759113400-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - One of Us Is the Killer (2013-05-14)

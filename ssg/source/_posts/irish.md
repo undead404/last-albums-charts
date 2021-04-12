@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:55:01.676Z
+date: 2021-04-12T00:30:07.054Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -74,6 +74,9 @@ U2 - The Joshua Tree (1987-03-09)
 </li>
 <li data-cover="https://img.discogs.com/ZUGC-vy9-wlqQqdRmu4cbmq7iOg=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17321884-1612806083-5436.jpeg.jpg" data-tags="classic rock, 60s, sunshine pop, irish, bubblegum, ageofaquarius63, doofusgoofus" role="button">
 The Cowsills - The Best Of The Cowsills (1988)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a094da9-ae4f-41d3-a8e7-c88c71daaea7/15557075572-500.jpg" data-tags="classic rock, rock, irish" role="button">
+Van Morrison - Bang Masters (1991-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
@@ -194,9 +197,6 @@ Moya Brennan - Two Horizons (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
-Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7672ca3-e0f4-4701-94ad-9dc4c0043b8f/25419446052-500.jpg" data-tags="alternative rock" role="button">
 The Frames - Burn the Maps (2004-09-17)

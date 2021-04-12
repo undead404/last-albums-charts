@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:23:01.404Z
+date: 2021-04-11T23:48:02.009Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -153,9 +153,6 @@ Blindspott - Blindspott (2002)
 <li data-cover="http://coverartarchive.org/release/3a64d85a-ae57-41f7-ac17-13228ff0eaea/20928284068-500.jpg" data-tags="rapcore, nu metal" role="button">
 Jane Air - Pull Ya? Let it doll go (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
-3rd Strike - Lost Angel (2002-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/26b922bd-a931-4938-93f5-b9a09d227c10/9831908947-500.jpg" data-tags="metal, nu metal" role="button">
 Otep - Sevas Tra (2002-06-18)
 </li>
@@ -296,6 +293,9 @@ Limp Bizkit - Gold Cobra (2011-06-24)
 </li>
 <li data-cover="https://img.discogs.com/6oFCUg9syEwa6u6XGCKA-w6s1oU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4761449-1374677568-8602.jpeg.jpg" data-tags="punk rock, pop punk, rapcore" role="button">
 Zebrahead - Get Nice! (2011-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/4d586463-f1be-4775-b00e-092185367e41/8366866117-500.jpg" data-tags="rapcore" role="button">
+Avery Watts - The Takeover (2011-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8faa0140-377f-453d-9e47-b08244ef48ba/1599503519-500.jpg" data-tags="hip-hop" role="button">
 Noize MC - Новый альбом (2012-03-30)

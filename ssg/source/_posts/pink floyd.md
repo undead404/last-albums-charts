@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:36:01.551Z
+date: 2021-04-12T00:31:01.521Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -291,11 +291,11 @@ David Gilmour - Smile (2006-06-05)
 <li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Best Ballads (2006-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/23ae9ee1-2caa-48f4-8daf-e51174e4f61a/8272749947-500.jpg" data-tags="trance, remix, pink floyd, chilled out, good reading or napping music" role="button">
-Pink Floyd - Meddle: Limited Edition Trance Remix (2006-09-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/7eeec863-0cee-4357-bfd5-06e5347fa392/13253011294-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Psychedelic Games for May (2006-09-06)
+</li>
+<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="progressive rock" role="button">
+Pink Floyd - Remergence (2006-09-06)
 </li>
 <li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="remix, pink floyd" role="button">
 Pink Floyd - Welcome to the Remix 2000 (2006-09-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:03:01.425Z
+date: 2021-04-12T00:33:01.399Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -33,9 +33,6 @@ Love - Forever Changes (1967-11-01)
 <li data-cover="http://coverartarchive.org/release/d55d9495-c5b3-4db2-92a9-89a5a8d07f1b/27898587576-500.jpg" data-tags="60s, progressive rock" role="button">
 Nirvana - All Of Us (1968)
 </li>
-<li data-cover="https://img.discogs.com/4hsJ9bOHdky1Zlwc7Vizrq_0i4A=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923417-1482697240-6883.png.jpg" data-tags="60s, psychedelic" role="button">
-The Millennium - Begin (1968)
-</li>
 <li data-cover="https://img.discogs.com/qBO4M0g2RVYmeS9RZtaHunS5Vvg=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557450-1351949867-9125.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Harumi - Harumi (1968)
 </li>
@@ -45,6 +42,9 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="https://img.discogs.com/Fl1Ff9O_ESOOU8G6Xqa6VpHQ_wo=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14311131-1571998296-8145.jpeg.jpg" data-tags="british, folk, baroque pop, psychedelic, debut album, one and only album, excelso" role="button">
 Nick Garrie - The Nightmare of J.B. Stanislas (1968)
 </li>
+<li data-cover="http://coverartarchive.org/release/7bcfed4f-d583-4607-9a14-6da0a60350c0/10325742178-500.jpg" data-tags="60s" role="button">
+Bee Gees - Idea (1968-09)
+</li>
 <li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
 The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
 </li>
@@ -53,9 +53,6 @@ Bee Gees - Odessa (1969-02)
 </li>
 <li data-cover="https://img.discogs.com/LTjVR92xv3CFJjHg9B1_O7tiFTI=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608901-1296035276.jpeg.jpg" data-tags="classic rock, 60s, progressive rock, baroque pop, finland, unterberger" role="button">
 Montage - Montage (1969-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
-Almendra - Almendra (1969-11-29)
 </li>
 <li data-cover="https://img.discogs.com/m1LRBYq-fZyGN19YuD43YS47n0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684582-1595449542-3982.jpeg.jpg" data-tags="my most favorites, from a long time ago" role="button">
 Emitt Rhodes - Emitt Rhodes (1970)
@@ -93,9 +90,6 @@ Mecano - Entre el cielo y el suelo (1986-06-16)
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
 </li>
-<li data-cover="https://img.discogs.com/jGaZ79UN3qniHTysli0JEenrq7Q=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4735518-1373832381-4298.jpeg.jpg" data-tags="60s" role="button">
-The Left Banke - There's Gonna Be a Storm: The Complete Recordings 1966-1969 (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
@@ -108,11 +102,14 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="http://coverartarchive.org/release/9b4db6a4-56e6-47de-8440-074247b2ed52/9707871898-500.jpg" data-tags="alternative rock, indie pop, indie rock, britpop, baroque pop" role="button">
 The Auteurs - After Murder Park (1996-03-01)
 </li>
+<li data-cover="https://img.discogs.com/mNXWnxU6AigruWA4NqM5Yj2B2dk=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806104-1504454664-2413.jpeg.jpg" data-tags="guitar virtuoso" role="button">
+Jason Becker - Perspective (1996-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/0796c94c-45b7-3880-9c5b-a2b5d5872a34/2737724724-500.jpg" data-tags="chamber pop" role="button">
+My Life Story - The Golden Mile (1997-03-10)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Travis - Good Feeling (1997-09-08)
-</li>
-<li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">
-Jim O'Rourke - Eureka (1999-02-10)
 </li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -146,6 +143,9 @@ Flëur - Сияние (2004-10-12)
 </li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ff2fc2e-99fb-413f-bc4e-0b22de2c95f2/23181586607-500.jpg" data-tags="chamber pop, canadian, 00s" role="button">
+Destroyer - Notorious Lightning and Other Works (2005-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
@@ -222,6 +222,9 @@ Dirty Projectors - Bitte Orca (2009-06-08)
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
+<li data-cover="https://img.discogs.com/mt5ILZYiFxT_mxXKhEYlkMOy_W0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2130657-1265697691.jpeg.jpg" data-tags="baroque pop" role="button">
+Theoretical Girl - Divided (2009-08-17)
+</li>
 <li data-cover="https://img.discogs.com/Xvt0O3nea3m5UxRftZdasQolCx0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58972-1307997369.jpeg.jpg" data-tags="indie pop" role="button">
 fun. - Aim and Ignite (2009-08-25)
 </li>
@@ -281,9 +284,6 @@ Stars - The North (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/899777f1-9907-4116-bdd6-f610a9ec469c/9660731468-500.jpg" data-tags="ambient pop, better than the original" role="button">
-Ke$ha - Deconstructed (2012-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
 Woodkid - The Golden Age (2013-03-14)

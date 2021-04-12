@@ -1,9 +1,10 @@
 ---
-date: 2021-04-11T16:23:07.164Z
+date: 2021-04-11T23:59:01.395Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">Scandal - Scandal (1982)</li>
 <li data-cover="http://coverartarchive.org/release/4b32b8a8-01a4-4f30-993c-13835fbf841d/13383637435-500.jpg" data-tags="female vocalists, girls, sex, euro trance, girl, god, sexy album covers, groove coverage, god is a girl" role="button">Groove Coverage - God Is A Girl (2002-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">Ingrid Michaelson - Girls and Boys (2006-05-16)</li>
 <li data-cover="https://img.discogs.com/iKQ40GJJfP-1o-wBdNSSEKHeQZ8=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838307-1303338556.jpeg.jpg" data-tags="rnb" role="button">Nicole Scherzinger - Puakenikeni (2007-12-18)</li>
@@ -13,7 +14,6 @@ title: "girls: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">Alicia Keys - Girl on Fire (2012-11-23)</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">HAIM - Days Are Gone (2013-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, visual, sweet, lost, woman, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">Kina Grannis - Elements (2014-05-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -35,9 +35,6 @@ Jo Stafford - The Columbia Hits Collection (1981)
 </li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">
 Scandal - Scandal (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fc0ba82-f6a7-4080-84e8-941689385b2a/14092853214-500.jpg" data-tags="female vocalists, jazz" role="button">
-Patti Page - Patti Page's Greatest Hits (1990)
 </li>
 <li data-cover="https://img.discogs.com/L36s7FfcUjt4z9sprCNg4wtkERI=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994424-1431254085-4903.jpeg.jpg" data-tags="soundtrack" role="button">
 Judy Garland - The London Sessions (1992)
@@ -228,6 +225,9 @@ BABYMETAL - ヘドバンギャー!! (2012-07-04)
 <li data-cover="https://img.discogs.com/XMACKANYU5JDPMUEO1VYWL6Rijk=/fit-in/220x216/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12973629-1545641596-1939.jpeg.jpg" data-tags="japanese, girls, jpop, j-rock, j-pop, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - 太陽スキャンダラス (2012-07-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/b55b1ad4-5595-4e87-89f2-dc6f225674b9/4762161059-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+No Name - 希望について (2012-08-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/0645d89b-6a0b-42e1-988b-9adef784f365/24570450361-500.jpg" data-tags="akb48" role="button">
 AKB48 - 1830m (2012-08-15)
 </li>
@@ -250,6 +250,9 @@ BABYMETAL - イジメ、ダメ、ゼッタイ (2013-01-09)
 Christopher Owens - Lysandre (2013-01-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+でんぱ組.inc - W.W.D / 冬へと走りだすお! (2013-01-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 東京女子流 - 約束 (2013-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/80a0ca23-3cdd-4484-8992-2549e4e272e6/6485768061-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
@@ -270,9 +273,6 @@ Aldious - District Zero (2013-05-15)
 <li data-cover="http://coverartarchive.org/release/fedb5f7a-926f-4b8d-92c3-f54cb284cfcc/6184436709-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 ももいろクローバー - 入口のない出口 (2013-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/85167333-2e3d-4bb8-b83e-402dfb4ffaa8/24071620722-500.jpg" data-tags="pop" role="button">
-Kelly Rowland - Talk a Good Game (2013-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef1dd9e6-7d51-44ee-8ca9-cf83e4ec48eb/6076372786-500.jpg" data-tags="girl group, girl groups, idol" role="button">
 乃木坂46 - ガールズルール (2013-07-03)
 </li>
@@ -284,6 +284,9 @@ SKE48 - 美しい稲妻 (2013-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf44d0e0-bd9f-4bef-809d-c6d80c9c5aaf/8160695395-500.jpg" data-tags="female vocalists, girls, girl band, girl group, girl groups, indonesia, girlband, indonesian, asian pop" role="button">
+JKT48 - Fortune Cookie in Love (2013-08-21)
 </li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 Scandal - STANDARD (2013-10-02)
@@ -305,9 +308,6 @@ BABYMETAL - BABYMETAL (2014-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa7ce7c-f8d5-4889-b4a7-52602a66f568/7161264864-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - Departure (2014-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, visual, sweet, lost, woman, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">
-Kina Grannis - Elements (2014-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ace5a62e-ae10-4bcb-ad48-fa7bf852e309/8837101951-500.jpg" data-tags="japanese, epic, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop, the best of 2014" role="button">
 especia - GUSTO (2014-05-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:24:01.541Z
+date: 2021-04-12T00:13:07.007Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -273,6 +273,9 @@ Enya - Amarantine (2005-11-18)
 <li data-cover="http://coverartarchive.org/release/6b6c5339-285b-4993-b4f0-2cfe05ba0e7c/11637525105-500.jpg" data-tags="new age, peaceful" role="button">
 2002 - The Emerald Way (2006-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/f6c3c569-3d85-44a4-96d7-eecdf1987232/10616453538-500.jpg" data-tags="ambient, new age" role="button">
+Liquid Mind - Liquid Mind VIII: Sleep (2006-03-14)
+</li>
 <li data-cover="https://img.discogs.com/yGFB9KNp46gTs9iW7mS3hfnZjqE=/fit-in/300x260/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51818-001.jpg.jpg" data-tags="ambient" role="button">
 Delerium - Nuages Du Monde (2006-10-02)
 </li>
@@ -317,8 +320,5 @@ Devin Townsend Project - Ghost (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a991b2-c3ef-4475-ae96-fcff38406305/8837373509-500.jpg" data-tags="japanese, new age, dreamy, boobs on cover" role="button">
 Lamp - ゆめ (2014-02-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbfa4f47-088e-4957-9a10-5f61bd5f2341/14081906186-500.jpg" data-tags="pop, new age, english, mike oldfield" role="button">
-Mike Oldfield - Man On The Rocks (2014-03-03)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:00:01.472Z
+date: 2021-04-12T00:05:01.445Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -8,8 +8,8 @@ title: "noise pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg" data-tags="shoegaze" role="button">My Bloody Valentine - Loveless (1991-11-04)</li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)</li>
 <li data-cover="https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg" data-tags="noise pop" role="button">Sleigh Bells - Treats (2010-05-11)</li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">The Joy Formidable - The Big Roar (2011-01-24)</li>
+<li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">Car Seat Headrest - Twin Fantasy (2011-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">Sleigh Bells - Reign of Terror (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">Sky Ferreira - Night Time, My Time (2013-10-29)</li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">St. Vincent - St. Vincent (2014-02-24)</li>
@@ -75,14 +75,14 @@ The Flaming Lips - Transmissions From the Satellite Heart (1993-06-22)
 <li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e8c16e-ebfb-47a0-abe7-582e606cb353/25345498085-500.jpg" data-tags="90s, indie rock, shoegaze" role="button">
-Yo La Tengo - Painful (1993-10-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2989a8e-e9d0-45a4-b776-f2d67d6d0786/17342705657-500.jpg" data-tags="indie, spanish indie pop" role="button">
 Los Planetas - Super 8 (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/3882539681-500.jpg" data-tags="indie rock" role="button">
 Pavement - Crooked Rain, Crooked Rain (1994-02-14)
+</li>
+<li data-cover="https://img.discogs.com/rTTc1Z0kW32khwFCA1OeKQXTXss=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16001330-1601663553-5614.jpeg.jpg" data-tags="math rock, noise rock, noise pop, post-hardcore, fucking genius, shady, real post-hardcore, albums to get, no core" role="button">
+Polvo - Celebrate the New Dark Age (1994-05-26)
 </li>
 <li data-cover="https://img.discogs.com/VACsS8J_F8Mbqk_ExGSZ_fns2vo=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986924-1181048050.jpeg.jpg" data-tags="indie rock" role="button">
 Luna - Penthouse (1995-08-08)
@@ -189,9 +189,6 @@ Crocodiles - Summer of Hate (2009-04-28)
 <li data-cover="http://coverartarchive.org/release/e5b17ab3-127d-476b-a4be-3d3c9e9d9e9a/24309818135-500.jpg" data-tags="shoegaze, post-punk" role="button">
 The Horrors - Primary Colours (2009-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/8651ca46-7a65-4056-87cb-350df491b217/14603571724-500.jpg" data-tags="alternative, indie rock, 00s" role="button">
-Yo La Tengo - Popular Songs (2009-09-04)
-</li>
 <li data-cover="https://img.discogs.com/YadrSrOocjG2eyjUph4KPHdJjhg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1914193-1467852029-4954.jpeg.jpg" data-tags="lo-fi" role="button">
 Vivian Girls - Everything Goes Wrong (2009-09-08)
 </li>
@@ -219,9 +216,6 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
 </li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
-</li>
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
@@ -245,6 +239,9 @@ Car Seat Headrest - My Back Is Killing Me Baby (2011-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
 The Raveonettes - Raven in the Grave (2011-04-04)
+</li>
+<li data-cover="https://img.discogs.com/UhvkMOYzKeZQXga6uLsJPGrbTEg=/fit-in/600x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12335487-1533162004-7265.jpeg.jpg" data-tags="indie, psychedelic pop, noise pop, neo-psychedelia" role="button">
+of Montreal - thecontrollersphere (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/abe3ba47-e9e2-406a-9ee0-5a9c7d06640d/11278649860-500.jpg" data-tags="noise pop" role="button">
 Boris - Attention Please (2011-05-23)
@@ -296,6 +293,9 @@ Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/g_5r7oDFs8JaxW6_ODn7U3ASafo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4781559-1375326286-5445.jpeg.jpg" data-tags="electronic, noise pop, owsla" role="button">
 Heartsrevolution - Ride or Die (2013-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cad37ba-8afc-4ea4-b2c2-61ab183fbac1/8773585380-500.jpg" data-tags="indie rock" role="button">
+Car Seat Headrest - Nervous Young Man (2013-08-23)
 </li>
 <li data-cover="https://img.discogs.com/JMhgDP9ZhYAjZ9gGJLtJ2fbSNMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4882092-1378361278-2192.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Joanna Gruesome - Weird Sister (2013-09-09)

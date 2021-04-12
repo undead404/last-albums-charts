@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T06:39:01.413Z
+date: 2021-04-11T23:50:07.011Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/bXnGx8FVcRf8JtYlZzkzm6ybLCo=/fit-in/300x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2579786-1447271323-2062.jpeg.jpg" data-tags="death metal" role="button">Cannibal Corpse - Tomb of the Mutilated (1992-09-22)</li>
+<li data-cover="https://img.discogs.com/beYJ0vbaSav1h-ZJJYwvtYASWtg=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6507757-1447088929-2827.jpeg.jpg" data-tags="death metal, technical death metal" role="button">Nile - In Their Darkened Shrines (2002-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">Nile - Annihilation of the Wicked (2005-05-23)</li>
+<li data-cover="http://coverartarchive.org/release/c16b53d9-5ada-4f9c-a717-3a51e59cb20b/15662034852-500.jpg" data-tags="death metal" role="button">Cannibal Corpse - Kill (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">Paris Hilton - Paris (2006-08-14)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
@@ -183,6 +183,9 @@ Decrepit Birth - Diminishing Between Worlds (2008-01-29)
 <li data-cover="https://img.discogs.com/l8bKKluikwanMV7S4vB5nHLsMLg=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1980482-1256469614.jpeg.jpg" data-tags="death metal, brutal death metal, technical death metal" role="button">
 Brain Drill - Apocalyptic Feasting (2008-02-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ed04d65-ea30-49f9-813f-954a85713612/1939044716-500.jpg" data-tags="crunkcore, scremo" role="button">
+Brokencyde - BC13 (2008-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/f15335cd-1f62-41f6-807e-a8bf2b3c4b1b/15688317582-500.jpg" data-tags="emo" role="button">
 Fall Out Boy - **** Live In Phoenix (2008-04-01)
 </li>
@@ -237,9 +240,6 @@ Nile - Those Whom the Gods Detest (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
@@ -248,9 +248,6 @@ Hour of Penance - Paradogma (2010-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fc351ef-6f46-4f03-8f25-999b22615331/21780806298-500.jpg" data-tags="technical death metal" role="button">
 Fleshgod Apocalypse - Mafia (2010-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecd6ede3-f62b-4300-99a4-39e872e818f5/20678725230-500.jpg" data-tags="brutal death metal, death metal" role="button">
 Cerebral Bore - Maniacal Miscreation (2010-08-01)
@@ -296,6 +293,9 @@ Dying Fetus - Reign Supreme (2012-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/39dcebcd-425c-4fa5-b6c9-32d14f896230/3036084307-500.jpg" data-tags="hard rock, glam metal" role="button">
 Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3b89c68-8e47-44ef-82ac-c3ef0c7c0d5f/4799508602-500.jpg" data-tags="post-rock" role="button">
+Long Distance Calling - The Flood Inside (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Bring Me the Horizon - Sempiternal (2013-03-29)

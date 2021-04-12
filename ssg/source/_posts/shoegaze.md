@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:32:01.423Z
+date: 2021-04-12T00:38:01.416Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -86,9 +86,6 @@ Swervedriver - Mezcal Head (1993-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6e8c16e-ebfb-47a0-abe7-582e606cb353/25345498085-500.jpg" data-tags="90s, indie rock, shoegaze" role="button">
-Yo La Tengo - Painful (1993-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a1c8de5-54bf-3efd-99af-e9757a9184a3/7941708576-500.jpg" data-tags="shoegaze" role="button">
 Chapterhouse - Blood Music (1993-11-09)
@@ -195,6 +192,9 @@ Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 <li data-cover="https://img.discogs.com/rmPNjIDW0HMABn_H6aEqd5CVZlw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513679-1225289551.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 School of Seven Bells - Alpinisms (2008-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
+Glasvegas - Glasvegas (2008-09-05)
+</li>
 <li data-cover="https://img.discogs.com/2CQf5licuwUWGxwSQnU85K93upw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17164018-1611938371-6715.jpeg.jpg" data-tags="indie rock" role="button">
 Deerhunter - Weird Era Cont. (2008-10-27)
 </li>
@@ -225,14 +225,14 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/c2852bc2-4919-41e7-aab4-c3ff47ba1c2c/20543754977-500.jpg" data-tags="witch house" role="button">
+Salem - King Night (2010-09-28)
+</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5034b14d-f27c-4773-bdbc-1e3ea0199287/4514257778-500.jpg" data-tags="shoegaze" role="button">
-Ringo Deathstarr - Colour Trip (2011-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
@@ -242,9 +242,6 @@ The Raveonettes - Raven in the Grave (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
 The War on Drugs - Slave Ambient (2011-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
 </li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
@@ -308,6 +305,9 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">
 Have a Nice Life - The Unnatural World (2014-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
+Phantogram - Voices (2014-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/22b28fad-4201-4142-a2b0-d4147d7196a2/6726769497-500.jpg" data-tags="shoegaze" role="button">
 Nothing - Guilty of Everything (2014-03-03)

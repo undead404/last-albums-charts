@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:19:01.439Z
+date: 2021-04-12T00:02:40.477Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c5470b73-b208-4f26-97d7-a6d8f50921ed/2236356187-500.jpg" data-tags="hip-hop, 80s" role="button">
-Beastie Boys - Paul's Boutique (1989-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
@@ -33,11 +30,8 @@ Beastie Boys - Ill Communication (1994-05-18)
 <li data-cover="http://coverartarchive.org/release/0f6fe239-d416-4dbb-9f80-86cd5d6428f9/22927814474-500.jpg" data-tags="rap" role="button">
 Funkdoobiest - Brothas Doobie (1995-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
-Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/a28ae1a5-577f-3324-95bf-e8cdb1595e3e/23815611613-500.jpg" data-tags="hip-hop, 90s, hip hop" role="button">
-A Tribe Called Quest - Beats, Rhymes and Life (1996-07-29)
+<li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
+The Psycho Realm - The Psycho Realm (1997-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
@@ -48,8 +42,8 @@ Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/1e4d0890-9ee0-4020-a9dc-8528208fd3ab/1675399328-500.jpg" data-tags="albums by:everlast, rock" role="button">
 Everlast - Whitey Ford Sings the Blues (1998-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f8e60b8-26ce-4680-bfa1-e9593c598de7/16217608133-500.jpg" data-tags="hip-hop" role="button">
-A Tribe Called Quest - The Love Movement (1998-09-09)
+<li data-cover="http://coverartarchive.org/release/b34d3b22-9b21-44a1-bbef-6ebc05bed361/5131421085-500.jpg" data-tags="hip-hop" role="button">
+Cypress Hill - IV (1998-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/33420fae-4cf2-3aa2-b34f-708c4584a192/14285387016-500.jpg" data-tags="stones throw" role="button">
 Lootpack - Soundpieces: Da Antidote! (1999-06-29)
@@ -57,11 +51,14 @@ Lootpack - Soundpieces: Da Antidote! (1999-06-29)
 <li data-cover="http://coverartarchive.org/release/80dc9693-3e9a-4570-8452-6ce3d6fb31d1/4528884990-500.jpg" data-tags="hip-hop, rap, underground hip-hop, 90s, alternative hip-hop, hhc 95-05 top 100, rawkus, hood, hot song, good new music, middle finger, he cuts so fresh" role="button">
 The High & Mighty - Home Field Advantage (1999-08-24)
 </li>
+<li data-cover="https://img.discogs.com/iLkCCAozsFMzR5zKato975r0dyc=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10899981-1506192162-6403.jpeg.jpg" data-tags="hip-hop, revolutionary" role="button">
+dead prez - Lets Get Free (2000-01-14)
+</li>
+<li data-cover="https://img.discogs.com/CFxnuJL6e6tYnUautoJ9-IiHPN8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938276-1263664672.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
+Dilated Peoples - The Platform (2000-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c2c5aed-e1cf-3dc7-82c8-7936611d73f7/15200268076-500.jpg" data-tags="hiphop" role="button">
 Zion I - Mind over Matter (2000-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/fef2ef9a-4869-4a56-a902-a242b588fd41/15841150848-500.jpg" data-tags="underground hip hop" role="button">
-People Under the Stairs - Question in the Form of an Answer (2000-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9316270-de2f-474d-a90a-64b87c8552e0/17553518656-500.jpg" data-tags="rock" role="button">
 Everlast - Eat at Whitey's (2000-10-16)
@@ -81,8 +78,14 @@ Saul Williams - Amethyst Rock Star (2001-10-23)
 <li data-cover="http://coverartarchive.org/release/79d35845-7b0b-4624-9999-a13ca25c653f/4766809847-500.jpg" data-tags="hip hop" role="button">
 People Under the Stairs - "O.S.T." (2002-06-04)
 </li>
+<li data-cover="https://img.discogs.com/j1P_Q7OyHn4x7kbQYB6KtaDzElU=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121255-1615768683-5521.jpeg.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
+Cypress Hill - Stash (2002-07-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - Quality (2002-11-18)
+</li>
+<li data-cover="https://img.discogs.com/nCjk3Pxqzl51cxGyoUkRP8l8Izk=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3037179-1312812154.jpeg.jpg" data-tags="underground hip-hop, k-hiphop, alternative hip-hop, korean hip-hop" role="button">
+Epik High - Map of the Human Soul (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e65a1d-3948-497f-8a0b-e769c1378793/4794566468-500.jpg" data-tags="alternative hip-hop, excellent lyricism, educate yourself, real life rhymes, lyrics to learn from" role="button">
 Immortal Technique - The Silenced Revolution (2004)
@@ -93,11 +96,20 @@ Everlast - White Trash Beautiful (2004)
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/bc6fe60e-7e41-4f08-ba55-382dfffe59e9/14273145727-500.jpg" data-tags="hip-hop, hip hop, rap, jazz fusion, alternative hip-hop" role="button">
+Lootpack - The Lost Tapes (2004-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
+<li data-cover="https://img.discogs.com/fD7yeprYboFZ-9aswHGc2poxs-8=/fit-in/372x330/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425841-1309627906.jpeg.jpg" data-tags="hip hop, alternative hip-hop" role="button">
+Strange Fruit Project - Soul Travelin' (2004-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/c723208b-989f-41fb-bb63-235b1bbc3830/6854999473-500.jpg" data-tags="polish" role="button">
 Łona - Nic Dziwnego (2004-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/693379ce-68dc-4db4-b377-30a8247a529b/4801859145-500.jpg" data-tags="hip-hop" role="button">
+Viktor Vaughn - Venomous Villain (2004-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Mos Def - The New Danger (2004-10-12)
@@ -119,6 +131,12 @@ Weerd Science - Friends And Nervous Breakdowns (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6647f41-74bf-4eab-b4ab-5f7fa32ae7aa/15794553870-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - 20/20 (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e69b2cbb-bf35-41d0-a6a6-8d2fedd9d778/5651213506-500.jpg" data-tags="hip-hop, hip hop" role="button">
+The Coup - Pick A Bigger Weapon (2006-04-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, rap, underground hip-hop, alternative hip-hop" role="button">
+DANGERDOOM - Occult Hymn (2006-05-30)
 </li>
 <li data-cover="https://img.discogs.com/_pytQNoFquAHXxTr4S3Gy2D3VWo=/fit-in/189x189/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-796427-1174893064.jpeg.jpg" data-tags="hip-hop" role="button">
 Gym Class Heroes - As Cruel As School Children (2006-07-25)
@@ -147,6 +165,9 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d11f1fd-2383-41b5-9c12-83df182ebdbf/1448823036-500.jpg" data-tags="hip-hop, hip hop, soul" role="button">
+Little Brother - Getback (2007-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a8a4523-0288-467b-b028-0b0e72dd52b7/2810122194-500.jpg" data-tags="trent reznor, alternative hip-hop" role="button">
 Saul Williams - The Inevitable Rise and Liberation of Niggy Tardust (2007-11-01)
 </li>
@@ -171,9 +192,6 @@ Ugly Duckling - Audacity (2008-11-25)
 <li data-cover="http://coverartarchive.org/release/e615115f-81cc-4647-bde5-eff6d6828cf7/21276824220-500.jpg" data-tags="hip-hop" role="button">
 Common - Universal Mind Control (2008-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/923f472e-10c9-4411-88c7-e2ebde8d0e3b/1503538542-500.jpg" data-tags="hip hop, kid cudi" role="button">
-Kid Cudi - Dat Kid From Cleveland (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/050fd0a7-6dfd-4db8-baca-e57375ac9eff/4520585290-500.jpg" data-tags="hip hop, dance, funk, alternative hip-hop" role="button">
 N.A.S.A. - The Spirit of Apollo (2009-02-13)
 </li>
@@ -191,9 +209,6 @@ Eyedea & Abilities - By the Throat (2009-07-21)
 </li>
 <li data-cover="https://img.discogs.com/_gMnPujlN9AT4zUPw0Ct1BHZNsQ=/fit-in/320x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876353-1249499089.jpeg.jpg" data-tags="electronic" role="button">
 Amanda Blank - I Love You (2009-08-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/4dad8c35-f344-49d4-ab35-bb3a72c997b1/16156237210-500.jpg" data-tags="hip-hop, hip hop, west coast, groovy, alternative hip-hop, jazz hop, independent hip-hop, puts, indie g-funk, golden era feel" role="button">
-People Under the Stairs - Carried Away (2009-10-13)
 </li>
 <li data-cover="https://img.discogs.com/YNA3QFzyfL4lRKYkPbUXu955als=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6354960-1417205837-9595.jpeg.jpg" data-tags="electronic, hip hop, alternative, rap, groovy, alternative hip-hop" role="button">
 Chiddy Bang - The Swelly Express (2009-10-29)
@@ -218,9 +233,6 @@ Flobots - Survival Story (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6f6704a-1bd1-4fa8-9acd-e340e669e48a/23246348312-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Cypress Hill - Rise Up (2010-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd0c27d3-89ec-3958-b213-8f04ba8e0e60/1495574905-500.jpg" data-tags="hip hop, independent hip-hop" role="button">
-Reflection Eternal - Revolutions Per Minute (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b694997-ffff-4e17-b3fa-2eff8fd5e30e/10588245317-500.jpg" data-tags="nozi mc, russian, alternative hip-hop" role="button">
 Noize MC - Последний Альбом (2010-05-25)
@@ -258,9 +270,6 @@ CunninLynguists - Oneirology (2011-03-22)
 <li data-cover="https://img.discogs.com/LqHmpQmv7SQ4y0V9wI0BA-31EHo=/fit-in/445x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2788467-1301492671.jpeg.jpg" data-tags="hip hop, underground hip-hop" role="button">
 Pharoahe Monch - W.A.R. (We Are Renegades) (2011-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - American Tragedy (2011-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/1b6ace01-0554-431b-a2f9-4ea63c75e23c/955252091-500.jpg" data-tags="hip hop, alternative hip-hop" role="button">
 Atmosphere - The Family Sign (2011-04-12)
 </li>
@@ -297,9 +306,6 @@ C2C - Tetra (2012-08-03)
 <li data-cover="http://coverartarchive.org/release/0bd679c7-bea0-4681-83c8-ea2bfecf3641/1865564816-500.jpg" data-tags="hip-hop, rock, alternative rock, rap, political, alternative hip-hop, rap rock" role="button">
 Flobots - The Circle In The Square (2012-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ab0cb1e-eac0-4baa-9f6d-cbdc91804703/7528760516-500.jpg" data-tags="alternative hip-hop, swag overload" role="button">
-Kreayshawn - Somethin 'Bout Kreay (2012-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
@@ -309,16 +315,10 @@ Tyler, the Creator - Wolf (2013-04-01)
 <li data-cover="http://coverartarchive.org/release/53351ea5-0a4f-42ff-9bee-4a7d3c43fda8/7420843359-500.jpg" data-tags="kid cudi" role="button">
 Kid Cudi - Indicud (2013-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
-Pusha T - My Name Is My Name (2013-10-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/dee46bb1-a40f-4208-8bcc-a8c31a67adbc/6408762583-500.jpg" data-tags="hip-hop, hip hop, rap, alternative hip-hop, jazz hip-hop, mac miller" role="button">
 Mac Miller - Live From Space (2013-12-17)
 </li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
-</li>
-<li data-cover="https://img.discogs.com/Aw3SWdUni5Nu5am4-LxNv2-RTSY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6119143-1603471626-8714.jpeg.jpg" data-tags="hip-hop" role="button">
-Milo - A Toothpaste Suburb (2014-09-23)
 </li>
 </ol>

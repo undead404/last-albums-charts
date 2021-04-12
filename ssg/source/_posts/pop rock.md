@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T21:43:01.407Z
+date: 2021-04-12T00:10:01.427Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - Let Go (2002-06-04)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
+<li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">Gavin DeGraw - Chariot (2003-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">Avril Lavigne - Under My Skin (2004-03)</li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">Kelly Clarkson - Breakaway (2004-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - The Best Damn Thing (2007-04-13)</li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">Katy Perry - One of the Boys (2008-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">The Script - The Script (2008-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">OneRepublic - Native (2013-03-22)</li>
@@ -96,6 +96,9 @@ Lifehouse - Lifehouse (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
+Motion City Soundtrack - Commit This to Memory (2005-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
@@ -153,9 +156,6 @@ Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - RIOT! (2007-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
 Kelly Clarkson - My December (2007-06-25)
 </li>
@@ -170,9 +170,6 @@ Jonas Brothers - A Little Bit Longer (2008-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
-The Cab - Whisper War (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
@@ -219,9 +216,6 @@ fun. - Aim and Ignite (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/2b72990f-0c8d-4687-a33f-4a329672f85a/17667139144-500.jpg" data-tags="pop, miley cyrus" role="button">
 Miley Cyrus - The Time of Our Lives (2009-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - Brand New Eyes (2009-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
@@ -230,6 +224,9 @@ OneRepublic - Waking Up (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)
+</li>
+<li data-cover="https://img.discogs.com/scURdDHnJxXGhNe3S0C141A8zYQ=/fit-in/310x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3774986-1343921934-2320.jpeg.jpg" data-tags="country" role="button">
+Taylor Swift - Speak Now (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
 James Blunt - Some Kind of Trouble (2010-11-03)
@@ -258,6 +255,9 @@ Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 <li data-cover="https://img.discogs.com/_ji_ALDRRrKt7YKTYs2Es0CBj9Q=/fit-in/520x264/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784599-1344284990-4609.jpeg.jpg" data-tags="pop rock, pop" role="button">
 The All-American Rejects - Kids in the Street (2012-03-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/94fdd9eb-5394-4ca0-b12f-c4aff9660707/871610070-500.jpg" data-tags="alternative rock" role="button">
+Jason Mraz - Love Is A Four Letter Word (2012-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
 Maroon 5 - Overexposed (2012-06-20)
 </li>
@@ -279,9 +279,6 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">
 OneRepublic - Native (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
-Paramore - Paramore (2013-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
 </li>
@@ -302,6 +299,9 @@ Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
 Avril Lavigne - Avril Lavigne (2013-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/52562880-9c37-4164-bde1-09db1596316e/7565087066-500.jpg" data-tags="alternative" role="button">
+American Authors - Oh, What A Life (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)

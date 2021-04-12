@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T23:05:01.435Z
+date: 2021-04-11T23:52:01.428Z
 title: "desert island discs: 100 albums you must listen to before you die"
 ---
 ![Calvin Harris - 18 Months (2012-10-26)](http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg "Calvin Harris - 18 Months (2012-10-26)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/kOWJpUyL3F_FpQ3HdX3TzTL03so=/fit-in/538x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393159-1176250241.jpeg.jpg" data-tags="soundtrack, reggae, reggae-pop, desert island discs, pitchfork 70s, rs 500 best, sjc" role="button">Various Artists - The Harder They Come (1972-07-07)</li>
 <li data-cover="https://img.discogs.com/My-9fvAmHX7nNudLeLycC-M1z0g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-878236-1168448685.jpeg.jpg" data-tags="80s, post-punk, clash, desert island discs, my vinyl, own on cassette, vidette, sjc" role="button">The Clash - Black Market Clash (1980)</li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">Violent Femmes - Violent Femmes (1983-04)</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">Pulp - Hits (2002-11-18)</li>
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)</li>
+<li data-cover="https://img.discogs.com/3W0xB4mt2YDIZh8CLaxKgiOICJc=/fit-in/600x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596472-1369480147-6877.jpeg.jpg" data-tags="indie, alternative, 00s" role="button">Morrissey - Years of Refusal (2009-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/95501339-d993-49d8-8bb0-54cb98464c29/13194367606-500.jpg" data-tags="alternative rock" role="button">Tom Waits - Bad as Me (2011-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">Laura Marling - Once I Was An Eagle (2013-05-24)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9a19c2d5-953e-41b1-9253-ad1e76b906c6/15822714405-500.jpg" data-tags="60s, folk, killforpeace, desert island discs, my vinyl, humaniste, fab albums" role="button">
+Phil Ochs - Tape From California (1968)
+</li>
 <li data-cover="https://img.discogs.com/kOWJpUyL3F_FpQ3HdX3TzTL03so=/fit-in/538x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393159-1176250241.jpeg.jpg" data-tags="soundtrack, reggae, reggae-pop, desert island discs, pitchfork 70s, rs 500 best, sjc" role="button">
 Various Artists - The Harder They Come (1972-07-07)
 </li>
@@ -33,14 +36,11 @@ Ann Peebles - I Can't Stand The Rain (1974)
 <li data-cover="http://coverartarchive.org/release/7bcc031b-18eb-4055-b510-361060800261/4527165066-500.jpg" data-tags="folk, 70s" role="button">
 Joni Mitchell - Hejira (1976-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5756323c-7d72-491b-9eb5-5864ab39e7ca/11802718870-500.jpg" data-tags="classic rock" role="button">
-Jackson Browne - Running On Empty (1977)
+<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
+The Raincoats - The Raincoats (1979)
 </li>
 <li data-cover="https://img.discogs.com/My-9fvAmHX7nNudLeLycC-M1z0g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-878236-1168448685.jpeg.jpg" data-tags="80s, post-punk, clash, desert island discs, my vinyl, own on cassette, vidette, sjc" role="button">
 The Clash - Black Market Clash (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
-Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/71f079be-2e35-4233-a1cb-18c458bd64fc/6939743803-500.jpg" data-tags="the rolling stones, classic rock, blues rock" role="button">
 The Rolling Stones - Hot Rocks (1964-1971) (1985)
@@ -51,8 +51,8 @@ Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 <li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
 </li>
-<li data-cover="https://img.discogs.com/m5IMB0zq1NN8QKKZCFWLN0dkY1s=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5132433-1394907307-6919.jpeg.jpg" data-tags="riot grrrl" role="button">
-L7 - Smell the Magic (1990-09)
+<li data-cover="https://img.discogs.com/Ru1Wx6pVagAy8UHzXg-ktbcYyRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84680-1523164126-2096.jpeg.jpg" data-tags="shoegaze" role="button">
+My Bloody Valentine - Glider (1990-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/74678f8d-80a8-3091-ada8-89d617241547/22697273580-500.jpg" data-tags="morrissey, alternative" role="button">
 Morrissey - Bona Drag (1990-10-08)
@@ -63,32 +63,41 @@ Richard Thompson - Rumor And Sigh (1991-05)
 <li data-cover="http://coverartarchive.org/release/8dc0d4c7-b26c-455e-b7df-2319c0da6b28/7983528242-500.jpg" data-tags="the guardian list of 1000 albums to hear before you die" role="button">
 The Clash - Clash on Broadway (1991-11-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b18ea3b-59e5-43c5-b0c5-fceddd285109/7950065085-500.jpg" data-tags="rock" role="button">
+Neutral Milk Hotel - Beauty (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/d16fceb3-9852-41d3-b9be-8d50fd110ae7/15842770700-500.jpg" data-tags="twee, scotland is for lovers" role="button">
 The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ed8e6ae6-baf0-4e48-8f36-b927fd76064d/4395964292-500.jpg" data-tags="90s" role="button">
-Pulp - Separations (1992-07)
+<li data-cover="http://coverartarchive.org/release/19a84e9b-6ad3-45ac-8bcc-6f5b12af8478/5941182137-500.jpg" data-tags="rock, grunge, seattle, 90s" role="button">
+Various Artists - Singles (1992-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9187f0d2-f9c7-4e4f-959f-f67da371dd7e/1666908080-500.jpg" data-tags="90s, alternative rock" role="button">
 Manic Street Preachers - Gold Against the Soul (1993-06-24)
 </li>
-<li data-cover="https://img.discogs.com/oS2NzLg-4zJnZYpGV-E1kj1Ngf0=/fit-in/390x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4995680-1471646057-8530.jpeg.jpg" data-tags="indie, 90s" role="button">
-The Magnetic Fields - The Charm of the Highway Strip (1994-04-18)
+<li data-cover="http://coverartarchive.org/release/b4f1a2dd-4fae-4b58-bac6-e7809c81c4ce/5455235832-500.jpg" data-tags="90s, experimental, tom waits" role="button">
+Tom Waits - The Black Rider (1993-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7cfa186-8a33-4695-ad93-9087d148cd41/8688008351-500.jpg" data-tags="piano" role="button">
+George Gershwin - Gershwin Plays Gershwin: The Piano Rolls (1993-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2345b971-b2bc-47bb-963f-cf8aede74b2a/7927140622-500.jpg" data-tags="folk, indie rock, singer-songwriter, folk rock, desert island discs" role="button">
 The Mountain Goats - Nine Black Poppies (1995)
 </li>
+<li data-cover="https://img.discogs.com/iyrJ26YCN08Rx2UXFVLglFVgVFc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1738618-1508921283-2637.jpeg.jpg" data-tags="desert island discs" role="button">
+The Pietasters - Oolooloo (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/f6403fc4-2225-41f0-b006-69461fe3d4d7/6753474012-500.jpg" data-tags="rock, singer-songwriter, 90s, folk, folk rock" role="button">
+Bruce Springsteen - The Ghost of Tom Joad (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
 </li>
-<li data-cover="https://img.discogs.com/Aom3nC0ohHutlZHi-maPQevzBXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1316874-1293192052.jpeg.jpg" data-tags="synthpop" role="button">
-The Magnetic Fields - Get Lost (1995-10-24)
+<li data-cover="https://img.discogs.com/cMK3nWewwhq4rsy67g2jbnJf8SI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736313-1153473870.jpeg.jpg" data-tags="americana, alt-country" role="button">
+Gillian Welch - Revival (1996-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fe6a811-5c22-4211-b0b6-a7b8e0a270bd/28840033761-500.jpg" data-tags="singer-songwriter, alt-country, female vocalists" role="button">
 Patty Griffin - Living With Ghosts (1996-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a28ae1a5-577f-3324-95bf-e8cdb1595e3e/23815611613-500.jpg" data-tags="hip-hop, 90s, hip hop" role="button">
-A Tribe Called Quest - Beats, Rhymes and Life (1996-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
 Republica - Republica (1996-07-29)
@@ -99,8 +108,8 @@ Beth Orton - Trailer Park (1996-10-14)
 <li data-cover="http://coverartarchive.org/release/e4895e4d-859c-48e4-966c-18ee276bade1/15415720886-500.jpg" data-tags="desert island discs" role="button">
 The Tragically Hip - Live Between Us (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3bca172-fa17-4f55-8011-0a2851e59d19/17353601806-500.jpg" data-tags="female vocalists, indie rock, rock, punk, alternative rock, 90s, riot grrrl" role="button">
-Sleater-Kinney - Dig Me Out (1997-04-08)
+<li data-cover="https://img.discogs.com/aFFt8r9NZTbcKw0qfvUHyqPBzj8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15196297-1587944184-5916.jpeg.jpg" data-tags="rock, alternative, alternative rock, shoegaze, 90s, live, pure awesome, fuzzy guitar goodness, desert island discs, where is my bong, pop lament, zpf top albums" role="button">
+Galaxie 500 - Copenhagen (1997-03-29)
 </li>
 <li data-cover="https://img.discogs.com/ubF0BjfHDn8BWvlwpfOLIFg_9aA=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4628244-1370385662-4244.jpeg.jpg" data-tags="blues rock" role="button">
 Morphine - B-Sides and Otherwise (1997-09-23)
@@ -117,11 +126,14 @@ Eels - Electro-Shock Blues (1998-09-21)
 <li data-cover="http://coverartarchive.org/release/1833e684-c6e4-3896-b766-339903b983d2/15531441645-500.jpg" data-tags="punk rock, rock and roll, desert island discs, where is my bong, drunk tank singalong tune" role="button">
 The Murder City Devils - Empty Bottles, Broken Hearts (1998-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/667893cc-983d-411f-8fa7-eea09dc39632/10643528090-500.jpg" data-tags="desert island discs" role="button">
+Joel Plaskett - In Need of Medical Attention (1999)
+</li>
 <li data-cover="https://img.discogs.com/-Bws1FBEKQ6731KcjdJsjlzkwNQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605494-1412433564-9154.jpeg.jpg" data-tags="sweden, alex, desert island discs, kalle mansson" role="button">
 The Wannadies - Yeah (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/69dfd0a6-b201-418b-ad01-5be713f43195/10549318371-500.jpg" data-tags="indie rock, indie, female vocalists" role="button">
-Sleater-Kinney - The Hot Rock (1999-02-23)
+<li data-cover="http://coverartarchive.org/release/f04427c9-a2ea-333e-9ce9-470a48748e17/8484860904-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
+Foxy Brown - Chyna Doll (1999-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
@@ -135,14 +147,11 @@ Warren Zevon - Life'll Kill Ya (2000-01-25)
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
 </li>
-<li data-cover="https://img.discogs.com/cWfCD7gEkow118wcDzNNMIEkSPY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417166-1287409663.jpeg.jpg" data-tags="indie rock" role="button">
-Sleater-Kinney - All Hands on the Bad One (2000-05-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee70adc5-ad51-4974-b272-bf6282719875/25101692738-500.jpg" data-tags="punk rock, rock and roll, garage punk, desert island discs, where is my bong, headbangers ball, drunk tank singalong tune" role="button">
 The Murder City Devils - In Name And Blood (2000-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/80400af0-ee7b-4035-8c25-72289160ac21/28149235830-500.jpg" data-tags="jazz, jazz vocal, nina simone, simone, desert island discs, sjass" role="button">
-Nina Simone - Nina Simone's Finest Hour (2000-06-13)
+<li data-cover="http://coverartarchive.org/release/f461d17b-6144-4eb4-877a-f5e0921e9225/7941633935-500.jpg" data-tags="alt-country" role="button">
+Neko Case - Canadian Amp (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef7832c2-369c-40c3-a148-527e2b59c5b6/3496279385-500.jpg" data-tags="french" role="button">
 Georges Brassens - La Mauvaise Réputation (2001)
@@ -168,20 +177,20 @@ Echo & the Bunnymen - Live In Liverpool (2002)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/61dfc0c1-9057-41c5-b788-a8cfe26c633a/17647597715-500.jpg" data-tags="indie, seattle, indie rock, bounce, euphoric, 2000s, blissful, barsuk, cathartic, clutter, plaintive, folksy, desert island discs, barsuk: generalized, the long winters, albums acquired in 2011" role="button">
-The Long Winters - The Worst You Can Do Is Harm (2002-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/c9b684e7-1820-4f91-a43b-ebf12c580d9f/6624706040-500.jpg" data-tags="noise rock" role="button">
 mclusky - mclusky Do Dallas (2002-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9416d61-7016-4dbd-bda3-7a1ec0d35735/5312408655-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Sarah Slean - Night Bugs (2002-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
-Doves - The Last Broadcast (2002-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/460eb1c2-1787-4c84-8aec-496251d17e8b/3205936535-500.jpg" data-tags="indie" role="button">
 The Jesus and Mary Chain - 21 Singles (2002-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/9df22584-b772-431a-94c0-d6c6fe370568/5079066269-500.jpg" data-tags="rock, canadian" role="button">
+The Tragically Hip - In Violet Light (2002-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/0db341cb-4f0a-439b-8e93-a209abcfc72d/1817410805-500.jpg" data-tags="alternative" role="button">
+Pixies - Pixies (2002-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
@@ -198,17 +207,17 @@ Redbird - Redbird (2003)
 <li data-cover="https://img.discogs.com/hwuAGtFLnITTw3n8vr7KFTeOzPY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-141316-1377297796-7587.jpeg.jpg" data-tags="desert island discs" role="button">
 Zongamin - Zongamin (2003-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
-The Long Winters - When I Pretend to Fall (2003-05-06)
+<li data-cover="http://coverartarchive.org/release/821d3776-2a02-311e-bf9f-6847abc3c561/28068654011-500.jpg" data-tags="indie, indie rock, duyster, desert island discs, duyster essentials 2003" role="button">
+Arab Strap - Monday At The Hug And Pint (2003-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa51c84c-d61f-37e3-b285-241a2a89a4bd/15549971613-500.jpg" data-tags="folk" role="button">
+Evan Dando - Baby I'm Bored (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/x_ZXbTXhgJAS1mE58lQEzzO1UJg=/fit-in/426x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175867-1555449374-8049.png.jpg" data-tags="industrial, ebm, desert island discs, recommendable" role="button">
 Bruderschaft - Forever (2003-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/4321855e-8e8e-4786-8506-28e6d69633b9/13966110015-500.jpg" data-tags="country" role="button">
-Johnny Cash - Unearthed (2003-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
@@ -243,26 +252,17 @@ Mary Gauthier - Mercy Now (2005)
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
-Sleater-Kinney - The Woods (2005-05-24)
+<li data-cover="http://coverartarchive.org/release/dd145ca9-034b-4c1f-b743-507267b1b85e/23678926503-500.jpg" data-tags="rock, singer-songwriter" role="button">
+Bruce Springsteen - Devils & Dust (2005-04-25)
 </li>
 <li data-cover="https://img.discogs.com/miSQF1ZEr8MuVJ4BUikC7w0adAM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458743-1504905798-8860.jpeg.jpg" data-tags="electronic, minimal" role="button">
 Isolée - We Are Monster (2005-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f977712-f3b4-4a9a-ade3-24a071e4a1fc/6625176890-500.jpg" data-tags="indie, 80s, punk, alternative" role="button">
-Violent Femmes - Permanent Record: The Very Best of Violent Femmes (2005-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/fe5d107a-be6e-466d-8d29-72f79ee42734/11959642682-500.jpg" data-tags="live, rasputina, desert island discs, mel fave albums, mel fave music, lauraann163" role="button">
 Rasputina - A Radical Recital (2005-09-13)
 </li>
-<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
-Sun Kil Moon - Tiny Cities (2005-10-31)
-</li>
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/8417c017-6f07-3ebb-b9d8-64bbbdaee4d9/15782550452-500.jpg" data-tags="rock" role="button">
-The Hold Steady - Boys And Girls In America (2006-10-03)
 </li>
 <li data-cover="https://img.discogs.com/n0K4zxaOPiabxNI1S_UVJRPyhWs=/fit-in/412x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5040396-1426821719-9881.jpeg.jpg" data-tags="americana, alt-country, live, neko case, country noir, desert island discs, my whole damn collection, red shoes desert island, absolutely fucking perfect, tdhassociation" role="button">
 Neko Case - Live From Austin TX (2007-01-09)
@@ -276,8 +276,8 @@ Mary Gauthier - Between Daylight And Dark (2007-09-18)
 <li data-cover="http://coverartarchive.org/release/e089c521-16fd-42c5-abf7-ee79fb6231fd/11994441629-500.jpg" data-tags="rock, irish, live, compilations, desert island discs" role="button">
 U2 - Live From Paris (2008-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5048b8c6-1214-4836-a48f-c2df38eaf099/7240585489-500.jpg" data-tags="alternative, cabaret" role="button">
-Amanda Palmer - Who Killed Amanda Palmer (2008-09-13)
+<li data-cover="https://img.discogs.com/0YhccyTu8ZQzpNs76fDBB61NsX0=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494240-1248089864.jpeg.jpg" data-tags="aggrotech, dark electro" role="button">
+Aesthetic Perfection - A Violent Emotion (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f0b4df8-7aff-4d4d-97fe-b2009252ec11/15458551821-500.jpg" data-tags="rock, live, emusic, desert island discs" role="button">
 Lou Reed - Berlin: Live at St. Ann's Warehouse (2008-10-07)
@@ -285,14 +285,14 @@ Lou Reed - Berlin: Live at St. Ann's Warehouse (2008-10-07)
 <li data-cover="https://img.discogs.com/3W0xB4mt2YDIZh8CLaxKgiOICJc=/fit-in/600x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596472-1369480147-6877.jpeg.jpg" data-tags="indie, alternative, 00s" role="button">
 Morrissey - Years of Refusal (2009-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d1a7c20-2a4e-3a46-9d5d-f56d6d62d40d/15284686655-500.jpg" data-tags="indie rock" role="button">
-Doves - Kingdom Of Rust (2009-04-03)
-</li>
 <li data-cover="https://img.discogs.com/0p4IeHnrBKzwZbaUP2XNQnSMdbY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328080-1361870851-6165.jpeg.jpg" data-tags="rock, folk, folk rock, 00s" role="button">
 Bob Dylan - Together Through Life (2009-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0df19cac-877c-4dae-9c09-83f1509ee181/21009277200-500.jpg" data-tags="indie, alt country" role="button">
 Magnolia Electric Co. - Josephine (2009-07-21)
+</li>
+<li data-cover="https://img.discogs.com/LNDXt9UzmwUDVAIFHnIA-wZKrRw=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2554923-1485314460-5116.jpeg.jpg" data-tags="rock, alternative rock, experimental rock, low rock, compilation, desert island discs, weekly album appreciation club" role="button">
+Morphine - At Your Service (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b1784e-fe17-4944-80af-604a7f27f892/22157262431-500.jpg" data-tags="indie pop" role="button">
 Stars - The Five Ghosts (2010-06-21)

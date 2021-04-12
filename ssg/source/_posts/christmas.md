@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T03:29:01.406Z
+date: 2021-04-12T00:25:06.990Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -39,9 +39,6 @@ Dean Martin - A Winter Romance (1959-11-16)
 <li data-cover="http://coverartarchive.org/release/88b9f6d5-90bd-4259-aba5-cb133a10bef5/5963174439-500.jpg" data-tags="christmas" role="button">
 Ella Fitzgerald - Ella Wishes You A Swinging Christmas (1960)
 </li>
-<li data-cover="https://img.discogs.com/9L4hmsfyBImSLEK7OxRmcHU66UM=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6901272-1485024659-2390.jpeg.jpg" data-tags="christmas" role="button">
-Nat King Cole - The Christmas Song (1960)
-</li>
 <li data-cover="https://img.discogs.com/EV8yXt-OYIifv_AyYHgoTDkzQfs=/fit-in/448x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2339230-1278046727.jpeg.jpg" data-tags="christmas" role="button">
 Brenda Lee - Rockin' Around the Christmas Tree (1962)
 </li>
@@ -50,9 +47,6 @@ Various Artists - A Christmas Gift for You From Phil Spector (1963)
 </li>
 <li data-cover="https://img.discogs.com/v0dMZNo0le137YhkpUAGngL0lZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7992500-1453068142-9804.jpeg.jpg" data-tags="christmas" role="button">
 Andy Williams - The Andy Williams Christmas Album (1963-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f052967-1a75-48b1-b430-89a76f4ef078/10302241006-500.jpg" data-tags="christmas" role="button">
-The Beach Boys - The Beach Boys' Christmas Album (1964-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c934ef2a-b442-3556-9a69-15003befea0a/5902446418-500.jpg" data-tags="christmas" role="button">
 Vince Guaraldi Trio - A Charlie Brown Christmas (1965)
@@ -162,6 +156,9 @@ Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 <li data-cover="http://coverartarchive.org/release/35009a6d-3c48-4180-a6dc-81d4734a97a6/2755304343-500.jpg" data-tags="christmas" role="button">
 Christina Aguilera - My Kind of Christmas (2000-10-24)
 </li>
+<li data-cover="https://img.discogs.com/Hv9l7FW7Iyt7srfz1_ESeoxTG7w=/fit-in/485x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903114-1251310713.jpeg.jpg" data-tags="christmas" role="button">
+Perry Como - A Perry Como Christmas (2001-05-21)
+</li>
 <li data-cover="https://img.discogs.com/8PvYQF5pOtQZTkbR5BeY-glwGDo=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4919003-1384164068-9819.jpeg.jpg" data-tags="christmas" role="button">
 Destiny's Child - 8 Days of Christmas (2001-10-23)
 </li>
@@ -194,6 +191,9 @@ Band Aid 20 - Do They Know It's Christmas? (2004-11-18)
 </li>
 <li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="christmas" role="button">
 Kylie Minogue - Santa Baby (2005-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1253c24-e19a-49f6-9b16-f78901359eda/5794044462-500.jpg" data-tags="christmas" role="button">
+Il Divo - The Christmas Collection (2005-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad1920-311a-444b-972f-a955b498a268/15508077705-500.jpg" data-tags="christmas" role="button">
 Dean Martin - Christmas With Dino (2006-09-12)
@@ -294,6 +294,9 @@ Bing Crosby - Christmas (2012)
 <li data-cover="http://coverartarchive.org/release/5297648d-4992-48d4-b5fd-5b301c573a40/2789995907-500.jpg" data-tags="christmas" role="button">
 Rod Stewart - Merry Christmas, Baby (2012)
 </li>
+<li data-cover="http://coverartarchive.org/release/6409f293-c62e-465a-930e-d3cb0ae44b3c/18784178282-500.jpg" data-tags="christmas" role="button">
+Lady Antebellum - On This Winter's Night (2012-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6147d09-1cda-4710-8d81-88f03edb4c88/2530204003-500.jpg" data-tags="christmas, asthmatic kitty, try to find this" role="button">
 Sufjan Stevens - Silver & Gold (2012-11-13)
 </li>
@@ -302,9 +305,6 @@ Kelly Clarkson - Wrapped in Red (2013-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7672ac66-398b-45e8-af78-b78c0788c41c/28251841928-500.jpg" data-tags="pop, christmas, lily allen" role="button">
 Lily Allen - Somewhere Only We Know (2013-11-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d42507f-b4fb-45c1-93d0-4298b70d2beb/9811723589-500.jpg" data-tags="christmas" role="button">
-Leona Lewis - Christmas, with Love (2013-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bc63447-9eda-43f1-8095-2674ea6c956d/6149561466-500.jpg" data-tags="christmas, ariana grande" role="button">
 Ariana Grande - Christmas Kisses (2013-12-13)

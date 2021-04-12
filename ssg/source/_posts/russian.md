@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T06:54:01.414Z
+date: 2021-04-12T00:03:01.405Z
 title: "russian: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -11,7 +11,7 @@ title: "russian: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/168ocC56t91yXss7WoXJH59-Iwo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10566998-1500033083-6757.png.jpg" data-tags="pop" role="button">t.A.T.u. - 200 km/h in the Wrong Lane (2002-12-10)</li>
 <li data-cover="http://coverartarchive.org/release/00de0496-da48-46cc-9199-e3b7b0d13ece/3409380950-500.jpg" data-tags="rock, russian, russian rock" role="button">Сплин - Реверсивная хроника событий (2004-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/8014f993-3a10-43e6-91fc-e70e916e82ae/3409391770-500.jpg" data-tags="russian rock" role="button">Сплин - Раздвоение личности (2007-02-07)</li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">Mujuice - Cool Cool Death (2007-06-22)</li>
+<li data-cover="http://coverartarchive.org/release/57e186a7-85a5-499b-b59f-00e42a6e6a97/17957981432-500.jpg" data-tags="russian rock, russian" role="button">ЗЕМФИРА - Спасибо (2007-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/4b694997-ffff-4e17-b3fa-2eff8fd5e30e/10588245317-500.jpg" data-tags="nozi mc, russian, alternative hip-hop" role="button">Noize MC - Последний Альбом (2010-05-25)</li>
 </ol>
@@ -32,6 +32,9 @@ Nautilus Pompilius - Чужая Земля (1991)
 </li>
 <li data-cover="https://img.discogs.com/YveRMLuzQWp2Z4VLIfpSRo8R4Hs=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777558-1306174349.jpeg.jpg" data-tags="russian rock, russian" role="button">
 ДДТ - Актриса Весна (1992)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
+Nautilus Pompilius - Титаник (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e1b301-dbed-31a1-ab07-0939d3673857/4166685041-500.jpg" data-tags="rock, russian rock" role="button">
 Nautilus Pompilius - Крылья (1995)
@@ -59,6 +62,9 @@ Nautilus Pompilius - Крылья (1995)
 </li>
 <li data-cover="https://img.discogs.com/SD5cT_bJwiAf6Cu4bOudwwTA1Xk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573542-1375447942-3616.jpeg.jpg" data-tags="rock, russian" role="button">
 Маша и Медведи - Солнцеклёш (1998)
+</li>
+<li data-cover="https://img.discogs.com/lThVS11Yqo0kOttfLoMsJeWfNGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287563-1206626186.jpeg.jpg" data-tags="rock, alternative, alternative rock, experimental, progressive rock, russian, russian rock, feelee, tequilajazzz" role="button">
+Tequilajazzz - Целлулоид (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/977ebcc6-6093-4135-81b2-35b952af51ce/5109695318-500.jpg" data-tags="belarusian" role="button">
 Ляпис Трубецкой - Ты кинула (1998-02)
@@ -98,6 +104,9 @@ Zемфира - Прости Меня Моя Любовь (2000-03-28)
 </li>
 <li data-cover="https://img.discogs.com/MRVPHCqK3kRID_THMMDE-knKCAw=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306344-1324997694.jpeg.jpg" data-tags="rock, russian rock" role="button">
 Смысловые галлюцинации - 3000 (2000-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c921e7a-4d30-437c-98a1-67d0d290f9f9/8993294021-500.jpg" data-tags="vitas" role="button">
+Vitas - Philosophy of miracle (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/084d77a1-110c-4e5d-bb7c-780c029a6ca0/4513137735-500.jpg" data-tags="russian, male vocalists" role="button">
 7Б - Молодые ветра (2001)
@@ -171,9 +180,6 @@ Clockwork Times - Бойцовский Клуб (2004-02)
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
-<li data-cover="https://img.discogs.com/khYKiYX3oXg5XfkVPWh4SVNBMQI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1974834-1443379336-4926.jpeg.jpg" data-tags="alternative" role="button">
-Animal Джаz - как люди (2004-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/00de0496-da48-46cc-9199-e3b7b0d13ece/3409380950-500.jpg" data-tags="rock, russian, russian rock" role="button">
 Сплин - Реверсивная хроника событий (2004-11-17)
 </li>
@@ -210,8 +216,8 @@ t.A.T.u. - Люди инвалиды (2005-10-19)
 <li data-cover="http://coverartarchive.org/release/64b5164e-f733-48ab-800a-cedb01d0a0a1/28483233476-500.jpg" data-tags="russian" role="button">
 Юлия Савичева - Магнит (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/596e5567-f743-4013-b036-4c35706083da/10095618121-500.jpg" data-tags="punk rock" role="button">
-Король и Шут - Продавец Кошмаров (2006)
+<li data-cover="http://coverartarchive.org/release/c8131144-7364-4be0-aac3-193605b10d91/4542221169-500.jpg" data-tags="russian" role="button">
+Чи-Ли - Преступление (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c0c646f-0f0c-4c10-b5e2-3f40d9317b30/5684022212-500.jpg" data-tags="metal, alternative, alternative rock, russian, alternative metal, nu metal, russian alternative" role="button">
 Tracktor Bowling - Шаги По Стеклу (2006)
@@ -224,12 +230,6 @@ Tracktor Bowling - Шаги По Стеклу (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ae14351-f6c9-495e-b652-491f8d480609/1978475483-500.jpg" data-tags="russian rap, guf, hip-hop" role="button">
 Guf - Город Дорог (2007-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/dcbfac4c-1898-4f24-b63a-43e51650af2e/6505792270-500.jpg" data-tags="jazz, jazz vocalists" role="button">
-Sophie Milman - Make Someone Happy (2007-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab238b2a-c7c8-49b1-b5b0-caa9bd85dd29/4431938009-500.jpg" data-tags="experimental, idm, minimal" role="button">
-Mujuice - Cool Cool Death (2007-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/57e186a7-85a5-499b-b59f-00e42a6e6a97/17957981432-500.jpg" data-tags="russian rock, russian" role="button">
 ЗЕМФИРА - Спасибо (2007-10-01)

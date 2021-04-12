@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:09:01.487Z
+date: 2021-04-12T00:26:01.404Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -8,12 +8,12 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">50 Cent - Curtis (2007-09-10)</li>
-<li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">Pusha T - My Name Is My Name (2013-10-08)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -243,6 +243,9 @@ Three 6 Mafia - Most Known Unknown (2005-09-27)
 <li data-cover="https://img.discogs.com/d4JdIjxn4tzoy_fhSskFCOsmqj0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570439-1132788126.jpeg.jpg" data-tags="dirty south, southern rap, chamillionaire, hip-hop, rap" role="button">
 Chamillionaire - The Sound of Revenge (2005-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/251ece47-ce0b-4e3c-9ae4-08b93674f330/1328218136-500.jpg" data-tags="hip-hop, hip hop, rap, bounce, american, gangsta rap, 00s, southern rap, southern hip-hop, top25, us number one, new orleans rap" role="button">
+Juvenile - Reality Check (2006-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/6628cbde-215d-4f9f-a181-3295b2159473/1432403429-500.jpg" data-tags="hip hop, r&b" role="button">
 Rick Ross - Hustlin' (2006-06-06)
 </li>
@@ -314,9 +317,6 @@ Killer Mike - R.A.P. Music (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2534ea3-418b-40ef-9130-81ceb210860d/5520097661-500.jpg" data-tags="freddie gibbs" role="button">
 Freddie Gibbs - Baby Face Killa (2012-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
-Pusha T - My Name Is My Name (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dc71c63-6cce-4b86-b65b-22ed0b00c0ab/10030756176-500.jpg" data-tags="gangsta rap, rap" role="button">
 Freddie Gibbs & Madlib - Piñata (2014-03-18)

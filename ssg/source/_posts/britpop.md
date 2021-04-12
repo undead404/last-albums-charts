@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:29:01.415Z
+date: 2021-04-11T23:56:01.424Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
-The Stone Roses - The Stone Roses (1989-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/5834ce7b-007f-4e47-84bb-b4b66a6bdabf/4454840771-500.jpg" data-tags="britpop, alternative rock, 90s" role="button">
 Blur - Leisure (1991-08-26)
 </li>
@@ -47,9 +44,6 @@ Radiohead - The Bends (1995-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7225bbae-8050-4829-abee-56cd18f76143/15753015256-500.jpg" data-tags="britpop, 90s" role="button">
 Elastica - Elastica (1995-03-13)
-</li>
-<li data-cover="https://img.discogs.com/Sflf5w0yus7Y7UoSFHj2dGmh-Yo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387602-1173433781.jpeg.jpg" data-tags="britpop" role="button">
-The Stone Roses - The Complete Stone Roses (1995-05)
 </li>
 <li data-cover="https://img.discogs.com/NB0A7hMPY7Q9eDQZxgZigrMNMmc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198696-1493465983-6894.jpeg.jpg" data-tags="britpop" role="button">
 Supergrass - I Should Coco (1995-05-15)
@@ -81,6 +75,9 @@ Kula Shaker - K (1996-09-11)
 <li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
 </li>
+<li data-cover="https://img.discogs.com/sxnPIjas0-x3HKkbP11i5pCKI5I=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463522-1262624981.jpeg.jpg" data-tags="britpop" role="button">
+Mansun - Attack Of The Grey Lantern (1997-02-08)
+</li>
 <li data-cover="https://img.discogs.com/01JvMK0QTMFHYPJhO8WFK7ZxCCo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-977325-1450038680-1516.jpeg.jpg" data-tags="britpop" role="button">
 Supergrass - In It for the Money (1997-04-21)
 </li>
@@ -111,6 +108,9 @@ Robbie Williams - I've Been Expecting You (1998-10-26)
 <li data-cover="http://coverartarchive.org/release/e440941e-42df-3a68-9e95-9b4b096d2cb4/1572841343-500.jpg" data-tags="britpop" role="button">
 Oasis - The Masterplan (1998-10-28)
 </li>
+<li data-cover="https://img.discogs.com/Er_dntuoIpWn71KFIxwF3PRJ-z8=/fit-in/493x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486521-1502322317-9005.jpeg.jpg" data-tags="rock, britpop" role="button">
+Stereophonics - Performance and Cocktails (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
 </li>
@@ -123,9 +123,6 @@ Supergrass - Supergrass (1999-09-20)
 <li data-cover="http://coverartarchive.org/release/a807034d-09ee-3d4c-9566-06d114c1fc6c/5710869185-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Standing on the Shoulder of Giants (2000-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/81776221-c3ae-4662-8f2f-7a239cbb24af/27974433834-500.jpg" data-tags="indie rock, britpop" role="button">
-Doves - Lost Souls (2000-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
 </li>
@@ -134,9 +131,6 @@ Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8054a8e7-4d4b-4fe5-ba79-ea9405c41b6a/7957015816-500.jpg" data-tags="britpop, rock" role="button">
-Oasis - Familiar to Millions (2000-11-13)
 </li>
 <li data-cover="https://img.discogs.com/R3So1-sky63DhEQ1Mm8y7zbCOgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702238-1490701455-2106.jpeg.jpg" data-tags="britpop, rock, indie rock" role="button">
 Stereophonics - Just Enough Education to Perform (2001-04-09)
@@ -149,9 +143,6 @@ Starsailor - Love Is Here (2001-10-08)
 </li>
 <li data-cover="https://img.discogs.com/JYweVK-MP3wZ3FKa9znVYZ8HtjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-665319-1214141347.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Think Tank (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
-Doves - The Last Broadcast (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/22dacc34-e04f-4b9e-97a5-3dedd3b0a56e/15356731606-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Heathen Chemistry (2002-06-26)
@@ -195,6 +186,9 @@ Razorlight - Up All Night (2004-06-28)
 <li data-cover="https://img.discogs.com/bCvo0u-fI1fMoH0mlxLYtvXgbiQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386356-1503234124-5162.jpeg.jpg" data-tags="britpop" role="button">
 Embrace - Out of Nothing (2004-09-13)
 </li>
+<li data-cover="https://img.discogs.com/VWiA-jiSRLvMmF8jpyrMhZ1lovE=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546194-1289817660.jpeg.jpg" data-tags="robbie williams, pop" role="button">
+Robbie Williams - Greatest Hits (2004-10-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
 The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
@@ -219,6 +213,9 @@ Coldplay - X&Y (2005-06-01)
 <li data-cover="https://img.discogs.com/_xOEfKKUjyhYvAfKZ-zuYew9oOc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-569186-1408805302-8056.jpeg.jpg" data-tags="indie" role="button">
 The Magic Numbers - The Magic Numbers (2005-06-08)
 </li>
+<li data-cover="https://img.discogs.com/Cc6dYK7O6j1b1Oz-B4y7yGFfnA4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654534-1492959151-9967.jpeg.jpg" data-tags="indie rock, britpop, like it" role="button">
+The Rakes - Capture/Release (2005-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/745378c5-be6e-4500-b507-c50c6e175970/15823905696-500.jpg" data-tags="coldplay, rock, alternative rock, britpop" role="button">
 Coldplay - Fix You (2005-09-05)
 </li>
@@ -242,6 +239,9 @@ Keane - Under the Iron Sea (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
 Lily Allen - Alright, Still (2006-07-17)
+</li>
+<li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
+Razorlight - Razorlight (2006-07-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)

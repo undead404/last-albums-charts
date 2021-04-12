@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:11:01.408Z
+date: 2021-04-11T23:51:46.115Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -96,9 +96,6 @@ Wings - Wings at the Speed of Sound (1976-03-25)
 <li data-cover="https://img.discogs.com/iIKo5OW8lNAUNYIVv-bA_8-3p0o=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490562-1286894295.jpeg.jpg" data-tags="classic rock, 70s, rock" role="button">
 George Harrison - The Best of George Harrison (1976-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/62cdd1da-11bc-464b-bac9-0019c0cf976c/3161457616-500.jpg" data-tags="classic rock, 70s" role="button">
-Wings - London Town (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5ef6cd9-d078-4435-b005-2f4ee6d44d61/1507872034-500.jpg" data-tags="rock" role="button">
 The Beatles - The Beatles (1978)
 </li>
@@ -107,6 +104,9 @@ The Beatles - Rarities (1978-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
 Wings - Back To The Egg (1979-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/68914438-9258-4b82-8b3e-9ddced3fdb25/12113973598-500.jpg" data-tags="beatles, bowie, t rex, dead hensons" role="button">
+David Bowie - A Second Face (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/f56e7684-ba28-46fd-afbf-9e0a77670bdb/11426468192-500.jpg" data-tags="jazz, piano, modern, variations, improvisation, bach, beatles, piano solo, fugue, fugues, beatles covered" role="button">
 John Bayless - Bach Meets the Beatles (1984)
@@ -131,9 +131,6 @@ The Beatles - LIVE IN PARIS 1965 (1988)
 </li>
 <li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/f088ce44-62fb-4c68-a1e3-e2975eb87f52/2726715246-500.jpg" data-tags="beatles, jazz" role="button">
-Sarah Vaughan - Songs of the Beatles (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a766e00-e9a7-4a83-85cd-5376b24525fd/5045275406-500.jpg" data-tags="beatles, 60na" role="button">
 The Byrds - The Byrds (1990-10)
@@ -203,6 +200,9 @@ Wilco - Summerteeth (1999-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f6f9de-fda6-4e0c-af96-43a964468235/25287024908-500.jpg" data-tags="classic rock" role="button">
 The Beatles - Last Night in Hamburg (1999-11-23)
+</li>
+<li data-cover="https://img.discogs.com/DalLv1_VMU69h2vu1-yAU0lJ1ew=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588902-1427049708-4624.jpeg.jpg" data-tags="80's, beatles, paul mccartney, wings" role="button">
+Paul McCartney - Pizza And Fairy Tales (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9b7e6e4-59ce-49de-adfb-23064c2cba31/1491718433-500.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - Revolver / Magical Mystery Tour (2000)

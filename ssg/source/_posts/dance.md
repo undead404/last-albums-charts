@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T20:22:01.560Z
+date: 2021-04-11T23:58:01.403Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">Cascada - Everytime We Touch (2006-02-21)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">Britney Spears - Blackout (2007-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">Lady Gaga - The Fame (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">Lady Gaga - The Fame Monster (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">Ke$ha - Animal (2010-01-01)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcf7537d-6b5d-4987-b022-074215f3f9fa/1619825734-500.jpg" data-tags="pop" role="button">
+Michael Jackson - Bad (1987-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/44a64b8c-f20d-33f2-be25-88740e575f2c/10607932122-500.jpg" data-tags="pop" role="button">
 Madonna - The Immaculate Collection (1990-11-12)
@@ -63,6 +66,9 @@ Daft Punk - Discovery (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/b0c379a9-30a2-43e9-bb93-ef62283f0f34/27645336918-500.jpg" data-tags="pop, dance" role="button">
 Sophie Ellis-Bextor - Read My Lips (2001-08-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+Jamiroquai - A Funk Odyssey (2001-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
 </li>
@@ -78,6 +84,9 @@ Christina Aguilera - Stripped (2002-10-28)
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
+Moloko - Statues (2003-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
 </li>
@@ -92,6 +101,9 @@ Mylo - Destroy Rock & Roll (2004-05-24)
 </li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
+M.I.A. - Arular (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
@@ -240,20 +252,11 @@ Taio Cruz - Rokstarr (2009-10-12)
 <li data-cover="http://coverartarchive.org/release/7fbdc38d-c8fd-425b-99c6-bffe038d03ce/6746612299-500.jpg" data-tags="dance" role="button">
 Stromae - Alors On Danse (2009-12-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
-Ke$ha - Animal (2010-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d2f9cb7-eeee-49e1-aa01-316db029928a/5121685540-500.jpg" data-tags="dance, cooler than me" role="button">
 Mike Posner - Cooler Than Me (2010-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)
-</li>
-<li data-cover="https://img.discogs.com/4uqPV9kYgCYA3Uzp-9M3RoXIzM4=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747406-1311765286.jpeg.jpg" data-tags="pop, miley cyrus" role="button">
-Miley Cyrus - Can't Be Tamed (2010-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
-Kylie Minogue - Aphrodite (2010-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">
 Katy Perry - Teenage Dream (2010-08-24)
@@ -278,9 +281,6 @@ LMFAO - Sorry for Party Rocking (2011-06-11)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
-Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)

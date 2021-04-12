@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:20:01.449Z
+date: 2021-04-12T00:06:29.353Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Heavier Things (2003-09-09)](http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg "John Mayer - Heavier Things (2003-09-09)")
@@ -54,6 +54,9 @@ Jeff Beck - Blow by Blow (1975-03)
 <li data-cover="http://coverartarchive.org/release/b3e974cc-d96a-4fb8-83fc-9c9b947b2eb6/5854190276-500.jpg" data-tags="blues-rockclub" role="button">
 Elvin Bishop - Struttin' My Stuff (1975-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/29a5b09a-f19a-4cab-8ed1-2b2e4fd29daf/13928627628-500.jpg" data-tags="jazz guitar, jazz" role="button">
+George Benson - Breezin' (1976-05)
+</li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
 </li>
@@ -107,6 +110,9 @@ Ben Harper - Welcome To The Cruel World (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">
 Steve Vai - Alien Love Secrets (1995-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
+The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="https://img.discogs.com/RbSgG6NB095p-xIaieh7u9mh1P4=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610876-1477777838-1894.jpeg.jpg" data-tags="jazz, jazz guitar" role="button">
 Charlie Haden & Pat Metheny - Beyond The Missouri Sky (Short Stories) (1997-02-24)
@@ -204,9 +210,6 @@ John Frusciante - Curtains (2004-12-07)
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
 William Fitzsimmons - Until When We Are Ghosts (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/26bf3e36-a8ac-45fa-891f-80a378901a6b/3376869262-500.jpg" data-tags="german, indie, 00s, hamburger schule" role="button">
-Tocotronic - Pure Vernunft darf niemals siegen (2005-01-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
 Goldfinger - The Best Of Goldfinger (2005-02-19)
 </li>
@@ -242,9 +245,6 @@ Andy Davis - Thinks Of Her (2006-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/15b4fecd-090f-4399-9d40-af6ee4fa0ba3/15653847052-500.jpg" data-tags="allboutguitar, blues, guitar, guitar virtuoso, guitar karlsruhe, gitarrenunterricht in karlsruhe" role="button">
 Richie Kotzen - Into The Black (2006-12)
-</li>
-<li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
-The John Butler Trio - Grand National (2007-03-23)
 </li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)

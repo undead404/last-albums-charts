@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T15:30:01.432Z
+date: 2021-04-12T00:24:01.419Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
-![Kendrick Lamar - Overly Dedicated (2010-09-14)](http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg "Kendrick Lamar - Overly Dedicated (2010-09-14)")
+![Wale - Attention Deficit (2009-11-10)](http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg "Wale - Attention Deficit (2009-11-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)</li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">Big L - The Big Picture (2000-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/cd171e0b-4cb1-4bef-ab60-ccab0729cd73/1672858721-500.jpg" data-tags="hip-hop" role="button">Aesop Rock - Labor Days (2001-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/dfa93328-26f1-4968-94f9-cc4bf386cea6/5728789158-500.jpg" data-tags="underground hip-hop" role="button">Aesop Rock - Bazooka Tooth (2005)</li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">Aesop Rock - None Shall Pass (2007-08-28)</li>
+<li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/672775d4-cc8b-4af8-8f5f-134e5676d608/2367827712-500.jpg" data-tags="hip-hop" role="button">Macklemore - The Unplanned Mixtape (2009-12-15)</li>
-<li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">Kendrick Lamar - Overly Dedicated (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">Tyler, the Creator - Wolf (2013-04-01)</li>
 </ol>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ff80e966-0848-437e-9344-2116c19bf5c9/21805688137-500.jpg" data-tags="hip-hop, rap, east coast rap, real hip-hop, my collection great 150 albumz of rap" role="button">
 Lost Boyz - Legal Drug Money (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
-Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
 Mobb Deep - Hell on Earth (1996-11-01)
@@ -41,9 +38,6 @@ Atmosphere - Overcast! (1997-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0e6bb0d-7a6f-4444-9678-0fc96c6c0ee0/4438662944-500.jpg" data-tags="downbeat, underground hip-hop, abstract hip hop, aceyalone, project blowed, listen carefully, where is my bong, abstract rude, good in 1998, mikah 9, excellent lyricism, haiku d etat" role="button">
-Haiku D'Etat - Haiku D'Etat (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/3251815b-95e0-4265-bd0f-2daa8328af26/10465989249-500.jpg" data-tags="hip hop, the roots - you got me" role="button">
 The Roots - You Got Me (1999)
@@ -75,9 +69,6 @@ Big L - The Big Picture (2000-07-11)
 <li data-cover="http://coverartarchive.org/release/36c4b984-559c-40f3-8a9b-5eca43c5cf94/6417324095-500.jpg" data-tags="hip-hop, rap, underground hip-hop, doomsdope" role="button">
 Canibus - 2000 B.C. (2000-07-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/47a57cb6-e676-4502-985c-2d9c475ac9ec/4380368501-500.jpg" data-tags="underground hip-hop" role="button">
-Aesop Rock - Float (2000-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/72974a33-e551-477d-bb13-e127b801e239/5430788028-500.jpg" data-tags="hip-hop, hip hop, underground hip-hop, definitive jux" role="button">
 Aesop Rock - Daylight (2001)
 </li>
@@ -104,6 +95,9 @@ Masta Ace - Disposable Arts (2001-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc0b1b48-608a-458b-b483-438efe136c64/24169027958-500.jpg" data-tags="trip-hop" role="button">
 Aim - Hinterland (2002-02-26)
+</li>
+<li data-cover="https://img.discogs.com/u-J6yQ1hPzUkjzPGCskIw481aJo=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5514300-1434540950-4161.jpeg.jpg" data-tags="hip-hop" role="button">
+Looptroop - The Struggle Continues (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad8aa73e-dfa5-4dd6-9ec4-32b2603b8a7b/5899150843-500.jpg" data-tags="indie, hip hop, underground hip-hop, def jux" role="button">
 RJD2 - Loose Ends (2003)
@@ -159,14 +153,14 @@ Felt - Felt 2: A Tribute to Lisa Bonet (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/d5a43378-bd1f-40fe-bf5e-8a3496ab073b/5738018864-500.jpg" data-tags="hip-hop" role="button">
 Atmosphere - You Can't Imagine How Much Fun We're Having (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, chillout, jazz, hip hop, underground hip-hop, jazz hop, jazz rap, ubiquity, jazzy hiphop, bbe, procussions, sound providers, secret room" role="button">
-Kero One - Windmills of the Soul (2006-02-07)
-</li>
 <li data-cover="https://img.discogs.com/IIkSrkx5NsWgTMar56lqygLyPcc=/fit-in/500x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338722-1210904816.jpeg.jpg" data-tags="hip-hop, chillout, electronica, female vocalists, underground hip-hop, monochrome album covers" role="button">
 Bonobo - Nightlite (2006-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/183ccd80-b998-429f-95ce-6e89010b0397/21277220123-500.jpg" data-tags="hip-hop" role="button">
 Jurassic 5 - Feedback (2006-07-24)
+</li>
+<li data-cover="https://img.discogs.com/JYt7-eh8kUxyf6HWwxSIELxI1RI=/fit-in/484x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-871335-1167642514.jpeg.jpg" data-tags="hip-hop, hip hop, underground hip-hop, alternative hip-hop, jazz-hop, east coast rap, good hip-hop" role="button">
+Talib Kweli & Madlib - Liberation (2006-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/0226ce5a-3f8a-44b3-a937-173ff9d0069b/21429222515-500.jpg" data-tags="hip hop, new york, underground hip-hop, east coast rap, sean p" role="button">
 Sean Price - Jesus Price Supastar (2007-01-30)
@@ -198,8 +192,14 @@ Rob Sonic - Sabotage Gigante (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/40e59de2-6dea-4190-b42a-6d17c0df83f6/22563142985-500.jpg" data-tags="hip-hop, indie, alternative, rap, underground hip-hop, rhymesayers, atmosphere" role="button">
+Atmosphere - Sad Clown Bad Fall 10 (2007-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/28ac27d9-73d6-4fbc-8bc6-b7b091856438/1978473569-500.jpg" data-tags="russian rap" role="button">
 Centr - Качели (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/22899de8-45dc-4f36-b141-79e0334842f6/17018632028-500.jpg" data-tags="hip-hop, indie, rap, underground hip-hop, rhymesayers, atmosphere" role="button">
+Atmosphere - Sad Clown Bad Winter 11 (2007-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3a25663-a59c-456f-8ca8-8dcc22d34692/6980376718-500.jpg" data-tags="hip-hop, pop" role="button">
 Kid Cudi - Day 'N' Nite (2008-02-08)
@@ -267,9 +267,6 @@ Diabolic - Liar & a Thief (2010-04-06)
 <li data-cover="http://coverartarchive.org/release/f6f6704a-1bd1-4fa8-9acd-e340e669e48a/23246348312-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Cypress Hill - Rise Up (2010-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/69a19d0f-50dd-46c9-9896-39c6cc56550b/23065293874-500.jpg" data-tags="west coast rap" role="button">
-Kendrick Lamar - Overly Dedicated (2010-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac3b9888-d183-482f-a901-98adc841dc48/8576156326-500.jpg" data-tags="underground hip-hop, alternative hip-hop" role="button">
 CunninLynguists - Oneirology (2011-03-22)
 </li>
@@ -293,6 +290,9 @@ Domo Genesis - Under The Influence (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f99488e3-ae5a-419d-aa66-c91de67c99a9/19900354655-500.jpg" data-tags="underground hip-hop, hip-hop, rap, hardcore hip-hop" role="button">
 Jedi Mind Tricks - Violence Begets Violence (2011-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/57449803-8d91-43dd-9534-a878b6b3ac79/1052742583-500.jpg" data-tags="hip-hop, rap, underground hip-hop, political, hardcore hip-hop" role="button">
+Immortal Technique - The Martyr (2011-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbb952f0-cb95-427e-8189-50f29ae2c34f/5259694807-500.jpg" data-tags="rap" role="button">
 Yelawolf - Radioactive (2011-11-21)

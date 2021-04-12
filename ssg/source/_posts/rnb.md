@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:37:01.417Z
+date: 2021-04-12T00:29:01.418Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -165,6 +165,9 @@ Cassie - Cassie (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
 Christina Aguilera - Back to Basics (2006-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/b7ef7ad3-b581-4e7a-a550-3e9b966caa93/9609859246-500.jpg" data-tags="rnb" role="button">
+Cherish - Unappreciated (2006-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
 </li>
@@ -185,9 +188,6 @@ Rihanna - Good Girl Gone Bad (2007-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
 Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/9329f2c5-41c6-4f4e-9042-d5850647d898/11978100442-500.jpg" data-tags="rnb, kat deluna, female vocalists" role="button">
-Kat DeLuna - 9 Lives (2007-08-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, keyshia cole" role="button">
 Keyshia Cole - Just Like You (2007-09-25)

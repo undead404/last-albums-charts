@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T22:07:01.425Z
+date: 2021-04-12T00:28:07.064Z
 title: "west coast: 100 albums you must listen to before you die"
 ---
 ![2Pac - All Eyez on Me (1996-02-13)](http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg "2Pac - All Eyez on Me (1996-02-13)")
@@ -30,9 +30,6 @@ Marlena Shaw - The Spice Of Life (1969)
 <li data-cover="http://coverartarchive.org/release/64791b2f-c7bc-439c-a155-8d611d8fae4b/12622187047-500.jpg" data-tags="classic rock, pop, rock, 70s, soft rock, west coast, elektra, soft-rock" role="button">
 Bread - Manna (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc2cb02a-39af-4619-b33a-4262b296d567/6129889776-500.jpg" data-tags="jazz" role="button">
-Al Jarreau - We Got By (1975)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc1841d5-4e73-4240-b346-561f12c8d0b5/5232480927-500.jpg" data-tags="soft rock, west coast" role="button">
 Alessi Brothers - Alessi (1976)
 </li>
@@ -53,9 +50,6 @@ Karla Bonoff - Restless Nights (1979-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/69ed83e9-d9eb-4b28-b920-4695030347c3/27061115894-500.jpg" data-tags="soul" role="button">
 Al Jarreau - This Time (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/37ad2fa3-55c5-434c-9bfa-8d1035f2f381/14250628349-500.jpg" data-tags="funk" role="button">
-Zapp - Zapp (1980)
 </li>
 <li data-cover="https://img.discogs.com/uTWfPWRUP9V5KnGRf_Bl7ZnBPrA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2719038-1411053708-4303.jpeg.jpg" data-tags="aor, west coast, yacht rock, westcoast, high tech, high tech aor" role="button">
 Maxus - Maxus (1981)
@@ -135,6 +129,9 @@ Lil 1/2 Dead - Steel On A Mission (1996)
 <li data-cover="https://img.discogs.com/S0HBitBEHgC9NFvFxVvo5Q2vPwM=/fit-in/540x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930176-1253237089.jpeg.jpg" data-tags="hip hop, rap, dance, bass, funky, west coast, gangsta, pharoahe monch, boom, booty, ice cube, sir mix-a-lot, digital underground, pharcyde, freestyle fellowship, sir, def, mundanes, spooj, missing teens, topr, sexrap" role="button">
 Sir Mix-A-Lot - Return Of The Bumpasaurus (1996-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/78590cae-2c98-4245-b803-f4821bd0c107/18482939131-500.jpg" data-tags="west coast" role="button">
+Xzibit - Paparazzi (1996-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac092222-68e8-41eb-a3a4-36814ce2b8ae/7933624830-500.jpg" data-tags="rnb, soul" role="button">
 Tony Toni Toné - Hits (1997)
 </li>
@@ -171,6 +168,9 @@ Snoop Dogg - Dead Man Walkin (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
 </li>
+<li data-cover="https://img.discogs.com/lFcJU9I-61iiyOCNDXGeZr-Pm0w=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129756-1205909343.jpeg.jpg" data-tags="hip-hop" role="button">
+Waterjuice - Hydrophonics (2001)
+</li>
 <li data-cover="https://img.discogs.com/0BMHQvDhsMbK24jC_JDbAD79qGY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135827-1306150689.jpeg.jpg" data-tags="ambient, usa, cafe del mar, american, california, west coast, psytrance, los angeles, elektronic beats, american artist, united states, from: usa, american brilliance, american indie, california artists, usa artists, california local, american dream, california dreaming, west coast underground, los angeles ca, west-coast, west coast chill, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, los angeles underground" role="button">
 Electric Skychurch - Sonic Diary (2001)
 </li>
@@ -200,6 +200,9 @@ Nate Dogg - Music & Me (2001-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bf8edb-8a35-4c98-95cc-8f774e199084/18682937272-500.jpg" data-tags="west coast" role="button">
 Planet Asia - Still In Training (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cb51454-7601-4954-89f8-b334560afd21/6679515690-500.jpg" data-tags="80s, pop, rock" role="button">
+Christopher Cross - The Very Best of Christopher Cross (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
@@ -284,9 +287,6 @@ The Tones - Dreamtalk (2009-02-24)
 </li>
 <li data-cover="https://img.discogs.com/65gAr-CNEBu4g_XP0S9k4F2n4nU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2164995-1519571424-2576.jpeg.jpg" data-tags="west coast, cali love, tyga" role="button">
 Tyga - Cali Love (2009-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/4dad8c35-f344-49d4-ab35-bb3a72c997b1/16156237210-500.jpg" data-tags="hip-hop, hip hop, west coast, groovy, alternative hip-hop, jazz hop, independent hip-hop, puts, indie g-funk, golden era feel" role="button">
-People Under the Stairs - Carried Away (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/08537a01-1a73-4c8d-8643-f516b3cff31c/24535167523-500.jpg" data-tags="strange music, brotha lynch hung, horrorcore" role="button">
 Brotha Lynch Hung - Dinner And A Movie (2010-03-23)

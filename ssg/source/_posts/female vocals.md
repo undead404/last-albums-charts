@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:03:07.159Z
+date: 2021-04-12T00:45:01.684Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -9,10 +9,10 @@ title: "female vocals: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">Ashlee Simpson - Autobiography (2004-07-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">Stephen Fretwell - Magpie (2004-11-22)</li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">Metric - Live It Out (2005-10-04)</li>
+<li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">Ashlee Simpson - I Am Me (2005-10-13)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">Odesza - Summer's Gone (2012-09-06)</li>
-<li data-cover="http://coverartarchive.org/release/5f63f608-a4c4-42e5-9689-134f3e9b1704/2864996407-500.jpg" data-tags="indie pop" role="button">MS MR - Candy Bar Creep Show (2012-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">Sara Bareilles - The Blessed Unrest (2013-07-16)</li>
 </ol>
 List of 100 - under the cut.
@@ -38,6 +38,9 @@ Mourn - Mourn (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da84ef6-48ab-4065-9c60-4f94edc96cb6/2544207519-500.jpg" data-tags="spanish" role="button">
 Rosana - Lunas Rotas (1996)
+</li>
+<li data-cover="https://img.discogs.com/MS8e20gJS70SvNwQESZFSm7wfD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3134-1499498900-2488.jpeg.jpg" data-tags="shoegaze" role="button">
+Bowery Electric - Beat (1996-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/36eeea8a-0ffa-4eae-906a-63fd6339b8cf/1083820711-500.jpg" data-tags="gothic metal" role="button">
 The Sins of Thy Beloved - Lake of Sorrow (1998)
@@ -299,9 +302,6 @@ Agnes - Veritas (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f63f608-a4c4-42e5-9689-134f3e9b1704/2864996407-500.jpg" data-tags="indie pop" role="button">
-MS MR - Candy Bar Creep Show (2012-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3688b2a9-3d34-4093-bebd-de46a5249d0b/16069645317-500.jpg" data-tags="rock, christian rock, female vocals, 2010s rock, tyde moore radio" role="button">
 Plumb - Need You Now (2013-02-26)

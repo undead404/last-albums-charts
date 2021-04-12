@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:25:01.411Z
+date: 2021-04-12T00:43:06.993Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -42,6 +42,9 @@ Cap'n Jazz - Analphabetapolothology (1998-01-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d28b1565-137e-475b-b554-a4a9cde3810b/15145525545-500.jpg" data-tags="emo, indie rock" role="button">
+Sunny Day Real Estate - How It Feels to Be Something On (1998-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">
 American Football - American Football (1999-09-14)
 </li>
@@ -53,6 +56,9 @@ Dashboard Confessional - The Swiss Army Romance (2000-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd3ea260-7f06-496b-aafe-7b93d2dad025/6169341657-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - The Places You Have Come To Fear The Most (2001-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1dc23ce-a039-3667-b7e0-e151ce560ba1/17499691187-500.jpg" data-tags="pop punk" role="button">
+Sugarcult - Start Static (2001-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd7298-790a-30cc-ac23-e5b5144a5cc2/27353011944-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - Full Collapse (2001-04-10)
@@ -69,6 +75,9 @@ Jimmy Eat World - Bleed American (2001-07-18)
 <li data-cover="http://coverartarchive.org/release/bd98ccf6-f2fe-4eef-8104-4acf5b315414/4724001049-500.jpg" data-tags="pop punk, emo" role="button">
 Brand New - Your Favorite Weapon (2001-10-09)
 </li>
+<li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
+Motion City Soundtrack - I Am the Movie (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
 </li>
@@ -77,6 +86,9 @@ Taking Back Sunday - Tell All Your Friends (2002-03-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
+</li>
+<li data-cover="https://img.discogs.com/cKscQmTONRh75N-lrALK_1MHIsQ=/fit-in/476x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-689452-1147999523.jpeg.jpg" data-tags="pop punk" role="button">
+The Starting Line - Say It Like You Mean It (2002-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
@@ -95,9 +107,6 @@ AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/460b65c5-ac1b-44e1-89da-82a8ebf24d28/16615141609-500.jpg" data-tags="emo, alternative, rock" role="button">
-Armor for Sleep - Dream to Make Believe (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
@@ -161,9 +170,6 @@ Motion City Soundtrack - Commit This to Memory (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">
-Paramore - All We Know Is Falling (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
@@ -264,9 +270,6 @@ The Used - Lies For The Liars (2007-05-18)
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - RIOT! (2007-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/de90424f-fcbb-34ff-9d2d-c32355fa05e0/6657134641-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - A Lesson in Romantics (2007-07-10)
 </li>
@@ -284,9 +287,6 @@ Fall Out Boy - Folie à deux (2008-12-10)
 </li>
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
