@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:31:01.521Z
+date: 2021-04-12T09:05:02.560Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -26,9 +26,6 @@ Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
-</li>
-<li data-cover="https://img.discogs.com/N9i_0sP8hpyYokX-RRwl8Re2m_Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399390-1361356685-4806.jpeg.jpg" data-tags="classic rock, rock" role="button">
-Spooky Tooth - Spooky Two (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
 Pink Floyd - More (1969-06-13)
@@ -123,6 +120,12 @@ Pink Floyd - Amsterdam '69 (1990)
 <li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="progressive rock, classic rock, psychedelic rock" role="button">
 Pink Floyd - Dark Side of the Sky (1990)
 </li>
+<li data-cover="https://img.discogs.com/y2OasXXRniX6TG_Awj_xHPxwwvw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2466411-1455885631-3300.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Londonfields (1990)
+</li>
+<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="70s, pink floyd, guitar virtuoso" role="button">
+Pink Floyd - Obscured at the Rainbow (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/08245a23-9b49-4d72-bf41-919bae71ad92/2027886586-500.jpg" data-tags="pink floyd, progressive rock" role="button">
 Pink Floyd - Pink is the Pig (1990)
 </li>
@@ -152,9 +155,6 @@ Pink Floyd - A CD Full of Secrets (1992)
 </li>
 <li data-cover="https://img.discogs.com/YbGRzz66eROCZ4A7PYK12_e3IX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656420-1280147178.jpeg.jpg" data-tags="60s, psychedelic, psychedelia, pink floyd, terrascopic" role="button">
 Pink Floyd - A Saucerful of Outtakes (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/78f029f2-6f17-4530-bcd8-1c5a281fab53/8917963033-500.jpg" data-tags="classic rock, metal, rock, punk, alternative rock, progressive rock, psychedelic, pink floyd, garage rock, glam rock, powerpop, chameleon, proto punk, qogf, rock-protopunk, prog related, my prog rock favs" role="button">
-David Gilmour - New Game (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a8d81fa-5fa1-4f78-aca8-447c8c0baac7/26730803938-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Spiral (1992)

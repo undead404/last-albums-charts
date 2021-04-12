@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:49:29.351Z
+date: 2021-04-12T09:37:01.418Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -26,6 +26,9 @@ The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/16b03029-5dd8-48a7-9a84-a0191553efea/20818422708-500.jpg" data-tags="punk, noise rock, post-punk, hardcore punk" role="button">
+Flipper - Album: Generic Flipper (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/48655cae-cc25-3f11-8b73-a57f3a4d10c1/28351979290-500.jpg" data-tags="no wave, post-punk" role="button">
 Sonic Youth - Sonic Youth (1982-03)
@@ -60,6 +63,9 @@ Helmet - Strap It On (1990)
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
+Mercury Rev - Yerself Is Steam (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/39768213-ed10-4cdb-a516-d8194f3ac3aa/22607601704-500.jpg" data-tags="noise rock, post-hardcore" role="button">
 The Jesus Lizard - Goat (1991-02-21)
 </li>
@@ -75,14 +81,23 @@ Unwound - Fake Train (1993)
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/35704cbf-172f-30b9-b182-824eb9da6342/7439086253-500.jpg" data-tags="post-hardcore" role="button">
+Fugazi - In On the Kill Taker (1993-06-30)
+</li>
 <li data-cover="https://img.discogs.com/w13hb973prrSsKGNq2H51WX0D5E=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140127-1253941957.jpeg.jpg" data-tags="post-hardcore" role="button">
 Unwound - New Plastic Ideas (1994-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/83fab506-b64d-31bd-8ece-8f5418f8b0c9/9707029120-500.jpg" data-tags="alternative rock, indie, 90s, rock" role="button">
+Sonic Youth - Experimental Jet Set, Trash And No Star (1994-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/7650d01d-ac63-3297-90a2-3e07eab18d4a/24551486370-500.jpg" data-tags="post-hardcore" role="button">
-Fugazi - Red Medicine (1995-06-12)
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, noise rock, experimental rock, japanese, avant-garde" role="button">
+Boredoms - Chocolate Synthesizer (1994-07-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/46b76193-bf9e-4f57-a142-be73b5b11058/18924479911-500.jpg" data-tags="noise rock" role="button">
+The Jesus Lizard - Down (1994-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
@@ -92,12 +107,6 @@ Butthole Surfers - Electriclarryland (1996-05-06)
 </li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e772271-81cb-4c7d-a33e-25890f84c7d4/25181867422-500.jpg" data-tags="alternative rock, indie rock, shoegaze, post-hardcore" role="button">
-...And You Will Know Us by the Trail of Dead - ...And You Will Know Us by the Trail of Dead (1997)
-</li>
-<li data-cover="https://img.discogs.com/N6Xjb1_7B8Hm8CRkYw6BH7chHdU=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702256-1575569552-6407.jpeg.jpg" data-tags="indie rock, alternative" role="button">
-Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0730eb5d-b0e1-4458-bc21-498783e5eb4e/20987949311-500.jpg" data-tags="math rock, post-punk" role="button">
 Shellac - Terraform (1998-02-10)
@@ -177,9 +186,6 @@ Future of the Left - Curses (2007-09-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ff8b2c5-2c41-4ea9-b368-2886cf9f49eb/8837803331-500.jpg" data-tags="noise rock, boobs on cover" role="button">
-ミドリ - あらためまして、はじめまして、ミドリです。 (2008-05-14)
-</li>
 <li data-cover="https://img.discogs.com/IBmiYwiDaKRlah6HX1SvQD2HhqA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466864-1282221333.jpeg.jpg" data-tags="noise rock, crazy, noise pop, art rock, wind and rain and ice and snow" role="button">
 Ponytail - Ice Cream Spiritual (2008-06-17)
 </li>
@@ -249,9 +255,6 @@ The Joy Formidable - The Big Roar (2011-01-24)
 <li data-cover="http://coverartarchive.org/release/04ce3358-ce6f-4bd2-b00e-d0c8c5276064/2098747140-500.jpg" data-tags="noise rock, post punk, punk rock, sacred bones, real post-hardcore, sacred bones records" role="button">
 The Men - Leave Home (2011-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b4c106c-2225-4bf9-9d24-0052683ca46d/16279386968-500.jpg" data-tags="noise, experimental, noise rock, melancholic, dance rock" role="button">
-Civil Civic - RULES (2011-10-11)
-</li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">
 Cloud Nothings - Attack on Memory (2012-01-24)
 </li>
@@ -270,9 +273,6 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="http://coverartarchive.org/release/a0c7c9f4-7195-4e67-9128-f83edbd65cf7/3904773359-500.jpg" data-tags="shoegaze, noise rock" role="button">
 A Place to Bury Strangers - Worship (2012-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">
-Ty Segall Band - Slaughterhouse (2012-06-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/f4a636f1-4732-4bc0-8559-66b8b3bc345f/1940789966-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - The Seer (2012-08-12)
 </li>
@@ -284,6 +284,9 @@ Pissed Jeans - Honeys (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/735c3c9f-8317-44ab-ab71-826f51d10acc/3198810863-500.jpg" data-tags="post-punk" role="button">
 Iceage - You're Nothing (2013-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/279fa00b-6cf5-44e6-931f-3cf45abab706/3459059698-500.jpg" data-tags="post-punk, experimental" role="button">
+Suuns - Images du Futur (2013-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/90331d52-7f39-4987-a76e-48c920c20aa1/3783288411-500.jpg" data-tags="rock, garage rock" role="button">
 Wavves - Afraid Of Heights (2013-03-26)
@@ -317,8 +320,5 @@ Shellac - Dude Incredible (2014-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/24f4f7e3-e1b8-4447-9a3d-24e70eb87618/8595509889-500.jpg" data-tags="punk, post-punk" role="button">
 Iceage - Plowing Into the Field of Love (2014-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d5fc614-25fe-4b89-8747-f4357f7a7757/9260448034-500.jpg" data-tags="post-punk" role="button">
-Viet Cong - Viet Cong (2015-01-20)
 </li>
 </ol>

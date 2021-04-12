@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:13:07.007Z
+date: 2021-04-12T08:49:01.775Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5da3d47c-29d6-3269-8ce8-df4668a737a9/9153707030-500.jpg" data-tags="electronic, new age, krautrock, space" role="button">
-Tangerine Dream - Alpha Centauri (1971-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
 </li>
@@ -159,6 +156,9 @@ Mike Oldfield - Tubular Bells III (1998-08-31)
 <li data-cover="http://coverartarchive.org/release/749f4d3e-14ac-42bf-a5e6-f308ffd080fb/10375802721-500.jpg" data-tags="new age, gregorian chant" role="button">
 Gregorian - Masters of Chant (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/63721f19-b847-437a-af89-a263c0999bdd/5933028276-500.jpg" data-tags="new age, celtic" role="button">
+Lisa Lynne - Seasons of the Soul (1999)
+</li>
 <li data-cover="https://img.discogs.com/SctnU0WyCyk03GPStB5QSZQKtTU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11059814-1509109793-1728.jpeg.jpg" data-tags="new age, relaxing instrumental" role="button">
 Anugama - The Lightness of Being (1999)
 </li>
@@ -173,6 +173,9 @@ Karunesh - Global Spirit (2000)
 </li>
 <li data-cover="https://img.discogs.com/aR_DAnxf1_Q3nsm6cGttuLUqLjI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920300-1561466655-8429.jpeg.jpg" data-tags="new age, relaxing" role="button">
 Anugama - Shamanic Dream II (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6798e30-7e04-4725-9f0c-1315a7d632d3/17083611420-500.jpg" data-tags="new age" role="button">
+2002 - River Of Stars (2000-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab553952-bf61-4b4b-b385-1a39d87e38c4/25263644033-500.jpg" data-tags="new age" role="button">
 Deva Premal - Love Is Space (2000-02-15)
@@ -213,9 +216,6 @@ Deuter - Buddha Nature (2001-09-21)
 <li data-cover="http://coverartarchive.org/release/8dde58df-e662-499d-9a9a-deed5f551bc0/26128597853-500.jpg" data-tags="new age" role="button">
 Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c843654-e93a-4145-b623-14e6df9e294f/13289739357-500.jpg" data-tags="yiruma, piano" role="button">
-Yiruma - First Love (2001-12-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f02bc5e-8100-4acc-8c02-b128c496b90e/11637455866-500.jpg" data-tags="new age" role="button">
 2002 - Across an Ocean of Dreams (2002-01-02)
 </li>
@@ -240,14 +240,14 @@ Lesiëm - Auracle (2003-04-11)
 <li data-cover="https://img.discogs.com/XRNMoTkID3Igd_KNFYhMxOhV0ZE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6246860-1414683603-8850.jpeg.jpg" data-tags="ambient" role="button">
 Delerium - Chimera (2003-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/793b0d7d-a4cd-4937-9ec6-41f8b9bc0228/2562227796-500.jpg" data-tags="yiruma" role="button">
-Yiruma - From The Yellow Room (2003-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/479ca9bb-bdeb-4e9f-a0e2-937851ccbecf/7633029193-500.jpg" data-tags="new age" role="button">
 Secret Garden - Earthsongs (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/30f7f74c-b36e-4142-84cc-c6180ea7221a/28378270424-500.jpg" data-tags="new age, meditation" role="button">
 Karunesh - Call of the Mystic (2004-05-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
+Gandalf - Colors Of A New Dawn (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
@@ -291,11 +291,11 @@ Liquid Mind - Relax: A Liquid Mind Experience (2007)
 <li data-cover="http://coverartarchive.org/release/5944569f-c36d-4520-a564-1d603bc3b0df/4476228153-500.jpg" data-tags="celtic" role="button">
 Celtic Woman - A New Journey (2007-01-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
-Blue Stone - Worlds Apart (2007-01-30)
-</li>
 <li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
 Helen Jane Long - Porcelain (2007-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/f091cb89-9cf0-49a6-81c5-44c75cbe9577/27849552535-500.jpg" data-tags="new age" role="button">
+Era - Reborn (2008-03-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Amethystium - Isabliss (2008-06-17)

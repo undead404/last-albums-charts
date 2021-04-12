@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:55:07.112Z
+date: 2021-04-12T09:44:01.932Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -47,6 +47,9 @@ Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/affb9073-3c21-3524-bc16-5497489ce059/1709609353-500.jpg" data-tags="pop" role="button">
 P!nk - M!ssundaztood (2001-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/65296404-abf2-4350-bfce-9debdea014a2/27060000097-500.jpg" data-tags="pop punk, rock, alternative rock" role="button">
+The All-American Rejects - The All-American Rejects (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
@@ -224,9 +227,6 @@ The Script - Science & Faith (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/scURdDHnJxXGhNe3S0C141A8zYQ=/fit-in/310x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3774986-1343921934-2320.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Speak Now (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="https://img.discogs.com/0CtNv-CkWzbIf-mjvX-enIBKBto=/fit-in/313x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930395-1429761871-5094.jpeg.jpg" data-tags="pop, pop rock, gi, yo" role="button">
 Jessie J - Domino (2011-01-01)

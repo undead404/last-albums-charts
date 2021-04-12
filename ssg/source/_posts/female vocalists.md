@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:56:01.633Z
+date: 2021-04-12T09:30:01.515Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/c0030078-9362-4e64-a54c-5b0e7d8326b8/17978212703-500.jpg" data-tags="70s, female vocalists, singer-songwriter" role="button">
 Carole King - Tapestry (1971-01-30)
-</li>
-<li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
-Kate Bush - The Kick Inside (1978-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
@@ -155,6 +152,9 @@ CocoRosie - Noah's Ark (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
+</li>
+<li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
+Metric - Live It Out (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)

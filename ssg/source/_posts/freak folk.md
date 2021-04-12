@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:05:07.034Z
+date: 2021-04-12T09:12:02.275Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -27,8 +27,14 @@ Exuma - Exuma I (1970)
 <li data-cover="http://coverartarchive.org/release/d605007f-74eb-419b-9ed5-062c6743fbd0/6842201405-500.jpg" data-tags="folk, ambient, experimental, freak folk, free folk, tribal folk, my favourite cds, favourite cds" role="button">
 Exuma - Exuma II (1970)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6de22f7-a5db-4749-81a8-d8dfac0e65cd/1931948664-500.jpg" data-tags="classic rock" role="button">
+Grateful Dead - Skeletons From the Closet: The Best of the Grateful Dead (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f3f054b-b78a-3782-be52-23824f0e8e6f/22841596347-500.jpg" data-tags="outsider, freak folk, b12, avant-folk, davecore, nancykitten all-time favourite albums, other corwood texas the units atonal songwriter experimental, psyche-vedelik" role="button">
 Jandek - Ready for the House (1978-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/69276154-e1e7-4fc6-b409-387ae9befdf2/11447461376-500.jpg" data-tags="avant garde, freak folk, b12, nancykitten all-time favourite albums" role="button">
+Jandek - Blue Corpse (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
 Butthole Surfers - Locust Abortion Technician (1987-03)
@@ -38,6 +44,9 @@ The Coup - Kill My Landlord (1993-05-04)
 </li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
+</li>
+<li data-cover="https://img.discogs.com/vgsFH9bri9oekF96uuqa4jQxFIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772862-1332976007.jpeg.jpg" data-tags="indie, rock, alternative, freak folk, high school, goodwillcore" role="button">
+The Geraldine Fibbers - Butch (1997-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
@@ -57,11 +66,11 @@ Devendra Banhart - The Charles C. Leary (2002-08-21)
 <li data-cover="https://img.discogs.com/Gh0AvnRc9YoA06yHj4mNUNFhe6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304636-1436955400-5740.jpeg.jpg" data-tags="noise" role="button">
 Excepter - KA (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a759a72-823b-4c07-9cf8-8d38d53e95b5/15060562467-500.jpg" data-tags="singer-songwriter, blues, american, freak folk, new weird america, male vocalists" role="button">
+Entrance - The Kingdom of Heaven Must Be Taken by Storm (2003-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/0afd8fd7-88b3-3711-ab11-82aa194efccc/26369390980-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Here Comes the Indian (2003-06-17)
-</li>
-<li data-cover="https://img.discogs.com/IZrSXwWWSROWj29pnkfbOAO8PGI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1248589-1203636376.jpeg.jpg" data-tags="indie rock, art rock" role="button">
-Frog Eyes - The Golden River (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/27f3a5d1-97ff-4deb-847a-d9ce9ccd76ab/26543741494-500.jpg" data-tags="experimental" role="button">
 Animal Collective - Danse Manatee (2003-10-06)
@@ -96,9 +105,6 @@ The Fiery Furnaces - Blueberry Boat (2004-07-13)
 <li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5cf4042-8f7b-4c0d-90eb-d9136948d3e7/15330629779-500.jpg" data-tags="moodsetting" role="button">
-Castanets - Cathedral (2004-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
@@ -107,9 +113,6 @@ Viking Moses - Crosses (2005)
 </li>
 <li data-cover="https://img.discogs.com/dhfeRRNkC1I9s3stYmQYKBJ5A2o=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-782540-1344067329-2316.jpeg.jpg" data-tags="folk" role="button">
 Feathers - Feathers (2005)
-</li>
-<li data-cover="https://img.discogs.com/LKbv14dG8jwt9LSoIwfUFK6A9Vg=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-658981-1363206277-8339.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
-Josephine Foster - Hazel Eyes, I Will Lead You (2005)
 </li>
 <li data-cover="https://img.discogs.com/RGydQCyaWOxlhavvHFNpAlHNLgo=/fit-in/150x145/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807303-1160815627.jpeg.jpg" data-tags="alternative, singer-songwriter, freak folk, indie folk, sufjan stevens" role="button">
 Hush Arbors - Hush Arbors (2005)
@@ -165,6 +168,9 @@ Thee Oh Sees - The Cool Death OF Island Raiders (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
+<li data-cover="https://img.discogs.com/cHdBU96EmLFYLHfD8G4Gv3BCygM=/fit-in/541x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2089206-1263362839.jpeg.jpg" data-tags="folk, freak folk, add to shopping list, rumpelmusik, alternative albums i own" role="button">
+Feathers - Synchromy (2006-10-17)
+</li>
 <li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
 Animal Collective - People (2006-11-13)
 </li>
@@ -182,9 +188,6 @@ MV & EE With The Bummer Road - Green Blues (2007-01-03)
 </li>
 <li data-cover="https://img.discogs.com/AmSUIlWlBwms-IZYvX-nmoh788o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934801-1340950615-3272.jpeg.jpg" data-tags="folk" role="button">
 Rio En Medio - The Bride of Dynamite (2007-02-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, freak folk" role="button">
-White Flight - White Flight (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
@@ -263,9 +266,6 @@ Thee Oh Sees - Dog Poison (2009-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca349b3d-66fa-4a11-a85e-8396a1e8ffb8/9226978539-500.jpg" data-tags="folk, experimental, freak folk, indie folk, 00s, 21st century folk" role="button">
 Hush Arbors - Yankee Reality (2009-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)

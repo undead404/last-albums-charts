@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:11:06.986Z
+date: 2021-04-12T09:16:06.913Z
 title: "mpb: 100 albums you must listen to before you die"
 ---
 ![Mallu Magalhães - Pitanga (2011-09-30)](http://coverartarchive.org/release/7017aae8-13a8-4e0e-abf0-806e2d21bf51/2903262151-500.jpg "Mallu Magalhães - Pitanga (2011-09-30)")
@@ -81,9 +81,6 @@ Guilherme Arantes - Guilherme Arantes (1979)
 <li data-cover="http://coverartarchive.org/release/3418183c-d712-4e53-a9f4-0554a416d164/3780563924-500.jpg" data-tags="brazilian" role="button">
 João Bosco - Linha De Passe (1979)
 </li>
-<li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
-Elis Regina - Elis (1980)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac51341b-79ca-4e3f-a184-a73655e3dc22/18741825148-500.jpg" data-tags="pop, mpb, samba, frevo" role="button">
 Gal Costa - Fantasia (1981)
 </li>
@@ -110,6 +107,9 @@ Caetano Veloso - Caetano (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fe9406f-69cb-4eb8-964d-87cd7180a141/8256369061-500.jpg" data-tags="pop, mpb, brasil" role="button">
 Lulu Santos - Amor A Arte (1988)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="caetano" role="button">
+Caetano Veloso - Circuladô (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6716c25-d733-4c89-90c8-0f557a90bdbe/4253133312-500.jpg" data-tags="mpb, pop bras" role="button">
 Biquini Cavadão - Descivilização (1991)
@@ -210,6 +210,9 @@ Jota Quest - Discotecagem Pop Variada (2002-11-30)
 <li data-cover="http://coverartarchive.org/release/c34fb6b6-8ec0-4a03-af26-cebdab79f896/8256648938-500.jpg" data-tags="disco, pop, pop rock, mpb, brazilian pop, novelas, minhas musicas" role="button">
 Lulu Santos - Bugalu (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/9aba9eed-cef9-428b-84a2-d1241697fc9a/2174940353-500.jpg" data-tags="preferido" role="button">
+Jorge Vercilo - Perfil (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">
 Vanessa da Mata - Vanessa da Mata (2003-01-11)
 </li>
@@ -236,9 +239,6 @@ Zélia Duncan - Pré-Pós-Tudo-Bossa-Band (2005)
 </li>
 <li data-cover="https://img.discogs.com/Htcbn6lfwg5UMSg4AICdbK_gtog=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4352786-1362873307-8276.jpeg.jpg" data-tags="pop rock" role="button">
 Kid Abelha - Pega Vida (2005-05-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, samba, bossa nova" role="button">
-Jorge Ben Jor - Football & Samba Groove Association (2006)
 </li>
 <li data-cover="https://img.discogs.com/JAQK1ZOQh9hVjEh-Ei5erFmZoNM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635360-1521784378-3749.jpeg.jpg" data-tags="mpb, maria bethania" role="button">
 Maria Bethânia - Mar De Sophia (2006)

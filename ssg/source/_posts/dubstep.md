@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:58:01.403Z
+date: 2021-04-12T08:54:02.130Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Skrillex - Scary Monsters and Nice Sprites (2010-10-22)](https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg "Skrillex - Scary Monsters and Nice Sprites (2010-10-22)")
@@ -65,9 +65,6 @@ Major Lazer - Guns Don't Kill People... Lazers Do (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cef59e3-cba4-4135-9c1b-486d836e560f/834741351-500.jpg" data-tags="dubstep" role="button">
 Clubroot - Clubroot (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/41a446e8-46d1-4438-8164-b8505213de3d/27543693247-500.jpg" data-tags="dubstep" role="button">
-Broken Note - Terminal Static (2009-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/42c22569-1d0f-41fd-ac67-327c2ae6f614/8171013124-500.jpg" data-tags="dubstep, electro, dark, quiet, sinister, synth-pop, sharp, scuba" role="button">
 Emika - Drop The Other (2010-01-18)
@@ -200,6 +197,9 @@ Klaypex - Loose Dirt (2011-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg" data-tags="dubstep" role="button">
 Nero - Welcome Reality (2011-08-12)
+</li>
+<li data-cover="https://img.discogs.com/-_XIZGSM7mODYMmNan17kK9NmRU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089996-1315258743.jpeg.jpg" data-tags="dubstep" role="button">
+Duck Sauce - Big Bad Wolf (2011-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/88ffbbe2-bcce-4bfd-912d-2d1998173e4a/11697782536-500.jpg" data-tags="dubstep, electronic, electro house" role="button">
 Porter Robinson - Spitfire (2011-09-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:08:01.413Z
+date: 2021-04-12T08:48:01.752Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -102,9 +102,6 @@ Led Zeppelin - Led Zeppelin IV (1971-11-08)
 <li data-cover="https://img.discogs.com/_adrkXv6adoAAPjxUwRmLZnf_P0=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060268-1412344757-9217.jpeg.jpg" data-tags="blues rock, blues" role="button">
 J.J. Cale - Naturally (1971-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/83ecd172-3f27-4d22-93f8-a8324d18248e/5642373000-500.jpg" data-tags="rock, 70s" role="button">
-The Rolling Stones - Exile on Main St. (1972-05-12)
-</li>
 <li data-cover="https://img.discogs.com/o2MyQF2IG-xZbkvo9b4zgBPf-qU=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5733627-1436342937-7805.jpeg.jpg" data-tags="hard rock, classic rock" role="button">
 Aerosmith - Aerosmith (1973-01-05)
 </li>
@@ -137,6 +134,9 @@ AC/DC - Let There Be Rock (1977-03-21)
 </li>
 <li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dffb4d4-65ad-3d78-a2ba-42af482f1535/28016827422-500.jpg" data-tags="blues rock, zz top" role="button">
+ZZ Top - Deguello (1979-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/20f8ccf4-09cf-4607-a955-720ccbb2789e/14697523448-500.jpg" data-tags="blues rock, southern rock" role="button">
 ZZ Top - Eliminator (1983-03-23)

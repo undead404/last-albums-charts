@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:33:12.581Z
+date: 2021-04-12T09:11:02.291Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
 ![A Rocket to the Moon - On Your Side (2009-10-13)](http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg "A Rocket to the Moon - On Your Side (2009-10-13)")
@@ -10,7 +10,7 @@ title: "discoverockult: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/04554003-dbd8-49d0-b265-ae0fd722ec88/4889589228-500.jpg" data-tags="alternative rock, discoverockult" role="button">The Classic Crime - Albatross (2006-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="https://img.discogs.com/CPXmv1BJUTsGE8IerpvK-vZ2zac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125175-1194045109.jpeg.jpg" data-tags="rock, discoverockult, sveta reminds" role="button">Graham Colton - Here Right Now (2007-10-30)</li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
+<li data-cover="https://img.discogs.com/0n6Vhm_FkoL9s7wgas-aLNx3CKE=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2815761-1505854231-2515.jpeg.jpg" data-tags="rock, alternative rock" role="button">The Dangerous Summer - Reach For The Sun (2009-05-05)</li>
 <li data-cover="http://coverartarchive.org/release/35d6ecf2-2a5d-41fd-9ab9-f5275b4fa5e6/3048236487-500.jpg" data-tags="alternative rock, hard rock, discoverockult" role="button">Adelitas Way - Adelitas Way (2009-07-14)</li>
 <li data-cover="http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg" data-tags="pop punk, 00s, discoverockult, a rocket to the moon" role="button">A Rocket to the Moon - On Your Side (2009-10-13)</li>
 <li data-cover="http://coverartarchive.org/release/2cb7badd-7ee4-4fce-a1d1-65cecbcbf796/12182742905-500.jpg" data-tags="pop, rock, rawr, discoverockult" role="button">OneRepublic - All The Right Moves (2010-03-10)</li>
@@ -30,8 +30,11 @@ Dexter Freebish - A Life Of Saturdays (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
 Howie Day - Australia (2000-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
-Anberlin - Blueprints For The Black Market (2003-04-24)
+<li data-cover="http://coverartarchive.org/release/bd5e5015-c000-408a-9d74-d9c39fb67e9d/20479650176-500.jpg" data-tags="indie" role="button">
+Dashboard Confessional - MTV Unplugged v2.0 (2002-12-03)
+</li>
+<li data-cover="https://img.discogs.com/vmlR9HekLMCcnlqiD8GYihAyr1o=/fit-in/562x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3212806-1440035961-2643.jpeg.jpg" data-tags="discoverockult" role="button">
+Ludo - Ludo (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
 Gavin DeGraw - Chariot (2003-07-22)
@@ -50,6 +53,9 @@ Faktion - Faktion (2005)
 </li>
 <li data-cover="https://img.discogs.com/KH_obe4t2XqgyH4fCL8OnnJB4rg=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2370978-1280120113.jpeg.jpg" data-tags="upbeat, humour, discoverockult" role="button">
 Jason Mraz - Geek in the Pink (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9b465fb-66ef-441d-a061-4dcef0200b69/25421816588-500.jpg" data-tags="discoverockult, love-it" role="button">
+BEDlight for blueEYES - The Dawn (2005)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
 Jack's Mannequin - This Is a Story... (2005)
@@ -80,6 +86,9 @@ Burn Season - Burn Season (2005-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/72daec59-4623-4343-b36c-eeed703575ee/13098458362-500.jpg" data-tags="debut, discoverockult, saving jane, discovered gems" role="button">
 Saving Jane - Girl Next Door (2005-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7e5df58-63d4-4a09-a63d-1c349603f6bc/10806820822-500.jpg" data-tags="scott stapp, rock" role="button">
+Scott Stapp - The Great Divide (2005-11-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mcr" role="button">
 My Chemical Romance - Famous Last Words (2006)
@@ -147,6 +156,9 @@ The Cinematics - A Strange Education (2007-03-06)
 <li data-cover="http://coverartarchive.org/release/5e426fa8-74fb-47ec-93df-944efb0d92df/4786675611-500.jpg" data-tags="christian, discoverockult, i love this band" role="button">
 Seventh Day Slumber - Finally Awake (2007-03-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+Pull Tiger Tail - Let's Lightning (2007-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/63d89273-b1bc-41a9-8eda-d8aa8a63c523/11656331899-500.jpg" data-tags="discoverockult" role="button">
 Waking Ashland - The Well (2007-03-28)
 </li>
@@ -213,17 +225,11 @@ Alive In Wild Paint - Ceilings (2008-03-18)
 <li data-cover="https://img.discogs.com/0AErEX9L2ASujSbdItMD7HDnDbs=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352544-1212077140.jpeg.jpg" data-tags="discoverockult, royworld" role="button">
 Royworld - Dust (2008-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c60645e-049c-465c-94e9-90dc4fd0900e/20524117250-500.jpg" data-tags="calm, discoverockult, sun and moon and stars and outer space, rated 100, at times theatrical, soft yet powerful" role="button">
-Ferras - Aliens & Rainbows (2008-04-01)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 The Script - We Cry (2008-04-20)
 </li>
 <li data-cover="https://img.discogs.com/ZGL0HhZKwQcKL-zWkq3hYjLC8Lc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2444943-1284431336.jpeg.jpg" data-tags="powerpop" role="button">
 The White Tie Affair - Walk This Way (2008-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
-The Cab - Whisper War (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7b1b02-6d20-450c-828f-d2d642d39205/2941985556-500.jpg" data-tags="hipster, discoverockult, worshipped by a legion of fags losers and failures" role="button">
 Empyr - The Peaceful Riot (2008-05-12)
@@ -254,9 +260,6 @@ The Narrative - Just Say Yes (2008-08-26)
 </li>
 <li data-cover="https://img.discogs.com/LBrC5kvGU4kK2HG7Lrl6VH1ZuLE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10287199-1507153135-3768.jpeg.jpg" data-tags="millow" role="button">
 Milow - Ayo Technology (2008-09-16)
-</li>
-<li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
-Anberlin - New Surrender (2008-09-30)
 </li>
 <li data-cover="https://img.discogs.com/yOk0NaLqORgkTAYscjCSaO_JWas=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895164-1506106917-2148.jpeg.jpg" data-tags="discoverockult" role="button">
 My Favorite Highway - The Pre-Release (2009)
@@ -317,8 +320,5 @@ Lifehouse - Smoke & Mirrors (2010-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cb7badd-7ee4-4fce-a1d1-65cecbcbf796/12182742905-500.jpg" data-tags="pop, rock, rawr, discoverockult" role="button">
 OneRepublic - All The Right Moves (2010-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b3245a-ab9a-40d9-bac1-4f60800c8732/14072082225-500.jpg" data-tags="soft rock" role="button">
-Train - Hey, Soul Sister (2010-04-09)
 </li>
 </ol>

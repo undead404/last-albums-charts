@@ -1,18 +1,18 @@
 ---
-date: 2021-04-11T09:22:07.050Z
+date: 2021-04-12T09:17:12.692Z
 title: "twee: 100 albums you must listen to before you die"
 ---
 ![Belle and Sebastian - Tigermilk (1996-06-06)](http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg "Belle and Sebastian - Tigermilk (1996-06-06)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/ade0fdac-3d6d-413b-a4b8-c9465329a472/25362502618-500.jpg" data-tags="indie" role="button">Heavenly - Le Jardin de Heavenly (1992-05)</li>
 <li data-cover="http://coverartarchive.org/release/d16fceb3-9852-41d3-b9be-8d50fd110ae7/15842770700-500.jpg" data-tags="twee, scotland is for lovers" role="button">The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/132e4ef7-8abb-4e41-8019-6d9057f0a440/7941565478-500.jpg" data-tags="indie pop" role="button">Camera Obscura - Underachievers Please Try Harder (2003-09-15)</li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">of Montreal - Satanic Panic in the Attic (2004-03-24)</li>
 <li data-cover="http://coverartarchive.org/release/9bd752d0-2b57-3395-8164-b75abc8e2e42/12608703957-500.jpg" data-tags="indie" role="button">The Boy Least Likely To - The Best Party Ever (2005-02-14)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
-<li data-cover="https://img.discogs.com/Lrw3AIZ9l1S4GVSSwePVq2suQeU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-541078-1157643473.jpeg.jpg" data-tags="indie pop, indie, twee" role="button">Suburban Kids with Biblical Names - #3 (2005-10-12)</li>
-<li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">The Antlers - In The Attic of The Universe (2007-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/60e5c45c-0776-449f-94aa-dc24805a7ce5/4710441619-500.jpg" data-tags="00s" role="button">Bishop Allen - The Broken String (2007-07-24)</li>
+<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)</li>
 <li data-cover="http://coverartarchive.org/release/546e9cc4-daf6-418e-9054-aa3f904383cf/10335232820-500.jpg" data-tags="indie pop, twee" role="button">The Pains of Being Pure at Heart - Days of Abandon (2014-05-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,8 +24,14 @@ _________________
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d2094e0-5ee0-4f5e-a572-cc44f7266ac5/29027881332-500.jpg" data-tags="twee pop" role="button">
+Marine Girls - Beach Party (1981)
+</li>
 <li data-cover="https://img.discogs.com/eAPMlVybaEE2sCU0XL8hWxb__Bc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1418086-1218173648.jpeg.jpg" data-tags="indiepop, psychedelic" role="button">
 Television Personalities - Mummy Your Not Watching Me (1982)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="twee, suomipop" role="button">
+Noitalinna Huraa! - Hulalalaa (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbb473f3-a48d-4147-9c15-4899ebded673/27139455357-500.jpg" data-tags="indie pop" role="button">
 My Bloody Valentine - Ecstasy (1987-11)
@@ -36,11 +42,20 @@ Marine Girls - Lazy Ways/Beach Party (1988)
 <li data-cover="http://coverartarchive.org/release/5b5f812e-700c-4ee4-b84c-3dcd92653449/21486226271-500.jpg" data-tags="jangle-pop" role="button">
 The Field Mice - Snowball + Singles (1989-09)
 </li>
+<li data-cover="https://img.discogs.com/xcQDzh8UJ1EYMMjhwMEA4zmNLXw=/fit-in/546x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-881004-1233172339.jpeg.jpg" data-tags="indie pop, scottish" role="button">
+The Orchids - Lyceum (1989-09-04)
+</li>
 <li data-cover="https://img.discogs.com/bwgb5qauZQW4SNmJVfFYFz8iIeo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-757526-1155749238.jpeg.jpg" data-tags="90s" role="button">
 Beat Happening - Dreamy (1991)
 </li>
+<li data-cover="https://img.discogs.com/A2zG-g9p8PqNV33dX7cz7QmHOsE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1469944-1487203590-6233.jpeg.jpg" data-tags="twee as fuck" role="button">
+Talulah Gosh - They've Scoffed the Lot (1991-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/18f71bd3-f4b9-4197-aa11-be5bc72626f9/28266226984-500.jpg" data-tags="twee, twee pop, sarah records" role="button">
 Heavenly - Heavenly Vs. Satan (1991-01-01)
+</li>
+<li data-cover="https://img.discogs.com/ov-m37_5hQ8LKCYOJ470ShjBnUY=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1752679-1574285511-2811.jpeg.jpg" data-tags="twee" role="button">
+Fat Tulips - Ferensway EP (1991-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fb81e4a-f2fe-4e3f-adba-db24043c7406/27827460424-500.jpg" data-tags="sarah records" role="button">
 The Field Mice - For Keeps (1991-10)
@@ -78,11 +93,17 @@ Tiger Trap - Sour Grass (1993-10)
 <li data-cover="https://img.discogs.com/zoNv6_K8-yN3X2xWjXoQBe8YI64=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1389515-1516875137-4123.jpeg.jpg" data-tags="indie pop, twee, twee pop, happy, cute, jangle pop, twee as fuck, jangle, jangly, 5432fun, bubblegum punk-pop, indiepop aint noise pollution, heaven records, fast and fun" role="button">
 Fat Tulips - Starfish (1994)
 </li>
+<li data-cover="http://coverartarchive.org/release/f41ed909-2ea2-4871-8263-fd91720c4cd9/13069282579-500.jpg" data-tags="indie rock, twee pop" role="button">
+Moose - Honey Bee (1994-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/51e47059-825e-4ac5-a92c-98fe0dff7e85/28265941969-500.jpg" data-tags="indie" role="button">
 Heavenly - The Decline and Fall of Heavenly (1994-09-21)
 </li>
-<li data-cover="https://img.discogs.com/3Ip2WpTvqgKioWh8kLgmTkD-11w=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202129-1358508446-4720.jpeg.jpg" data-tags="pop" role="button">
-The Cardigans - Life (1995-03-01)
+<li data-cover="https://img.discogs.com/i2bde5CJBAfzWcheY0Wjh6Egckk=/fit-in/236x236/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1985761-1256805614.jpeg.jpg" data-tags="swedish, indie pop, twee, scandinavian" role="button">
+Red Sleeping Beauty - Bedroom (1995-12)
+</li>
+<li data-cover="https://img.discogs.com/JA4SdsJtLzfSlKivcoHCQW26578=/fit-in/250x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471979-1118547113.jpg.jpg" data-tags="indie pop" role="button">
+Club 8 - Nouvelle (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/017f4c47-e763-3eab-b1c0-9a4f1b579b09/28266270931-500.jpg" data-tags="indie, twee" role="button">
 Heavenly - Operation Heavenly (1996)
@@ -98,12 +119,6 @@ The Cat's Miaow - Songs For Girls To Sing (1997)
 </li>
 <li data-cover="https://img.discogs.com/IB1sksqCOwptOohh-XKu5K5FpLE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596398-1369487409-4142.jpeg.jpg" data-tags="indie, 90s" role="button">
 The Pastels - Illumination (1997-12-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/d53bb652-f400-3d52-ac42-f3e7545e2e17/5695523802-500.jpg" data-tags="electronica, twee, 90s" role="button">
-The Pastels - Illuminati (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/eeab25ca-5a8e-4fc7-bb2f-2af24b562fe1/1269078836-500.jpg" data-tags="noise pop" role="button">
-Black Tambourine - Complete Recordings (1999-04-27)
 </li>
 <li data-cover="https://img.discogs.com/2lxICdt6N3AcQK1lArikqL0nw10=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-943791-1175660645.jpeg.jpg" data-tags="twee, 2000s, starlet fav" role="button">
 Starlet - Stay on My Side (2000-01-01)
@@ -141,23 +156,17 @@ Tahiti 80 - Wallpaper For The Soul (2002-09-19)
 <li data-cover="https://img.discogs.com/mvYCcMC5eTriSMT3ilJnH5tvaqI=/fit-in/265x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1757814-1241426489.jpeg.jpg" data-tags="indie pop" role="button">
 Pipas - A Cat Escaped (2002-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/6685831f-4011-4947-9210-5c3a8a678959/10253258951-500.jpg" data-tags="holiday" role="button">
-Hilary Duff - Santa Claus Lane (2002-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/5aaa214f-cd08-4e6e-ac55-9363aefe23be/26507104136-500.jpg" data-tags="electronic, indie, twee, innocence, youth, recent, hi-fi, paredes de coura 2007" role="button">
 Architecture in Helsinki - Like a Call (2002-12-02)
+</li>
+<li data-cover="https://img.discogs.com/IpMiwN5My_oSTsIbuivNU3ZYyNk=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2061033-1261617367.jpeg.jpg" data-tags="indie, folk, indie pop, twee, nostalgic, quiet, lovely, if this were a pokemon i would catch it, hey band youre so fucking cute, i was listening to this artist waaaaay before you because i try out new music before its hyped by the media, makes me want to cry tears of rainbow coloured joy, loveydovey-me-oh-my, why havent you heard this, have been stuck in my head a ridiculous amount of times" role="button">
+Ponies in the Surf - A Demonstration (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3127c5c-a489-4194-babf-3e76b152b271/28891676202-500.jpg" data-tags="indie pop, twee" role="button">
 Saturday Looks Good To Me - All Your Summer Songs (2003-03-18)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
 The Lucksmiths - Naturaliste (2003-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/567f7f47-9662-4b50-9805-2f88fb72e6e1/4710635227-500.jpg" data-tags="indie" role="button">
-All Girl Summer Fun Band - 2 (2003-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9905699f-1b5b-4252-9b88-337b0c75b34b/27129224684-500.jpg" data-tags="jazz, acid jazz, lounge, j-jazz, cosy, chillout, jazzy, jazz pop, japanese jazz, easy listening, jazz fusion, japanese city pop, city pop" role="button">
-Round Table featuring Nino - April (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/132e4ef7-8abb-4e41-8019-6d9057f0a440/7941565478-500.jpg" data-tags="indie pop" role="button">
 Camera Obscura - Underachievers Please Try Harder (2003-09-15)
@@ -201,12 +210,6 @@ Math and Physics Club - Movie Ending Romance (2005-07)
 <li data-cover="https://img.discogs.com/f_IH75sCwkHgyppSeozHVyisijY=/fit-in/537x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1584033-1331408970.jpeg.jpg" data-tags="shibuya-kei" role="button">
 Capsule - L.D.K. Lounge Designers Killer (2005-09-21)
 </li>
-<li data-cover="https://img.discogs.com/Lrw3AIZ9l1S4GVSSwePVq2suQeU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-541078-1157643473.jpeg.jpg" data-tags="indie pop, indie, twee" role="button">
-Suburban Kids with Biblical Names - #3 (2005-10-12)
-</li>
-<li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">
-Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, twee, cute, art, album covers i like" role="button">
 Hello Seahorse! - ...And the Jellyfish Parade (2006)
 </li>
@@ -219,6 +222,9 @@ The Research - Breaking Up (2006-02-27)
 <li data-cover="http://coverartarchive.org/release/4f549a4c-c26b-47b5-8332-931d09702735/16222047558-500.jpg" data-tags="indie pop" role="button">
 Mates of State - Bring It Back (2006-03-21)
 </li>
+<li data-cover="https://img.discogs.com/YfZWYSb8Rrc8iUH55GVJkho_yE0=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4587327-1369190875-5081.jpeg.jpg" data-tags="post rock" role="button">
+The Foundry Field Recordings - Prompts/Miscues (2006-06-13)
+</li>
 <li data-cover="https://img.discogs.com/6KUjeFZ2_xDcC2U08XbvsEG5pBU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4401517-1363904341-7013.jpeg.jpg" data-tags="folk, indie pop, twee, female vocalist, not sure" role="button">
 Arrah and the Ferns - Evan Is A Vegan (2006-08-08)
 </li>
@@ -228,20 +234,11 @@ Math and Physics Club - Math and Physics Club (2006-10-17)
 <li data-cover="https://img.discogs.com/hUrfv9ARaSyG0PvqxuUlRf1yygQ=/fit-in/400x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2335904-1277815970.jpeg.jpg" data-tags="indie pop, twee, twee pop, happy, jangle pop, twee as fuck, jangle, jangly, 5432fun, matinee recordings" role="button">
 The Electric Pop Group - The Electric Pop Group (2006-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/f071d7d8-df2f-491f-837a-de1ce61dc62a/17819059026-500.jpg" data-tags="indie, shoegaze, dream pop" role="button">
-Moscow Olympics - Cut The World (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/303c1c04-b8e6-46fd-a5d2-ded0cbbb3cfd/16467301085-500.jpg" data-tags="indie pop, twee, twee pop, happy, jangle pop, twee as fuck, jangle, jangly, 5432fun, cloudberry records, fast and fun" role="button">
 The Pains of Being Pure at Heart - This Love Is Fucking Right! (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">
-The Antlers - In The Attic of The Universe (2007-03-31)
-</li>
 <li data-cover="https://img.discogs.com/C1TpnFj39xAaKB_g83OYJOtG7Ng=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1160918-1197129146.jpeg.jpg" data-tags="indie pop" role="button">
 Lucky Soul - The Great Unwanted (2007-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0454682-a083-453a-ad6f-61bc4d866345/3705099190-500.jpg" data-tags="japanese, ambient pop, new weird japan, chillout, electronica, ambient, experimental, easy listening, dream pop" role="button">
-cokiyu - Mirror Flake (2007-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/60e5c45c-0776-449f-94aa-dc24805a7ce5/4710441619-500.jpg" data-tags="00s" role="button">
 Bishop Allen - The Broken String (2007-07-24)
@@ -258,8 +255,8 @@ Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 <li data-cover="https://img.discogs.com/8_Cyby4TS-Fa0Lnb-w5u8fT2HyM=/fit-in/490x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1161118-1204301739.jpeg.jpg" data-tags="indie pop" role="button">
 Tullycraft - Every Scene Needs a Center (2007-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d79c2a69-bf69-40d7-b0b4-207597c16aa0/11150466624-500.jpg" data-tags="indie, pop, indie pop, twee, scandinavian, nordic, female vocals, swedish indie, swedish twee, plastilina records, indie female vocals" role="button">
-Hari and Aino - Hari and Aino (2008-05-19)
+<li data-cover="https://img.discogs.com/VkfHiOE1snK2-RR8XXsPVJDOhNI=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627401-1233087498.jpeg.jpg" data-tags="electronica, indie, pop, twee, lo-fi, indietronica, hamburg, italodisco" role="button">
+Mikrofisch - Masters Of The Universe (2007-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/309fe592-544c-4b25-bdb3-47d253e1ebff/28932603227-500.jpg" data-tags="indie pop, twee, 2000 and great" role="button">
 Bears - Simple Machinery (2008-08-22)
@@ -276,11 +273,14 @@ The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 <li data-cover="http://coverartarchive.org/release/78377bcc-de21-4db0-b58b-d0e8d2aafb14/16303077078-500.jpg" data-tags="indie, indie pop, indie rock, twee, finnish, shelflife" role="button">
 Burning Hearts - Aboa Sleeping (2009-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1022d7b-9e43-40ea-8576-8b88b3ffabdb/20302670719-500.jpg" data-tags="indie pop" role="button">
-The Boy Least Likely To - The Law of the Playground (2009-03-09)
+<li data-cover="http://coverartarchive.org/release/5d1bbfee-f5d5-4f81-a0e9-2b53ab10e74d/13340218270-500.jpg" data-tags="indie rock, twee, canada, lofi" role="button">
+Makeout Videotape - Heat Wave! (2009-04-30)
 </li>
 <li data-cover="https://img.discogs.com/5vSn29jUQ2gUk8KaYbYclHJ8ArU=/fit-in/597x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921210-1433173506-6537.jpeg.jpg" data-tags="experimental" role="button">
 Nurses - Apple's Acre (2009-08-04)
+</li>
+<li data-cover="https://img.discogs.com/b8vK3Y1xGz2ilqDRfG2lgFjVIRk=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059374-1188904184.jpeg.jpg" data-tags="twee" role="button">
+Hari and Aino - Your Heartache and Mine (2009-08-12)
 </li>
 <li data-cover="https://img.discogs.com/oZWR03Bk9MStwwuFeruPVjhn4U0=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2704128-1297280607.jpeg.jpg" data-tags="twee" role="button">
 Belle and Sebastian - The Black Sessions (2010)
@@ -303,6 +303,9 @@ Acid House Kings - Music Sounds Better With You (2011-03-22)
 <li data-cover="https://img.discogs.com/m52RBwS0XWmnCin9GwowZHB92_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268808-1419614882-8378.jpeg.jpg" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
+<li data-cover="https://img.discogs.com/k9BKn5Lo01C3_31jRpOBjFtkNzc=/fit-in/584x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4345345-1362355365-2270.jpeg.jpg" data-tags="pop, indie pop, twee, twee pop, lo-fi, jangle pop, surfgaze, death party records" role="button">
+surf club - Young Love EP (2012-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e2193fc-f8bc-4a48-95d4-9b5d9ad632b5/10425440304-500.jpg" data-tags="indie pop" role="button">
 Veronica Falls - Waiting For Something To Happen (2013-02-04)
 </li>
@@ -317,8 +320,5 @@ The Pains of Being Pure at Heart - Days of Abandon (2014-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f03c806-54d9-419b-9f8a-6a06955e57e3/7857565862-500.jpg" data-tags="indie pop, french pop, trip hop" role="button">
 Got A Girl - I Love You But I Must Drive Off This Cliff Now (2014-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7de91421-cb26-4baf-bd09-5c15105f0e6e/9067940901-500.jpg" data-tags="indie" role="button">
-God Help the Girl - God Help The Girl (2014-09)
 </li>
 </ol>

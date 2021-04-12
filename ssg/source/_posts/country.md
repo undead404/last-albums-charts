@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:25:12.608Z
+date: 2021-04-12T09:41:01.810Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -156,9 +156,6 @@ Little Big Town - The Road to Here (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/b1bad411-da3c-466c-be2e-eb55561e6d06/9538822252-500.jpg" data-tags="country" role="button">
 Johnny Cash - The Legend of Johnny Cash (2005-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/12358748-1564-4da3-a337-5cdd00e9bbe0/4326628935-500.jpg" data-tags="country, joe nichols" role="button">
-Joe Nichols - III (2005-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d82c0ba-93bf-4b14-9110-12f64b8b435c/14023452876-500.jpg" data-tags="country, male country, kenny chesney - the road and the radio" role="button">
 Kenny Chesney - The Road and the Radio (2005-11-08)
 </li>
@@ -248,6 +245,9 @@ Billy Currington - Little Bit of Everything (2008-10-14)
 </li>
 <li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/f6d9bc21-1aa8-40b0-812d-247a35e18ebd/14918028849-500.jpg" data-tags="modern country" role="button">
+Dierks Bentley - Feel That Fire (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eb37ed2-0ada-4f38-926b-b7aee740220d/3743132785-500.jpg" data-tags="country" role="button">
 Eric Church - Carolina (2009-03-24)

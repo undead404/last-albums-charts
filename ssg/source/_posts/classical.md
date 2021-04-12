@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:06:01.405Z
+date: 2021-04-12T09:13:01.816Z
 title: "classical: 100 albums you must listen to before you die"
 ---
 ![Wolfgang Amadeus Mozart - Requiem (1995-10-02)](https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg "Wolfgang Amadeus Mozart - Requiem (1995-10-02)")
@@ -56,6 +56,9 @@ Gabriel Fauré - Requiem & Cantique de Jean Racine - Cambridge Singers City of L
 </li>
 <li data-cover="https://img.discogs.com/vFlG98PcjCYC1jTTfvPre_JoQvM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5647183-1473924207-7528.jpeg.jpg" data-tags="classical, piano, liszt, musica sacra" role="button">
 Franz Liszt - Via Crucis (1986)
+</li>
+<li data-cover="http://coverartarchive.org/release/31003380-c016-342e-bb3f-c96236e35f5f/915742537-500.jpg" data-tags="classical, minimalism" role="button">
+Philip Glass - Dancepieces (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7a67bbc-f7e0-45c0-9de8-799bfc762f67/8724006835-500.jpg" data-tags="classical, beethoven" role="button">
 Ludwig van Beethoven - Piano Concerto No. 5 "Emperor" (1987)
@@ -126,8 +129,8 @@ Wolfgang Amadeus Mozart - Mozart for Meditation (1995-09-01)
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
 </li>
-<li data-cover="https://img.discogs.com/aHy5J5yOSH8cVZWrTQUgFReFqMk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1469447-1522497197-5225.jpeg.jpg" data-tags="carmen, opera, bizet" role="button">
-Georges Bizet - Carmen (1996)
+<li data-cover="http://coverartarchive.org/release/51a6ed30-afd7-4712-977f-2045d3fba9ab/6407433801-500.jpg" data-tags="classical, avant-garde, granka, je dirai quelque jour vos naissances latentes, w mertens" role="button">
+Wim Mertens - Jardin Clos (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/c65c6272-7f28-4fcc-87a3-7c5fc7788ffe/8099938641-500.jpg" data-tags="classical" role="button">
 Rachel's - Music for Egon Schiele (1996-02-20)
@@ -180,14 +183,17 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 <li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
 Emma Shapplin - Etterna (2002-05-27)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="piano, piano solo" role="button">
+Greg Maroney - Harmony Grove (2003)
+</li>
 <li data-cover="https://img.discogs.com/rX0rFXm9Ngs9mJov-Nuk-MBTcjE=/fit-in/599x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4846896-1377355013-5168.jpeg.jpg" data-tags="classical, josh groban" role="button">
 Josh Groban - Closer (2003-08-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/f071dfd8-72a4-4b5d-a251-0c7461a6df7b/2832860532-500.jpg" data-tags="opera, classical" role="button">
+Luciano Pavarotti - Ti Adoro (2003-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/e4190b11-26fe-4a7e-a667-bae88a9634c2/9519022390-500.jpg" data-tags="piano" role="button">
 Myleene Klass - Moving On (2003-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/793b0d7d-a4cd-4937-9ec6-41f8b9bc0228/2562227796-500.jpg" data-tags="yiruma" role="button">
-Yiruma - From The Yellow Room (2003-10-23)
 </li>
 <li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
 Maurice Ravel - Piano Concerto (2004)
@@ -212,6 +218,9 @@ Frédéric Chopin - CHOPIN: Piano Favourites (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/6faf3908-a49a-43f2-8799-1d701d404fcb/10496452285-500.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - The Very Best of Mozart (2005-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c4931da-4dbf-43f5-9e60-39c343979c0e/6825602636-500.jpg" data-tags="piano" role="button">
+Frédéric Chopin - The Very Best of Chopin (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1253c24-e19a-49f6-9b16-f78901359eda/5794044462-500.jpg" data-tags="christmas" role="button">
 Il Divo - The Christmas Collection (2005-10-25)
@@ -246,12 +255,6 @@ Gustav Holst - The Planets (2007)
 <li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
 Michael Cashmore - The Snow Abides (2007)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
-Paul Potts - One Chance (2007-07-13)
-</li>
 <li data-cover="https://img.discogs.com/D_MMSYhBp_Ag28Z9lZXV4gLKKoc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626668-1486233031-1009.jpeg.jpg" data-tags="classical, male vocalists, duets, ryandan, canadian vocals, ryandan-ryandan" role="button">
 RyanDan - RyanDan (2007-09-27)
 </li>
@@ -263,9 +266,6 @@ Black Violin - Black Violin (2007-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b8bf29c-73d8-4067-8255-cd8d2b9492ff/14920083393-500.jpg" data-tags="classical, orchestral, bandcamp, flac, mam" role="button">
 植松伸夫 - Distant Worlds: Music From Final Fantasy (2007-12-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/301bb5fb-31e9-47d0-acb8-9b89396531ec/1283152106-500.jpg" data-tags="classical, ambient, phantom channel" role="button">
-Chaz Knapp - Vie comme un Parasite Faisant la fête (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/29aa8ea1-2a36-46da-8443-29dfd363a754/2124955046-500.jpg" data-tags="classical, instrumental" role="button">
 Mike Oldfield - Music Of The Spheres (2008-03-17)
@@ -288,6 +288,9 @@ London Philharmonic Orchestra - The 50 Greatest Pieces of Classical Music (2009-
 <li data-cover="https://img.discogs.com/srw5tT6H7BgCU3k8Oj8crk1ct3M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2691946-1296765846.jpeg.jpg" data-tags="classical, ambient, idm" role="button">
 Near The Parenthesis - Japanese for Beginners (2011-02-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/5eacd540-3a94-4a00-8d15-e48807c42b64/10075100962-500.jpg" data-tags="technical death metal, death metal" role="button">
+Fleshgod Apocalypse - Agony (2011-08-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/bdeb4647-5774-429a-88e3-da375cb540e1/8258911638-500.jpg" data-tags="classical, instrumental, epic, world, new age, symphonic metal, neo-classical rock, album to check again" role="button">
 Globus - Break From This World (2011-08-26)
 </li>
@@ -299,9 +302,6 @@ Soap&Skin - Narrow (2012-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b113afe6-3ec5-4321-9cba-3b4e3833ce41/26380407541-500.jpg" data-tags="classical" role="button">
 Inon Barnatan - Darknesse Visible (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b08a32c-b1b1-41af-80aa-b278ee3b2cbd/4241397444-500.jpg" data-tags="breakcore" role="button">
-Igorrr - Hallelujah (2012-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/367d21e3-28f6-4661-aea0-464dd97b8c7d/4952414381-500.jpg" data-tags="classical, symphonic metal, lorraine39lam" role="button">
 Two Steps from Hell - Classics, Vol. 1 (2013-06-11)

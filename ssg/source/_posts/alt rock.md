@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:26:01.408Z
+date: 2021-04-12T09:40:01.595Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
 ![Imagine Dragons - Night Visions (2012-09-04)](http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg "Imagine Dragons - Night Visions (2012-09-04)")
@@ -33,6 +33,9 @@ Wipers - Over The Edge (1983)
 <li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
 Prefab Sprout - Steve McQueen (1985-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
+Butthole Surfers - Locust Abortion Technician (1987-03)
+</li>
 <li data-cover="https://img.discogs.com/meGL_iaA4GZNiLbhoUzUbXYwJ2U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-998286-1577734623-7046.jpeg.jpg" data-tags="80s, pop rock, dream pop, alt rock, college radio, iveldie best of 1989" role="button">
 The Ocean Blue - The Ocean Blue (1989)
 </li>
@@ -45,14 +48,14 @@ Living Colour - Time's Up (1990-08)
 <li data-cover="http://coverartarchive.org/release/ee6bfa3c-6673-44ee-878e-cb6805765b58/12608688689-500.jpg" data-tags="grunge" role="button">
 Tad - 8-Way Santa (1991-01-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/4955bc87-1cd1-4604-b74a-06147904cde7/19369859361-500.jpg" data-tags="college radio, flashback alternatives" role="button">
+The Ocean Blue - Cerulean (1991-02)
+</li>
 <li data-cover="https://img.discogs.com/kK5Ubyj7x-a73N0R9cHY4GS1GSc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-876717-1168190553.jpeg.jpg" data-tags="90s, rock, americana" role="button">
 Grant Lee Buffalo - Fuzzy (1993)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, 1994" role="button">
 Nine Inch Nails - March of the Pigs (1994-02-25)
-</li>
-<li data-cover="https://img.discogs.com/67lVeCX2CFFomQ0ymc8_wdYC5tE=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11192-1363744943-3826.jpeg.jpg" data-tags="rock, alternative, swedish, experimental, alt rock, dance rock, import, trip-rock, trip-pop, mnogo dobro, stoner pop, dawohuhu" role="button">
-Whale - We Care (1995-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ec3f8dc-27fe-31b1-ac45-f957da4e3773/28476982084-500.jpg" data-tags="90s, britpop, indie" role="button">
 The Verve - A Northern Soul (1995-07-03)
@@ -65,9 +68,6 @@ The Verve Pipe - Villains (1996-03-26)
 </li>
 <li data-cover="https://img.discogs.com/aNhB1sEgHyAKQwaAN6vCmRCrRDc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-978211-1180098018.jpeg.jpg" data-tags="alternative, experimental rock, dreamy, 90s, alt rock, exprog, online record collection" role="button">
 Thinking Fellers Union Local 282 - I Hope It Lands (1996-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
-The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
@@ -132,9 +132,6 @@ OneSideZero - Is This Room Getting Smaller? (2001-11-20)
 <li data-cover="http://coverartarchive.org/release/20d00514-e1c6-4b09-a7cd-b824a80ab047/5896975081-500.jpg" data-tags="indie rock" role="button">
 Denali - Denali (2002-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
-Deerhoof - Reveille (2002-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/03073943-b10d-4c53-989d-03e1ff811b2f/20752709373-500.jpg" data-tags="rock" role="button">
 Tonic - Head On Straight (2002-09-24)
 </li>
@@ -149,6 +146,9 @@ Further Seems Forever - How to Start a Fire (2003-02-11)
 </li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
+</li>
+<li data-cover="https://img.discogs.com/b5XEw5-q8zZB_zqKfEs82XjqqXQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-475514-1119116441.jpg.jpg" data-tags="industrial rock" role="button">
+Zeromancer - Zzyzx (2003-09-01)
 </li>
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
@@ -182,6 +182,9 @@ Japanther - Master Of Pigeons (2005-01-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 TRUSTcompany - True Parallels (2005-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4de67c0-3f0a-41a0-af37-3da95007ed55/14668379732-500.jpg" data-tags="alt-country" role="button">
+Matt Mays & El Torpedo - Matt Mays & El Torpedo (2005-03-29)
 </li>
 <li data-cover="https://img.discogs.com/aEnJ04MUDNSOAUQJakuVsDe9A98=/fit-in/344x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492004-1286975812.jpeg.jpg" data-tags="rock, alternative, female vocalists, singer-songwriter, alt rock, toll, albums in my cd rack" role="button">
 Lisa Marie Presley - Now What (2005-04-05)
@@ -222,9 +225,6 @@ U2 and Green Day - The Saints Are Coming (2006-11-06)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
-<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
-Dungen - Tio Bitar (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/8541b1c1-ab31-4b75-a3c9-5dde5e6f2266/23905573829-500.jpg" data-tags="noise rock" role="button">
 No Age - Weirdo Rippers (2007-06-11)
 </li>
@@ -240,9 +240,6 @@ The Cranberries - Gold (2008-03-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
 </li>
-<li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
-Anberlin - New Surrender (2008-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/634d830e-3486-43d1-b6b0-e9730b10b092/2378547288-500.jpg" data-tags="addiction, lonely, alt rock, family sad" role="button">
 Kevin Devine - Brother's Blood (2009-04-28)
 </li>
@@ -257,9 +254,6 @@ Wilco - Wilco (The Album) (2009-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)
-</li>
-<li data-cover="https://img.discogs.com/1b1WHh7efP5ENa-4AcVgCFJovm4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270028-1274186975.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
-Keane - Night Train (2010-05-09)
 </li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
@@ -288,6 +282,9 @@ The Cranberries - Roses (2012-02-22)
 <li data-cover="http://coverartarchive.org/release/ed4ef585-6abe-4a3e-a4d3-6206589b3633/28652812232-500.jpg" data-tags="pop" role="button">
 Scissor Sisters - Magic Hour (2012-05-25)
 </li>
+<li data-cover="https://img.discogs.com/nsv8Ltg9hbZkIoRpXkrzRQhyGdY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7931145-1451879057-8326.jpeg.jpg" data-tags="rock, hard rock, rain, alt rock, loser, skin, brian virtue, 3 pill morning, euphonic masters, jon king, sirius xm octane" role="button">
+3 Pill Morning - Black Tie Love Affair (2012-07-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/7fc1b9a1-075c-419b-adff-615493ba1bfc/3592167593-500.jpg" data-tags="rock, pop, female vocalists" role="button">
 Alanis Morissette - Havoc and Bright Lights (2012-08-12)
 </li>
@@ -308,6 +305,9 @@ Dangerkids - Collapse (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c2d3f14-262e-4781-a484-d80ee82ef7a9/9363103757-500.jpg" data-tags="alternative rock, grunge" role="button">
 Pearl Jam - Lightning Bolt (2013-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/4cd974a6-8fef-4a31-979b-fdd13efb5ee0/6708979968-500.jpg" data-tags="nu-metal, single, alternative metal  hard rock" role="button">
+Linkin Park - Guilty All The Same (2014-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcd44a2b-3e3f-4e7f-8af2-e553fa6a603f/7296590031-500.jpg" data-tags="alternative pop" role="button">
 Tori Amos - Unrepentant Geraldines (2014-05-09)

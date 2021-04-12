@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:47:06.907Z
+date: 2021-04-12T09:08:01.590Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
-</li>
-<li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, garage rock, 70s" role="button">
-The Stooges - Fun House (1970-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="rock, punk, 70s" role="button">
 Patti Smith - Horses (1975-11)
@@ -59,6 +56,9 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">
+Misfits - Walk Among Us (1982-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
@@ -98,6 +98,9 @@ Green Day - Insomniac (1995-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d54781c9-bb1b-4413-99c4-9891147bbfcb/21131442401-500.jpg" data-tags="horror punk, punk rock" role="button">
+Misfits - American Psycho (1997-05-13)
 </li>
 <li data-cover="https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg" data-tags="punk, horror punk" role="button">
 Misfits - Static Age (1997-07-15)
@@ -233,9 +236,6 @@ Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/093e6d8b-bfc0-4ea3-bcd1-9a3f30d5cdc1/3331685844-500.jpg" data-tags="punk" role="button">
 NOFX - The Greatest Songs Ever Written (By Us) (2004-11-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
-Goldfinger - The Best Of Goldfinger (2005-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
 Green Day - Holiday (2005-03-14)

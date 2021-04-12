@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:26:01.504Z
+date: 2021-04-12T09:38:02.320Z
 title: "dance-pop: 100 albums you must listen to before you die"
 ---
 ![Robyn - Body Talk (2010-11-22)](https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg "Robyn - Body Talk (2010-11-22)")
@@ -21,20 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Arrival (1976-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4138236f-05c6-3494-b6d8-5d460024ed21/12551767179-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Voulez-Vous (1979-04-23)
-</li>
 <li data-cover="https://img.discogs.com/B0sTmgYwKDyzLMfpFd3yL5gP4Pk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8616791-1465222332-1845.jpeg.jpg" data-tags="80s, funk" role="button">
 Prince - 1999 (1982-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c41d38-f76e-4253-998c-763d664f39e4/10717078631-500.jpg" data-tags="pop" role="button">
 Gloria Gaynor - Gloria Gaynor (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/58f38213-6016-4664-bd23-77bd4f7aafaf/3039576624-500.jpg" data-tags="dance, screamin diva" role="button">
-Grace Jones - Living My Life (1983)
+<li data-cover="http://coverartarchive.org/release/f2449248-fab4-4109-9d01-39bd7cb33555/1799854724-500.jpg" data-tags="pop, dance-pop, male vocalists, hi-nrg" role="button">
+Village People - Sex Over The Phone (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/169a1e71-09a1-49d5-b9c2-937b8fd9c855/6183399859-500.jpg" data-tags="80s, new wave, synthpop" role="button">
 Dead or Alive - Youthquake (1985-01-01)
@@ -65,6 +59,9 @@ Milli Vanilli - Girl You Know It's True (1989-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/30a9bbd6-e456-3478-9a35-1cf958cf9637/15279604002-500.jpg" data-tags="synthpop, 90s" role="button">
 Pet Shop Boys - Behaviour (1990-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e287f1d-6a36-4446-816a-d028bb19018c/24708246922-500.jpg" data-tags="female vocalists, 90s, rnb" role="button">
+Vanessa Williams - The Comfort Zone (1991-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
@@ -270,6 +267,9 @@ Christina Aguilera - Lotus (2012-11-09)
 <li data-cover="http://coverartarchive.org/release/72d7984a-f923-4136-aa15-ab75499d1c70/2940296786-500.jpg" data-tags="die young" role="button">
 Ke$ha - Die Young (2012-11-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Sharon Needles - PG-13 (2013-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/6ff72d61-c72e-4a0f-ba53-9032e198fcd9/4101003069-500.jpg" data-tags="pop, female vocalists, dance" role="button">
 Inna - Party Never Ends (2013-03-02)
 </li>
@@ -291,6 +291,9 @@ Pet Shop Boys - Electric (2013-07-12)
 <li data-cover="http://coverartarchive.org/release/cf868417-05a1-44b6-8f09-1d715e027ddd/4947248316-500.jpg" data-tags="pop, dance-pop, girlie, american girl, dr luke" role="button">
 Bonnie McKee - American Girl (2013-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/47e31ba4-20bd-4835-8520-a1cd6d298c79/4876575081-500.jpg" data-tags="pop, dance-pop, male vocalists" role="button">
+Enrique Iglesias - Turn The Night Up (2013-07-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/ea866a8d-d190-46db-80d5-84703c22bbb3/6190333473-500.jpg" data-tags="pop, dance-pop, 00s, disney, eletronic, divas, miley cyrus, eletronic pop, miley, 7things, parceiras" role="button">
 Fifth Harmony - Better Together (2013-10-18)
 </li>
@@ -305,9 +308,6 @@ Katy B - Little Red (2014-02-10)
 </li>
 <li data-cover="https://img.discogs.com/vC3CzoD-UoLaD10I-1u0jOFXYc8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5611176-1397939050-6790.jpeg.jpg" data-tags="electropop, dance-pop, synthpop" role="button">
 Betty Who - Heartbreak Dream (2014-02-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbaac149-d559-4234-b335-60d382040c94/15265609371-500.jpg" data-tags="k-pop" role="button">
-2NE1 - Crush (2014-02-27)
 </li>
 <li data-cover="https://img.discogs.com/5ML1CJp8Z_MMp6UUplVzZhjLyh8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594036-1136136960.jpeg.jpg" data-tags="pop" role="button">
 Kylie Minogue - Kiss Me Once (2014-03-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:09:12.579Z
+date: 2021-04-12T09:10:01.907Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -63,6 +63,9 @@ Madrugada - Industrial Silence (1999)
 <li data-cover="http://coverartarchive.org/release/9601f688-674e-3908-acdf-820214dd9a46/4819640448-500.jpg" data-tags="norwegian, approved, to check out, milestones, sleepless, favs of nocci, decent, gothcore, gothic-darkwave, handleliste, waahh i love it, nice and dark, coming summer melancholy, darksky fm" role="button">
 Seigmen - Monument (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/186a1cc2-1b6a-382a-933d-ee6eca46423b/3193080078-500.jpg" data-tags="black metal" role="button">
+Emperor - IX Equilibrium (1999-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5b9b486-65c7-41d4-82e1-3fe6a8fac5ef/8645595591-500.jpg" data-tags="lene marlin, pop" role="button">
 Lene Marlin - Playing My Game (1999-03-25)
 </li>
@@ -92,9 +95,6 @@ Motorpsycho - Phanerothyme (2001-09-03)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/790ba88e-e193-49b0-8acb-2dae33f8b6b2/2221640191-500.jpg" data-tags="i am a spy here is my soundtrack" role="button">
-Xploding Plastix - Behind the Eightball (2001-11-05)
 </li>
 <li data-cover="https://img.discogs.com/peoBjbfraqsHjHzvaC8dI47Q9GE=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572521-1190480851.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
@@ -137,9 +137,6 @@ Gåte - Iselilja (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
 Hanne Hukkelberg - Little Things (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/a018d45c-ad3e-3028-8ff3-676a2d3c80b3/955154493-500.jpg" data-tags="jazz, jazz vocal, female vocalists, norwegian, female vocalist, 00s, female jazz vocalist, blues bar, jazz covers, albummanara, albumsdoudoune, cds i own and have yet to hear" role="button">
-Inger Marie Gundersen - Make this moment (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c1208a3-e4e8-4b86-987f-2c17f27e05b7/21329941175-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Maria Mena - White Turns Blue (2004)
@@ -311,6 +308,9 @@ Donkeyboy - Crazy Something Normal (2014)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff0d170d-96c1-419c-94d6-bd90568d85c9/7072530560-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">
+Morten Harket - Brother (2014-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/374bb533-2dc5-4b3c-ab06-679c82473de8/9208647489-500.jpg" data-tags="rock, hard rock, norwegian" role="button">
 Spidergawd - Spidergawd (2014-04-25)

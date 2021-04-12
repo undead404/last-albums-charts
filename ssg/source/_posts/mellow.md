@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:32:01.404Z
+date: 2021-04-12T09:34:07.025Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -12,8 +12,8 @@ title: "mellow: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">The Weepies - Say I Am You (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
+<li data-cover="http://coverartarchive.org/release/b6f6d5d5-dc60-495b-ab0e-57752fff5303/17901386044-500.jpg" data-tags="indie, indie rock, mellow, rock" role="button">Band of Horses - The Funeral (2007-05-21)</li>
 <li data-cover="https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg" data-tags="female vocalist, indie" role="button">A Fine Frenzy - One Cell in the Sea (2007-07-17)</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">Minus the Bear - Planet of Ice (2007-08-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -102,6 +102,9 @@ Iron & Wine - The Creek Drank the Cradle (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/248c44c9-280a-4bc1-8030-2d06bedf6d4c/22261900325-500.jpg" data-tags="soul, neo-soul" role="button">
+Vivian Green - A Love Story (2002-11-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/dcfe99cd-1889-4828-8702-24ffed30dd61/15192015448-500.jpg" data-tags="80s, mellow" role="button">
 Kenny Loggins - The Essential Kenny Loggins (2002-11-19)
 </li>
@@ -149,9 +152,6 @@ Six Organs of Admittance - For Octavio Paz (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f83a5171-3acc-4234-a13f-df6b67ddefc5/3509077233-500.jpg" data-tags="post-rock" role="button">
 The Six Parts Seven - Everywhere and Right Here (2004-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
-Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/798dea45-242d-3d3e-96b2-d90ad14cf47a/20816894147-500.jpg" data-tags="rock, 00s" role="button">
 R.E.M. - Around the Sun (2004-10-04)
@@ -231,9 +231,6 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
@@ -260,6 +257,9 @@ She & Him - Volume One (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/35aa1419-4284-47e8-ac73-b16996d4a4b3/4394764411-500.jpg" data-tags="folk" role="button">
+Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
@@ -312,13 +312,13 @@ Best Coast - The Only Place (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/045b654b-18fa-480c-9b58-020c70128370/10745016787-500.jpg" data-tags="pop, female vocalists, mellow, 10s" role="button">
 Julia Stone - By the Horns (2012-05-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/6f2e6a44-7824-4b2f-8118-eed8c69a8127/12213760088-500.jpg" data-tags="singer-songwriter, acoustic, guitar, mellow" role="button">
+Joshua Radin - Underwater (2012-07-29)
+</li>
 <li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4914b6a7-b95f-4ed7-82df-fc85c3a1e682/4281607299-500.jpg" data-tags="folk, mellow, folk rock, bittersweet, depressing, music to fall asleep to" role="button">
-Keaton Henson - Birthdays (2013-02-22)
 </li>
 </ol>

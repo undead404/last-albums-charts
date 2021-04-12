@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:39:01.400Z
+date: 2021-04-12T08:58:01.461Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -59,9 +59,6 @@ Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
-New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
@@ -284,6 +281,9 @@ Icona Pop - This Is... Icona Pop (2013-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
+Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
 Cut Copy - Free Your Mind (2013-11-01)

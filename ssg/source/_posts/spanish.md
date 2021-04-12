@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:13:01.427Z
+date: 2021-04-12T08:47:01.423Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
-</li>
-<li data-cover="https://img.discogs.com/uiYG7UjCWeypL7307nW6v9SyzaY=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14365523-1573061815-6496.jpeg.jpg" data-tags="heavy metal, spanish, rata blanca, hard rock, argentina" role="button">
-Rata Blanca - Magos, Espadas Y Rosas (1990-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccf687e1-d013-426b-b5d3-aa3c50a93929/6801915337-500.jpg" data-tags="rock" role="button">
 Héroes del Silencio - Senderos De Traición (1990-05-04)
@@ -129,6 +126,9 @@ Enrique Iglesias - Escape (2001-10-24)
 <li data-cover="http://coverartarchive.org/release/42b951f4-868a-47d8-9437-1c095a0532dc/2186737397-500.jpg" data-tags="rock" role="button">
 Marea - Besos De Perro (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/b965a7a0-8e73-471e-9b7e-309cae0a5da1/18048218145-500.jpg" data-tags="latin, mestizo, alternativo" role="button">
+Amparanoia - Somos Viento (2002)
+</li>
 <li data-cover="https://img.discogs.com/575lyRIquyOOC1twTeKx0MUmAw0=/fit-in/600x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577693-1540603230-9511.jpeg.jpg" data-tags="spanish, indie rock" role="button">
 Los Planetas - Encuentros con entidades (2002-08-26)
 </li>
@@ -176,9 +176,6 @@ Los Planetas - Los planetas contra la ley de la gravedad (2004-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">
 Juanes - Mi Sangre (2004-09-28)
-</li>
-<li data-cover="https://img.discogs.com/7VHlhnDms_Fu-VbgNObOlfWLGac=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2743027-1299008886.jpeg.jpg" data-tags="spanish, rock, latin, ska, argentina, mestizo" role="button">
-Karamelo Santo - Haciendo Bulla (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">
 Pereza - Animales (2005)
@@ -275,6 +272,9 @@ Enrique Iglesias - The Best Hits (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/533fb246-8a8c-477e-afff-4b748ca31819/6355263327-500.jpg" data-tags="spanish, pop-rock, discos 2009" role="button">
 Nena Daconte - Retales De Carnaval (2008-09-30)
+</li>
+<li data-cover="https://img.discogs.com/PwXJlq_1PcXqyZwJGlaxVwl7Vc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7197843-1435941885-7824.jpeg.jpg" data-tags="spanish, pop, colombia, latin pop, tropical, pop latino, zaza, chapiztirrina, tu no eres para mi cd" role="button">
+Fanny Lú - Dos (2008-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/350d5140-2215-45b7-b140-b67c4bf8dc7b/17656221605-500.jpg" data-tags="spanish" role="button">
 The Sunday Drivers - The End Of Maiden Trip (2009)

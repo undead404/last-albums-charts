@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:09:01.519Z
+date: 2021-04-12T08:57:02.239Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -63,9 +63,6 @@ Stevie Wonder - Innervisions (1973-08-03)
 <li data-cover="http://coverartarchive.org/release/a5fd58e5-feae-497e-95f0-63a940b0fd87/23170553495-500.jpg" data-tags="soul, funk" role="button">
 Shuggie Otis - INSPIRATION INFORMATION (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-500.jpg" data-tags="jazz funk, instrumental, funk, jazz fusion" role="button">
-Herbie Hancock - Thrust (1974)
-</li>
 <li data-cover="http://coverartarchive.org/release/63e9dae2-7f43-400d-b1a9-96639392475f/6305179369-500.jpg" data-tags="funk" role="button">
 Funkadelic - Standing on the Verge of Getting It On (1974-09)
 </li>
@@ -77,6 +74,9 @@ War - Why Can't We Be Friends? (1975-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
+David Bowie - Station to Station (1976-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Songs in the Key of Life (1976-09-28)

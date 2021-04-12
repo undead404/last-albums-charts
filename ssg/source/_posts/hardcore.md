@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:23:01.412Z
+date: 2021-04-12T09:28:07.133Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -243,9 +243,6 @@ For the Fallen Dreams - Changes (2008-01-08)
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
 The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/278bf0c5-7954-43ec-a0a3-1a15a0b05f61/4783384023-500.jpg" data-tags="hardcore" role="button">
-Have Heart - Songs to Scream at the Sun (2008-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -260,6 +257,9 @@ Rise Against - Appeal to Reason (2008-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3d673e-8409-4514-9a89-5b81fd62dbeb/15138422971-500.jpg" data-tags="hardcore" role="button">
 In Fear and Faith - Your World on Fire (2009-01-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/41b4c3be-b228-4abc-a79c-5f2fd31169b4/20002393726-500.jpg" data-tags="metalcore, mathcore" role="button">
+Architects - Hollow Crown (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)

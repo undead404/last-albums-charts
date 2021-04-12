@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:17:01.396Z
+date: 2021-04-12T08:46:07.269Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
-The Moody Blues - Days of Future Passed (1967-11-11)
-</li>
 <li data-cover="https://img.discogs.com/2XB2Zi6X6y9GAL_b399rTFYIta4=/fit-in/600x738/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744584-1494946548-1401.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
@@ -147,6 +144,9 @@ The Fall of Troy - The Fall Of Troy (2003-11-04)
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Train of Thought (2003-11-08)
 </li>
+<li data-cover="https://img.discogs.com/boA_i52ri9qokCW21I2qe_b56iQ=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737145-1317817070.jpeg.jpg" data-tags="trance" role="button">
+Ferry Corsten - Right Of Way (2003-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
@@ -198,9 +198,6 @@ Thrice - Vheissu (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
-<li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
-Katatonia - The Great Cold Distance (2006-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a579c61-ced0-3dd4-b1cb-3539578c0163/24153332307-500.jpg" data-tags="progressive rock" role="button">
 Pure Reason Revolution - The Dark Third (2006-04-10)
 </li>
@@ -228,14 +225,14 @@ The Fall of Troy - Manipulator (2007-05-01)
 <li data-cover="http://coverartarchive.org/release/c8553274-ae05-4031-8af1-12e6d4750b22/15299158990-500.jpg" data-tags="progressive rock" role="button">
 Rishloo - Eidolon (2007-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/f87f3b49-d278-45f6-866a-7135dd474889/3076669072-500.jpg" data-tags="psytrance, progressive trance" role="button">
+Vibrasphere - Exploring The Tributaries (2007-06-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)
 </li>
 <li data-cover="https://img.discogs.com/AV8GwJYonKfaGh9sRKE_xdNlqFM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101010-1466781999-2255.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Frames (2007-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/094ea63a-a754-43f1-8e79-3a6957e2d077/26813532876-500.jpg" data-tags="electronic" role="button">
-Moonbootica - Moonlight Welfare (2007-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
 House vs. Hurricane - Forfeiture (2008)
@@ -308,6 +305,9 @@ Goose - Synrise (2011-03-29)
 </li>
 <li data-cover="https://img.discogs.com/etlmjyE_4cHe2bhbrS0VSExl_is=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4998495-1381729535-8807.jpeg.jpg" data-tags="progressive metal" role="button">
 Dream Theater - A Dramatic Turn of Events (2011-08-25)
+</li>
+<li data-cover="https://img.discogs.com/F9Thf9bsm8bLWtrEvfBbQg3objw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3115176-1356785998-5092.jpeg.jpg" data-tags="progressive rock" role="button">
+Opeth - Heritage (2011-09-14)
 </li>
 <li data-cover="https://img.discogs.com/BuVI94sy8qePYrdZp4cWSwgbD3A=/fit-in/600x752/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7073508-1433197218-5009.jpeg.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Afterman: Ascension (2012-10-08)

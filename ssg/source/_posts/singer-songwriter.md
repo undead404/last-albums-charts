@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:33:01.624Z
+date: 2021-04-12T09:02:13.470Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -222,6 +222,9 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Cassadaga (2007-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/18082f59-6c79-4f9b-8be5-45c9aa2619d0/10610832447-500.jpg" data-tags="singer-songwriter" role="button">
+Rufus Wainwright - Release The Stars (2007-05-14)
+</li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
 </li>
@@ -279,17 +282,11 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 <li data-cover="http://coverartarchive.org/release/045bd22e-b181-4b67-8fda-dbb47a66cef6/2333024859-500.jpg" data-tags="folk, indie" role="button">
 Bon Iver - Blood Bank (2009-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
 <li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, bass music, covers and same song titles" role="button">
 James Blake - Limit to Your Love (2010-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">
 Adele - 21 (2011-01-19)
@@ -317,6 +314,9 @@ Sun Kil Moon - Benji (2014-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">
+Hozier - Hozier (2014-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg" data-tags="pop" role="button">
 Shawn Mendes - Shawn Mendes (2014-07-28)

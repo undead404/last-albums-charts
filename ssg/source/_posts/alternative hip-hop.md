@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:02:40.477Z
+date: 2021-04-12T09:32:01.580Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -24,6 +24,12 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
+<li data-cover="https://img.discogs.com/yHfAagQxkLUKSbPunOauh4xD12c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5408733-1392627713-8707.jpeg.jpg" data-tags="hip hop, hiphop" role="button">
+A Tribe Called Quest - Revised Quest for the Seasoned Traveller (1992-11-16)
+</li>
+<li data-cover="https://img.discogs.com/CISzqiFmRulElecW-IrSwFgywiM=/fit-in/600x921/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697116-1566057935-6023.jpeg.jpg" data-tags="rap" role="button">
+Funkdoobiest - Which Doobie U B? (1993-05-04)
+</li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
 </li>
@@ -36,14 +42,14 @@ The Psycho Realm - The Psycho Realm (1997-10-28)
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">
-Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e4d0890-9ee0-4020-a9dc-8528208fd3ab/1675399328-500.jpg" data-tags="albums by:everlast, rock" role="button">
 Everlast - Whitey Ford Sings the Blues (1998-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34d3b22-9b21-44a1-bbef-6ebc05bed361/5131421085-500.jpg" data-tags="hip-hop" role="button">
 Cypress Hill - IV (1998-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb28eabe-1737-47f2-a45d-d320e96bede5/3376942021-500.jpg" data-tags="hip hop" role="button">
+Ugly Duckling - Fresh Mode (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/33420fae-4cf2-3aa2-b34f-708c4584a192/14285387016-500.jpg" data-tags="stones throw" role="button">
 Lootpack - Soundpieces: Da Antidote! (1999-06-29)
@@ -63,26 +69,20 @@ Zion I - Mind over Matter (2000-05-30)
 <li data-cover="http://coverartarchive.org/release/a9316270-de2f-474d-a90a-64b87c8552e0/17553518656-500.jpg" data-tags="rock" role="button">
 Everlast - Eat at Whitey's (2000-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/d10320a4-2469-4ae5-9157-a7f2c950cf5d/5052431361-500.jpg" data-tags="hip hop, live, alternative hip-hop" role="button">
-Cypress Hill - Live At The Fillmore (2000-12-12)
-</li>
 <li data-cover="https://img.discogs.com/PGUuH0Vf9pSYFpNUt1bjQ_iyT6k=/fit-in/508x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2252237-1342980339-4303.jpeg.jpg" data-tags="trip-hop" role="button">
 Tricky - Blowback (2001-06-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
-Dilated Peoples - Expansion Team (2001-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d23bd8bc-44f4-452d-b3c7-0ef0411ffbe7/23983612574-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Saul Williams - Amethyst Rock Star (2001-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/79d35845-7b0b-4624-9999-a13ca25c653f/4766809847-500.jpg" data-tags="hip hop" role="button">
-People Under the Stairs - "O.S.T." (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/j1P_Q7OyHn4x7kbQYB6KtaDzElU=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121255-1615768683-5521.jpeg.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Cypress Hill - Stash (2002-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
 Talib Kweli - Quality (2002-11-18)
+</li>
+<li data-cover="https://img.discogs.com/RyfpWzVEXxoUu2jAOi7i0MczKNo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6320447-1416399159-6393.jpeg.jpg" data-tags="hip hop, alternative hip-hop" role="button">
+The Grouch & Eligh - No More Greener Grasses (2003)
 </li>
 <li data-cover="https://img.discogs.com/nCjk3Pxqzl51cxGyoUkRP8l8Izk=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3037179-1312812154.jpeg.jpg" data-tags="underground hip-hop, k-hiphop, alternative hip-hop, korean hip-hop" role="button">
 Epik High - Map of the Human Soul (2003-10-21)
@@ -153,11 +153,11 @@ Mos Def - TRUE MAGIC (2006-12-19)
 <li data-cover="https://img.discogs.com/JYt7-eh8kUxyf6HWwxSIELxI1RI=/fit-in/484x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-871335-1167642514.jpeg.jpg" data-tags="hip-hop, hip hop, underground hip-hop, alternative hip-hop, jazz-hop, east coast rap, good hip-hop" role="button">
 Talib Kweli & Madlib - Liberation (2006-12-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/70c83dce-7a69-4f26-a925-2e536faf4b5e/16076458664-500.jpg" data-tags="hip-hop" role="button">
-Busdriver - RoadKillOvercoat (2007-01-30)
-</li>
 <li data-cover="https://img.discogs.com/MxIEbXM2FfNC6CFSi0FE9fuaamE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1122226-1193789791.jpeg.jpg" data-tags="hip hop, rock, alternative, alternative hip-hop" role="button">
 Aesop Rock - All Day: Nike+ Original Run (2007-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/af41a978-6f41-466c-9db8-63d3936193d2/18899274102-500.jpg" data-tags="hip hop" role="button">
+Dilated Peoples - The Release Party (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - None Shall Pass (2007-08-28)
@@ -201,9 +201,6 @@ The Grouch & Eligh - Say G&E! (2009-04-21)
 <li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Mos Def - The Ecstatic (2009-06-09)
 </li>
-<li data-cover="https://img.discogs.com/LDXVDR5EoS0n9f_TLCm0rf35ZWg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1840182-1295385670.jpeg.jpg" data-tags="hip hop" role="button">
-Chali 2na - Fish Outta Water (2009-07-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/ec0ec5b0-de57-410d-a640-8e072cc13f10/3436243526-500.jpg" data-tags="hip-hop, grunge, experimental, indie rock, underground hip-hop, alternative hip-hop, rap rock, my fav, parts of the body" role="button">
 Eyedea & Abilities - By the Throat (2009-07-21)
 </li>
@@ -236,6 +233,9 @@ Cypress Hill - Rise Up (2010-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b694997-ffff-4e17-b3fa-2eff8fd5e30e/10588245317-500.jpg" data-tags="nozi mc, russian, alternative hip-hop" role="button">
 Noize MC - Последний Альбом (2010-05-25)
+</li>
+<li data-cover="https://img.discogs.com/gSig5ENnLIoTdQlG1VgUpmb5FIQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664534-1295795284.png.jpg" data-tags="hip hop, alternative hip-hop" role="button">
+Bop Alloy - Substantial & Marcus D are Bop Alloy (2010-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b8b097a-361b-4947-a165-0bf3845bbcc5/5815888604-500.jpg" data-tags="hip hop, alternative hip-hop" role="button">
 Sadistik & Kid Called Computer - The Art of Dying (2010-08-24)

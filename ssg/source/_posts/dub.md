@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:12:07.003Z
+date: 2021-04-12T09:15:01.859Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -45,8 +45,14 @@ Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
 <li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
 Gregory Isaacs - Night Nurse (1982)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dub, roots reggae" role="button">
+Black Uhuru - The Dub Factor (1983-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9853cab8-4aab-4eab-89b9-f15a451b1483/8914627228-500.jpg" data-tags="izrael" role="button">
 Izrael - Nabij Faje (1986)
+</li>
+<li data-cover="http://coverartarchive.org/release/81af43bf-9a91-492e-8f0e-f7c39cff2eae/6766903757-500.jpg" data-tags="dub" role="button">
+African Head Charge - Songs of Praise (1990-01-01)
 </li>
 <li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
 Sublime - 40 Oz. to Freedom (1992)
@@ -84,6 +90,9 @@ Tosca - Fuck Dub (1997-09-05)
 <li data-cover="http://coverartarchive.org/release/683c5a6a-8917-42b0-8000-fa3f430c321e/4455009849-500.jpg" data-tags="dub" role="button">
 Primal Scream - Echo Dek (1997-10-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6d963bd-a3f3-445f-a3c6-6f9abdad6e5d/6328191275-500.jpg" data-tags="dub" role="button">
+Zenzile - Dub Promozione (1998)
+</li>
 <li data-cover="https://img.discogs.com/rN4GNXEsq4lA9sAM3H2fXG-k-e4=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503803-1287600332.jpeg.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - It Takes a Thief (1999)
 </li>
@@ -114,9 +123,6 @@ Tosca - Suzuki In Dub (2000-10-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, nz" role="button">
 The Black Seeds - Keep On Pushing (2001)
 </li>
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="dub" role="button">
-Dub Pistols - Six Million Ways to Live (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
 </li>
@@ -137,9 +143,6 @@ No Doubt - Rock Steady (2001-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b7e707b-a505-4159-ab4b-aec5c5a858bc/10868120725-500.jpg" data-tags="dub" role="button">
 High Tone - Acid Dub Nucleik (2002-04-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
-Salmonella Dub - Outside the Dubplates (2002-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
@@ -171,11 +174,14 @@ Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/a4ba40f9-a0f5-4684-b0d1-c5be37a6ed0f/8355576251-500.jpg" data-tags="ambient, dub" role="button">
 Sounds from the Ground - Luminal (2004-10-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub, kiwi" role="button">
-KORA - Ep Volume (2004-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7e29218-e94e-47ec-8a23-b80688cc06f7/11812641396-500.jpg" data-tags="dub" role="button">
+Kukan dUb Lagan - Life Is Nice (2004-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a9a5fed-9652-4e14-b893-61ff47880b96/1238386147-500.jpg" data-tags="dub, good shit, roots reggae, must see live, giant panda guerilla dub squad" role="button">
+Giant Panda Guerilla Dub Squad - SLOW DOWN (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/394616df-4fa3-4799-a354-933063050392/4289639683-500.jpg" data-tags="dub, reggae" role="button">
 Groundation - Dub Wars (2005-01)
@@ -213,14 +219,14 @@ B. Fleischmann - The Humbucking Coil (2006-02-20)
 <li data-cover="https://img.discogs.com/7hBvtSGXXfpx63GGx4RykOdukKI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819892-1428613859-2436.jpeg.jpg" data-tags="dub, fusion" role="button">
 Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a4d4f24-ea93-4e3d-a2da-135fc4a6675b/4275886560-500.jpg" data-tags="ambient, downtempo, dub" role="button">
+Desert Dwellers - DownTemple Dub: Waves (2006-03-21)
+</li>
 <li data-cover="https://img.discogs.com/lguPJnH5Khsos0mzOgWcCCf7UKU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648501-1445894176-6010.jpeg.jpg" data-tags="chill, reggae, dub, drinking, summer music, good to smoke to" role="button">
 Rebelution - Rebelution (2006-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/86fdaaa0-09db-480c-ad77-7b2a58aed2be/14746157740-500.jpg" data-tags="rock, experimental, dub" role="button">
 Dub Trio - New Heavy (2006-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a009ef70-3519-48b0-8be0-114500776954/5632979580-500.jpg" data-tags="reggae, dub, new zealand, newzealand" role="button">
-The Black Seeds - Into the Dojo (2006-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
@@ -273,9 +279,6 @@ Sun Araw - Heavy Deeds (2009-06-22)
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)
 </li>
-<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
-Lena - Satellite (2010-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/c0254828-029b-4006-8a14-8464b09cbc40/14987408388-500.jpg" data-tags="dubstep" role="button">
 Rusko - O.M.G.! (2010-05-04)
 </li>
@@ -302,9 +305,6 @@ Hollie Cook - Hollie Cook (2011-06-06)
 </li>
 <li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
-Floex - Zorya (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
 King Krule - King Krule (2011-11-08)

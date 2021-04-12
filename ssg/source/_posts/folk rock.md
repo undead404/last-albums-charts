@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:50:01.409Z
+date: 2021-04-12T09:18:01.448Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -26,6 +26,9 @@ The Beatles - Rubber Soul (1965-12-03)
 </li>
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
 Jefferson Airplane - Surrealistic Pillow (1967-02)
+</li>
+<li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
+Neil Young - Neil Young (1968-11-12)
 </li>
 <li data-cover="https://img.discogs.com/7RPgI0pOyEvIZJBpUerviZhCids=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400980-1293165132.jpeg.jpg" data-tags="60s, folk rock, classic rock, folk" role="button">
 Crosby, Stills & Nash - Crosby, Stills & Nash (1969-05-29)
@@ -57,6 +60,9 @@ Paul Simon - Paul Simon (1971)
 <li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - Aqualung (1971-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb224bc4-27f8-4b46-9c46-75d13873454e/11052080256-500.jpg" data-tags="singer-songwriter, 70s" role="button">
+Cat Stevens - Teaser and the Firecat (1971-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
@@ -66,8 +72,8 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, folk" role="button">
-Joni Mitchell - Court and Spark (1974-04)
+<li data-cover="http://coverartarchive.org/release/19ec67fa-ba98-4d3d-90a3-52f63a1a9af2/23367226103-500.jpg" data-tags="rock, 70s" role="button">
+Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
@@ -108,6 +114,9 @@ Jackson Browne - The Next Voice You Hear: The Best of Jackson Browne (1997-09-23
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
+David Gray - White Ladder (1998-11-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
 Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
@@ -128,6 +137,9 @@ The Proclaimers - Finest (2003-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
+Wilco - A Ghost is Born (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
 Neil Young - Greatest Hits (2004-11-16)
@@ -201,9 +213,6 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
-<li data-cover="https://img.discogs.com/_bzQfuUArrqz6xSjVfDCNK4Pwp4=/fit-in/555x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926366-1330810865.jpeg.jpg" data-tags="indie, folk, folk rock, psych folk, 00's, awesomeness, loved at first listen, makes me happy, beatlesque, dodos, under the radar best of 2009, d 2009" role="button">
-The Dodos - Time To Die (2009-07-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/13d3b060-8112-4251-acb4-cfc88366ebbd/3323569123-500.jpg" data-tags="singer-songwriter, folk rock" role="button">
 Frank Turner - Poetry of the Deed (2009-09-07)
 </li>
@@ -216,9 +225,6 @@ Mumford & Sons - Sigh No More (2009-10-05)
 <li data-cover="http://coverartarchive.org/release/65fabf97-67bf-4f88-84a0-b8ef0a4de144/19588262528-500.jpg" data-tags="folk rock" role="button">
 Isbells - Isbells (2009-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a876213-7833-40c1-ac4b-39cb9b767082/25696731134-500.jpg" data-tags="indie, alternative, folk, cosmic american music" role="button">
 Midlake - The Courage Of Others (2010-02-01)
 </li>
@@ -230,9 +236,6 @@ Bombay Bicycle Club - Flaws (2010-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
 Sharon Van Etten - Epic (2010-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
@@ -284,9 +287,6 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/4914b6a7-b95f-4ed7-82df-fc85c3a1e682/4281607299-500.jpg" data-tags="folk, mellow, folk rock, bittersweet, depressing, music to fall asleep to" role="button">
-Keaton Henson - Birthdays (2013-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)

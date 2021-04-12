@@ -1,11 +1,10 @@
 ---
-date: 2021-04-11T18:43:01.405Z
+date: 2021-04-12T09:20:01.604Z
 title: "alternative country: 100 albums you must listen to before you die"
 ---
 ![She &amp; Him - Volume Two (2010-03-17)](http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg "She & Him - Volume Two (2010-03-17)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">The National - The National (2001-07-03)</li>
-<li data-cover="http://coverartarchive.org/release/e6c83654-eca9-44d9-9f5c-a77ae9de5f93/26393895109-500.jpg" data-tags="singer-songwriter, kurt, acoustic, abuse, virginia, ralph, harvey, miscellaneous, std, evan, curt, evans, peterson, dustin, mustard, marti, weinstein, partitioned, sandifur, rolph" role="button">Dustin Kensrue - Please Come Home (2007-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">Calexico - Carried To Dust (2008-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/f5e83da8-678d-4d54-b3ae-c2e051167a4c/9233011263-500.jpg" data-tags="essential" role="button">Bill Callahan - Sometimes I Wish We Were an Eagle (2009-04-14)</li>
@@ -14,6 +13,7 @@ title: "alternative country: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">City and Colour - Little Hell (2011-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/d3071652-7ce3-4e87-b3a3-a04b65a02ff2/15440593140-500.jpg" data-tags="indie, folk, alternative country" role="button">M. Ward - A Wasteland Companion (2012-04-09)</li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">Phosphorescent - Muchacho (2013-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/b8c89186-02af-4d5b-9377-9505de7670d4/3979343873-500.jpg" data-tags="folk" role="button">She & Him - Volume 3 (2013-05-07)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -177,14 +177,8 @@ M. Ward - Post-War (2006-08-22)
 <li data-cover="https://img.discogs.com/8hIpTe1SbU7w973r5w69GZ7N1bM=/fit-in/400x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504562-1225460490.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
 Math and Physics Club - Math and Physics Club (2006-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5350913-815f-4395-8dcd-d4dad1244583/13046777334-500.jpg" data-tags="gothic country, goth blues, god-damned country, underground country" role="button">
-Those Poor Bastards - Hellfire Hymns (2007)
-</li>
 <li data-cover="https://img.discogs.com/jb5eiJTQOztmJMqDXcWWODg0ohY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9311538-1478386658-8857.jpeg.jpg" data-tags="rock, soul, country, folk, acoustic, singer, songwriter, roots, raw, alternative country, gritty" role="button">
 Reed Foehl - Stoned Beautiful (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6c83654-eca9-44d9-9f5c-a77ae9de5f93/26393895109-500.jpg" data-tags="singer-songwriter, kurt, acoustic, abuse, virginia, ralph, harvey, miscellaneous, std, evan, curt, evans, peterson, dustin, mustard, marti, weinstein, partitioned, sandifur, rolph" role="button">
-Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
 <li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
 Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
@@ -203,9 +197,6 @@ She & Him - Volume One (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="noise, folk, experimental, americana, psychedelic, alt-country, freak folk, new weird america, psychedelic folk, neofolk, dark folk, alternative country, free folk, neo folk, psych-folk, apocalyptic folk, album-a-day, acid folk, drone folk, new weird folk, psychedelic neofolk" role="button">
-The Chadderandom Abyss - 71 Miles (2008-09-23)
 </li>
 <li data-cover="https://img.discogs.com/uP6RiqArQc8jI2qqrnks0JerKYI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6327404-1416569986-1578.jpeg.jpg" data-tags="alternative country, good album" role="button">
 Graham Lindsey - We Are All Alone in This Together (2008-11-18)
@@ -279,6 +270,9 @@ Sue Merchant - The Visit (2012)
 <li data-cover="http://coverartarchive.org/release/0b728147-16a4-43f1-8d97-9b3def190f68/1223144953-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, poetic, alternative country, new folk, lyrical, poignant, unique voice, woodstock, real life, country/folk, urban folk, pretty voice, renaissance folk, folk plus, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
 Sue Merchant - Vignette from the Edge (2012)
 </li>
+<li data-cover="http://coverartarchive.org/release/56b61d5c-d48f-4571-92fb-1d8973969c09/12001494222-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, alternative country, new folk, lyrical, poignant, unique voice, real life, country/folk, urban folk, folk/rock, renaissance folk, english singer, folk plus, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
+Sue Merchant - Witness (2012)
+</li>
 <li data-cover="https://img.discogs.com/1VX79Fljej7oA6EBEWIL-lxlPpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6535748-1421490879-2300.jpeg.jpg" data-tags="pop, rock, country, alternative country, roots rock" role="button">
 Madi Diaz - Plastic Moon (2012-01-24)
 </li>
@@ -288,6 +282,9 @@ M. Ward - A Wasteland Companion (2012-04-09)
 <li data-cover="http://coverartarchive.org/release/4348531f-a515-4b1d-88c3-ffabac36a860/3799555894-500.jpg" data-tags="hellbilly" role="button">
 Hank Williams III - Long Gone Daddy (2012-04-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/ac3f94df-fb7f-45cd-b490-7736903483b4/3936275643-500.jpg" data-tags="singer-songwriter, acoustic, americana, adult contemporary, female vocalist, alternative country, new folk, lyrical, poignant, woodstock, real life, country/folk, urban folk, pretty voice, folk/rock, renaissance folk, english singer, uk songwriter, original stories, award winning singer-songwriters, sue merchant" role="button">
+Sue Merchant - In Africa (2012-05-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccf6d369-fb1b-4ec0-9915-6b7206eb1820/5940230220-500.jpg" data-tags="blues, folk noir, dark folk, alternative country, gothic country, gothic americana, crowpush" role="button">
 Crowpush - Weak As Water (2012-07-17)
 </li>
@@ -296,6 +293,9 @@ Sue Merchant - Stage Plays (2012-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d836a4d-cf59-47ef-a459-730ee2d221b1/8653695963-500.jpg" data-tags="country, dark, americana, doom, dark folk, alternative country, death country, gothic country, gothic americana, hellbilly, dark country, doom folk, god-damned country, cemetery western, alternative dark, doom country, horror country, country doom, outlaw doom country" role="button">
 Those Poor Bastards - Behold the Abyss (2012-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3196a924-7059-46da-8d9c-25cc603a913c/12001505683-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, female vocalist, alternative country, new folk, lyrical, poignant, unique voice, real life, urban folk, pretty voice, renaissance folk, uk singer-songwriter, original stories, award winning singer-songwriters" role="button">
+Sue Merchant - The Harbour (2012-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0673214d-0223-4213-8197-729c5f341b57/12001503050-500.jpg" data-tags="british, folk, singer-songwriter, acoustic, americana, adult contemporary, alternative country, new folk, lyrical, poignant, unique voice, woodstock, country/folk, urban folk, renaissance folk, original stories, award winning singer-songwriters, expressive voice, sue merchant" role="button">
 Sue Merchant - The Homecoming (2012-12-03)
