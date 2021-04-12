@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:14:01.397Z
+date: 2021-04-12T05:02:01.402Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -69,6 +69,9 @@ Deuter - Reiki: Hands of Light (1998-10-25)
 <li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
 Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
+Dean Evenson - Healing Waters (1999)
+</li>
 <li data-cover="https://img.discogs.com/rN4GNXEsq4lA9sAM3H2fXG-k-e4=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503803-1287600332.jpeg.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - It Takes a Thief (1999)
 </li>
@@ -78,11 +81,8 @@ Modest Mouse - Night on the Sun (1999)
 <li data-cover="https://img.discogs.com/sXdA8UWW2AWmINhxTzltQev3Rnw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436330-1368066780-6005.jpeg.jpg" data-tags="rap" role="button">
 Nas - I Am... (1999-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
-Thievery Corporation - Abductions and Reconstructions (1999-04-20)
-</li>
-<li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
-Guster - Lost and Gone Forever (1999-09-28)
+<li data-cover="http://coverartarchive.org/release/4cf675c2-a1ff-49d6-b0eb-c136eb528c10/21921338333-500.jpg" data-tags="soundtrack" role="button">
+Polaris - Music From The Adventures Of Pete & Pete (1999-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:08:01.416Z
+date: 2021-04-12T05:36:01.458Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -87,9 +87,6 @@ Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="space cowboy" role="button">
 Space Cowboy - Across The Sky (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/c16b9226-557d-40ef-b0cd-60584e970e20/1858594196-500.jpg" data-tags="ambient" role="button">
-William Basinski - Melancholia (2003)
-</li>
 <li data-cover="https://img.discogs.com/1Y7Mz0peASoouiR_LWTaREIRKiQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-42296-1294263771.jpeg.jpg" data-tags="minimal" role="button">
 Sascha Funke - Bravo (2003-09-15)
 </li>
@@ -156,6 +153,9 @@ Paul Kalkbrenner - Maximalive (2005-11-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Oliver Koletzki - Mückenschwarm Remixes (2005-12-26)
 </li>
+<li data-cover="https://img.discogs.com/9O6ZJJUsbF4WMjUWKB8N3fw9uyA=/fit-in/246x246/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600735-1137015461.jpeg.jpg" data-tags="minimal" role="button">
+Mujuice - Still (2006-01-12)
+</li>
 <li data-cover="https://img.discogs.com/jTC7qZ-gN5xQ8tj_fj-OE-J7Tk4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648476-1186571700.jpeg.jpg" data-tags="kompakt extra" role="button">
 Oxia - Speicher 34 (2006-03-18)
 </li>
@@ -186,6 +186,9 @@ Luomo - Paper Tigers (2006-10-16)
 <li data-cover="http://coverartarchive.org/release/e5e3da09-7c2e-4ab4-87f2-81847f7e73ad/28986211091-500.jpg" data-tags="minimal" role="button">
 Anders Ilar - Nightwidth (2006-10-31)
 </li>
+<li data-cover="https://img.discogs.com/55D0OvJnytx3PZYpEwBkFJDih2s=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-996785-1333999975.jpeg.jpg" data-tags="ambient, minimal" role="button">
+Marsen Jules - Golden (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/100350f3-0b40-452c-9779-ba79fe670575/11513393658-500.jpg" data-tags="minimal" role="button">
 Minilogue - The Leopard Rmx (2007-01)
 </li>
@@ -197,9 +200,6 @@ Apparat - Walls (2007-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Marc Romboy - Sunburst (2007-06-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/1165918c-a517-4418-855b-fae785adec6c/4542752130-500.jpg" data-tags="electronic, remix" role="button">
-Thom Yorke - The Eraser Rmxs (2007-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
 Balmorhea - Rivers Arms (2008-02-12)
@@ -245,9 +245,6 @@ Loscil - Endless Falls (2010-03-01)
 </li>
 <li data-cover="https://img.discogs.com/uuY2WB5qZsvKSPT_1Y5m6c5tBa0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182805-1268485171.jpeg.jpg" data-tags="house, minimal" role="button">
 Pantha du Prince - Stick to my side (2010-03-08)
-</li>
-<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
-Lena - Satellite (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
 Nicolas Jaar - Love You Gotta Lose Again (2010-09)
@@ -317,6 +314,9 @@ Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/e734d1be-223c-421a-8481-c01aee4f7ea2/27727431963-500.jpg" data-tags="ambient" role="button">
+Tim Hecker - Virgins (2013-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/45bd3de7-8659-4538-9f06-bb6eec2d5ce9/8651592801-500.jpg" data-tags="ambient" role="button">
 Bing & Ruth - Tomorrow Was The Golden Age (2014-10-14)

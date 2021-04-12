@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:59:12.584Z
+date: 2021-04-12T05:32:01.402Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
-The Moody Blues - Days of Future Passed (1967-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
@@ -90,9 +87,6 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
-Television - Marquee Moon (1977-02-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/31881496-3666-3b76-bdda-b24db24178ae/23464146422-500.jpg" data-tags="post-punk" role="button">
 Iggy Pop - The Idiot (1977-03-18)
 </li>
@@ -113,6 +107,9 @@ Pink Floyd - The Wall (1979-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/734874d5-5ab2-33b6-b2f7-5151a86278a3/13395677289-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Never for Ever (1980-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
+The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecf82f9a-390a-30f6-8301-0679c0cfdc9a/27315801337-500.jpg" data-tags="progressive rock" role="button">
 King Crimson - Discipline (1981-09-22)
@@ -302,6 +299,9 @@ Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)
+</li>
+<li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
+St. Vincent - St. Vincent (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/29456596-9161-443d-8702-f8bd555b8ca8/24814615209-500.jpg" data-tags="alternative, progressive rock, fiction records" role="button">
 Elbow - The Take Off and Landing of Everything (2014-03-07)

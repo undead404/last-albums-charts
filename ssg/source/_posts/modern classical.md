@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:55:01.399Z
+date: 2021-04-12T05:13:06.997Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
 ![Clint Mansell - The Fountain (2006-11-21)](http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg "Clint Mansell - The Fountain (2006-11-21)")
@@ -7,9 +7,9 @@ title: "modern classical: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">Saltillo - Ganglion (2006-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">Eluvium - Copia (2007-02-20)</li>
+<li data-cover="http://coverartarchive.org/release/6e9b4957-33eb-44c5-8745-71c3a7c9594a/8465355303-500.jpg" data-tags="modern classical" role="button">EZ3kiel - Naphtaline (2007-04)</li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">Antony and the Johnsons - The Crying Light (2009-01-06)</li>
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">坂本龍一 - Playing The Piano (2009-09-23)</li>
-<li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">Floex - Zorya (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">of Montreal - Paralytic Stalks (2012-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">Black Elk - Sparks (2012-07-27)</li>
 <li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">Ben Lukas Boysen - Gravity (2013-06-17)</li>
@@ -51,9 +51,6 @@ Craig Armstrong - As If To Nothing (2002-04-16)
 <li data-cover="http://coverartarchive.org/release/d8435025-4b43-4da9-bd8d-ad37748e0acf/13114830432-500.jpg" data-tags="minimal" role="button">
 Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c16b9226-557d-40ef-b0cd-60584e970e20/1858594196-500.jpg" data-tags="ambient" role="button">
-William Basinski - Melancholia (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/4fb19aa0-aff2-48ce-85b0-b767f67fd985/11228342652-500.jpg" data-tags="ambient" role="button">
 Ulver - Svidd Neger (2003-09-15)
 </li>
@@ -68,6 +65,9 @@ Swod - Gehen (2004-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34454dd-65b5-4ae9-8fc0-db1e843dc936/25898561406-500.jpg" data-tags="avant-garde, experimental" role="button">
 Kaada/Patton - Romances (2004-11-30)
+</li>
+<li data-cover="https://img.discogs.com/t1nRmiD4zYBrl_mn5MJi1SWYFyk=/fit-in/570x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2857006-1304216761.jpeg.jpg" data-tags="ambient" role="button">
+Worrytrain - Worrytrain (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/515c3a3c-05ec-4a16-8e1c-ca1a9ef34e02/6155875688-500.jpg" data-tags="experimental, ambient, post-rock" role="button">
 World's End Girlfriend - The Lie Lay Land (2005-02-25)
@@ -116,6 +116,9 @@ Stars of the Lid - Stars of the Lid and Their Refinement of the Decline (2007-04
 </li>
 <li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
 Helen Jane Long - Porcelain (2007-06-04)
+</li>
+<li data-cover="https://img.discogs.com/FRrP4ikCzLGRABreXzxnSH62F-o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011884-1183969593.jpeg.jpg" data-tags="sphaerische sounds" role="button">
+Easily Embarrassed - Darkened Emotion EP (2007-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/55ef0003-7b0a-435e-a49c-5c09fa6d3fe0/21137853085-500.jpg" data-tags="ambient" role="button">
 Swod - Sekunden (2007-08-07)
@@ -201,6 +204,9 @@ Peter Broderick & Machinefabriek - Blank Grey Canvas Sky (2009-11-14)
 <li data-cover="https://img.discogs.com/AffOamM0gz7iZ0sywU7mJV5lfQQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3427586-1375123529-6908.jpeg.jpg" data-tags="instrumental, piano, new age, modern classical, fire and water" role="button">
 Helen Jane Long - Embers (2010)
 </li>
+<li data-cover="https://img.discogs.com/Q2IJU_ACOOC3tjPLToStYpO-zag=/fit-in/486x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3145559-1317867411.jpeg.jpg" data-tags="breakcore" role="button">
+Igorrr - Poisson Soluble / Moisissure (2010)
+</li>
 <li data-cover="https://img.discogs.com/ArFZZ3Ph2Ae1FrWRIOcGZeYFEiI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182655-1268480028.jpeg.jpg" data-tags="ambient" role="button">
 Akira Kosemura - Grassland (2010-02-13)
 </li>
@@ -252,9 +258,6 @@ Field Rotation - Regenzeit (2011-07)
 <li data-cover="http://coverartarchive.org/release/a1c60936-41ef-4354-892f-b3d21f0d479f/13421658089-500.jpg" data-tags="jazz, ambient, experimental, electro acoustic, modern classical, patriciancore" role="button">
 Fjordne - charles rendition (2011-07-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/884e1ff1-6068-4eb8-954a-bc7c41f67a50/916320146-500.jpg" data-tags="electronic" role="button">
-Floex - Zorya (2011-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/566e1e78-5b72-45cc-81df-b1db543b67cd/16162039894-500.jpg" data-tags="ambient" role="button">
 Tim Hecker - Dropped Pianos (2011-10-10)
 </li>
@@ -269,9 +272,6 @@ Saltillo - Monocyte (2012-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Motorpsycho and Ståle Storløkken - The Death Defying Unicorn (2012-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:32:07.021Z
+date: 2021-04-12T04:49:01.420Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Lena Horne - Mad About the Boy (1953)
-</li>
 <li data-cover="https://img.discogs.com/G-I_pYEKHwx_D_xj6UbJR5VLj-M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-885829-1169223198.jpeg.jpg" data-tags="jazz, jazz piano, piano, cool jazz, red garland" role="button">
 Red Garland - Red Garland's Piano (1957)
 </li>
@@ -32,6 +29,9 @@ Frank Sinatra - Where Are You? (1957)
 </li>
 <li data-cover="http://coverartarchive.org/release/31a43a78-47a5-40d5-838d-23b96acabfdc/27625500207-500.jpg" data-tags="easy listening" role="button">
 Dean Martin - This Is Dean Martin (1958)
+</li>
+<li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
+Henry Mancini - Breakfast At Tiffany's (1961)
 </li>
 <li data-cover="https://img.discogs.com/v87id1CYaQrZjZbqgRuaglDZzHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5468752-1394647187-4014.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
 The Hollies - Hollies (1965-10)
@@ -45,14 +45,14 @@ Scott McKenzie - San Francisco (1967-05-04)
 <li data-cover="http://coverartarchive.org/release/7a436130-f945-42b2-93d0-1a9b9e3d6797/4732084267-500.jpg" data-tags="70s, vocalistas masculinos" role="button">
 Neil Diamond - Sweet Caroline (1969)
 </li>
+<li data-cover="https://img.discogs.com/jfTf7NcUlSlM2bNXzo7fbYFoM64=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3030409-1615563522-7111.jpeg.jpg" data-tags="70s, pop" role="button">
+Carpenters - Close To You (1970-08-19)
+</li>
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59591d8-f3fd-4d64-94b2-c5e17e187d1c/17314503667-500.jpg" data-tags="70s, soft rock" role="button">
 Albert Hammond - It Never Rains in Southern California (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/f968420f-65f8-4d2d-8844-10cf5c3872fc/24984492510-500.jpg" data-tags="easy listening, burt bacharach" role="button">
-Burt Bacharach - The Best Of Burt Bacharach (1972)
 </li>
 <li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
@@ -68,6 +68,9 @@ Cortex - Troupeau Bleu (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, easy listening, misspent youth, my poprock" role="button">
 Aliotta Haynes Jeremiah - Lake Shore Drive (1976)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="easy listening, soft rock, soft-rock, stephen bishop" role="button">
+Stephen Bishop - On And On (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b3873f2-ef90-3647-829e-06ce7bf6aad5/3629436597-500.jpg" data-tags="70s" role="button">
 Bob Dylan - Street-Legal (1978-06-15)
@@ -90,14 +93,17 @@ Quincy Jones - The Dude (1981-03)
 <li data-cover="https://img.discogs.com/PP9gghwrI-GFsU_1X8Io4wCdzhE=/fit-in/600x932/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13353964-1552645543-3025.jpeg.jpg" data-tags="80s, easy listening, cd, easy list, lp24192, hd24192, lapoubelle, cds i know i love" role="button">
 Lionel Richie - Lionel Richie (1982-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/c9242cf6-f630-4389-b2ba-41702f91b247/1742336973-500.jpg" data-tags="pop, 70s, easy listening, carpenters" role="button">
+Carpenters - Yesterday Once More (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa4d9b84-11d2-4222-ba57-0c3819e69939/10799475070-500.jpg" data-tags="johnny mathis" role="button">
 Johnny Mathis - 16 Most Requested Songs (1986)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, easy listening, classic album, lite fm, cds i own and have yet to hear" role="button">
+Michael McDonald - Sweet Freedom (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/537468aa-cc90-3f4c-966f-99dc05eaee12/10408227425-500.jpg" data-tags="80s, pop" role="button">
 Rick Astley - Whenever You Need Somebody (1987-10-01)
-</li>
-<li data-cover="https://img.discogs.com/9xibX3gHb8X1rMcu-DVhhUNpkIk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4540606-1368134555-3371.jpeg.jpg" data-tags="garfunkel" role="button">
-Art Garfunkel - Garfunkel (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9e6605b-de1d-4bb7-9021-62beee06e09f/5355706918-500.jpg" data-tags="oldies, the beach boys, the beach boys - summer dreams" role="button">
 The Beach Boys - Summer Dreams (1990-06)
@@ -105,11 +111,11 @@ The Beach Boys - Summer Dreams (1990-06)
 <li data-cover="http://coverartarchive.org/release/636c337b-cf09-4f7c-a6ab-751427a1fbf0/9444109935-500.jpg" data-tags="60s, easy listening, oldies" role="button">
 Bobby Vinton - 16 Most Requested Songs (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dc1cb85-0dab-4993-8fee-93973079f2ae/4423135804-500.jpg" data-tags="frank sinatra" role="button">
-Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
-</li>
 <li data-cover="https://img.discogs.com/0NOMf8Yk7O_Djhb8UPJDdvuWEOc=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12255979-1531540052-2119.jpeg.jpg" data-tags="roxette, 90s, pop" role="button">
 Roxette - Joyride (1991-03-28)
+</li>
+<li data-cover="https://img.discogs.com/JEo27I4qzK8fP4zUMJyTLThMgP0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10499850-1498716632-5807.jpeg.jpg" data-tags="singer-songwriter, easy listening" role="button">
+José Feliciano - Light My Fire (1992)
 </li>
 <li data-cover="https://img.discogs.com/Ly4QGPiWjak8YqAmq0VWNDXlt9w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306411-1375095177-5467.jpeg.jpg" data-tags="easy listening" role="button">
 The Champs - Tequila (1992)
@@ -150,11 +156,11 @@ Sarah Brightman - Eden (1998)
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">
 The Mamas & the Papas - Greatest Hits (1998-03-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="balkan" role="button">
+Goran Bregović - Ederlezi (1998-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/320d54a6-e1cf-4c5c-8e01-1fbe3b54d5eb/5436739445-500.jpg" data-tags="michael franks, easy listening" role="button">
-Michael Franks - Barefoot on the Beach (1999-06-01)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="country, lee ann womack" role="button">
 Lee Ann Womack - I Hope You Dance (2000-05-23)
@@ -162,20 +168,17 @@ Lee Ann Womack - I Hope You Dance (2000-05-23)
 <li data-cover="http://coverartarchive.org/release/183c692b-0431-4997-8a60-0b8970fcab11/4450882465-500.jpg" data-tags="pop, acoustic, female vocalist" role="button">
 Michelle Branch - Broken Bracelet (2000-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c5a0ce8-8442-41f6-bf38-254368abbac2/6773807384-500.jpg" data-tags="pop, male vocalists, spiderman theme" role="button">
-Michael Bublé - BaBalu (2001)
+<li data-cover="http://coverartarchive.org/release/cb385717-9392-414f-b271-534663cad5b1/5258564363-500.jpg" data-tags="trip-hop, electronic, downtempo" role="button">
+Morcheeba - Fragments of Freedom (2000-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
-Gabin - Gabin (2002-11-05)
-</li>
 <li data-cover="https://img.discogs.com/WqT27dz-kipbZacO7LlkWddG5H4=/fit-in/600x848/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299160-1275309830.jpeg.jpg" data-tags="pop, easy listening, britpop, lighthouse family" role="button">
 Lighthouse Family - Greatest Hits (2002-11-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, jazz vocal, easy listening, mel torme, golden oldies, ballades, mellow songs, vocalistas masculinos, swing era, gl4m, mel torme sings love, mel torme sings great love songs" role="button">
-Mel Tormé - The Ultimate Mel Torme (2003)
+<li data-cover="http://coverartarchive.org/release/e02c6bee-5999-3aae-b91d-c4a514653e05/25917116060-500.jpg" data-tags="easy listening" role="button">
+Barbra Streisand - Duets (2002-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad9b13c-387b-4ec8-a974-c391b3fff935/3847437318-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Michael Bublé (2003-02-11)
@@ -189,14 +192,14 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="https://img.discogs.com/rN6G7sSyAfSsmDfas8_zsOY9YpY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3490519-1420332756-6145.jpeg.jpg" data-tags="vocal jazz, traditional pop music" role="button">
 Frank Sinatra - That's Life (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/7565f1b4-897b-4f24-a957-55ff8510b842/9711827786-500.jpg" data-tags="jazz, swing, oldies, male vocalists" role="button">
-Dean Martin - Dino: The Essential Dean Martin (2004-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/7557a5ea-6006-3e9e-90da-e8e048fdd240/14334018618-500.jpg" data-tags="jazz, singer-songwriter" role="button">
-Peter Cincotti - On The Moon (2004-09-12)
+<li data-cover="https://img.discogs.com/JLZ8kTU1hQhlwYxyRsJxNzWYO5c=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228009-1143075971.jpeg.jpg" data-tags="chillout, japanese, downtempo, easy listening, acid jazz, lounge, jazz fusion, jpop, asian, j-pop, jazz pop, 2 s34rch, asian music, retroschool, asian pop, jazztronik, samurai music, amazing japanese lounge music, colorful album covers, rainbow album covers" role="button">
+Jazztronik - 七色 (2004-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a2f1076-28dd-4122-b7fb-012505129df0/9487402991-500.jpg" data-tags="smooth jazz" role="button">
 Chris Botti - When I Fall In Love (2004-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9112065-0580-478f-a33e-40f737314438/15616389584-500.jpg" data-tags="70s, easy listening, funk" role="button">
+Kool & The Gang - Gold (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
@@ -204,8 +207,8 @@ Michael Bublé - It's Time (2005-02-08)
 <li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
 Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
-Anna Nalick - Wreck of the Day (2005-04-19)
+<li data-cover="https://img.discogs.com/knjaSnNxQ0KcisBhjyaU6_7421A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089778-1191250136.jpeg.jpg" data-tags="classic rock, folk, csn" role="button">
+Crosby, Stills & Nash - Greatest Hits (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/38b2dbf5-2a47-468c-a07b-79578423e5d0/14712475865-500.jpg" data-tags="60s, surf, easy listening, soft rock, oldies, library, the beach boys, lossless, t b boys, br5albums, br5next" role="button">
 The Beach Boys - The Platinum Collection (2005-05-30)
@@ -215,12 +218,6 @@ Barefoot Truth - Changes in the Weather (2005-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
-</li>
-<li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
-Jim Noir - Tower Of Love (2005-12-05)
-</li>
-<li data-cover="https://img.discogs.com/6nuwcGMaAmQDKLnqV-m5Vi0QVpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748314-1452143673-5932.jpeg.jpg" data-tags="indie, experimental, indie rock" role="button">
-Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3131bf6e-2f1b-45ae-965a-e8aa686cd82a/14833615862-500.jpg" data-tags="downtempo, easy listening, trip hop, folk-jazz, loved track, listen on repeat, live with me, muzica mea" role="button">
 Massive Attack - Live With Me (2006-02)
@@ -249,8 +246,8 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, easy listening, soft rock, keller like" role="button">
 Barefoot Truth - Walk Softly (2007-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, richard, bananas, bats, miscellaneous, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
-Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
+<li data-cover="http://coverartarchive.org/release/b7bfc318-2b99-40f0-9052-58fc57c2417e/10298830949-500.jpg" data-tags="dub" role="button">
+Ott - Skylon (2008-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb6113e8-a324-455c-b428-f5ed5bb5544a/13180765072-500.jpg" data-tags="never forget" role="button">
 The Morning Benders - Talking Through Tin Cans (2008-05-06)
@@ -258,8 +255,17 @@ The Morning Benders - Talking Through Tin Cans (2008-05-06)
 <li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
 Jem - Down to Earth (2008-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/82cbe67a-c4db-4f5b-834a-9224e2ced208/9461785430-500.jpg" data-tags="pop, female vocalists, rock, 90s, 00s" role="button">
+Annie Lennox - The Annie Lennox Collection (2009-02-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Quiet Nights (2009-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfe8ba20-6a93-494f-a115-f1d4f950c56f/10161907343-500.jpg" data-tags="usa, easy listening, male vocalist, 00s, purchased 09, grammy nominated, jazzy standard" role="button">
+Willie Nelson - American Classic (2009-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1bd5b2f-5194-4699-829d-f85233dce530/10144258124-500.jpg" data-tags="country" role="button">
+Tim McGraw - Southern Voice (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - The Pursuit (2009-11-13)
@@ -300,14 +306,8 @@ Saves the Day - Daybreak (2011-09-13)
 <li data-cover="https://img.discogs.com/m52RBwS0XWmnCin9GwowZHB92_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268808-1419614882-8378.jpeg.jpg" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc4d5817-e999-4717-86a4-28f8123bc7f8/5223594038-500.jpg" data-tags="easy listening, vocal jazz, romantic, swing, big band, smooth jazz, robbie williams" role="button">
-Robbie Williams - Beyond The Sea (2012-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
-Train - California 37 (2012-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)

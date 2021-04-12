@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:57:01.398Z
+date: 2021-04-12T05:15:01.638Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -246,9 +246,6 @@ Tyler, the Creator - Bastard (2009-12-25)
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/37ec8148-b90d-4c07-8a5f-590f321eb5cf/1941023802-500.jpg" data-tags="rap" role="button">
-Nicki Minaj - Your Love (2010-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
@@ -275,6 +272,9 @@ Criolo - Nó Na Orelha (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ccaec8c-0546-47b0-9a45-42a7deeb938d/2010499283-500.jpg" data-tags="hip-hop, rap, dj khaled" role="button">
+DJ Khaled - We the Best Forever (2011-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)

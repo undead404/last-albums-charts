@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:27:01.449Z
+date: 2021-04-12T04:47:01.455Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")

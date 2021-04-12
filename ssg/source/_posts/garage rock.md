@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:50:01.412Z
+date: 2021-04-12T04:58:01.397Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -27,14 +27,8 @@ The Sonics - Here Are The Sonics (1965)
 <li data-cover="http://coverartarchive.org/release/7663b84e-2337-4f60-9842-10f6a9daed5d/11261431522-500.jpg" data-tags="garage rock, proto-punk, 60s" role="button">
 The Monks - Black Monk Time (1966)
 </li>
-<li data-cover="http://coverartarchive.org/release/22862a47-2b63-4364-a00d-d38aa7cef4cd/4087870823-500.jpg" data-tags="garage rock, psychedelic" role="button">
-The Seeds - The Seeds (1966)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
 The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
-</li>
-<li data-cover="http://coverartarchive.org/release/22f5e15f-7214-4caf-a6ce-9f6e0188a817/17000877457-500.jpg" data-tags="garage rock" role="button">
-MC5 - Kick Out the Jams (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
@@ -59,9 +53,6 @@ The White Stripes - De Stijl (2000-06-20)
 </li>
 <li data-cover="https://img.discogs.com/I-WkdQhrdDjn9-BYnI4DRAdikb4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7259702-1437399236-9651.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Hellacopters - High Visibility (2000-10-16)
-</li>
-<li data-cover="https://img.discogs.com/GNgMr2uHMxTDQux5Re9_Pb-Ondg=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726425-1585268077-6312.jpeg.jpg" data-tags="garage rock" role="button">
-The Greenhornes - The Greenhornes (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
@@ -92,9 +83,6 @@ The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
 The Libertines - Up the Bracket (2002-09-30)
-</li>
-<li data-cover="https://img.discogs.com/0oz0hjq6Q-47wkzx1-f65kOs6f0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103346-1495552406-6044.jpeg.jpg" data-tags="garage rock" role="button">
-The Greenhornes - Dual Mono (2002-10-15)
 </li>
 <li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="garage rock, rock, alternative" role="button">
 The Kills - Keep On Your Mean Side (2003-03-10)
@@ -156,14 +144,14 @@ The Kills - No Wow (2005-02-21)
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
+<li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
+The White Stripes - Blue Orchid (2005-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3/16830848668-500.jpg" data-tags="indie rock, indie" role="button">
 The Subways - Young for Eternity (2005-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
-Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
 The Strokes - First Impressions of Earth (2005-12-30)
@@ -189,6 +177,9 @@ Foxboro Hot Tubs - Stop Drop and Roll!!! (2007)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/39ff3267-382e-45b8-bb75-e1e8588403c8/16256223840-500.jpg" data-tags="blues rock" role="button">
+Radio Moscow - Radio Moscow (2007-02-27)
+</li>
 <li data-cover="https://img.discogs.com/m5jmkIZjnXJT3UiUlppFR-MLl1w=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1507483-1224860210.jpeg.jpg" data-tags="pop punk, alternative rock, emo" role="button">
 The Academy Is... - Santi (2007-04-03)
 </li>
@@ -212,6 +203,9 @@ The Kills - Midnight Boom (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/700d7cf4-30ca-48fe-b2eb-44b9e35b19af/21909325010-500.jpg" data-tags="indie, indie rock, alternative" role="button">
 Blood Red Shoes - Box of Secrets (2008-03-12)
+</li>
+<li data-cover="https://img.discogs.com/iX1XGtz2GYbH04uAhyKAVSEQumc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1024246-1393710189-7141.jpeg.jpg" data-tags="rock, hard rock, garage rock" role="button">
+The Hellacopters - Head Off (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f769c69-d0c7-3a69-a85a-774adfb29271/5652970285-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Attack & Release (2008-03-31)
@@ -270,6 +264,9 @@ Miles Kane - Colour Of The Trap (2011-05-02)
 <li data-cover="http://coverartarchive.org/release/7c575baf-f8dc-4914-8862-00bee1d9b69a/4525848346-500.jpg" data-tags="garage rock" role="button">
 Black Lips - Arabia Mountain (2011-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/5aa8a9ec-ae7e-4371-886e-e8136e0037f9/5002964818-500.jpg" data-tags="garage rock" role="button">
+Hanni El Khatib - Will The Guns Come Out (2011-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c78e227-cedb-430f-b737-f1ea6bce6fa2/16131070980-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - El Camino (2011-12-01)
 </li>
@@ -302,6 +299,9 @@ Fuzz - Fuzz (2013-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/f7d405e0-9fb9-4fd4-85f8-f5259ccc37df/8102247250-500.jpg" data-tags="garage rock, garage punk" role="button">
+together PANGEA - Badillac (2014-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:35:01.475Z
+date: 2021-04-12T05:34:01.410Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -13,7 +13,7 @@ title: "power pop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">Weezer - Make Believe (2005-05-09)</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">Snow Patrol - A Hundred Million Suns (2008-10-24)</li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">Paramore - Paramore (2013-04-05)</li>
+<li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">The All-American Rejects - When the World Comes Down (2008-12-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -38,6 +38,9 @@ The Knack - Get The Knack (1979-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6b48cb1-c58c-4b74-a933-41911744007c/23507902504-500.jpg" data-tags="power pop, 90s" role="button">
 Teenage Fanclub - Bandwagonesque (1991-10)
+</li>
+<li data-cover="https://img.discogs.com/1VmHcJVIWaoPVUZkepMNfn9nThc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-713533-1491135019-6306.jpeg.jpg" data-tags="alternative rock, power pop" role="button">
+Chris Bell - I Am the Cosmos (1992-02-21)
 </li>
 <li data-cover="https://img.discogs.com/edEkmxEd1Y87BZrFtSRgCJZaxRY=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1699663-1556520882-6418.jpeg.jpg" data-tags="power pop, indie, 90s" role="button">
 Teenage Fanclub - Thirteen (1993-10-04)
@@ -65,9 +68,6 @@ Fastball - All the Pain Money Can Buy (1998-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">
 Hole - Celebrity Skin (1998-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
-Fountains of Wayne - Utopia Parkway (1999-04-06)
 </li>
 <li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
@@ -137,6 +137,9 @@ Motion City Soundtrack - Commit This to Memory (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/678f21de-38cf-4b16-b069-679aa94a9914/10961144984-500.jpg" data-tags="rock, alternative rock" role="button">
 Sugar Ray - The Best Of Sugar Ray (2005-06-20)
+</li>
+<li data-cover="https://img.discogs.com/Xw_HMsIEfJcK20RO01OQahC8XeI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797831-1530458980-6378.jpeg.jpg" data-tags="indie" role="button">
+Athlete - Tourist (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
@@ -209,6 +212,9 @@ Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
 <li data-cover="https://img.discogs.com/xoCrB0QbRxTmubVKTSGbVMwBzbs=/fit-in/404x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1843084-1259331781.jpeg.jpg" data-tags="pop" role="button">
 Girls Aloud - Out of Control (2008-10-31)
+</li>
+<li data-cover="https://img.discogs.com/HIq4SkjmDf0OK-qMkI3DXlEgj-Y=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1874211-1333131839.jpeg.jpg" data-tags="power pop, punk rock, protopunk" role="button">
+The Nerves - One Way Ticket (2008-11-25)
 </li>
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
@@ -296,12 +302,6 @@ Green Day - ¡Uno! (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb192330-0a98-4585-9348-0e7680854263/1933747494-500.jpg" data-tags="indie" role="button">
 Matt & Kim - Lightning (2012-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, collection" role="button">
-Girls Aloud - Ten (2012-11-23)
-</li>
-<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
-Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)

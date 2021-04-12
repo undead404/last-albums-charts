@@ -1,17 +1,17 @@
 ---
-date: 2021-04-11T11:38:01.695Z
+date: 2021-04-12T05:33:01.408Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
+<li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">Grandaddy - Under The Western Freeway (1997-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)</li>
+<li data-cover="http://coverartarchive.org/release/bba2f329-e4c3-3410-bffd-5172f2aae8f8/23645786082-500.jpg" data-tags="indie" role="button">The Coral - The Coral (2002-07-29)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
+<li data-cover="http://coverartarchive.org/release/b8083060-20fe-4397-88d3-36368a24cf2b/16059733872-500.jpg" data-tags="indie, acoustic" role="button">Get Cape. Wear Cape. Fly - The Chronicles Of A Bohemian Teenager (2006-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">Miles Kane - Colour Of The Trap (2011-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
-<li data-cover="http://coverartarchive.org/release/7d48bbf8-6ce7-4fe8-be42-c5dc8ddfa5ae/6441498616-500.jpg" data-tags="schoolboy q" role="button">ScHoolboy Q - Habits & Contradictions (2012-01-14)</li>
-<li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">Breakbot - By Your Side (2012-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">Jake Bugg - Jake Bugg (2012-10-15)</li>
 </ol>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/PIWNqwd6-_JXDXC74eV_O4_rdCw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2124034-1591748913-9451.jpeg.jpg" data-tags="rock, usa, garage rock, garage, debut album, one and only album, modtoday" role="button">
+The Barbarians - Are You A Boy Or Are You A Girl (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/dac32141-814d-3f11-817b-5ca3be10fe4f/22681733219-500.jpg" data-tags="folk rock, psychedelic rock" role="button">
 Jefferson Airplane - Jefferson Airplane Takes Off (1966-08-15)
 </li>
@@ -32,6 +35,15 @@ Steppenwolf - Steppenwolf (1968-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
+</li>
+<li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
+Neil Young - Neil Young (1968-11-12)
+</li>
+<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
+John Cale - Vintage Violence (1970)
+</li>
+<li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
+Stephen Stills - Stephen Stills (1970-11)
 </li>
 <li data-cover="https://img.discogs.com/NmsVUmq9vFd1TzISWaEutHROlws=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9909654-1603646763-2297.jpeg.jpg" data-tags="soul" role="button">
 Bill Withers - Just As I Am (1971-05)
@@ -45,29 +57,35 @@ Gram Parsons - GP (1973-01)
 <li data-cover="http://coverartarchive.org/release/ba7e873e-eb0c-4241-93a0-adda93769287/16221998364-500.jpg" data-tags="pub rock" role="button">
 Dr. Feelgood - Down By The Jetty (1975)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-Talking Heads - Talking Heads: 77 (1977-09-16)
-</li>
 <li data-cover="https://img.discogs.com/a3UQ9-x0vzWAZWsyFhLLKqbr8vI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533376-1334183708.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Buzzcocks - Another Music In A Different Kitchen (1978-03-10)
 </li>
 <li data-cover="https://img.discogs.com/adQO3tosrLHZ8KcQN24NXeL2na0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814611-1599857426-7150.jpeg.jpg" data-tags="post-punk, 70s, new wave" role="button">
 The Boys Next Door - Door, Door (1979-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3d6480b-e431-40e7-84c7-160923940b60/12764953075-500.jpg" data-tags="punk rock, punk" role="button">
+The Undertones - The Undertones (1979-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
 </li>
+<li data-cover="http://coverartarchive.org/release/26607860-6946-43c2-821d-c96a564ec9b8/5502705959-500.jpg" data-tags="new wave" role="button">
+Indochine - L'Aventurier (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/9353890a-a687-4882-88a5-12fdfdbe4419/12297527115-500.jpg" data-tags="pop, 80s" role="button">
 Wham! - Fantastic (1983-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
-Cazuza - Exagerado (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/f52d8553-ab15-48bd-8bf8-43e29ac99c8b/12459062200-500.jpg" data-tags="80s" role="button">
 Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 </li>
 <li data-cover="https://img.discogs.com/w8npsPv1K_YmGXAJNwgoPpDeM7Y=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404791-1586645228-1108.jpeg.jpg" data-tags="80s" role="button">
 Arcadia - So Red The Rose (1985-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c288eaca-02b8-4133-b857-439cc3773d4f/1553979620-500.jpg" data-tags="80s, debut album" role="button">
+Robbie Nevil - Robbie Nevil (1986)
+</li>
+<li data-cover="https://img.discogs.com/Hdo4I1552RvrKyldb_g_U2GKo7c=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-237974-1157481869.jpeg.jpg" data-tags="sophisti-pop, pop" role="button">
+Living in a Box - Living In A Box (1987)
 </li>
 <li data-cover="https://img.discogs.com/FyWbP7l4mBZD2nRO8wThr9qRoF0=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-967206-1344016381-4490.jpeg.jpg" data-tags="80s" role="button">
 Terence Trent D'Arby - Introducing The Hardline According To Terence Trent D'Arby (1987-07-09)
@@ -77,9 +95,6 @@ Bo Diddley - Bo Diddley (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/91f744a9-83ff-4136-a570-956284fe0453/26961386827-500.jpg" data-tags="britpop" role="button">
-The Charlatans - Some Friendly (1990-09-25)
 </li>
 <li data-cover="https://img.discogs.com/GQLcU8u1ZNMwfInUdtY2_Uz6nQ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3688303-1471467370-3560.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - Generation Terrorists (1992-02-10)
@@ -102,9 +117,6 @@ Cast - All Change (1995-10-16)
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="https://img.discogs.com/bKLM6SMqyE12lJfmxCJ-tmr17SM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-758061-1400515232-9967.jpeg.jpg" data-tags="britpop" role="button">
 Kula Shaker - K (1996-09-11)
 </li>
@@ -117,17 +129,17 @@ Travis - Good Feeling (1997-09-08)
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d6cf7e2-5ed6-4514-bc51-f29e9d8a6617/13572926311-500.jpg" data-tags="alternative" role="button">
-Ian Brown - Unfinished Monkey Business (1998-01-14)
+<li data-cover="https://img.discogs.com/vQYmd_U56YE1Jw7xkR7ox8Ijbt0=/fit-in/380x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860086-1194080970.jpeg.jpg" data-tags="90s" role="button">
+Bernard Butler - People Move On (1998-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7d03874-bb32-436a-be72-1e8dbf467ff3/2407106828-500.jpg" data-tags="indie" role="button">
 Gomez - Bring It On (1998-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/2559dc9e-0243-48c6-9c7c-c1d7ac1fd357/9294935709-500.jpg" data-tags="classic, indie pop, indie rock, folk rock, debut album, the dc - 90s, 1998 albums" role="button">
+Pernice Brothers - Overcome By Happiness (1998-05-19)
+</li>
 <li data-cover="https://img.discogs.com/wCe-9BW4YHDxpkpHGgBCr1TOtwU=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810448-1200057793.jpeg.jpg" data-tags="indie, folk" role="button">
 My Morning Jacket - The Tennessee Fire (1999-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac22031b-15c1-4323-a3f2-f6cfe61b9b9c/13116115117-500.jpg" data-tags="acoustic, john mayer" role="button">
-John Mayer - Inside Wants Out (1999-09-24)
 </li>
 <li data-cover="https://img.discogs.com/aXOvlvSwksc_Va7qe_P5NtxadW4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493126-1223829030.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Programmed to Love (2000)
@@ -141,17 +153,14 @@ Soledad Brothers - Soledad Brothers (2000-07-18)
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Motörhead (2000-10-02)
 </li>
-<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
-I Am Kloot - Natural History (2001-03-26)
+<li data-cover="http://coverartarchive.org/release/8cf50303-748f-4a80-8e1a-5c5f86a824da/18775066668-500.jpg" data-tags="heavy metal, rock, finnish, debut album, suomirock, melancholic metal, rautalanka, suomi metal, before they started to suck" role="button">
+Viikate - Noutajan Valssi (2000-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6298a1f-c1c0-4984-acb5-fad7c760d5ed/17401757531-500.jpg" data-tags="folk, indie" role="button">
 Okkervil River - Don't Fall in Love With Everyone You See (2002-01-22)
-</li>
-<li data-cover="https://img.discogs.com/A0VVIyKLQd_5FEOag2sZe82URmA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396805-1571162764-2400.jpeg.jpg" data-tags="rock, punk, punk rock" role="button">
-Joey Ramone - Don't Worry About Me (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0c98027-33c9-4d58-a0e1-6d3bb2c9884c/27466161035-500.jpg" data-tags="rock" role="button">
 Mustasch - Above All (2002-03)
@@ -174,17 +183,11 @@ The Music - The Music (2002-08-19)
 <li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="garage rock, rock, alternative" role="button">
 The Kills - Keep On Your Mean Side (2003-03-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
-Martina Topley-Bird - Quixotic (2003-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/01087dd6-0289-4616-bd8b-4be17cf76526/3374955413-500.jpg" data-tags="noise, noise pop, garage rock, 00s" role="button">
 The Raveonettes - Chain Gang of Love (2003-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/655ad7d5-f469-46f5-a818-c544ec2c5728/26402077613-500.jpg" data-tags="indie rock, indie folk, los angeles" role="button">
-The Elected - Me First (2004-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
-Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
+<li data-cover="https://img.discogs.com/T3ueTpSNMd39c8_fCTjVrUGdSBU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084187-1509053524-5724.jpeg.jpg" data-tags="american idol" role="button">
+Clay Aiken - Measure of a Man (2003-10-14)
 </li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
@@ -192,17 +195,17 @@ Razorlight - Up All Night (2004-06-28)
 <li data-cover="https://img.discogs.com/vAJQ3h62AUWHSg4o0gy7x6Twxms=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089457-1360501153-7073.jpeg.jpg" data-tags="soul, alternative, folk, singer-songwriter" role="button">
 Angela McCluskey - The Things We Do (2004-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/689610ed-63d4-436c-ba17-f69b00ca9cce/2220070094-500.jpg" data-tags="french, garage, debut album" role="button">
+Fabienne DelSol - No Time For Sorrows (2004-10-25)
+</li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5e76ae6-1a5a-3eb9-8e0a-3e7588e16496/4812030096-500.jpg" data-tags="dub, ska, indie rock" role="button">
 The Dead 60s - The Dead 60s (2005-05-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/abd92415-25d2-3975-92cf-5714042083ad/25159035142-500.jpg" data-tags="stoner rock, hard rock" role="button">
-Priestess - Hello Master (2005-10-18)
-</li>
-<li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
-Jim Noir - Tower Of Love (2005-12-05)
+<li data-cover="http://coverartarchive.org/release/484e638c-eb31-44b3-bb72-e1c92312f92c/3356977378-500.jpg" data-tags="deutscher pop-rock" role="button">
+Hund am Strand - Adieu Sweet Bahnhof (2005-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8083060-20fe-4397-88d3-36368a24cf2b/16059733872-500.jpg" data-tags="indie, acoustic" role="button">
 Get Cape. Wear Cape. Fly - The Chronicles Of A Bohemian Teenager (2006-09-18)
@@ -227,6 +230,9 @@ Radio Moscow - Radio Moscow (2007-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2f48572-80b9-4d54-b675-6fa07cee6266/20687828354-500.jpg" data-tags="alternative rock, indie rock" role="button">
 Harrisons - No Fighting in the War Room (2007-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/2295f4dc-9550-4f81-a43c-62337fad9fbd/15358695273-500.jpg" data-tags="indie, folk, canadian, mellow, female vocals, debut album, jaarlijstje 2007" role="button">
+Lightning Dust - Lightning Dust (2007-06-19)
 </li>
 <li data-cover="https://img.discogs.com/7HBTJrjZq-D-FkrAbBiOA9uwjPo=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-979324-1180203092.jpeg.jpg" data-tags="pop, british" role="button">
 Mutya Buena - Real Girl (2007-06-22)
@@ -270,9 +276,6 @@ Moon Duo - Escape (2010-02-16)
 <li data-cover="http://coverartarchive.org/release/ef4cf47b-6460-40dd-ad2b-5854aadd0f77/1614151671-500.jpg" data-tags="folk" role="button">
 Andrew Belle - The Ladder (2010-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
-B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Philip Selway - Familial (2010-08-25)
 </li>
@@ -288,6 +291,9 @@ Miles Kane - Colour Of The Trap (2011-05-02)
 <li data-cover="http://coverartarchive.org/release/e1a2192a-6708-495e-8a19-c4ba13a4fd89/20369918463-500.jpg" data-tags="reggae, dub" role="button">
 Hollie Cook - Hollie Cook (2011-06-06)
 </li>
+<li data-cover="https://img.discogs.com/WXX2I_MhqPlmmx9Q1dycpekQuJo=/fit-in/471x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2982964-1310331799.jpeg.jpg" data-tags="psychedelic" role="button">
+Night Beats - Night Beats (2011-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
 </li>
@@ -297,9 +303,6 @@ Jay Rock - Follow Me Home (2011-07-26)
 <li data-cover="http://coverartarchive.org/release/7d863bed-1a1b-4a49-bf1b-379c5b766693/10587938395-500.jpg" data-tags="soul" role="button">
 Eddie Floyd - Knock On Wood (2012)
 </li>
-<li data-cover="http://coverartarchive.org/release/7d48bbf8-6ce7-4fe8-be42-c5dc8ddfa5ae/6441498616-500.jpg" data-tags="schoolboy q" role="button">
-ScHoolboy Q - Habits & Contradictions (2012-01-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/810e2910-9f8b-4a33-9517-8ff6abc7b606/6320881987-500.jpg" data-tags="soul" role="button">
 Maverick Sabre - Lonely Are The Brave (2012-02-06)
 </li>
@@ -308,9 +311,6 @@ Nick Waterhouse - Time's All Gone (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d13f150e-6669-4dbb-8645-b3d69b2314ab/3827163979-500.jpg" data-tags="soul" role="button">
 Cold Specks - I Predict a Graceful Expulsion (2012-05-18)
-</li>
-<li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
-Breakbot - By Your Side (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)

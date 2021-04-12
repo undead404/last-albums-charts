@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:15:12.688Z
+date: 2021-04-12T05:08:01.406Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -294,9 +294,6 @@ Leonard Cohen - Old Ideas (2012-01-27)
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
 </li>
-<li data-cover="https://img.discogs.com/Xkj6xV-YrCXAGQBo4KwVjGDVYAU=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437109-1330368440.jpeg.jpg" data-tags="indie, alternative, melancholy, male vocalists, lp, ghostly international, tigerspring, kanal 98" role="button">
-Choir of Young Believers - Rhine Gold (2012-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d602e64a-c6d2-4134-8163-7cf5f8be4cb2/9181644643-500.jpg" data-tags="pop, melancholy, soul and rnb, ma herre" role="button">
 Max Herre - Hallo Welt! (2012-08-24)
 </li>
@@ -314,6 +311,9 @@ Iron & Wine - Ghost On Ghost (2013-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5aa8083-768e-495b-b7ce-0918cc9ff5d3/5445573385-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Obsidian (2013-05-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="melancholy, hairy chest, hunks, nice fur, heavy pelt" role="button">
+Josh Record - The War (2013-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

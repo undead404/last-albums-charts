@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:11:01.452Z
+date: 2021-04-12T04:46:06.939Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -38,6 +38,9 @@ The Strokes - Is This It (2001-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/705e6e79-43f4-4b65-9dba-f78e955fb25b/7575110574-500.jpg" data-tags="indie" role="button">
+Death Cab for Cutie - The Photo Album (2001-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
@@ -254,9 +257,6 @@ Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c9d3437-baca-4b25-bf39-ea906977bb2a/15787070039-500.jpg" data-tags="indie rock, indie" role="button">
-Bombay Bicycle Club - I Had the Blues But I Shook Them Loose (2009-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2342ef67-07f8-4fc7-b7c5-a15d20bccac1/5908075333-500.jpg" data-tags="indie rock" role="button">
 The Temper Trap - Conditions (2009-06-19)

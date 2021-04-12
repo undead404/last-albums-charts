@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:15:07.095Z
+date: 2021-04-12T04:52:01.410Z
 title: "folktronica: 100 albums you must listen to before you die"
 ---
 ![alt-J - An Awesome Wave (2012-05-28)](http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg "alt-J - An Awesome Wave (2012-05-28)")
@@ -29,9 +29,6 @@ Grzegorz z Ciechowa - ojDADAna (1996-10)
 </li>
 <li data-cover="https://img.discogs.com/IJ8NbDnNqMyVbYZy8thqXo_ID4U=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-248182-1270896492.jpeg.jpg" data-tags="contemporary folk, folktronica, 90's, mycds, sinnet, folkemusik, cds i own and have yet to hear" role="button">
 Sorten Muld - Mark II (1997-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd9b2fd9-d67a-4c3b-a405-89252fbe16d9/21496136995-500.jpg" data-tags="ethereal" role="button">
-KOKIA - songbird (1999-07-16)
 </li>
 <li data-cover="https://img.discogs.com/igAaIV28CJwbp808Bhyh-Zl3E_Y=/fit-in/300x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397000-1107909155.jpg.jpg" data-tags="folktronica, folktronic" role="button">
 Momus - Folktronic (2000)
@@ -123,17 +120,14 @@ Detektivbyrån - Hemvägen EP (2006-08-29)
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/36280c20-3d0d-489a-8953-93c18c78aa56/28268391632-500.jpg" data-tags="soundtrack, female fronted metal, metal, chillout, classical, vocal, classic, folk, ambient, post-rock, easy listening, choral, world, ambient pop, gothic, new age, dreamy, orchestral, atmospheric, dream pop, diva, mellow, evanescence, composer, synthpop, ethereal, folktronica, gothic metal, darkwave, soft pop, world fusion, disney, healing, fantasy, enya, heavenly voices, neoclassical, lana del rey, avant-pop, nightwish, magical, score, celtic pop, dreamwave, soprano, classical crossover, loreena mckennitt, kanon, within temptation, atmospheric pop, celine dion, vocal pop, gothic pop, musique classique, amazing vocals, popera, japanese folk, talent, eclectic dreaming, great vocals, loreena, medieval pop, tarja turunen, tarja, neoclassical darkwave, japanese new age, fantasy music, kokia, hino, indie classical, dark classical, prikosnovenie, better light a candle, j-classical, this is what dreams are made of, female fronted gothic metal, asian folk, world folk, pop opera, japanese female vocal, j-folk, divas international, world classical, akiko shikata, musica leggera, j-darkwave, japanese darkwave, j-gothic, mondovision, neoclassical pop, dream classical, disney pop, disney princess, japanese chillout" role="button">
-Cécile Corbel - songbook.1 (2006-10-02)
-</li>
-<li data-cover="https://img.discogs.com/wQ8bK-rB-FZPV5xCbRjd_CZFdEI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15084000-1586475346-8783.jpeg.jpg" data-tags="soundtrack, chillout, classical, vocal, classic, ambient, post-rock, choral, world, ambient pop, gothic, new age, dreamy, orchestral, atmospheric, dream pop, diva, mellow, composer, synthpop, ethereal, folktronica, darkwave, soft pop, world fusion, healing, fantasy, enya, heavenly voices, neoclassical, avant-pop, score, celtic pop, dreamwave, soprano, classical crossover, loreena mckennitt, kanon, atmospheric pop, celine dion, vocal pop, gothic pop, musique classique, amazing vocals, popera, eclectic dreaming, great vocals, loreena, medieval pop, tarja turunen, tarja, neoclassical darkwave, japanese new age, fantasy music, hino, indie classical, dark classical, j-classical, this is what dreams are made of, pop opera, divas international, world classical, akiko shikata, musica leggera, j-darkwave, japanese darkwave, j-gothic, mondovision, neoclassical pop, dream classical, japanese chillout, classical divas, j-ethereal, j-chillout, 2016 releases" role="button">
-カノン - Brand New Breeze (2006-11-22)
-</li>
 <li data-cover="https://img.discogs.com/aafFur7atbB1w3S8p00yHBeZVNM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1270892-1205286522.jpeg.jpg" data-tags="folktronica" role="button">
 The Banjo Consorsium - A Turning One (2007)
 </li>
 <li data-cover="https://img.discogs.com/JhI1_Br9838uI7jb83l_8Cjc4ww=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9186602-1476294987-7319.jpeg.jpg" data-tags="galician, galicia, galiza" role="button">
 Fanny + Alexander - Finais dos 70s, comezos dos 80s (2007)
+</li>
+<li data-cover="https://img.discogs.com/lHn9Zk22Qi5qSa3LPV9cuHdJ3hA=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410068-1217285205.jpeg.jpg" data-tags="electronic, electronica, folktronica, nordic folk" role="button">
+Monsdrum - Folktronic (2007)
 </li>
 <li data-cover="https://img.discogs.com/3XxULGhd2gJ7IxY5izfy-bESx0Q=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8912432-1471338399-4789.mpo.jpg" data-tags="british, alternative, eclectic, gilbert linley, pop" role="button">
 Gilbert - Gilbert (2007)
@@ -177,11 +171,8 @@ Nicolas Bernier & Simon Trottier - Objet Abandonné en Mer (2007-09-04)
 <li data-cover="https://img.discogs.com/MdUS463xtQ4Q6YNgB92tN0WWtrk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1107914-1319506688.jpeg.jpg" data-tags="folktronica" role="button">
 Part Timer - Blue (2007-09-17)
 </li>
-<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
-Narsilion - Namárië (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, richard, bananas, bats, miscellaneous, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
-Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
+<li data-cover="https://img.discogs.com/jGdAOMb89kBYfpjqT3DbRFFYS2k=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1149207-1196103421.jpeg.jpg" data-tags="creative commons, 23 seconds, swedish, post-rock" role="button">
+He is watching over us - In defence of disgusting animals (2007-11-08)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -218,6 +209,12 @@ Benoît Pioulard - Temper (2008-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/32e03f30-ec0a-45da-8406-b4188d652dd9/7454798872-500.jpg" data-tags="folktronica, alben" role="button">
 Wixel - Somewhere Between The Sun and The Moon (2008-11-30)
+</li>
+<li data-cover="https://img.discogs.com/JhI1_Br9838uI7jb83l_8Cjc4ww=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9186602-1476294987-7319.jpeg.jpg" data-tags="galego, copyleft, creative commons, galician, galicia" role="button">
+Fanny + Alexander - Alfaias (2009)
+</li>
+<li data-cover="https://img.discogs.com/6EJGVEyoE6QMORY9s35t0H5H99A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3057085-1313680979.jpeg.jpg" data-tags="experimental, experimental rock, psychedelic, drone, folktronica, psychedelic rock, 00s, drone rock, massachusetts, drones, experimental ambient, western mass, terrascopic, beyondwithin, avant soft, slaveplanet, avant drone, foxy digitalis, terrascope, terrascope online, cool vibes, klindt drone" role="button">
+Old Furnace - Hidden Hills (2009-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f414d3cc-c6f3-44bc-8e43-cef73f289d3c/4645189125-500.jpg" data-tags="folktronica" role="button">
 Bibio - Vignetting The Compost (2009-02-03)
@@ -299,6 +296,9 @@ swimming in speakers - guessing the others (2013-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/db156baa-231f-47ec-bad9-d8dbeed93597/14548046594-500.jpg" data-tags="chamber pop, folktronica, art pop" role="button">
 Chris Garneau - Winter Games (2013-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ee287de-205a-4aca-b28e-a2ea54da74f2/6250197328-500.jpg" data-tags="folk, acoustic" role="button">
+Le Soldat Pony - Before These Mighty Skies (2013-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

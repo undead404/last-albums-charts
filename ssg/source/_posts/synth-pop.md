@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T11:42:01.793Z
+date: 2021-04-12T05:21:01.405Z
 title: "synth-pop: 100 albums you must listen to before you die"
 ---
 ![Youth Lagoon - The Year of Hibernation (2011-09-26)](https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg "Youth Lagoon - The Year of Hibernation (2011-09-26)")
@@ -21,23 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/VmywRXxVwx1b5UNZwlZPCaPBCmA=/fit-in/480x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4696039-1372527688-1936.jpeg.jpg" data-tags="electronic, synthpop" role="button">
-Kraftwerk - The Man-Machine (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd248ea8-bca3-4a85-9b42-50dc3f9a4cac/1433722909-500.jpg" data-tags="synth-pop" role="button">
 Jacno - Jacno (1979)
 </li>
-<li data-cover="https://img.discogs.com/k9P-b2nf-ku3Hgpqe6XrARsjW4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6271374-1565656380-3938.jpeg.jpg" data-tags="new wave, electronic, 80s" role="button">
-John Foxx - Metamatic (1980-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/8eb94c14-6113-4421-9799-1990a20e334c/9200126666-500.jpg" data-tags="new wave, 1980 albums" role="button">
-New Musik - FROM A TO B (1980-04-18)
+<li data-cover="http://coverartarchive.org/release/07a9c6c3-dc06-3e0f-b4e1-18008a72e066/3775539290-500.jpg" data-tags="80s, electronic" role="button">
+The Human League - Travelogue (1980-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, new wave" role="button">
 Orchestral Manoeuvres in the Dark - Organisation (1980-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0b8dd3-bcd0-39be-ae98-9a03d623d56d/28750058817-500.jpg" data-tags="80s, new wave" role="button">
 Visage - Visage (1980-11-10)
+</li>
+<li data-cover="https://img.discogs.com/CGPLGhTxTTabsZKY2Mo9pC6bSAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-558929-1327210073.jpeg.jpg" data-tags="new wave" role="button">
+Devo - New Traditionalists (1981-08)
 </li>
 <li data-cover="https://img.discogs.com/jB4Y5bGbhcw8jIkC8jfMWgQbaYo=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5365624-1391686259-6629.jpeg.jpg" data-tags="electronic, 80s, synth-pop, university, ralph records, 1981 albums, flashback alternatives, electropearls, decade80s" role="button">
 Yello - Claro Que Si (1981-09-22)
@@ -48,29 +45,14 @@ ABC - The Lexicon Of Love (1982)
 <li data-cover="http://coverartarchive.org/release/97a8de99-9e6f-31a9-a2d1-1ee0aa898ae6/3167468055-500.jpg" data-tags="synth-pop, flashback alternatives, electropearls" role="button">
 Rational Youth - Cold War Night Life (1982-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/92e37d9f-f32f-4dcf-bb5c-df3db38a30ad/9152719626-500.jpg" data-tags="new wave, new romantic" role="button">
-Ultravox - Quartet (1982-10-15)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, synthpop, synth-pop" role="button">
 The Human League - Fascination! (1983)
 </li>
 <li data-cover="https://img.discogs.com/OPINq3KUCpJ0GixLW-J2U_XqUqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130366-1514889905-4878.jpeg.jpg" data-tags="pop, new wave, synth-pop, art pop" role="button">
 Virna Lindt - Shiver (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd0ccbaa-6e05-4410-936f-1fc606f4fe16/8068085420-500.jpg" data-tags="80s, new wave" role="button">
-Kajagoogoo - White Feathers (1983)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Fun Boy Three - Waiting (1983-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
-Howard Jones - Human's Lib (1984-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cf857ac-f164-4a4b-b092-d89aee257d89/22280693312-500.jpg" data-tags="80s, new wave, synth pop" role="button">
-Ultravox - Lament (1984-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4fa8534-a5a7-330a-b61a-d72a40ba694b/26028960700-500.jpg" data-tags="sophisti-pop" role="button">
-The Blue Nile - A Walk Across The Rooftops (1984-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a53a638-da61-4dbd-905e-b43215a9e154/5998266593-500.jpg" data-tags="80s, new wave, midge ure" role="button">
 Midge Ure - The Gift (1985)
@@ -90,8 +72,14 @@ The Lightning Seeds - Sense (1992)
 <li data-cover="http://coverartarchive.org/release/573c3e8d-b166-4c6e-9250-219af848e07d/9215164581-500.jpg" data-tags="new wave, devo" role="button">
 Devo - Oh No It's Devo / Freedom of Choice (1993-05-10)
 </li>
+<li data-cover="https://img.discogs.com/B_d63RLx7vBZYsByzAOMPhwK30E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533830-1334215802.jpeg.jpg" data-tags="dark, melancholy" role="button">
+Mesh - Fragile (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/feb5c8f7-eba0-4bd8-a124-682ebb620a94/14114627653-500.jpg" data-tags="gothic, darkwave, synth-pop" role="button">
 Silke Bischoff - To Protect and to Serve (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/c558e8bb-12c5-4087-895c-ccd52cd0b18e/2970534523-500.jpg" data-tags="synth pop, swiss, rock, dance" role="button">
+Yello - Zebra (1994-10-17)
 </li>
 <li data-cover="https://img.discogs.com/M3XdIiGhyUjfdEohhdOxyAaOBqw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8118541-1455479013-3767.jpeg.jpg" data-tags="80s, new wave, post-punk, synth-pop, unofficial, flashback alternatives, 80s new romantic" role="button">
 B-Movie - Nightmares in wax (1995)
@@ -105,20 +93,29 @@ Beborn Beton - Nightfall (1996-05-17)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
+<li data-cover="https://img.discogs.com/cL9w8BLy4ihGCULvcIIkSJjapb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13991990-1565635135-6857.jpeg.jpg" data-tags="ebm, electro" role="button">
+Apoptygma Berzerk - The Apopcalyptic Manifesto (1998-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/c68a8eb2-f102-402a-93d1-dcf692fdf011/23128223806-500.jpg" data-tags="80s, electronic" role="button">
 Yazoo - Only Yazoo: The Best Of (1999-09-06)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
+<li data-cover="https://img.discogs.com/85gJEnsxJ9jCUZCZivwFTQ87Zq0=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49625-1245181968.jpeg.jpg" data-tags="delicious" role="button">
+Barbara Morgenstern - Fjorden (2000-10-02)
+</li>
+<li data-cover="https://img.discogs.com/w4kT0F7g6pvVXq5JgSbT45FnIx0=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5322294-1434983817-7716.jpeg.jpg" data-tags="rai, algeria" role="button">
+Rachid Taha - Made In Medina (2000-11-07)
+</li>
 <li data-cover="https://img.discogs.com/peoBjbfraqsHjHzvaC8dI47Q9GE=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572521-1190480851.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/de66d372-41b9-4800-ae74-4a9ea83ebf8b/20097089114-500.jpg" data-tags="synthpop" role="button">
-Mesh - Who Watches Over Me? (2002-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/af5e9e60-0d51-4fb2-89d9-69fed83750b3/3658346948-500.jpg" data-tags="dance, electronic" role="button">
 Chicane - Easy to Assemble (2003)
+</li>
+<li data-cover="https://img.discogs.com/ACltPBAnjL7WQ935HQRj4-kFIKA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-119284-1377480243-8210.jpeg.jpg" data-tags="electronic, house, minimal, synth-pop, playhouse, the goodz" role="button">
+Rework - Fall Right Now (2003-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b33525f8-6366-4154-9c69-e1b2dbacf318/8475529903-500.jpg" data-tags="electronic" role="button">
 Styrofoam - I'm What's There To Show That Something's Missing (2003-04-07)
@@ -141,9 +138,6 @@ Husky Rescue - Summertime Cowboy (2004-10-25)
 <li data-cover="https://img.discogs.com/FPbDBrsRRm9mRlnWMmVXdGOEHi0=/fit-in/363x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646578-1185925784.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Röyksopp - Only This Moment (2005-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/15d0fe44-1ff4-4dec-9ffb-8cf1b51125da/3699332321-500.jpg" data-tags="electro, remix, great stuff, synth-pop" role="button">
 The Egg - Walking Away (2005-09)
 </li>
@@ -152,9 +146,6 @@ a-ha - Analogue (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/g0LLmoPUYOiGqIb41AzupOckwD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678421-1183109664.jpeg.jpg" data-tags="alternative rock, electro, breaks, synth-pop" role="button">
 Minuit - The Guards Themselves (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f95d4a4-dc70-4927-8c6a-64c8146426d6/17859579639-500.jpg" data-tags="electronic, synthpop" role="button">
-De/Vision - Subkutan (2006-01-27)
 </li>
 <li data-cover="https://img.discogs.com/jxV_LWFhx3-IRjq-uht-ffj0Tzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750708-1156001678.jpeg.jpg" data-tags="house, minimal, synth-pop, elektronic beats" role="button">
 Justus Köhncke - Advance (2006-08)
@@ -228,6 +219,9 @@ d'Eon - Palinopsia (2010-11-08)
 <li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
 Laurel Halo - King Felix (2010-11-30)
 </li>
+<li data-cover="https://img.discogs.com/gVh4AGQxePTCIrGN86G0I69PT94=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811030-1304199564.jpeg.jpg" data-tags="experimental, electro, synth-pop, 10s, not not fun, italo-disco, newbreed, broken-clash, in the witch house family" role="button">
+Xander Harris - Urban Gothic (2011)
+</li>
 <li data-cover="https://img.discogs.com/vlwmvSkky9olfPY--IuaDDfn_Mw=/fit-in/340x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3629394-1338039591-7025.jpeg.jpg" data-tags="synthpop, synth-pop, live albums, cool synths, live albums i own" role="button">
 a-ha - Ending On A High Note - The Final Concert (2011-01-01)
 </li>
@@ -282,6 +276,12 @@ Trust - Trst (2012-02-28)
 <li data-cover="http://coverartarchive.org/release/15ab2464-35e8-45c3-8e60-faf3b3e7dafb/8281049419-500.jpg" data-tags="10s" role="button">
 Sand Circles - Motor City (2012-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/1409de86-7a30-478a-a072-17e77cdca288/14687248293-500.jpg" data-tags="indie rock, shoegaze, art rock, ethereal, psychedelic rock, synth-pop, boobs on cover" role="button">
+Fight Bite - Fight Bite (2012-05-22)
+</li>
+<li data-cover="https://img.discogs.com/p2JXn75t06AHowP9wx-bxSvOUMQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4001934-1352322098-3172.jpeg.jpg" data-tags="electro, techno, house, synth-pop" role="button">
+Digitalism - DJ-Kicks Exclusives EP (2012-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f9ebdd4c-77a4-4cfa-acef-3920ebb64054/4692587706-500.jpg" data-tags="indie rock" role="button">
 Yeasayer - Fragrant World (2012-08-21)
 </li>
@@ -291,14 +291,17 @@ Maria Minerva - Will Happiness Find Me? (2012-08-28)
 <li data-cover="http://coverartarchive.org/release/77e34804-f952-494c-80b7-8e115f492ec5/10734890314-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Mother We Share (2012-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/242f6935-a79a-432d-81c5-d015c64b05eb/7648976992-500.jpg" data-tags="electronic, ambient" role="button">
-Delerium - Music Box Opera (2012-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/82c8706f-ef9a-4d1d-8249-8128b9cfebb7/10640354310-500.jpg" data-tags="synth-pop" role="button">
 Bloodgroup - Tracing Echoes (2013-03-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/16d0a98b-acab-44b4-a1c7-4f9dd597251a/9369583537-500.jpg" data-tags="electro-industrial" role="button">
+Skinny Puppy - Weapon (2013-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/542f5e53-479f-4581-88b7-93cd05ab489d/4263718745-500.jpg" data-tags="electronic, electropop" role="button">
 Austra - Olympia (2013-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/eea3e6d7-eaf8-4d3c-b7e5-7b90844ec9af/4404251011-500.jpg" data-tags="witch house" role="button">
+oOoOO - Without Your Love (2013-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
@@ -314,9 +317,6 @@ Trust - Joyland (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcc44d38-7b10-4c61-af3a-413df2a3b3e9/7437861623-500.jpg" data-tags="pop" role="button">
 Christine and the Queens - Chaleur humaine (2014-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/5b0432e3-53c6-4410-88af-e29fc863ed4a/7963468959-500.jpg" data-tags="synthpop, electronic" role="button">
-iamamiwhoami - BLUE (2014-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:44:01.405Z
+date: 2021-04-12T05:29:01.407Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -210,9 +210,6 @@ Oasis - Don't Believe the Truth (2005-05-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
-<li data-cover="https://img.discogs.com/_xOEfKKUjyhYvAfKZ-zuYew9oOc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-569186-1408805302-8056.jpeg.jpg" data-tags="indie" role="button">
-The Magic Numbers - The Magic Numbers (2005-06-08)
-</li>
 <li data-cover="https://img.discogs.com/Cc6dYK7O6j1b1Oz-B4y7yGFfnA4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654534-1492959151-9967.jpeg.jpg" data-tags="indie rock, britpop, like it" role="button">
 The Rakes - Capture/Release (2005-08-15)
 </li>
@@ -305,6 +302,9 @@ Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
+Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9394804c-b1f7-4ff1-9539-8f996a7feb7b/15824307211-500.jpg" data-tags="rock, coldplay, britpop" role="button">
 Coldplay - Every Teardrop Is a Waterfall (2011-06-03)

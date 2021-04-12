@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:26:01.404Z
+date: 2021-04-12T05:30:01.449Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -225,9 +225,6 @@ Xzibit - Weapons of Mass Destruction (2004-12-08)
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
-50 Cent - The Massacre (2005-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e4b528d-5ba9-4c24-83d6-5725122c064c/13789321556-500.jpg" data-tags="hip-hop, hip hop, rap, american, gangsta rap, east coast, 00s, fat joe, hip hop rap" role="button">
 Fat Joe - All or Nothing (2005-06-14)
 </li>
@@ -239,6 +236,9 @@ Young Jeezy - Let's Get It: Thug Motivation 101 (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddbf2b20-64b5-4ca3-b837-d8783e027880/24023733862-500.jpg" data-tags="rap" role="button">
 Three 6 Mafia - Most Known Unknown (2005-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/62a1cd53-1339-4f04-8113-287b174c3917/9245363400-500.jpg" data-tags="rap" role="button">
+Snoop Dogg - The Best Of Snoop Dogg (2005-10-03)
 </li>
 <li data-cover="https://img.discogs.com/d4JdIjxn4tzoy_fhSskFCOsmqj0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570439-1132788126.jpeg.jpg" data-tags="dirty south, southern rap, chamillionaire, hip-hop, rap" role="button">
 Chamillionaire - The Sound of Revenge (2005-11-22)
@@ -264,9 +264,6 @@ Akon - Konvicted (2006-11-14)
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/797ec0b3-e43d-4e75-9ebc-bd9fbc11a26a/5145546244-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
 DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
 </li>
@@ -275,6 +272,9 @@ DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e07b93d-e10f-4cc7-8590-526394a5eed3/24142213336-500.jpg" data-tags="gangsta rap, hip-hop and rnb, hurricane chris" role="button">
 Hurricane Chris - 51/50 Ratchet (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a4cb291-8de3-47af-8183-605f1576311a/10068010974-500.jpg" data-tags="nas, rap, east coast" role="button">
+Nas - Greatest Hits (2007-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
 Birdman - 5 * Stunna (2007-12-11)

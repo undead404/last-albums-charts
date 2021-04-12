@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:35:01.414Z
+date: 2021-04-12T04:55:07.112Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -183,9 +183,6 @@ Miley Cyrus - Breakout (2008-07-22)
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/82f35278-fef9-4543-919f-838dd8b5ab35/14358628966-500.jpg" data-tags="pop rock, pop, demi lovato" role="button">
-Demi Lovato - Don't Forget (2008-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
 The Killers - Day & Age (2008-11-18)
 </li>
@@ -296,6 +293,9 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
+Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
 Avril Lavigne - Avril Lavigne (2013-11-01)

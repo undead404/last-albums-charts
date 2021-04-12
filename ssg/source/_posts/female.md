@@ -1,14 +1,14 @@
 ---
-date: 2021-04-11T22:57:12.580Z
+date: 2021-04-12T05:07:01.430Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">Dido - No Angel (1999-06-01)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="http://coverartarchive.org/release/abbd1cf9-8b31-4ecf-96ed-d97cb497c11a/19685352496-500.jpg" data-tags="indie" role="button">Rilo Kiley - More Adventurous (2004-08-17)</li>
 <li data-cover="http://coverartarchive.org/release/27d2ccc7-c263-498b-9f05-ad6c511829b9/21658064503-500.jpg" data-tags="pop" role="button">Britney Spears - Greatest Hits: My Prerogative (2004-11-04)</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">Katy Perry - Ur So Gay (2007-01-15)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">Sara Bareilles - Little Voice (2007-07-03)</li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">Sia - Some People Have Real Problems (2008-01-08)</li>
@@ -27,8 +27,14 @@ Norma Tanega - Walkin' My Cat Named Dog (1966)
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
+Enya - Enya (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/64607f8d-3cc8-4131-a748-528a1b9e28d1/23355709748-500.jpg" data-tags="female, jazz, jazz vocal, bossa nova, lovely, tag, marvelous, boobs, shady, sabrina, delightful, carl, grady, nipples, vaginal, jacked, i would like to spend an afternoon rubbing her breasts with warm mineral oil, shady grady, 1000 albums to hear before you die, beautiful land of tits, quiero su disco, sabrina-sabrina, vagina and breasts, feminine cavern of love, boneriffic, beneficial, carlos seramos, seramos, related tags, clsid not unique, 00c04fd7d062, 9e56be61-c50f-11cf-9a2c-00a0c90a90ce, 9e56be61, c50f, 11cf, 9a2c, 00a0c90a90ce, 888dca60-fc0a-11cf-8f0f-00c04fd7d062, 888dca60, fc0a, 8f0f" role="button">
 Sabrina Salerno - Sabrina (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/acd398e8-997a-490c-b415-0812bf322a4e/6925988014-500.jpg" data-tags="vocal, female, female vocalists, blues, rhythm and blues, nina simone, simone, dr nina simone, ffff" role="button">
+Nina Simone - Let It Be Me (1987-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/95091e40-8397-44af-9498-0ecd719c4c64/22503116196-500.jpg" data-tags="oldies" role="button">
 Dusty Springfield - The Silver Collection (1988)
@@ -90,6 +96,12 @@ Trina - Da Baddest Bitch (2000-03-21)
 <li data-cover="http://coverartarchive.org/release/da042f7f-f022-45de-9fba-70afa470ecde/10415106772-500.jpg" data-tags="female vocalists" role="button">
 Eva Cassidy - Time After Time (2000-06-20)
 </li>
+<li data-cover="https://img.discogs.com/dad_uOOkTV5u0C4LInvxmZrnPT0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044460-1508110044-3197.jpeg.jpg" data-tags="pop" role="button">
+Spice Girls - Forever (2000-11-01)
+</li>
+<li data-cover="https://img.discogs.com/3CK529HiIwzc3kNoo8mCsUeO140=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7268457-1437683277-8109.jpeg.jpg" data-tags="pop" role="button">
+Geri Halliwell - Scream If You Wanna Go Faster (2001-07-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/d78f9d84-713b-3eda-9b17-182f8f996a41/17189059909-500.jpg" data-tags="pop, folk, singer-songwriter, jewel" role="button">
 Jewel - This Way (2001-10-31)
 </li>
@@ -123,20 +135,17 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="https://img.discogs.com/-jHRX-eJPGTA2oR-7Q3kBIJfRvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929781-1179521048.jpeg.jpg" data-tags="female, pop, rock, female vocalists, female vocals, female vocalist, female artists, female voices, gotanygoodmusic, rex ferric faves, girly power, 00s albums, albums in my cd rack" role="button">
 Lisa Marie Presley - To Whom It May Concern (2003-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">
-Hilary Duff - Metamorphosis (2003-06-20)
-</li>
 <li data-cover="https://img.discogs.com/LWJ-AKum2NOXPYjc0WBwPF-S9GM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966844-1330288157.jpeg.jpg" data-tags="rock" role="button">
 Liz Phair - Liz Phair (2003-06-24)
 </li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
 </li>
+<li data-cover="https://img.discogs.com/aiGtfbrmX10NazhTRVrB3Y0fvOo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813694-1161458280.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
+Björk - Homogenic Live (2003-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/6c293557-1a20-4cf6-80e8-5bb7d7ab4e55/16378712431-500.jpg" data-tags="pop, another day" role="button">
 Lene Marlin - Another Day (2003-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/271bb7d6-533f-437b-abd9-12089c503a8d/13490355838-500.jpg" data-tags="female vocalists" role="button">
-Rachael Yamagata - EP (2003-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/11a0f328-f066-4fb2-89a5-4126ea97f951/6460014035-500.jpg" data-tags="french, female, female vocalists, french pop" role="button">
 Céline Dion - 1 fille & 4 types (2003-10-14)
@@ -168,8 +177,8 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Unwritten (2004-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0440635-800b-4b22-80fd-551d4abbdce9/10253297780-500.jpg" data-tags="pop, pop rock" role="button">
-Hilary Duff - Hilary Duff (2004-09-15)
+<li data-cover="http://coverartarchive.org/release/9d642670-9b86-49a6-be0a-6814d3b30ccd/2909993007-500.jpg" data-tags="indie pop" role="button">
+New Buffalo - The Last Beautiful Day (2004-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Anna Ternheim - Somebody Outside (2004-10-13)
@@ -189,11 +198,11 @@ Eisley - Room Noises (2005-02-08)
 <li data-cover="http://coverartarchive.org/release/ad7247da-24c2-4bd3-b17f-31077f50f693/2596514590-500.jpg" data-tags="alternative, female vocalists, singer-songwriter, piano" role="button">
 Tori Amos - The Beekeeper (2005-02-21)
 </li>
-<li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
-Hilary Duff - Most Wanted (2005-08-10)
-</li>
 <li data-cover="https://img.discogs.com/zmvB4AIt9xAyyf0aizmrnIn0zvE=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520207-1288515935.jpeg.jpg" data-tags="pop" role="button">
 Sugababes - Taller in More Ways (2005-10-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
+Maria Peszek - Miasto Mania (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8def818-9c85-3cf8-b0d8-2508538be228/7222599765-500.jpg" data-tags="pop" role="button">
 Anastacia - Pieces of a Dream (2005-11-07)
@@ -207,9 +216,6 @@ Mates of State - Bring It Back (2006-03-21)
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2bf42fc-16e3-4496-b3d7-f72be4bf0aae/10864576866-500.jpg" data-tags="christina strmer - lebe lauter, deutsch" role="button">
-Christina Stürmer - Lebe Lauter (2006-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/b75d84c9-0c2a-4f3e-80e3-8c385efd63c0/25970432695-500.jpg" data-tags="country" role="button">
 Kellie Pickler - Small Town Girl (2006-10-31)
 </li>
@@ -218,9 +224,6 @@ Gwen Stefani - Wind It Up (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/c73f995d-44e3-4363-a310-bf638b97dc69/1578195106-500.jpg" data-tags="female, hot" role="button">
 Tila Tequila - Tila Tequila (2007)
-</li>
-<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://img.discogs.com/mHCZ-tldeceJvMGxFU-dJXPobwQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-921512-1173044217.jpeg.jpg" data-tags="pop" role="button">
 Katharine McPhee - Katharine McPhee (2007-01-30)
@@ -251,9 +254,6 @@ Spice Girls - Greatest Hits (2007-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
-</li>
-<li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
-The Lonely Island - Jizz In My Pants (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
 Sia - Some People Have Real Problems (2008-01-08)
@@ -306,8 +306,8 @@ Sugarland - Stuck Like Glue (2010-07-23)
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/a63484c0-7f7c-41c8-9f9d-64b1aaebea26/17946332248-500.jpg" data-tags="willow smith" role="button">
-Willow Smith - 21st Century Girl (2011-03-03)
+<li data-cover="http://coverartarchive.org/release/1d22ce5b-26b9-496d-840a-e1d18bbc76d8/3167458608-500.jpg" data-tags="pop, lady gaga, born this way" role="button">
+Lady Gaga - The Edge Of Glory (2011-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/78ded821-e96f-47e0-8668-7087237b498d/4953387139-500.jpg" data-tags="female, folk, if i be wrong, kitchen door, quiet at the kitchen door, wolf larsen" role="button">
 Wolf Larsen - Quiet at the Kitchen Door (2011-12-06)
