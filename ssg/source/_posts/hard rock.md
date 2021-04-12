@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:19:01.441Z
+date: 2021-04-12T07:21:01.598Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -276,6 +276,9 @@ Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
 <li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
 Disturbed - Indestructible (2008-04-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/678909a4-a946-492c-8df1-8d92cad22da1/10713247283-500.jpg" data-tags="alternative rock, hard rock, southern rock" role="button">
+Shinedown - Devour (2008-05-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/81d478b6-0f2f-3794-ae21-76560f78b7fd/1546637042-500.jpg" data-tags="hard rock, alternative rock" role="button">
 Shinedown - The Sound of Madness (2008-06-23)
 </li>
@@ -302,9 +305,6 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
-Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">
 Slash - Slash (2010-03-31)

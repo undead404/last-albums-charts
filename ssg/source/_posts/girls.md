@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:59:01.395Z
+date: 2021-04-12T07:11:01.520Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -29,9 +29,6 @@ Lesley Gore - The Golden Hits Of Lesley Gore (1965)
 </li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
-</li>
-<li data-cover="https://img.discogs.com/U3i5VmBuiuo7U9Dq1vOz6cOD18A=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9331183-1514740160-7938.jpeg.jpg" data-tags="jazz" role="button">
-Jo Stafford - The Columbia Hits Collection (1981)
 </li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">
 Scandal - Scandal (1982)
@@ -126,9 +123,6 @@ Kalafina - storia (2009-07-01)
 <li data-cover="https://img.discogs.com/Fr36x9wlnLqK19zWem0SFyQq3xs=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12227926-1530941446-4921.jpeg.jpg" data-tags="pop rock" role="button">
 Katy Perry - MTV Unplugged (2009-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
-T-ARA - Absolute First Album (2009-12-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/03567f57-0e50-4125-84fc-dc56cf024693/8393509772-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, seiyuu, girl band, girl group, girl groups, group, atmosphere, girlband, asian music, asian pop, voice actress" role="button">
 スフィア - A.T.M.O.S.P.H.E.R.E (2009-12-23)
 </li>
@@ -198,6 +192,9 @@ SKE48 - オキドキ (2011-11-09)
 <li data-cover="http://coverartarchive.org/release/d187f6e4-9e17-4f7c-8d4f-aba4ebda4c02/24330266380-500.jpg" data-tags="japanese, female vocalists, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, akb48, asian music, asian pop" role="button">
 AKB48 - 上からマリコ (2011-12-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/ebcea401-13fa-4b48-b028-12aba23e114c/6485807910-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian music, asian pop" role="button">
+SUPER☆GiRLS - EveryBody JUMP!! (2012-02-01)
+</li>
 <li data-cover="https://img.discogs.com/gDetd9U3hb9_JWVac2HpVwXzhU8=/fit-in/572x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597174-1369495212-6438.jpeg.jpg" data-tags="japanese, female vocalists, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, group, girlband, idol, asian music, asian rock, asian pop" role="button">
 Scandal - Harukaze (2012-02-22)
 </li>
@@ -212,6 +209,9 @@ Scandal - Scandal Show (2012-03-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 東京女子流 - Limited addiction (2012-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/f5e6a7e6-673e-4065-a9ff-d6a850f3f5bc/14739875680-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop, great as hell" role="button">
+AKB48 - 真夏のSounds good! (2012-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc5a4043-8c11-4a8a-b513-e91cbc673e0a/6191281289-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 ももいろクローバーZ - Z女戦争 (2012-06-27)

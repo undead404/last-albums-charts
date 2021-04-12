@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:05:07.094Z
+date: 2021-04-12T07:04:01.586Z
 title: "hiphop: 100 albums you must listen to before you die"
 ---
 ![Akon - Konvicted (2006-11-14)](http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg "Akon - Konvicted (2006-11-14)")
@@ -56,6 +56,9 @@ OutKast - ATLiens (1996-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">
 Xzibit - At The Speed Of Life (1996-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/4952c8bc-4ffb-315b-a6c6-26d23c4df873/14289722113-500.jpg" data-tags="hip hop" role="button">
+Rakim - The 18th Letter (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
@@ -177,9 +180,6 @@ Method Man - Tical 0: The Prequel (2004-03-18)
 <li data-cover="http://coverartarchive.org/release/1453bafd-09a5-43e6-aa52-5ab2867c7218/2090793464-500.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Fly Or Die (2004-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/63424f2f-d5d5-44aa-af76-5ebcb42d68d9/24502529201-500.jpg" data-tags="samy deluxe" role="button">
-Samy Deluxe - Verdammtnochma! (2004-08-20)
-</li>
 <li data-cover="https://img.discogs.com/dq2geKGmTdI736QrpaEMXRFUB7c=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9163033-1488053223-3996.jpeg.jpg" data-tags="rap, hiphop, beats for days" role="button">
 The Alchemist - 1st Infantry (2004-09-17)
 </li>
@@ -237,6 +237,9 @@ OutKast - Idlewild (2006-08-19)
 <li data-cover="https://img.discogs.com/vJCvSS6S95nfXvm5FYP-_rDcD6E=/fit-in/590x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-780773-1167308486.jpeg.jpg" data-tags="hip-hop" role="button">
 The Roots - Game Theory (2006-08-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+Method Man - 4:21...The Day After (2006-08-28)
+</li>
 <li data-cover="https://img.discogs.com/d-pJPDGDC0gv2vTYeJxq920sZ9w=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784456-1160065940.jpeg.jpg" data-tags="hip hop, hiphop, underground hip hop, hella good, fettttttttttttttt, nice   smile, umse, encrypted message beneath the lyrics" role="button">
 Nicolay - Here (2006-09-12)
 </li>
@@ -257,9 +260,6 @@ MIMS - Music Is My Savior (2007-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">
 Die Fantastischen Vier - Fornika (2007-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3dd3103-aecf-45f9-a9d4-3d233d9924c9/4802749439-500.jpg" data-tags="grime, hip-hop" role="button">
-Wiley - Playtime Is Over (2007-06-04)
 </li>
 <li data-cover="https://img.discogs.com/chr0enqrjlaMHje2mXFuQ8GXqIc=/fit-in/579x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299797-1347987889-4469.jpeg.jpg" data-tags="hip-hop, hiphop, japan, qn5 music, extended famm, jazzy hiphop, tonedeff, substantial, the plague, dmv area hip hop" role="button">
 Substantial - Sacrifice (2007-09-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:51:07.020Z
+date: 2021-04-12T07:43:12.615Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Mark Ronson - Uptown Funk (2014-11-10)](http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg "Mark Ronson - Uptown Funk (2014-11-10)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
+Bob Marley & The Wailers - Live! (1975-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7e5705e-bc05-4f13-8db9-adce89334ea8/6453906359-500.jpg" data-tags="summer, donna summer" role="button">
 Donna Summer - On the Radio: Greatest Hits Volumes I & II (1979-10-15)
 </li>
@@ -29,6 +32,9 @@ Tom Petty and The Heartbreakers - Playback Retail Sampler (1995)
 </li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4f6b8ab-c90f-49e6-bafb-9e29be4991df/18804891286-500.jpg" data-tags="acoustic" role="button">
+Guster - Parachute (1995-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e0383b3-ca53-4e2e-b4f3-6973d09d7f22/18016479630-500.jpg" data-tags="alternative, rock" role="button">
 Primitive Radio Gods - Rocket (1996-06-18)
@@ -41,6 +47,9 @@ Mr. Scruff - Mrs Cruff (1997-05-09)
 </li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/067a1e41-bae3-30d6-a797-d256e96c94f6/5072584211-500.jpg" data-tags="indie, indie rock" role="button">
+Blonde Redhead - In an Expression of the Inexpressible (1998-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
@@ -114,9 +123,6 @@ Santana - All That I Am (2005-10-28)
 <li data-cover="http://coverartarchive.org/release/5ff24b6e-bb32-4500-b980-f99a413cc53f/1270154475-500.jpg" data-tags="summer" role="button">
 Bob Sinclar - Love Generation (2005-11-25)
 </li>
-<li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
-Jim Noir - Tower Of Love (2005-12-05)
-</li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
 </li>
@@ -131,6 +137,9 @@ Zebrahead - Broadcast To The World (2006-02-22)
 </li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad575d96-11ce-4809-9d7b-0ef2e5aa7409/5146187890-500.jpg" data-tags="acoustic" role="button">
+Sandi Thom - Smile...It Confuses People (2006-06-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Room Eleven - Six White Russians And A Pink Pussycat (2006-06-12)
@@ -222,14 +231,8 @@ She & Him - Volume Two (2010-03-17)
 <li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
 Dum Dum Girls - I Will Be (2010-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4bf4650-67e4-46ff-8a4f-92a19ef2cf35/8581246798-500.jpg" data-tags="indie, acoustic, mellow" role="button">
-The Phoenix Foundation - Buffalo (2010-04-26)
-</li>
 <li data-cover="https://img.discogs.com/G8CJXSrFx_vyi-x53xBSAgIxtpo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357339-1305964061.jpeg.jpg" data-tags="indie rock" role="button">
 Minus the Bear - Omni (2010-05-04)
-</li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec909364-b428-422c-85bc-fd562bb3a194/22034568945-500.jpg" data-tags="electronic" role="button">
 Gypsy & The Cat - Gilgamesh (2010-11-12)
@@ -299,9 +302,6 @@ Enemies - Embark, Embrace (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e1fef0c-a641-4b7d-9a1e-1ebbd8b3e271/15266726610-500.jpg" data-tags="k-pop, kpop" role="button">
-2NE1 - Falling in Love (2013-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8e257c-6c7e-4ab5-80fa-0037e14cc930/5122310454-500.jpg" data-tags="indie pop, indie rock, indie, synthpop" role="button">
 Grouplove - Spreading Rumours (2013-09-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:38:01.424Z
+date: 2021-04-12T06:46:07.075Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -51,6 +51,9 @@ Jeff Buckley - Grace (1994-08-15)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/5f52d3ff-74dd-460d-a627-4d54f0f7eff6/1611443813-500.jpg" data-tags="indie, rock, alternative, indie rock, 90s" role="button">
+Modest Mouse - Interstate 8 (1996-08-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
@@ -62,6 +65,9 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
+Bright Eyes - Motion Sickness (2001-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d408943f-fa02-4ddd-beac-8b575ba6777a/16967352324-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Everyday (2001-02-27)
@@ -183,6 +189,9 @@ Mike Jones - The American Dream (2007-11-20)
 <li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
 Mario - Go (2007-12-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
+Birdman - 5 * Stunna (2007-12-11)
+</li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
@@ -219,9 +228,6 @@ Generationals - Con Law (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
-<li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
-Julian Casablancas - Phrazes For The Young (2009-10-30)
-</li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
@@ -239,9 +245,6 @@ Band of Horses - Infinite Arms (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
-The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
@@ -317,8 +320,5 @@ Meghan Trainor - Lips Are Movin (2014-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff15d5f2-13a9-4f05-8d45-a171e445a411/8807148250-500.jpg" data-tags="american" role="button">
 Fifth Harmony - Sledgehammer (2014-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
-Walk the Moon - Talking Is Hard (2014-11-24)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:28:01.428Z
+date: 2021-04-12T07:10:01.488Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1966)
-</li>
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">
 The Turtles - Happy Together (1966)
 </li>
@@ -125,6 +122,9 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2af3c5e-fb92-484f-851f-d26b27770d8b/15137212906-500.jpg" data-tags="classic rock, rock" role="button">
+The Velvet Underground - VU (1984)
 </li>
 <li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)

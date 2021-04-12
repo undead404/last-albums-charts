@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:30:01.467Z
+date: 2021-04-12T07:27:02.188Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -210,14 +210,14 @@ Apparat - Walls (2007-05)
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
 Digitalism - Idealism (2007-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
-New Young Pony Club - Fantastic Playroom (2007-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/430826de-7856-412a-a644-3344e0b9d09e/1114878797-500.jpg" data-tags="electronic" role="button">
 Hot Chip - Made in the Dark (2008-02-01)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
+Kleerup - Kleerup (2008-05-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:40:01.403Z
+date: 2021-04-12T07:36:01.660Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/a580e5c6-fb3a-4b62-8170-daa13fa1c046/28316388522-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - The Scream (1978-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f803106-a53a-49f4-8b9c-991a38a1b3b8/11574025842-500.jpg" data-tags="punk" role="button">
+The Damned - Machine Gun Etiquette (1979-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)
@@ -50,6 +53,9 @@ The Cult - Love (1985-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9e3c799-0e8c-420f-9b62-8e968a020223/7494792139-500.jpg" data-tags="gothic metal" role="button">
 Paradise Lost - Paradise Lost (1988)
+</li>
+<li data-cover="http://coverartarchive.org/release/a456ea09-b0c6-46bf-819b-f63df2bfeae3/21099734617-500.jpg" data-tags="gothic rock, gothic" role="button">
+Fields of the Nephilim - Earth Inferno (1991-03-25)
 </li>
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
@@ -129,9 +135,6 @@ Unheilig - Phosphor (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/f5e9663a-ef6e-44ef-bb12-3d1035614a82/9279630913-500.jpg" data-tags="gothic, gothic rock" role="button">
 Letzte Instanz - Kalter Glanz (2001-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d2cfca8-1cdf-4a98-8bd5-0769b97769dc/3597667276-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Last Fair Deal Gone Down (2001-05-08)
-</li>
 <li data-cover="https://img.discogs.com/ni7uCf-iPt8QlOnZvnvuy2QwB-w=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1035230-1552926164-8622.jpeg.jpg" data-tags="love metal" role="button">
 Him - Deep Shadows And Brilliant Highlights (2001-08-24)
 </li>
@@ -158,9 +161,6 @@ Evanescence - Fallen (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/3e228cd1-aa1c-3244-bac8-2d56d56dd0a0/3597990218-500.jpg" data-tags="doom metal" role="button">
-Katatonia - Viva Emptiness (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a95fcf2-e586-4002-9222-8a6451ac8d45/8906915408-500.jpg" data-tags="gothic rock, female fronted metal, metal" role="button">
 Evanescence - Bring Me to Life (2003-04-14)
@@ -246,6 +246,9 @@ The 69 Eyes - Angels (2007-02-27)
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/8af957f3-737f-4263-ad65-fbba13fc6f87/8034557938-500.jpg" data-tags="folk, folk rock, gothic rock" role="button">
+Letzte Instanz - Wir sind Gold (2007-03-23)
+</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 </li>
@@ -302,9 +305,6 @@ The Cure - Bestival Live 2011 (2011-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/84af1176-dbf9-4072-93fa-877112c97c07/5331768600-500.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - X (2012-09-28)
-</li>
-<li data-cover="https://img.discogs.com/JKscFmU-l6AmmbDzzxorQ6cn7ls=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7812317-1449309971-7044.jpeg.jpg" data-tags="gothic, gothic metal, gothic rock" role="button">
-Tiamat - The Scarred People (2012-10-26)
 </li>
 <li data-cover="https://img.discogs.com/K3HHAaKOZArCSdgaJG0Hpq5wTRY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4206704-1358536944-7924.jpeg.jpg" data-tags="electronica, experimental, female vocalists, gothic rock" role="button">
 Esben and the Witch - Wash the Sins Not Only the Face (2013-01-18)

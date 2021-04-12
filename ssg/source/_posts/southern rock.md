@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:20:01.428Z
+date: 2021-04-12T07:42:01.429Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")

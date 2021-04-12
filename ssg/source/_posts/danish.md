@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:39:07.080Z
+date: 2021-04-12T07:26:02.112Z
 title: "danish: 100 albums you must listen to before you die"
 ---
 ![Mew - Frengers (2003-04-07)](https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg "Mew - Frengers (2003-04-07)")
@@ -24,14 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/a3eec736-0657-4a5c-8c19-39cbfe9ad4b4/12302912604-500.jpg" data-tags="danish" role="button">
 Steppeulvene - HIP (1967)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="70s, psychedelic, female vocalist, danish, dansk rock, danish rock, danish group" role="button">
+The Savage Rose - Wild Child (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/403f9c43-c127-329a-9318-efce11891ca7/1236960054-500.jpg" data-tags="rock, danish" role="button">
 Gasolin' - Gør Det Noget (1977-11-11)
 </li>
 <li data-cover="https://img.discogs.com/vtCvXTUmE7p2mjZq_0Bdm64Vkg0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8063092-1457706569-8805.jpeg.jpg" data-tags="heavy metal" role="button">
 Mercyful Fate - Melissa (1983)
-</li>
-<li data-cover="https://img.discogs.com/gbmdCrYOyxtjlcUb9aOuwmEv1LE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2294614-1411406389-9927.jpeg.jpg" data-tags="heavy metal, danish" role="button">
-Witch Cross - Fit For Fight (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d093509-ed39-4f4c-9a89-3e2fccc7441a/2087865976-500.jpg" data-tags="rock, hard rock" role="button">
 D-A-D - No Fuel Left for the Pilgrims (1989-03-03)
@@ -63,9 +63,6 @@ Aqua - Aquarium (1997-05-21)
 <li data-cover="http://coverartarchive.org/release/26dbfccd-ef22-4722-9cc0-5b3dc43654fe/6567223116-500.jpg" data-tags="rock, adult contemporary, danish" role="button">
 Michael Learns to Rock - Nothing To Lose (1997-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/d46a4b0f-aba3-4a38-b48d-5b030da86888/2553949736-500.jpg" data-tags="90s" role="button">
-Malk De Koijn - Smash Hit in Aberdeen (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/4dd1bf19-a5ee-3092-bd3d-aa0c6d6d206a/1287127459-500.jpg" data-tags="heavy metal" role="button">
 King Diamond - Voodoo (1998-02-23)
 </li>
@@ -74,6 +71,12 @@ Mercyful Fate - Dead Again (1998-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/457ab04c-9d8f-45d3-81e4-28cbce0694b6/14038071478-500.jpg" data-tags="death metal" role="button">
 Iniquity - Five Across the Eyes (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/09480178-46d1-4762-86a2-ba943a105245/7593437779-500.jpg" data-tags="pop, reggae, 90s, compilation, danish, dansk, dk, fabel, danish poprock, danish group, kaniner, gnags" role="button">
+Gnags - Gnags Greatest (1999)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, suicidal black metal, danish black metal" role="button">
+Sortsind - Sår (1999)
 </li>
 <li data-cover="https://img.discogs.com/HhRcv7z_74n4mmYMYc_DUGK917Q=/fit-in/205x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1795274-1243843750.jpeg.jpg" data-tags="rock" role="button">
 Kashmir - The Good Life (1999)
@@ -102,6 +105,9 @@ Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, epic, danish" role="button">
 Mew - Am I Wry? No (2002-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/3823821a-6542-4b85-acd2-1f85a6f1949b/25661282842-500.jpg" data-tags="rock" role="button">
+Saybia - Live EP (2003)
+</li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
 </li>
@@ -125,9 +131,6 @@ King Diamond - The Puppet Master (2003-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7699cadb-b69e-4f39-a8a3-3f72487a35db/8018314646-500.jpg" data-tags="danish, denmark, copenhagen, europe, european, skandinavian music, skandinavian" role="button">
 Sepiamusic - Prototype (2003-12-16)
-</li>
-<li data-cover="https://img.discogs.com/o0gQ-ig7SkqDuCneLPQ35Y1wJNA=/fit-in/600x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406424-1109191706.jpg.jpg" data-tags="dance, pop" role="button">
-Infernal - From Paris To Berlin (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cac10c7-a8f4-48df-be61-e4358f58bde9/7676262971-500.jpg" data-tags="rock, mltr" role="button">
 Michael Learns to Rock - Michael Learns to Rock (2004-01)
@@ -167,6 +170,9 @@ L.O.C. - Cassiopeia (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
+</li>
+<li data-cover="https://img.discogs.com/rSmBCyFR-3ndeNi3seLK9arXLmw=/fit-in/514x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1086695-1195112585.jpeg.jpg" data-tags="thrash metal, death metal, melodic death metal" role="button">
+Hatesphere - The Sickness Within (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/30c5611c-f4ea-49df-980c-a2050ef51dbf/23670185295-500.jpg" data-tags="danish, emusic, try this, add to radio" role="button">
 Diefenbach - set & drift (2005-10-03)
@@ -254,12 +260,6 @@ Illdisposed - To Those Who Walk Behind Us (2009-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd57d406-6d9b-483d-be8d-75a377e757fe/2524009497-500.jpg" data-tags="electronic, electropop, pop, dance, happy, synthpop, fun, danish, europop, danish poprock" role="button">
 Alphabeat - The Spell (2009-10-26)
-</li>
-<li data-cover="https://img.discogs.com/LSCaL3IjIjYM2NV5yDmoOXrvVtE=/fit-in/360x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3498749-1571956013-6761.jpeg.jpg" data-tags="danish" role="button">
-Medina - Velkommen til Medina (2009-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/f83dfa74-66dc-43de-9a7f-7229b7e87a31/8018465977-500.jpg" data-tags="europe, danish, denmark, european, copenhagen, skandinavian music, skandinavian" role="button">
-Sepiamusic - Trenches (2009-12-01)
 </li>
 <li data-cover="https://img.discogs.com/L9gcIyf8d0AUO_9BuTdPptksT5I=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148037-1515459878-2438.jpeg.jpg" data-tags="electronic, scandinavian, danish, danmark, deens, noord-europa, denemarken" role="button">
 Ginger Ninja - Wicked Map (2010-01-25)

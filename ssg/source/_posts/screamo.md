@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:34:02.040Z
+date: 2021-04-12T07:14:01.612Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/80e6be11-86f5-4d0b-9d55-0f1c62b7afb8/6514440841-500.jpg" data-tags="metalcore" role="button">
+Avenged Sevenfold - Sounding the Seventh Trumpet (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcfd1c6a-8461-417d-86e7-834f85416cd3/16743266556-500.jpg" data-tags="screamo" role="button">
 Saetia - A Retrospective (2001-10-01)
@@ -273,9 +276,6 @@ Motionless in White - When Love Met Destruction (2009-02-17)
 <li data-cover="https://img.discogs.com/XzaWfi-BngGAQzQ73P3mjOdzc7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692720-1302358066.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 A Skylit Drive - Adelphia (2009-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
-Breathe Carolina - Hello Fascination (2009-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -312,8 +312,8 @@ Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
-Deafheaven - Sunbather (2013-05-28)
+<li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
+Bring Me the Horizon - Shadow Moses (2013-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)

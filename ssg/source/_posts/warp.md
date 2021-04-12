@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:28:01.405Z
+date: 2021-04-12T07:02:01.950Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -39,6 +39,9 @@ F.U.S.E. - Dimension Intrusion (1993-06-07)
 <li data-cover="http://coverartarchive.org/release/455b4a46-06e1-4bd8-85d6-35bd11644f74/1353826524-500.jpg" data-tags="idm" role="button">
 Speedy J - Ginger (1993-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/54d27099-d051-463e-bca8-fe700b46ee3e/4163552398-500.jpg" data-tags="techno, warp, 0742 sound" role="button">
+Rhythm Invention - Inventures in Wonderland (1993-08-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/e33730ce-6791-4e2e-aa4d-9b190ec39fdb/2575518065-500.jpg" data-tags="idm" role="button">
 Aphex Twin - On (1993-11-15)
 </li>
@@ -50,9 +53,6 @@ Seefeel - Starethrough EP (1994-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e89bfc1-ef2a-4b76-9e60-c449960ef3f8/4163980242-500.jpg" data-tags="warp, adrien wayne" role="button">
 Coco, Steel & Lovebomb - It! (1994-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/62a9a8a4-f5fa-4d40-bcdd-25b243f133e7/2499675510-500.jpg" data-tags="idm" role="button">
-Autechre - Anti EP (1994-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/85c36433-f560-4b42-858a-f91bb1813adb/6960911717-500.jpg" data-tags="electronic, electronica" role="button">
 The Sabres of Paradise - Haunted Dancehall (1994-11-10)
@@ -69,6 +69,9 @@ Aphex Twin - Ventolin EP (The Remixes) (1995-03-27)
 <li data-cover="http://coverartarchive.org/release/51f07041-3d9a-4458-880e-70326cdb3182/26321076591-500.jpg" data-tags="electro" role="button">
 Elecktroids - Elektroworld (1995-08-29)
 </li>
+<li data-cover="https://img.discogs.com/MI_M0RHAZKlsTY1rvTl9aeZnsM8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7001307-1431394971-2090.jpeg.jpg" data-tags="idm" role="button">
+µ-Ziq - Salsa With Mesquite (1995-09-19)
+</li>
 <li data-cover="https://img.discogs.com/xbDnd1s1Cv1ovJzUYRIubS-Pvq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28692-1234359237.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Anvil Vapre (1995-10-02)
 </li>
@@ -77,6 +80,9 @@ Autechre - Tri Repetae (1995-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/502200af-3b31-4a43-96a9-f6c791ca1843/2610689004-500.jpg" data-tags="abstract, warp, idm, knorpelfunky, adrien wayne" role="button">
 Autechre - We R Are Why (1996-04-14)
+</li>
+<li data-cover="https://img.discogs.com/42oN3nnp0deZmGuRquE5lwUErMY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10898524-1506173235-1828.jpeg.jpg" data-tags="electronic, warp" role="button">
+Move D - Cymbelin (1996-08-19)
 </li>
 <li data-cover="https://img.discogs.com/nWQE1IcfbSTHm0EDkeiX8ahJsxM=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7159849-1435065110-1254.jpeg.jpg" data-tags="acid jazz" role="button">
 Red Snapper - Prince Blimey (1996-09-09)
@@ -147,9 +153,6 @@ Plaid - Double Figure (2001-05-26)
 <li data-cover="http://coverartarchive.org/release/a3a96dde-8af3-3622-a936-4ac3af501e1d/9517970099-500.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Drukqs (2001-08)
 </li>
-<li data-cover="https://img.discogs.com/CvnFt9Mi4Th_krYfCBVx7fHpZ7I=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14741-1602662343-4030.jpeg.jpg" data-tags="warp, idm" role="button">
-Brothomstates - Qtio (2001-08-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/496f6f0b-d763-4759-bab8-81a96d18964e/1696126538-500.jpg" data-tags="techno" role="button">
 The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 </li>
@@ -162,20 +165,17 @@ Req - Sketchbook (2002-03-04)
 <li data-cover="http://coverartarchive.org/release/477e5f2b-09f5-4d5d-b3cb-dd3b852f597e/15485751824-500.jpg" data-tags="lounge, post rock" role="button">
 Vincent Gallo - Recordings of Music for Film (2002-06-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a162b1b2-ed22-4a54-be3b-3efb82b77ce9/4523940207-500.jpg" data-tags="hip-hop, chillout, electronic, hip hop, instrumental, downtempo, warp, eclectic, favs, breakz, geniaal, lekkah, 4nas, nadh, vemu, mmwm" role="button">
+Req - Car Paint Scheme (2003-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a7e6b64-f64a-4f9b-b525-f500af815d17/27817753712-500.jpg" data-tags="electronic" role="button">
 LFO - Sheath (2003-09-22)
 </li>
 <li data-cover="https://img.discogs.com/27FuOpQx6x6ynGYjGZ7jCw9emS8=/fit-in/400x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197766-001.jpg.jpg" data-tags="electronic, idm" role="button">
 Plaid - Spokes (2003-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/426f0e00-b541-461d-9747-9d861ed75141/6923514210-500.jpg" data-tags="idm" role="button">
-Squarepusher - Ultravisitor (2004-03-03)
-</li>
 <li data-cover="https://img.discogs.com/-ezxPRzCfLyMAd8O6gzaZ07zj-w=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-255309-1582083365-6263.jpeg.jpg" data-tags="electronic, warp" role="button">
 Two Lone Swordsmen - From The Double Gone Chapel (2004-04)
-</li>
-<li data-cover="https://img.discogs.com/slv1e8PHJ_XZYPukaRuGkBXaXkE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451747-1189874201.jpeg.jpg" data-tags="math rock, warp" role="button">
-Battles - EP C (2004-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c451fc8-d475-4b90-8478-98a358d90278/6924928858-500.jpg" data-tags="00s, music to fall asleep to, choke" role="button">
 Gravenhurst - Flashlight Seasons (2004-06-28)
@@ -210,14 +210,8 @@ Jamie Lidell - Multiply (2005-10-17)
 <li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - In A Space Outta Sound (2006-01)
 </li>
-<li data-cover="https://img.discogs.com/RyAZN977Z5JxP-rFncQRYr8fzyc=/fit-in/300x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584943-1134760944.jpeg.jpg" data-tags="warp" role="button">
-Prefuse 73 - Security Screenings (2006-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
 Boards of Canada - Trans Canada Highway (2006-05-19)
-</li>
-<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
-Project Divinity - Divinity (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
@@ -230,6 +224,9 @@ Squarepusher - Hello Everything (2006-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">
 Battles - Mirrored (2007-04-25)
+</li>
+<li data-cover="https://img.discogs.com/d7ClNJ7GMdFnO1pIFa_-h3VSlSo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-994767-1224798593.jpeg.jpg" data-tags="electronic, experimental, idm, aerial" role="button">
+Syl Kougaï - La Fille Verte (2007-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d800a9e2-c11a-4d35-98e8-6b8cdb4ac631/7263437184-500.jpg" data-tags="experimental" role="button">
 Battles - Tonto+ (2007-10-22)
@@ -284,6 +281,9 @@ Seefeel - Faults (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1c45015-91f7-4020-bc54-3f843ed4c11a/6962384439-500.jpg" data-tags="shoegaze, warp, great groove, experimental downtempo, comeback albums, top-67" role="button">
 Seefeel - Seefeel (2011-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/e05e6325-a3f8-40c0-93d5-bc1e1cb23a65/18720831070-500.jpg" data-tags="electronica, alternative, experimental techno, warp, 10s" role="button">
+Autechre - Eps 1991 - 2002 (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef335cce-5b0e-4636-b4f1-17af1a043956/26299636754-500.jpg" data-tags="warp" role="button">
 Babe Rainbow - Endless Path EP (2011-06-20)

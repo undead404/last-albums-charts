@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:53:35.396Z
+date: 2021-04-12T07:12:01.602Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -132,9 +132,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
-William Fitzsimmons - Until When We Are Ghosts (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
@@ -179,6 +176,9 @@ Joshua Radin - We Were Here (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
 Dashboard Confessional - Dusk And Summer (2006-06-26)
+</li>
+<li data-cover="https://img.discogs.com/2mMumTyeU5d-Bdf0Jkgc-viD1tU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-888713-1536068445-2270.jpeg.jpg" data-tags="folk" role="button">
+Ray LaMontagne - Trouble (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)

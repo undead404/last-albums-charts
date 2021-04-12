@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:42:01.419Z
+date: 2021-04-12T07:20:01.460Z
 title: "synth pop: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -9,10 +9,10 @@ title: "synth pop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/xSXWAt5yTN34mzptdNfzstkELRE=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3024496-1312231658.jpeg.jpg" data-tags="new wave, 80s" role="button">Eurythmics - Sweet Dreams (Are Made Of This) (1982)</li>
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">Men Without Hats - The Safety Dance (1982)</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
+<li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Saturdays = Youth (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">Kanye West - 808s & Heartbreak (2008-11-21)</li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">Bastille - Bad Blood (2013-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">CHVRCHES - The Bones of What You Believe (2013-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/4505fda5-80a6-4e0d-b0ac-129c11b4ba2f/7931527979-500.jpg" data-tags="indie rock, 10s, 2014: albums" role="button">Spoon - They Want My Soul (2014-08-04)</li>
 </ol>
 List of 100 - under the cut.
@@ -66,9 +66,6 @@ Yazoo - Upstairs At Eric's (1982-08-23)
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
 Tears for Fears - The Hurting (1983-03-07)
 </li>
-<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
-New Order - Power, Corruption & Lies (1983-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/88c30d58-617f-4092-98ba-49f10c243552/6323306000-500.jpg" data-tags="new wave" role="button">
 Frankie Goes to Hollywood - Relax (1983-10-24)
 </li>
@@ -90,8 +87,14 @@ a-ha - Hunting High and Low (1985-06-01)
 <li data-cover="https://img.discogs.com/0qroabb5kt-wzbW0SZm740sfH_c=/fit-in/595x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1720193-1328019095.jpeg.jpg" data-tags="80s, new wave, synth pop, lyrical, 1980s, movie music" role="button">
 Orchestral Manoeuvres in the Dark - If You Leave (1986-04-28)
 </li>
+<li data-cover="https://img.discogs.com/qPqrRhq5hBdbWFV1ExrbEzKBQZY=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1136393-1361212556-3635.jpeg.jpg" data-tags="pop, 80s, new wave" role="button">
+Wham! - The Final (1986-05-31)
+</li>
 <li data-cover="https://img.discogs.com/udOI4fyGJRtPE6tTrzBL1i7-zs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545367-1255250271.jpeg.jpg" data-tags="80s, pop" role="button">
 Pet Shop Boys - Actually (1987-09-07)
+</li>
+<li data-cover="https://img.discogs.com/IDCvj5HKq5M7q6RzHVDyqlNxo9Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-118021-1398198692-8500.jpeg.jpg" data-tags="pop, 80s" role="button">
+Eurythmics - Savage (1987-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/28bb674b-dc21-3a26-92a9-ced106a4165c/2633457554-500.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Greatest Hits (1991-02-28)
@@ -105,9 +108,6 @@ Erasure - Pop! The First 20 Hits (1992-11-16)
 <li data-cover="http://coverartarchive.org/release/f79de1c4-d185-42d1-88dc-2bc00cabbd68/15546860362-500.jpg" data-tags="chillout, dance, synth pop" role="button">
 The Beloved - Conscience (1993-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
-New Order - Republic (1993-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/4564cd79-adbe-41ef-82fd-0a7d40e68da7/11732673965-500.jpg" data-tags="90s" role="button">
 Liquido - Narcotic (1997-07)
 </li>
@@ -117,8 +117,14 @@ Duran Duran - Greatest (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/c68a8eb2-f102-402a-93d1-dcf692fdf011/23128223806-500.jpg" data-tags="80s, electronic" role="button">
 Yazoo - Only Yazoo: The Best Of (1999-09-06)
 </li>
+<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s, pop rock 80" role="button">
+a-ha - Minor Earth | Major Sky (2000-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab9c5e53-5e3d-30b6-9ef3-c8c508aa2718/26802894043-500.jpg" data-tags="new wave" role="button">
 New Order - Get Ready (2001-06-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="awesomeness in the form of sound, ailenrocelectronic" role="button">
+Melody Club - Music Machine (2002)
 </li>
 <li data-cover="https://img.discogs.com/OWq1Qz_SSWVCqDT5iZvBvqVKy0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96418-1194898382.jpeg.jpg" data-tags="trip-hop, electronic, synth pop" role="button">
 Jay-Jay Johanson - Antenna (2002-09-01)
@@ -143,9 +149,6 @@ The Faint - Wet From Birth (2004-09-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
 Nine Inch Nails - The Hand That Feeds (2005-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/df73b5a8-04d2-499b-81c9-4dcf775e3934/10704142957-500.jpg" data-tags="manchester" role="button">
-New Order - Singles (disc 2) (2005-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbbc5d45-e1eb-490f-b869-bf6b0f150306/8372973415-500.jpg" data-tags="alternative, new wave, synth pop, polish, fave albums ever" role="button">
 Kasia Stankiewicz - Mimikra (2006)
@@ -237,6 +240,9 @@ Justice - Audio, Video, Disco (2011-09-21)
 <li data-cover="http://coverartarchive.org/release/186a758f-a2cc-4830-ba83-a91c7f4db742/26575139971-500.jpg" data-tags="electronic, indie, synth pop, electronic pop, los angeles, 10s, thrill jockey" role="button">
 High Places - Original Colors (2011-10-11)
 </li>
+<li data-cover="https://img.discogs.com/nJmocwRcJU4b4g8wY6wZfBokU40=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3545689-1334700036.jpeg.jpg" data-tags="electronic, indie, alternative, indie rock, australian, synth pop, psychedelic, synthpop" role="button">
+Jagwar Ma - Come Save Me (2012)
+</li>
 <li data-cover="https://img.discogs.com/h5t2j4gZipWy-7rXoTsDXYu2Kqw=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1173198-1198170520.jpeg.jpg" data-tags="synth pop, disco house" role="button">
 Friendly Fires - Hurting (2012-02)
 </li>
@@ -257,9 +263,6 @@ Little People - We Are But Hunks of Wood (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/72d7984a-f923-4136-aa15-ab75499d1c70/2940296786-500.jpg" data-tags="die young" role="button">
 Ke$ha - Die Young (2012-11-19)
-</li>
-<li data-cover="https://img.discogs.com/jWX-99JX-c4vhbj23lyq68P1c68=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5347786-1391148311-4423.png.jpg" data-tags="electropop" role="button">
-BROODS - BROODS (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d46e2cc-1ae9-44aa-81bc-89e90eef410e/10240022979-500.jpg" data-tags="pop" role="button">
 Tegan and Sara - Heartthrob (2013-01-22)
@@ -296,9 +299,6 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:22:01.421Z
+date: 2021-04-12T06:53:01.439Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -62,6 +62,9 @@ Stevie Wonder - Innervisions (1973-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Marvin Gaye - Let's Get It On (1973-08-28)
+</li>
+<li data-cover="https://img.discogs.com/gwHHf4SwU8F1I517KGbVxkSAb3w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4150515-1540840917-4122.jpeg.jpg" data-tags="soul" role="button">
+Al Green - Greatest Hits (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Songs in the Key of Life (1976-09-28)
@@ -143,9 +146,6 @@ Joss Stone - The Soul Sessions (2003-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/287a913d-41d8-4e44-bed8-6bc5278bd997/1576712437-500.jpg" data-tags="soul, rnb, alicia keys" role="button">
 Alicia Keys - The Diary of Alicia Keys (2003-12-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
-Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)

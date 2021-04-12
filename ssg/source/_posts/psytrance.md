@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:08:01.423Z
+date: 2021-04-12T07:15:01.664Z
 title: "psytrance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -111,9 +111,6 @@ Cosma - Simplicity (2001-07-27)
 <li data-cover="http://coverartarchive.org/release/52b6f95a-5442-48f8-bebc-21003640aa5a/3063735786-500.jpg" data-tags="goa, psytrance" role="button">
 Chi-A.D. - Infinitism (2001-09)
 </li>
-<li data-cover="https://img.discogs.com/bfCzAZbrtaUz-xHvD3LVE2q_q4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35896-1278899059.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
-System 7 - Seventh Wave (2001-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/b556f511-1a7d-4c7c-a14d-13fda250dfcf/3420882655-500.jpg" data-tags="electronic" role="button">
 Infected Mushroom - Merlin (2002)
 </li>
@@ -206,6 +203,9 @@ Vibe Tribe - Melodrama (2004-11)
 </li>
 <li data-cover="https://img.discogs.com/asva7VJ138kLrHMWw-KW7gCQJag=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391825-1107213628.jpg.jpg" data-tags="psytrance" role="button">
 Fatali - Faith (2005-01-16)
+</li>
+<li data-cover="https://img.discogs.com/DMv585F79Fv6xzHMVT2tLEsqy3Y=/fit-in/168x165/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407928-1109378428.jpg.jpg" data-tags="psytrance" role="button">
+Electrypnose - Brain Stretching (2005-02)
 </li>
 <li data-cover="https://img.discogs.com/n78aruqghHzFQNvqguOS4bQzZ3g=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448353-1126258120.jpeg.jpg" data-tags="psytrance" role="button">
 Rinkadink - Pirate Signal (2005-04)

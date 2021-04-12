@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:37:01.425Z
+date: 2021-04-12T07:13:01.458Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -102,9 +102,6 @@ Underoath - They're Only Chasing Safety (2004-06-15)
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
-The Blood Brothers - Crimes (2004-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
@@ -203,6 +200,9 @@ The Fall of Troy - Manipulator (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2753149-fc02-4804-a989-b537b7016489/6515469434-500.jpg" data-tags="post-hardcore" role="button">
 Dance Gavin Dance - Downtown Battle Mountain (2007-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
+Circa Survive - On Letting Go (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa7ea6f2-f2d9-4dd3-9236-5287a6b56272/7163668976-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - A Flair for the Dramatic (2007-06-26)

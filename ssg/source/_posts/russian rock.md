@@ -1,15 +1,15 @@
 ---
-date: 2021-04-11T12:05:01.662Z
+date: 2021-04-12T06:49:07.018Z
 title: "russian rock: 100 albums you must listen to before you die"
 ---
 ![Сплин - Гранатовый альбом (1998)](https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg "Сплин - Гранатовый альбом (1998)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/KRAsF06OwWq8BQJ_h4tPqnfqoWU=/fit-in/394x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7174417-1435394577-3151.png.jpg" data-tags="russian rock" role="button">Кино - Звезда по имени Солнце (1989)</li>
+<li data-cover="http://coverartarchive.org/release/1aaa0434-20d7-3d2b-8bf7-111fea7805ca/11674927194-500.jpg" data-tags="russian rock" role="button">Сплин - Фонарь под глазом (1997-04)</li>
 <li data-cover="https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg" data-tags="russian rock, rock" role="button">Сплин - Гранатовый альбом (1998)</li>
 <li data-cover="http://coverartarchive.org/release/80fefa12-27e8-4b41-8732-08d161b6f3e5/3408942818-500.jpg" data-tags="russian rock" role="button">Сплин - Зн@менатель (2000)</li>
 <li data-cover="http://coverartarchive.org/release/c890f158-7efa-4d0c-9646-a530493ce315/1405666877-500.jpg" data-tags="russian rock" role="button">Zемфира - Прости Меня Моя Любовь (2000-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/d428c5a2-683a-4691-8890-330c782437fe/10677133074-500.jpg" data-tags="russian rock" role="button">Би-2 - Би-2 (2000-05-08)</li>
-<li data-cover="http://coverartarchive.org/release/981956e9-cbe6-43d3-a41b-9c1cdf9f0615/8629209528-500.jpg" data-tags="rock, russian, russian rock" role="button">Би-2 - Мяу кисс ми (2001-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/103472d6-746e-4533-be60-ba95bb4383fb/1406115627-500.jpg" data-tags="russian rock, rock" role="button">Zемфира - Четырнадцать недель тишины (2002-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/1b904546-2f92-47a7-ac1e-f9e304babe09/9478670539-500.jpg" data-tags="russian rock" role="button">Lumen - Без консервантов (2003)</li>
 <li data-cover="http://coverartarchive.org/release/00de0496-da48-46cc-9199-e3b7b0d13ece/3409380950-500.jpg" data-tags="rock, russian, russian rock" role="button">Сплин - Реверсивная хроника событий (2004-11-17)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/kw26UUKrLgrQ0RBXou7isOp6UoA=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2470436-1285853392.jpeg.jpg" data-tags="russian rock" role="button">
 Кино - 45 (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6d53c65-f2e4-4354-9e9a-c6d5ff94c088/21076825561-500.jpg" data-tags="russian rock, post-punk" role="button">
-Кино - 46 (1983)
 </li>
 <li data-cover="https://img.discogs.com/strtilJSiXOkfhnzPtmFzqz-ECo=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4359117-1362763051-9248.jpeg.jpg" data-tags="russian, russian rock" role="button">
 Аквариум - Десять стрел (1986)
@@ -60,20 +57,17 @@ Nautilus Pompilius - Чужая Земля (1991)
 <li data-cover="https://img.discogs.com/TNBHHvcZ5JAHZtX8BXCqbg4WJtc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442940-1284318700.jpeg.jpg" data-tags="russian rock" role="button">
 АлисА - Шабаш (1991-04-25)
 </li>
-<li data-cover="https://img.discogs.com/YveRMLuzQWp2Z4VLIfpSRo8R4Hs=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777558-1306174349.jpeg.jpg" data-tags="russian rock, russian" role="button">
-ДДТ - Актриса Весна (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/b49ef55a-d9ff-4e06-8c71-e50226122211/5376021504-500.jpg" data-tags="russian rock" role="button">
 Крематорий - Двойной альбом (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cf2a8c6-f2fb-4f99-a316-d9fbb8044667/9283951283-500.jpg" data-tags="psychedelic" role="button">
 Аукцыон - Птица (1993)
 </li>
+<li data-cover="https://img.discogs.com/5sd-ann7Ge6QoN6Hupq1pRjr0rs=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290952-1402517988-9298.jpeg.jpg" data-tags="psychedelic rock, post-punk" role="button">
+Егор И Опизденевшие - Сто лет одиночества (1993)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 Nautilus Pompilius - Титаник (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/58e1b301-dbed-31a1-ab07-0939d3673857/4166685041-500.jpg" data-tags="rock, russian rock" role="button">
-Nautilus Pompilius - Крылья (1995)
 </li>
 <li data-cover="https://img.discogs.com/PV6LijxrU5kiF4qFR4gV9cFmFdY=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10076967-1491749418-8677.jpeg.jpg" data-tags="russian rock" role="button">
 Nautilus Pompilius - Легенды русского рока (1996)
@@ -86,6 +80,9 @@ Nautilus Pompilius - Легенды русского рока (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee696a2-a2df-3103-9552-84bc89c1b21f/10018803050-500.jpg" data-tags="russian, russian rock" role="button">
 Сплин - Коллекционер оружия (1996-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/73e705c9-7d68-49bd-b72e-4bada7f42e9a/13178737648-500.jpg" data-tags="russian rock" role="button">
+Любэ - Песни о людях (1997)
 </li>
 <li data-cover="https://img.discogs.com/YxSU-35yEdwE26kQG4494Heqxaw=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10372012-1496166488-6200.jpeg.jpg" data-tags="russian rock" role="button">
 Пикник - Стекло (1997)
@@ -119,9 +116,6 @@ Tequilajazzz - Целлулоид (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/e14b49ce-056d-4688-8278-03cb597df1ca/7047332743-500.jpg" data-tags="rock, russian, russian rock" role="button">
 Кукрыниксы - Кукрыниксы (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/c17885d0-b406-4003-bc76-7855c5693bbd/7228150636-500.jpg" data-tags="russian rock, ddt, rock" role="button">
-ДДТ - Просвистела (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/470ff4dc-46a8-4972-976e-e7b8846db2d0/5109689506-500.jpg" data-tags="rock, russian rock, brutal kircore, belarussia, hdd" role="button">
 Ляпис Трубецкой - Красота (1999-05)
@@ -177,9 +171,6 @@ Zемфира - До свидания... (2000-08-25)
 <li data-cover="http://coverartarchive.org/release/c94475f2-0c9c-4d28-854e-7907e64f2a9e/9144050916-500.jpg" data-tags="power metal, heavy metal, russian rock" role="button">
 Эпидемия - Загадка Волшебной Страны (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/981956e9-cbe6-43d3-a41b-9c1cdf9f0615/8629209528-500.jpg" data-tags="rock, russian, russian rock" role="button">
-Би-2 - Мяу кисс ми (2001-12-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/7538a325-569c-4394-bf76-b899584120a5/17435364708-500.jpg" data-tags="punk rock" role="button">
 Кукрыниксы - Раскрашенная душа (2002)
 </li>
@@ -210,11 +201,11 @@ Lumen - Без консервантов (2003)
 <li data-cover="http://coverartarchive.org/release/b54e926d-fefe-3de8-84ea-a14b6ce462e0/3409360415-500.jpg" data-tags="rock" role="button">
 Сплин - Новые люди (2003-02-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b6f02e6-df1b-473a-8bd8-bbffa7529ce4/10584030292-500.jpg" data-tags="punk, hardcore, post-punk, punk rock, russian rock" role="button">
+П.Т.В.П. - 2084 (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/74e829b2-6155-49d1-a634-ae72e685e264/11339739256-500.jpg" data-tags="rock, alternative, russian, russian rock, record collection" role="button">
 Би-2 - Иномарки (2004-03-02)
-</li>
-<li data-cover="https://img.discogs.com/UfSn6gfi6sOx5KeoccttQOpOmjg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7325390-1439827999-1877.jpeg.jpg" data-tags="russian rock" role="button">
-Пилот - Рыба, Крот и Свинья (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fee274c-f268-4362-bce0-b13036734296/6680546016-500.jpg" data-tags="russian rock" role="button">
 Ночные Снайперы - SMS (2004-10-21)
@@ -231,6 +222,9 @@ Lumen - Без консервантов (2003)
 <li data-cover="https://img.discogs.com/_xNs8tsaIxyVqvqHtZpasZVZFg8=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820875-1245584795.jpeg.jpg" data-tags="russian rock" role="button">
 Егор Летов - Всё как у людей (2005)
 </li>
+<li data-cover="https://img.discogs.com/XlbMBxYyd6i04Bb_t81gB4naMUc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576603-1510741779-1520.jpeg.jpg" data-tags="rock, singer-songwriter, russian, russian rock" role="button">
+Вячеслав Бутусов - Избранное (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/1861b9e4-917c-46b2-b9c4-1396e9f9e1ce/8928787408-500.jpg" data-tags="russian rock" role="button">
 Пикник - Королевство кривых (2005)
 </li>
@@ -243,8 +237,8 @@ Tracktor Bowling - Черта (2005)
 <li data-cover="http://coverartarchive.org/release/95ef46de-a186-4d59-ad5d-f62f3202852f/1412863706-500.jpg" data-tags="rock" role="button">
 ЗЕМФИРА - Вендетта (2005-03-01)
 </li>
-<li data-cover="https://img.discogs.com/lGDP_8xqxQKo5T7UnrhwYrlzta8=/fit-in/174x174/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5295699-1389864679-4820.jpeg.jpg" data-tags="rock, russian rock" role="button">
-ДДТ - Пропавший без вести (2005-04-22)
+<li data-cover="http://coverartarchive.org/release/7bd5ff8a-8345-4c36-9c6a-605cf7e8bd85/21194553641-500.jpg" data-tags="rock, russian, avant-garde, lesbian, russian rock, art-rock, female vokalists, pederastcore, awesome albums, nazi scum, post-kircore, anal-driven fecalomatateus, shemale vocalist, sieg heil, christian nsbm, surganova, vip-punk-decadence, brutal anal-driven fecalomatateus with pederastic influence and guest vocalist dima bilan" role="button">
+Сурганова и Оркестр - ВОЗЛЮБЛЕННАЯ ШОПЕНА (2005-04-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="russian, eastern europe rock" role="button">
 Братья Грим - Братья Грим (2005-06-06)
@@ -261,11 +255,20 @@ Tracktor Bowling - Черта (2005)
 <li data-cover="https://img.discogs.com/JX4qHWPHttRE2JBYKJbcnqW9a0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8195889-1507216029-3217.jpeg.jpg" data-tags="rock, alternative, pop-rock, russian rock" role="button">
 Би-2 - Молоко (2006-10-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="russian rock, indie, russian, rock" role="button">
+Торба-на-Круче - 57 параллель (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a0a1570-aac9-4aed-8f59-0b8c91bff13d/10592405972-500.jpg" data-tags="punk, hardcore, post-punk, punk rock, russian rock, slova, svoboda" role="button">
+П.Т.В.П. - Свобода Слова (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/8014f993-3a10-43e6-91fc-e70e916e82ae/3409391770-500.jpg" data-tags="russian rock" role="button">
 Сплин - Раздвоение личности (2007-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd593cbf-960b-4d9d-860a-ed711f485dfa/3400684438-500.jpg" data-tags="russian rock" role="button">
 Пикник - Мракобесие и джаз (2007-02-15)
+</li>
+<li data-cover="https://img.discogs.com/b7SWlzJotSC6bpq-2cQ95MyjbME=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9600352-1483519475-1073.jpeg.jpg" data-tags="hard rock, christian, christian rock, industrial metal, russian rock, orthodox christian, orthodox christian rock, russian christian, russian christian rock" role="button">
+АлисА - Стать Севера (2007-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9dfd248f-9bce-490d-9ad6-d2b1a4038d17/1599387966-500.jpg" data-tags="belarusian, rock" role="button">
 Ляпис Трубецкой - Капитал (2007-04-23)
@@ -284,9 +287,6 @@ Tracktor Bowling - Черта (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef9fcae4-98c6-4183-9cf1-ccca0bc04d2b/11417490630-500.jpg" data-tags="russian rock" role="button">
 Аквариум - Лошадь Белая (2008-12-03)
-</li>
-<li data-cover="https://img.discogs.com/VEQJ0qGJQ58dNHlznrKM-w2Ni54=/fit-in/472x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4861994-1377784846-8661.jpeg.jpg" data-tags="russian rock, alternative, indie rock" role="button">
-Би-2 - Лунапарк (2009-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf4db36c-11b0-44d6-a7af-ac5f6a254f11/15427402688-500.jpg" data-tags="russian rock" role="button">
 Lumen - Мир (2009-05-21)

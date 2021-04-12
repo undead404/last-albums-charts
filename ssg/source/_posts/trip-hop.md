@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:12:07.001Z
+date: 2021-04-12T06:59:01.597Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -41,9 +41,6 @@ Björk - Post (1995-06-09)
 </li>
 <li data-cover="https://img.discogs.com/P1aDkYbPs3UCngSPoP-eOqSMKeQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11221028-1512156805-2715.gif.jpg" data-tags="trip-hop, electronic" role="button">
 Moloko - Do You Like My Tight Sweater? (1995-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
-DJ Krush - Milight (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
@@ -98,6 +95,9 @@ Faithless - Sunday 8PM (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9d8f801-2d64-3f82-b238-a44bb333851a/7332788785-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Roseland NYC Live (1998-11-02)
+</li>
+<li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
+Nightmares on Wax - Carboot Soul (1999-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)

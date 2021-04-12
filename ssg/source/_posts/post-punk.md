@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:51:01.405Z
+date: 2021-04-12T06:58:01.700Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -141,6 +141,9 @@ The Cure - Wish (1992-04-07)
 <li data-cover="http://coverartarchive.org/release/2dd25b6d-d060-4cac-86a1-7666d3b43f7b/13484960339-500.jpg" data-tags="post-punk, alternative, new wave" role="button">
 Siouxsie and the Banshees - Twice Upon a Time: The Singles (1992-10-13)
 </li>
+<li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
+Manic Street Preachers - The Holy Bible (1994-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/d7c9e8c6-b057-4f48-b04e-c460ec924eff/11920495341-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Permanent (1995-06-12)
 </li>
@@ -167,9 +170,6 @@ Sonic Youth - Sonic Nurse (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
-</li>
-<li data-cover="https://img.discogs.com/AH111Gn9prP9-UIYb50QuYnIBL0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594068-1304630074.jpeg.jpg" data-tags="indie rock, indie" role="button">
-The Futureheads - The Futureheads (2004-07-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 Interpol - Antics (2004-09-27)

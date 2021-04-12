@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:01:06.887Z
+date: 2021-04-12T07:34:07.116Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1966)
-</li>
 <li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
@@ -92,6 +89,9 @@ The Avalanches - Since I Left You (2000-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
+</li>
+<li data-cover="https://img.discogs.com/wWdr6ZlhZM3V4pdKeuTX0Ti9Ci4=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628771-1603077592-1541.jpeg.jpg" data-tags="australian" role="button">
+Grinspoon - New Detention (2002-06-03)
 </li>
 <li data-cover="https://img.discogs.com/CNWQ-65tOtu0wHnoQxU8t7lmjCM=/fit-in/600x852/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970862-1452672610-7453.jpeg.jpg" data-tags="classic rock, pop, rock, 80s, australian, new wave, soft rock" role="button">
 Men at Work - The Essential Men at Work (2003-04-01)
@@ -162,17 +162,11 @@ Josh Pyke - Feeding the Wolves (2005-11-14)
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bbbf314-6c09-4955-af70-ac1e563edd7a/2083173659-500.jpg" data-tags="alternative, female vocalists" role="button">
-Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
-</li>
 <li data-cover="https://img.discogs.com/iOtZoWcLAu7_1ro4cwfNro7VSgo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654438-1295792168.jpeg.jpg" data-tags="indie pop" role="button">
 Josh Pyke - Memories & Dust (2007-03-10)
 </li>
 <li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Silverchair - Young Modern (2007-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/17fd9c64-1dbc-3d5c-ba53-4086991c81cd/4921652324-500.jpg" data-tags="australian" role="button">
-Powderfinger - Dream Days At The Hotel Existence (2007-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/54f48d91-12e8-48c1-9f84-292e07b9faaa/4216579078-500.jpg" data-tags="hard rock" role="button">
 Airbourne - Runnin' Wild (2007-06-25)
@@ -209,6 +203,9 @@ The Living End - White Noise (2008-07-19)
 </li>
 <li data-cover="https://img.discogs.com/FEQN95Zhrj2P1AbzV-25QcLbtig=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6129122-1445205253-2692.jpeg.jpg" data-tags="indie, singer-songwriter, australian" role="button">
 Josh Pyke - Chimney's Afire (2008-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/87e903e2-2800-47a0-a3a8-4fe8e5bc7331/5543745942-500.jpg" data-tags="hardcore" role="button">
+Deez Nuts - Stay True (2008-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/701340f6-dea7-3f37-acb6-808950f5299b/13904108948-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Black Ice (2008-10-17)
@@ -287,6 +284,9 @@ Jagwar Ma - Howlin (2013-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb1e66b6-6985-4b9c-8e34-6a6d7ffd6630/4414737754-500.jpg" data-tags="electronic, australian, record makers" role="button">
+Midnight Juggernauts - Uncanny Valley (2013-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)

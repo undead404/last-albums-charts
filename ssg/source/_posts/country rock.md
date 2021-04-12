@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:01:06.900Z
+date: 2021-04-12T07:00:01.483Z
 title: "country rock: 100 albums you must listen to before you die"
 ---
 ![Neil Young - Harvest (1972-02-14)](http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg "Neil Young - Harvest (1972-02-14)")
@@ -87,8 +87,8 @@ Eagles - Hotel California (1976)
 <li data-cover="http://coverartarchive.org/release/d3d02eb0-4f02-436b-9f23-0a57eb38ceed/8225494933-500.jpg" data-tags="rock, country rock, 70's" role="button">
 Terry Reid - Seed Of Memory (1976)
 </li>
-<li data-cover="https://img.discogs.com/g6Qi62Z2oEuySwlu6p9sEz9nRkE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-394522-1330284691.jpeg.jpg" data-tags="country, country rock, my country" role="button">
-Gram Parsons - Sleepless Nights (1976)
+<li data-cover="https://img.discogs.com/Lz0kq17EnvPDzdlN-UJtuB3lxqs=/fit-in/255x255/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3055148-1343214860-9733.jpeg.jpg" data-tags="southern rock" role="button">
+The Marshall Tucker Band - Carolina Dreams (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/9951493a-4842-4d0b-bfdc-8f15d015b582/15026139423-500.jpg" data-tags="70s, country rock" role="button">
 The Band - Islands (1977-03-15)
@@ -101,9 +101,6 @@ Eagles - The Long Run (1979-09-24)
 </li>
 <li data-cover="https://img.discogs.com/12XinCrK1-ERBM5rie8bnGzRqO4=/fit-in/593x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892381-1169932845.jpeg.jpg" data-tags="country rock, classic rock, rock" role="button">
 The Georgia Satellites - Georgia Satellites (1986)
-</li>
-<li data-cover="https://img.discogs.com/PgescH_NbCDmXQaNS1BL9I6ulo8=/fit-in/194x259/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8597939-1489266075-7765.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
-Nick Lowe - Basher: The Best of Nick Lowe (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
@@ -119,6 +116,9 @@ Chet Atkins And Mark Knopfler - Neck And Neck (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c624a5-a8ce-4875-92ee-bb351f46225a/17019722494-500.jpg" data-tags="classic rock, folk" role="button">
 Crosby, Stills & Nash - CSN (1991-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/8733b7cf-a471-49d8-8fcb-b7e0730f3937/18818198127-500.jpg" data-tags="southern rock, country rock, my country" role="button">
+Confederate Railroad - Confederate Railroad (1992)
 </li>
 <li data-cover="https://img.discogs.com/dSHHQw7HsvatcIMDhjSAuuRjFI0=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726664-1433286162-6985.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
 Morrissey - Your Arsenal (1992-07-22)
@@ -159,6 +159,9 @@ Steve Earle - I Feel Alright (1996-03-05)
 <li data-cover="http://coverartarchive.org/release/d18b273a-4987-4594-a4db-419454c7e113/2013460549-500.jpg" data-tags="alt-country, 90s" role="button">
 Wilco - Being There (1996-10-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/ed60ac12-cffe-4c9a-9f56-9760c47d9280/24656028985-500.jpg" data-tags="60s, classic rock" role="button">
+The Byrds - The Very Best Of (1997-06-23)
+</li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
@@ -171,9 +174,6 @@ Shania Twain - Shania Twain (1998)
 <li data-cover="http://coverartarchive.org/release/0aad6166-e00f-40cf-b59e-1700fa102825/17554569612-500.jpg" data-tags="country rock, modern country, hum2check, wf" role="button">
 Rodney Carrington - Hangin' With Rodney (1998-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2658fda-efec-4b26-b07e-c9cec0887f37/26645577491-500.jpg" data-tags="country, country rock, countryalbum" role="button">
-Joe Diffie - Greatest Hits (1998-06-09)
-</li>
 <li data-cover="https://img.discogs.com/0kmYGwSSSxRsDnz89HiCzXcF_60=/fit-in/400x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178124-1198605880.jpeg.jpg" data-tags="rock, female vocalists, 90s, sheryl crow" role="button">
 Sheryl Crow - The Globe Sessions (1998-09-18)
 </li>
@@ -185,9 +185,6 @@ Cross Canadian Ragweed - Highway 377 (2001-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/021cbe1a-bfe3-44bf-baa6-520efeeadca6/21779464225-500.jpg" data-tags="country rock" role="button">
 Little Big Town - Little Big Town (2002-05-07)
-</li>
-<li data-cover="https://img.discogs.com/pmmj3mB4SNEPLxvvgGYDKOI3qy8=/fit-in/408x361/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396372-1412006316-8434.jpeg.jpg" data-tags="classic rock, metal, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, 2000s, chameleon, proto punk, my favourite artist, rock-protopunk" role="button">
-Guided by Voices - Universal Truths and Cycles (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbe2d06-44d4-49c9-acf6-7f308ae1421b/17554310246-500.jpg" data-tags="montgomery gentry" role="button">
 Montgomery Gentry - My Town (2002-08-27)
@@ -209,9 +206,6 @@ Eagles - The Complete Greatest Hits (2003-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/99dccf04-5813-493a-9277-ec4df7b0ef09/13886519569-500.jpg" data-tags="country, toby keith" role="button">
 Toby Keith - Shock'n Y'All (2003-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
-Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1240c510-7015-4484-baac-ce17f5277ea1/7383589652-500.jpg" data-tags="rock" role="button">
 John Mellencamp - Words & Music: John Mellencamp's Greatest Hits (2004-10-19)
@@ -237,6 +231,9 @@ Jason Aldean - Jason Aldean (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cdef9f8-01c2-443f-bbf6-d79b560b82f6/18794442607-500.jpg" data-tags="folk, country" role="button">
+Sarah Harmer - I'm a Mountain (2005-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e461da2-55e8-4914-a2a9-fb8262bf3c81/8361384720-500.jpg" data-tags="southern rock, country rock, da fazenda" role="button">
 Shooter Jennings - Electric Rodeo (2006-04-04)
 </li>
@@ -251,6 +248,9 @@ Kid Rock - Rock N Roll Jesus (2007-10-09)
 </li>
 <li data-cover="https://img.discogs.com/FPZ93SBIprFmKGpea_spKoqsSRY=/fit-in/253x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3301062-1324696540.jpeg.jpg" data-tags="country, watching airplanes" role="button">
 Gary Allan - Living Hard (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/36e4dd6d-07b0-461e-a82d-72a77d1d4a00/21483835166-500.jpg" data-tags="progressive rock, country rock, contemporary country" role="button">
+Shooter Jennings - The Wolf (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbfb6b7b-86d5-387a-bee2-43f61a5a5075/12897948332-500.jpg" data-tags="classic rock, rock, eagles" role="button">
 Eagles - Long Road Out of Eden (2007-10-29)

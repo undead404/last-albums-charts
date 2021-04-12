@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:53:01.399Z
+date: 2021-04-12T07:31:07.137Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -183,9 +183,6 @@ Bush - Razorblade Suitcase (1996-11-19)
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/8843d2b4-f584-46a4-9c3c-f082b7eb39c4/9233096986-500.jpg" data-tags="grunge, 90s, rock, alternative" role="button">
-Days of the New - Days Of The New (1997-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
 Creed - My Own Prison (1997-06-24)
 </li>
@@ -209,6 +206,9 @@ Silverchair - Neon Ballroom (1999-03-05)
 </li>
 <li data-cover="https://img.discogs.com/n8IeQKlL1AkpY4WaZ5akx0X88EA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-631417-1400879404-2317.jpeg.jpg" data-tags="rock, grunge, 90s, covers, flashback alternatives" role="button">
 Pearl Jam - Last Kiss (1999-06-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
+Creed - Human Clay (1999-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/33c3f176-d1f7-3e76-83ef-b03dc30e57d6/14086233637-500.jpg" data-tags="rock, alternative" role="button">
 Chris Cornell - Euphoria Morning (1999-09-21)

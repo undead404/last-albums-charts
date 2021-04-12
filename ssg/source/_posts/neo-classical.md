@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:50:01.393Z
+date: 2021-04-12T07:39:12.664Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
 ![Escala - Escala (2009-05-25)](http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg "Escala - Escala (2009-05-25)")
@@ -35,6 +35,9 @@ Rick Wakeman - Sea Airs (1989)
 </li>
 <li data-cover="https://img.discogs.com/QagybxIYJmdxVTp05pWNRoaelwI=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427144-1336831134-9791.jpeg.jpg" data-tags="female vocalists, gothic, darkwave" role="button">
 Collection d'Arnell~Andréa - Au val des roses (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/6bbfb895-050f-46e9-b94a-d2cd6e8c85aa/6575723131-500.jpg" data-tags="industrial" role="button">
+In the Nursery - Counterpoint (1990)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="piano" role="button">
 Rick Wakeman - Night Airs (1990)
@@ -221,9 +224,6 @@ Galneryus - Reincarnation (2008-09-10)
 </li>
 <li data-cover="https://img.discogs.com/vctIGVYE7vQrSpGTbIwNhmHp7Y4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1871428-1346769453-4781.jpeg.jpg" data-tags="post-rock" role="button">
 sgt. - Stylus Fantasticus (2008-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
-Frozen Silence - Impressions (2008-12-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, instrumental, neo-classical, doujin, middleisland" role="button">
 MiddleIsland - 弦奏悲哀響 (2008-12-29)

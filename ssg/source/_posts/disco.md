@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:09:01.415Z
+date: 2021-04-12T07:32:01.518Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -51,8 +51,8 @@ Boney M. - Take the Heat Off Me (1976-06-28)
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Arrival (1976-10-11)
 </li>
-<li data-cover="https://img.discogs.com/KpDQq-HuKtvNzBTBY_TTY4Ew3CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1018202-1518278938-5231.jpeg.jpg" data-tags="disco" role="button">
-Grace Jones - Portfolio (1977)
+<li data-cover="http://coverartarchive.org/release/1a2f3054-da06-43c7-a406-bbafa7be934e/19928940811-500.jpg" data-tags="disco, 70s" role="button">
+Boney M. - Love for Sale (1977-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/99121ea0-12d3-4b5a-8ea0-04c61d228515/22950842826-500.jpg" data-tags="disco, pop, 70s" role="button">
 Donna Summer - I Remember Yesterday (1977-06-01)

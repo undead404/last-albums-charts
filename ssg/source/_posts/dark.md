@@ -1,10 +1,9 @@
 ---
-date: 2021-04-11T17:14:01.610Z
+date: 2021-04-12T07:37:01.450Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">Lou Reed - Berlin (1973-10)</li>
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">Robbie Williams - Life Thru a Lens (1997-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">The Smashing Pumpkins - Adore (1998-05-29)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
@@ -14,6 +13,7 @@ title: "dark: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Rated R (2009-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">The Weeknd - Trilogy (2012-11-13)</li>
+<li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">Sky Ferreira - Night Time, My Time (2013-10-29)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,20 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
-Lou Reed - Berlin (1973-10)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
-New Order - Movement (1981-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3daaa225-b92c-340e-8a1e-2f78380e82a9/16360171548-500.jpg" data-tags="80s, rock" role="button">
 Lou Reed - The Blue Mask (1982-02)
 </li>
+<li data-cover="https://img.discogs.com/zcFggLDOqJ71WeIG89qrAWcuYnI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381628-1384313765-5053.jpeg.jpg" data-tags="80s, punk, dark, post-punk, anarcho-punk, anarchopunk, dmtr likes this album, sonic fetish, gloom punk" role="button">
+The Mob - Let the Tribe Increase (1983)
+</li>
 <li data-cover="https://img.discogs.com/EWJD-VeCM5bj-nw9YQaElt6Tccs=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11627074-1519812156-1649.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b2b725f-c3dd-41c2-b98d-e42f027fbe1c/3768060682-500.jpg" data-tags="musical, soundtrack" role="button">
+Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
 </li>
 <li data-cover="https://img.discogs.com/FYbntpWx7Kum8VUDhEQ3SblLQBs=/fit-in/350x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4453816-1426631153-6153.jpeg.jpg" data-tags="alternative, dark, gang of four, flashback alternatives, wire-y" role="button">
 Gang of Four - A Brief History of the Twentieth Century (1990)
@@ -45,6 +45,9 @@ Lacrimosa - Angst (1991)
 <li data-cover="http://coverartarchive.org/release/dca56b61-66f1-34d9-8184-1010cf5bb8c9/24465532686-500.jpg" data-tags="electronic, ebm" role="button">
 And One - Flop! (1992-03-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/a19d73a5-005c-4be6-b256-2ca68249f176/18661266418-500.jpg" data-tags="electronic, ambient, chillout, electronica, delerium" role="button">
+Delerium - Semantic Spaces (1994-08-22)
+</li>
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
 </li>
@@ -53,6 +56,9 @@ Deine Lakaien - Acoustic (1995)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Dark Funeral - The Secrets of the Black Arts (1996-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/82e0e71d-d8f6-3706-b8cb-362198addb7f/15960032349-500.jpg" data-tags="folk" role="button">
+Smog - The Doctor Came At Dawn (1996-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3852304a-41d1-4639-bab9-abb606c33c75/3031192753-500.jpg" data-tags="pop, alternative, britpop, rock" role="button">
 Robbie Williams - The Ego Has Landed (1997)
@@ -108,9 +114,6 @@ Coil - Musick to Play in the Dark, Volume 2 (2000-09)
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
-<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
-I Am Kloot - Natural History (2001-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
@@ -122,9 +125,6 @@ O.N.A. - Mrok (2001-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba845ec4-835a-4c0c-8ff1-178c0a96c173/3020029421-500.jpg" data-tags="alt-country, jay munly" role="button">
 Jay Munly - Jimmy Carter Syndrome (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/cacbd6c9-7136-4ed8-9695-24243064d47d/3166622070-500.jpg" data-tags="darkwave" role="button">
-Deine Lakaien - White Lies (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/49a9d443-4e2f-42de-80d6-77a04ab552f4/9607172240-500.jpg" data-tags="metal, ambient, experimental, dark, quality, has hidden track, albums owned by me, change my live forever" role="button">
 Martin Grech - Open Heart Zoo (2002-07-22)
@@ -153,11 +153,11 @@ The Cure - The Cure (2004-06-25)
 <li data-cover="http://coverartarchive.org/release/887f53f8-4a26-4281-a659-019b07fe829e/3263073661-500.jpg" data-tags="experimental" role="button">
 Ataxia - Automatic Writing (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/36ea7556-cd72-4097-abaa-4a838c8aa204/8940387621-500.jpg" data-tags="ambient, 00s, arcana" role="button">
-Arcana - The New Light (2004-08-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/97af86a2-0d59-45b1-895d-b477eba05369/17633867348-500.jpg" data-tags="electronic, trip-hop" role="button">
 Ugress - Cinematronics (2004-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/4970d789-2bf8-4e33-84be-a48cfb1f7eaa/28036017062-500.jpg" data-tags="ambient" role="button">
+Rajna - Black Tears (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
@@ -177,14 +177,17 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
-Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">
-Om - Conference of the Birds (2006-02-24)
+<li data-cover="http://coverartarchive.org/release/747b94d9-c224-42f6-bbb2-86660095983b/19190222896-500.jpg" data-tags="ambient" role="button">
+Deaf Center - Pale Ravine (2005-11-07)
+</li>
+<li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
+Android Lust - Devour, Rise, and Take Flight (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7162642-9a0e-354c-868a-2cdddc6c27dc/2607673953-500.jpg" data-tags="doom metal" role="button">
+Daylight Dies - Dismantling Devotion (2006-03-07)
 </li>
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
@@ -192,8 +195,14 @@ From First to Last - Heroine (2006-03-20)
 <li data-cover="http://coverartarchive.org/release/65cfba88-743b-4466-a3ed-d18e44ad99e0/8784418216-500.jpg" data-tags="avant-garde, experimental" role="button">
 Scott Walker - The Drift (2006-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/da978091-4345-440f-9489-c3d08ee736fb/21329899393-500.jpg" data-tags="electronic" role="button">
+Thom Yorke - Harrowdown Hill (2006-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
+</li>
+<li data-cover="https://img.discogs.com/H7tlFqLHefrifMGC6dqj0vJ2sjM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15216139-1588236407-2635.jpeg.jpg" data-tags="experimental, noise rock, dark, psychedelic" role="button">
+Psychic Ills - Early Violence (2006-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
 Amon Tobin - Foley Room (2007-02-26)
@@ -216,9 +225,6 @@ PJ Harvey - White Chalk (2007-09-19)
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
-<li data-cover="https://img.discogs.com/IbMuPSU7awPxdRyUdt_Nl1rAHlg=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225596-1329953361.jpeg.jpg" data-tags="ambient, downtempo" role="button">
-Subheim - Approach (2008-04-01)
-</li>
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
@@ -231,20 +237,20 @@ Kerli - Love Is Dead (2008-07-08)
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
 </li>
-<li data-cover="https://img.discogs.com/wz0yn2XqXYzmHJ5nwwlBxkfZsTs=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557097-1364509041-6883.jpeg.jpg" data-tags="dark, shoegaze" role="button">
-Mercury Rev - Snowflake Midnight (2008-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd6d719b-10ca-4092-bde1-0ba2b3428b45/23912438078-500.jpg" data-tags="electronic, soul, alternative, new wave, 00s" role="button">
-Grace Jones - Hurricane (2008-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/a94365c2-0440-33f7-8278-bc3bf373243c/15037794641-500.jpg" data-tags="progressive rock" role="button">
 Steven Wilson - Insurgentes (2008-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/11b2eb6b-6ecb-4cfc-b814-8ebc80dccd88/9907441763-500.jpg" data-tags="folk, dark folk, neofolk" role="button">
+Wardruna - Runaljod - gap var Ginnunga (2009-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/67fd1cdd-1024-41e1-b103-fab82330a0b4/5674381799-500.jpg" data-tags="industrial metal" role="button">
 Deathstars - Night Electric Night (2009-01-30)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad8251fc-f91f-4f77-bfdd-3dea80aa4826/9967921599-500.jpg" data-tags="pop" role="button">
+Pati Yang - Faith, Hope & Fury (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
@@ -264,9 +270,6 @@ Editors - In This Light and on This Evening (2009-09-10)
 <li data-cover="https://img.discogs.com/WKOPhtOLOcJTexdqT9-NIbgZzL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1972619-1510337422-8008.png.jpg" data-tags="doom metal, sludge" role="button">
 A Storm of Light - Forgive Us Our Trespasses (2009-09-22)
 </li>
-<li data-cover="https://img.discogs.com/GLTC9QYxisrKr6jj8FoO7cOYlps=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275018-1273837603.jpeg.jpg" data-tags="experimental, krautrock, ambient" role="button">
-Beak> - Beak> (2009-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
 Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
@@ -284,9 +287,6 @@ LA Vampires & Zola Jesus - LA Vampires & Zola Jesus (2010-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2852bc2-4919-41e7-aab4-c3ff47ba1c2c/20543754977-500.jpg" data-tags="witch house" role="button">
 Salem - King Night (2010-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fe6179a-6ae4-4436-950e-aaea4b2653c5/14003687395-500.jpg" data-tags="electro, dark, industrial, synth, synthpop, gothic rock, electro rock, aggro, electronic rock, belarus, synthrock, everything i need, lacrimaindarkness, angstwave, lacrima in darkness, synth gothic, 4 me, shadowplay release, aggro synthpop" role="button">
-Cold in May - Gone Away With the Memories (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)
@@ -312,13 +312,13 @@ The Weeknd - Trilogy (2012-11-13)
 <li data-cover="http://coverartarchive.org/release/92f12c90-b11d-47f6-b94e-1c1f6b2ba393/15714276117-500.jpg" data-tags="japanese, female vocalists, dark, girls, jpop, asian, j-pop, girl band, girl groups, gloomy, asian pop, i love this fucking album" role="button">
 Kalafina - Consolation (2013-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3132f48-0254-4df0-91b6-92387a64a949/10701698463-500.jpg" data-tags="pop, dark, korean, k-pop, dance pop, kpop, korea, korean pop, korean music" role="button">
-VIXX - hyde (2013-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d276ca4-c5da-4ad7-a838-2939d57b6a55/7522883582-500.jpg" data-tags="rock, alternative" role="button">
 Manchester Orchestra - Cope (2014-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d20314b-2d1f-4c00-84ba-53d973044096/8264989926-500.jpg" data-tags="atmospheric black metal" role="button">
+Darkspace - Dark Space III I (2014-09-06)
 </li>
 </ol>

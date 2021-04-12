@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:29:01.407Z
+date: 2021-04-12T06:52:01.629Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -216,9 +216,6 @@ The Rakes - Capture/Release (2005-08-15)
 <li data-cover="http://coverartarchive.org/release/745378c5-be6e-4500-b507-c50c6e175970/15823905696-500.jpg" data-tags="coldplay, rock, alternative rock, britpop" role="button">
 Coldplay - Fix You (2005-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
-Elbow - Leaders of the Free World (2005-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
 Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
@@ -242,6 +239,9 @@ Razorlight - Razorlight (2006-07-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)
+</li>
+<li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
+The Fratellis - Costello Music (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)

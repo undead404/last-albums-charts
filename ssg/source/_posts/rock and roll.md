@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T12:21:01.405Z
+date: 2021-04-12T07:06:01.411Z
 title: "rock and roll: 100 albums you must listen to before you die"
 ---
 ![Slash - Slash (2010-03-31)](https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg "Slash - Slash (2010-03-31)")
@@ -80,6 +80,9 @@ The Rolling Stones - The Rolling Stones (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/18492d6e-b040-30c3-9d7c-e082ec2963fe/23559347519-500.jpg" data-tags="rock, classic rock, southern rock, 60s" role="button">
 Creedence Clearwater Revival - Bayou Country (1969-01-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/09487d3d-99d8-4ed2-8d0b-9ffce036fd01/13366801462-500.jpg" data-tags="studies, garage, rock and roll, proto-punk, pixies palace basement, rockitxten" role="button">
+Flamin' Groovies - Flamingo (1970)
 </li>
 <li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
 John Cale - Vintage Violence (1970)
@@ -231,14 +234,8 @@ Hot Snakes - Audit In Progress (2004-10-05)
 <li data-cover="https://img.discogs.com/-ZSZoy7U01QRWfDITkuef6kb9wg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305288-1372418725-5004.jpeg.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - Eagles (2005-03-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
-The Hellacopters - Rock & Roll Is Dead (2005-06-06)
-</li>
 <li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - A Bigger Bang (2005-06-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/itnj2oqaEedg_MWo5_XtGU6iH8I=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2731313-1336251859.jpeg.jpg" data-tags="canada, rock and roll, summer hangovers" role="button">
 The Deadly Snakes - Porcella (2005-09-27)
@@ -251,6 +248,9 @@ Elvis Presley - Elvis Rock (2006-02-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Buckcherry - 15 (2006-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/a1404c12-a563-4614-bc3c-d5adb1ffac03/908515356-500.jpg" data-tags="60s, 50s" role="button">
+Chuck Berry - The Definitive Collection (2006-04-18)
 </li>
 <li data-cover="https://img.discogs.com/gpxmCvbMTCBf_A62dUGyuk8lnQ8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-709401-1380547578-9100.jpeg.jpg" data-tags="rock" role="button">
 Primal Scream - Riot City Blues (2006-05-31)

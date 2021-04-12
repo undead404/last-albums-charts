@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:41:01.412Z
+date: 2021-04-12T07:24:01.756Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -95,6 +95,9 @@ Duran Duran - Duran Duran (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 The Psychedelic Furs - Talk Talk Talk (1981-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e6fd74d-dc32-4d74-85ca-3ca40dff78b2/13250310414-500.jpg" data-tags="80s" role="button">
+Kim Wilde - Kim Wilde (1981-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
@@ -314,9 +317,6 @@ Trentemøller - Lost (2013-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2418376-2c16-416d-84a6-bd045f0464dd/7515767685-500.jpg" data-tags="indie pop, 2010s, rca records" role="button">
 Bleachers - Strange Desire (2014-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
-Walk the Moon - Talking Is Hard (2014-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)
