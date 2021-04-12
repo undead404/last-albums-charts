@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:59:01.445Z
+date: 2021-04-12T03:32:01.444Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -114,6 +114,9 @@ Keith Jarrett - The Köln Concert (1975-11-30)
 <li data-cover="https://img.discogs.com/Lqi0FlOkjCdBSpOBQlXqURgU1oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4939913-1380041719-7816.jpeg.jpg" data-tags="jazz, fusion" role="button">
 Weather Report - Black Market (1976-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/29a5b09a-f19a-4cab-8ed1-2b2e4fd29daf/13928627628-500.jpg" data-tags="jazz guitar, jazz" role="button">
+George Benson - Breezin' (1976-05)
+</li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
 </li>
@@ -179,9 +182,6 @@ Regina Spektor - 11:11 (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
-Gabin - Gabin (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/77d01302-748f-4301-8c36-32a0f5c5ba51/6611958751-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - Pointless Nostalgic (2002-11-14)

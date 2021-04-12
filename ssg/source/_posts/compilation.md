@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:10:01.637Z
+date: 2021-04-12T03:20:01.469Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
-Procol Harum - A Whiter Shade of Pale (1967)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
 Crosby, Stills, Nash & Young - So Far (1974-08-19)
 </li>
@@ -41,6 +38,9 @@ Buzzcocks - Singles Going Steady (1979-09-25)
 </li>
 <li data-cover="https://img.discogs.com/ALWL6pUKpDjvVBD_87s_Ul9i73s=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3802835-1345029926-3937.jpeg.jpg" data-tags="classic, compilation, southern rock, c c r" role="button">
 Creedence Clearwater Revival - Creedence Country (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7aea519-09a6-33a2-a2d1-3fc69cc48b1c/28117177612-500.jpg" data-tags="compilation, industrial" role="button">
+Throbbing Gristle - Throbbing Gristle's Greatest Hits (1981-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
@@ -60,11 +60,17 @@ Billy Idol - Vital Idol (1985)
 <li data-cover="http://coverartarchive.org/release/9feb63e8-ffc5-47cc-b0f4-dace3d9e75d4/920100536-500.jpg" data-tags="80s" role="button">
 The Smiths - The World Won't Listen (1987-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/6600f795-278c-49e3-883d-547016141503/15810465428-500.jpg" data-tags="alternative rock, rem" role="button">
+R.E.M. - Dead Letter Office (1987-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
 The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
-<li data-cover="https://img.discogs.com/F8vg3FhAEcNpd4S5wwjBmKqjNrw=/fit-in/235x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3885333-1348062286-2325.jpeg.jpg" data-tags="classic rock, rock, 80s, new wave, compilation, 80s rock, collected, gespannt" role="button">
-Billy Idol - The Essential (1988)
+<li data-cover="http://coverartarchive.org/release/95091e40-8397-44af-9498-0ecd719c4c64/22503116196-500.jpg" data-tags="oldies" role="button">
+Dusty Springfield - The Silver Collection (1988)
+</li>
+<li data-cover="https://img.discogs.com/SF92pnit6ZTmgebM-egRnzh97IA=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359263-1437873489-6468.jpeg.jpg" data-tags="heavy metal, compilation" role="button">
+Scorpions - Wind of Change (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/74678f8d-80a8-3091-ada8-89d617241547/22697273580-500.jpg" data-tags="morrissey, alternative" role="button">
 Morrissey - Bona Drag (1990-10-08)
@@ -93,9 +99,6 @@ Red Hot Chili Peppers - What Hits!? (1992-09-29)
 <li data-cover="http://coverartarchive.org/release/05cfeb8d-ca81-40fc-a732-3e745bff281d/1755021500-500.jpg" data-tags="sting" role="button">
 Sting - Fields Of Gold - The Best Of Sting 1984 - 1994 (1994-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
-New Order - (the best of) New Order (1994-11-21)
-</li>
 <li data-cover="https://img.discogs.com/ilNLt_WujIF8v65KNoiabHH6IrQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856447-1165902203.jpeg.jpg" data-tags="compilation, anthology, booie ogie ogie" role="button">
 A Taste Of Honey - Anthology (1995)
 </li>
@@ -104,6 +107,9 @@ Joy Division - Permanent (1995-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/829d106e-5816-4161-bfae-da2f2f9b3413/8014556953-500.jpg" data-tags="compilation, velvets, box set" role="button">
 The Velvet Underground - Peel Slowly And See (1995-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5265116-13c0-4c9c-bd96-f0e71490f0c9/8612920874-500.jpg" data-tags="rock, classic rock" role="button">
+The Rolling Stones - Stripped (1995-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/df661f80-08f8-41b3-9025-af22297dbd15/11244597832-500.jpg" data-tags="soul, usa, 90s, rnb, compilation, commodores, soul funk, soul tag, soul peppermint" role="button">
 Commodores - The Very Best Of The Commodores (1995-11-03)
@@ -120,14 +126,14 @@ The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
 </li>
+<li data-cover="https://img.discogs.com/qjEs9lOrq5euAKXxhp-M1cOIjD0=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1432016-1454377754-8190.jpeg.jpg" data-tags="compilation" role="button">
+Frank Sinatra - Sinatra Sings His Greatest Hits (1997-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">
 The Mamas & the Papas - Greatest Hits (1998-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d255979-2c83-4e1f-91d2-7d7b3faf0a9f/11408081526-500.jpg" data-tags="80s, world, latin, 90s, african, female vocalist, compilation, cape verdean, coladeira, moma" role="button">
 Cesária Évora - Best Of (1998-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
-Thievery Corporation - Abductions and Reconstructions (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec286378-1430-41ae-b851-5e1bb50d57e7/7123321703-500.jpg" data-tags="heavy metal, metal" role="button">
 Iron Maiden - Ed Hunter (1999-07)
@@ -174,14 +180,14 @@ No Doubt - The Singles 1992-2003 (2003-10-28)
 <li data-cover="https://img.discogs.com/pnllg9lV1ZIO0lR7tBy4x9mtFro=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8829013-1469641555-8927.jpeg.jpg" data-tags="2003" role="button">
 Primal Scream - Dirty Hits (2003-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
-Damien Rice - B-Sides (2004-08-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/02836c6d-9de4-4183-91ac-cb12ef36aeba/21476872343-500.jpg" data-tags="british, pop, blue" role="button">
 Blue - Best of Blue (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
 Neil Young - Greatest Hits (2004-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a155c9f-07cc-4114-8d24-0503c1df0322/1828963915-500.jpg" data-tags="80s" role="button">
+Chicago - Love Songs (2005-01-25)
 </li>
 <li data-cover="https://img.discogs.com/knjaSnNxQ0KcisBhjyaU6_7421A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089778-1191250136.jpeg.jpg" data-tags="classic rock, folk, csn" role="button">
 Crosby, Stills & Nash - Greatest Hits (2005-03-14)
@@ -189,14 +195,8 @@ Crosby, Stills & Nash - Greatest Hits (2005-03-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
 Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/caef1012-f6e2-42e4-9841-4e58ede860d9/1995269799-500.jpg" data-tags="jazz" role="button">
-Julie London - The Very Best Of Julie London (2005-07-01)
-</li>
 <li data-cover="https://img.discogs.com/pPPWcvD_F9GXyGQxpOVeJsKQTLY=/fit-in/600x691/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8875473-1470585325-4745.jpeg.jpg" data-tags="pop, michael jackson" role="button">
 Michael Jackson - The Essential Michael Jackson (2005-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3517700c-cd8d-3382-8b1d-e22d2684e179/11542841861-500.jpg" data-tags="compilation" role="button">
-Public Enemy - Power To The People And The Beats: Public Enemy's Greatest Hits (2005-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/177fcfee-525a-46c6-9c58-d6a82cf9cc8d/14885026677-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - #1's (2005-10-24)
@@ -204,11 +204,11 @@ Destiny's Child - #1's (2005-10-24)
 <li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
 Eurythmics - Ultimate Collection (2005-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/42e480c0-2447-4236-91d0-d0c70894b205/22673085560-500.jpg" data-tags="rock, huey lewis and the news, 80s" role="button">
-Huey Lewis & The News - Greatest Hits (2006-05-23)
-</li>
 <li data-cover="https://img.discogs.com/ExJOp-hCuasCOHXHPB4IdDJZL04=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100960-1393561989-4861.jpeg.jpg" data-tags="experimental" role="button">
 Stereolab - Serene Velocity - A Stereolab Anthology (2006-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/441cf00b-8365-46ee-8c11-21dfb5f8e034/25433486566-500.jpg" data-tags="compilation, power metal, melodic metal, cover version, iron maiden, ralf scheepers, mat sinner, primer fear-metal is forever-the very best of primer fear" role="button">
+Primal Fear - Metal Is Forever - The Very Best of Primal Fear (2006-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/43e5022a-adb3-4eec-9666-e93de83c11b6/8111180487-500.jpg" data-tags="rock, alternative" role="button">
 Crash Test Dummies - The Best of Crash Test Dummies (2007)
@@ -218,6 +218,9 @@ Aretha Franklin - The Very Best of Aretha Franklin (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a502507-95de-4d78-bf3c-f82b73b86f65/2010287344-500.jpg" data-tags="rap" role="button">
 DJ Khaled - We The Best (2007-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab84a832-8fc8-42a3-a849-adc188738aec/7365407384-500.jpg" data-tags="rock" role="button">
+Santana - Ultimate Santana (2007-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0502de68-1bd3-3e76-a375-5e8ba2cee596/17965853791-500.jpg" data-tags="electronic, alternative" role="button">
 Gorillaz - D-Sides (2007-11-05)
@@ -236,6 +239,9 @@ Julieta Venegas - Realmente Lo Mejor (2007-12-18)
 </li>
 <li data-cover="https://img.discogs.com/a8-rnlP1hyWgyz2lFT3xzeChCvY=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9238583-1477167057-8071.jpeg.jpg" data-tags="alternative rock" role="button">
 Eels - Meet the Eels: Essential Eels 1996-2006 Vol. 1 (2008-01-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f369d44-77ec-4b13-a183-6998b5496058/7344283221-500.jpg" data-tags="rock" role="button">
+The Cranberries - Gold (2008-03-11)
 </li>
 <li data-cover="https://img.discogs.com/jqTRiSLDBR0iVbK5KvUh6sso1B8=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464028-1221668651.jpeg.jpg" data-tags="indie rock, compilation, 00s, greatest hits, try before i buy, 200 great albums owned by sideflower, deltasonic records, boughtlist2011" role="button">
 The Coral - Singles Collection (2008-09-15)
@@ -276,9 +282,6 @@ a-ha - 25 (2010-08-06)
 <li data-cover="http://coverartarchive.org/release/cf8cf4b6-9300-4778-9820-1253b8e03102/2176160466-500.jpg" data-tags="rock" role="button">
 Santana - Guitar Heaven: The Greatest Guitar Classics Of All Time (2010-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7d16c58-8498-46bc-90b6-d5b042428935/3195674266-500.jpg" data-tags="10s" role="button">
-Suede - The Best Of (2010-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d6b7b3b-c103-4745-9519-f76ecc8b38ae/16155870206-500.jpg" data-tags="metal, alternative, doom metal, sludge, psychill, compilation, dark ambient, industrial metal, november, post-metal, justin broadrick, 2cd, ghost drone, november 2010, hydra head records, aaron turner, daymare recordings, drone-shoegaze, faith coloccia, 16 november 2010, 16 november, november 16th, 2x12" role="button">
 Jesu - Heart Ache & Dethroned (2010-11-16)
 </li>
@@ -300,14 +303,8 @@ Frank Sinatra - Sinatra: Best of the Best (2011-11-15)
 <li data-cover="http://coverartarchive.org/release/48924fb0-54fc-4dff-a242-e5bcbe4ceba9/8458484651-500.jpg" data-tags="pop, female vocalists" role="button">
 Kylie Minogue - The Best of Kylie Minogue (2012-05-30)
 </li>
-<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
-Rodriguez - Searching for Sugar Man (2012-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a8dc0bf1-c974-4f1b-9d70-bd132bc2bf84/9149605530-500.jpg" data-tags="rock" role="button">
 The Rolling Stones - GRRR! (2012-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, collection" role="button">
-Girls Aloud - Ten (2012-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d64ff8e1-e76a-4827-84c0-02eea1786ab0/23925502270-500.jpg" data-tags="compilation" role="button">
 The Brian Jonestown Massacre - Tepid Peppermint Wonderland: A Retrospective (2013-12-10)
@@ -320,5 +317,8 @@ Gavin DeGraw - Finest Hour: The Best Of Gavin DeGraw (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b015e9ff-e38f-4cdd-97ec-5b4070716852/21009780466-500.jpg" data-tags="rock, uk" role="button">
 Queen - Queen Forever (2014-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/1509ea63-23ba-4d28-865d-35a7b6a2eaf6/9012572692-500.jpg" data-tags="compilation" role="button">
+Wilco - What's Your 20? Essential Tracks 1994 - 2014 (2014-11-17)
 </li>
 </ol>

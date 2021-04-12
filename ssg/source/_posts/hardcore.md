@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T15:04:07.037Z
+date: 2021-04-12T03:23:01.412Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")

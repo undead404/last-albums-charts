@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:52:01.410Z
+date: 2021-04-12T03:01:12.591Z
 title: "garage: 100 albums you must listen to before you die"
 ---
 ![The Strokes - Room on Fire (2003-10-16)](http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg "The Strokes - Room on Fire (2003-10-16)")
@@ -45,9 +45,6 @@ The Litter - Distortions (1967)
 <li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
 The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
 </li>
-<li data-cover="https://img.discogs.com/R8WR-WcbUXbW1VlPXCIlWfUSrcg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439454-1414326041-4740.jpeg.jpg" data-tags="60s, psychedelic, garage rock" role="button">
-The Chocolate Watch Band - No Way Out (1967)
-</li>
 <li data-cover="https://img.discogs.com/8m_-6lygdnEbzCgx3KESBloy5hE=/fit-in/472x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2387817-1281102047.jpeg.jpg" data-tags="60s, psychedelic" role="button">
 The Human Beinz - Nobody But Me (1967)
 </li>
@@ -60,11 +57,11 @@ The Modern Lovers - The Modern Lovers (1976-08)
 <li data-cover="http://coverartarchive.org/release/421fc416-772c-4a45-8423-cad2a39aac58/4024218987-500.jpg" data-tags="punk, martin hannett, punk rock" role="button">
 Buzzcocks - Spiral Scratch (1977-01-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/48a72d2f-67f3-4ce9-ad4e-e496c37e598f/9217533514-500.jpg" data-tags="60s, psychedelic rock" role="button">
+The Misunderstood - Before the Dream Faded (1982)
+</li>
 <li data-cover="https://img.discogs.com/CSZD_OWQLr_T3mZs-J0KBOQnZtU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684136-1415560836-7625.jpeg.jpg" data-tags="pop, rock, 80s, power pop, jangle pop, oldies, garage, male vocalists, surf punk, close harmony" role="button">
 The Barracudas - Drop Out With The Barracudas (1982)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
-The Gun Club - The Las Vegas Story (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
 The Remains - The Remains (1985)
@@ -233,6 +230,9 @@ King Khan & The Shrines - what is?! (2007-05-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
 The White Stripes - Icky Thump (2007-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b4617a2-f2cf-3136-aea3-04de730ca624/2220064340-500.jpg" data-tags="french, pop, british, french pop, garage, 00s, ye-ye, 2nd album" role="button">
+Fabienne DelSol - Between You And Me (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f0c473d-292e-3f3f-abc0-05c6e0cfb3b2/5658758963-500.jpg" data-tags="soul, rnb" role="button">
 Craig David - Trust Me (2007-11-12)

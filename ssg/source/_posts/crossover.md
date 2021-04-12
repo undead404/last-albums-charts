@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T09:45:02.371Z
+date: 2021-04-12T03:02:01.416Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
+<li data-cover="https://img.discogs.com/wN0gsUlckFwBc3A5kSE50fVL8vM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13690557-1559094645-6605.jpeg.jpg" data-tags="hardcore punk, thrashcore" role="button">
+D.R.I. - Dealing With It (1985)
+</li>
 <li data-cover="https://img.discogs.com/wN0gsUlckFwBc3A5kSE50fVL8vM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13690557-1559094645-6605.jpeg.jpg" data-tags="crossover, thrash metal" role="button">
 D.R.I. - Crossover (1987-03)
-</li>
-<li data-cover="https://img.discogs.com/tjCZlQCP483V7A4azyYcOeLaia4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-838339-1164077523.jpeg.jpg" data-tags="punk, hardcore, crossover" role="button">
-Cryptic Slaughter - Money Talks (1987-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
@@ -72,9 +72,6 @@ Clawfinger - Deaf Dumb Blind (1993-04-21)
 <li data-cover="http://coverartarchive.org/release/88ca8048-cec7-4e47-ace1-11ded524e901/8709934417-500.jpg" data-tags="90s, crossover" role="button">
 Rage Against the Machine - Bombtrack (1993-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7803082-b4a8-46e2-97a3-841dc3dcf3ea/4818086936-500.jpg" data-tags="alternative metal" role="button">
-Life of Agony - River Runs Red (1993-10-12)
-</li>
 <li data-cover="https://img.discogs.com/ztqkg4pUcJ_V6J_bdE48DL-IdK0=/fit-in/588x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418023-1396547872-2533.jpeg.jpg" data-tags="crossover" role="button">
 Body Count - Born Dead (1994)
 </li>
@@ -92,9 +89,6 @@ Dog Eat Dog - All Boro Kings (1994-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e7f6c00-2d8a-4974-94b9-b228dec0042c/5233879060-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal For Life (1994-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/01b387c3-0977-47a4-8def-1aae48b79447/17994376284-500.jpg" data-tags="crossover" role="button">
-H-Blockx - Time To Move (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d86fe8d8-d735-49bf-bd0d-70d3c79119d4/19102091588-500.jpg" data-tags="crossover" role="button">
 Such A Surge - UNDER PRESSURE (1995)
@@ -138,11 +132,11 @@ Clawfinger - Clawfinger (1997-09-29)
 <li data-cover="https://img.discogs.com/oC80XbUu1pNPEjJuxSL9mIE4OAw=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500374-1332874280.jpeg.jpg" data-tags="alternative rock" role="button">
 Guano Apes - Proud Like a God (1997-10-06)
 </li>
-<li data-cover="https://img.discogs.com/lpA_G-64Avy4DGsGI029duCEKBE=/fit-in/599x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3534983-1334254236.jpeg.jpg" data-tags="punk rock" role="button">
-Bloodhound Gang - Along Comes Mary (1998)
-</li>
 <li data-cover="https://img.discogs.com/OfA6CUNXfIUGGueOcy2OJRoIEt4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3310039-1325173673.jpeg.jpg" data-tags="crossover" role="button">
 H-Blockx - Fly Eyes (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/01af10c4-27e7-485a-a96c-821e31575a92/27349567410-500.jpg" data-tags="crossover" role="button">
+Stuck Mojo - Rising (1998-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/73b788f8-f8c4-408b-960f-fd749b041f99/4283295646-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Live Tracks (1998-04-10)
@@ -186,11 +180,20 @@ OPM - Menace To Sobriety (2000-08-15)
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
+<li data-cover="https://img.discogs.com/Vk8ymzmZ-BENC91WcKZiWGiInU8=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765128-1158620783.jpeg.jpg" data-tags="nu metal, metalcore, hardcore" role="button">
+Dry Kill Logic - The Darker Side of Nonsense (2001-06-19)
+</li>
+<li data-cover="https://img.discogs.com/a6wi-lD-tQUFVezdGYEUOgzPFtc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767416-1189258787.jpeg.jpg" data-tags="rapcore" role="button">
+Darwin's Waiting Room - Orphan (2001-07-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/092daa69-e70a-46cc-945c-13210ed86e11/20535418229-500.jpg" data-tags="crossover, industrial metal" role="button">
 Clawfinger - A Whole Lot Of Nothing (2001-08-06)
 </li>
 <li data-cover="https://img.discogs.com/mxsk3oi8Y24I98WlqvNPYtwR6Ek=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566874-1371689812-5330.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
 Spineshank - New Disease (2001-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
+Limp Bizkit - New Old Songs (2001-11-30)
 </li>
 <li data-cover="https://img.discogs.com/GzxLKsWQarLtP-HRgkmq40yNYCY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426390-1556717314-2995.jpeg.jpg" data-tags="nu metal" role="button">
 Emil Bulls - Angel Delivery Service (2001-12-03)
@@ -206,6 +209,9 @@ Linkin Park - Reanimation (2002-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f627249-f2b0-4b69-8c4b-ed26f7db0fb9/7971533432-500.jpg" data-tags="punk, hardcore" role="button">
 The Exploited - Fuck the System (2003-02-17)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="hardcore" role="button">
+Biohazard - Kill Or Be Killed (2003-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fee0615-ecb9-4b78-918a-3f1097d9f918/13548283025-500.jpg" data-tags="melodic death metal, death metal, heavy metal, metal, folk metal, german" role="button">
 Die Apokalyptischen Reiter - Have a nice Trip (2003-03-17)
@@ -264,9 +270,6 @@ Nevada Tan - Niemand hört dich (2007-04-20)
 <li data-cover="http://coverartarchive.org/release/c31f5168-f411-4869-8459-cb58734e0525/4930551882-500.jpg" data-tags="thrash metal" role="button">
 Municipal Waste - The Art of Partying (2007-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
-Paul Potts - One Chance (2007-07-13)
-</li>
 <li data-cover="https://img.discogs.com/7eg3JKB0uiyCJBmK1Iow2nnWjZc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4061379-1353946167-4335.jpeg.jpg" data-tags="rock" role="button">
 H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
@@ -296,9 +299,6 @@ Municipal Waste - Massive Aggressive (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/tXkKA1LKqgg1Z3chelWxJaAgwBQ=/fit-in/600x660/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479846-1575376462-6127.jpeg.jpg" data-tags="german, crossover, rapcore" role="button">
 Panik - Panik (2009-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - American Tragedy (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)

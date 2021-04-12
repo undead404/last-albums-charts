@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T17:57:01.435Z
+date: 2021-04-12T02:56:01.408Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Agnes Obel - Aventine (2013-09-27)](http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg "Agnes Obel - Aventine (2013-09-27)")
@@ -75,6 +75,9 @@ Amber Asylum - Songs of Sex and Death (1999-01-19)
 <li data-cover="https://img.discogs.com/Hhp0jMQUc3E5kGWLO4AoKncEGcQ=/fit-in/400x392/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072107-1217768309.jpeg.jpg" data-tags="swedish, nordic folk, folk rock" role="button">
 Garmarna - Vedergällningen (1999-04-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/55f9e269-2609-4223-908a-2ead2a1de363/21233058960-500.jpg" data-tags="darkwave, neoclassical" role="button">
+Ashram - For My Sun (1999-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/b300ae8e-0593-488a-9a57-4b2a284fbede/10297787490-500.jpg" data-tags="ritual ambient" role="button">
 Jocelyn Pook - Flood (1999-09-02)
 </li>
@@ -126,9 +129,6 @@ Secret Garden - Once in a Red Moon (2002-03-21)
 <li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
 Emma Shapplin - Etterna (2002-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/c16b9226-557d-40ef-b0cd-60584e970e20/1858594196-500.jpg" data-tags="ambient" role="button">
-William Basinski - Melancholia (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/0e693a55-e555-419a-8b46-bc0175d6969b/5525339515-500.jpg" data-tags="neoclassical" role="button">
 Elend - Winds Devouring Men (2003-04-14)
 </li>
@@ -144,14 +144,14 @@ Karjalan Sissit - Karjalasta kajahtaa (2004-05)
 <li data-cover="http://coverartarchive.org/release/07b341fc-9fad-41ee-9b4c-8ffa86c395b5/2044678583-500.jpg" data-tags="folk noir, neofolk, neoclassical, celtic folk, wyrd folk, experimental folk, funeral folk, ethereal folk, darkfolk, ogham the ogham, je dirai quelque jour vos naissances latentes, nox-aeternus, apocalyptic folk noir, ambient funeral folk, ambient ghost apocalyptic" role="button">
 Sieben - Ogham Inside the Night (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b803df2-86cb-4106-91b1-1c269b1776fc/18247981407-500.jpg" data-tags="ambient, female vocalists, world, new age, ethereal, world fusion, neo-classical, heavenly voices, lisa gerrard" role="button">
+Lisa Gerrard & Jeff Rona - A Thousand Roads (2005-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/8b2765ed-26b6-4bdb-96b2-1260c210d146/18701163652-500.jpg" data-tags="pop, female vocalists, pop rock" role="button">
 Indica - Tuuliset tienoot (2005-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/723d1bbd-0101-4539-a970-c2b232bfce3e/26215282194-500.jpg" data-tags="ethereal, neoclassical" role="button">
 Trobar de Morte - Reverie (2006-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
-Anoice - Remmings (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0257cd0d-999b-426b-b098-3902c691996a/11322636619-500.jpg" data-tags="christmas" role="button">
 Tarja - Henkäys Ikuisuudesta (2006-10-10)
@@ -171,6 +171,9 @@ Jennifer Haines - Thoughts and Dreams: Solo Piano (2007)
 <li data-cover="http://coverartarchive.org/release/110c1fc6-b842-36c8-a010-ea1d0a9acb03/7914011482-500.jpg" data-tags="industrial, neofolk, martial industrial, martial neoclassical, neoclassical, apocalyptic folk, wantlist, martial neofolk, domi bellique, nox-aeternus" role="button">
 Puissance - Grace of God (2007-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
+Professor Fate - The Inferno (2007-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
@@ -182,9 +185,6 @@ Artesia - Chants d'automne (2007-06)
 </li>
 <li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
 Helen Jane Long - Porcelain (2007-06-04)
-</li>
-<li data-cover="https://img.discogs.com/p7NoU8uHMBWzqDzEVFc434UGxD4=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289285-1207333830.jpeg.jpg" data-tags="darkwave, neofolk, fantasy, ethereal, neoclassical" role="button">
-Narsilion - Namárië (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
 Scythelence - Post-Romantic Syndrome (2008)

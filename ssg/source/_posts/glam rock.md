@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:37:12.617Z
+date: 2021-04-12T03:34:01.404Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -183,6 +183,9 @@ Suede - Coming Up (1996-09-02)
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/aaf09c87-deb1-4e28-8e44-dd3031df98ad/22634948114-500.jpg" data-tags="glam rock, finnish" role="button">
+The 69 Eyes - Wrap Your Troubles in Dreams (1997-02-10)
+</li>
 <li data-cover="https://img.discogs.com/oM7KNuQxHiQ928Pu0wPwuEnxyyM=/fit-in/306x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588511-1230506858.jpeg.jpg" data-tags="britpop" role="button">
 Pulp - This Is Hardcore (1998-03-18)
 </li>
@@ -242,9 +245,6 @@ Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)
-</li>
-<li data-cover="https://img.discogs.com/G02_wI1hRJo7nOuoOExIdBu22hs=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695819-1372415689-1175.jpeg.jpg" data-tags="emo, german, tokio hotel, rock" role="button">
-Tokio Hotel - Schrei (2005-09-19)
 </li>
 <li data-cover="https://img.discogs.com/xd1pObyrCmuw3AGu_aRMYF5FphY=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14665850-1579210439-1655.jpeg.jpg" data-tags="fishburne street" role="button">
 Guster - One Man Wrecking Machine (2006-04-18)

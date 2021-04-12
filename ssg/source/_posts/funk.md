@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:36:01.429Z
+date: 2021-04-12T03:22:07.017Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -195,6 +195,9 @@ Red Hot Chili Peppers - By the Way (2002-06-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
 </li>
+<li data-cover="https://img.discogs.com/XDRQWx8vLn5lSj8z9HJznyzG5_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3211782-1399202858-4905.jpeg.jpg" data-tags="funk, soul" role="button">
+James Brown - The Payback (2002-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
 </li>
@@ -284,9 +287,6 @@ Beyoncé - 4 (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/870224d9-4213-4a71-b745-ec5ea8a6501e/9028766356-500.jpg" data-tags="indie, funk" role="button">
 The Heavy - The Glorious Dead (2012-08-20)
-</li>
-<li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
-Breakbot - By Your Side (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)

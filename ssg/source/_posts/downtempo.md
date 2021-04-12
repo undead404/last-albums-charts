@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:25:01.422Z
+date: 2021-04-12T02:48:01.409Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -45,9 +45,6 @@ Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
-Kid Loco - A Grand Love Story (1997-11-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
@@ -56,6 +53,12 @@ Morcheeba - Big Calm (1998-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
+</li>
+<li data-cover="https://img.discogs.com/Kbzc-pUTQrxLWHcbM20uuukPyfg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071075-1189923687.jpeg.jpg" data-tags="trip-hop" role="button">
+UNKLE - Psyence Fiction (1998-08-21)
+</li>
+<li data-cover="https://img.discogs.com/rN4GNXEsq4lA9sAM3H2fXG-k-e4=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2503803-1287600332.jpeg.jpg" data-tags="downtempo" role="button">
+Thievery Corporation - It Takes a Thief (1999)
 </li>
 <li data-cover="https://img.discogs.com/Zf4eIdMtJjkm6WKiirPmTmswzbI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24557-1405269682-9878.jpeg.jpg" data-tags="chillout, electronic" role="button">
 Nightmares on Wax - Carboot Soul (1999-04-12)
@@ -84,9 +87,6 @@ Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
 <li data-cover="http://coverartarchive.org/release/505f0ee9-6113-46aa-b44e-fbae0bcff839/13276098607-500.jpg" data-tags="downtempo" role="button">
 Tosca - Suzuki (2000-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2325f819-1a8e-4fbc-92b4-f7169e7fa262/17797351986-500.jpg" data-tags="lounge, chillout, downtempo" role="button">
-Dzihan & Kamien - Freaks & Icons (2000-05-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb385717-9392-414f-b271-534663cad5b1/5258564363-500.jpg" data-tags="trip-hop, electronic, downtempo" role="button">
 Morcheeba - Fragments of Freedom (2000-07-10)
 </li>
@@ -99,9 +99,6 @@ Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">
-Dzihan & Kamien - Gran Riserva (2000-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
@@ -111,6 +108,9 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
+Air - 10 000 Hz Legend (2001-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
 Boozoo Bajou - Satta (2001-06)
 </li>
@@ -119,9 +119,6 @@ Quantic - The 5th Exotic (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/543cf502-ecc5-4981-9a99-97127afbaceb/4507263314-500.jpg" data-tags="downtempo" role="button">
 Sia - Healing Is Difficult (2001-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/d45df9d7-7f2d-49bb-9a5c-543f44112f6d/8188829362-500.jpg" data-tags="lounge, electronic, downtempo" role="button">
-Thunderball - Scorpio Rising (2001-07-10)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
@@ -143,6 +140,9 @@ Morcheeba - Charango (2002-07-01)
 </li>
 <li data-cover="https://img.discogs.com/-eztj5rULDJYO9PrCwUW7fv1ooM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82803-1124377382.jpg.jpg" data-tags="trip-hop, downtempo" role="button">
 Funki Porcini - Fast Asleep (2002-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
+Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
@@ -195,6 +195,9 @@ Boards of Canada - The Campfire Headphase (2005-10-12)
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b11a6b70-f435-4e50-8223-66af89346f94/5104716787-500.jpg" data-tags="downtempo" role="button">
+Sofa Surfers - Sofa Surfers (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/268776f6-7a42-4977-9580-50bf71891d2c/4395546858-500.jpg" data-tags="lounge, downtempo" role="button">
 Parov Stelar - Seven and Storm (2005-11-18)
 </li>
@@ -216,6 +219,9 @@ Saltillo - Ganglion (2006-06-01)
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
+Air - Pocket Symphony (2006-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Flunk - Personal Stereo (2007-04-23)
 </li>
@@ -230,12 +236,6 @@ Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
-Martina Topley-Bird - The Blue God (2008-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
-Mr. Scruff - Ninja Tuna (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)

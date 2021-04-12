@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:34:01.412Z
+date: 2021-04-12T02:46:01.405Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -33,6 +33,9 @@ Harry Nilsson - Pandemonium Shadow Show (1967)
 <li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">
 Scott McKenzie - San Francisco (1967-05-04)
 </li>
+<li data-cover="https://img.discogs.com/z50eU4ASpw3cERdRnIYd4KuJS5I=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1703829-1603591228-1739.jpeg.jpg" data-tags="psychedelic pop, psychedelic" role="button">
+Blossom Toes - We Are Ever So Clean (1967-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
 </li>
@@ -41,6 +44,9 @@ The Hollies - Butterfly (1967-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
+</li>
+<li data-cover="https://img.discogs.com/qBO4M0g2RVYmeS9RZtaHunS5Vvg=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557450-1351949867-9125.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Harumi - Harumi (1968)
 </li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
@@ -57,9 +63,6 @@ The Kinks - Arthur (Or the Decline and Fall of the British Empire) (1969-10-10)
 <li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
 Kevin Ayers - Joy Of A Toy (1969-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
-Almendra - Almendra (1969-11-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8a970ef-4747-4699-8436-80552447aef4/12189406246-500.jpg" data-tags="rock, psychedelic" role="button">
 The Move - Shazam (1970)
 </li>
@@ -68,6 +71,9 @@ Syd Barrett - Barrett (1970-11-14)
 </li>
 <li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
 Ashra - Correlations (1979)
+</li>
+<li data-cover="http://coverartarchive.org/release/252dc472-62c7-43d7-af4b-dfea71cda051/9699596876-500.jpg" data-tags="funk, prince, pop" role="button">
+Prince & The Revolution - Around the World in a Day (1984)
 </li>
 <li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
 Nancy Sinatra - Lightning's Girl (1990)
@@ -84,9 +90,6 @@ Stereolab - Mars Audiac Quintet (1994-08-09)
 <li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
 The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
-The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
-</li>
 <li data-cover="https://img.discogs.com/lASHXtQEYiOAujCaqAPgaKB4gkY=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4474327-1548917782-2664.jpeg.jpg" data-tags="indie pop, 90s, welsh" role="button">
 Gorky's Zygotic Mynci - Barafundle (1997-04-07)
 </li>
@@ -102,8 +105,17 @@ Super Furry Animals - Radiator (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/d7aa0ff2-2982-40c2-be5e-bad96d44e5ef/2979737761-500.jpg" data-tags="indie, indie pop, pop, alternative, lo-fi" role="button">
+The Apples in Stereo - Tone Soul Evolution (1997-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e9e25d5-d5e4-4e66-a3ff-ff32b40265f2/11928102206-500.jpg" data-tags="electronic, alternative, experimental, industrial, psychedelic pop, avant-garde, art rock, space rock, neo-psychedelia, neo-progressive, rock eksperymentalny, l p dots" role="button">
+The Legendary Pink Dots - A Perfect Mystery (2000)
+</li>
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="experimental rock, psychedelic pop, psychedelic, eccentric, avant-pop, space-age, retro-futuristic" role="button">
+Broadcast - Extended Play (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1676b3b-6430-4aeb-b818-f5c971dc5d3d/1782561221-500.jpg" data-tags="french, chanson française, serge gainsbourg" role="button">
 Serge Gainsbourg - Initials SG (2002)
@@ -137,9 +149,6 @@ Willow - Willow (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
-Dungen - Tio Bitar (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbdb139d-13c8-4327-914e-8ada7bf09b17/27880110565-500.jpg" data-tags="psychedelic" role="button">
 Black Moth Super Rainbow - Dandelion Gum (2007-05-15)
@@ -195,9 +204,6 @@ Tame Impala - Innerspeaker (2010-05-21)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
-</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
@@ -222,9 +228,6 @@ Gang Gang Dance - Eye Contact (2011-05-09)
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
-Neon Indian - Era Extraña (2011-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e44b221-832d-4310-bf12-1067c9f00370/2852359567-500.jpg" data-tags="psychedelic pop, wfmu heavily played records" role="button">
 Gap Dream - Gap Dream (2012-01-10)
 </li>
@@ -245,9 +248,6 @@ The Shins - Port of Morrow (2012-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0915ed5d-5cfe-4b43-a7d1-1c4ee6fa4a86/3439424827-500.jpg" data-tags="electronic, blue album covers" role="button">
 Sébastien Tellier - My God is Blue (2012-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
-Laurel Halo - Quarantine (2012-05-21)
 </li>
 <li data-cover="https://img.discogs.com/SfcXMEQC-fnKkmHXC-O1StyZ8sk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3885595-1551508522-5121.jpeg.jpg" data-tags="rock" role="button">
 Tame Impala - Elephant (2012-07-25)

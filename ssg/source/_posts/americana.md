@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:39:01.440Z
+date: 2021-04-12T03:26:01.420Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -135,6 +135,9 @@ Sufjan Stevens - Michigan (2003-07-01)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb6807a7-f255-4bdd-8da8-e97b1b88bb75/27739888858-500.jpg" data-tags="americana, alt-country, carpet crawler" role="button">
+Willard Grant Conspiracy - Regard the End (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
 Calexico - Convict Pool (2004-04-06)
 </li>
@@ -188,6 +191,9 @@ Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
+</li>
+<li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
+My Morning Jacket - Evil Urges (2008-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c8398de-11e3-4dd1-ab32-4f2ca7cbccd8/27982063567-500.jpg" data-tags="indie" role="button">
 Dr. Dog - Fate (2008-07-22)
@@ -246,9 +252,6 @@ Deer Tick - The Black Dirt Sessions (2010-06-08)
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/985b9812-c27d-36a7-8246-18cbd06b7262/5830595090-500.jpg" data-tags="singer-songwriter" role="button">
-Isobel Campbell & Mark Lanegan - Hawk (2010-08-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/b34b531d-34e8-32c2-a8ae-d1082a337fc9/3033907801-500.jpg" data-tags="americana, alt-country, 2010s, 2010 albums" role="button">
 Justin Townes Earle - Harlem River Blues (2010-09-13)
 </li>
@@ -281,9 +284,6 @@ Andrew Bird - Break It Yourself (2012-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd6b690-da36-458a-aaee-28902e2b3338/27766620196-500.jpg" data-tags="rock" role="button">
 Band of Horses - Mirage Rock (2012-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
-Yo La Tengo - Fade (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/89307837-a88f-4ca4-bbe8-f1a8c0e37683/12628217749-500.jpg" data-tags="americana" role="button">
 The Lone Bellow - The Lone Bellow (2013-01-22)

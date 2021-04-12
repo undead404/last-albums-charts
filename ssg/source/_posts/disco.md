@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:49:01.405Z
+date: 2021-04-12T03:09:01.415Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -41,6 +41,9 @@ Boney M. - Remix 2005 (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
+</li>
+<li data-cover="https://img.discogs.com/q7UqhQX1KFPef5ar49d2yQ1Wgek=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-172681-1287510369.jpeg.jpg" data-tags="disco, pop, soul, nostalgic, candi staton, c staton" role="button">
+Candi Staton - Young Hearts Run Free (1976)
 </li>
 <li data-cover="https://img.discogs.com/-ZQltobK3EL4azz8vYdfFAXIbe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8209121-1570648722-6833.jpeg.jpg" data-tags="disco" role="button">
 Boney M. - Take the Heat Off Me (1976-06-28)
@@ -114,6 +117,9 @@ ABBA - The Visitors (1981-11-30)
 <li data-cover="https://img.discogs.com/KpSzmKm1OaU1F9ZWokxYdUX9Uj4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3830309-1346082760-2042.jpeg.jpg" data-tags="disco, rnb" role="button">
 The Gap Band - Gap Band IV (1982)
 </li>
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s, pop" role="button">
+Madonna - Madonna (1983-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4a32dc8-e049-4dd6-94ff-5b948e60db22/6857645811-500.jpg" data-tags="70s, disco" role="button">
 Hot Chocolate - 20 Hottest Hits (1989)
 </li>
@@ -168,9 +174,6 @@ Earth, Wind & Fire - Greatest Hits (1998-11-17)
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="pop, dance" role="button">
-Kylie Minogue - Light Years (2000-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0c379a9-30a2-43e9-bb93-ef62283f0f34/27645336918-500.jpg" data-tags="pop, dance" role="button">
 Sophie Ellis-Bextor - Read My Lips (2001-08-27)
 </li>
@@ -185,6 +188,9 @@ Electric Six - Fire (2003-05-20)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0410ba6d-4c31-42de-8209-809006026825/25732150659-500.jpg" data-tags="disco, pop, soul, dance, summer, rnb, donna summer, donna, withdrjazzmrfunkmusicradio" role="button">
+Donna Summer - The Journey: The Very Best of Donna Summer (2003-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0780eda-0c5e-46ef-b7cf-6f4d4eeca1a6/7107828358-500.jpg" data-tags="electronic, dance, disco" role="button">
 Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
@@ -255,12 +261,6 @@ Robbie Williams - Reality Killed the Video Star (2009-11-06)
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
-Kylie Minogue - Aphrodite (2010-06-30)
-</li>
-<li data-cover="https://img.discogs.com/ljRrXMtIbIjo07zIgZR4rN5bcCE=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235095-1493873613-5059.jpeg.jpg" data-tags="rnb, pop" role="button">
-Usher - Versus (2010-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)
 </li>
@@ -279,14 +279,14 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
 </li>
-<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, chic" role="button">
-Crazy P - When We On (2011-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/50520c33-49a9-409e-88a1-ae3e10867748/3194910998-500.jpg" data-tags="disco, downtempo, funk, synthpop, alternative dance, space disco, italo disco, neo-psychedelia, nu-disco, jf1" role="button">
 Thieves Like Us - Bleed Bleed Bleed (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3bb9be2-fc20-4dd2-9931-8da768e3411b/2157808480-500.jpg" data-tags="pop" role="button">
+Carly Rae Jepsen - Kiss (2012-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3a051b3-871e-4ccb-a888-2abe560c9f4c/6574885986-500.jpg" data-tags="disco, african" role="button">
 Kiki Gyan - 24 Hours in a Disco 1978-82 (2012-10)

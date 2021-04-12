@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:51:01.412Z
+date: 2021-04-12T03:15:01.492Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9a27363a-f565-33a3-bb1c-c55b5d24db84/2461231103-500.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Blue Lines (1991-04-08)
+</li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
@@ -35,9 +38,6 @@ Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
-Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
@@ -77,9 +77,6 @@ Tosca - Suzuki (2000-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2325f819-1a8e-4fbc-92b4-f7169e7fa262/17797351986-500.jpg" data-tags="lounge, chillout, downtempo" role="button">
-Dzihan & Kamien - Freaks & Icons (2000-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
@@ -260,6 +257,9 @@ Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b51eeb1-ae6f-4264-913f-0626b86dca32/9194466428-500.jpg" data-tags="chillout, electronic, ambient, miike snow" role="button">
+Miike Snow - Animal (2009-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)

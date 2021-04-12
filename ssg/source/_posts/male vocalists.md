@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:21:01.447Z
+date: 2021-04-12T03:11:01.412Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -21,14 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
-Roy Orbison - In Dreams (1963)
+<li data-cover="http://coverartarchive.org/release/bf591a71-0149-4e04-8425-92326347c3ca/15048384671-500.jpg" data-tags="pop, 70s" role="button">
+King Harvest - Dancing in the Moonlight (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/2b6aeba7-272c-4299-af0c-ecbfbf487298/2535580481-500.jpg" data-tags="rock" role="button">
+Bryan Adams - So Far So Good (1993-07-01)
 </li>
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
@@ -45,11 +48,11 @@ Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c5a0ce8-8442-41f6-bf38-254368abbac2/6773807384-500.jpg" data-tags="pop, male vocalists, spiderman theme" role="button">
-Michael Bublé - BaBalu (2001)
-</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
+</li>
+<li data-cover="https://img.discogs.com/0FomHlmEF11aA4I1pIGcB-KqxLg=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6362487-1417382219-1084.jpeg.jpg" data-tags="male vocalists, cerebral, ireland, the longlist, reflexion, melancolico, sofisticado, oscuro, lost songs, intenso, agresivo, estilo, catartico, intimo, pasional, literario, agridulce, energico, music for my funeral please, gray bloom" role="button">
+David Gray - Lost Songs 95-98 (2001-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
@@ -68,9 +71,6 @@ Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
 <li data-cover="https://img.discogs.com/DWUkZS-mRjESctq9QdUy2uaygLA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5401240-1395764464-9723.jpeg.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists" role="button">
 Arctic Monkeys - demo (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/7565f1b4-897b-4f24-a957-55ff8510b842/9711827786-500.jpg" data-tags="jazz, swing, oldies, male vocalists" role="button">
-Dean Martin - Dino: The Essential Dean Martin (2004-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)

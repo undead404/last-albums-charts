@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:11:01.411Z
+date: 2021-04-12T03:03:01.397Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -98,6 +98,9 @@ Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
+</li>
+<li data-cover="https://img.discogs.com/k6jiyTVX7jMMzJMMzLAf9CgpmvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465530-1308948299.jpeg.jpg" data-tags="funk metal, funk-thrash metal" role="button">
+Mordred - Vision (1992-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/baabb4d7-6005-4cb8-af6a-39a43e095e36/15248566750-500.jpg" data-tags="funk, soul" role="button">
 Tower of Power - T.O.P. (1993)
@@ -219,6 +222,9 @@ Suicidal Tendencies - Free Your Soul... and Save My Mind (2000-08-20)
 <li data-cover="http://coverartarchive.org/release/22639092-349e-408c-be95-4624337e7bd3/4851208910-500.jpg" data-tags="funk metal" role="button">
 Infectious Grooves - Mas Borracho (2000-08-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive funk rock" role="button">
+Mourning Widows - Furnished Souls for Rent (2000-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
@@ -270,14 +276,8 @@ Hot Action Cop - Hot Action Cop (2003-09-15)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/37ecd876-bccf-383d-8e78-b0f2cc13c964/19386733501-500.jpg" data-tags="stoner rock" role="button">
-Clutch - Blast Tyrant (2004-03-30)
-</li>
 <li data-cover="https://img.discogs.com/uvwRSOdqN8oOhhPa6Pon_JBFoqw=/fit-in/350x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040200-1260235214.jpeg.jpg" data-tags="guitar, instrumental guitar" role="button">
 Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/cea4b7d5-835f-47d4-af46-e5d507bd5d11/26430724808-500.jpg" data-tags="funk, experimental" role="button">
-Colonel Claypool's Bucket of Bernie Brains - The Big Eyeball In The Sky (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
 Mortifera - Vastiia Tenebrd Mortifera (2004-12)

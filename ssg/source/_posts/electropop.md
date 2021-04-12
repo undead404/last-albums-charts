@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:57:01.402Z
+date: 2021-04-12T03:39:01.400Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="electropop, pop, rock, egofm, nu disco, city slang, greco-roman" role="button">
+Roosevelt - Roosevelt (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
 </li>
@@ -90,9 +93,6 @@ Lady Gaga - The Fame (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
 </li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
 <li data-cover="https://img.discogs.com/6Hq6JSRLw9Osqvh3x6H0j3oyY4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11555797-1518437759-3077.jpeg.jpg" data-tags="pop" role="button">
 The Saturdays - Chasing Lights (2008-10-26)
 </li>
@@ -138,9 +138,6 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
-Breathe Carolina - Hello Fascination (2009-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
 </li>
@@ -182,9 +179,6 @@ Sky Ferreira - 17 (2010-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
-Matthew Dear - Black City (2010-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)
@@ -255,6 +249,12 @@ Purity Ring - Shrines (2012-07-23)
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/8b484d1b-65ce-4f84-b0c9-d022f1125ce2/6559339900-500.jpg" data-tags="electronica, electropop, pop, indie pop, upbeat, female vocalist" role="button">
+Betty Who - The Movement (2012-09-17)
+</li>
+<li data-cover="https://img.discogs.com/JOuh7PkOyZ19us8N9fnE9_l69PU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4331972-1361978900-9552.jpeg.jpg" data-tags="electronic, indie pop, synthpop" role="button">
+Strange Talk - Cast Away (2012-09-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1ee5f60-0e3b-4a0d-8705-2113f12baf64/9115800193-500.jpg" data-tags="synthpop, indie pop" role="button">
 Ellie Goulding - Halcyon (2012-10-05)
 </li>
@@ -267,17 +267,14 @@ Icona Pop - Iconic EP (2012-10-16)
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
-<li data-cover="https://img.discogs.com/jWX-99JX-c4vhbj23lyq68P1c68=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5347786-1391148311-4423.png.jpg" data-tags="electropop" role="button">
-BROODS - BROODS (2013-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
 NONONO - Pumpin Blood (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/90ca45b3-8665-4b03-823b-1b58681545f8/22019815370-500.jpg" data-tags="electropop" role="button">
-Lorde - Tennis Court EP (2013-06-07)
+<li data-cover="http://coverartarchive.org/release/c041912a-72e3-4c28-8a8a-db88b4c5ff43/18351627712-500.jpg" data-tags="pop" role="button">
+Studio Killers - Studio Killers (2013-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/542f5e53-479f-4581-88b7-93cd05ab489d/4263718745-500.jpg" data-tags="electronic, electropop" role="button">
 Austra - Olympia (2013-06-17)
@@ -296,6 +293,9 @@ Banks - Goddess (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/933242f0-fff3-4709-953c-569ad116c270/9492623019-500.jpg" data-tags="electropop, latin pop" role="button">
+Enrique Iglesias - Sex and Love (2014-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)

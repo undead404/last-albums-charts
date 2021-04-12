@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:33:01.399Z
+date: 2021-04-12T03:43:01.403Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/jQZZuX4LPHi-blABF71bRsXX7YI=/fit-in/600x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726715-1347294236-3472.jpeg.jpg" data-tags="pop, 60s, pop rock" role="button">
+The Beach Boys - The Beach Boys Today! (1965-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
 </li>
@@ -278,9 +281,6 @@ Kishi Bashi - 151a (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/388e1e08-0628-4799-bd60-a50a6ba590da/4876724124-500.jpg" data-tags="indie pop" role="button">
-Stars - The North (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)

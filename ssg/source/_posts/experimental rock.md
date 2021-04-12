@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T21:31:06.888Z
+date: 2021-04-12T03:40:01.411Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -41,6 +41,9 @@ Can - Ege Bamyasi (1972-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8397e602-0d10-4f6e-a6c3-2db7cd97f7e8/10060657210-500.jpg" data-tags="krautrock" role="button">
 Faust - Faust IV (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/199e9877-d3b6-4eb4-9ba7-60124b2c3f99/6366122426-500.jpg" data-tags="post-punk" role="button">
+Public Image Ltd. - Metal Box (1979-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
@@ -165,9 +168,6 @@ Animal Collective - Feels (2005-10-14)
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - Vheissu (2005-10-18)
 </li>
-<li data-cover="https://img.discogs.com/6nuwcGMaAmQDKLnqV-m5Vi0QVpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748314-1452143673-5932.jpeg.jpg" data-tags="indie, experimental, indie rock" role="button">
-Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
-</li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
 </li>
@@ -218,9 +218,6 @@ Super Furry Animals - Dark Days/Light Years (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/19f14544-77fb-4d5f-92c8-352fa5cfea8e/18182528220-500.jpg" data-tags="psychedelic, graveface" role="button">
-Black Moth Super Rainbow - Eating Us (2009-05-26)
 </li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">
 Sonic Youth - The Eternal (2009-06-03)
@@ -296,6 +293,9 @@ The Flaming Lips - The Flaming Lips And Heady Fwends (2012-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d7d74f6-0053-4d5f-a48e-183ba418269f/1509338950-500.jpg" data-tags="alternative rock" role="button">
 Serj Tankian - Harakiri (2012-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
+Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4a636f1-4732-4bc0-8559-66b8b3bc345f/1940789966-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - The Seer (2012-08-12)

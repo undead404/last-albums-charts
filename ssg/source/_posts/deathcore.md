@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T00:17:01.593Z
+date: 2021-04-12T03:42:07.015Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Count Your Blessings (2006-10-30)](https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg "Bring Me the Horizon - Count Your Blessings (2006-10-30)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/182df017-12a5-4836-9780-0f1f4b971f87/3573388202-500.jpg" data-tags="metalcore, death metal" role="button">
 Underoath - Cries of the Past (2000-07-04)
 </li>
+<li data-cover="https://img.discogs.com/qyDf468PMSC_vBITyVfMcIVSINQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1031857-1588470996-4412.jpeg.jpg" data-tags="death metal, deathcore" role="button">
+The Red Chord - Fused Together in Revolving Doors (2002-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/1cb1573d-66fe-3d83-9631-9fa4efd5c65b/17547966695-500.jpg" data-tags="deathcore, death metal" role="button">
 All Shall Perish - Hate.Malice.Revenge (2003-04-19)
 </li>
@@ -42,14 +45,14 @@ The Red Chord - Clients (2005-05-17)
 <li data-cover="http://coverartarchive.org/release/907b8001-573d-43ba-81fc-4ce525f0686d/7867321884-500.jpg" data-tags="melodic death metal" role="button">
 The Black Dahlia Murder - Miasma (2005-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/56eda536-9545-4005-9924-7781af660bc1/7545947728-500.jpg" data-tags="death metal, nu metal, deathcore, teeheecore" role="button">
-Suicide Silence - Suicide Silence (2005-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/59fc3b3d-5eb4-44c3-82af-a1005d1a795a/27749874364-500.jpg" data-tags="deathcore" role="button">
-Through the Eyes of the Dead - Bloodlust (2005-10-25)
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+Animosity - Empires (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2c2ee9f-89a5-4e2f-a1a0-ad43218e5ead/2524710882-500.jpg" data-tags="deathcore" role="button">
 Job for a Cowboy - Doom (2005-11-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+Suffokate - Oakland (2006-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/69ea0616-e19f-4c92-bb80-405a1c1df445/27189691829-500.jpg" data-tags="deathcore, progressive metalcore, melodic metalcore, technical metalcore" role="button">
 After the Burial - Forging A Future Self (2006-05-11)
@@ -104,6 +107,9 @@ Whitechapel - The Somatic Defilement (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1066b8f2-237c-4461-9dbb-540a5aecc540/15528876986-500.jpg" data-tags="deathcore" role="button">
 Arsonists Get All The Girls - The Game Of Life (2007-08-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+Knights Of The Abyss - Juggernaut (2007-08-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Carnifex - Dead in My Arms (2007-09-04)
@@ -213,9 +219,6 @@ Asking Alexandria - Stand Up And Scream (2009-09-15)
 <li data-cover="http://coverartarchive.org/release/7a246110-cf6c-4167-ba5e-b6de7683d192/19200095490-500.jpg" data-tags="deathcore" role="button">
 Despised Icon - Day Of Mourning (2009-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
-Justin Bieber - My World (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/f3dae6a2-1304-429e-a996-47c3ad5d0aed/12726092897-500.jpg" data-tags="progressive metal" role="button">
 The Contortionist - Exoplanet (2010)
 </li>
@@ -240,20 +243,23 @@ Bleed from Within - Empire (2010-05-01)
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
 </li>
+<li data-cover="https://img.discogs.com/yakUY3I9vWAh9V3oi2ydPL5D-6E=/fit-in/426x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2381692-1280826845.jpeg.jpg" data-tags="deathcore" role="button">
+And Hell Followed With - Proprioception (2010-05-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c72e596-3a89-4af9-9eb0-dc2c1f70d292/7599907699-500.jpg" data-tags="deathcore" role="button">
 Whitechapel - A New Era Of Corruption (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/70386be2-6ebc-4a75-bd42-25c2758579ef/13631283185-500.jpg" data-tags="death metal, deathcore, technical deathcore" role="button">
 Thy Art Is Murder - The Adversary (2010-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
-Black Veil Brides - We Stitch These Wounds (2010-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
-Motionless in White - Creatures (2010-10-12)
+<li data-cover="http://coverartarchive.org/release/a4775aec-c235-48df-90be-6fb1341a5535/12853399621-500.jpg" data-tags="deathcore" role="button">
+Molotov Solution - Insurrection (2011)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5a7b21a-2ebc-4480-953c-88cab7f7e062/15294264800-500.jpg" data-tags="metalcore" role="button">
+Emmure - Speaker of the Dead (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f0ffb45-97f9-4b6e-9b47-ae78f4d74926/7274747242-500.jpg" data-tags="deathcore" role="button">
 As Blood Runs Black - Instinct (2011-03-15)
@@ -279,12 +285,6 @@ The Browning - Burn This World (2011-10-03)
 <li data-cover="https://img.discogs.com/mhGb6e-mnB5gilpN41AQ76C-p3Q=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3555718-1510520330-8243.jpeg.jpg" data-tags="deathcore" role="button">
 Carnifex - Until I Feel Nothing (2011-10-24)
 </li>
-<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
-Steel Panther - Balls Out (2011-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
-A$AP Rocky - Goldie (2012-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b799a3e-bb00-4c5a-968a-6338de3031a1/6764833107-500.jpg" data-tags="deathcore, symphonic deathcore" role="button">
 Make Them Suffer - Neverbloom (2012-05-25)
 </li>
@@ -300,14 +300,14 @@ Thy Art Is Murder - Hate (2012-10-19)
 <li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
 Bring Me the Horizon - Shadow Moses (2013-01-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
-Deafheaven - Sunbather (2013-05-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Attila - About That Life (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b6135ea-5ff5-43ef-b0d3-7efe588226ac/7330979772-500.jpg" data-tags="metalcore, deathcore" role="button">
+Emmure - Eternal Enemies (2014-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8408e9d-ae92-4985-a7a0-251a37e96799/7599969761-500.jpg" data-tags="deathcore" role="button">
 Whitechapel - Our Endless War (2014-04-29)

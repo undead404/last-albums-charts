@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T16:14:01.416Z
+date: 2021-04-12T03:05:01.416Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![SoKo - I Thought I Was an Alien (2012-02-20)](http://coverartarchive.org/release/63280728-4197-4156-8b44-302d936dd439/4870241553-500.jpg "SoKo - I Thought I Was an Alien (2012-02-20)")
@@ -27,9 +27,6 @@ Frank Sinatra - In the Wee Small Hours (1955-04-25)
 <li data-cover="http://coverartarchive.org/release/c4392206-1f58-48a5-b665-c1515b2ec147/6454049795-500.jpg" data-tags="jazz, sad" role="button">
 Frank Sinatra - No One Cares (1959)
 </li>
-<li data-cover="https://img.discogs.com/GiVYt5duQ6pkKpz7b3KpnE8I7C0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8256525-1458094649-7843.jpeg.jpg" data-tags="folk" role="button">
-John Fahey - America (1971)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
@@ -53,6 +50,12 @@ The Police - Every Breath You Take (1983-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/01c518f7-7c3f-4679-9e0d-67252a737314/15606984492-500.jpg" data-tags="slowcore" role="button">
 Codeine - Frigid Stars (1990)
+</li>
+<li data-cover="https://img.discogs.com/1pQ6i3aRmr5STNm04vDiW1MzSq4=/fit-in/150x149/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-377694-1105658481.jpg.jpg" data-tags="doom metal, funeral doom metal" role="button">
+Thergothon - Stream From the Heavens (1994)
+</li>
+<li data-cover="https://img.discogs.com/s6MAcrTATGxIvNLPah-_sqIc3d0=/fit-in/600x1129/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11487591-1517195688-1432.jpeg.jpg" data-tags="sad, dark, morbid, radio radio radio, owned by zagromod" role="button">
+Die Form - Suspiria De Profundis (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/196dd723-dd48-310f-8c10-f29cdef30fe9/10130576918-500.jpg" data-tags="trance, ambient, space ambient" role="button">
 Delerium - Spheres II (1994-09-09)
@@ -93,20 +96,23 @@ Cursive - The Storms of Early Summer: Semantics of Song (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/21cf4908-2307-4918-95ed-01367b10c150/22036461151-500.jpg" data-tags="sad, female vocalists, 90s, colors, sarah slean, physical cds i actually own" role="button">
 Sarah Slean - Blue Parade (1999)
 </li>
+<li data-cover="https://img.discogs.com/eiWK3lRVlISXDy75hUMOXdHQWkM=/fit-in/475x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5228597-1388162405-1404.jpeg.jpg" data-tags="latin, morna, world, cape verdean" role="button">
+Cesária Évora - Café Atlantico (1999-08-10)
+</li>
 <li data-cover="https://img.discogs.com/dOTKJwkOBVBqPq4Ls3BGIW5mzKE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-532005-1258815236.jpeg.jpg" data-tags="jazz, sad, downtempo, 90s, melancholic, beautiful voices, adult alternative pop-rock, music for rainy days, night radio, 2 check out, music to wake up to" role="button">
 Perry Blake - Still Life (1999-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6651dafd-9ef1-4502-915d-a8d5e3ef0d59/1483160462-500.jpg" data-tags="sad, gotta check it out, doughty, will buy this - bpx" role="button">
 Mike Doughty - Skittish (2000)
 </li>
-<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
-Cat Power - The Covers Record (2000-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/03f08510-e44b-48cb-a98a-c09551648c61/7867219841-500.jpg" data-tags="classic rock, metal, rock, punk, sad, acoustic, psychedelic, mellow, garage rock, glam rock, surf rock, chameleon, proto punk, essential, rock-protopunk, the black crowes" role="button">
 The Black Crowes - Greatest Hits 1990-1999: A Tribute To A Work In Progress (2000-06-20)
+</li>
+<li data-cover="https://img.discogs.com/oCGCcdGXfRDVudfi4WR28gMaywI=/fit-in/336x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11114493-1510103987-4068.jpeg.jpg" data-tags="chillout, pop, chill, sad, female vocalists, singer-songwriter, easy listening, world, mellow, beautiful voice, indonesian, beautiful woman, streamable albums" role="button">
+Audy - 18 (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
@@ -119,6 +125,9 @@ Stabbing Westward - Stabbing Westward (2001-05-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sad, romance" role="button">
 David Gray - Sail Away (2001-08-14)
+</li>
+<li data-cover="https://img.discogs.com/t1vvFdc-Xd8knfA1HFXZWsLZdtM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642407-1142289999.jpeg.jpg" data-tags="gothic metal, industrial metal" role="button">
+Samsas Traum - Utopia (2001-08-24)
 </li>
 <li data-cover="https://img.discogs.com/njHKzUqqYafGPbvzLZDJYkuEjYg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3278722-1381240201-2848.jpeg.jpg" data-tags="sad, mellow, christian, square peg alliance, caedmons call, the normals, andrew osenga" role="button">
 Andrew Osenga - Photographs (2002)
@@ -153,6 +162,9 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/697776ac-f4ca-4de4-b3ec-0dff13fed33a/26485028742-500.jpg" data-tags="british hip hop" role="button">
 The Streets - Dry Your Eyes (2004-07-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/c18080bf-0d4c-4ad5-890d-1945fec2d62d/12359574398-500.jpg" data-tags="post-rock" role="button">
+School of Emotional Engineering - School of Emotional Engineering (2004-08-16)
+</li>
 <li data-cover="https://img.discogs.com/ioKU5EXrEvAtBBv0g3Ue7Peyg1A=/fit-in/589x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1062870-1254017392.jpeg.jpg" data-tags="chillout, electronic, minimal" role="button">
 Sarah Fimm - Nexus (2004-09-05)
 </li>
@@ -168,14 +180,14 @@ Archive - Unplugged (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
 Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/613aa14f-592b-4ab9-bfca-093902c3674c/2538327449-500.jpg" data-tags="deutsch" role="button">
+2raumwohnung - Melancholisch schön (2005-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
 <li data-cover="https://img.discogs.com/SliWxj2iy8Y5n12XU_grxv7piKE=/fit-in/476x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697568-1297007420.jpeg.jpg" data-tags="depressive black metal" role="button">
 Life is Pain - Bloody Melancholy (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/883c34c8-469a-4192-811d-095c1f8790b7/17000671940-500.jpg" data-tags="screamo" role="button">
-Suis la lune - Quiet, Pull the Strings! (2006)
 </li>
 <li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
 Steve Adey - All Things Real (2006-03-06)
@@ -185,9 +197,6 @@ Jeniferever - Choose a Bright Morning (2006-03-13)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
-Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
@@ -246,9 +255,6 @@ Bruce Springsteen - Nebraska (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/53e77fe7-7271-4860-b293-6107bdd49535/6657120516-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Valdosta (2011-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
-Kurt Vile - Smoke Ring for My Halo (2011-03-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
 The Antlers - Burst Apart (2011-05-10)
 </li>
@@ -293,12 +299,6 @@ Natalia Kills - Trouble (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/e18b4d96-b288-490f-b087-973ec227a60f/24950248516-500.jpg" data-tags="acoustic" role="button">
-Katatonia - Dethroned & Uncrowned (2013-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
-CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="https://img.discogs.com/WYtFHEojp0lsFjizQv2d6UxmkXI=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5045864-1383029442-7787.jpeg.jpg" data-tags="metal, sad, thrash metal, depressing, denmark, death-thrash metal, danish metal, most disappointing album since a sense of purpose, shit production, makes the great bludgeoning seem like a masterpiece, massacre records" role="button">
 Hatesphere - Murderlust (2013-09-27)

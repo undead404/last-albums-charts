@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:06:01.414Z
+date: 2021-04-12T02:58:18.222Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -131,6 +131,9 @@ Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/24e54209-48ee-460c-b6c3-42df790f3ca9/10135113250-500.jpg" data-tags="post-rock" role="button">
+Saxon Shore - The Exquisite Death Of Saxon Shore (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a41e4735-76af-4ee3-aa0f-1d12eda2bf25/2737978532-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - One Time for All Time (2005-10-24)
@@ -296,9 +299,6 @@ Swans - The Seer (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
-Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="https://img.discogs.com/ZRZ3arDJhUvbwFmGX3lIKu3jEDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4660919-1371404516-4044.jpeg.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Kveikur (2013-06-12)

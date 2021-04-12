@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:10:01.450Z
+date: 2021-04-12T03:19:01.441Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
