@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:50:01.726Z
+date: 2021-04-12T16:13:01.461Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -42,8 +42,14 @@ Lamb - Lamb (1996-09-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo" role="button">
 Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d72147b-10f6-4c24-b2bf-77e5214d3e2f/4530504774-500.jpg" data-tags="downtempo" role="button">
+Tosca - Opera (1997-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">
+Portishead - Portishead (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
@@ -77,9 +83,6 @@ Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
 <li data-cover="https://img.discogs.com/aXOvlvSwksc_Va7qe_P5NtxadW4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493126-1223829030.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Programmed to Love (2000)
-</li>
-<li data-cover="https://img.discogs.com/NiFbO-hHjl2mmKr0Fa_Pl3sVLkY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3083-1167766285.jpeg.jpg" data-tags="trip-hop, downtempo, electronic" role="button">
-Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/505f0ee9-6113-46aa-b44e-fbae0bcff839/13276098607-500.jpg" data-tags="downtempo" role="button">
 Tosca - Suzuki (2000-03-06)
@@ -177,14 +180,14 @@ Zero 7 - When It Falls (2004-02-25)
 <li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
 Afterlife - Speck Of Gold (2004-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/fd01efd0-91ef-4a6a-832b-a4945c233cbf/11348812197-500.jpg" data-tags="electronic, ambient" role="button">
+Tycho - Past Is Prologue (2004-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
-Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
@@ -218,9 +221,6 @@ Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcc7d391-9e77-437a-b207-afa30629da3a/2501588189-500.jpg" data-tags="trip-hop, downtempo" role="button">
-Flunk - Personal Stereo (2007-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)

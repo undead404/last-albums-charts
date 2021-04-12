@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:22:01.403Z
+date: 2021-04-12T16:17:01.452Z
 title: "hypnotic: 100 albums you must listen to before you die"
 ---
 ![Slowdive - Pygmalion (1995-02-06)](https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg "Slowdive - Pygmalion (1995-02-06)")
@@ -30,6 +30,9 @@ Art Blakey & The Jazz Messengers - Like Someone in Love (1966)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, blue note" role="button">
 Bobby Hutcherson - Happenings (1967)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef77ae2e-3934-484e-9eec-8ec75bff87e0/9762539823-500.jpg" data-tags="sitar, raga, indian classical" role="button">
+Ravi Shankar - Sound of the Sitar (1967)
+</li>
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
@@ -38,9 +41,6 @@ Les McCann - Layers (1974-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/38ed61bb-9d92-441c-a683-eb129abeef78/24023912663-500.jpg" data-tags="funk" role="button">
 Ohio Players - Honey (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Live! (1975-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c7c26bd-2771-4501-8d03-bc5e184d9538/24665804575-500.jpg" data-tags="electronic" role="button">
 Klaus Schulze - Body Love (1977-02)
@@ -51,11 +51,11 @@ Television - Adventure (1978-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Public Image Ltd. - Second Edition (1979-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c24a398-4847-30b4-a508-9c8e9350bdc5/18749214672-500.jpg" data-tags="jazz, jazz fusion" role="button">
+Weather Report - Night Passage (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/8b4a22b2-7db2-4c9d-a1ac-256891739f3e/14236581806-500.jpg" data-tags="new wave, 80s" role="button">
 Simple Minds - Empires And Dance (1980-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d8ca766-068d-45df-80bf-fa57932d1694/18235029110-500.jpg" data-tags="reggae, roots reggae" role="button">
-Black Uhuru - Red (1981-06)
 </li>
 <li data-cover="https://img.discogs.com/m8orecc8erkk0IZ8cm0s5oCeW-s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136523-001.jpg.jpg" data-tags="80s, baroque pop, reflective, dream pop, mellow, hypnotic, pastoral, david sylvian, literary, flashback alternatives" role="button">
 Virginia Astley - Hope In A Darkened Heart (1986)
@@ -86,9 +86,6 @@ Mouse on Mars - Vulvaland (1994-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
 Stereolab - Mars Audiac Quintet (1994-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/62a9a8a4-f5fa-4d40-bcdd-25b243f133e7/2499675510-500.jpg" data-tags="idm" role="button">
-Autechre - Anti EP (1994-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/14064b3b-6d31-3be9-8c06-c09c84aa6b77/11873667679-500.jpg" data-tags="post-rock, hypnotic, divine chemical, magic sound" role="button">
 Lanterna - Lanterna (1995)
@@ -123,11 +120,11 @@ Koxbox - Dragon Tales (1997-11)
 <li data-cover="https://img.discogs.com/TDftU_ZLbGEr9Udq75Nb5PUDPOU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-59711-1211877262.jpeg.jpg" data-tags="chillout" role="button">
 Makyo - Shringara (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/42681654-3e7c-4bc0-af4e-4e8b7dd468f5/14334036705-500.jpg" data-tags="hypnotic, divine chemical, magic sound" role="button">
+Muslimgauze - Mort Aux Vaches (1998-04)
+</li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
-Crowbar - Odd Fellows Rest (1998-07-06)
 </li>
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
@@ -168,20 +165,17 @@ Sourvein - Will To Mangle (2002-10)
 <li data-cover="https://img.discogs.com/CRe3eF1up8sgihiNJOjdBeFgeWE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385023-1248848442.jpeg.jpg" data-tags="acoustic, folk" role="button">
 Steve Von Till - If I Should Fall To The Field (2002-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/135b362d-5e2e-30e2-9b92-665b8d5d9c63/9071451538-500.jpg" data-tags="ambient" role="button">
-Ben Frost - Steel Wound (2003)
-</li>
 <li data-cover="https://img.discogs.com/S5DvNb7JaCGGp74F71sNGGlvlPY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381684-1231534113.jpeg.jpg" data-tags="hypnotic, somber, when despondent, not streamable at all" role="button">
 Calla - Televise (2003-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e463ee-9c8e-4215-a334-1de8f989cf10/3113397712-500.jpg" data-tags="drone, dark ambient" role="button">
 Nurse With Wound - Salt Marie Celeste (2003-02)
 </li>
-<li data-cover="https://img.discogs.com/cUcCd5WSRNGbuNN3gW6ibL3rC28=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7003786-1431794023-5274.jpeg.jpg" data-tags="jazz, guitar" role="button">
-Bill Frisell - The Intercontinentals (2003-02-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a37bee7-e8bc-4902-bcd9-b99efd7b5d58/21530586130-500.jpg" data-tags="ambient" role="button">
 Eluvium - Lambent Material (2003-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/32b77bf1-7b82-41a6-b75c-492a636cf6c5/19430147444-500.jpg" data-tags="noise, hypnotic, dark ambient, creepy, the time you heard is in your mind" role="button">
+Merzbow - Animal Magnetism (2003-07)
 </li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -194,6 +188,9 @@ Eivind Aarset - Connected (2004)
 </li>
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
+</li>
+<li data-cover="https://img.discogs.com/fH0c_b-H7fLhLeaAeXAkW4IUpNA=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-384840-1525879974-6451.jpeg.jpg" data-tags="spoken word" role="button">
+Enablers - End Note (2004-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2240d532-460c-4185-a167-271d4266c3c2/19383889704-500.jpg" data-tags="instrumental, chamber music, instrumental rock, hypnotic, avant-rock, spring 2008, turquoise and coral, crazy percussive experimental awesomeness" role="button">
 Clogs - Stick Music (2004-08)
@@ -228,6 +225,9 @@ Solar Fields - Leaving Home (2005-10)
 <li data-cover="http://coverartarchive.org/release/05998956-a7bf-475c-8c1a-20bfa987366e/8312618887-500.jpg" data-tags="trance, electronic, psytrance" role="button">
 GMS - EMERGENCY BROADCAST SYSTEM (2005-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/85bf4fc1-3ebc-4424-b7b9-be41cbd8426a/19349448176-500.jpg" data-tags="ambient, stoner rock, hypnotic" role="button">
+Pharaoh Overlord - #4 (2006)
+</li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
 </li>
@@ -239,6 +239,9 @@ Moljebka Pvlse - Sadalsuud (2007-03)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
+</li>
+<li data-cover="https://img.discogs.com/tJiXlFb6nRu1MrIpTkVQ0Bo2byY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-985849-1378740097-6108.jpeg.jpg" data-tags="ecm" role="button">
+Eberhard Weber - Stages Of A Long Journey (2007-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
@@ -255,17 +258,14 @@ TV on the Radio - Dear Science (2008-09-22)
 <li data-cover="https://img.discogs.com/bKKaoaQCA2aak43BD1APQPJT5wk=/fit-in/371x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921521-1252604182.jpeg.jpg" data-tags="post-metal, progressive metal, post-rock, sludge" role="button">
 Giant Squid - The Ichthyologist (2009-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/50651eee-0835-4fbd-9c61-004f600abbdf/11349916177-500.jpg" data-tags="usa, bass, jazz funk, hypnotic, 00s, jazz trio, june, divine chemical, magic sound, 15th" role="button">
+The Stanley Clarke Trio - Jazz In The Garden (2009-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">
 Om - God Is Good (2009-09-29)
 </li>
-<li data-cover="https://img.discogs.com/t15ON2q2Rms76oRv4zfQeP49_pU=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3344312-1326652587.jpeg.jpg" data-tags="jazz, avant-garde, hypnotic, free improvisation, gammarec, divine chemical, magic sound, freepurp1e" role="button">
-William Parker - At Somewhere There (2010-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/b2582f81-85a6-4c66-b55f-f299d3a466c7/18869751926-500.jpg" data-tags="noise, ambient" role="button">
 Yellow Swans - Going Places (2010-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a320ee5-67ec-3a2d-b222-55106a56bcc2/1874077002-500.jpg" data-tags="experimental, progressive rock, prog, usa, epic, experimental rock, psychedelic, avant garde, avant-garde, american, progressive, avantgarde, psychedelia, space rock, hypnotic, chicago, american underground, free downloads, netlabel, space pop, rio, 10s, creative commons, free music, illinois, america, united states, avant-rock, free download, psych rock, weblabel, netaudio, fully streamable tracks, psych-rock, netlabels, free mp3, avant-prog, free track, free music archive, downloadable, free albums, free mp3s, net labels music, fully downloadable albums, free album, downloadable tracks, free streamable albums, webaudio, album fav, fully streamable album, fully downloadable tracks, captcha records, psychrock, usa underground, fully streamable track, fully downloadable album, netlabels music, weblabels" role="button">
-Ga'an - Ga'an (2010-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)

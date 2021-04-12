@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:46:01.655Z
+date: 2021-04-12T16:37:01.488Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/686ef2fa-7866-4b42-8f79-1f60371e1a22/3944109166-500.jpg" data-tags="noise rock" role="button">
 Skullflower - Form Destroyer (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
-Joey Fehrenbach - Mellowdrama (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e9dfd9c-c9df-409e-8277-bd26f8da8f2f/26703443397-500.jpg" data-tags="indie" role="button">
 Working For A Nuclear Free City - Working for a Nuclear Free City (2006-10-24)
@@ -200,6 +197,9 @@ Toro y Moi - June 2009 (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2f5bb88-a677-4ae4-a52d-791a5aff00a0/3381472542-500.jpg" data-tags="electronic, indie, chillwave" role="button">
 Summer Heart - About A Feeling (2012-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/442665f7-8b9d-4400-83a2-87eafab7ce2c/2861431050-500.jpg" data-tags="lo-fi, dreampop, chillwave" role="button">
+treasureseason - treasureseason (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0631744c-1fce-411a-8b47-b985a0ea094c/6529879394-500.jpg" data-tags="dream pop" role="button">
 Craft Spells - Gallery (2012-05-15)

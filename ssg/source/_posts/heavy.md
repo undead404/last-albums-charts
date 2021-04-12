@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:38:01.406Z
+date: 2021-04-12T16:18:18.232Z
 title: "heavy: 100 albums you must listen to before you die"
 ---
 ![Flux Pavilion - Bass Cannon (2011-03-21)](http://coverartarchive.org/release/2fca1b4d-f307-48fc-a449-550e663c9da0/18420618474-500.jpg "Flux Pavilion - Bass Cannon (2011-03-21)")
@@ -24,11 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/5ZT4tpG49bIBOc3AyVaosvGgiJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1769986-1526268468-4473.jpeg.jpg" data-tags="psychedelic, heavy metal, hard rock" role="button">
 Blue Cheer - Outsideinside (1968)
 </li>
-<li data-cover="http://coverartarchive.org/release/649af5b0-4a82-404c-b4d9-622364a2a802/10934941771-500.jpg" data-tags="classic rock, pop, 70s" role="button">
-The Rascals - Time Peace: The Rascals' Greatest Hits (1968)
-</li>
-<li data-cover="https://img.discogs.com/_eeSMN9TgMDDsjNqWKUc44AEJvk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2025668-1536853220-6364.jpeg.jpg" data-tags="psychedelic" role="button">
-May Blitz - May Blitz (1970)
+<li data-cover="http://coverartarchive.org/release/d9a315a8-0195-3361-bdd4-897cda5fc1a6/9259341378-500.jpg" data-tags="psychedelic rock, hard rock, classic rock, rock" role="button">
+Alice Cooper - Pretties for You (1969-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/922ff571-0336-36cb-b9b8-a85bfa2f6d66/2736276004-500.jpg" data-tags="hard rock" role="button">
 Blue Öyster Cult - Blue Öyster Cult (1972-01-16)
@@ -53,9 +50,6 @@ Motörhead - No Sleep 'Til Hammersmith (1981-06-27)
 </li>
 <li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
-</li>
-<li data-cover="https://img.discogs.com/kFYizJ5wSl-faj-xObBhczXvoso=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2686795-1419674236-4860.jpeg.jpg" data-tags="heavy metal, heavy, hard rock, blues, epic metal, nwobhm, albums i need, rocking metal, rock heavy metal, do nagrania, hard heavy metal, favourite albums of 1985, rocking heavy metal" role="button">
-Tytan - Rough Justice (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/13e732b0-7f9e-447f-87eb-bf6fbfcd0b2a/13443559839-500.jpg" data-tags="heavy metal" role="button">
 Q5 - Steel the Light (1985)
@@ -99,6 +93,9 @@ Don Caballero - Don Caballero 2 (1995-09-15)
 <li data-cover="https://img.discogs.com/cBx0qwI813dE2ftNLaFT1mhdCD8=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6947236-1548962523-8299.jpeg.jpg" data-tags="alternative metal, heavy metal, thrash metal, metal" role="button">
 Anthrax - Stomp 442 (1995-10-24)
 </li>
+<li data-cover="https://img.discogs.com/vVurZNwmJdq3nTRZItvT-KC9HyA=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958917-1293310435.jpeg.jpg" data-tags="doom metal, sludge metal" role="button">
+Grief - Miserably Ever After (1996)
+</li>
 <li data-cover="https://img.discogs.com/etTq8ISwuGvt8WmT51mCCoLN__I=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4505386-1366799359-8515.jpeg.jpg" data-tags="industrial metal" role="button">
 Ministry - Filth Pig (1996-01-26)
 </li>
@@ -108,9 +105,6 @@ Bardo Pond - Amanita (1996-04)
 <li data-cover="https://img.discogs.com/x7IpUEL5lixXjShSIsMdwxj7oVU=/fit-in/600x952/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4629878-1370444540-3758.jpeg.jpg" data-tags="industrial" role="button">
 Laibach - Jesus Christ Superstars (1996-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6c900ed7-76dd-4eb0-ba46-9153ff056f5a/20122739280-500.jpg" data-tags="hard rock, rock, german, onkelz" role="button">
-Böhse Onkelz - E.I.N.S. (1996-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
 La Renga - Despedazado Por Mil Partes (1996-11)
 </li>
@@ -119,6 +113,9 @@ Kiss - Greatest Kiss (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7db8dd51-474e-455f-a75a-431db9837284/4801390859-500.jpg" data-tags="metal, heavy metal" role="button">
 Black Sabbath - The Best of Black Sabbath (1996-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/371223d8-02b4-482b-8770-eab1270b79a8/21262069104-500.jpg" data-tags="doom metal" role="button">
+Funeral - To Mourn Is A Virtue (1997)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="groove metal, thrash metal" role="button">
 Machine Head - The More Things Change... (1997-03-24)
@@ -135,20 +132,17 @@ La Renga - La Renga (1998-09-21)
 <li data-cover="http://coverartarchive.org/release/e870de20-4a18-3afc-9f50-1b60a2250508/9996011916-500.jpg" data-tags="metal" role="button">
 King's X - Tape Head (1998-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/fa44d7bd-289a-4a19-845d-64e5e7b534d0/16131894017-500.jpg" data-tags="thrash metal, metal, death metal, groove metal" role="button">
-Lamb of God - Burn the Priest (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/d56380fe-d00e-42c3-841a-654254ef264a/7697244807-500.jpg" data-tags="post-metal, sludge" role="button">
 Neurosis - Times of Grace (1999-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/3be79db6-c393-49dc-81be-a6eabfbd6031/13183150547-500.jpg" data-tags="hardcore" role="button">
-Coalesce - 0:12 Revolution In Just Listening (1999-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44bedb5-d782-47ff-bfa1-7b43ec795396/27109764066-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - We Are Motörhead (2000-05-15)
+</li>
+<li data-cover="https://img.discogs.com/3EfvXaYCJoF1yiaDhY8y3eFdj9c=/fit-in/168x168/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-931247-1327246621.jpeg.jpg" data-tags="death metal, murder metal" role="button">
+Macabre - Dahmer (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
 Khanate - Khanate (2001)
@@ -162,9 +156,6 @@ Sevendust - Animosity (2001-11-13)
 <li data-cover="https://img.discogs.com/gmP9V3KIDTC63kRpoHbjsaAn748=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2152168-1518553440-5831.jpeg.jpg" data-tags="heavy metal, metal, heavy, progressive metal, progressive rock, power, progressive, female vocals, power metal" role="button">
 Missa Mercuria - Missa Mercuria (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6c37466-3b2c-488f-8780-0c9e7e4ba28c/16318641222-500.jpg" data-tags="electronic, rock, heavy, jam" role="button">
-My Morning Jacket - Chocolate and Ice EP (2002-04-16)
-</li>
 <li data-cover="https://img.discogs.com/nvbQEbBy4jtoOKC8TziETkWNxQg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1032043-1513539962-9480.jpeg.jpg" data-tags="ze best" role="button">
 Jucifer - I Name You Destroyer (2002-06-18)
 </li>
@@ -176,9 +167,6 @@ Horsepower Productions - In Fine Style (2002-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f59ee7d-5335-46c2-abb6-889493a95113/12567125637-500.jpg" data-tags="heavy metal" role="button">
 Manowar - The Dawn of Battle (2002-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3986eca7-b1a2-400e-ab90-8714de7eea7b/14972037146-500.jpg" data-tags="heavy metal" role="button">
-Tarot - Suffer Our Pleasures (2003-05-26)
 </li>
 <li data-cover="https://img.discogs.com/KnTkQF-rMYeeZfI7bVnnjWiuZT0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3390106-1404043268-8540.jpeg.jpg" data-tags="alternative metal" role="button">
 Sevendust - Seasons (2003-10-07)
@@ -195,8 +183,8 @@ Otep - House of Secrets (2004-07-24)
 <li data-cover="https://img.discogs.com/NTVviIXrJ8KVvXXcCANylQznQ3w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398648-1267036060.jpeg.jpg" data-tags="melodic death metal" role="button">
 Mercenary - 11 Dreams (2004-08-23)
 </li>
-<li data-cover="https://img.discogs.com/yXC2fznaXz4TaWYjoQsjcYqT3ao=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568239-1553981581-3905.jpeg.jpg" data-tags="groove metal, disgusting, fags" role="button">
-Nicole - Suljetut ajatukset (2004-10-27)
+<li data-cover="https://img.discogs.com/t5EKcp_DZCGAu5geC5art8KBvIc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576746-1335944048.jpeg.jpg" data-tags="progressive metal" role="button">
+Spheric Universe Experience - Mental Torments (2005-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled" role="button">
 Heavy Trash - Heavy Trash (2005-04-19)
@@ -258,6 +246,9 @@ Indukti - Mutum (2008-12-04)
 <li data-cover="http://coverartarchive.org/release/c863e27e-ad34-4334-9083-747bd11ebe15/1096713865-500.jpg" data-tags="video game music, soundtrack" role="button">
 Hans Zimmer - Call of Duty: Modern Warfare 2 (2009)
 </li>
+<li data-cover="http://coverartarchive.org/release/5b9c111e-7b0a-4643-844e-0e2c259f6cfd/3997940232-500.jpg" data-tags="heavy, ambient, post rock, austria, spambient, postrockcommunity" role="button">
+Our Ceasing Voice - Steadied Stars In The Morphium Sky (2009)
+</li>
 <li data-cover="https://img.discogs.com/xycdv1-b8lkSxRzRLqI-KuV0KJE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2128985-1265582356.jpeg.jpg" data-tags="deathcore" role="button">
 Oceano - Depths (2009-04-07)
 </li>
@@ -288,9 +279,6 @@ Danzig - Deth Red Sabaoth (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/f2b9f3a4-b6c3-4b9d-833f-b898316f415e/4799552484-500.jpg" data-tags="orchestral pop" role="button">
 Lost in the Trees - All Alone in an Empty House (2010-08-10)
 </li>
-<li data-cover="https://img.discogs.com/Gkjsamj2xufMB6drUdRa5QrIzu4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3824271-1345854842-3558.jpeg.jpg" data-tags="hard rock, rock" role="button">
-Hinder - All American Nightmare (2010-12-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7f563874-2621-462e-a0c1-46f1725d6a9c/12684576029-500.jpg" data-tags="70s, jefferson airplane" role="button">
 Jefferson Airplane - Bark (2011-01-28)
 </li>
@@ -312,11 +300,23 @@ Vader - Welcome to the Morbid Reich (2011-08-12)
 <li data-cover="http://coverartarchive.org/release/3898d620-db6a-4b0b-af57-a167ac1318d8/8010063603-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - En Vivo! (2012-03-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/2ff3b847-bca0-4d2c-8bd8-b2b249f1833f/6251011985-500.jpg" data-tags="heavy, alone, chicago, times, hozac, fix" role="button">
+Heavy Times - Fix It Alone (2013)
+</li>
+<li data-cover="http://coverartarchive.org/release/61596c7c-ad71-4ba2-8363-d5420d85d117/3576710626-500.jpg" data-tags="brutal death metal, technical death metal" role="button">
+Wormed - Exodromos (2013-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d7490c3-7319-47b1-8752-95f1cccf66f4/6143811073-500.jpg" data-tags="slamming brutal death metal, brutal death metal" role="button">
+Extermination Dismemberment - Serial Urbicide (2013-05-27)
+</li>
 <li data-cover="https://img.discogs.com/pGXPzLE3icWGm_ffLYDHqx7opdc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4782651-1591785311-6666.jpeg.jpg" data-tags="heavy metal" role="button">
 Newsted - Heavy Metal Music (2013-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b80f5178-1d3e-4331-93cf-7f8f0dfd9f03/6288256895-500.jpg" data-tags="metal, rock, heavy, hard rock, my top albums, zakk, heavy meta, ulubiony album live, favourite live lp, ulubiony album live zakk live" role="button">
 Black Label Society - Unblackened (2013-09-11)
+</li>
+<li data-cover="https://img.discogs.com/ucCGDgM1_Eb9DhkXvgL0oDw5b0Y=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5264403-1471464925-9583.jpeg.jpg" data-tags="metal, heavy, atmospheric, doom, sludge, drone" role="button">
+Sea of Bones - The Earth Wants Us Dead (2013-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d276ca4-c5da-4ad7-a838-2939d57b6a55/7522883582-500.jpg" data-tags="rock, alternative" role="button">
 Manchester Orchestra - Cope (2014-03-28)

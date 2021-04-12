@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:11:01.477Z
+date: 2021-04-12T16:34:01.566Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -26,6 +26,9 @@ Kraftwerk - Computer World (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5922184-c4e7-35df-bd1d-b198da677993/1148951969-500.jpg" data-tags="electronica, electro, house, daft punk, electrofunk" role="button">
 Daft Punk - Da Funk (1995-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c0eaaf9-0852-4232-8dc1-e53597a9b441/1269724333-500.jpg" data-tags="electronica, electronic" role="button">
+Daft Punk - Around the World (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
@@ -66,6 +69,9 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">
 Vitalic - OK Cowboy (2005-04-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/17a24f0b-799a-4abb-9f2b-251fcc5a6d9e/22782452024-500.jpg" data-tags="electronic" role="button">
+Modeselektor - Hello Mom! (2005-05-27)
+</li>
 <li data-cover="https://img.discogs.com/m5caYZzD87Pe6K8_y0awhXHNFxE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471424-1118479959.jpg.jpg" data-tags="electro, techno" role="button">
 Kraftwerk - Minimum - Maximum (2005-06-06)
 </li>
@@ -80,9 +86,6 @@ Justice - Justice (2005-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1226bbd9-f60e-4399-a3a5-14071fc7c13d/14242541008-500.jpg" data-tags="electro, ed banger" role="button">
 Justice - Waters of Nazareth (2005-09-19)
-</li>
-<li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
-CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Dreams (2006-04-27)
@@ -150,12 +153,6 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="http://coverartarchive.org/release/bcbdee94-6070-40c0-9262-2a405f981bd1/2772718732-500.jpg" data-tags="experimental, electro" role="button">
 Boys Noize - Oi Oi Oi Remixed (2008-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/3509278f-1d3e-3a66-b3d7-eb6dc376f7dc/26472492099-500.jpg" data-tags="femme-pop" role="button">
-Santigold - Santogold (2008-04-29)
-</li>
-<li data-cover="https://img.discogs.com/Okdmgf9xSUO6bkQs55LlEhKflxs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13611821-1557501177-3733.jpeg.jpg" data-tags="new rave, electronic" role="button">
-Hadouken! - Music for an Accelerated Culture (2008-05-05)
-</li>
 <li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
 Little Boots - Hands (2008-06-08)
 </li>
@@ -183,9 +180,6 @@ The Bloody Beetroots - Warp (2009-03-24)
 <li data-cover="http://coverartarchive.org/release/59513c6f-9fb1-468e-be7a-97c431ab3475/5499909715-500.jpg" data-tags="electro, ekleroshock" role="button">
 Danger - 09/16 2007 (2009-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="https://img.discogs.com/gLYg2pa_TMc8Acxk9arwQUDPZTk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2072263-1262405516.jpeg.jpg" data-tags="electro" role="button">
 Basement Jaxx - Raindrops (2009-06-21)
 </li>
@@ -206,6 +200,9 @@ Young Money - We Are Young Money (2009-12-21)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/42c22569-1d0f-41fd-ac67-327c2ae6f614/8171013124-500.jpg" data-tags="dubstep, electro, dark, quiet, sinister, synth-pop, sharp, scuba" role="button">
+Emika - Drop The Other (2010-01-18)
 </li>
 <li data-cover="https://img.discogs.com/Wbl1K45Uck0dvUYqtwZOpSDYqAQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2103001-1264239385.jpeg.jpg" data-tags="electro, dance, happy, house, chic" role="button">
 Tensnake - Coma Cat (2010-01-25)
@@ -240,6 +237,9 @@ Mark Ronson & The Business Intl - Record Collection (2010-09-24)
 <li data-cover="http://coverartarchive.org/release/21b68282-77c1-3a28-a3b0-dc442159b18f/29013072916-500.jpg" data-tags="electronic, dance, rnb" role="button">
 Chris Brown - Yeah 3x (2010-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
+Feed Me - Feed Me's Big Adventure (2010-12-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/fd0934b6-8675-47d7-9267-b31669aa140e/6162424730-500.jpg" data-tags="electro, electro house" role="button">
 Dada Life - White Noise / Red Meat (2011-02-01)
 </li>
@@ -249,14 +249,14 @@ Sebastian - Total (2011-05-27)
 <li data-cover="http://coverartarchive.org/release/a06702d0-814a-4a71-9c56-c6f2f2023b57/4100526040-500.jpg" data-tags="electronic, electro, indie electro, electronic indie" role="button">
 Chrome Sparks - My <3 (2011-07-17)
 </li>
-<li data-cover="https://img.discogs.com/RiURtSiDgw8hCLlQefhEq6ze8B8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000800-1311122520.jpeg.jpg" data-tags="noise, trance, electronic, electro" role="button">
-Pictureplane - THEE PHYSICAL (2011-07-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg" data-tags="dubstep" role="button">
 Nero - Welcome Reality (2011-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/630a2904-4661-41d7-91c3-4ffc27741c4e/22104853852-500.jpg" data-tags="house" role="button">
 David Guetta - Nothing but the Beat 2.0 (2011-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce9e7189-6e6a-4f1f-a928-88b65451d358/4603723237-500.jpg" data-tags="electro, electro house" role="button">
+Dada Life - Happy Violence (2011-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/be1a5941-39f3-4204-a2ac-745ab6d1be45/15363674556-500.jpg" data-tags="electronic" role="button">
 Example - Playing in the Shadows (2011-09-05)

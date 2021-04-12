@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:05:01.517Z
+date: 2021-04-12T15:58:01.803Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -41,6 +41,9 @@ Chick Corea - Now He Sings, Now He Sobs (1968)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, piano" role="button">
 Art Tatum - Piano Starts Here (1968)
+</li>
+<li data-cover="http://coverartarchive.org/release/a79609ba-bc9a-4d37-8ebc-7d9bc490ecaa/8660560345-500.jpg" data-tags="jazz, jazz piano" role="button">
+Bill Evans - Alone (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
@@ -260,9 +263,6 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/91e158f9-870a-459a-bbca-1883edeb2a47/24901186248-500.jpg" data-tags="female vocalists" role="button">
 Tori Amos - Abnormally Attracted To Sin (2009-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)

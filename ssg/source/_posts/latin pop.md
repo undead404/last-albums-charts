@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:24:12.567Z
+date: 2021-04-12T16:15:01.620Z
 title: "latin pop: 100 albums you must listen to before you die"
 ---
 ![Juanes - Mi Sangre (2004-09-28)](http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg "Juanes - Mi Sangre (2004-09-28)")
@@ -69,6 +69,9 @@ Enrique Iglesias - Cosas Del Amor (1998)
 <li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/50097de6-9025-4b1f-b2ad-37b6b7623ce1/6355261660-500.jpg" data-tags="pop, rock, female vocalists" role="button">
+Amaral - Amaral (1998-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">
 Shakira - Dónde Están los Ladrones? (1998-09-29)
 </li>
@@ -95,6 +98,9 @@ Marc Anthony - Marc Anthony (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/64cfc603-3ce2-4a8f-85b6-647fb181a991/4653672920-500.jpg" data-tags="latin, pop" role="button">
 Enrique Iglesias - Enrique (1999-11-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, latin" role="button">
+Gloria Estefan - Alma Caribeña (2000-05-23)
 </li>
 <li data-cover="https://img.discogs.com/qJG8PJlHKEoiHL-tZDotnB8r4hQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2934256-1307994647.jpeg.jpg" data-tags="pop, female vocalists, dance, latin pop, anahi" role="button">
 Anahí - Una Rebelde en Solitario (2000-07-17)
@@ -174,9 +180,6 @@ Reik - Reik (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/b04d255e-d2bd-48b9-800e-243e79c81d55/17642227829-500.jpg" data-tags="rbd" role="button">
 RBD - Nuestro Amor (2005-09-22)
 </li>
-<li data-cover="https://img.discogs.com/VG0ZGPq8e-ZIcKP2hlASdpWHJZs=/fit-in/317x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2835382-1303217080.jpeg.jpg" data-tags="pop, latin pop" role="button">
-Jon Secada - Same Dream (2005-10-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="playa limbo" role="button">
 Playa Limbo - Canciones De Hotel (2006-01-31)
 </li>
@@ -209,9 +212,6 @@ Alejandro Fernández - Viento A Favor (2007-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/65d73b4c-b71e-4cf8-9c5e-8390692dec5a/10090851111-500.jpg" data-tags="spanish, spanish vocals" role="button">
 Marquess - Frenetica (2007-06-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/9329f2c5-41c6-4f4e-9042-d5850647d898/11978100442-500.jpg" data-tags="rnb, kat deluna, female vocalists" role="button">
-Kat DeLuna - 9 Lives (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0491bedd-2e84-3b6c-a731-9dbda0eb74ba/13473301180-500.jpg" data-tags="pop, dance" role="button">
 Jennifer Lopez - Brave (2007-10-05)
@@ -273,14 +273,14 @@ Nelly Furtado - Mi Plan (2009-09-11)
 <li data-cover="http://coverartarchive.org/release/77d6064d-2e40-4558-8c62-56645a949e91/6548362591-500.jpg" data-tags="00s" role="button">
 David Bisbal - Sin Mirar Atrás (2009-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/1968256f-f367-4c80-a18a-5fe777c929c3/22851726160-500.jpg" data-tags="pop" role="button">
-Anahí - Mi Delirio (2009-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0a99d0b-b28d-4bec-b40b-dbbc0747c7a6/18106655845-500.jpg" data-tags="camila" role="button">
 Camila - Dejarte De Amar (2010-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/786bf250-76f1-4179-b1de-4429618d3990/7549448874-500.jpg" data-tags="spanish, reggaeton, latin pop, vallenato, 10s" role="button">
 Dyland & Lenny - My World (2010-03-01)
+</li>
+<li data-cover="https://img.discogs.com/taGE0eDFsWrBEF7Hh7JY8hdx9iM=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652297-1295048511.jpeg.jpg" data-tags="spanish, electropop, pop, dance, latin pop" role="button">
+Edurne - Nueva Piel (2010-03-22)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
 Shakira - Sale el Sol (2010-10-14)

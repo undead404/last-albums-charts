@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:26:07.147Z
+date: 2021-04-12T16:31:06.969Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")

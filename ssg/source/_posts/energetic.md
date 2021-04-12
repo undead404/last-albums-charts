@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:30:07.051Z
+date: 2021-04-12T16:10:07.112Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
@@ -30,17 +30,14 @@ Lee Morgan - Cornbread (1965)
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5e2fb93-9c05-305e-a8e4-b3dde81333af/9764602259-500.jpg" data-tags="jazz, african jazz" role="button">
+Hugh Masekela - Home Is Where The Music Is (1972-01)
+</li>
 <li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
 B.B. King - To Know You Is To Love You (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/38ed61bb-9d92-441c-a683-eb129abeef78/24023912663-500.jpg" data-tags="funk" role="button">
 Ohio Players - Honey (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Live! (1975-12-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
-ABBA - Arrival (1976-10-11)
 </li>
 <li data-cover="https://img.discogs.com/oKmmY4RjN0e6uUSAZ39M4cQlEVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8650284-1498760079-3363.jpeg.jpg" data-tags="punk" role="button">
 Sham 69 - Tell Us the Truth (1978-02-18)
@@ -104,9 +101,6 @@ Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
-Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cb87276-17b3-4e85-aeff-8c24b5a73e30/9518451981-500.jpg" data-tags="rock, alternative" role="button">
 Boss Hog - Boss Hog (1995-10-10)
@@ -180,6 +174,9 @@ Rouge - C'est La Vie (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/02e71dd7-abd5-31ba-a6c3-b85c9210af90/5695108897-500.jpg" data-tags="alternative rock" role="button">
 Live - Birds Of Pray (2003-05-20)
 </li>
+<li data-cover="https://img.discogs.com/fQ7oN89HjXIt4i700Z1mibfTuKY=/fit-in/430x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409218-1109567385.jpg.jpg" data-tags="punk rock" role="button">
+The Soviettes - LP (2003-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/7af6881e-8249-4824-b352-b38f642b6c85/1580458507-500.jpg" data-tags="rock" role="button">
 Mor ve Ötesi - Dünya Yalan Söylüyor (2004)
 </li>
@@ -242,6 +239,9 @@ Lori McKenna - Unglamorous (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/71789dd2-83ee-4fb2-9322-2de62eed46d9/9961780926-500.jpg" data-tags="alternative rock, energetic, brutal death metal, mario popping out of the green well in slow motion, the most frostbitten and grim music from the very very very very very very inverted mountains of kxziiiimfghhhblaghl, vypsana fixa" role="button">
 Vypsaná Fixa - Fenomén (2007-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/72fefb3e-5569-4b06-961f-c87517bc68d5/5929535464-500.jpg" data-tags="rock, alternative, driving, energetic, modern rock, active" role="button">
+Downplay - A Day Without Gravity (2007-11-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
 Killing The Dream - Fractures (2008)

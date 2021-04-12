@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:23:01.403Z
+date: 2021-04-12T16:19:01.535Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f6f667eb-5729-495b-8cfc-bfe7b2f410de/11827369455-500.jpg" data-tags="soul, 70s" role="button">
-Ike & Tina Turner - Workin' Together (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/df2bb44c-c508-3499-8f6e-bbb942b30f5e/15629060205-500.jpg" data-tags="rock, classic rock" role="button">
-Jimi Hendrix - The Cry of Love (1971-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0424f4b-0be7-4bae-b163-3f6b63723c41/22562008725-500.jpg" data-tags="funk" role="button">
 Funkadelic - Maggot Brain (1971-07-12)
 </li>
@@ -42,9 +36,6 @@ Wild Cherry - Wild Cherry (1976)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
 David Bowie - Station to Station (1976-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2d276a9-3765-3e0e-b42a-eeeb83622d64/20775348580-500.jpg" data-tags="classic rock, 70s" role="button">
-The Rolling Stones - Black And Blue (1976-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/3abcf346-8a75-4db5-8b66-92b0c3d5ea41/20544228094-500.jpg" data-tags="funk soul rock" role="button">
 Mother's Finest - Another Mother Further (1977)
 </li>
@@ -56,6 +47,9 @@ Can - Saw Delight (1977)
 </li>
 <li data-cover="https://img.discogs.com/IH8q1jw4mqop3Lpn7sNDvyGGEhk=/fit-in/368x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500781-1270158550.jpeg.jpg" data-tags="art rock, 70s, new wave, post-punk" role="button">
 Japan - Obscure Alternatives (1978-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/10487455-2dc6-4cb1-a4f7-faca811c6b99/6348186004-500.jpg" data-tags="funk" role="button">
+Funkadelic - The Electric Spanking of War Babies (1981-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
@@ -150,6 +144,9 @@ Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
 Incubus - Fungus Amongus (1995-11-01)
 </li>
+<li data-cover="https://img.discogs.com/g_H2gZHTS0TUDQiNvPkdUDo_n4Y=/fit-in/600x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2046045-1260619116.jpeg.jpg" data-tags="rapcore, funk rock" role="button">
+Blenders - Fankomat (1996)
+</li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 </li>
@@ -173,6 +170,9 @@ Lenny Kravitz - 5 (1998-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/84c895ec-2999-46ad-b23d-2d288ed83462/15467702597-500.jpg" data-tags="electronica, jazz, rock, alternative, alternative rock, experimental, hard rock, progressive rock, pop rock, acoustic, fusion, world, funk metal, funk, latin, blues, progressive, blues rock, acoustic rock, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, acoustic funk rock, progressive funk metal, progressive ambient rock, acoustic pop rock, acoustic folk rock, acoustic folk fusion, blues funk rock" role="button">
 I Mother Earth - Blue Green Orange (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6354a58-b74d-4265-a92c-beb56dd6c9fd/17872685538-500.jpg" data-tags="rock, guitar virtuoso, progressive alternative metal, progressive jazz fusion metal, progressive alternative rock" role="button">
+Mattias IA Eklundh - Freak Guitar (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
@@ -237,8 +237,8 @@ Mortifera - Vastiia Tenebrd Mortifera (2004-12)
 <li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
 O'Funk'illo - No Te Cabe Na' (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/30add6dc-ad2d-488c-9b4a-75594f1e3c96/5561409209-500.jpg" data-tags="progressive rock" role="button">
-Adrian Belew - Side One (2005-01-25)
+<li data-cover="https://img.discogs.com/-aDU8lzkB5120fOLOooUU4UUrcw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887474-1529505548-5527.jpeg.jpg" data-tags="funk rock, psych pop, ian svenonius, merkliste, prince like in places" role="button">
+Weird War - Illuminated by the Light (2005-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
 Papa Roach - Live and Murderous in Chicago (2005-11-22)

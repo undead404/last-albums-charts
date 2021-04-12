@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:51:01.484Z
+date: 2021-04-12T16:32:01.452Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -26,9 +26,6 @@ The Beatles - Rubber Soul (1965-12-03)
 </li>
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
 Jefferson Airplane - Surrealistic Pillow (1967-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd5c9667-6dbd-485f-8c7a-8403d6866ef8/16556104876-500.jpg" data-tags="60s" role="button">
-Donovan - Hurdy Gurdy Man (1968-10)
 </li>
 <li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
 Neil Young - Neil Young (1968-11-12)
@@ -233,6 +230,9 @@ Bombay Bicycle Club - Flaws (2010-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
 Sharon Van Etten - Epic (2010-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/26937850260-500.jpg" data-tags="folk rock" role="button">
+Neil Young - Le Noise (2010-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)

@@ -1,9 +1,10 @@
 ---
-date: 2021-04-12T10:44:01.453Z
+date: 2021-04-12T16:00:01.741Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">2Pac - 2Pacalypse Now (1991-11-12)</li>
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
@@ -13,7 +14,6 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
-<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">50 Cent - Curtis (2007-09-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/74bb7650-eb99-37bb-a4c4-0e2d0a6d4ba0/15950993987-500.jpg" data-tags="gangsta rap" role="button">
+Geto Boys - The Geto Boys (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
@@ -57,14 +60,17 @@ Spice 1 - 187 He Wrote (1993-09-28)
 <li data-cover="http://coverartarchive.org/release/3ea2a089-2c7b-4da3-b676-d87ba24fa867/2312470572-500.jpg" data-tags="bay area" role="button">
 Too $hort - Get In Where You Fit In (1993-10-26)
 </li>
+<li data-cover="https://img.discogs.com/71BVgzlkkTwSUkE7yxsiUmslzg4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494721-1287126542.jpeg.jpg" data-tags="g-funk" role="button">
+Warren G - Regulate... G Funk Era (1994-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Ready to Die (1994-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/6336ee8c-067b-46e8-b2d9-212f16b4e1ef/14279367035-500.jpg" data-tags="gangsta rap" role="button">
-Scarface - The Diary (1994-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/e000804e-5320-445a-8ee1-d6d285e44a0f/4774292059-500.jpg" data-tags="gangsta rap" role="button">
 Spice 1 - AmeriKKKa's Nightmare (1994-11-22)
+</li>
+<li data-cover="https://img.discogs.com/PAphRGYmXLLeAbeVFgNB2I-cr4w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1609866-1446279558-8688.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
+Ice Cube - Bootlegs & B-Sides (1994-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d839287-fc18-4515-b9e6-5a1694d3869d/15197555065-500.jpg" data-tags="gangsta rap, west coast rap, yay area" role="button">
 Celly Cel - Killa Kali (1995)
@@ -93,9 +99,6 @@ Tha Dogg Pound - Dogg Food (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a9d7648-edef-4bcc-8d58-83b284708840/15951010940-500.jpg" data-tags="gangsta rap, southern rap, rap-a-lot" role="button">
-Geto Boys - The Resurrection (1996-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
 </li>
@@ -105,14 +108,14 @@ Mobb Deep - Hell on Earth (1996-11-01)
 <li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
 Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f61f256-9556-45cd-97c9-eb65f58918e8/15689384597-500.jpg" data-tags="gangsta rap, southern rap, spc" role="button">
-South Park Mexican - Hustle Town (1998-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
 </li>
 <li data-cover="https://img.discogs.com/i3Plihomtgk6DMmhTt8bs2BjIxo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2051207-1597799463-5023.jpeg.jpg" data-tags="rap, dmx" role="button">
 DMX - It's Dark And Hell Is Hot (1998-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9bbca44-faac-4667-901d-3382596bfad8/24155431867-500.jpg" data-tags="gangsta rap" role="button">
+MC Ren - Ruthless For Life (1998-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
 Kurupt - Kuruption! (1998-10-06)
@@ -177,20 +180,17 @@ Clipse - Lord Willin' (2002-04-01)
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/8c3b9e78-dbd8-40e7-9151-e619ebe16abc/12612160041-500.jpg" data-tags="gangsta rap, texas, houston rap, all of my doggs" role="button">
-Guerilla Maab - Resurrected (2002-05-28)
-</li>
 <li data-cover="https://img.discogs.com/Sc8h4hNvvfIveS0Cyd3A7gKBmqY=/fit-in/466x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463334-1135168849.jpeg.jpg" data-tags="crunk" role="button">
 Lil Jon & The East Side Boyz - Kings Of Crunk (2002-10-08)
-</li>
-<li data-cover="https://img.discogs.com/ZzFeIU7MFcwA91NuJsamflXWbIo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747354-1446282910-4934.jpeg.jpg" data-tags="gangsta rap, rap-a-lot" role="button">
-Geto Boys - Greatest Hits (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7fdbb85-f76c-4fe5-83a2-6016e3c05a18/6219252018-500.jpg" data-tags="rap, gangsta rap, ja rule" role="button">
 Ja Rule - The Last Temptation (2002-11-19)
 </li>
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a76f57c5-5918-4354-9031-69724f598d82/14579605414-500.jpg" data-tags="50 cent" role="button">
+50 Cent - Best of 50 Cent (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
 50 Cent - The New Breed (2003)
@@ -207,8 +207,8 @@ G-Unit - Beg For Mercy (2003-11-14)
 <li data-cover="https://img.discogs.com/jPI0_ZYYFYjCsPjgq4LdKhXLyVM=/fit-in/500x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2693381-1296840161.jpeg.jpg" data-tags="gangsta rap" role="button">
 Westside Connection - Terrorist Threats (2003-12-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/36d8f6cd-6d7d-4ba6-802d-e2f2a303f25f/18235913836-500.jpg" data-tags="rap, gangsta rap, rap-a-lot" role="button">
-Geto Boys - The Foundation (2004)
+<li data-cover="https://img.discogs.com/5FWUpjLSjidEU46ic6DYIva6z3Q=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454636-1115760852.jpg.jpg" data-tags="hip-hop, rap" role="button">
+Juvenile - Juve The Great (2003-12-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7968320-e985-48b1-8424-64dccccf1503/5157859126-500.jpg" data-tags="hip hop" role="button">
 Cypress Hill - Till Death Do Us Part (2004-03-23)
@@ -224,6 +224,9 @@ Xzibit - Weapons of Mass Destruction (2004-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ed4f714-b9a4-42da-84ef-457f4a5fc11e/24075442509-500.jpg" data-tags="gangsta rap, eminem, 2pac, bay area, underground hiphop" role="button">
+2Pac - Live My Life (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e4b528d-5ba9-4c24-83d6-5725122c064c/13789321556-500.jpg" data-tags="hip-hop, hip hop, rap, american, gangsta rap, east coast, 00s, fat joe, hip hop rap" role="button">
 Fat Joe - All or Nothing (2005-06-14)
@@ -266,9 +269,6 @@ Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/797ec0b3-e43d-4e75-9ebc-bd9fbc11a26a/5145546244-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
 DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">
-50 Cent - Curtis (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e07b93d-e10f-4cc7-8590-526394a5eed3/24142213336-500.jpg" data-tags="gangsta rap, hip-hop and rnb, hurricane chris" role="button">
 Hurricane Chris - 51/50 Ratchet (2007-10-23)

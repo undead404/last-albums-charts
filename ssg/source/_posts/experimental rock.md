@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:40:01.411Z
+date: 2021-04-12T16:06:01.651Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -108,6 +108,9 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 <li data-cover="https://img.discogs.com/2IA5yrIj8GHvH5q6RKsJmqdUnkc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592559-1336582958-8440.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
 Mr. Bungle - California (1999-07-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
+Boredoms - Vision Creation Newsun (1999-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
 </li>
@@ -116,6 +119,9 @@ Deftones - White Pony (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
+John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
@@ -180,9 +186,6 @@ The Mars Volta - Amputechture (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/5ce948fc-a995-4c62-8f00-3f5db5700341/4889935052-500.jpg" data-tags="indie rock" role="button">
 mewithoutYou - Brother, Sister (2006-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
 </li>
@@ -198,20 +201,17 @@ Circa Survive - On Letting Go (2007-05-29)
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
-Brand New - (Fork And Knife) (2007-10-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
+<li data-cover="https://img.discogs.com/Hw_ZndAWRxMEnyuhvHsBGBsri-g=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437402-1246294133.jpeg.jpg" data-tags="metal, rock, alternative, experimental rock, alternative metal, experimental metal, scars on broadway, verwirrteshanuta" role="button">
+Scars on Broadway - They Say (2008-05-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
-As Cities Burn - Hell Or High Water (2009-03)
 </li>
 <li data-cover="https://img.discogs.com/cdME9ogwCFjzneZRa6xwKUCJ13s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3843600-1346600405-8970.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
 Super Furry Animals - Dark Days/Light Years (2009-03-16)
@@ -237,6 +237,9 @@ Brand New - Daisy (2009-09-18)
 <li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental rock" role="button">
+Harvard - The Inevitable and I (2009-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d45da67a-e3c5-3c6d-985e-03d421cfd624/17589986362-500.jpg" data-tags="british" role="button">
 Portishead - Chase the Tear (2009-12-09)
 </li>
@@ -245,9 +248,6 @@ Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca0e1a5-ab61-40e2-99c8-bab84f4ed5de/7767150878-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Diamond Eyes (2010-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)

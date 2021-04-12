@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:46:07.269Z
+date: 2021-04-12T16:39:01.462Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -35,6 +35,9 @@ Frank Zappa - Apostrophe (') (1974-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Ocean (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
@@ -224,9 +227,6 @@ The Fall of Troy - Manipulator (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8553274-ae05-4031-8af1-12e6d4750b22/15299158990-500.jpg" data-tags="progressive rock" role="button">
 Rishloo - Eidolon (2007-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/f87f3b49-d278-45f6-866a-7135dd474889/3076669072-500.jpg" data-tags="psytrance, progressive trance" role="button">
-Vibrasphere - Exploring The Tributaries (2007-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)

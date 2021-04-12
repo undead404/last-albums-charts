@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:12:01.508Z
+date: 2021-04-12T16:29:01.453Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -32,6 +32,9 @@ The Free Design - Kites Are Fun (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bab58a3-1769-467e-9d30-4a2b2761019d/27584215433-500.jpg" data-tags="sunshine pop, psychedelic" role="button">
 Sagittarius - Present Tense (1967)
+</li>
+<li data-cover="https://img.discogs.com/nFGjjKw3h5TI4q0UDFp2uo0ZA-0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9569735-1511264209-2108.jpeg.jpg" data-tags="baroque pop" role="button">
+Herman's Hermits - There's a Kind of Hush All over the World (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
@@ -68,9 +71,6 @@ Bee Gees - Odessa (1969-02)
 </li>
 <li data-cover="https://img.discogs.com/LTjVR92xv3CFJjHg9B1_O7tiFTI=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608901-1296035276.jpeg.jpg" data-tags="classic rock, 60s, progressive rock, baroque pop, finland, unterberger" role="button">
 Montage - Montage (1969-06)
-</li>
-<li data-cover="https://img.discogs.com/m1LRBYq-fZyGN19YuD43YS47n0A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684582-1595449542-3982.jpeg.jpg" data-tags="my most favorites, from a long time ago" role="button">
-Emitt Rhodes - Emitt Rhodes (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
@@ -110,6 +110,9 @@ Gorky's Zygotic Mynci - Bwyd Time (1995-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
+</li>
+<li data-cover="https://img.discogs.com/gQdaAhz4X1MYMgyMX1VstlDQv6c=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406889-1109259016.jpg.jpg" data-tags="pop, britpop, baroque pop, my summer vacation 1995" role="button">
+Jack - Pioneer Soundtracks (1996-04-15)
 </li>
 <li data-cover="https://img.discogs.com/mNXWnxU6AigruWA4NqM5Yj2B2dk=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806104-1504454664-2413.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Jason Becker - Perspective (1996-05-21)
@@ -230,9 +233,6 @@ fun. - Aim and Ignite (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
 Dead Man's Bones - Dead Man's Bones (2009-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fb4f073-94e0-4f6b-bcd2-8b9a48dafdbb/12165987773-500.jpg" data-tags="indie pop" role="button">
-Coma Cinema - Blue Suicide (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)

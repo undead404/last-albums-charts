@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:15:01.661Z
+date: 2021-04-12T15:49:01.453Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -162,6 +162,9 @@ Forever Slave - Alice's Inferno (2005-05-26)
 <li data-cover="http://coverartarchive.org/release/9483e9ed-b96e-4e93-bb29-12d6a37bf9d8/5217790189-500.jpg" data-tags="acoustic, mellow" role="button">
 Antony and the Johnsons - Hope There's Someone (2005-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/463cd1ce-10d0-47d2-8fec-50cada1950fd/22013543456-500.jpg" data-tags="symphonic metal, gothic metal, female fronted metal" role="button">
+After Forever - Remagine (2005-09-09)
+</li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
 </li>
@@ -269,9 +272,6 @@ Hollie Cook - Hollie Cook (2011-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bfa9777-31e2-4431-a648-c10b0e32f86b/3756695360-500.jpg" data-tags="gothic doom metal, doom metal" role="button">
 Draconian - A Rose for the Apocalypse (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/f0b89f2b-65c6-425a-bbe0-6885eb02a5cd/1077438630-500.jpg" data-tags="symphonic metal" role="button">
-Stream of Passion - Darker Days (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/245eebec-4344-426e-9039-bb7ddfd1286b/3116867787-500.jpg" data-tags="icelandic, indie rock" role="button">
 Sóley - We Sink (2011-09-02)

@@ -1,16 +1,16 @@
 ---
-date: 2021-04-12T02:09:01.405Z
+date: 2021-04-12T15:56:01.541Z
 title: "minimalism: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/ZNKkcb7-IxdLb6DlcCn10OFvkGc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-77371-1373051103-3995.jpeg.jpg" data-tags="minimalism" role="button">Terry Riley - A Rainbow in Curved Air (1969)</li>
 <li data-cover="http://coverartarchive.org/release/cc81bb12-c6a1-4af5-b5ca-3a442d23d803/19256935583-500.jpg" data-tags="minimalism" role="button">Terry Riley - Persian Surgery Dervishes (1972)</li>
-<li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">Moondog - H'art Songs (1978)</li>
 <li data-cover="https://img.discogs.com/vGZx1HXM7ZxiV10z-82wBXEC6v4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4762267-1374694121-7277.jpeg.jpg" data-tags="avantgarde, minimalism, reich" role="button">Steve Reich - Octet / Music for a Large Ensemble / Violin Phase (1980)</li>
 <li data-cover="http://coverartarchive.org/release/9a4744f4-8355-4731-a4ab-e9a8332a696b/28394810645-500.jpg" data-tags="soundtrack, minimalism" role="button">Philip Glass - Powaqqatsi (1988-02-10)</li>
 <li data-cover="http://coverartarchive.org/release/534bf9a3-6e64-308f-8561-016fcc6a71c5/5409365013-500.jpg" data-tags="ambient, drone" role="button">Stars of the Lid - Avec Laudenum (1999-12-07)</li>
 <li data-cover="http://coverartarchive.org/release/00e064b4-a5f4-4807-8318-96b57b9dc116/21138282384-500.jpg" data-tags="jazz, ambient, downtempo, art rock, minimalism, post-minimalism, take your time" role="button">The Necks - Drive By (2003)</li>
+<li data-cover="https://img.discogs.com/miSQF1ZEr8MuVJ4BUikC7w0adAM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458743-1504905798-8860.jpeg.jpg" data-tags="electronic, minimal" role="button">Isolée - We Are Monster (2005-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/f860b6ff-c6d8-4e5d-8495-7d2569c42521/10137735592-500.jpg" data-tags="electronic, minimalism, psychedelic rock, kraut rock, unglaublich, himmlisch" role="button">Harmonia - Live 1974 (2007-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="https://img.discogs.com/2wJontywAlMjblVvv5HdtIB_VaY=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4855169-1377592090-7108.jpeg.jpg" data-tags="minimalism, minimal jazz" role="button">Dawn of Midi - Dysnomia (2013-06-20)</li>
@@ -33,6 +33,9 @@ Terry Riley - A Rainbow in Curved Air (1969)
 <li data-cover="http://coverartarchive.org/release/4527eb43-6b20-418f-82df-f8b25d82d573/15737205049-500.jpg" data-tags="experimental" role="button">
 John Cale & Terry Riley - Church Of Anthrax (1971)
 </li>
+<li data-cover="http://coverartarchive.org/release/4adf2a28-3462-453a-bf04-1d2cbb13bc37/16076740354-500.jpg" data-tags="minimalism" role="button">
+Moondog - Moondog 2 (1971)
+</li>
 <li data-cover="http://coverartarchive.org/release/d9476b0e-c666-440b-a396-9ff2c83161fb/20588013675-500.jpg" data-tags="classical, experimental, minimalism, riley" role="button">
 Terry Riley - Happy Ending (1972)
 </li>
@@ -45,14 +48,8 @@ Charlemagne Palestine - Four Manifestations on Six Elements (1974)
 <li data-cover="https://img.discogs.com/3Vz34took5ZFSZRKRx2fdejJSZ0=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9839026-1487157725-6406.jpeg.jpg" data-tags="minimalism" role="button">
 Charlemagne Palestine - Strumming Music (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/0eeacd91-4618-3f41-ae50-af41cdf57ed0/24574301745-500.jpg" data-tags="minimalism, gammarec, freepurp1e, juma, lets make love and listen to js bach" role="button">
-Moondog - In Europe (1977)
-</li>
 <li data-cover="http://coverartarchive.org/release/134c84b5-4df1-380a-a1a8-d72b5b58fe09/13483702718-500.jpg" data-tags="electronic" role="button">
 Michael Hoenig - Departure From the Northern Wasteland (1978)
-</li>
-<li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="chill, instrumental, experimental, lounge, outsider, avant garde, mellow, minimalism, minimalist, spine tingling, avant garde jazz, gammarec, freepurp1e, juma, honest one, etheric melodies, mind immersing" role="button">
-Moondog - H'art Songs (1978)
 </li>
 <li data-cover="https://img.discogs.com/Sy6EGMpYjm8YtAQMhH--okuWImM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338597-1210892669.jpeg.jpg" data-tags="cover, minimalism, postmodernism, contrapunctal" role="button">
 Roberto Cacciapaglia - Sei Note in Logica (1979)
@@ -83,9 +80,6 @@ Roger Eno - Voices (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/31003380-c016-342e-bb3f-c96236e35f5f/915742537-500.jpg" data-tags="classical, minimalism" role="button">
 Philip Glass - Dancepieces (1987)
-</li>
-<li data-cover="https://img.discogs.com/pNgVWfvcSApJ-NOQSkFy0gNT0Fc=/fit-in/455x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431642-1112563098.jpg.jpg" data-tags="ambient, minimalism" role="button">
-Roger Eno - Between Tides (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a4744f4-8355-4731-a4ab-e9a8332a696b/28394810645-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Philip Glass - Powaqqatsi (1988-02-10)
@@ -126,6 +120,12 @@ ELpH vs. Coil - Worship The Glitch (1995)
 <li data-cover="https://img.discogs.com/QHcmLm3r-yQua7LFenJiKPEGW-c=/fit-in/155x155/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1100744-1192047792.jpeg.jpg" data-tags="minimalism, tzadik" role="button">
 John Zorn - Redbird (1995-09-19)
 </li>
+<li data-cover="https://img.discogs.com/n9pQ_74GLGNISXNoBlQ-NXV9tXU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1775671-1242567727.jpeg.jpg" data-tags="minimalism" role="button">
+Philip Glass - Obras Maestras (1995-11-27)
+</li>
+<li data-cover="https://img.discogs.com/8ZHBAlv5wVELdDrYizAz2Pss1Mw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-550302-1520101105-6381.jpeg.jpg" data-tags="classical, avant-garde, minimalism, michael nyman, je devrais avoir mon enfer de la caresse" role="button">
+Michael Nyman - After Extra Time (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
 </li>
@@ -150,17 +150,20 @@ SND - stdio (2000-10)
 <li data-cover="http://coverartarchive.org/release/51838493-3a1b-48cf-b7d3-a1dd35aec471/1964934865-500.jpg" data-tags="post-rock, drone" role="button">
 Boris - Flood (2000-12-15)
 </li>
-<li data-cover="https://img.discogs.com/lqlSZ_rA433ufewYVpGN-e-mbrw=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-735987-1213462920.jpeg.jpg" data-tags="post-rock" role="button">
-The Mercury Program - All the Suits Began to Fall Off (2001)
-</li>
 <li data-cover="https://img.discogs.com/hpak3cNZF6N92v2bZ4cE4EinGoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1300818-1207719773.jpeg.jpg" data-tags="hardcore, hard rock, post-hardcore, hardcore punk" role="button">
 Blindside - Blindside (2001)
 </li>
 <li data-cover="https://img.discogs.com/204xHyPVZHG44IVu5wM4X1V2KJ8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15826865-1598527030-4789.jpeg.jpg" data-tags="piano" role="button">
 John Cage - Music for Prepared Piano, Volume 2 (Boris Berman) (2001)
 </li>
+<li data-cover="https://img.discogs.com/9Oq8cPF2f-ZGup-cN9mBiCaa0tM=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-243173-1449571065-5803.jpeg.jpg" data-tags="ambient" role="button">
+Robert Rich - Somnium (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae1a0e77-5977-45f1-9557-634820859899/2708262058-500.jpg" data-tags="atmospheric black metal, ambient" role="button">
 Paysage d'Hiver - Winterkälte (2001)
+</li>
+<li data-cover="https://img.discogs.com/uGjAO-24Wq0ldSkxdBrRCRdYtIA=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-149656-1237896961.jpeg.jpg" data-tags="electronic, ambient" role="button">
+Oren Ambarchi - Triste (2001-06-14)
 </li>
 <li data-cover="https://img.discogs.com/ZYhtAnezqTxBMGgrrDKl8vggA1U=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1293344-1444252553-2470.jpeg.jpg" data-tags="glitch, experimental" role="button">
 Alva Noto - Transform (2001-09)
@@ -185,9 +188,6 @@ Angus MacLise - The cloud doctrine (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcbffba8-7ec2-40d7-a957-a9c6ea270f04/21797761752-500.jpg" data-tags="drone" role="button">
 Sunn O))) - White1 (2003-04)
-</li>
-<li data-cover="https://img.discogs.com/arHUhpCOzGeU3rVTz8i4pzYo-Xc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11653728-1520094693-7966.jpeg.jpg" data-tags="minimalism, modern classical, gammarec, freepurp1e, feldman" role="button">
-Morton Feldman - Patterns in a Chromatic Field (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)
@@ -240,11 +240,11 @@ Akira Kosemura - In a Distant Forest Somewhere EP (2006-06-25)
 <li data-cover="http://coverartarchive.org/release/182fd65f-da8d-434e-ace7-8ed475ed6ff2/19142372983-500.jpg" data-tags="ambient" role="button">
 Chris Herbert - mezzotint (2006-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/55df57ef-d225-4aba-b38b-415e027d7d79/5899153179-500.jpg" data-tags="grindcore" role="button">
+Anal Nosorog - Condom of Hate (2007)
+</li>
 <li data-cover="https://img.discogs.com/P-Y0ve5RMGSQiX53E5o76PLeBLE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1045785-1254392642.jpeg.jpg" data-tags="noise, ambient, soundscape, glitch, drone, minimalism, i luv, love the cd cover, kidnapper mind track, 2011 wowish, students of decay" role="button">
 Jefre Cantu-Ledesma - Shining Skull Breath (2007)
-</li>
-<li data-cover="https://img.discogs.com/XePhC1qlSLG6by_P6h8-Lo7quEI=/fit-in/338x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2544710-1289745495.jpeg.jpg" data-tags="drone" role="button">
-Rhys Chatham - A Crimson Grail (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f84024b0-75fc-4d80-bcfd-08f1a5cd1d3f/10355366330-500.jpg" data-tags="piano, minimalism, classical piano, rhythm, elettronica" role="button">
 Francesco Tristano - Not for Piano (2007-02-12)
@@ -264,17 +264,11 @@ Male - All Are Welcome (2008)
 <li data-cover="http://coverartarchive.org/release/4f337fae-9026-4b10-9a54-8c37e687de3c/16423326140-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - Un automne en solitude (2008-03-14)
 </li>
-<li data-cover="https://img.discogs.com/kWEj4gc0ieORoKjCFuTeV_ua8q4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1316851-1299212741.jpeg.jpg" data-tags="chillout, electronic, electronica, indie, chill, instrumental, alternative, alternative rock, ambient, experimental, indie rock, post-rock, downtempo, dark, lo-fi, minimal, shoegaze, idm, dreamy, atmospheric, dream pop, space rock, nostalgic, ethereal, minimalism, melancholic, post rock, greek, dreampop, shoegazer, instrumental post-rock, shoegazing, greece, melancholia, ambient post-rock, instrumental post rock, electronic post rock" role="button">
-Absent Without Leave - Postcards from Nowhere (2008-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/04144bd5-b872-41c8-8466-ff19ae77ef05/23715843413-500.jpg" data-tags="ambient, drone, drone ambient, visionary" role="button">
 Celer - Discourses Of The Withered (2008-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ae18f53-4b81-40c9-a074-61cd3995dffb/4338385994-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Hans Zimmer - Frost/Nixon (2008-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0f4f0af-26d9-30f8-a2c1-cc4ae2e29956/2711769072-500.jpg" data-tags="indie, classical, instrumental, alternative, sad, post-rock, piano, modern, new age, free, ethereal, finnish, minimalism, melancholic, neo-classical, ambiente, neo classical, creative commons, minimalist, silent, finland, finnland, impressionism, new-age, finnish and streamable, impressionistic, finnish music, matti paalanen, full free album download" role="button">
-Frozen Silence - Impressions (2008-12-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1074e135-85a0-42ee-a59a-21337553f7f8/16423349997-500.jpg" data-tags="instrumental, emo, ambient, indie rock, post-rock, minimal, shoegaze, cinematic, atmospheric, dream pop, drone, space rock, ethereal, minimalism, montreal, dark ambient, ambiance, shoegazing, minimalist, concept album, minimalistic, dream rock, melogaze, emotional music, triskalyon, alexandre julien" role="button">
 Vision Éternel - An Anthology Of Past Misfortunes (2009-02-14)
@@ -282,8 +276,14 @@ Vision Éternel - An Anthology Of Past Misfortunes (2009-02-14)
 <li data-cover="http://coverartarchive.org/release/e2ba09c2-f25e-430c-850a-002910f7a13f/3893908259-500.jpg" data-tags="ambient, drone" role="button">
 Celer - Capri (2009-02-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/36b9f16b-d0b2-4ec0-95c0-f22a0d57761d/1111435251-500.jpg" data-tags="indie, instrumental, alternative, piano, minimalism, creative commons, minimalistic, finnish and streamable, full free album download" role="button">
+Frozen Silence - Notes (2009-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5f066e1-7714-4857-aa92-4f5415a2bcea/1187695184-500.jpg" data-tags="instrumental" role="button">
+Frozen Silence - Streams (2009-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/2da7a549-5311-4dd0-88c5-ef452e07ec56/19263229378-500.jpg" data-tags="folk, experimental, minimalism" role="button">
 Richard Youngs - Under Stellar Stream (2009-10-19)
@@ -300,11 +300,11 @@ Vision Éternel - Abondance de périls (2010-03-09)
 <li data-cover="http://coverartarchive.org/release/d39759f3-f9c6-4ca1-bb86-d22e48a7eb58/6004837899-500.jpg" data-tags="ambient, atmospheric, fallout" role="button">
 Mark Morgan - Vault Archives (2010-05-10)
 </li>
+<li data-cover="https://img.discogs.com/oIJvo1QZZ8kW5mnos3ji-cBin_A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281891-1558668784-9742.jpeg.jpg" data-tags="drone" role="button">
+Celer - Dying Star (2010-08)
+</li>
 <li data-cover="https://img.discogs.com/zLclNqZYIgY3Muy7uJ7MNZZFOSE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2436099-1284607024.jpeg.jpg" data-tags="electronic, minimal, german, clinically romantic, achingly intelligent" role="button">
 Senking - Pong (2010-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/12091975-8a07-45c7-8666-ebf9e1380fa2/14633042083-500.jpg" data-tags="minimalism, gammarec, freepurp1e, juma, c palestine" role="button">
-Charlemagne Palestine - Strumming Music for Piano, Harpsichord and Strings Ensemble (2010-10-12)
 </li>
 <li data-cover="https://img.discogs.com/Qo4QI5pea63UMELNaPyPEPRWnb8=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2634606-1294280428.jpeg.jpg" data-tags="ambient, minimalism, modern classical, neofolk, emusic, electro-acoustic, bedroom music, empress, moteer, the remote viewer, lost tribe sound, aaron martin, heidi elva, scissors and sellotape, upward arrows" role="button">
 Part Timer - Real To Reel (2010-12-03)

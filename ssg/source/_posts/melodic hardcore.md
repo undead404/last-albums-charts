@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:09:01.436Z
+date: 2021-04-12T16:05:01.650Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -32,6 +32,9 @@ Bad Religion - No Control (1989-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba596074-ef87-4619-a9c5-b3c548c7a11a/4802623914-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Pennywise - Pennywise (1991-10-22)
+</li>
+<li data-cover="https://img.discogs.com/SfTSiCHpwZqCtIwWhcU-4iqFeTk=/fit-in/528x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1146348-1245579127.jpeg.jpg" data-tags="punk, melodic hardcore, skate punk" role="button">
+Strung Out - Suburban Teenage Wasteland Blues (1996-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/17d8b2c8-7b93-4442-a146-0936cb81c708/3593091611-500.jpg" data-tags="punk rock" role="button">
 Pennywise - Full Circle (1997-04-22)
@@ -162,9 +165,6 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
-Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
 </li>
@@ -207,9 +207,6 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
-As Cities Burn - Hell Or High Water (2009-03)
-</li>
 <li data-cover="https://img.discogs.com/xK2Vjtlu9FFiVQaIFctHEYf396k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2710888-1344803766-1908.jpeg.jpg" data-tags="pop punk" role="button">
 Set Your Goals - This Will Be The Death of Us (2009-07-20)
 </li>
@@ -246,11 +243,11 @@ The Ghost Inside - Returners (2010-06-08)
 <li data-cover="https://img.discogs.com/7l--RrHRsRckHODoo81PzOrQVX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3149766-1536557176-4766.jpeg.jpg" data-tags="post-hardcore" role="button">
 The Amity Affliction - Youngbloods (2010-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
 <li data-cover="https://img.discogs.com/YUClbiQLIpDUP7qLSzkwd5NaXWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3642125-1591889994-6581.jpeg.jpg" data-tags="metalcore" role="button">
 While She Sleeps - The North Stands for Nothing (2010-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/cdcee761-d794-45ee-90bb-a21f51b66bf6/11691630679-500.jpg" data-tags="hardcore" role="button">
+Your Demise - The Kids We Used To Be... (2010-09-20)
 </li>
 <li data-cover="https://img.discogs.com/YhtkXQ6p_GNNHJCNV0X2_pXLZ8E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2698720-1332074442.jpeg.jpg" data-tags="rock, punk, hardcore, post-hardcore, melodic hardcore" role="button">
 Make Do and Mend - End Measured Mile (2010-10-26)
@@ -278,6 +275,9 @@ The Story So Far - Under Soil and Dirt (2011-06-21)
 </li>
 <li data-cover="https://img.discogs.com/puJY5j6wEnfdKN3LgM_tarrNVko=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3223064-1321147837.jpeg.jpg" data-tags="melodic hardcore" role="button">
 Polar Bear Club - Clash Battle Guilt Pride (2011-09-13)
+</li>
+<li data-cover="https://img.discogs.com/--OkqPxJpVMI5Cb-B9T_9QyB7wQ=/fit-in/290x290/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179602-1319318911.jpeg.jpg" data-tags="pop-punk, melodic hardcore, less than 40 minutes" role="button">
+I Am The Avalanche - Avalanche United (2011-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa5a52d4-bd05-4f74-8ead-7c60928b9ad4/17980212370-500.jpg" data-tags="melodic hardcore, pop punk, post-hardcore" role="button">
 Close Your Eyes - Empty Hands and Heavy Hearts (2011-10-24)

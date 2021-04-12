@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:53:01.414Z
+date: 2021-04-12T16:16:06.948Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -174,6 +174,9 @@ Ikuinen Kaamos - The Forlorn (2006-10-13)
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/72f461fc-30b3-42e4-bf0f-9f0acabdc2a0/4187969471-500.jpg" data-tags="melodic death metal, death metal, progressive death metal" role="button">
+Pain Confessor - Purgatore of the Second Sun (2007-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/27a20bb8-4905-4599-bf6a-3c3e6d3d6f6f/8878190763-500.jpg" data-tags="melodic death metal" role="button">
 Be'lakor - The Frail Tide (2007-04-21)
 </li>
@@ -267,6 +270,9 @@ Beyond Creation - The Aura (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/8158ed9e-789c-4ed5-9e76-5a6fe41cd169/1463332421-500.jpg" data-tags="doom metal" role="button">
 Novembers Doom - Aphotic (2011-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/9eb85d92-5de3-435e-8887-c84bc1a5840a/1123301127-500.jpg" data-tags="progressive metal" role="button">
+Amorphis - The Beginning of Times (2011-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/99c84ccf-8593-483f-9f3c-e7f16a6a0ddc/8684736002-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Fallujah - The Harvest Wombs (2011-11-22)
 </li>
@@ -294,9 +300,6 @@ The Faceless - Autotheism (2012-08-14)
 <li data-cover="http://coverartarchive.org/release/5adc3099-6a1b-4624-ba9b-b9238bebce7d/3337530465-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - The Parallax II: Future Sequence (2012-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/94d75ef1-a5d5-48a6-8755-c12030860d4c/5554511066-500.jpg" data-tags="progressive death metal, melodic death metal" role="button">
-In Vain - Ænigma (2013-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/a49dd12f-ea79-43dd-95d6-c2adad7be650/11176896632-500.jpg" data-tags="progressive metal, progressive death metal, djenth metal, djeath metal" role="button">
 Black Crown Initiate - Song of the Crippled Bull (2013-07-17)
 </li>
@@ -305,9 +308,6 @@ Gorguts - Colored Sands (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/225e94a4-d36a-4b13-b938-f9caa61f40ee/7183796604-500.jpg" data-tags="progressive death metal" role="button">
 Morbus Chron - Sweven (2014-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b33e3a3-943c-4ae1-8882-2265e9812099/6419938844-500.jpg" data-tags="doom metal, melodic death metal, dutch, underground, progressive death metal, debut, blackened death metal, melodic black metal, atmospheric black metal, progressive black metal" role="button">
-Shylmagoghnar - Emergence (2014-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5740231-c9aa-4048-a1ed-14a331f15899/15532601143-500.jpg" data-tags="death metal, live, progressive death metal, gojira, 10 out of 10" role="button">
 Gojira - Les Enfants Sauvages (2014-03-11)

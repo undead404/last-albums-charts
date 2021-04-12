@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:08:01.437Z
+date: 2021-04-12T15:57:01.533Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -108,9 +108,6 @@ Sneaker Pimps - Splinter (1999-10-25)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
-<li data-cover="https://img.discogs.com/NiFbO-hHjl2mmKr0Fa_Pl3sVLkY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3083-1167766285.jpeg.jpg" data-tags="trip-hop, downtempo, electronic" role="button">
-Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb2f7805-4bed-329f-ac6a-f997548b64c8/16909148808-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Things to Make and Do (2000-03-29)
 </li>
@@ -155,6 +152,9 @@ Sneaker Pimps - Bloodsport (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/80c9ce8c-ae15-4938-854d-dc2274488d4f/4530700120-500.jpg" data-tags="trip-hop" role="button">
+Tricky - A Ruff Guide (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)

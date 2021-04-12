@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:48:07.025Z
+date: 2021-04-12T16:43:12.679Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -27,8 +27,14 @@ Nick Drake - Pink Moon (1972-02-25)
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/300d85c9-2df7-4715-82db-f48b47913d20/1463858374-500.jpg" data-tags="doom metal, atmospheric doom metal" role="button">
+The 3rd and the Mortal - Tears Laid in Earth (1994-10-21)
+</li>
 <li data-cover="https://img.discogs.com/ixHEMNqFvofVjMAVVI6OV-z3zvg=/fit-in/410x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-920331-1521923537-6695.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Myslovitz (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab8ac30e-5a26-32f3-81b9-b765640e66d7/13519193947-500.jpg" data-tags="80s" role="button">
+The Smiths - Singles (1995-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/26ed17a4-e022-4abc-a11f-23437715f4f8/15399938306-500.jpg" data-tags="doom metal" role="button">
 My Dying Bride - The Angel and the Dark River (1995-05-22)
@@ -50,9 +56,6 @@ Tori Amos - Boys for Pele (1996-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/92170779-0baf-31f4-930d-8213c7462eac/3435477482-500.jpg" data-tags="trip-hop" role="button">
 Archive - Londinium (1996-05-20)
-</li>
-<li data-cover="https://img.discogs.com/qI9SLlbFVgYmnsapkiiLXKanA8g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559499-1298780594.jpeg.jpg" data-tags="indie rock, slowcore" role="button">
-Bedhead - Beheaded (1996-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
@@ -114,9 +117,6 @@ Myslovitz - Korova Milky Bar (2002-05-27)
 <li data-cover="http://coverartarchive.org/release/7ac99528-77a9-3624-84b7-3400f6f56e47/22056699402-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - The Mantle (2002-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
-Underworld - A Hundred Days Off (2002-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
 </li>
@@ -153,8 +153,14 @@ John Frusciante - The Will to Death (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Anna Ternheim - Somebody Outside (2004-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
+</li>
+<li data-cover="https://img.discogs.com/itVrfZcx8n0MgA_KXy2-Unf46oM=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072264-1274908332.jpeg.jpg" data-tags="black metal, metal, shoegaze, shoegaze black metal" role="button">
+Alcest - Le secret (2005-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
@@ -174,9 +180,6 @@ Mew - and the Glass Handed Kites (2005-09-14)
 <li data-cover="https://img.discogs.com/HT0jZO9sXctnXlO0m2jbiOie8xk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795720-1561458075-7445.jpeg.jpg" data-tags="rock" role="button">
 Kashmir - No Balance Palace (2005-10-10)
 </li>
-<li data-cover="https://img.discogs.com/WQn2cpL4zNEFDiqpIl3THsqpo7M=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-111685-1497248873-3493.jpeg.jpg" data-tags="alternative, melancholic" role="button">
-Vast - April (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/780d907d-ff5b-4738-b6a4-dac0b70f759a/6046958479-500.jpg" data-tags="rock, alternative, alternative rock, acoustic" role="button">
 Trading Yesterday - More Than This (2006)
 </li>
@@ -192,11 +195,8 @@ Saturnus - Veronika Decides to Die (2006-05-03)
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
 </li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/15b27147-3460-4cc2-992d-e4cdad2b3f4a/13608817751-500.jpg" data-tags="indie, rock" role="button">
-Sean Lennon - Friendly Fire (2006-09-29)
+<li data-cover="https://img.discogs.com/cuY9wVPULLNTQ4npBT3C2AO9Wmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-815223-1263349555.jpeg.jpg" data-tags="gothic doom metal, doom metal, gothic metal" role="button">
+Draconian - The Burning Halo (2006-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1159bfa6-1240-3e8f-84e7-e06085d88b7c/1122226386-500.jpg" data-tags="doom metal" role="button">
 My Dying Bride - A Line of Deathless Kings (2006-10-09)
@@ -216,11 +216,8 @@ Porn Sword Tobacco - New Exclusive Olympic Heights (2007-04-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
-<li data-cover="https://img.discogs.com/3yB2xC4GGTiMVfqHL3kh89TSFPc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1000491-1182601151.jpeg.jpg" data-tags="post-rock" role="button">
-Epic45 - may your heart be the map (2007-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
+<li data-cover="https://img.discogs.com/Cxpq-0b5jUoAj3rTyQI6oBa15vU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004055-1251510647.jpeg.jpg" data-tags="dark, melancholic, depression, lost, magic, passing, to check, arcane, darklight, angstwave, dark dark, female electronic, s meeting, radio13, playlist4, iamalone, playlist2873" role="button">
+The Secret Meeting - Ultrashiver (2007-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7bd02b9-dc1a-334f-a092-a26bacaa553f/20877800028-500.jpg" data-tags="alternative, folk, melancholic, blues rock, 00s, anti-, carpet crawler, photobyas: back in time, herfstcd 2007, sawtheangel" role="button">
 Joe Henry - Civilians (2007-09-10)
@@ -282,8 +279,8 @@ Youth Lagoon - The Year of Hibernation (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/b4cfc997-a4d0-4703-8058-9ffef127d537/16424727978-500.jpg" data-tags="singer-songwriter, canadian, melancholic, lieblingslied, play on words, lieblingssongs, webrecced" role="button">
 Dan Mangan - Oh Fortune (2011-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b4c106c-2225-4bf9-9d24-0052683ca46d/16279386968-500.jpg" data-tags="noise, experimental, noise rock, melancholic, dance rock" role="button">
-Civil Civic - RULES (2011-10-11)
+<li data-cover="http://coverartarchive.org/release/92fd4e41-09b7-451f-b6b7-8957e8a535e7/13703419175-500.jpg" data-tags="doom metal" role="button">
+Woods of Ypres - Woods 5: Grey Skies & Electric Light (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)
@@ -296,6 +293,9 @@ First Aid Kit - Wolf (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/938a75b0-8410-4901-8a6b-9168e8adc5dc/2721666961-500.jpg" data-tags="black metal" role="button">
+Shining - Redefining Darkness (2012-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc63c33a-713c-4611-8267-e8c870465397/13043293929-500.jpg" data-tags="doom, funeral doom" role="button">
 Bell Witch - Longing (2012-11-13)
