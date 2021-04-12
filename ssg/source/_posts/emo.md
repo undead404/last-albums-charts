@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:43:01.419Z
+date: 2021-04-12T08:19:01.562Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -35,9 +35,6 @@ Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="https://img.discogs.com/OzJqQd_Z2UC4hcePk7B5Pa3Rg58=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747340-1369185112-9391.jpeg.jpg" data-tags="emo, indie rock" role="button">
 Mineral - The Power of Failing (1997-02)
-</li>
-<li data-cover="https://img.discogs.com/D9QATnRLIAKrHwy-ZLgk7OXhQyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853287-1312821508.jpeg.jpg" data-tags="emo" role="button">
-Cap'n Jazz - Analphabetapolothology (1998-01-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
@@ -101,6 +98,9 @@ The Early November - For All Of This (2002-11-05)
 </li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/a61bc9c1-2afa-3b6f-8acc-ac35846daf8a/15467429050-500.jpg" data-tags="indie, indie rock" role="button">
+Cursive - The Ugly Organ (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)

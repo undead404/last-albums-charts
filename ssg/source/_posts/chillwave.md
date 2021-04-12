@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:18:01.406Z
+date: 2021-04-12T07:46:01.655Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -68,12 +68,6 @@ Toro y Moi - Causers of This (2010-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/909547b7-b7a0-4904-b7ce-1a051a9a4f6f/1236363023-500.jpg" data-tags="dream pop" role="button">
 Memoryhouse - The Years (2010-01-05)
-</li>
-<li data-cover="https://img.discogs.com/6Y-qa1-Z3ly6msx3HF-Tch43CH4=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2334474-1277708619.jpeg.jpg" data-tags="indie, boston, 10s" role="button">
-Magic Man - Real Life Color (2010-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/01f2cdd6-9786-42a1-8021-f1a08d19de89/1559556271-500.jpg" data-tags="electronic, chillwave, balearic, free albums, free streamable albums, tbilisi" role="button">
-Okinawa Lifestyle - Naha (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
@@ -195,6 +189,9 @@ Jesse Ruins - Dream Analysis (2012-02-21)
 <li data-cover="http://coverartarchive.org/release/d1f13b8f-10ac-4d10-a12a-b861307b3d78/2411269767-500.jpg" data-tags="indie, chillwave, captured tracks" role="button">
 Wild Nothing - Nowhere (2012-02-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/92efcc4d-5749-44b1-b151-2b13a7df6743/6557542418-500.jpg" data-tags="electronic, electropop, ambient, chillwave" role="button">
+Black City Lights - Parallels (2012-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/5aab894f-8a77-4c29-ae71-c9f90a6f84f5/13909652468-500.jpg" data-tags="smooth jazz, chillwave, fantasy, eletronic, passion, vaporwave, future funk, idk man, vaporpop" role="button">
 S U R F I N G - Deep Fantasy (2012-04-03)
 </li>
@@ -290,6 +287,9 @@ Active Child - Rapor - EP (2013-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/705f27c0-2986-4059-929d-df3a3fe11f0e/5821734492-500.jpg" data-tags="indie, chillwave" role="button">
 Noble Oak - Away (2013-12-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/bccdd64a-c988-4750-af9a-84770e61c791/13474766035-500.jpg" data-tags="ambient, experimental, minimal, chillwave" role="button">
+Glitterbug - Dust (2014)
 </li>
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)

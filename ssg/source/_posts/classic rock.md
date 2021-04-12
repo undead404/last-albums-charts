@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:56:01.419Z
+date: 2021-04-12T08:36:01.470Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -147,9 +147,6 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Machine Head (1972-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
-</li>
 <li data-cover="https://img.discogs.com/o2MyQF2IG-xZbkvo9b4zgBPf-qU=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5733627-1436342937-7805.jpeg.jpg" data-tags="hard rock, classic rock" role="button">
 Aerosmith - Aerosmith (1973-01-05)
 </li>
@@ -263,6 +260,9 @@ Scorpions - Crazy World (1990-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/06f4aa3d-7869-433d-a165-4f9219302596/13927186260-500.jpg" data-tags="rock, classic rock, 90s" role="button">
 Queen - Innuendo (1991-01-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, dire straits" role="button">
+Dire Straits - On Every Street (1991-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion I (1991-09-16)

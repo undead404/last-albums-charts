@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:23:01.438Z
+date: 2021-04-12T08:12:01.805Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -114,9 +114,6 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
 Amos Lee - Amos Lee (2005-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
-Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
 </li>
@@ -207,6 +204,9 @@ Ray LaMontagne - Gossip In The Grain (2008-10-14)
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
+Florence + the Machine - Lungs (2009-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/045bd22e-b181-4b67-8fda-dbb47a66cef6/2333024859-500.jpg" data-tags="folk, indie" role="button">
 Bon Iver - Blood Bank (2009-01-20)
 </li>
@@ -236,9 +236,6 @@ Mumford & Sons - Sigh No More (2009-10-05)
 </li>
 <li data-cover="https://img.discogs.com/4hqBDlYE_vgyn7oiCempQR8n0b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2196387-1269212249.jpeg.jpg" data-tags="indie, i n d i e" role="button">
 Freelance Whales - Weathervanes (2009-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
@@ -287,6 +284,9 @@ Edward Sharpe & The Magnetic Zeros - Here (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
+Lucy Rose - Like I Used To (2012-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4514530-80ec-4765-a903-6dac355031e1/5208050605-500.jpg" data-tags="indie, folk, post-rock, indie folk, 10s, 2010s, jagjaguwar, 2013 albums" role="button">
 Volcano Choir - Repave (2013-09-03)

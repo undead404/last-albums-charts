@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:53:01.411Z
+date: 2021-04-12T08:31:12.688Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -192,6 +192,9 @@ Jeremih - All About You (2010-09-28)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/d475b2b2-4af5-40dc-be11-31f5bd8a6c06/6927623632-500.jpg" data-tags="pop" role="button">
+P!nk - Greatest Hits... So Far!!! (2010-11-12)
+</li>
 <li data-cover="https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natasha Bedingfield - Strip Me (2010-12-07)
 </li>
@@ -203,9 +206,6 @@ Selah Sue - Selah Sue (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/5597fa83-0f6a-4eef-ac83-ee15f6eb9b2e/2524821065-500.jpg" data-tags="female vocalist, soul, r&b, jennifer hudson" role="button">
-Jennifer Hudson - I Remember Me (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fe337a7-2e91-4475-be84-af9cf8ad2e3c/4805128775-500.jpg" data-tags="r&b" role="button">
 Frank Ocean - nostalgia, ULTRA (2011-03-24)

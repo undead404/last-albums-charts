@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:37:01.403Z
+date: 2021-04-12T08:11:01.971Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -80,6 +80,9 @@ Pink Floyd - A Saucerful of Secrets (1968-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffaf406-bc87-4633-9d99-cea7d6106bf6/2987749144-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Waiting for the Sun (1968-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/653a898a-2988-4ffa-a492-555faed1e9ba/19740437818-500.jpg" data-tags="hard rock, classic rock" role="button">
+Deep Purple - Shades of Deep Purple (1968-09)
 </li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
@@ -180,6 +183,9 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 <li data-cover="http://coverartarchive.org/release/475b6b91-86e9-40ba-bb98-c6a65bd1339e/15595445952-500.jpg" data-tags="classic rock, rock, psychedelic rock" role="button">
 The Doors - The Very Best of The Doors (2001-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a49d08f-5dfc-4ba6-8b40-537e3aa778bd/8035853353-500.jpg" data-tags="progressive rock" role="button">
+Pink Floyd - Echoes: The Best of Pink Floyd (2001-11-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
@@ -231,9 +237,6 @@ Sleepy Sun - Fever (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
-Ghost - Opus Eponymous (2010-10-18)
-</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
@@ -276,14 +279,8 @@ Tame Impala - Lonerism (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/7ffd99fa-4e2b-4dd2-aca7-edbabf6803a5/3330588150-500.jpg" data-tags="rock, hard rock, stoner rock, psychedelic rock" role="button">
 Graveyard - Lights Out (2012-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/44db4018-0448-4cb8-9150-d681a556138d/12121014371-500.jpg" data-tags="psychedelic rock" role="button">
-Pond - Hobo Rocket (2013-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
-Ghost - Infestissumam (2013-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)
@@ -311,6 +308,9 @@ Temples - Sun Structures (2014-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
+</li>
+<li data-cover="https://img.discogs.com/4kVuAt__MwM_SkTymSf2DP-gKyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5828215-1403816473-3637.jpeg.jpg" data-tags="neo-psychedelia" role="button">
+Tame Impala - Live Versions (2014-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/21e9d6b9-7297-4e5a-a285-cd2dee7cb118/7367242288-500.jpg" data-tags="neo-psychedelia" role="button">
 The Horrors - Luminous (2014-04-30)

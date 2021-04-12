@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:46:06.912Z
+date: 2021-04-12T08:27:01.976Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![Avicii - Levels (2011-10-28)](https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg "Avicii - Levels (2011-10-28)")
@@ -144,6 +144,9 @@ Scooter - The Stadium Techno Experience (2003-03-31)
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
+<li data-cover="https://img.discogs.com/5fjDiYNMN5FG8o98Zv-IHdRj0Vk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-901889-1535289804-5696.jpeg.jpg" data-tags="electronic" role="button">
+Underworld - 1992-2002 (2003-11-03)
+</li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
@@ -272,9 +275,6 @@ Scuba - Triangulation (2010-03-10)
 </li>
 <li data-cover="https://img.discogs.com/QUHpmK4R_P7sftn3KHppBK8vLm8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300524-1494626974-2948.jpeg.jpg" data-tags="techno" role="button">
 Actress - Splazsh (2010-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
-Matthew Dear - Black City (2010-08-03)
 </li>
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)

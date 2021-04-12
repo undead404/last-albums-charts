@@ -1,8 +1,8 @@
 ---
-date: 2021-04-12T01:40:01.420Z
+date: 2021-04-12T08:24:01.592Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
-![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
+![A Fine Frenzy - One Cell in the Sea (2007-07-17)](https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg "A Fine Frenzy - One Cell in the Sea (2007-07-17)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">Destiny's Child - Survivor (2001-04-25)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
@@ -12,8 +12,8 @@ title: "female vocalist: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">Sara Bareilles - Little Voice (2007-07-03)</li>
 <li data-cover="https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg" data-tags="female vocalist, indie" role="button">A Fine Frenzy - One Cell in the Sea (2007-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/b86285db-3459-37e8-a190-493ac9b7954f/21075550304-500.jpg" data-tags="pop, rnb" role="button">Jordin Sparks - Jordin Sparks (2007-10-29)</li>
-<li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
+<li data-cover="http://coverartarchive.org/release/3c4b4019-e51b-4334-811f-ca2621f32187/20956673504-500.jpg" data-tags="singer-songwriter, female vocalist, can you hear the rain" role="button">Russian Red - I Love Your Glasses (2008)</li>
+<li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">Russian Red - Fuerteventura (2011-05-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
 Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
+</li>
+<li data-cover="https://img.discogs.com/zSfF7pNlzLGUjMKQf-xI3r6_VjM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12912700-1544380800-4482.jpeg.jpg" data-tags="80s" role="button">
+Whitney Houston - Whitney (1987-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
@@ -252,14 +255,17 @@ Lenka - Lenka (2008-06-28)
 <li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
 Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
+<li data-cover="https://img.discogs.com/iMr4EtTmLjmeBSFTYJ31dNqmXdI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716560-1417511195-4062.jpeg.jpg" data-tags="female vocalists, female vocalist" role="button">
+Sara Bareilles - Between The Lines: Sara Bareilles Live At The Fillmore (2008-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/ecbd906b-5fcf-4813-92a6-fd7ff95ea533/1323011485-500.jpg" data-tags="indie pop" role="button">
+Florence + the Machine - Between Two Lungs (2009-01-01)
+</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="https://img.discogs.com/oR1xTsEgSpIteuBduC1hBQfHXY0=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059688-1262550764.jpeg.jpg" data-tags="indie, zee avi" role="button">
 Zee Avi - Zee Avi (2009-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
-Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Bad Romance (2009-10-26)
@@ -300,14 +306,8 @@ Russian Red - Fuerteventura (2011-05-10)
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
-A$AP Rocky - Goldie (2012-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/8b484d1b-65ce-4f84-b0c9-d022f1125ce2/6559339900-500.jpg" data-tags="electronica, electropop, pop, indie pop, upbeat, female vocalist" role="button">
 Betty Who - The Movement (2012-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
-Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)

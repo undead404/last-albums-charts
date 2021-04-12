@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:46:01.405Z
+date: 2021-04-12T08:00:01.634Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -83,6 +83,9 @@ Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/37b45f1d-84a7-46df-ba10-7fea7e85fa40/19827212154-500.jpg" data-tags="60s, psychedelic pop, acid, garage" role="button">
+The Seeds - Travel With Your Mind (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/189ae079-a0a3-3104-93ad-8d3bf148855f/24646440382-500.jpg" data-tags="alternative, electronic, 90s" role="button">
 Stereolab - Mars Audiac Quintet (1994-08-09)
@@ -173,9 +176,6 @@ Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/19f14544-77fb-4d5f-92c8-352fa5cfea8e/18182528220-500.jpg" data-tags="psychedelic, graveface" role="button">
-Black Moth Super Rainbow - Eating Us (2009-05-26)
 </li>
 <li data-cover="https://img.discogs.com/gj7q1NKMDoyVaISvQxqWB7OBsAg=/fit-in/450x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852132-1247902157.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Portugal. The Man - The Satanic Satanist (2009-07-17)

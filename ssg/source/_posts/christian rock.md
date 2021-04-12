@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:00:01.443Z
+date: 2021-04-12T07:58:07.177Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -71,9 +71,6 @@ Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/af158d94-eb6f-4f1f-a8a2-f685b60b132e/5502763714-500.jpg" data-tags="christian rock" role="button">
 Relient K - Two Lefts Don't Make a Right... But Three Do (2003-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
-Anberlin - Blueprints For The Black Market (2003-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1340d1c4-f5bb-46ef-a5bb-dd34b082f6d9/24397873127-500.jpg" data-tags="hard, hardcore, hard rock, spoken, screamo, christian rock, christian screamo, a moment of imperfect clarity" role="button">
 Spoken - A Moment of Imperfect Clarity (2003-09-02)
@@ -290,6 +287,9 @@ MercyMe - The Generous Mr. Lovewell (2010-05-04)
 </li>
 <li data-cover="https://img.discogs.com/9gOI77u3MBEPB-TiIoALQcO2sck=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261633-1388991894-6864.jpeg.jpg" data-tags="christian rock" role="button">
 Tenth Avenue North - The Light Meets The Dark (2010-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/97a4b890-1475-48fb-be35-8830ecba5206/16323568981-500.jpg" data-tags="christian rock" role="button">
+Ivoryline - Vessels (2010-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/35f04d2c-647f-4daa-82a1-b00c4dccc8d3/1398810457-500.jpg" data-tags="christian rock" role="button">
 The Afters - Light Up the Sky (2010-09-14)

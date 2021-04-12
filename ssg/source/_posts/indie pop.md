@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:31:06.939Z
+date: 2021-04-12T07:45:13.186Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -72,6 +72,9 @@ Death Cab for Cutie - Plans (2005-08-29)
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
+The Whitest Boy Alive - Dreams (2006-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
 </li>
@@ -137,9 +140,6 @@ Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
-Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/52006c31-6a66-3612-9213-57378b487a81/25477813995-500.jpg" data-tags="electronic, indie pop" role="button">
 Discovery - LP (2009-06-07)

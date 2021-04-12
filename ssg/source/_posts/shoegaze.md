@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:29:01.411Z
+date: 2021-04-12T08:26:07.147Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3cbadb4-f6b2-41f7-a5b2-9928de267a41/7894193488-500.jpg" data-tags="alternative rock, alternative" role="button">
+The Jesus and Mary Chain - Automatic (1989-10-09)
 </li>
 <li data-cover="https://img.discogs.com/Ru1Wx6pVagAy8UHzXg-ktbcYyRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84680-1523164126-2096.jpeg.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Glider (1990-04)
@@ -105,9 +108,6 @@ Bowery Electric - Beat (1996-11-12)
 <li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
 Mew - A Triumph for Man (1997-04)
 </li>
-<li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
-Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
@@ -116,9 +116,6 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
-</li>
-<li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
-The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
 <li data-cover="https://img.discogs.com/cPOAGSV5Ub7EhGwDZKsrFmxKs00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711857-1362859603-3556.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
@@ -135,14 +132,14 @@ Slowdive - Catch the Breeze (2004-11-15)
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/21289194-c574-4752-89b7-045404d03f53/8227726414-500.jpg" data-tags="indie rock" role="button">
+Silversun Pickups - Pikul (2005-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="https://img.discogs.com/_Y0qrDeClFek8uLda_3ZinmLgpE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10900151-1506194823-1076.jpeg.jpg" data-tags="shoegaze, indie rock" role="button">
 Toy - Toy (2006-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
-The Radio Dept. - Pet Grief (2006-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d3f727e-50ee-40b3-b39b-a480cd0612e8/13922000742-500.jpg" data-tags="shoegaze" role="button">
 Asobi Seksu - Citrus (2006-05-30)
@@ -290,6 +287,9 @@ Beach Fossils - Clash The Truth (2013-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/66fcc5f0-fbd3-445d-9270-7fdd541ae618/10820742988-500.jpg" data-tags="shoegaze" role="button">
+Pity Sex - Feast of Love (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/46296e6d-03d0-4304-b592-7d77490a8b48/5340095734-500.jpg" data-tags="instrumental, post-rock, shoegaze, atmospheric, sweden" role="button">
 EF - Ceremonies (2013-09-01)

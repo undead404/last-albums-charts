@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:36:01.419Z
+date: 2021-04-12T08:33:01.571Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -33,14 +33,8 @@ Carole King - Tapestry (1971-01-30)
 <li data-cover="http://coverartarchive.org/release/dbeb851b-ad68-43ab-9706-7f1ecd2bf59d/21251802402-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 John Lennon - Imagine (1971-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/6af61fa2-870f-33bb-a17f-be65f6013597/11322817358-500.jpg" data-tags="70s, classic rock" role="button">
-Elton John - Madman Across The Water (1971-11-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/bf591a71-0149-4e04-8425-92326347c3ca/15048384671-500.jpg" data-tags="pop, 70s" role="button">
 King Harvest - Dancing in the Moonlight (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/f59591d8-f3fd-4d64-94b2-c5e17e187d1c/17314503667-500.jpg" data-tags="70s, soft rock" role="button">
-Albert Hammond - It Never Rains in Southern California (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f0662c0-b505-4e83-b8d8-973a2b2f19a6/15027846048-500.jpg" data-tags="classic rock, soft rock, soft-rock, soft peppermint" role="button">
 Looking Glass - Looking Glass (1972)
@@ -48,11 +42,11 @@ Looking Glass - Looking Glass (1972)
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
-Steely Dan - Can't Buy A Thrill (1972-10)
-</li>
 <li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/6df5f5ed-b505-47a8-a115-ee458b8f78bb/11940973052-500.jpg" data-tags="70s" role="button">
+Bread - The Best of Bread (1973-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
 Elton John - Greatest Hits (1974-11-04)
@@ -69,14 +63,14 @@ Gerry Rafferty - City To City (1978)
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
 </li>
-<li data-cover="https://img.discogs.com/o3m6jo5BzDH8d7FlqUnqQ9-tIGU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10248444-1494091170-8215.jpeg.jpg" data-tags="70s, classic rock" role="button">
-Fleetwood Mac - Tusk (1979)
-</li>
 <li data-cover="https://img.discogs.com/t9D8pykJ5wRIj4L158CGMV6Spy8=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464434-1507200594-5630.jpeg.jpg" data-tags="pop" role="button">
 Phil Collins - Face Value (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/308f450a-1fa2-3199-b8d5-db5faa8bd07d/12119763390-500.jpg" data-tags="80s, fleetwood mac" role="button">
+Fleetwood Mac - Mirage (1982-06-18)
 </li>
 <li data-cover="https://img.discogs.com/heVEoJlpXNLutzNXmkFJDKTkm9M=/fit-in/600x943/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6446172-1419420537-1482.jpeg.jpg" data-tags="air supply, soft rock" role="button">
 Air Supply - Greatest Hits (1983)
@@ -156,6 +150,9 @@ Mr. Mister - The Best of Mr. Mister (2002-10-02)
 <li data-cover="http://coverartarchive.org/release/198b344c-7455-4a9e-b32b-6d06ce77c41f/6358368858-500.jpg" data-tags="singer-songwriter, jason mraz" role="button">
 Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/9855572e-2403-4b8a-85f7-b88524086034/20302679788-500.jpg" data-tags="pop" role="button">
+Phil Collins - Testify (2002-11-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
@@ -216,6 +213,9 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, donavon frankenreiter, purchased 2011, soft rock revival" role="button">
+Donavon Frankenreiter - Pass It Around (2008-08-16)
+</li>
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
 </li>
@@ -264,6 +264,9 @@ The Staves - Mexico EP (2011-12-02)
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/88b326d1-7b63-4304-b403-d7ff46d56109/2491087347-500.jpg" data-tags="pop, alternative rock, soft rock" role="button">
+The Rasmus - The Rasmus (2012-04-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">
 Father John Misty - Fear Fun (2012-04-30)
 </li>
@@ -275,9 +278,6 @@ Amy Macdonald - Life in a Beautiful Light (2012-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3da9c4-17db-480a-85c1-17ee27823fcb/2019375455-500.jpg" data-tags="pop, pop rock" role="button">
 The Script - #3 (2012-09-07)
-</li>
-<li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
-Breakbot - By Your Side (2012-09-17)
 </li>
 <li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:45:01.684Z
+date: 2021-04-12T08:15:01.661Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/4e6fd74d-dc32-4d74-85ca-3ca40dff78b2/13250310414-500.jpg" data-tags="80s" role="button">
 Kim Wilde - Kim Wilde (1981-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/54505d79-b295-4a60-9cd3-06f6c6c5bdda/26499964153-500.jpg" data-tags="pop, 80s, alternative, you dont know, take my breath away, like flames" role="button">
-Berlin - Best Of Berlin 1979-1988 (1988-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/e34dc48b-973f-4690-8062-c5d31c3980a0/17928794966-500.jpg" data-tags="new jack swing, soul" role="button">
 En Vogue - Funky Divas (1992-09-01)
 </li>
@@ -41,6 +38,12 @@ Rosana - Lunas Rotas (1996)
 </li>
 <li data-cover="https://img.discogs.com/MS8e20gJS70SvNwQESZFSm7wfD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3134-1499498900-2488.jpeg.jpg" data-tags="shoegaze" role="button">
 Bowery Electric - Beat (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
+Stellamara - Star of the Sea (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/8edd491f-af4a-4ead-940f-943d12dd622d/14884936347-500.jpg" data-tags="soul, rnb" role="button">
+Eternal - Greatest Hits (1997-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/36eeea8a-0ffa-4eae-906a-63fd6339b8cf/1083820711-500.jpg" data-tags="gothic metal" role="button">
 The Sins of Thy Beloved - Lake of Sorrow (1998)
@@ -63,11 +66,17 @@ Dance Hall Crashers - Purr (1999)
 <li data-cover="https://img.discogs.com/bYUT2UMYcakvfZRqjWWL7MFcjw8=/fit-in/397x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100570-1498662423-2513.png.jpg" data-tags="easy listening, female vocals, favourite country albums, reba mc entire, entire" role="button">
 Reba McEntire - So Good Together (1999-11-23)
 </li>
+<li data-cover="https://img.discogs.com/PI1NOUL5WLzVqkXbn5vqApFYoKQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-646311-1520082534-8224.jpeg.jpg" data-tags="gothic, female vocals, symphonic metal" role="button">
+Dreams of Sanity - The Game (2000)
+</li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e6656e2-26f5-42f9-ba42-89a72ff30859/17580232132-500.jpg" data-tags="pop" role="button">
 All Saints - Saints & Sinners (2000-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/cdeea919-4101-4e00-832d-db0c7cf01cb7/9873657770-500.jpg" data-tags="covers, assault genre" role="button">
+Rasputina - The Lost & Found (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
 Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
@@ -95,9 +104,6 @@ Within Temptation - Running Up That Hill (2003)
 </li>
 <li data-cover="https://img.discogs.com/-jHRX-eJPGTA2oR-7Q3kBIJfRvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929781-1179521048.jpeg.jpg" data-tags="female, pop, rock, female vocalists, female vocals, female vocalist, female artists, female voices, gotanygoodmusic, rex ferric faves, girly power, 00s albums, albums in my cd rack" role="button">
 Lisa Marie Presley - To Whom It May Concern (2003-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
-Martina Topley-Bird - Quixotic (2003-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
@@ -165,6 +171,9 @@ Ashlee Simpson - I Am Me (2005-10-13)
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/3565c0ae-02ad-480d-b1d0-c3a82dd13dc0/20654175023-500.jpg" data-tags="jazz, polish" role="button">
+Anna Maria Jopek - Niebo (2005-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b2de8fb-35ae-4401-8a37-0c06a859e544/10262636124-500.jpg" data-tags="alternative" role="button">
 Antony and the Johnsons - You Are My Sister (2005-10-25)
 </li>
@@ -183,14 +192,17 @@ Jolie Holland - Springtime Can Kill You (2006-05-08)
 <li data-cover="http://coverartarchive.org/release/2589a841-4a4e-4f6b-8f73-cddf22622cf5/15170727677-500.jpg" data-tags="female vocals, 100 percent, indie emo, emopop, my top 100 albums, allmusicf" role="button">
 The Forecast - In The Shadow of Two Gunmen (2006-05-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/552aedd6-05e7-46a4-bdac-ebf06be94d06/2698016881-500.jpg" data-tags="chillout, downtempo, ambient, psychill" role="button">
+Kuba - Inside Out (2006-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/2ebbf686-e096-4d35-9966-ce7bea3e9213/18287938833-500.jpg" data-tags="progressive metal" role="button">
 To-Mera - Transcendental (2006-09-11)
 </li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/caeb738e-d0ea-3990-b685-dfe4dc2f89f6/944749916-500.jpg" data-tags="singer-songwriter" role="button">
 Anna Ternheim - Separation Road (2006-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d792891-5e0f-4b83-bd4d-79902d314833/1624157817-500.jpg" data-tags="post-rock" role="button">
+Battle of Mice - A Day of Nights (2006-10-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rosana" role="button">
 Rosana - Lunas Rotas: De casa a las ventas (2007)
@@ -200,9 +212,6 @@ Anna Ternheim - Lovers Dream & More Music For Psychotic Lovers (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2295f4dc-9550-4f81-a43c-62337fad9fbd/15358695273-500.jpg" data-tags="indie, folk, canadian, mellow, female vocals, debut album, jaarlijstje 2007" role="button">
 Lightning Dust - Lightning Dust (2007-06-19)
-</li>
-<li data-cover="https://img.discogs.com/bS6O7UNsC5xQl0_oPP1B4FKWruA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2068990-1612816256-2927.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
-Mary Gauthier - Between Daylight And Dark (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a9f60dd-c556-457a-96f4-937f2f70a14e/10435093286-500.jpg" data-tags="ambient, world, psychill, female vocals" role="button">
 Dream Lab - Cosmotherapy (2007-09-27)
@@ -222,9 +231,6 @@ Lady Gaga - Christmas Tree (2008)
 <li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
 </li>
-<li data-cover="https://img.discogs.com/CuXlFDXlqe-RGcwXjauuNs9pJOQ=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2824878-1379939167-9196.jpeg.jpg" data-tags="indie, alternative, singer-songwriter, female vocals, 00s, san francisco, bike ride, great titles, thao with the get down stay down" role="button">
-Thao - We Brave Bee Stings And All (2008-01-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/84ba4ba3-8874-43e6-b235-86f6b06c8aad/997565892-500.jpg" data-tags="doom metal, gothic metal, gothic doom metal" role="button">
 Draconian - Turning Season Within (2008-02-29)
 </li>
@@ -233,9 +239,6 @@ Addison Road - Addison Road (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ac5795b-a64b-4dee-85f4-ab2ad29c0c78/5091900283-500.jpg" data-tags="female vocalists, mashup, ethereal, darkwave, k-pop, female vocals, devotional, devotion, tom waits, betrayal, sensual, woman, fantasy, favorite song, neoclassic, kpop, awesomeness, neoclassical, fucking crazy, godly, timeless, sennik, boobs, dead can dance, lisa gerrard, sacred, reality show, plastic surgery, favourite song, genial, x-factor, fan, carousel, not gothic, allah, not goth, epicness, x factor, gilbert, prom, sekalaisia suosikkeja, surgery, bella topolina, the queen, beautiful woman, ataraxia, prom queen, trobar de morte, good-looking, bella donna, narsilion, amatue, gravitator records, s toa, gothic fantasy, epic perfection" role="button">
-sToa - Silmand (2008-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists" role="button">
 Anna Ternheim - Leaving On A Mayday (2008-11-12)
@@ -269,9 +272,6 @@ Draconian - A Rose for the Apocalypse (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0b89f2b-65c6-425a-bbe0-6885eb02a5cd/1077438630-500.jpg" data-tags="symphonic metal" role="button">
 Stream of Passion - Darker Days (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb2c7c62-b332-434b-8da3-910382e70956/6412188119-500.jpg" data-tags="k-pop" role="button">
-SISTAR - SO COOL (2011-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/245eebec-4344-426e-9039-bb7ddfd1286b/3116867787-500.jpg" data-tags="icelandic, indie rock" role="button">
 Sóley - We Sink (2011-09-02)

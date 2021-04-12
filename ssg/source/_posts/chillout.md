@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:15:01.492Z
+date: 2021-04-12T08:05:01.900Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -44,6 +44,9 @@ Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/6173c409-e099-46e8-b823-677bb08b255a/14928692380-500.jpg" data-tags="instrumental, ambient, guitar virtuoso" role="button">
+Buckethead - Colma (1998-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
@@ -101,6 +104,9 @@ Zero 7 - Simple Things (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
+Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
 Boozoo Bajou - Satta (2001-06)
@@ -182,9 +188,6 @@ Afterlife - Speck Of Gold (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
-Husky Rescue - Country Falls (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
@@ -281,9 +284,6 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)

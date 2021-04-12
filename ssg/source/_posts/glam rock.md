@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:34:01.404Z
+date: 2021-04-12T08:30:12.757Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1966)
-</li>
 <li data-cover="http://coverartarchive.org/release/128f51d3-cc2b-4ec2-abc4-be2881b507ae/9259425922-500.jpg" data-tags="hard rock" role="button">
 Alice Cooper - Love It to Death (1971-03-08)
 </li>
@@ -84,9 +81,6 @@ Kiss - Love Gun (1977-06-17)
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
-<li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
-Japan - Adolescent Sex (1978-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
 </li>
@@ -110,9 +104,6 @@ Queen - Hot Space (1982-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/090700a7-0ec5-41bb-b970-52e6aa47b755/16567307250-500.jpg" data-tags="80s" role="button">
 Roxy Music - Avalon (1982-06)
-</li>
-<li data-cover="https://img.discogs.com/PCgnxVCzzTl-HSsQaU4qnKhloN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600291-1175787502.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
-Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="https://img.discogs.com/aRYwPniGEsRquBk8QCl7QZ-qeIY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096803-1453599913-8199.jpeg.jpg" data-tags="hard rock, heavy metal, rock" role="button">
 Kiss - Creatures Of The Night (1982-10-13)
@@ -141,14 +132,11 @@ Starship - No Protection (1987)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
 </li>
-<li data-cover="https://img.discogs.com/PgescH_NbCDmXQaNS1BL9I6ulo8=/fit-in/194x259/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8597939-1489266075-7765.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
-Nick Lowe - Basher: The Best of Nick Lowe (1989)
+<li data-cover="http://coverartarchive.org/release/2849834b-6496-4a01-abee-2e860b862a8e/19214456240-500.jpg" data-tags="classic rock, heavy metal, metal, 80s, hard rock, hair metal, glam rock, hair band, wants, mandatory, is ok, smooth up in ya" role="button">
+Bulletboys - Bulletboys (1988-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c10c905-c6cd-4d30-9831-cc51df751d4e/13581516810-500.jpg" data-tags="classic rock" role="button">
 Queen - Classic Queen (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/06a90d76-e4ff-4660-b8d5-b661ca86fa0e/15520107827-500.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, garage rock, glam rock, blues rock, powerpop, surf rock, greatest hits, chameleon, proto punk, rock-protopunk, bands beginning with the" role="button">
-The Animals - The Most of the Animals (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
 Alice Cooper - Trash (1989-07-25)
@@ -174,6 +162,9 @@ David Bowie - Black Tie White Noise (1993-04-05)
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
 </li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/240bf826-f94b-406b-8995-4ab2e9ad404c/2516926514-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, glam rock" role="button">
 Bryan Ferry - More Than This - The Best of Bryan Ferry and Roxy Music (1995-10-23)
 </li>
@@ -186,8 +177,14 @@ Kiss - Greatest Kiss (1996-11-11)
 <li data-cover="http://coverartarchive.org/release/aaf09c87-deb1-4e28-8e44-dd3031df98ad/22634948114-500.jpg" data-tags="glam rock, finnish" role="button">
 The 69 Eyes - Wrap Your Troubles in Dreams (1997-02-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/aec74961-47b2-408d-a53d-10a26f677f25/14338686353-500.jpg" data-tags="punk rock, glam punk, death punk" role="button">
+Turbonegro - Apocalypse Dudes (1998)
+</li>
 <li data-cover="https://img.discogs.com/oM7KNuQxHiQ928Pu0wPwuEnxyyM=/fit-in/306x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588511-1230506858.jpeg.jpg" data-tags="britpop" role="button">
 Pulp - This Is Hardcore (1998-03-18)
+</li>
+<li data-cover="https://img.discogs.com/0kmYGwSSSxRsDnz89HiCzXcF_60=/fit-in/400x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178124-1198605880.jpeg.jpg" data-tags="rock, female vocalists, 90s, sheryl crow" role="button">
+Sheryl Crow - The Globe Sessions (1998-09-18)
 </li>
 <li data-cover="https://img.discogs.com/2Vg9urP_Yt5xg2Zx7fMoDrEIwpk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11986454-1526045647-3237.jpeg.jpg" data-tags="gothic, finnish, gothic metal" role="button">
 The 69 Eyes - Wasting the Dawn (1999-02-22)
@@ -225,8 +222,11 @@ Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 <li data-cover="http://coverartarchive.org/release/5fd264f0-1188-47fa-bf80-f81cb9c935b9/27945984344-500.jpg" data-tags="glam rock" role="button">
 The Darkness - I Believe in a Thing Called Love (2003-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
-Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
+<li data-cover="http://coverartarchive.org/release/1074b26c-29d1-4302-a0d7-6bd36b1acef8/15098382900-500.jpg" data-tags="indie, pop, rock, scandinavian, glam rock, 00s" role="button">
+Melody Club - Face The Music (2004)
+</li>
+<li data-cover="https://img.discogs.com/w3bLQY-v5wEbRPz1JBFbGZnRYh8=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-901656-1475778643-8496.jpeg.jpg" data-tags="rock, hard rock, glam rock" role="button">
+Private Line - 21st Century Pirates (2004-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd92ce8-dba4-43ae-8c37-1be8a9dbf0db/7409169038-500.jpg" data-tags="glam rock" role="button">
 Negative - Sweet & Deceitful (2004-09-01)
@@ -240,11 +240,11 @@ The Raveonettes - Pretty in Black (2005-05-03)
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
 Boys Night Out - Trainwreck (2005-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
-Smash Mouth - All Star Smash Hits (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+Hardcore Superstar - Hardcore Superstar (2005-11-23)
 </li>
 <li data-cover="https://img.discogs.com/xd1pObyrCmuw3AGu_aRMYF5FphY=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14665850-1579210439-1655.jpeg.jpg" data-tags="fishburne street" role="button">
 Guster - One Man Wrecking Machine (2006-04-18)

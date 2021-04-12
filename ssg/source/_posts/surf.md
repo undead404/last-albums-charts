@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T14:35:01.581Z
+date: 2021-04-12T08:02:01.572Z
 title: "surf: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -36,6 +36,9 @@ The Chantays - Two Sides Of The Chantays (1963)
 <li data-cover="https://img.discogs.com/r2O1LpKnOdwHh3tJfq2XUKjzYWc=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1644622-1516315226-3289.jpeg.jpg" data-tags="surf" role="button">
 The Ventures - Surfing (1963-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/6707dd71-ad0a-439b-b1e7-beb51169d1ec/24564038881-500.jpg" data-tags="surf, bl00d7 m4r7" role="button">
+The Lively Ones - Surf City (1963-08)
+</li>
 <li data-cover="https://img.discogs.com/_DQavv8DT-REm9P13B67jLCuywE=/fit-in/590x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385990-1328699490.jpeg.jpg" data-tags="surf rock, garage rock, surfin bird" role="button">
 The Trashmen - Surfin' Bird (1964)
 </li>
@@ -44,6 +47,9 @@ The Ventures - Hawaii Five-O (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/44a77f28-c0c8-4b9c-ac11-2ba56e00ddfe/2221926630-500.jpg" data-tags="punk, surf punk" role="button">
 Agent Orange - Living In Darkness (1981-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6b69993-40e6-4ec8-834e-ac78e51eb5fb/5405011562-500.jpg" data-tags="surf" role="button">
+The Ventures - The Ventures Collection (1986)
 </li>
 <li data-cover="https://img.discogs.com/vROb4mmCrH0mBcEK5O3iywZDfv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2380171-1562539341-9748.jpeg.jpg" data-tags="surf" role="button">
 The Mermen - Krill Slippin' (1989)
@@ -72,11 +78,11 @@ The Mermen - Food For Other Fish (1994)
 <li data-cover="https://img.discogs.com/0lt0VPynj-LOuYonLu-nUk0mr3Y=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1190936-1342893999-8971.jpeg.jpg" data-tags="surf, surf rock, merkliste" role="button">
 Man or Astro-Man? - Your Weight On The Moon (1994-08-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8fff4a7-3f3c-4027-b13a-b0f51b40af24/22145029461-500.jpg" data-tags="garage rock" role="button">
-? and the Mysterians - 96 Tears (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/b60147b4-f182-44cc-a359-58db5985d78a/28638241946-500.jpg" data-tags="surf" role="button">
 The Trashmen - Comic Book Collector (1995)
+</li>
+<li data-cover="https://img.discogs.com/5m2WPK7OMeDpvYoPOaPZReIQUcg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3342826-1326763053.jpeg.jpg" data-tags="instrumental, surf, rock n roll" role="button">
+The Ventures - Live In Japan '65 (1995)
 </li>
 <li data-cover="https://img.discogs.com/sIuKXb4v-yPsufIxB7An52OKjns=/fit-in/150x144/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1077680-1295568508.jpeg.jpg" data-tags="instrumental, surf, live, surf rock, surf punk, bl00d7 m4r7, tr4sh13" role="button">
 Man or Astro-Man? - Live Transmissions From Uranus (1995)
@@ -86,6 +92,9 @@ The Lively Ones - Surf Drums (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/453fc7d8-c1fa-4609-8969-7bec1bce2488/13129654482-500.jpg" data-tags="instrumental, surf" role="button">
 The Aqua Velvets - Surfmania (1995)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 60s" role="button">
+The Ventures - The Ventures (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/59426b59-a04c-4d5a-907d-fb9fd58bf738/20987635298-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Project Infinity (1995-06)
@@ -126,6 +135,9 @@ Man or Astro-Man? - Made From Technetium (1997-09-02)
 <li data-cover="http://coverartarchive.org/release/ccc286fc-17f7-4566-92f2-125f31c73b68/17182646128-500.jpg" data-tags="surf, surf rock, surf guitar" role="button">
 The Space Cossacks - Interstellar Stomp (1998)
 </li>
+<li data-cover="https://img.discogs.com/e__q1ISQOOEZiu9gJmAmd8aqZ4Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359571-1279405014.jpeg.jpg" data-tags="surf" role="button">
+Langhorns - Langhorns (1998)
+</li>
 <li data-cover="https://img.discogs.com/Dbynx4lWCcOI8sdVFzhDgTNzGx0=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503660-1583953406-6793.jpeg.jpg" data-tags="surf rock, surf" role="button">
 The Surfaris - Surfers Rule (1998)
 </li>
@@ -153,9 +165,6 @@ Langhorns - Club Gabardino (1999-04-01)
 <li data-cover="https://img.discogs.com/EgR2x4E687T6KNln71rYx84wowg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993209-1526181612-3424.jpeg.jpg" data-tags="alternative rock, surf, indie rock, new wave, garage rock, post-punk revival, rivers all time favorite albums, greatest albums of the 90s, black and white album cover, arty farty punk" role="button">
 Clinic - Clinic (1999-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/80637d8b-5372-4185-9324-665312d1607e/7357477241-500.jpg" data-tags="ska" role="button">
-Sublime - Greatest Hits (1999-09-09)
-</li>
 <li data-cover="https://img.discogs.com/Svne3JHztTMHte_2Rq9_1Rc5X64=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4366585-1419724188-8468.jpeg.jpg" data-tags="surf" role="button">
 The Vara-Tones - Jetty Subject To High Surf (2000-04-15)
 </li>
@@ -170,12 +179,6 @@ Dick Dale - Spacial Disorientation (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1032ded2-d9db-3f48-b25a-d2c065c2ee9e/24967222389-500.jpg" data-tags="japanese, rock, surf, garage rock" role="button">
 The 5.6.7.8's - Teenage Mojo Workout (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/83b25612-55c6-4cbf-8a38-60fc7189a84b/1837881315-500.jpg" data-tags="trip-hop" role="button">
-Sofa Surfers - Encounters (2002-01-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/890793d8-1291-4e11-9825-2eda27dcbbe5/6419386063-500.jpg" data-tags="underground, bl00d7 m4r7" role="button">
-Messer Chups - Black black magic (2002-05)
 </li>
 <li data-cover="https://img.discogs.com/3VAbod3Gs7GqU9mimsg6L95IbZY=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448660-1453151645-7880.jpeg.jpg" data-tags="surf, rock n roll, t b boys" role="button">
 The Beach Boys - Hits of the Beach Boys (2002-06-24)
@@ -225,20 +228,20 @@ The Supervillains - Grow Yer Own (2006)
 <li data-cover="http://coverartarchive.org/release/abc685a8-6339-4b71-bd30-1fb9b4b48ae1/2203270543-500.jpg" data-tags="chill, reggae, surf, summer, california, beach, reggae-rock, bally, happy music for work" role="button">
 Ballyhoo! - Do It For The Money! (2006-01-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae rock" role="button">
-Slightly Stoopid - Winter Tour '05-'06 (2006-06-27)
-</li>
 <li data-cover="https://img.discogs.com/5vS-ovT4MtsZtK0XsLSFYykA-aM=/fit-in/597x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817925-1161891332.jpeg.jpg" data-tags="surf, surf rock, rock, instrumental, instrumental rock, instrumental surf" role="button">
 The Phantom Four - Madhur (2006-08-21)
+</li>
+<li data-cover="https://img.discogs.com/GuN8Zkr8vrHIpHUtnmlpG-_6uqY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2454282-1284940048.jpeg.jpg" data-tags="surf" role="button">
+Los Tiki Phantoms - Se Van de Marcha (2007)
 </li>
 <li data-cover="https://img.discogs.com/wJOK4lj6EB6Ax9jtBzFWjIh01h0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041314-1311448693.jpeg.jpg" data-tags="surf" role="button">
 Los Tiki Phantoms - Regresan De La Tumba (2007-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/035a1bcc-8b8d-4f84-bd55-d89191fdd5b4/2992217469-500.jpg" data-tags="surf, indie pop, summer, soft, beach, sixties, shuffle, cry, brian wilson, bauns, fuckin good, boys dressed up in velvet, teenagelove" role="button">
-Velour - Undress Your Alibis (2007-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3cc8759-010c-4212-8068-5c4052401514/4948990703-500.jpg" data-tags="oldies" role="button">
 The Ventures - The Very Best Of The Ventures (2008)
+</li>
+<li data-cover="https://img.discogs.com/GaI7tk10Zuf4voAJK_kSmh00Kz8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2671133-1296913558.jpeg.jpg" data-tags="surf" role="button">
+Airbag - Alto Disco (2008-02-04)
 </li>
 <li data-cover="https://img.discogs.com/iaEaxp7ayBDbA4vGDANkSke4CaI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1647273-1606839413-9128.jpeg.jpg" data-tags="jazz, surf" role="button">
 The Mattson 2 - Introducing The Mattson 2 (2009-01-20)
@@ -269,9 +272,6 @@ Wild Nothing - Gemini (2010-05-21)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
-</li>
-<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/abd3e328-0721-4cf5-bb99-c60d52db73ea/2950848905-500.jpg" data-tags="indie" role="button">
 Owl Eyes - O RLY? (2010-09-04)

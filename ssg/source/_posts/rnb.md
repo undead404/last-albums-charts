@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:09:18.214Z
+date: 2021-04-12T07:52:01.564Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -180,6 +180,9 @@ Amy Winehouse - Back to Black (2006-10-30)
 <li data-cover="http://coverartarchive.org/release/dc65ab7d-b5fb-4279-aa07-0bccf32bd074/22262894454-500.jpg" data-tags="rnb" role="button">
 Ciara - The Evolution (2006-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/d42e3f7b-f486-4d2b-ba27-fcc5a2cf5e92/22111632107-500.jpg" data-tags="omarion" role="button">
+Omarion - 21 (2006-12-26)
+</li>
 <li data-cover="https://img.discogs.com/5D7THlio2pk35P189KT_eQH-H7E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7356331-1588341170-9244.jpeg.jpg" data-tags="rnb" role="button">
 Lloyd - Street Love (2007-03-13)
 </li>
@@ -260,9 +263,6 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

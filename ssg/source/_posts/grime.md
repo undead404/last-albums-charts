@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:48:01.413Z
+date: 2021-04-12T07:48:01.450Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -90,9 +90,6 @@ Boxcutter - Oneiric (2006-04-17)
 <li data-cover="http://coverartarchive.org/release/a401cc7c-f95c-44c1-8327-96f72e5e86c0/2249941963-500.jpg" data-tags="british, grime, plan b" role="button">
 Plan B - Who Needs Actions When You Got Words (2006-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/33048f35-f93b-486a-b34b-0c64771964e9/1493051070-500.jpg" data-tags="dubstep" role="button">
-Milanese - Extend (2006-09-25)
-</li>
 <li data-cover="https://img.discogs.com/T9tQBw8t3_RxwmtcBCXJttMcxkE=/fit-in/317x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2858782-1317932097.jpeg.jpg" data-tags="grime" role="button">
 Ruff Sqwad - Guns & Roses, Volume 2 (2006-10-13)
 </li>
@@ -108,14 +105,8 @@ Example - We Didn't Invent The Remix (2007)
 <li data-cover="http://coverartarchive.org/release/adcf7b48-086e-48ee-b420-1001f88d672f/8094882507-500.jpg" data-tags="dubstep" role="button">
 Distance - My Demons (2007-01-29)
 </li>
-<li data-cover="https://img.discogs.com/0mX9-vPv83k-SB4CYkxnqyOmjZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349014-1211757466.jpeg.jpg" data-tags="grime" role="button">
-Roll Deep - Rules & Regulations (2007-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/acb04491-1c48-340e-90a2-cbfa08c44dae/24407086873-500.jpg" data-tags="grime" role="button">
 Dizzee Rascal - Maths + English (2007-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3dd3103-aecf-45f9-a9d4-3d233d9924c9/4802749439-500.jpg" data-tags="grime, hip-hop" role="button">
-Wiley - Playtime Is Over (2007-06-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
@@ -128,6 +119,9 @@ Kano - London Town (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b57914a-c30c-49d9-9453-76a325aff1fe/16155748642-500.jpg" data-tags="grime" role="button">
 Skepta - Greatest Hits (2007-09-24)
+</li>
+<li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
+The Qemists - Dem Na Like Me (2008-01-19)
 </li>
 <li data-cover="https://img.discogs.com/PfSvfVKOCvXsMM-whaExGru5NgA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1598677-1377211823-4460.jpeg.jpg" data-tags="grime" role="button">
 Ghetto - Freedom Of Speech (2008-03-10)
@@ -164,6 +158,9 @@ Caspa - Everybody's Talking, Nobody's Listening! (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e256dde8-c55d-4e01-9351-1226aa99c046/23058852804-500.jpg" data-tags="hip hop, grime, dubstep, dancehall, raggacore, uk garage, ragga jungle, 1965 records" role="button">
 Toddla T - Skanky Skanky (2009-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/dece2750-f223-4954-96a0-6098b48b62a0/26473347088-500.jpg" data-tags="dubstep, grime" role="button">
+Milanese - Lockout (2009-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2cd277f-7b8f-4e89-821a-3fe19144665c/15824350354-500.jpg" data-tags="grime" role="button">
 Skepta - Microphone Champion (2009-06-01)
@@ -215,6 +212,9 @@ Magnetic Man - Magnetic Man (2010-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a898fc95-ac78-4aef-87d7-d77960f58676/6410178559-500.jpg" data-tags="hip hop, grime" role="button">
 Dope D.O.D. - Branded (2011)
+</li>
+<li data-cover="https://img.discogs.com/Px1MVMuIFbsULUpQh2rhX_5bFLk=/fit-in/499x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4408666-1364111675-1332.jpeg.jpg" data-tags="grime, dubstep" role="button">
+Knight Riderz - Mind Riddims (2011-01-01)
 </li>
 <li data-cover="https://img.discogs.com/sVNmw-zFlPY39DEorIjqZUTJpDY=/fit-in/500x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713155-1297691471.jpeg.jpg" data-tags="drum and bass" role="button">
 Chase & Status - No More Idols (2011-01-28)

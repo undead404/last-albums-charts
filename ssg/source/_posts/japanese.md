@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T20:07:01.445Z
+date: 2021-04-12T08:14:01.632Z
 title: "japanese: 100 albums you must listen to before you die"
 ---
 ![DIR EN GREY - Withering to death (2005-03-09)](http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg "DIR EN GREY - Withering to death (2005-03-09)")
@@ -32,6 +32,9 @@ Scandal - Scandal (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/f128274d-e4bb-4b76-a1d1-1a60fa54c8eb/8751464865-500.jpg" data-tags="japanese, progressive ambient, youtube rec-core" role="button">
 Hiroshi Yoshimura - Green (1986)
+</li>
+<li data-cover="https://img.discogs.com/sXpG4rdnQ40j9KaIt3hPezIgkAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3337983-1326395408.jpeg.jpg" data-tags="electronic, japanese" role="button">
+Towa Tei - Future Listening! (1994-10-21)
 </li>
 <li data-cover="https://img.discogs.com/blUiHA7OZwvowWtTS082Pg5B2x4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14350624-1572767140-4238.jpeg.jpg" data-tags="rock, japanese, japan, j-rock" role="button">
 Luna Sea - STYLE (1996-04-22)
@@ -69,9 +72,6 @@ Mono - Under the Pipal Tree (2001-01-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese" role="button">
 くるり - Team Rock (2001-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/61a91ee4-71d9-4ed7-a7ad-6ae6c83173d7/21486949080-500.jpg" data-tags="japanese" role="button">
-DIR EN GREY - ain't afraid to die (2001-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b0cb384-ad5a-32b1-a69e-566e1e436d5c/17833938395-500.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - Rebirth (2001-04-25)
 </li>
@@ -83,9 +83,6 @@ Akira Yamaoka - Silent Hill 2 (2001-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/088f0a9a-8519-4742-ad67-be09efca963a/3178266084-500.jpg" data-tags="japanese, experimental rock" role="button">
-DIR EN GREY - 鬼葬 (2002-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbe29336-f4e2-3e18-a5f1-1d30f15b916e/9768589910-500.jpg" data-tags="japanese, dance, j-pop, qualified" role="button">
 Boa - LISTEN TO MY HEART (2002-03-13)
@@ -107,6 +104,9 @@ The Brilliant Green - THE WINTER ALBUM (2002-12-04)
 </li>
 <li data-cover="https://img.discogs.com/6eqJclpBSHFjPIgdfTzCFm1Twm4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13877239-1563119976-9959.jpeg.jpg" data-tags="j-rock, jrock" role="button">
 ASIAN KUNG-FU GENERATION - Houkai Amplifier (2003-04-23)
+</li>
+<li data-cover="https://img.discogs.com/5jlAtdvDIBkpIBvzrc4htficHAY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-237370-1217246136.jpeg.jpg" data-tags="electronic, japanese" role="button">
+Piana - Snow Bird (2003-06)
 </li>
 <li data-cover="https://img.discogs.com/aKa3diJi3OzltEG8-tobhk2bK6o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334231-1210541514.jpeg.jpg" data-tags="stoner rock" role="button">
 Boris - Akuma No Uta (2003-06-06)
@@ -131,9 +131,6 @@ Mono - Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined (2004-0
 </li>
 <li data-cover="http://coverartarchive.org/release/9d953482-6014-4ff1-8015-7240746fc24a/19402623897-500.jpg" data-tags="hip-hop, japanese, j-pop" role="button">
 RIP SLYME - GALAXY (2004-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1f05b61-0369-41df-922d-702e05b16c18/21984729709-500.jpg" data-tags="ambient" role="button">
-高木正勝 - Coieda (2004-08-20)
 </li>
 <li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
 Utada - Exodus (2004-09-08)
@@ -165,6 +162,9 @@ John Williams - Memoirs Of A Geisha (2005-11-22)
 <li data-cover="https://img.discogs.com/hRJsj76Thtn6JMei9eK4BXS2Y_Y=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2580062-1291656843.jpeg.jpg" data-tags="japanese, shoegaze" role="button">
 pasteboard - Glitter (2005-12-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/112ccca8-1db4-4e7a-86ac-3336eaa432a1/27103987186-500.jpg" data-tags="j-rock, japanese" role="button">
+GACKT - REDEMPTION (2006-01-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/f3c4087a-dcc9-3cea-a50a-5acd052e71af/11254027972-500.jpg" data-tags="j-rock" role="button">
 the GazettE - NIL (2006-02-08)
 </li>
@@ -177,17 +177,11 @@ YUI - FROM ME TO YOU (2006-02-22)
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/1e90537a-774b-4feb-a39c-35b9ccb0b893/15481200349-500.jpg" data-tags="japanese" role="button">
-Anoice - Remmings (2006-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d3f727e-50ee-40b3-b39b-a480cd0612e8/13922000742-500.jpg" data-tags="shoegaze" role="button">
 Asobi Seksu - Citrus (2006-05-30)
 </li>
 <li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d8383b6-2e53-46b6-97b8-ffad993977ef/8661589466-500.jpg" data-tags="japanese, post-rock" role="button">
-OOIOO - TAIGA (2006-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
@@ -228,8 +222,14 @@ Boom Boom Satellites - Exposed (2007-11-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic, rock, japanese, j-rock, days and nights, fish and amphibians, fish and other sea creatures" role="button">
 サカナクション - NIGHT FISHING (2008-01-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/19b793f4-46c7-4077-ab05-47ac706ea0ce/12787237713-500.jpg" data-tags="japanese, lycnh" role="button">
+DEATHGAZE - insult kiss me (2008-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">
 宇多田ヒカル - HEART STATION (2008-03-19)
+</li>
+<li data-cover="https://img.discogs.com/pxFWEPojg5B2R7XTI3fnvID7Z48=/fit-in/360x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4217545-1475318451-4247.jpeg.jpg" data-tags="japanese, singles i own" role="button">
+DEATHGAZE - I'm broken baby (2008-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
 DJ Okawari - Diorama (2008-05-28)
@@ -245,6 +245,9 @@ Spangle call Lilli line - Purple (2008-11-12)
 </li>
 <li data-cover="https://img.discogs.com/wuiS8mpWYldsTwidt9PTdhZLxaQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5251804-1388770634-2533.jpeg.jpg" data-tags="rock, japanese, j-rock" role="button">
 Alice Nine - VANDALIZE (2009-01-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jrock, uverworld, the best of" role="button">
+UVERworld - AwakEVE (2009-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d28d9760-c79b-432f-a9dd-54442f2caf45/9526718277-500.jpg" data-tags="post-rock" role="button">
 Mono - Hymn to the Immortal Wind (2009-03-04)
@@ -284,9 +287,6 @@ ONE OK ROCK - Nicheシンドローム (2010-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/33264336-40b5-3017-a8ae-146e5a3ad5bb/3433245640-500.jpg" data-tags="japanese" role="button">
 D'espairsRay - MONSTERS (2010-07-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal, japanese, korean, j-rock" role="button">
-Hoobastank - Best Of (2010-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 Perfume - ねぇ (2010-11-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:58:18.222Z
+date: 2021-04-12T07:55:01.442Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -57,8 +57,8 @@ American Football - American Football (1999-09-14)
 <li data-cover="http://coverartarchive.org/release/3cf540c3-fed6-3e22-9b9c-404927874050/2835781208-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - How Strange, Innocence (2000-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ada966-ad97-3806-8e11-78a4c8c4c19c/19444477382-500.jpg" data-tags="post-rock" role="button">
-Do Make Say Think - Goodbye Enemy Airship The Landlord Is Dead (2000-03-13)
+<li data-cover="http://coverartarchive.org/release/6019dd2a-43ce-4f3c-9206-0f6e6e867dbc/9526726936-500.jpg" data-tags="post-rock" role="button">
+Mono - Under the Pipal Tree (2001-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/33a19b38-195f-4d41-82aa-60784b63e008/9519834306-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Rock Action (2001-04-04)
@@ -123,9 +123,6 @@ M83 - Before the Dawn Heals Us (2005-01-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 The Evpatoria Report - Golevka (2005-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cd525bf-3c07-40a5-99b1-c05feaeb7baf/9420481216-500.jpg" data-tags="instrumental, post-rock" role="button">
-EF - Give Me Beauty... Or Give Me Death (2005-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
@@ -149,6 +146,9 @@ Mono - You Are There (2006-03-15)
 </li>
 <li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Enter (2006-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
+Agalloch - Ashes Against the Grain (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3fcbf5-4d4c-352f-9701-bc3e246e6c95/6533494753-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - If These Trees Could Talk (2006-09)
@@ -177,9 +177,6 @@ Do Make Say Think - You, You're A History In Rust (2007-02-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Explosions in the Sky - All of a Sudden I Miss Everyone (2007-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/ccefc9af-1767-4fe2-80c9-3a8cfb33a2b3/4793919911-500.jpg" data-tags="post-rock" role="button">
-God Is An Astronaut - Far From Refuge (2007-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/2117afca-c69d-3225-bd8c-ac469ef043cd/14990944529-500.jpg" data-tags="post-rock" role="button">
 Caspian - The Four Trees (2007-04-10)
 </li>
@@ -188,9 +185,6 @@ Caspian - The Four Trees (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
 Pelican - City of Echoes (2007-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd9f69f3-90ab-44c4-a243-0d0796300882/5860863096-500.jpg" data-tags="post-rock" role="button">
-Joy Wants Eternity - You Who Pretend to Sleep (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
@@ -240,6 +234,9 @@ Long Distance Calling - Avoid The Light (2009-04-24)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/cfcef241-4a2c-39d8-95ea-6be87a10f902/3323039609-500.jpg" data-tags="post-rock" role="button">
+Caspian - Tertia (2009-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
@@ -248,6 +245,9 @@ toe - For Long Tomorrow (2009-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
+Yeasayer - Odd Blood (2010-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)

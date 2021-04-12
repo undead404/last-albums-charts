@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:15:01.638Z
+date: 2021-04-12T08:37:01.710Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -81,9 +81,6 @@ DMX - It's Dark And Hell Is Hot (1998-05-19)
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">
-Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
 </li>
@@ -101,9 +98,6 @@ Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/737a3d1e-5875-41c8-9cd2-c9d5c17f0b64/21858122807-500.jpg" data-tags="rap" role="button">
 Method Man & Redman - Blackout! (1999-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
-Mos Def - Black On Both Sides (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
@@ -162,9 +156,6 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">
 G-Unit - Beg For Mercy (2003-11-14)
 </li>
-<li data-cover="https://img.discogs.com/F-vOuGPAlARaqo5swOWB35ZuTzU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-252113-1523457421-5387.jpeg.jpg" data-tags="rap, twista" role="button">
-Twista - Kamikaze (2004-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
@@ -176,6 +167,9 @@ Ludacris - The Red Light District (2004-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
+CunninLynguists - A Piece of Strange (2005)
 </li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
@@ -246,6 +240,9 @@ Tyler, the Creator - Bastard (2009-12-25)
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/2e4ac0c8-0188-4fb6-a2ed-211cf6e3f95d/13970824493-500.jpg" data-tags="hip-hop, rap" role="button">
+DMX - The Best Of DMX (2010-01-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)
 </li>
@@ -284,6 +281,9 @@ J. Cole - Cole World: The Sideline Story (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/f7b8fff0-445f-48ad-9b66-4e48c4060b4f/5507996174-500.jpg" data-tags="rap" role="button">
+Hoodie Allen - All American (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)

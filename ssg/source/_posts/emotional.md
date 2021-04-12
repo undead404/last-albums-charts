@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T18:25:01.427Z
+date: 2021-04-12T08:34:18.312Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Brand New - The Devil and God Are Raging Inside Me (2006-11-20)](http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg "Brand New - The Devil and God Are Raging Inside Me (2006-11-20)")
@@ -75,9 +75,6 @@ Robbie Williams - The Ego Has Landed (1997)
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/-fSLehijsmulEhaSsuDk9hVRm5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164232-1243812758.jpeg.jpg" data-tags="gothic, 90s, soft, ethereal, emotional, darkwave, lycia, nihilism, dream, us, night time, to explore, existentialism, music and poetry, excruciatingly beautiful, autumn and winter, lauraann163" role="button">
-Lycia - Estrella (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/0efb51b9-b587-4cc2-ae11-fda10fd157f8/2772677034-500.jpg" data-tags="indie, lo-fi" role="button">
 Bright Eyes - A Collection of Songs Written and Recorded 1995-1997 (1998-01-20)
 </li>
@@ -114,8 +111,8 @@ Peter Gabriel - OVO (2000-06-12)
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/47a57cb6-e676-4502-985c-2d9c475ac9ec/4380368501-500.jpg" data-tags="underground hip-hop" role="button">
-Aesop Rock - Float (2000-08-29)
+<li data-cover="http://coverartarchive.org/release/7462b16d-0396-40f1-afa3-5ab1de69ef5a/23873125153-500.jpg" data-tags="experimental" role="button">
+Jamie Lidell - Muddlin Gear (2000-09-11)
 </li>
 <li data-cover="https://img.discogs.com/-25gtckTo9rBxnAorcBHfU86hjA=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1676225-1457301363-7658.jpeg.jpg" data-tags="chillout, ambient" role="button">
 Bliss - Afterlife (2001)
@@ -150,6 +147,9 @@ Secede - Bye Bye Gridlock Traffic (2003-08)
 <li data-cover="https://img.discogs.com/aiGtfbrmX10NazhTRVrB3Y0fvOo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813694-1161458280.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
 </li>
+<li data-cover="https://img.discogs.com/wZNNvwtLcaWF2VaD456oAwYeHH8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3915519-1378058017-4159.jpeg.jpg" data-tags="ecm" role="button">
+Ghazal - The Rain (2003-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
@@ -173,9 +173,6 @@ sleepy.ab - Traveling Fair (2004-05-26)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, pop, power pop, britpop, german" role="button">
 Nova International - One and One Is One (2005)
-</li>
-<li data-cover="https://img.discogs.com/jBkFiVUsAuwP42hziwBXEx-C-vE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3125673-1316967147.jpeg.jpg" data-tags="progressive rock, rock" role="button">
-John Wesley - Shiver (2005)
 </li>
 <li data-cover="https://img.discogs.com/dAgslzEB3UGsZbLkNuCDM4a6NMs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1166028-1197566525.jpeg.jpg" data-tags="metal, progressive metal" role="button">
 Frantic Bleep - The Sense Apparatus (2005-02-07)
@@ -206,9 +203,6 @@ Andrew Hill - Time Lines (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e55179a-ef95-4ba5-8e7b-f77f8cfd21dd/9538277786-500.jpg" data-tags="ambient, dream pop" role="button">
 Robin Guthrie - Continental (2006-05-15)
-</li>
-<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
-Project Divinity - Divinity (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
@@ -260,6 +254,12 @@ Anathema - Hindsight (2008-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/801ac2ea-ba3a-46ca-a9ec-3b47a36a69c8/27124068289-500.jpg" data-tags="blues, emotional, smart, arabicana" role="button">
+No Blues - Lumen (2008-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/69dc2869-1f69-4cda-b85c-0847a8124e2e/16162133670-500.jpg" data-tags="electronic, ambient, experimental, post-rock, shoegaze" role="button">
+subtractiveLAD - Where The Land Meets The Sky (2009-03-09)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)

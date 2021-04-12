@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:21:01.425Z
+date: 2021-04-12T08:22:01.621Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")

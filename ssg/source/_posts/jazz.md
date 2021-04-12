@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:32:01.444Z
+date: 2021-04-12T08:39:01.461Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -65,6 +65,9 @@ Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3796e346-e40b-4334-b306-b8cf96dafcd2/14740296820-500.jpg" data-tags="jazz" role="button">
 Herbie Hancock - Empyrean Isles (1964)
+</li>
+<li data-cover="http://coverartarchive.org/release/cb3d8854-74ac-4a06-bf3f-f4ef4da6d482/1026520892-500.jpg" data-tags="jazz" role="button">
+Charles Mingus - Mingus Mingus Mingus Mingus Mingus (1964)
 </li>
 <li data-cover="https://img.discogs.com/-HhMTdT7qkcl7X7K--P2n_VloAM=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6336030-1458422938-4896.jpeg.jpg" data-tags="jazz" role="button">
 McCoy Tyner - Today and Tomorrow (1964)
@@ -143,9 +146,6 @@ Herbie Hancock - Cantaloupe Island (1994-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
-<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
-Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, bass, fusion" role="button">
 Jaco Pastorius - Jaco Pastorius (1997)

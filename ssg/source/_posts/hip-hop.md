@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:17:01.422Z
+date: 2021-04-12T08:42:01.719Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -72,9 +72,6 @@ Gang Starr - Moment Of Truth (1998-03-31)
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/66df81d2-9787-3838-85fa-fa0de57990f3/24580063144-500.jpg" data-tags="hip hop, hip-hop" role="button">
-Black Star - Mos Def & Talib Kweli Are Black Star (1998-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
@@ -87,11 +84,11 @@ OutKast - Aquemini (1998-09-28)
 <li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">
 Eminem - The Slim Shady LP (1999-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
-Mos Def - Black On Both Sides (1999-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b06e2d75-8f6e-488b-ac1f-1551fa97c2b4/3331705479-500.jpg" data-tags="hip-hop, rap" role="button">
+The Notorious B.I.G. - Born Again (1999-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0eaf3a43-f00e-4416-8ea3-759d1841e3c9/4402657853-500.jpg" data-tags="hip-hop" role="button">
 Common - Like Water for Chocolate (2000-03-28)
@@ -110,6 +107,9 @@ Big L - The Big Picture (2000-07-11)
 </li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b017fef-0077-4248-a0dc-c5cfe342b5f8/5084173193-500.jpg" data-tags="hip-hop" role="button">
+Paktofonika - Kinematografia (2000-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
@@ -152,9 +152,6 @@ Beastie Boys - To the 5 Boroughs (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Roots - The Tipping Point (2004-07-12)
-</li>
-<li data-cover="https://img.discogs.com/4py4xiK0UiIC3_z0rrt5exFOY2I=/fit-in/352x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378450-1173002498.jpeg.jpg" data-tags="hip-hop" role="button">
-Talib Kweli - The Beautiful Struggle (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
@@ -320,5 +317,8 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ede655-ad25-4a32-a367-3a32edb0ad55/9269372663-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Only One (2014-12-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
+Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

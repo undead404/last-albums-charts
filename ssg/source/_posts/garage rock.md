@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:58:01.397Z
+date: 2021-04-12T08:03:12.642Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -81,6 +81,9 @@ The Vines - Highly Evolved (2002-06-15)
 <li data-cover="https://img.discogs.com/b7YbITe-6tjcIf0KTV4oObOiFXo=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335362-1602036565-4961.jpeg.jpg" data-tags="rock, garage rock" role="button">
 The Hellacopters - By the Grace of God (2002-09-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock" role="button">
+Mando Diao - Bring 'Em In (2002-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
 The Libertines - Up the Bracket (2002-09-30)
 </li>
@@ -143,9 +146,6 @@ The Kills - No Wow (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
-The White Stripes - Blue Orchid (2005-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
@@ -219,6 +219,9 @@ Mando Diao - Give Me Fire (2009-02-13)
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/999cef8f-b6fa-4287-b843-fafa46dab2d3/1214737387-500.jpg" data-tags="indie" role="button">
+White Rabbits - It's Frightening (2009-05-19)
+</li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">
 Sonic Youth - The Eternal (2009-06-03)
 </li>
@@ -278,9 +281,6 @@ The Hives - Lex Hives (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">
 Japandroids - Celebration Rock (2012-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">
-Ty Segall Band - Slaughterhouse (2012-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)

@@ -1,16 +1,16 @@
 ---
-date: 2021-04-11T22:52:01.400Z
+date: 2021-04-12T08:16:07.097Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">Friendly Fires - Friendly Fires (2008-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
-<li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">Matthew Dear - Black City (2010-08-03)</li>
+<li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">Delphic - Acolyte (2010-01-11)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">Kindness - World, You Need a Change of Mind (2012-03-19)</li>
-<li data-cover="https://img.discogs.com/tzJlIpGVxhIcpGhV7ir0n0BXhh0=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578248-1335993570.jpeg.jpg" data-tags="indie pop" role="button">Electric Guest - Mondo (2012-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">Bastille - Bad Blood (2013-03-04)</li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">James Blake - Overgrown (2013-04-05)</li>
@@ -32,6 +32,9 @@ Mouse on Mars - Iaora Tahiti (1995-10-03)
 </li>
 <li data-cover="https://img.discogs.com/JA4SdsJtLzfSlKivcoHCQW26578=/fit-in/250x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471979-1118547113.jpg.jpg" data-tags="indie pop" role="button">
 Club 8 - Nouvelle (1996)
+</li>
+<li data-cover="https://img.discogs.com/RhA5ipWTLuay71nDveNLc1N3Hfc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2392800-1281418443.jpeg.jpg" data-tags="indie pop, indie rock, indie electronic, experimental rock, ambient pop, dream pop" role="button">
+Godzuki - Trail of the Lonesome Pine (1996-03-05)
 </li>
 <li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
 Stereolab - Emperor Tomato Ketchup (1996-03-18)
@@ -60,6 +63,9 @@ Ms. John Soda - No P. or D. (2002-10-07)
 <li data-cover="http://coverartarchive.org/release/b685bd41-0cd2-4fa2-a0a7-2a0242a0e70b/3644268413-500.jpg" data-tags="trip-hop" role="button">
 Alpha - Stargazing (2003)
 </li>
+<li data-cover="https://img.discogs.com/rfCWgFLCsn8OojQnWDEu4UE-3Dk=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3057-1130950192.jpeg.jpg" data-tags="electronic, indie, jazz, alternative, experimental, indie electronic, krautrock, improvisation, live, kraut rock, cdbaby, chez musinum, jtradio, collective improvisation, indipendent, res, indie records, indie labels, indipendent labels, res - registrazioni e suoni" role="button">
+Chaos - quattordicidodicizerodue (2003)
+</li>
 <li data-cover="https://img.discogs.com/xSbVbB7CxDCCofSUgH-9fVsArGc=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106562-1210571779.jpeg.jpg" data-tags="electronic" role="button">
 Console - Reset The Preset (2003-01-13)
 </li>
@@ -81,32 +87,23 @@ Lali Puna - Faking The Books (2004-04-19)
 <li data-cover="https://img.discogs.com/qYVNPT6InC9DjaEzmRpz5TZl2cM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-267028-1320696359.jpeg.jpg" data-tags="indie electronic" role="button">
 Broken Spindles - Fulfilled/Complete (2004-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e49f615e-86aa-4fd8-99fd-30f80787b177/27813888712-500.jpg" data-tags="indie rock" role="button">
-Grand National - Kicking the National Habit (2004-05-24)
-</li>
 <li data-cover="https://img.discogs.com/Gl0JdmtBh4Bu5ENhknStJ6146Ig=/fit-in/600x645/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8577781-1464404138-7605.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Go! Team - Thunder, Lightning, Strike (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
-Husky Rescue - Country Falls (2004-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/f48e83a5-6bb5-41d2-9b24-a3235d096bb2/11296608988-500.jpg" data-tags="electronic, alternative, indie pop, indie electronic, new zealand, new zealander, mistletone, bachelorette, annabel alpers, aquariusrecords" role="button">
-Bachelorette - Isolation Loops (2006)
+<li data-cover="http://coverartarchive.org/release/0285b1b5-5626-427c-acc4-f3d15d5953e5/9663981320-500.jpg" data-tags="indie electronic" role="button">
+Khonnor - Burning Palace (2006-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e040f3bb-5c0d-4533-8e1d-16ba5fb22547/16468189632-500.jpg" data-tags="canadian, electronic" role="button">
 Shout Out Out Out Out - Not Saying/Just Saying (2006-07-25)
-</li>
-<li data-cover="https://img.discogs.com/1XQ5G2ix3Ax50Y3WMl6AJIKLIUM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3459271-1331208181.jpeg.jpg" data-tags="ambient" role="button">
-Project Divinity - Divinity (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7653a-288a-48fd-a404-3f86cbaf67d7/28537486031-500.jpg" data-tags="indie electronic, svenskt, scandinavian, svenskprov, foreign rock, labrador:listened" role="button">
 [ingenting] - Mycket Väsen För Ingenting (2006-10-18)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
+</li>
+<li data-cover="https://img.discogs.com/1Zf1FKeyaCuLhcGa8nhqD8qHgfA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5913824-1454388658-6433.jpeg.jpg" data-tags="indie, alternative, experimental, indie electronic" role="button">
+One Hand Loves The Other - One Hand Loves the Other (2007-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
@@ -117,26 +114,32 @@ Annie - Don't Stop (2008-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
 </li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/829b7dfa-fe45-48b0-a462-866a29dd1aae/9663978266-500.jpg" data-tags="indie electronic, downtempo, idm" role="button">
 Khonnor - Softbo EP (2008-11-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie, indie electronic, synth pop, germany, synthesizer, german, 00s, geeky, nan" role="button">
+Not A Number - Jigsaw Music (2008-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d10067e6-3feb-4ef9-a0eb-1ede9b7c562e/5966597004-500.jpg" data-tags="electropop, indie, pop, alternative, swedish, indie electronic, gothenburg, indiepop, lo-fi, indietronica, poptronica" role="button">
+Cyrusgbg - Live my dream (2009)
 </li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, germany" role="button">
+Not A Number - Experiments (2009-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop, pop, instrumental, indie pop, indie electronic, post-rock, downtempo, synth pop, mellow, synthesizer, german, 00s, nan" role="button">
+Not A Number - Number (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
-</li>
-<li data-cover="https://img.discogs.com/6Y-qa1-Z3ly6msx3HF-Tch43CH4=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2334474-1277708619.jpeg.jpg" data-tags="indie, boston, 10s" role="button">
-Magic Man - Real Life Color (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9780c05d-7a75-45a5-9810-6c07f5f57609/18208181632-500.jpg" data-tags="electronica, soul, indie electronic, downtempo, 00s, neo soul, neo-soul, keepers of soul, damn this is art, alternative r and b, danish group" role="button">
 Quadron - Quadron (2010-02-23)
@@ -152,9 +155,6 @@ How to Destroy Angels - How to Destroy Angels (2010-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
-Matthew Dear - Black City (2010-08-03)
 </li>
 <li data-cover="https://img.discogs.com/lDFk4Dl3cOnS7XacsD5WUw0UovI=/fit-in/547x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4646149-1370953733-5599.jpeg.jpg" data-tags="electronic" role="button">
 iamamiwhoami - bounty (2010-08-05)
@@ -207,14 +207,17 @@ School of Seven Bells - Ghostory (2012-02-27)
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
 </li>
-<li data-cover="https://img.discogs.com/tzJlIpGVxhIcpGhV7ir0n0BXhh0=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578248-1335993570.jpeg.jpg" data-tags="indie pop" role="button">
-Electric Guest - Mondo (2012-04-20)
+<li data-cover="https://img.discogs.com/BYoy-UvpQO716_x3PWZGL7DaG-M=/fit-in/600x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14581292-1577558711-1403.jpeg.jpg" data-tags="indie, netlabel, creative commons, 23 seconds, alternative, indie electronic, lo-fi, indietronica" role="button">
+The Womb - How to Deal With People Who Refuse to Leave a Burning Building (2012-04-02)
 </li>
 <li data-cover="https://img.discogs.com/ZPHFFLltwEgfXcWsdW2_6o6ThfU=/fit-in/500x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801441-1344973245-9440.jpeg.jpg" data-tags="indie electronic, new age, epic album covers" role="button">
 d'Eon - LP (2012-06-05)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
+</li>
+<li data-cover="https://img.discogs.com/TjNs18yDJO2PlO4e5GJC3Q7VC8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3718694-1341607984-8311.jpeg.jpg" data-tags="ambient, indie electronic, epic, organic, electro-rock, electronic rock, glitch rock, star power" role="button">
+Mr. Meeble - Nostalgic for Now (2012-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/04286ab7-13fd-4369-a076-26ced7bba950/2520432669-500.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, indie electronic, post-rock, psychedelic, psychedelic rock, netlabel, creative commons, 23 seconds" role="button">
 Azoora - A Thousand Ways EP (2012-08-26)
@@ -311,9 +314,6 @@ How to Dress Well - "What Is This Heart?" (2014-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/533573b9-9f3c-400f-be2d-ac11a94fb02a/7919834586-500.jpg" data-tags="pop" role="button">
 Troye Sivan - TRXYE (2014-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/14d4b753-39bd-4dc2-9e61-d6f9ea68bfc7/12440291189-500.jpg" data-tags="dream pop" role="button">
-Foxes in Fiction - Ontario Gothic (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/460a5032-d749-41cd-b0fb-e4bf1a7ab4ca/8503876069-500.jpg" data-tags="electronic" role="button">
 Caribou - Our Love (2014-10-03)

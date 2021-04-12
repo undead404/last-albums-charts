@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:28:07.003Z
+date: 2021-04-12T08:09:01.758Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -60,9 +60,6 @@ Mercury Rev - All Is Dream (2001-08-27)
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
 </li>
-<li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
-The Radio Dept. - Lesser Matters (2003-02-24)
-</li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
 </li>
@@ -71,9 +68,6 @@ Death Cab for Cutie - Transatlanticism (2003-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
-The Radio Dept. - Pet Grief (2006-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d3f727e-50ee-40b3-b39b-a480cd0612e8/13922000742-500.jpg" data-tags="shoegaze" role="button">
 Asobi Seksu - Citrus (2006-05-30)
@@ -122,6 +116,9 @@ The xx - xx (2009-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/b088db4d-6aee-4991-b888-b283b77f7ad0/15835480698-500.jpg" data-tags="indie rock, indie" role="button">
+Real Estate - Real Estate (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
@@ -179,6 +176,9 @@ Active Child - You Are All I See (2011-08-23)
 </li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/99c0ab05-7bd4-43e4-8009-8d255d791a45/22479261395-500.jpg" data-tags="dream pop" role="button">
+Still Corners - Creatures of an Hour (2011-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)

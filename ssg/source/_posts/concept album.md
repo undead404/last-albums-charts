@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T23:46:06.884Z
+date: 2021-04-12T08:21:01.898Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -21,20 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
-The Moody Blues - Days of Future Passed (1967-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd8d891c-6664-41a5-8a59-8c82b5043068/16044068476-500.jpg" data-tags="rock, classic rock, 60s" role="button">
 The Who - The Who Sell Out (1967-12-16)
 </li>
 <li data-cover="https://img.discogs.com/sMmSFb1IcPs_yLo53n3dR6L_C0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14496895-1575796384-1397.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
 The Who - Tommy (1969-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ed99b83-6abc-402e-b723-b036b9441fc4/12733158344-500.jpg" data-tags="progressive rock" role="button">
-Jethro Tull - A Passion Play (1973-07-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
-Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/db268a28-85a0-4afe-8779-609de7df4b9b/27745398432-500.jpg" data-tags="rock, classic rock, 70s, rock opera" role="button">
 The Who - Quadrophenia (1973-11-16)
@@ -222,6 +213,9 @@ The Mars Volta - Frances the Mute (2005-03-01)
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
 Boys Night Out - Trainwreck (2005-07-26)
 </li>
+<li data-cover="https://img.discogs.com/DLvIUEStL8uLkgYM_ghNRC8uZ04=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993425-1572536299-5521.png.jpg" data-tags="norwegian, rock" role="button">
+Kaizers Orchestra - Maestro (2005-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
 Protest the Hero - Kezia (2005-08-30)
 </li>
@@ -231,14 +225,14 @@ The Protomen - The Protomen (2005-09-03)
 <li data-cover="http://coverartarchive.org/release/a430ab40-b6ad-3add-98fe-276d5251a42b/22928954741-500.jpg" data-tags="whalecore, progressive death metal, progressive metal, death metal" role="button">
 Gojira - From Mars to Sirius (2005-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
-Maria Peszek - Miasto Mania (2005-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
 <li data-cover="https://img.discogs.com/RQAamW3AUlk7W1EO5pPjjLsJTjI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651354-1314227271.jpeg.jpg" data-tags="post-hardcore" role="button">
 Fightstar - Grand Unification (2006-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/414dcc91-70c4-49ec-a422-2790de149ff2/27362900273-500.jpg" data-tags="thrash metal" role="button">
+Sepultura - Dante XXI (2006-03-14)
 </li>
 <li data-cover="https://img.discogs.com/UWehwv40d4qK5yESFfl1Q_srYZM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680564-1501944676-9675.jpeg.jpg" data-tags="experimental, noir" role="button">
 Dog Fashion Disco - Adultery (2006-04-04)
@@ -272,6 +266,9 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/65390f0e-27ba-4cb0-b4e0-51097a73745f/1280756096-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - 01011001 (2008-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/c895c60a-3e50-45e9-b116-95437e257e23/22898867938-500.jpg" data-tags="gothic metal" role="button">
+Flowing Tears - Thy Kingdom Gone (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
@@ -314,6 +311,9 @@ Gorguts - Colored Sands (2013-08-30)
 </li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/81e2ea26-8c40-4673-bf9e-4e2052cbb765/7079101080-500.jpg" data-tags="melodic death metal" role="button">
+Insomnium - Shadows Of The Dying Sun (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed2766c1-da1c-4ede-9869-e7ccbf86f7eb/9171345844-500.jpg" data-tags="indie rock, folk rock, blues rock, concept album, dez mona" role="button">
 Asaf Avidan - Gold Shadow (2015-01-12)

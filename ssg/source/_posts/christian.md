@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T19:54:01.409Z
+date: 2021-04-12T07:51:01.506Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![Emery - The Question (2005-08-02)](http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg "Emery - The Question (2005-08-02)")
@@ -45,6 +45,9 @@ Lifehouse - No Name Face (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/97c7c9a2-c3c1-4aae-bed2-d2407a339a41/8288946939-500.jpg" data-tags="worship" role="button">
 Michael W. Smith - Worship (2000-12-01)
 </li>
+<li data-cover="https://img.discogs.com/n-Z-6D4PDBr4UKPSLmbsP1Uujdw=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2180119-1268334982.jpeg.jpg" data-tags="christian rock" role="button">
+Starfield - Starfield (2001)
+</li>
 <li data-cover="https://img.discogs.com/4iVcdo_rEcq6zrSE5BjHjlyH1qQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593962-1586191495-6359.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 12 Stones - 12 Stones (2002-04-23)
 </li>
@@ -57,14 +60,11 @@ Jeremy Camp - Stay (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
-<li data-cover="https://img.discogs.com/q1y20a4ZnYwnYY4yx-6JHVSUSZA=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1812700-1280011235.jpeg.jpg" data-tags="pop" role="button">
-Stacie Orrico - Stacie Orrico (2003-03-25)
-</li>
 <li data-cover="https://img.discogs.com/BAmVGDpBy4rQp_JFTj9Tu9DUB_8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13099791-1548725330-9010.jpeg.jpg" data-tags="christian, modern worship, worship" role="button">
 Newsboys - Adoration: The Worship Album (2003-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
-Anberlin - Blueprints For The Black Market (2003-04-24)
+<li data-cover="http://coverartarchive.org/release/f254e73d-4a6d-406a-823e-642afce798e8/15858226331-500.jpg" data-tags="blues-rock, christian, 00s, awesome guitar jams, 2000s, punchy, the good stuff, mycds, rolling stone top 50 albums 2003, monksatyr music" role="button">
+Robert Randolph & The Family Band - Unclassified (2003-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/08902a42-9afa-3337-8267-b333a89dd5da/24702019693-500.jpg" data-tags="alternative rock" role="button">
 Thousand Foot Krutch - Phenomenon (2003-09-09)
@@ -225,9 +225,6 @@ Secret And Whisper - Great White Whale (2008-02-12)
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2ac6303-90bd-4286-8c74-dfa9235a8e93/8887519155-500.jpg" data-tags="christian rock" role="button">
-Fireflight - Unbreakable (2008-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/b1fa01c6-84d4-4406-9318-ea42d9644ba2/2516129631-500.jpg" data-tags="rock, alternative, singer-songwriter, christian" role="button">
 Katie Herzig - Apple Tree (2008-04-08)
 </li>
@@ -243,8 +240,8 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Damien Jurado - Caught In The Trees (2008-09-09)
 </li>
-<li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
-Anberlin - New Surrender (2008-09-30)
+<li data-cover="https://img.discogs.com/XV7TUIT67UahYV_2TRyP4KAxdtk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5610216-1397922565-2842.jpeg.jpg" data-tags="folk, christian" role="button">
+Josh Garrels - Jacaranda (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1fee564-6b40-4e99-a79c-be1ef8780cae/4786588304-500.jpg" data-tags="christian, my fav" role="button">
 Jeremy Camp - Speaking Louder Than Before (2008-11-25)
@@ -269,6 +266,9 @@ NEEDTOBREATHE - The Outsiders (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
+</li>
+<li data-cover="https://img.discogs.com/WNsNS0WFCOd9vER1eNncrnt7WyI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2457192-1517878241-7194.jpeg.jpg" data-tags="metalcore, metal" role="button">
+Texas in July - I Am (2009-09-15)
 </li>
 <li data-cover="https://img.discogs.com/mVUuXk0ZJEX-FJH8OvSMWhVMFNQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7452192-1452218668-9513.jpeg.jpg" data-tags="christian" role="button">
 Matt Maher - Alive Again (2009-09-22)

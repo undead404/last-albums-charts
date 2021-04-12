@@ -1,12 +1,12 @@
 ---
-date: 2021-04-11T17:40:01.430Z
+date: 2021-04-12T07:57:01.458Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">Lighthouse Family - Postcards From Heaven (1997-10-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
+<li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
 <li data-cover="https://img.discogs.com/gmSU-H2dlnvVDDgIqwlCvGqEFbI=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3175770-1372485946-6771.jpeg.jpg" data-tags="pop, beautiful soul" role="button">Jesse McCartney - Beautiful Soul (2004-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">John Legend - Once Again (2006-10-21)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
@@ -36,8 +36,14 @@ Jim Stafford - Jim Stafford (1974)
 <li data-cover="http://coverartarchive.org/release/84a41e38-2502-4bf6-97b6-c92899ed2bda/6322723604-500.jpg" data-tags="70s, soulgdchill" role="button">
 Barry White - Can't Get Enough (1974-08)
 </li>
+<li data-cover="https://img.discogs.com/DXAtClvVvZdK44l70ZmKUkS-274=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6819815-1427302127-3253.jpeg.jpg" data-tags="folk, singer-songwriter, male vocalist" role="button">
+Harry Chapin - Greatest Stories Live (1976)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, folk, male vocalist, male vocalists, folk italiana, italiana, cantautore, italian folk, folk italiano, voci maschili, maschi, maschio, italie, occhi a cuoricino, voce maschile, syon" role="button">
 Fabrizio De André - Rimini (1978-03-31)
+</li>
+<li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
+The Doors - The Best of The Doors (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9feb63e8-ffc5-47cc-b0f4-dace3d9e75d4/920100536-500.jpg" data-tags="80s" role="button">
 The Smiths - The World Won't Listen (1987-02-23)
@@ -59,9 +65,6 @@ The Smashing Pumpkins - Pisces Iscariot (1994-10-04)
 </li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f52d3ff-74dd-460d-a627-4d54f0f7eff6/1611443813-500.jpg" data-tags="indie, rock, alternative, indie rock, 90s" role="button">
 Modest Mouse - Interstate 8 (1996-08-06)
@@ -95,6 +98,9 @@ Modest Mouse - Night on the Sun (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
+Lou Bega - A Little Bit Of Mambo (1999-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
 Bright Eyes - Fevers and Mirrors (2000-03-23)
@@ -152,9 +158,6 @@ Chris Cagle - Chris Cagle (2003-04-01)
 </li>
 <li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e318e125-53a5-42ec-987b-3b05aa46b325/14141866528-500.jpg" data-tags="rock" role="button">
-Warren Zevon - The Wind (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/33df6219-0eb2-4b00-b687-09f4a7199e53/21620927297-500.jpg" data-tags="pop, male vocalist, go your own way, gareth gates" role="button">
 Gareth Gates - Go Your Own Way (2003-09-22)
@@ -224,9 +227,6 @@ a-ha - Analogue (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
-Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="https://img.discogs.com/8hIpTe1SbU7w973r5w69GZ7N1bM=/fit-in/400x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504562-1225460490.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
 Math and Physics Club - Math and Physics Club (2006-10-17)
@@ -309,14 +309,14 @@ Phillip Phillips - The World from the Side of the Moon (2011-11-19)
 <li data-cover="http://coverartarchive.org/release/88b326d1-7b63-4304-b403-d7ff46d56109/2491087347-500.jpg" data-tags="pop, alternative rock, soft rock" role="button">
 The Rasmus - The Rasmus (2012-04-18)
 </li>
-<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
-Rodriguez - Searching for Sugar Man (2012-07-20)
-</li>
 <li data-cover="https://img.discogs.com/nRKU_Ho5jJvAi-SOxUeJoE52aZg=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4113031-1355665098-4478.jpeg.jpg" data-tags="singer-songwriter, male vocalist" role="button">
 Willy Mason - Carry On (2012-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
 Bring Me the Horizon - Shadow Moses (2013-01-11)
+</li>
+<li data-cover="https://img.discogs.com/a6B7lojsdVg50o0d6z9kJvr5xSQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4771205-1375006213-3044.jpeg.jpg" data-tags="jazz, deutsch, comedy, german, male vocalist" role="button">
+Helge Schneider - Sommer, Sonne, Kaktus! (2013-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ba215ca-677c-43bb-93bc-d68a308a19b3/10020073334-500.jpg" data-tags="indie, male vocalist" role="button">
 Magic Man - Before The Waves (2014-05-19)

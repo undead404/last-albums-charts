@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:06:29.353Z
+date: 2021-04-12T08:40:07.085Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Heavier Things (2003-09-09)](http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg "John Mayer - Heavier Things (2003-09-09)")
@@ -36,6 +36,9 @@ Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/07a71d31-d3f7-4253-8bcc-20378a035d6e/5651023538-500.jpg" data-tags="guitar, acoustic" role="button">
+Leo Kottke - 6- And 12-String Guitar (1969)
+</li>
 <li data-cover="http://coverartarchive.org/release/4946f82c-2cc1-3bbd-8ae3-5b89a79d7c39/21758063798-500.jpg" data-tags="classic rock, blues rock" role="button">
 Blind Faith - Blind Faith (1969-08)
 </li>
@@ -66,9 +69,6 @@ Joe Walsh - But Seriously, Folks... (1978-05-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
 Dire Straits - Dire Straits (1978-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/767a43b2-f0f0-36b7-af90-444ebe766ce3/10110855411-500.jpg" data-tags="blues rock, british blues" role="button">
-Peter Green - In The Skies (1979)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a40201d-e7ba-3121-98cb-e2d57fa71736/8103038053-500.jpg" data-tags="rock, classic rock" role="button">
 Dire Straits - Communiqué (1979-04)
 </li>
@@ -80,9 +80,6 @@ George Harrison - Cloud Nine (1987-11-02)
 </li>
 <li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
-</li>
-<li data-cover="https://img.discogs.com/mMyb5NzdtxLw_lSRMe4C5SRQ-yo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9725389-1485399125-6304.jpeg.jpg" data-tags="jazz, fusion" role="button">
-Pat Metheny Group - Letter From Home (1989-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
@@ -110,9 +107,6 @@ Ben Harper - Welcome To The Cruel World (1994-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">
 Steve Vai - Alien Love Secrets (1995-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
-The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
 <li data-cover="https://img.discogs.com/RbSgG6NB095p-xIaieh7u9mh1P4=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610876-1477777838-1894.jpeg.jpg" data-tags="jazz, jazz guitar" role="button">
 Charlie Haden & Pat Metheny - Beyond The Missouri Sky (Short Stories) (1997-02-24)
@@ -171,6 +165,9 @@ Santana - Shaman (2002-10-22)
 <li data-cover="https://img.discogs.com/K_wFkVYGXXX23vuBQJ7vDfE4sdY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3649068-1338825965-9999.jpeg.jpg" data-tags="jazz, pat metheny" role="button">
 Pat Metheny - One Quiet Night (2003-05-13)
 </li>
+<li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
+Redbone - The Essential Redbone (2003-06-10)
+</li>
 <li data-cover="https://img.discogs.com/4bOGAW1fpPLYOHj8KJhCxrfadI0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513137-1442331042-2541.jpeg.jpg" data-tags="guitar" role="button">
 Jeff Beck - Jeff (2003-08-06)
 </li>
@@ -189,9 +186,6 @@ Oi Va Voi - Laughter Through Tears (2003-09-29)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
-Andy McKee - Dreamcatcher (2004)
-</li>
 <li data-cover="https://img.discogs.com/xdYNTGT-Q2m47QmLbwzyEuL7zII=/fit-in/472x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3243290-1378870863-5538.jpeg.jpg" data-tags="hip-hop, rock" role="button">
 Everlast - White Trash Beautiful (2004)
 </li>
@@ -206,12 +200,6 @@ John Frusciante - The Will to Death (2004-06-22)
 </li>
 <li data-cover="https://img.discogs.com/5vuK3ehYd8gQaKMvS8bKtBzoWpc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204862-1528965128-4993.jpeg.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
-William Fitzsimmons - Until When We Are Ghosts (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
-Goldfinger - The Best Of Goldfinger (2005-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/125c9366-4f4f-3166-a31e-6855d9199b28/7547146717-500.jpg" data-tags="latin rock, classic rock, guitar" role="button">
 Santana - All That I Am (2005-10-28)
@@ -264,6 +252,9 @@ Flight of the Conchords - The Distant Future (2007-08-07)
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/df237fde-ed9f-4b7b-b148-bb53f64a4411/12041907813-500.jpg" data-tags="blues rock" role="button">
+Joe Bonamassa - Sloe Gin (2007-08-21)
+</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
@@ -273,11 +264,17 @@ Scouting for Girls - Scouting for Girls (2007-09-16)
 <li data-cover="http://coverartarchive.org/release/0720ab6f-d9e0-3cc9-82be-930cd76faf5d/8160980453-500.jpg" data-tags="blues" role="button">
 Eric Clapton - Complete Clapton (2007-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/78a30a53-7278-4aa2-bee5-dbfe741a3675/21188045762-500.jpg" data-tags="rock, britpop" role="button">
+Stereophonics - Pull the Pin (2007-10-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab84a832-8fc8-42a3-a849-adc188738aec/7365407384-500.jpg" data-tags="rock" role="button">
 Santana - Ultimate Santana (2007-10-16)
 </li>
 <li data-cover="https://img.discogs.com/w0H2wgK8G8AgXVhhAdV9ZRmnD_s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2062653-1302342391.jpeg.jpg" data-tags="indie, folk" role="button">
 William Fitzsimmons - The Sparrow and the Crow (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9524180-6c85-44d9-a290-c2887f98662c/15484906172-500.jpg" data-tags="folk, experimental, guitar, 00s, for: kainkagr, for: jsilv, from: kainkagr, 24o 000" role="button">
+James Blackshaw - Litany of Echoes (2008-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
 David Cook - David Cook (2008-11-18)
@@ -291,14 +288,14 @@ Fink - Sort of Revolution (2009-03)
 <li data-cover="http://coverartarchive.org/release/43075c98-16b9-4d92-bb33-44a3a84d58a6/19979198538-500.jpg" data-tags="blues rock, rock" role="button">
 Mark Knopfler - Get Lucky (2009-09-11)
 </li>
+<li data-cover="https://img.discogs.com/_nkDGFiiCX2DmpU1qb2z0asOd20=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125606-1612992046-9556.jpeg.jpg" data-tags="folk" role="button">
+Brandi Carlile - Give Up The Ghost (2009-10-02)
+</li>
 <li data-cover="https://img.discogs.com/4lj09dHcJO9tN-8OEEBDsuHRbQU=/fit-in/571x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8802703-1484726874-7592.png.jpg" data-tags="guitar" role="button">
 John Mayer - Heartbreak Warfare (2010-01-22)
 </li>
 <li data-cover="https://img.discogs.com/20kU5POHDa6FFpSgiU8xI2hhPWo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1074826-1405901004-8428.jpeg.jpg" data-tags="classic rock, guitar, psychedelic rock" role="button">
 Jimi Hendrix - Valleys of Neptune (2010-03-05)
-</li>
-<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
-Lena - Satellite (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/41b9dbe2-eeed-4009-9396-50f298ce2b7a/24070407526-500.jpg" data-tags="rock, guitar" role="button">
 Jeff Beck - Emotion & Commotion (2010-03-24)
@@ -308,6 +305,9 @@ Slash - Slash (2010-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f2e6a44-7824-4b2f-8118-eed8c69a8127/12213760088-500.jpg" data-tags="singer-songwriter, acoustic, guitar, mellow" role="button">
 Joshua Radin - Underwater (2012-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c746cd6-ae6c-4a50-b8ec-93485289a900/2158304065-500.jpg" data-tags="instrumental" role="button">
+Kaki King - Glow (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d05de6-a5ff-4bbe-96cf-ab7deeb5c7aa/22088908754-500.jpg" data-tags="instrumental, guitar, fingerpicking, wfmu heavily played records" role="button">
 William Tyler - Impossible Truth (2013-03-19)

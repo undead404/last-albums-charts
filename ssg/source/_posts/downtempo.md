@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T02:48:01.409Z
+date: 2021-04-12T08:06:01.640Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -111,6 +111,9 @@ Télépopmusik - Genetic World (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
+Four Tet - Pause (2001-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
 Boozoo Bajou - Satta (2001-06)
 </li>
@@ -174,9 +177,6 @@ Air - Talkie Walkie (2004-01-21)
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
-Husky Rescue - Country Falls (2004-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
@@ -194,9 +194,6 @@ Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/b11a6b70-f435-4e50-8223-66af89346f94/5104716787-500.jpg" data-tags="downtempo" role="button">
-Sofa Surfers - Sofa Surfers (2005-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/268776f6-7a42-4977-9580-50bf71891d2c/4395546858-500.jpg" data-tags="lounge, downtempo" role="button">
 Parov Stelar - Seven and Storm (2005-11-18)
@@ -302,6 +299,9 @@ Bibio - Silver Wilkinson (2013-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
+Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)

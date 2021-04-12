@@ -1,5 +1,5 @@
 ---
-date: 2021-04-11T22:36:01.452Z
+date: 2021-04-12T08:29:01.487Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -162,9 +162,6 @@ Nelly Furtado - Loose (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Three Days Grace - One-X (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
-Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e78cf01f-333e-4211-ae80-a41748961d3f/4812141654-500.jpg" data-tags="singer-songwriter, canadian" role="button">
 Patrick Watson - Close To Paradise (2006-09-25)
 </li>
@@ -308,6 +305,9 @@ Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d46e2cc-1ae9-44aa-81bc-89e90eef410e/10240022979-500.jpg" data-tags="pop" role="button">
 Tegan and Sara - Heartthrob (2013-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/0cdaedb7-00d5-4c7b-9d15-556a6fdc98e4/6003309054-500.jpg" data-tags="matador records" role="button">
+Majical Cloudz - Impersonator (2013-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Kiss Land (2013-09-09)

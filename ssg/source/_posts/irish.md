@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:30:07.054Z
+date: 2021-04-12T07:53:01.484Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -129,6 +129,9 @@ The Frames - Fitzcarraldo (1996-11-29)
 <li data-cover="http://coverartarchive.org/release/a03e7e4b-45ab-390e-9439-4253efa57967/6316878222-500.jpg" data-tags="rock, 90s" role="button">
 U2 - Pop (1997-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/28174166-ee47-4c07-84ee-59b9f8c9696a/13728151561-500.jpg" data-tags="irish, celtic" role="button">
+Mary Black - Shine (1997-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/259ef148-90a3-44ab-87b2-1252c46febd5/5356649895-500.jpg" data-tags="pop" role="button">
 The Corrs - Talk On Corners (1997-10-20)
 </li>
@@ -143,6 +146,9 @@ Gaelic Storm - Gaelic Storm (1998-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3057d9c-fcb6-4e98-91c6-db3436e46299/29018912269-500.jpg" data-tags="irish, celtic" role="button">
+The Irish Rovers - The Best Of The Irish Rovers (1999)
 </li>
 <li data-cover="https://img.discogs.com/zonqhzeLNgC07fqdcsZ5OrZ7h8k=/fit-in/565x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7768449-1448613040-9659.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 The Cranberries - Bury The Hatchet (1999-04-19)
@@ -177,9 +183,6 @@ The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
 <li data-cover="https://img.discogs.com/zpL7Vvj08Z9ClcnhZw2kviQLoeI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7506712-1457488957-7981.jpeg.jpg" data-tags="pop, irish, male vocalist, complete crap, dim, driving pop, mobloguk, ronan keating  -  destination" role="button">
 Ronan Keating - Destination (2002)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="westlife, westlife world of our own" role="button">
-Westlife - World of Our Own (2002)
-</li>
 <li data-cover="https://img.discogs.com/IEPYmkiATmYCQaoXBtgtmRRnZ_c=/fit-in/600x885/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1533055-1495336592-1611.jpeg.jpg" data-tags="irish" role="button">
 Gemma Hayes - Night On My Side (2002-05-27)
 </li>
@@ -195,6 +198,9 @@ Bell X1 - Music In Mouth (2003-08-19)
 <li data-cover="http://coverartarchive.org/release/175e2c5a-9bbc-49f9-bfd1-ac3b077c7a96/16482696811-500.jpg" data-tags="celtic" role="button">
 Moya Brennan - Two Horizons (2003-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8a438cd-8718-430a-b8dc-589f17816dc0/14762285093-500.jpg" data-tags="alternative" role="button">
+Jape - The Monkeys In The Zoo Have More Fun Than Me (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
 </li>
@@ -206,9 +212,6 @@ U2 - How to Dismantle an Atomic Bomb (2004-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d67791a1-1304-4f30-a6f3-f00b8186630a/992235630-500.jpg" data-tags="irish" role="button">
 The Bloody Irish Boys - Drunk Rock (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba0765da-df34-406c-934b-57a73dd9e353/9948459257-500.jpg" data-tags="folk" role="button">
 The Corrs - Home (2005-09-26)
@@ -281,9 +284,6 @@ Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e748702-5e75-4a8a-8526-d0311a89d616/11826807120-500.jpg" data-tags="pop, irish, boybands" role="button">
 Westlife - Where We Are (2009-11-30)
-</li>
-<li data-cover="https://img.discogs.com/1b1WHh7efP5ENa-4AcVgCFJovm4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270028-1274186975.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
-Keane - Night Train (2010-05-09)
 </li>
 <li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">
 Villagers - Becoming a Jackal (2010-05-24)
