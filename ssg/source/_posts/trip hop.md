@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:37:01.465Z
+date: 2021-04-12T23:58:01.473Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -32,6 +32,9 @@ Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d7f10f30-50ae-402e-a50f-af7c3c6b6e57/4596446793-500.jpg" data-tags="dub" role="button">
+Massive Attack - No Protection (1995-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2780fb0-8280-3b8e-9159-81613d63f71d/1936069114-500.jpg" data-tags="trip-hop" role="button">
 Tricky - Maxinquaye (1995-02-20)
@@ -129,11 +132,11 @@ Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0cf04a8-a48d-3e83-aa59-5981b5edbdd6/4512613383-500.jpg" data-tags="electronic" role="button">
-Everything But the Girl - Like the Deserts Miss the Rain (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/680f53cf-e410-49a3-b1d0-a87c4c652b4c/974840185-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Sweetness (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bc4c6d4-63c4-405c-ae08-df41577dd0e3/7851578939-500.jpg" data-tags="downtempo" role="button">
+Flunk - For Sleepyheads Only (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
 Nightmares on Wax - Mind Elevation (2002-08-24)
@@ -143,9 +146,6 @@ Daniel Bedingfield - Gotta Get Thru This (2002-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
@@ -170,6 +170,9 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/75735819-6bca-42bf-a807-5d456f277dbd/11778363663-500.jpg" data-tags="chillout, electronica" role="button">
 Brazilian Girls - Brazilian Girls (2005-02-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
+Télépopmusik - Angel Milk (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
@@ -257,9 +260,6 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d91ca7da-bc7f-485c-9223-e794f0dd460a/2911250736-500.jpg" data-tags="hip-hop, electro swing" role="button">
-Chinese Man - Racing With the Sun (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
 Criolo - Nó Na Orelha (2011-04-25)

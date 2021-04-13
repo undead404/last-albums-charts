@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:40:07.126Z
+date: 2021-04-13T00:15:01.714Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -32,6 +32,9 @@ Miles Davis - Birth of the Cool (1957-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Miles Davis - 'Round About Midnight (1957-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b062203-7398-3e0a-b5b6-5faed7def8f0/15728154542-500.jpg" data-tags="jazz" role="button">
+Sonny Clark - Cool Struttin' (1958)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5bb19c-46c2-46cc-acfe-b80f2aaab1ef/8852810360-500.jpg" data-tags="jazz" role="button">
 Art Blakey & The Jazz Messengers - Moanin' (1958)
@@ -177,9 +180,6 @@ Joni Mitchell - Both Sides Now (2000-02-08)
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
-Regina Spektor - 11:11 (2001-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/df7194b1-fe52-4a11-bd84-558767a40cce/9700555797-500.jpg" data-tags="jazz" role="button">
 Billie Holiday - Lady Day: The Complete Billie Holiday On Columbia (1933-1944) (2001-10-02)
 </li>
@@ -270,6 +270,9 @@ Stacey Kent - Breakfast On The Morning Tram (2007-09-07)
 <li data-cover="http://coverartarchive.org/release/a7acfb37-4c1e-4133-954e-b3b55fc2c058/3766598907-500.jpg" data-tags="katie melua, jazz, singer-songwriter" role="button">
 Katie Melua - Pictures (2007-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
+The Cat Empire - So Many Nights (2007-12-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d7d6b80-d802-41f0-bc81-2127a5a1603a/3089784007-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - Greatest Hits (2008)
 </li>
@@ -284,9 +287,6 @@ The Verve - Love Is Noise (2008-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
-Diana Krall - Quiet Nights (2009-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Crazy Love (2009-10-06)

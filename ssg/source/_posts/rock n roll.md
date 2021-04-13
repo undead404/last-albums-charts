@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:59:01.407Z
+date: 2021-04-13T00:36:18.257Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -54,6 +54,9 @@ Alice Cooper - School's Out (1972-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="50s" role="button">
 Elvis Presley - Elvis (1973)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, classic rock" role="button">
+Alice Cooper - Billion Dollar Babies (1973-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b83007d0-41c5-4dfb-8697-acb627833241/11886415980-500.jpg" data-tags="classic rock, 70s, hard rock, golden earring" role="button">
 Golden Earring - Moontan (1973-07)
 </li>
@@ -65,9 +68,6 @@ Wings - Wings at the Speed of Sound (1976-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/90323744-6881-47fe-9795-4318af253f14/3367930981-500.jpg" data-tags="classic rock, hard rock" role="button">
 Ram Jam - Ram Jam (1977)
-</li>
-<li data-cover="http://coverartarchive.org/release/e09a65ef-48db-42bc-8b86-b02e8a26bca6/14927972078-500.jpg" data-tags="rock, rock n roll, 1970s, sound city records, sound city, largefish" role="button">
-REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
@@ -156,6 +156,9 @@ Motörhead - Snake Bite Love (1998-03-03)
 <li data-cover="https://img.discogs.com/Q_Vk_icVH4r3cMGa2Ch6MgrgebM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597885-1574973437-3506.jpeg.jpg" data-tags="blues" role="button">
 Bo Diddley - 500% More Man (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/647bdfce-8294-480a-b8fe-b331161e97de/3377211187-500.jpg" data-tags="rockabilly" role="button">
+Mike Ness - Cheating At Solitaire (1999-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 </li>
@@ -186,9 +189,6 @@ The Bones - Bigger Than Jesus (2002)
 <li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">
 The Sounds - Living in America (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3c0782e-1e68-4c54-b620-9f1163e7bd3d/23738211370-500.jpg" data-tags="50s, rockabilly, rock n roll, rhythm blues" role="button">
-Fats Domino - Walking To New Orleans (2002-03-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/f3f6f1d6-f933-4ce2-8368-2f47f6d69ca3/1122487047-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Ever Dream (2002-05-06)
 </li>
@@ -198,11 +198,11 @@ Hanoi Rocks - Twelve Shots On the Rocks (2002-11-29)
 <li data-cover="http://coverartarchive.org/release/f883bcc3-206d-4788-9674-0bfe09735888/19263212495-500.jpg" data-tags="soul, blues" role="button">
 Ray Charles - The Very Best of Ray Charles (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/9679063b-c171-403f-96de-70a026593a5d/19826807539-500.jpg" data-tags="female vocalists" role="button">
+Sophie B. Hawkins - The Best Of Sophie B. Hawkins (2003-06-10)
+</li>
 <li data-cover="https://img.discogs.com/p_KgZdPTvqzbRceXb_MG6s14kVY=/fit-in/580x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-815017-1161864523.jpeg.jpg" data-tags="rock" role="button">
 Nickelback - Someday (2003-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/95af8ca5-8f40-42c3-815b-461f36018d24/4803477506-500.jpg" data-tags="rock" role="button">
-Ryan Adams - Rock N Roll (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf540ab3-e4e9-4db7-8b60-c7af956bdaf4/5882086161-500.jpg" data-tags="punk rock, rock n roll" role="button">
 The Bones - Straight Flush Ghetto (2004)
@@ -231,9 +231,6 @@ Bif Naked - Superbeautifulmonster (2005-06-28)
 <li data-cover="http://coverartarchive.org/release/d97890c7-75c7-4e90-a399-79f1710c7e93/16018100211-500.jpg" data-tags="rock n roll" role="button">
 Şebnem Ferah - Can Kırıkları (2005-07-05)
 </li>
-<li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
-Volbeat - The Strength/The Sound/The Songs (2005-09-26)
-</li>
 <li data-cover="https://img.discogs.com/F2eAWVrmp3MOy3Rq6l7CqmOVdhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073478-1326175098.jpeg.jpg" data-tags="rock n roll, power metal" role="button">
 Twilight Guardians - Sintrade (2006-01-18)
 </li>
@@ -261,14 +258,11 @@ Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
 <li data-cover="https://img.discogs.com/GYXc7wlL5NDmdsPRrLQvioQngXA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396405-1504959986-1948.jpeg.jpg" data-tags="turkce rock" role="button">
 Aslı - Söylediğim Şarkılarda Saklı (2007-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/69af4cf7-7f7a-4844-b90f-ddf7dad55f11/11099611837-500.jpg" data-tags="thrash metal" role="button">
-Megadeth - Warchest (2007-10-09)
+<li data-cover="http://coverartarchive.org/release/519bddd3-fcbf-4457-bc11-b1de0f54d96b/5920555055-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Amaranth (2007-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c8ef638-05f2-4ddc-bc29-9bfafd347c8e/6976086799-500.jpg" data-tags="oldies, rnb, 50's, rock n roll, little richard, rockin party" role="button">
 Little Richard - The Very Best of Little Richard (2008-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/07e83449-5953-35e0-8aed-122e366787ec/8306970381-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Motörhead - Motörizer (2008-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/657aa587-d2c8-45d5-a207-5894e39efbd9/3213898734-500.jpg" data-tags="heavy metal, rockabilly" role="button">
 Volbeat - Guitar Gangsters & Cadillac Blood (2008-08-28)
@@ -300,6 +294,9 @@ AC/DC - Iron Man 2 (2010-04-16)
 <li data-cover="http://coverartarchive.org/release/86910e75-022e-466e-bdaf-1d99ac1ec918/15824613772-500.jpg" data-tags="classic rock, alternative rock, hard rock, blues, blues rock, rock and roll, rock n roll, retro rock, retro hard rock" role="button">
 The Sheepdogs - Learn & Burn (2010-05-22)
 </li>
+<li data-cover="https://img.discogs.com/u1Tm-QWzPgb1GVnz_C9JGQ9kAiI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138811-1266104191.jpeg.jpg" data-tags="pop, guitar virtuoso" role="button">
+Orianthi - Believe (2010-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
 </li>
@@ -317,6 +314,9 @@ Halestorm - The Strange Case Of... (2012-04-09)
 </li>
 <li data-cover="https://img.discogs.com/anJe-lAVR0g26n2W3CgCWM27KmU=/fit-in/469x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4483568-1366169526-5803.jpeg.jpg" data-tags="live 2012, live" role="button">
 Coldplay - Live 2012 (2012-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2d79dc4-0710-4b57-8579-b28c51331546/5295551808-500.jpg" data-tags="rock n roll, pop/rock" role="button">
+Willy Moon - Here's Willy Moon (2013-04-05)
 </li>
 <li data-cover="https://img.discogs.com/NNsjKTAyzQJhgnt6yNk0m4vLsaY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13850576-1572560746-4152.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Ramones - Greatest Hits (2017-07-21)

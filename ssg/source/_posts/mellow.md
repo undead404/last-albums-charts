@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:48:01.562Z
+date: 2021-04-13T00:44:01.455Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -39,6 +39,9 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 <li data-cover="https://img.discogs.com/J9PaS66DH_mf4VEHW4OG-d55ijQ=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1368472-1213497399.jpeg.jpg" data-tags="pop, soul, 90s" role="button">
 Seal - Seal (1994-05-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
+Madonna - Bedtime Stories (1994-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
 </li>
@@ -68,9 +71,6 @@ Richard Ashcroft - Alone With Everybody (2000-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
-Azure Ray - Azure Ray (2001-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -108,6 +108,9 @@ Kenny Loggins - The Essential Kenny Loggins (2002-11-19)
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
 </li>
+<li data-cover="https://img.discogs.com/7fMoVdRzShMHLtFB7yakPQ7hzEE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494268-1518444143-6579.jpeg.jpg" data-tags="indie" role="button">
+Athlete - Vehicles & Animals (2003-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a95fcf2-e586-4002-9222-8a6451ac8d45/8906915408-500.jpg" data-tags="gothic rock, female fronted metal, metal" role="button">
 Evanescence - Bring Me to Life (2003-04-14)
 </li>
@@ -131,6 +134,9 @@ Dave Matthews - Some Devil (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/080ed735-a9b4-43a2-b6f7-c3acc154fbfd/8155358878-500.jpg" data-tags="mellow, indie brit pop rock" role="button">
+Keane - This Is The Last Time (2003-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
@@ -273,9 +279,6 @@ Bat for Lashes - Two Suns (2009-04-03)
 <li data-cover="http://coverartarchive.org/release/2226a987-3cc3-4fcb-bd93-c613603a259e/6973167892-500.jpg" data-tags="indie, american, mellow, folk rock, 2009 releases, sososososo good, fortuneseed" role="button">
 Jenny Owen Youngs - Transmitter Failure (2009-05-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
 </li>
@@ -314,9 +317,6 @@ Joshua Radin - Underwater (2012-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f06ac9d-285a-42cc-aaed-1408ed7b89ee/2960856865-500.jpg" data-tags="indie, folk, singer-songwriter, mellow" role="button">
 Newton Faulkner - Write It On Your Skin (2012-10-19)
-</li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

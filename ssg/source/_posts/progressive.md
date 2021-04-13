@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:39:01.462Z
+date: 2021-04-13T00:12:01.474Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -39,6 +39,12 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - I Robot (1977-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/777054e7-4745-458a-840e-1727898230ce/5362485638-500.jpg" data-tags="progressive, progressive rock" role="button">
+Emerson, Lake & Palmer - Works Volume 2 (1977-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
@@ -51,9 +57,6 @@ Supertramp - The Very Best of Supertramp (1989)
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
-Primus - Sailing The Seas Of Cheese (1991-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Images and Words (1992-06-30)
 </li>
@@ -65,9 +68,6 @@ Mike Oldfield - Tubular Bells (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Sky Moves Sideways (1995-01-30)
-</li>
-<li data-cover="https://img.discogs.com/SNuLX_wiv8rm8yV7HA6f3v9IWac=/fit-in/599x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-632283-1235186700.jpeg.jpg" data-tags="progressive" role="button">
-New Order - (The Rest Of) New Order (1995-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f71cf282-76dc-45ef-a25f-edd5d65152af/15074067392-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Scenes From a Memory (1996-04-30)
@@ -123,8 +123,8 @@ Opeth - Deliverance (2002-11-04)
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/c203d7cd-4d3c-4035-b6f0-a4e9c719515a/10899843201-500.jpg" data-tags="progressive" role="button">
-Vibrasphere - Lime Structure (2003-01-29)
+<li data-cover="https://img.discogs.com/Ylrqm5SZ8QOGifyot74O5QGHisY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5000926-1399461817-1498.jpeg.jpg" data-tags="progressive rock" role="button">
+King Crimson - The Power to Believe (2003-01-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
@@ -147,11 +147,11 @@ The Fall of Troy - The Fall Of Troy (2003-11-04)
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Train of Thought (2003-11-08)
 </li>
-<li data-cover="https://img.discogs.com/boA_i52ri9qokCW21I2qe_b56iQ=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737145-1317817070.jpeg.jpg" data-tags="trance" role="button">
-Ferry Corsten - Right Of Way (2003-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8c21f963-8ca1-4d19-aed3-479495617eaa/3331901488-500.jpg" data-tags="post-hardcore" role="button">
+Sparta - Porcelain (2004-07-12)
 </li>
 <li data-cover="https://img.discogs.com/YtYOqYAq5qrCcZYCl7Jzex09Js8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937391-1566141203-9309.jpeg.jpg" data-tags="progressive rock" role="button">
 Blackfield - Blackfield (2004-08-23)
@@ -180,14 +180,14 @@ Dream Theater - Octavarium (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">
 dredg - Catch Without Arms (2005-06-21)
 </li>
-<li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
-Karnivool - Themata (2005-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Doppelganger (2005-08-15)
 </li>
 <li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - Alaska (2005-09-06)
 </li>
 <li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Everyone Into Position (2005-09-19)
@@ -206,9 +206,6 @@ Pure Reason Revolution - The Dark Third (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
-RX Bandits - ...And the Battle Begun (2006-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
@@ -239,6 +236,9 @@ House vs. Hurricane - Forfeiture (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
 Protest the Hero - Fortress (2008-01-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4cb1350-1f46-4434-9566-8b9b8f73b345/26982300103-500.jpg" data-tags="acoustic" role="button">
+Porcupine Tree - We Lost the Skyline (2008-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)

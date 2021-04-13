@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T05:33:01.408Z
+date: 2021-04-12T23:55:01.481Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
@@ -9,7 +9,7 @@ title: "debut album: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bba2f329-e4c3-3410-bffd-5172f2aae8f8/23645786082-500.jpg" data-tags="indie" role="button">The Coral - The Coral (2002-07-29)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/b8083060-20fe-4397-88d3-36368a24cf2b/16059733872-500.jpg" data-tags="indie, acoustic" role="button">Get Cape. Wear Cape. Fly - The Chronicles Of A Bohemian Teenager (2006-09-18)</li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
+<li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)</li>
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">Miles Kane - Colour Of The Trap (2011-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/291c318a-7309-4192-8083-e00e8a257c9c/9492935165-500.jpg" data-tags="folk" role="button">
+Donovan - What's Bin Did And What's Bin Hid (1965-05-14)
+</li>
 <li data-cover="https://img.discogs.com/PIWNqwd6-_JXDXC74eV_O4_rdCw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2124034-1591748913-9451.jpeg.jpg" data-tags="rock, usa, garage rock, garage, debut album, one and only album, modtoday" role="button">
 The Barbarians - Are You A Boy Or Are You A Girl (1966)
-</li>
-<li data-cover="http://coverartarchive.org/release/dac32141-814d-3f11-817b-5ca3be10fe4f/22681733219-500.jpg" data-tags="folk rock, psychedelic rock" role="button">
-Jefferson Airplane - Jefferson Airplane Takes Off (1966-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/643eb27d-87af-49c2-a6c5-4192db8736df/19705565467-500.jpg" data-tags="60s, folk, singer-songwriter, scottish, british folk, debut album, on-demand, j martyn" role="button">
 John Martyn - London Conversation (1967-10)
@@ -39,8 +39,8 @@ Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 <li data-cover="https://img.discogs.com/1cJzdlPTCCbyvWKrutbXoSF6qYQ=/fit-in/506x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4402209-1363940112-9202.jpeg.jpg" data-tags="folk rock, singer-songwriter" role="button">
 Neil Young - Neil Young (1968-11-12)
 </li>
-<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
-John Cale - Vintage Violence (1970)
+<li data-cover="http://coverartarchive.org/release/4ac6885b-f733-3c0a-913b-b3202b56a80a/9495724756-500.jpg" data-tags="rock, classic rock" role="button">
+Paul McCartney - McCartney (1970-04-17)
 </li>
 <li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
 Stephen Stills - Stephen Stills (1970-11)
@@ -60,14 +60,14 @@ Dr. Feelgood - Down By The Jetty (1975)
 <li data-cover="https://img.discogs.com/a3UQ9-x0vzWAZWsyFhLLKqbr8vI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533376-1334183708.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Buzzcocks - Another Music In A Different Kitchen (1978-03-10)
 </li>
-<li data-cover="https://img.discogs.com/adQO3tosrLHZ8KcQN24NXeL2na0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814611-1599857426-7150.jpeg.jpg" data-tags="post-punk, 70s, new wave" role="button">
-The Boys Next Door - Door, Door (1979-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3d6480b-e431-40e7-84c7-160923940b60/12764953075-500.jpg" data-tags="punk rock, punk" role="button">
 The Undertones - The Undertones (1979-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
 Buggles - The Age of Plastic (1980)
+</li>
+<li data-cover="http://coverartarchive.org/release/34f7825d-11cf-49d9-87f4-72b0d51997d0/5547494526-500.jpg" data-tags="new wave" role="button">
+Oingo Boingo - Only A Lad (1981-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/26607860-6946-43c2-821d-c96a564ec9b8/5502705959-500.jpg" data-tags="new wave" role="button">
 Indochine - L'Aventurier (1982)
@@ -102,9 +102,6 @@ Manic Street Preachers - Generation Terrorists (1992-02-10)
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
 Liz Phair - Exile in Guyville (1993-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c80b25e2-eda0-4e70-ad09-5d6ddb1833c9/16155758945-500.jpg" data-tags="indie rock, indie, post-rock, bossy cow, kittycow" role="button">
-The Sea and Cake - The Sea and Cake (1994-10-20)
-</li>
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
 </li>
@@ -119,6 +116,9 @@ Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
 <li data-cover="https://img.discogs.com/bKLM6SMqyE12lJfmxCJ-tmr17SM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-758061-1400515232-9967.jpeg.jpg" data-tags="britpop" role="button">
 Kula Shaker - K (1996-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
+Mew - A Triumph for Man (1997-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d612ba7-b346-3719-be6c-5da071ead4ce/21163885513-500.jpg" data-tags="britpop" role="button">
 The Seahorses - Do It Yourself (1997-04-28)
@@ -159,9 +159,6 @@ Viikate - Noutajan Valssi (2000-11-16)
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6298a1f-c1c0-4984-acb5-fad7c760d5ed/17401757531-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Don't Fall in Love With Everyone You See (2002-01-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/f0c98027-33c9-4d58-a0e1-6d3bb2c9884c/27466161035-500.jpg" data-tags="rock" role="button">
 Mustasch - Above All (2002-03)
 </li>
@@ -179,6 +176,9 @@ The Coral - The Coral (2002-07-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a79dd65-b83d-4c4c-966f-4d637b699a8d/3376076774-500.jpg" data-tags="hardcore" role="button">
+Comeback Kid - Turn It Around (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="garage rock, rock, alternative" role="button">
 The Kills - Keep On Your Mean Side (2003-03-10)
@@ -237,9 +237,6 @@ Lightning Dust - Lightning Dust (2007-06-19)
 <li data-cover="https://img.discogs.com/7HBTJrjZq-D-FkrAbBiOA9uwjPo=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-979324-1180203092.jpeg.jpg" data-tags="pop, british" role="button">
 Mutya Buena - Real Girl (2007-06-22)
 </li>
-<li data-cover="https://img.discogs.com/guPIzgSzoenHmmS7IeFD2j5ZvO0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222635-1201797400.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
-Wooden Shjips - Wooden Shjips (2007-09-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/9e6c60c6-8c4d-447d-b700-c709d0458737/1401794822-500.jpg" data-tags="k-pop, debut album, replay era, debut era" role="button">
 SHINee - 누난 너무 예뻐 (Replay) (2008-05-23)
 </li>
@@ -249,14 +246,14 @@ The Rascals - Rascalize (2008-06-23)
 <li data-cover="http://coverartarchive.org/release/37b0b6d4-bcc3-44cb-8294-f9c0033923d4/11194456158-500.jpg" data-tags="rock, british, britpop, debut album, atmospheric bitches :p" role="button">
 A Silent Film - The City That Sleeps (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
-</li>
 <li data-cover="https://img.discogs.com/hPBi_tvsKOpa0IUmtVzQtKYmGgY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13487694-1555161652-4877.jpeg.jpg" data-tags="rock, british, indie rock, 00s" role="button">
 Peter Doherty - Grace/Wastelands (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff2c1ac9-ee8c-4e3f-ae6f-24726656670f/3517094392-500.jpg" data-tags="indie, british, folk, debut album, sleep and dreams, my gang 09, merkliste spiegel, cds i own and have yet to hear" role="button">
 The Leisure Society - The Sleeper (2009-03-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/18c05495-d5ee-4c8e-8d2c-95df5ed51896/17535285790-500.jpg" data-tags="debut album" role="button">
+Stardeath and White Dwarfs - The Birth (2009-06-08)
 </li>
 <li data-cover="https://img.discogs.com/zBUSdmP4tQksNT5bsDmHkEW9U3w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1936394-1254022032.jpeg.jpg" data-tags="folk" role="button">
 Monsters of Folk - Monsters of Folk (2009-09-18)
@@ -278,6 +275,9 @@ Andrew Belle - The Ladder (2010-02-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Philip Selway - Familial (2010-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c950b15-dbb3-4cfe-a52d-8c2113a3e4e4/15536544927-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+Wolf People - Steeple (2010-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e4e1f85-897d-4f0b-9024-97a68b590c68/5918492377-500.jpg" data-tags="soul" role="button">
 Charles Bradley - No Time for Dreaming (2011)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:42:01.485Z
+date: 2021-04-13T00:22:01.490Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -159,9 +159,6 @@ Destroyer - Kaputt (2011-01-25)
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/b39a631c-435d-482b-b4a5-3d4489574c97/7092627480-500.jpg" data-tags="dream pop" role="button">
-Craft Spells - Idle Labor (2011-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)
 </li>
@@ -260,6 +257,9 @@ Lana Del Rey - Paradise (2012-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b082f5cb-0783-48e0-aa41-03e7d49f7631/5180943987-500.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - Wondrous Bughouse (2013-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
+Woodkid - The Golden Age (2013-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e2ce692-11cc-4c21-aacb-c95b4e2a2564/4326167172-500.jpg" data-tags="dream pop" role="button">
 Still Corners - Strange Pleasures (2013-05-06)

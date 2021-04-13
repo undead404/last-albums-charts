@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:11:07.094Z
+date: 2021-04-13T00:32:01.488Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -47,6 +47,9 @@ The Rolling Stones - Beggars Banquet (1968-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f83b06-9cf1-4e39-81ed-5bd1ce9c44c3/19273846900-500.jpg" data-tags="blues" role="button">
 Albert King - King Of The Blues Guitar (1969)
+</li>
+<li data-cover="https://img.discogs.com/YtVNRA7HO1i1ObqjtpOdV9483rM=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4637524-1370688371-3402.jpeg.jpg" data-tags="blues" role="button">
+John Mayall - The Turning Point (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
@@ -114,9 +117,6 @@ Tom Waits - Heartattack and Vine (1980-09)
 <li data-cover="http://coverartarchive.org/release/d3dc583d-dafd-386d-9fe3-6a324bb7fa28/23327712610-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/072d8ed1-464f-48d1-a136-9de871c365c9/9495317046-500.jpg" data-tags="rock, blues, classic rock, 60s" role="button">
-Canned Heat - The Best of Canned Heat (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
 </li>
@@ -164,6 +164,9 @@ Muddy Waters - The Best Of Muddy Waters (1999)
 </li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
 B.B. King & Eric Clapton - Riding with the King (2000-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/050f178c-27d0-4b83-811b-840bd0dffb92/19827721294-500.jpg" data-tags="blues, blues rock" role="button">
+Johnny Winter - The Best Of Johnny Winter (2002-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
@@ -254,9 +257,6 @@ The Verve - Love Is Noise (2008-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
 Blakroc - Blakroc (2009-09-09)

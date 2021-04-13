@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:42:24.108Z
+date: 2021-04-13T00:18:07.054Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
 ![Clint Mansell - The Fountain (2006-11-21)](http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg "Clint Mansell - The Fountain (2006-11-21)")
@@ -33,6 +33,9 @@ Glenn Branca - The Ascension (1981)
 <li data-cover="http://coverartarchive.org/release/9ab5437e-becd-3f84-8e74-5da8158abd56/5067763409-500.jpg" data-tags="dark, atmospheric" role="button">
 Tuxedomoon - The Ghost Sonata (1991-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a839ceca-92a8-4e58-a49d-779d9e5a95dd/5526820045-500.jpg" data-tags="classical, modern classical, impressionism" role="button">
+Erik Satie - Piano Works (Daniel Varsano, Philippe Entremont) (1992-11-17)
+</li>
 <li data-cover="https://img.discogs.com/OM-oZTpG9mwM9Q1u2163eblC-vE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3321591-1516671866-5134.jpeg.jpg" data-tags="classical, instrumental, minimalism, modern classical, tavener, alt-classical" role="button">
 John Tavener - Innocence (1995)
 </li>
@@ -59,9 +62,6 @@ Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fb19aa0-aff2-48ce-85b0-b767f67fd985/11228342652-500.jpg" data-tags="ambient" role="button">
 Ulver - Svidd Neger (2003-09-15)
-</li>
-<li data-cover="https://img.discogs.com/arHUhpCOzGeU3rVTz8i4pzYo-Xc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11653728-1520094693-7966.jpeg.jpg" data-tags="minimalism, modern classical, gammarec, freepurp1e, feldman" role="button">
-Morton Feldman - Patterns in a Chromatic Field (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/dedf0123-fc50-4d6d-bb1f-9f263529bc19/2872793496-500.jpg" data-tags="gothic, female vocals, symphonic, avantgarde dark neo classical" role="button">
 Chaostar - The Scarlet Queen (2004)
@@ -126,14 +126,14 @@ Helen Jane Long - Porcelain (2007-06-04)
 <li data-cover="https://img.discogs.com/FRrP4ikCzLGRABreXzxnSH62F-o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011884-1183969593.jpeg.jpg" data-tags="sphaerische sounds" role="button">
 Easily Embarrassed - Darkened Emotion EP (2007-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/55ef0003-7b0a-435e-a49c-5c09fa6d3fe0/21137853085-500.jpg" data-tags="ambient" role="button">
-Swod - Sekunden (2007-08-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/b52f4256-0d02-460e-b2bd-50aafdebe08c/22373580081-500.jpg" data-tags="ambient, drone, modern classical" role="button">
 Machinefabriek - Bijeen (2007-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/51392bf7-adaf-4c93-8f81-4f49d09fea2d/8258208354-500.jpg" data-tags="soundtrack" role="button">
 Jonny Greenwood - There Will Be Blood (2007-12-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
+Scythelence - Post-Romantic Syndrome (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
 Balmorhea - Rivers Arms (2008-02-12)
@@ -240,9 +240,6 @@ Part Timer - Real To Reel (2010-12-03)
 <li data-cover="https://img.discogs.com/6yU5FL4_BVOd_-c6D_Afo8omwwE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2688290-1443728613-4793.jpeg.jpg" data-tags="electronic, ambient, downtempo, idm, modern classical" role="button">
 Semiomime - From Memory (2011-02-11)
 </li>
-<li data-cover="https://img.discogs.com/zqAGi5QJ_klkUX26Ca2f7ii4BGg=/fit-in/420x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7478851-1442310612-9901.jpeg.jpg" data-tags="piano" role="button">
-Akira Kosemura - how my heart sings (2011-04-11)
-</li>
 <li data-cover="https://img.discogs.com/Ceuamf6hVxQfVR0XWGp18Hckcls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916395-1455291507-5311.jpeg.jpg" data-tags="post-rock, chamber, chamber pop, modern classical, neoclassical, art pop" role="button">
 Esmerine - La Lechuza (2011-06-07)
 </li>
@@ -296,6 +293,9 @@ Olivier Deriviere - Remember Me (2013-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">
 Ben Lukas Boysen - Gravity (2013-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5a2c11c-a4cc-4db0-9c40-92437090d55b/6316250193-500.jpg" data-tags="electronic, ambient" role="button">
+Zinovia - The Gift of Affliction (2013-07-30)
 </li>
 <li data-cover="https://img.discogs.com/N2u0rXhlJyC1CWNMrxKDsSmXSt4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4679906-1372010529-3862.jpeg.jpg" data-tags="acoustic, atmospheric, melancholy, ethereal, modern classical, cryptic, enigmatic" role="button">
 Rudi Arapahoe - Double Bind (2013-08-09)

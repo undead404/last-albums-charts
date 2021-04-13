@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:37:01.441Z
+date: 2021-04-13T00:10:12.721Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![M83 - Saturdays &#x3D; Youth (2008-04-14)](http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg "M83 - Saturdays = Youth (2008-04-14)")
@@ -8,8 +8,8 @@ title: "dreamy: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Saturdays = Youth (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg" data-tags="dream pop" role="button">Beach House - Teen Dream (2010-01-16)</li>
 <li data-cover="https://img.discogs.com/NeBBu5EEP2XGecymLXlAwoGnSSs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297842-1490435079-4947.jpeg.jpg" data-tags="dream pop" role="button">Wild Nothing - Gemini (2010-05-21)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
+<li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">Grimes - Visions (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">Washed Out - Paracosm (2013-08-12)</li>
@@ -27,14 +27,8 @@ A Flock of Seagulls - A Flock Of Seagulls (1982)
 <li data-cover="http://coverartarchive.org/release/b20eaf7a-ca77-4dfe-9f28-07f115c8ae11/16788902838-500.jpg" data-tags="shoegaze" role="button">
 Ride - Nowhere (1990-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
-MC 900 Ft Jesus - Welcome to My Dream (1991)
-</li>
-<li data-cover="https://img.discogs.com/1HBW6zvyauirjRWawLzeIROBh5k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140088-1154032651.jpeg.jpg" data-tags="shoegaze, dreamy" role="button">
-lovesliescrushing - Bloweyelashwish (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
-Ernest Ranglin - Below The Bassline (1996-06-11)
+<li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
+Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
 Mew - A Triumph for Man (1997-04)
@@ -54,8 +48,8 @@ Howie Day - Australia (2000-11)
 <li data-cover="https://img.discogs.com/oi8qT8rgsWLbbrMhf8XFNrAdZew=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55727-1526118988-1457.jpeg.jpg" data-tags="chillout, downtempo, house, dreamy" role="button">
 Roger Sanchez - Another Chance (2001-07-02)
 </li>
-<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
-Azure Ray - November (2002-01-22)
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
@@ -90,9 +84,6 @@ The Avett Brothers - Mignonette (2004-07-27)
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
 Samael - Reign of Light (2004-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
-The Verve - This Is Music: The Singles 92-98 (2004-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4186b65f-c36d-4dac-82d3-221d3f8c7925/17754966442-500.jpg" data-tags="indie pop" role="button">
 Eisley - Room Noises (2005-02-08)
 </li>
@@ -114,11 +105,20 @@ Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 <li data-cover="http://coverartarchive.org/release/6964b07b-a302-4226-a35c-b1635aea9ff2/2904783418-500.jpg" data-tags="electronic, ambient" role="button">
 Slow Dancing Society - The Sound of Lights When Dim (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/1d374001-7183-4e86-a315-f4601833a1c9/13959268563-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Sibylle Baier - Colour Green (2006-02-07)
+</li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
 Gregor Samsa - 55:12 (2006-03-07)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e441bb4-dd36-4191-9eb0-6001fdcb098d/14024298903-500.jpg" data-tags="french, rock" role="button">
+Yann Tiersen - On Tour (2006-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a7b7dd9-700e-41bf-a5d0-1dca120e2ca7/2904746115-500.jpg" data-tags="ambient, mellow" role="button">
+Slow Dancing Society - The Slow and Steady Winter (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3aa7af7-abd0-4a63-b6b8-ea0a80355e1a/3472387381-500.jpg" data-tags="psychedelic, indie rock" role="button">
 Deerhunter - Cryptograms (2007-01-29)
@@ -153,6 +153,9 @@ Ra Ra Riot - The Rhumb Line (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc60e794-3156-4203-a8ee-38aa0ffc06c2/7453284023-500.jpg" data-tags="japanese, dreamy" role="button">
+Lamp - ランプ幻想 (2008-12-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ead1e021-702f-48be-8770-fcdc1043c591/12275065741-500.jpg" data-tags="post-rock, dreamy, music for studying" role="button">
 Sigur Rós - We Play Endlessly (2009-01-31)
 </li>
@@ -186,6 +189,9 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
+How to Dress Well - Love Remains (2010-09-21)
+</li>
 <li data-cover="https://img.discogs.com/Smab0rHJyMWYmaulLuMDPaBSPjY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2500444-1497387809-9706.jpeg.jpg" data-tags="electronic" role="button">
 Pure Reason Revolution - Hammer And Anvil (2010-10-15)
 </li>
@@ -204,17 +210,11 @@ Niva - Feverish Dreams (2011-04)
 <li data-cover="http://coverartarchive.org/release/30f5f4f6-8538-437a-9370-886a51f50bfc/1383687414-500.jpg" data-tags="electronic, indie, lo-fi, dreamy, dream pop, chillwave" role="button">
 Work Drugs - Summer Blood (2011-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b348977-3938-4415-af25-b098350bd8ce/25323420933-500.jpg" data-tags="folk" role="button">
 Emmy the Great - Virtue (2011-05-18)
-</li>
-<li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
-Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)

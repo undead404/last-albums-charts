@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T09:11:02.291Z
+date: 2021-04-12T23:59:01.450Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
 ![A Rocket to the Moon - On Your Side (2009-10-13)](http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg "A Rocket to the Moon - On Your Side (2009-10-13)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">Jack's Mannequin - This Is a Story... (2005)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">Orson - Bright Idea (2006-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/04554003-dbd8-49d0-b265-ae0fd722ec88/4889589228-500.jpg" data-tags="alternative rock, discoverockult" role="button">The Classic Crime - Albatross (2006-05-26)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">Crossfade - Falling Away (2006-08-29)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="https://img.discogs.com/CPXmv1BJUTsGE8IerpvK-vZ2zac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125175-1194045109.jpeg.jpg" data-tags="rock, discoverockult, sveta reminds" role="button">Graham Colton - Here Right Now (2007-10-30)</li>
 <li data-cover="https://img.discogs.com/0n6Vhm_FkoL9s7wgas-aLNx3CKE=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2815761-1505854231-2515.jpeg.jpg" data-tags="rock, alternative rock" role="button">The Dangerous Summer - Reach For The Sun (2009-05-05)</li>
@@ -56,9 +56,6 @@ Jason Mraz - Geek in the Pink (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9b465fb-66ef-441d-a061-4dcef0200b69/25421816588-500.jpg" data-tags="discoverockult, love-it" role="button">
 BEDlight for blueEYES - The Dawn (2005)
-</li>
-<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
-Jack's Mannequin - This Is a Story... (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
@@ -179,6 +176,9 @@ Air Traffic - Fractured Life (2007-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/84097af6-1f12-4d65-99e9-a064725e6eb4/18815227088-500.jpg" data-tags="happy, makes me wanna dance, discoverockult, make me feel happy, powerspace, suprizing good, jumpingonthebed, willgetthisalbumdefinitely, stephkicks, find yourself here" role="button">
 Powerspace - The Kicks Of Passion (2007-07-31)
+</li>
+<li data-cover="https://img.discogs.com/HYPvpKKdrNPZpn5DAkLhLpE2c3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1587443-1401733961-8754.jpeg.jpg" data-tags="discoverockult, legally own" role="button">
+Operator - Soulcrusher (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)

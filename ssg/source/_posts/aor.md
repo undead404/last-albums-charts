@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T00:55:07.004Z
+date: 2021-04-13T00:37:18.285Z
 title: "aor: 100 albums you must listen to before you die"
 ---
 ![Toto - Toto IV (1982-04-08)](http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg "Toto - Toto IV (1982-04-08)")
@@ -219,9 +219,6 @@ Styx - The Best of Times: The Best of Styx (1997-03-10)
 <li data-cover="http://coverartarchive.org/release/dadaa31a-f0d4-45ab-9adb-cf2728cec670/28223069464-500.jpg" data-tags="classic rock, 90s" role="button">
 Chris Rea - The Blue Cafe (1997-11-10)
 </li>
-<li data-cover="https://img.discogs.com/sJUQk-EeuUkGnJxjKDo6yyYpHkg=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038234-1379279375-2976.jpeg.jpg" data-tags="classic rock, live, slgdmtopalbums, wheel in the sky live, after the fall live, stone in love live" role="button">
-Journey - Greatest Hits Live (1998-03-24)
-</li>
 <li data-cover="https://img.discogs.com/EojbgTQjh59mQVDl2wvOHUZ0Q5Y=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7218691-1589987265-7796.jpeg.jpg" data-tags="soft rock, blues rock, adult contemporary, aor, chris rea" role="button">
 Chris Rea - The Best of Chris Rea (1998-12-15)
 </li>
@@ -278,6 +275,9 @@ Killing Touch - One Of A Kind (2009-05)
 </li>
 <li data-cover="https://img.discogs.com/FKgSSe-h23aVyinAReErLiXCKaI=/fit-in/497x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8727756-1467474714-2011.jpeg.jpg" data-tags="classic rock, aor, melodic metal, nwobhm, superb" role="button">
 Praying Mantis - Sanctuary (2009-06-05)
+</li>
+<li data-cover="https://img.discogs.com/05GNtFlg6OabMon3dfFrBqsFENA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4523955-1367325021-2863.jpeg.jpg" data-tags="hard rock, hair metal" role="button">
+Danger Danger - Revolve (2009-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b8f70c9-8b35-4780-b6bc-bc5d0a0219df/10071450343-500.jpg" data-tags="hard rock, aor" role="button">
 W.E.T. - W.E.T. (2009-11-06)

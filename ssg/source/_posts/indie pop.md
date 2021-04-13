@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:46:06.972Z
+date: 2021-04-13T00:01:06.961Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -48,11 +48,11 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
+<li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
+of Montreal - Satanic Panic in the Attic (2004-03-24)
+</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
-</li>
-<li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
-Stars - Set Yourself on Fire (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
@@ -92,9 +92,6 @@ Vampire Weekend - Vampire Weekend (2007-04)
 </li>
 <li data-cover="https://img.discogs.com/svFUiMC5xKUWZz9XLFq9bKYLUM8=/fit-in/543x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2391836-1281360167.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The Maccabees - Colour It In (2007-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
-Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">
 St. Vincent - Marry Me (2007-07-10)
@@ -146,6 +143,9 @@ The xx - xx (2009-08-14)
 </li>
 <li data-cover="https://img.discogs.com/Xvt0O3nea3m5UxRftZdasQolCx0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58972-1307997369.jpeg.jpg" data-tags="indie pop" role="button">
 fun. - Aim and Ignite (2009-08-25)
+</li>
+<li data-cover="https://img.discogs.com/4hqBDlYE_vgyn7oiCempQR8n0b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2196387-1269212249.jpeg.jpg" data-tags="indie, i n d i e" role="button">
+Freelance Whales - Weathervanes (2009-10-18)
 </li>
 <li data-cover="https://img.discogs.com/WsRvEbzvbUUk83b9XmAPKAaAzBQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2058189-1536693069-9605.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Vampire Weekend - Contra (2010-01-08)

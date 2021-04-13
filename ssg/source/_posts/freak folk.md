@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:42:01.559Z
+date: 2021-04-12T23:54:12.667Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -47,9 +47,6 @@ Sun City Girls - Kaliflower (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/835af306-49d9-4702-9346-538dc096c176/13962917306-500.jpg" data-tags="hip hop" role="button">
 The Coup - Kill My Landlord (1993-05-04)
-</li>
-<li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
-Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 </li>
 <li data-cover="https://img.discogs.com/vgsFH9bri9oekF96uuqa4jQxFIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772862-1332976007.jpeg.jpg" data-tags="indie, rock, alternative, freak folk, high school, goodwillcore" role="button">
 The Geraldine Fibbers - Butch (1997-07-01)
@@ -108,9 +105,6 @@ White Magic - Through The Sun Door (2004-05-18)
 <li data-cover="https://img.discogs.com/LCyGXfeVnTIry-xogDHgbsOCn5A=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797753-1159915663.jpeg.jpg" data-tags="indie rock, indie" role="button">
 The Fiery Furnaces - Blueberry Boat (2004-07-13)
 </li>
-<li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
-Devendra Banhart - Nino Rojo (2004-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
@@ -128,9 +122,6 @@ Islaja - Palaa aurinkoon (2005-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3897e8aa-3aef-4d54-beaf-5527488fd90f/10298808727-500.jpg" data-tags="folk" role="button">
 M. Ward - Transistor Radio (2005-02-21)
-</li>
-<li data-cover="https://img.discogs.com/ZWdFOHOi3TOZR9TymAtE86pb22A=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1329578-1341599154-1632.jpeg.jpg" data-tags="freak folk" role="button">
-Animal Collective - Prospect Hummer (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fa0bada-aac1-408b-8a1f-2addd46f01e7/955119497-500.jpg" data-tags="folk, neutral milk hotel" role="button">
 Phosphorescent - Aw Come Aw Wry (2005-06-07)
@@ -156,6 +147,9 @@ Vashti Bunyan - Lookaftering (2005-10-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, psychedelic" role="button">
 Espers - The Weed Tree (2005-10-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+Larkin Grimm - Harpoon (2006)
+</li>
 <li data-cover="https://img.discogs.com/8RlLJQA1SUSgeFrVmZkPqio_c7I=/fit-in/471x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-838769-1164028368.jpeg.jpg" data-tags="experimental" role="button">
 Metallic Falcons - Desert Doughnuts (2006-06-06)
 </li>
@@ -164,6 +158,9 @@ Thee Oh Sees - The Cool Death OF Island Raiders (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
+</li>
+<li data-cover="https://img.discogs.com/9OD52P65SU3vmcnLEOAkz6PFGdE=/fit-in/460x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864977-1166891643.jpeg.jpg" data-tags="folk" role="button">
+Larkin Grimm - The Last Tree (2006-10-06)
 </li>
 <li data-cover="https://img.discogs.com/cHdBU96EmLFYLHfD8G4Gv3BCygM=/fit-in/541x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2089206-1263362839.jpeg.jpg" data-tags="folk, freak folk, add to shopping list, rumpelmusik, alternative albums i own" role="button">
 Feathers - Synchromy (2006-10-17)
@@ -210,11 +207,11 @@ Ruby Throat - The Ventriloquist (2007-11-07)
 <li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Chains (2008)
 </li>
+<li data-cover="https://img.discogs.com/sVVO7MJ-yxUSjTPqnfmvOTqvNb0=/fit-in/500x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1447807-1360984631-4799.jpeg.jpg" data-tags="folk, psychedelic folk" role="button">
+Spires That in the Sunset Rise - Curse the Traced Bird (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/aeff4835-b896-40a0-bd4e-bb7d700daa50/21311835882-500.jpg" data-tags="post-rock, psychedelia, freak folk, neo-psychedelia, newgaze, dronegaze, gazer, tropical drone" role="button">
 Pocahaunted - Peyote Road (2008)
-</li>
-<li data-cover="https://img.discogs.com/PEX6Bc0-lk0RupwrX6cCebRjxdA=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339354-1210962480.jpeg.jpg" data-tags="new weird finland" role="button">
-Lau Nau - Nukkuu (2008-05-14)
 </li>
 <li data-cover="https://img.discogs.com/d8HJYr3cTrpOpXA6UZdVSK3bABw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655742-1234876537.jpeg.jpg" data-tags="freak folk, calarts, scruffian recommended" role="button">
 Parenthetical Girls - Entanglements (2008-09-09)
@@ -272,6 +269,9 @@ Big Blood - Dark Country Magic (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
 CocoRosie - Grey Oceans (2010-04-30)
+</li>
+<li data-cover="https://img.discogs.com/kIL7Itp61M13WqmVv7LzauleAU0=/fit-in/444x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2386269-1288024165.jpeg.jpg" data-tags="freak folk, list-en, 4rdiofolk" role="button">
+Big Blood - Dead Songs (2010-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/26937850260-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Le Noise (2010-09-24)

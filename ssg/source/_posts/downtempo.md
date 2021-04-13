@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:58:01.489Z
+date: 2021-04-13T00:21:18.337Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -138,9 +138,6 @@ Bonobo - Sweetness (2002)
 <li data-cover="http://coverartarchive.org/release/5bc4c6d4-63c4-405c-ae08-df41577dd0e3/7851578939-500.jpg" data-tags="downtempo" role="button">
 Flunk - For Sleepyheads Only (2002-04-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4cc03111-c186-4be3-bccf-24eeee95b9ee/7160372166-500.jpg" data-tags="electronic, downtempo" role="button">
-Dirty Vegas - Dirty Vegas (2002-06-04)
-</li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
 </li>
@@ -155,9 +152,6 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
@@ -194,6 +188,9 @@ Télépopmusik - Angel Milk (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a1033d0-e3f6-3dd4-993f-9df5f2f634c5/7932201661-500.jpg" data-tags="electronic" role="button">
+Moby - Hotel (2005-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
@@ -284,6 +281,9 @@ Gotye - Making Mirrors (2011-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d31ab1ea-1963-430f-8f98-5b809b677680/7454411761-500.jpg" data-tags="electronic, downtempo, vocals, chill-out, male vocals, 2010s, 2012 releases, downtown records, fontana north" role="button">
 Chet Faker - Thinking in Textures (2012-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">
+C2C - Tetra (2012-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

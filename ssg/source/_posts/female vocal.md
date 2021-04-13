@@ -1,17 +1,17 @@
 ---
-date: 2021-04-12T08:41:01.456Z
+date: 2021-04-13T00:09:01.532Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/GF44z6i8j3IZuoDJhSnLnRTkJpw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-596904-1357856604-4283.jpeg.jpg" data-tags="90s" role="button">Kate Bush - The Red Shoes (1994-04-05)</li>
 <li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">Everything But the Girl - Temperamental (2000-02-18)</li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">Regina Spektor - Songs (2002)</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">Beth Gibbons & Rustin Man - Out of Season (2002-10-28)</li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">Alanis Morissette - So-Called Chaos (2004-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">Gwen Stefani - Wind It Up (2006-10-31)</li>
+<li data-cover="http://coverartarchive.org/release/556432f0-5442-485a-99c2-a53ec51b9be5/4394678336-500.jpg" data-tags="alternative, polish, female vocalist" role="button">Maria Peszek - Maria Awaria (2008)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
+<li data-cover="http://coverartarchive.org/release/912b8823-b2f1-4a29-a5f2-d731d1da5363/6729189011-500.jpg" data-tags="indie pop, female vocal" role="button">Meg & Dia - Cocoon (2011-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/fd1faa20-3446-49ac-b157-9b7db785ee2f/23101941298-500.jpg" data-tags="electronic, trip-hop, drum and bass, female vocal, need to listen, favorite albums 2012" role="button">Kosheen - Independence (2012-09-21)</li>
 <li data-cover="https://img.discogs.com/rMymncmEsiAUFl8myydAfMSqtC0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-576774-1144503180.jpeg.jpg" data-tags="electronic, dance, female vocal" role="button">Karen Overton - Your Loving Arms (2013-11-01)</li>
 </ol>
@@ -30,8 +30,11 @@ Frida - Shine (1984-09-11)
 <li data-cover="https://img.discogs.com/IDCvj5HKq5M7q6RzHVDyqlNxo9Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-118021-1398198692-8500.jpeg.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Savage (1987-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/757f9015-6eaa-4c93-8686-9de7ccb69df9/15325901017-500.jpg" data-tags="rock" role="button">
-Kate Bush - Live at Hammersmith Odeon (1989)
+<li data-cover="https://img.discogs.com/MpEh1-Iu_TgwIB6OuZAn-BmcSGw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11449035-1516532059-2124.jpeg.jpg" data-tags="electronica, trip-hop, female vocalists, downtempo, singer, female vocal" role="button">
+U-Topia - u-topia (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/31eeec22-a299-4173-86df-c72f9e87a35c/25541430463-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
+Beth Nielsen Chapman - Beth Nielsen Chapman (1990-09-25)
 </li>
 <li data-cover="https://img.discogs.com/IwkFDFzwN8Fi4tQ2PRIt0e53ZYY=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059626-1366147248-3602.jpeg.jpg" data-tags="female vocal" role="button">
 Sophie B. Hawkins - Right Beside You (1994)
@@ -41,9 +44,6 @@ Kate Bush - The Red Shoes (1994-04-05)
 </li>
 <li data-cover="https://img.discogs.com/q26FD6FSOUvi6Nmjh-rL3W9-9_0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8737833-1467692248-4547.jpeg.jpg" data-tags="house, female vocal" role="button">
 Grace - Skin On Skin (1995)
-</li>
-<li data-cover="https://img.discogs.com/AG9xYRtn-YdK3hFQHYI6E7Ie1r4=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1724171-1399925331-2298.jpeg.jpg" data-tags="female vocalists, uplifting, female vocal, cheery, female voice, nordic ethno grooves, vox femina, study to, because i was brainwashed by folk musicians" role="button">
-Värttinä - Kokko (1996-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/91231e74-2674-411e-968f-b188bb67b711/10340680649-500.jpg" data-tags="pop" role="button">
 Everything But the Girl - The Best of Everything But The Girl (1996-10-28)
@@ -68,6 +68,9 @@ Nathalie Cardone - Nathalie Cardone (1999)
 </li>
 <li data-cover="https://img.discogs.com/cs747SOKEle9lg_Kp7giM-kdPVA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9113128-1475042615-9548.jpeg.jpg" data-tags="new age, celtic" role="button">
 Dagda - Celtic Trance (1999-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/13743da2-a915-4a4b-89b1-752cb376eded/6919453983-500.jpg" data-tags="music for rainy days" role="button">
+Beverley Craven - Mixed Emotions (1999-05-31)
 </li>
 <li data-cover="https://img.discogs.com/EcT022qGHz9iKVjn4biS9aHJpew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2325422-1508701152-1910.jpeg.jpg" data-tags="70s, 80s, punk, alternative, female vocalists, pop rock, new wave, female vocalist, female vocal, buryblue" role="button">
 Blondie - Nothing Is Real But The Girl (1999-06-12)
@@ -102,20 +105,17 @@ Ani DiFranco - Revelling/Reckoning (2001-04-10)
 <li data-cover="http://coverartarchive.org/release/f1a349f5-890c-4bec-87bc-6e623fe672fb/13107309351-500.jpg" data-tags="electronic, trip-hop, female vocal" role="button">
 Venus Hum - Venus Hum (2001-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
-Regina Spektor - Songs (2002)
-</li>
 <li data-cover="https://img.discogs.com/bs-y8icVdA4CZ8bGzVY5UlPDG2g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767510-1157123470.jpeg.jpg" data-tags="female vocalists, singer-songwriter, christian, contemporary christian, female vocal, wonderful women, godly girls" role="button">
 Sara Groves - All Right Here (2002-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="fado" role="button">
 Joana Amendoeira - Fado Antologia (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
+</li>
+<li data-cover="https://img.discogs.com/oW8htbo3KLrMxXq69lwDdjONzp0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5851825-1414617355-5137.jpeg.jpg" data-tags="progressive rock" role="button">
+Karnataka - Delicate Flame of Desire (2003-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/34e10a2d-bc95-4a83-93bf-6537a17d250a/8467051409-500.jpg" data-tags="trance, female vocalists" role="button">
 Venus Hum - Big Beautiful Sky (2003-04-01)
@@ -146,9 +146,6 @@ Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
 <li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
 Utada - Exodus (2004-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
-Kari Jobe - Kari Jobe (2005)
 </li>
 <li data-cover="https://img.discogs.com/yq1jA9WkBRLihLbrF4bQkkmRnwg=/fit-in/353x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740286-1153913153.jpeg.jpg" data-tags="jazz, vocal jazz" role="button">
 Torun Eriksen - Prayers & Observations (2005)
@@ -219,17 +216,20 @@ Isgaard - Wooden Houses (2008)
 <li data-cover="http://coverartarchive.org/release/85c9715c-4df9-4f66-afa4-9295b9dbd4da/15035339489-500.jpg" data-tags="christian rock" role="button">
 Addison Road - Addison Road (2008-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/07ff7c13-12a7-40ac-8cc6-77116b17f24b/7088659452-500.jpg" data-tags="progressive rock" role="button">
+Magenta - Metamorphosis (2008-04-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c0406d8-df85-4f72-b0c1-db8cd84fc4ca/12897749119-500.jpg" data-tags="christian, female vocalist" role="button">
 Meredith Andrews - The Invitation (2008-04-29)
 </li>
 <li data-cover="https://img.discogs.com/IYtjXhsYs3s7bc9okP4akm9Wt8g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4580751-1368998838-5583.jpeg.jpg" data-tags="metalcore" role="button">
 Straight Line Stitch - When Skies Wash Ashore (2008-08-19)
 </li>
+<li data-cover="https://img.discogs.com/Q9zdkKnGSe3jWvoKVspZmCdLpMM=/fit-in/496x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5161884-1386178440-3303.jpeg.jpg" data-tags="female, canadian, rnb, female vocal, idol, katharine, mcphee" role="button">
+Eva Avila - Give Me The Music (2008-10-28)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="melodic death metal" role="button">
 Luna Mortis - The Absence (2009-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
-Diana Krall - Quiet Nights (2009-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e7d6396-beaf-42fc-9c78-a56dc9479041/7761707403-500.jpg" data-tags="indie, acoustic, female vocal, 2009 releases, paper aeroplanes, rivers and seas, days and nights, walking and running" role="button">
 Paper Aeroplanes - The Day We Ran Into The Sea (2009-10-26)
@@ -306,11 +306,11 @@ Your Schizophrenia - Late Autumn Lullaby (2013-06-06)
 <li data-cover="http://coverartarchive.org/release/4e6250ce-4604-4342-97d5-487a97e325a9/5087805910-500.jpg" data-tags="modern metal" role="button">
 DeadLock - The Arsonist (2013-07-24)
 </li>
-<li data-cover="https://img.discogs.com/5eZvjjapEMqfuHRo-2GJHnTQKBc=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4834398-1544556643-8566.jpeg.jpg" data-tags="experimental, deathcore" role="button">
-iwrestledabearonce - Late For Nothing (2013-08-06)
-</li>
 <li data-cover="https://img.discogs.com/rMymncmEsiAUFl8myydAfMSqtC0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-576774-1144503180.jpeg.jpg" data-tags="electronic, dance, female vocal" role="button">
 Karen Overton - Your Loving Arms (2013-11-01)
+</li>
+<li data-cover="https://img.discogs.com/2GK0OSWSp0PGRTVIBc8MHB9Jv-k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5961405-1610833634-3682.jpeg.jpg" data-tags="gothic metal, female vocal, symphonic gothic metal" role="button">
+Kowai - Dissonance (2014-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fe6e712-5b04-4e12-ab62-2061dd258d24/15082460943-500.jpg" data-tags="alternative metal, gothic metal" role="button">
 Lacuna Coil - Broken Crown Halo (2014-03-28)

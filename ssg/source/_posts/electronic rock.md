@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:44:01.567Z
+date: 2021-04-13T00:33:01.485Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Phantogram - Nightlife (2011-11-01)](http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg "Phantogram - Nightlife (2011-11-01)")
@@ -7,7 +7,7 @@ title: "electronic rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">Kevin Rudolf - In The City (2008-11-24)</li>
 <li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">Radiohead - Supercollider / The Butcher (2011-04-16)</li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">Coldplay - Mylo Xyloto (2011-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
@@ -21,11 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3eed1de9-3977-44cc-8e76-f442676698c9/19003555871-500.jpg" data-tags="electronic" role="button">
-Klaus Schulze - Moondawn (1976-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e279fc4-0c80-332c-aae0-941d114b0fed/1270665099-500.jpg" data-tags="electronic" role="button">
-Jean Michel Jarre - Equinoxe (1978-12)
+<li data-cover="https://img.discogs.com/N-haBFNKKcPijOgbNUu1Tb83Y6Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4311336-1510402993-1792.jpeg.jpg" data-tags="80s, vocoder, electronic" role="button">
+Neil Young - Trans (1982-12-29)
 </li>
 <li data-cover="https://img.discogs.com/JBUG1xfc809-ZU4bxD4P7GTntmw=/fit-in/559x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530734-1303470847.jpeg.jpg" data-tags="80s" role="button">
 Depeche Mode - Personal Jesus (1989-08-29)
@@ -65,6 +62,9 @@ Celldweller - Celldweller (2003-01-28)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave, punk rock, j-rock, electronic rock, technicolor pogo punk, techno pop, synth punk" role="button">
+POLYSICS - National P (2003-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7e499c-f3fb-388e-bab2-c717355dcb33/27009614431-500.jpg" data-tags="industrial, industrial rock, synth-rock, orgy" role="button">
 Orgy - Punk Statik Paranoia (2004-02-24)
@@ -111,9 +111,6 @@ Black Strobe - Burn Your Own Church (2007-05-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Klaxons - It's Not Over Yet (2007-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">
-the GazettE - STACKED RUBBISH (2007-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
 </li>
@@ -150,6 +147,9 @@ Dead By Sunrise - Out of Ashes (2009-09-30)
 <li data-cover="https://img.discogs.com/fPRaFPdnrNcEuhIZkSVlDnlhiEc=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442497-1451244676-2555.jpeg.jpg" data-tags="rock, humanoid, german, tokio hotel" role="button">
 Tokio Hotel - Humanoid (2009-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e904e88-de7c-4ec4-a1b8-b0fe9390d2e0/2828376735-500.jpg" data-tags="post-rock" role="button">
+Collapse Under the Empire - Find a Place to Be Safe (2009-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/f66518b0-c5d3-4643-bf63-e1ac257c3131/13140342040-500.jpg" data-tags="imagine dragons" role="button">
 Imagine Dragons - Hell and Silence (2010-03)
 </li>
@@ -174,9 +174,6 @@ I Fight Dragons - Welcome To The Breakdown (2010-11-30)
 <li data-cover="http://coverartarchive.org/release/93b9d79e-7422-4c97-81ab-fea8ed068973/10666955584-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Blue Stahli (2011-03-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Radiohead - Supercollider / The Butcher (2011-04-16)
 </li>
@@ -194,6 +191,9 @@ The Anix - Sleepwalker (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/58e86840-27b0-48b7-81a6-7009acfdaf58/1537054296-500.jpg" data-tags="industrial metal, electronic rock, 8-bit rock" role="button">
+АлисА - 20.12 (2011-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3d38348-6cec-47da-92ad-49969812116b/28429823396-500.jpg" data-tags="alternative rock, experimental" role="button">
 Puscifer - Conditions of My Parole (2011-10-18)

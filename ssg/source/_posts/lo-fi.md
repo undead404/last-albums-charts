@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:02:01.473Z
+date: 2021-04-13T00:26:07.078Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -36,9 +36,6 @@ Pavement - Crooked Rain, Crooked Rain (1994-02-14)
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
 </li>
-<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Roman Candle (1994-07-14)
-</li>
 <li data-cover="https://img.discogs.com/R0egZsTiJ4jGp6EUVkewsm0XhiU=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-493498-1424651929-5356.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
 Guided by Voices - Alien Lanes (1995-04-04)
 </li>
@@ -72,17 +69,11 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
-The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/0761fabf-f7b8-4539-839e-b359bdaca08b/21338439786-500.jpg" data-tags="indie, anti-folk" role="button">
-The Moldy Peaches - The Moldy Peaches (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8381f1b2-33d0-4c43-a91a-2d83812edfbd/1436605758-500.jpg" data-tags="indie" role="button">
 Sparklehorse - It's A Wonderful Life (2001-06-11)
@@ -123,6 +114,9 @@ Grizzly Bear - Yellow House (2006-09-04)
 <li data-cover="http://coverartarchive.org/release/06c1defa-eb6b-48d0-8284-b2a891af46f6/21234669416-500.jpg" data-tags="lo-fi" role="button">
 Matt & Kim - Matt & Kim (2006-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/bbdb139d-13c8-4327-914e-8ada7bf09b17/27880110565-500.jpg" data-tags="psychedelic" role="button">
+Black Moth Super Rainbow - Dandelion Gum (2007-05-15)
+</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
@@ -146,6 +140,9 @@ TV on the Radio - Dear Science (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/FxTObqr5eWFxH-DS8SdVVVopmBU=/fit-in/378x381/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574787-1229525133.jpeg.jpg" data-tags="indie, folk, indie rock, lo-fi, indie folk, phil elverum" role="button">
 Mount Eerie - Dawn (2008-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
+The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)
@@ -267,11 +264,11 @@ Teen Suicide - i will be my own hell because there is a devil inside my body (20
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a24a094-1d17-4ab4-9c49-c5a20cd8dd7d/2542487803-500.jpg" data-tags="indie rock" role="button">
+Dum Dum Girls - End Of Daze (2012-09-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/05d90e46-7e7c-4a87-bc86-1eba841e5223/6559373674-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - Transcendental Youth (2012-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
-Alex G - TRICK (2012-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
 Toro y Moi - Anything in Return (2013-01-22)
@@ -297,6 +294,9 @@ Cayucas - Bigfoot (2013-04-26)
 <li data-cover="http://coverartarchive.org/release/55b6c7e0-a2f3-45d9-b4a1-e86f7292d17b/14492410043-500.jpg" data-tags="electronic, indie, indie pop, lo-fi, chillwave, jagjaguwar" role="button">
 Small Black - Limits Of Desire (2013-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/3fc1248e-dd31-4f82-8425-3f15101269aa/4368691432-500.jpg" data-tags="lo-fi, dream pop" role="button">
+Alice Boman - Skisser (2013-05-22)
+</li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
 Washed Out - Paracosm (2013-08-12)
 </li>
@@ -305,6 +305,9 @@ Cage the Elephant - Melophobia (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e421663b-0682-4c9d-bfac-9e4e21d38813/7906285037-500.jpg" data-tags="indie, lo-fi, seventies, need to check out, dental surf combat" role="button">
 Happy Birthday - Happy Birthday (2014)
+</li>
+<li data-cover="http://coverartarchive.org/release/4dcaa0f1-5b3e-40ae-b707-346ab0840b50/6341394734-500.jpg" data-tags="indie rock" role="button">
+Cloud Nothings - Here and Nowhere Else (2014-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)
@@ -317,8 +320,5 @@ Ty Segall - Manipulator (2014-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
-Car Seat Headrest - How To Leave Town (2014-10-31)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:10:01.621Z
+date: 2021-04-13T00:11:07.086Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -249,6 +249,9 @@ Stream of Passion - Embrace The Storm (2005-10-21)
 <li data-cover="https://img.discogs.com/3JBC9K3LUTsimbwqoesQD27jKrE=/fit-in/500x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-631363-1140896215.jpeg.jpg" data-tags="unheilig, gothic" role="button">
 Unheilig - Moderne Zeiten (2006-01-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/9140307c-3fd4-4aef-9cc4-1a70608ab086/2547081348-500.jpg" data-tags="industrial, industrial rock" role="button">
+Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
+</li>
 <li data-cover="https://img.discogs.com/oOY0hXYgn-0Dr6Oc856IpBp4gwo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070575-1514157186-5942.jpeg.jpg" data-tags="gothic metal" role="button">
 Poisonblack - Lust Stained Despair (2006-08-25)
 </li>
@@ -296,9 +299,6 @@ Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
 <li data-cover="https://img.discogs.com/LfBjYCCBm98bfW3TdVXhdeigAd0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334744-1599234149-9074.jpeg.jpg" data-tags="gothic, german, eisblume" role="button">
 Eisblume - Unter dem Eis (2009-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/68c04f2c-66dd-47d0-bc27-e289665f46d4/13805054818-500.jpg" data-tags="gothic" role="button">
-Mono Inc. - Voices Of Doom (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/903cf062-eae3-4a9b-b6b7-333ed34c49c3/2874145087-500.jpg" data-tags="gothic, decadence" role="button">
 Агата Кристи - Эпилог (2010-07-09)

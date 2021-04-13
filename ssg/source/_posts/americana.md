@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:24:01.475Z
+date: 2021-04-13T00:20:23.985Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -186,6 +186,9 @@ Golden Smog - Another Fine Day (2006-07-18)
 <li data-cover="https://img.discogs.com/_iA2tgvmbkoCFvStlPM69jgiNUg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309787-1208531852.jpeg.jpg" data-tags="indie folk, 00s" role="button">
 Bright Eyes - Four Winds (2007-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/a75a94ec-4318-4cd8-be23-14c4efe916d6/6212400455-500.jpg" data-tags="folk" role="button">
+Great Lake Swimmers - Ongiara (2007-04-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/e37ae5f2-fea2-48c4-9c18-05130b9bfac5/15456399294-500.jpg" data-tags="alt-country" role="button">
 Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
@@ -227,9 +230,6 @@ Bowerbirds - Upper Air (2009-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
 Lucero - 1372 Overton Park (2009-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/65466e99-8abb-4696-b99e-5b880f7ddf64/829543380-500.jpg" data-tags="folk, indie rock, americana, dead oceans, alt-country, new music, new album, weddings and funerals and baptisms, warm my heart and let me go, chaser ii, vinyl dont scrobble, under the radar best of 2009" role="button">
-Califone - All My Friends Are Funeral Singers (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/029d9778-dd2f-49af-8368-5c0044019b03/8764173724-500.jpg" data-tags="country, folk, americana, alt-country, gothic country" role="button">
 Brown Bird - The Devil Dancing (2009-11-10)

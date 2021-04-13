@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:00:01.596Z
+date: 2021-04-12T23:47:01.482Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -26,9 +26,6 @@ The Turtles - Happy Together (1966)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Revolver (1966-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
-The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
 </li>
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
 Jefferson Airplane - Surrealistic Pillow (1967-02)
@@ -213,6 +210,9 @@ MGMT - Time To Pretend (2007-12-25)
 <li data-cover="http://coverartarchive.org/release/48b36c2e-6cbe-492c-bb8c-0a80ddbf3cbe/25351184261-500.jpg" data-tags="psychedelic, rock" role="button">
 Black Mountain - In the Future (2008-01-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+The Mars Volta - The Bedlam in Goliath (2008-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
 Radiohead - The Best Of (2008-06-02)
 </li>
@@ -263,6 +263,9 @@ Radiohead - The King of Limbs (2011-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
+</li>
+<li data-cover="https://img.discogs.com/fUMmOj-pT-cy_7thGTb2wHSJeBs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2733765-1298587559.jpeg.jpg" data-tags="indie, psychedelic, folk rock, jagjaguwar, my gang 11, 3rd album" role="button">
+The Cave Singers - No Witch (2011-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
@@ -317,8 +320,5 @@ Mac DeMarco - Salad Days (2014-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
-Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

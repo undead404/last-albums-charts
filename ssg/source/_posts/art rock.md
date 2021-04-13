@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:51:01.465Z
+date: 2021-04-13T00:30:12.652Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -123,6 +123,9 @@ The Velvet Underground - VU (1984)
 <li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
 David Sylvian - Secrets Of The Beehive (1987)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Sonic Youth - Sister (1987-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/7cf2a8c6-f2fb-4f99-a316-d9fbb8044667/9283951283-500.jpg" data-tags="psychedelic" role="button">
 Аукцыон - Птица (1993)
 </li>
@@ -206,9 +209,6 @@ Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/207d66ce-3699-30b2-99c0-4fa60daaf01c/11044411925-500.jpg" data-tags="experimental" role="button">
-Liars - Drum's Not Dead (2006-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
