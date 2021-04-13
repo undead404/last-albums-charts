@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:56:01.462Z
+date: 2021-04-13T06:27:01.452Z
 title: "remix: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Reanimation (2002-07-29)](https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg "Linkin Park - Reanimation (2002-07-29)")
@@ -26,6 +26,9 @@ Phil Collins - 12"ers (1985-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8efff778-8da9-441c-b2a7-1374da31426b/10149276948-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Head Like a Hole (1990-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ba9cbad-58fe-4ba4-9c15-bce6d7b8c1ff/3833333258-500.jpg" data-tags="pop" role="button">
+Seal - Crazy (1990-12)
 </li>
 <li data-cover="https://img.discogs.com/iLdCQkZG5vwzpyPqtY65ryDyEtY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6639405-1423664004-4584.jpeg.jpg" data-tags="electronic, remix" role="button">
 The Orb - Aubrey Mixes: The Ultraworld Excursions (1991-02-01)
@@ -114,9 +117,6 @@ Madonna - Remixed & Revisited (2003-11-25)
 <li data-cover="http://coverartarchive.org/release/86d61cd4-804e-377a-93bc-bc66eb395384/9577997746-500.jpg" data-tags="ambient, psychedelic, sludge, remix, post-metal" role="button">
 Isis - Oceanic: Remixes/Reinterpretations (2004-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, progressive rock" role="button">
-A Perfect Circle - aMOTION (2004-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/29d5ee18-17ba-4eac-9080-cd1d3bb0ffc6/4640374883-500.jpg" data-tags="dance, house" role="button">
 Eric Prydz - Eric Prydz (2005)
 </li>
@@ -149,9 +149,6 @@ Massive Attack - 100th Window - The Remixes (2006-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/34674812-212e-4ab6-bd87-6c9f370858da/4786446537-500.jpg" data-tags="alternative rock, remix" role="button">
 Falling Up - Exit Lights (2006-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="https://img.discogs.com/NLPl__iIY4Kbc4APyFZhOjJPexE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13177777-1549402944-8632.jpeg.jpg" data-tags="jazz remix" role="button">
 Nina Simone - Remixed & Reimagined (2006-10-31)
@@ -302,6 +299,9 @@ alt-J - Something Good (2012-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4412520e-466e-4575-8814-3d5d221bd845/2483166317-500.jpg" data-tags="mogwai" role="button">
 Mogwai - A Wrenched Virile Lore (2012-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6fa9ab7-baaa-4d2a-94c7-2a7fc75acc3f/3006093609-500.jpg" data-tags="electronic, dubstep" role="button">
+The Prodigy - The Added Fat EP (2012-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/57a5351a-13e5-4132-b19f-b0e785b02f38/14746949992-500.jpg" data-tags="remix" role="button">
 The Horrors - Higher (2012-12-04)

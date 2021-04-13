@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:05:07.134Z
+date: 2021-04-13T06:08:01.487Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -9,11 +9,11 @@ title: "hard rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Guns N' Roses - Appetite for Destruction (1987-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion I (1991-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion II (1991-09-17)</li>
+<li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
 <li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">Audioslave - Audioslave (2002-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">Led Zeppelin - Led Zeppelin (2003-05-26)</li>
-<li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">Avenged Sevenfold - City of Evil (2005-06-07)</li>
-<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
+<li data-cover="http://coverartarchive.org/release/0618d2be-4b47-383c-b1f4-eca2dd88f866/5870438747-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Greatest Hits (2004-02-13)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -168,6 +168,9 @@ Queens of the Stone Age - Songs for the Deaf (2002-08-17)
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/4c94fb29-a822-4ea8-a995-c5a7aecf8cdb/15192894490-500.jpg" data-tags="hard rock, kiss, classic rock, rock" role="button">
+Kiss - The Very Best of Kiss (2002-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
 </li>
@@ -188,6 +191,9 @@ Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad1faa75-05ed-426f-9134-45b184c2213b/2106374274-500.jpg" data-tags="hard rock, alternative rock" role="button">
+Shinedown - Leave a Whisper (2003-05-27)
 </li>
 <li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
@@ -222,14 +228,14 @@ System of a Down - Mezmerize (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/780cd4e5-56f8-4ea1-94e0-6fb6368e0083/8618820927-500.jpg" data-tags="rock, alternative rock" role="button">
 Audioslave - Out of Exile (2005-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
-Avenged Sevenfold - City of Evil (2005-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9599042a-34a9-39f2-a52d-c903a382515c/11212013097-500.jpg" data-tags="rock" role="button">
 Nickelback - All The Right Reasons (2005-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b70fff68-559c-4efd-a035-5974cac6bd87/14997468926-500.jpg" data-tags="rock, hinder" role="button">
+Hinder - Extreme Behavior (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)
@@ -270,9 +276,6 @@ Alter Bridge - Blackbird (2007-10-09)
 <li data-cover="http://coverartarchive.org/release/e6c5189b-360f-460b-852e-909e21e6392d/7915181098-500.jpg" data-tags="rock, alternative rock, hard rock" role="button">
 Seether - Finding Beauty in Negative Spaces (2007-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
-Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
 Disturbed - Indestructible (2008-04-29)
 </li>
@@ -308,9 +311,6 @@ Foo Fighters - Greatest Hits (2009-10-30)
 </li>
 <li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">
 Slash - Slash (2010-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
-Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)

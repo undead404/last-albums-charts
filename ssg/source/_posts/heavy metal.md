@@ -1,19 +1,19 @@
 ---
-date: 2021-04-13T04:44:07.074Z
+date: 2021-04-13T06:44:12.692Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">Black Sabbath - Paranoid (1970-09-18)</li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">Iron Maiden - The Number of the Beast (1982-04-26)</li>
+<li data-cover="http://coverartarchive.org/release/03f52642-f3b7-4cd8-abdd-10d445bc45cd/28091718961-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Piece of Mind (1983-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/b35ae348-33a6-3cad-9407-3b48caafcd43/3043507662-500.jpg" data-tags="heavy metal" role="button">Dio - Holy Diver (1983-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg" data-tags="heavy metal, metal" role="button">Metallica - Metallica (1991-08-12)</li>
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">Metallica - Load (1996-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Brave New World (2000-05-30)</li>
-<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
+<li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">Slipknot - All Hope Is Gone (2008-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/a826c9d4-f35e-436d-b218-818fc9beb841/12869034085-500.jpg" data-tags="thrash metal" role="button">Metallica - Death Magnetic (2008-09-06)</li>
-<li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">Avenged Sevenfold - Nightmare (2010-07-23)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,6 +30,9 @@ Black Sabbath - Paranoid (1970-09-18)
 <li data-cover="https://img.discogs.com/ufnpzsAn_QpNXewfMCVhseGe29Y=/fit-in/600x975/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15842342-1598801261-2743.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Master of Reality (1971-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
+Led Zeppelin - Led Zeppelin IV (1971-11-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Machine Head (1972-03)
 </li>
@@ -44,6 +47,9 @@ Black Sabbath - We Sold Our Soul for Rock 'n' Roll (1975-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ccb2f7c-7a5c-45dc-a326-ccc4566fe4af/20186498058-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Sad Wings of Destiny (1976)
+</li>
+<li data-cover="http://coverartarchive.org/release/793417fc-2cc7-4097-9357-13ee79cc2aad/21457555311-500.jpg" data-tags="heavy metal" role="button">
+Judas Priest - Stained Class (1978-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b33578-a44a-47e8-bcb8-e1ba8eb848fc/9157237778-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Overkill (1979-03-24)
@@ -104,6 +110,9 @@ Mötley Crüe - Shout at the Devil (1983-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4ff5-e94d-48b2-a99d-33ee251c2c34/9516015595-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - No Remorse (1984-09-15)
+</li>
+<li data-cover="https://img.discogs.com/fqAGJPgwOhZR2f6l49pHNdtlY3Q=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3060454-1333002897.jpeg.jpg" data-tags="heavy metal" role="button">
+W.A.S.P. - The Last Command (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Fighting the World (1987-02-17)
@@ -192,6 +201,9 @@ System of a Down - System of a Down (1998-06-30)
 <li data-cover="http://coverartarchive.org/release/f149cf49-9364-365a-a9d5-b1ec5688075d/1068123055-500.jpg" data-tags="industrial metal" role="button">
 Rob Zombie - Hellbilly Deluxe (1998-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f5a52aa-4429-4771-80ec-6c6a545b0df9/11162732155-500.jpg" data-tags="metal, thrash metal, heavy metal" role="button">
+Metallica - Garage, Inc. (1998-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4943881b-cf46-3bb5-a9ad-26d19ab72f21/11162986699-500.jpg" data-tags="symphonic metal, metal, thrash metal" role="button">
 Metallica - S&M (1999-11-22)
 </li>
@@ -231,9 +243,6 @@ Led Zeppelin - Led Zeppelin (2003-05-26)
 <li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
 Metallica - St. Anger (2003-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
-Avenged Sevenfold - Waking The Fallen (2003-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c1e204d-5753-4a12-9a27-f6cd70f296a1/15064785894-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Dance Of Death (2003-09-03)
 </li>
@@ -252,9 +261,6 @@ Judas Priest - Angel Of Retribution (2005-02-23)
 <li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Mezmerize (2005-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
-Avenged Sevenfold - City of Evil (2005-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
@@ -266,9 +272,6 @@ Iron Maiden - A Matter of Life and Death (2006-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
-Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5ffda16-7059-3e0c-91a9-ba39399d004b/13472063593-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Scream Aim Fire (2008-01-23)
@@ -296,9 +299,6 @@ Sabaton - Coat of Arms (2010-05-21)
 </li>
 <li data-cover="https://img.discogs.com/6zp4BTeatOnSwztxr4qJHLrHwRI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7387914-1440423038-4802.jpeg.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Scream (2010-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
-Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad91280b-8306-3ce3-99a2-c2604f7fb884/4291013532-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - The Final Frontier (2010-08-13)

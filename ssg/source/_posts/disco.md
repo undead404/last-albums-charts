@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:19:01.474Z
+date: 2021-04-13T05:47:01.459Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -150,6 +150,9 @@ Bee Gees - One Night Only (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
+<li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">
+Bomfunk MC's - In Stereo (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
@@ -170,9 +173,6 @@ Robin Thicke - A Beautiful World (2003-04-15)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0410ba6d-4c31-42de-8209-809006026825/25732150659-500.jpg" data-tags="disco, pop, soul, dance, summer, rnb, donna summer, donna, withdrjazzmrfunkmusicradio" role="button">
 Donna Summer - The Journey: The Very Best of Donna Summer (2003-09-30)

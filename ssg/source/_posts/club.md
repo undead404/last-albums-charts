@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:23:18.464Z
+date: 2021-04-13T06:32:01.460Z
 title: "club: 100 albums you must listen to before you die"
 ---
 ![David Guetta - Pop Life (2007-06-18)](https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg "David Guetta - Pop Life (2007-06-18)")
@@ -9,8 +9,8 @@ title: "club: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/58ae5a33-211c-4fb7-91ea-8be8f16648ac/19861189252-500.jpg" data-tags="trance, club, dj dean" role="button">DJ Dean - Protect Your Ears (2003-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/c69f23e1-f120-4fae-8f9f-f87dda1a5552/20752236804-500.jpg" data-tags="pop, female vocalists, club" role="button">Jamelia - Superstar (2003-09-15)</li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">Eric Prydz - Call on Me (2004-09-13)</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">Robbie Williams - Rudebox (2006-10-23)</li>
 <li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">David Guetta - Pop Life (2007-06-18)</li>
+<li data-cover="http://coverartarchive.org/release/39453157-9cbf-42eb-bede-78f92810e88c/17193647005-500.jpg" data-tags="dance, pop, club" role="button">Dannii Minogue - Club Disco (2007-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">J. Cole - Born Sinner (2013-06-14)</li>
@@ -41,9 +41,6 @@ David Holmes - Let's Get Killed (1997-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae52edad-135d-46f6-a359-c289b7a37b89/17193547484-500.jpg" data-tags="electronic, pop, dance, club" role="button">
 Dannii Minogue - Girl (1997-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/70ebcf2e-10dd-473f-9974-3978c0ae3ca5/10348184655-500.jpg" data-tags="chillout, downtempo" role="button">
-Groove Armada - Northern Star (1998-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/65521e3e-a2f9-49a5-acff-09da5bc397cb/4921914187-500.jpg" data-tags="club" role="button">
 Fatboy Slim - California Rite Now (1999)
@@ -78,8 +75,8 @@ Kylie Minogue - Can't Get You Out Of My Head (2001-09-17)
 <li data-cover="http://coverartarchive.org/release/aa48ac28-57e0-3019-ba97-db523a26471e/7733173920-500.jpg" data-tags="house, electronic" role="button">
 Modjo - Modjo (2001-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0cf04a8-a48d-3e83-aa59-5981b5edbdd6/4512613383-500.jpg" data-tags="electronic" role="button">
-Everything But the Girl - Like the Deserts Miss the Rain (2002)
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="chillout, electronic, dance, house, acid jazz, club, deep house, get" role="button">
+Kevin Yost - KY Funk 'n Stuff 2: Unreleased Past and Present (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
@@ -89,6 +86,9 @@ Junior Senior - Move Your Feet (2002-06-10)
 </li>
 <li data-cover="https://img.discogs.com/IbFE1f8WXTOLVv3qAcf8E6mrhTs=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1665126-1483912438-9569.jpeg.jpg" data-tags="electronic, electro, house" role="button">
 Cassius - Au Reve (2002-09-30)
+</li>
+<li data-cover="https://img.discogs.com/1f-PHpGiNvFF-VmaR08wEgr-NJw=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-215316-1283693663.jpeg.jpg" data-tags="pop, dance, club, dannii minogue" role="button">
+Dannii Minogue - Put the Needle on It (2002-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a76f57c5-5918-4354-9031-69724f598d82/14579605414-500.jpg" data-tags="50 cent" role="button">
 50 Cent - Best of 50 Cent (2003)
@@ -119,9 +119,6 @@ Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
 </li>
 <li data-cover="https://img.discogs.com/ao8trswytlnbZgZr3dagbE2_lQQ=/fit-in/366x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538745-1129068276.jpeg.jpg" data-tags="electronic, dance" role="button">
 Basement Jaxx - Kish Kash (2003-10-20)
-</li>
-<li data-cover="https://img.discogs.com/boA_i52ri9qokCW21I2qe_b56iQ=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737145-1317817070.jpeg.jpg" data-tags="trance" role="button">
-Ferry Corsten - Right Of Way (2003-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdb02028-9bef-442d-b033-2bd4b6ad2192/5574397853-500.jpg" data-tags="dance, club, point of view" role="button">
 DB Boulevard - Frequencies (2004)
@@ -168,6 +165,9 @@ The Prodigy - Out of Space (2005-07)
 <li data-cover="http://coverartarchive.org/release/7a287149-103f-4b33-a43e-28b8f8d06bf7/12099519336-500.jpg" data-tags="club, dance" role="button">
 Britney Spears - B In the Mix (The Remixes) (2005-11-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dance" role="button">
+Joey Negro - Make a Move On Me (2006-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/35c43d9e-df9d-41e9-8250-d670736d6460/1871272264-500.jpg" data-tags="electronic, house" role="button">
 Madonna - Sorry (2006-02-20)
 </li>
@@ -183,6 +183,9 @@ Basshunter - Welcome to Rainbow (2006-06-12)
 <li data-cover="https://img.discogs.com/CJjfeBdfnOWhTzO1po_81zKsMh0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1819031-1246281268.jpeg.jpg" data-tags="pop, dance" role="button">
 Groove Coverage - 21st Century (2006-07-07)
 </li>
+<li data-cover="https://img.discogs.com/mby_qKL8epnNe4sY95Oa_wGy4AY=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7932393-1451913838-2943.jpeg.jpg" data-tags="pop, electropop, dance, synthpop, electronic" role="button">
+Paris Hilton - Turn It Up (2006-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
 </li>
@@ -197,9 +200,6 @@ Pakito - Moving On Stereo (2006-10)
 </li>
 <li data-cover="https://img.discogs.com/NdlDhsQ1rKN57Ii_kJupt6_YfHU=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-811647-1161226661.jpeg.jpg" data-tags="easy listening, house, club, jnkj, this is reagge" role="button">
 Beatfreakz - SuperFreak (2006-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="https://img.discogs.com/SQdhu_mWq2qwufVx-I6xYp9r3wI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-511862-1593886091-9321.jpeg.jpg" data-tags="club, gilberto santarosa-cuenta regresiva" role="button">
 Bodyrox - Yeah Yeah (2006-10-30)
@@ -237,6 +237,9 @@ Laurent Wolf - Wash My World (2008)
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/418d5ada-1195-4de5-87a6-d4bf5ff459fb/19105509854-500.jpg" data-tags="female, dance, club" role="button">
+Ida Corr - One (2008-03-17)
+</li>
 <li data-cover="https://img.discogs.com/fzFzSPTxjTO12xdnsO5irwUWq6M=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8454719-1461943044-2366.jpeg.jpg" data-tags="dance, lindsay lohan" role="button">
 Lindsay Lohan - Bossy (2008-05-27)
 </li>
@@ -263,9 +266,6 @@ Agnieszka Chylińska - Modern Rocking (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff43deef-9f17-4977-9cfc-c138d64fefe2/14921120823-500.jpg" data-tags="electronic, dance, lady gaga" role="button">
 Space Cowboy - Digital Rock Star (2009-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f741d84-1362-44fd-9886-4781286d33e4/19096380097-500.jpg" data-tags="hip-hop, electronic, hip hop, dubstep, club, breakbeat" role="button">
 Sporty-O - Let Me Hit It (2009-12-01)

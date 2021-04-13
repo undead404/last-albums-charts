@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:08:18.253Z
+date: 2021-04-13T05:48:18.266Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
+</li>
+<li data-cover="http://coverartarchive.org/release/2edf44dc-dd93-4167-9c00-c03e2cbe9078/22193710690-500.jpg" data-tags="americana" role="button">
+Michael Nesmith & The First National Band - Magnetic South (1970-06-01)
 </li>
 <li data-cover="https://img.discogs.com/lhoJnOy90c-GnbsxrtTvZoq7kn4=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642288-1245960211.jpeg.jpg" data-tags="70s, pop rock, sunshine pop, country pop, surf rock" role="button">
 Curt Boettcher - There's an Innocent Face (1973)
@@ -173,9 +176,6 @@ Keith Urban - Be Here (2004-09-21)
 </li>
 <li data-cover="https://img.discogs.com/mLXYaVo2oQ_Yd8aR6o7TdC-tguU=/fit-in/600x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6653521-1423936681-9804.jpeg.jpg" data-tags="country" role="button">
 LeAnn Rimes - This Woman (2005-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/6174cef4-1447-4936-8454-e90a7f1cb1a6/28236503054-500.jpg" data-tags="country" role="button">
-Faith Hill - Fireflies (2005-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/538329ea-1087-4ef6-800e-d9069cabd299/19388646151-500.jpg" data-tags="country" role="button">
 Little Big Town - The Road to Here (2005-10-04)

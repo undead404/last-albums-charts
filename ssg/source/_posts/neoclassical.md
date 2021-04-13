@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:56:07.013Z
+date: 2021-04-13T06:06:07.074Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Agnes Obel - Aventine (2013-09-27)](http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg "Agnes Obel - Aventine (2013-09-27)")
@@ -86,9 +86,6 @@ Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2ec921a-0978-4a24-a1ef-24be706810a3/2856618513-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Chaostar - Chaostar (2000-05-16)
-</li>
-<li data-cover="https://img.discogs.com/odN_mixBOw_bWndp9Tfn1RaOuIg=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385078-1248849142.jpeg.jpg" data-tags="singer-songwriter, avantgarde, melancholic" role="button">
-Steve Von Till - As the Crow Flies (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9331eb4e-8cd0-4ac7-9c3b-6ecba5766de8/10337890844-500.jpg" data-tags="gothic, visual kei, neoclassical" role="button">
 Malice Mizer - Bara No Seidou (2000-08-23)
@@ -192,11 +189,11 @@ Scythelence - Post-Romantic Syndrome (2008)
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/29aa8ea1-2a36-46da-8443-29dfd363a754/2124955046-500.jpg" data-tags="classical, instrumental" role="button">
+Mike Oldfield - Music Of The Spheres (2008-03-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/19b412e7-7e7d-4895-a299-d86d45334a5e/2025044974-500.jpg" data-tags="neoclassical" role="button">
 Arditi - Omne Ensis Impera (2008-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/12f8d265-b015-4fcb-a6ab-1849083d707d/9857044409-500.jpg" data-tags="electronic" role="button">
-Laibach - Laibachkunstderfuge (2008-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="neoclassical" role="button">
 分島花音 - still doll (2008-05-28)
@@ -245,6 +242,9 @@ Dark Sanctuary - Dark Sanctuary (2009-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d06ca3a-f4e5-4510-a747-7f7045c00403/8213070805-500.jpg" data-tags="pop, classic, instrumental, neoclassical" role="button">
 Brian Finnegan - The Ravishing Genius of Bones (2010-04-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6758283-a51d-4eb9-88ad-c723c670a96d/2384794027-500.jpg" data-tags="folk, folk noir, dark folk, neoclassical, apocalyptic folk, dark ambient neoclassical, nox-aeternus" role="button">
+Hexperos - The Veil Of Queen Mab (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/71727f18-c683-4440-8ee5-0a623b5ad7fb/3109305787-500.jpg" data-tags="psychedelic folk, psychedelic neofolk" role="button">
 Kiss the Anus of a Black Cat - Hewers of wood and drawers of water (2010-10-04)

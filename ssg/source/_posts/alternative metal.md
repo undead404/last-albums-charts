@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:55:01.438Z
+date: 2021-04-13T06:29:01.452Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -267,9 +267,6 @@ Serj Tankian - Elect the Dead (2007-08-20)
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
 Alter Bridge - Blackbird (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
-Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/e67f8da1-88b9-3a9c-be1c-f40dbab896b2/20457737757-500.jpg" data-tags="melodic death metal" role="button">
 In Flames - A Sense of Purpose (2008-03-26)
 </li>
@@ -282,6 +279,12 @@ Scars on Broadway - Scars On Broadway (2008-07-26)
 <li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/61ce56c6-d310-4c9a-a4ba-e291896f4b2a/21614733650-500.jpg" data-tags="alternative metal" role="button">
+Mudvayne - The New Game (2008-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/03666113-97e0-44dc-a3fd-71f15b3bc1e7/14899098997-500.jpg" data-tags="gothic metal, alternative metal" role="button">
+Lacuna Coil - Shallow Life (2009-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/613f418b-dea5-4cb5-b5dd-12df16c7d825/7275083560-500.jpg" data-tags="groove metal, alternative metal" role="button">
 Five Finger Death Punch - War Is the Answer (2009-09-21)
 </li>
@@ -293,9 +296,6 @@ Breaking Benjamin - Dear Agony (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca0e1a5-ab61-40e2-99c8-bab84f4ed5de/7767150878-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Diamond Eyes (2010-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
-Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)

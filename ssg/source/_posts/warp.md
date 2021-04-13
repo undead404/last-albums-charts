@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:45:07.809Z
+date: 2021-04-13T06:10:01.506Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -114,6 +114,9 @@ Squarepusher - Burningn'n Tree (1997-11-10)
 <li data-cover="http://coverartarchive.org/release/86ad5c69-c941-42f3-902e-64d1ded7694e/21287112727-500.jpg" data-tags="warp" role="button">
 Brothomstates - Kobn-Tich-Ey (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/4428384c-8797-4be4-bc51-49e17efb543d/946036989-500.jpg" data-tags="warp" role="button">
+Max Tundra - Children At Play (1998-02-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/347a4bea-0b6a-43e8-9653-39e1742d21a6/7203660837-500.jpg" data-tags="warp, idm" role="button">
 Mira Calix - Pin Skeeling (1998-03-09)
 </li>
@@ -168,9 +171,6 @@ Vincent Gallo - Recordings of Music for Film (2002-06-24)
 <li data-cover="https://img.discogs.com/b6VXFcBZdPy6FNEXh1PWBDh_mmY=/fit-in/430x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-191918-1118863123.jpg.jpg" data-tags="electronica, indie, alternative, ambient, warp, idm, glitch, experimental, psychedelic" role="button">
 kiyo - Chaotech Odd Echo (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/a162b1b2-ed22-4a54-be3b-3efb82b77ce9/4523940207-500.jpg" data-tags="hip-hop, chillout, electronic, hip hop, instrumental, downtempo, warp, eclectic, favs, breakz, geniaal, lekkah, 4nas, nadh, vemu, mmwm" role="button">
-Req - Car Paint Scheme (2003-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/5a7e6b64-f64a-4f9b-b525-f500af815d17/27817753712-500.jpg" data-tags="electronic" role="button">
 LFO - Sheath (2003-09-22)
 </li>
@@ -216,6 +216,9 @@ Nightmares on Wax - In A Space Outta Sound (2006-01)
 <li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
 Boards of Canada - Trans Canada Highway (2006-05-19)
 </li>
+<li data-cover="https://img.discogs.com/FeEb3j4N8JMkGMxgJTebFciPV4Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3987974-1351508831-6490.jpeg.jpg" data-tags="chillout, electronic, electronica, jazz, alternative, ambient, experimental, electro, dance, industrial, warp, idm, braindance, rephlex, machine records" role="button">
+Oddskool - Two Ways To Listen (2006-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
@@ -230,6 +233,9 @@ Battles - Mirrored (2007-04-25)
 </li>
 <li data-cover="https://img.discogs.com/d7ClNJ7GMdFnO1pIFa_-h3VSlSo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-994767-1224798593.jpeg.jpg" data-tags="electronic, experimental, idm, aerial" role="button">
 Syl Kougaï - La Fille Verte (2007-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/598b2f1c-618d-4cfc-8709-d0d873073c42/2122036995-500.jpg" data-tags="electronica, experimental, electro, minimal, abstract, warp, idm, glitch, mellow, aphex twin, braindance, jamendo, elctronic, glitchy electronica, the french circ" role="button">
+Circ - digital dust inhalation (2007-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d800a9e2-c11a-4d35-98e8-6b8cdb4ac631/7263437184-500.jpg" data-tags="experimental" role="button">
 Battles - Tonto+ (2007-10-22)
@@ -251,9 +257,6 @@ Plaid - Heaven's Door (2008-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
-</li>
-<li data-cover="https://img.discogs.com/olvPPLxjABG26vby30YknA33UuA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1937588-1253651723.jpeg.jpg" data-tags="electronic, post-rock, strange, warp, avantgarde" role="button">
-Tyondai Braxton - Central Market (2009-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d07d9de-68c4-4048-9c08-a4962fbd99f1/8017009685-500.jpg" data-tags="hauntology" role="button">
 Broadcast and The Focus Group - Broadcast and the Focus Group Investigate Witch Cults of the Radio Age (2009-09-22)
@@ -287,9 +290,6 @@ Autechre - Eps 1991 - 2002 (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef335cce-5b0e-4636-b4f1-17af1a043956/26299636754-500.jpg" data-tags="warp" role="button">
 Babe Rainbow - Endless Path EP (2011-06-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, ambient, warp, avantgarde, brian eno, a distant fire burning, drums between the bells 2011, rick holland" role="button">
-Brian Eno And The Words Of Rick Holland - Drums Between The Bells (2011-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/482d791c-0960-420c-80b7-cb21d9d3b7d6/3472949773-500.jpg" data-tags="warp" role="button">
 Kwes. - Get Up (2011-11-11)

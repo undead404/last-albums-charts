@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:22:01.485Z
+date: 2021-04-13T06:39:01.479Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
@@ -47,6 +47,9 @@ Dead or Alive - Youthquake (1985-01-01)
 </li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
 a-ha - Hunting High and Low (1985-06-01)
+</li>
+<li data-cover="https://img.discogs.com/udOI4fyGJRtPE6tTrzBL1i7-zs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545367-1255250271.jpeg.jpg" data-tags="80s, pop" role="button">
+Pet Shop Boys - Actually (1987-09-07)
 </li>
 <li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Pretty Hate Machine (1989-11-20)
@@ -293,9 +296,6 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
 Broken Bells - After the Disco (2014-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/ffe8de44-7c3a-4da4-a38a-4a07e519ffc0/6659279281-500.jpg" data-tags="electronic, pop, synthpop, glitch pop, minimal pop" role="button">
-MØ - Say You'll Be There (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)

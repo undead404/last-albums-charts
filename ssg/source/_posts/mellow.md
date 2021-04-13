@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:44:01.455Z
+date: 2021-04-13T05:51:01.498Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -42,6 +42,9 @@ Seal - Seal (1994-05-31)
 <li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Bedtime Stories (1994-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/bf2c2471-b584-46a1-a04f-e73592bbbb04/5232466594-500.jpg" data-tags="mellow, boz scaggs" role="button">
+Boz Scaggs - Fade Into Light (1996-11-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
 </li>
@@ -71,6 +74,9 @@ Richard Ashcroft - Alone With Everybody (2000-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
+Citizen Cope - Citizen Cope (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -117,9 +123,6 @@ Evanescence - Bring Me to Life (2003-04-14)
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
-Gavin DeGraw - Chariot (2003-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e506c2-e6d6-4d06-8490-160ed6fdd337/26004122565-500.jpg" data-tags="indie" role="button">
 Elbow - Cast of Thousands (2003-08-13)
 </li>
@@ -128,9 +131,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/sRpday8nGi8Dve2m_7YHoJLOcYE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393564-1598195085-4722.jpeg.jpg" data-tags="rock, folk, mellow, 2000s, cosmic american music, annymix, singing songwriters, m singer-songwriter, worn-out from overplay, pat78, misc2, steve radio, wont play" role="button">
 Rocky Votolato - Suicide Medicine (2003-09-16)
-</li>
-<li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
-Dave Matthews - Some Devil (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
@@ -143,9 +143,6 @@ The Shins - Chutes Too Narrow (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/94982128-51c8-3a44-b77c-ec78be7d8e5f/20542671034-500.jpg" data-tags="sarah mclachlan" role="button">
 Sarah McLachlan - Afterglow (2003-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
@@ -168,11 +165,17 @@ Jack Johnson - In Between Dreams (2005-02-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
-Aqualung - Strange and Beautiful (2005-03-22)
+<li data-cover="http://coverartarchive.org/release/9483e9ed-b96e-4e93-bb29-12d6a37bf9d8/5217790189-500.jpg" data-tags="acoustic, mellow" role="button">
+Antony and the Johnsons - Hope There's Someone (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
+Jason Mraz - Mr. A-Z (2005-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ed8c8b4-86f2-4a16-af75-9854bf06d705/6370490470-500.jpg" data-tags="indie, mellow, danish" role="button">
+Spleen United - Godspeed Into the Mainstream (2005-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
@@ -197,9 +200,6 @@ Ingrid Michaelson - Girls and Boys (2006-05-16)
 </li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">
 Joshua Radin - We Were Here (2006-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/ceeb60bd-f3d2-4b9e-988f-86555d894a21/19686688331-500.jpg" data-tags="indie, mellow" role="button">
-Death Cab for Cutie - I Will Follow You into the Dark (2006-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
 Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
@@ -261,9 +261,6 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="http://coverartarchive.org/release/35aa1419-4284-47e8-ac73-b16996d4a4b3/4394764411-500.jpg" data-tags="folk" role="button">
 Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
-Jem - Down to Earth (2008-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/685525ef-772a-4435-b6d4-c890c6aa69c1/15447134455-500.jpg" data-tags="indie rock" role="button">
 Margot & the Nuclear So and So's - Not Animal (2008-10-07)
 </li>
@@ -282,9 +279,6 @@ Jenny Owen Youngs - Transmitter Failure (2009-05-26)
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/e573d81f-7244-4ac7-9c2b-7e4e4c11586f/4199682719-500.jpg" data-tags="indie, singer-songwriter, folk, indie pop" role="button">
-Ingrid Michaelson - Everybody (2009-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
@@ -297,11 +291,17 @@ Rumer - Seasons of My Soul (2010-08-23)
 <li data-cover="https://img.discogs.com/rr26sxfe7gqQHH01qVYHndxpgOs=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2618033-1293524419.jpeg.jpg" data-tags="mellow" role="button">
 Sun Airway - Nocturne of Exploded Crystal Chandelier (2010-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
+Miguel - All I Want Is You (2010-11-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/098d397a-6528-4a84-b282-14d19c02e647/5129304980-500.jpg" data-tags="pop, folk, acoustic" role="button">
+Colbie Caillat - All of You (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2df28d24-51e2-4b2a-85cb-ce4f58fb4d6b/11616367011-500.jpg" data-tags="indie" role="button">
 Blind Pilot - We Are The Tide (2011-09-13)

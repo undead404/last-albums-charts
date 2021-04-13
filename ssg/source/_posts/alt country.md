@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:06:07.149Z
+date: 2021-04-13T05:56:18.248Z
 title: "alt country: 100 albums you must listen to before you die"
 ---
 ![Great Lake Swimmers - New Wild Everywhere (2012-04-02)](http://coverartarchive.org/release/3d67f630-15d5-4a80-a6b7-fedbd85965cb/3846383791-500.jpg "Great Lake Swimmers - New Wild Everywhere (2012-04-02)")
@@ -147,9 +147,6 @@ NQ Arbuckle - Hanging the Battle-Scarred Pinata (2002)
 <li data-cover="https://img.discogs.com/P_vH3HmenRo7qYUmVfqmjjOMyWw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4607714-1369782438-7689.jpeg.jpg" data-tags="alt-country, live, alt country, colorado, allmusicd" role="button">
 Drag the River - Live At The Starlight (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/811b3901-418d-402b-a340-e62ef095f3ec/24884633351-500.jpg" data-tags="americana, alt-country" role="button">
-Richmond Fontaine - Winnemucca (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/7526f28a-fd50-46b5-8913-7b4b0c337ba7/4138111728-500.jpg" data-tags="country, alt country" role="button">
 Uncle Tupelo - 89/93: An Anthology (2002-03-19)
 </li>
@@ -174,6 +171,9 @@ Drive-By Truckers - Decoration Day (2003-06-17)
 <li data-cover="http://coverartarchive.org/release/d636f961-13b9-35a7-834b-52431d503892/1966538853-500.jpg" data-tags="alt-country, post-punk" role="button">
 16 Horsepower - Olden (2003-08-04)
 </li>
+<li data-cover="https://img.discogs.com/ZvtOFrDrTzxj6A3zW6eFwrRh_nM=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1192051-1558194527-8215.mpo.jpg" data-tags="indie, uk, alt country, liverpool, the stands, howie payne, howard eliott payne" role="button">
+The Stands - When This River Rolls Over You (2003-08-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/9d881edb-525b-338e-8ac3-f676ae62a0bd/18894776797-500.jpg" data-tags="americana, alt-country, alt country, apricot, centro fuzz, new americana, american indie, the dc - 00s, b2003, the poets, alt-cr, the harrisburg family band" role="button">
 Centro-matic - Love You Just the Same (2003-09-02)
 </li>
@@ -182,6 +182,9 @@ My Morning Jacket - It Still Moves (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4754ba5-6ebe-49ac-8864-a016dfbb1aa7/22020134807-500.jpg" data-tags="canadian, psychedelic, alt-country" role="button">
 The Sadies - Favourite Colours (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/684784f5-2572-4b66-a8b0-09cc650cc8b0/24771348197-500.jpg" data-tags="indie pop, singer-songwriter, americana, alt country, female artists, roots rock" role="button">
+Michelle Anthony - Stand Fall Repeat (2004)
 </li>
 <li data-cover="https://img.discogs.com/Ll4UmHzi8za-g1vIYRxqR4pnTTY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509839-1605614053-3155.jpeg.jpg" data-tags="indie, liverpool" role="button">
 The Stands - All Years Leaving (2004-02-23)
@@ -200,9 +203,6 @@ Bruce Springsteen - Devils & Dust (2005-04-25)
 </li>
 <li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
 Lucero - Nobody's Darlings (2005-05-24)
-</li>
-<li data-cover="https://img.discogs.com/O55sVATz4rN_J3xarQKi6d2Xwo4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1636135-1490076964-8196.jpeg.jpg" data-tags="americana" role="button">
-Richmond Fontaine - Obliteration By Time (2005-08-16)
 </li>
 <li data-cover="https://img.discogs.com/7GgSkS-kefa3tjaalvpL_ltclqY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573831-1335818875.jpeg.jpg" data-tags="singer-songwriter, country, alt-country" role="button">
 James McMurtry - Childish Things (2005-09-06)
@@ -303,11 +303,11 @@ The Black Heart Procession - Six (2009-10-06)
 <li data-cover="https://img.discogs.com/l7LWi0aZ5pDiIOYrw_f7axpg3tM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259033-1288908723.jpeg.jpg" data-tags="folk" role="button">
 Phosphorescent - Here's To Taking It Easy (2010-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/70750d05-c991-325b-9dd3-c58847d2defa/17697700032-500.jpg" data-tags="alternative, americana, alt-country, alt country, 10s, gothic country, gothic americana, merkliste, alternative roots, band records, chaser iii" role="button">
-Giant Sand - Blurry Blue Mountain (2010-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c2eb578-f6e1-4b2c-8151-ae2d809a402b/13142591908-500.jpg" data-tags="americana" role="button">
 Dead Man Winter - Bright Lights (2011-08-16)
+</li>
+<li data-cover="https://img.discogs.com/Dik0zO6N8CvqzLmW08nYSdPi-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16383534-1607418958-7067.jpeg.jpg" data-tags="americana, alt-country, rock and roll, alt country, alternative country, chicago, roots rock, milwaukee, no depression, alt.country, american rock, this is american music, avalanche, post hitching post, post card, post cards from hell" role="button">
+R. Mutt - Leash on Life (2011-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

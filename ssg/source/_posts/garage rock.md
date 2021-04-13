@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:36:01.473Z
+date: 2021-04-13T05:52:12.707Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -135,9 +135,6 @@ Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 <li data-cover="https://img.discogs.com/8aWKmjiYtPDbsOJJq0-x4lq5NVg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529572-1286081970.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - No Wow (2005-02-21)
 </li>
-<li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
-The Raveonettes - Pretty in Black (2005-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
 </li>
@@ -183,9 +180,6 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
 The White Stripes - Icky Thump (2007-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b6299d4-08c1-3a0f-8877-e64fd41b1c17/26142553847-500.jpg" data-tags="indie rock" role="button">
-Black Lips - Good Bad Not Evil (2007-09-11)
-</li>
 <li data-cover="https://img.discogs.com/BS9szXthfJOnOhpAU-M2m1qkbNI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475888-1297466983.jpeg.jpg" data-tags="rock, alternative rock, garage rock, 00s, rock am ring 2008" role="button">
 Madsen - Frieden im Krieg (2008-03-07)
 </li>
@@ -225,6 +219,9 @@ Jet - Shaka Rock (2009-08-19)
 <li data-cover="https://img.discogs.com/WJJaa67H8k15qkvbZwJav9hCKI8=/fit-in/499x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981851-1256551273.jpeg.jpg" data-tags="garage rock, rock" role="button">
 The Raveonettes - In and Out of Control (2009-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/654ce88a-d446-49e4-9717-4bf756dfa018/7781130461-500.jpg" data-tags="lo-fi, garage rock, flawless" role="button">
+The King Khan & BBQ Show - Invisible Girl (2009-11-03)
+</li>
 <li data-cover="https://img.discogs.com/aA3RVJjvze2xNkabfnIrXxmeiok=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4743186-1533818145-8384.jpeg.jpg" data-tags="indie rock" role="button">
 Blood Red Shoes - Fire Like This (2010-02-10)
 </li>
@@ -245,6 +242,9 @@ The Young Veins - Take A Vacation! (2010-06-08)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
+</li>
+<li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
+Women - Public Strain (2010-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
@@ -291,9 +291,6 @@ Wavves - Afraid Of Heights (2013-03-26)
 <li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">
 Beady Eye - BE (2013-06-05)
 </li>
-<li data-cover="https://img.discogs.com/jk1sYLoZ6SO8vcZa0Z4g_nkZ79I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4831499-1388054309-1654.jpeg.jpg" data-tags="garage rock" role="button">
-Drenge - drenge (2013-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/2be2a198-cb9a-4f00-848f-bcfaebb034e3/5355867457-500.jpg" data-tags="garage rock, psychedelic rock" role="button">
 Fuzz - Fuzz (2013-10-01)
 </li>
@@ -302,6 +299,9 @@ Cage the Elephant - Melophobia (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7d405e0-9fb9-4fd4-85f8-f5259ccc37df/8102247250-500.jpg" data-tags="garage rock, garage punk" role="button">
 together PANGEA - Badillac (2014-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/041ad0da-07b6-40ae-a244-c3264743d14d/13585344129-500.jpg" data-tags="indie, rock, british, alternative, alternative rock, indie rock, female vocalists, stoner rock, garage rock" role="button">
+Blood Red Shoes - Blood Red Shoes (2014-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

@@ -1,18 +1,18 @@
 ---
-date: 2021-04-12T23:10:12.713Z
+date: 2021-04-13T06:33:18.263Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/76950ab9-6622-4e21-b6e1-db3e6f3f9f8d/9432824321-500.jpg" data-tags="alternative, awesome songs" role="button">The Cranberries - Stars (2002-10)</li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">Black Eyed Peas - Elephunk (2003-06-24)</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">Ashlee Simpson - Autobiography (2004-07-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stephen fretwell" role="button">Stephen Fretwell - Magpie (2004-11-22)</li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">Metric - Live It Out (2005-10-04)</li>
-<li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">Ashlee Simpson - I Am Me (2005-10-13)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists" role="button">Anna Ternheim - Leaving On A Mayday (2008-11-12)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">Azealia Banks - Fantasea (2012-07-11)</li>
-<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">Odesza - Summer's Gone (2012-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">Sara Bareilles - The Blessed Unrest (2013-07-16)</li>
 </ol>
 List of 100 - under the cut.
@@ -65,6 +65,9 @@ Mary Gauthier - Drag Queens in Limousines (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/de75f45c-44b0-4ab1-829f-12077a27bc3a/24951821000-500.jpg" data-tags="ska punk, female vocals, pop-punk" role="button">
 Dance Hall Crashers - Purr (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/90ad3c7a-e476-4956-a142-a82a251b9bcd/5293951073-500.jpg" data-tags="power metal" role="button">
+Sinergy - Beware the Heavens (1999-05-10)
 </li>
 <li data-cover="https://img.discogs.com/bYUT2UMYcakvfZRqjWWL7MFcjw8=/fit-in/397x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100570-1498662423-2513.png.jpg" data-tags="easy listening, female vocals, favourite country albums, reba mc entire, entire" role="button">
 Reba McEntire - So Good Together (1999-11-23)
@@ -156,9 +159,6 @@ Draconian - Arcane Rain Fell (2005-01-24)
 <li data-cover="http://coverartarchive.org/release/c6b02e4f-6081-486a-a47d-b2e58a1821e6/9545106519-500.jpg" data-tags="jazz, latin, swing, female vocals" role="button">
 Chiara Civello - Last Quarter Moon (2005-02-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd03503e-ae8f-4059-b78d-6816bdfac2f1/4802046549-500.jpg" data-tags="rock, indie rock, vocals, female vocals, victory records" role="button">
-The Forecast - Late Night Conversations (2005-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f4c2e4e-4b53-473a-b573-bc2a373a63b0/1027102711-500.jpg" data-tags="gothic metal" role="button">
 Forever Slave - Alice's Inferno (2005-05-26)
 </li>
@@ -170,9 +170,6 @@ After Forever - Remagine (2005-09-09)
 </li>
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">
-Ashlee Simpson - I Am Me (2005-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
@@ -246,6 +243,9 @@ Addison Road - Addison Road (2008-03-18)
 <li data-cover="http://coverartarchive.org/release/9ca35ad8-ad20-438a-b912-553e5bcd5fd7/18285337556-500.jpg" data-tags="female vocalists, folk" role="button">
 Martha Wainwright - I Know You're Married But I've Got Feelings Too (2008-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/f7cee61c-3d55-45e7-acfd-e666464742fd/20252766387-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Jolie Holland - The Living And The Dead (2008-10-07)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists" role="button">
 Anna Ternheim - Leaving On A Mayday (2008-11-12)
 </li>
@@ -254,6 +254,9 @@ Lunik - Preparing To Leave (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/b88dbd5b-9d4e-49d8-a4ea-1634b9dfa5e1/14885682991-500.jpg" data-tags="jazz" role="button">
 Madeleine Peyroux - Bare Bones (2009-01-01)
+</li>
+<li data-cover="https://img.discogs.com/bKKaoaQCA2aak43BD1APQPJT5wk=/fit-in/371x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921521-1252604182.jpeg.jpg" data-tags="post-metal, progressive metal, post-rock, sludge" role="button">
+Giant Squid - The Ichthyologist (2009-02-03)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
@@ -299,9 +302,6 @@ Rita Ora - ORA (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cfa85d0-5c26-46c8-9d4f-2b4a28da13bc/3782260127-500.jpg" data-tags="pop, female vocals" role="button">
 Agnes - Veritas (2012-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
-Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3688b2a9-3d34-4093-bebd-de46a5249d0b/16069645317-500.jpg" data-tags="rock, christian rock, female vocals, 2010s rock, tyde moore radio" role="button">
 Plumb - Need You Now (2013-02-26)

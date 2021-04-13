@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:07:12.579Z
+date: 2021-04-13T05:55:01.494Z
 title: "death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -27,9 +27,6 @@ Possessed - Seven Churches (1985-12)
 <li data-cover="http://coverartarchive.org/release/2ba42c9d-f654-4214-9fbb-a5d694d955d1/10153737082-500.jpg" data-tags="death metal" role="button">
 Death - Scream Bloody Gore (1987-05-25)
 </li>
-<li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal" role="button">
-Death - Leprosy (1988-11-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/0e47ca20-9a60-3bd0-afe0-a1e090a75f5e/7696681002-500.jpg" data-tags="death metal" role="button">
 Morbid Angel - Altars of Madness (1989)
 </li>
@@ -50,6 +47,9 @@ Morbid Angel - Blessed Are The Sick (1991-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/33145562-42b2-37cb-816a-ee4b85e68f09/10372497864-500.jpg" data-tags="death metal" role="button">
 Carcass - Necroticism: Descanting the Insalubrious (1991-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/b83458f4-58db-4b00-952d-1c3890b3fd1b/5852144410-500.jpg" data-tags="death metal" role="button">
+Suffocation - Effigy of the Forgotten (1991-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
@@ -105,14 +105,17 @@ Amon Amarth - Once Sent From The Golden Hall (1998-02-10)
 <li data-cover="http://coverartarchive.org/release/4ed3dc1c-6628-3c40-b0d8-7743b4b068fa/10518410932-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Gallery of Suicide (1998-04-21)
 </li>
+<li data-cover="https://img.discogs.com/1shcZ_nz2dW62FBfbV2quvbpRMU=/fit-in/387x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6282818-1417876455-8639.jpeg.jpg" data-tags="death metal" role="button">
+Nile - Amongst the Catacombs of Nephren-Ka (1998-05-28)
+</li>
 <li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - My Arms, Your Hearse (1998-06-15)
 </li>
 <li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal, progressive death metal" role="button">
 Death - The Sound of Perseverance (1998-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - Chaosphere (1998-11-09)
+<li data-cover="http://coverartarchive.org/release/03e57137-2148-47a5-91dc-b1b1712c29a6/15853434772-500.jpg" data-tags="death metal" role="button">
+Bolt Thrower - Mercenary (1998-11-21)
 </li>
 <li data-cover="https://img.discogs.com/30uyFtAZJEV31TOb6ptiuyTfWNo=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14124075-1568294351-2205.jpeg.jpg" data-tags="melodic death metal" role="button">
 In Flames - Colony (1999-05-21)
@@ -138,9 +141,6 @@ Amon Amarth - The Crusher (2001-02-28)
 <li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b14c7eeb-8aea-3355-b098-329379366fed/18251365994-500.jpg" data-tags="death metal, progressive metal, progressive death metal" role="button">
-Gojira - Terra Incognita (2001-03-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/d20a123d-47a2-3868-bdc9-8e9b0fd73af5/3999982595-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Wages of Sin (2001-04-25)
 </li>
@@ -152,6 +152,9 @@ Decapitated - Nihility (2002-02-25)
 </li>
 <li data-cover="https://img.discogs.com/beYJ0vbaSav1h-ZJJYwvtYASWtg=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6507757-1447088929-2827.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Nile - In Their Darkened Shrines (2002-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/56227a63-1cc7-30b6-bfc5-42b89d3ac3cd/9348490433-500.jpg" data-tags="death metal, blackened death metal" role="button">
+Behemoth - Zos Kia Cultus (2002-10-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Deliverance (2002-11-04)
@@ -170,6 +173,9 @@ Gojira - The Link (2003-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d3d864-f05a-3b15-81c8-4aad94f9b2c7/8474027276-500.jpg" data-tags="groove metal, metalcore, thrash metal" role="button">
 Lamb of God - As the Palaces Burn (2003-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfbea67f-b49e-44e7-813e-86b86f651d6b/7867314703-500.jpg" data-tags="melodic death metal" role="button">
+The Black Dahlia Murder - Unhallowed (2003-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/74651db6-e310-47a7-9012-64f029215bea/6829477835-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Anthems of Rebellion (2003-07-30)
@@ -231,6 +237,9 @@ Roadrunner United - The All-Star Sessions (2005-10-11)
 <li data-cover="http://coverartarchive.org/release/5ac6508f-8d11-3971-8277-afac23cc6ce7/15853410132-500.jpg" data-tags="death metal" role="button">
 Bolt Thrower - Those Once Loyal (2005-11-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+All That Remains - The Fall of Ideals (2006-01-01)
+</li>
 <li data-cover="https://img.discogs.com/9CWO3FwEBBr7PT8G-1lxFCixGEg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5672654-1399549791-9095.jpeg.jpg" data-tags="melodic death metal" role="button">
 In Flames - Come Clarity (2006-02-01)
 </li>
@@ -264,26 +273,20 @@ Job for a Cowboy - Genesis (2007-05-15)
 <li data-cover="http://coverartarchive.org/release/5c72f5ea-ce1d-33b3-8d0a-32c6901faffb/18352306915-500.jpg" data-tags="death metal, technical death metal" role="button">
 Nile - Ithyphallic (2007-07-17)
 </li>
-<li data-cover="https://img.discogs.com/SXMY9TtYg2E3iEpMij1FAB_u5S0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087368-1191066313.png.jpg" data-tags="death metal, metalcore" role="button">
-Divine Heresy - Bleed The Fifth (2007-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0953194-8ace-4e84-ab7b-9055928fff96/7867330959-500.jpg" data-tags="melodic death metal" role="button">
 The Black Dahlia Murder - Nocturnal (2007-09-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Suicide Silence - The Cleansing (2007-09-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">
-Dethklok - The Dethalbum (2007-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - ObZen (2008-02-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
 Opeth - Watershed (2008-05-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 All Shall Perish - Awaken the Dreamers (2008-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d74eaf35-305c-4218-87a2-bf1f67ed9d5f/929423406-500.jpg" data-tags="metalcore" role="button">
+All That Remains - Overcome (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/96cf1767-5939-3713-9986-98979c3bcc1e/14258133969-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Twilight of the Thunder God (2008-09-17)
@@ -303,14 +306,11 @@ Job for a Cowboy - Ruination (2009-07-06)
 <li data-cover="https://img.discogs.com/K20rSftvVzZehMnMB2Y9L-xRBOs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464875-1331417514.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Evangelion (2009-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/6962a5f0-5687-3375-a966-c05fd15784db/996874208-500.jpg" data-tags="death metal, melodic death metal" role="button">
-Dethklok - Dethalbum II (2009-09-29)
+<li data-cover="https://img.discogs.com/EFeKGOoG-_vRbcNpss1CfvPEYBw=/fit-in/515x412/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2429943-1324418451.jpeg.jpg" data-tags="death metal" role="button">
+Vader - Necropolis (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7552ce8-03e9-38c6-affa-ee1a27cbd1d9/9692347450-500.jpg" data-tags="death metal, technical death metal" role="button">
 Nile - Those Whom the Gods Detest (2009-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">
-Childish Gambino - Camp (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/81ae5b5b-9905-46b1-9f6e-acaec406cace/1308873479-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Gojira - L'Enfant Sauvage (2012-06-20)

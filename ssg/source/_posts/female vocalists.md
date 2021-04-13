@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:26:01.504Z
+date: 2021-04-13T05:59:01.532Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -74,6 +74,9 @@ Whitney Houston - My Love Is Your Love (1999-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Christina Aguilera (1999-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
+Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
@@ -188,9 +191,6 @@ Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
 Christina Aguilera - Back to Basics (2006-08-14)

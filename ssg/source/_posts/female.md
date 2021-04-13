@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:25:12.696Z
+date: 2021-04-13T06:43:07.075Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Sia - Some People Have Real Problems (2008-01-08)](http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg "Sia - Some People Have Real Problems (2008-01-08)")
@@ -66,9 +66,6 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="http://coverartarchive.org/release/b6ddf947-3515-4c8d-8143-04dfb60190b0/16619425615-500.jpg" data-tags="rock" role="button">
 Sheryl Crow - Sheryl Crow (1996-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/9af39462-c1a0-4c45-b1c9-300ba2490f6a/4155878252-500.jpg" data-tags="vocal, female vocalists, female" role="button">
-Sarah Brightman - Timeless (1997-05-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/cd2699c3-5825-45fa-9133-facb02651524/14670573584-500.jpg" data-tags="female vocalists" role="button">
 Lisa Loeb - Firecracker (1997-10-27)
 </li>
@@ -98,6 +95,9 @@ Eva Cassidy - Time After Time (2000-06-20)
 </li>
 <li data-cover="https://img.discogs.com/dad_uOOkTV5u0C4LInvxmZrnPT0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044460-1508110044-3197.jpeg.jpg" data-tags="pop" role="button">
 Spice Girls - Forever (2000-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d29024bf-1bfc-4dc5-aac7-5fb647e6a0cb/4258469734-500.jpg" data-tags="pop" role="button">
+Mandy Moore - Mandy Moore (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
@@ -140,9 +140,6 @@ Céline Dion - 1 fille & 4 types (2003-10-14)
 </li>
 <li data-cover="https://img.discogs.com/O5LxXdNho2lXDt3ioVMXVKH9aD8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2598767-1476194806-3076.jpeg.jpg" data-tags="female, pop, soul, american, male vocalist, 00s, beat, bubblegum, boy" role="button">
 Nick Lachey - Soulo (2003-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/e912qrOd4otrTGXFzAlyA8eDNc8=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2926815-1307657118.jpeg.jpg" data-tags="worship" role="button">
 Bethany Dillon - Bethany Dillon (2004-04-20)
@@ -209,6 +206,9 @@ Kellie Pickler - Small Town Girl (2006-10-31)
 </li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/02b43846-e217-4ce7-bf14-8d6399887045/10565200756-500.jpg" data-tags="female, canadian" role="button">
+Serena Ryder - If Your Memory Serves You Well (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/928062a1-5cd9-4c6a-b320-3935dc67d684/23270456321-500.jpg" data-tags="symphonic metal" role="button">
 Evanescence - In The Shadows (2007)

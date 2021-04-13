@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:42:01.452Z
+date: 2021-04-13T06:31:06.953Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
 ![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
@@ -168,6 +168,9 @@ Bloodsucking Zombies from Outer Space - See You at Disneyland (2004-06-14)
 <li data-cover="https://img.discogs.com/yasJH7j7KAYMBwjM8uWrUKNmibk=/fit-in/250x249/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848493-1165089176.jpeg.jpg" data-tags="horror punk" role="button">
 Dr. Chud's X-Ward - Diagnosis for Death (2004-06-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d2cc4fe-edad-420c-86ab-cd8081ee4b5e/5569190784-500.jpg" data-tags="punk, horror punk" role="button">
+Under a Nightmare - Valley of the Scarecrow (2004-10-28)
+</li>
 <li data-cover="https://img.discogs.com/uRC95Fvu1DbaPf1va_2HPUDfo8w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-854582-1165698667.jpeg.jpg" data-tags="horror punk" role="button">
 American Werewolves - 1968 (2005)
 </li>
@@ -266,9 +269,6 @@ Aiden - Knives (2009-05-12)
 </li>
 <li data-cover="https://img.discogs.com/PeGyH-NmeEWefNqkUPXuB4xdGUM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006166-1258112692.jpeg.jpg" data-tags="horror punk" role="button">
 NIM VIND - The Stillness Illness (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/df1fe5f5-c7d4-4e39-ac73-7c06c8871a2d/11254985934-500.jpg" data-tags="free albums, zorch factory" role="button">
-Los Carniceros del Norte - Poe is Dead (2009-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec8f9d52-81e0-4d23-ac26-7489700b6007/16751009717-500.jpg" data-tags="horror punk" role="button">
 The Rosedales - Once Upon A Season (2009-10-31)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T04:25:23.772Z
+date: 2021-04-13T06:40:12.661Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
@@ -24,11 +24,11 @@ _________________
 <li data-cover="https://img.discogs.com/FkPoqhf-bwaaKWVotxSVKE1Bcgs=/fit-in/499x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930383-1271475672.jpeg.jpg" data-tags="thrash metal, speed metal" role="button">
 Iron Angel - Hellish Crossfire (1985)
 </li>
+<li data-cover="https://img.discogs.com/LapFjM5mNiMOk3pM40rIaz2KDlU=/fit-in/540x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7981454-1452873467-4519.jpeg.jpg" data-tags="german metal, old school thrash metal, brutal thrash metal, thrash like its 86" role="button">
+Deathrow - Satan's Gift (1986)
+</li>
 <li data-cover="https://img.discogs.com/jQ3weI4V5fXCp-ONpGOQEhzYJKw=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659565-1424047304-5456.jpeg.jpg" data-tags="heavy metal, 80s, speed metal, germany, german, live, power metal, melodic metal, live album, german metal, helloween, very favorite" role="button">
 Helloween - Keepers Live (1989-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e7b23612-a3f3-41d4-8293-167532ad1b6f/21718519556-500.jpg" data-tags="rock" role="button">
-Michael Schenker Group - Save Yourself (1989-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b6ae345-cbc6-4efe-8eb3-0f3514b9c378/15332954939-500.jpg" data-tags="heavy metal" role="button">
 Axel Rudi Pell - Wild Obsession (1989-12-01)

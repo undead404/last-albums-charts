@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T03:04:01.482Z
+date: 2021-04-13T05:46:06.957Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -53,9 +53,6 @@ Sigur Rós - ágætis byrjun (1999-06)
 </li>
 <li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
-Trespassers William - Different Stars (2002-09-28)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
@@ -206,6 +203,9 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
 Frankie Rose - Interstellar (2012-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
+Memoryhouse - The Slideshow Effect (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/70269af0-7dd9-4259-922e-06d175ee5d29/11038884047-500.jpg" data-tags="dream pop" role="button">
 School of Seven Bells - Ghostory (2012-02-27)

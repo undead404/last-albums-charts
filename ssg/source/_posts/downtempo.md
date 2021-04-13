@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:21:18.337Z
+date: 2021-04-13T05:45:13.027Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -258,6 +258,9 @@ Bonobo - Black Sands (2010-03-13)
 <li data-cover="https://img.discogs.com/919YIsbdDronYcWg-QlgI_A0hcA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2321464-1285252909.jpeg.jpg" data-tags="downtempo, dubstep, r&s" role="button">
 James Blake - CMYK EP (2010-05-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
+Morcheeba - Blood Like Lemonade (2010-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
@@ -278,9 +281,6 @@ Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/d31ab1ea-1963-430f-8f98-5b809b677680/7454411761-500.jpg" data-tags="electronic, downtempo, vocals, chill-out, male vocals, 2010s, 2012 releases, downtown records, fontana north" role="button">
-Chet Faker - Thinking in Textures (2012-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">
 C2C - Tetra (2012-08-03)

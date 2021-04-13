@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:56:01.498Z
+date: 2021-04-13T06:04:12.695Z
 title: "dance-pop: 100 albums you must listen to before you die"
 ---
 ![Robyn - Body Talk (2010-11-22)](https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg "Robyn - Body Talk (2010-11-22)")
@@ -111,9 +111,6 @@ Willa Ford - Willa Was Here (2001-07-17)
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
 </li>
-<li data-cover="https://img.discogs.com/3CK529HiIwzc3kNoo8mCsUeO140=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7268457-1437683277-8109.jpeg.jpg" data-tags="pop" role="button">
-Geri Halliwell - Scream If You Wanna Go Faster (2001-07-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
 </li>
@@ -209,6 +206,9 @@ Sleigh Bells - Sleigh Bells (2009-12-06)
 </li>
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/676b2692-469f-42fb-9cf2-81e641cb3220/10152979961-500.jpg" data-tags="samantha fox" role="button">
+Samantha Fox - Greatest Hits (2009-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/136eebff-5327-484f-898c-667787fce226/5552935179-500.jpg" data-tags="electropop, pop" role="button">
 Florrie - Introduction (2010)

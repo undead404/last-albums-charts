@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:35:01.468Z
+date: 2021-04-13T06:21:01.481Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![PJ Harvey - White Chalk (2007-09-19)](http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg "PJ Harvey - White Chalk (2007-09-19)")
@@ -72,6 +72,9 @@ Ludwig van Beethoven - The Best of Beethoven (1987)
 <li data-cover="https://img.discogs.com/GS663S7sapeLe0VxWsvOmdwK3tg=/fit-in/598x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2174292-1356312695-5687.jpeg.jpg" data-tags="piano, new age, instrumental" role="button">
 David Lanz - Cristofori's Dream (1988)
 </li>
+<li data-cover="https://img.discogs.com/zNLZ3Hrlmp91atkoGEFFc5PvUOM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3057886-1313713161.jpeg.jpg" data-tags="piano" role="button">
+Suzanne Ciani - Pianissimo (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf97f282-5f26-49b1-8afb-8ac8cfc3bf80/27173497819-500.jpg" data-tags="instrumental, yanni, piano" role="button">
 Yanni - Dare To Dream (1992-03-10)
 </li>
@@ -141,9 +144,6 @@ Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
 <li data-cover="http://coverartarchive.org/release/d9882d0a-35e8-416d-a42e-aa80ddb8baa1/4084831021-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Good Bye Lenin! (2003-02-18)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4190b11-26fe-4a7e-a667-bae88a9634c2/9519022390-500.jpg" data-tags="piano" role="button">
 Myleene Klass - Moving On (2003-10-20)
 </li>
@@ -170,9 +170,6 @@ Eluvium - An Accidental Memory in the Case of Death (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/25033b7a-0456-4b3a-85fb-6de1b84100a4/4544384006-500.jpg" data-tags="piano" role="button">
 Craig Armstrong - Piano Works (2004-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
-Rachael Yamagata - Happenstance (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
 Charlotte Martin - On Your Shore (2004-08-10)
@@ -216,6 +213,9 @@ Aaron Goldberg - Worlds (2006-05-09)
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Damien Rice - 9 Crimes (2006-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
 </li>
@@ -240,6 +240,9 @@ Philip Wesley - Dark Night of the Soul (2008)
 <li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
 Balmorhea - Rivers Arms (2008-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/56b5fa9e-a0e1-4ce3-b94e-c87b74a836c2/27639731930-500.jpg" data-tags="indie" role="button">
+The Hush Sound - Goodbye Blues (2008-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/466e6aaf-b8da-484a-a772-c0702f91ffa1/3366571520-500.jpg" data-tags="polish, piano, alternative" role="button">
 Julia Marcell - It Might Like You (2008-05-14)
 </li>
@@ -248,9 +251,6 @@ Ben Woods - A Collection of Thoughts (2008-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
 DJ Okawari - Diorama (2008-05-28)
-</li>
-<li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
-Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/nUSACfkXeCvn3FVOnxiQ7l9WtI0=/fit-in/545x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1923978-1260962451.jpeg.jpg" data-tags="rock" role="button">
 The Fray - You Found Me (2008-11-21)
@@ -281,9 +281,6 @@ Woodkid - Iron EP (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/419220a5-5c9b-4cfa-94d3-a71e876cf4ba/4049193215-500.jpg" data-tags="blues" role="button">
 Hugh Laurie - Let Them Talk (2011-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
-Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a48befb-4dc8-4341-873b-7cf9f3dcc8c6/17844698394-500.jpg" data-tags="alternative rock" role="button">
 Keane - Silenced by the Night (2012-03-19)
@@ -317,6 +314,9 @@ A Great Big World - Is There Anybody Out There? (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
+</li>
+<li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
+Nicki Minaj - The Pinkprint (2014-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d72cb62-da0c-4706-a59f-7209ff571f6b/8989466671-500.jpg" data-tags="jazz, soul, piano" role="button">
 Benjamin Clementine - At Least For Now (2015-01-12)

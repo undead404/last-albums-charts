@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:20:01.542Z
+date: 2021-04-13T06:13:01.470Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Zero 7 - Simple Things (2001-04-23)](http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg "Zero 7 - Simple Things (2001-04-23)")
@@ -38,6 +38,9 @@ Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
+</li>
+<li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
@@ -299,9 +302,6 @@ King Krule - King Krule (2011-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/360ec8be-ecb2-4229-b4f6-7424e40c9d1d/7931664102-500.jpg" data-tags="chillout, electronic, dance, house, deep house, dutch, liebe ich" role="button">
 Bakermat - One Day (Vandaag) (2012-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
-Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Shields (2012-09-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:45:01.796Z
+date: 2021-04-13T06:17:01.459Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")

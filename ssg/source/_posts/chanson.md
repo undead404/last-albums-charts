@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T10:19:01.595Z
+date: 2021-04-13T06:03:01.455Z
 title: "chanson: 100 albums you must listen to before you die"
 ---
 ![Zaz - Zaz (2010-05-10)](http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg "Zaz - Zaz (2010-05-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/09f42d29-00db-4383-ae25-887d359a69de/13141411398-500.jpg" data-tags="german" role="button">Element of Crime - Weißes Papier (1993-01-21)</li>
+<li data-cover="http://coverartarchive.org/release/ef7832c2-369c-40c3-a148-527e2b59c5b6/3496279385-500.jpg" data-tags="french" role="button">Georges Brassens - La Mauvaise Réputation (2001)</li>
 <li data-cover="https://img.discogs.com/wJbOf-gWcNiqZ8DWYKZ905Qap1o=/fit-in/419x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4902343-1378929554-8162.jpeg.jpg" data-tags="chanson, chill, progressive rock" role="button">Pete Francis - Untold (2003-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/93eae62d-ebed-444a-9b08-445bb4a843db/16354177755-500.jpg" data-tags="chanson, chanson française, jacques brel" role="button">Jacques Brel - Infiniment (2003-09-23)</li>
-<li data-cover="https://img.discogs.com/krZc4oV8ormEt0DY_XKT1-w2-ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1132866-1194713551.jpeg.jpg" data-tags="french" role="button">Keren Ann - Not Going Anywhere (2003-11-25)</li>
 <li data-cover="https://img.discogs.com/95qltZWYT3KzLqO9Ybk6XuEmDvQ=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2431321-1485412944-8601.jpeg.jpg" data-tags="french, chanson" role="button">Nino Ferrer - Nino Ferrer (2004)</li>
 <li data-cover="http://coverartarchive.org/release/8ae59a90-6a70-3305-a527-6b8bfb1c39bd/8464425666-500.jpg" data-tags="french" role="button">Jane Birkin - RENDEZ-VOUS (2004-03-29)</li>
 <li data-cover="https://img.discogs.com/jz0cMkSUyRRsVV2szdP4oiG9y44=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8826647-1469599034-9160.jpeg.jpg" data-tags="chanson, pop" role="button">Annett Louisan - Bohème (2004-10-25)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/Lix6_Dky96VTU_b5FddzryyerFc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14394507-1577309094-5387.jpeg.jpg" data-tags="chanson, l3a1e5da4n15l1" role="button">
+Jacques Brel - Au printemps (1958)
+</li>
 <li data-cover="http://coverartarchive.org/release/bdd8d625-76de-39eb-8b19-9401c974a564/27820133528-500.jpg" data-tags="chanson" role="button">
 Jacques Brel - La Valse À Mille Temps (1959)
 </li>
@@ -32,9 +35,6 @@ Georges Brassens - Chanson pour l'auvergnat (1965)
 </li>
 <li data-cover="https://img.discogs.com/6jervz-6OOpoTtsb80o2xOd55oM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17038674-1611270674-1560.jpeg.jpg" data-tags="chanson, singer-songwriter" role="button">
 Georges Brassens - Les Trompettes de la renommée (1965)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc47ee20-d80c-44b2-a7a2-be977d5ffee1/20376528344-500.jpg" data-tags="chanson, chanson française, jacques brel, brel, gammarec, freepurp1e, rive gauche, l3a1e5da4n15l1" role="button">
-Jacques Brel - Jacques Brel 67 (1967)
 </li>
 <li data-cover="https://img.discogs.com/SP5RppUPQU21e890UgovbLzriw8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735579-1456699455-5992.jpeg.jpg" data-tags="jacques brel" role="button">
 Jacques Brel - J'Arrive (1968-09-30)
@@ -93,6 +93,12 @@ Joe Dassin - Et si tu n'existais pas (1995)
 <li data-cover="http://coverartarchive.org/release/13d6d50a-0fc8-44d6-b35b-4c4de9d8dcfe/1231306486-500.jpg" data-tags="chanson" role="button">
 Brigitte Fontaine - Genre Humain (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/802c11ab-cfd2-4eb0-a1f8-0c062b32f788/24872794517-500.jpg" data-tags="french" role="button">
+Françoise Hardy - Greatest Recordings (1995-03-06)
+</li>
+<li data-cover="https://img.discogs.com/oq3AG_rMZoEK3VZSNkOagXnWu5k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2309922-1276009330.jpeg.jpg" data-tags="chanson" role="button">
+Charles Aznavour - Hier Encore (1995-09)
+</li>
 <li data-cover="https://img.discogs.com/NNew5ZmFL1mXtjWGoBCskG96_AM=/fit-in/500x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3761977-1354167860-2973.jpeg.jpg" data-tags="aznavour" role="button">
 Charles Aznavour - 40 Chansons D'or (1996)
 </li>
@@ -125,9 +131,6 @@ Chantal Goya - Les années 60 (1998)
 </li>
 <li data-cover="https://img.discogs.com/dxL8JKziRgkMUtNE6LHLdsFPBXg=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8226524-1457502429-8967.jpeg.jpg" data-tags="bard" role="button">
 Олег Медведев - Таблетки от счастья (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/d87fe13a-6dae-42f7-b613-a297a7a3d49e/1230397309-500.jpg" data-tags="classic rock, french, chanson, rock, hard rock, singer-songwriter, blues, french rock, francais, incredible, rock francais, francaise, poésie, genial, french singer, politique, poesie, texte, thiefaine" role="button">
-Hubert-Félix Thiéfaine - Le bonheur de la tentation (1998-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/68ca7340-55e1-4a71-b3a1-e4b677944e2b/15149455960-500.jpg" data-tags="chanson, folk, l o d barback" role="button">
 Les Ogres de Barback - Irfan (Le héros) (1999)
@@ -189,9 +192,6 @@ Pete Francis - Untold (2003-06-17)
 <li data-cover="http://coverartarchive.org/release/93eae62d-ebed-444a-9b08-445bb4a843db/16354177755-500.jpg" data-tags="chanson, chanson française, jacques brel" role="button">
 Jacques Brel - Infiniment (2003-09-23)
 </li>
-<li data-cover="https://img.discogs.com/krZc4oV8ormEt0DY_XKT1-w2-ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1132866-1194713551.jpeg.jpg" data-tags="french" role="button">
-Keren Ann - Not Going Anywhere (2003-11-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/059b1891-02c9-4c79-acc0-e8008661bc94/27543867154-500.jpg" data-tags="comedy" role="button">
 Bodo Wartke - Achillesverse (2003-12-05)
 </li>
@@ -234,9 +234,6 @@ Annett Louisan - Unausgesprochen (2005-10-21)
 <li data-cover="http://coverartarchive.org/release/3c2b893f-e2da-459e-8028-44c1cfdba63b/1865303681-500.jpg" data-tags="chanson, gypsy jazz" role="button">
 Karpatt - Dans d'beaux draps (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9cf7755-d07f-4e88-8c8a-49eae5b5758c/6019931471-500.jpg" data-tags="chanson, original" role="button">
-Dominique A - L'horizon (2006-03-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/df8bf6ff-9d19-4a93-9ab4-71bbb6ef5530/3197414830-500.jpg" data-tags="chanson, pop, male vocalists, quebecois" role="button">
 Pierre Lapointe - La forêt des mal-aimés (2006-03-21)
 </li>
@@ -245,9 +242,6 @@ Debout sur le zinc - Les Promesses (2006-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e441bb4-dd36-4191-9eb0-6001fdcb098d/14024298903-500.jpg" data-tags="french, rock" role="button">
 Yann Tiersen - On Tour (2006-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/67876aa5-3b80-4076-a32c-744032e0514f/1242816637-500.jpg" data-tags="chanson" role="button">
-Jacques Higelin - Amor Doloroso (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
 Michael Cashmore - The Snow Abides (2007)
@@ -296,6 +290,12 @@ Camille - Ilo Veyou (2011-10-14)
 </li>
 <li data-cover="https://img.discogs.com/4ikvBTEsUjS6LpDjvcmnU6s74OQ=/fit-in/444x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3255078-1322563927.jpeg.jpg" data-tags="avantgarde pop, clinically romantic" role="button">
 Mansfield.TYA - NYX (2011-10-17)
+</li>
+<li data-cover="https://img.discogs.com/QUNB6I7qr9DOQSmx_8C8ONIMMYo=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12040407-1527086645-8285.jpeg.jpg" data-tags="french, chanson, pop, country, female vocalists, covers, female vocalist, good lyrics, mp3, fr" role="button">
+Isabelle Boulay - Les grands espaces (2011-11-08)
+</li>
+<li data-cover="https://img.discogs.com/Yt8go1alWLYKyn7upxJXD01Mzng=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3304783-1324910796.jpeg.jpg" data-tags="chanson, gypsy jazz, jazz-fusion" role="button">
+Karpatt - Sur le quai (2011-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd60e4e-d5db-48c2-8913-b0362af521ae/3045677086-500.jpg" data-tags="indie, chanson, pop, indie pop, brussel, nouvelle scène française" role="button">
 Françoiz Breut - La Chirurgie des Sentiments (2012-09-24)

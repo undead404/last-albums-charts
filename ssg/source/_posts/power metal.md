@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:07:01.458Z
+date: 2021-04-13T05:54:01.476Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -135,6 +135,9 @@ Avantasia - The Metal Opera (2001-01-22)
 <li data-cover="http://coverartarchive.org/release/64134afb-c1de-45f2-939e-a55b08478b97/7843364132-500.jpg" data-tags="power metal" role="button">
 Falconer - Falconer (2001-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6c4e06b-5891-49e3-be61-3220694fbd05/3777553182-500.jpg" data-tags="power metal" role="button">
+Lost Horizon - Awakening The World (2001-06-12)
+</li>
 <li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
 Iced Earth - Horror Show (2001-06-21)
 </li>
@@ -203,9 +206,6 @@ Sabaton - Primo Victoria (2005-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e712b27-7ab5-4737-83d4-8fa92d8a2ecd/6607036593-500.jpg" data-tags="power metal" role="button">
 Kiuas - The Spirit Of Ukko (2005-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
-Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/98ec9bed-7912-3faa-994d-39b045c2842d/4309139312-500.jpg" data-tags="power metal" role="button">
 Demons & Wizards - Touched by the Crimson King (2005-06-27)

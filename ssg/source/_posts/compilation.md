@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:20:01.469Z
+date: 2021-04-13T06:22:01.474Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
@@ -84,9 +84,6 @@ The Mamas & the Papas - The Ultimate Collection (1991)
 <li data-cover="https://img.discogs.com/oA0fRRGHqYwLEPTYGs3f7apMdXU=/fit-in/415x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-475493-1362068945-1555.jpeg.jpg" data-tags="heavy metal, metal, speed metal, compilation, power metal, pifou station, helloween" role="button">
 Helloween - The Best, the Rest, the Rare (1991-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a4297fd-96f0-4614-b428-1ed7872ad963/16216791116-500.jpg" data-tags="rock, 80s, alternative rock" role="button">
-R.E.M. - The Best Of R.E.M. (1991-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/94a88cc8-2ce3-4ca3-afd7-d2411844b122/18759016208-500.jpg" data-tags="classic rock, rock" role="button">
 Jimi Hendrix - The Ultimate Experience (1992)
 </li>
@@ -128,6 +125,9 @@ Kiss - Greatest Kiss (1996-11-11)
 </li>
 <li data-cover="https://img.discogs.com/qjEs9lOrq5euAKXxhp-M1cOIjD0=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1432016-1454377754-8190.jpeg.jpg" data-tags="compilation" role="button">
 Frank Sinatra - Sinatra Sings His Greatest Hits (1997-07-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="usa, 90s, compilation, motown soul, female vocal group" role="button">
+Diana Ross & The Supremes - The Ultimate Collection (1997-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">
 The Mamas & the Papas - Greatest Hits (1998-03-10)

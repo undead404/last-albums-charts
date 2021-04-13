@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:50:18.197Z
+date: 2021-04-13T06:07:01.464Z
 title: "pop-punk: 100 albums you must listen to before you die"
 ---
 ![Yellowcard - Lights and Sounds (2006-01-18)](http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg "Yellowcard - Lights and Sounds (2006-01-18)")
@@ -10,9 +10,9 @@ title: "pop-punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">+44 - When Your Heart Stops Beating (2006-10-03)</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">Simple Plan - Simple Plan (2008-02-06)</li>
 <li data-cover="https://img.discogs.com/ldUyyN34YPehBosSjAoI4z-Jl9s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8897279-1473778780-6542.jpeg.jpg" data-tags="rock, emo, pop punk, pop-punk" role="button">Sparks The Rescue - Eyes to the Sun (2008-10-07)</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">Pierce The Veil - Selfish Machines (2010-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">Fall Out Boy - Save Rock and Roll (2013-04-12)</li>
 </ol>
 List of 100 - under the cut.
@@ -26,6 +26,15 @@ Buzzcocks - A Different Kind of Tension (1979-09)
 </li>
 <li data-cover="https://img.discogs.com/X6fiSwFs8qQ2G7qgID3MOmzZsQ8=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627925-1243439477.jpeg.jpg" data-tags="punk" role="button">
 The Adicts - Smart Alex (1985)
+</li>
+<li data-cover="https://img.discogs.com/m8gMkP7Mn1jSXfEwT_KIW6ZwFqI=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230764-1432802058-7063.jpeg.jpg" data-tags="punk rock, hardcore punk" role="button">
+NOFX - S&M Airlines (1989-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/8aa79776-059d-4e87-9494-3e9d64166d76/26656233158-500.jpg" data-tags="rock, grunge, emo, indie rock, pop-punk, post-hardcore, melodic hardcore, fuzzy guitar goodness, fun to skateboard to" role="button">
+Seaweed - Despised (1991-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a4583196-f75d-4a9e-b49c-e95c673ad2cc/4889966733-500.jpg" data-tags="punk" role="button">
+MxPx - Pokinatcha (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/0693c832-6663-447a-908b-2273545a7a41/1863408288-500.jpg" data-tags="ska punk" role="button">
 Goldfinger - Goldfinger (1996-02-27)
@@ -44,6 +53,9 @@ Lagwagon - Let's Talk About Feelings (1998-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/de75f45c-44b0-4ab1-829f-12077a27bc3a/24951821000-500.jpg" data-tags="ska punk, female vocals, pop-punk" role="button">
 Dance Hall Crashers - Purr (1999)
+</li>
+<li data-cover="https://img.discogs.com/08LiIMNEiF0J4pKtcxNsE8UooaU=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147733-1195952356.jpeg.jpg" data-tags="punk, pop-punk, political punk" role="button">
+Fifteen - Lucky (1999-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
@@ -111,9 +123,6 @@ The Juliana Theory - Love (2003-02-04)
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
-Boys Night Out - Make Yourself Sick (2003-09-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, live" role="button">
 Avril Lavigne - My World (2003-11-03)
 </li>
@@ -122,9 +131,6 @@ Thermo - Arde En Mi (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c2df079-8585-4604-8d45-93201c4dfadd/14990538151-500.jpg" data-tags="deutzia" role="button">
 Bayside - Sirens and Condolences (2004-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/81021889-7c5c-4e19-af1b-c075e6ba7536/5609920003-500.jpg" data-tags="emo, punk rock, pop punk, pop-punk" role="button">
 1208 - Turn of the Screw (2004-02-10)
@@ -137,9 +143,6 @@ Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
 The Academy Is... - Almost Here (2005-02-08)
-</li>
-<li data-cover="https://img.discogs.com/GfZIlMIuuR8Ewrd735d6XFaDA4k=/fit-in/302x231/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7081170-1433260935-4070.jpeg.jpg" data-tags="post-hardcore" role="button">
-Emanuel - Soundtrack To A Headrush (2005-03-01)
 </li>
 <li data-cover="https://img.discogs.com/y6t0kAg-KObDDhZWUK3H0fKp_GQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402034-1463526135-9641.jpeg.jpg" data-tags="pop-punk, audioase, victory, i love this album" role="button">
 Spitalfield - Stop Doing Bad Things (2005-03-22)
@@ -165,6 +168,9 @@ Yellowcard - Lights and Sounds (2006-01-18)
 <li data-cover="https://img.discogs.com/R6AZzsVfSvPq6SAPVefqqk6YUWk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474219-1398882231-8755.jpeg.jpg" data-tags="punk rock" role="button">
 The Lawrence Arms - Oh! Calcutta! (2006-03-07)
 </li>
+<li data-cover="https://img.discogs.com/rFnIDiSzMeQLb3OurHC7liPUP9s=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11824690-1523022341-7903.jpeg.jpg" data-tags="christian rock" role="button">
+eleventyseven - and the land of fake believe (2006-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/4575d679-cb7c-48e9-9849-6227fafbec64/21326500958-500.jpg" data-tags="pop punk, ska punk" role="button">
 Less Than Jake - In with the Out Crowd (2006-05-22)
 </li>
@@ -186,11 +192,14 @@ Falling Up - Exit Lights (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/0f20f9dd-21fb-40b6-b8a7-6010912e2819/10099992974-500.jpg" data-tags="pop-punk" role="button">
 Ber-linn - Войналюбовь (2006-12-06)
 </li>
+<li data-cover="https://img.discogs.com/M_sj5mWUX70OdizqQhUIN05tr0g=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2570414-1290976552.jpeg.jpg" data-tags="punk, punk rock, pop punk, pop-punk" role="button">
+witches with dicks - Manual (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
-Brand New - (Fork And Knife) (2007-10-23)
+<li data-cover="https://img.discogs.com/zv8S_6ei-UFwt5zeyk_izX3xJAw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3100908-1315766506.jpeg.jpg" data-tags="pop punk, pop-punk" role="button">
+The Unlovables - Heartsickle (2007-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e887266-e410-4ef6-b148-93752aa542da/9622712000-500.jpg" data-tags="j-rock" role="button">
 ONE OK ROCK - ゼイタクビョウ (2007-11-21)
@@ -216,32 +225,17 @@ Capital Lights - This Is An Outrage! (2008-07-08)
 <li data-cover="https://img.discogs.com/ldUyyN34YPehBosSjAoI4z-Jl9s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8897279-1473778780-6542.jpeg.jpg" data-tags="rock, emo, pop punk, pop-punk" role="button">
 Sparks The Rescue - Eyes to the Sun (2008-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
-As Cities Burn - Hell Or High Water (2009-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/bef01324-dd9e-4608-9726-781d68fc26fb/8041117572-500.jpg" data-tags="pop rock, pop punk" role="button">
 There for Tomorrow - A Little Faster (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/TjzFodf9TUFiDKioTlgKQhLJt0Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5360382-1391854528-1806.jpeg.jpg" data-tags="powerpop, pop-punk, neon pop, my top album" role="button">
 The Friday Night Boys - Off The Deep End (2009-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9ff7952-0e93-402d-a0d3-cb761d69e0cd/8461677549-500.jpg" data-tags="post-hardcore" role="button">
-Broadway - Kingdoms (2009-07-07)
-</li>
-<li data-cover="https://img.discogs.com/BYBJ6iEdWB2JSVsX9r_FT61J2xY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3109771-1316236083.jpeg.jpg" data-tags="post-hardcore" role="button">
-Saosin - In Search Of Solid Ground (2009-09-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/35b55bea-9d10-4dd8-8636-7d9961bf3ddf/3705570104-500.jpg" data-tags="rock, pop, alternative rock" role="button">
 Avril Lavigne - Alice (2010-01-29)
-</li>
-<li data-cover="https://img.discogs.com/yeXEEzpdCUssWlMsUH6y_sijQDc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418718-1355949227-6640.jpeg.jpg" data-tags="indie, alternative, progressive rock, pop-punk, southern rock, post-hardcore, melodic hardcore, lyrics, glassjawcore, after it ends" role="button">
-Envy on the Coast - Lowcountry (2010-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
-Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad047492-7cba-4bbb-b506-1271d1a8b02c/11076702166-500.jpg" data-tags="punk, indie rock, punk rock, pop punk, pop-punk, orgcore" role="button">
 Iron Chic - Not Like This (2010-09-01)
@@ -315,10 +309,16 @@ A Day to Remember - Common Courtesy (2013-10-08)
 <li data-cover="http://coverartarchive.org/release/2e69e107-3e22-427a-bf57-2dd329f08f7f/6347832451-500.jpg" data-tags="pop punk" role="button">
 State Champs - The Finer Things (2013-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4f9f663a-8506-402e-8483-b73053624aa9/5559723465-500.jpg" data-tags="pop punk" role="button">
+The Swellers - The Light Under Closed Doors (2013-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3c71198-ebc5-44b3-b076-88fb8dd4bc0f/6960652013-500.jpg" data-tags="emo" role="button">
 Modern Baseball - You're Gonna Miss It All (2013-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b043e4d2-708d-487f-a393-633d3363ecf3/6021977480-500.jpg" data-tags="pop punk" role="button">
 Polar Bear Club - Death Chorus (2013-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d0317a4-b0f0-4442-b449-647fe600f3b5/7525121313-500.jpg" data-tags="indie rock" role="button">
+Say Anything - Hebrews (2014-06-10)
 </li>
 </ol>

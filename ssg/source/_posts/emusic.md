@@ -1,18 +1,18 @@
 ---
-date: 2021-04-12T20:15:12.780Z
+date: 2021-04-13T06:20:07.128Z
 title: "emusic: 100 albums you must listen to before you die"
 ---
 ![Architecture in Helsinki - In Case We Die (2005-04-04)](https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg "Architecture in Helsinki - In Case We Die (2005-04-04)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">Azure Ray - Azure Ray (2001-01-16)</li>
+<li data-cover="http://coverartarchive.org/release/f8def8f2-dd7d-4f49-9827-be374210cdcf/18814831258-500.jpg" data-tags="indie rock, indie" role="button">Ted Leo and the Pharmacists - Shake the Sheets (2004-10-19)</li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">of Montreal - The Sunlandic Twins (2005-02-23)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="https://img.discogs.com/3yv2vwEa0rzeXPHnhX1SXzqXiyI=/fit-in/500x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753274-1163088145.jpeg.jpg" data-tags="indie rock" role="button">Spoon - Gimme Fiction (2005-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
-<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">Destroyer - Destroyer's Rubies (2006-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">Andrew Bird - Armchair Apocrypha (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
+<li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="https://img.discogs.com/VE9CKGGUhU21t3LZuEmRzRMuaq0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697610-1297008713.jpeg.jpg" data-tags="rock, indie rock" role="button">Cold War Kids - Mine Is Yours (2011-01-25)</li>
 </ol>
 List of 100 - under the cut.
@@ -33,6 +33,9 @@ Joe Strummer and the Mescaleros - Rock Art and the X-Ray Style (1999-10-18)
 <li data-cover="https://img.discogs.com/ufQW2esbVsNviEZ95wgE_kZaGhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1361881-1531613780-6101.jpeg.jpg" data-tags="indie" role="button">
 Mates of State - My Solo Project (2000)
 </li>
+<li data-cover="https://img.discogs.com/MsiWJNpi0AFCi3HcwEoprQEGid8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1521897-1290105045.jpeg.jpg" data-tags="punk" role="button">
+Alkaline Trio - Maybe I'll Catch Fire (2000-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
 Ryan Adams - Heartbreaker (2000-09-05)
 </li>
@@ -48,11 +51,14 @@ The Decemberists - 5 Songs (2001)
 <li data-cover="http://coverartarchive.org/release/734135d9-e730-4c5c-83e6-6da2ffb3b0b7/19969820364-500.jpg" data-tags="emusic, bedroom floor" role="button">
 Kevin Devine - Circle Gets the Square (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
-Azure Ray - Azure Ray (2001-01-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
 Alkaline Trio - From Here to Infirmary (2001-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac46568e-7818-4351-8d8a-a59ce427e636/21974963842-500.jpg" data-tags="post-rock" role="button">
+The Album Leaf - One Day I'll Be on Time (2001-05-22)
+</li>
+<li data-cover="https://img.discogs.com/uB8Z6nbiP8eXAz3iNuVoKj2euLY=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-52459-1126780716.jpeg.jpg" data-tags="electronica, trip-hop, downtempo" role="button">
+Terranova - B-Sides & Remix Sessions (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5f00b14-ea4c-4c6e-8232-56b3dfdb37c9/26946642837-500.jpg" data-tags="rock, hard rock, psychedelia, psychedelic rock, blues rock, emusic, midwest, the black keys, all time favorite, dan auerbach, atomlist1, bums bums" role="button">
 The Black Keys - The Moan (2002)
@@ -108,6 +114,9 @@ The Hold Steady - Almost Killed Me (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
+<li data-cover="https://img.discogs.com/dn-Cnh-s3eRE1_G1DBHj04-8L1Q=/fit-in/588x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059533-1232148209.jpeg.jpg" data-tags="emusic, avantgarde pop, krojb" role="button">
+Björk - Debut Live (2004-05-10)
+</li>
 <li data-cover="https://img.discogs.com/0i7iwd2z5tKb6A2HA8ZI1ujIuUE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376802-1568315790-2064.jpeg.jpg" data-tags="indie pop, emusic, plotters albums, emusic-com" role="button">
 Maritime - Glass Floor (2004-05-31)
 </li>
@@ -146,9 +155,6 @@ Junip - Black Refuge EP (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/883f16f2-1392-335d-bfb1-4729af737721/13028977817-500.jpg" data-tags="indie" role="button">
 Someone Still Loves You Boris Yeltsin - Broom (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
-Ane Brun - A Temporary Dive (2005-02-07)
 </li>
 <li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - The Sunlandic Twins (2005-02-23)
@@ -198,12 +204,6 @@ Bell X1 - Flock (2005-10-14)
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
 Jan Jelinek - Kosmischer Pitch (2005-10-21)
 </li>
-<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
-Destroyer - Destroyer's Rubies (2006-02-21)
-</li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/def6ae89-8b21-4f00-8417-c2b48e40cf76/2546152084-500.jpg" data-tags="emusic" role="button">
 Camera Obscura - Lloyd, I'm Ready To Be Heartbroken (2006-05-08)
 </li>
@@ -228,6 +228,9 @@ Copeland - Eat, Sleep, Repeat (2006-08-31)
 <li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
 Ben Kweller - Ben Kweller (2006-09-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, funny, stand-up" role="button">
+Demetri Martin - These Are Jokes (2006-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/5b111c48-d743-49b3-83a1-0e81e6ce421d/11923336693-500.jpg" data-tags="electronic, fun, emusic, hurrah, electronic popular favourite, andrew weatherall rip" role="button">
 Andrew Weatherall - The Bullet Catcher's Apprentice (2006-10-23)
 </li>
@@ -248,9 +251,6 @@ The Sea and Cake - Everybody (2007-05-08)
 </li>
 <li data-cover="https://img.discogs.com/gjI8lQSxScGYoGTAn4j188IOKtA=/fit-in/281x251/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982965-1180560647.jpeg.jpg" data-tags="indie" role="button">
 Voxtrot - Voxtrot (2007-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
-Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T03:45:01.823Z
+date: 2021-04-13T06:26:01.501Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -186,6 +186,9 @@ Jimi Hendrix - Blues (1994-04-15)
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/1e177f91-209e-498f-bafb-ae28d317cb0a/16536567014-500.jpg" data-tags="classic rock, rock, 60s" role="button">
+Cream - The Very Best Of Cream (1995-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f66e9df-ee19-475b-8f0b-3e1f27c2c8af/7086920950-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 </li>
@@ -251,9 +254,6 @@ ZZ Top - Greatest Hits (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f769c69-d0c7-3a69-a85a-774adfb29271/5652970285-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Attack & Release (2008-03-31)
-</li>
-<li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
-Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
